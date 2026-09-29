@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1288",
  "title": "Obwieszczenie Ministra Zdrowia z dnia 19 września 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie warunków bezpiecznego stosowania promieniowania jonizującego dla wszystkich rodzajów ekspozycji medycznej",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1288/text.pdf",
  "body": [
   {
@@ -1184,24 +1184,16 @@
      "text": "WYMAGANIA DOTYCZĄCE OPISU I PRZEGLĄDU OBRAZÓW RADIOLOGICZNYCH REJESTROWANYCH W POSTACI CYFROWEJ"
     },
     {
-     "type": "text",
-     "text": "I. Wymagania ogólne"
+     "type": "heading",
+     "label": "I.",
+     "text": "Wymagania ogólne"
     },
     {
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Jeżeli w załączniku jest mowa o monitorze, należy przez to rozumieć również czynny",
-     "children": [
-      {
-       "type": "text",
-       "text": "obszar obrazowania medycznego definiowany na panelu o większej rozdzielczości niż"
-      },
-      {
-       "type": "text",
-       "text": "minimalna rozdzielczość obszaru wyświetlania."
-      }
-     ]
+     "text": "Jeżeli w załączniku jest mowa o monitorze, należy przez to rozumieć również czynny obszar obrazowania medycznego definiowany na panelu o większej rozdzielczości niż minimalna rozdzielczość obszaru wyświetlania.",
+     "children": []
     },
     {
      "type": "ust",
@@ -1213,23 +1205,15 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_2/pkt_1",
-       "text": "opisowych wyposażonych w monitory opisowe w rozumieniu przepisów wydanych",
+       "text": "opisowych wyposażonych w monitory opisowe w rozumieniu przepisów wydanych na podstawie art. 33l ust. 16 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "na podstawie art. 33l ust. 16 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe;"
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_2/pkt_2",
-       "text": "przeglądowych wyposażonych w monitory przeglądowe w rozumieniu przepisów",
+       "text": "przeglądowych wyposażonych w monitory przeglądowe w rozumieniu przepisów wydanych na podstawie art. 33l ust. 16 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe.",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "wydanych na podstawie art. 33l ust. 16 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe."
       }
      ]
     },
@@ -1237,81 +1221,34 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Radiologiczne obrazy cyfrowe otrzymywane zarówno w cyfrowej radiografii",
-     "children": [
-      {
-       "type": "text",
-       "text": "pośredniej (CR), jak i bezpośredniej (DDR) mogą być interpretowane jedynie za pomocą"
-      },
-      {
-       "type": "text",
-       "text": "przeznaczonych do tego celu stanowisk opisowych. Badania nie mogą być opisywane ze zdjęć"
-      },
-      {
-       "type": "text",
-       "text": "wykonanych wtórnie lub wydruków komputerowych."
-      }
-     ]
+     "text": "Radiologiczne obrazy cyfrowe otrzymywane zarówno w cyfrowej radiografii pośredniej (CR), jak i bezpośredniej (DDR) mogą być interpretowane jedynie za pomocą przeznaczonych do tego celu stanowisk opisowych. Badania nie mogą być opisywane ze zdjęć wykonanych wtórnie lub wydruków komputerowych.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Fabryczne świadectwo parowania nie jest wymagane, jeżeli dwa czynne obszary",
-     "children": [
-      {
-       "type": "text",
-       "text": "obrazowania są definiowane na tym samym panelu."
-      }
-     ]
+     "text": "Fabryczne świadectwo parowania nie jest wymagane, jeżeli dwa czynne obszary obrazowania są definiowane na tym samym panelu.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "5",
      "path": "ust_5",
-     "text": "Każde stanowisko opisowe i przeglądowe musi być wyposażone w komputerową stację",
-     "children": [
-      {
-       "type": "text",
-       "text": "roboczą z dedykowaną kartą graficzną obsługującą monitory, których liczba"
-      },
-      {
-       "type": "text",
-       "text": "i minimalne parametry są określone w części II. Wymagania szczegółowe. Wymagania nie"
-      },
-      {
-       "type": "text",
-       "text": "dotyczą dodatkowych monitorów służących do obsługi stacji roboczej, w które może być"
-      },
-      {
-       "type": "text",
-       "text": "wyposażone stanowisko opisowe."
-      }
-     ]
+     "text": "Każde stanowisko opisowe i przeglądowe musi być wyposażone w komputerową stację roboczą z dedykowaną kartą graficzną obsługującą monitory, których liczba i minimalne parametry są określone w części II. Wymagania szczegółowe. Wymagania nie dotyczą dodatkowych monitorów służących do obsługi stacji roboczej, w które może być wyposażone stanowisko opisowe.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "6",
      "path": "ust_6",
-     "text": "W systemie radiologii cyfrowej należy zapewnić bezstratną archiwizację,",
-     "children": [
-      {
-       "type": "text",
-       "text": "zabezpieczoną przed zmianą danych podstawowych, spełniającą wymagania określone"
-      },
-      {
-       "type": "text",
-       "text": "w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r."
-      },
-      {
-       "type": "text",
-       "text": "o prawach pacjenta i Rzeczniku Praw Pacjenta."
-      },
-      {
-       "type": "text",
-       "text": "II. Wymagania szczegółowe"
-      }
-     ]
+     "text": "W systemie radiologii cyfrowej należy zapewnić bezstratną archiwizację, zabezpieczoną przed zmianą danych podstawowych, spełniającą wymagania określone w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Wymagania szczegółowe"
     },
     {
      "type": "ust",
@@ -1327,20 +1264,8 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_1/pkt_1",
-       "text": "co najmniej dwa monitory opisowe wyświetlające w trybie monochromatycznym",
+       "text": "co najmniej dwa monitory opisowe wyświetlające w trybie monochromatycznym w układzie pionowym, stanowiące parę i posiadające świadectwo parowania wydane przez producenta, lub jeden monitor opisowy posiadający dwa czynne obszary wyświetlania w trybie monochromatycznym;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "w układzie pionowym, stanowiące parę i posiadające świadectwo parowania wydane przez"
-      },
-      {
-       "type": "text",
-       "text": "producenta, lub jeden monitor opisowy posiadający dwa czynne obszary wyświetlania"
-      },
-      {
-       "type": "text",
-       "text": "w trybie monochromatycznym;"
       },
       {
        "type": "pkt",
@@ -1353,12 +1278,8 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_1/pkt_3",
-       "text": "dopasowanie do funkcji krzywej szarości DICOM (Digital Imaging and Communications",
+       "text": "dopasowanie do funkcji krzywej szarości DICOM (Digital Imaging and Communications in Medicine) GSDF (Grayscale Standard Display Function);",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "in Medicine) GSDF (Grayscale Standard Display Function);"
       },
       {
        "type": "pkt",
@@ -1370,12 +1291,8 @@
          "type": "lit",
          "num": "a",
          "path": "ust_1/pkt_4/lit_a",
-         "text": "zmianę okna wyświetlania w pełnym zakresie w odniesieniu do wielkości obrazu",
+         "text": "zmianę okna wyświetlania w pełnym zakresie w odniesieniu do wielkości obrazu i położenia środka okna,",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "i położenia środka okna,"
         },
         {
          "type": "lit",
@@ -1409,13 +1326,8 @@
          "type": "lit",
          "num": "f",
          "path": "ust_1/pkt_4/lit_f",
-         "text": "pomiar co najmniej odległości i gęstości punktów w wybranym ROI (Region of",
-         "children": [
-          {
-           "type": "text",
-           "text": "Interest),"
-          }
-         ]
+         "text": "pomiar co najmniej odległości i gęstości punktów w wybranym ROI (Region of Interest),",
+         "children": []
         },
         {
          "type": "lit",
@@ -1497,20 +1409,8 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_2/pkt_1",
-       "text": "co najmniej dwa monitory opisowe wyświetlające w trybie monochromatycznym",
+       "text": "co najmniej dwa monitory opisowe wyświetlające w trybie monochromatycznym w układzie pionowym, stanowiące parę i posiadające świadectwo parowania wydane przez producenta, lub jeden monitor opisowy posiadający dwa czynne obszary wyświetlania w trybie monochromatycznym;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "w układzie pionowym, stanowiące parę i posiadające świadectwo parowania wydane przez"
-      },
-      {
-       "type": "text",
-       "text": "producenta, lub jeden monitor opisowy posiadający dwa czynne obszary wyświetlania"
-      },
-      {
-       "type": "text",
-       "text": "w trybie monochromatycznym;"
       },
       {
        "type": "pkt",
@@ -1536,12 +1436,8 @@
          "type": "lit",
          "num": "a",
          "path": "ust_2/pkt_4/lit_a",
-         "text": "zmianę okna wyświetlania w pełnym zakresie w odniesieniu do wielkości obrazu",
+         "text": "zmianę okna wyświetlania w pełnym zakresie w odniesieniu do wielkości obrazu i położenia środka obrazu,",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "i położenia środka obrazu,"
         },
         {
          "type": "lit",
@@ -1598,16 +1494,8 @@
        "type": "pkt",
        "num": "5",
        "path": "ust_2/pkt_5",
-       "text": "dla potrzeb badań przesiewowych zastosowane oprogramowanie musi umożliwiać",
+       "text": "dla potrzeb badań przesiewowych zastosowane oprogramowanie musi umożliwiać jednoczesną prezentację kompletu czterech obrazów mammograficznych jednej pacjentki wraz z zaleceniami;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "jednoczesną prezentację kompletu czterech obrazów mammograficznych jednej pacjentki"
-      },
-      {
-       "type": "text",
-       "text": "wraz z zaleceniami;"
       },
       {
        "type": "pkt",
@@ -1666,12 +1554,8 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_3/pkt_1",
-       "text": "co najmniej jeden monitor opisowy, jeżeli obrazy są zapisywane w kolorze – monitor",
+       "text": "co najmniej jeden monitor opisowy, jeżeli obrazy są zapisywane w kolorze – monitor powinien wyświetlać obrazy w kolorze;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "powinien wyświetlać obrazy w kolorze;"
       },
       {
        "type": "pkt",
@@ -1772,39 +1656,7 @@
     },
     {
      "type": "text",
-     "text": "Maksymalna wartość ogranicznika dawki"
-    },
-    {
-     "type": "text",
-     "text": "dla osób uczestniczących w eksperymentach"
-    },
-    {
-     "type": "text",
-     "text": "medycznych, badaniach klinicznych"
-    },
-    {
-     "type": "text",
-     "text": "produktów leczniczych lub badaniach"
-    },
-    {
-     "type": "text",
-     "text": "klinicznych lub badaniach działania wyrobów, 10 mSv"
-    },
-    {
-     "type": "text",
-     "text": "o których mowa w art. 4 ust. 1 pkt 12 lit. b"
-    },
-    {
-     "type": "text",
-     "text": "ustawy z dnia 29 listopada 2000 r. – Prawo"
-    },
-    {
-     "type": "text",
-     "text": "atomowe, związanych z ekspozycją"
-    },
-    {
-     "type": "text",
-     "text": "medyczną"
+     "text": "Maksymalna wartość ogranicznika dawki dla osób uczestniczących w eksperymentach medycznych, badaniach klinicznych produktów leczniczych lub badaniach klinicznych lub badaniach działania wyrobów, 10 mSv o których mowa w art. 4 ust. 1 pkt 12 lit. b ustawy z dnia 29 listopada 2000 r. – Prawo atomowe, związanych z ekspozycją medyczną"
     },
     {
      "type": "text",
@@ -1825,15 +1677,7 @@
     },
     {
      "type": "text",
-     "text": "Poziom ryzyka radiacyjnego"
-    },
-    {
-     "type": "text",
-     "text": "w ciągu całego życia Dawka skuteczna (mSv) Rodzaj oczekiwanej korzyści"
-    },
-    {
-     "type": "text",
-     "text": "(prawdopodobieństwo)"
+     "text": "Poziom ryzyka radiacyjnego w ciągu całego życia Dawka skuteczna (mSv) Rodzaj oczekiwanej korzyści (prawdopodobieństwo)"
     },
     {
      "type": "text",
@@ -1841,47 +1685,15 @@
     },
     {
      "type": "text",
-     "text": "bardzo mały (~10 –5 ) 0,1–1 rozwój wiedzy prowadzący"
+     "text": "bardzo mały (~10 –5 ) 0,1–1 rozwój wiedzy prowadzący do potencjalnych korzyści zdrowotnych"
     },
     {
      "type": "text",
-     "text": "do potencjalnych korzyści"
+     "text": "pośredni (~10 –4 ) 1–10 bezpośredni cel w postaci polepszenia leczenia lub zapobiegania chorobie"
     },
     {
      "type": "text",
-     "text": "zdrowotnych"
-    },
-    {
-     "type": "text",
-     "text": "pośredni (~10 –4 ) 1–10 bezpośredni cel w postaci"
-    },
-    {
-     "type": "text",
-     "text": "polepszenia leczenia"
-    },
-    {
-     "type": "text",
-     "text": "lub zapobiegania chorobie"
-    },
-    {
-     "type": "text",
-     "text": "umiarkowany (>10 –3 ) >10 znaczny, bezpośrednio"
-    },
-    {
-     "type": "text",
-     "text": "związany z ratowaniem"
-    },
-    {
-     "type": "text",
-     "text": "życia, zapobieganiem"
-    },
-    {
-     "type": "text",
-     "text": "i ograniczaniem skutków"
-    },
-    {
-     "type": "text",
-     "text": "ciężkiej choroby"
+     "text": "umiarkowany (>10 –3 ) >10 znaczny, bezpośrednio związany z ratowaniem życia, zapobieganiem i ograniczaniem skutków ciężkiej choroby"
     }
    ]
   }

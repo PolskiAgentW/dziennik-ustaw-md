@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1144",
  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 7 sierpnia 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie nieodpłatnej pomocy prawnej oraz nieodpłatnego poradnictwa obywatelskiego",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1144/text.pdf",
  "body": [
   {
@@ -945,16 +945,8 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Czy nieodpłatna pomoc prawna lub nieodpłatne poradnictwo obywatelskie zostało udzielone osobie fizycznej prowadzącej jednoosobową działalność",
+     "text": "Czy nieodpłatna pomoc prawna lub nieodpłatne poradnictwo obywatelskie zostało udzielone osobie fizycznej prowadzącej jednoosobową działalność gospodarczą niezatrudniającą innych osób w ciągu ostatniego roku, w zakresie prowadzonej działalności gospodarczej:",
      "children": [
-      {
-       "type": "text",
-       "text": "gospodarczą niezatrudniającą innych osób w ciągu ostatniego roku, w zakresie"
-      },
-      {
-       "type": "text",
-       "text": "prowadzonej działalności gospodarczej:"
-      },
       {
        "type": "text",
        "text": " tak  nie"
@@ -965,19 +957,11 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Dziedzina prawa, z której udzielono nieodpłatnej pomocy prawnej lub",
+     "text": "Dziedzina prawa, z której udzielono nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego¹:",
      "children": [
       {
        "type": "text",
-       "text": "nieodpłatnego poradnictwa obywatelskiego¹:"
-      },
-      {
-       "type": "text",
-       "text": " prawo rodzinne  prawo administracyjne z wyjątkiem"
-      },
-      {
-       "type": "text",
-       "text": " prawo pracy prawa podatkowego"
+       "text": " prawo rodzinne  prawo administracyjne z wyjątkiem  prawo pracy prawa podatkowego"
       },
       {
        "type": "text",
@@ -1005,12 +989,8 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Kategoria sprawy² z zakresu nieodpłatnej pomocy prawnej lub nieodpłatnego",
+     "text": "Kategoria sprawy² z zakresu nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego zgodnie z trzycyfrowym numerem z wykazu,",
      "children": [
-      {
-       "type": "text",
-       "text": "poradnictwa obywatelskiego zgodnie z trzycyfrowym numerem z wykazu,"
-      },
       {
        "type": "text",
        "text": "o którym mowa w § 8 ust. 2 rozporządzenia: .............................."
@@ -1021,75 +1001,23 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Forma udzielonej nieodpłatnej pomocy prawnej lub świadczonego",
+     "text": "Forma udzielonej nieodpłatnej pomocy prawnej lub świadczonego nieodpłatnego poradnictwa obywatelskiego³:",
      "children": [
-      {
-       "type": "text",
-       "text": "nieodpłatnego poradnictwa obywatelskiego³:"
-      },
       {
        "type": "text",
        "text": "4.1 W przypadku udzielenia nieodpłatnej pomocy prawnej:"
       },
       {
        "type": "text",
-       "text": " poinformowanie osoby uprawnionej o obowiązującym stanie prawnym oraz"
+       "text": " poinformowanie osoby uprawnionej o obowiązującym stanie prawnym oraz o przysługujących jej uprawnieniach lub spoczywających na niej obowiązkach, w tym w związku z toczącym się postępowaniem przygotowawczym, administracyjnym, sądowym lub sądowoadministracyjnym"
       },
       {
        "type": "text",
-       "text": "o przysługujących jej uprawnieniach lub spoczywających na niej obowiązkach,"
+       "text": " wskazanie osobie uprawnionej sposobu rozwiązania jej problemu prawnego  sporządzenie projektu pisma w sprawach, o których mowa w art. 3 ust. 1 pkt 1 i 2 ustawy, z wyłączeniem pism procesowych w toczącym się postępowaniu przygotowawczym lub sądowym i pism w toczącym się postępowaniu sądowoadministracyjnym"
       },
       {
        "type": "text",
-       "text": "w tym w związku z toczącym się postępowaniem przygotowawczym,"
-      },
-      {
-       "type": "text",
-       "text": "administracyjnym, sądowym lub sądowoadministracyjnym"
-      },
-      {
-       "type": "text",
-       "text": " wskazanie osobie uprawnionej sposobu rozwiązania jej problemu prawnego"
-      },
-      {
-       "type": "text",
-       "text": " sporządzenie projektu pisma w sprawach, o których mowa w art. 3 ust. 1 pkt 1"
-      },
-      {
-       "type": "text",
-       "text": "i 2 ustawy, z wyłączeniem pism procesowych w toczącym się postępowaniu"
-      },
-      {
-       "type": "text",
-       "text": "przygotowawczym lub sądowym i pism w toczącym się postępowaniu"
-      },
-      {
-       "type": "text",
-       "text": "sądowoadministracyjnym"
-      },
-      {
-       "type": "text",
-       "text": " sporządzenie projektu pisma o zwolnienie od kosztów sądowych lub"
-      },
-      {
-       "type": "text",
-       "text": "ustanowienie pełnomocnika z urzędu w postępowaniu sądowym lub"
-      },
-      {
-       "type": "text",
-       "text": "ustanowienie adwokata, radcy prawnego, doradcy podatkowego lub rzecznika"
-      },
-      {
-       "type": "text",
-       "text": "patentowego w postępowaniu sądowoadministracyjnym oraz poinformowanie"
-      },
-      {
-       "type": "text",
-       "text": "o kosztach postępowania i ryzyku finansowym związanym ze skierowaniem"
-      },
-      {
-       "type": "text",
-       "text": "sprawy na drogę sądową"
+       "text": " sporządzenie projektu pisma o zwolnienie od kosztów sądowych lub ustanowienie pełnomocnika z urzędu w postępowaniu sądowym lub ustanowienie adwokata, radcy prawnego, doradcy podatkowego lub rzecznika patentowego w postępowaniu sądowoadministracyjnym oraz poinformowanie o kosztach postępowania i ryzyku finansowym związanym ze skierowaniem sprawy na drogę sądową"
       },
       {
        "type": "text",
@@ -1101,43 +1029,19 @@
       },
       {
        "type": "text",
-       "text": " porada obywatelska ze sporządzeniem wspólnie z osobą uprawnioną planu"
+       "text": " porada obywatelska ze sporządzeniem wspólnie z osobą uprawnioną planu działania i pomoc w jego realizacji"
       },
       {
        "type": "text",
-       "text": "działania i pomoc w jego realizacji"
+       "text": "4.3 W przypadku udzielenia nieodpłatnej pomocy prawnej lub świadczenia nieodpłatnego poradnictwa obywatelskiego:"
       },
       {
        "type": "text",
-       "text": "4.3 W przypadku udzielenia nieodpłatnej pomocy prawnej lub świadczenia"
+       "text": " poinformowanie osoby uprawnionej o możliwościach skorzystania z polubownych metod rozwiązywania sporów, w szczególności mediacji oraz korzyściach z tego wynikających"
       },
       {
        "type": "text",
-       "text": "nieodpłatnego poradnictwa obywatelskiego:"
-      },
-      {
-       "type": "text",
-       "text": " poinformowanie osoby uprawnionej o możliwościach skorzystania z polubownych"
-      },
-      {
-       "type": "text",
-       "text": "metod rozwiązywania sporów, w szczególności mediacji oraz korzyściach z tego"
-      },
-      {
-       "type": "text",
-       "text": "wynikających"
-      },
-      {
-       "type": "text",
-       "text": " przygotowanie umowy o mediację lub wniosku o przeprowadzenie mediacji"
-      },
-      {
-       "type": "text",
-       "text": " przygotowanie projektu wniosku o przeprowadzenie postępowania mediacyjnego"
-      },
-      {
-       "type": "text",
-       "text": "w sprawie karnej"
+       "text": " przygotowanie umowy o mediację lub wniosku o przeprowadzenie mediacji  przygotowanie projektu wniosku o przeprowadzenie postępowania mediacyjnego w sprawie karnej"
       },
       {
        "type": "text",
@@ -1145,27 +1049,11 @@
       },
       {
        "type": "text",
-       "text": " udzielenie pomocy w sporządzeniu do sądu wniosku o zatwierdzenie ugody"
+       "text": " udzielenie pomocy w sporządzeniu do sądu wniosku o zatwierdzenie ugody zawartej przed mediatorem 4.4 W przypadku udzielenia nieodpłatnej pomocy prawnej lub świadczenia nieodpłatnego poradnictwa obywatelskiego:"
       },
       {
        "type": "text",
-       "text": "zawartej przed mediatorem 4.4 W przypadku udzielenia nieodpłatnej pomocy prawnej lub świadczenia"
-      },
-      {
-       "type": "text",
-       "text": "nieodpłatnego poradnictwa obywatelskiego:"
-      },
-      {
-       "type": "text",
-       "text": " przekazanie osobie uprawnionej informacji o innych jednostkach nieodpłatnego"
-      },
-      {
-       "type": "text",
-       "text": "poradnictwa, o których mowa w art. 5 ust. 4 ustawy – tematyka poradnictwa,"
-      },
-      {
-       "type": "text",
-       "text": "o której poinformowano:"
+       "text": " przekazanie osobie uprawnionej informacji o innych jednostkach nieodpłatnego poradnictwa, o których mowa w art. 5 ust. 4 ustawy – tematyka poradnictwa, o której poinformowano:"
       },
       {
        "type": "text",
@@ -1193,11 +1081,7 @@
       },
       {
        "type": "text",
-       "text": "uzależnień  dla osób w sporze z podmiotami"
-      },
-      {
-       "type": "text",
-       "text": " przeciwdziałania przemocy rynku finansowego"
+       "text": "uzależnień  dla osób w sporze z podmiotami  przeciwdziałania przemocy rynku finansowego"
       },
       {
        "type": "text",
@@ -1221,47 +1105,11 @@
      "type": "ust",
      "num": "5",
      "path": "ust_5",
-     "text": "Czas⁴ poświęcony na udzielenie nieodpłatnej pomocy prawnej lub świadczenie",
+     "text": "Czas⁴ poświęcony na udzielenie nieodpłatnej pomocy prawnej lub świadczenie nieodpłatnego poradnictwa obywatelskiego w sprawie zgłoszonej podczas danej wizyty, z uwzględnieniem łącznego nakładu czasu na wizytę i bezpośrednią obsługę osoby uprawnionej oraz na inne czynności, w tym analizę i sporządzenie projektu pisma:",
      "children": [
       {
        "type": "text",
-       "text": "nieodpłatnego poradnictwa obywatelskiego w sprawie zgłoszonej podczas"
-      },
-      {
-       "type": "text",
-       "text": "danej wizyty, z uwzględnieniem łącznego nakładu czasu na wizytę"
-      },
-      {
-       "type": "text",
-       "text": "i bezpośrednią obsługę osoby uprawnionej oraz na inne czynności, w tym analizę"
-      },
-      {
-       "type": "text",
-       "text": "i sporządzenie projektu pisma:"
-      },
-      {
-       "type": "text",
-       "text": " do 15 min.  powyżej 2 godz. do 3 godz."
-      },
-      {
-       "type": "text",
-       "text": " powyżej 15 min. do 30 min.  powyżej 3 godz. do 4 godz."
-      },
-      {
-       "type": "text",
-       "text": " powyżej 30 min. do 45 min.  powyżej 4 godz. do 5 godz."
-      },
-      {
-       "type": "text",
-       "text": " powyżej 45 min. do 60 min.  powyżej 5 godz. do 6 godz."
-      },
-      {
-       "type": "text",
-       "text": " powyżej 1 godz. do 1 godz. 30 min.  powyżej 6 godz. do 7 godz."
-      },
-      {
-       "type": "text",
-       "text": " powyżej 1 godz. 30 min. do 2 godz.  powyżej 7 godz."
+       "text": " do 15 min.  powyżej 2 godz. do 3 godz.  powyżej 15 min. do 30 min.  powyżej 3 godz. do 4 godz.  powyżej 30 min. do 45 min.  powyżej 4 godz. do 5 godz.  powyżej 45 min. do 60 min.  powyżej 5 godz. do 6 godz.  powyżej 1 godz. do 1 godz. 30 min.  powyżej 6 godz. do 7 godz.  powyżej 1 godz. 30 min. do 2 godz.  powyżej 7 godz."
       }
      ]
     },
@@ -1269,23 +1117,11 @@
      "type": "ust",
      "num": "6",
      "path": "ust_6",
-     "text": "W przypadku przeprowadzenia mediacji, o której mowa w art. 4a ust. 1 pkt 4",
+     "text": "W przypadku przeprowadzenia mediacji, o której mowa w art. 4a ust. 1 pkt 4 ustawy⁵:",
      "children": [
       {
        "type": "text",
-       "text": "ustawy⁵:"
-      },
-      {
-       "type": "text",
-       "text": "6.1 Łączny czas trwania wszystkich spotkań mediacyjnych, o których mowa w art. 4a"
-      },
-      {
-       "type": "text",
-       "text": "ust. 1 pkt 4, i czynności, o których mowa w art. 4a ust. 1 pkt 5 (bez udzielenia"
-      },
-      {
-       "type": "text",
-       "text": "pomocy, o której mowa w art. 4a ust. 1 pkt 1–3 ustawy):"
+       "text": "6.1 Łączny czas trwania wszystkich spotkań mediacyjnych, o których mowa w art. 4a ust. 1 pkt 4, i czynności, o których mowa w art. 4a ust. 1 pkt 5 (bez udzielenia pomocy, o której mowa w art. 4a ust. 1 pkt 1–3 ustawy):"
       },
       {
        "type": "text",
@@ -1305,15 +1141,7 @@
       },
       {
        "type": "text",
-       "text": " powyżej 3 godz. do 4 godz.  powyżej 10 godz. do 11 godz."
-      },
-      {
-       "type": "text",
-       "text": " powyżej 4 godz. do 5 godz.  powyżej 11 godz. do 12 godz."
-      },
-      {
-       "type": "text",
-       "text": " powyżej 5 godz. do 6 godz.  powyżej 12 godz."
+       "text": " powyżej 3 godz. do 4 godz.  powyżej 10 godz. do 11 godz.  powyżej 4 godz. do 5 godz.  powyżej 11 godz. do 12 godz.  powyżej 5 godz. do 6 godz.  powyżej 12 godz."
       },
       {
        "type": "text",
@@ -1345,29 +1173,8 @@
      "type": "ust",
      "num": "7",
      "path": "ust_7",
-     "text": "ANONIMOWY OPIS⁶ SPRAWY ZGŁOSZONEJ DO NIEODPŁATNEJ",
-     "children": [
-      {
-       "type": "text",
-       "text": "POMOCY PRAWNEJ LUB PORADNICTWA OBYWATELSKIEGO"
-      },
-      {
-       "type": "text",
-       "text": "(opcjonalnie można załączyć – pod warunkiem uprzedniej anonimizacji – opis"
-      },
-      {
-       "type": "text",
-       "text": "sprawy sporządzony na osobnej kartce lub dokumentację otrzymaną od osoby"
-      },
-      {
-       "type": "text",
-       "text": "uprawnionej podczas udzielania nieodpłatnej pomocy prawnej lub świadczenia"
-      },
-      {
-       "type": "text",
-       "text": "nieodpłatnego poradnictwa obywatelskiego):"
-      }
-     ]
+     "text": "ANONIMOWY OPIS⁶ SPRAWY ZGŁOSZONEJ DO NIEODPŁATNEJ POMOCY PRAWNEJ LUB PORADNICTWA OBYWATELSKIEGO (opcjonalnie można załączyć – pod warunkiem uprzedniej anonimizacji – opis sprawy sporządzony na osobnej kartce lub dokumentację otrzymaną od osoby uprawnionej podczas udzielania nieodpłatnej pomocy prawnej lub świadczenia nieodpłatnego poradnictwa obywatelskiego):",
+     "children": []
     },
     {
      "type": "ust",
@@ -1441,12 +1248,8 @@
      "type": "ust",
      "num": "11",
      "path": "ust_11",
-     "text": "Wiek⁹ osoby korzystającej z nieodpłatnej pomocy prawnej lub nieodpłatnego",
+     "text": "Wiek⁹ osoby korzystającej z nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego:",
      "children": [
-      {
-       "type": "text",
-       "text": "poradnictwa obywatelskiego:"
-      },
       {
        "type": "text",
        "text": " do 18 roku życia  powyżej 55 do 60 lat"
@@ -1473,12 +1276,8 @@
      "type": "ust",
      "num": "12",
      "path": "ust_12",
-     "text": "Płeć¹⁰ osoby korzystającej z nieodpłatnej pomocy prawnej lub nieodpłatnego",
+     "text": "Płeć¹⁰ osoby korzystającej z nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego:",
      "children": [
-      {
-       "type": "text",
-       "text": "poradnictwa obywatelskiego:"
-      },
       {
        "type": "text",
        "text": " kobieta  mężczyzna"
@@ -1489,12 +1288,8 @@
      "type": "ust",
      "num": "13",
      "path": "ust_13",
-     "text": "Wykształcenie¹¹ osoby korzystającej z nieodpłatnej pomocy prawnej lub",
+     "text": "Wykształcenie¹¹ osoby korzystającej z nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego:",
      "children": [
-      {
-       "type": "text",
-       "text": "nieodpłatnego poradnictwa obywatelskiego:"
-      },
       {
        "type": "text",
        "text": " wyższe II stopnia  zasadnicze zawodowe"
@@ -1525,16 +1320,8 @@
      "type": "ust",
      "num": "14",
      "path": "ust_14",
-     "text": "Średni miesięczny dochód netto¹² na osobę w gospodarstwie domowym osoby",
+     "text": "Średni miesięczny dochód netto¹² na osobę w gospodarstwie domowym osoby korzystającej z nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego:",
      "children": [
-      {
-       "type": "text",
-       "text": "korzystającej z nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa"
-      },
-      {
-       "type": "text",
-       "text": "obywatelskiego:"
-      },
       {
        "type": "text",
        "text": " bez dochodu  powyżej 1000 zł do 1500 zł"
@@ -1565,11 +1352,7 @@
       },
       {
        "type": "text",
-       "text": " na utrzymaniu rodziny zasiłek dla bezrobotnych/stypendium"
-      },
-      {
-       "type": "text",
-       "text": " emerytura finansowane z Funduszu Pracy"
+       "text": " na utrzymaniu rodziny zasiłek dla bezrobotnych/stypendium  emerytura finansowane z Funduszu Pracy"
       },
       {
        "type": "text",
@@ -1589,12 +1372,8 @@
      "type": "ust",
      "num": "16",
      "path": "ust_16",
-     "text": "Liczba członków gospodarstwa domowego¹⁴ osoby korzystającej z nieodpłatnej",
+     "text": "Liczba członków gospodarstwa domowego¹⁴ osoby korzystającej z nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego:",
      "children": [
-      {
-       "type": "text",
-       "text": "pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego:"
-      },
       {
        "type": "text",
        "text": " 1  4  7 lub więcej"
@@ -1613,12 +1392,8 @@
      "type": "ust",
      "num": "17",
      "path": "ust_17",
-     "text": "Miejsce zamieszkania¹⁵ osoby korzystającej z nieodpłatnej pomocy prawnej lub",
+     "text": "Miejsce zamieszkania¹⁵ osoby korzystającej z nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego:",
      "children": [
-      {
-       "type": "text",
-       "text": "nieodpłatnego poradnictwa obywatelskiego:"
-      },
       {
        "type": "text",
        "text": " wieś"
@@ -1645,23 +1420,11 @@
      "type": "ust",
      "num": "18",
      "path": "ust_18",
-     "text": "Osoba korzystająca z nieodpłatnej pomocy prawnej lub nieodpłatnego",
+     "text": "Osoba korzystająca z nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego¹⁶:",
      "children": [
       {
        "type": "text",
-       "text": "poradnictwa obywatelskiego¹⁶:"
-      },
-      {
-       "type": "text",
-       "text": " wyraziła zgodę na anonimowe przekazanie swojej opinii odnośnie do udzielonej"
-      },
-      {
-       "type": "text",
-       "text": "pomocy prawnej i poradnictwa obywatelskiego poprzez wypełnienie i przekazanie"
-      },
-      {
-       "type": "text",
-       "text": "części B karty pomocy"
+       "text": " wyraziła zgodę na anonimowe przekazanie swojej opinii odnośnie do udzielonej pomocy prawnej i poradnictwa obywatelskiego poprzez wypełnienie i przekazanie części B karty pomocy"
       },
       {
        "type": "text",
@@ -2137,11 +1900,7 @@
     },
     {
      "type": "text",
-     "text": "ZBIORCZA INFORMACJA"
-    },
-    {
-     "type": "text",
-     "text": "o wykonaniu zadania polegającego na udzielaniu nieodpłatnej pomocy prawnej"
+     "text": "ZBIORCZA INFORMACJA o wykonaniu zadania polegającego na udzielaniu nieodpłatnej pomocy prawnej"
     },
     {
      "type": "text",
@@ -2169,23 +1928,16 @@
     },
     {
      "type": "text",
-     "text": "adwokatów"
+     "text": "adwokatów lub radców organizacje pozarządowe Lp. Rodzaj danych prawnych"
     },
     {
      "type": "text",
-     "text": "lub radców organizacje pozarządowe Lp. Rodzaj danych prawnych"
+     "text": "pomoc pomoc poradnictwo prawna prawna obywatelskie"
     },
     {
-     "type": "text",
-     "text": "pomoc pomoc poradnictwo"
-    },
-    {
-     "type": "text",
-     "text": "prawna prawna obywatelskie"
-    },
-    {
-     "type": "text",
-     "text": "I. ZADANIA Z ZAKRESU NIEODPŁATNEJ POMOCY PRAWNEJ LUB NIEODPŁATNEGO PORADNICTWA OBYWATELSKIEGO"
+     "type": "heading",
+     "label": "I.",
+     "text": "ZADANIA Z ZAKRESU NIEODPŁATNEJ POMOCY PRAWNEJ LUB NIEODPŁATNEGO PORADNICTWA OBYWATELSKIEGO"
     },
     {
      "type": "ust",
@@ -2203,16 +1955,8 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Czy nieodpłatna pomoc prawna lub nieodpłatne poradnictwo obywatelskie zostało udzielone osobie",
+     "text": "Czy nieodpłatna pomoc prawna lub nieodpłatne poradnictwo obywatelskie zostało udzielone osobie fizycznej prowadzącej jednoosobową działalność gospodarczą niezatrudniającą innych osób w ciągu ostatniego roku, w zakresie prowadzonej działalności gospodarczej",
      "children": [
-      {
-       "type": "text",
-       "text": "fizycznej prowadzącej jednoosobową działalność gospodarczą niezatrudniającą innych osób w ciągu"
-      },
-      {
-       "type": "text",
-       "text": "ostatniego roku, w zakresie prowadzonej działalności gospodarczej"
-      },
       {
        "type": "text",
        "text": "2.1. tak"
@@ -2275,16 +2019,8 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Kategoria sprawy z zakresu nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego",
+     "text": "Kategoria sprawy z zakresu nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego (wyszczególnić liczbę spraw zgłaszanych w poszczególnych kategoriach spraw, o których mowa w § 8 ust. 2 rozporządzenia)",
      "children": [
-      {
-       "type": "text",
-       "text": "(wyszczególnić liczbę spraw zgłaszanych w poszczególnych kategoriach spraw, o których mowa w § 8 ust. 2"
-      },
-      {
-       "type": "text",
-       "text": "rozporządzenia)"
-      },
       {
        "type": "text",
        "text": "4.1. LOKAL MIESZKALNY"
@@ -2307,35 +2043,15 @@
       },
       {
        "type": "text",
-       "text": "4.1.2. Uzyskanie prawa do lokalu mieszkalnego po krewnym lub znajomym (dotyczy lokalu mieszkalnego"
+       "text": "4.1.2. Uzyskanie prawa do lokalu mieszkalnego po krewnym lub znajomym (dotyczy lokalu mieszkalnego komunalnego, lokatorskiego, zakładowego, resortowego i innego z wyłączeniem lokalu mieszkalnego własnościowego i spółdzielczego własnościowego, które należy ująć w kategoriach dotyczących WŁASNOŚCI lub DZIEDZICZENIA)"
       },
       {
        "type": "text",
-       "text": "komunalnego, lokatorskiego, zakładowego, resortowego i innego z wyłączeniem lokalu mieszkalnego"
+       "text": "4.1.2.1. uzyskanie prawa do lokalu mieszkalnego po śmierci najemcy lub członka spółdzielni"
       },
       {
        "type": "text",
-       "text": "własnościowego i spółdzielczego własnościowego, które należy ująć w kategoriach dotyczących"
-      },
-      {
-       "type": "text",
-       "text": "WŁASNOŚCI lub DZIEDZICZENIA)"
-      },
-      {
-       "type": "text",
-       "text": "4.1.2.1. uzyskanie prawa do lokalu mieszkalnego po śmierci najemcy lub"
-      },
-      {
-       "type": "text",
-       "text": "członka spółdzielni"
-      },
-      {
-       "type": "text",
-       "text": "4.1.2.2. uzyskanie prawa do lokalu mieszkalnego po opuszczeniu przez"
-      },
-      {
-       "type": "text",
-       "text": "najemcę lub członka spółdzielni"
+       "text": "4.1.2.2. uzyskanie prawa do lokalu mieszkalnego po opuszczeniu przez najemcę lub członka spółdzielni"
       },
       {
        "type": "text",
@@ -2347,15 +2063,7 @@
       },
       {
        "type": "text",
-       "text": "4.1.3.1. pozbawienie tytułu prawnego do lokalu mieszkalnego (w tym"
-      },
-      {
-       "type": "text",
-       "text": "wypowiedzenie umowy najmu, wykluczenie z członkostwa"
-      },
-      {
-       "type": "text",
-       "text": "spółdzielni, licytacja)"
+       "text": "4.1.3.1. pozbawienie tytułu prawnego do lokalu mieszkalnego (w tym wypowiedzenie umowy najmu, wykluczenie z członkostwa spółdzielni, licytacja)"
       },
       {
        "type": "text",
@@ -2363,11 +2071,7 @@
       },
       {
        "type": "text",
-       "text": "4.1.3.3. lokal po eksmisji (w tym pomieszczenie tymczasowe, lokal"
-      },
-      {
-       "type": "text",
-       "text": "socjalny)"
+       "text": "4.1.3.3. lokal po eksmisji (w tym pomieszczenie tymczasowe, lokal socjalny)"
       },
       {
        "type": "text",
@@ -2435,11 +2139,7 @@
       },
       {
        "type": "text",
-       "text": "4.1.6. Dysponowanie lokalem mieszkalnym (z wyłączeniem dysponowania lokalem mieszkalnym własnościowym"
-      },
-      {
-       "type": "text",
-       "text": "i spółdzielczym własnościowym)"
+       "text": "4.1.6. Dysponowanie lokalem mieszkalnym (z wyłączeniem dysponowania lokalem mieszkalnym własnościowym i spółdzielczym własnościowym)"
       },
       {
        "type": "text",
@@ -2447,11 +2147,7 @@
       },
       {
        "type": "text",
-       "text": "4.1.6.2. wynajem całości lub części lokalu mieszkalnego niebędącego"
-      },
-      {
-       "type": "text",
-       "text": "własnością"
+       "text": "4.1.6.2. wynajem całości lub części lokalu mieszkalnego niebędącego własnością"
       },
       {
        "type": "text",
@@ -2471,19 +2167,11 @@
       },
       {
        "type": "text",
-       "text": "4.1.7.1. procedury związane z uzyskaniem prawa własności lokalu"
+       "text": "4.1.7.1. procedury związane z uzyskaniem prawa własności lokalu mieszkalnego"
       },
       {
        "type": "text",
-       "text": "mieszkalnego"
-      },
-      {
-       "type": "text",
-       "text": "4.1.7.2. wstrzymanie lub odmowa przekształcenia prawa do lokalu"
-      },
-      {
-       "type": "text",
-       "text": "mieszkalnego"
+       "text": "4.1.7.2. wstrzymanie lub odmowa przekształcenia prawa do lokalu mieszkalnego"
       },
       {
        "type": "text",
@@ -2499,11 +2187,7 @@
       },
       {
        "type": "text",
-       "text": "4.1.8.2. koszty związane z kupnem lokalu mieszkalnego (opłaty notarialne,"
-      },
-      {
-       "type": "text",
-       "text": "podatek od czynności cywilnoprawnych)"
+       "text": "4.1.8.2. koszty związane z kupnem lokalu mieszkalnego (opłaty notarialne, podatek od czynności cywilnoprawnych)"
       },
       {
        "type": "text",
@@ -2511,11 +2195,7 @@
       },
       {
        "type": "text",
-       "text": "4.1.8.4. agencje pośredniczące w zakupie lokali mieszkalnych (agencje"
-      },
-      {
-       "type": "text",
-       "text": "nieruchomości, firmy deweloperskie)"
+       "text": "4.1.8.4. agencje pośredniczące w zakupie lokali mieszkalnych (agencje nieruchomości, firmy deweloperskie)"
       },
       {
        "type": "text",
@@ -2539,15 +2219,7 @@
       },
       {
        "type": "text",
-       "text": "4.2.1.1. uprawnienia i obowiązki, procedury – w postępowaniu"
-      },
-      {
-       "type": "text",
-       "text": "przygotowawczym, sądowym i wykonawczym, w sprawach"
-      },
-      {
-       "type": "text",
-       "text": "o wykroczenia (w tym bezpłatna pomoc tłumacza)"
+       "text": "4.2.1.1. uprawnienia i obowiązki, procedury – w postępowaniu przygotowawczym, sądowym i wykonawczym, w sprawach o wykroczenia (w tym bezpłatna pomoc tłumacza)"
       },
       {
        "type": "text",
@@ -2563,11 +2235,7 @@
       },
       {
        "type": "text",
-       "text": "4.2.1.5. środki odwoławcze 4.2.1.6. naprawienie szkody, zadośćuczynienie, nawiązka, odszkodowanie,"
-      },
-      {
-       "type": "text",
-       "text": "kompensata"
+       "text": "4.2.1.5. środki odwoławcze 4.2.1.6. naprawienie szkody, zadośćuczynienie, nawiązka, odszkodowanie, kompensata"
       },
       {
        "type": "text",
@@ -2579,15 +2247,7 @@
       },
       {
        "type": "text",
-       "text": "4.2.2.1. uprawnienia i obowiązki, procedury – w postępowaniu"
-      },
-      {
-       "type": "text",
-       "text": "przygotowawczym, sądowym i wykonawczym, w sprawach"
-      },
-      {
-       "type": "text",
-       "text": "o wykroczenia"
+       "text": "4.2.2.1. uprawnienia i obowiązki, procedury – w postępowaniu przygotowawczym, sądowym i wykonawczym, w sprawach o wykroczenia"
       },
       {
        "type": "text",
@@ -2595,11 +2255,7 @@
       },
       {
        "type": "text",
-       "text": "4.2.2.3. przesłuchanie w miejscu pobytu, na odległość, z wyłączeniem"
-      },
-      {
-       "type": "text",
-       "text": "jawności"
+       "text": "4.2.2.3. przesłuchanie w miejscu pobytu, na odległość, z wyłączeniem jawności"
       },
       {
        "type": "text",
@@ -2615,15 +2271,7 @@
       },
       {
        "type": "text",
-       "text": "4.2.3.1. uprawnienia i obowiązki, procedury – w postępowaniu"
-      },
-      {
-       "type": "text",
-       "text": "przygotowawczym, sądowym i wykonawczym, w sprawach"
-      },
-      {
-       "type": "text",
-       "text": "o wykroczenia (w tym bezpłatna pomoc tłumacza)"
+       "text": "4.2.3.1. uprawnienia i obowiązki, procedury – w postępowaniu przygotowawczym, sądowym i wykonawczym, w sprawach o wykroczenia (w tym bezpłatna pomoc tłumacza)"
       },
       {
        "type": "text",
@@ -2631,19 +2279,7 @@
       },
       {
        "type": "text",
-       "text": "4.2.3.3. środki przymusu wraz z środkami zapobiegawczymi (w tym"
-      },
-      {
-       "type": "text",
-       "text": "zabezpieczenie majątkowe, zatrzymanie, tymczasowe aresztowanie,"
-      },
-      {
-       "type": "text",
-       "text": "dozór policji, zmiana środka, zmiana, uchylenia, przedłużanie"
-      },
-      {
-       "type": "text",
-       "text": "środka)"
+       "text": "4.2.3.3. środki przymusu wraz z środkami zapobiegawczymi (w tym zabezpieczenie majątkowe, zatrzymanie, tymczasowe aresztowanie, dozór policji, zmiana środka, zmiana, uchylenia, przedłużanie środka)"
       },
       {
        "type": "text",
@@ -2667,11 +2303,7 @@
       },
       {
        "type": "text",
-       "text": "4.2.4.2. warunki odbywania kary (w tym dostęp do opieki medycznej,"
-      },
-      {
-       "type": "text",
-       "text": "nagrody, przepustki, przeludnienie w celach, palący w celi)"
+       "text": "4.2.4.2. warunki odbywania kary (w tym dostęp do opieki medycznej, nagrody, przepustki, przeludnienie w celach, palący w celi)"
       },
       {
        "type": "text",
@@ -2711,19 +2343,11 @@
       },
       {
        "type": "text",
-       "text": "4.2.4.13. pomoc postpenitencjarna dla skazanych i ich rodzin (w tym"
+       "text": "4.2.4.13. pomoc postpenitencjarna dla skazanych i ich rodzin (w tym finansowa)"
       },
       {
        "type": "text",
-       "text": "finansowa)"
-      },
-      {
-       "type": "text",
-       "text": "4.2.4.14. przygotowanie do opuszczenia zakładu (w tym programy"
-      },
-      {
-       "type": "text",
-       "text": "wolnościowe)"
+       "text": "4.2.4.14. przygotowanie do opuszczenia zakładu (w tym programy wolnościowe)"
       },
       {
        "type": "text",
@@ -2759,11 +2383,7 @@
       },
       {
        "type": "text",
-       "text": "4.3.1.2. zawarcie małżeństwa przez osoby niepełnoletnie,"
-      },
-      {
-       "type": "text",
-       "text": "ubezwłasnowolnione"
+       "text": "4.3.1.2. zawarcie małżeństwa przez osoby niepełnoletnie, ubezwłasnowolnione"
       },
       {
        "type": "text",
@@ -2783,11 +2403,7 @@
       },
       {
        "type": "text",
-       "text": "4.3.2.1. zaangażowanie w funkcjonowanie rodziny i wspólne spędzanie"
-      },
-      {
-       "type": "text",
-       "text": "czasu"
+       "text": "4.3.2.1. zaangażowanie w funkcjonowanie rodziny i wspólne spędzanie czasu"
       },
       {
        "type": "text",
@@ -2795,11 +2411,7 @@
       },
       {
        "type": "text",
-       "text": "4.3.2.3. sprawowanie opieki nad niesamodzielnym członkiem rodziny"
-      },
-      {
-       "type": "text",
-       "text": "(nie dotyczy małoletnich)"
+       "text": "4.3.2.3. sprawowanie opieki nad niesamodzielnym członkiem rodziny (nie dotyczy małoletnich)"
       },
       {
        "type": "text",
@@ -2827,19 +2439,11 @@
       },
       {
        "type": "text",
-       "text": "4.3.3.1. sposoby rozwiązania małżeństwa, rozwód a separacja, orzekanie"
+       "text": "4.3.3.1. sposoby rozwiązania małżeństwa, rozwód a separacja, orzekanie o winie"
       },
       {
        "type": "text",
-       "text": "o winie"
-      },
-      {
-       "type": "text",
-       "text": "4.3.3.2. postępowanie sądowe (w tym przebieg, koszty, pomoc prawna"
-      },
-      {
-       "type": "text",
-       "text": "z urzędu, dowody, świadkowie)"
+       "text": "4.3.3.2. postępowanie sądowe (w tym przebieg, koszty, pomoc prawna z urzędu, dowody, świadkowie)"
       },
       {
        "type": "text",
@@ -2871,23 +2475,7 @@
       },
       {
        "type": "text",
-       "text": "4.3.5.2. uprawnienia do sprawowania władzy rodzicielskiej (w tym władza"
-      },
-      {
-       "type": "text",
-       "text": "rodzicielska, ograniczenie i pozbawienie władzy rodzicielskiej,"
-      },
-      {
-       "type": "text",
-       "text": "przywracanie władzy rodzicielskiej, ustanowienie opiekuna"
-      },
-      {
-       "type": "text",
-       "text": "prawnego, zastrzeżenia do sposobu wykonywania władzy"
-      },
-      {
-       "type": "text",
-       "text": "rodzicielskiej)"
+       "text": "4.3.5.2. uprawnienia do sprawowania władzy rodzicielskiej (w tym władza rodzicielska, ograniczenie i pozbawienie władzy rodzicielskiej, przywracanie władzy rodzicielskiej, ustanowienie opiekuna prawnego, zastrzeżenia do sposobu wykonywania władzy rodzicielskiej)"
       },
       {
        "type": "text",
@@ -2903,19 +2491,11 @@
       },
       {
        "type": "text",
-       "text": "4.3.5.6. kontakty rodziców z dziećmi (w tym brak kontaktu, ograniczenie"
+       "text": "4.3.5.6. kontakty rodziców z dziećmi (w tym brak kontaktu, ograniczenie kontaktu, przywrócenie kontaktu)"
       },
       {
        "type": "text",
-       "text": "kontaktu, przywrócenie kontaktu)"
-      },
-      {
-       "type": "text",
-       "text": "4.3.5.7. kontakty dziadków z wnukami (brak kontaktu, ograniczenie"
-      },
-      {
-       "type": "text",
-       "text": "kontaktu, przywrócenie kontaktu)"
+       "text": "4.3.5.7. kontakty dziadków z wnukami (brak kontaktu, ograniczenie kontaktu, przywrócenie kontaktu)"
       },
       {
        "type": "text",
@@ -2987,11 +2567,7 @@
       },
       {
        "type": "text",
-       "text": "4.3.9.1. uprawnienia konkubentów (w tym legalizacja związku,"
-      },
-      {
-       "type": "text",
-       "text": "dziedziczenie) 4.3.9.2. majątek konkubentów"
+       "text": "4.3.9.1. uprawnienia konkubentów (w tym legalizacja związku, dziedziczenie) 4.3.9.2. majątek konkubentów"
       },
       {
        "type": "text",
@@ -3243,11 +2819,7 @@
       },
       {
        "type": "text",
-       "text": "własnością 4.6.2.2. użyczenie całości lub części lokalu mieszkalnego będącego"
-      },
-      {
-       "type": "text",
-       "text": "własnością"
+       "text": "własnością 4.6.2.2. użyczenie całości lub części lokalu mieszkalnego będącego własnością"
       },
       {
        "type": "text",
@@ -3259,19 +2831,11 @@
       },
       {
        "type": "text",
-       "text": "4.6.2.5. wydziedziczenie przez aktualnego właściciela (pozbawienie prawa"
+       "text": "4.6.2.5. wydziedziczenie przez aktualnego właściciela (pozbawienie prawa do zachowku)"
       },
       {
        "type": "text",
-       "text": "do zachowku)"
-      },
-      {
-       "type": "text",
-       "text": "4.6.2.6. cofnięcie dyspozycji (w tym odwołanie darowizny, zmiana"
-      },
-      {
-       "type": "text",
-       "text": "testamentu)"
+       "text": "4.6.2.6. cofnięcie dyspozycji (w tym odwołanie darowizny, zmiana testamentu)"
       },
       {
        "type": "text",
@@ -3323,11 +2887,7 @@
       },
       {
        "type": "text",
-       "text": "4.7.1.1. zasady przyznawania (w tym: rodzaje, warunki, wysokość,"
-      },
-      {
-       "type": "text",
-       "text": "procedury)"
+       "text": "4.7.1.1. zasady przyznawania (w tym: rodzaje, warunki, wysokość, procedury)"
       },
       {
        "type": "text",
@@ -3343,11 +2903,7 @@
       },
       {
        "type": "text",
-       "text": "4.7.2.1. zasady przyznawania (w tym: rodzaje, warunki, wysokość,"
-      },
-      {
-       "type": "text",
-       "text": "procedury)"
+       "text": "4.7.2.1. zasady przyznawania (w tym: rodzaje, warunki, wysokość, procedury)"
       },
       {
        "type": "text",
@@ -3363,15 +2919,7 @@
       },
       {
        "type": "text",
-       "text": "4.7.2.5. nienależnie pobrane świadczenie (w tym: warunki uznania"
-      },
-      {
-       "type": "text",
-       "text": "świadczenia za nienależnie pobrane, odroczenia terminu płatności"
-      },
-      {
-       "type": "text",
-       "text": "lub rozłożenia na raty)"
+       "text": "4.7.2.5. nienależnie pobrane świadczenie (w tym: warunki uznania świadczenia za nienależnie pobrane, odroczenia terminu płatności lub rozłożenia na raty)"
       },
       {
        "type": "text",
@@ -3383,11 +2931,7 @@
       },
       {
        "type": "text",
-       "text": "4.7.3.1. zasady przyznawania (w tym: rodzaje, warunki, wysokość,"
-      },
-      {
-       "type": "text",
-       "text": "procedury)"
+       "text": "4.7.3.1. zasady przyznawania (w tym: rodzaje, warunki, wysokość, procedury)"
       },
       {
        "type": "text",
@@ -3395,19 +2939,11 @@
       },
       {
        "type": "text",
-       "text": "4.7.3.3. inne 4.7.4. Świadczenia związane ze sprawowaniem opieki nad osobą niepełnosprawną oraz zasiłek i dodatek"
+       "text": "4.7.3.3. inne 4.7.4. Świadczenia związane ze sprawowaniem opieki nad osobą niepełnosprawną oraz zasiłek i dodatek pielęgnacyjny"
       },
       {
        "type": "text",
-       "text": "pielęgnacyjny"
-      },
-      {
-       "type": "text",
-       "text": "4.7.4.1. zasady przyznawania (w tym: rodzaje, warunki, wysokość,"
-      },
-      {
-       "type": "text",
-       "text": "procedury)"
+       "text": "4.7.4.1. zasady przyznawania (w tym: rodzaje, warunki, wysokość, procedury)"
       },
       {
        "type": "text",
@@ -3419,19 +2955,11 @@
       },
       {
        "type": "text",
-       "text": "4.7.5. Świadczenia z tytułu choroby i wypadku przy pracy (w tym: zasiłek rehabilitacyjny, opiekuńczy,"
+       "text": "4.7.5. Świadczenia z tytułu choroby i wypadku przy pracy (w tym: zasiłek rehabilitacyjny, opiekuńczy, chorobowy, jednorazowe odszkodowanie)"
       },
       {
        "type": "text",
-       "text": "chorobowy, jednorazowe odszkodowanie)"
-      },
-      {
-       "type": "text",
-       "text": "4.7.5.1. zasady przyznawania (w tym: rodzaje, warunki, wysokość,"
-      },
-      {
-       "type": "text",
-       "text": "procedury)"
+       "text": "4.7.5.1. zasady przyznawania (w tym: rodzaje, warunki, wysokość, procedury)"
       },
       {
        "type": "text",
@@ -3447,11 +2975,7 @@
       },
       {
        "type": "text",
-       "text": "4.7.6.1. zasady przyznawania (w tym: rodzaje, warunki, wysokość,"
-      },
-      {
-       "type": "text",
-       "text": "procedury)"
+       "text": "4.7.6.1. zasady przyznawania (w tym: rodzaje, warunki, wysokość, procedury)"
       },
       {
        "type": "text",
@@ -3467,11 +2991,7 @@
       },
       {
        "type": "text",
-       "text": "4.7.7.1. zasady przyznawania (w tym: rodzaje, warunki, wysokość,"
-      },
-      {
-       "type": "text",
-       "text": "procedury)"
+       "text": "4.7.7.1. zasady przyznawania (w tym: rodzaje, warunki, wysokość, procedury)"
       },
       {
        "type": "text",
@@ -3487,15 +3007,7 @@
       },
       {
        "type": "text",
-       "text": "4.7.8.1. zasady przyznawania (w tym: rodzaje, warunki, procedury,"
-      },
-      {
-       "type": "text",
-       "text": "z wyłączeniem określenia wysokości, świadczenie w drodze"
-      },
-      {
-       "type": "text",
-       "text": "wyjątku)"
+       "text": "4.7.8.1. zasady przyznawania (w tym: rodzaje, warunki, procedury, z wyłączeniem określenia wysokości, świadczenie w drodze wyjątku)"
       },
       {
        "type": "text",
@@ -3527,11 +3039,7 @@
       },
       {
        "type": "text",
-       "text": "4.7.9.1. zasady przyznawania (w tym: warunki, procedury, świadczenie"
-      },
-      {
-       "type": "text",
-       "text": "w drodze wyjątku)"
+       "text": "4.7.9.1. zasady przyznawania (w tym: warunki, procedury, świadczenie w drodze wyjątku)"
       },
       {
        "type": "text",
@@ -4071,11 +3579,7 @@
       },
       {
        "type": "text",
-       "text": "4.10.3.1. zmiana warunków (w tym kierowanie do innej pracy, zmiana"
-      },
-      {
-       "type": "text",
-       "text": "wynagrodzenia)"
+       "text": "4.10.3.1. zmiana warunków (w tym kierowanie do innej pracy, zmiana wynagrodzenia)"
       },
       {
        "type": "text",
@@ -4095,11 +3599,7 @@
       },
       {
        "type": "text",
-       "text": "4.10.4.1. opóźnienia w wypłacie wynagrodzenia, brak lub wypłata części"
-      },
-      {
-       "type": "text",
-       "text": "wynagrodzenia"
+       "text": "4.10.4.1. opóźnienia w wypłacie wynagrodzenia, brak lub wypłata części wynagrodzenia"
       },
       {
        "type": "text",
@@ -4127,11 +3627,7 @@
       },
       {
        "type": "text",
-       "text": "4.10.5.2. sposoby rozwiązania umów, przez pracodawcę lub pracownika,"
-      },
-      {
-       "type": "text",
-       "text": "okresy wypowiedzenia"
+       "text": "4.10.5.2. sposoby rozwiązania umów, przez pracodawcę lub pracownika, okresy wypowiedzenia"
       },
       {
        "type": "text",
@@ -4147,19 +3643,11 @@
       },
       {
        "type": "text",
-       "text": "4.10.5.4. kwestionowanie zasadności wypowiedzenia umowy, niesłuszne"
+       "text": "4.10.5.4. kwestionowanie zasadności wypowiedzenia umowy, niesłuszne wypowiedzenie"
       },
       {
        "type": "text",
-       "text": "wypowiedzenie"
-      },
-      {
-       "type": "text",
-       "text": "4.10.5.5. świadectwa pracy, brak świadectwa pracy, kwestionowanie"
-      },
-      {
-       "type": "text",
-       "text": "informacji zawartych w świadectwie pracy"
+       "text": "4.10.5.5. świadectwa pracy, brak świadectwa pracy, kwestionowanie informacji zawartych w świadectwie pracy"
       },
       {
        "type": "text",
@@ -4331,15 +3819,7 @@
       },
       {
        "type": "text",
-       "text": "4.12.1.4. inne 4.12.2. Postępowanie przed organem lub urzędem (kategoria dotyczy jedynie zapytań o charakterze ogólnym,"
-      },
-      {
-       "type": "text",
-       "text": "w każdym przypadku, gdy osoba uprawniona ujawnia konkretną tematykę sprawy sądowej lub"
-      },
-      {
-       "type": "text",
-       "text": "urzędowej, należy ją skategoryzować pod numerem odpowiedniej kategorii tematycznej z rozdziałów 1–11)"
+       "text": "4.12.1.4. inne 4.12.2. Postępowanie przed organem lub urzędem (kategoria dotyczy jedynie zapytań o charakterze ogólnym, w każdym przypadku, gdy osoba uprawniona ujawnia konkretną tematykę sprawy sądowej lub urzędowej, należy ją skategoryzować pod numerem odpowiedniej kategorii tematycznej z rozdziałów 1–11)"
       },
       {
        "type": "text",
@@ -4347,11 +3827,7 @@
       },
       {
        "type": "text",
-       "text": "4.12.2.2. procedura (w tym terminy, doręczanie, odwołania, wgląd"
-      },
-      {
-       "type": "text",
-       "text": "w dokumentację sprawy, wznowienie postępowania, koszty)"
+       "text": "4.12.2.2. procedura (w tym terminy, doręczanie, odwołania, wgląd w dokumentację sprawy, wznowienie postępowania, koszty)"
       },
       {
        "type": "text",
@@ -4363,15 +3839,7 @@
       },
       {
        "type": "text",
-       "text": "4.12.3. Postępowanie przed sądem (kategoria dotyczy jedynie zapytań o charakterze ogólnym – w każdym"
-      },
-      {
-       "type": "text",
-       "text": "przypadku, gdy osoba uprawniona ujawnia konkretną tematykę sprawy sądowej lub urzędowej,"
-      },
-      {
-       "type": "text",
-       "text": "należy ją skategoryzować pod numerem odpowiedniej kategorii tematycznej z rozdziałów 1–11)"
+       "text": "4.12.3. Postępowanie przed sądem (kategoria dotyczy jedynie zapytań o charakterze ogólnym – w każdym przypadku, gdy osoba uprawniona ujawnia konkretną tematykę sprawy sądowej lub urzędowej, należy ją skategoryzować pod numerem odpowiedniej kategorii tematycznej z rozdziałów 1–11)"
       },
       {
        "type": "text",
@@ -4383,27 +3851,11 @@
       },
       {
        "type": "text",
-       "text": "4.12.3.3. procedura sądowa (w tym terminy, doręczenia,"
+       "text": "4.12.3.3. procedura sądowa (w tym terminy, doręczenia, reprezentowanie przez członka rodziny, pełnomocnika z urzędu, koszty)"
       },
       {
        "type": "text",
-       "text": "reprezentowanie przez członka rodziny, pełnomocnika"
-      },
-      {
-       "type": "text",
-       "text": "z urzędu, koszty)"
-      },
-      {
-       "type": "text",
-       "text": "4.12.3.4. niezadowolenie z pracy wymiaru sprawiedliwości (w tym"
-      },
-      {
-       "type": "text",
-       "text": "skargi na pełnomocnika, zastrzeżenia do bezstronności"
-      },
-      {
-       "type": "text",
-       "text": "sędziego i innych pracowników sądu)"
+       "text": "4.12.3.4. niezadowolenie z pracy wymiaru sprawiedliwości (w tym skargi na pełnomocnika, zastrzeżenia do bezstronności sędziego i innych pracowników sądu)"
       },
       {
        "type": "text",
@@ -4443,87 +3895,23 @@
      "type": "ust",
      "num": "5",
      "path": "ust_5",
-     "text": "Forma udzielonej nieodpłatnej pomocy prawnej lub świadczonego nieodpłatnego poradnictwa",
+     "text": "Forma udzielonej nieodpłatnej pomocy prawnej lub świadczonego nieodpłatnego poradnictwa obywatelskiego",
      "children": [
-      {
-       "type": "text",
-       "text": "obywatelskiego"
-      },
       {
        "type": "text",
        "text": "5.1. W przypadku udzielania nieodpłatnej pomocy prawnej"
       },
       {
        "type": "text",
-       "text": "5.1.1. poinformowanie osoby uprawnionej o obowiązującym stanie"
+       "text": "5.1.1. poinformowanie osoby uprawnionej o obowiązującym stanie prawnym, o przysługujących jej uprawnieniach lub o spoczywających na niej obowiązkach, w tym w związku z toczącym się postępowaniem przygotowawczym, administracyjnym, sądowym lub sądowoadministracyjnym"
       },
       {
        "type": "text",
-       "text": "prawnym, o przysługujących jej uprawnieniach lub"
+       "text": "5.1.2. wskazanie osobie uprawnionej sposobu rozwiązania jej problemu prawnego"
       },
       {
        "type": "text",
-       "text": "o spoczywających na niej obowiązkach, w tym w związku"
-      },
-      {
-       "type": "text",
-       "text": "z toczącym się postępowaniem przygotowawczym,"
-      },
-      {
-       "type": "text",
-       "text": "administracyjnym, sądowym lub sądowoadministracyjnym"
-      },
-      {
-       "type": "text",
-       "text": "5.1.2. wskazanie osobie uprawnionej sposobu rozwiązania jej"
-      },
-      {
-       "type": "text",
-       "text": "problemu prawnego"
-      },
-      {
-       "type": "text",
-       "text": "5.1.3. sporządzenie projektu pisma w sprawach, o których mowa"
-      },
-      {
-       "type": "text",
-       "text": "w art. 3 ust. 1 pkt 1 i 2 ustawy, z wyłączeniem pism"
-      },
-      {
-       "type": "text",
-       "text": "procesowych w toczącym się postępowaniu przygotowawczym"
-      },
-      {
-       "type": "text",
-       "text": "lub sądowym i pism w toczącym się postępowaniu"
-      },
-      {
-       "type": "text",
-       "text": "sądowoadministracyjnym 5.1.4. sporządzenie projektu pisma o zwolnienie od kosztów sądowych"
-      },
-      {
-       "type": "text",
-       "text": "lub ustanowienie pełnomocnika z urzędu w postępowaniu"
-      },
-      {
-       "type": "text",
-       "text": "sądowym lub ustanowienie adwokata, radcy prawnego, doradcy"
-      },
-      {
-       "type": "text",
-       "text": "podatkowego lub rzecznika patentowego w postępowaniu"
-      },
-      {
-       "type": "text",
-       "text": "sądowoadministracyjnym oraz poinformowanie o kosztach"
-      },
-      {
-       "type": "text",
-       "text": "postępowania i ryzyku finansowym związanym ze"
-      },
-      {
-       "type": "text",
-       "text": "skierowaniem sprawy na drogę sądową"
+       "text": "5.1.3. sporządzenie projektu pisma w sprawach, o których mowa w art. 3 ust. 1 pkt 1 i 2 ustawy, z wyłączeniem pism procesowych w toczącym się postępowaniu przygotowawczym lub sądowym i pism w toczącym się postępowaniu sądowoadministracyjnym 5.1.4. sporządzenie projektu pisma o zwolnienie od kosztów sądowych lub ustanowienie pełnomocnika z urzędu w postępowaniu sądowym lub ustanowienie adwokata, radcy prawnego, doradcy podatkowego lub rzecznika patentowego w postępowaniu sądowoadministracyjnym oraz poinformowanie o kosztach postępowania i ryzyku finansowym związanym ze skierowaniem sprawy na drogę sądową"
       },
       {
        "type": "text",
@@ -4535,47 +3923,23 @@
       },
       {
        "type": "text",
-       "text": "5.2.2. porada obywatelska ze sporządzeniem wspólnie z osobą"
+       "text": "5.2.2. porada obywatelska ze sporządzeniem wspólnie z osobą uprawnioną planu działania i pomoc w jego realizacji"
       },
       {
        "type": "text",
-       "text": "uprawnioną planu działania i pomoc w jego realizacji"
+       "text": "5.3. W przypadku udzielenia nieodpłatnej pomocy prawnej lub świadczenia nieodpłatnego poradnictwa obywatelskiego:"
       },
       {
        "type": "text",
-       "text": "5.3. W przypadku udzielenia nieodpłatnej pomocy prawnej lub świadczenia nieodpłatnego"
+       "text": "5.3.1. poinformowanie osoby uprawnionej o możliwościach skorzystania z polubownych metod rozwiązywania sporów, w szczególności mediacji oraz korzyściach z tego wynikających"
       },
       {
        "type": "text",
-       "text": "poradnictwa obywatelskiego:"
+       "text": "5.3.2. przygotowanie umowy o mediację lub wniosku o przeprowadzenie mediacji"
       },
       {
        "type": "text",
-       "text": "5.3.1. poinformowanie osoby uprawnionej o możliwościach"
-      },
-      {
-       "type": "text",
-       "text": "skorzystania z polubownych metod rozwiązywania sporów,"
-      },
-      {
-       "type": "text",
-       "text": "w szczególności mediacji oraz korzyściach z tego wynikających"
-      },
-      {
-       "type": "text",
-       "text": "5.3.2. przygotowanie umowy o mediację lub wniosku"
-      },
-      {
-       "type": "text",
-       "text": "o przeprowadzenie mediacji"
-      },
-      {
-       "type": "text",
-       "text": "5.3.3. przygotowanie projektu wniosku o przeprowadzenie"
-      },
-      {
-       "type": "text",
-       "text": "postępowania mediacyjnego w sprawie karnej"
+       "text": "5.3.3. przygotowanie projektu wniosku o przeprowadzenie postępowania mediacyjnego w sprawie karnej"
       },
       {
        "type": "text",
@@ -4583,27 +3947,11 @@
       },
       {
        "type": "text",
-       "text": "5.3.5. udzielenie pomocy w sporządzeniu do sądu wniosku"
+       "text": "5.3.5. udzielenie pomocy w sporządzeniu do sądu wniosku o zatwierdzenie ugody zawartej przed mediatorem"
       },
       {
        "type": "text",
-       "text": "o zatwierdzenie ugody zawartej przed mediatorem"
-      },
-      {
-       "type": "text",
-       "text": "5.4. W przypadku udzielenia nieodpłatnej pomocy prawnej lub świadczenia nieodpłatnego poradnictwa"
-      },
-      {
-       "type": "text",
-       "text": "obywatelskiego – przekazanie osobie uprawnionej informacji o innych jednostkach poradnictwa,"
-      },
-      {
-       "type": "text",
-       "text": "o których mowa w art. 5 ust. 4 ustawy – podać ile razy wskazywano tematy poradnictwa, wg kategorii"
-      },
-      {
-       "type": "text",
-       "text": "z poniższej listy"
+       "text": "5.4. W przypadku udzielenia nieodpłatnej pomocy prawnej lub świadczenia nieodpłatnego poradnictwa obywatelskiego – przekazanie osobie uprawnionej informacji o innych jednostkach poradnictwa, o których mowa w art. 5 ust. 4 ustawy – podać ile razy wskazywano tematy poradnictwa, wg kategorii z poniższej listy"
       },
       {
        "type": "text",
@@ -5151,12 +4499,8 @@
      "type": "ust",
      "num": "14",
      "path": "ust_14",
-     "text": "Miejsce zamieszkania osoby korzystającej z nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa",
+     "text": "Miejsce zamieszkania osoby korzystającej z nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego",
      "children": [
-      {
-       "type": "text",
-       "text": "obywatelskiego"
-      },
       {
        "type": "text",
        "text": "14.1. wieś"
@@ -5183,27 +4527,15 @@
      "type": "ust",
      "num": "15",
      "path": "ust_15",
-     "text": "Dane dotyczące zgód na wyrażenie opinii o działalności nieodpłatnej pomocy prawnej i nieodpłatnego",
+     "text": "Dane dotyczące zgód na wyrażenie opinii o działalności nieodpłatnej pomocy prawnej i nieodpłatnego poradnictwa obywatelskiego",
      "children": [
       {
        "type": "text",
-       "text": "poradnictwa obywatelskiego"
+       "text": "15.1. Liczba osób, które wyraziły zgodę na wyrażenie opinii przez wypełnienie karty pomocy – części B"
       },
       {
        "type": "text",
-       "text": "15.1. Liczba osób, które wyraziły zgodę na wyrażenie opinii przez"
-      },
-      {
-       "type": "text",
-       "text": "wypełnienie karty pomocy – części B"
-      },
-      {
-       "type": "text",
-       "text": "15.2. Liczba osób, które NIE wyraziły zgody na wyrażenie opinii przez"
-      },
-      {
-       "type": "text",
-       "text": "wypełnienie karty pomocy – części B"
+       "text": "15.2. Liczba osób, które NIE wyraziły zgody na wyrażenie opinii przez wypełnienie karty pomocy – części B"
       }
      ]
     },
@@ -5211,12 +4543,8 @@
      "type": "ust",
      "num": "16",
      "path": "ust_16",
-     "text": "Forma udzielania nieodpłatnej pomocy prawnej lub świadczonego nieodpłatnego poradnictwa",
+     "text": "Forma udzielania nieodpłatnej pomocy prawnej lub świadczonego nieodpłatnego poradnictwa obywatelskiego",
      "children": [
-      {
-       "type": "text",
-       "text": "obywatelskiego"
-      },
       {
        "type": "text",
        "text": "16.1. Osobiście w punkcie"
@@ -5259,15 +4587,7 @@
       },
       {
        "type": "text",
-       "text": "16.4.2. w miejscu wyposażonym w odpowiednie urządzenie, ułatwiające"
-      },
-      {
-       "type": "text",
-       "text": "porozumiewanie się z osobami doświadczającymi trudności"
-      },
-      {
-       "type": "text",
-       "text": "w porozumiewaniu się"
+       "text": "16.4.2. w miejscu wyposażonym w odpowiednie urządzenie, ułatwiające porozumiewanie się z osobami doświadczającymi trudności w porozumiewaniu się"
       },
       {
        "type": "text",
@@ -5307,12 +4627,8 @@
      "type": "ust",
      "num": "17",
      "path": "ust_17",
-     "text": "Liczba odpowiedzi na pytanie: Czy spotkał/a się Pan/i z życzliwym przyjęciem przez osobę",
+     "text": "Liczba odpowiedzi na pytanie: Czy spotkał/a się Pan/i z życzliwym przyjęciem przez osobę udzielającą pomocy?",
      "children": [
-      {
-       "type": "text",
-       "text": "udzielającą pomocy?"
-      },
       {
        "type": "text",
        "text": "17.1. zdecydowanie tak (uprzejmy sposób obsługi)"
@@ -5367,12 +4683,8 @@
      "type": "ust",
      "num": "19",
      "path": "ust_19",
-     "text": "Liczba odpowiedzi na pytanie: Czy po uzyskaniu porad lub po przeprowadzonej mediacji wie Pan(i),",
+     "text": "Liczba odpowiedzi na pytanie: Czy po uzyskaniu porad lub po przeprowadzonej mediacji wie Pan(i), jakie dalsze kroki można podjąć?",
      "children": [
-      {
-       "type": "text",
-       "text": "jakie dalsze kroki można podjąć?"
-      },
       {
        "type": "text",
        "text": "19.1. zdecydowanie tak"
@@ -5419,11 +4731,7 @@
       },
       {
        "type": "text",
-       "text": "20.5. nie uzupełniono lub nie dotyczy, gdyż porady udzielono poza"
-      },
-      {
-       "type": "text",
-       "text": "punktem lub na odległość"
+       "text": "20.5. nie uzupełniono lub nie dotyczy, gdyż porady udzielono poza punktem lub na odległość"
       }
      ]
     },
@@ -5431,12 +4739,8 @@
      "type": "ust",
      "num": "21",
      "path": "ust_21",
-     "text": "Liczba odpowiedzi na pytanie: Czy lokal, w którym zorganizowany jest punkt, jest czytelnie",
+     "text": "Liczba odpowiedzi na pytanie: Czy lokal, w którym zorganizowany jest punkt, jest czytelnie oznakowany?",
      "children": [
-      {
-       "type": "text",
-       "text": "oznakowany?"
-      },
       {
        "type": "text",
        "text": "21.1. zdecydowanie tak"
@@ -5455,11 +4759,7 @@
       },
       {
        "type": "text",
-       "text": "21.5. nie uzupełniono lub nie dotyczy, gdyż porady udzielono poza"
-      },
-      {
-       "type": "text",
-       "text": "punktem lub na odległość"
+       "text": "21.5. nie uzupełniono lub nie dotyczy, gdyż porady udzielono poza punktem lub na odległość"
       }
      ]
     },
@@ -5531,44 +4831,27 @@
      "type": "ust",
      "num": "24",
      "path": "ust_24",
-     "text": "Liczba osób, które w ramach opinii zgłosiły uwagi własne",
-     "children": [
-      {
-       "type": "text",
-       "text": "i ewentualnie propozycje usprawnień działalności"
-      }
-     ]
+     "text": "Liczba osób, które w ramach opinii zgłosiły uwagi własne i ewentualnie propozycje usprawnień działalności",
+     "children": []
     },
     {
      "type": "ust",
      "num": "25",
      "path": "ust_25",
-     "text": "Liczba osób, które zgodziły się na udostępnienie numeru",
-     "children": [
-      {
-       "type": "text",
-       "text": "telefonu kontaktowego w celu zasięgnięcia szerszej opinii"
-      },
-      {
-       "type": "text",
-       "text": "o udzielonej pomocy prawnej lub poradzie obywatelskiej"
-      },
-      {
-       "type": "text",
-       "text": "II. REALIZACJA ZADAŃ Z ZAKRESU EDUKACJI PRAWNEJ"
-      }
-     ]
+     "text": "Liczba osób, które zgodziły się na udostępnienie numeru telefonu kontaktowego w celu zasięgnięcia szerszej opinii o udzielonej pomocy prawnej lub poradzie obywatelskiej",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "REALIZACJA ZADAŃ Z ZAKRESU EDUKACJI PRAWNEJ"
     },
     {
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Liczba i formy zrealizowanych zadań z zakresu edukacji prawnej – wypełnić, o ile w danym kwartale",
+     "text": "Liczba i formy zrealizowanych zadań z zakresu edukacji prawnej – wypełnić, o ile w danym kwartale zadania takie były zrealizowane",
      "children": [
-      {
-       "type": "text",
-       "text": "zadania takie były zrealizowane"
-      },
       {
        "type": "text",
        "text": "1.1. Liczba zrealizowanych zadań z zakresu edukacji prawnej w kwartale, według ich form w tym:"
@@ -5607,19 +4890,7 @@
       },
       {
        "type": "text",
-       "text": "1.2. Tematyka zadań z zakresu edukacji prawnej realizowanych w danym kwartale – podać liczbę"
-      },
-      {
-       "type": "text",
-       "text": "przedsięwzięć z zakresu edukacji prawnej o danej tematyce (przypisać do każdej rubryki tematycznej"
-      },
-      {
-       "type": "text",
-       "text": "liczbę przedsięwzięć realizowanych w danym kwartale; jeśli dane przedsięwzięcie obejmowało więcej niż"
-      },
-      {
-       "type": "text",
-       "text": "jeden obszar tematyczny, można je wykazać jednocześnie w liczbach podawanych w kilku rubrykach)"
+       "text": "1.2. Tematyka zadań z zakresu edukacji prawnej realizowanych w danym kwartale – podać liczbę przedsięwzięć z zakresu edukacji prawnej o danej tematyce (przypisać do każdej rubryki tematycznej liczbę przedsięwzięć realizowanych w danym kwartale; jeśli dane przedsięwzięcie obejmowało więcej niż jeden obszar tematyczny, można je wykazać jednocześnie w liczbach podawanych w kilku rubrykach)"
       },
       {
        "type": "text",
@@ -5643,11 +4914,7 @@
       },
       {
        "type": "text",
-       "text": "1.2.6. własność rzeczy ruchomych, lokali mieszkalnych i innych nieruchomości,"
-      },
-      {
-       "type": "text",
-       "text": "z wyłączeniem dziedziczenia"
+       "text": "1.2.6. własność rzeczy ruchomych, lokali mieszkalnych i innych nieruchomości, z wyłączeniem dziedziczenia"
       },
       {
        "type": "text",

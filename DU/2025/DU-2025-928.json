@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/928",
  "title": "Obwieszczenie Ministra Finansów z dnia 25 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie szczegółowych zasad wyznaczania składek na finansowanie przymusowej restrukturyzacji kas w oparciu o ryzyko",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/928/text.pdf",
  "body": [
   {
@@ -544,113 +544,86 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Przypisanie indywidualnych punktowych ocen ryzyka (IRS) wszystkim wskaźnikom",
+     "text": "Przypisanie indywidualnych punktowych ocen ryzyka (IRS) wszystkim wskaźnikom ryzyka kasy",
      "children": [
-      {
-       "type": "text",
-       "text": "ryzyka kasy"
-      },
       {
        "type": "pkt",
        "num": "1",
        "path": "ust_2/pkt_1",
-       "text": "Fundusz przypisuje indywidualne punktowe oceny ryzyka (IRS) wszystkim",
+       "text": "Fundusz przypisuje indywidualne punktowe oceny ryzyka (IRS) wszystkim wskaźnikom ryzyka kasy. Dla każdego wskaźnika ryzyka indywidualne punktowe oceny ryzyka mieszczą się w przedziale między 0 a 100, gdzie 0 oznacza najniższe ryzyko, a 100 – najwyższe ryzyko.",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "wskaźnikom ryzyka kasy. Dla każdego wskaźnika ryzyka indywidualne punktowe oceny"
-      },
-      {
-       "type": "text",
-       "text": "ryzyka mieszczą się w przedziale między 0 a 100, gdzie 0 oznacza najniższe ryzyko, a 100 –"
-      },
-      {
-       "type": "text",
-       "text": "najwyższe ryzyko."
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_2/pkt_2",
-       "text": "Fundusz przypisuje indywidualne punktowe oceny ryzyka przy użyciu metody skali",
-       "children": []
-      },
-      {
-       "type": "text",
-       "text": "ruchomej."
-      },
-      {
-       "type": "text",
-       "text": "W metodzie skali ruchomej w odniesieniu do kasy „i” jest obliczana indywidualna"
-      },
-      {
-       "type": "text",
-       "text": "punktowa ocena ryzyka IRS i,j dla każdego wskaźnika ryzyka A i,j . Każdy wskaźnik ryzyka ma"
-      },
-      {
-       "type": "text",
-       "text": "zdefiniowaną górną i dolną granicę a j i b j ."
-      },
-      {
-       "type": "text",
-       "text": "Jeżeli wyższa wartość wskaźnika ryzyka wskazuje na kasę o wyższym ryzyku i wskaźnik"
-      },
-      {
-       "type": "text",
-       "text": "ryzyka przyjmuje wartość powyżej górnej granicy, IRS i,j przyjmuje wartość równą 100. Jeżeli"
-      },
-      {
-       "type": "text",
-       "text": "wartość wskaźnika ryzyka znajduje się poniżej dolnej granicy, IRS i,j przyjmuje wartość 0."
-      },
-      {
-       "type": "text",
-       "text": "Jeżeli wartość wskaźnika ryzyka znajduje się pomiędzy zdefiniowanymi granicami, IRS i,j"
-      },
-      {
-       "type": "text",
-       "text": "przyjmie wartość z przedziału (0, 100). W przypadku każdego wskaźnika ryzyka A i,j jego"
-      },
-      {
-       "type": "text",
-       "text": "wartość będzie odpowiadała punktacji wyjściowej (IRS i,j ):"
-      },
-      {
-       "type": "text",
-       "text": "1 jjeeee AA ii,jj > aa jj 0 jjjjżjjeeee AA ii,jj < bb jj AA ii,jj −bb jj gdzie j = 1…n, × 100, jjjjżjjeeee bb jj ≤ AA ii,jj ≤ aa jj aa jj −bb jj"
-      },
-      {
-       "type": "text",
-       "text": "n – liczba stosowanych wskaźników ryzyka."
-      },
-      {
-       "type": "text",
-       "text": "Jeżeli niższa wartość wskaźnika ryzyka wskazuje na kasę o wyższym ryzyku, a wskaźnik"
-      },
-      {
-       "type": "text",
-       "text": "ryzyka znajduje się poniżej dolnej granicy, IRS i,j przyjmuje wartość równą 100. Jeżeli wartość"
-      },
-      {
-       "type": "text",
-       "text": "wskaźnika ryzyka kształtuje się powyżej górnej granicy, IRS i,j przyjmuje wartość 0."
-      },
-      {
-       "type": "text",
-       "text": "Jeżeli wartość wskaźnika ryzyka znajduje się pomiędzy zdefiniowanymi granicami, IRS i,j"
-      },
-      {
-       "type": "text",
-       "text": "przyjmuje wartość z przedziału (0, 100). W przypadku każdego wskaźnika ryzyka A i,j jego"
-      },
-      {
-       "type": "text",
-       "text": "wartość będzie odpowiadała punktacji wyjściowej (IRS i,j ):"
-      },
-      {
-       "type": "text",
-       "text": "0 jjjjżjjeeee AA ii,jj > aa jj 100 jjjjżjjeeee AA ii,jj < bb jj IIIIII ii,jj = aa jj −AA ii,jj gdzie j = 1…n, × 100, jjjjżjjeeee bb jj ≤ AA ii,jj ≤ aa jj { aa jj −bb jj n – liczba stosowanych wskaźników ryzyka."
+       "text": "Fundusz przypisuje indywidualne punktowe oceny ryzyka przy użyciu metody skali ruchomej.",
+       "children": [
+        {
+         "type": "text",
+         "text": "W metodzie skali ruchomej w odniesieniu do kasy „i” jest obliczana indywidualna punktowa ocena ryzyka IRS i,j dla każdego wskaźnika ryzyka A i,j . Każdy wskaźnik ryzyka ma zdefiniowaną górną i dolną granicę a j i b j ."
+        },
+        {
+         "type": "text",
+         "text": "Jeżeli wyższa wartość wskaźnika ryzyka wskazuje na kasę o wyższym ryzyku i wskaźnik ryzyka przyjmuje wartość powyżej górnej granicy, IRS i,j przyjmuje wartość równą 100. Jeżeli wartość wskaźnika ryzyka znajduje się poniżej dolnej granicy, IRS i,j przyjmuje wartość 0. Jeżeli wartość wskaźnika ryzyka znajduje się pomiędzy zdefiniowanymi granicami, IRS i,j przyjmie wartość z przedziału (0, 100). W przypadku każdego wskaźnika ryzyka A i,j jego wartość będzie odpowiadała punktacji wyjściowej (IRS i,j ):"
+        },
+        {
+         "type": "text",
+         "text": "1 jjeeee AA ii,jj > aa jj"
+        },
+        {
+         "type": "text",
+         "text": "0 jjjjżjjeeee AA ii,jj < bb jj"
+        },
+        {
+         "type": "text",
+         "text": "AA ii,jj −bb jj"
+        },
+        {
+         "type": "text",
+         "text": "gdzie j = 1…n, × 100, jjjjżjjeeee bb jj ≤ AA ii,jj ≤ aa jj"
+        },
+        {
+         "type": "text",
+         "text": "aa jj −bb jj"
+        },
+        {
+         "type": "text",
+         "text": "n – liczba stosowanych wskaźników ryzyka."
+        },
+        {
+         "type": "text",
+         "text": "Jeżeli niższa wartość wskaźnika ryzyka wskazuje na kasę o wyższym ryzyku, a wskaźnik ryzyka znajduje się poniżej dolnej granicy, IRS i,j przyjmuje wartość równą 100. Jeżeli wartość wskaźnika ryzyka kształtuje się powyżej górnej granicy, IRS i,j przyjmuje wartość 0."
+        },
+        {
+         "type": "text",
+         "text": "Jeżeli wartość wskaźnika ryzyka znajduje się pomiędzy zdefiniowanymi granicami, IRS i,j przyjmuje wartość z przedziału (0, 100). W przypadku każdego wskaźnika ryzyka A i,j jego wartość będzie odpowiadała punktacji wyjściowej (IRS i,j ):"
+        },
+        {
+         "type": "text",
+         "text": "0 jjjjżjjeeee AA ii,jj > aa jj"
+        },
+        {
+         "type": "text",
+         "text": "100 jjjjżjjeeee AA ii,jj < bb jj"
+        },
+        {
+         "type": "text",
+         "text": "IIIIII ii,jj = aa jj −AA ii,jj"
+        },
+        {
+         "type": "text",
+         "text": "gdzie j = 1…n, × 100, jjjjżjjeeee bb jj ≤ AA ii,jj ≤ aa jj"
+        },
+        {
+         "type": "text",
+         "text": "{ aa jj −bb jj"
+        },
+        {
+         "type": "text",
+         "text": "n – liczba stosowanych wskaźników ryzyka."
+        }
+       ]
       }
      ]
     },
@@ -662,11 +635,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Ocena ARS i jest ważoną sumą wszystkich punktowych ocen ryzyka kasy obliczaną"
-      },
-      {
-       "type": "text",
-       "text": "według wzoru:"
+       "text": "Ocena ARS i jest ważoną sumą wszystkich punktowych ocen ryzyka kasy obliczaną według wzoru:"
       },
       {
        "type": "text",
@@ -674,11 +643,23 @@
       },
       {
        "type": "text",
-       "text": "AAAA ii,jj gdzie jj=1"
+       "text": "AAAA ii,jj"
       },
       {
        "type": "text",
-       "text": "IW j = : waga j-tej oceny, . ∑ nn jj=1 IIII jj = 100 %"
+       "text": "gdzie jj=1"
+      },
+      {
+       "type": "text",
+       "text": "IW j = : waga j-tej oceny,"
+      },
+      {
+       "type": "text",
+       "text": "."
+      },
+      {
+       "type": "text",
+       "text": "∑ nn jj=1 IIII jj = 100 %"
       }
      ]
     },
@@ -690,31 +671,27 @@
      "children": [
       {
        "type": "text",
-       "text": "Fundusz przypisuje kasom ich całkowite wagi ryzyka (ARW) na podstawie ich"
+       "text": "Fundusz przypisuje kasom ich całkowite wagi ryzyka (ARW) na podstawie ich całkowitych ocen punktowych ryzyka (ARS) przy użyciu metody skali ruchomej. W metodzie skali ruchomej ARS i jest przeliczana na całkowitą wagę ryzyka (ARW i ) w oparciu o wzór funkcji wykładniczej."
       },
       {
        "type": "text",
-       "text": "całkowitych ocen punktowych ryzyka (ARS) przy użyciu metody skali ruchomej. W metodzie"
+       "text": "ARW i związana z ARS i ma charakter wykładniczy, z górną i dolną granicą 150 % i 75 %. Przeliczenie ARS i na ARW i metodą funkcji wykładniczej jest dokonywane według wzoru:"
       },
       {
        "type": "text",
-       "text": "skali ruchomej ARS i jest przeliczana na całkowitą wagę ryzyka (ARW i ) w oparciu o wzór"
+       "text": "( AAAASS 100 ii )"
       },
       {
        "type": "text",
-       "text": "funkcji wykładniczej."
+       "text": "150 %"
       },
       {
        "type": "text",
-       "text": "ARW i związana z ARS i ma charakter wykładniczy, z górną i dolną granicą 150 % i 75 %."
+       "text": "AAAAII ii = 75 % × ( )"
       },
       {
        "type": "text",
-       "text": "Przeliczenie ARS i na ARW i metodą funkcji wykładniczej jest dokonywane według wzoru:"
-      },
-      {
-       "type": "text",
-       "text": "( AAAASS 100 ii ) 150 % AAAAII ii = 75 % × ( ) 75 %"
+       "text": "75 %"
       }
      ]
     },
@@ -728,87 +705,57 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_5/pkt_1",
-       "text": "[^4] Składki na fundusz przymusowej restrukturyzacji kas wnoszone przez poszczególne",
-       "children": []
-      },
-      {
-       "type": "text",
-       "text": "kasy są obliczane według wzoru:"
-      },
-      {
-       "type": "text",
-       "text": "C = CR ARW B μ"
-      },
-      {
-       "type": "text",
-       "text": "gdzie: × × ×"
-      },
-      {
-       "type": "text",
-       "text": "C i – składka kasy „i”,"
-      },
-      {
-       "type": "text",
-       "text": "CR – stawka (taka sama dla wszystkich kas),"
-      },
-      {
-       "type": "text",
-       "text": "ARW i – całkowita waga ryzyka dla kasy „i”, B i – wysokość podstawy wyznaczania składki w kasie „i” wyznaczana jako wartość"
-      },
-      {
-       "type": "text",
-       "text": "pasywów zgromadzonych w kasie „i” pomniejszona o kwotę funduszy własnych"
-      },
-      {
-       "type": "text",
-       "text": "zgromadzonych w kasie „i” oraz o kwotę środków gwarantowanych zgromadzonych"
-      },
-      {
-       "type": "text",
-       "text": "w kasie „i”,"
-      },
-      {
-       "type": "text",
-       "text": "μ − współczynnik korekty (taki sam dla wszystkich kas)."
+       "text": "[^4] Składki na fundusz przymusowej restrukturyzacji kas wnoszone przez poszczególne kasy są obliczane według wzoru:",
+       "children": [
+        {
+         "type": "text",
+         "text": "C = CR ARW B μ"
+        },
+        {
+         "type": "text",
+         "text": "gdzie: × × ×"
+        },
+        {
+         "type": "text",
+         "text": "C i – składka kasy „i”,"
+        },
+        {
+         "type": "text",
+         "text": "CR – stawka (taka sama dla wszystkich kas),"
+        },
+        {
+         "type": "text",
+         "text": "ARW i – całkowita waga ryzyka dla kasy „i”, B i – wysokość podstawy wyznaczania składki w kasie „i” wyznaczana jako wartość pasywów zgromadzonych w kasie „i” pomniejszona o kwotę funduszy własnych zgromadzonych w kasie „i” oraz o kwotę środków gwarantowanych zgromadzonych w kasie „i”,"
+        },
+        {
+         "type": "text",
+         "text": "μ − współczynnik korekty (taki sam dla wszystkich kas)."
+        }
+       ]
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_5/pkt_2",
-       "text": "Stawka (CR) jest określana przez Fundusz jako iloraz, którego licznik jest równy",
-       "children": []
-      },
-      {
-       "type": "text",
-       "text": "łącznej kwocie składek (CL) pomniejszonej o sumę składek obliczonych zgodnie z § 3"
-      },
-      {
-       "type": "text",
-       "text": "rozporządzenia, a mianownik jest równy sumie podstaw wyznaczania składek w kasach"
-      },
-      {
-       "type": "text",
-       "text": "wnoszących składki uzależnione od ryzyka:"
-      },
-      {
-       "type": "text",
-       "text": "CC−∑ ii CC ii gdzie: ∑ ii BBBB ii L i – kwota składki należnej od kasy „i” obliczona zgodnie z § 3 rozporządzenia (L i = 0"
-      },
-      {
-       "type": "text",
-       "text": "w przypadku kas wnoszących składki uzależnione od ryzyka),"
-      },
-      {
-       "type": "text",
-       "text": "Br i – wysokość podstawy wyznaczania składki w kasie „i” wnoszącej składkę uzależnioną od"
-      },
-      {
-       "type": "text",
-       "text": "ryzyka (Br i = 0 w przypadku kas wnoszących składki obliczone zgodnie z § 3"
-      },
-      {
-       "type": "text",
-       "text": "rozporządzenia)."
+       "text": "Stawka (CR) jest określana przez Fundusz jako iloraz, którego licznik jest równy łącznej kwocie składek (CL) pomniejszonej o sumę składek obliczonych zgodnie z § 3 rozporządzenia, a mianownik jest równy sumie podstaw wyznaczania składek w kasach wnoszących składki uzależnione od ryzyka:",
+       "children": [
+        {
+         "type": "text",
+         "text": "CC−∑ ii CC ii"
+        },
+        {
+         "type": "text",
+         "text": "gdzie: ∑ ii BBBB ii"
+        },
+        {
+         "type": "text",
+         "text": "L i – kwota składki należnej od kasy „i” obliczona zgodnie z § 3 rozporządzenia (L i = 0 w przypadku kas wnoszących składki uzależnione od ryzyka),"
+        },
+        {
+         "type": "text",
+         "text": "Br i – wysokość podstawy wyznaczania składki w kasie „i” wnoszącej składkę uzależnioną od ryzyka (Br i = 0 w przypadku kas wnoszących składki obliczone zgodnie z § 3 rozporządzenia)."
+        }
+       ]
       },
       {
        "type": "pkt",

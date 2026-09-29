@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1805",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 12 grudnia 2025 r. w sprawie wzoru formularza wniosku o udzielenie repatriantowi jednorazowej pomocy finansowej",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1805/text.pdf",
  "body": [
   {
@@ -444,27 +444,23 @@
       },
       {
        "type": "text",
-       "text": "Oświadczam, że dane i informacje zawarte we wniosku są prawdziwe. Jestem świadomy"
+       "text": "Oświadczam, że dane i informacje zawarte we wniosku są prawdziwe. Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia, wynikającej z art. 233 ustawy"
       },
       {
        "type": "text",
-       "text": "odpowiedzialności karnej za złożenie fałszywego oświadczenia, wynikającej z art. 233 ustawy"
+       "text": "1)"
       },
       {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_3/pkt_1",
-       "text": "z dnia 6 czerwca 1997 r. − Kodeks karny (Dz. U. z 2025 r. poz. 383) .",
-       "children": [
-        {
-         "type": "text",
-         "text": "……………………………………….. ………………………………………………………… miejsce i data złożenia oświadczenia własnoręczny czytelny podpis wnioskodawcy"
-        },
-        {
-         "type": "text",
-         "text": "POUCZENIE:"
-        }
-       ]
+       "type": "text",
+       "text": "z dnia 6 czerwca 1997 r. − Kodeks karny (Dz. U. z 2025 r. poz. 383) ."
+      },
+      {
+       "type": "text",
+       "text": "……………………………………….. ………………………………………………………… miejsce i data złożenia oświadczenia własnoręczny czytelny podpis wnioskodawcy"
+      },
+      {
+       "type": "text",
+       "text": "POUCZENIE:"
       }
      ]
     },
@@ -472,97 +468,36 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Wniosek należy wypełnić w języku polskim; należy wypełnić wszystkie wymagane rubryki, które mają",
-     "children": [
-      {
-       "type": "text",
-       "text": "zastosowanie do sytuacji wnioskodawcy."
-      }
-     ]
+     "text": "Wniosek należy wypełnić w języku polskim; należy wypełnić wszystkie wymagane rubryki, które mają zastosowanie do sytuacji wnioskodawcy.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "W przypadku składania wniosku w postaci papierowej wniosek należy wypełnić czytelnie pismem",
-     "children": [
-      {
-       "type": "text",
-       "text": "maszynowym, komputerowo lub odręcznie drukowanymi literami."
-      }
-     ]
+     "text": "W przypadku składania wniosku w postaci papierowej wniosek należy wypełnić czytelnie pismem maszynowym, komputerowo lub odręcznie drukowanymi literami.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Wniosek o udzielenie repatriantowi jednorazowej pomocy finansowej obejmuje również członków najbliższej",
-     "children": [
-      {
-       "type": "text",
-       "text": "rodziny repatrianta. Stosownie do art. 1a pkt 2 ustawy z dnia 9 listopada 2000 r. o repatriacji pod pojęciem"
-      },
-      {
-       "type": "text",
-       "text": "najbliższej rodziny repatrianta rozumie się małżonka repatrianta i pozostające pod władzą rodzicielską"
-      },
-      {
-       "type": "text",
-       "text": "repatrianta lub jego małżonka małoletnie dziecko lub dzieci, którzy przybyli do Rzeczypospolitej Polskiej"
-      },
-      {
-       "type": "text",
-       "text": "razem z repatriantem."
-      }
-     ]
+     "text": "Wniosek o udzielenie repatriantowi jednorazowej pomocy finansowej obejmuje również członków najbliższej rodziny repatrianta. Stosownie do art. 1a pkt 2 ustawy z dnia 9 listopada 2000 r. o repatriacji pod pojęciem najbliższej rodziny repatrianta rozumie się małżonka repatrianta i pozostające pod władzą rodzicielską repatrianta lub jego małżonka małoletnie dziecko lub dzieci, którzy przybyli do Rzeczypospolitej Polskiej razem z repatriantem.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Zgodnie z art. 17 ust. 8 ustawy z dnia 9 listopada 2000 r. o repatriacji Pełnomocnik Rządu do Spraw Repatriacji",
-     "children": [
-      {
-       "type": "text",
-       "text": "nie udziela pomocy na pokrycie kosztów przejazdu lub przelotu oraz przewozu mienia do Rzeczypospolitej"
-      },
-      {
-       "type": "text",
-       "text": "Polskiej, jeżeli pomoc tę wypłacił konsul."
-      }
-     ]
+     "text": "Zgodnie z art. 17 ust. 8 ustawy z dnia 9 listopada 2000 r. o repatriacji Pełnomocnik Rządu do Spraw Repatriacji nie udziela pomocy na pokrycie kosztów przejazdu lub przelotu oraz przewozu mienia do Rzeczypospolitej Polskiej, jeżeli pomoc tę wypłacił konsul.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "5",
      "path": "ust_5",
-     "text": "Zgodnie z art. 17 ust. 1 pkt 3 ustawy z dnia 9 listopada 2000 r. o repatriacji pomoc finansowa na pokrycie",
-     "children": [
-      {
-       "type": "text",
-       "text": "kosztów związanych z podjęciem w Rzeczypospolitej Polskiej nauki przez osobę małoletnią dotyczy dzieci"
-      },
-      {
-       "type": "text",
-       "text": "podlegających obowiązkowi szkolnemu i realizujących ten obowiązek na terytorium Rzeczypospolitej"
-      },
-      {
-       "type": "text",
-       "text": "Polskiej. Zgodnie z art. 35 ust. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r."
-      },
-      {
-       "type": "text",
-       "text": "poz. 1043, z późn. zm.) obowiązek szkolny dziecka rozpoczyna się z początkiem roku szkolnego w roku"
-      },
-      {
-       "type": "text",
-       "text": "kalendarzowym, w którym dziecko kończy 7 lat, oraz trwa do ukończenia szkoły podstawowej, nie dłużej"
-      },
-      {
-       "type": "text",
-       "text": "jednak niż do ukończenia 18. roku życia."
-      }
-     ]
+     "text": "Zgodnie z art. 17 ust. 1 pkt 3 ustawy z dnia 9 listopada 2000 r. o repatriacji pomoc finansowa na pokrycie kosztów związanych z podjęciem w Rzeczypospolitej Polskiej nauki przez osobę małoletnią dotyczy dzieci podlegających obowiązkowi szkolnemu i realizujących ten obowiązek na terytorium Rzeczypospolitej Polskiej. Zgodnie z art. 35 ust. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, z późn. zm.) obowiązek szkolny dziecka rozpoczyna się z początkiem roku szkolnego w roku kalendarzowym, w którym dziecko kończy 7 lat, oraz trwa do ukończenia szkoły podstawowej, nie dłużej jednak niż do ukończenia 18. roku życia.",
+     "children": []
     },
     {
      "type": "ust",
@@ -581,65 +516,29 @@
        "type": "lit",
        "num": "b",
        "path": "ust_6/lit_b",
-       "text": "kopie decyzji wojewody w sprawie potwierdzenia posiadania obywatelstwa polskiego przez członków",
+       "text": "kopie decyzji wojewody w sprawie potwierdzenia posiadania obywatelstwa polskiego przez członków najbliższej rodziny repatrianta objętych wnioskiem lub – w przypadku gdy członek najbliższej rodziny repatrianta złożył wniosek o udzielenie zezwolenia na pobyt stały zgodnie z art. 12d ust. 3 ustawy z dnia 9 listopada 2000 r. o repatriacji – kopie stron paszportu potwierdzających wydanie wizy w celu przybycia na terytorium Rzeczypospolitej Polskiej jako członek najbliższej rodziny repatrianta,",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "najbliższej rodziny repatrianta objętych wnioskiem lub – w przypadku gdy członek najbliższej rodziny"
-      },
-      {
-       "type": "text",
-       "text": "repatrianta złożył wniosek o udzielenie zezwolenia na pobyt stały zgodnie z art. 12d ust. 3 ustawy z dnia"
-      },
-      {
-       "type": "text",
-       "text": "9 listopada 2000 r. o repatriacji – kopie stron paszportu potwierdzających wydanie wizy w celu przybycia"
-      },
-      {
-       "type": "text",
-       "text": "na terytorium Rzeczypospolitej Polskiej jako członek najbliższej rodziny repatrianta,"
       },
       {
        "type": "lit",
        "num": "c",
        "path": "ust_6/lit_c",
-       "text": "dokumenty potwierdzające ostatnie miejsce zamieszkania za granicą wnioskodawcy oraz członków",
+       "text": "dokumenty potwierdzające ostatnie miejsce zamieszkania za granicą wnioskodawcy oraz członków najbliższej rodziny repatrianta objętych wnioskiem, przed przesiedleniem do Rzeczypospolitej Polskiej w ramach repatriacji,",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "najbliższej rodziny repatrianta objętych wnioskiem, przed przesiedleniem do Rzeczypospolitej Polskiej"
-      },
-      {
-       "type": "text",
-       "text": "w ramach repatriacji,"
       },
       {
        "type": "lit",
        "num": "d",
        "path": "ust_6/lit_d",
-       "text": "w przypadku objęcia wnioskiem osoby małoletniej podlegającej obowiązkowi szkolnemu, która podjęła",
+       "text": "w przypadku objęcia wnioskiem osoby małoletniej podlegającej obowiązkowi szkolnemu, która podjęła naukę w Rzeczypospolitej Polskiej – zaświadczenie potwierdzające podjęcie nauki, wydane przez dyrektora właściwej szkoły podstawowej,",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "naukę w Rzeczypospolitej Polskiej – zaświadczenie potwierdzające podjęcie nauki, wydane przez"
-      },
-      {
-       "type": "text",
-       "text": "dyrektora właściwej szkoły podstawowej,"
       },
       {
        "type": "lit",
        "num": "e",
        "path": "ust_6/lit_e",
-       "text": "zaświadczenie potwierdzające prowadzenie rachunku bankowego, właściwego do przekazania środków",
+       "text": "zaświadczenie potwierdzające prowadzenie rachunku bankowego, właściwego do przekazania środków pomocy, wydane przez bank mający siedzibę na terytorium Rzeczypospolitej Polskiej,",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "pomocy, wydane przez bank mający siedzibę na terytorium Rzeczypospolitej Polskiej,"
       },
       {
        "type": "lit",
@@ -654,17 +553,8 @@
      "type": "ust",
      "num": "7",
      "path": "ust_7",
-     "text": "Wniosek o udzielenie jednorazowej pomocy finansowej należy złożyć do Pełnomocnika Rządu do Spraw",
-     "children": [
-      {
-       "type": "text",
-       "text": "Repatriacji w terminie 3 miesięcy od dnia doręczenia decyzji wojewody w sprawie potwierdzenia posiadania"
-      },
-      {
-       "type": "text",
-       "text": "obywatelstwa polskiego."
-      }
-     ]
+     "text": "Wniosek o udzielenie jednorazowej pomocy finansowej należy złożyć do Pełnomocnika Rządu do Spraw Repatriacji w terminie 3 miesięcy od dnia doręczenia decyzji wojewody w sprawie potwierdzenia posiadania obywatelstwa polskiego.",
+     "children": []
     },
     {
      "type": "ust",
@@ -677,49 +567,15 @@
      "type": "ust",
      "num": "9",
      "path": "ust_9",
-     "text": "Kwotę stanowiącą równowartość udzielonej jednorazowej pomocy finansowej wypłaca Pełnomocnik Rządu",
-     "children": [
-      {
-       "type": "text",
-       "text": "do Spraw Repatriacji w terminie 30 dni od dnia, w którym decyzja w sprawie udzielenia pomocy stała się"
-      },
-      {
-       "type": "text",
-       "text": "ostateczna."
-      }
-     ]
+     "text": "Kwotę stanowiącą równowartość udzielonej jednorazowej pomocy finansowej wypłaca Pełnomocnik Rządu do Spraw Repatriacji w terminie 30 dni od dnia, w którym decyzja w sprawie udzielenia pomocy stała się ostateczna.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "10",
      "path": "ust_10",
-     "text": "Zgodnie z przepisami ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego",
-     "children": [
-      {
-       "type": "text",
-       "text": "(Dz. U. z 2025 r. poz. 1691), zwanej dalej „Kpa”, decyzja staje się ostateczna po upływie terminu na"
-      },
-      {
-       "type": "text",
-       "text": "wniesienie od niej odwołania (wniosku o ponowne rozpatrzenie sprawy), tj. po upływie 14 dni od dnia"
-      },
-      {
-       "type": "text",
-       "text": "doręczenia decyzji stronie. Zgodnie z art. 127a Kpa przed upływem terminu do wniesienia odwołania strona"
-      },
-      {
-       "type": "text",
-       "text": "może zrzec się prawa do wniesienia odwołania wobec organu administracji publicznej, który wydał decyzję."
-      },
-      {
-       "type": "text",
-       "text": "Wówczas decyzja staje się ostateczna z dniem doręczenia organowi administracji publicznej oświadczenia"
-      },
-      {
-       "type": "text",
-       "text": "o zrzeczeniu się prawa do wniesienia odwołania przez ostatnią ze stron postępowania."
-      }
-     ]
+     "text": "Zgodnie z przepisami ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691), zwanej dalej „Kpa”, decyzja staje się ostateczna po upływie terminu na wniesienie od niej odwołania (wniosku o ponowne rozpatrzenie sprawy), tj. po upływie 14 dni od dnia doręczenia decyzji stronie. Zgodnie z art. 127a Kpa przed upływem terminu do wniesienia odwołania strona może zrzec się prawa do wniesienia odwołania wobec organu administracji publicznej, który wydał decyzję. Wówczas decyzja staje się ostateczna z dniem doręczenia organowi administracji publicznej oświadczenia o zrzeczeniu się prawa do wniesienia odwołania przez ostatnią ze stron postępowania.",
+     "children": []
     },
     {
      "type": "ust",

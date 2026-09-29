@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/763",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 11 czerwca 2026 r. w sprawie struktury numeru identyfikacyjnego oraz numeru referencyjnego w systemie Eurodac",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/763/text.pdf",
  "body": [
   {
@@ -74,150 +74,63 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "PP (pole nr 1 i 2) – dwuliterowy kod umożliwiający identyfikację państwa członkowskiego Unii",
-     "children": [
-      {
-       "type": "text",
-       "text": "Europejskiej przesyłającego dane, dla Rzeczypospolitej Polskiej kod ma wartość „PL”;"
-      }
-     ]
+     "text": "PP (pole nr 1 i 2) – dwuliterowy kod umożliwiający identyfikację państwa członkowskiego Unii Europejskiej przesyłającego dane, dla Rzeczypospolitej Polskiej kod ma wartość „PL”;",
+     "children": []
     },
     {
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "X (pole nr 3) – oznaczenie kategorii osoby, o której mowa w art. 15 ust. 1, art. 18 ust. 1 i 2, art. 20",
+     "text": "X (pole nr 3) – oznaczenie kategorii osoby, o której mowa w art. 15 ust. 1, art. 18 ust. 1 i 2, art. 20 ust. 1, art. 22 ust. 1, art. 23 ust. 1, art. 24 ust. 1 lub art. 26 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/1358 z dnia 14 maja 2024 r. w sprawie ustanowienia systemu Eurodac do porównywania danych biometrycznych w celu skutecznego stosowania rozporządzeń Parlamentu Europejskiego i Rady (UE) 2024/1351 i (UE) 2024/1350 i dyrektywy Rady 2001/55/WE oraz w celu identyfikowania nielegalnie przebywających obywateli państw trzecich oraz bezpaństwowców, w sprawie występowania z wnioskami o porównanie z danymi Eurodac przez organy ścigania państw członkowskich i Europol na potrzeby ochrony porządku publicznego, w sprawie zmiany rozporządzeń Parlamentu Europejskiego i Rady (UE) 2018/1240 i (UE) 2019/818 oraz w sprawie uchylenia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 603/2013 (Dz. Urz. UE L 2024/1358 z 22.05.2024, z późn. zm.), zwanego dalej „rozporządzeniem 2024/1358”, zgodnie z art. 37 ust. 4 tego rozporządzenia:",
      "children": [
-      {
-       "type": "text",
-       "text": "ust. 1, art. 22 ust. 1, art. 23 ust. 1, art. 24 ust. 1 lub art. 26 ust. 1 rozporządzenia Parlamentu"
-      },
-      {
-       "type": "text",
-       "text": "Europejskiego i Rady (UE) 2024/1358 z dnia 14 maja 2024 r. w sprawie ustanowienia systemu"
-      },
-      {
-       "type": "text",
-       "text": "Eurodac do porównywania danych biometrycznych w celu skutecznego stosowania rozporządzeń"
-      },
-      {
-       "type": "text",
-       "text": "Parlamentu Europejskiego i Rady (UE) 2024/1351 i (UE) 2024/1350 i dyrektywy Rady"
-      },
-      {
-       "type": "text",
-       "text": "2001/55/WE oraz w celu identyfikowania nielegalnie przebywających obywateli państw trzecich"
-      },
-      {
-       "type": "text",
-       "text": "oraz bezpaństwowców, w sprawie występowania z wnioskami o porównanie z danymi Eurodac"
-      },
-      {
-       "type": "text",
-       "text": "przez organy ścigania państw członkowskich i Europol na potrzeby ochrony porządku publicznego,"
-      },
-      {
-       "type": "text",
-       "text": "w sprawie zmiany rozporządzeń Parlamentu Europejskiego i Rady (UE) 2018/1240 i (UE) 2019/818"
-      },
-      {
-       "type": "text",
-       "text": "oraz w sprawie uchylenia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 603/2013"
-      },
-      {
-       "type": "text",
-       "text": "(Dz. Urz. UE L 2024/1358 z 22.05.2024, z późn. zm.), zwanego dalej „rozporządzeniem"
-      },
-      {
-       "type": "text",
-       "text": "2024/1358”, zgodnie z art. 37 ust. 4 tego rozporządzenia:"
-      },
       {
        "type": "lit",
        "num": "a",
        "path": "pkt_2/lit_a",
-       "text": "„1” – osoby ubiegające się o ochronę międzynarodową (art. 15 ust. 1 rozporządzenia",
-       "children": [
-        {
-         "type": "text",
-         "text": "2024/1358),"
-        }
-       ]
+       "text": "„1” – osoby ubiegające się o ochronę międzynarodową (art. 15 ust. 1 rozporządzenia 2024/1358),",
+       "children": []
       },
       {
        "type": "lit",
        "num": "b",
        "path": "pkt_2/lit_b",
-       "text": "„2” – obywatele państw trzecich lub bezpaństwowcy zatrzymani w związku z niedozwolonym",
+       "text": "„2” – obywatele państw trzecich lub bezpaństwowcy zatrzymani w związku z niedozwolonym przekroczeniem granicy zewnętrznej (art. 22 ust. 1 rozporządzenia 2024/1358),",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "przekroczeniem granicy zewnętrznej (art. 22 ust. 1 rozporządzenia 2024/1358),"
       },
       {
        "type": "lit",
        "num": "c",
        "path": "pkt_2/lit_c",
-       "text": "„3” – obywatele państw trzecich lub bezpaństwowcy przebywający nielegalnie w państwie",
+       "text": "„3” – obywatele państw trzecich lub bezpaństwowcy przebywający nielegalnie w państwie członkowskim (art. 23 ust. 1 rozporządzenia 2024/1358),",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "członkowskim (art. 23 ust. 1 rozporządzenia 2024/1358),"
       },
       {
        "type": "lit",
        "num": "d",
        "path": "pkt_2/lit_d",
-       "text": "„6” – osoby posiadające prawo dostępu do danych, które ich dotyczą i mogą być zapisane",
+       "text": "„6” – osoby posiadające prawo dostępu do danych, które ich dotyczą i mogą być zapisane w Eurodac, oraz do ich sprostowania, uzupełnienia, usunięcia lub ograniczenia przetwarzania tych danych (art. 43 rozporządzenia 2024/1358),",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "w Eurodac, oraz do ich sprostowania, uzupełnienia, usunięcia lub ograniczenia przetwarzania"
-      },
-      {
-       "type": "text",
-       "text": "tych danych (art. 43 rozporządzenia 2024/1358),"
       },
       {
        "type": "lit",
        "num": "e",
        "path": "pkt_2/lit_e",
-       "text": "„7” – osoby zarejestrowane w celu przeprowadzenia procedury przyjmowania na podstawie",
+       "text": "„7” – osoby zarejestrowane w celu przeprowadzenia procedury przyjmowania na podstawie unijnych ram przesiedleń i przyjmowania ze względów humanitarnych (art. 18 ust. 1 i 2 rozporządzenia 2024/1358),",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "unijnych ram przesiedleń i przyjmowania ze względów humanitarnych (art. 18 ust. 1 i 2"
-      },
-      {
-       "type": "text",
-       "text": "rozporządzenia 2024/1358),"
       },
       {
        "type": "lit",
        "num": "f",
        "path": "pkt_2/lit_f",
-       "text": "„8” – osoby przyjęte zgodnie z krajowym programem przesiedleń (art. 20 ust. 1 rozporządzenia",
-       "children": [
-        {
-         "type": "text",
-         "text": "2024/1358),"
-        }
-       ]
+       "text": "„8” – osoby przyjęte zgodnie z krajowym programem przesiedleń (art. 20 ust. 1 rozporządzenia 2024/1358),",
+       "children": []
       },
       {
        "type": "lit",
        "num": "g",
        "path": "pkt_2/lit_g",
-       "text": "„9” – obywatele państw trzecich lub bezpaństwowcy sprowadzeni na ląd w następstwie operacji",
+       "text": "„9” – obywatele państw trzecich lub bezpaństwowcy sprowadzeni na ląd w następstwie operacji poszukiwawczo-ratowniczej (art. 24 ust. 1 rozporządzenia 2024/1358),",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "poszukiwawczo-ratowniczej (art. 24 ust. 1 rozporządzenia 2024/1358),"
       },
       {
        "type": "lit",
@@ -245,23 +158,15 @@
        "type": "lit",
        "num": "b",
        "path": "pkt_3/lit_b",
-       "text": "data zatrzymania w związku z niedozwolonym przekroczeniem granicy drogą lądową, morską",
+       "text": "data zatrzymania w związku z niedozwolonym przekroczeniem granicy drogą lądową, morską lub powietrzną – w przypadku kategorii 2,",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "lub powietrzną – w przypadku kategorii 2,"
       },
       {
        "type": "lit",
        "num": "c",
        "path": "pkt_3/lit_c",
-       "text": "data zatrzymania w związku z nielegalnym pobytem na terytorium Rzeczypospolitej Polskiej –",
+       "text": "data zatrzymania w związku z nielegalnym pobytem na terytorium Rzeczypospolitej Polskiej – w przypadku kategorii 3,",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "w przypadku kategorii 3,"
       },
       {
        "type": "lit",
@@ -274,34 +179,22 @@
        "type": "lit",
        "num": "e",
        "path": "pkt_3/lit_e",
-       "text": "data rozpoczęcia procedury przyjmowania na podstawie unijnych ram przesiedleń",
+       "text": "data rozpoczęcia procedury przyjmowania na podstawie unijnych ram przesiedleń i przyjmowania ze względów humanitarnych – w przypadku kategorii 7,",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "i przyjmowania ze względów humanitarnych – w przypadku kategorii 7,"
       },
       {
        "type": "lit",
        "num": "f",
        "path": "pkt_3/lit_f",
-       "text": "data rozpoczęcia procedury przyjmowania zgodnie z krajowym programem przesiedleń –",
+       "text": "data rozpoczęcia procedury przyjmowania zgodnie z krajowym programem przesiedleń – w przypadku kategorii 8,",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "w przypadku kategorii 8,"
       },
       {
        "type": "lit",
        "num": "g",
        "path": "pkt_3/lit_g",
-       "text": "data sprowadzenia na ląd w następstwie operacji poszukiwawczo-ratowniczej – w przypadku",
+       "text": "data sprowadzenia na ląd w następstwie operacji poszukiwawczo-ratowniczej – w przypadku kategorii 9,",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "kategorii 9,"
       },
       {
        "type": "lit",
@@ -312,11 +205,7 @@
       },
       {
        "type": "text",
-       "text": "– gdzie litery „RR” oznaczają dwie ostatnie cyfry roku, litery „MM” oznaczają dwucyfrowe"
-      },
-      {
-       "type": "text",
-       "text": "oznaczenie miesiąca, a litery „DD” oznaczają dwucyfrowe oznaczenie dnia;"
+       "text": "– gdzie litery „RR” oznaczają dwie ostatnie cyfry roku, litery „MM” oznaczają dwucyfrowe oznaczenie miesiąca, a litery „DD” oznaczają dwucyfrowe oznaczenie dnia;"
       }
      ]
     },
@@ -324,12 +213,8 @@
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "AAAAAA (pola nr od 10 do 15) – oznaczenie organu oraz numer urządzenia, na którym zostały",
+     "text": "AAAAAA (pola nr od 10 do 15) – oznaczenie organu oraz numer urządzenia, na którym zostały pobrane dane, z wykorzystaniem następujących oznaczeń organów:",
      "children": [
-      {
-       "type": "text",
-       "text": "pobrane dane, z wykorzystaniem następujących oznaczeń organów:"
-      },
       {
        "type": "lit",
        "num": "a",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/501",
  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 10 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodowej w sprawie umundurowania funkcjonariuszy Służby Kontrwywiadu Wojskowego",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/501/text.pdf",
  "body": [
   {
@@ -2457,16 +2457,18 @@
      "text": "1 2 3 4 5 6"
     },
     {
-     "type": "text",
-     "text": "I. UMUNDUROWANIE"
+     "type": "heading",
+     "label": "I.",
+     "text": "UMUNDUROWANIE"
     },
     {
      "type": "text",
      "text": "1 Beret koloru zielonego szt. 1 1 2 Czapka futrzana oficerska wojsk lądowych szt. 1 6 3 Czapka rogatywka szt. 1 4 4 Bluza olimpijka oficerska wojsk lądowych szt. 1 2 5 Kurtka wiatrówka wojsk lądowych szt. 1 5 6 Krawat koloru khaki szt. 2 2 7 Kurtka wyjściowa wojsk lądowych z podpinką kpl. 1 5 8 Mundur letni oficerski wojsk lądowych wzór 92 kpl. 1 4 9 Mundur galowy oficerski wojsk lądowych wzór 92 kpl. 1 4 10 Mundur wyjściowy oficerski wojsk lądowych wzór 92 kpl. 1 4 11 Mundur służbowy generalski wojsk lądowych (ze spodniami do kpl. 1 4 butów) 12 Płaszcz letni oficerski wojsk lądowych szt. 1 5 13 Płaszcz sukienny oficerski wojsk lądowych szt. 1 5 14 Rękawiczki letnie koloru czarnego para 1 4 15 Rękawiczki zimowe koloru czarnego para 1 2 16 Spodnie do butów (generalskie) wojsk lądowych szt. 1 3 17 Spodnie letnie oficerskie wojsk lądowych wzór 92 szt. 1 4 18 Spodnie wyjściowe oficerskie wojsk lądowych wzór 92 szt. 1 2 19 Szalik letni oficerski koloru khaki szt. 1 4 20 Szalik zimowy oficerski koloru khaki szt. 1 3 21 Sweter oficerski wojsk lądowych szt. 1 2 22 Wiatrówka oficerska wojsk lądowych wzór 92 szt. 1 4 23 Bluza ubrania treningowego szt. 1 2 24 Spodnie ubrania treningowego szt. 1 2 25 Taśma otokowa do rogatywki koloru granatowego szt. 1 4 26 Oznaka identyfikacyjna z nazwiskiem do ubiorów wyjściowych, szt. 2 4 galowych i służbowych 27 Oznaki stopnia służbowego kpl. wg kalkulacji – do każdego przedmiotu wg przepisów 28 Oznaki Służby Kontrwywiadu Wojskowego kpl. mundurowych"
     },
     {
-     "type": "text",
-     "text": "II. BIELIZNA"
+     "type": "heading",
+     "label": "II.",
+     "text": "BIELIZNA"
     },
     {
      "type": "text",
@@ -2846,66 +2848,69 @@
         {
          "type": "text",
          "text": "26 Skarpety letnie 3 2 3 2"
-        },
-        {
-         "type": "text",
-         "text": "III. POŚCIEL"
-        },
-        {
-         "type": "text",
-         "text": "27 Karimata 1 8 1 8"
-        },
-        {
-         "type": "text",
-         "text": "28 Śpiwór 1 8 1 8"
-        },
-        {
-         "type": "text",
-         "text": "IV. OBUWIE"
-        },
-        {
-         "type": "text",
-         "text": "29 Trzewiki letnie 1 4 1 4"
-        },
-        {
-         "type": "text",
-         "text": "30 Trzewiki zimowe 1 4 1 4"
-        },
-        {
-         "type": "text",
-         "text": "31 Trzewiki ćwiczebne tropikalne wzór 2010 1 2"
-        },
-        {
-         "type": "text",
-         "text": "V. OPORZĄDZENIE"
-        },
-        {
-         "type": "text",
-         "text": "32 Pas z klamrą 1 8 1 8"
-        },
-        {
-         "type": "text",
-         "text": "33 Szelki do przenoszenia oporządzenia 1 8 1 8"
-        },
-        {
-         "type": "text",
-         "text": "34 Zasobnik piechoty górskiej 1 8 1 8"
-        },
-        {
-         "type": "text",
-         "text": "35 Zasobnik piechoty górskiej w kamuflażu 1 4 pustynnym"
-        },
-        {
-         "type": "text",
-         "text": "36 Okulary przeciwsłoneczne 1 2"
-        },
-        {
-         "type": "text",
-         "text": "Uwagi:"
         }
        ]
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "POŚCIEL"
+    },
+    {
+     "type": "text",
+     "text": "27 Karimata 1 8 1 8"
+    },
+    {
+     "type": "text",
+     "text": "28 Śpiwór 1 8 1 8"
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "OBUWIE"
+    },
+    {
+     "type": "text",
+     "text": "29 Trzewiki letnie 1 4 1 4"
+    },
+    {
+     "type": "text",
+     "text": "30 Trzewiki zimowe 1 4 1 4"
+    },
+    {
+     "type": "text",
+     "text": "31 Trzewiki ćwiczebne tropikalne wzór 2010 1 2"
+    },
+    {
+     "type": "heading",
+     "label": "V.",
+     "text": "OPORZĄDZENIE"
+    },
+    {
+     "type": "text",
+     "text": "32 Pas z klamrą 1 8 1 8"
+    },
+    {
+     "type": "text",
+     "text": "33 Szelki do przenoszenia oporządzenia 1 8 1 8"
+    },
+    {
+     "type": "text",
+     "text": "34 Zasobnik piechoty górskiej 1 8 1 8"
+    },
+    {
+     "type": "text",
+     "text": "35 Zasobnik piechoty górskiej w kamuflażu 1 4 pustynnym"
+    },
+    {
+     "type": "text",
+     "text": "36 Okulary przeciwsłoneczne 1 2"
+    },
+    {
+     "type": "text",
+     "text": "Uwagi:"
     },
     {
      "type": "ust",
@@ -3005,8 +3010,9 @@
      "text": "ZESTAW norm materiału na uszycie przedmiotów wchodzących w skład umundurowania"
     },
     {
-     "type": "text",
-     "text": "I. Na płaszcz sukienny (według rozmiarów)"
+     "type": "heading",
+     "label": "I.",
+     "text": "Na płaszcz sukienny (według rozmiarów)"
     },
     {
      "type": "text",

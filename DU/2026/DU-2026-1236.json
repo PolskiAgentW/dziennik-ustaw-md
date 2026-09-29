@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1236",
  "title": "Obwieszczenie Ministra Klimatu i Środowiska z dnia 2 września 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Energii w sprawie szczegółowego zakresu i sposobu sporządzania audytu efektywności energetycznej oraz metod obliczania oszczędności energii",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1236/text.pdf",
  "body": [
   {
@@ -1109,7 +1109,15 @@
     },
     {
      "type": "text",
-     "text": "służące poprawie Formuły umożliwiające obliczenie oszczędności energii Definicje efektywności"
+     "text": "służące poprawie"
+    },
+    {
+     "type": "text",
+     "text": "Formuły umożliwiające obliczenie oszczędności energii Definicje"
+    },
+    {
+     "type": "text",
+     "text": "efektywności"
     },
     {
      "type": "text",
@@ -1125,31 +1133,19 @@
     },
     {
      "type": "text",
-     "text": "Ocieplenie ściany (1) – ilość zaoszczędzonej energii finalnej,"
+     "text": "Ocieplenie ściany (1) – ilość zaoszczędzonej energii finalnej, zewnętrznej, dachu wyrażonej w [GJ/rok],"
     },
     {
      "type": "text",
-     "text": "zewnętrznej, dachu wyrażonej w [GJ/rok],"
+     "text": "lub stropodachu¹ – współczynnik ostrości klimatu, na podstawie ¹² AA pp⁰¹ dd"
     },
     {
      "type": "text",
-     "text": "lub stropodachu¹ – współczynnik ostrości klimatu, na podstawie ¹² AA pp⁰¹ dd danych zawartych w tabeli nr 1,"
+     "text": "danych zawartych w tabeli nr 1,"
     },
     {
      "type": "text",
-     "text": "– współczynnik korekcyjny w zależności od"
-    },
-    {
-     "type": "text",
-     "text": "wielkości średniej temperatury pomieszczenia"
-    },
-    {
-     "type": "text",
-     "text": "ogrzewanego, na podstawie danych zawartych"
-    },
-    {
-     "type": "text",
-     "text": "w tabeli nr 3,"
+     "text": "– współczynnik korekcyjny w zależności od wielkości średniej temperatury pomieszczenia ogrzewanego, na podstawie danych zawartych w tabeli nr 3,"
     },
     {
      "type": "text",
@@ -1161,111 +1157,23 @@
     },
     {
      "type": "text",
-     "text": "– współczynnik przenikania ciepła ściany"
+     "text": "– współczynnik przenikania ciepła ściany zewnętrznej lub stropodachu w stanie istniejącym, określony na podstawie dokumentacji technicznej, odpowiednich obliczeń wykonanych dla stanu faktycznego zgodnie z Polską Normą PN-EN ISO 6946 lub na podstawie danych zawartych w tabeli nr 2, wyrażony w [W/m² K],"
     },
     {
      "type": "text",
-     "text": "zewnętrznej lub stropodachu w stanie"
+     "text": "– grubość dodatkowej warstwy ocieplenia, wyrażona w [m],"
     },
     {
      "type": "text",
-     "text": "istniejącym, określony na podstawie"
+     "text": "– współczynnik przewodności cieplnej materiału izolacyjnego określony na podstawie Polskiej Normy PN-EN ISO 10456 lub na podstawie danych producenta; dla większości standardowych materiałów do izolacji cieplnej, w tym dla wełny mineralnej lub styropianu, można przyjmować = 0,040; dla materiałów o podwyższonej izolacyjności λλ cieplnej można przyjmować wartości niższe, pod warunkiem potwierdzenia przyjętych do obliczeń parametrów izolacyjności cieplnej odpowiednią dokumentacją lub obliczeniami, wyrażony w [W/m K],"
     },
     {
      "type": "text",
-     "text": "dokumentacji technicznej, odpowiednich"
+     "text": "– całkowita sprawność systemu grzewczego równa w przypadku budynków mieszkalnych ηη 0MM lub w przypadku budynków użyteczności ηη publicznej 0PP i budynków usługowych, określona na podstawie danych zawartych w tabeli nr 4"
     },
     {
      "type": "text",
-     "text": "obliczeń wykonanych dla stanu faktycznego"
-    },
-    {
-     "type": "text",
-     "text": "zgodnie z Polską Normą PN-EN ISO 6946 lub"
-    },
-    {
-     "type": "text",
-     "text": "na podstawie danych zawartych w tabeli nr 2,"
-    },
-    {
-     "type": "text",
-     "text": "wyrażony w [W/m² K],"
-    },
-    {
-     "type": "text",
-     "text": "– grubość dodatkowej warstwy ocieplenia,"
-    },
-    {
-     "type": "text",
-     "text": "wyrażona w [m],"
-    },
-    {
-     "type": "text",
-     "text": "– współczynnik przewodności cieplnej"
-    },
-    {
-     "type": "text",
-     "text": "materiału izolacyjnego określony na"
-    },
-    {
-     "type": "text",
-     "text": "podstawie Polskiej Normy PN-EN ISO 10456"
-    },
-    {
-     "type": "text",
-     "text": "lub na podstawie danych producenta; dla"
-    },
-    {
-     "type": "text",
-     "text": "większości standardowych materiałów do"
-    },
-    {
-     "type": "text",
-     "text": "izolacji cieplnej, w tym dla wełny mineralnej"
-    },
-    {
-     "type": "text",
-     "text": "lub styropianu, można przyjmować = 0,040;"
-    },
-    {
-     "type": "text",
-     "text": "dla materiałów o podwyższonej izolacyjności λλ cieplnej można przyjmować wartości niższe,"
-    },
-    {
-     "type": "text",
-     "text": "pod warunkiem potwierdzenia przyjętych do"
-    },
-    {
-     "type": "text",
-     "text": "obliczeń parametrów izolacyjności cieplnej odpowiednią dokumentacją lub obliczeniami,"
-    },
-    {
-     "type": "text",
-     "text": "wyrażony w [W/m K],"
-    },
-    {
-     "type": "text",
-     "text": "– całkowita sprawność systemu grzewczego"
-    },
-    {
-     "type": "text",
-     "text": "równa w przypadku budynków"
-    },
-    {
-     "type": "text",
-     "text": "mieszkalnych ηη 0MM lub w przypadku budynków użyteczności ηη publicznej 0PP i budynków usługowych, określona na podstawie danych"
-    },
-    {
-     "type": "text",
-     "text": "zawartych w tabeli nr 4"
-    },
-    {
-     "type": "text",
-     "text": "Ocieplenie stropu (2) – ilość zaoszczędzonej energii finalnej,"
-    },
-    {
-     "type": "text",
-     "text": "pod nieogrzewanym wyrażonej w [GJ/rok],"
+     "text": "Ocieplenie stropu (2) – ilość zaoszczędzonej energii finalnej, pod nieogrzewanym wyrażonej w [GJ/rok],"
     },
     {
      "type": "text",
@@ -1273,19 +1181,7 @@
     },
     {
      "type": "text",
-     "text": "– współczynnik korekcyjny w zależności od"
-    },
-    {
-     "type": "text",
-     "text": "wysokości średniej temperatury"
-    },
-    {
-     "type": "text",
-     "text": "pomieszczenia ogrzewanego, na podstawie"
-    },
-    {
-     "type": "text",
-     "text": "danych zawartych w tabeli nr 3,"
+     "text": "– współczynnik korekcyjny w zależności od wysokości średniej temperatury pomieszczenia ogrzewanego, na podstawie danych zawartych w tabeli nr 3,"
     },
     {
      "type": "text",
@@ -1297,111 +1193,23 @@
     },
     {
      "type": "text",
-     "text": "– współczynnik przenikania ciepła stropu pod"
+     "text": "– współczynnik przenikania ciepła stropu pod nieogrzewanym poddaszem w stanie istniejącym, określony na podstawie dokumentacji technicznej, odpowiednich obliczeń wykonanych dla stanu faktycznego zgodnie z Polską Normą PN-EN ISO 6946 lub na podstawie danych zawartych w tabeli nr 2, wyrażony w [W/m² K],"
     },
     {
      "type": "text",
-     "text": "nieogrzewanym poddaszem w stanie"
+     "text": "– grubość dodatkowej warstwy ocieplenia, wyrażona w [m],"
     },
     {
      "type": "text",
-     "text": "istniejącym, określony na podstawie dokumentacji technicznej, odpowiednich"
+     "text": "– współczynnik przewodności cieplnej materiału izolacyjnego określony na podstawie Polskiej Normy PN-EN ISO 10456 lub na podstawie danych producenta; dla większości standardowych materiałów do izolacji cieplnej, w tym dla wełny mineralnej lub styropianu, można przyjmować = 0,040; dla materiałów o podwyższonej izolacyjności λλ cieplnej można przyjmować wartości niższe, pod warunkiem potwierdzenia przyjętych do obliczeń parametrów izolacyjności cieplnej odpowiednią dokumentacją lub obliczeniami, wyrażony w [W/m K],"
     },
     {
      "type": "text",
-     "text": "obliczeń wykonanych dla stanu faktycznego"
+     "text": "– całkowita sprawność systemu grzewczego równa w przypadku budynków mieszkalnych ηη 0MM lub w przypadku budynków użyteczności ηη publicznej 0PP i budynków usługowych, określona na podstawie danych zawartych w tabeli nr 4"
     },
     {
      "type": "text",
-     "text": "zgodnie z Polską Normą PN-EN ISO 6946 lub"
-    },
-    {
-     "type": "text",
-     "text": "na podstawie danych zawartych w tabeli nr 2,"
-    },
-    {
-     "type": "text",
-     "text": "wyrażony w [W/m² K],"
-    },
-    {
-     "type": "text",
-     "text": "– grubość dodatkowej warstwy ocieplenia,"
-    },
-    {
-     "type": "text",
-     "text": "wyrażona w [m],"
-    },
-    {
-     "type": "text",
-     "text": "– współczynnik przewodności cieplnej"
-    },
-    {
-     "type": "text",
-     "text": "materiału izolacyjnego określony na"
-    },
-    {
-     "type": "text",
-     "text": "podstawie Polskiej Normy PN-EN ISO 10456"
-    },
-    {
-     "type": "text",
-     "text": "lub na podstawie danych producenta; dla"
-    },
-    {
-     "type": "text",
-     "text": "większości standardowych materiałów do"
-    },
-    {
-     "type": "text",
-     "text": "izolacji cieplnej, w tym dla wełny mineralnej"
-    },
-    {
-     "type": "text",
-     "text": "lub styropianu, można przyjmować = 0,040;"
-    },
-    {
-     "type": "text",
-     "text": "dla materiałów o podwyższonej izolacyjności λλ cieplnej można przyjmować wartości niższe,"
-    },
-    {
-     "type": "text",
-     "text": "pod warunkiem potwierdzenia przyjętych do"
-    },
-    {
-     "type": "text",
-     "text": "obliczeń parametrów izolacyjności cieplnej"
-    },
-    {
-     "type": "text",
-     "text": "odpowiednią dokumentacją lub obliczeniami,"
-    },
-    {
-     "type": "text",
-     "text": "wyrażony w [W/m K],"
-    },
-    {
-     "type": "text",
-     "text": "– całkowita sprawność systemu grzewczego"
-    },
-    {
-     "type": "text",
-     "text": "równa w przypadku budynków"
-    },
-    {
-     "type": "text",
-     "text": "mieszkalnych ηη 0MM lub w przypadku budynków użyteczności ηη publicznej 0PP i budynków usługowych, określona na podstawie danych"
-    },
-    {
-     "type": "text",
-     "text": "zawartych w tabeli nr 4"
-    },
-    {
-     "type": "text",
-     "text": "Ocieplenie stropu (3) – ilość zaoszczędzonej energii finalnej,"
-    },
-    {
-     "type": "text",
-     "text": "nad piwnicą wyrażonej w [GJ/rok],"
+     "text": "Ocieplenie stropu (3) – ilość zaoszczędzonej energii finalnej, nad piwnicą wyrażonej w [GJ/rok],"
     },
     {
      "type": "text",
@@ -1409,19 +1217,7 @@
     },
     {
      "type": "text",
-     "text": "– współczynnik korekcyjny w zależności od"
-    },
-    {
-     "type": "text",
-     "text": "wysokości średniej temperatury"
-    },
-    {
-     "type": "text",
-     "text": "pomieszczenia ogrzewanego, na podstawie"
-    },
-    {
-     "type": "text",
-     "text": "danych zawartych w tabeli nr 3,"
+     "text": "– współczynnik korekcyjny w zależności od wysokości średniej temperatury pomieszczenia ogrzewanego, na podstawie danych zawartych w tabeli nr 3,"
     },
     {
      "type": "text",
@@ -1433,107 +1229,19 @@
     },
     {
      "type": "text",
-     "text": "– współczynnik przenikania ciepła stropu nad"
+     "text": "– współczynnik przenikania ciepła stropu nad piwnicą nieogrzewaną w stanie istniejącym, określony na podstawie dokumentacji technicznej, odpowiednich obliczeń wykonanych dla stanu faktycznego zgodnie z Polską Normą PN-EN ISO 6946 lub na podstawie danych zawartych w tabeli nr 2, wyrażony w [W/m²K],"
     },
     {
      "type": "text",
-     "text": "piwnicą nieogrzewaną w stanie istniejącym,"
+     "text": "– grubość dodatkowej warstwy ocieplenia, wyrażona w [m],"
     },
     {
      "type": "text",
-     "text": "określony na podstawie dokumentacji"
+     "text": "– współczynnik przewodności cieplnej materiału izolacyjnego określony na podstawie Polskiej Normy PN-EN ISO 10456 lub na podstawie danych producenta; dla większości standardowych materiałów do izolacji cieplnej, w tym dla wełny mineralnej lub styropianu, można przyjmować = 0,040; dla materiałów o podwyższonej izolacyjności λλ cieplnej można przyjmować wartości niższe, pod warunkiem potwierdzenia przyjętych do obliczeń parametrów izolacyjności cieplnej odpowiednią dokumentacją lub obliczeniami, wyrażony w [W/m K],"
     },
     {
      "type": "text",
-     "text": "technicznej, odpowiednich obliczeń"
-    },
-    {
-     "type": "text",
-     "text": "wykonanych dla stanu faktycznego zgodnie z Polską Normą PN-EN ISO 6946 lub na"
-    },
-    {
-     "type": "text",
-     "text": "podstawie danych zawartych w tabeli nr 2,"
-    },
-    {
-     "type": "text",
-     "text": "wyrażony w [W/m²K],"
-    },
-    {
-     "type": "text",
-     "text": "– grubość dodatkowej warstwy ocieplenia,"
-    },
-    {
-     "type": "text",
-     "text": "wyrażona w [m],"
-    },
-    {
-     "type": "text",
-     "text": "– współczynnik przewodności cieplnej"
-    },
-    {
-     "type": "text",
-     "text": "materiału izolacyjnego określony na"
-    },
-    {
-     "type": "text",
-     "text": "podstawie Polskiej Normy PN-EN ISO 10456"
-    },
-    {
-     "type": "text",
-     "text": "lub na podstawie danych producenta; dla"
-    },
-    {
-     "type": "text",
-     "text": "większości standardowych materiałów do"
-    },
-    {
-     "type": "text",
-     "text": "izolacji cieplnej, w tym dla wełny mineralnej"
-    },
-    {
-     "type": "text",
-     "text": "lub styropianu, można przyjmować = 0,040;"
-    },
-    {
-     "type": "text",
-     "text": "dla materiałów o podwyższonej izolacyjności λλ cieplnej można przyjmować wartości niższe,"
-    },
-    {
-     "type": "text",
-     "text": "pod warunkiem potwierdzenia przyjętych do"
-    },
-    {
-     "type": "text",
-     "text": "obliczeń parametrów izolacyjności cieplnej"
-    },
-    {
-     "type": "text",
-     "text": "odpowiednią dokumentacją lub obliczeniami,"
-    },
-    {
-     "type": "text",
-     "text": "wyrażony w [W/m K],"
-    },
-    {
-     "type": "text",
-     "text": "– całkowita sprawność systemu grzewczego"
-    },
-    {
-     "type": "text",
-     "text": "równa w przypadku budynków"
-    },
-    {
-     "type": "text",
-     "text": "mieszkalnych ηη 0MM lub w przypadku budynków użyteczności publicznej i budynków"
-    },
-    {
-     "type": "text",
-     "text": "usługowych, określona na podstawie danych"
-    },
-    {
-     "type": "text",
-     "text": "zawartych w tabeli nr 4"
+     "text": "– całkowita sprawność systemu grzewczego równa w przypadku budynków mieszkalnych ηη 0MM lub w przypadku budynków użyteczności publicznej i budynków usługowych, określona na podstawie danych zawartych w tabeli nr 4"
     },
     {
      "type": "text",
@@ -1541,11 +1249,7 @@
     },
     {
      "type": "text",
-     "text": "Modernizacja lub (4) – ilość zaoszczędzonej energii finalnej,"
-    },
-    {
-     "type": "text",
-     "text": "wymiana stolarki wyrażonej w [GJ/rok],"
+     "text": "Modernizacja lub (4) – ilość zaoszczędzonej energii finalnej, wymiana stolarki wyrażonej w [GJ/rok],"
     },
     {
      "type": "text",
@@ -1553,79 +1257,23 @@
     },
     {
      "type": "text",
-     "text": "– współczynnik korekcyjny w zależności od"
+     "text": "– współczynnik korekcyjny w zależności od wysokości średniej temperatury pomieszczenia ogrzewanego, na podstawie danych zawartych w tabeli nr 3,"
     },
     {
      "type": "text",
-     "text": "wysokości średniej temperatury"
+     "text": "– powierzchnia okien poddawanych termomodernizacji, wyrażona w [m²],"
     },
     {
      "type": "text",
-     "text": "pomieszczenia ogrzewanego, na podstawie"
+     "text": "– współczynnik przenikania ciepła okna zewnętrznego i drzwi balkonowych w stanie istniejącym, określony na podstawie dokumentacji technicznej lub na podstawie danych zawartych w tabeli nr 2,"
     },
     {
      "type": "text",
-     "text": "danych zawartych w tabeli nr 3,"
+     "text": "– współczynnik przenikania ciepła okna zewnętrznego i drzwi balkonowych po modernizacji, określony na podstawie dokumentacji technicznej dostawcy stolarki okiennej,"
     },
     {
      "type": "text",
-     "text": "– powierzchnia okien poddawanych"
-    },
-    {
-     "type": "text",
-     "text": "termomodernizacji, wyrażona w [m²],"
-    },
-    {
-     "type": "text",
-     "text": "– współczynnik przenikania ciepła okna"
-    },
-    {
-     "type": "text",
-     "text": "zewnętrznego i drzwi balkonowych w stanie"
-    },
-    {
-     "type": "text",
-     "text": "istniejącym, określony na podstawie"
-    },
-    {
-     "type": "text",
-     "text": "dokumentacji technicznej lub na podstawie"
-    },
-    {
-     "type": "text",
-     "text": "danych zawartych w tabeli nr 2,"
-    },
-    {
-     "type": "text",
-     "text": "– współczynnik przenikania ciepła okna"
-    },
-    {
-     "type": "text",
-     "text": "zewnętrznego i drzwi balkonowych po modernizacji, określony na podstawie"
-    },
-    {
-     "type": "text",
-     "text": "dokumentacji technicznej dostawcy stolarki"
-    },
-    {
-     "type": "text",
-     "text": "okiennej,"
-    },
-    {
-     "type": "text",
-     "text": "– całkowita sprawność systemu grzewczego dla"
-    },
-    {
-     "type": "text",
-     "text": "budynków mieszkalnych i zamieszkania"
-    },
-    {
-     "type": "text",
-     "text": "zbiorowego określona na podstawie danych"
-    },
-    {
-     "type": "text",
-     "text": "zawartych w tabeli nr 4"
+     "text": "– całkowita sprawność systemu grzewczego dla budynków mieszkalnych i zamieszkania zbiorowego określona na podstawie danych zawartych w tabeli nr 4"
     },
     {
      "type": "text",
@@ -1633,27 +1281,7 @@
     },
     {
      "type": "text",
-     "text": "Uszczelnienie stolarki okiennej nie powoduje poprawy"
-    },
-    {
-     "type": "text",
-     "text": "współczynnika przenikania ciepła , a jedynie"
-    },
-    {
-     "type": "text",
-     "text": "ograniczenie strat ciepła w związku UU z 0oooo ograniczeniem nadmiernej wentylacji. W przypadkach modernizacji"
-    },
-    {
-     "type": "text",
-     "text": "polegającej na remoncie i uszczelnieniu istniejącej"
-    },
-    {
-     "type": "text",
-     "text": "stolarki okiennej należy korzystać ze wzoru (4),"
-    },
-    {
-     "type": "text",
-     "text": "przyjmując ="
+     "text": "Uszczelnienie stolarki okiennej nie powoduje poprawy współczynnika przenikania ciepła , a jedynie ograniczenie strat ciepła w związku UU z 0oooo ograniczeniem nadmiernej wentylacji. W przypadkach modernizacji polegającej na remoncie i uszczelnieniu istniejącej stolarki okiennej należy korzystać ze wzoru (4), przyjmując ="
     },
     {
      "type": "text",
@@ -1661,11 +1289,7 @@
     },
     {
      "type": "text",
-     "text": "Modernizacja lub (5) – ilość zaoszczędzonej energii finalnej,"
-    },
-    {
-     "type": "text",
-     "text": "wymiana stolarki wyrażonej w [GJ/rok],"
+     "text": "Modernizacja lub (5) – ilość zaoszczędzonej energii finalnej, wymiana stolarki wyrażonej w [GJ/rok],"
     },
     {
      "type": "text",
@@ -1673,107 +1297,27 @@
     },
     {
      "type": "text",
-     "text": "– współczynnik korekcyjny w zależności od"
+     "text": "– współczynnik korekcyjny w zależności od wysokości średniej temperatury pomieszczenia ogrzewanego, na podstawie danych zawartych w tabeli nr 3,"
     },
     {
      "type": "text",
-     "text": "wysokości średniej temperatury"
+     "text": "– powierzchnia okien poddawanych termomodernizacji, wyrażona w [m²],"
     },
     {
      "type": "text",
-     "text": "pomieszczenia ogrzewanego, na podstawie"
+     "text": "– współczynnik przenikania ciepła okna zewnętrznego i drzwi balkonowych w stanie istniejącym, określony na podstawie dokumentacji technicznej lub na podstawie danych zawartych w tabeli nr 2,"
     },
     {
      "type": "text",
-     "text": "danych zawartych w tabeli nr 3,"
+     "text": "– współczynnik przenikania ciepła okna zewnętrznego i drzwi balkonowych po modernizacji, określony na podstawie dokumentacji technicznej dostawcy stolarki okiennej,"
     },
     {
      "type": "text",
-     "text": "– powierzchnia okien poddawanych"
+     "text": "– całkowita sprawność systemu grzewczego dla budynków użyteczności publicznej i budynków usługowych, określona na podstawie danych zawartych w tabeli nr 4 Uwaga:"
     },
     {
      "type": "text",
-     "text": "termomodernizacji, wyrażona w [m²],"
-    },
-    {
-     "type": "text",
-     "text": "– współczynnik przenikania ciepła okna"
-    },
-    {
-     "type": "text",
-     "text": "zewnętrznego i drzwi balkonowych w stanie"
-    },
-    {
-     "type": "text",
-     "text": "istniejącym, określony na podstawie"
-    },
-    {
-     "type": "text",
-     "text": "dokumentacji technicznej lub na podstawie"
-    },
-    {
-     "type": "text",
-     "text": "danych zawartych w tabeli nr 2,"
-    },
-    {
-     "type": "text",
-     "text": "– współczynnik przenikania ciepła okna"
-    },
-    {
-     "type": "text",
-     "text": "zewnętrznego i drzwi balkonowych po"
-    },
-    {
-     "type": "text",
-     "text": "modernizacji, określony na podstawie"
-    },
-    {
-     "type": "text",
-     "text": "dokumentacji technicznej dostawcy stolarki"
-    },
-    {
-     "type": "text",
-     "text": "okiennej,"
-    },
-    {
-     "type": "text",
-     "text": "– całkowita sprawność systemu grzewczego dla"
-    },
-    {
-     "type": "text",
-     "text": "budynków użyteczności publicznej i budynków"
-    },
-    {
-     "type": "text",
-     "text": "usługowych, określona na podstawie danych"
-    },
-    {
-     "type": "text",
-     "text": "zawartych w tabeli nr 4 Uwaga:"
-    },
-    {
-     "type": "text",
-     "text": "Uszczelnienie stolarki okiennej nie powoduje poprawy"
-    },
-    {
-     "type": "text",
-     "text": "współczynnika przenikania ciepła , a jedynie"
-    },
-    {
-     "type": "text",
-     "text": "ograniczenie strat ciepła w związku UU z 0oooo ograniczeniem nadmiernej wentylacji. W przypadkach modernizacji"
-    },
-    {
-     "type": "text",
-     "text": "polegającej na remoncie i uszczelnieniu istniejącej"
-    },
-    {
-     "type": "text",
-     "text": "stolarki okiennej należy korzystać ze wzoru (5),"
-    },
-    {
-     "type": "text",
-     "text": "przyjmując ="
+     "text": "Uszczelnienie stolarki okiennej nie powoduje poprawy współczynnika przenikania ciepła , a jedynie ograniczenie strat ciepła w związku UU z 0oooo ograniczeniem nadmiernej wentylacji. W przypadkach modernizacji polegającej na remoncie i uszczelnieniu istniejącej stolarki okiennej należy korzystać ze wzoru (5), przyjmując ="
     },
     {
      "type": "text",
@@ -1781,75 +1325,15 @@
     },
     {
      "type": "text",
-     "text": "Modernizacja lub (6) – ilość zaoszczędzonej energii finalnej,"
+     "text": "Modernizacja lub (6) – ilość zaoszczędzonej energii finalnej, wymiana instalacji wyrażonej w [GJ/rok],"
     },
     {
      "type": "text",
-     "text": "wymiana instalacji wyrażonej w [GJ/rok],"
+     "text": "ciepłej wody , – współczynniki korekcyjne z uwagi na użytkowej zastosowanie urządzeń i armatury w budynkach powodującej redukcję zużycia wody mieszkalnych, odpowiednio dla stanu przed i po użyteczności modernizacji, przyjmowane na podstawie publicznej danych zawartych w tabeli nr 5; w przypadku i biurowych braku urządzeń i armatury powodującej redukcję zużycia wody przyjmuje się = = 1,00, , – zapotrzebowanie na energię finalną do"
     },
     {
      "type": "text",
-     "text": "ciepłej wody , – współczynniki korekcyjne z uwagi na"
-    },
-    {
-     "type": "text",
-     "text": "użytkowej zastosowanie urządzeń i armatury"
-    },
-    {
-     "type": "text",
-     "text": "w budynkach powodującej redukcję zużycia wody"
-    },
-    {
-     "type": "text",
-     "text": "mieszkalnych, odpowiednio dla stanu przed i po"
-    },
-    {
-     "type": "text",
-     "text": "użyteczności modernizacji, przyjmowane na podstawie"
-    },
-    {
-     "type": "text",
-     "text": "publicznej danych zawartych w tabeli nr 5; w przypadku"
-    },
-    {
-     "type": "text",
-     "text": "i biurowych braku urządzeń i armatury powodującej"
-    },
-    {
-     "type": "text",
-     "text": "redukcję zużycia wody przyjmuje się"
-    },
-    {
-     "type": "text",
-     "text": "= = 1,00, , – zapotrzebowanie na energię finalną do"
-    },
-    {
-     "type": "text",
-     "text": "HH,WW¹przygotowania ciepłej wody użytkowej"
-    },
-    {
-     "type": "text",
-     "text": "odpowiednio dla stanu przed i po"
-    },
-    {
-     "type": "text",
-     "text": "modernizacji, obliczoną zgodnie"
-    },
-    {
-     "type": "text",
-     "text": "z rozporządzeniem wydanym na podstawie"
-    },
-    {
-     "type": "text",
-     "text": "art. 15 ustawy z dnia 29 sierpnia 2014 r."
-    },
-    {
-     "type": "text",
-     "text": "o charakterystyce energetycznej budynków,"
-    },
-    {
-     "type": "text",
-     "text": "wyrażoną w [kWh/rok],"
+     "text": "HH,WW¹przygotowania ciepłej wody użytkowej odpowiednio dla stanu przed i po modernizacji, obliczoną zgodnie z rozporządzeniem wydanym na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków, wyrażoną w [kWh/rok],"
     },
     {
      "type": "text",
@@ -1857,83 +1341,19 @@
     },
     {
      "type": "text",
-     "text": "Oprawy (7) – ilość zaoszczędzonej energii finalnej,"
+     "text": "Oprawy (7) – ilość zaoszczędzonej energii finalnej, oświetleniowe wyrażonej w [kWh/rok],"
     },
     {
      "type": "text",
-     "text": "oświetleniowe wyrażonej w [kWh/rok],"
+     "text": "i źródła światła – czas użytkowania źródła światła określony na podstawie danych zawartych w tabeli nr 6, wyrażony w [h/rok],"
     },
     {
      "type": "text",
-     "text": "i źródła światła – czas użytkowania źródła światła określony na"
+     "text": "– łączna moc znamionowa opraw oświetleniowych lub źródeł światła przed wymianą, wyrażona w [W]; w przypadku gdy wymieniane typy opraw lub źródeł światła zostały wycofane z obrotu, należy przyjmować dla nich moce odpowiadające najniższej dostępnej obecnie na rynku klasie efektywności energetycznej, zgodnie z przepisami aktu delegowanego, w rozumieniu art. 2 ust. 1 ustawy z dnia 14 września 2012 r. o etykietowaniu energetycznym produktów związanych z energią (Dz. U. z 2020 r. poz. 378),"
     },
     {
      "type": "text",
-     "text": "podstawie danych zawartych w tabeli nr 6,"
-    },
-    {
-     "type": "text",
-     "text": "wyrażony w [h/rok],"
-    },
-    {
-     "type": "text",
-     "text": "– łączna moc znamionowa opraw"
-    },
-    {
-     "type": "text",
-     "text": "oświetleniowych lub źródeł światła przed"
-    },
-    {
-     "type": "text",
-     "text": "wymianą, wyrażona w [W]; w przypadku gdy"
-    },
-    {
-     "type": "text",
-     "text": "wymieniane typy opraw lub źródeł światła"
-    },
-    {
-     "type": "text",
-     "text": "zostały wycofane z obrotu, należy"
-    },
-    {
-     "type": "text",
-     "text": "przyjmować dla nich moce odpowiadające"
-    },
-    {
-     "type": "text",
-     "text": "najniższej dostępnej obecnie na rynku klasie efektywności energetycznej, zgodnie"
-    },
-    {
-     "type": "text",
-     "text": "z przepisami aktu delegowanego,"
-    },
-    {
-     "type": "text",
-     "text": "w rozumieniu art. 2 ust. 1 ustawy z dnia"
-    },
-    {
-     "type": "text",
-     "text": "14 września 2012 r. o etykietowaniu"
-    },
-    {
-     "type": "text",
-     "text": "energetycznym produktów związanych"
-    },
-    {
-     "type": "text",
-     "text": "z energią (Dz. U. z 2020 r. poz. 378),"
-    },
-    {
-     "type": "text",
-     "text": "– łączna moc znamionowa nowych opraw"
-    },
-    {
-     "type": "text",
-     "text": "oświetleniowych lub źródeł światła po"
-    },
-    {
-     "type": "text",
-     "text": "wymianie, wyrażona w [W]"
+     "text": "– łączna moc znamionowa nowych opraw oświetleniowych lub źródeł światła po wymianie, wyrażona w [W]"
     },
     {
      "type": "text",
@@ -1941,91 +1361,19 @@
     },
     {
      "type": "text",
-     "text": "Oszczędności w zużyciu energii dla źródeł światła"
+     "text": "Oszczędności w zużyciu energii dla źródeł światła obliczane są przy założeniu, że natężenie oświetlenia powierzchni, mierzone w [lm/m²], po wymianie spełnia wymagania Polskich Norm PN-EN 12464-1 oraz PN-EN-13201-2 Wymiana urządzeń przeznaczonych do użytku domowego – pralki, suszarki, zmywarki do naczyń, chłodziarki, kuchenki lub piekarniki"
     },
     {
      "type": "text",
-     "text": "obliczane są przy założeniu, że natężenie oświetlenia"
+     "text": "Pralki, suszarki, (8) – ilość zaoszczędzonej energii finalnej, zmywarki do naczyń, wyrażonej w [kWh/rok],"
     },
     {
      "type": "text",
-     "text": "powierzchni, mierzone w [lm/m²], po wymianie"
+     "text": "chłodziarki, – roczne zużycie energii urządzenia przed kuchenki, piekarniki wymianą, wyrażone w [kWh/rok]; w przypadku gdy wymieniany typ urządzenia został wycofany z obrotu, należy przyjąć wartość odpowiadającą najniższej dostępnej obecnie na rynku klasie efektywności energetycznej, określoną zgodnie z przepisami aktu delegowanego, w rozumieniu art. 2 ust. 1 ustawy z dnia 14 września 2012 r. o etykietowaniu energetycznym produktów związanych z energią,"
     },
     {
      "type": "text",
-     "text": "spełnia wymagania Polskich Norm PN-EN 12464-1"
-    },
-    {
-     "type": "text",
-     "text": "oraz PN-EN-13201-2 Wymiana urządzeń przeznaczonych do użytku domowego – pralki, suszarki, zmywarki do naczyń, chłodziarki, kuchenki lub piekarniki"
-    },
-    {
-     "type": "text",
-     "text": "Pralki, suszarki, (8) – ilość zaoszczędzonej energii finalnej,"
-    },
-    {
-     "type": "text",
-     "text": "zmywarki do naczyń, wyrażonej w [kWh/rok],"
-    },
-    {
-     "type": "text",
-     "text": "chłodziarki, – roczne zużycie energii urządzenia przed"
-    },
-    {
-     "type": "text",
-     "text": "kuchenki, piekarniki wymianą, wyrażone w [kWh/rok]; w przypadku"
-    },
-    {
-     "type": "text",
-     "text": "gdy wymieniany typ urządzenia został"
-    },
-    {
-     "type": "text",
-     "text": "wycofany z obrotu, należy przyjąć wartość"
-    },
-    {
-     "type": "text",
-     "text": "odpowiadającą najniższej dostępnej obecnie"
-    },
-    {
-     "type": "text",
-     "text": "na rynku klasie efektywności energetycznej,"
-    },
-    {
-     "type": "text",
-     "text": "określoną zgodnie z przepisami aktu"
-    },
-    {
-     "type": "text",
-     "text": "delegowanego, w rozumieniu art. 2 ust. 1"
-    },
-    {
-     "type": "text",
-     "text": "ustawy z dnia 14 września 2012 r."
-    },
-    {
-     "type": "text",
-     "text": "o etykietowaniu energetycznym produktów"
-    },
-    {
-     "type": "text",
-     "text": "związanych z energią,"
-    },
-    {
-     "type": "text",
-     "text": "– roczne zużycie energii nowego urządzenia po"
-    },
-    {
-     "type": "text",
-     "text": "wymianie, określone na podstawie"
-    },
-    {
-     "type": "text",
-     "text": "dokumentacji technicznej tego urządzenia,"
-    },
-    {
-     "type": "text",
-     "text": "wyrażone w [kWh/rok]"
+     "text": "– roczne zużycie energii nowego urządzenia po wymianie, określone na podstawie dokumentacji technicznej tego urządzenia, wyrażone w [kWh/rok]"
     },
     {
      "type": "text",
@@ -2033,123 +1381,35 @@
     },
     {
      "type": "text",
-     "text": "Silniki elektryczne (9) – ilość zaoszczędzonej energii finalnej,"
+     "text": "Silniki elektryczne (9) – ilość zaoszczędzonej energii finalnej, o mocy znamionowej wyrażonej w [kWh/rok],"
     },
     {
      "type": "text",
-     "text": "o mocy znamionowej wyrażonej w [kWh/rok],"
+     "text": "1 1"
     },
     {
      "type": "text",
-     "text": "1 1 ∆QQ⁰ = PP 2NN ∙tt∙KK PP ∙( − )∙100 od 0,75 kW do – moc znamionowa silnika przed wymianą,"
+     "text": "∆QQ⁰ = PP 2NN ∙tt∙KK PP ∙( − )∙100 od 0,75 kW do – moc znamionowa silnika przed wymianą, 375 kW określona na podstawie danych z tabliczki znamionowej, wyrażona w [kW],"
     },
     {
      "type": "text",
-     "text": "375 kW określona na podstawie danych z tabliczki"
+     "text": "– średni czas pracy silnika, określony na podstawie danych zawartych w tabeli nr 7, wyrażony w [h/rok],"
     },
     {
      "type": "text",
-     "text": "znamionowej, wyrażona w [kW],"
+     "text": "– średnie obciążenie silnika w czasie t w stosunku do jego mocy znamionowej, określone na podstawie danych zawartych w tabeli nr 8,"
     },
     {
      "type": "text",
-     "text": "– średni czas pracy silnika, określony na"
+     "text": "– sprawność silnika przed wymianą, określona na podstawie danych zawartych w załączniku I rozporządzenia 640/2009 z dnia 22 lipca 2009 r. w sprawie wykonania dyrektywy 2005/32/WE Parlamentu Europejskiego i Rady w odniesieniu do wymogów dotyczących ekoprojektu dla silników elektrycznych (Dz. Urz. UE L 191 z 23.07.2009, str. 26, Dz. Urz. UE L 46 z 19.02.2011, str. 63, Dz. Urz. UE L 2 z 07.01.2014, str. 1 oraz Dz. Urz. UE L 346 8)"
     },
     {
      "type": "text",
-     "text": "podstawie danych zawartych w tabeli nr 7,"
+     "text": "z 20.12.2016, str. 51) ; w przypadku gdy wymieniany typ silnika został wycofany z obrotu, należy przyjąć sprawność odpowiadającą silnikowi o klasie IE3 lub klasie IE2 z wyposażeniem w sterownik bezstopniowy, wyrażona w [%],"
     },
     {
      "type": "text",
-     "text": "wyrażony w [h/rok],"
-    },
-    {
-     "type": "text",
-     "text": "– średnie obciążenie silnika w czasie t w stosunku"
-    },
-    {
-     "type": "text",
-     "text": "do jego mocy znamionowej, określone na"
-    },
-    {
-     "type": "text",
-     "text": "podstawie danych zawartych w tabeli nr 8,"
-    },
-    {
-     "type": "text",
-     "text": "– sprawność silnika przed wymianą, określona"
-    },
-    {
-     "type": "text",
-     "text": "na podstawie danych zawartych w załączniku I"
-    },
-    {
-     "type": "text",
-     "text": "rozporządzenia 640/2009 z dnia 22 lipca"
-    },
-    {
-     "type": "text",
-     "text": "2009 r. w sprawie wykonania dyrektywy"
-    },
-    {
-     "type": "text",
-     "text": "2005/32/WE Parlamentu Europejskiego"
-    },
-    {
-     "type": "text",
-     "text": "i Rady w odniesieniu do wymogów"
-    },
-    {
-     "type": "text",
-     "text": "dotyczących ekoprojektu dla silników"
-    },
-    {
-     "type": "text",
-     "text": "elektrycznych (Dz. Urz. UE L 191"
-    },
-    {
-     "type": "text",
-     "text": "z 23.07.2009, str. 26, Dz. Urz. UE L 46"
-    },
-    {
-     "type": "text",
-     "text": "z 19.02.2011, str. 63, Dz. Urz. UE L 2"
-    },
-    {
-     "type": "text",
-     "text": "z 07.01.2014, str. 1 oraz Dz. Urz. UE L 346 8) z 20.12.2016, str. 51) ; w przypadku gdy"
-    },
-    {
-     "type": "text",
-     "text": "wymieniany typ silnika został wycofany"
-    },
-    {
-     "type": "text",
-     "text": "z obrotu, należy przyjąć sprawność"
-    },
-    {
-     "type": "text",
-     "text": "odpowiadającą silnikowi o klasie IE3 lub"
-    },
-    {
-     "type": "text",
-     "text": "klasie IE2 z wyposażeniem w sterownik"
-    },
-    {
-     "type": "text",
-     "text": "bezstopniowy, wyrażona w [%],"
-    },
-    {
-     "type": "text",
-     "text": "– sprawność nowego silnika po wymianie,"
-    },
-    {
-     "type": "text",
-     "text": "określona na podstawie dokumentacji"
-    },
-    {
-     "type": "text",
-     "text": "technicznej, wyrażona w [%]"
+     "text": "– sprawność nowego silnika po wymianie, określona na podstawie dokumentacji technicznej, wyrażona w [%]"
     },
     {
      "type": "text",
@@ -2157,27 +1417,15 @@
     },
     {
      "type": "text",
-     "text": "(10) – ilość zaoszczędzonej energii pierwotnej,"
+     "text": "(10) – ilość zaoszczędzonej energii pierwotnej, wyrażonej w [kWh/rok],"
     },
     {
      "type": "text",
-     "text": "wyrażonej w [kWh/rok],"
+     "text": "– ilość zaoszczędzonej energii finalnej, wyrażonej w [kWh/rok],"
     },
     {
      "type": "text",
-     "text": "– ilość zaoszczędzonej energii finalnej,"
-    },
-    {
-     "type": "text",
-     "text": "wyrażonej w [kWh/rok],"
-    },
-    {
-     "type": "text",
-     "text": "– współczynnik nakładu nieodnawialnej energii"
-    },
-    {
-     "type": "text",
-     "text": "pierwotnej odpowiedni dla danego nośnika energii finalnej, stosownie do"
+     "text": "– współczynnik nakładu nieodnawialnej energii pierwotnej odpowiedni dla danego nośnika energii finalnej, stosownie do"
     },
     {
      "type": "text",
@@ -2201,111 +1449,35 @@
     },
     {
      "type": "text",
-     "text": "służących do wyrażonej w [kWh/rok], transportu LL∙CCCC – średni przebieg dla danej kategorii pojazdu )∙ 1 drogowego na nowe wynoszący 190 000 km,"
+     "text": "służących do wyrażonej w [kWh/rok],"
     },
     {
      "type": "text",
-     "text": "pojazdy, – rzeczywisty przebieg danego pojazdu,"
+     "text": "transportu LL∙CCCC – średni przebieg dla danej kategorii pojazdu )∙ 1"
     },
     {
      "type": "text",
-     "text": "w przypadku gdy są wyrażony w [km],"
+     "text": "drogowego na nowe wynoszący 190 000 km,"
     },
     {
      "type": "text",
-     "text": "one objęte zakresem – jednostkowe zużycie energii przez pojazd"
+     "text": "pojazdy, – rzeczywisty przebieg danego pojazdu, w przypadku gdy są wyrażony w [km],"
     },
     {
      "type": "text",
-     "text": "rozporządzenia określone na podstawie rzeczywistego zużycia"
+     "text": "one objęte zakresem – jednostkowe zużycie energii przez pojazd rozporządzenia określone na podstawie rzeczywistego zużycia Parlamentu lub w przypadku gdy nie jest możliwe jego Europejskiego i Rady udokumentowanie – określone na podstawie (UE) 2019/631 danych producenta lub na podstawie danych z dnia 17 kwietnia zawartych w tabeli nr 9, wyrażone w [MJ/km], 2019 r. określającego – norma emisji CO₂ dla pojazdu nabytego normy emisji CO₂ wynikająca z rozporządzenia (UE) 2019/631, dla nowych wyrażona w [kgCO₂/km],"
     },
     {
      "type": "text",
-     "text": "Parlamentu lub w przypadku gdy nie jest możliwe jego"
+     "text": "samochodów osobowych i dla – obliczeniowa wartość opałowa (kaloryczna) nowych lekkich paliwa będąca średnią ważoną wartości pojazdów opałowych benzyny i oleju napędowego użytkowych oraz wynosząca 43,558 MJ/kg,"
     },
     {
      "type": "text",
-     "text": "Europejskiego i Rady udokumentowanie – określone na podstawie"
+     "text": "uchylającego – współczynnik przeliczeniowy emisji CO₂ rozporządzenia (WE) przypadającej na jednostkę masy spalonego nr 443/2009 i (UE) paliwa przez pojazd nabyty, wynoszący nr 510/2011 3,169 kgCO₂/kg,"
     },
     {
      "type": "text",
-     "text": "(UE) 2019/631 danych producenta lub na podstawie danych"
-    },
-    {
-     "type": "text",
-     "text": "z dnia 17 kwietnia zawartych w tabeli nr 9, wyrażone w [MJ/km],"
-    },
-    {
-     "type": "text",
-     "text": "2019 r. określającego – norma emisji CO₂ dla pojazdu nabytego"
-    },
-    {
-     "type": "text",
-     "text": "normy emisji CO₂ wynikająca z rozporządzenia (UE) 2019/631,"
-    },
-    {
-     "type": "text",
-     "text": "dla nowych wyrażona w [kgCO₂/km],"
-    },
-    {
-     "type": "text",
-     "text": "samochodów osobowych i dla – obliczeniowa wartość opałowa (kaloryczna)"
-    },
-    {
-     "type": "text",
-     "text": "nowych lekkich paliwa będąca średnią ważoną wartości"
-    },
-    {
-     "type": "text",
-     "text": "pojazdów opałowych benzyny i oleju napędowego"
-    },
-    {
-     "type": "text",
-     "text": "użytkowych oraz wynosząca 43,558 MJ/kg,"
-    },
-    {
-     "type": "text",
-     "text": "uchylającego – współczynnik przeliczeniowy emisji CO₂"
-    },
-    {
-     "type": "text",
-     "text": "rozporządzenia (WE) przypadającej na jednostkę masy spalonego"
-    },
-    {
-     "type": "text",
-     "text": "nr 443/2009 i (UE) paliwa przez pojazd nabyty, wynoszący"
-    },
-    {
-     "type": "text",
-     "text": "nr 510/2011 3,169 kgCO₂/kg,"
-    },
-    {
-     "type": "text",
-     "text": "(Dz. Urz. UE L 111 – okres pozostały do przewidywanego"
-    },
-    {
-     "type": "text",
-     "text": "z 25.04.2019, str. 13, zakończenia cyklu życia pojazdu, wyrażony"
-    },
-    {
-     "type": "text",
-     "text": "z późn. zm.) lub w [lata], liczony jako iloraz przebiegu"
-    },
-    {
-     "type": "text",
-     "text": "rozporządzenia pozostałego do zakończenia średniego cyklu"
-    },
-    {
-     "type": "text",
-     "text": "Parlamentu życia pojazdu, wyrażonego w [km],"
-    },
-    {
-     "type": "text",
-     "text": "Europejskiego i Rady i średniorocznego przebiegu pojazdu"
-    },
-    {
-     "type": "text",
-     "text": "(UE) 2019/1242 wynoszącego 8000 km"
+     "text": "(Dz. Urz. UE L 111 – okres pozostały do przewidywanego z 25.04.2019, str. 13, zakończenia cyklu życia pojazdu, wyrażony z późn. zm.) lub w [lata], liczony jako iloraz przebiegu rozporządzenia pozostałego do zakończenia średniego cyklu Parlamentu życia pojazdu, wyrażonego w [km], Europejskiego i Rady i średniorocznego przebiegu pojazdu (UE) 2019/1242 wynoszącego 8000 km"
     },
     {
      "type": "text",
@@ -2365,107 +1537,31 @@
     },
     {
      "type": "text",
-     "text": "Wymiana pojazdów (12) – ilość zaoszczędzonej energii finalnej,"
+     "text": "Wymiana pojazdów (12) – ilość zaoszczędzonej energii finalnej, służących do wyrażonej w [kWh/rok],"
     },
     {
      "type": "text",
-     "text": "służących do wyrażonej w [kWh/rok],"
+     "text": "transportu MM śrr 1 – średni przebieg dla danej kategorii pojazdu drogowego innych określony na podstawie danych zawartych niż wskazane w tabeli nr 10, wyrażony w [km],"
     },
     {
      "type": "text",
-     "text": "transportu MM śrr 1 – średni przebieg dla danej kategorii pojazdu drogowego innych określony na podstawie danych zawartych"
+     "text": "w rozporządzeniu – rzeczywisty przebieg danego pojazdu, Parlamentu wyrażony w [km],"
     },
     {
      "type": "text",
-     "text": "niż wskazane w tabeli nr 10, wyrażony w [km],"
+     "text": "Europejskiego i Rady – jednostkowe zużycie energii przez pojazd (UE) 2019/631 lub określone na podstawie rzeczywistego zużycia rozporządzeniu lub w przypadku gdy nie jest możliwe jego Parlamentu udokumentowanie – określone na podstawie Europejskiego i Rady danych producenta lub na podstawie danych (UE) 2019/1242 zawartych w tabeli nr 9, wyrażone w [MJ/km],"
     },
     {
      "type": "text",
-     "text": "w rozporządzeniu – rzeczywisty przebieg danego pojazdu,"
+     "text": "– jednostkowe zużycie energii przez pojazd nabyty określone na podstawie rzeczywistego zużycia lub w przypadku gdy nie jest możliwe jego udokumentowanie – określone na podstawie danych producenta lub na podstawie danych zawartych w tabeli nr 9, wyrażone w [MJ/km],"
     },
     {
      "type": "text",
-     "text": "Parlamentu wyrażony w [km],"
+     "text": "– jednostkowe zużycie energii przez standardowy pojazd należący do tej samej, pod względem wielkości i napędu, kategorii pojazdów określone na podstawie danych zawartych w tabeli nr 9, wyrażone w [MJ/km],"
     },
     {
      "type": "text",
-     "text": "Europejskiego i Rady – jednostkowe zużycie energii przez pojazd"
-    },
-    {
-     "type": "text",
-     "text": "(UE) 2019/631 lub określone na podstawie rzeczywistego zużycia"
-    },
-    {
-     "type": "text",
-     "text": "rozporządzeniu lub w przypadku gdy nie jest możliwe jego"
-    },
-    {
-     "type": "text",
-     "text": "Parlamentu udokumentowanie – określone na podstawie Europejskiego i Rady danych producenta lub na podstawie danych"
-    },
-    {
-     "type": "text",
-     "text": "(UE) 2019/1242 zawartych w tabeli nr 9, wyrażone w [MJ/km],"
-    },
-    {
-     "type": "text",
-     "text": "– jednostkowe zużycie energii przez pojazd"
-    },
-    {
-     "type": "text",
-     "text": "nabyty określone na podstawie rzeczywistego"
-    },
-    {
-     "type": "text",
-     "text": "zużycia lub w przypadku gdy nie jest możliwe"
-    },
-    {
-     "type": "text",
-     "text": "jego udokumentowanie – określone na"
-    },
-    {
-     "type": "text",
-     "text": "podstawie danych producenta lub na"
-    },
-    {
-     "type": "text",
-     "text": "podstawie danych zawartych w tabeli nr 9,"
-    },
-    {
-     "type": "text",
-     "text": "wyrażone w [MJ/km],"
-    },
-    {
-     "type": "text",
-     "text": "– jednostkowe zużycie energii przez"
-    },
-    {
-     "type": "text",
-     "text": "standardowy pojazd należący do tej samej,"
-    },
-    {
-     "type": "text",
-     "text": "pod względem wielkości i napędu, kategorii"
-    },
-    {
-     "type": "text",
-     "text": "pojazdów określone na podstawie danych"
-    },
-    {
-     "type": "text",
-     "text": "zawartych w tabeli nr 9, wyrażone w [MJ/km],"
-    },
-    {
-     "type": "text",
-     "text": "– średni cykl życia pojazdu określony na"
-    },
-    {
-     "type": "text",
-     "text": "podstawie danych zawartych w tabeli nr 11,"
-    },
-    {
-     "type": "text",
-     "text": "wyrażony w [lata]."
+     "text": "– średni cykl życia pojazdu określony na podstawie danych zawartych w tabeli nr 11, wyrażony w [lata]."
     },
     {
      "type": "text",
@@ -2473,19 +1569,11 @@
     },
     {
      "type": "text",
-     "text": "W przypadku gdy rzeczywisty przebieg danego"
+     "text": "W przypadku gdy rzeczywisty przebieg danego pojazdu jest większy niż średni przebieg dla danej kategorii pojazdu , różnica przyjmuje"
     },
     {
      "type": "text",
-     "text": "pojazdu jest większy niż średni przebieg dla danej kategorii pojazdu , różnica przyjmuje"
-    },
-    {
-     "type": "text",
-     "text": "wartość 0 1.2. Dane wykorzystywane do określania i weryfikacji ilości energii zaoszczędzonej"
-    },
-    {
-     "type": "text",
-     "text": "w wyniku realizacji przedsięwzięcia służącego poprawie efektywności energetycznej"
+     "text": "wartość 0 1.2. Dane wykorzystywane do określania i weryfikacji ilości energii zaoszczędzonej w wyniku realizacji przedsięwzięcia służącego poprawie efektywności energetycznej"
     },
     {
      "type": "text",
@@ -2493,83 +1581,31 @@
     },
     {
      "type": "text",
-     "text": "Lp. Województwo Współczynnik Lp. Województwo Współczynnik"
+     "text": "Lp. Województwo Współczynnik Lp. Województwo Współczynnik ostrości ostrości klimatu klimatu k₁ k₁"
     },
     {
      "type": "text",
-     "text": "ostrości ostrości klimatu"
+     "text": "1 mazowieckie 1,012 9 dolnośląskie 0,975 2 podlaskie 1,124 10 łódzkie 0,998 3 warmińsko-"
     },
     {
      "type": "text",
-     "text": "klimatu k₁"
+     "text": "-mazurskie 1,125 11 lubelskie 1,040 4 pomorskie 1,011 12 opolskie 0,948 5 zachodniopomorskie 0,994 13 śląskie 0,976 6 lubuskie 0,962 14 świętokrzyskie 1,022 7 wielkopolskie 0,985 15 małopolskie 0,970 8 kujawsko-pomorskie 1,006 16 podkarpackie 0,997"
     },
     {
      "type": "text",
-     "text": "k₁"
+     "text": "Tabela nr 2. Wskaźnik U₀ w stanie istniejącym w zależności od okresu budowy i rodzaju przegrody budowlanej "
     },
     {
      "type": "text",
-     "text": "1 mazowieckie 1,012 9 dolnośląskie 0,975"
+     "text": "Współczynnik U przegród zewnętrznych w zależności od Dane wyjściowe⁰"
     },
     {
      "type": "text",
-     "text": "2 podlaskie 1,124 10 łódzkie 0,998"
+     "text": "Lp. rodzaju przegrody i okresu budowy [W/m² K] okres budowy przed 1983 r. 1983–1991 1992–1998 po 1998 r. Strop pod"
     },
     {
      "type": "text",
-     "text": "3 warmińsko-"
-    },
-    {
-     "type": "text",
-     "text": "-mazurskie 1,125 11 lubelskie 1,040"
-    },
-    {
-     "type": "text",
-     "text": "4 pomorskie 1,011 12 opolskie 0,948"
-    },
-    {
-     "type": "text",
-     "text": "5 zachodniopomorskie 0,994 13 śląskie 0,976"
-    },
-    {
-     "type": "text",
-     "text": "6 lubuskie 0,962 14 świętokrzyskie 1,022"
-    },
-    {
-     "type": "text",
-     "text": "7 wielkopolskie 0,985 15 małopolskie 0,970"
-    },
-    {
-     "type": "text",
-     "text": "8 kujawsko-pomorskie 1,006 16 podkarpackie 0,997"
-    },
-    {
-     "type": "text",
-     "text": "Tabela nr 2. Wskaźnik U₀ w stanie istniejącym w zależności od okresu budowy i rodzaju"
-    },
-    {
-     "type": "text",
-     "text": "przegrody budowlanej "
-    },
-    {
-     "type": "text",
-     "text": "Współczynnik U przegród zewnętrznych w zależności od Dane wyjściowe⁰ Lp. rodzaju przegrody i okresu budowy [W/m² K]"
-    },
-    {
-     "type": "text",
-     "text": "okres budowy przed 1983 r. 1983–1991 1992–1998 po 1998 r."
-    },
-    {
-     "type": "text",
-     "text": "Strop pod"
-    },
-    {
-     "type": "text",
-     "text": "1 nieogrzewanym 0,90 0,40 0,30 0,30"
-    },
-    {
-     "type": "text",
-     "text": "poddaszem"
+     "text": "1 nieogrzewanym 0,90 0,40 0,30 0,30 poddaszem"
     },
     {
      "type": "text",
@@ -2653,91 +1689,15 @@
     },
     {
      "type": "text",
-     "text": "24 Tabela nr 4. Współczynniki sprawności systemów grzewczych w zależności od sposobu"
+     "text": "24 Tabela nr 4. Współczynniki sprawności systemów grzewczych w zależności od sposobu ogrzewania i sposobu zasilania budynku w ciepło Współczynnik Współczynnik sprawności systemu sprawności systemu Lp. Rodzaj ogrzewania budynku grzewczego – budynki grzewczego – budynki mieszkalne użyteczności publicznej  0M  0P"
     },
     {
      "type": "text",
-     "text": "ogrzewania i sposobu zasilania budynku w ciepło"
+     "text": "Instalacja centralnego ogrzewania 1 zasilana z kotła gazowego lub 0,74 0,87 olejowego w budynku Instalacja centralnego ogrzewania 2 0,59 0,69 z kotła węglowego w budynku Instalacja centralnego ogrzewania zasilana z węzła cieplnego 3 0,90 1,06 zasilanego z zewnętrznej sieci ciepłowniczej Instalacja centralnego ogrzewania 4 0,88 1,04 zasilana z kotła elektrycznego Ogrzewanie elektryczne 5 0,95 1,12 miejscowe w pomieszczeniach Ogrzewanie węglowe miejscowe 6 0,50 0,58 w pomieszczeniach"
     },
     {
      "type": "text",
-     "text": "Współczynnik Współczynnik"
-    },
-    {
-     "type": "text",
-     "text": "sprawności systemu sprawności systemu"
-    },
-    {
-     "type": "text",
-     "text": "Lp. Rodzaj ogrzewania budynku grzewczego – budynki grzewczego – budynki"
-    },
-    {
-     "type": "text",
-     "text": "mieszkalne użyteczności publicznej"
-    },
-    {
-     "type": "text",
-     "text": " 0M  0P"
-    },
-    {
-     "type": "text",
-     "text": "Instalacja centralnego ogrzewania"
-    },
-    {
-     "type": "text",
-     "text": "1 zasilana z kotła gazowego lub 0,74 0,87"
-    },
-    {
-     "type": "text",
-     "text": "olejowego w budynku"
-    },
-    {
-     "type": "text",
-     "text": "Instalacja centralnego ogrzewania 2 0,59 0,69 z kotła węglowego w budynku"
-    },
-    {
-     "type": "text",
-     "text": "Instalacja centralnego ogrzewania"
-    },
-    {
-     "type": "text",
-     "text": "zasilana z węzła cieplnego 3 0,90 1,06 zasilanego z zewnętrznej sieci"
-    },
-    {
-     "type": "text",
-     "text": "ciepłowniczej"
-    },
-    {
-     "type": "text",
-     "text": "Instalacja centralnego ogrzewania 4 0,88 1,04 zasilana z kotła elektrycznego"
-    },
-    {
-     "type": "text",
-     "text": "Ogrzewanie elektryczne 5 0,95 1,12 miejscowe w pomieszczeniach"
-    },
-    {
-     "type": "text",
-     "text": "Ogrzewanie węglowe miejscowe 6 0,50 0,58 w pomieszczeniach"
-    },
-    {
-     "type": "text",
-     "text": "Tabela nr 5. Współczynniki korekcyjne k₀ i k₁ z uwagi na zastosowanie urządzeń i armatury"
-    },
-    {
-     "type": "text",
-     "text": "powodującej redukcję zużycia wody odpowiednio dla stanu przed i po modernizacji"
-    },
-    {
-     "type": "text",
-     "text": "Budynki Budynki użyteczności Lp. Rodzaj zastosowanej armatury mieszkalne publicznej k , k ⁰¹ k₀, k₁"
-    },
-    {
-     "type": "text",
-     "text": "1 Reduktory prysznicowe 0,80 0,70"
-    },
-    {
-     "type": "text",
-     "text": "Perlatory kaskadowe o zmniejszonym 2 0,75 0,65 przepływie Tabela nr 6. Czasy użytkowania T U źródeł światła w zależności od rodzaju budynku"
+     "text": "Tabela nr 5. Współczynniki korekcyjne k₀ i k₁ z uwagi na zastosowanie urządzeń i armatury powodującej redukcję zużycia wody odpowiednio dla stanu przed i po modernizacji Budynki Budynki użyteczności Lp. Rodzaj zastosowanej armatury mieszkalne publicznej k , k ⁰¹ k₀, k₁ 1 Reduktory prysznicowe 0,80 0,70 Perlatory kaskadowe o zmniejszonym 2 0,75 0,65 przepływie Tabela nr 6. Czasy użytkowania T U źródeł światła w zależności od rodzaju budynku"
     },
     {
      "type": "text",
@@ -2983,47 +1943,47 @@
     },
     {
      "type": "text",
-     "text": "1.1. Sposób wyznaczania procentowego udziału ciepła dostarczonego, w ciągu roku"
+     "text": "1.1. Sposób wyznaczania procentowego udziału ciepła dostarczonego, w ciągu roku kalendarzowego, do danej sieci ciepłowniczej, wytworzonego w instalacjach odnawialnego źródła energii, ciepła użytkowego w kogeneracji lub ciepła odpadowego z instalacji przemysłowych w łącznej ilości ciepła dostarczanego do tej sieci w ciągu roku kalendarzowego."
     },
     {
      "type": "text",
-     "text": "kalendarzowego, do danej sieci ciepłowniczej, wytworzonego w instalacjach"
+     "text": "Udział procentowy ciepła dostarczonego, w ciągu roku kalendarzowego, do danej sieci ciepłowniczej wytworzonego w instalacjach odnawialnego źródła energii, ciepła użytkowego w kogeneracji lub ciepła odpadowego z instalacji przemysłowych w łącznej ilości ciepła dostarczanego do tej sieci w ciągu roku kalendarzowego, oznaczony symbolem „ ”, wyznacza się według wzoru:"
     },
     {
      "type": "text",
-     "text": "odnawialnego źródła energii, ciepła użytkowego w kogeneracji lub ciepła odpadowego"
+     "text": "(1)"
     },
     {
      "type": "text",
-     "text": "z instalacji przemysłowych w łącznej ilości ciepła dostarczanego do tej sieci w ciągu roku"
+     "text": "  "
     },
     {
      "type": "text",
-     "text": "kalendarzowego."
+     "text": "Q + Q + Q"
     },
     {
      "type": "text",
-     "text": "Udział procentowy ciepła dostarczonego, w ciągu roku kalendarzowego, do danej sieci"
+     "text": "ikogen , iOZE , iodp ,"
     },
     {
      "type": "text",
-     "text": "ciepłowniczej wytworzonego w instalacjach odnawialnego źródła energii, ciepła"
+     "text": "i i i"
     },
     {
      "type": "text",
-     "text": "użytkowego w kogeneracji lub ciepła odpadowego z instalacji przemysłowych w łącznej"
+     "text": "α =  100"
     },
     {
      "type": "text",
-     "text": "ilości ciepła dostarczanego do tej sieci w ciągu roku kalendarzowego, oznaczony"
+     "text": " idsc ,"
     },
     {
      "type": "text",
-     "text": "symbolem „ ”, wyznacza się według wzoru:"
+     "text": "DH Q"
     },
     {
      "type": "text",
-     "text": "(1)    Q + Q + Q ikogen , iOZE , iodp , i i i α =  100  idsc , DH Q i"
+     "text": "i"
     },
     {
      "type": "text",
@@ -3031,83 +1991,27 @@
     },
     {
      "type": "text",
-     "text": "Q i,kogen – ilość ciepła użytkowego w kogeneracji dostarczonego w ciągu roku"
+     "text": "Q i,kogen – ilość ciepła użytkowego w kogeneracji dostarczonego w ciągu roku kalendarzowego ze źródeł ciepła do danej sieci ciepłowniczej, z wyjątkiem ciepła wytworzonego w instalacjach odnawialnego źródła energii, wyrażoną w GJ,"
     },
     {
      "type": "text",
-     "text": "kalendarzowego ze źródeł ciepła do danej sieci ciepłowniczej,"
+     "text": "Q i,OZE – ilość ciepła wytworzonego w instalacjach odnawialnego źródła energii dostarczonego w ciągu roku kalendarzowego do danej sieci ciepłowniczej, wyrażoną w GJ,"
     },
     {
      "type": "text",
-     "text": "z wyjątkiem ciepła wytworzonego w instalacjach odnawialnego źródła"
+     "text": "Q i,odp – ilość ciepła odpadowego z instalacji przemysłowych dostarczonego w ciągu roku kalendarzowego do danej sieci ciepłowniczej, wyrażoną w GJ, Q i,dsc – ilość ciepła dostarczonego w ciągu roku kalendarzowego do danej sieci ciepłowniczej ze wszystkich źródeł dostarczających ciepło do tej sieci, wyrażoną w GJ."
     },
     {
      "type": "text",
-     "text": "energii, wyrażoną w GJ,"
+     "text": "1.2. Sposób wyznaczania wskaźnika nakładu nieodnawialnej energii pierwotnej dla indywidualnego źródła ciepła."
     },
     {
      "type": "text",
-     "text": "Q i,OZE – ilość ciepła wytworzonego w instalacjach odnawialnego źródła energii"
+     "text": "Wskaźnik nakładu nieodnawialnej energii pierwotnej oznaczony symbolem „ ” dla indywidualnego źródła ciepła, które jest jednorodne pod względem technologii (wytwarza W PP,ii lub wykorzystuje tylko ciepło) i stosowanego paliwa (stosuje tylko jedno paliwo), jest równy współczynnikowi, zawartemu w tabeli 1 dla nośnika energii finalnej paliwa lub źródła energii, zastosowanego w danym indywidualnym źródle ciepła."
     },
     {
      "type": "text",
-     "text": "dostarczonego w ciągu roku kalendarzowego do danej sieci"
-    },
-    {
-     "type": "text",
-     "text": "ciepłowniczej, wyrażoną w GJ,"
-    },
-    {
-     "type": "text",
-     "text": "Q i,odp – ilość ciepła odpadowego z instalacji przemysłowych dostarczonego"
-    },
-    {
-     "type": "text",
-     "text": "w ciągu roku kalendarzowego do danej sieci ciepłowniczej, wyrażoną"
-    },
-    {
-     "type": "text",
-     "text": "w GJ, Q i,dsc – ilość ciepła dostarczonego w ciągu roku kalendarzowego do danej"
-    },
-    {
-     "type": "text",
-     "text": "sieci ciepłowniczej ze wszystkich źródeł dostarczających ciepło do tej"
-    },
-    {
-     "type": "text",
-     "text": "sieci, wyrażoną w GJ."
-    },
-    {
-     "type": "text",
-     "text": "1.2. Sposób wyznaczania wskaźnika nakładu nieodnawialnej energii pierwotnej dla"
-    },
-    {
-     "type": "text",
-     "text": "indywidualnego źródła ciepła."
-    },
-    {
-     "type": "text",
-     "text": "Wskaźnik nakładu nieodnawialnej energii pierwotnej oznaczony symbolem „ ” dla"
-    },
-    {
-     "type": "text",
-     "text": "indywidualnego źródła ciepła, które jest jednorodne pod względem technologii (wytwarza W PP,ii lub wykorzystuje tylko ciepło) i stosowanego paliwa (stosuje tylko jedno paliwo), jest"
-    },
-    {
-     "type": "text",
-     "text": "równy współczynnikowi, zawartemu w tabeli 1 dla nośnika energii finalnej paliwa lub"
-    },
-    {
-     "type": "text",
-     "text": "źródła energii, zastosowanego w danym indywidualnym źródle ciepła."
-    },
-    {
-     "type": "text",
-     "text": "Wskaźnik nakładu nieodnawialnej energii pierwotnej „ ” dla indywidualnego źródła"
-    },
-    {
-     "type": "text",
-     "text": "ciepła, które nie jest jednorodne pod względem technologii W PP,ii wytwarzania ciepła i stosowanych paliw, oblicza się według wzoru[^9]:"
+     "text": "Wskaźnik nakładu nieodnawialnej energii pierwotnej „ ” dla indywidualnego źródła ciepła, które nie jest jednorodne pod względem technologii W PP,ii wytwarzania ciepła i stosowanych paliw, oblicza się według wzoru[^9]:"
     },
     {
      "type": "text",
@@ -3115,7 +2019,31 @@
     },
     {
      "type": "text",
-     "text": " ( )  ( ) w  H − w  E P, i ch , i el l W P, i = i l  Q K, i i"
+     "text": " ( )  ( )"
+    },
+    {
+     "type": "text",
+     "text": "w  H − w  E"
+    },
+    {
+     "type": "text",
+     "text": "P, i ch , i el l"
+    },
+    {
+     "type": "text",
+     "text": "W P, i = i l"
+    },
+    {
+     "type": "text",
+     "text": ""
+    },
+    {
+     "type": "text",
+     "text": "Q K, i"
+    },
+    {
+     "type": "text",
+     "text": "i"
     },
     {
      "type": "text",
@@ -3123,131 +2051,27 @@
     },
     {
      "type": "text",
-     "text": "w P, i – współczynnik nakładu nieodnawialnej energii pierwotnej, określony"
+     "text": "w P, i – współczynnik nakładu nieodnawialnej energii pierwotnej, określony w tabeli 1, odpowiedni dla danego nośnika energii finalnej, stosownie do wykorzystywanego paliwa lub źródła energii,"
     },
     {
      "type": "text",
-     "text": "w tabeli 1, odpowiedni dla danego nośnika energii finalnej, stosownie"
+     "text": "H ch, i – prognozowaną ilość energii wprowadzonej w paliwie, w tym w biomasie lub biogazie, do indywidualnego źródła ciepła dostarczającego ciepło do danego obiektu budowlanego, zarówno do kotłów części ciepłowniczej, jak i jednostek kogeneracyjnych tego źródła, liczoną jako iloczyn ilości tego paliwa i jego wartości opałowej, a także ilość ciepła odpadowego z instalacji przemysłowych lub ilość ciepła wytworzonego w instalacjach odnawialnego źródła energii, z wyjątkiem źródeł wykorzystujących w procesie przetwarzania energię pozyskaną z biomasy lub biogazu, prognozowaną do dostarczenia w ciągu roku do tego obiektu budowlanego, ustaloną na podstawie audytu energetycznego sporządzonego zgodnie z zasadami określonymi w ustawie z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, wyrażoną w MWh/rok, w el – współczynnik nakładu nieodnawialnej energii pierwotnej dla energii elektrycznej z produkcji mieszanej, określony w tabeli,"
     },
     {
      "type": "text",
-     "text": "do wykorzystywanego paliwa lub źródła energii,"
+     "text": "E l – sumę ilości energii elektrycznej brutto wytworzonej w ciągu roku z układu kogeneracyjnego, mierzonej na zaciskach generatorów, wyrażony w MWh/rok,"
     },
     {
      "type": "text",
-     "text": "H ch, i – prognozowaną ilość energii wprowadzonej w paliwie, w tym"
+     "text": "Q K, i – prognozowane zapotrzebowanie na ciepło w ciągu roku na potrzeby ogrzewania i przygotowania ciepłej wody w danym obiekcie budowlanym, ustalone na podstawie audytu energetycznego, sporządzonego zgodnie z zasadami określonymi w ustawie z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, wyrażone w MWh/rok."
     },
     {
      "type": "text",
-     "text": "w biomasie lub biogazie, do indywidualnego źródła ciepła"
+     "text": "1.3. Sposób wyznaczania wskaźnika nakładu nieodnawialnej energii pierwotnej dla sieci ciepłowniczej."
     },
     {
      "type": "text",
-     "text": "dostarczającego ciepło do danego obiektu budowlanego, zarówno do"
-    },
-    {
-     "type": "text",
-     "text": "kotłów części ciepłowniczej, jak i jednostek kogeneracyjnych tego"
-    },
-    {
-     "type": "text",
-     "text": "źródła, liczoną jako iloczyn ilości tego paliwa i jego wartości"
-    },
-    {
-     "type": "text",
-     "text": "opałowej, a także ilość ciepła odpadowego z instalacji przemysłowych"
-    },
-    {
-     "type": "text",
-     "text": "lub ilość ciepła wytworzonego w instalacjach odnawialnego źródła"
-    },
-    {
-     "type": "text",
-     "text": "energii, z wyjątkiem źródeł wykorzystujących w procesie przetwarzania energię pozyskaną z biomasy lub biogazu,"
-    },
-    {
-     "type": "text",
-     "text": "prognozowaną do dostarczenia w ciągu roku do tego obiektu"
-    },
-    {
-     "type": "text",
-     "text": "budowlanego, ustaloną na podstawie audytu energetycznego"
-    },
-    {
-     "type": "text",
-     "text": "sporządzonego zgodnie z zasadami określonymi w ustawie z dnia"
-    },
-    {
-     "type": "text",
-     "text": "21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz"
-    },
-    {
-     "type": "text",
-     "text": "o centralnej ewidencji emisyjności budynków, wyrażoną w MWh/rok,"
-    },
-    {
-     "type": "text",
-     "text": "w el – współczynnik nakładu nieodnawialnej energii pierwotnej dla energii"
-    },
-    {
-     "type": "text",
-     "text": "elektrycznej z produkcji mieszanej, określony w tabeli,"
-    },
-    {
-     "type": "text",
-     "text": "E l – sumę ilości energii elektrycznej brutto wytworzonej w ciągu roku"
-    },
-    {
-     "type": "text",
-     "text": "z układu kogeneracyjnego, mierzonej na zaciskach generatorów,"
-    },
-    {
-     "type": "text",
-     "text": "wyrażony w MWh/rok,"
-    },
-    {
-     "type": "text",
-     "text": "Q K, i – prognozowane zapotrzebowanie na ciepło w ciągu roku na potrzeby"
-    },
-    {
-     "type": "text",
-     "text": "ogrzewania i przygotowania ciepłej wody w danym obiekcie"
-    },
-    {
-     "type": "text",
-     "text": "budowlanym, ustalone na podstawie audytu energetycznego,"
-    },
-    {
-     "type": "text",
-     "text": "sporządzonego zgodnie z zasadami określonymi w ustawie z dnia"
-    },
-    {
-     "type": "text",
-     "text": "21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz"
-    },
-    {
-     "type": "text",
-     "text": "o centralnej ewidencji emisyjności budynków, wyrażone w MWh/rok."
-    },
-    {
-     "type": "text",
-     "text": "1.3. Sposób wyznaczania wskaźnika nakładu nieodnawialnej energii pierwotnej dla sieci"
-    },
-    {
-     "type": "text",
-     "text": "ciepłowniczej."
-    },
-    {
-     "type": "text",
-     "text": "Wskaźnik nakładu nieodnawialnej energii pierwotnej, oznaczony symbolem „ ”, dla"
-    },
-    {
-     "type": "text",
-     "text": "sieci ciepłowniczej, bez względu na ilość i rodzaj źródeł ciepła oraz technologii W PP,cc wykorzystywanych do wytwarzania i dostarczania ciepła do odbiorcy końcowego, oblicza"
-    },
-    {
-     "type": "text",
-     "text": "się według wzoru[^10]:"
+     "text": "Wskaźnik nakładu nieodnawialnej energii pierwotnej, oznaczony symbolem „ ”, dla sieci ciepłowniczej, bez względu na ilość i rodzaj źródeł ciepła oraz technologii W PP,cc wykorzystywanych do wytwarzania i dostarczania ciepła do odbiorcy końcowego, oblicza się według wzoru[^10]:"
     },
     {
      "type": "text",
@@ -3255,7 +2079,11 @@
     },
     {
      "type": "text",
-     "text": " ( )  ( ) w  H − w  E"
+     "text": " ( )  ( )"
+    },
+    {
+     "type": "text",
+     "text": "w  H − w  E"
     },
     {
      "type": "text",
@@ -3263,143 +2091,31 @@
     },
     {
      "type": "text",
-     "text": "w P, i – współczynnik nakładu nieodnawialnej energii pierwotnej, określony"
+     "text": "w P, i – współczynnik nakładu nieodnawialnej energii pierwotnej, określony w tabeli, odpowiedni dla danego nośnika energii finalnej, stosownie do wykorzystywanego paliwa lub źródła energii,"
     },
     {
      "type": "text",
-     "text": "w tabeli, odpowiedni dla danego nośnika energii finalnej, stosownie"
+     "text": "H ch, i – ilość energii wprowadzonej w paliwie, w tym w biomasie lub biogazie, do źródeł ciepła dostarczających ciepło do danej sieci ciepłowniczej, zarówno do kotłów części ciepłowniczej, jak i jednostek kogeneracyjnych, liczoną jako iloczyn ilości tego paliwa i jego wartości opałowej, a także ilość ciepła odpadowego z instalacji przemysłowych lub ilość ciepła wytworzonego w instalacjach odnawialnego źródła energii, z wyjątkiem źródeł wykorzystujących w procesie przetwarzania energię pozyskaną z biomasy lub biogazu, dostarczoną w ciągu roku do tej sieci ciepłowniczej, w roku kalendarzowym poprzedzającym rok, w którym sporządzana jest ocena efektywności energetycznej dostarczania ciepła, wyrażoną w MWh/rok,*"
     },
     {
      "type": "text",
-     "text": "do wykorzystywanego paliwa lub źródła energii,"
+     "text": "* W przypadku gdy przedsiębiorstwa wytwarzające ciepło i dostarczające to ciepło do danej sieci ciepłowniczej dostarczają ciepło również do odbiorcy końcowego nieprzyłączonego do tej sieci, ilość energii wprowadzonej w paliwie do źródeł ciepła tych przedsiębiorstw ustala się proporcjonalnie do ilości ciepła dostarczonego do sieci ciepłowniczej."
     },
     {
      "type": "text",
-     "text": "H ch, i – ilość energii wprowadzonej w paliwie, w tym w biomasie lub biogazie,"
+     "text": "w el – współczynnik nakładu nieodnawialnej energii pierwotnej dla energii elektrycznej z produkcji mieszanej, określony w tabeli,"
     },
     {
      "type": "text",
-     "text": "do źródeł ciepła dostarczających ciepło do danej sieci ciepłowniczej,"
+     "text": "E l – sumę ilości energii elektrycznej brutto, mierzonej na zaciskach generatorów, wytworzonej w ciągu roku z układu kogeneracyjnego, w roku kalendarzowym poprzedzającym rok, w którym sporządzana jest ocena efektywności energetycznej dostarczania ciepła, wyrażonej w MWh/rok,"
     },
     {
      "type": "text",
-     "text": "zarówno do kotłów części ciepłowniczej, jak i jednostek"
+     "text": "Q K, i – ilość ciepła dostarczoną w ciągu roku z sieci ciepłowniczej do odbiorców końcowych przyłączonych do tej sieci, w roku kalendarzowym poprzedzającym rok, w którym jest sporządzana ocena efektywności energetycznej dostarczania ciepła, wyrażoną w MWh/rok."
     },
     {
      "type": "text",
-     "text": "kogeneracyjnych, liczoną jako iloczyn ilości tego paliwa i jego"
-    },
-    {
-     "type": "text",
-     "text": "wartości opałowej, a także ilość ciepła odpadowego z instalacji"
-    },
-    {
-     "type": "text",
-     "text": "przemysłowych lub ilość ciepła wytworzonego w instalacjach"
-    },
-    {
-     "type": "text",
-     "text": "odnawialnego źródła energii, z wyjątkiem źródeł wykorzystujących"
-    },
-    {
-     "type": "text",
-     "text": "w procesie przetwarzania energię pozyskaną z biomasy lub biogazu,"
-    },
-    {
-     "type": "text",
-     "text": "dostarczoną w ciągu roku do tej sieci ciepłowniczej, w roku"
-    },
-    {
-     "type": "text",
-     "text": "kalendarzowym poprzedzającym rok, w którym sporządzana jest"
-    },
-    {
-     "type": "text",
-     "text": "ocena efektywności energetycznej dostarczania ciepła, wyrażoną"
-    },
-    {
-     "type": "text",
-     "text": "w MWh/rok,*"
-    },
-    {
-     "type": "text",
-     "text": "* W przypadku gdy przedsiębiorstwa wytwarzające ciepło i dostarczające to ciepło"
-    },
-    {
-     "type": "text",
-     "text": "do danej sieci ciepłowniczej dostarczają ciepło również do odbiorcy końcowego"
-    },
-    {
-     "type": "text",
-     "text": "nieprzyłączonego do tej sieci, ilość energii wprowadzonej w paliwie do źródeł ciepła"
-    },
-    {
-     "type": "text",
-     "text": "tych przedsiębiorstw ustala się proporcjonalnie do ilości ciepła dostarczonego do"
-    },
-    {
-     "type": "text",
-     "text": "sieci ciepłowniczej."
-    },
-    {
-     "type": "text",
-     "text": "w el – współczynnik nakładu nieodnawialnej energii pierwotnej dla energii"
-    },
-    {
-     "type": "text",
-     "text": "elektrycznej z produkcji mieszanej, określony w tabeli,"
-    },
-    {
-     "type": "text",
-     "text": "E l – sumę ilości energii elektrycznej brutto, mierzonej na zaciskach"
-    },
-    {
-     "type": "text",
-     "text": "generatorów, wytworzonej w ciągu roku z układu kogeneracyjnego,"
-    },
-    {
-     "type": "text",
-     "text": "w roku kalendarzowym poprzedzającym rok, w którym sporządzana"
-    },
-    {
-     "type": "text",
-     "text": "jest ocena efektywności energetycznej dostarczania ciepła, wyrażonej"
-    },
-    {
-     "type": "text",
-     "text": "w MWh/rok,"
-    },
-    {
-     "type": "text",
-     "text": "Q K, i – ilość ciepła dostarczoną w ciągu roku z sieci ciepłowniczej do"
-    },
-    {
-     "type": "text",
-     "text": "odbiorców końcowych przyłączonych do tej sieci, w roku"
-    },
-    {
-     "type": "text",
-     "text": "kalendarzowym poprzedzającym rok, w którym jest sporządzana"
-    },
-    {
-     "type": "text",
-     "text": "ocena efektywności energetycznej dostarczania ciepła, wyrażoną"
-    },
-    {
-     "type": "text",
-     "text": "w MWh/rok."
-    },
-    {
-     "type": "text",
-     "text": "1.4. Współczynnik nakładu nieodnawialnej energii pierwotnej dla gazu ziemnego"
-    },
-    {
-     "type": "text",
-     "text": "dostarczanego do odbiorcy końcowego z sieci gazowej jako objętość gazu ziemnego"
-    },
-    {
-     "type": "text",
-     "text": "lub biogazu, oznaczony symbolem „ ”, oblicza się według wzoru:"
+     "text": "1.4. Współczynnik nakładu nieodnawialnej energii pierwotnej dla gazu ziemnego dostarczanego do odbiorcy końcowego z sieci gazowej jako objętość gazu ziemnego lub biogazu, oznaczony symbolem „ ”, oblicza się według wzoru:"
     },
     {
      "type": "text",
@@ -3407,67 +2123,23 @@
     },
     {
      "type": "text",
-     "text": "ww PP, ii ∙VV gdzie poszczególne symbole oznaczają: W"
+     "text": "ww PP, ii ∙VV"
     },
     {
      "type": "text",
-     "text": "– współczynnik nakładu nieodnawialnej energii pierwotnej, określony"
+     "text": "gdzie poszczególne symbole oznaczają: W"
     },
     {
      "type": "text",
-     "text": "w tabeli 1, odpowiedni dla danego nośnika energii finalnej,"
+     "text": "– współczynnik nakładu nieodnawialnej energii pierwotnej, określony w tabeli 1, odpowiedni dla danego nośnika energii finalnej, stosownie do wykorzystywanego paliwa lub źródła energii,"
     },
     {
      "type": "text",
-     "text": "stosownie do wykorzystywanego paliwa lub źródła energii,"
+     "text": "– objętość gazu ziemnego lub biogazu wprowadzonego do danej sieci gazowej w ciągu roku kalendarzowego poprzedzającego rok, w którym sporządzany jest audyt efektywności energetycznej, wyrażona w Nm³/rok."
     },
     {
      "type": "text",
-     "text": "– objętość gazu ziemnego lub biogazu wprowadzonego do danej sieci"
-    },
-    {
-     "type": "text",
-     "text": "gazowej w ciągu roku kalendarzowego poprzedzającego rok,"
-    },
-    {
-     "type": "text",
-     "text": "w którym sporządzany jest audyt efektywności energetycznej,"
-    },
-    {
-     "type": "text",
-     "text": "wyrażona w Nm³/rok."
-    },
-    {
-     "type": "text",
-     "text": "Tabela 1. Wartości współczynnika nakładu nieodnawialnej energii pierwotnej dla"
-    },
-    {
-     "type": "text",
-     "text": "poszczególnych nośników energii"
-    },
-    {
-     "type": "text",
-     "text": "Lp. Rodzaj nośnika energii Współczynnik nakładu"
-    },
-    {
-     "type": "text",
-     "text": "nieodnawialnej energii"
-    },
-    {
-     "type": "text",
-     "text": "pierwotnej"
-    },
-    {
-     "type": "text",
-     "text": "w P , w el"
-    },
-    {
-     "type": "text",
-     "text": "1 Paliwo lub źródło Olej opałowy 1,1"
-    },
-    {
-     "type": "text",
-     "text": "2 energii Gaz ziemny 1,1"
+     "text": "Tabela 1. Wartości współczynnika nakładu nieodnawialnej energii pierwotnej dla poszczególnych nośników energii Lp. Rodzaj nośnika energii Współczynnik nakładu nieodnawialnej energii pierwotnej w P , w el 1 Paliwo lub źródło Olej opałowy 1,1 2 energii Gaz ziemny 1,1"
     },
     {
      "type": "text",
@@ -3487,59 +2159,7 @@
     },
     {
      "type": "text",
-     "text": "7 Biogaz 0,5"
-    },
-    {
-     "type": "text",
-     "text": "8 Energia słoneczna 0,0"
-    },
-    {
-     "type": "text",
-     "text": "9 Energia wiatrowa 0,0"
-    },
-    {
-     "type": "text",
-     "text": "10 Energia geotermalna 0,0"
-    },
-    {
-     "type": "text",
-     "text": "11 Ciepło odpadowe z przemysłu 0,05"
-    },
-    {
-     "type": "text",
-     "text": "12 Olej napędowy 1,1"
-    },
-    {
-     "type": "text",
-     "text": "13 Benzyna 1,1"
-    },
-    {
-     "type": "text",
-     "text": "14 LPG 1,1"
-    },
-    {
-     "type": "text",
-     "text": "15 Wodór (energia elektryczna 4,2 z produkcji mieszanej)"
-    },
-    {
-     "type": "text",
-     "text": "16 Wodór (energia elektryczna"
-    },
-    {
-     "type": "text",
-     "text": "z energii słonecznej, 0,0"
-    },
-    {
-     "type": "text",
-     "text": "wiatrowej, geotermalnej)"
-    },
-    {
-     "type": "text",
-     "text": "17 Wodór (energia elektryczna 0,33 z biomasy)"
-    },
-    {
-     "type": "text",
-     "text": "18 Wodór (energia elektryczna 0,83 z biogazu) 19 Wodór (reforming parowy 1,47 metanu)"
+     "text": "7 Biogaz 0,5 8 Energia słoneczna 0,0 9 Energia wiatrowa 0,0 10 Energia geotermalna 0,0 11 Ciepło odpadowe z przemysłu 0,05 12 Olej napędowy 1,1 13 Benzyna 1,1 14 LPG 1,1 15 Wodór (energia elektryczna 4,2 z produkcji mieszanej) 16 Wodór (energia elektryczna z energii słonecznej, 0,0 wiatrowej, geotermalnej) 17 Wodór (energia elektryczna 0,33 z biomasy) 18 Wodór (energia elektryczna 0,83 z biogazu) 19 Wodór (reforming parowy 1,47 metanu)"
     },
     {
      "type": "text",

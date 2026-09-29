@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/553",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 10 kwietnia 2026 r. w sprawie wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt czasowy",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/553/text.pdf",
  "body": [
   {
@@ -1464,8 +1464,9 @@
      "text": "Part VI shall be filled in the case where the foreigner applies for the temporary residence permit to perform a paid activity in a field requiring high qualifications. La partie VI doit être remplie où l’étranger sollicite un permis de séjour temporaire pour l’exercer du travail hautement qualifiée professionnelle. Часть VI заполняется в случае ходатайствования иностранцем о разрешении на временное пребывание с целью выполнения работы по специальности, требующей высокой квалификации."
     },
     {
-     "type": "text",
-     "text": "I. Dane osobowe cudzoziemca / Personal data of the foreigner / Données à caracter personnel de l’étranger / Личные данные иностранца:"
+     "type": "heading",
+     "label": "I.",
+     "text": "Dane osobowe cudzoziemca / Personal data of the foreigner / Données à caracter personnel de l’étranger / Личные данные иностранца:"
     },
     {
      "type": "ust",
@@ -1493,12 +1494,12 @@
      "num": "4",
      "path": "ust_4",
      "text": "Obywatelstwo (obywatelstwa) / Citizenship (citizenships) / Nationalité (nationalités) / Гражданство (гражданства):",
-     "children": [
-      {
-       "type": "text",
-       "text": "II. Informacje dotyczące podmiotu powierzającego pracę cudzoziemcowi / Information concerning the entity entrusting a work to the foreigner / Les informations concernant l’entité qui confie l’exercice du travail à étranger / Информация, касающаяся субъекта, поручающего работу иностранцу:"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Informacje dotyczące podmiotu powierzającego pracę cudzoziemcowi / Information concerning the entity entrusting a work to the foreigner / Les informations concernant l’entité qui confie l’exercice du travail à étranger / Информация, касающаяся субъекта, поручающего работу иностранцу:"
     },
     {
      "type": "ust",
@@ -1582,12 +1583,12 @@
      "num": "9",
      "path": "ust_9",
      "text": "Adres poczty elektronicznej / E-mail address / Adresse email / Адрес электронной почты:",
-     "children": [
-      {
-       "type": "text",
-       "text": "III. Informacje dotyczące pracodawcy użytkownika / Information concerning the user employer / Les informations concernant un employeur utilisateur / Информация, касающаяся работодателя – пользователя:"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Informacje dotyczące pracodawcy użytkownika / Information concerning the user employer / Les informations concernant un employeur utilisateur / Информация, касающаяся работодателя – пользователя:"
     },
     {
      "type": "ust",
@@ -1672,12 +1673,12 @@
      "num": "9",
      "path": "ust_9",
      "text": "Adres poczty elektronicznej / E-mail address / Adresse email / Адрес электронной почты:",
-     "children": [
-      {
-       "type": "text",
-       "text": "IV. Informacje na temat pracy, która ma być powierzona cudzoziemcowi / Information about the paid activity that the foreigner is to be entrusted with / Informations sur le travail à confier à l’étranger / Информация, касающаяся работы, которая должна быть поручена иностранцу:"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Informacje na temat pracy, która ma być powierzona cudzoziemcowi / Information about the paid activity that the foreigner is to be entrusted with / Informations sur le travail à confier à l’étranger / Информация, касающаяся работы, которая должна быть поручена иностранцу:"
     },
     {
      "type": "ust",
@@ -1824,405 +1825,406 @@
       {
        "type": "text",
        "text": "_____________________________________________________________________________________________________"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "V.",
+     "text": "Oświadczenie podmiotu powierzającego pracę cudzoziemcowi / Declaration of the entity entrusting a work to the foreigner / Déclaration de l’entité qui confie du travail à l’étranger / Заявление субъекта, поручающего работу иностранцу"
+    },
+    {
+     "type": "text",
+     "text": "Oświadczam, że (proszę zaznaczyć znakiem „X” prawdziwą odpowiedź):"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "a. nie zostałem prawomocnie ukarany za wykroczenie, o którym mowa w art. 84 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621, z późn. zm.), i w ciągu 2 lat od ukarania nie zostałem ponownie ukarany za podobne wykroczenie; b. zostałem prawomocnie ukarany za wykroczenie, o którym mowa w art. 84 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, i w ciągu 2 lat od ukarania zostałem ponownie ukarany za podobne wykroczenie; 2) a. nie zostałem prawomocnie ukarany za wykroczenie, o którym mowa w art. 84 ust. 3–5 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej; b. zostałem prawomocnie ukarany za wykroczenie, o którym mowa w art. 84 ust. 3–5 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "a. nie zostałem skazany prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 218–221, art. 270, art. 271, art. 272, art. 273 lub art. 275 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, z późn. zm.); b. zostałem skazany prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 218–221, art. 270, art. 271, art. 272, art. 273 lub art. 275 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "a. nie zostałem skazany prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 189a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, lub skazany w innym państwie za przestępstwo, o którym mowa w Protokole o zapobieganiu, zwalczaniu oraz karaniu za handel ludźmi, w szczególności kobietami i dziećmi, uzupełniającym Konwencję Narodów Zjednoczonych przeciwko międzynarodowej przestępczości zorganizowanej, przyjętym przez Zgromadzenie Ogólne Narodów Zjednoczonych dnia 15 listopada 2000 r. (Dz. U. z 2005 r. poz. 160); b. zostałem skazany prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 189a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, lub skazany w innym państwie za przestępstwo, o którym mowa w Protokole o zapobieganiu, zwalczaniu oraz karaniu za handel ludźmi, w szczególności kobietami i dziećmi, uzupełniającym Konwencję Narodów Zjednoczonych przeciwko międzynarodowej przestępczości zorganizowanej, przyjętym przez Zgromadzenie Ogólne Narodów Zjednoczonych dnia 15 listopada 2000 r.;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "a. nie zostałem skazany prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 9 lub art. 10 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 1567); b. zostałem skazany prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 9 lub art. 10 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "a. nie zostałem prawomocnie ukarany za wykroczenie, o którym mowa w art. 11 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej; b. zostałem prawomocnie ukarany za wykroczenie, o którym mowa w art. 11 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "a. podmiot powierzający pracę cudzoziemcowi, w imieniu którego składam niniejsze oświadczenie, nie jest zarządzany lub kontrolowany przez podmiot, który został prawomocnie ukarany za wykroczenie, o którym mowa w pkt 1, 2 i 6, lub prawomocnie skazany za przestępstwo, o którym mowa w pkt 3–5; b. podmiot powierzający pracę cudzoziemcowi, w imieniu którego składam niniejsze oświadczenie, jest zarządzany lub kontrolowany przez podmiot, który został prawomocnie ukarany za wykroczenie, o którym mowa w pkt 1, 2 i 6, lub prawomocnie skazany za przestępstwo, o którym mowa w pkt 3–5.",
+     "children": [
+      {
+       "type": "text",
+       "text": "I hereby declare, that (tick the true answer with ”X” ):"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "a. I have never been finally punished for an offence referred to in Art. 84 paragraph 1 Act of 20 March 2025 on the Conditions for the Lawfulness of Employing Foreigners in the Territory of the Republic of Poland (Journal of Laws, item 621, as amended) and within 2 years from the conviction, I was not convicted again for a similar offence;",
+     "children": [
+      {
+       "type": "text",
+       "text": "5 b. I have been finally punished for an offence referred to in in Art. 84 paragraph 1 Act of 20 March 2025 on the conditions for the admissibility of entrusting work to foreigners in the territory of the Republic of Poland and within 2 years of conviction was again convicted of similar offense;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "a. I have never been finally punished for an offence referred to in Art. 84 paragraph 3–5 of the Act of 20 March 2025 2025 on the conditions for the admissibility of entrusting work to foreigners in the territory of the Republic of Poland; b. I have been finally punished for an offence referred to in Art. 84 paragraph 3–5 of the Act of 20 March 2025 on the conditions for the admissibility of entrusting work to foreigners in the territory of the Republic of Poland;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "a. I have never been convicted of a crime referred to in Art. 218–221, Art. 270, Art. 271, Art. 272, Art. 273 or Art. 275 of the Act of 6 June 1997 – Penal Code (Journal of Laws of 2025, item 383, as amended); b. I have been convicted of a crime referred to in Art. 218–221, Art. 270, Art. 271, Art. 272, Art. 273 or Art. 275 of the Act of 6 June 1997 – Penal Code; 4) a. I have never been convicted by a final judgment for a crime referred to in Art. 189a of the Act of 6 June 1997 – Penal Code, or convicted in another country for a crime referred to in the Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children, supplementing the United Nations Convention against Transnational Organized Crime, adopted by the UN General Assembly on 15 November 2000 (Journal of Laws of 2005, item 160); b. I have been convicted by a final judgment for a crime referred to in Art. 189a of the Act of 6 June 1997 – Penal Code, or convicted in another country for a crime referred to in the Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children, supplementing the United Nations Convention against Transnational Organized Crime, adopted by the UN General Assembly on 15 November 2000;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "a. I have not been convicted by a final judgment for a crime referred to in Art. 9 or Art. 10 of the Act of 15 June 2012 on the consequences of entrusting the performance of work to foreigners residing unlawfully in the territory of the Republic of Poland (Journal of Laws of 2025, item 1567); b. I have been convicted by a final judgment for a crime referred to in Art. 9 or Art. 10 of the Act of 15 June 2012 on the consequences of entrusting the performance of work to foreigners residing unlawfully in the territory of the Republic of Poland;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "a. I have not been finally punished for an offence referred to in Art. 11 of the Act of 15 June 2012 on the consequences of entrusting the performance of work to foreigners residing unlawfully in the territory of the Republic of Poland; b. I have been finally punished for an offence referred to in Art. 11 of the Act of 15 June 2012 on the consequences of entrusting the performance of work to foreigners residing unlawfully in the territory of the Republic of Poland;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "a. The entity entrusting a work to the foreigner, on whose behalf I make this declaration, is not managed or controlled by an entity that has been finally punished for the offences referred to in points 1, 2 and 6, or finally convicted of a crime referred to in points 3–5; b. The entity entrusting a work to the foreigner, on whose behalf I make this declaration, is managed or controlled by an entity that has been finally punished for the offences referred to in points 1, 2 and 6, or finally convicted of a crime referred to in points 3–5.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Je déclare que (mettez un «X» à côté de la réponse vraie):"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "a. Je n’ai pas fait l’objet d’une sanction définitive pour une infraction visée à l’art. 84, paragraphe 1, de la loi du 20 mars 2025 relative aux conditions d’admissibilité de confier le travail à un étranger sur le territoire de la République de Pologne (Journal officiel, pos. 621, avec des modifications ultérieures) et n’a pas été sanctionnée de nouveau pour une infraction similaire dans un délai de deux ans à compter de la sanction; b. J’ai fait l’objet d’une sanction définitive pour une infraction visée à l’art. 84, paragraphe 1, de la loi du 20 mars 2025 relative aux conditions de licéité de l’emploi des étrangers sur le territoire de la République de Pologne et au cours de 2 ans à compter de la condamnation j’ai fait l’objet d’une nouvelle condamnation pour une infraction similaire;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "a. Je n’ai pas fait l’objet d’une condamnation prononcée par un jugement ayant autorité de chose jugée pour l’infraction mentionnée à l’art. 84 alinéa 3–5 de la loi du 20 mars 2025 relative aux conditions de licéité de l’emploi des étrangers sur le territoire de la République de Pologne; b. J’ai fait l’objet d’une condamnation prononcée par un jugement ayant autorité de chose jugée pour l’infraction mentionnée à l’art. 84 alinéa 3–5 de la loi du 20 mars 2025 relative aux conditions de licéité de l’emploi des étrangers sur le territoire de la République de Pologne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "a. Je n’ai pas fait l’objet d’une condamnation prononcée par un jugement ayant autorité de chose jugée pour le crime mentionné à l’art. 218–221, art. 270, art. 271, art. 272, art. 273 ou art. 275 de la loi du 6 juin 1997 – Code pénal (Journal officiel de 2025, pos. 383, avec des modifications ultérieures); b. J’ai fait l’objet d’une condamnation prononcée par un jugement ayant autorité de chose jugée pour le crime mentionné à l’art. 218–221, art. 270, art. 271, art. 272, art. 273 ou art. 275 de la loi du 6 juin 1997 – Code pénal;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "a. Je n’ai pas été condamné par un jugement définitif pour une infraction visée à l’art. 189a de la loi du 6 juin 1997 – Code pénal, ni condamné dans un autre pays pour une infraction visée dans le Protocole visant à prévenir, réprimer et punir la traite des personnes, en particulier des femmes et des enfants, complétant la Convention des Nations Unies contre la criminalité transnationale organisée, adopté par l’Assemblée générale des Nations Unies le 15 novembre 2000 (Journal officiel de 2005, pos. 160); b. J’ai été condamné par un jugement définitif pour une infraction visée à l’art. 189a de la loi du 6 juin 1997 – Code pénal, ou condamné dans un autre pays pour une infraction visée dans le Protocole visant à prévenir, réprimer et punir la traite des personnes, en particulier des femmes et des enfants, complétant la Convention des Nations Unies contre la criminalité transnationale organisée, adopté le 15 novembre 2000;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "a. Je n’ai pas été condamné par un jugement définitif pour une infraction visée à l’art. 9 ou à l’art. 10 de la loi du 15 juin 2012 sur les conséquences de l’emploi de ressortissants étrangers séjournant illégalement sur le territoire de la République de Pologne (Journal officiel de 2025, pos. 1567); b. J’ai été condamné par un jugement définitif pour une infraction visée à l’art. 9 ou à l’art. 10 de la loi du 15 juin 2012 relative aux conséquences de l’emploi d’étrangers séjournant illégalement sur le territoire de la République de Pologne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "Je n’ai pas été définitivement sanctionné pour une infraction visée à l’art. 11 de la loi du 15 juin 2012 relative aux conséquences; loi du 15 juin 2012 relative aux conséquences découlant du travail confié aux étrangers résidant illégalement sur le territoire de la République de Pologne ; b. J’ai été définitivement sanctionné pour une infraction visée à l’art. 11 de la loi du 15 juin 2012 relative aux conséquences de l’emploi d’étrangers séjournant illégalement sur le territoire de la République de Pologne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "a. L’entité confiant un travail à un étranger, au nom de laquelle je fais la présente déclaration, n’est ni dirigée ni contrôlée par une entité ayant été définitivement sanctionnée pour une infraction mentionnée aux points 1, 2 et 6, ni définitivement condamnée pour un crime mentionné aux points 3–5; b. L’entité confiant un travail à un étranger, au nom de laquelle je fais la présente déclaration, est dirigée ou contrôlée par une entité ayant été définitivement sanctionnée pour une infraction mentionnée aux points 1, 2 et 6, ou définitivement condamnée pour un crime mentionné aux points 3–5.",
+     "children": [
+      {
+       "type": "text",
+       "text": "6 Заявляю, что (прошу отметить знаком «X» правильный ответ):"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "a. я не был окончательно привлечён к ответственности за правонарушение, предусмотренное ст. 84 абз. 1 Закона от 20 марта 2025 г. об условиях допустимости поручения работы иностранцам на территории Республики Польша (Законодательный вестник, поз. 621, с последующими изменениями), и в течение 2 лет после наказания не был повторно наказан за похожее нарушение; б. я был окончательно привлечён к ответственности за правонарушение, предусмотренное ст. 84 абз. 1 Закона от 20 марта 2025 г. об условиях допустимости поручения работы иностранцам на территории Республики Польша, и в течение 2 лет после наказания был повторно наказан за похожее нарушение;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "a. я не был окончательно привлечён к ответственности за правонарушение, предусмотренное ст. 84 абз. 3–5 Закона от 20 марта 2025 г. об условиях допустимости поручения работы иностранцам на территории Республики Польша; б. я был окончательно привлечён к ответственности за правонарушение, предусмотренное ст. 84 абз. 3–5 Закона от 20 марта 2025 г. об условиях допустимости поручения работы иностранцам на территории Республики Польша;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "a. я не был осужден вступившим в законную силу приговором за преступление, предусмотренное ст. 218–221, ст. 271, ст. 272, ст. 273 или ст. 275 закона от 6 июня 1997 г. – Уголовный кодекс (Законодательный вестник за 2025 г., поз. 383, с последующими изменениями); б. я был осужден вступившим в законную силу приговором за преступление, предусмотренное ст. 218–221, ст. 271, ст. 272, ст. 273 или ст. 275 закона от 6 июня 1997 г. – Уголовный кодекс;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "a. я не был осуждён вступившим в законную силу приговором за преступление, предусмотренное ст. 189a Закона от 6 июня 1997 г. – Уголовный кодекс, или осуждён в другом государстве за преступление, предусмотренное Протоколом о предупреждении, пресечении и наказании за торговлю людьми, в частности женщинами и детьми, дополняющим Конвенцию Организации Объединённых Наций против транснациональной организованной преступности, принятым Генеральной Ассамблеей ООН 15 ноября 2000 г. (Законодательный вестник за 2025 г., поз. 160); б. я был осуждён вступившим в законную силу приговором за преступление, предусмотренное ст. 189a Закона от 6 июня 1997 г. – Уголовный кодекс, или осуждён в другом государстве за преступление, предусмотренное Протоколом о предупреждении, пресечении и наказании за торговлю людьми, в частности женщинами и детьми, дополняющим Конвенцию Организации Объединённых Наций против транснациональной организованной преступности, принятым Генеральной Ассамблеей ООН 15 ноября 2000 г.;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "a. я не был осуждён вступившим в законную силу приговором за преступление, предусмотренное ст. 9 или ст. 10 Закона от 15 июня 2012 г. О последствиях поручения выполнения работы иностранцам, находящимся с нарушением закона на территории Республики Польша (Законодательный вестник за 2025 г., поз. 1567); б. я был осуждён вступившим в законную силу приговором за преступление, предусмотренное ст. 9 или ст. 10 Закона от 15 июня 2012 г. О последствиях поручения выполнения работы иностранцам, находящимся с нарушением закона на территории Республики Польша;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "a. я не был окончательно привлечён к ответственности за правонарушение, предусмотренное ст 11 Закона от 15 июня 2012 г. о последствиях поручения выполнения работы иностранцам, пребывающим с нарушением закона на территории Республики Польша; б. я был окончательно привлечён к ответственности за правонарушение, предусмотренное ст 11 Закона от 15 июня 2012 г. о последствиях поручения выполнения работы иностранцам, пребывающим с нарушением закона на территории Республики Польша;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "a. субъект, поручающий работу иностранцу, от имени которого я подаю настоящее заявление, не управляется и не контролируется субъектом, который был окончательно привлечён к ответственности за правонарушение, указанное в пунктах 1, 2 и 6, либо окончательно осуждён за преступление, указанное в пунктах 3–5; б. субъект, поручающий работу иностранцу, от имени которого я подаю настоящее заявление, управляется или контролируется субъектом, который был окончательно привлечён к ответственности за правонарушение, указанное в пунктах 1, 2 и 6, либо окончательно осуждён за преступление, указанное в пунктах 3–5.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "VI.",
+     "text": "Oświadczenie podmiotu powierzającego pracę cudzoziemcowi / Declaration of the entity entrusting a work to the foreigner / Déclaration de l’entité qui confie du travail à l’étranger / Заявление субъекта, поручающего работу иностранцу"
+    },
+    {
+     "type": "text",
+     "text": "Oświadczam, że podmiot powierzający pracę cudzoziemcowi, w imieniu którego składam niniejsze oświadczenie, jest zarządzany lub kontrolowany przez osobę fizyczną, która (proszę zaznaczyć znakiem „X” prawdziwą odpowiedź):"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "a. nie została prawomocnie ukarana za wykroczenie, o którym mowa w art. 84 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej i w ciągu 2 lat od ukarania nie została ponownie ukarana za podobne wykroczenie; b. została prawomocnie ukarana za wykroczenie, o którym mowa w art. 84 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, i w ciągu 2 lat od ukarania została ponownie ukarana za podobne wykroczenie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "a. nie została prawomocnie ukarana za wykroczenie, o którym mowa w art. 84 ust. 3–5 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej; b. została prawomocnie ukarana za wykroczenie, o którym mowa w art. 84 ust. 3–5 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "a. nie została skazana prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 218–221 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny; b. została skazana prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 218–221 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "a. nie została skazana prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 9 lub art. 10 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej; b. została skazana prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 9 lub art. 10 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "a. nie została prawomocnie ukarana za wykroczenie, o którym mowa w art. 11 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej; b. została prawomocnie ukarana za wykroczenie, o którym mowa w art. 11 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "I hereby declare, that the entity entrusting a work to the foreigner, on whose behalf I am submitting this declaration, is managed or controlled by a natural person who (tick the true answer with ”X” ):"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "a. has not been finally punished for an offence referred to in Art. 84(1) of the Act of 20 March 2025 on the conditions for the admissibility of entrusting work to foreigners in the territory of the Republic of Poland and within 2 years from the date of punishment has not been punished again for a similar offence; b. has been finally punished for an offence referred to in Art. 84(1) of the Act of 20 March 2025 on the conditions for the admissibility of entrusting work to foreigners in the territory of the Republic of Poland, and within 2 years from the date of punishment has been punished again for a similar offence; 7",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "a. has not been finally punished for an offence referred to in Art. 84 (3–5) of the Act of 20 March 2025 on the conditions for the admissibility of entrusting work to foreigners in the territory of the Republic of Poland; b. has been finally punished for an offence referred to in Art. 84 (3–5) of the Act of 20 March 2025 on the conditions for the admissibility of entrusting work to foreigners in the territory of the Republic of Poland;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "a. has not been convicted by a final judgment of a crime referred to in Art. 218–221 of the Act of 6 June 1997 – the Penal Code; b. has been convicted by a final judgment of a crime referred to in Art. 218–221 of the Act of 6 June 1997 – the Penal Code;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "a. has not been convicted by a final judgment of a crime referred to in Art. 9 or Art. 10 of the Act of 15 June 2012 on the consequences of entrusting work to foreigners staying illegally in the territory of the Republic of Poland; b. has been convicted by a final judgment of a crime referred to in Art. 9 or Art. 10 of the Act of 15 June 2012 on the consequences of entrusting work to foreigners staying illegally in the territory of the Republic of Poland;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "a. has not been finally punished for an offence referred to in Art. 11 of the Act of 15 June 2012 on the consequences of entrusting work to foreigners staying illegally in the territory of the Republic of Poland; b. has been finally punished for an offence referred to in Art. 11 of the Act of 15 June 2012 on the consequences of entrusting work to foreigners staying illegally in the territory of the Republic of Poland.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Je déclare que l’entité qui confie le travail à l’étranger, au nom de laquelle je fais la présente déclaration, est dirigée ou contrôlée par une personne physique qui (mettez un «X» à côté de):"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "a. n’a pas fait l’objet d’une sanction définitive pour une infraction visée à l’art. 84, paragraphe 1 de la loi du 20 mars 2025 relative aux conditions d’admissibilité de confier le travail à un étranger sur le territoire de la République de Pologne, et n’a pas été sanctionnée de nouveau pour une infraction similaire dans un délai de deux ans à compter de la sanction; b. a fait l’objet d’une sanction définitive pour une infraction visée à l’art. 84, paragraphe 1 de la loi du 20 mars 2025 relative aux conditions d’admissibilité de confier le travail à un étranger sur le territoire de la République de Pologne, et a été sanctionnée de nouveau pour une infraction similaire dans un délai de deux ans à compter de la sanction;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "a. n’a pas fait l’objet d’une sanction définitive pour une infraction visée à l’art. 84, paragraphes 3 à 5 de la loi du 20 mars 2025 relative aux conditions d’admissibilité de confier le travail à un étranger sur le territoire de la République de Pologne; b. a fait l’objet d’une sanction définitive pour une infraction visée à l’art. 84, paragraphes 3 à 5 de la loi du 20 mars 2025 relative aux conditions d’admissibilité de confier le travail à un étranger sur le territoire de la République de Pologne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "a. n’a pas été condamnée par un jugement définitif pour un délit visé aux art. 218 à 221 de la loi du 6 juin 1997 – Code pénal; b. a été condamnée par un jugement définitif pour un délit visé aux art. 218 à 221 de la loi du 6 juin 1997 – Code pénal;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "a. n’a pas été condamnée par un jugement définitif pour un délit visé à l’art. 9 ou à l’art. 10 de la loi du 15 juin 2012 relative aux conséquences découlant du travail confié aux étrangers résidant illégalement sur le territoire de la République de Pologne; b. a été condamnée par un jugement définitif pour un délit visé à l’art. 9 ou à l’art. 10 de la loi du 15 juin 2012 relative aux conséquences découlant du travail confié aux étrangers résidant illégalement sur le territoire de la République de Pologne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "a. n’a pas fait l’objet d’une sanction définitive pour une infraction visée à l’art. 11 de la loi du 15 juin 2012 relative aux conséquences découlant du travail confié aux étrangers résidant illégalement sur le territoire de la République de Pologne; b. a fait l’objet d’une sanction définitive pour une infraction visée à l’art. 11 de la loi du 15 juin 2012 relative aux conséquences découlant du travail confié aux étrangers résidant illégalement sur le territoire de la République de Pologne.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Заявляю, что субъект, поручающий работу иностранцу, от имени которого я подаю настоящее заявление, управляется или контролируется физическим лицом, которое (прошу отметить знаком «X» правильный ответ):"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "a. не было окончательно привлечено к ответственности за правонарушение, предусмотренное ст. 84 абз. 1 Закона от 20 марта 2025 г. об условиях допустимости поручения работы иностранцам на территории Республики Польша, и в течение 2 лет после наказания не был повторно наказан за похожее нарушение; б. было окончательно привлечено к ответственности за правонарушение, предусмотренное ст. 84 абз. 1 Закона от 20 марта 2025 г. об условиях допустимости поручения работы иностранцам на территории Республики Польша, и в течение 2 лет после наказания был повторно наказан за похожее нарушение;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "a. не было окончательно привлечено к ответственности за правонарушение, предусмотренное ст. 84 абз. 3–5 Закона от 20 марта 2025 г. об условиях допустимости поручения работы иностранцам на территории Республики Польша; б. было окончательно привлечено к ответственности за правонарушение, предусмотренное ст. 84 абз. 3–5 Закона от 20 марта 2025 г. об условиях допустимости поручения работы иностранцам на территории Республики Польша;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "a. не было осуждено вступившим в законную силу приговором за преступление, предусмотренное ст. 218–221 Закона от 6 июня 1997 г. – Уголовный кодекс; б. было осуждено вступившим в законную силу приговором за преступление, предусмотренное ст. 218–221 Закона от 6 июня 1997 г. – Уголовный кодекс;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "a. не было осуждено вступившим в законную силу приговором за преступление, предусмотренное ст. 9 или ст. 10 Закона от 15 июня 2012 г. О последствиях поручения выполнения работы иностранцам, находящимся с нарушением закона на территории Республики Польша; б. было осуждено вступившим в законную силу приговором за преступление, предусмотренное ст. 9 или ст.10 Закона от 15 июня 2012 г. О последствиях поручения выполнения работы иностранцам, находящимся с нарушением закона на территории Республики Польша;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "a. не было окончательно привлечено к ответственности за правонарушение, предусмотренное ст. 11 Закона от 15 июня 2012 г. о последствиях поручения выполнения работы иностранцам, находящимся с нарушением закона на территории Республики Польша; б. было окончательно привлечено к ответственности за правонарушение, предусмотренное ст. 11 Закона от 15 июня 2012 г. о последствиях поручения выполнения работы иностранцам, находящимся с нарушением закона на территории Республики Польша.",
+     "children": [
+      {
+       "type": "text",
+       "text": "8 Oświadczam, że dane zawarte we wniosku są prawdziwe. / I hereby declare that the data and information I provided in the application are truthful. / Je déclare que les informations contenues dans la demande sont exacts. / Заявляю, что данные и свeдeния, содержащиеся в заявке являются достоверными."
       },
       {
        "type": "text",
-       "text": "V. Oświadczenie podmiotu powierzającego pracę cudzoziemcowi / Declaration of the entity entrusting a work to the foreigner / Déclaration de l’entité qui confie du travail à l’étranger / Заявление субъекта, поручающего работу иностранцу"
+       "text": "Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia. / I am aware of the criminal liability for making a false statement. / Je suis conscient de la responsabilité pénale en cas de fausse déclaration. / Мне известно об уголовной ответственности за дачу ложных показаний."
       },
       {
        "type": "text",
-       "text": "Oświadczam, że (proszę zaznaczyć znakiem „X” prawdziwą odpowiedź):"
+       "text": "Data / Date / Date / Дата: / /"
       },
       {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_9/pkt_1",
-       "text": "a. nie zostałem prawomocnie ukarany za wykroczenie, o którym mowa w art. 84 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621, z późn. zm.), i w ciągu 2 lat od ukarania nie zostałem ponownie ukarany za podobne wykroczenie; b. zostałem prawomocnie ukarany za wykroczenie, o którym mowa w art. 84 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, i w ciągu 2 lat od ukarania zostałem ponownie ukarany za podobne wykroczenie; 2) a. nie zostałem prawomocnie ukarany za wykroczenie, o którym mowa w art. 84 ust. 3–5 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej; b. zostałem prawomocnie ukarany za wykroczenie, o którym mowa w art. 84 ust. 3–5 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej;",
-       "children": []
+       "type": "text",
+       "text": "rok / year / année / год miesiąc / month / mois / dzień / day / месяц jour /день"
       },
       {
-       "type": "pkt",
-       "num": "3",
-       "path": "ust_9/pkt_3",
-       "text": "a. nie zostałem skazany prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 218–221, art. 270, art. 271, art. 272, art. 273 lub art. 275 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, z późn. zm.); b. zostałem skazany prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 218–221, art. 270, art. 271, art. 272, art. 273 lub art. 275 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny;",
-       "children": []
+       "type": "text",
+       "text": "podpis podmiotu powierzającego pracę cudzoziemcowi lub osoby działającej w imieniu i na rzecz takiego podmiotu / signature of the entity entrusting a work to the foreigner or of a person acting on behalf of and for such an entity / signature de l’entité confiant un travail à l’étranger ou d’une personne agissant au nom et pour le compte de cette entité/ подпись субъекта, поручающего работу иностранцу или лица, действующего от имени и в интересах такого субъекта"
       },
       {
-       "type": "pkt",
-       "num": "4",
-       "path": "ust_9/pkt_4",
-       "text": "a. nie zostałem skazany prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 189a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, lub skazany w innym państwie za przestępstwo, o którym mowa w Protokole o zapobieganiu, zwalczaniu oraz karaniu za handel ludźmi, w szczególności kobietami i dziećmi, uzupełniającym Konwencję Narodów Zjednoczonych przeciwko międzynarodowej przestępczości zorganizowanej, przyjętym przez Zgromadzenie Ogólne Narodów Zjednoczonych dnia 15 listopada 2000 r. (Dz. U. z 2005 r. poz. 160); b. zostałem skazany prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 189a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, lub skazany w innym państwie za przestępstwo, o którym mowa w Protokole o zapobieganiu, zwalczaniu oraz karaniu za handel ludźmi, w szczególności kobietami i dziećmi, uzupełniającym Konwencję Narodów Zjednoczonych przeciwko międzynarodowej przestępczości zorganizowanej, przyjętym przez Zgromadzenie Ogólne Narodów Zjednoczonych dnia 15 listopada 2000 r.;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "5",
-       "path": "ust_9/pkt_5",
-       "text": "a. nie zostałem skazany prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 9 lub art. 10 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 1567); b. zostałem skazany prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 9 lub art. 10 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "6",
-       "path": "ust_9/pkt_6",
-       "text": "a. nie zostałem prawomocnie ukarany za wykroczenie, o którym mowa w art. 11 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej; b. zostałem prawomocnie ukarany za wykroczenie, o którym mowa w art. 11 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "7",
-       "path": "ust_9/pkt_7",
-       "text": "a. podmiot powierzający pracę cudzoziemcowi, w imieniu którego składam niniejsze oświadczenie, nie jest zarządzany lub kontrolowany przez podmiot, który został prawomocnie ukarany za wykroczenie, o którym mowa w pkt 1, 2 i 6, lub prawomocnie skazany za przestępstwo, o którym mowa w pkt 3–5; b. podmiot powierzający pracę cudzoziemcowi, w imieniu którego składam niniejsze oświadczenie, jest zarządzany lub kontrolowany przez podmiot, który został prawomocnie ukarany za wykroczenie, o którym mowa w pkt 1, 2 i 6, lub prawomocnie skazany za przestępstwo, o którym mowa w pkt 3–5.",
-       "children": [
-        {
-         "type": "text",
-         "text": "I hereby declare, that (tick the true answer with ”X” ):"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_9/pkt_1",
-       "text": "a. I have never been finally punished for an offence referred to in Art. 84 paragraph 1 Act of 20 March 2025 on the Conditions for the Lawfulness of Employing Foreigners in the Territory of the Republic of Poland (Journal of Laws, item 621, as amended) and within 2 years from the conviction, I was not convicted again for a similar offence;",
-       "children": [
-        {
-         "type": "text",
-         "text": "5 b. I have been finally punished for an offence referred to in in Art. 84 paragraph 1 Act of 20 March 2025 on the conditions for the admissibility of entrusting work to foreigners in the territory of the Republic of Poland and within 2 years of conviction was again convicted of similar offense;"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "ust_9/pkt_2",
-       "text": "a. I have never been finally punished for an offence referred to in Art. 84 paragraph 3–5 of the Act of 20 March 2025 2025 on the conditions for the admissibility of entrusting work to foreigners in the territory of the Republic of Poland; b. I have been finally punished for an offence referred to in Art. 84 paragraph 3–5 of the Act of 20 March 2025 on the conditions for the admissibility of entrusting work to foreigners in the territory of the Republic of Poland;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "ust_9/pkt_3",
-       "text": "a. I have never been convicted of a crime referred to in Art. 218–221, Art. 270, Art. 271, Art. 272, Art. 273 or Art. 275 of the Act of 6 June 1997 – Penal Code (Journal of Laws of 2025, item 383, as amended); b. I have been convicted of a crime referred to in Art. 218–221, Art. 270, Art. 271, Art. 272, Art. 273 or Art. 275 of the Act of 6 June 1997 – Penal Code; 4) a. I have never been convicted by a final judgment for a crime referred to in Art. 189a of the Act of 6 June 1997 – Penal Code, or convicted in another country for a crime referred to in the Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children, supplementing the United Nations Convention against Transnational Organized Crime, adopted by the UN General Assembly on 15 November 2000 (Journal of Laws of 2005, item 160); b. I have been convicted by a final judgment for a crime referred to in Art. 189a of the Act of 6 June 1997 – Penal Code, or convicted in another country for a crime referred to in the Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children, supplementing the United Nations Convention against Transnational Organized Crime, adopted by the UN General Assembly on 15 November 2000;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "5",
-       "path": "ust_9/pkt_5",
-       "text": "a. I have not been convicted by a final judgment for a crime referred to in Art. 9 or Art. 10 of the Act of 15 June 2012 on the consequences of entrusting the performance of work to foreigners residing unlawfully in the territory of the Republic of Poland (Journal of Laws of 2025, item 1567); b. I have been convicted by a final judgment for a crime referred to in Art. 9 or Art. 10 of the Act of 15 June 2012 on the consequences of entrusting the performance of work to foreigners residing unlawfully in the territory of the Republic of Poland;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "6",
-       "path": "ust_9/pkt_6",
-       "text": "a. I have not been finally punished for an offence referred to in Art. 11 of the Act of 15 June 2012 on the consequences of entrusting the performance of work to foreigners residing unlawfully in the territory of the Republic of Poland; b. I have been finally punished for an offence referred to in Art. 11 of the Act of 15 June 2012 on the consequences of entrusting the performance of work to foreigners residing unlawfully in the territory of the Republic of Poland;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "7",
-       "path": "ust_9/pkt_7",
-       "text": "a. The entity entrusting a work to the foreigner, on whose behalf I make this declaration, is not managed or controlled by an entity that has been finally punished for the offences referred to in points 1, 2 and 6, or finally convicted of a crime referred to in points 3–5; b. The entity entrusting a work to the foreigner, on whose behalf I make this declaration, is managed or controlled by an entity that has been finally punished for the offences referred to in points 1, 2 and 6, or finally convicted of a crime referred to in points 3–5.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Je déclare que (mettez un «X» à côté de la réponse vraie):"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_9/pkt_1",
-       "text": "a. Je n’ai pas fait l’objet d’une sanction définitive pour une infraction visée à l’art. 84, paragraphe 1, de la loi du 20 mars 2025 relative aux conditions d’admissibilité de confier le travail à un étranger sur le territoire de la République de Pologne (Journal officiel, pos. 621, avec des modifications ultérieures) et n’a pas été sanctionnée de nouveau pour une infraction similaire dans un délai de deux ans à compter de la sanction; b. J’ai fait l’objet d’une sanction définitive pour une infraction visée à l’art. 84, paragraphe 1, de la loi du 20 mars 2025 relative aux conditions de licéité de l’emploi des étrangers sur le territoire de la République de Pologne et au cours de 2 ans à compter de la condamnation j’ai fait l’objet d’une nouvelle condamnation pour une infraction similaire;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "ust_9/pkt_2",
-       "text": "a. Je n’ai pas fait l’objet d’une condamnation prononcée par un jugement ayant autorité de chose jugée pour l’infraction mentionnée à l’art. 84 alinéa 3–5 de la loi du 20 mars 2025 relative aux conditions de licéité de l’emploi des étrangers sur le territoire de la République de Pologne; b. J’ai fait l’objet d’une condamnation prononcée par un jugement ayant autorité de chose jugée pour l’infraction mentionnée à l’art. 84 alinéa 3–5 de la loi du 20 mars 2025 relative aux conditions de licéité de l’emploi des étrangers sur le territoire de la République de Pologne;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "ust_9/pkt_3",
-       "text": "a. Je n’ai pas fait l’objet d’une condamnation prononcée par un jugement ayant autorité de chose jugée pour le crime mentionné à l’art. 218–221, art. 270, art. 271, art. 272, art. 273 ou art. 275 de la loi du 6 juin 1997 – Code pénal (Journal officiel de 2025, pos. 383, avec des modifications ultérieures); b. J’ai fait l’objet d’une condamnation prononcée par un jugement ayant autorité de chose jugée pour le crime mentionné à l’art. 218–221, art. 270, art. 271, art. 272, art. 273 ou art. 275 de la loi du 6 juin 1997 – Code pénal;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "4",
-       "path": "ust_9/pkt_4",
-       "text": "a. Je n’ai pas été condamné par un jugement définitif pour une infraction visée à l’art. 189a de la loi du 6 juin 1997 – Code pénal, ni condamné dans un autre pays pour une infraction visée dans le Protocole visant à prévenir, réprimer et punir la traite des personnes, en particulier des femmes et des enfants, complétant la Convention des Nations Unies contre la criminalité transnationale organisée, adopté par l’Assemblée générale des Nations Unies le 15 novembre 2000 (Journal officiel de 2005, pos. 160); b. J’ai été condamné par un jugement définitif pour une infraction visée à l’art. 189a de la loi du 6 juin 1997 – Code pénal, ou condamné dans un autre pays pour une infraction visée dans le Protocole visant à prévenir, réprimer et punir la traite des personnes, en particulier des femmes et des enfants, complétant la Convention des Nations Unies contre la criminalité transnationale organisée, adopté le 15 novembre 2000;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "5",
-       "path": "ust_9/pkt_5",
-       "text": "a. Je n’ai pas été condamné par un jugement définitif pour une infraction visée à l’art. 9 ou à l’art. 10 de la loi du 15 juin 2012 sur les conséquences de l’emploi de ressortissants étrangers séjournant illégalement sur le territoire de la République de Pologne (Journal officiel de 2025, pos. 1567); b. J’ai été condamné par un jugement définitif pour une infraction visée à l’art. 9 ou à l’art. 10 de la loi du 15 juin 2012 relative aux conséquences de l’emploi d’étrangers séjournant illégalement sur le territoire de la République de Pologne;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "6",
-       "path": "ust_9/pkt_6",
-       "text": "Je n’ai pas été définitivement sanctionné pour une infraction visée à l’art. 11 de la loi du 15 juin 2012 relative aux conséquences; loi du 15 juin 2012 relative aux conséquences découlant du travail confié aux étrangers résidant illégalement sur le territoire de la République de Pologne ; b. J’ai été définitivement sanctionné pour une infraction visée à l’art. 11 de la loi du 15 juin 2012 relative aux conséquences de l’emploi d’étrangers séjournant illégalement sur le territoire de la République de Pologne;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "7",
-       "path": "ust_9/pkt_7",
-       "text": "a. L’entité confiant un travail à un étranger, au nom de laquelle je fais la présente déclaration, n’est ni dirigée ni contrôlée par une entité ayant été définitivement sanctionnée pour une infraction mentionnée aux points 1, 2 et 6, ni définitivement condamnée pour un crime mentionné aux points 3–5; b. L’entité confiant un travail à un étranger, au nom de laquelle je fais la présente déclaration, est dirigée ou contrôlée par une entité ayant été définitivement sanctionnée pour une infraction mentionnée aux points 1, 2 et 6, ou définitivement condamnée pour un crime mentionné aux points 3–5.",
-       "children": [
-        {
-         "type": "text",
-         "text": "6 Заявляю, что (прошу отметить знаком «X» правильный ответ):"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_9/pkt_1",
-       "text": "a. я не был окончательно привлечён к ответственности за правонарушение, предусмотренное ст. 84 абз. 1 Закона от 20 марта 2025 г. об условиях допустимости поручения работы иностранцам на территории Республики Польша (Законодательный вестник, поз. 621, с последующими изменениями), и в течение 2 лет после наказания не был повторно наказан за похожее нарушение; б. я был окончательно привлечён к ответственности за правонарушение, предусмотренное ст. 84 абз. 1 Закона от 20 марта 2025 г. об условиях допустимости поручения работы иностранцам на территории Республики Польша, и в течение 2 лет после наказания был повторно наказан за похожее нарушение;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "ust_9/pkt_2",
-       "text": "a. я не был окончательно привлечён к ответственности за правонарушение, предусмотренное ст. 84 абз. 3–5 Закона от 20 марта 2025 г. об условиях допустимости поручения работы иностранцам на территории Республики Польша; б. я был окончательно привлечён к ответственности за правонарушение, предусмотренное ст. 84 абз. 3–5 Закона от 20 марта 2025 г. об условиях допустимости поручения работы иностранцам на территории Республики Польша;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "ust_9/pkt_3",
-       "text": "a. я не был осужден вступившим в законную силу приговором за преступление, предусмотренное ст. 218–221, ст. 271, ст. 272, ст. 273 или ст. 275 закона от 6 июня 1997 г. – Уголовный кодекс (Законодательный вестник за 2025 г., поз. 383, с последующими изменениями); б. я был осужден вступившим в законную силу приговором за преступление, предусмотренное ст. 218–221, ст. 271, ст. 272, ст. 273 или ст. 275 закона от 6 июня 1997 г. – Уголовный кодекс;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "4",
-       "path": "ust_9/pkt_4",
-       "text": "a. я не был осуждён вступившим в законную силу приговором за преступление, предусмотренное ст. 189a Закона от 6 июня 1997 г. – Уголовный кодекс, или осуждён в другом государстве за преступление, предусмотренное Протоколом о предупреждении, пресечении и наказании за торговлю людьми, в частности женщинами и детьми, дополняющим Конвенцию Организации Объединённых Наций против транснациональной организованной преступности, принятым Генеральной Ассамблеей ООН 15 ноября 2000 г. (Законодательный вестник за 2025 г., поз. 160); б. я был осуждён вступившим в законную силу приговором за преступление, предусмотренное ст. 189a Закона от 6 июня 1997 г. – Уголовный кодекс, или осуждён в другом государстве за преступление, предусмотренное Протоколом о предупреждении, пресечении и наказании за торговлю людьми, в частности женщинами и детьми, дополняющим Конвенцию Организации Объединённых Наций против транснациональной организованной преступности, принятым Генеральной Ассамблеей ООН 15 ноября 2000 г.;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "5",
-       "path": "ust_9/pkt_5",
-       "text": "a. я не был осуждён вступившим в законную силу приговором за преступление, предусмотренное ст. 9 или ст. 10 Закона от 15 июня 2012 г. О последствиях поручения выполнения работы иностранцам, находящимся с нарушением закона на территории Республики Польша (Законодательный вестник за 2025 г., поз. 1567); б. я был осуждён вступившим в законную силу приговором за преступление, предусмотренное ст. 9 или ст. 10 Закона от 15 июня 2012 г. О последствиях поручения выполнения работы иностранцам, находящимся с нарушением закона на территории Республики Польша;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "6",
-       "path": "ust_9/pkt_6",
-       "text": "a. я не был окончательно привлечён к ответственности за правонарушение, предусмотренное ст 11 Закона от 15 июня 2012 г. о последствиях поручения выполнения работы иностранцам, пребывающим с нарушением закона на территории Республики Польша; б. я был окончательно привлечён к ответственности за правонарушение, предусмотренное ст 11 Закона от 15 июня 2012 г. о последствиях поручения выполнения работы иностранцам, пребывающим с нарушением закона на территории Республики Польша;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "7",
-       "path": "ust_9/pkt_7",
-       "text": "a. субъект, поручающий работу иностранцу, от имени которого я подаю настоящее заявление, не управляется и не контролируется субъектом, который был окончательно привлечён к ответственности за правонарушение, указанное в пунктах 1, 2 и 6, либо окончательно осуждён за преступление, указанное в пунктах 3–5; б. субъект, поручающий работу иностранцу, от имени которого я подаю настоящее заявление, управляется или контролируется субъектом, который был окончательно привлечён к ответственности за правонарушение, указанное в пунктах 1, 2 и 6, либо окончательно осуждён за преступление, указанное в пунктах 3–5.",
-       "children": [
-        {
-         "type": "text",
-         "text": "VI. Oświadczenie podmiotu powierzającego pracę cudzoziemcowi / Declaration of the entity entrusting a work to the foreigner / Déclaration de l’entité qui confie du travail à l’étranger / Заявление субъекта, поручающего работу иностранцу"
-        },
-        {
-         "type": "text",
-         "text": "Oświadczam, że podmiot powierzający pracę cudzoziemcowi, w imieniu którego składam niniejsze oświadczenie, jest zarządzany lub kontrolowany przez osobę fizyczną, która (proszę zaznaczyć znakiem „X” prawdziwą odpowiedź):"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_9/pkt_1",
-       "text": "a. nie została prawomocnie ukarana za wykroczenie, o którym mowa w art. 84 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej i w ciągu 2 lat od ukarania nie została ponownie ukarana za podobne wykroczenie; b. została prawomocnie ukarana za wykroczenie, o którym mowa w art. 84 ust. 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej, i w ciągu 2 lat od ukarania została ponownie ukarana za podobne wykroczenie;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "ust_9/pkt_2",
-       "text": "a. nie została prawomocnie ukarana za wykroczenie, o którym mowa w art. 84 ust. 3–5 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej; b. została prawomocnie ukarana za wykroczenie, o którym mowa w art. 84 ust. 3–5 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "ust_9/pkt_3",
-       "text": "a. nie została skazana prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 218–221 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny; b. została skazana prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 218–221 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "4",
-       "path": "ust_9/pkt_4",
-       "text": "a. nie została skazana prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 9 lub art. 10 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej; b. została skazana prawomocnym wyrokiem za przestępstwo, o którym mowa w art. 9 lub art. 10 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "5",
-       "path": "ust_9/pkt_5",
-       "text": "a. nie została prawomocnie ukarana za wykroczenie, o którym mowa w art. 11 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej; b. została prawomocnie ukarana za wykroczenie, o którym mowa w art. 11 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej.",
-       "children": [
-        {
-         "type": "text",
-         "text": "I hereby declare, that the entity entrusting a work to the foreigner, on whose behalf I am submitting this declaration, is managed or controlled by a natural person who (tick the true answer with ”X” ):"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_9/pkt_1",
-       "text": "a. has not been finally punished for an offence referred to in Art. 84(1) of the Act of 20 March 2025 on the conditions for the admissibility of entrusting work to foreigners in the territory of the Republic of Poland and within 2 years from the date of punishment has not been punished again for a similar offence; b. has been finally punished for an offence referred to in Art. 84(1) of the Act of 20 March 2025 on the conditions for the admissibility of entrusting work to foreigners in the territory of the Republic of Poland, and within 2 years from the date of punishment has been punished again for a similar offence; 7",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "ust_9/pkt_2",
-       "text": "a. has not been finally punished for an offence referred to in Art. 84 (3–5) of the Act of 20 March 2025 on the conditions for the admissibility of entrusting work to foreigners in the territory of the Republic of Poland; b. has been finally punished for an offence referred to in Art. 84 (3–5) of the Act of 20 March 2025 on the conditions for the admissibility of entrusting work to foreigners in the territory of the Republic of Poland;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "ust_9/pkt_3",
-       "text": "a. has not been convicted by a final judgment of a crime referred to in Art. 218–221 of the Act of 6 June 1997 – the Penal Code; b. has been convicted by a final judgment of a crime referred to in Art. 218–221 of the Act of 6 June 1997 – the Penal Code;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "4",
-       "path": "ust_9/pkt_4",
-       "text": "a. has not been convicted by a final judgment of a crime referred to in Art. 9 or Art. 10 of the Act of 15 June 2012 on the consequences of entrusting work to foreigners staying illegally in the territory of the Republic of Poland; b. has been convicted by a final judgment of a crime referred to in Art. 9 or Art. 10 of the Act of 15 June 2012 on the consequences of entrusting work to foreigners staying illegally in the territory of the Republic of Poland;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "5",
-       "path": "ust_9/pkt_5",
-       "text": "a. has not been finally punished for an offence referred to in Art. 11 of the Act of 15 June 2012 on the consequences of entrusting work to foreigners staying illegally in the territory of the Republic of Poland; b. has been finally punished for an offence referred to in Art. 11 of the Act of 15 June 2012 on the consequences of entrusting work to foreigners staying illegally in the territory of the Republic of Poland.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Je déclare que l’entité qui confie le travail à l’étranger, au nom de laquelle je fais la présente déclaration, est dirigée ou contrôlée par une personne physique qui (mettez un «X» à côté de):"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_9/pkt_1",
-       "text": "a. n’a pas fait l’objet d’une sanction définitive pour une infraction visée à l’art. 84, paragraphe 1 de la loi du 20 mars 2025 relative aux conditions d’admissibilité de confier le travail à un étranger sur le territoire de la République de Pologne, et n’a pas été sanctionnée de nouveau pour une infraction similaire dans un délai de deux ans à compter de la sanction; b. a fait l’objet d’une sanction définitive pour une infraction visée à l’art. 84, paragraphe 1 de la loi du 20 mars 2025 relative aux conditions d’admissibilité de confier le travail à un étranger sur le territoire de la République de Pologne, et a été sanctionnée de nouveau pour une infraction similaire dans un délai de deux ans à compter de la sanction;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "ust_9/pkt_2",
-       "text": "a. n’a pas fait l’objet d’une sanction définitive pour une infraction visée à l’art. 84, paragraphes 3 à 5 de la loi du 20 mars 2025 relative aux conditions d’admissibilité de confier le travail à un étranger sur le territoire de la République de Pologne; b. a fait l’objet d’une sanction définitive pour une infraction visée à l’art. 84, paragraphes 3 à 5 de la loi du 20 mars 2025 relative aux conditions d’admissibilité de confier le travail à un étranger sur le territoire de la République de Pologne;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "ust_9/pkt_3",
-       "text": "a. n’a pas été condamnée par un jugement définitif pour un délit visé aux art. 218 à 221 de la loi du 6 juin 1997 – Code pénal; b. a été condamnée par un jugement définitif pour un délit visé aux art. 218 à 221 de la loi du 6 juin 1997 – Code pénal;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "4",
-       "path": "ust_9/pkt_4",
-       "text": "a. n’a pas été condamnée par un jugement définitif pour un délit visé à l’art. 9 ou à l’art. 10 de la loi du 15 juin 2012 relative aux conséquences découlant du travail confié aux étrangers résidant illégalement sur le territoire de la République de Pologne; b. a été condamnée par un jugement définitif pour un délit visé à l’art. 9 ou à l’art. 10 de la loi du 15 juin 2012 relative aux conséquences découlant du travail confié aux étrangers résidant illégalement sur le territoire de la République de Pologne;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "5",
-       "path": "ust_9/pkt_5",
-       "text": "a. n’a pas fait l’objet d’une sanction définitive pour une infraction visée à l’art. 11 de la loi du 15 juin 2012 relative aux conséquences découlant du travail confié aux étrangers résidant illégalement sur le territoire de la République de Pologne; b. a fait l’objet d’une sanction définitive pour une infraction visée à l’art. 11 de la loi du 15 juin 2012 relative aux conséquences découlant du travail confié aux étrangers résidant illégalement sur le territoire de la République de Pologne.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Заявляю, что субъект, поручающий работу иностранцу, от имени которого я подаю настоящее заявление, управляется или контролируется физическим лицом, которое (прошу отметить знаком «X» правильный ответ):"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_9/pkt_1",
-       "text": "a. не было окончательно привлечено к ответственности за правонарушение, предусмотренное ст. 84 абз. 1 Закона от 20 марта 2025 г. об условиях допустимости поручения работы иностранцам на территории Республики Польша, и в течение 2 лет после наказания не был повторно наказан за похожее нарушение; б. было окончательно привлечено к ответственности за правонарушение, предусмотренное ст. 84 абз. 1 Закона от 20 марта 2025 г. об условиях допустимости поручения работы иностранцам на территории Республики Польша, и в течение 2 лет после наказания был повторно наказан за похожее нарушение;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "ust_9/pkt_2",
-       "text": "a. не было окончательно привлечено к ответственности за правонарушение, предусмотренное ст. 84 абз. 3–5 Закона от 20 марта 2025 г. об условиях допустимости поручения работы иностранцам на территории Республики Польша; б. было окончательно привлечено к ответственности за правонарушение, предусмотренное ст. 84 абз. 3–5 Закона от 20 марта 2025 г. об условиях допустимости поручения работы иностранцам на территории Республики Польша;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "ust_9/pkt_3",
-       "text": "a. не было осуждено вступившим в законную силу приговором за преступление, предусмотренное ст. 218–221 Закона от 6 июня 1997 г. – Уголовный кодекс; б. было осуждено вступившим в законную силу приговором за преступление, предусмотренное ст. 218–221 Закона от 6 июня 1997 г. – Уголовный кодекс;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "4",
-       "path": "ust_9/pkt_4",
-       "text": "a. не было осуждено вступившим в законную силу приговором за преступление, предусмотренное ст. 9 или ст. 10 Закона от 15 июня 2012 г. О последствиях поручения выполнения работы иностранцам, находящимся с нарушением закона на территории Республики Польша; б. было осуждено вступившим в законную силу приговором за преступление, предусмотренное ст. 9 или ст.10 Закона от 15 июня 2012 г. О последствиях поручения выполнения работы иностранцам, находящимся с нарушением закона на территории Республики Польша;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "5",
-       "path": "ust_9/pkt_5",
-       "text": "a. не было окончательно привлечено к ответственности за правонарушение, предусмотренное ст. 11 Закона от 15 июня 2012 г. о последствиях поручения выполнения работы иностранцам, находящимся с нарушением закона на территории Республики Польша; б. было окончательно привлечено к ответственности за правонарушение, предусмотренное ст. 11 Закона от 15 июня 2012 г. о последствиях поручения выполнения работы иностранцам, находящимся с нарушением закона на территории Республики Польша.",
-       "children": [
-        {
-         "type": "text",
-         "text": "8 Oświadczam, że dane zawarte we wniosku są prawdziwe. / I hereby declare that the data and information I provided in the application are truthful. / Je déclare que les informations contenues dans la demande sont exacts. / Заявляю, что данные и свeдeния, содержащиеся в заявке являются достоверными."
-        },
-        {
-         "type": "text",
-         "text": "Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia. / I am aware of the criminal liability for making a false statement. / Je suis conscient de la responsabilité pénale en cas de fausse déclaration. / Мне известно об уголовной ответственности за дачу ложных показаний."
-        },
-        {
-         "type": "text",
-         "text": "Data / Date / Date / Дата: / /"
-        },
-        {
-         "type": "text",
-         "text": "rok / year / année / год miesiąc / month / mois / dzień / day / месяц jour /день"
-        },
-        {
-         "type": "text",
-         "text": "podpis podmiotu powierzającego pracę cudzoziemcowi lub osoby działającej w imieniu i na rzecz takiego podmiotu / signature of the entity entrusting a work to the foreigner or of a person acting on behalf of and for such an entity / signature de l’entité confiant un travail à l’étranger ou d’une personne agissant au nom et pour le compte de cette entité/ подпись субъекта, поручающего работу иностранцу или лица, действующего от имени и в интересах такого субъекта"
-        },
-        {
-         "type": "text",
-         "text": "9"
-        }
-       ]
+       "type": "text",
+       "text": "9"
       }
      ]
     }
@@ -2240,8 +2242,9 @@
      "text": "Uwaga! Wypełnia cudzoziemiec ubiegający się o zezwolenie na pobyt czasowy w celu wykonywania pracy w zawodzie wymagającym wysokich kwalifikacji albo o zezwolenie na pobyt czasowy w celu mobilności długoterminowej posiadacza Niebieskiej Karty UE. Attention! To be filled in by the foreigner applying for the temporary residence permit to perform a paid activity in a field requiring high qualifications or for the temporary residence permit for the purpose of long-term mobility of the EU Blue Card holder. Attention! À remplir par l’étranger qui demande d’un permis de séjour temporaire pour l’exercer du travail hautement qualifiée professionnelle ou d’un permis de séjour temporaire aux fins de mobilité de longue durée du titulaire de la carte bleue européenne. Внимание! Заполняет иностранец, ходатайствующий о разрешении на временное пребывание с целью выполнения работы по специальности, требующей высокой профессиональной квалификации или для получения временного вида на жительство с целью долгосрочной мобильности владельца Голубой карты ЕС."
     },
     {
-     "type": "text",
-     "text": "I. Dane osobowe cudzoziemca / Personal data of the foreigner / Données à caracter personnel de l’étranger / Личные данные иностранца:"
+     "type": "heading",
+     "label": "I.",
+     "text": "Dane osobowe cudzoziemca / Personal data of the foreigner / Données à caracter personnel de l’étranger / Личные данные иностранца:"
     },
     {
      "type": "ust",
@@ -2269,108 +2272,111 @@
      "num": "4",
      "path": "ust_4",
      "text": "Obywatelstwo (obywatelstwa) / Citizenship (citizenships) / Nationalité (nationalités) / Гражданство (гражданства):",
-     "children": [
-      {
-       "type": "text",
-       "text": "II. Posiadane przez cudzoziemca wyższe kwalifikacje zawodowe niezbędne do wykonywania pracy w przypadku zamiaru wykonywania pracy w zawodzie niebędącym zawodem regulowanym (rodzaj kwalifikacji, rodzaj dokumentu poświadczającego ich posiadanie) / Higher professional qualifications, held by the foreigner, necessary to perform work if he/she intends to perform work in a profession which is not a regulated profession (type of qualification, type of document certifying its possession) / Qualifications professionnelles supérieures de l’étranger nécessaires à l’exercice d’un travail s’il entend exercer une profession non réglementée (type de qualification, type de document attestant de sa possession) / Высшая профессиональная квалификация, которой обладает иностранец, необходимая для выполнения работы, если иностранец намерен выполнять работу по профессии, не являющейся регламентированной профессией (вид квалификации, вид документа, подтверждающего ее наличие):"
-      },
-      {
-       "type": "text",
-       "text": "____________________________________________________________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "____________________________________________________________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "____________________________________________________________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "____________________________________________________________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "III. Posiadane przez cudzoziemca formalne kwalifikacje i spełnianie innych warunków, które są wymagane, w przypadku zamiaru wykonywania pracy w zawodzie regulowanym w rozumieniu art. 5 pkt 4 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2026 r. poz. 166) (rodzaj kwalifikacji, rodzaj dokumentu poświadczającego ich posiadanie) / Formal qualifications held by the foreigner and fulfilment of other conditions"
-      },
-      {
-       "type": "text",
-       "text": "1 which are required, in case of intention to perform work in a regulated profession within the meaning of Article 5(4) of the Act of 22 December 2015 on the principles of recognition of professional qualifications acquired in the Member States of the European Union (Journal of Laws of 2026, item 166) (type of qualification, type of document certifying its possession) / Qualifications formelles détenues par l’étranger et respect des autres conditions requises, en cas d’intention d’exercer une profession réglementée au sens de l’article 5, paragraphe 4, de la loi du 22 décembre 2015 relative aux principes de reconnaissance des qualifications professionnelles acquises dans les États membres de l’Union européenne (Journal officiel de 2026, pos. 166) (type de qualifications, type de document attestant de leur possession) / Формальная квалификация, которой обладает иностранец, и выполнение других условий, которые необходимы в случае намерения выполнять работу по регламентированной профессии в понимании ст. 5 п. 4 Закона от 22 декабря 2015 года «О принципах признания профессиональных квалификаций, приобретенных в членских государствах Европейского Союза» (Собрание актов законодательства от 2026 г., поз. 166) (вид квалификации, вид документа, подтверждающего ее наличие): ____________________________________________________________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "____________________________________________________________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "____________________________________________________________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "____________________________________________________________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "____________________________________________________________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "____________________________________________________________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "IV. Zamieszkiwanie w innym państwie członkowskim Unii Europejskiej co najmniej przez okres 12 miesięcy na podstawie wydanego przez to państwo dokumentu pobytowego z adnotacją „Niebieska Karta UE” (państwo, okres pobytu oraz dane dotyczące dokumentu) / Residence in another Member State of the European Union for a period of at least 12 months on the basis of a residence document issued by that State with the “EU Blue Card” remark (state, period of stay, specific information concerning that document) / Séjour dans un autre pays membre de L’Union Européenne pendant une période d’au moins 12 mois sur la base d’un titre de séjour émis par ce pays muni d’annotation «Carte bleue UE» (pays, durée du séjour et caractéristique du titre) / Проживание в другом членском государстве Европейского Союза в период не менее 12 месяцев на основании выданного этим государством документа пребывания с аннотацией «Голубая Карта ЕС» (государство, период пребывания, а также данные, касающиеся документа):"
-      },
-      {
-       "type": "text",
-       "text": "Państwo / State / Pays / Государство:"
-      },
-      {
-       "type": "text",
-       "text": "Okres pobytu / Period of stay / Période de séjour / dni / days/ jours / день Период пребывания:"
-      },
-      {
-       "type": "text",
-       "text": "Seria / Series / Numer / Number / Série / Cерия: Numéro / Номер:"
-      },
-      {
-       "type": "text",
-       "text": "Data wydania / Date / / Data upływu ważności / / / of issue / Date de Expiry date / Date de validité / délivrance / Дата rok / year / année / год miesiąc / month / mois / dzień / day / Дата истечения срока rok / year / année / год miesiąc / month / mois / dzień / day / выдачи: месяц jour / день действия: месяц jour / день"
-      },
-      {
-       "type": "text",
-       "text": "Organ wydający / Issuing authority / Autorité de"
-      },
-      {
-       "type": "text",
-       "text": "V. Zamieszkiwanie w innym państwie członkowskim Unii Europejskiej co najmniej przez okres 6 miesięcy na podstawie wydanego przez to państwo dokumentu pobytowego z adnotacją „Niebieska Karta UE” w związku z korzystaniem z mobilności długoterminowej posiadacza Niebieskiej Karty UE (państwo, okres pobytu oraz dane dotyczące dokumentu) / Residence in another Member State of the European Union for a period of at least 6 months on the basis of a residence document issued by that State with the “EU Blue Card” remark (state, period of stay, specific information concerning that document) / Séjour dans un autre pays membre de L’Union Européenne pendant une période d’au moins 6 mois sur la base d’un titre de séjour émis par ce pays muni d’annotation «Carte bleue UE» (pays, durée du séjour et caractéristique du titre) / Проживание в другом членском государстве Европейского Союза в период не менее 6 месяцев на основании выданного этим государством документа пребывания с аннотацией «Голубая Карта ЕС» (государство, период пребывания, а также данные, касающиеся документа):"
-      },
-      {
-       "type": "text",
-       "text": "2 Data wydania / Date / / Data upływu ważności / / / of issue / Date de Expiry date / Date de validité / délivrance / Дата rok / year / année / год miesiąc / month / mois / dzień / day / Дата истечения срока rok / year / année / год miesiąc / month / mois / dzień / day / выдачи: месяц jour / день действия: месяц jour / день"
-      },
-      {
-       "type": "text",
-       "text": "Organ wydający / Issuing authority / Autorité de délivrance / Выдан органом:"
-      },
-      {
-       "type": "text",
-       "text": "Data / Date / Date / Дата: / /"
-      },
-      {
-       "type": "text",
-       "text": "rok / year / année / год miesiąc / month / mois / dzień / day / месяц jour / день"
-      },
-      {
-       "type": "text",
-       "text": "kwalifikowany podpis elektroniczny, podpis osobisty, podpis zaufany / qualified electronic signature, personal signature or trusted signature / signature électronique qualifiée, signature personnelle ou signature de confiance / квалифицированная электронная подпись, личная подпись или доверенная подпись"
-      },
-      {
-       "type": "text",
-       "text": "3"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Posiadane przez cudzoziemca wyższe kwalifikacje zawodowe niezbędne do wykonywania pracy w przypadku zamiaru wykonywania pracy w zawodzie niebędącym zawodem regulowanym (rodzaj kwalifikacji, rodzaj dokumentu poświadczającego ich posiadanie) / Higher professional qualifications, held by the foreigner, necessary to perform work if he/she intends to perform work in a profession which is not a regulated profession (type of qualification, type of document certifying its possession) / Qualifications professionnelles supérieures de l’étranger nécessaires à l’exercice d’un travail s’il entend exercer une profession non réglementée (type de qualification, type de document attestant de sa possession) / Высшая профессиональная квалификация, которой обладает иностранец, необходимая для выполнения работы, если иностранец намерен выполнять работу по профессии, не являющейся регламентированной профессией (вид квалификации, вид документа, подтверждающего ее наличие):"
+    },
+    {
+     "type": "text",
+     "text": "____________________________________________________________________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "____________________________________________________________________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "____________________________________________________________________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "____________________________________________________________________________________________________"
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Posiadane przez cudzoziemca formalne kwalifikacje i spełnianie innych warunków, które są wymagane, w przypadku zamiaru wykonywania pracy w zawodzie regulowanym w rozumieniu art. 5 pkt 4 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2026 r. poz. 166) (rodzaj kwalifikacji, rodzaj dokumentu poświadczającego ich posiadanie) / Formal qualifications held by the foreigner and fulfilment of other conditions"
+    },
+    {
+     "type": "text",
+     "text": "1 which are required, in case of intention to perform work in a regulated profession within the meaning of Article 5(4) of the Act of 22 December 2015 on the principles of recognition of professional qualifications acquired in the Member States of the European Union (Journal of Laws of 2026, item 166) (type of qualification, type of document certifying its possession) / Qualifications formelles détenues par l’étranger et respect des autres conditions requises, en cas d’intention d’exercer une profession réglementée au sens de l’article 5, paragraphe 4, de la loi du 22 décembre 2015 relative aux principes de reconnaissance des qualifications professionnelles acquises dans les États membres de l’Union européenne (Journal officiel de 2026, pos. 166) (type de qualifications, type de document attestant de leur possession) / Формальная квалификация, которой обладает иностранец, и выполнение других условий, которые необходимы в случае намерения выполнять работу по регламентированной профессии в понимании ст. 5 п. 4 Закона от 22 декабря 2015 года «О принципах признания профессиональных квалификаций, приобретенных в членских государствах Европейского Союза» (Собрание актов законодательства от 2026 г., поз. 166) (вид квалификации, вид документа, подтверждающего ее наличие): ____________________________________________________________________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "____________________________________________________________________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "____________________________________________________________________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "____________________________________________________________________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "____________________________________________________________________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "____________________________________________________________________________________________________"
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Zamieszkiwanie w innym państwie członkowskim Unii Europejskiej co najmniej przez okres 12 miesięcy na podstawie wydanego przez to państwo dokumentu pobytowego z adnotacją „Niebieska Karta UE” (państwo, okres pobytu oraz dane dotyczące dokumentu) / Residence in another Member State of the European Union for a period of at least 12 months on the basis of a residence document issued by that State with the “EU Blue Card” remark (state, period of stay, specific information concerning that document) / Séjour dans un autre pays membre de L’Union Européenne pendant une période d’au moins 12 mois sur la base d’un titre de séjour émis par ce pays muni d’annotation «Carte bleue UE» (pays, durée du séjour et caractéristique du titre) / Проживание в другом членском государстве Европейского Союза в период не менее 12 месяцев на основании выданного этим государством документа пребывания с аннотацией «Голубая Карта ЕС» (государство, период пребывания, а также данные, касающиеся документа):"
+    },
+    {
+     "type": "text",
+     "text": "Państwo / State / Pays / Государство:"
+    },
+    {
+     "type": "text",
+     "text": "Okres pobytu / Period of stay / Période de séjour / dni / days/ jours / день Период пребывания:"
+    },
+    {
+     "type": "text",
+     "text": "Seria / Series / Numer / Number / Série / Cерия: Numéro / Номер:"
+    },
+    {
+     "type": "text",
+     "text": "Data wydania / Date / / Data upływu ważności / / / of issue / Date de Expiry date / Date de validité / délivrance / Дата rok / year / année / год miesiąc / month / mois / dzień / day / Дата истечения срока rok / year / année / год miesiąc / month / mois / dzień / day / выдачи: месяц jour / день действия: месяц jour / день"
+    },
+    {
+     "type": "text",
+     "text": "Organ wydający / Issuing authority / Autorité de"
+    },
+    {
+     "type": "heading",
+     "label": "V.",
+     "text": "Zamieszkiwanie w innym państwie członkowskim Unii Europejskiej co najmniej przez okres 6 miesięcy na podstawie wydanego przez to państwo dokumentu pobytowego z adnotacją „Niebieska Karta UE” w związku z korzystaniem z mobilności długoterminowej posiadacza Niebieskiej Karty UE (państwo, okres pobytu oraz dane dotyczące dokumentu) / Residence in another Member State of the European Union for a period of at least 6 months on the basis of a residence document issued by that State with the “EU Blue Card” remark (state, period of stay, specific information concerning that document) / Séjour dans un autre pays membre de L’Union Européenne pendant une période d’au moins 6 mois sur la base d’un titre de séjour émis par ce pays muni d’annotation «Carte bleue UE» (pays, durée du séjour et caractéristique du titre) / Проживание в другом членском государстве Европейского Союза в период не менее 6 месяцев на основании выданного этим государством документа пребывания с аннотацией «Голубая Карта ЕС» (государство, период пребывания, а также данные, касающиеся документа):"
+    },
+    {
+     "type": "text",
+     "text": "2 Data wydania / Date / / Data upływu ważności / / / of issue / Date de Expiry date / Date de validité / délivrance / Дата rok / year / année / год miesiąc / month / mois / dzień / day / Дата истечения срока rok / year / année / год miesiąc / month / mois / dzień / day / выдачи: месяц jour / день действия: месяц jour / день"
+    },
+    {
+     "type": "text",
+     "text": "Organ wydający / Issuing authority / Autorité de délivrance / Выдан органом:"
+    },
+    {
+     "type": "text",
+     "text": "Data / Date / Date / Дата: / /"
+    },
+    {
+     "type": "text",
+     "text": "rok / year / année / год miesiąc / month / mois / dzień / day / месяц jour / день"
+    },
+    {
+     "type": "text",
+     "text": "kwalifikowany podpis elektroniczny, podpis osobisty, podpis zaufany / qualified electronic signature, personal signature or trusted signature / signature électronique qualifiée, signature personnelle ou signature de confiance / квалифицированная электронная подпись, личная подпись или доверенная подпись"
+    },
+    {
+     "type": "text",
+     "text": "3"
     }
    ]
   },
@@ -2390,8 +2396,9 @@
      "text": "Uwaga! Wypełnia organizator stażu – w przypadku ubiegania się przez cudzoziemca o udzielenie zezwolenia na pobyt czasowy dla stażysty – albo jednostka organizacyjna, na rzecz której cudzoziemiec ma wykonywać świadczenia jako wolontariusz – w przypadku ubiegania się przez cudzoziemca o udzielenie zezwolenia na pobyt czasowy dla wolontariusza. Note! To be completed by the entity organizing traineeship if the foreigner is applying for a temporary residence permit for a trainee, or by the organizational unit for which the foreigner is to perform the voluntary services – if the foreigner is applying for a temporary residence permit for a volunteer. Note! À remplir par l’organisateur du stage – dans le cas où un étranger demande un permis de séjour temporaire en tant que stagiaire – ou par l’unité organisationnelle pour laquelle un étranger doit effectuer des services bénévoles – dans le cas où un étranger demande un permis de séjour temporaire pour volontaire. Внимание! Заполняется организатором стажировки – в случае ходатайствования иностранцем о разрешении на временное пребывание для стажера или организационная единица, для которой иностранец должен осуществлять услуги в качестве волонтера – в случае ходатайствования иностранцем о разрешении на временное пребывание для волонтера."
     },
     {
-     "type": "text",
-     "text": "I. Dane osobowe cudzoziemca / Personal data of the foreigner / Données à caracter personnel de l’étranger / Личные данные иностранца :"
+     "type": "heading",
+     "label": "I.",
+     "text": "Dane osobowe cudzoziemca / Personal data of the foreigner / Données à caracter personnel de l’étranger / Личные данные иностранца :"
     },
     {
      "type": "ust",
@@ -2419,20 +2426,20 @@
      "num": "4",
      "path": "ust_4",
      "text": "Obywatelstwo (obywatelstwa) / Citizenship (citizenships) / Nationalité (nationalités) / Гражданство (гражданства):",
-     "children": [
-      {
-       "type": "text",
-       "text": "II. Informacje dotyczące organizatora stażu albo jednostki organizacyjnej, na rzecz której cudzoziemiec ma wykonywać świadczenia jako wolontariusz / Information concerning the entity organizing training or the organizational unit for which the foreigner is to perform the services as a volunteer / Informations sur l’organisateur de stage ou l’unité organisationnelle pour lequel l’étranger doit effectuer les services en tant que volontaire / Информация об организаторе стажировки или организационной единице, для которой иностранец должен выполнять услуги в качестве волонтера:"
-      },
-      {
-       "type": "text",
-       "text": "organizator stażu / entity organizing training / l’organisateur de stage / организатор стажировки"
-      },
-      {
-       "type": "text",
-       "text": "jednostka organizacyjna, na rzecz której cudzoziemiec ma wykonywać świadczenia jako wolontariusz / organizational unit for which the foreigner is to perform the services as a volunteer / une entité organisationnelle pour laquelle l’étranger doit effectuer les services en tant que volontaire / организационная единица, для которой иностранец должен выполнять услуги в качестве волонтера"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Informacje dotyczące organizatora stażu albo jednostki organizacyjnej, na rzecz której cudzoziemiec ma wykonywać świadczenia jako wolontariusz / Information concerning the entity organizing training or the organizational unit for which the foreigner is to perform the services as a volunteer / Informations sur l’organisateur de stage ou l’unité organisationnelle pour lequel l’étranger doit effectuer les services en tant que volontaire / Информация об организаторе стажировки или организационной единице, для которой иностранец должен выполнять услуги в качестве волонтера:"
+    },
+    {
+     "type": "text",
+     "text": "organizator stażu / entity organizing training / l’organisateur de stage / организатор стажировки"
+    },
+    {
+     "type": "text",
+     "text": "jednostka organizacyjna, na rzecz której cudzoziemiec ma wykonywać świadczenia jako wolontariusz / organizational unit for which the foreigner is to perform the services as a volunteer / une entité organisationnelle pour laquelle l’étranger doit effectuer les services en tant que volontaire / организационная единица, для которой иностранец должен выполнять услуги в качестве волонтера"
     },
     {
      "type": "ust",
@@ -2526,8 +2533,9 @@
      "text": "Uwaga! Wypełnia cudzoziemiec ubiegający się o zezwolenie na pobyt czasowy w celu prowadzenia badań naukowych lub o zezwolenie na pobyt czasowy w celu mobilności długoterminowej naukowca. Attention! To be filled in by the foreigner applying for the temporary residence permit for the purpose of conducting scientific research or for the temporary residence permit for the purpose of long-term mobility of a researcher. Attention! À remplir par l’étranger qui demande d’un permis de séjour temporaire aux fins de recherche ou un permis de séjour temporaire pour la mobilité de longue durée d’un chercheur. Внимание! Заполняет иностранец, который подает заявление на получение разрешения на временное пребывание целью проведения исследования или разрешения на временное пребывание с целью долгосрочной мобильности исследователя."
     },
     {
-     "type": "text",
-     "text": "I. Dane osobowe cudzoziemca / Personal data of the foreigner / Données à caracter personnel de l’étranger / Личные данные иностранца :"
+     "type": "heading",
+     "label": "I.",
+     "text": "Dane osobowe cudzoziemca / Personal data of the foreigner / Données à caracter personnel de l’étranger / Личные данные иностранца :"
     },
     {
      "type": "ust",
@@ -2555,12 +2563,12 @@
      "num": "4",
      "path": "ust_4",
      "text": "Obywatelstwo (obywatelstwa) / Citizenship (citizenships) / Nationalité (nationalités) / Гражданство (гражданства):",
-     "children": [
-      {
-       "type": "text",
-       "text": "II. Informacje dotyczące jednostki naukowej mającej siedzibę na terytorium Rzeczypospolitej Polskiej / Information about a research organization based in the territory of the Republic of Poland / Informations sur une unité scientifique située sur le territoire de la République de Pologne / Информация о научном подразделении, который находится на территории Республики Польша:"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Informacje dotyczące jednostki naukowej mającej siedzibę na terytorium Rzeczypospolitej Polskiej / Information about a research organization based in the territory of the Republic of Poland / Informations sur une unité scientifique située sur le territoire de la République de Pologne / Информация о научном подразделении, который находится на территории Республики Польша:"
     },
     {
      "type": "ust",
@@ -2591,68 +2599,68 @@
      "num": "4",
      "path": "ust_4",
      "text": "Numer REGON / REGON number / Numéro REGON / Номер REGON:",
-     "children": [
-      {
-       "type": "text",
-       "text": "III. Czy cudzoziemiec jest objęty programem unijnym lub programem wielostronnym obejmującym środki w zakresie mobilności lub porozumieniem między przynajmniej dwiema instytucjami szkolnictwa wyższego przewidującym mobilność wewnątrzunijną? / Is the foreigner covered by an EU program or multilateral program that comprises mobility measures or an agreement between at least two higher education institutions providing for intra-EU mobility? / L’étranger est-il relèvent d’un programme de l’UE ou un programme multilatéral couvrant des mesures de mobilité ou par un convention entre au moins deux établissements d’enseignement supérieur prévoyant une mobilité intra-UE? / Охвачен ли иностранец программой ЕС или многосторонней программой, которая включает в себя средство для мобильности, или соглашением между по крайней мере двумя высшими учебными заведениями, предусматривающим мобильность внутри ЕС?"
-      },
-      {
-       "type": "text",
-       "text": "(zaznaczyć znakiem „X” odpowiednią rubrykę) / (tick the appropriate box with “X”) / (mettre un «X» dans la case adéquate) / (обозначить знаком «X» соответствующую графу)"
-      },
-      {
-       "type": "text",
-       "text": "Tak / Yes / Oui / Да"
-      },
-      {
-       "type": "text",
-       "text": "Nie / No / Non / Нет"
-      },
-      {
-       "type": "text",
-       "text": "Nazwa programu lub porozumienia / Name of the program or agreement / Nom du programme ou de la convention / Название программы или соглашения:"
-      },
-      {
-       "type": "text",
-       "text": "____________________________________________________________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "____________________________________________________________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "____________________________________________________________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "____________________________________________________________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "Nazwy oraz adresy instytucji szkolnictwa wyższego objętych porozumieniem / Names and addresses of higher education institutions covered by the agreement / Noms et adresses des établissements d’enseignement supérieur couverts par la convention / Наименования и адреса высших учебных заведений, на которые распространяется действие соглашения: ____________________________________________________________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "____________________________________________________________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "____________________________________________________________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "____________________________________________________________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "/ /"
-      },
-      {
-       "type": "text",
-       "text": "2"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Czy cudzoziemiec jest objęty programem unijnym lub programem wielostronnym obejmującym środki w zakresie mobilności lub porozumieniem między przynajmniej dwiema instytucjami szkolnictwa wyższego przewidującym mobilność wewnątrzunijną? / Is the foreigner covered by an EU program or multilateral program that comprises mobility measures or an agreement between at least two higher education institutions providing for intra-EU mobility? / L’étranger est-il relèvent d’un programme de l’UE ou un programme multilatéral couvrant des mesures de mobilité ou par un convention entre au moins deux établissements d’enseignement supérieur prévoyant une mobilité intra-UE? / Охвачен ли иностранец программой ЕС или многосторонней программой, которая включает в себя средство для мобильности, или соглашением между по крайней мере двумя высшими учебными заведениями, предусматривающим мобильность внутри ЕС?"
+    },
+    {
+     "type": "text",
+     "text": "(zaznaczyć znakiem „X” odpowiednią rubrykę) / (tick the appropriate box with “X”) / (mettre un «X» dans la case adéquate) / (обозначить знаком «X» соответствующую графу)"
+    },
+    {
+     "type": "text",
+     "text": "Tak / Yes / Oui / Да"
+    },
+    {
+     "type": "text",
+     "text": "Nie / No / Non / Нет"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa programu lub porozumienia / Name of the program or agreement / Nom du programme ou de la convention / Название программы или соглашения:"
+    },
+    {
+     "type": "text",
+     "text": "____________________________________________________________________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "____________________________________________________________________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "____________________________________________________________________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "____________________________________________________________________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "Nazwy oraz adresy instytucji szkolnictwa wyższego objętych porozumieniem / Names and addresses of higher education institutions covered by the agreement / Noms et adresses des établissements d’enseignement supérieur couverts par la convention / Наименования и адреса высших учебных заведений, на которые распространяется действие соглашения: ____________________________________________________________________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "____________________________________________________________________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "____________________________________________________________________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "____________________________________________________________________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "/ /"
+    },
+    {
+     "type": "text",
+     "text": "2"
     }
    ]
   },
@@ -2672,8 +2680,9 @@
      "text": "Uwaga! Wypełnia jednostka prowadząca studia. Attention! To be filled in by the institution conducting the studies. Attention! À remplir par l’établissement dispensant les études. Внимание! Заполняется учебным заведением, осуществляющим обучение."
     },
     {
-     "type": "text",
-     "text": "I. Dane osobowe cudzoziemca / Personal data of the foreigner / Données à caracter personnel de l’étranger / Личные данные иностранца:"
+     "type": "heading",
+     "label": "I.",
+     "text": "Dane osobowe cudzoziemca / Personal data of the foreigner / Données à caracter personnel de l’étranger / Личные данные иностранца:"
     },
     {
      "type": "ust",
@@ -2701,12 +2710,12 @@
      "num": "4",
      "path": "ust_4",
      "text": "Obywatelstwo (obywatelstwa) / Citizenship (citizenships) / Nationalité (nationalités) / Гражданство (гражданства):",
-     "children": [
-      {
-       "type": "text",
-       "text": "II. Informacje dotyczące jednostki prowadzącej studia / Information about the institution conducting the studies / Informations concernant l’établissement dispensant les études / Информация об учебном заведении, осуществляющем обучение:"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Informacje dotyczące jednostki prowadzącej studia / Information about the institution conducting the studies / Informations concernant l’établissement dispensant les études / Информация об учебном заведении, осуществляющем обучение:"
     },
     {
      "type": "ust",

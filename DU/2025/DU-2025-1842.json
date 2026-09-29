@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1842",
  "title": "Rozporządzenie Rady Ministrów z dnia 16 grudnia 2025 r. w sprawie programu badań statystycznych statystyki publicznej na rok 2026",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1842/text.pdf",
  "body": [
   {
@@ -67,8 +67,9 @@
      "text": "OBJAŚNIENIA .......................................................................................................... 15"
     },
     {
-     "type": "text",
-     "text": "Część I. INFORMACJE O BADANIACH .............................................................. 18"
+     "type": "heading",
+     "label": "Część I",
+     "text": "INFORMACJE O BADANIACH .............................................................. 18"
     },
     {
      "type": "text",
@@ -1259,8 +1260,9 @@
      "text": "1.80.03 (258) System Jednostek do Badań Rolniczych – operaty ......................................................................... 495"
     },
     {
-     "type": "text",
-     "text": "Część II. INFORMACJE O PRZEKAZYWANYCH DANYCH ....................... 496"
+     "type": "heading",
+     "label": "Część II",
+     "text": "INFORMACJE O PRZEKAZYWANYCH DANYCH ....................... 496"
     },
     {
      "type": "text",
@@ -2641,14 +2643,14 @@
        "num": "2",
        "path": "ust_9/pkt_2",
        "text": "część II. Informacje o przekazywanych danych.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Część I. Informacje o badaniach"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Część I",
+     "text": "Informacje o badaniach"
     },
     {
      "type": "ust",
@@ -2754,12 +2756,12 @@
      "num": "5",
      "path": "ust_5",
      "text": "Wynikowe informacje statystyczne opisane w ust. 10 są udostępniane zgodnie z art. 14 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, tj. na zasadzie równoprawnego, równorzędnego i równoczesnego dostępu do nich dla wszystkich podmiotów.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Część II. Informacje o przekazywanych danych"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Część II",
+     "text": "Informacje o przekazywanych danych"
     },
     {
      "type": "ust",
@@ -29306,15 +29308,31 @@
          "children": [
           {
            "type": "text",
-           "text": "149 5 1.25 POMOC POMOC SPOŁECZNA SPOŁECZNA I ŚWIADCZENIA I ŚWIADCZENIA SPOŁECZNE SPOŁECZNE ymbol 1.Symbol badania: badania: .27 1.25.27 (068) (068)"
+           "text": "149 5 1.25 POMOC POMOC SPOŁECZNA SPOŁECZNA I ŚWIADCZENIA I ŚWIADCZENIA SPOŁECZNE SPOŁECZNE"
           },
           {
            "type": "text",
-           "text": "emat 2.Temat badania: badania: hunki Rachunki ochrony ochrony socjalnej: socjalnej: Satelitarny Satelitarny rachunek rachunek ochrony ochrony socjalnej, socjalnej, opejski Europejski system system zintegrowanych zintegrowanych statystyk statystyk na temat na temat ochrony ochrony socjalnej socjalnej SPROS) (ESSPROS)"
+           "text": "ymbol 1.Symbol badania: badania: .27 1.25.27 (068) (068)"
           },
           {
            "type": "text",
-           "text": "ykliczność 3.Cykliczność badania: badania: ok co rok rowadzący 4.Prowadzący badanie: badanie: zes Prezes Głównego Głównego Urzędu Urzędu Statystycznego Statystycznego"
+           "text": "emat 2.Temat badania: badania: hunki Rachunki ochrony ochrony socjalnej: socjalnej: Satelitarny Satelitarny rachunek rachunek ochrony ochrony socjalnej, socjalnej,"
+          },
+          {
+           "type": "text",
+           "text": "opejski Europejski system system zintegrowanych zintegrowanych statystyk statystyk na temat na temat ochrony ochrony socjalnej socjalnej"
+          },
+          {
+           "type": "text",
+           "text": "SPROS) (ESSPROS)"
+          },
+          {
+           "type": "text",
+           "text": "ykliczność 3.Cykliczność badania: badania: ok co rok"
+          },
+          {
+           "type": "text",
+           "text": "rowadzący 4.Prowadzący badanie: badanie: zes Prezes Głównego Głównego Urzędu Urzędu Statystycznego Statystycznego"
           },
           {
            "type": "text",
@@ -29355,7 +29373,14 @@
          "type": "lit",
          "num": "c",
          "path": "ust_10/pkt_2/lit_c",
-         "text": "ro orządzenie rozporządzenie Komisji Komisji (UE) (UE) nr 263/2011 nr 263/2011 z dnia z dnia 17 marca 17 marca 2011 2011 r. w r. sprawie w sprawie wykonania wykonania rozporządzenie rozporządzenie (WE) (WE) 58/2007 nr 458/2007 Parlamentu Parlamentu Europejskiego Europejskiego i Rady i Rady w sprawie w sprawie europejskiego europejskiego systemu systemu zintegrowanych zintegrowanych statystyk statystyk na na at temat ochrony ochrony socjalnej socjalnej (ESSPROS) (ESSPROS) w odniesieniu w odniesieniu do rozpoczęcia do rozpoczęcia pełnego pełnego gromadzenia gromadzenia danych danych dla modułu dla modułu ES PROS ESSPROS dotyczącego dotyczącego świadczeń świadczeń netto netto z tytułu z tytułu ochrony ochrony socjalnej socjalnej (Dz. (Dz. Urz Urz. UE L UE 71 L z 71 18.03.2011, z 18.03.2011, st . 4), str. 4), d) ro orządzenie rozporządzenie Komisji Komisji (WE) (WE) nr 1322/2007 nr 1322/2007 z dnia z dnia 12 lstopada 12 listopada 2007 2007 r. wykonujące r. wykonujące rozporządzenie rozporządzenie (WE) (WE) nr nr /2007 458/2007 Parlamentu Parlamentu Europejskiego Europejskiego i Rady i Rady w sprawie w sprawie europejskiego europejskiego systemu systemu zintegrowanych zintegrowanych statystyk statystyk na temat na temat rony ochrony socjalnej socjalnej (ESSPROS) (ESSPROS) w odniesieniu w odniesieniu do odpowiednich do odpowiednich formatów formatów przesyłania przesyłania danych, danych, przesyłanych przesyłanych ików wyników oraz oraz kryteriówoceny kryteriówoceny jakości jakości dla systemu dla systemu podstawowego podstawowego ESSPROS ESSPROS oraz oraz modułu modułu dotyczącego dotyczącego osób osób po erających pobierających renty renty i emerytury i emerytury (Dz. (Dz. Urz. Urz. UE L UE 294 L z 294 13.11.2007, z 13.11.2007, str. 5), str. 5),",
+         "text": "ro orządzenie rozporządzenie Komisji Komisji (UE) (UE) nr 263/2011 nr 263/2011 z dnia z dnia 17 marca 17 marca 2011 2011 r. w r. sprawie w sprawie wykonania wykonania rozporządzenie rozporządzenie (WE) (WE) 58/2007 nr 458/2007 Parlamentu Parlamentu Europejskiego Europejskiego i Rady i Rady w sprawie w sprawie europejskiego europejskiego systemu systemu zintegrowanych zintegrowanych statystyk statystyk na na at temat ochrony ochrony socjalnej socjalnej (ESSPROS) (ESSPROS) w odniesieniu w odniesieniu do rozpoczęcia do rozpoczęcia pełnego pełnego gromadzenia gromadzenia danych danych dla modułu dla modułu ES PROS ESSPROS dotyczącego dotyczącego świadczeń świadczeń netto netto z tytułu z tytułu ochrony ochrony socjalnej socjalnej (Dz. (Dz. Urz Urz. UE L UE 71 L z 71 18.03.2011, z 18.03.2011, st . 4), str. 4),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_2/lit_d",
+         "text": "ro orządzenie rozporządzenie Komisji Komisji (WE) (WE) nr 1322/2007 nr 1322/2007 z dnia z dnia 12 lstopada 12 listopada 2007 2007 r. wykonujące r. wykonujące rozporządzenie rozporządzenie (WE) (WE) nr nr /2007 458/2007 Parlamentu Parlamentu Europejskiego Europejskiego i Rady i Rady w sprawie w sprawie europejskiego europejskiego systemu systemu zintegrowanych zintegrowanych statystyk statystyk na temat na temat rony ochrony socjalnej socjalnej (ESSPROS) (ESSPROS) w odniesieniu w odniesieniu do odpowiednich do odpowiednich formatów formatów przesyłania przesyłania danych, danych, przesyłanych przesyłanych ików wyników oraz oraz kryteriówoceny kryteriówoceny jakości jakości dla systemu dla systemu podstawowego podstawowego ESSPROS ESSPROS oraz oraz modułu modułu dotyczącego dotyczącego osób osób po erających pobierających renty renty i emerytury i emerytury (Dz. (Dz. Urz. Urz. UE L UE 294 L z 294 13.11.2007, z 13.11.2007, str. 5), str. 5),",
          "children": []
         },
         {
@@ -29464,15 +29489,23 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_10/pkt_4",
-       "text": "ro ne roczne rachunki rachunki narodowe narodowe obejmujące obejmujące rachunek rachunek produktów produktów (w tym: (w tym: produkt produkt krajowy krajowy brutto, brutto, produkcja produkcja globalna, globalna, atki podatki od produktów od produktów pomniejszone pomniejszone o dotacje o dotacje od produktów, od produktów, zużycie zużycie pośrednie, pośrednie, akumulacja akumulacja brutto, brutto, import import towarów towarów ug, i usług, eksport eksport towarów towarów i usług), i usług), rachunki: rachunki: produkcji, produkcji, tworzenia tworzenia dochodów, dochodów, podziału podziału pierwotnego pierwotnego dochodów, dochodów, p ziału podziału wtórnego wtórnego dochodów, dochodów, wykorzystania wykorzystania dochodów dochodów i rachunek i rachunek kapitałowy; kapitałowy;",
+       "text": "ro ne roczne rachunki rachunki narodowe narodowe obejmujące obejmujące rachunek rachunek produktów produktów (w tym: (w tym: produkt produkt krajowy krajowy brutto, brutto, produkcja produkcja globalna, globalna, atki podatki od produktów od produktów pomniejszone pomniejszone o dotacje o dotacje od produktów, od produktów, zużycie zużycie pośrednie, pośrednie, akumulacja akumulacja brutto, brutto, import import towarów towarów ug, i usług, eksport eksport towarów towarów i usług), i usług), rachunki: rachunki: produkcji, produkcji, tworzenia tworzenia dochodów, dochodów, podziału podziału pierwotnego pierwotnego dochodów, dochodów,",
        "children": []
+      },
+      {
+       "type": "text",
+       "text": "p ziału podziału wtórnego wtórnego dochodów, dochodów, wykorzystania wykorzystania dochodów dochodów i rachunek i rachunek kapitałowy; kapitałowy;"
       },
       {
        "type": "pkt",
        "num": "5",
        "path": "ust_10/pkt_5",
-       "text": "in rmacje informacje o dochodach o dochodach i wydatkach i wydatkach budżetu budżetu państwa, państwa, realizacja realizacja ustawy ustawy budżetowej, budżetowej, wynik wynik budżetu, budżetu, źródła źródła fin nsowania finansowania deficytu; deficytu;",
+       "text": "in rmacje informacje o dochodach o dochodach i wydatkach i wydatkach budżetu budżetu państwa, państwa, realizacja realizacja ustawy ustawy budżetowej, budżetowej, wynik wynik budżetu, budżetu, źródła źródła",
        "children": []
+      },
+      {
+       "type": "text",
+       "text": "fin nsowania finansowania deficytu; deficytu;"
       },
       {
        "type": "pkt",

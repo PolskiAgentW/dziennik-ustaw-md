@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/16",
  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 18 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodowej w sprawie używania psów i koni w Siłach Zbrojnych Rzeczypospolitej Polskiej",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/16/text.pdf",
  "body": [
   {
@@ -3139,52 +3139,45 @@
     },
     {
      "type": "text",
-     "text": "przewodniczący: 1) ………………………………………… (stopień, imię i nazwisko)"
+     "text": "przewodniczący: 1) …………………………………………"
     },
     {
      "type": "text",
-     "text": "członkowie: 2) ………………………………………… (stopień, imię i nazwisko)"
+     "text": "(stopień, imię i nazwisko)"
+    },
+    {
+     "type": "text",
+     "text": "członkowie: 2) …………………………………………"
+    },
+    {
+     "type": "text",
+     "text": "(stopień, imię i nazwisko)"
     },
     {
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "………………………………………… (stopień, imię i nazwisko)",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "wnioskuje o wycofanie z użycia psa służbowego o nazwie .……………………………………………….….,"
-    },
-    {
-     "type": "text",
-     "text": "nr ewidencyjny ………………………………., nr mikroczipu .………………………………………………,"
-    },
-    {
-     "type": "text",
-     "text": "o specjalności …………………………………………., kategoria zdrowia ………………………………….,"
-    },
-    {
-     "type": "text",
-     "text": "z jednostki wojskowej …………………………………, będącego pod opieką przewodnika …………………"
-    },
-    {
-     "type": "ust",
-     "num": "1",
-     "path": "ust_1",
-     "text": "Przyczyny wycofania psa służbowego:",
+     "text": "…………………………………………",
      "children": [
+      {
+       "type": "text",
+       "text": "(stopień, imię i nazwisko)"
+      },
+      {
+       "type": "text",
+       "text": "wnioskuje o wycofanie z użycia psa służbowego o nazwie .……………………………………………….…., nr ewidencyjny ………………………………., nr mikroczipu .………………………………………………, o specjalności …………………………………………., kategoria zdrowia …………………………………., z jednostki wojskowej …………………………………, będącego pod opieką przewodnika ………………… 1. Przyczyny wycofania psa służbowego:"
+      },
       {
        "type": "lit",
        "num": "a",
-       "path": "ust_1/lit_a",
+       "path": "pkt_3/lit_a",
        "text": "orzeczenie komisji atestacyjnej …………………………………………………………………",
        "children": []
       },
       {
        "type": "lit",
        "num": "b",
-       "path": "ust_1/lit_b",
+       "path": "pkt_3/lit_b",
        "text": "orzeczenie lekarsko-weterynaryjne .…………………………………………………………….",
        "children": []
       }

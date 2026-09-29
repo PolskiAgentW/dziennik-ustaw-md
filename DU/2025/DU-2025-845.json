@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/845",
  "title": "Rozporządzenie Ministra Finansów z dnia 25 czerwca 2025 r. w sprawie kas rejestrujących",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/845/text.pdf",
  "body": [
   {
@@ -3374,32 +3374,24 @@
      "text": "WZÓR"
     },
     {
-     "type": "pkt",
-     "num": "1",
-     "path": "pkt_1",
-     "text": "I. Informacja o zasadach ewidencji",
-     "children": [
-      {
-       "type": "text",
-       "text": "A. Zasady prowadzenia ewidencji sprzedaży przy użyciu kasy rejestrującej, wystawiania i wydawania paragonu fiskalnego:"
-      }
-     ]
+     "type": "text",
+     "text": "1)"
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Informacja o zasadach ewidencji"
+    },
+    {
+     "type": "text",
+     "text": "A. Zasady prowadzenia ewidencji sprzedaży przy użyciu kasy rejestrującej, wystawiania i wydawania paragonu fiskalnego:"
     },
     {
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Każda sprzedaż towaru lub usługi osobie fizycznej, która nie prowadzi działalności gospodarczej, a także",
-     "children": [
-      {
-       "type": "text",
-       "text": "rolnikowi ryczałtowemu (w tym również otrzymanie zaliczki), jest ewidencjonowana przy użyciu kasy"
-      },
-      {
-       "type": "text",
-       "text": "rejestrującej."
-      }
-     ]
+     "text": "Każda sprzedaż towaru lub usługi osobie fizycznej, która nie prowadzi działalności gospodarczej, a także rolnikowi ryczałtowemu (w tym również otrzymanie zaliczki), jest ewidencjonowana przy użyciu kasy rejestrującej.",
+     "children": []
     },
     {
      "type": "ust",
@@ -3412,29 +3404,15 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Przez wydanie paragonu fiskalnego rozumie się przekazanie go w postaci papierowej nabywcy, a w przypadku",
-     "children": [
-      {
-       "type": "text",
-       "text": "paragonu fiskalnego w postaci elektronicznej przesłanie go w postaci elektronicznej do klienta (e-paragonu), za"
-      },
-      {
-       "type": "text",
-       "text": "jego zgodą i w uzgodniony z nim sposób, w tym przy użyciu aplikacji e-paragony."
-      }
-     ]
+     "text": "Przez wydanie paragonu fiskalnego rozumie się przekazanie go w postaci papierowej nabywcy, a w przypadku paragonu fiskalnego w postaci elektronicznej przesłanie go w postaci elektronicznej do klienta (e-paragonu), za jego zgodą i w uzgodniony z nim sposób, w tym przy użyciu aplikacji e-paragony.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Paragon fiskalny jest wydawany kupującemu najpóźniej z chwilą przyjęcia należności, bez względu na formę",
-     "children": [
-      {
-       "type": "text",
-       "text": "płatności (zapłata gotówką, kartą, odroczona płatność, przelew, itp.)."
-      }
-     ]
+     "text": "Paragon fiskalny jest wydawany kupującemu najpóźniej z chwilą przyjęcia należności, bez względu na formę płatności (zapłata gotówką, kartą, odroczona płatność, przelew, itp.).",
+     "children": []
     },
     {
      "type": "ust",
@@ -3447,37 +3425,15 @@
      "type": "ust",
      "num": "6",
      "path": "ust_6",
-     "text": "Sprzedawca, który otrzymał zaliczkę przelewem lub tytułem wpłaty na rachunek, wystawia i wydaje paragon",
-     "children": [
-      {
-       "type": "text",
-       "text": "fiskalny niezwłocznie po uznaniu tej należności na rachunku bankowym (lub rachunku w SKOK), nie później niż"
-      },
-      {
-       "type": "text",
-       "text": "z końcem miesiąca, w którym należność została uznana na rachunku, a jeśli przed końcem tego miesiąca podatnik"
-      },
-      {
-       "type": "text",
-       "text": "dokonał sprzedaży, paragon fiskalny za otrzymaną zaliczkę wystawia najpóźniej z chwilą dokonania tej"
-      },
-      {
-       "type": "text",
-       "text": "sprzedaży."
-      }
-     ]
+     "text": "Sprzedawca, który otrzymał zaliczkę przelewem lub tytułem wpłaty na rachunek, wystawia i wydaje paragon fiskalny niezwłocznie po uznaniu tej należności na rachunku bankowym (lub rachunku w SKOK), nie później niż z końcem miesiąca, w którym należność została uznana na rachunku, a jeśli przed końcem tego miesiąca podatnik dokonał sprzedaży, paragon fiskalny za otrzymaną zaliczkę wystawia najpóźniej z chwilą dokonania tej sprzedaży.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "7",
      "path": "ust_7",
-     "text": "Paragon fiskalny zawiera w szczególności następujące dane: napis „PARAGON FISKALNY”, dane sprzedawcy",
-     "children": [
-      {
-       "type": "text",
-       "text": "i jego NIP oraz centralnie umieszczone logo fiskalne i numer unikatowy kasy rejestrującej."
-      }
-     ]
+     "text": "Paragon fiskalny zawiera w szczególności następujące dane: napis „PARAGON FISKALNY”, dane sprzedawcy i jego NIP oraz centralnie umieszczone logo fiskalne i numer unikatowy kasy rejestrującej.",
+     "children": []
     },
     {
      "type": "ust",
@@ -3495,121 +3451,107 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Na osobę, która dokona sprzedaży z pominięciem kasy rejestrującej albo nie wyda paragonu fiskalnego (faktury),",
-     "children": [
-      {
-       "type": "text",
-       "text": "może zostać nałożona kara grzywny za przestępstwo skarbowe albo wykroczenie skarbowe (na podstawie art. 62 § 4"
-      },
-      {
-       "type": "text",
-       "text": "i § 5 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2025 r. poz. 633))."
-      }
-     ]
+     "text": "Na osobę, która dokona sprzedaży z pominięciem kasy rejestrującej albo nie wyda paragonu fiskalnego (faktury), może zostać nałożona kara grzywny za przestępstwo skarbowe albo wykroczenie skarbowe (na podstawie art. 62 § 4 i § 5 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2025 r. poz. 633)).",
+     "children": []
     },
     {
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Niezaewidencjonowanie sprzedaży przy użyciu kasy rejestrującej powoduje zaniżanie wysokości sprzedaży",
-     "children": [
-      {
-       "type": "text",
-       "text": "podatnika, która powinna być opodatkowana."
-      }
-     ]
+     "text": "Niezaewidencjonowanie sprzedaży przy użyciu kasy rejestrującej powoduje zaniżanie wysokości sprzedaży podatnika, która powinna być opodatkowana.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Wystawienie i wydanie z kasy rejestrującej innego dokumentu niż paragon fiskalny (faktura) oznacza,",
-     "children": [
-      {
-       "type": "text",
-       "text": "że sprzedaż nie została zaewidencjonowana i nie wydano paragonu fiskalnego (faktury)."
-      },
-      {
-       "type": "text",
-       "text": "II. Oświadczenie osoby, która prowadzi u podatnika ewidencję sprzedaży przy użyciu 1) kasy rejestrującej, o zapoznaniu się z informacją o zasadach ewidencji"
-      },
-      {
-       "type": "text",
-       "text": "A. Dane podatnika:"
-      },
-      {
-       "type": "text",
-       "text": "NIP podatnika: __________________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "Nazwa[^2_2]/Nazwisko i pierwsze imię[^3_2]: _________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "B. Dane osoby, która prowadzi u podatnika ewidencję sprzedaży przy użyciu kasy rejestrującej:"
-      },
-      {
-       "type": "text",
-       "text": "Nazwisko i pierwsze imię: __________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "Numer PESEL: __________________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "C. Treść oświadczenia:"
-      },
-      {
-       "type": "text",
-       "text": "Oświadczam, że podatnik zapoznał mnie z zasadami prowadzenia ewidencji sprzedaży przy użyciu kasy rejestrującej,"
-      },
-      {
-       "type": "text",
-       "text": "wystawiania i wydawania paragonu fiskalnego oraz ze skutkami nieprzestrzegania tych zasad, objętymi informacją"
-      },
-      {
-       "type": "text",
-       "text": "o zasadach ewidencji."
-      },
-      {
-       "type": "text",
-       "text": "Oświadczam, że znam obowiązki wskazane w informacji o zasadach ewidencji. Wiem, że za dokonanie sprzedaży"
-      },
-      {
-       "type": "text",
-       "text": "z pominięciem kasy rejestrującej albo niewydanie paragonu fiskalnego (faktury), w tym wydanie z kasy rejestrującej"
-      },
-      {
-       "type": "text",
-       "text": "zamiast paragonu fiskalnego (faktury) innego dokumentu, mogę zostać ukarany/a karą grzywny za przestępstwo skarbowe"
-      },
-      {
-       "type": "text",
-       "text": "albo wykroczenie skarbowe."
-      },
-      {
-       "type": "text",
-       "text": "D. Data i miejsce sporządzenia oświadczenia oraz podpis składającego oświadczenie :"
-      },
-      {
-       "type": "text",
-       "text": "Data (dd-mm-rrrr): _____________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "Miejsce: _______________________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "Imię i nazwisko: _________________________________________________________"
-      },
-      {
-       "type": "text",
-       "text": "Czytelny podpis: _________________________________________________________"
-      }
-     ]
+     "text": "Wystawienie i wydanie z kasy rejestrującej innego dokumentu niż paragon fiskalny (faktura) oznacza, że sprzedaż nie została zaewidencjonowana i nie wydano paragonu fiskalnego (faktury).",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Oświadczenie osoby, która prowadzi u podatnika ewidencję sprzedaży przy użyciu 1)"
+    },
+    {
+     "type": "text",
+     "text": "kasy rejestrującej, o zapoznaniu się z informacją o zasadach ewidencji"
+    },
+    {
+     "type": "text",
+     "text": "A. Dane podatnika:"
+    },
+    {
+     "type": "text",
+     "text": "NIP podatnika: __________________________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa[^2_2]/Nazwisko i pierwsze imię[^3_2]: _________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "B. Dane osoby, która prowadzi u podatnika ewidencję sprzedaży przy użyciu kasy rejestrującej:"
+    },
+    {
+     "type": "text",
+     "text": "Nazwisko i pierwsze imię: __________________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "Numer PESEL: __________________________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "C. Treść oświadczenia:"
+    },
+    {
+     "type": "text",
+     "text": "Oświadczam, że podatnik zapoznał mnie z zasadami prowadzenia ewidencji sprzedaży przy użyciu kasy rejestrującej,"
+    },
+    {
+     "type": "text",
+     "text": "wystawiania i wydawania paragonu fiskalnego oraz ze skutkami nieprzestrzegania tych zasad, objętymi informacją"
+    },
+    {
+     "type": "text",
+     "text": "o zasadach ewidencji."
+    },
+    {
+     "type": "text",
+     "text": "Oświadczam, że znam obowiązki wskazane w informacji o zasadach ewidencji. Wiem, że za dokonanie sprzedaży"
+    },
+    {
+     "type": "text",
+     "text": "z pominięciem kasy rejestrującej albo niewydanie paragonu fiskalnego (faktury), w tym wydanie z kasy rejestrującej"
+    },
+    {
+     "type": "text",
+     "text": "zamiast paragonu fiskalnego (faktury) innego dokumentu, mogę zostać ukarany/a karą grzywny za przestępstwo skarbowe"
+    },
+    {
+     "type": "text",
+     "text": "albo wykroczenie skarbowe."
+    },
+    {
+     "type": "text",
+     "text": "D. Data i miejsce sporządzenia oświadczenia oraz podpis składającego oświadczenie :"
+    },
+    {
+     "type": "text",
+     "text": "Data (dd-mm-rrrr): _____________________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "Miejsce: _______________________________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "Imię i nazwisko: _________________________________________________________"
+    },
+    {
+     "type": "text",
+     "text": "Czytelny podpis: _________________________________________________________"
     }
    ]
   },
@@ -3621,12 +3563,14 @@
      "text": "WZÓR WNIOSEK O WYRAŻENIE ZGODY NA PRZESYŁANIE DANYCH Z KASY DO CENTRALNEGO REPOZYTORIUM KAS W USTALONYCH ODSTĘPACH CZASOWYCH"
     },
     {
-     "type": "text",
-     "text": "I. MIEJSCE SKŁADANIA WNIOSKU Naczelnik urzędu skarbowego, do którego jest składany wniosek:"
+     "type": "heading",
+     "label": "I.",
+     "text": "MIEJSCE SKŁADANIA WNIOSKU Naczelnik urzędu skarbowego, do którego jest składany wniosek:"
     },
     {
-     "type": "text",
-     "text": "II. DANE PODATNIKA[^1_2] Identyfikator podatkowy NIP podatnika:"
+     "type": "heading",
+     "label": "II.",
+     "text": "DANE PODATNIKA[^1_2] Identyfikator podatkowy NIP podatnika:"
     },
     {
      "type": "text",
@@ -3649,16 +3593,19 @@
      "text": "Adres e-mail:"
     },
     {
-     "type": "text",
-     "text": "III. TREŚĆ WNIOSKU W związku z tym, że trwale nie jest możliwe zapewnienie połączenia kas rejestrujących, których wykaz znajduje się w załączniku do wniosku, z Centralnym Repozytorium Kas, zwracam się z wnioskiem o wyrażenie zgody na przesyłanie danych z tych kas do Centralnego Repozytorium Kas w ustalonych z naczelnikiem urzędu skarbowego odstępach czasowych."
+     "type": "heading",
+     "label": "III.",
+     "text": "TREŚĆ WNIOSKU W związku z tym, że trwale nie jest możliwe zapewnienie połączenia kas rejestrujących, których wykaz znajduje się w załączniku do wniosku, z Centralnym Repozytorium Kas, zwracam się z wnioskiem o wyrażenie zgody na przesyłanie danych z tych kas do Centralnego Repozytorium Kas w ustalonych z naczelnikiem urzędu skarbowego odstępach czasowych."
     },
     {
-     "type": "text",
-     "text": "IV. DATA I MIEJSCE SPORZĄDZENIA WNIOSKU ORAZ PODPIS SKŁADAJĄCEGO WNIOSEK[^4] Data (dd-mm-rrrr): Miejsce: Imię i nazwisko: Podpis:"
+     "type": "heading",
+     "label": "IV.",
+     "text": "DATA I MIEJSCE SPORZĄDZENIA WNIOSKU ORAZ PODPIS SKŁADAJĄCEGO WNIOSEK[^4] Data (dd-mm-rrrr): Miejsce: Imię i nazwisko: Podpis:"
     },
     {
-     "type": "text",
-     "text": "V. ADNOTACJE URZĘDU Nr dokumentu: Data przyjęcia dokumentu (dzień, miesiąc, rok): Informacja o ustalonych odstępach czasowych przesyłania danych z kas podatnika do Centralnego Repozytorium Kas:"
+     "type": "heading",
+     "label": "V.",
+     "text": "ADNOTACJE URZĘDU Nr dokumentu: Data przyjęcia dokumentu (dzień, miesiąc, rok): Informacja o ustalonych odstępach czasowych przesyłania danych z kas podatnika do Centralnego Repozytorium Kas:"
     },
     {
      "type": "text",
@@ -3699,8 +3646,9 @@
      "text": "ZGŁOSZENIE/AKTUALIZACJA ZGŁOSZENIA DANYCH DOTYCZĄCYCH KASY PRZEZ PODATNIKA"
     },
     {
-     "type": "text",
-     "text": "I. CEL ZŁOŻENIA[^1_2]:"
+     "type": "heading",
+     "label": "I.",
+     "text": "CEL ZŁOŻENIA[^1_2]:"
     },
     {
      "type": "text",
@@ -3773,12 +3721,14 @@
      "text": "P R O T O K Ó Ł Z ODCZYTU ZAWARTOŚCI PAMIĘCI FISKALNEJ"
     },
     {
-     "type": "text",
-     "text": "I. MIEJSCE SKŁADANIA PROTOKOŁU Naczelnik urzędu skarbowego, do którego jest składany protokół:"
+     "type": "heading",
+     "label": "I.",
+     "text": "MIEJSCE SKŁADANIA PROTOKOŁU Naczelnik urzędu skarbowego, do którego jest składany protokół:"
     },
     {
-     "type": "text",
-     "text": "II. DANE PODATNIKA[^1_2] Identyfikator podatkowy NIP podatnika: Nazwa[^2_2]/Nazwisko i pierwsze imię[^3_2]: Kraj: Województwo: Gmina/Dzielnica: Ulica: Nr domu: Nr lokalu: Miejscowość: Kod pocztowy: Telefon: Adres e-mail: III. DANE PODMIOTU PROWADZĄCEGO SERWIS GŁÓWNY/SERWIS KAS I SERWISANTA A. Dane podmiotu prowadzącego serwis główny/serwis kas[^1_2] Nazwa[^2_2]/Nazwisko i pierwsze imię[^3_2]: Numer NIP[^2_2]/PESEL[^3_2]: Kraj: Województwo: Gmina/Dzielnica:"
+     "type": "heading",
+     "label": "II.",
+     "text": "DANE PODATNIKA[^1_2] Identyfikator podatkowy NIP podatnika: Nazwa[^2_2]/Nazwisko i pierwsze imię[^3_2]: Kraj: Województwo: Gmina/Dzielnica: Ulica: Nr domu: Nr lokalu: Miejscowość: Kod pocztowy: Telefon: Adres e-mail: III. DANE PODMIOTU PROWADZĄCEGO SERWIS GŁÓWNY/SERWIS KAS I SERWISANTA A. Dane podmiotu prowadzącego serwis główny/serwis kas[^1_2] Nazwa[^2_2]/Nazwisko i pierwsze imię[^3_2]: Numer NIP[^2_2]/PESEL[^3_2]: Kraj: Województwo: Gmina/Dzielnica:"
     },
     {
      "type": "text",
@@ -3862,12 +3812,14 @@
      "text": "WNIOSEK O WYREJESTROWANIE KASY Z EWIDENCJI KAS"
     },
     {
-     "type": "text",
-     "text": "I. MIEJSCE SKŁADANIA WNIOSKU Naczelnik urzędu skarbowego, do którego jest składany wniosek:"
+     "type": "heading",
+     "label": "I.",
+     "text": "MIEJSCE SKŁADANIA WNIOSKU Naczelnik urzędu skarbowego, do którego jest składany wniosek:"
     },
     {
-     "type": "text",
-     "text": "II. DANE PODATNIKA[^1_2] Identyfikator podatkowy NIP podatnika: Nazwa[^2_2]/Nazwisko i pierwsze imię[^3_2]: Kraj: Województwo: Gmina/Dzielnica: Ulica: Nr domu: Nr lokalu: Miejscowość: Kod pocztowy: Telefon: Adres e-mail: III. TREŚĆ WNIOSKU Zwracam się z wnioskiem o wyrejestrowanie kasy rejestrującej o parametrach określonych w części IV z powodów wskazanych w części VI."
+     "type": "heading",
+     "label": "II.",
+     "text": "DANE PODATNIKA[^1_2] Identyfikator podatkowy NIP podatnika: Nazwa[^2_2]/Nazwisko i pierwsze imię[^3_2]: Kraj: Województwo: Gmina/Dzielnica: Ulica: Nr domu: Nr lokalu: Miejscowość: Kod pocztowy: Telefon: Adres e-mail: III. TREŚĆ WNIOSKU Zwracam się z wnioskiem o wyrejestrowanie kasy rejestrującej o parametrach określonych w części IV z powodów wskazanych w części VI."
     },
     {
      "type": "text",
@@ -3902,24 +3854,27 @@
      "text": "ZGŁOSZENIE/AKTUALIZACJA ZGŁOSZENIA DANYCH DOTYCZĄCYCH KASY PRZEZ PODMIOT PROWADZĄCY SERWIS GŁÓWNY LUB PODMIOT PROWADZĄCY SERWIS"
     },
     {
-     "type": "text",
-     "text": "I. CEL ZŁOŻENIA[^1_2]"
+     "type": "heading",
+     "label": "I.",
+     "text": "CEL ZŁOŻENIA[^1_2]"
     },
     {
      "type": "text",
      "text": "o ZGŁOSZENIE o AKTUALIZACJA ZGŁOSZENIA"
     },
     {
-     "type": "text",
-     "text": "II. MIEJSCE SKŁADANIA ZGŁOSZENIA"
+     "type": "heading",
+     "label": "II.",
+     "text": "MIEJSCE SKŁADANIA ZGŁOSZENIA"
     },
     {
      "type": "text",
      "text": "Naczelnik urzędu skarbowego, do którego jest składane zgłoszenie:"
     },
     {
-     "type": "text",
-     "text": "III. DANE PODATNIKA, KTÓREGO DOTYCZY ZGŁOSZENIE[^2_2]"
+     "type": "heading",
+     "label": "III.",
+     "text": "DANE PODATNIKA, KTÓREGO DOTYCZY ZGŁOSZENIE[^2_2]"
     },
     {
      "type": "text",
@@ -3934,8 +3889,9 @@
      "text": "Kraj: Województwo: Gmina/Dzielnica: Ulica: Nr domu: Nr lokalu: Miejscowość: Kod pocztowy: Telefon: Adres e-mail:"
     },
     {
-     "type": "text",
-     "text": "IV. DANE PODMIOTU PROWADZĄCEGO SERWIS GŁÓWNY/ PODMIOTU PROWADZĄCEGO SERWIS[^2_2]"
+     "type": "heading",
+     "label": "IV.",
+     "text": "DANE PODMIOTU PROWADZĄCEGO SERWIS GŁÓWNY/ PODMIOTU PROWADZĄCEGO SERWIS[^2_2]"
     },
     {
      "type": "text",

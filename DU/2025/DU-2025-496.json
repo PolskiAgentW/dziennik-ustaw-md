@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/496",
  "title": "Obwieszczenie Ministra Zdrowia z dnia 8 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie zakresu informacji gromadzonych w Systemie Ewidencji Zasobów Ochrony Zdrowia oraz sposobu i terminów przekazywania tych informacji",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/496/text.pdf",
  "body": [
   {
@@ -514,8 +514,9 @@
      "text": "WYKAZ WYROBÓW MEDYCZNYCH I ŚRODKÓW OCHRONY OSOBISTEJ"
     },
     {
-     "type": "text",
-     "text": "I. Wyroby medyczne"
+     "type": "heading",
+     "label": "I.",
+     "text": "Wyroby medyczne"
     },
     {
      "type": "ust",
@@ -781,12 +782,12 @@
      "num": "38",
      "path": "ust_38",
      "text": "Urządzenie do kompresji klatki piersiowej",
-     "children": [
-      {
-       "type": "text",
-       "text": "II. Środki ochrony osobistej"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Środki ochrony osobistej"
     },
     {
      "type": "ust",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1192",
  "title": "Rozporządzenie Ministra Finansów i Gospodarki z dnia 7 września 2026 r. w sprawie sposobu przygotowania projektu miejscowego planu zagospodarowania przestrzennego",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1192/text.pdf",
  "body": [
   {
@@ -961,8 +961,9 @@
      "text": "OZNACZENIA, NAZEWNICTWO, STANDARDY ORAZ SPOSÓB PREZENTACJI GRAFICZNEJ DANYCH PRZESTRZENNYCH DOTYCZĄCE KLAS PRZEZNACZENIA TERENU STOSOWANYCH W PROJEKCIE MIEJSCOWEGO PLANU ZAGOSPODAROWANIA PRZESTRZENNEGO"
     },
     {
-     "type": "text",
-     "text": "Część I. Oznaczenia, nazewnictwo oraz sposób prezentacji graficznej danych przestrzennych dotyczące klas przeznaczenia terenu stosowanych w projekcie miejscowego planu zagospodarowania przestrzennego:"
+     "type": "heading",
+     "label": "Część I",
+     "text": "Oznaczenia, nazewnictwo oraz sposób prezentacji graficznej danych przestrzennych dotyczące klas przeznaczenia terenu stosowanych w projekcie miejscowego planu zagospodarowania przestrzennego:"
     },
     {
      "type": "text",
@@ -1288,34 +1289,22 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "tereny nazywa się, nadaje się im symbol oraz oznaczenie graficzne zgodnie z określonym przeznaczeniem terenu, stosując nazwy, symbole",
+     "text": "tereny nazywa się, nadaje się im symbol oraz oznaczenie graficzne zgodnie z określonym przeznaczeniem terenu, stosując nazwy, symbole oraz oznaczenia graficzne klas przeznaczenia terenu, zwanych dalej „klasami”, określone w części I w tabeli;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "oraz oznaczenia graficzne klas przeznaczenia terenu, zwanych dalej „klasami”, określone w części I w tabeli;"
     },
     {
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "przeznaczenie terenu określa się, stosując klasy określone w poziomie 1, 2 lub 3 w części I w tabeli. W celu określenia przeznaczenia dla",
+     "text": "przeznaczenie terenu określa się, stosując klasy określone w poziomie 1, 2 lub 3 w części I w tabeli. W celu określenia przeznaczenia dla terenów zabudowy mieszkaniowej, terenów komunikacji oraz terenów rolnictwa stosuje się wyłącznie poziom 2 lub 3;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "terenów zabudowy mieszkaniowej, terenów komunikacji oraz terenów rolnictwa stosuje się wyłącznie poziom 2 lub 3;"
     },
     {
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "dopuszcza się określenie przeznaczenia terenu z wykorzystaniem niewięcej niż trzech klas z dowolnych poziomów określonych w części I",
+     "text": "dopuszcza się określenie przeznaczenia terenu z wykorzystaniem niewięcej niż trzech klas z dowolnych poziomów określonych w części I w tabeli, z uwzględnieniem pkt 2 zdanie drugie, przy czym w przypadku zastosowania dwóch lub trzech klas:",
      "children": [
-      {
-       "type": "text",
-       "text": "w tabeli, z uwzględnieniem pkt 2 zdanie drugie, przy czym w przypadku zastosowania dwóch lub trzech klas:"
-      },
       {
        "type": "lit",
        "num": "a",
@@ -1327,38 +1316,22 @@
        "type": "lit",
        "num": "b",
        "path": "pkt_3/lit_b",
-       "text": "nazwę terenu formułuje się jako nazwy klas oddzielone spójnikiem „lub”, a kolejność nazw klas dostosowuje się według kolejności",
+       "text": "nazwę terenu formułuje się jako nazwy klas oddzielone spójnikiem „lub”, a kolejność nazw klas dostosowuje się według kolejności symboli. Słowa „teren” używa się tylko raz przed nazwą pierwszej klasy,",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "symboli. Słowa „teren” używa się tylko raz przed nazwą pierwszej klasy,"
       },
       {
        "type": "lit",
        "num": "c",
        "path": "pkt_3/lit_c",
-       "text": "nazwę terenu wyszczególnia się wyłącznie w legendzie części graficznej oraz w części tekstowej projektu miejscowego planu",
+       "text": "nazwę terenu wyszczególnia się wyłącznie w legendzie części graficznej oraz w części tekstowej projektu miejscowego planu zagospodarowania przestrzennego,",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "zagospodarowania przestrzennego,"
       },
       {
        "type": "lit",
        "num": "d",
        "path": "pkt_3/lit_d",
-       "text": "w przypadku gdy zastosowane klasy mają różne oznaczenia graficzne, stosuje się kreskowanie składające się z równoległych linii",
+       "text": "w przypadku gdy zastosowane klasy mają różne oznaczenia graficzne, stosuje się kreskowanie składające się z równoległych linii o szerokości 4 mm i nachyleniu 45 stopni liczonym od osi x. Kolejność kreskowania ustala się według kolejności klas określonej w części I w tabeli;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "o szerokości 4 mm i nachyleniu 45 stopni liczonym od osi x. Kolejność kreskowania ustala się według kolejności klas określonej"
-      },
-      {
-       "type": "text",
-       "text": "w części I w tabeli;"
       }
      ]
     },
@@ -1379,27 +1352,15 @@
        "type": "lit",
        "num": "b",
        "path": "pkt_4/lit_b",
-       "text": "numerację terenów ustala się dla całego projektu miejscowego planu zagospodarowania przestrzennego w sposób ciągły w ramach",
+       "text": "numerację terenów ustala się dla całego projektu miejscowego planu zagospodarowania przestrzennego w sposób ciągły w ramach terenów o tej samej nazwie,",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "terenów o tej samej nazwie,"
       },
       {
        "type": "lit",
        "num": "c",
        "path": "pkt_4/lit_c",
-       "text": "dopuszcza się podział obszaru objętego projektem miejscowego planu zagospodarowania przestrzennego na jednostki przestrzenne,",
+       "text": "dopuszcza się podział obszaru objętego projektem miejscowego planu zagospodarowania przestrzennego na jednostki przestrzenne, w ramach których ustala się numerację terenów w sposób ciągły w ramach terenów o tej samej nazwie. Numer terenu składa się z numeru jednostki przestrzennej oraz numeru terenu w ramach jednostki oddzielonych kropką;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "w ramach których ustala się numerację terenów w sposób ciągły w ramach terenów o tej samej nazwie. Numer terenu składa się"
-      },
-      {
-       "type": "text",
-       "text": "z numeru jednostki przestrzennej oraz numeru terenu w ramach jednostki oddzielonych kropką;"
       }
      ]
     },

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/450",
  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 19 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie sprawozdań o udzielonej pomocy publicznej, informacji o nieudzieleniu takiej pomocy oraz sprawozdań o zaległościach przedsiębiorców we wpłatach świadczeń należnych na rzecz sektora finansów publicznych",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/450/text.pdf",
  "body": [
   {
@@ -607,8 +607,9 @@
      "text": "SPRAWOZDANIE O UDZIELONEJ POMOCY PUBLICZNEJ"
     },
     {
-     "type": "text",
-     "text": "I. Nazwa podmiotu udzielającego pomocy ............................................................................................................ II. Numer identyfikacji podatkowej (NIP) podmiotu udzielającego pomocy ........................................................."
+     "type": "heading",
+     "label": "I.",
+     "text": "Nazwa podmiotu udzielającego pomocy ............................................................................................................ II. Numer identyfikacji podatkowej (NIP) podmiotu udzielającego pomocy ........................................................."
     },
     {
      "type": "text",
@@ -663,8 +664,9 @@
      "text": "Kolejne pozycje sprawozdania wypełnia się według poniższych wyjaśnień:"
     },
     {
-     "type": "text",
-     "text": "I. Nazwa podmiotu udzielającego pomocy. II. Numer identyfikacji podatkowej (NIP) podmiotu udzielającego pomocy."
+     "type": "heading",
+     "label": "I.",
+     "text": "Nazwa podmiotu udzielającego pomocy. II. Numer identyfikacji podatkowej (NIP) podmiotu udzielającego pomocy."
     },
     {
      "type": "text",
@@ -1432,23 +1434,7 @@
       },
       {
        "type": "text",
-       "text": "DOTACJE zaniechanie poboru opłaty lub odstąpienie od dochodzenia należności cywilnoprawnych A2.7"
-      },
-      {
-       "type": "text",
-       "text": "umorzenie w całości lub w części zaległości podatkowej wraz z odsetkami A2.8"
-      },
-      {
-       "type": "text",
-       "text": "umorzenie podatku A2.8.1"
-      },
-      {
-       "type": "text",
-       "text": "umorzenie w całości lub w części odsetek od zaległości podatkowej A2.9"
-      },
-      {
-       "type": "text",
-       "text": "umorzenie w całości lub w części opłaty (składki, wpłaty, należności cywilnoprawnej) A2.10 lub zaległej opłaty (składki, wpłaty, należności cywilnoprawnej) wraz z odsetkami za zwłokę"
+       "text": "DOTACJE zaniechanie poboru opłaty lub odstąpienie od dochodzenia należności cywilnoprawnych A2.7 umorzenie w całości lub w części zaległości podatkowej wraz z odsetkami A2.8 umorzenie podatku A2.8.1 umorzenie w całości lub w części odsetek od zaległości podatkowej A2.9 umorzenie w całości lub w części opłaty (składki, wpłaty, należności cywilnoprawnej) A2.10 lub zaległej opłaty (składki, wpłaty, należności cywilnoprawnej) wraz z odsetkami za zwłokę"
       },
       {
        "type": "text",
@@ -1456,11 +1442,11 @@
       },
       {
        "type": "text",
-       "text": "umorzenie kary lub odstąpienie od nałożenia kary A2.12"
+       "text": "umorzenie kary lub odstąpienie od nałożenia kary A2.12 oddanie mienia będącego własnością Skarbu Państwa albo jednostek samorządu terytorialnego A2.13 lub ich związków do korzystania na warunkach korzystniejszych dla przedsiębiorcy niż warunki"
       },
       {
        "type": "text",
-       "text": "oddanie mienia będącego własnością Skarbu Państwa albo jednostek samorządu terytorialnego A2.13 lub ich związków do korzystania na warunkach korzystniejszych dla przedsiębiorcy niż warunki oferowane na rynku"
+       "text": "oferowane na rynku"
       },
       {
        "type": "text",
@@ -1468,135 +1454,31 @@
       },
       {
        "type": "text",
-       "text": "umorzenie kosztów egzekucyjnych A2.15"
+       "text": "umorzenie kosztów egzekucyjnych A2.15 jednorazowa amortyzacja A2.16 umorzenie kosztów procesu sądowego A2.17 odpis na fundusz na cele inwestycyjne A2.18 SUBSYDIOWANIE KAPITAŁOWO‑INWESTYCYJNE"
       },
       {
        "type": "text",
-       "text": "jednorazowa amortyzacja A2.16"
+       "text": "wniesienie kapitału B1.1 konwersja wierzytelności na akcje lub udziały B2.1 POŻYCZKI PREFERENCYJNE"
       },
       {
        "type": "text",
-       "text": "umorzenie kosztów procesu sądowego A2.17"
+       "text": "pożyczka preferencyjna C1.1 kredyt preferencyjny C1.2 dopłaty do oprocentowania kredytów bankowych (dla banków) C1.3 pożyczki lub kredyty warunkowo umorzone (w całości lub w części) C1.4 zaliczka zwrotna C1.5 ODROCZENIA, ROZŁOŻENIA NA RATY"
       },
       {
        "type": "text",
-       "text": "odpis na fundusz na cele inwestycyjne A2.18"
+       "text": "odroczenie terminu płatności podatku C2.1 odroczenie terminu zapłaty zaległości podatkowej lub zaległości podatkowej wraz z odsetkami C2.1.2 rozłożenie na raty płatności podatku C2.2 rozłożenie na raty płatności zaległości podatkowej lub zaległości podatkowej wraz z odsetkami C2.3.1 odroczenie terminu płatności opłaty (składki, wpłaty, należności cywilnoprawnej) C2.4 odroczenie terminu zapłaty zaległej opłaty (składki, wpłaty, należności cywilnoprawnej, kary) C2.4.1 lub zaległej opłaty (składki, wpłaty, należności cywilnoprawnej, kary) wraz z odsetkami"
       },
       {
        "type": "text",
-       "text": "SUBSYDIOWANIE KAPITAŁOWO‑INWESTYCYJNE"
+       "text": "rozłożenie na raty opłaty (składki, wpłaty, należności cywilnoprawnej) C2.5 rozłożenie na raty płatności zaległej opłaty (składki, wpłaty, należności cywilnoprawnej, kary) C2.5.1 lub zaległej opłaty (składki, wpłaty, należności cywilnoprawnej, kary) wraz z odsetkami"
       },
       {
        "type": "text",
-       "text": "wniesienie kapitału B1.1"
+       "text": "odroczenie terminu płatności kary C2.6 rozłożenie na raty kary C2.7 rozłożenie na raty kosztów egzekucyjnych C2.8 rozłożenie na raty odsetek C2.9 odroczenie terminu płatności kosztów egzekucyjnych C2.10 odroczenie terminu płatności odsetek C2.11 odroczenie terminu płatności kosztów procesu sądowego C2.12 rozłożenie na raty kosztów procesu sądowego C2.13 PORĘCZENIA I GWARANCJE"
       },
       {
        "type": "text",
-       "text": "konwersja wierzytelności na akcje lub udziały B2.1"
-      },
-      {
-       "type": "text",
-       "text": "POŻYCZKI PREFERENCYJNE"
-      },
-      {
-       "type": "text",
-       "text": "pożyczka preferencyjna C1.1"
-      },
-      {
-       "type": "text",
-       "text": "kredyt preferencyjny C1.2"
-      },
-      {
-       "type": "text",
-       "text": "dopłaty do oprocentowania kredytów bankowych (dla banków) C1.3"
-      },
-      {
-       "type": "text",
-       "text": "pożyczki lub kredyty warunkowo umorzone (w całości lub w części) C1.4"
-      },
-      {
-       "type": "text",
-       "text": "zaliczka zwrotna C1.5"
-      },
-      {
-       "type": "text",
-       "text": "ODROCZENIA, ROZŁOŻENIA NA RATY"
-      },
-      {
-       "type": "text",
-       "text": "odroczenie terminu płatności podatku C2.1"
-      },
-      {
-       "type": "text",
-       "text": "odroczenie terminu zapłaty zaległości podatkowej lub zaległości podatkowej wraz z odsetkami C2.1.2"
-      },
-      {
-       "type": "text",
-       "text": "rozłożenie na raty płatności podatku C2.2"
-      },
-      {
-       "type": "text",
-       "text": "rozłożenie na raty płatności zaległości podatkowej lub zaległości podatkowej wraz z odsetkami C2.3.1"
-      },
-      {
-       "type": "text",
-       "text": "odroczenie terminu płatności opłaty (składki, wpłaty, należności cywilnoprawnej) C2.4"
-      },
-      {
-       "type": "text",
-       "text": "odroczenie terminu zapłaty zaległej opłaty (składki, wpłaty, należności cywilnoprawnej, kary) C2.4.1 lub zaległej opłaty (składki, wpłaty, należności cywilnoprawnej, kary) wraz z odsetkami"
-      },
-      {
-       "type": "text",
-       "text": "rozłożenie na raty opłaty (składki, wpłaty, należności cywilnoprawnej) C2.5"
-      },
-      {
-       "type": "text",
-       "text": "rozłożenie na raty płatności zaległej opłaty (składki, wpłaty, należności cywilnoprawnej, kary) C2.5.1 lub zaległej opłaty (składki, wpłaty, należności cywilnoprawnej, kary) wraz z odsetkami"
-      },
-      {
-       "type": "text",
-       "text": "odroczenie terminu płatności kary C2.6 rozłożenie na raty kary C2.7"
-      },
-      {
-       "type": "text",
-       "text": "rozłożenie na raty kosztów egzekucyjnych C2.8"
-      },
-      {
-       "type": "text",
-       "text": "rozłożenie na raty odsetek C2.9"
-      },
-      {
-       "type": "text",
-       "text": "odroczenie terminu płatności kosztów egzekucyjnych C2.10"
-      },
-      {
-       "type": "text",
-       "text": "odroczenie terminu płatności odsetek C2.11"
-      },
-      {
-       "type": "text",
-       "text": "odroczenie terminu płatności kosztów procesu sądowego C2.12"
-      },
-      {
-       "type": "text",
-       "text": "rozłożenie na raty kosztów procesu sądowego C2.13"
-      },
-      {
-       "type": "text",
-       "text": "PORĘCZENIA I GWARANCJE"
-      },
-      {
-       "type": "text",
-       "text": "poręczenie D1.1"
-      },
-      {
-       "type": "text",
-       "text": "gwarancja D1.2"
-      },
-      {
-       "type": "text",
-       "text": "INNE E"
+       "text": "poręczenie D1.1 gwarancja D1.2 INNE E"
       },
       {
        "type": "text",
@@ -1604,11 +1486,7 @@
       },
       {
        "type": "text",
-       "text": "Kol. 12. Przeznaczenie pomocy: należy podać właściwy kod wskazujący przeznaczenie pomocy."
-      },
-      {
-       "type": "text",
-       "text": "W przypadku pomocy de minimis:"
+       "text": "Kol. 12. Przeznaczenie pomocy: należy podać właściwy kod wskazujący przeznaczenie pomocy. W przypadku pomocy de minimis:"
       },
       {
        "type": "text",
@@ -1616,23 +1494,19 @@
       },
       {
        "type": "text",
-       "text": "pomoc de minimis (zgodna z rozporządzeniem Komisji nr 1407/2013 lub wcześniejszym) e1"
+       "text": "pomoc de minimis (zgodna z rozporządzeniem Komisji nr 1407/2013 lub wcześniejszym) e1 pomoc de minimis w sektorze transportu drogowego towarów (zgodna z rozporządzeniem KE nr 1"
       },
       {
        "type": "text",
-       "text": "pomoc de minimis w sektorze transportu drogowego towarów (zgodna z rozporządzeniem KE nr 1 407/2013 lub wcześniejszym) e1t"
+       "text": "407/2013 lub wcześniejszym) e1t pomoc de minimis stanowiąca rekompensatę za realizację usług świadczonych w ogólnym interesie"
       },
       {
        "type": "text",
-       "text": "pomoc de minimis stanowiąca rekompensatę za realizację usług świadczonych w ogólnym interesie gospodarczym (zgodna z rozporządzeniem Komisji nr 360/2012) e1c"
+       "text": "gospodarczym (zgodna z rozporządzeniem Komisji nr 360/2012) e1c pomoc de minimis (zgodna z rozporządzeniem Komisji 2023/2831) e2 pomoc de minimis stanowiąca rekompensatę za realizację usług świadczonych w ogólnym interesie"
       },
       {
        "type": "text",
-       "text": "pomoc de minimis (zgodna z rozporządzeniem Komisji 2023/2831) e2"
-      },
-      {
-       "type": "text",
-       "text": "pomoc de minimis stanowiąca rekompensatę za realizację usług świadczonych w ogólnym interesie gospodarczym (zgodna z rozporządzeniem Komisji 2023/2832) e2c"
+       "text": "gospodarczym (zgodna z rozporządzeniem Komisji 2023/2832) e2c"
       },
       {
        "type": "text",
@@ -1652,31 +1526,7 @@
       },
       {
        "type": "text",
-       "text": "pomoc na projekty badawczo-rozwojowe: badania podstawowe a1.1.1"
-      },
-      {
-       "type": "text",
-       "text": "pomoc na projekty badawczo-rozwojowe: badania przemysłowe a1.1.2"
-      },
-      {
-       "type": "text",
-       "text": "pomoc na projekty badawczo-rozwojowe: eksperymentalne prace rozwojowe a1.1.3"
-      },
-      {
-       "type": "text",
-       "text": "pomoc na projekty badawczo-rozwojowe: studium wykonalności a1.1.4"
-      },
-      {
-       "type": "text",
-       "text": "pomoc dla małych i średnich przedsiębiorstw na wspieranie innowacyjności a1.2"
-      },
-      {
-       "type": "text",
-       "text": "pomoc na studia wykonalności a1.3"
-      },
-      {
-       "type": "text",
-       "text": "pomoc na innowacje procesowe i organizacyjne a1.4 pomoc dla klastrów innowacyjnych a1.7"
+       "text": "pomoc na projekty badawczo-rozwojowe: badania podstawowe a1.1.1 pomoc na projekty badawczo-rozwojowe: badania przemysłowe a1.1.2 pomoc na projekty badawczo-rozwojowe: eksperymentalne prace rozwojowe a1.1.3 pomoc na projekty badawczo-rozwojowe: studium wykonalności a1.1.4 pomoc dla małych i średnich przedsiębiorstw na wspieranie innowacyjności a1.2 pomoc na studia wykonalności a1.3 pomoc na innowacje procesowe i organizacyjne a1.4 pomoc dla klastrów innowacyjnych a1.7"
       },
       {
        "type": "text",
@@ -2238,20 +2088,24 @@
      "text": "INFORMACJA O NIEUDZIELENIU POMOCY PUBLICZNEJ W DANYM OKRESIE SPRAWOZDAWCZYM"
     },
     {
-     "type": "text",
-     "text": "I. Nazwa podmiotu uprawnionego do udzielania pomocy .................................................................."
+     "type": "heading",
+     "label": "I.",
+     "text": "Nazwa podmiotu uprawnionego do udzielania pomocy .................................................................."
     },
     {
-     "type": "text",
-     "text": "II. Numer identyfikacji podatkowej (NIP) podmiotu uprawnionego do udzielania pomocy .................."
+     "type": "heading",
+     "label": "II.",
+     "text": "Numer identyfikacji podatkowej (NIP) podmiotu uprawnionego do udzielania pomocy .................."
     },
     {
-     "type": "text",
-     "text": "III. Kategoria podmiotu sporządzającego informację o nieudzieleniu pomocy ....................................."
+     "type": "heading",
+     "label": "III.",
+     "text": "Kategoria podmiotu sporządzającego informację o nieudzieleniu pomocy ....................................."
     },
     {
-     "type": "text",
-     "text": "IV. Siedziba podmiotu uprawnionego do udzielania pomocy ................................................................"
+     "type": "heading",
+     "label": "IV.",
+     "text": "Siedziba podmiotu uprawnionego do udzielania pomocy ................................................................"
     },
     {
      "type": "text",
@@ -2327,24 +2181,29 @@
      "text": "Bezpośrednio pod tytułem sprawozdania należy w rubryce „Sprawozdanie” wstawić znak X ‒ w przypadku gdy sprawozdanie za rok, którego dotyczy, przekazywane jest po raz pierwszy, a w przypadku korygowania przekazanego sprawozdania ‒ znak X należy wstawić w rubryce „Korekta”."
     },
     {
-     "type": "text",
-     "text": "I. Należy podać rok (w formacie czterech cyfr arabskich), którego sprawozdanie dotyczy."
+     "type": "heading",
+     "label": "I.",
+     "text": "Należy podać rok (w formacie czterech cyfr arabskich), którego sprawozdanie dotyczy."
     },
     {
-     "type": "text",
-     "text": "II. Nazwa organu właściwego do poboru należności – należy podać pełną nazwę organu właściwego do poboru należności, który sporządza sprawozdanie."
+     "type": "heading",
+     "label": "II.",
+     "text": "Nazwa organu właściwego do poboru należności – należy podać pełną nazwę organu właściwego do poboru należności, który sporządza sprawozdanie."
     },
     {
-     "type": "text",
-     "text": "III. NIP organu właściwego do poboru należności – należy podać NIP organu właściwego do poboru należności, który sporządza sprawozdanie."
+     "type": "heading",
+     "label": "III.",
+     "text": "NIP organu właściwego do poboru należności – należy podać NIP organu właściwego do poboru należności, który sporządza sprawozdanie."
     },
     {
-     "type": "text",
-     "text": "IV. Identyfikator terytorialny województwa siedziby organu ‒ należy podać oznaczenie terytorialne województwa, na którego obszar rozciąga się właściwość terytorialna organu właściwego do poboru należności. Oznaczenie terytorialne województwa: 02 województwo dolnośląskie 04 województwo kujawsko-pomorskie 06 województwo lubelskie 08 województwo lubuskie 10 województwo łódzkie 12 województwo małopolskie 14 województwo mazowieckie 16 województwo opolskie 18 województwo podkarpackie 20 województwo podlaskie 22 województwo pomorskie 24 województwo śląskie 26 województwo świętokrzyskie 28 województwo warmińsko-mazurskie 30 województwo wielkopolskie 32 województwo zachodniopomorskie"
+     "type": "heading",
+     "label": "IV.",
+     "text": "Identyfikator terytorialny województwa siedziby organu ‒ należy podać oznaczenie terytorialne województwa, na którego obszar rozciąga się właściwość terytorialna organu właściwego do poboru należności. Oznaczenie terytorialne województwa: 02 województwo dolnośląskie 04 województwo kujawsko-pomorskie 06 województwo lubelskie 08 województwo lubuskie 10 województwo łódzkie 12 województwo małopolskie 14 województwo mazowieckie 16 województwo opolskie 18 województwo podkarpackie 20 województwo podlaskie 22 województwo pomorskie 24 województwo śląskie 26 województwo świętokrzyskie 28 województwo warmińsko-mazurskie 30 województwo wielkopolskie 32 województwo zachodniopomorskie"
     },
     {
-     "type": "text",
-     "text": "V. Kwota zaległych należności przedsiębiorców oraz odpowiednio odsetki za zwłokę – należy podać kwotę zaległych należności przedsiębiorców oraz odpowiednio odsetki za zwłokę, tych przedsiębiorców, co do których organ właściwy do poboru należności posiada informację, iż na ostatni dzień roku, którego dotyczy sprawozdanie, prowadzili czynnie działalność gospodarczą."
+     "type": "heading",
+     "label": "V.",
+     "text": "Kwota zaległych należności przedsiębiorców oraz odpowiednio odsetki za zwłokę – należy podać kwotę zaległych należności przedsiębiorców oraz odpowiednio odsetki za zwłokę, tych przedsiębiorców, co do których organ właściwy do poboru należności posiada informację, iż na ostatni dzień roku, którego dotyczy sprawozdanie, prowadzili czynnie działalność gospodarczą."
     },
     {
      "type": "text",

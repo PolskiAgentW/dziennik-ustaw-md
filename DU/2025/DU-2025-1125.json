@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1125",
  "title": "Rozporządzenie Ministra Infrastruktury z dnia 12 sierpnia 2025 r. w sprawie informacji sprawozdawczych związanych z wizytą statku w porcie morskim",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1125/text.pdf",
  "body": [
   {
@@ -382,8 +382,9 @@
      "text": "Nazwa morskiego portu meldunkowego Kod portu meldunkowego 4"
     },
     {
-     "type": "text",
-     "text": "Dział 1. Informacje o statku"
+     "type": "heading",
+     "label": "Dział 1",
+     "text": "Informacje o statku"
     },
     {
      "type": "text",
@@ -414,8 +415,9 @@
      "text": "[^3] GT i NT podać zgodnie z Międzynarodową Konwencją o Pomierzaniu Pojemności Statków z 1969 r., sporządzoną w Londynie dnia 23 czerwca 1969 r. (Dz. U. z 1983 r. poz. 247, z późn. zm.). [^4] Przewoźnikiem lub operatorem transportu morskiego (maritime carrier) jest podmiot podejmujący się na podstawie umowy odpłatnego przewozu towarów i/lub osób drogą morską. W przypadku przewozu dokonywanego na własny rachunek należy podać przynależność państwową podmiotu dysponującego statkiem."
     },
     {
-     "type": "text",
-     "text": "Dział 2. Informacje o ruchu statku i przewozach"
+     "type": "heading",
+     "label": "Dział 2",
+     "text": "Informacje o ruchu statku i przewozach"
     },
     {
      "type": "text",
@@ -649,262 +651,264 @@
         {
          "type": "text",
          "text": "Pkt 4 Nazwa morskiego portu meldunkowego – port, którego dotyczy zgłoszenie; polski port morski, do którego wszedł lub z którego wyszedł statek albo do którego był przeznaczony ładunek wyładowany na redzie, lub port, z którego pochodzi ładunek transportowany w celu dolichtunku statku na redzie. Analogiczna zasada dotyczy pasażerów."
-        },
-        {
-         "type": "text",
-         "text": "Dział 1. INFORMACJE O STATKU"
-        },
-        {
-         "type": "text",
-         "text": "Klasyfikacja statków objętych przekazywaną informacją"
-        },
-        {
-         "type": "text",
-         "text": "Kod Typ statku Kategoria statku"
-        },
-        {
-         "type": "text",
-         "text": "Do ładunków Zbiornikowiec-ropowiec masowych ciekłych zbiornikowiec-chemikaliowiec 10 zbiornikowiec-gazowiec (do gazu ciekłego) barka-zbiornikowiec pozostałe zbiornikowce"
-        },
-        {
-         "type": "text",
-         "text": "Do ładunków Ropomasowiec 20 masowych suchych Masowiec"
-        },
-        {
-         "type": "text",
-         "text": "Kontenerowiec (oprócz Pełnokontenerowiec 31 ro-ro)"
-        },
-        {
-         "type": "text",
-         "text": "Specjalistyczny Barkowiec chemikaliowiec statek do transportu materiałów radioaktywnych 32 statek do przewozu żywego inwentarza pojazdowiec pozostałe statki specjalistyczne"
-        },
-        {
-         "type": "text",
-         "text": "Drobnicowiec Chłodniowiec niespecjalistyczny statek ro-ro pasażerski statek ro-ro kontenerowy 33 statek ro-ro do przewozu innych ładunków tocznych statek drobnicowo-pasażerski statek drobnicowo-kontenerowy"
-        },
-        {
-         "type": "text",
-         "text": "Barka do ładunków Barka pokładowa suchych barka samowyładowcza (szalanda) barka do przewozu w systemie Lash-Seabee 34 barka otwarta (odkryta) do ładunków suchych barka kryta do ładunków suchych pozostałe barki do ładunków suchych"
-        },
-        {
-         "type": "text",
-         "text": "Pasażerski Statek pasażerski (z wyłączeniem wycieczkowców – 35 (z wyłączeniem cruise passenger) wycieczkowców)"
-        },
-        {
-         "type": "text",
-         "text": "Wycieczkowiec (cruise Statek pasażerski odbywający co najmniej passenger) kilkudniową podróż okrężną, posiadający kabiny dla wszystkich pasażerów oraz udogodnienia służące 36 rozrywce. Nie są wliczane: – statki eksploatowane w żegludze promowej, – statki towarowe, – statki realizujące jednodniowe rejsy turystyczne"
-        },
-        {
-         "type": "text",
-         "text": "Rybacki[^1] Statek łowczy[^1] 41 przetwórnia rybacka[^1]"
-        },
-        {
-         "type": "text",
-         "text": "Serwisowiec (offshore Statek wiertniczy i poszukiwawczy[^1] 42 activities) statek obsługujący instalacje morskie[^1]"
-        },
-        {
-         "type": "text",
-         "text": "Holownik/pchacz Holownik[^1] 43 pchacz[^1] Kod Typ statku Kategoria statku"
-        },
-        {
-         "type": "text",
-         "text": "Inne Pogłębiarka[^1] 49 statek naukowo-badawczy[^1] pozostałe statki gdzie indziej niesklasyfikowane[^1]"
-        },
-        {
-         "type": "text",
-         "text": "XX Nieznany Nieokreślone typy statków"
-        },
-        {
-         "type": "text",
-         "text": "[^1] Statki objęte przekazywaną informacją tylko w przypadku transportu towaru."
-        },
-        {
-         "type": "text",
-         "text": "Dział 2. INFORMACJE O RUCHU STATKU I PRZEWOZACH"
-        },
-        {
-         "type": "text",
-         "text": "Pkt 2 Liczba wejść lub wyjść ujętych w formularzu"
-        },
-        {
-         "type": "text",
-         "text": "Osobny formularz powinien być sporządzony dla wejścia statku, osobny – dla wyjścia."
-        },
-        {
-         "type": "text",
-         "text": "Określenie „wejście statku z ładunkiem” oznacza wejście statku z ładunkiem przeznaczonym do wyładowania w porcie meldunkowym lub z pasażerami kończącymi podróż w tym porcie. Analogicznie „wyjście statku z ładunkiem” oznacza wyjście statku z ładunkiem załadowanym w porcie meldunkowym lub z pasażerami, którzy rozpoczęli swoją podróż w tym porcie."
-        },
-        {
-         "type": "text",
-         "text": "Określenie „wejście statku pod balastem” oznacza, że statek wchodzi bez ładunku przeznaczonego do wyładowania w porcie meldunkowym i bez pasażerów kończących podróż w porcie meldunkowym. Analogicznie „wyjście statku pod balastem” oznacza, że statek wychodzi bez ładunku załadowanego w porcie meldunkowym i bez pasażerów rozpoczynających podróż w porcie meldunkowym."
-        },
-        {
-         "type": "text",
-         "text": "Zaznaczyć odpowiedni typ ruchu statku, przy czym:"
         }
        ]
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Dział 1",
+     "text": "INFORMACJE O STATKU"
+    },
+    {
+     "type": "text",
+     "text": "Klasyfikacja statków objętych przekazywaną informacją"
+    },
+    {
+     "type": "text",
+     "text": "Kod Typ statku Kategoria statku"
+    },
+    {
+     "type": "text",
+     "text": "Do ładunków Zbiornikowiec-ropowiec masowych ciekłych zbiornikowiec-chemikaliowiec 10 zbiornikowiec-gazowiec (do gazu ciekłego) barka-zbiornikowiec pozostałe zbiornikowce"
+    },
+    {
+     "type": "text",
+     "text": "Do ładunków Ropomasowiec 20 masowych suchych Masowiec"
+    },
+    {
+     "type": "text",
+     "text": "Kontenerowiec (oprócz Pełnokontenerowiec 31 ro-ro)"
+    },
+    {
+     "type": "text",
+     "text": "Specjalistyczny Barkowiec chemikaliowiec statek do transportu materiałów radioaktywnych 32 statek do przewozu żywego inwentarza pojazdowiec pozostałe statki specjalistyczne"
+    },
+    {
+     "type": "text",
+     "text": "Drobnicowiec Chłodniowiec niespecjalistyczny statek ro-ro pasażerski statek ro-ro kontenerowy 33 statek ro-ro do przewozu innych ładunków tocznych statek drobnicowo-pasażerski statek drobnicowo-kontenerowy"
+    },
+    {
+     "type": "text",
+     "text": "Barka do ładunków Barka pokładowa suchych barka samowyładowcza (szalanda) barka do przewozu w systemie Lash-Seabee 34 barka otwarta (odkryta) do ładunków suchych barka kryta do ładunków suchych pozostałe barki do ładunków suchych"
+    },
+    {
+     "type": "text",
+     "text": "Pasażerski Statek pasażerski (z wyłączeniem wycieczkowców – 35 (z wyłączeniem cruise passenger) wycieczkowców)"
+    },
+    {
+     "type": "text",
+     "text": "Wycieczkowiec (cruise Statek pasażerski odbywający co najmniej passenger) kilkudniową podróż okrężną, posiadający kabiny dla wszystkich pasażerów oraz udogodnienia służące 36 rozrywce. Nie są wliczane: – statki eksploatowane w żegludze promowej, – statki towarowe, – statki realizujące jednodniowe rejsy turystyczne"
+    },
+    {
+     "type": "text",
+     "text": "Rybacki[^1] Statek łowczy[^1] 41 przetwórnia rybacka[^1]"
+    },
+    {
+     "type": "text",
+     "text": "Serwisowiec (offshore Statek wiertniczy i poszukiwawczy[^1] 42 activities) statek obsługujący instalacje morskie[^1]"
+    },
+    {
+     "type": "text",
+     "text": "Holownik/pchacz Holownik[^1] 43 pchacz[^1] Kod Typ statku Kategoria statku"
+    },
+    {
+     "type": "text",
+     "text": "Inne Pogłębiarka[^1] 49 statek naukowo-badawczy[^1] pozostałe statki gdzie indziej niesklasyfikowane[^1]"
+    },
+    {
+     "type": "text",
+     "text": "XX Nieznany Nieokreślone typy statków"
+    },
+    {
+     "type": "text",
+     "text": "[^1] Statki objęte przekazywaną informacją tylko w przypadku transportu towaru."
+    },
+    {
+     "type": "heading",
+     "label": "Dział 2",
+     "text": "INFORMACJE O RUCHU STATKU I PRZEWOZACH"
+    },
+    {
+     "type": "text",
+     "text": "Pkt 2 Liczba wejść lub wyjść ujętych w formularzu"
+    },
+    {
+     "type": "text",
+     "text": "Osobny formularz powinien być sporządzony dla wejścia statku, osobny – dla wyjścia."
+    },
+    {
+     "type": "text",
+     "text": "Określenie „wejście statku z ładunkiem” oznacza wejście statku z ładunkiem przeznaczonym do wyładowania w porcie meldunkowym lub z pasażerami kończącymi podróż w tym porcie. Analogicznie „wyjście statku z ładunkiem” oznacza wyjście statku z ładunkiem załadowanym w porcie meldunkowym lub z pasażerami, którzy rozpoczęli swoją podróż w tym porcie."
+    },
+    {
+     "type": "text",
+     "text": "Określenie „wejście statku pod balastem” oznacza, że statek wchodzi bez ładunku przeznaczonego do wyładowania w porcie meldunkowym i bez pasażerów kończących podróż w porcie meldunkowym. Analogicznie „wyjście statku pod balastem” oznacza, że statek wychodzi bez ładunku załadowanego w porcie meldunkowym i bez pasażerów rozpoczynających podróż w porcie meldunkowym."
+    },
+    {
+     "type": "text",
+     "text": "Zaznaczyć odpowiedni typ ruchu statku, przy czym:"
+    },
+    {
+     "type": "tir",
+     "num": "1",
+     "path": "tir_1",
+     "text": "balast/ładunek – oznacza wejście statku pod balastem, wyjście z ładunkiem,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "2",
+     "path": "tir_2",
+     "text": "ładunek/balast – wejście z ładunkiem, wyjście pod balastem,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "3",
+     "path": "tir_3",
+     "text": "ładunek/ładunek – wejście z ładunkiem, wyjście z ładunkiem,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "4",
+     "path": "tir_4",
+     "text": "balast/balast – wejście pod balastem i wyjście pod balastem (np.: statek wchodzi tylko: po dostawy bunkru i zapasów na potrzeby własne, w celu schronienia przy niesprzyjającej pogodzie, w przypadku awarii, w celu wysadzenia chorego na brzeg, w celach postojowych, do stoczni na remont, w celu dokonania wyłącznie odprawy granicznej itp. albo statek wycieczkowiec zawija do portu meldunkowego, ale nikt z pasażerów nie kończy ani nie rozpoczyna podróży w tym porcie).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Jeżeli liczba wejść lub wyjść statku w miesiącu jest większa od 1, można wypełnić formularze zbiorcze (osobny dla wejść, osobny dla wyjść), podając odpowiednio liczbę wejść z ładunkiem i/lub pod balastem oraz liczbę wyjść z ładunkiem i/lub pod balastem. W dziale 2 należy wówczas podać dane zbiorcze dotyczące przewiezionych w tych podróżach ładunków i/lub pasażerów."
       },
       {
-       "type": "tir",
-       "num": "3",
-       "path": "ust_7/tir_3",
-       "text": "balast/ładunek – oznacza wejście statku pod balastem, wyjście z ładunkiem,",
-       "children": []
+       "type": "text",
+       "text": "Jeżeli statek wchodzi i/lub wychodzi pod balastem, należy w dziale 2 pkt 4 podać nazwę portu i kraju: w przypadku wejścia – skąd statek przybył, w przypadku wyjścia – port i kraj przeznaczenia (analogicznie jak w pkt 6 w „Zgłoszeniu ogólnym” IMO General Declaration)."
       },
       {
-       "type": "tir",
-       "num": "4",
-       "path": "ust_7/tir_4",
-       "text": "ładunek/balast – wejście z ładunkiem, wyjście pod balastem,",
-       "children": []
+       "type": "text",
+       "text": "Wielokrotne wejścia i wyjścia typu balast/balast (np. w celu dokonania odprawy granicznej) również można ująć w formularzach zbiorczych za dany miesiąc (osobno – wejścia, osobno – wyjścia)."
       },
       {
-       "type": "tir",
-       "num": "5",
-       "path": "ust_7/tir_5",
-       "text": "ładunek/ładunek – wejście z ładunkiem, wyjście z ładunkiem,",
-       "children": []
+       "type": "text",
+       "text": "W formularzach zbiorczych nie można ujmować łącznie ruchu statków typu balast/balast z innymi przypadkami ruchu (balast/ładunek, ładunek/balast, ładunek/ładunek)."
       },
       {
-       "type": "tir",
-       "num": "6",
-       "path": "ust_7/tir_6",
-       "text": "balast/balast – wejście pod balastem i wyjście pod balastem (np.: statek wchodzi tylko: po dostawy bunkru i zapasów na potrzeby własne, w celu schronienia przy niesprzyjającej pogodzie, w przypadku awarii, w celu wysadzenia chorego na brzeg, w celach postojowych, do stoczni na remont, w celu dokonania wyłącznie odprawy granicznej itp. albo statek wycieczkowiec zawija do portu meldunkowego, ale nikt z pasażerów nie kończy ani nie rozpoczyna podróży w tym porcie).",
-       "children": [
-        {
-         "type": "text",
-         "text": "Jeżeli liczba wejść lub wyjść statku w miesiącu jest większa od 1, można wypełnić formularze zbiorcze (osobny dla wejść, osobny dla wyjść), podając odpowiednio liczbę wejść z ładunkiem i/lub pod balastem oraz liczbę wyjść z ładunkiem i/lub pod balastem. W dziale 2 należy wówczas podać dane zbiorcze dotyczące przewiezionych w tych podróżach ładunków i/lub pasażerów."
-        },
-        {
-         "type": "text",
-         "text": "Jeżeli statek wchodzi i/lub wychodzi pod balastem, należy w dziale 2 pkt 4 podać nazwę portu i kraju: w przypadku wejścia – skąd statek przybył, w przypadku wyjścia – port i kraj przeznaczenia (analogicznie jak w pkt 6 w „Zgłoszeniu ogólnym” IMO General Declaration)."
-        },
-        {
-         "type": "text",
-         "text": "Wielokrotne wejścia i wyjścia typu balast/balast (np. w celu dokonania odprawy granicznej) również można ująć w formularzach zbiorczych za dany miesiąc (osobno – wejścia, osobno – wyjścia)."
-        },
-        {
-         "type": "text",
-         "text": "W formularzach zbiorczych nie można ujmować łącznie ruchu statków typu balast/balast z innymi przypadkami ruchu (balast/ładunek, ładunek/balast, ładunek/ładunek)."
-        },
-        {
-         "type": "text",
-         "text": "Pkt 3 Data wejścia lub wyjścia W formularzach zbiorczych należy podać tylko miesiąc i rok."
-        },
-        {
-         "type": "text",
-         "text": "Pkt 4 Pasażerowie kończący podróż w porcie meldunkowym (wejście statku) albo rozpoczynający podróż w porcie meldunkowym (wyjście statku)"
-        },
-        {
-         "type": "text",
-         "text": "Pasażerami są wszystkie osoby przewożone statkiem, w tym kierowcy samochodów ciężarowych i autokarów przewożonych statkami. Za pasażerów nie uznaje się załogi statku."
-        },
-        {
-         "type": "text",
-         "text": "W rubrykach 1 i 2 – dla pasażerów kończących podróż w porcie meldunkowym (dotyczy wejścia statku) – podać port i kraj rozpoczęcia ich podróży danym statkiem; dla pasażerów rozpoczynających podróż w porcie meldunkowym (dotyczy wyjścia statku) – przewidywany port i kraj zakończenia ich podróży tym statkiem. Port meldunkowy może być równocześnie portem rozpoczęcia i zakończenia podróży morskiej wyłącznie w przypadku podróży okrężnych, w szczególności statkiem wycieczkowcem (kod statku 36)."
-        },
-        {
-         "type": "text",
-         "text": "W rubryce 4 – liczba pasażerów kończących lub rozpoczynających podróż w morskim porcie meldunkowym (dotyczy pasażerów przewożonych wszystkimi typami statków, w tym pasażerów statków wycieczkowców, którzy w porcie meldunkowym kończą lub rozpoczynają swoją podróż)."
-        },
-        {
-         "type": "text",
-         "text": "Pasażerów, którzy do morskiego portu meldunkowego dopłynęli z portu śródlądowego (i odwrotnie: którzy z morskiego portu meldunkowego wypłynęli w rejs do portu śródlądowego), należy uwzględniać na ogólnych zasadach, tzn. tak jak pasażerów rejsów morskich."
-        },
-        {
-         "type": "text",
-         "text": "Zmiana statku przez pasażera podczas podróży (w tym w przypadku gdy pasażer przesiada się z jednego statku na inny) jest uważana za jego zaokrętowanie po wyokrętowaniu. Pasażerów takich należy wykazać dwukrotnie – w sprawozdaniu dotyczącym wejścia pierwszego statku (wyokrętowanie) oraz w sprawozdaniu dotyczącym wyjścia drugiego statku (zaokrętowanie)."
-        },
-        {
-         "type": "text",
-         "text": "Jeżeli pasażerowie wjeżdżają na pokład statku pojazdem (np. autokarem, samochodem osobowym lub ciężarowym albo motocyklem) lub opuszczają statek pojazdem, należy w punkcie 4 podać liczbę pasażerów, natomiast w punkcie 5 – dane o używanych przez te osoby pojazdach."
-        },
-        {
-         "type": "text",
-         "text": "Pkt 4A Liczba pasażerów wycieczkowca wracających na statek po zejściu na ląd w celach turystycznych"
-        },
-        {
-         "type": "text",
-         "text": "„Zejście na ląd w celach turystycznych” oznacza krótkie zwiedzanie przez pasażera statku wycieczkowca atrakcji turystycznych związanych z portem lub okolicą przy równoczesnym zachowaniu przez niego kabiny na pokładzie statku. Momentem sprawozdawczym jest powrót (wejście) pasażera na statek.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Wypełniać tylko w formularzach dotyczących wyjścia statku wycieczkowca. Należy podać liczbę pasażerów statku wycieczkowca, którzy w porcie meldunkowym zeszli na ląd w celach turystycznych i wrócili na ten sam statek przed jego wyjściem z portu meldunkowego. Pasażerów tych nie należy ujmować w pkt 4 działu 2."
-        },
-        {
-         "type": "text",
-         "text": "Pkt 5 Wyładunek w porcie meldunkowym (wejście statku) albo załadunek w porcie meldunkowym (wyjście statku)"
-        },
-        {
-         "type": "text",
-         "text": "Wykazać wszystkie ładunki dowiezione do portu meldunkowego drogą morską i wyładowane ze statku (dotyczy wejścia statku) oraz wszystkie ładunki załadowane w porcie meldunkowym na statek i wywiezione drogą morską (dotyczy wyjścia statku). Należy wykazać również te ładunki, które są transportowane przy wykorzystaniu nietypowych jednostek pływających (np. element konstrukcji statku ciągnięty przez holownik lub ładunek transportowany przez dźwig pływający)."
-        },
-        {
-         "type": "text",
-         "text": "Należy ująć również wyładunek oraz załadunek z powodu transportu między morskim portem meldunkowym a portami śródlądowymi."
-        },
-        {
-         "type": "text",
-         "text": "W przypadku bezpośredniego przeładunku ze statku na statek należy wypełnić dwa odrębne formularze – na wejście pierwszego statku (wyładunek) i wyjście drugiego statku (załadunek)."
-        },
-        {
-         "type": "text",
-         "text": "W rubrykach 1 i 2 – nazwy portów i krajów, w których załadowano ładunki wyładowane w porcie meldunkowym (dotyczy wejścia statku), lub nazwy portów i krajów, w których ładunki załadowane w porcie meldunkowym zostaną wyładowane (dotyczy wyjścia statku)."
-        },
-        {
-         "type": "text",
-         "text": "W rubrykach 4 i 5 – nazwa towaru oraz 3-znakowy kod grupy towarowej według poniższej tabeli."
-        },
-        {
-         "type": "text",
-         "text": "Klasyfikacja grup towarowych (NST 2007)"
-        },
-        {
-         "type": "text",
-         "text": "Klasyfikacja produktów według Sekcja Grupa Opis działalności (CPA) 2008"
-        },
-        {
-         "type": "text",
-         "text": "01 Produkty rolnictwa, łowiectwa i leśnictwa; ryby i pozostałe produkty rybołówstwa i rybactwa"
-        },
-        {
-         "type": "text",
-         "text": "01.1 Zboża 01.11.1, 01.11.2, 01.11.3, 01.11.4, 01.12"
-        },
-        {
-         "type": "text",
-         "text": "01.2 Ziemniaki 01.13.51"
-        },
-        {
-         "type": "text",
-         "text": "01.3 Burak cukrowy 01.13.71"
-        },
-        {
-         "type": "text",
-         "text": "01.4 Pozostałe świeże owoce i warzywa 01.11.6, 01.11.7, 01.13.1, 01.13.2, 01.13.3, 01.13.4, 01.13.52, 01.13.53, 01.13.59, 01.13.8, 01.13.9, 01.14, 01.21, 01.22, 01.23, 01.24, 01.25.1, 01.25.3, 01.25.9, 01.26, 02.30.4"
-        },
-        {
-         "type": "text",
-         "text": "01.5 Produkty leśnictwa i pozyskiwania drewna 02.10.1, 02.10.3, 02.2, 02.30.1, 02.30.2, 02.30.3 Klasyfikacja produktów według Sekcja Grupa Opis działalności (CPA) 2008"
-        },
-        {
-         "type": "text",
-         "text": "01.6 Żywe rośliny i kwiaty 01.13.6, 01.13.72, 01.19.2, 01.25.2, 01.30"
-        },
-        {
-         "type": "text",
-         "text": "01.7 Inne substancje pochodzenia roślinnego 01.11.5, 01.11.8, 01.11.9, 01.15, 01.16, 01.19.1, 01.19.3, 01.27, 01.28, 01.29"
-        },
-        {
-         "type": "text",
-         "text": "01.8 Żywe zwierzęta 01.41.1, 01.42.1, 01.43, 01.44, 01.45.1, 01.46, 01.47.1, 01.49.1"
-        },
-        {
-         "type": "text",
-         "text": "01.9 Mleko surowe z bydła, owiec i kóz 01.41.2, 01.45.2"
-        }
-       ]
+       "type": "text",
+       "text": "Pkt 3 Data wejścia lub wyjścia W formularzach zbiorczych należy podać tylko miesiąc i rok."
+      },
+      {
+       "type": "text",
+       "text": "Pkt 4 Pasażerowie kończący podróż w porcie meldunkowym (wejście statku) albo rozpoczynający podróż w porcie meldunkowym (wyjście statku)"
+      },
+      {
+       "type": "text",
+       "text": "Pasażerami są wszystkie osoby przewożone statkiem, w tym kierowcy samochodów ciężarowych i autokarów przewożonych statkami. Za pasażerów nie uznaje się załogi statku."
+      },
+      {
+       "type": "text",
+       "text": "W rubrykach 1 i 2 – dla pasażerów kończących podróż w porcie meldunkowym (dotyczy wejścia statku) – podać port i kraj rozpoczęcia ich podróży danym statkiem; dla pasażerów rozpoczynających podróż w porcie meldunkowym (dotyczy wyjścia statku) – przewidywany port i kraj zakończenia ich podróży tym statkiem. Port meldunkowy może być równocześnie portem rozpoczęcia i zakończenia podróży morskiej wyłącznie w przypadku podróży okrężnych, w szczególności statkiem wycieczkowcem (kod statku 36)."
+      },
+      {
+       "type": "text",
+       "text": "W rubryce 4 – liczba pasażerów kończących lub rozpoczynających podróż w morskim porcie meldunkowym (dotyczy pasażerów przewożonych wszystkimi typami statków, w tym pasażerów statków wycieczkowców, którzy w porcie meldunkowym kończą lub rozpoczynają swoją podróż)."
+      },
+      {
+       "type": "text",
+       "text": "Pasażerów, którzy do morskiego portu meldunkowego dopłynęli z portu śródlądowego (i odwrotnie: którzy z morskiego portu meldunkowego wypłynęli w rejs do portu śródlądowego), należy uwzględniać na ogólnych zasadach, tzn. tak jak pasażerów rejsów morskich."
+      },
+      {
+       "type": "text",
+       "text": "Zmiana statku przez pasażera podczas podróży (w tym w przypadku gdy pasażer przesiada się z jednego statku na inny) jest uważana za jego zaokrętowanie po wyokrętowaniu. Pasażerów takich należy wykazać dwukrotnie – w sprawozdaniu dotyczącym wejścia pierwszego statku (wyokrętowanie) oraz w sprawozdaniu dotyczącym wyjścia drugiego statku (zaokrętowanie)."
+      },
+      {
+       "type": "text",
+       "text": "Jeżeli pasażerowie wjeżdżają na pokład statku pojazdem (np. autokarem, samochodem osobowym lub ciężarowym albo motocyklem) lub opuszczają statek pojazdem, należy w punkcie 4 podać liczbę pasażerów, natomiast w punkcie 5 – dane o używanych przez te osoby pojazdach."
+      },
+      {
+       "type": "text",
+       "text": "Pkt 4A Liczba pasażerów wycieczkowca wracających na statek po zejściu na ląd w celach turystycznych"
+      },
+      {
+       "type": "text",
+       "text": "„Zejście na ląd w celach turystycznych” oznacza krótkie zwiedzanie przez pasażera statku wycieczkowca atrakcji turystycznych związanych z portem lub okolicą przy równoczesnym zachowaniu przez niego kabiny na pokładzie statku. Momentem sprawozdawczym jest powrót (wejście) pasażera na statek.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wypełniać tylko w formularzach dotyczących wyjścia statku wycieczkowca. Należy podać liczbę pasażerów statku wycieczkowca, którzy w porcie meldunkowym zeszli na ląd w celach turystycznych i wrócili na ten sam statek przed jego wyjściem z portu meldunkowego. Pasażerów tych nie należy ujmować w pkt 4 działu 2."
+      },
+      {
+       "type": "text",
+       "text": "Pkt 5 Wyładunek w porcie meldunkowym (wejście statku) albo załadunek w porcie meldunkowym (wyjście statku)"
+      },
+      {
+       "type": "text",
+       "text": "Wykazać wszystkie ładunki dowiezione do portu meldunkowego drogą morską i wyładowane ze statku (dotyczy wejścia statku) oraz wszystkie ładunki załadowane w porcie meldunkowym na statek i wywiezione drogą morską (dotyczy wyjścia statku). Należy wykazać również te ładunki, które są transportowane przy wykorzystaniu nietypowych jednostek pływających (np. element konstrukcji statku ciągnięty przez holownik lub ładunek transportowany przez dźwig pływający)."
+      },
+      {
+       "type": "text",
+       "text": "Należy ująć również wyładunek oraz załadunek z powodu transportu między morskim portem meldunkowym a portami śródlądowymi."
+      },
+      {
+       "type": "text",
+       "text": "W przypadku bezpośredniego przeładunku ze statku na statek należy wypełnić dwa odrębne formularze – na wejście pierwszego statku (wyładunek) i wyjście drugiego statku (załadunek)."
+      },
+      {
+       "type": "text",
+       "text": "W rubrykach 1 i 2 – nazwy portów i krajów, w których załadowano ładunki wyładowane w porcie meldunkowym (dotyczy wejścia statku), lub nazwy portów i krajów, w których ładunki załadowane w porcie meldunkowym zostaną wyładowane (dotyczy wyjścia statku)."
+      },
+      {
+       "type": "text",
+       "text": "W rubrykach 4 i 5 – nazwa towaru oraz 3-znakowy kod grupy towarowej według poniższej tabeli."
+      },
+      {
+       "type": "text",
+       "text": "Klasyfikacja grup towarowych (NST 2007)"
+      },
+      {
+       "type": "text",
+       "text": "Klasyfikacja produktów według Sekcja Grupa Opis działalności (CPA) 2008"
+      },
+      {
+       "type": "text",
+       "text": "01 Produkty rolnictwa, łowiectwa i leśnictwa; ryby i pozostałe produkty rybołówstwa i rybactwa"
+      },
+      {
+       "type": "text",
+       "text": "01.1 Zboża 01.11.1, 01.11.2, 01.11.3, 01.11.4, 01.12"
+      },
+      {
+       "type": "text",
+       "text": "01.2 Ziemniaki 01.13.51"
+      },
+      {
+       "type": "text",
+       "text": "01.3 Burak cukrowy 01.13.71"
+      },
+      {
+       "type": "text",
+       "text": "01.4 Pozostałe świeże owoce i warzywa 01.11.6, 01.11.7, 01.13.1, 01.13.2, 01.13.3, 01.13.4, 01.13.52, 01.13.53, 01.13.59, 01.13.8, 01.13.9, 01.14, 01.21, 01.22, 01.23, 01.24, 01.25.1, 01.25.3, 01.25.9, 01.26, 02.30.4"
+      },
+      {
+       "type": "text",
+       "text": "01.5 Produkty leśnictwa i pozyskiwania drewna 02.10.1, 02.10.3, 02.2, 02.30.1, 02.30.2, 02.30.3 Klasyfikacja produktów według Sekcja Grupa Opis działalności (CPA) 2008"
+      },
+      {
+       "type": "text",
+       "text": "01.6 Żywe rośliny i kwiaty 01.13.6, 01.13.72, 01.19.2, 01.25.2, 01.30"
+      },
+      {
+       "type": "text",
+       "text": "01.7 Inne substancje pochodzenia roślinnego 01.11.5, 01.11.8, 01.11.9, 01.15, 01.16, 01.19.1, 01.19.3, 01.27, 01.28, 01.29"
+      },
+      {
+       "type": "text",
+       "text": "01.8 Żywe zwierzęta 01.41.1, 01.42.1, 01.43, 01.44, 01.45.1, 01.46, 01.47.1, 01.49.1"
+      },
+      {
+       "type": "text",
+       "text": "01.9 Mleko surowe z bydła, owiec i kóz 01.41.2, 01.45.2"
       }
      ]
     },

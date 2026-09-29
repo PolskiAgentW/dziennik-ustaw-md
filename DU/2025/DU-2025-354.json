@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/354",
  "title": "Obwieszczenie Państwowej Komisji Wyborczej z dnia 17 marca 2025 r. o wynikach wyborów uzupełniających do Senatu Rzeczypospolitej Polskiej przeprowadzonych w dniu 16 marca 2025 r.",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/354/text.pdf",
  "body": [
   {
@@ -25,11 +25,8 @@
    "text": "Na podstawie art. 276 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2023 r. poz. 2408 oraz z 2024 r. poz. 721, 1572 i 1907) Państwowa Komisja Wyborcza ogłasza wyniki wyborów uzupełniających do Senatu Rzeczypospolitej Polskiej przeprowadzonych w dniu 16 marca 2025 r. w województwie małopolskim w okręgu wyborczym nr 33."
   },
   {
-   "type": "text",
-   "text": "Rozdział 1."
-  },
-  {
-   "type": "text",
+   "type": "heading",
+   "label": "Rozdział 1",
    "text": "Dane ogólne"
   },
   {
@@ -44,16 +41,12 @@
    "num": "2",
    "path": "ust_2",
    "text": "Senatora wybierano spośród 4 kandydatów.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Rozdział 2."
-    },
-    {
-     "type": "text",
-     "text": "Wyniki głosowania i wyniki wyborów"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Wyniki głosowania i wyniki wyborów"
   },
   {
    "type": "ust",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1389",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 6 października 2025 r. w sprawie kluczowych zaleceń dotyczących organizacji opieki kardiologicznej i postępowania klinicznego",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1389/text.pdf",
  "body": [
   {
@@ -78,8 +78,9 @@
      "text": "Numer kluczowego Nazwa kluczowego zalecenia zalecenia"
     },
     {
-     "type": "text",
-     "text": "I. Podstawowa opieka zdrowotna"
+     "type": "heading",
+     "label": "I.",
+     "text": "Podstawowa opieka zdrowotna"
     },
     {
      "type": "text",
@@ -365,122 +366,123 @@
       {
        "type": "text",
        "text": "I.D.2 Koordynator opieki kardiologicznej OK II lub OK III współpracuje ze świadczeniodawcą POZ w celu udzielenia świadczeniobiorcy informacji o organizacji opieki kardiologicznej w ramach KSK oraz koordynowania poszczególnych etapów opieki kardiologicznej, zapewniając ciągłość tej opieki. Koordynator opieki kardiologicznej informuje świadczeniobiorcę o wszystkich elementach opieki kardiologicznej wymienionych w planie leczenia kardiologicznego."
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Ambulatoryjna opieka specjalistyczna"
+    },
+    {
+     "type": "text",
+     "text": "A. Diagnostyka kardiologiczna"
+    },
+    {
+     "type": "text",
+     "text": "II.A.1 W przypadku świadczeniobiorcy, który został skierowany do poradni kardiologicznej z ośrodka kardiologicznego KSK lub ośrodka współpracującego, w rozumieniu art. 12 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej (Dz. U. poz. 779), w celu potwierdzenia albo wykluczenia rozpoznania choroby układu krążenia albo do dalszej diagnostyki kardiologicznej, podczas pierwszej wizyty w poradni kardiologicznej lekarz specjalista w dziedzinie kardiologii:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "dokonuje ponownej oceny stanu zdrowia świadczeniobiorcy – na podstawie wywiadu, badania przedmiotowego oraz wyników badań diagnostycznych wykonanych przed wizytą – w celu potwierdzenia albo wykluczenia rozpoznania choroby układu krążenia albo ustalenia dalszej diagnostyki kardiologicznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "przeprowadza badania przedmiotowe ukierunkowane na rozpoznanie choroby układu krążenia, obejmujące co najmniej: pomiar ciśnienia tętniczego krwi, pomiar tętna z oceną miarowości i obecności tętna obwodowego na kończynach dolnych, osłuchanie serca, płuc oraz tętnic szyjnych i udowych, a także ocenę obecności obrzęków obwodowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "ustala dalszą diagnostykę na podstawie oceny klinicznej świadczeniobiorcy – zleca wykonanie badań diagnostycznych w celu potwierdzenia albo wykluczenia rozpoznania choroby układu krążenia na podstawie konsultacji specjalistycznych i badań diagnostycznych określonych w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie, o którym mowa w art. 15 ust. 2 pkt 2 tej ustawy, zgodnie z aktualną wiedzą medyczną, w tym z wytycznymi właściwych towarzystw naukowych, przy czym w potwierdzeniu albo wykluczeniu rozpoznania choroby układu krążenia uwzględnia się wszystkie wyniki badań diagnostycznych wykonanych przez świadczeniobiorcę oraz zawartych w karcie e-KOK, w tym również wykonanych na jego koszt lub przez innego świadczeniodawcę przed wystawieniem karty e-KOK;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "ustala termin ponownej konsultacji w poradni kardiologicznej nie późniejszy niż 30 dni od dnia pierwszej wizyty, podczas której zlecono wykonanie badań, o których mowa w pkt 3, przy czym termin ten nie dotyczy świadczeniobiorców, których stan zdrowia w opinii lekarza specjalisty w dziedzinie kardiologii nie powinien pogorszyć się po przekroczeniu tego terminu, zgodnie z aktualną wiedzę medyczną, w tym z wytycznymi właściwych towarzystw naukowych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "II.A.2 W przypadku świadczeniobiorcy, który nie został skierowany z ośrodka kardiologicznego KSK lub ośrodka współpracującego, w rozumieniu art. 12 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej, w celu potwierdzenia albo wykluczenia rozpoznania chorób układu krążenia i u którego nie rozpoznano wcześniej choroby układu krążenia, ale jest obciążony czynnikami ryzyka takiej choroby, podczas pierwszej wizyty w poradni kardiologicznej lekarz specjalista w dziedzinie kardiologii: 1) przeprowadza wywiad ze świadczeniobiorcą w celu rozpoznania choroby układu krążenia oraz ustalenia czynników ryzyka takiej choroby;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "wykonuje badania w celu wstępnego rozpoznania choroby układu krążenia, które obejmują co najmniej:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_2/lit_a",
+       "text": "pomiar ciśnienia tętniczego krwi,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_2/lit_b",
+       "text": "pomiar tętna z oceną miarowości oraz obecności tętna obwodowego na kończynach dolnych, c) osłuchanie serca, płuc oraz tętnic szyjnych i udowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "pkt_2/lit_d",
+       "text": "ocenę obecności obrzęków obwodowych;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "prowadzi dalszą diagnostykę kardiologiczną w celu potwierdzenia albo wykluczenia rozpoznania choroby układu krążenia na podstawie konsultacji specjalistycznych i badań diagnostycznych określonych w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie, o którym mowa w art. 15 ust. 2 pkt 2 tej ustawy, zgodnie z aktualną wiedzą medyczną, w tym z wytycznymi właściwych towarzystw naukowych, przy czym w potwierdzeniu albo wykluczeniu rozpoznania choroby układu krążenia uwzględnia się wszystkie wyniki badań diagnostycznych. W ramach kierowania do ośrodka kardiologicznego KSK uwzględnia się również wyniki badań diagnostycznych wykonanych przez świadczeniobiorcę w innych placówkach, jeżeli wyniki te są aktualne i spełniają kryteria przydatności klinicznej w ocenie lekarza kierującego, bez konieczności ponownego zlecania badań, które mogłoby spowodować nieuzasadnioną zwłokę w procesie diagnostyczno-terapeutycznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "ustala termin ponownej konsultacji specjalistycznej w poradni kardiologicznej nie późniejszy niż 30 dni od dnia pierwszej wizyty, podczas której zlecono wykonanie badań, o których mowa w pkt 3, przy czym termin ten nie dotyczy świadczeniobiorców, których stan zdrowia w opinii lekarza specjalisty w dziedzinie kardiologii nie powinien pogorszyć się po przekroczeniu tego terminu, zgodnie z aktualną wiedzę medyczną, w tym z wytycznymi właściwych towarzystw naukowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "wystawia świadczeniobiorcy kartę e-KOK, jeżeli nie została wcześniej wystawiona, i ją prowadzi.",
+     "children": [
+      {
+       "type": "text",
+       "text": "II.A.3 Podczas drugiej wizyty w poradni kardiologicznej dokonuje się ponownej oceny stanu zdrowia świadczeniobiorcy – na podstawie wywiadu, badania przedmiotowego oraz wyników badań diagnostycznych – w celu potwierdzenia albo wykluczenia wstępnego rozpoznania choroby układu krążenia albo w celu dalszej diagnostyki kardiologicznej oraz podjęcia decyzji terapeutycznych, w tym skierowania do rehabilitacji kardiologicznej, jeżeli jest to zasadne."
       },
       {
        "type": "text",
-       "text": "II. Ambulatoryjna opieka specjalistyczna"
+       "text": "II.A.4 W przypadku świadczeniobiorcy, który został skierowany do poradni kardiologicznej z ośrodka kardiologicznego KSK lub ośrodka współpracującego, w rozumieniu art. 12 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej, w celu potwierdzenia albo wykluczenia wstępnego rozpoznania choroby układu krążenia albo kontynuacji diagnostyki kardiologicznej, pierwsza porada kardiologiczna jest przeprowadzana w terminie 90 dni od dnia skierowania do poradni kardiologicznej. Kolejne porady kardiologiczne, jeżeli są wymagane, odbywają się w terminie od 90 dni do 365 dni od dnia udzielenia ostatniej porady kardiologicznej, w zależności od wskazań klinicznych."
       },
       {
        "type": "text",
-       "text": "A. Diagnostyka kardiologiczna"
+       "text": "II.A.5 Świadczeniobiorcę, u którego rozpoznano chorobę układu krążenia i u którego istnieją wskazania kliniczne do hospitalizacji, kieruje się do leczenia szpitalnego w OK I, OK II albo OK III oraz zapewnia się mu kontakt z koordynatorem opieki kardiologicznej OK II lub OK III."
       },
       {
        "type": "text",
-       "text": "II.A.1 W przypadku świadczeniobiorcy, który został skierowany do poradni kardiologicznej z ośrodka kardiologicznego KSK lub ośrodka współpracującego, w rozumieniu art. 12 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej (Dz. U. poz. 779), w celu potwierdzenia albo wykluczenia rozpoznania choroby układu krążenia albo do dalszej diagnostyki kardiologicznej, podczas pierwszej wizyty w poradni kardiologicznej lekarz specjalista w dziedzinie kardiologii:"
+       "text": "II.A.6 Wykluczenie rozpoznania choroby układu krążenia albo jego potwierdzenie wraz z ustaleniem planu leczenia kardiologicznego albo planu leczenia kardiologicznego w zakresie rehabilitacji kardiologicznej odbywa się nie później niż w terminie 90 dni od dnia pierwszej porady w poradni kardiologicznej, jednak niezwłocznie po uzyskaniu kompletnego zestawu wyników zleconych badań diagnostycznych."
       },
       {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_5/pkt_1",
-       "text": "dokonuje ponownej oceny stanu zdrowia świadczeniobiorcy – na podstawie wywiadu, badania przedmiotowego oraz wyników badań diagnostycznych wykonanych przed wizytą – w celu potwierdzenia albo wykluczenia rozpoznania choroby układu krążenia albo ustalenia dalszej diagnostyki kardiologicznej;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "ust_5/pkt_2",
-       "text": "przeprowadza badania przedmiotowe ukierunkowane na rozpoznanie choroby układu krążenia, obejmujące co najmniej: pomiar ciśnienia tętniczego krwi, pomiar tętna z oceną miarowości i obecności tętna obwodowego na kończynach dolnych, osłuchanie serca, płuc oraz tętnic szyjnych i udowych, a także ocenę obecności obrzęków obwodowych;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "ust_5/pkt_3",
-       "text": "ustala dalszą diagnostykę na podstawie oceny klinicznej świadczeniobiorcy – zleca wykonanie badań diagnostycznych w celu potwierdzenia albo wykluczenia rozpoznania choroby układu krążenia na podstawie konsultacji specjalistycznych i badań diagnostycznych określonych w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie, o którym mowa w art. 15 ust. 2 pkt 2 tej ustawy, zgodnie z aktualną wiedzą medyczną, w tym z wytycznymi właściwych towarzystw naukowych, przy czym w potwierdzeniu albo wykluczeniu rozpoznania choroby układu krążenia uwzględnia się wszystkie wyniki badań diagnostycznych wykonanych przez świadczeniobiorcę oraz zawartych w karcie e-KOK, w tym również wykonanych na jego koszt lub przez innego świadczeniodawcę przed wystawieniem karty e-KOK;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "4",
-       "path": "ust_5/pkt_4",
-       "text": "ustala termin ponownej konsultacji w poradni kardiologicznej nie późniejszy niż 30 dni od dnia pierwszej wizyty, podczas której zlecono wykonanie badań, o których mowa w pkt 3, przy czym termin ten nie dotyczy świadczeniobiorców, których stan zdrowia w opinii lekarza specjalisty w dziedzinie kardiologii nie powinien pogorszyć się po przekroczeniu tego terminu, zgodnie z aktualną wiedzę medyczną, w tym z wytycznymi właściwych towarzystw naukowych.",
-       "children": [
-        {
-         "type": "text",
-         "text": "II.A.2 W przypadku świadczeniobiorcy, który nie został skierowany z ośrodka kardiologicznego KSK lub ośrodka współpracującego, w rozumieniu art. 12 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej, w celu potwierdzenia albo wykluczenia rozpoznania chorób układu krążenia i u którego nie rozpoznano wcześniej choroby układu krążenia, ale jest obciążony czynnikami ryzyka takiej choroby, podczas pierwszej wizyty w poradni kardiologicznej lekarz specjalista w dziedzinie kardiologii: 1) przeprowadza wywiad ze świadczeniobiorcą w celu rozpoznania choroby układu krążenia oraz ustalenia czynników ryzyka takiej choroby;"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "ust_5/pkt_2",
-       "text": "wykonuje badania w celu wstępnego rozpoznania choroby układu krążenia, które obejmują co najmniej:",
-       "children": [
-        {
-         "type": "lit",
-         "num": "a",
-         "path": "ust_5/pkt_2/lit_a",
-         "text": "pomiar ciśnienia tętniczego krwi,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "b",
-         "path": "ust_5/pkt_2/lit_b",
-         "text": "pomiar tętna z oceną miarowości oraz obecności tętna obwodowego na kończynach dolnych, c) osłuchanie serca, płuc oraz tętnic szyjnych i udowych,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "d",
-         "path": "ust_5/pkt_2/lit_d",
-         "text": "ocenę obecności obrzęków obwodowych;",
-         "children": []
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "ust_5/pkt_3",
-       "text": "prowadzi dalszą diagnostykę kardiologiczną w celu potwierdzenia albo wykluczenia rozpoznania choroby układu krążenia na podstawie konsultacji specjalistycznych i badań diagnostycznych określonych w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie, o którym mowa w art. 15 ust. 2 pkt 2 tej ustawy, zgodnie z aktualną wiedzą medyczną, w tym z wytycznymi właściwych towarzystw naukowych, przy czym w potwierdzeniu albo wykluczeniu rozpoznania choroby układu krążenia uwzględnia się wszystkie wyniki badań diagnostycznych. W ramach kierowania do ośrodka kardiologicznego KSK uwzględnia się również wyniki badań diagnostycznych wykonanych przez świadczeniobiorcę w innych placówkach, jeżeli wyniki te są aktualne i spełniają kryteria przydatności klinicznej w ocenie lekarza kierującego, bez konieczności ponownego zlecania badań, które mogłoby spowodować nieuzasadnioną zwłokę w procesie diagnostyczno-terapeutycznym;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "4",
-       "path": "ust_5/pkt_4",
-       "text": "ustala termin ponownej konsultacji specjalistycznej w poradni kardiologicznej nie późniejszy niż 30 dni od dnia pierwszej wizyty, podczas której zlecono wykonanie badań, o których mowa w pkt 3, przy czym termin ten nie dotyczy świadczeniobiorców, których stan zdrowia w opinii lekarza specjalisty w dziedzinie kardiologii nie powinien pogorszyć się po przekroczeniu tego terminu, zgodnie z aktualną wiedzę medyczną, w tym z wytycznymi właściwych towarzystw naukowych;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "5",
-       "path": "ust_5/pkt_5",
-       "text": "wystawia świadczeniobiorcy kartę e-KOK, jeżeli nie została wcześniej wystawiona, i ją prowadzi.",
-       "children": [
-        {
-         "type": "text",
-         "text": "II.A.3 Podczas drugiej wizyty w poradni kardiologicznej dokonuje się ponownej oceny stanu zdrowia świadczeniobiorcy – na podstawie wywiadu, badania przedmiotowego oraz wyników badań diagnostycznych – w celu potwierdzenia albo wykluczenia wstępnego rozpoznania choroby układu krążenia albo w celu dalszej diagnostyki kardiologicznej oraz podjęcia decyzji terapeutycznych, w tym skierowania do rehabilitacji kardiologicznej, jeżeli jest to zasadne."
-        },
-        {
-         "type": "text",
-         "text": "II.A.4 W przypadku świadczeniobiorcy, który został skierowany do poradni kardiologicznej z ośrodka kardiologicznego KSK lub ośrodka współpracującego, w rozumieniu art. 12 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej, w celu potwierdzenia albo wykluczenia wstępnego rozpoznania choroby układu krążenia albo kontynuacji diagnostyki kardiologicznej, pierwsza porada kardiologiczna jest przeprowadzana w terminie 90 dni od dnia skierowania do poradni kardiologicznej. Kolejne porady kardiologiczne, jeżeli są wymagane, odbywają się w terminie od 90 dni do 365 dni od dnia udzielenia ostatniej porady kardiologicznej, w zależności od wskazań klinicznych."
-        },
-        {
-         "type": "text",
-         "text": "II.A.5 Świadczeniobiorcę, u którego rozpoznano chorobę układu krążenia i u którego istnieją wskazania kliniczne do hospitalizacji, kieruje się do leczenia szpitalnego w OK I, OK II albo OK III oraz zapewnia się mu kontakt z koordynatorem opieki kardiologicznej OK II lub OK III."
-        },
-        {
-         "type": "text",
-         "text": "II.A.6 Wykluczenie rozpoznania choroby układu krążenia albo jego potwierdzenie wraz z ustaleniem planu leczenia kardiologicznego albo planu leczenia kardiologicznego w zakresie rehabilitacji kardiologicznej odbywa się nie później niż w terminie 90 dni od dnia pierwszej porady w poradni kardiologicznej, jednak niezwłocznie po uzyskaniu kompletnego zestawu wyników zleconych badań diagnostycznych."
-        },
-        {
-         "type": "text",
-         "text": "II.A.7 1. Skierowanie świadczeniobiorcy do OK II jest możliwe po stwierdzeniu braku możliwości przeprowadzenia właściwej diagnostyki kardiologicznej w OK I, a także w sytuacji, gdy czas oczekiwania na udzielenie świadczenia w OK II jest krótszy niż w OK I lub gdy uzasadnia to stan kliniczny świadczeniobiorcy, z uwzględnieniem określonych przez świadczeniobiorcę kryteriów w zakresie terminu lub miejsca udzielenia świadczenia."
-        }
-       ]
+       "type": "text",
+       "text": "II.A.7 1. Skierowanie świadczeniobiorcy do OK II jest możliwe po stwierdzeniu braku możliwości przeprowadzenia właściwej diagnostyki kardiologicznej w OK I, a także w sytuacji, gdy czas oczekiwania na udzielenie świadczenia w OK II jest krótszy niż w OK I lub gdy uzasadnia to stan kliniczny świadczeniobiorcy, z uwzględnieniem określonych przez świadczeniobiorcę kryteriów w zakresie terminu lub miejsca udzielenia świadczenia."
       }
      ]
     },
@@ -672,26 +674,27 @@
         {
          "type": "text",
          "text": "II.C.6 Lekarz specjalista w dziedzinie kardiologii koordynuje realizację planu obserwacji po leczeniu we współpracy z lekarzem POZ, lekarzem specjalistą w dziedzinie kardiologii, diabetologii, chorób płuc, chorób wewnętrznych, nefrologii, geriatrii lub z innymi lekarzami specjalistami z odpowiednich dziedzin medycyny, w zależności od indywidualnych potrzeb świadczeniobiorcy."
-        },
-        {
-         "type": "text",
-         "text": "III. Leczenie szpitalne"
-        },
-        {
-         "type": "text",
-         "text": "A. Diagnostyka kardiologiczna"
-        },
-        {
-         "type": "text",
-         "text": "III.A.1 W przypadku świadczeniobiorcy, który został skierowany na oddział kardiologiczny OK I, OK II albo OK III w celu przeprowadzenia pogłębionej diagnostyki kardiologicznej lub którego stan zdrowia uzasadnia hospitalizację, w ramach leczenia szpitalnego: 1) przeprowadza się analizę wykonanych dotychczas badań diagnostycznych, z uwzględnieniem badań wykonanych również u innych świadczeniodawców; 2) zleca się wykonanie niezbędnych uzupełniających badań diagnostycznych na podstawie konsultacji specjalistycznych i wykazu badań diagnostycznych określonych w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie, o którym mowa w art. 15 ust. 2 pkt 1 tej ustawy; 3) wystawia się kartę e-KOK, jeżeli nie została wcześniej wystawiona."
-        },
-        {
-         "type": "text",
-         "text": "III.A.2 1. Dalsza diagnostyka kardiologiczna i leczenie kardiologiczne są prowadzone w OK I zapewniającym dostęp do wymaganych procedur diagnostyczno-terapeutycznych."
         }
        ]
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Leczenie szpitalne"
+    },
+    {
+     "type": "text",
+     "text": "A. Diagnostyka kardiologiczna"
+    },
+    {
+     "type": "text",
+     "text": "III.A.1 W przypadku świadczeniobiorcy, który został skierowany na oddział kardiologiczny OK I, OK II albo OK III w celu przeprowadzenia pogłębionej diagnostyki kardiologicznej lub którego stan zdrowia uzasadnia hospitalizację, w ramach leczenia szpitalnego: 1) przeprowadza się analizę wykonanych dotychczas badań diagnostycznych, z uwzględnieniem badań wykonanych również u innych świadczeniodawców; 2) zleca się wykonanie niezbędnych uzupełniających badań diagnostycznych na podstawie konsultacji specjalistycznych i wykazu badań diagnostycznych określonych w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie, o którym mowa w art. 15 ust. 2 pkt 1 tej ustawy; 3) wystawia się kartę e-KOK, jeżeli nie została wcześniej wystawiona."
+    },
+    {
+     "type": "text",
+     "text": "III.A.2 1. Dalsza diagnostyka kardiologiczna i leczenie kardiologiczne są prowadzone w OK I zapewniającym dostęp do wymaganych procedur diagnostyczno-terapeutycznych."
     },
     {
      "type": "ust",
@@ -776,38 +779,40 @@
         {
          "type": "text",
          "text": "III.C.2 W przypadku: 1) pogorszenia stanu zdrowia świadczeniobiorcy lub pojawienia się nowych objawów, w szczególności tych, o których mowa w części II.C.2, wydłuża się hospitalizację świadczeniobiorcy według wskazań klinicznych; 2) wystąpienia u świadczeniobiorcy innych chorób przewlekłych z krótkim spodziewanym okresem przeżycia (poniżej jednego roku), powodujących kwalifikację świadczeniobiorcy do opieki paliatywnej i hospicyjnej, stosuje się kluczowe zalecenia, o których mowa w części V.3."
-        },
-        {
-         "type": "text",
-         "text": "IV. Rehabilitacja kardiologiczna"
-        },
-        {
-         "type": "text",
-         "text": "IV.1 1. Dla świadczeniobiorców: 1) po zawale serca lub 2) po operacji kardiochirurgicznej, lub 3) po zabiegach z zakresu kardiologii inwazyjnej, jeżeli istnieją wskazania kliniczne, lub 4) po dekompensacji niewydolności serca, jeżeli istnieją wskazania kliniczne, lub 5) w stanie zdrowia uzasadniającym konieczność rehabilitacji – opracowuje się plan leczenia kardiologicznego w zakresie rehabilitacji kardiologicznej, jeżeli istnieją wskazania kliniczne. 2. Plan leczenia kardiologicznego w zakresie rehabilitacji kardiologicznej obejmuje: 1) ocenę stanu zdrowia świadczeniobiorcy; 2) harmonogram rehabilitacji kardiologicznej uwzględniający telerehabilitację, jeżeli jest możliwa; 3) plan zabiegów i ćwiczeń; 4) monitorowanie stanu zdrowia świadczeniobiorcy; 5) edukację zdrowotną."
-        },
-        {
-         "type": "text",
-         "text": "IV.2 Świadczeniobiorcom po: 1) zawale serca lub 2) operacji kardiochirurgicznej, lub 3) zabiegach z zakresu kardiologii inwazyjnej, jeżeli istnieją wskazania kliniczne, lub 4) dekompensacji niewydolności serca – zapewnia się wczesną rehabilitację, jeżeli istnieją wskazania kliniczne."
-        },
-        {
-         "type": "text",
-         "text": "V. Opieka długoterminowa"
-        },
-        {
-         "type": "text",
-         "text": "V.1 Świadczeniobiorcę po przebytych procedurach specjalistycznych podczas leczenia szpitalnego lub w ramach ambulatoryjnej opieki specjalistycznej na poszczególnych poziomach zabezpieczenia opieki kardiologicznej, który w opinii lekarza specjalisty w dziedzinie kardiologii nie wymaga dalszego postępowania diagnostyczno-terapeutycznego w ramach leczenia szpitalnego w OK II ani w OK III, kieruje się wraz z planem leczenia kardiologicznego do lekarza POZ z dostępem do opieki koordynowanej w POZ albo do OK I w ramach ambulatoryjnej opieki specjalistycznej. Ustala się harmonogram wizyt kontrolnych, które są dostosowane do indywidualnych potrzeb świadczeniobiorcy i które odbywają się co najmniej raz na 12 miesięcy. Wizyty kontrolne obejmują: 1) ocenę stanu zdrowia świadczeniobiorcy; 2) ocenę farmakoterapii, jeżeli została zastosowana; 3) badania kontrolne wynikające z planu leczenia kardiologicznego oraz indywidualnych potrzeb świadczeniobiorcy; 4) ocenę przestrzegania zaleceń i osiągnięcia celów terapeutycznych; 5) aktualizację planu leczenia kardiologicznego zgodnie z aktualną wiedzą medyczną, w tym z wytycznymi właściwych towarzystw naukowych; 6) poradę edukacyjną w zakresie wynikającym z indywidualnych potrzeb świadczeniobiorcy."
-        },
-        {
-         "type": "text",
-         "text": "V.2 W przypadku świadczeniobiorcy: 1) wymagającego regularnego albo stałego nadzoru specjalistycznego ze względu na zaawansowanie choroby układu krążenia lub ustalony plan leczenia kardiologicznego – który obejmuje w najbliższym czasie zastosowanie wysokospecjalistycznych procedur – pozostaje on pod opieką w ramach ambulatoryjnej opieki specjalistycznej lub leczenia szpitalnego w OK I, OK II albo OK III aż do czasu zastosowania wysokospecjalistycznych procedur, a następnie jest nadzorowany zgodnie z pkt 2 lub 3, w zależności od ustalonego planu leczenia kardiologicznego; 2) leczonego w ramach ambulatoryjnej opieki specjalistycznej w OK I, OK II albo OK III – ustala się harmonogram wizyt kontrolnych u lekarza POZ, które są dostosowane do indywidualnych potrzeb świadczeniobiorcy, ze szczególnym uwzględnieniem jego chorób współistniejących, i które odbywają się co najmniej dwa razy na 12 miesięcy. Wizyty kontrolne obejmują: a) ocenę stanu zdrowia świadczeniobiorcy, b) ocenę farmakoterapii, jeżeli została zastosowana, c) ocenę przestrzegania zaleceń i osiągnięcia celów terapeutycznych, d) aktualizację planu leczenia kardiologicznego zgodnie z aktualną wiedzą medyczną, w tym z wytycznymi właściwych towarzystw naukowych; 3) wymagającego regularnego albo stałego nadzoru specjalistycznego ze względu na wykonaną procedurę zabiegową w zakresie urządzeń wszczepialnych – może być on objęty zdalnym nadzorem w ramach telemonitoringu urządzeń wszczepialnych."
-        },
-        {
-         "type": "text",
-         "text": "V.3 Świadczeniobiorca niezakwalifikowany do dalszego leczenia zabiegowego ze względu na: 1) nieakceptowalnie wysokie ryzyko zabiegu, 2) krótki spodziewany okres przeżycia (poniżej jednego roku), 3) wielochorobowość, 4) zaawansowaną chorobę przewlekłą, 5) zespół kruchości – zostaje przekazany, w zależności od stanu zdrowia, pod opiekę najbliższej rodziny i lekarza POZ, hospicjum domowego, zakładu opiekuńczo-leczniczego lub oddziału opieki paliatywnej w celu zapewnienia stałej opieki w podmiocie leczniczym wykonującym działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne."
         }
        ]
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Rehabilitacja kardiologiczna"
+    },
+    {
+     "type": "text",
+     "text": "IV.1 1. Dla świadczeniobiorców: 1) po zawale serca lub 2) po operacji kardiochirurgicznej, lub 3) po zabiegach z zakresu kardiologii inwazyjnej, jeżeli istnieją wskazania kliniczne, lub 4) po dekompensacji niewydolności serca, jeżeli istnieją wskazania kliniczne, lub 5) w stanie zdrowia uzasadniającym konieczność rehabilitacji – opracowuje się plan leczenia kardiologicznego w zakresie rehabilitacji kardiologicznej, jeżeli istnieją wskazania kliniczne. 2. Plan leczenia kardiologicznego w zakresie rehabilitacji kardiologicznej obejmuje: 1) ocenę stanu zdrowia świadczeniobiorcy; 2) harmonogram rehabilitacji kardiologicznej uwzględniający telerehabilitację, jeżeli jest możliwa; 3) plan zabiegów i ćwiczeń; 4) monitorowanie stanu zdrowia świadczeniobiorcy; 5) edukację zdrowotną."
+    },
+    {
+     "type": "text",
+     "text": "IV.2 Świadczeniobiorcom po: 1) zawale serca lub 2) operacji kardiochirurgicznej, lub 3) zabiegach z zakresu kardiologii inwazyjnej, jeżeli istnieją wskazania kliniczne, lub 4) dekompensacji niewydolności serca – zapewnia się wczesną rehabilitację, jeżeli istnieją wskazania kliniczne."
+    },
+    {
+     "type": "heading",
+     "label": "V.",
+     "text": "Opieka długoterminowa"
+    },
+    {
+     "type": "text",
+     "text": "V.1 Świadczeniobiorcę po przebytych procedurach specjalistycznych podczas leczenia szpitalnego lub w ramach ambulatoryjnej opieki specjalistycznej na poszczególnych poziomach zabezpieczenia opieki kardiologicznej, który w opinii lekarza specjalisty w dziedzinie kardiologii nie wymaga dalszego postępowania diagnostyczno-terapeutycznego w ramach leczenia szpitalnego w OK II ani w OK III, kieruje się wraz z planem leczenia kardiologicznego do lekarza POZ z dostępem do opieki koordynowanej w POZ albo do OK I w ramach ambulatoryjnej opieki specjalistycznej. Ustala się harmonogram wizyt kontrolnych, które są dostosowane do indywidualnych potrzeb świadczeniobiorcy i które odbywają się co najmniej raz na 12 miesięcy. Wizyty kontrolne obejmują: 1) ocenę stanu zdrowia świadczeniobiorcy; 2) ocenę farmakoterapii, jeżeli została zastosowana; 3) badania kontrolne wynikające z planu leczenia kardiologicznego oraz indywidualnych potrzeb świadczeniobiorcy; 4) ocenę przestrzegania zaleceń i osiągnięcia celów terapeutycznych; 5) aktualizację planu leczenia kardiologicznego zgodnie z aktualną wiedzą medyczną, w tym z wytycznymi właściwych towarzystw naukowych; 6) poradę edukacyjną w zakresie wynikającym z indywidualnych potrzeb świadczeniobiorcy."
+    },
+    {
+     "type": "text",
+     "text": "V.2 W przypadku świadczeniobiorcy: 1) wymagającego regularnego albo stałego nadzoru specjalistycznego ze względu na zaawansowanie choroby układu krążenia lub ustalony plan leczenia kardiologicznego – który obejmuje w najbliższym czasie zastosowanie wysokospecjalistycznych procedur – pozostaje on pod opieką w ramach ambulatoryjnej opieki specjalistycznej lub leczenia szpitalnego w OK I, OK II albo OK III aż do czasu zastosowania wysokospecjalistycznych procedur, a następnie jest nadzorowany zgodnie z pkt 2 lub 3, w zależności od ustalonego planu leczenia kardiologicznego; 2) leczonego w ramach ambulatoryjnej opieki specjalistycznej w OK I, OK II albo OK III – ustala się harmonogram wizyt kontrolnych u lekarza POZ, które są dostosowane do indywidualnych potrzeb świadczeniobiorcy, ze szczególnym uwzględnieniem jego chorób współistniejących, i które odbywają się co najmniej dwa razy na 12 miesięcy. Wizyty kontrolne obejmują: a) ocenę stanu zdrowia świadczeniobiorcy, b) ocenę farmakoterapii, jeżeli została zastosowana, c) ocenę przestrzegania zaleceń i osiągnięcia celów terapeutycznych, d) aktualizację planu leczenia kardiologicznego zgodnie z aktualną wiedzą medyczną, w tym z wytycznymi właściwych towarzystw naukowych; 3) wymagającego regularnego albo stałego nadzoru specjalistycznego ze względu na wykonaną procedurę zabiegową w zakresie urządzeń wszczepialnych – może być on objęty zdalnym nadzorem w ramach telemonitoringu urządzeń wszczepialnych."
+    },
+    {
+     "type": "text",
+     "text": "V.3 Świadczeniobiorca niezakwalifikowany do dalszego leczenia zabiegowego ze względu na: 1) nieakceptowalnie wysokie ryzyko zabiegu, 2) krótki spodziewany okres przeżycia (poniżej jednego roku), 3) wielochorobowość, 4) zaawansowaną chorobę przewlekłą, 5) zespół kruchości – zostaje przekazany, w zależności od stanu zdrowia, pod opiekę najbliższej rodziny i lekarza POZ, hospicjum domowego, zakładu opiekuńczo-leczniczego lub oddziału opieki paliatywnej w celu zapewnienia stałej opieki w podmiocie leczniczym wykonującym działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne."
     }
    ]
   }

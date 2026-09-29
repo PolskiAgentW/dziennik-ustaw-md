@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/26",
  "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 grudnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie wzorów środków identyfikacji dla bydła, owiec i kóz, świń, jeleniowatych, wielbłądowatych i koniowatych oraz szczegółowej specyfikacji technicznej tych środków",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/26/text.pdf",
  "body": [
   {
@@ -184,16 +184,8 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_2/pkt_1",
-       "text": "numer identyfikacyjny zwierzęcia zapisany za pomocą 14 znaków, przy czym 9 pierwszych",
+       "text": "numer identyfikacyjny zwierzęcia zapisany za pomocą 14 znaków, przy czym 9 pierwszych jest wysokości nie mniejszej niż 5 mm, a 5 ostatnich jest wysokości większej niż 9 pierwszych i nie mniejszej niż 10 mm, z których:",
        "children": [
-        {
-         "type": "text",
-         "text": "jest wysokości nie mniejszej niż 5 mm, a 5 ostatnich jest wysokości większej niż"
-        },
-        {
-         "type": "text",
-         "text": "9 pierwszych i nie mniejszej niż 10 mm, z których:"
-        },
         {
          "type": "lit",
          "num": "a",
@@ -205,12 +197,8 @@
          "type": "lit",
          "num": "b",
          "path": "ust_2/pkt_1/lit_b",
-         "text": "dwanaście następnych znaków – to przyznany zwierzęciu indywidualny numer",
+         "text": "dwanaście następnych znaków – to przyznany zwierzęciu indywidualny numer identyfikacyjny, którego:",
          "children": [
-          {
-           "type": "text",
-           "text": "identyfikacyjny, którego:"
-          },
           {
            "type": "tir",
            "num": "1",
@@ -240,27 +228,15 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_2/pkt_2",
-       "text": "znak graficzny Agencji Restrukturyzacji i Modernizacji Rolnictwa – w górnej części po",
+       "text": "znak graficzny Agencji Restrukturyzacji i Modernizacji Rolnictwa – w górnej części po lewej stronie kolczyka;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "lewej stronie kolczyka;"
       },
       {
        "type": "pkt",
        "num": "3",
        "path": "ust_2/pkt_3",
-       "text": "linearny kod kreskowy – dwa z pięciu przeplatany, który koduje 12 cyfr indywidualnego",
+       "text": "linearny kod kreskowy – dwa z pięciu przeplatany, który koduje 12 cyfr indywidualnego numeru identyfikacyjnego przyznanego zwierzęciu, umieszczony tylko na części żeńskiej kolczyka.",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "numeru identyfikacyjnego przyznanego zwierzęciu, umieszczony tylko na części żeńskiej"
-      },
-      {
-       "type": "text",
-       "text": "kolczyka."
       }
      ]
     },
@@ -268,12 +244,8 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Na duplikacie kolczyka cyfra rzymska oznaczająca numer duplikatu jest umieszczana",
+     "text": "Na duplikacie kolczyka cyfra rzymska oznaczająca numer duplikatu jest umieszczana nad literami „PL”.",
      "children": [
-      {
-       "type": "text",
-       "text": "nad literami „PL”."
-      },
       {
        "type": "text",
        "text": "II. kolczyk elektroniczny"
@@ -288,13 +260,8 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Kolczyk koloru żółtego o wymiarach: wysokość od 45 do 83 mm, szerokość od 55 do",
-     "children": [
-      {
-       "type": "text",
-       "text": "63 mm."
-      }
-     ]
+     "text": "Kolczyk koloru żółtego o wymiarach: wysokość od 45 do 83 mm, szerokość od 55 do 63 mm.",
+     "children": []
     },
     {
      "type": "ust",
@@ -306,16 +273,8 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_2/pkt_1",
-       "text": "numer identyfikacyjny zwierzęcia zapisany za pomocą 14 znaków, przy czym 9 pierwszych",
+       "text": "numer identyfikacyjny zwierzęcia zapisany za pomocą 14 znaków, przy czym 9 pierwszych jest wysokości nie mniejszej niż 5 mm, a 5 ostatnich jest wysokości większej niż 9 pierwszych i nie mniejszej niż 10 mm, z których:",
        "children": [
-        {
-         "type": "text",
-         "text": "jest wysokości nie mniejszej niż 5 mm, a 5 ostatnich jest wysokości większej niż"
-        },
-        {
-         "type": "text",
-         "text": "9 pierwszych i nie mniejszej niż 10 mm, z których:"
-        },
         {
          "type": "lit",
          "num": "a",
@@ -327,12 +286,8 @@
          "type": "lit",
          "num": "b",
          "path": "ust_2/pkt_1/lit_b",
-         "text": "dwanaście następnych znaków – to przyznany zwierzęciu indywidualny numer",
+         "text": "dwanaście następnych znaków – to przyznany zwierzęciu indywidualny numer identyfikacyjny, którego:",
          "children": [
-          {
-           "type": "text",
-           "text": "identyfikacyjny, którego:"
-          },
           {
            "type": "tir",
            "num": "1",
@@ -362,27 +317,15 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_2/pkt_2",
-       "text": "znak graficzny Agencji Restrukturyzacji i Modernizacji Rolnictwa – w górnej części po",
+       "text": "znak graficzny Agencji Restrukturyzacji i Modernizacji Rolnictwa – w górnej części po lewej stronie kolczyka;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "lewej stronie kolczyka;"
       },
       {
        "type": "pkt",
        "num": "3",
        "path": "ust_2/pkt_3",
-       "text": "linearny kod kreskowy – dwa z pięciu przeplatany, który koduje 12 cyfr indywidualnego",
+       "text": "linearny kod kreskowy – dwa z pięciu przeplatany, który koduje 12 cyfr indywidualnego numeru identyfikacyjnego przyznanego zwierzęciu, umieszczony tylko na części żeńskiej kolczyka.",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "numeru identyfikacyjnego przyznanego zwierzęciu, umieszczony tylko na części żeńskiej"
-      },
-      {
-       "type": "text",
-       "text": "kolczyka."
       }
      ]
     },
@@ -390,16 +333,8 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "W kołnierzu części żeńskiej kolczyka jest umieszczony elektroniczny identyfikator,",
+     "text": "W kołnierzu części żeńskiej kolczyka jest umieszczony elektroniczny identyfikator, w którym jest zakodowany numer identyfikacyjny zwierzęcia umieszczony na kolczyku i zapisany za pomocą 15 cyfr:",
      "children": [
-      {
-       "type": "text",
-       "text": "w którym jest zakodowany numer identyfikacyjny zwierzęcia umieszczony na kolczyku"
-      },
-      {
-       "type": "text",
-       "text": "i zapisany za pomocą 15 cyfr:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -420,12 +355,8 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Na duplikacie kolczyka cyfra rzymska oznaczająca numer duplikatu jest umieszczana",
+     "text": "Na duplikacie kolczyka cyfra rzymska oznaczająca numer duplikatu jest umieszczana nad literami „PL”.",
      "children": [
-      {
-       "type": "text",
-       "text": "nad literami „PL”."
-      },
       {
        "type": "text",
        "text": "III. wszczepiany transponder"
@@ -520,44 +451,15 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Kapsułka ceramiczna (bolus) składa się z korpusu utworzonego z cylindrycznego lub",
-     "children": [
-      {
-       "type": "text",
-       "text": "owalnego kawałka materiału ceramicznego o gładkiej powierzchni i zaokrąglonych"
-      },
-      {
-       "type": "text",
-       "text": "krawędziach. Wnęka, w której znajduje się elektroniczny identyfikator, i jej otwór wlotowy są"
-      },
-      {
-       "type": "text",
-       "text": "bezpiecznie uszczelnione nietoksycznym materiałem odpornym na procesy trawienne"
-      },
-      {
-       "type": "text",
-       "text": "przeżuwaczy, aby zapobiec utracie elektronicznego identyfikatora. Korpus nie zawiera"
-      },
-      {
-       "type": "text",
-       "text": "elementów magnetycznych i metalicznych."
-      }
-     ]
+     "text": "Kapsułka ceramiczna (bolus) składa się z korpusu utworzonego z cylindrycznego lub owalnego kawałka materiału ceramicznego o gładkiej powierzchni i zaokrąglonych krawędziach. Wnęka, w której znajduje się elektroniczny identyfikator, i jej otwór wlotowy są bezpiecznie uszczelnione nietoksycznym materiałem odpornym na procesy trawienne przeżuwaczy, aby zapobiec utracie elektronicznego identyfikatora. Korpus nie zawiera elementów magnetycznych i metalicznych.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "W kapsułce ceramicznej (bolusie) o wysokości od 60 do 75 mm, średnicy od 16 do",
+     "text": "W kapsułce ceramicznej (bolusie) o wysokości od 60 do 75 mm, średnicy od 16 do 23 mm oraz wadze od 48 do 80 g znajduje się transponder, w którym jest zakodowany numer identyfikacyjny zwierzęcia zapisany za pomocą 15 cyfr:",
      "children": [
-      {
-       "type": "text",
-       "text": "23 mm oraz wadze od 48 do 80 g znajduje się transponder, w którym jest zakodowany numer"
-      },
-      {
-       "type": "text",
-       "text": "identyfikacyjny zwierzęcia zapisany za pomocą 15 cyfr:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -569,12 +471,8 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_2/pkt_2",
-       "text": "przyznanego zwierzęciu dwunastocyfrowego indywidualnego numeru identyfikacyjnego,",
+       "text": "przyznanego zwierzęciu dwunastocyfrowego indywidualnego numeru identyfikacyjnego, którego:",
        "children": [
-        {
-         "type": "text",
-         "text": "którego:"
-        },
         {
          "type": "lit",
          "num": "a",
@@ -625,13 +523,8 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Kolczyk koloru pomarańczowego o wymiarach: wysokość od 26 do 59 mm, szerokość",
-     "children": [
-      {
-       "type": "text",
-       "text": "od 26 do 46 mm."
-      }
-     ]
+     "text": "Kolczyk koloru pomarańczowego o wymiarach: wysokość od 26 do 59 mm, szerokość od 26 do 46 mm.",
+     "children": []
     },
     {
      "type": "ust",
@@ -643,12 +536,8 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_2/pkt_1",
-       "text": "numer identyfikacyjny zwierzęcia zapisany za pomocą 14 znaków o wysokości nie",
+       "text": "numer identyfikacyjny zwierzęcia zapisany za pomocą 14 znaków o wysokości nie mniejszej niż 5 mm, z których:",
        "children": [
-        {
-         "type": "text",
-         "text": "mniejszej niż 5 mm, z których:"
-        },
         {
          "type": "lit",
          "num": "a",
@@ -660,12 +549,8 @@
          "type": "lit",
          "num": "b",
          "path": "ust_2/pkt_1/lit_b",
-         "text": "dwanaście następnych znaków – to przyznany zwierzęciu indywidualny numer",
+         "text": "dwanaście następnych znaków – to przyznany zwierzęciu indywidualny numer identyfikacyjny, którego:",
          "children": [
-          {
-           "type": "text",
-           "text": "identyfikacyjny, którego:"
-          },
           {
            "type": "tir",
            "num": "1",
@@ -695,12 +580,8 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_2/pkt_2",
-       "text": "znak graficzny Agencji Restrukturyzacji i Modernizacji Rolnictwa – w górnej części po",
+       "text": "znak graficzny Agencji Restrukturyzacji i Modernizacji Rolnictwa – w górnej części po lewej stronie kolczyka.",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "lewej stronie kolczyka."
       }
      ]
     },
@@ -708,12 +589,8 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Na duplikacie kolczyka cyfra rzymska oznaczająca numer duplikatu jest umieszczana",
+     "text": "Na duplikacie kolczyka cyfra rzymska oznaczająca numer duplikatu jest umieszczana nad literami „PL”.",
      "children": [
-      {
-       "type": "text",
-       "text": "nad literami „PL”."
-      },
       {
        "type": "text",
        "text": "II. kolczyk elektroniczny"
@@ -815,16 +692,8 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "W części żeńskiej kolczyka jest umieszczony elektroniczny identyfikator, w którym",
+     "text": "W części żeńskiej kolczyka jest umieszczony elektroniczny identyfikator, w którym jest zakodowany numer identyfikacyjny zwierzęcia umieszczony na kolczyku i zapisany za pomocą 15 cyfr:",
      "children": [
-      {
-       "type": "text",
-       "text": "jest zakodowany numer identyfikacyjny zwierzęcia umieszczony na kolczyku i zapisany za"
-      },
-      {
-       "type": "text",
-       "text": "pomocą 15 cyfr:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -845,12 +714,8 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Na duplikacie kolczyka cyfra rzymska oznaczająca numer duplikatu jest umieszczana",
+     "text": "Na duplikacie kolczyka cyfra rzymska oznaczająca numer duplikatu jest umieszczana przed literami „PL”.",
      "children": [
-      {
-       "type": "text",
-       "text": "przed literami „PL”."
-      },
       {
        "type": "text",
        "text": "III. zwykła opaska na pęcinę"
@@ -865,21 +730,8 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Opaska koloru żółtego o wymiarach: szerokość od 160 do 200 mm, wysokość",
-     "children": [
-      {
-       "type": "text",
-       "text": "od 30 do 40 mm, grubość od 1,0 do 3,5 mm. Odstępstwo od podanej grubości jest akceptowalne"
-      },
-      {
-       "type": "text",
-       "text": "jedynie w przypadku części końcowych, zamknięcia lub wzmocnień konstrukcyjnych. Opaska"
-      },
-      {
-       "type": "text",
-       "text": "na pęcinę ma co najmniej 2 zakresy ustawienia regulacji zapięcia."
-      }
-     ]
+     "text": "Opaska koloru żółtego o wymiarach: szerokość od 160 do 200 mm, wysokość od 30 do 40 mm, grubość od 1,0 do 3,5 mm. Odstępstwo od podanej grubości jest akceptowalne jedynie w przypadku części końcowych, zamknięcia lub wzmocnień konstrukcyjnych. Opaska na pęcinę ma co najmniej 2 zakresy ustawienia regulacji zapięcia.",
+     "children": []
     },
     {
      "type": "ust",
@@ -891,12 +743,8 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_2/pkt_1",
-       "text": "numer identyfikacyjny zwierzęcia zapisany za pomocą 14 znaków o wysokości nie",
+       "text": "numer identyfikacyjny zwierzęcia zapisany za pomocą 14 znaków o wysokości nie mniejszej niż 10 mm, z których:",
        "children": [
-        {
-         "type": "text",
-         "text": "mniejszej niż 10 mm, z których:"
-        },
         {
          "type": "lit",
          "num": "a",
@@ -908,12 +756,8 @@
          "type": "lit",
          "num": "b",
          "path": "ust_2/pkt_1/lit_b",
-         "text": "dwanaście następnych znaków – to przyznany zwierzęciu indywidualny numer",
+         "text": "dwanaście następnych znaków – to przyznany zwierzęciu indywidualny numer identyfikacyjny, którego:",
          "children": [
-          {
-           "type": "text",
-           "text": "identyfikacyjny, którego:"
-          },
           {
            "type": "tir",
            "num": "1",
@@ -952,12 +796,8 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Na duplikacie opaski cyfra rzymska oznaczająca numer duplikatu jest umieszczana",
+     "text": "Na duplikacie opaski cyfra rzymska oznaczająca numer duplikatu jest umieszczana pomiędzy znakiem graficznym Agencji Restrukturyzacji i Modernizacji Rolnictwa i literami „PL”.",
      "children": [
-      {
-       "type": "text",
-       "text": "pomiędzy znakiem graficznym Agencji Restrukturyzacji i Modernizacji Rolnictwa i literami „PL”."
-      },
       {
        "type": "text",
        "text": "IV. elektroniczna opaska na pęcinę"
@@ -972,21 +812,8 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Opaska koloru żółtego o wymiarach: szerokość od 160 do 200 mm, wysokość",
-     "children": [
-      {
-       "type": "text",
-       "text": "od 30 do 40 mm, grubość od 1,5 do 4 mm. Odstępstwo od podanej grubości jest akceptowalne"
-      },
-      {
-       "type": "text",
-       "text": "jedynie w przypadku części końcowych, zamknięcia lub wzmocnień konstrukcyjnych. Opaska"
-      },
-      {
-       "type": "text",
-       "text": "na pęcinę ma co najmniej 2 zakresy ustawienia regulacji zapięcia."
-      }
-     ]
+     "text": "Opaska koloru żółtego o wymiarach: szerokość od 160 do 200 mm, wysokość od 30 do 40 mm, grubość od 1,5 do 4 mm. Odstępstwo od podanej grubości jest akceptowalne jedynie w przypadku części końcowych, zamknięcia lub wzmocnień konstrukcyjnych. Opaska na pęcinę ma co najmniej 2 zakresy ustawienia regulacji zapięcia.",
+     "children": []
     },
     {
      "type": "ust",
@@ -998,12 +825,8 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_2/pkt_1",
-       "text": "numer identyfikacyjny zwierzęcia zapisany za pomocą 14 znaków o wysokości nie",
+       "text": "numer identyfikacyjny zwierzęcia zapisany za pomocą 14 znaków o wysokości nie mniejszej niż 10 mm, z których:",
        "children": [
-        {
-         "type": "text",
-         "text": "mniejszej niż 10 mm, z których:"
-        },
         {
          "type": "lit",
          "num": "a",
@@ -1015,12 +838,8 @@
          "type": "lit",
          "num": "b",
          "path": "ust_2/pkt_1/lit_b",
-         "text": "dwanaście następnych znaków – to przyznany zwierzęciu indywidualny numer",
+         "text": "dwanaście następnych znaków – to przyznany zwierzęciu indywidualny numer identyfikacyjny, którego:",
          "children": [
-          {
-           "type": "text",
-           "text": "identyfikacyjny, którego:"
-          },
           {
            "type": "tir",
            "num": "1",
@@ -1059,12 +878,8 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "W opasce jest umieszczony elektroniczny identyfikator, w którym jest zakodowany",
+     "text": "W opasce jest umieszczony elektroniczny identyfikator, w którym jest zakodowany numer identyfikacyjny zwierzęcia umieszczony na opasce i zapisany za pomocą 15 cyfr:",
      "children": [
-      {
-       "type": "text",
-       "text": "numer identyfikacyjny zwierzęcia umieszczony na opasce i zapisany za pomocą 15 cyfr:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -1085,12 +900,8 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Na duplikacie elektronicznej opaski cyfra rzymska oznaczająca numer duplikatu jest",
+     "text": "Na duplikacie elektronicznej opaski cyfra rzymska oznaczająca numer duplikatu jest umieszczana przed literami „PL”.",
      "children": [
-      {
-       "type": "text",
-       "text": "umieszczana przed literami „PL”."
-      },
       {
        "type": "text",
        "text": "V. kapsułka ceramiczna (bolus)"
@@ -1101,44 +912,15 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Kapsułka ceramiczna (bolus) składa się z korpusu utworzonego z cylindrycznego lub",
-     "children": [
-      {
-       "type": "text",
-       "text": "owalnego kawałka materiału ceramicznego o gładkiej powierzchni i zaokrąglonych"
-      },
-      {
-       "type": "text",
-       "text": "krawędziach. Wnęka, w której znajduje się elektroniczny identyfikator, i jej otwór wlotowy są"
-      },
-      {
-       "type": "text",
-       "text": "bezpiecznie uszczelnione nietoksycznym materiałem odpornym na procesy trawienne"
-      },
-      {
-       "type": "text",
-       "text": "przeżuwaczy, aby zapobiec utracie elektronicznego identyfikatora. Korpus nie zawiera"
-      },
-      {
-       "type": "text",
-       "text": "elementów magnetycznych i metalicznych."
-      }
-     ]
+     "text": "Kapsułka ceramiczna (bolus) składa się z korpusu utworzonego z cylindrycznego lub owalnego kawałka materiału ceramicznego o gładkiej powierzchni i zaokrąglonych krawędziach. Wnęka, w której znajduje się elektroniczny identyfikator, i jej otwór wlotowy są bezpiecznie uszczelnione nietoksycznym materiałem odpornym na procesy trawienne przeżuwaczy, aby zapobiec utracie elektronicznego identyfikatora. Korpus nie zawiera elementów magnetycznych i metalicznych.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "W kapsułce ceramicznej (bolusie) o wysokości od 50 do 60 mm, średnicy od 10 do",
+     "text": "W kapsułce ceramicznej (bolusie) o wysokości od 50 do 60 mm, średnicy od 10 do 15 mm oraz wadze od 18 do 55 g znajduje się transponder, w którym jest zakodowany numer identyfikacyjny zwierzęcia zapisany za pomocą 15 cyfr:",
      "children": [
-      {
-       "type": "text",
-       "text": "15 mm oraz wadze od 18 do 55 g znajduje się transponder, w którym jest zakodowany numer"
-      },
-      {
-       "type": "text",
-       "text": "identyfikacyjny zwierzęcia zapisany za pomocą 15 cyfr:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -1150,12 +932,8 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_2/pkt_2",
-       "text": "przyznanego zwierzęciu dwunastocyfrowego indywidualnego numeru identyfikacyjnego,",
+       "text": "przyznanego zwierzęciu dwunastocyfrowego indywidualnego numeru identyfikacyjnego, którego:",
        "children": [
-        {
-         "type": "text",
-         "text": "którego:"
-        },
         {
          "type": "lit",
          "num": "a",
@@ -1190,24 +968,15 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Transponder o wymiarach: długość nie mniejsza niż 11,5 mm i nie większa niż",
-     "children": [
-      {
-       "type": "text",
-       "text": "32,5 mm, szerokość nie mniejsza niż 1,9 mm i nie większa niż 4,1 mm."
-      }
-     ]
+     "text": "Transponder o wymiarach: długość nie mniejsza niż 11,5 mm i nie większa niż 32,5 mm, szerokość nie mniejsza niż 1,9 mm i nie większa niż 4,1 mm.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "W transponderze jest zakodowany numer identyfikacyjny zwierzęcia zapisany za",
+     "text": "W transponderze jest zakodowany numer identyfikacyjny zwierzęcia zapisany za pomocą 15 cyfr:",
      "children": [
-      {
-       "type": "text",
-       "text": "pomocą 15 cyfr:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -1219,12 +988,8 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_2/pkt_2",
-       "text": "przyznanego zwierzęciu dwunastocyfrowego indywidualnego numeru identyfikacyjnego,",
+       "text": "przyznanego zwierzęciu dwunastocyfrowego indywidualnego numeru identyfikacyjnego, którego:",
        "children": [
-        {
-         "type": "text",
-         "text": "którego:"
-        },
         {
          "type": "lit",
          "num": "a",
@@ -1254,12 +1019,8 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Transponder umieszcza się pomiędzy skórą a chrząstką tylnej części lewego ucha lub",
+     "text": "Transponder umieszcza się pomiędzy skórą a chrząstką tylnej części lewego ucha lub w fałdzie skóry u nasady ogona.",
      "children": [
-      {
-       "type": "text",
-       "text": "w fałdzie skóry u nasady ogona."
-      },
       {
        "type": "text",
        "text": "VII. tatuaż"
@@ -1270,12 +1031,8 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Tatuaż wykonuje się tak, aby był widoczny, czytelny i trwały i przedstawiał numer",
+     "text": "Tatuaż wykonuje się tak, aby był widoczny, czytelny i trwały i przedstawiał numer identyfikacyjny zwierzęcia zapisany za pomocą 14 znaków, z których:",
      "children": [
-      {
-       "type": "text",
-       "text": "identyfikacyjny zwierzęcia zapisany za pomocą 14 znaków, z których:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -1287,12 +1044,8 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_1/pkt_2",
-       "text": "dwanaście następnych – to cyfry oznaczające przyznany zwierzęciu indywidualny numer",
+       "text": "dwanaście następnych – to cyfry oznaczające przyznany zwierzęciu indywidualny numer identyfikacyjny, którego:",
        "children": [
-        {
-         "type": "text",
-         "text": "identyfikacyjny, którego:"
-        },
         {
          "type": "lit",
          "num": "a",
@@ -1322,21 +1075,8 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Tatuaż umieszcza się wewnątrz małżowiny usznej, z tym że w prawej małżowinie",
-     "children": [
-      {
-       "type": "text",
-       "text": "usznej tatuuje się 7 pierwszych znaków numeru, a w lewej – pozostałe znaki tego numeru."
-      },
-      {
-       "type": "text",
-       "text": "W przypadku zwierząt z małżowinami usznymi zbyt małymi do wykonania tatuażu tatuaż"
-      },
-      {
-       "type": "text",
-       "text": "wykonuje się w fałdzie skóry u nasady ogona zwierzęcia."
-      }
-     ]
+     "text": "Tatuaż umieszcza się wewnątrz małżowiny usznej, z tym że w prawej małżowinie usznej tatuuje się 7 pierwszych znaków numeru, a w lewej – pozostałe znaki tego numeru. W przypadku zwierząt z małżowinami usznymi zbyt małymi do wykonania tatuażu tatuaż wykonuje się w fałdzie skóry u nasady ogona zwierzęcia.",
+     "children": []
     }
    ]
   },
@@ -1628,13 +1368,8 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Kolczyk koloru pomarańczowego o wymiarach: wysokość od 8 do 12 mm, szerokość",
-     "children": [
-      {
-       "type": "text",
-       "text": "od 70 do 80 mm."
-      }
-     ]
+     "text": "Kolczyk koloru pomarańczowego o wymiarach: wysokość od 8 do 12 mm, szerokość od 70 do 80 mm.",
+     "children": []
     },
     {
      "type": "ust",
@@ -1658,12 +1393,8 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_3/pkt_1",
-       "text": "numer identyfikacyjny zwierzęcia zapisany za pomocą 14 znaków o wysokości nie",
+       "text": "numer identyfikacyjny zwierzęcia zapisany za pomocą 14 znaków o wysokości nie mniejszej niż 4 mm, z których:",
        "children": [
-        {
-         "type": "text",
-         "text": "mniejszej niż 4 mm, z których:"
-        },
         {
          "type": "lit",
          "num": "a",
@@ -1675,12 +1406,8 @@
          "type": "lit",
          "num": "b",
          "path": "ust_3/pkt_1/lit_b",
-         "text": "dwanaście następnych znaków – to przyznany zwierzęciu indywidualny numer",
+         "text": "dwanaście następnych znaków – to przyznany zwierzęciu indywidualny numer identyfikacyjny, którego:",
          "children": [
-          {
-           "type": "text",
-           "text": "identyfikacyjny, którego:"
-          },
           {
            "type": "tir",
            "num": "1",
@@ -1710,12 +1437,8 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_3/pkt_2",
-       "text": "znak graficzny Agencji Restrukturyzacji i Modernizacji Rolnictwa – w części męskiej",
+       "text": "znak graficzny Agencji Restrukturyzacji i Modernizacji Rolnictwa – w części męskiej przed literami „PL”.",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "przed literami „PL”."
       }
      ]
     },
@@ -1723,12 +1446,8 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Na duplikacie kolczyka cyfra rzymska oznaczająca numer duplikatu − o wysokości nie",
+     "text": "Na duplikacie kolczyka cyfra rzymska oznaczająca numer duplikatu − o wysokości nie mniejszej niż 4 mm – jest umieszczona w części żeńskiej.",
      "children": [
-      {
-       "type": "text",
-       "text": "mniejszej niż 4 mm – jest umieszczona w części żeńskiej."
-      },
       {
        "type": "text",
        "text": "II. wszczepiany transponder"
@@ -1739,24 +1458,15 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Transponder o wymiarach: długość nie mniejsza niż 11,5 mm i nie większa niż",
-     "children": [
-      {
-       "type": "text",
-       "text": "32,5 mm, szerokość nie mniejsza niż 1,9 mm i nie większa niż 4,1 mm."
-      }
-     ]
+     "text": "Transponder o wymiarach: długość nie mniejsza niż 11,5 mm i nie większa niż 32,5 mm, szerokość nie mniejsza niż 1,9 mm i nie większa niż 4,1 mm.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "W transponderze jest zakodowany numer identyfikacyjny zwierzęcia zapisany za",
+     "text": "W transponderze jest zakodowany numer identyfikacyjny zwierzęcia zapisany za pomocą 15 cyfr:",
      "children": [
-      {
-       "type": "text",
-       "text": "pomocą 15 cyfr:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -1768,12 +1478,8 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_2/pkt_2",
-       "text": "przyznanego zwierzęciu dwunastocyfrowego indywidualnego numeru identyfikacyjnego,",
+       "text": "przyznanego zwierzęciu dwunastocyfrowego indywidualnego numeru identyfikacyjnego, którego:",
        "children": [
-        {
-         "type": "text",
-         "text": "którego:"
-        },
         {
          "type": "lit",
          "num": "a",
@@ -1803,12 +1509,8 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Transponder umieszcza się pomiędzy skórą a chrząstką tylnej części lewego ucha lub",
+     "text": "Transponder umieszcza się pomiędzy skórą a chrząstką tylnej części lewego ucha lub w fałdzie skóry u nasady ogona zwierzęcia.",
      "children": [
-      {
-       "type": "text",
-       "text": "w fałdzie skóry u nasady ogona zwierzęcia."
-      },
       {
        "type": "text",
        "text": "III. tatuaż"
@@ -1819,12 +1521,8 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Tatuaż wykonuje się tak, aby był widoczny, czytelny i trwały i przedstawiał numer",
+     "text": "Tatuaż wykonuje się tak, aby był widoczny, czytelny i trwały i przedstawiał numer identyfikacyjny zwierzęcia zapisany za pomocą 14 znaków, z których:",
      "children": [
-      {
-       "type": "text",
-       "text": "identyfikacyjny zwierzęcia zapisany za pomocą 14 znaków, z których:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -1836,12 +1534,8 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_1/pkt_2",
-       "text": "dwanaście następnych znaków – to cyfry oznaczające przyznany zwierzęciu",
+       "text": "dwanaście następnych znaków – to cyfry oznaczające przyznany zwierzęciu indywidualny numer identyfikacyjny, którego:",
        "children": [
-        {
-         "type": "text",
-         "text": "indywidualny numer identyfikacyjny, którego:"
-        },
         {
          "type": "lit",
          "num": "a",
@@ -1871,13 +1565,8 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Tatuaż umieszcza się wewnątrz małżowiny usznej, z tym że w prawej małżowinie",
-     "children": [
-      {
-       "type": "text",
-       "text": "usznej tatuuje się 7 pierwszych znaków numeru, a w lewej – pozostałe znaki tego numeru."
-      }
-     ]
+     "text": "Tatuaż umieszcza się wewnątrz małżowiny usznej, z tym że w prawej małżowinie usznej tatuuje się 7 pierwszych znaków numeru, a w lewej – pozostałe znaki tego numeru.",
+     "children": []
     }
    ]
   },
@@ -1896,13 +1585,8 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Kolczyk koloru pomarańczowego o wymiarach: wysokość od 8 do 12 mm, szerokość",
-     "children": [
-      {
-       "type": "text",
-       "text": "od 70 do 80 mm."
-      }
-     ]
+     "text": "Kolczyk koloru pomarańczowego o wymiarach: wysokość od 8 do 12 mm, szerokość od 70 do 80 mm.",
+     "children": []
     },
     {
      "type": "ust",
@@ -1926,12 +1610,8 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_3/pkt_1",
-       "text": "numer identyfikacyjny zwierzęcia zapisany za pomocą 14 znaków o wysokości nie",
+       "text": "numer identyfikacyjny zwierzęcia zapisany za pomocą 14 znaków o wysokości nie mniejszej niż 4 mm, z których:",
        "children": [
-        {
-         "type": "text",
-         "text": "mniejszej niż 4 mm, z których:"
-        },
         {
          "type": "lit",
          "num": "a",
@@ -1943,12 +1623,8 @@
          "type": "lit",
          "num": "b",
          "path": "ust_3/pkt_1/lit_b",
-         "text": "dwanaście następnych znaków – to przyznany zwierzęciu indywidualny numer",
+         "text": "dwanaście następnych znaków – to przyznany zwierzęciu indywidualny numer identyfikacyjny, którego:",
          "children": [
-          {
-           "type": "text",
-           "text": "identyfikacyjny, którego:"
-          },
           {
            "type": "tir",
            "num": "1",
@@ -1978,12 +1654,8 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_3/pkt_2",
-       "text": "znak graficzny Agencji Restrukturyzacji i Modernizacji Rolnictwa – w części męskiej",
+       "text": "znak graficzny Agencji Restrukturyzacji i Modernizacji Rolnictwa – w części męskiej przed literami „PL”.",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "przed literami „PL”."
       }
      ]
     },
@@ -1991,12 +1663,8 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Na duplikacie kolczyka cyfra rzymska oznaczająca numer duplikatu − o wysokości nie",
+     "text": "Na duplikacie kolczyka cyfra rzymska oznaczająca numer duplikatu − o wysokości nie mniejszej niż 4 mm − jest umieszczona w części żeńskiej.",
      "children": [
-      {
-       "type": "text",
-       "text": "mniejszej niż 4 mm − jest umieszczona w części żeńskiej."
-      },
       {
        "type": "text",
        "text": "II. wszczepiany transponder"
@@ -2157,28 +1825,8 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Środki identyfikacji, o których mowa w lit. a–c oraz f załącznika III do rozporządzenia",
+     "text": "Środki identyfikacji, o których mowa w lit. a–c oraz f załącznika III do rozporządzenia delegowanego Komisji (UE) 2019/2035 z dnia 28 czerwca 2019 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/429 w odniesieniu do przepisów dotyczących zakładów utrzymujących zwierzęta lądowe i wylęgarni oraz identyfikowalności niektórych utrzymywanych zwierząt lądowych i jaj wylęgowych, dotyczące utrzymywanego bydła, owiec, kóz, świń, wielbłądowatych i jeleniowatych:",
      "children": [
-      {
-       "type": "text",
-       "text": "delegowanego Komisji (UE) 2019/2035 z dnia 28 czerwca 2019 r. uzupełniającego"
-      },
-      {
-       "type": "text",
-       "text": "rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/429 w odniesieniu do przepisów"
-      },
-      {
-       "type": "text",
-       "text": "dotyczących zakładów utrzymujących zwierzęta lądowe i wylęgarni oraz identyfikowalności"
-      },
-      {
-       "type": "text",
-       "text": "niektórych utrzymywanych zwierząt lądowych i jaj wylęgowych, dotyczące utrzymywanego"
-      },
-      {
-       "type": "text",
-       "text": "bydła, owiec, kóz, świń, wielbłądowatych i jeleniowatych:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -2197,16 +1845,8 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_1/pkt_3",
-       "text": "są zabezpieczone przed ingerencją i powtórnym użyciem przez zniszczenie zapięcia na",
+       "text": "są zabezpieczone przed ingerencją i powtórnym użyciem przez zniszczenie zapięcia na opasce lub połączenia między częścią męską i częścią żeńską kolczyków przy ich rozdzielaniu.",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "opasce lub połączenia między częścią męską i częścią żeńską kolczyków przy ich"
-      },
-      {
-       "type": "text",
-       "text": "rozdzielaniu."
       }
      ]
     },
@@ -2214,77 +1854,29 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Siła rozciągająca, równoległa do osi połączenia części męskiej z częścią żeńską",
-     "children": [
-      {
-       "type": "text",
-       "text": "kolczyka oraz opaski na pęcinę, przy której działaniu dochodzi do zniszczenia połączenia"
-      },
-      {
-       "type": "text",
-       "text": "między tymi częściami lub połączenia opaski, powinna wynosić nie mniej niż 260 N."
-      }
-     ]
+     "text": "Siła rozciągająca, równoległa do osi połączenia części męskiej z częścią żeńską kolczyka oraz opaski na pęcinę, przy której działaniu dochodzi do zniszczenia połączenia między tymi częściami lub połączenia opaski, powinna wynosić nie mniej niż 260 N.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Stała odległość zapobiegająca martwicy ucha między wewnętrznymi ściankami",
-     "children": [
-      {
-       "type": "text",
-       "text": "połączonych części męskiej i części żeńskiej kolczyka i jego duplikatu powinna wynosić"
-      },
-      {
-       "type": "text",
-       "text": "od 8 do 12 mm."
-      }
-     ]
+     "text": "Stała odległość zapobiegająca martwicy ucha między wewnętrznymi ściankami połączonych części męskiej i części żeńskiej kolczyka i jego duplikatu powinna wynosić od 8 do 12 mm.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Męską część kolczyka wyposaża się w trzpień zakończony szpicem albo elementem",
-     "children": [
-      {
-       "type": "text",
-       "text": "tnącym pozwalającym na pobór fragmentu tkanki z małżowiny usznej zwierzęcia, przy czym"
-      },
-      {
-       "type": "text",
-       "text": "w przypadku gdy ten szpic albo element tnący jest wykonany z metalu lub stopu metali,"
-      },
-      {
-       "type": "text",
-       "text": "materiał ten powinien być odporny na korozję. W przypadku gdy zapięcie opaski na pęcinę jest"
-      },
-      {
-       "type": "text",
-       "text": "wykonane z metalu lub stopu metali, materiał ten powinien być odporny na korozję."
-      }
-     ]
+     "text": "Męską część kolczyka wyposaża się w trzpień zakończony szpicem albo elementem tnącym pozwalającym na pobór fragmentu tkanki z małżowiny usznej zwierzęcia, przy czym w przypadku gdy ten szpic albo element tnący jest wykonany z metalu lub stopu metali, materiał ten powinien być odporny na korozję. W przypadku gdy zapięcie opaski na pęcinę jest wykonane z metalu lub stopu metali, materiał ten powinien być odporny na korozję.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "5",
      "path": "ust_5",
-     "text": "Tworzywo i barwniki użyte do produkcji danego środka identyfikacji, jak również",
-     "children": [
-      {
-       "type": "text",
-       "text": "barwniki użyte do wykonania nadruku na tym środku identyfikacji powinny być dopuszczone"
-      },
-      {
-       "type": "text",
-       "text": "do kontaktu z żywnością i odporne na działanie czynników atmosferycznych, w tym na zmiany"
-      },
-      {
-       "type": "text",
-       "text": "temperatur w przedziale od -30 °C do +40 °C."
-      }
-     ]
+     "text": "Tworzywo i barwniki użyte do produkcji danego środka identyfikacji, jak również barwniki użyte do wykonania nadruku na tym środku identyfikacji powinny być dopuszczone do kontaktu z żywnością i odporne na działanie czynników atmosferycznych, w tym na zmiany temperatur w przedziale od -30 °C do +40 °C.",
+     "children": []
     }
    ]
   }

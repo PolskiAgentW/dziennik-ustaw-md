@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1103",
  "title": "Obwieszczenie Ministra Zdrowia z dnia 10 sierpnia 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1103/text.pdf",
  "body": [
   {
@@ -2457,15 +2457,7 @@
     },
     {
      "type": "text",
-     "text": "......................................................................................................................................................"
-    },
-    {
-     "type": "text",
-     "text": "w dziedzinie ................................................................................................................................."
-    },
-    {
-     "type": "text",
-     "text": "w sesji .........................................................................................................................................."
+     "text": "...................................................................................................................................................... w dziedzinie ................................................................................................................................. w sesji .........................................................................................................................................."
     },
     {
      "type": "ust",
@@ -2573,36 +2565,13 @@
        "type": "tir",
        "num": "4",
        "path": "ust_4/tir_4",
-       "text": "uwagi o przebiegu egzaminu (w tym informacja o ewentualnym opuszczeniu sali przez osobę",
-       "children": []
-      },
-      {
-       "type": "text",
-       "text": "zdającą w trybie § 17 ust. 2 rozporządzenia Ministra Zdrowia z dnia 13 czerwca 2017 r."
-      },
-      {
-       "type": "text",
-       "text": "w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U."
-      },
-      {
-       "type": "text",
-       "text": "z 2026 r. poz. 1103)):"
-      },
-      {
-       "type": "text",
-       "text": "……………………………………………………….….………………………………………"
-      },
-      {
-       "type": "text",
-       "text": "……………………………………………………….…………………….……………………"
-      },
-      {
-       "type": "text",
-       "text": "…………………………………………………………………………….…………………....."
-      },
-      {
-       "type": "text",
-       "text": "………………………………………………………….……………………………………....."
+       "text": "uwagi o przebiegu egzaminu (w tym informacja o ewentualnym opuszczeniu sali przez osobę zdającą w trybie § 17 ust. 2 rozporządzenia Ministra Zdrowia z dnia 13 czerwca 2017 r. w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. z 2026 r. poz. 1103)):",
+       "children": [
+        {
+         "type": "text",
+         "text": "……………………………………………………….….……………………………………… ……………………………………………………….…………………….…………………… …………………………………………………………………………….…………………..... ………………………………………………………….……………………………………....."
+        }
+       ]
       }
      ]
     },
@@ -2616,12 +2585,8 @@
        "type": "tir",
        "num": "1",
        "path": "ust_5/tir_1",
-       "text": "książeczki testowej numer ……………….. na ………………………………………........",
+       "text": "książeczki testowej numer ……………….. na ………………………………………........ ……………….. ………………….",
        "children": [
-        {
-         "type": "text",
-         "text": "……………….. …………………."
-        },
         {
          "type": "text",
          "text": "……………….. …………………."
@@ -2661,27 +2626,19 @@
       },
       {
        "type": "text",
-       "text": "wykorzystane ….......... (słownie ………….………………..………….……………….....)"
+       "text": "wykorzystane ….......... (słownie ………….………………..………….……………….....) niewykorzystane ……… (słownie …………….……………..……….……….……………) – karty testowe"
       },
       {
        "type": "text",
-       "text": "niewykorzystane ……… (słownie …………….……………..……….……….……………)"
+       "text": "wykorzystane ............ (słownie …………………………………………………………...) niewykorzystane .......... (słownie ………………………...….……………………………...)"
       },
       {
        "type": "text",
-       "text": "– karty testowe"
+       "text": "……………………. ……………………"
       },
       {
        "type": "text",
-       "text": "wykorzystane ............ (słownie …………………………………………………………...)"
-      },
-      {
-       "type": "text",
-       "text": "niewykorzystane .......... (słownie ………………………...….……………………………...)"
-      },
-      {
-       "type": "text",
-       "text": "……………………. …………………… (przekazujący) (przyjmujący) Podpisy przewodniczącego i członków zespołu egzaminacyjnego (stopień/tytuł** naukowy,"
+       "text": "(przekazujący) (przyjmujący) Podpisy przewodniczącego i członków zespołu egzaminacyjnego (stopień/tytuł** naukowy,"
       },
       {
        "type": "text",
@@ -2761,12 +2718,8 @@
          "type": "lit",
          "num": "b",
          "path": "ust_1/pkt_1/lit_b",
-         "text": "papier uczulony na działanie odczynników chemicznych (zabezpieczony",
+         "text": "papier uczulony na działanie odczynników chemicznych (zabezpieczony chemicznie),",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "chemicznie),"
         },
         {
          "type": "lit",
@@ -2779,27 +2732,15 @@
          "type": "lit",
          "num": "d",
          "path": "ust_1/pkt_1/lit_d",
-         "text": "włókna zabezpieczające widoczne w świetle widzialnym oraz aktywne",
+         "text": "włókna zabezpieczające widoczne w świetle widzialnym oraz aktywne w promieniowaniu ultrafioletowym,",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "w promieniowaniu ultrafioletowym,"
         },
         {
          "type": "lit",
          "num": "e",
          "path": "ust_1/pkt_1/lit_e",
-         "text": "losowo rozmieszczone drobiny niewidoczne w świetle widzialnym i wykazujące",
+         "text": "losowo rozmieszczone drobiny niewidoczne w świetle widzialnym i wykazujące luminescencję w promieniowaniu ultrafioletowym typu gwiezdny pył (gwieździste niebo);",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "luminescencję w promieniowaniu ultrafioletowym typu gwiezdny pył (gwieździste"
-        },
-        {
-         "type": "text",
-         "text": "niebo);"
         }
        ]
       },
@@ -2834,12 +2775,8 @@
          "type": "lit",
          "num": "d",
          "path": "ust_1/pkt_2/lit_d",
-         "text": "element graficzny wykonany farbą aktywną wyłącznie w promieniowaniu",
+         "text": "element graficzny wykonany farbą aktywną wyłącznie w promieniowaniu ultrafioletowym,",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "ultrafioletowym,"
         },
         {
          "type": "lit",
@@ -2856,25 +2793,15 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Blankiet wzoru dyplomu jest wykonany na podłożu papierowym w formacie",
-     "children": [
-      {
-       "type": "text",
-       "text": "jednostronnym A4."
-      }
-     ]
+     "text": "Blankiet wzoru dyplomu jest wykonany na podłożu papierowym w formacie jednostronnym A4.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Pozostałe zabezpieczenia: numeracja typograficzna wykonana farbą aktywną",
-     "children": [
-      {
-       "type": "text",
-       "text": "w promieniowaniu ultrafioletowym."
-      }
-     ]
+     "text": "Pozostałe zabezpieczenia: numeracja typograficzna wykonana farbą aktywną w promieniowaniu ultrafioletowym.",
+     "children": []
     }
    ]
   }

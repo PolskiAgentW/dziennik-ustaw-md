@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/919",
  "title": "Obwieszczenie Ministra Klimatu i Środowiska z dnia 12 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Klimatu i Środowiska w sprawie szczegółowych warunków funkcjonowania systemu elektroenergetycznego",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/919/text.pdf",
  "body": [
   {
@@ -7185,8 +7185,9 @@
      "text": "WYMAGANIA TECHNICZNE DLA PRZYŁĄCZANYCH DO SIECI URZĄDZEŃ, INSTALACJI I SIECI ORAZ WYMAGANIA TECHNICZNE DOTYCZĄCE FUNKCJONOWANIA SIECI ELEKTROENERGETYCZNYCH I ZAPEWNIANIA PRZEZ NIE BEZPIECZEŃSTWA PRACY KRAJOWEGO SYSTEMU ELEKTROENERGETYCZNEGO"
     },
     {
-     "type": "text",
-     "text": "CZĘŚĆ I. WYMAGANIA OGÓLNE"
+     "type": "heading",
+     "label": "CZĘŚĆ I",
+     "text": "WYMAGANIA OGÓLNE"
     },
     {
      "type": "ust",
@@ -8698,14 +8699,15 @@
         {
          "type": "text",
          "text": "4.8. Systemy telekomunikacyjne i teleinformatyczne powinny być odporne na awarie sieci elektroenergetycznej i zapewniać ciągłość pracy przez okres co najmniej 8 godz. po wystąpieniu takiej awarii dla wszystkich obiektów przyłączonych do sieci o napięciu znamionowym równym 110 kV lub wyższym, z wyjątkiem obiektów wskazanych w planie odbudowy opracowanym na podstawie art. 23 rozporządzenia 2017/2196, dla których wymagania określa § 43 ust. 14 niniejszego rozporządzenia."
-        },
-        {
-         "type": "text",
-         "text": "CZĘŚĆ II. WYMAGANIA TECHNICZNE DOTYCZĄCE MODUŁÓW WYTWARZANIA ENERGII"
         }
        ]
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "CZĘŚĆ II",
+     "text": "WYMAGANIA TECHNICZNE DOTYCZĄCE MODUŁÓW WYTWARZANIA ENERGII"
     },
     {
      "type": "ust",
@@ -8851,16 +8853,16 @@
          "num": "c",
          "path": "ust_5/pkt_2/lit_c",
          "text": "moduły wytwarzania energii muszą posiadać zdolność do podania napięcia na szyny rozdzielni sieciowej będące w stanie bez napięcia.",
-         "children": [
-          {
-           "type": "text",
-           "text": "CZĘŚĆ III. WYMAGANIA TECHNICZNE DLA MAGAZYNÓW ENERGII ELEKTRYCZNEJ, PRZYŁĄCZONYCH DO SIECI POPRZEZ UKŁADY ENERGOELEKTRONICZNE"
-          }
-         ]
+         "children": []
         }
        ]
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "CZĘŚĆ III",
+     "text": "WYMAGANIA TECHNICZNE DLA MAGAZYNÓW ENERGII ELEKTRYCZNEJ, PRZYŁĄCZONYCH DO SIECI POPRZEZ UKŁADY ENERGOELEKTRONICZNE"
     },
     {
      "type": "ust",

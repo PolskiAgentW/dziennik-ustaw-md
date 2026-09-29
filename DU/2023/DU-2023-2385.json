@@ -1,7 +1,7 @@
 {
  "eli": "DU/2023/2385",
  "title": "Rozporządzenie Ministra Infrastruktury z dnia 17 października 2023 r. w sprawie homologacji typu tramwajów i trolejbusów",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2023/2385/text.pdf",
  "body": [
   {
@@ -970,12 +970,8 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Zakres i sposób przeprowadzania badań homologacyjnych tramwaju lub",
+     "text": "Zakres i sposób przeprowadzania badań homologacyjnych tramwaju lub trolejbusu:",
      "children": [
-      {
-       "type": "text",
-       "text": "trolejbusu:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -986,39 +982,15 @@
          "type": "lit",
          "num": "a",
          "path": "ust_1/pkt_1/lit_a",
-         "text": "szczegółowe zapoznanie się przez służbę techniczną z dostarczoną przez",
+         "text": "szczegółowe zapoznanie się przez służbę techniczną z dostarczoną przez producenta dokumentacją techniczną dotyczącą typu tramwaju lub trolejbusu, a w przypadku typu trolejbusu dodatkowo sprawdzenie świadectwa homologacji typu UE/WE pojazdu albo świadectwa krajowej homologacji typu pojazdu, na bazie którego zbudowano trolejbus, wraz z załącznikami,",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "producenta dokumentacją techniczną dotyczącą typu tramwaju lub trolejbusu,"
-        },
-        {
-         "type": "text",
-         "text": "a w przypadku typu trolejbusu dodatkowo sprawdzenie świadectwa"
-        },
-        {
-         "type": "text",
-         "text": "homologacji typu UE/WE pojazdu albo świadectwa krajowej homologacji typu"
-        },
-        {
-         "type": "text",
-         "text": "pojazdu, na bazie którego zbudowano trolejbus, wraz z załącznikami,"
         },
         {
          "type": "lit",
          "num": "b",
          "path": "ust_1/pkt_1/lit_b",
-         "text": "szczegółowa analiza dokumentacji technicznej typu tramwaju albo typu",
+         "text": "szczegółowa analiza dokumentacji technicznej typu tramwaju albo typu trolejbusu pod kątem zgodności z przepisami technicznymi, o których mowa w § 3 rozporządzenia;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "trolejbusu pod kątem zgodności z przepisami technicznymi, o których mowa"
-        },
-        {
-         "type": "text",
-         "text": "w § 3 rozporządzenia;"
         }
        ]
       },
@@ -1032,54 +1004,22 @@
          "type": "lit",
          "num": "a",
          "path": "ust_1/pkt_2/lit_a",
-         "text": "sprawdzenie przez służbę techniczną, czy przedmioty wyposażenia lub części",
+         "text": "sprawdzenie przez służbę techniczną, czy przedmioty wyposażenia lub części tramwaju objęte procedurą homologacji typu są wykonane zgodnie z przepisami technicznymi, o których mowa w § 3 rozporządzenia, i posiadają odpowiednie świadectwa homologacji typu,",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "tramwaju objęte procedurą homologacji typu są wykonane zgodnie"
-        },
-        {
-         "type": "text",
-         "text": "z przepisami technicznymi, o których mowa w § 3 rozporządzenia, i posiadają"
-        },
-        {
-         "type": "text",
-         "text": "odpowiednie świadectwa homologacji typu,"
         },
         {
          "type": "lit",
          "num": "b",
          "path": "ust_1/pkt_2/lit_b",
-         "text": "sprawdzenie przez służbę techniczną, czy przedstawiony do badań",
+         "text": "sprawdzenie przez służbę techniczną, czy przedstawiony do badań homologacyjnych tramwaj albo trolejbus spełnia warunki techniczne, o których mowa w § 3 rozporządzenia,",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "homologacyjnych tramwaj albo trolejbus spełnia warunki techniczne, o których"
-        },
-        {
-         "type": "text",
-         "text": "mowa w § 3 rozporządzenia,"
         },
         {
          "type": "lit",
          "num": "c",
          "path": "ust_1/pkt_2/lit_c",
-         "text": "po przeprowadzeniu badań homologacyjnych sporządzenie przez służbę",
+         "text": "po przeprowadzeniu badań homologacyjnych sporządzenie przez służbę techniczną, w trzech egzemplarzach, sprawozdania z badań homologacyjnych, z czego jeden egzemplarz służba techniczna przechowuje w prowadzonej przez siebie dokumentacji, a dwa egzemplarze wydaje producentowi.",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "techniczną, w trzech egzemplarzach, sprawozdania z badań homologacyjnych,"
-        },
-        {
-         "type": "text",
-         "text": "z czego jeden egzemplarz służba techniczna przechowuje w prowadzonej przez"
-        },
-        {
-         "type": "text",
-         "text": "siebie dokumentacji, a dwa egzemplarze wydaje producentowi."
         }
        ]
       }
@@ -1114,352 +1054,351 @@
            "type": "tir",
            "num": "2",
            "path": "ust_2/pkt_1/lit_a/tir_2",
-           "text": "pomiar nacisków statycznych wywieranych na tor przez poszczególne osie",
+           "text": "pomiar nacisków statycznych wywieranych na tor przez poszczególne osie w pełni obciążonego tramwaju,",
            "children": []
           },
           {
-           "type": "text",
-           "text": "w pełni obciążonego tramwaju,"
+           "type": "tir",
+           "num": "3",
+           "path": "ust_2/pkt_1/lit_a/tir_3",
+           "text": "pomiar poziomu dźwięku emitowanego na zewnątrz tramwaju na postoju,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– pomiar poziomu dźwięku emitowanego na zewnątrz tramwaju na postoju,"
+           "type": "tir",
+           "num": "4",
+           "path": "ust_2/pkt_1/lit_a/tir_4",
+           "text": "pomiar poziomu dźwięku emitowanego na zewnątrz tramwaju w ruchu,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– pomiar poziomu dźwięku emitowanego na zewnątrz tramwaju w ruchu,"
+           "type": "tir",
+           "num": "5",
+           "path": "ust_2/pkt_1/lit_a/tir_5",
+           "text": "pomiar poziomu dźwięku sygnału ostrzegawczego,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– pomiar poziomu dźwięku sygnału ostrzegawczego,"
+           "type": "tir",
+           "num": "6",
+           "path": "ust_2/pkt_1/lit_a/tir_6",
+           "text": "pomiar natężenia oświetlenia wewnątrz tramwaju, w drzwiach i w przestrzeni przed drzwiami,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– pomiar natężenia oświetlenia wewnątrz tramwaju, w drzwiach i w przestrzeni"
+           "type": "tir",
+           "num": "7",
+           "path": "ust_2/pkt_1/lit_a/tir_7",
+           "text": "pomiar długości drogi hamowania z prędkości 30 km/h dla hamulców: roboczego, nagłego, awaryjnego i bezpieczeństwa,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "przed drzwiami,"
+           "type": "tir",
+           "num": "8",
+           "path": "ust_2/pkt_1/lit_a/tir_8",
+           "text": "próbę skuteczności działania hamulca postojowego,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– pomiar długości drogi hamowania z prędkości 30 km/h dla hamulców:"
+           "type": "tir",
+           "num": "9",
+           "path": "ust_2/pkt_1/lit_a/tir_9",
+           "text": "sprawdzenie w tramwaju doczepnym układu włączającego hamulce w przypadku odłączenia się tego tramwaju od składu,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "roboczego, nagłego, awaryjnego i bezpieczeństwa,"
+           "type": "tir",
+           "num": "10",
+           "path": "ust_2/pkt_1/lit_a/tir_10",
+           "text": "sprawdzenie funkcjonalności i działania pulpitu manewrowego do jazdy do tyłu, o ile dotyczy,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– próbę skuteczności działania hamulca postojowego,"
+           "type": "tir",
+           "num": "11",
+           "path": "ust_2/pkt_1/lit_a/tir_11",
+           "text": "sprawdzenie działania i skuteczności dostępnych hamulców przy jeździe do tyłu,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie w tramwaju doczepnym układu włączającego hamulce"
+           "type": "tir",
+           "num": "12",
+           "path": "ust_2/pkt_1/lit_a/tir_12",
+           "text": "sprawdzenie możliwości uruchomienia przynajmniej hamulca awaryjnego i postojowego niezależnie od sterownika elektronicznego,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "w przypadku odłączenia się tego tramwaju od składu,"
+           "type": "tir",
+           "num": "13",
+           "path": "ust_2/pkt_1/lit_a/tir_13",
+           "text": "sprawdzenie wyposażenia w urządzenie poprawiające współczynnik przyczepności między kołem i szyną,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie funkcjonalności i działania pulpitu manewrowego do jazdy"
+           "type": "tir",
+           "num": "14",
+           "path": "ust_2/pkt_1/lit_a/tir_14",
+           "text": "pomiar rozmieszczenia świateł zewnętrznych na tramwaju,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "do tyłu, o ile dotyczy,"
+           "type": "tir",
+           "num": "15",
+           "path": "ust_2/pkt_1/lit_a/tir_15",
+           "text": "sprawdzenie wyposażenia w światła zewnętrzne, ich działania, połączeń elektrycznych oraz kontrolek,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie działania i skuteczności dostępnych hamulców przy jeździe"
+           "type": "tir",
+           "num": "16",
+           "path": "ust_2/pkt_1/lit_a/tir_16",
+           "text": "sprawdzenie działania blokady ruszenia z otwartymi drzwiami,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "do tyłu,"
+           "type": "tir",
+           "num": "17",
+           "path": "ust_2/pkt_1/lit_a/tir_17",
+           "text": "sprawdzenie działania czuwaka,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie możliwości uruchomienia przynajmniej hamulca awaryjnego"
+           "type": "tir",
+           "num": "18",
+           "path": "ust_2/pkt_1/lit_a/tir_18",
+           "text": "sprawdzenie możliwości jazdy do tyłu,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "i postojowego niezależnie od sterownika elektronicznego,"
+           "type": "tir",
+           "num": "19",
+           "path": "ust_2/pkt_1/lit_a/tir_19",
+           "text": "sprawdzenie zabezpieczenia instalacji elektrycznej przed dostępem pasażerów i osób postronnych,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie wyposażenia w urządzenie poprawiające współczynnik"
+           "type": "tir",
+           "num": "20",
+           "path": "ust_2/pkt_1/lit_a/tir_20",
+           "text": "sprawdzenie zabezpieczenia instalacji elektrycznej przed uszkodzeniami mechanicznymi, korozją i zalaniem,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "przyczepności między kołem i szyną,"
+           "type": "tir",
+           "num": "21",
+           "path": "ust_2/pkt_1/lit_a/tir_21",
+           "text": "sprawdzenie dostępu do wyłącznika instalacji elektrycznej niskiego napięcia,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– pomiar rozmieszczenia świateł zewnętrznych na tramwaju,"
+           "type": "tir",
+           "num": "22",
+           "path": "ust_2/pkt_1/lit_a/tir_22",
+           "text": "sprawdzenie wyposażenia instalacji elektrycznej w zabezpieczenie w razie wystąpienia zwarcia,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie wyposażenia w światła zewnętrzne, ich działania, połączeń"
+           "type": "tir",
+           "num": "23",
+           "path": "ust_2/pkt_1/lit_a/tir_23",
+           "text": "sprawdzenie działania hamulców w awaryjnych stanach pracy sieci trakcyjnej,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "elektrycznych oraz kontrolek,"
+           "type": "tir",
+           "num": "24",
+           "path": "ust_2/pkt_1/lit_a/tir_24",
+           "text": "wykonanie pomiarów rezystancji i testów wytrzymałości izolacji dielektrycznej okablowania,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie działania blokady ruszenia z otwartymi drzwiami,"
+           "type": "tir",
+           "num": "25",
+           "path": "ust_2/pkt_1/lit_a/tir_25",
+           "text": "wykonanie pomiarów rezystancji i testów wytrzymałości izolacji dielektrycznej aparatury,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie działania czuwaka,"
+           "type": "tir",
+           "num": "26",
+           "path": "ust_2/pkt_1/lit_a/tir_26",
+           "text": "sprawdzenie połączeń ochronnych pomiędzy masą elektryczną nadwozia tramwaju a siecią szynową oraz pomiar rezystancji tych połączeń,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie możliwości jazdy do tyłu,"
+           "type": "tir",
+           "num": "27",
+           "path": "ust_2/pkt_1/lit_a/tir_27",
+           "text": "sprawdzenie połączeń mas elektrycznych pudeł poszczególnych członów w tramwajach wieloczłonowych oraz możliwości połączenia mas elektrycznych tramwajów przewidzianych do pracy w zespołach,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie zabezpieczenia instalacji elektrycznej przed dostępem"
+           "type": "tir",
+           "num": "28",
+           "path": "ust_2/pkt_1/lit_a/tir_28",
+           "text": "pomiar rezystancji między odsłoniętymi elementami wykonanymi z materiałów przewodzących we wnętrzu a siecią ochronną powrotną lub konstrukcją tramwaju,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "pasażerów i osób postronnych,"
+           "type": "tir",
+           "num": "29",
+           "path": "ust_2/pkt_1/lit_a/tir_29",
+           "text": "sprawdzenie działania uzależnień w tramwajach z instalacją elektryczną z elementami pojemnościowymi lub innymi źródłami energii oraz w tramwajach wyposażonych w układ jazdy autonomicznej,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie zabezpieczenia instalacji elektrycznej przed uszkodzeniami"
+           "type": "tir",
+           "num": "30",
+           "path": "ust_2/pkt_1/lit_a/tir_30",
+           "text": "pomiar napięcia po stronie zasilania (na odbieraku) w czasie rzeczywistej jazdy po sieci miejskiej – dla tramwajów przystosowanych do zwrotu energii do sieci trakcyjnej,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "mechanicznymi, korozją i zalaniem,"
+           "type": "tir",
+           "num": "31",
+           "path": "ust_2/pkt_1/lit_a/tir_31",
+           "text": "jazdę próbną,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie dostępu do wyłącznika instalacji elektrycznej niskiego"
+           "type": "tir",
+           "num": "32",
+           "path": "ust_2/pkt_1/lit_a/tir_32",
+           "text": "sprawdzenie wymaganego wyposażenia tramwaju,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "napięcia,"
+           "type": "tir",
+           "num": "33",
+           "path": "ust_2/pkt_1/lit_a/tir_33",
+           "text": "w tramwajach przewidzianych do pracy w zespołach – sprawdzenie osłony sprzęgów międzywagonowych,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie wyposażenia instalacji elektrycznej w zabezpieczenie w razie"
+           "type": "tir",
+           "num": "34",
+           "path": "ust_2/pkt_1/lit_a/tir_34",
+           "text": "sprawdzenie wyposażenia stanowiska kierującego,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "wystąpienia zwarcia,"
+           "type": "tir",
+           "num": "35",
+           "path": "ust_2/pkt_1/lit_a/tir_35",
+           "text": "sprawdzenie wyposażenia przedziału pasażerskiego,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie działania hamulców w awaryjnych stanach pracy sieci"
+           "type": "tir",
+           "num": "36",
+           "path": "ust_2/pkt_1/lit_a/tir_36",
+           "text": "sprawdzenie oznakowania krawędzi stopni,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "trakcyjnej,"
+           "type": "tir",
+           "num": "37",
+           "path": "ust_2/pkt_1/lit_a/tir_37",
+           "text": "sprawdzenie liczby drzwi, ich rozmieszczenia, pomiar długości przestrzeni pasażerskiej jednostronnie zamkniętej, pomiar szerokości przejścia, sprawdzenie wymaganej liczby strumieni wymiany pasażerów,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– wykonanie pomiarów rezystancji i testów wytrzymałości izolacji"
+           "type": "tir",
+           "num": "38",
+           "path": "ust_2/pkt_1/lit_a/tir_38",
+           "text": "sprawdzenie przystosowania przynajmniej jednych drzwi do potrzeb osób niepełnosprawnych,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "dielektrycznej okablowania,"
+           "type": "tir",
+           "num": "39",
+           "path": "ust_2/pkt_1/lit_a/tir_39",
+           "text": "sprawdzenie w drzwiach wejściowych działania systemów zabezpieczających przed przytrzaśnięciem pasażera, mechanicznego otwierania i zamykania, awaryjnego otwierania, indywidualnego otwierania, przycisków dla niepełnosprawnych, sygnału ostrzegawczego,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– wykonanie pomiarów rezystancji i testów wytrzymałości izolacji"
+           "type": "tir",
+           "num": "40",
+           "path": "ust_2/pkt_1/lit_a/tir_40",
+           "text": "pomiar siły potrzebnej do awaryjnego otwarcia drzwi,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "dielektrycznej aparatury,"
+           "type": "tir",
+           "num": "41",
+           "path": "ust_2/pkt_1/lit_a/tir_41",
+           "text": "pomiar siły potrzebnej do uruchomienia mechanizmu dźwigniowego włączającego hamulce bezpieczeństwa,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie połączeń ochronnych pomiędzy masą elektryczną nadwozia"
+           "type": "tir",
+           "num": "42",
+           "path": "ust_2/pkt_1/lit_a/tir_42",
+           "text": "pomiar siły przytrzaśnięcia pasażera w drzwiach,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "tramwaju a siecią szynową oraz pomiar rezystancji tych połączeń,"
+           "type": "tir",
+           "num": "43",
+           "path": "ust_2/pkt_1/lit_a/tir_43",
+           "text": "sprawdzenie sposobu otwierania okien oraz wykonania okien przednich i tylnych,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie połączeń mas elektrycznych pudeł poszczególnych członów"
+           "type": "tir",
+           "num": "44",
+           "path": "ust_2/pkt_1/lit_a/tir_44",
+           "text": "sprawdzenie ocechowania szyb,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "w tramwajach wieloczłonowych oraz możliwości połączenia mas"
+           "type": "tir",
+           "num": "45",
+           "path": "ust_2/pkt_1/lit_a/tir_45",
+           "text": "pomiar współczynnika przepuszczalności światła w szybach przednich,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "elektrycznych tramwajów przewidzianych do pracy w zespołach,"
+           "type": "tir",
+           "num": "46",
+           "path": "ust_2/pkt_1/lit_a/tir_46",
+           "text": "sprawdzenie wykonania, liczby i sposobu oznakowania wyjść awaryjnych oraz kontrolę dostępu do nich za pomocą odpowiedniego szablonu,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– pomiar rezystancji między odsłoniętymi elementami wykonanymi"
+           "type": "tir",
+           "num": "47",
+           "path": "ust_2/pkt_1/lit_a/tir_47",
+           "text": "kontrolę rozmieszczenia poręczy i uchwytów za pomocą odpowiedniego sprawdzianu,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "z materiałów przewodzących we wnętrzu a siecią ochronną powrotną lub"
+           "type": "tir",
+           "num": "48",
+           "path": "ust_2/pkt_1/lit_a/tir_48",
+           "text": "pomiar wymiarów szczelin w podłodze w rejonie przegubu,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "konstrukcją tramwaju,"
+           "type": "tir",
+           "num": "49",
+           "path": "ust_2/pkt_1/lit_a/tir_49",
+           "text": "sprawdzenie osłon w rejonie przegubu,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie działania uzależnień w tramwajach z instalacją elektryczną"
+           "type": "tir",
+           "num": "50",
+           "path": "ust_2/pkt_1/lit_a/tir_50",
+           "text": "pomiar zaburzeń elektromagnetycznych promieniowanych do otoczenia,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "z elementami pojemnościowymi lub innymi źródłami energii oraz"
-          },
-          {
-           "type": "text",
-           "text": "w tramwajach wyposażonych w układ jazdy autonomicznej,"
-          },
-          {
-           "type": "text",
-           "text": "– pomiar napięcia po stronie zasilania (na odbieraku) w czasie rzeczywistej"
-          },
-          {
-           "type": "text",
-           "text": "jazdy po sieci miejskiej – dla tramwajów przystosowanych do zwrotu"
-          },
-          {
-           "type": "text",
-           "text": "energii do sieci trakcyjnej,"
-          },
-          {
-           "type": "text",
-           "text": "– jazdę próbną,"
-          },
-          {
-           "type": "text",
-           "text": "– sprawdzenie wymaganego wyposażenia tramwaju,"
-          },
-          {
-           "type": "text",
-           "text": "– w tramwajach przewidzianych do pracy w zespołach – sprawdzenie osłony"
-          },
-          {
-           "type": "text",
-           "text": "sprzęgów międzywagonowych,"
-          },
-          {
-           "type": "text",
-           "text": "– sprawdzenie wyposażenia stanowiska kierującego,"
-          },
-          {
-           "type": "text",
-           "text": "– sprawdzenie wyposażenia przedziału pasażerskiego,"
-          },
-          {
-           "type": "text",
-           "text": "– sprawdzenie oznakowania krawędzi stopni,"
-          },
-          {
-           "type": "text",
-           "text": "– sprawdzenie liczby drzwi, ich rozmieszczenia, pomiar długości przestrzeni"
-          },
-          {
-           "type": "text",
-           "text": "pasażerskiej jednostronnie zamkniętej, pomiar szerokości przejścia,"
-          },
-          {
-           "type": "text",
-           "text": "sprawdzenie wymaganej liczby strumieni wymiany pasażerów,"
-          },
-          {
-           "type": "text",
-           "text": "– sprawdzenie przystosowania przynajmniej jednych drzwi do potrzeb osób"
-          },
-          {
-           "type": "text",
-           "text": "niepełnosprawnych,"
-          },
-          {
-           "type": "text",
-           "text": "– sprawdzenie w drzwiach wejściowych działania systemów"
-          },
-          {
-           "type": "text",
-           "text": "zabezpieczających przed przytrzaśnięciem pasażera, mechanicznego"
-          },
-          {
-           "type": "text",
-           "text": "otwierania i zamykania, awaryjnego otwierania, indywidualnego"
-          },
-          {
-           "type": "text",
-           "text": "otwierania, przycisków dla niepełnosprawnych, sygnału ostrzegawczego,"
-          },
-          {
-           "type": "text",
-           "text": "– pomiar siły potrzebnej do awaryjnego otwarcia drzwi,"
-          },
-          {
-           "type": "text",
-           "text": "– pomiar siły potrzebnej do uruchomienia mechanizmu dźwigniowego"
-          },
-          {
-           "type": "text",
-           "text": "włączającego hamulce bezpieczeństwa,"
-          },
-          {
-           "type": "text",
-           "text": "– pomiar siły przytrzaśnięcia pasażera w drzwiach,"
-          },
-          {
-           "type": "text",
-           "text": "– sprawdzenie sposobu otwierania okien oraz wykonania okien przednich"
-          },
-          {
-           "type": "text",
-           "text": "i tylnych,"
-          },
-          {
-           "type": "text",
-           "text": "– sprawdzenie ocechowania szyb,"
-          },
-          {
-           "type": "text",
-           "text": "– pomiar współczynnika przepuszczalności światła w szybach przednich,"
-          },
-          {
-           "type": "text",
-           "text": "– sprawdzenie wykonania, liczby i sposobu oznakowania wyjść awaryjnych"
-          },
-          {
-           "type": "text",
-           "text": "oraz kontrolę dostępu do nich za pomocą odpowiedniego szablonu,"
-          },
-          {
-           "type": "text",
-           "text": "– kontrolę rozmieszczenia poręczy i uchwytów za pomocą odpowiedniego"
-          },
-          {
-           "type": "text",
-           "text": "sprawdzianu,"
-          },
-          {
-           "type": "text",
-           "text": "– pomiar wymiarów szczelin w podłodze w rejonie przegubu,"
-          },
-          {
-           "type": "text",
-           "text": "– sprawdzenie osłon w rejonie przegubu,"
-          },
-          {
-           "type": "text",
-           "text": "– pomiar zaburzeń elektromagnetycznych promieniowanych do otoczenia,"
-          },
-          {
-           "type": "text",
-           "text": "– sprawdzenie, po wykonaniu jazd próbnych, czy nie występują wycieki"
-          },
-          {
-           "type": "text",
-           "text": "materiałów eksploatacyjnych,"
+           "type": "tir",
+           "num": "51",
+           "path": "ust_2/pkt_1/lit_a/tir_51",
+           "text": "sprawdzenie, po wykonaniu jazd próbnych, czy nie występują wycieki materiałów eksploatacyjnych,",
+           "children": []
           }
          ]
         },
@@ -1473,100 +1412,106 @@
            "type": "tir",
            "num": "1",
            "path": "ust_2/pkt_1/lit_b/tir_1",
-           "text": "dokumentu informacyjnego stosowanego w procedurze krajowej",
+           "text": "dokumentu informacyjnego stosowanego w procedurze krajowej homologacji typu tramwaju zgodnie z załącznikiem nr 6 do rozporządzenia,",
            "children": []
           },
           {
-           "type": "text",
-           "text": "homologacji typu tramwaju zgodnie z załącznikiem nr 6 do rozporządzenia,"
+           "type": "tir",
+           "num": "2",
+           "path": "ust_2/pkt_1/lit_b/tir_2",
+           "text": "dokumentacji techniczno-ruchowej tramwaju, zawierającej również graniczne wielkości zużycia poszczególnych elementów,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– dokumentacji techniczno-ruchowej tramwaju, zawierającej również"
+           "type": "tir",
+           "num": "3",
+           "path": "ust_2/pkt_1/lit_b/tir_3",
+           "text": "instrukcji obsługi tramwaju,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "graniczne wielkości zużycia poszczególnych elementów,"
+           "type": "tir",
+           "num": "4",
+           "path": "ust_2/pkt_1/lit_b/tir_4",
+           "text": "instrukcji podnoszenia i wkolejania tramwaju,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– instrukcji obsługi tramwaju,"
+           "type": "tir",
+           "num": "5",
+           "path": "ust_2/pkt_1/lit_b/tir_5",
+           "text": "świadectw potwierdzających bezpieczeństwo przeciwpożarowe na zgodność z normą PN-K-02511:2000 lub PN-EN 45545-2:2021-01 dla materiałów niemetalowych użytych we wnętrzu tramwaju,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– instrukcji podnoszenia i wkolejania tramwaju,"
+           "type": "tir",
+           "num": "6",
+           "path": "ust_2/pkt_1/lit_b/tir_6",
+           "text": "świadectw potwierdzających wykonanie przewodów elektrycznych we wnętrzu z materiałów wolnych od halogenów,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– świadectw potwierdzających bezpieczeństwo przeciwpożarowe na"
+           "type": "tir",
+           "num": "7",
+           "path": "ust_2/pkt_1/lit_b/tir_7",
+           "text": "obliczeń skrajni kinematycznej tramwaju,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "zgodność z normą PN-K-02511:2000 lub PN-EN 45545-2:2021-01 dla"
+           "type": "tir",
+           "num": "8",
+           "path": "ust_2/pkt_1/lit_b/tir_8",
+           "text": "świadectw homologacji dla zastosowanych świateł zewnętrznych,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "materiałów niemetalowych użytych we wnętrzu tramwaju,"
+           "type": "tir",
+           "num": "9",
+           "path": "ust_2/pkt_1/lit_b/tir_9",
+           "text": "świadectw homologacji zastosowanego oszklenia,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– świadectw potwierdzających wykonanie przewodów elektrycznych we"
+           "type": "tir",
+           "num": "10",
+           "path": "ust_2/pkt_1/lit_b/tir_10",
+           "text": "schematów połączeń ochronnych pomiędzy masą elektryczną nadwozia tramwaju a siecią szynową,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "wnętrzu z materiałów wolnych od halogenów,"
+           "type": "tir",
+           "num": "11",
+           "path": "ust_2/pkt_1/lit_b/tir_11",
+           "text": "opisu działania układu czuwaka,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– obliczeń skrajni kinematycznej tramwaju,"
+           "type": "tir",
+           "num": "12",
+           "path": "ust_2/pkt_1/lit_b/tir_12",
+           "text": "opisu działania układu blokady jazdy,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– świadectw homologacji dla zastosowanych świateł zewnętrznych,"
+           "type": "tir",
+           "num": "13",
+           "path": "ust_2/pkt_1/lit_b/tir_13",
+           "text": "opisu działania mechanizmów drzwiowych i zastosowanych zabezpieczeń przed przytrzaśnięciem pasażera,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– świadectw homologacji zastosowanego oszklenia,"
+           "type": "tir",
+           "num": "14",
+           "path": "ust_2/pkt_1/lit_b/tir_14",
+           "text": "protokołów z prób wytrzymałości izolacji podzespołów elektrycznych przeprowadzanych przez producentów tych podzespołów,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– schematów połączeń ochronnych pomiędzy masą elektryczną nadwozia"
-          },
-          {
-           "type": "text",
-           "text": "tramwaju a siecią szynową,"
-          },
-          {
-           "type": "text",
-           "text": "– opisu działania układu czuwaka,"
-          },
-          {
-           "type": "text",
-           "text": "– opisu działania układu blokady jazdy,"
-          },
-          {
-           "type": "text",
-           "text": "– opisu działania mechanizmów drzwiowych i zastosowanych zabezpieczeń"
-          },
-          {
-           "type": "text",
-           "text": "przed przytrzaśnięciem pasażera,"
-          },
-          {
-           "type": "text",
-           "text": "– protokołów z prób wytrzymałości izolacji podzespołów elektrycznych"
-          },
-          {
-           "type": "text",
-           "text": "przeprowadzanych przez producentów tych podzespołów,"
-          },
-          {
-           "type": "text",
-           "text": "– dokumentów potwierdzających zdolność producenta do zapewnienia"
-          },
-          {
-           "type": "text",
-           "text": "wytwarzania kolejnych tramwajów zgodnych z typem homologowanym;"
+           "type": "tir",
+           "num": "15",
+           "path": "ust_2/pkt_1/lit_b/tir_15",
+           "text": "dokumentów potwierdzających zdolność producenta do zapewnienia wytwarzania kolejnych tramwajów zgodnych z typem homologowanym;",
+           "children": []
           }
          ]
         }
@@ -1595,240 +1540,190 @@
            "type": "tir",
            "num": "2",
            "path": "ust_2/pkt_2/lit_a/tir_2",
-           "text": "sprawdzenie i pomiary wyizolowania dielektrycznego poręczy i podłogi",
+           "text": "sprawdzenie i pomiary wyizolowania dielektrycznego poręczy i podłogi w obszarze drzwi wejściowych,",
            "children": []
           },
           {
-           "type": "text",
-           "text": "w obszarze drzwi wejściowych,"
+           "type": "tir",
+           "num": "3",
+           "path": "ust_2/pkt_2/lit_a/tir_3",
+           "text": "sprawdzenie zastosowanych zabezpieczeń części czynnych będących pod napięciem oraz części, na których może wystąpić niebezpieczne napięcie w sytuacji awarii izolacji podstawowej, przed dostępem do nich pasażerów, osób postronnych i kierowcy,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie zastosowanych zabezpieczeń części czynnych będących pod"
+           "type": "tir",
+           "num": "4",
+           "path": "ust_2/pkt_2/lit_a/tir_4",
+           "text": "sprawdzenie zabezpieczenia instalacji elektrycznej przed uszkodzeniem mechanicznym, korozją i zalaniem,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "napięciem oraz części, na których może wystąpić niebezpieczne napięcie"
+           "type": "tir",
+           "num": "5",
+           "path": "ust_2/pkt_2/lit_a/tir_5",
+           "text": "sprawdzenie zastosowanego sposobu wyłączenia instalacji sterującej niskiego napięcia,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "w sytuacji awarii izolacji podstawowej, przed dostępem do nich pasażerów,"
+           "type": "tir",
+           "num": "6",
+           "path": "ust_2/pkt_2/lit_a/tir_6",
+           "text": "sprawdzenie funkcjonowania awaryjnego odłączania instalacji elektrycznej sieciowej od obwodu odbieraków prądu,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "osób postronnych i kierowcy,"
+           "type": "tir",
+           "num": "7",
+           "path": "ust_2/pkt_2/lit_a/tir_7",
+           "text": "testy izolacji dielektrycznej urządzeń zasilanych napięciem sieciowym,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie zabezpieczenia instalacji elektrycznej przed uszkodzeniem"
+           "type": "tir",
+           "num": "8",
+           "path": "ust_2/pkt_2/lit_a/tir_8",
+           "text": "testy izolacji dielektrycznej urządzeń zasilanych napięciem pomocniczym trójfazowym 400 V i separowanym 24 V,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "mechanicznym, korozją i zalaniem,"
+           "type": "tir",
+           "num": "9",
+           "path": "ust_2/pkt_2/lit_a/tir_9",
+           "text": "sprawdzenie zastosowanych zabezpieczeń nadmiarowych w instalacji sieciowej, autonomicznej, o ile taka występuje, pomocniczej trójfazowej 400 V i separowanej 24 V,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie zastosowanego sposobu wyłączenia instalacji sterującej"
+           "type": "tir",
+           "num": "10",
+           "path": "ust_2/pkt_2/lit_a/tir_10",
+           "text": "sprawdzenie działania sygnalizacji występowania niebezpiecznego napięcia na karoserii,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "niskiego napięcia,"
+           "type": "tir",
+           "num": "11",
+           "path": "ust_2/pkt_2/lit_a/tir_11",
+           "text": "sprawdzenie działania funkcji odłączającej automatycznie instalację sieciową trolejbusu od obwodu odbieraków prądu lub od sieci trakcyjnej w przypadku wykrycia występowania niebezpiecznego napięcia na karoserii dla sytuacji, gdy drzwi wejściowe pozostają otwarte,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie funkcjonowania awaryjnego odłączania instalacji elektrycznej"
+           "type": "tir",
+           "num": "12",
+           "path": "ust_2/pkt_2/lit_a/tir_12",
+           "text": "sprawdzenie działania sygnalizacji zaniku napięcia w sieci trakcyjnej lub w autonomicznym źródle zasilania, o ile takie źródło występuje,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "sieciowej od obwodu odbieraków prądu,"
+           "type": "tir",
+           "num": "13",
+           "path": "ust_2/pkt_2/lit_a/tir_13",
+           "text": "sprawdzenie funkcjonowania uzależnień jazda sieciowa – jazda autonomiczna, dla trolejbusu z układem jazdy autonomicznej,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– testy izolacji dielektrycznej urządzeń zasilanych napięciem sieciowym,"
+           "type": "tir",
+           "num": "14",
+           "path": "ust_2/pkt_2/lit_a/tir_14",
+           "text": "sprawdzenie działania awaryjnego podtrzymania pracy pompy wspomagania układu kierowniczego w sytuacji wystąpienia zaniku napięcia w sieci trakcyjnej,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– testy izolacji dielektrycznej urządzeń zasilanych napięciem pomocniczym"
+           "type": "tir",
+           "num": "15",
+           "path": "ust_2/pkt_2/lit_a/tir_15",
+           "text": "pomiary opóźnienia hamowania hamulcem roboczym elektrodynamicznym z 30 km/h,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "trójfazowym 400 V i separowanym 24 V,"
+           "type": "tir",
+           "num": "16",
+           "path": "ust_2/pkt_2/lit_a/tir_16",
+           "text": "sprawdzenie funkcjonowania hamulca elektrodynamicznego w pełnym zakresie prędkości jazdy,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie zastosowanych zabezpieczeń nadmiarowych w instalacji"
+           "type": "tir",
+           "num": "17",
+           "path": "ust_2/pkt_2/lit_a/tir_17",
+           "text": "sprawdzenie funkcjonowania priorytetu hamulca elektrodynamicznego roboczego nad rozruchem,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "sieciowej, autonomicznej, o ile taka występuje, pomocniczej trójfazowej"
+           "type": "tir",
+           "num": "18",
+           "path": "ust_2/pkt_2/lit_a/tir_18",
+           "text": "sprawdzenie funkcjonowania napędu podczas jazdy z zasilaniem z sieci trakcyjnej,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "400 V i separowanej 24 V,"
+           "type": "tir",
+           "num": "19",
+           "path": "ust_2/pkt_2/lit_a/tir_19",
+           "text": "sprawdzenie funkcjonowania napędu podczas jazdy z zasilaniem z autonomicznego źródła energii, o ile taki układ występuje,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie działania sygnalizacji występowania niebezpiecznego"
+           "type": "tir",
+           "num": "20",
+           "path": "ust_2/pkt_2/lit_a/tir_20",
+           "text": "pomiary poziomów napięć w obwodzie odbieraków prądu podczas hamowania elektrodynamicznego,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "napięcia na karoserii,"
+           "type": "tir",
+           "num": "21",
+           "path": "ust_2/pkt_2/lit_a/tir_21",
+           "text": "pomiary napięć na elementach zamontowanych na dachu o stopniu ochrony mniejszym niż IP2X po odłączeniu odbieraków od sieci,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie działania funkcji odłączającej automatycznie instalację"
+           "type": "tir",
+           "num": "22",
+           "path": "ust_2/pkt_2/lit_a/tir_22",
+           "text": "pomiary zaburzeń elektromagnetycznych emitowanych do otoczenia przez trolejbus na postoju i w ruchu,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "sieciową trolejbusu od obwodu odbieraków prądu lub od sieci trakcyjnej"
+           "type": "tir",
+           "num": "23",
+           "path": "ust_2/pkt_2/lit_a/tir_23",
+           "text": "sprawdzenie warunków zabudowy i wentylacji baterii trakcyjnej, o ile taka bateria występuje,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "w przypadku wykrycia występowania niebezpiecznego napięcia na"
+           "type": "tir",
+           "num": "24",
+           "path": "ust_2/pkt_2/lit_a/tir_24",
+           "text": "sprawdzenie funkcjonowania uzależnienia powodującego automatyczne odłączenie autonomicznego źródła zasilania od instalacji elektrycznej w sytuacji wyłączenia instalacji elektrycznej niskiego napięcia,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "karoserii dla sytuacji, gdy drzwi wejściowe pozostają otwarte,"
+           "type": "tir",
+           "num": "25",
+           "path": "ust_2/pkt_2/lit_a/tir_25",
+           "text": "pomiary nacisku statycznego odbieraków prądu na sieć trakcyjną,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie działania sygnalizacji zaniku napięcia w sieci trakcyjnej lub"
+           "type": "tir",
+           "num": "26",
+           "path": "ust_2/pkt_2/lit_a/tir_26",
+           "text": "sprawdzenie swobody poruszania się trolejbusu w granicach (+4,5 m, –4,5 m) od osi podłużnej symetrii sieci trakcyjnej,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "w autonomicznym źródle zasilania, o ile takie źródło występuje,"
+           "type": "tir",
+           "num": "27",
+           "path": "ust_2/pkt_2/lit_a/tir_27",
+           "text": "sprawdzenie działania układu automatycznego ściągania odbieraków prądu na wypadek ich wykolejenia,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– sprawdzenie funkcjonowania uzależnień jazda sieciowa – jazda"
-          },
-          {
-           "type": "text",
-           "text": "autonomiczna, dla trolejbusu z układem jazdy autonomicznej,"
-          },
-          {
-           "type": "text",
-           "text": "– sprawdzenie działania awaryjnego podtrzymania pracy pompy"
-          },
-          {
-           "type": "text",
-           "text": "wspomagania układu kierowniczego w sytuacji wystąpienia zaniku"
-          },
-          {
-           "type": "text",
-           "text": "napięcia w sieci trakcyjnej,"
-          },
-          {
-           "type": "text",
-           "text": "– pomiary opóźnienia hamowania hamulcem roboczym"
-          },
-          {
-           "type": "text",
-           "text": "elektrodynamicznym z 30 km/h,"
-          },
-          {
-           "type": "text",
-           "text": "– sprawdzenie funkcjonowania hamulca elektrodynamicznego w pełnym"
-          },
-          {
-           "type": "text",
-           "text": "zakresie prędkości jazdy,"
-          },
-          {
-           "type": "text",
-           "text": "– sprawdzenie funkcjonowania priorytetu hamulca elektrodynamicznego"
-          },
-          {
-           "type": "text",
-           "text": "roboczego nad rozruchem,"
-          },
-          {
-           "type": "text",
-           "text": "– sprawdzenie funkcjonowania napędu podczas jazdy z zasilaniem z sieci"
-          },
-          {
-           "type": "text",
-           "text": "trakcyjnej,"
-          },
-          {
-           "type": "text",
-           "text": "– sprawdzenie funkcjonowania napędu podczas jazdy z zasilaniem"
-          },
-          {
-           "type": "text",
-           "text": "z autonomicznego źródła energii, o ile taki układ występuje,"
-          },
-          {
-           "type": "text",
-           "text": "– pomiary poziomów napięć w obwodzie odbieraków prądu podczas"
-          },
-          {
-           "type": "text",
-           "text": "hamowania elektrodynamicznego,"
-          },
-          {
-           "type": "text",
-           "text": "– pomiary napięć na elementach zamontowanych na dachu o stopniu ochrony"
-          },
-          {
-           "type": "text",
-           "text": "mniejszym niż IP2X po odłączeniu odbieraków od sieci,"
-          },
-          {
-           "type": "text",
-           "text": "– pomiary zaburzeń elektromagnetycznych emitowanych do otoczenia przez"
-          },
-          {
-           "type": "text",
-           "text": "trolejbus na postoju i w ruchu,"
-          },
-          {
-           "type": "text",
-           "text": "– sprawdzenie warunków zabudowy i wentylacji baterii trakcyjnej, o ile taka"
-          },
-          {
-           "type": "text",
-           "text": "bateria występuje,"
-          },
-          {
-           "type": "text",
-           "text": "– sprawdzenie funkcjonowania uzależnienia powodującego automatyczne"
-          },
-          {
-           "type": "text",
-           "text": "odłączenie autonomicznego źródła zasilania od instalacji elektrycznej"
-          },
-          {
-           "type": "text",
-           "text": "w sytuacji wyłączenia instalacji elektrycznej niskiego napięcia,"
-          },
-          {
-           "type": "text",
-           "text": "– pomiary nacisku statycznego odbieraków prądu na sieć trakcyjną,"
-          },
-          {
-           "type": "text",
-           "text": "– sprawdzenie swobody poruszania się trolejbusu w granicach (+4,5 m, –4,5 m)"
-          },
-          {
-           "type": "text",
-           "text": "od osi podłużnej symetrii sieci trakcyjnej,"
-          },
-          {
-           "type": "text",
-           "text": "– sprawdzenie działania układu automatycznego ściągania odbieraków prądu"
-          },
-          {
-           "type": "text",
-           "text": "na wypadek ich wykolejenia,"
-          },
-          {
-           "type": "text",
-           "text": "– sprawdzenie układu blokującego możliwość ruszenia trolejbusem przy"
-          },
-          {
-           "type": "text",
-           "text": "otwartej dowolnej parze drzwi wejściowych,"
+           "type": "tir",
+           "num": "28",
+           "path": "ust_2/pkt_2/lit_a/tir_28",
+           "text": "sprawdzenie układu blokującego możliwość ruszenia trolejbusem przy otwartej dowolnej parze drzwi wejściowych,",
+           "children": []
           }
          ]
         },
@@ -1842,44 +1737,29 @@
            "type": "tir",
            "num": "1",
            "path": "ust_2/pkt_2/lit_b/tir_1",
-           "text": "dokumentu informacyjnego stosowanego w procedurze krajowej",
+           "text": "dokumentu informacyjnego stosowanego w procedurze krajowej homologacji typu trolejbusu zgodnie z załącznikiem nr 7 do rozporządzenia,",
            "children": []
           },
           {
-           "type": "text",
-           "text": "homologacji typu trolejbusu zgodnie z załącznikiem nr 7 do rozporządzenia,"
+           "type": "tir",
+           "num": "2",
+           "path": "ust_2/pkt_2/lit_b/tir_2",
+           "text": "dokumentacji techniczno-ruchowej wyposażenia elektrycznego trolejbusu, wraz ze schematami obwodów elektrycznych zasilanych napięciem sieciowym i pomocniczym, w tym schematów ideowych układu izolacji dielektrycznej wyposażenia elektrycznego zasilanego napięciem sieciowym i pomocniczym,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– dokumentacji techniczno-ruchowej wyposażenia elektrycznego trolejbusu,"
+           "type": "tir",
+           "num": "3",
+           "path": "ust_2/pkt_2/lit_b/tir_3",
+           "text": "instrukcji obsługi trolejbusu,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "wraz ze schematami obwodów elektrycznych zasilanych napięciem"
-          },
-          {
-           "type": "text",
-           "text": "sieciowym i pomocniczym, w tym schematów ideowych układu izolacji"
-          },
-          {
-           "type": "text",
-           "text": "dielektrycznej wyposażenia elektrycznego zasilanego napięciem"
-          },
-          {
-           "type": "text",
-           "text": "sieciowym i pomocniczym,"
-          },
-          {
-           "type": "text",
-           "text": "– instrukcji obsługi trolejbusu,"
-          },
-          {
-           "type": "text",
-           "text": "– dokumentów potwierdzających zdolność producenta do zapewnienia"
-          },
-          {
-           "type": "text",
-           "text": "wytwarzania kolejnych trolejbusów zgodnych z typem homologowanym."
+           "type": "tir",
+           "num": "4",
+           "path": "ust_2/pkt_2/lit_b/tir_4",
+           "text": "dokumentów potwierdzających zdolność producenta do zapewnienia wytwarzania kolejnych trolejbusów zgodnych z typem homologowanym.",
+           "children": []
           }
          ]
         }
@@ -2224,18 +2104,18 @@
    "body": [
     {
      "type": "text",
-     "text": "WZÓR OZNACZENIA HOMOLOGACYJNEGO I SPOSOBU NUMERACJI ŚWIADECTW KRAJOWEJ HOMOLOGACJI TYPU TRAMWAJU LUB TROLEJBUSU"
+     "text": "WZÓR OZNACZENIA HOMOLOGACYJNEGO I SPOSOBU NUMERACJI ŚWIADECTW"
+    },
+    {
+     "type": "text",
+     "text": "KRAJOWEJ HOMOLOGACJI TYPU TRAMWAJU LUB TROLEJBUSU"
     },
     {
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Numer świadectwa krajowej homologacji typu tramwaju i typu trolejbusu składa się",
+     "text": "Numer świadectwa krajowej homologacji typu tramwaju i typu trolejbusu składa się z trzech sekcji oddzielonych znakiem „*”.",
      "children": [
-      {
-       "type": "text",
-       "text": "z trzech sekcji oddzielonych znakiem „*”."
-      },
       {
        "type": "text",
        "text": "Sekcja 1: symbol „PL”."
@@ -2262,20 +2142,8 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "W przypadku zmian w pakiecie informacyjnym do świadectwa typu tramwaju lub",
+     "text": "W przypadku zmian w pakiecie informacyjnym do świadectwa typu tramwaju lub trolejbusu, przy nadawaniu numeru tego świadectwa, po numerze zmiany, który nie ulega zmianie, Dyrektor Transportowego Dozoru Technicznego dodaje następujące oznaczenie, w zależności od liczby udzielonych do tej pory zmian:",
      "children": [
-      {
-       "type": "text",
-       "text": "trolejbusu, przy nadawaniu numeru tego świadectwa, po numerze zmiany, który nie ulega"
-      },
-      {
-       "type": "text",
-       "text": "zmianie, Dyrektor Transportowego Dozoru Technicznego dodaje następujące oznaczenie,"
-      },
-      {
-       "type": "text",
-       "text": "w zależności od liczby udzielonych do tej pory zmian:"
-      },
       {
        "type": "text",
        "text": "„Rewizja 1, 2, 3 …” albo skrót „Rew. 1, 2, 3 …”.",
@@ -2287,12 +2155,8 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "W przypadku gdy w ramach procedury homologacji typu tramwaju lub trolejbusu poza",
+     "text": "W przypadku gdy w ramach procedury homologacji typu tramwaju lub trolejbusu poza zmianami, o których mowa w ust. 2:",
      "children": [
-      {
-       "type": "text",
-       "text": "zmianami, o których mowa w ust. 2:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -2304,35 +2168,19 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_3/pkt_2",
-       "text": "uległy zmianie dane albo informacje zawarte w świadectwie homologacji typu tramwaju",
+       "text": "uległy zmianie dane albo informacje zawarte w świadectwie homologacji typu tramwaju lub trolejbusu, z wyjątkiem załączników,",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "lub trolejbusu, z wyjątkiem załączników,"
       },
       {
        "type": "pkt",
        "num": "3",
        "path": "ust_3/pkt_3",
-       "text": "weszły w życie nowe wymagania obowiązujące dla typu tramwaju lub trolejbusu",
+       "text": "weszły w życie nowe wymagania obowiązujące dla typu tramwaju lub trolejbusu podlegającego procedurze homologacji",
        "children": []
       },
       {
        "type": "text",
-       "text": "podlegającego procedurze homologacji"
-      },
-      {
-       "type": "text",
-       "text": "– przy wydaniu zmiany do świadectwa homologacji typu tramwaju lub trolejbusu, w sekcji 3"
-      },
-      {
-       "type": "text",
-       "text": "numeru tego świadectwa, Dyrektor Transportowego Dozoru Technicznego określa numer"
-      },
-      {
-       "type": "text",
-       "text": "zmiany, zgodny z liczbą kolejnych udzielonych już zmian."
+       "text": "– przy wydaniu zmiany do świadectwa homologacji typu tramwaju lub trolejbusu, w sekcji 3 numeru tego świadectwa, Dyrektor Transportowego Dozoru Technicznego określa numer zmiany, zgodny z liczbą kolejnych udzielonych już zmian."
       }
      ]
     }
@@ -3905,63 +3753,23 @@
       },
       {
        "type": "text",
-       "text": "12.12. Połączenia elektryczne wyrównawcze pomiędzy poszczególnymi członami nadwozia,"
+       "text": "12.12. Połączenia elektryczne wyrównawcze pomiędzy poszczególnymi członami nadwozia, jeśli dotyczy: .................................................."
       },
       {
        "type": "text",
-       "text": "jeśli dotyczy: .................................................."
+       "text": "12.13. Zabezpieczenie przed kontynuacją jazdy przy zbyt niskim poziomie napięcia i zabezpieczenie napięciowe zanikowe:"
       },
       {
        "type": "text",
-       "text": "12.13. Zabezpieczenie przed kontynuacją jazdy przy zbyt niskim poziomie napięcia"
+       "text": "12.13.1. minimalne napięcie sieci, przy którym może być realizowany napęd: ................ V 12.13.2. napięcie sieci, przy którym następuje rozłączenie obwodu trakcyjnego: ............ V 12.13.3. minimalne napięcie sieci, przy którym funkcjonują obwody pomocnicze: ........... V 12.13.4. napięcie sieci, przy którym następuje rozłączenie obwodów pomocniczych: ......... V 12.14. Układ umożliwiający zwrot energii z tramwaju do sieci trakcyjnej, jeśli dotyczy:"
       },
       {
        "type": "text",
-       "text": "i zabezpieczenie napięciowe zanikowe:"
+       "text": "12.14.1. napięcie na kondensatorze filtru sieciowego, przy którym jest włączany rezystor hamowania oporowego: ..................... V"
       },
       {
        "type": "text",
-       "text": "12.13.1. minimalne napięcie sieci, przy którym może być realizowany napęd: ................ V"
-      },
-      {
-       "type": "text",
-       "text": "12.13.2. napięcie sieci, przy którym następuje rozłączenie obwodu trakcyjnego: ............ V"
-      },
-      {
-       "type": "text",
-       "text": "12.13.3. minimalne napięcie sieci, przy którym funkcjonują obwody pomocnicze: ........... V"
-      },
-      {
-       "type": "text",
-       "text": "12.13.4. napięcie sieci, przy którym następuje rozłączenie obwodów pomocniczych: ......... V"
-      },
-      {
-       "type": "text",
-       "text": "12.14. Układ umożliwiający zwrot energii z tramwaju do sieci trakcyjnej, jeśli dotyczy:"
-      },
-      {
-       "type": "text",
-       "text": "12.14.1. napięcie na kondensatorze filtru sieciowego, przy którym jest włączany rezystor"
-      },
-      {
-       "type": "text",
-       "text": "hamowania oporowego: ..................... V"
-      },
-      {
-       "type": "text",
-       "text": "12.14.2. minimalne napięcie sieci, przy którym jest realizowany odzysk energii: ............. V"
-      },
-      {
-       "type": "text",
-       "text": "12.14.3. sposób realizacji zablokowania zwrotu energii w przypadku wystąpienia spadku"
-      },
-      {
-       "type": "text",
-       "text": "poziomu napięcia w sieci zasilającej poniżej poziomu zdefiniowanego w pkt 12.14.2:"
-      },
-      {
-       "type": "text",
-       "text": "rozłączenie stycznikiem / rozłączenie wyłącznikiem / blokowanie łącznikiem półprzewodnikowym[^1_4]"
+       "text": "12.14.2. minimalne napięcie sieci, przy którym jest realizowany odzysk energii: ............. V 12.14.3. sposób realizacji zablokowania zwrotu energii w przypadku wystąpienia spadku poziomu napięcia w sieci zasilającej poniżej poziomu zdefiniowanego w pkt 12.14.2: rozłączenie stycznikiem / rozłączenie wyłącznikiem / blokowanie łącznikiem półprzewodnikowym[^1_4]"
       }
      ]
     },
@@ -4009,15 +3817,7 @@
       },
       {
        "type": "text",
-       "text": "13.3.5. wytrzymałość napięciowa izolacji względem obudowy sterownika (dotyczy"
-      },
-      {
-       "type": "text",
-       "text": "sterowników zabudowanych w osłonach wykonanych z materiałów przewodzących):"
-      },
-      {
-       "type": "text",
-       "text": ".................................................... kV (50 Hz, 60 s)"
+       "text": "13.3.5. wytrzymałość napięciowa izolacji względem obudowy sterownika (dotyczy sterowników zabudowanych w osłonach wykonanych z materiałów przewodzących): .................................................... kV (50 Hz, 60 s)"
       }
      ]
     },
@@ -4175,27 +3975,15 @@
       },
       {
        "type": "text",
-       "text": "16.8. Prędkość maksymalna: ................................................................ km/h 16.9. Charakterystyki trakcyjne hamowania elektrodynamicznego dla nominalnego napięcia"
+       "text": "16.8. Prędkość maksymalna: ................................................................ km/h 16.9. Charakterystyki trakcyjne hamowania elektrodynamicznego dla nominalnego napięcia zasilania:"
       },
       {
        "type": "text",
-       "text": "zasilania:"
+       "text": "16.9.1. wykres maksymalnej siły hamowania dla hamulca elektrodynamicznego w funkcji prędkości, o ile dotyczy: .........................................................."
       },
       {
        "type": "text",
-       "text": "16.9.1. wykres maksymalnej siły hamowania dla hamulca elektrodynamicznego w funkcji"
-      },
-      {
-       "type": "text",
-       "text": "prędkości, o ile dotyczy: .........................................................."
-      },
-      {
-       "type": "text",
-       "text": "16.9.2. wykres prądu w funkcji prędkości, jaki może być zwracany przez tramwaj do sieci, przy"
-      },
-      {
-       "type": "text",
-       "text": "maksymalnej sile hamowania elektrodynamicznego, o ile dotyczy: ....................................."
+       "text": "16.9.2. wykres prądu w funkcji prędkości, jaki może być zwracany przez tramwaj do sieci, przy maksymalnej sile hamowania elektrodynamicznego, o ile dotyczy: ....................................."
       }
      ]
     },
@@ -4203,35 +3991,15 @@
      "type": "ust",
      "num": "17",
      "path": "ust_17",
-     "text": "UKŁAD JAZDY AUTONOMICZNEJ LUB DODATKOWY UKŁAD",
+     "text": "UKŁAD JAZDY AUTONOMICZNEJ LUB DODATKOWY UKŁAD MAGAZYNUJĄCY ENERGIĘ (jeśli dotyczy)",
      "children": [
       {
        "type": "text",
-       "text": "MAGAZYNUJĄCY ENERGIĘ (jeśli dotyczy)"
+       "text": "17.1. Rodzaj układu jazdy autonomicznej: silniki elektryczne zasilane z baterii akumulatorów / silniki elektryczne zasilane z zasobników kondensatorowych / silniki elektryczne zasilane z baterii akumulatorów i zasobników kondensatorowych[^1_4]"
       },
       {
        "type": "text",
-       "text": "17.1. Rodzaj układu jazdy autonomicznej: silniki elektryczne zasilane z baterii akumulatorów /"
-      },
-      {
-       "type": "text",
-       "text": "silniki elektryczne zasilane z zasobników kondensatorowych / silniki elektryczne zasilane z baterii"
-      },
-      {
-       "type": "text",
-       "text": "akumulatorów i zasobników kondensatorowych[^1_4]"
-      },
-      {
-       "type": "text",
-       "text": "17.1.1. przeznaczenie układu jazdy autonomicznej, dotyczy tramwajów zasilanych z sieci"
-      },
-      {
-       "type": "text",
-       "text": "trakcyjnej: do regularnej obsługi pasażerskiej / do jazdy pomocniczej awaryjnej lub manewrowej[^1_4]"
-      },
-      {
-       "type": "text",
-       "text": "17.2. Bateria akumulatorów trakcyjnych, jeśli dotyczy:"
+       "text": "17.1.1. przeznaczenie układu jazdy autonomicznej, dotyczy tramwajów zasilanych z sieci trakcyjnej: do regularnej obsługi pasażerskiej / do jazdy pomocniczej awaryjnej lub manewrowej[^1_4] 17.2. Bateria akumulatorów trakcyjnych, jeśli dotyczy:"
       },
       {
        "type": "text",
@@ -4251,15 +4019,7 @@
       },
       {
        "type": "text",
-       "text": "17.2.5. funkcja: zasobnik energii wykorzystywany tylko w czasie jazdy autonomicznej /"
-      },
-      {
-       "type": "text",
-       "text": "zasobnik energii wykorzystywany tylko podczas jazdy sieciowej / zasobnik energii dla jazdy"
-      },
-      {
-       "type": "text",
-       "text": "autonomicznej oraz zasobnik energii wspomagający podczas jazdy sieciowej[^1_4]"
+       "text": "17.2.5. funkcja: zasobnik energii wykorzystywany tylko w czasie jazdy autonomicznej / zasobnik energii wykorzystywany tylko podczas jazdy sieciowej / zasobnik energii dla jazdy autonomicznej oraz zasobnik energii wspomagający podczas jazdy sieciowej[^1_4]"
       },
       {
        "type": "text",
@@ -4571,19 +4331,11 @@
       },
       {
        "type": "text",
-       "text": "17.7.11. wytrzymałość izolacji pomiędzy torem prądowym wyłącznika i instalacją sterującą:"
+       "text": "17.7.11. wytrzymałość izolacji pomiędzy torem prądowym wyłącznika i instalacją sterującą: ............................................................ kV (50 Hz, 60 s)"
       },
       {
        "type": "text",
-       "text": "............................................................ kV (50 Hz, 60 s)"
-      },
-      {
-       "type": "text",
-       "text": "17.7.12. wytrzymałość izolacji pomiędzy torem prądowym wyłącznika i podstawą lub"
-      },
-      {
-       "type": "text",
-       "text": "obudową: ............................................................ kV (50 Hz, 60 s)"
+       "text": "17.7.12. wytrzymałość izolacji pomiędzy torem prądowym wyłącznika i podstawą lub obudową: ............................................................ kV (50 Hz, 60 s)"
       },
       {
        "type": "text",
@@ -4623,35 +4375,7 @@
       },
       {
        "type": "text",
-       "text": "17.10. Dane eksploatacyjne układu jazdy autonomicznej należy podać według pkt 16"
-      },
-      {
-       "type": "text",
-       "text": "z pominięciem pkt 16.4, 16.5, a w przypadku układu napędowego niewykorzystującego"
-      },
-      {
-       "type": "text",
-       "text": "silników elektrycznych – z pominięciem pkt 16.9. W sytuacji gdy tramwaj podczas jazdy"
-      },
-      {
-       "type": "text",
-       "text": "autonomicznej nie osiąga prędkości maksymalnej 50 km/h, poziom dźwięku A podczas ruchu"
-      },
-      {
-       "type": "text",
-       "text": "należy zmierzyć dla możliwej do uzyskania prędkości, bliskiej prędkości maksymalnej,"
-      },
-      {
-       "type": "text",
-       "text": "natomiast w sytuacji gdy tramwaj podczas jazdy autonomicznej nie osiąga prędkości"
-      },
-      {
-       "type": "text",
-       "text": "maksymalnej 30 km/h, opóźnienia poszczególnych rodzajów hamowania należy zmierzyć"
-      },
-      {
-       "type": "text",
-       "text": "z możliwej do uzyskania prędkości, bliskiej prędkości maksymalnej"
+       "text": "17.10. Dane eksploatacyjne układu jazdy autonomicznej należy podać według pkt 16 z pominięciem pkt 16.4, 16.5, a w przypadku układu napędowego niewykorzystującego silników elektrycznych – z pominięciem pkt 16.9. W sytuacji gdy tramwaj podczas jazdy autonomicznej nie osiąga prędkości maksymalnej 50 km/h, poziom dźwięku A podczas ruchu należy zmierzyć dla możliwej do uzyskania prędkości, bliskiej prędkości maksymalnej, natomiast w sytuacji gdy tramwaj podczas jazdy autonomicznej nie osiąga prędkości maksymalnej 30 km/h, opóźnienia poszczególnych rodzajów hamowania należy zmierzyć z możliwej do uzyskania prędkości, bliskiej prędkości maksymalnej"
       },
       {
        "type": "text",
@@ -4674,27 +4398,7 @@
     },
     {
      "type": "text",
-     "text": "Rysunki należy wykonać w odpowiedniej skali i stopniu szczegółowości na formacie A4"
-    },
-    {
-     "type": "text",
-     "text": "lub złożone do tego formatu. Fotografie powinny przedstawiać odpowiednie szczegóły."
-    },
-    {
-     "type": "text",
-     "text": "Jeżeli wyposażenie i części mają sterowanie elektroniczne, należy to opisać. W przypadku"
-    },
-    {
-     "type": "text",
-     "text": "występowania innych istotnych elementów wyposażenia, które nie zostały wymienione"
-    },
-    {
-     "type": "text",
-     "text": "w opisie, należy te elementy opisać według uznania instytucji przeprowadzającej badania"
-    },
-    {
-     "type": "text",
-     "text": "homologacyjne."
+     "text": "Rysunki należy wykonać w odpowiedniej skali i stopniu szczegółowości na formacie A4 lub złożone do tego formatu. Fotografie powinny przedstawiać odpowiednie szczegóły. Jeżeli wyposażenie i części mają sterowanie elektroniczne, należy to opisać. W przypadku występowania innych istotnych elementów wyposażenia, które nie zostały wymienione w opisie, należy te elementy opisać według uznania instytucji przeprowadzającej badania homologacyjne."
     },
     {
      "type": "ust",
@@ -4704,11 +4408,7 @@
      "children": [
       {
        "type": "text",
-       "text": "0.0.1. Numer świadectwa homologacji typu / typu UE / typu WE[^1_5] pojazdu, na bazie którego"
-      },
-      {
-       "type": "text",
-       "text": "zbudowano trolejbus: ........................................................................................................."
+       "text": "0.0.1. Numer świadectwa homologacji typu / typu UE / typu WE[^1_5] pojazdu, na bazie którego zbudowano trolejbus: ........................................................................................................."
       },
       {
        "type": "text",
@@ -4768,11 +4468,7 @@
       },
       {
        "type": "text",
-       "text": "0.10.2. przedmiot wyposażenia lub część trolejbusu, które spełniają swoje zadanie tylko"
-      },
-      {
-       "type": "text",
-       "text": "w połączeniu z innymi częściami trolejbusu: ....................................................................."
+       "text": "0.10.2. przedmiot wyposażenia lub część trolejbusu, które spełniają swoje zadanie tylko w połączeniu z innymi częściami trolejbusu: ....................................................................."
       }
      ]
     },
@@ -5304,23 +5000,11 @@
       },
       {
        "type": "text",
-       "text": "6.8. Prąd maksymalny: ..................................................................... A 6.9. Mechanizm ściągający w przypadku wykolejenia: mechaniczny bębnowy z napędem"
+       "text": "6.8. Prąd maksymalny: ..................................................................... A 6.9. Mechanizm ściągający w przypadku wykolejenia: mechaniczny bębnowy z napędem sprężynowym / mechaniczny bębnowy z napędem elektrycznym / siłownik pneumatyczny / serwomotor elektryczny[^1_5]"
       },
       {
        "type": "text",
-       "text": "sprężynowym / mechaniczny bębnowy z napędem elektrycznym / siłownik pneumatyczny /"
-      },
-      {
-       "type": "text",
-       "text": "serwomotor elektryczny[^1_5]"
-      },
-      {
-       "type": "text",
-       "text": "6.10. Mechanizm napędu podnoszenia odbieraka (jeśli dotyczy): siłownik pneumatyczny /"
-      },
-      {
-       "type": "text",
-       "text": "serwomotor elektryczny[^1_5]"
+       "text": "6.10. Mechanizm napędu podnoszenia odbieraka (jeśli dotyczy): siłownik pneumatyczny / serwomotor elektryczny[^1_5]"
       },
       {
        "type": "text",
@@ -5328,11 +5012,7 @@
       },
       {
        "type": "text",
-       "text": "6.12. Zakres roboczy pracy w płaszczyźnie poziomej (mierzony od osi podłużnej symetrii"
-      },
-      {
-       "type": "text",
-       "text": "trolejbusu): ......................................................................... m"
+       "text": "6.12. Zakres roboczy pracy w płaszczyźnie poziomej (mierzony od osi podłużnej symetrii trolejbusu): ......................................................................... m"
       },
       {
        "type": "text",
@@ -5340,19 +5020,11 @@
       },
       {
        "type": "text",
-       "text": "6.14. Wytrzymałość izolacji pomiędzy torem prądowym i podstawą mocującą odbieraka:"
+       "text": "6.14. Wytrzymałość izolacji pomiędzy torem prądowym i podstawą mocującą odbieraka: .................................................................................... kV (50 Hz, 60 s)"
       },
       {
        "type": "text",
-       "text": ".................................................................................... kV (50 Hz, 60 s)"
-      },
-      {
-       "type": "text",
-       "text": "6.15. Wytrzymałość izolacji pomiędzy podstawą mocującą odbieraka i masą karoserii:"
-      },
-      {
-       "type": "text",
-       "text": "................................................................................................. kV (50 Hz, 60 s)"
+       "text": "6.15. Wytrzymałość izolacji pomiędzy podstawą mocującą odbieraka i masą karoserii: ................................................................................................. kV (50 Hz, 60 s)"
       }
      ]
     },
@@ -5360,19 +5032,11 @@
      "type": "ust",
      "num": "7",
      "path": "ust_7",
-     "text": "INSTALACJA ELEKTRYCZNA ZASILANA NAPIĘCIEM SIECIOWYM",
+     "text": "INSTALACJA ELEKTRYCZNA ZASILANA NAPIĘCIEM SIECIOWYM I POMOCNICZA TRÓJFAZOWA",
      "children": [
       {
        "type": "text",
-       "text": "I POMOCNICZA TRÓJFAZOWA"
-      },
-      {
-       "type": "text",
-       "text": "7.1. Nawrotnik sieciowy – układ zabezpieczający właściwą polaryzację napięcia zasilającego"
-      },
-      {
-       "type": "text",
-       "text": "obwody trakcyjne, jeśli dotyczy:"
+       "text": "7.1. Nawrotnik sieciowy – układ zabezpieczający właściwą polaryzację napięcia zasilającego obwody trakcyjne, jeśli dotyczy:"
       },
       {
        "type": "text",
@@ -5380,19 +5044,7 @@
       },
       {
        "type": "text",
-       "text": "7.1.2. zakres pracy: umożliwia tylko pobór energii przy dowolnej biegunowości sieci /"
-      },
-      {
-       "type": "text",
-       "text": "umożliwia pobór energii przy dowolnej biegunowości sieci i zwrot energii hamowania przy"
-      },
-      {
-       "type": "text",
-       "text": "jednej zdefiniowanej biegunowości sieci / umożliwia pobór i zwrot energii przy dowolnej"
-      },
-      {
-       "type": "text",
-       "text": "biegunowości sieci[^1_5]"
+       "text": "7.1.2. zakres pracy: umożliwia tylko pobór energii przy dowolnej biegunowości sieci / umożliwia pobór energii przy dowolnej biegunowości sieci i zwrot energii hamowania przy jednej zdefiniowanej biegunowości sieci / umożliwia pobór i zwrot energii przy dowolnej biegunowości sieci[^1_5]"
       },
       {
        "type": "text",
@@ -5400,11 +5052,7 @@
       },
       {
        "type": "text",
-       "text": "7.2. Typy wyłączników rozłączających instalację elektryczną trolejbusu od obwodu"
-      },
-      {
-       "type": "text",
-       "text": "odbieraków prądu:"
+       "text": "7.2. Typy wyłączników rozłączających instalację elektryczną trolejbusu od obwodu odbieraków prądu:"
       },
       {
        "type": "text",
@@ -5840,35 +5488,15 @@
       },
       {
        "type": "text",
-       "text": "7.13.5. wytrzymałość izolacji pomiędzy elementem grzejnym a ramą montażową grzejnika"
+       "text": "7.13.5. wytrzymałość izolacji pomiędzy elementem grzejnym a ramą montażową grzejnika (I stopień): ................................................... kV (50 Hz, 60 s)"
       },
       {
        "type": "text",
-       "text": "(I stopień): ................................................... kV (50 Hz, 60 s)"
+       "text": "7.13.6. wytrzymałość izolacji pomiędzy ramą montażową grzejnika i obudową grzejnika (II stopień, dotyczy grzejnika zasilanego bezpośrednio z sieci trakcyjnej): .............................................. kV (50 Hz, 60 s)"
       },
       {
        "type": "text",
-       "text": "7.13.6. wytrzymałość izolacji pomiędzy ramą montażową grzejnika i obudową grzejnika"
-      },
-      {
-       "type": "text",
-       "text": "(II stopień, dotyczy grzejnika zasilanego bezpośrednio z sieci trakcyjnej):"
-      },
-      {
-       "type": "text",
-       "text": ".............................................. kV (50 Hz, 60 s)"
-      },
-      {
-       "type": "text",
-       "text": "7.14. Układ przewietrzania przedziału pasażerskiego, krótki opis, w przypadku zasilania"
-      },
-      {
-       "type": "text",
-       "text": "z obwodu sieciowego należy podać wytrzymałość obu stopni izolacji:"
-      },
-      {
-       "type": "text",
-       "text": "....................................................................................."
+       "text": "7.14. Układ przewietrzania przedziału pasażerskiego, krótki opis, w przypadku zasilania z obwodu sieciowego należy podać wytrzymałość obu stopni izolacji: ....................................................................................."
       },
       {
        "type": "text",
@@ -5880,83 +5508,35 @@
       },
       {
        "type": "text",
-       "text": "7.15. Elementy stosowane do tłumienia zaburzeń elektromagnetycznych, jeśli dotyczy – należy"
+       "text": "7.15. Elementy stosowane do tłumienia zaburzeń elektromagnetycznych, jeśli dotyczy – należy podać producenta, typ filtru, pojemności kondensatorów zastosowanych w filtrze, pojemność dodatkowych kondensatorów tłumiących, miejsce i sposób podłączenia dodatkowych kondensatorów tłumiących, wytrzymałość izolacji dielektrycznej kondensatorów"
       },
       {
        "type": "text",
-       "text": "podać producenta, typ filtru, pojemności kondensatorów zastosowanych w filtrze, pojemność"
+       "text": "7.16. Wykaz połączonych elektrycznie mas pośrednich urządzeń zasilanych napięciem sieciowym, o ile takie połączenia występują: ........................"
       },
       {
        "type": "text",
-       "text": "dodatkowych kondensatorów tłumiących, miejsce i sposób podłączenia dodatkowych"
+       "text": "7.17. Zabezpieczenie przed kontynuacją jazdy przy zbyt niskim poziomie napięcia i zanikowo napięciowe:"
       },
       {
        "type": "text",
-       "text": "kondensatorów tłumiących, wytrzymałość izolacji dielektrycznej kondensatorów"
+       "text": "7.17.1. minimalne napięcie sieci, przy którym może być realizowany napęd: ................. V 7.17.2. napięcie sieci, przy którym następuje rozłączenie obwodu trakcyjnego: ............ V"
       },
       {
        "type": "text",
-       "text": "7.16. Wykaz połączonych elektrycznie mas pośrednich urządzeń zasilanych napięciem"
+       "text": "7.17.3. minimalne napięcie sieci, przy którym funkcjonują obwody pomocnicze: .......... V 7.17.4. napięcie sieci, przy którym następuje rozłączenie obwodów pomocniczych: ......... V 7.18. Układ zwrotu energii do sieci trakcyjnej, jeśli dotyczy:"
       },
       {
        "type": "text",
-       "text": "sieciowym, o ile takie połączenia występują: ........................"
+       "text": "7.18.1. napięcie na kondensatorze filtru sieciowego, przy którym jest włączany rezystor hamowania oporowego: ......................... V"
       },
       {
        "type": "text",
-       "text": "7.17. Zabezpieczenie przed kontynuacją jazdy przy zbyt niskim poziomie napięcia i zanikowo"
+       "text": "7.18.2. minimalne napięcie sieci, przy którym może być realizowany odzysk energii: ....................... V"
       },
       {
        "type": "text",
-       "text": "napięciowe:"
-      },
-      {
-       "type": "text",
-       "text": "7.17.1. minimalne napięcie sieci, przy którym może być realizowany napęd: ................. V"
-      },
-      {
-       "type": "text",
-       "text": "7.17.2. napięcie sieci, przy którym następuje rozłączenie obwodu trakcyjnego: ............ V"
-      },
-      {
-       "type": "text",
-       "text": "7.17.3. minimalne napięcie sieci, przy którym funkcjonują obwody pomocnicze: .......... V"
-      },
-      {
-       "type": "text",
-       "text": "7.17.4. napięcie sieci, przy którym następuje rozłączenie obwodów pomocniczych: ......... V"
-      },
-      {
-       "type": "text",
-       "text": "7.18. Układ zwrotu energii do sieci trakcyjnej, jeśli dotyczy:"
-      },
-      {
-       "type": "text",
-       "text": "7.18.1. napięcie na kondensatorze filtru sieciowego, przy którym jest włączany rezystor"
-      },
-      {
-       "type": "text",
-       "text": "hamowania oporowego: ......................... V"
-      },
-      {
-       "type": "text",
-       "text": "7.18.2. minimalne napięcie sieci, przy którym może być realizowany odzysk energii:"
-      },
-      {
-       "type": "text",
-       "text": "....................... V"
-      },
-      {
-       "type": "text",
-       "text": "7.18.3. sposób realizacji zablokowania zwrotu energii w przypadku wystąpienia obniżenia"
-      },
-      {
-       "type": "text",
-       "text": "napięcia w sieci zasilającej poniżej wartości zdefiniowanej w pkt 7.18.2: rozłączenie"
-      },
-      {
-       "type": "text",
-       "text": "stycznikiem / rozłączenie wyłącznikiem / blokowanie łącznikiem półprzewodnikowym[^1_5] 7.19. Napięcie znamionowe instalacji pomocniczej trójfazowej: .......................... V"
+       "text": "7.18.3. sposób realizacji zablokowania zwrotu energii w przypadku wystąpienia obniżenia napięcia w sieci zasilającej poniżej wartości zdefiniowanej w pkt 7.18.2: rozłączenie stycznikiem / rozłączenie wyłącznikiem / blokowanie łącznikiem półprzewodnikowym[^1_5] 7.19. Napięcie znamionowe instalacji pomocniczej trójfazowej: .......................... V"
       },
       {
        "type": "text",
@@ -5976,35 +5556,11 @@
       },
       {
        "type": "text",
-       "text": "7.20.4. wytrzymałość izolacji: ............................................. kV (50 Hz, w czasie: ......... s)"
+       "text": "7.20.4. wytrzymałość izolacji: ............................................. kV (50 Hz, w czasie: ......... s) 7.21. Styczniki, wyłączniki i bezpieczniki stosowane w instalacji pomocniczej trójfazowej, podać producenta, typ, rodzaj, napięcie nominalne i wytrzymałość izolacji: ....................................................................."
       },
       {
        "type": "text",
-       "text": "7.21. Styczniki, wyłączniki i bezpieczniki stosowane w instalacji pomocniczej trójfazowej,"
-      },
-      {
-       "type": "text",
-       "text": "podać producenta, typ, rodzaj, napięcie nominalne i wytrzymałość izolacji:"
-      },
-      {
-       "type": "text",
-       "text": "....................................................................."
-      },
-      {
-       "type": "text",
-       "text": "7.22. Wytrzymałość dielektryczna izolacji instalacji pomocniczej trójfazowej, galwanicznie"
-      },
-      {
-       "type": "text",
-       "text": "integralnej, względem instalacji zasilanej napięciem sieciowym: .................... kV (50 Hz, 60 s)"
-      },
-      {
-       "type": "text",
-       "text": "7.23. Wytrzymałość dielektryczna izolacji instalacji pomocniczej trójfazowej, galwanicznie"
-      },
-      {
-       "type": "text",
-       "text": "integralnej, względem masy trolejbusu: ................. kV (50 Hz, 60 s)"
+       "text": "7.22. Wytrzymałość dielektryczna izolacji instalacji pomocniczej trójfazowej, galwanicznie integralnej, względem instalacji zasilanej napięciem sieciowym: .................... kV (50 Hz, 60 s) 7.23. Wytrzymałość dielektryczna izolacji instalacji pomocniczej trójfazowej, galwanicznie integralnej, względem masy trolejbusu: ................. kV (50 Hz, 60 s)"
       }
      ]
     },
@@ -6064,51 +5620,19 @@
       },
       {
        "type": "text",
-       "text": "8.7. Wytrzymałość izolacji pomiędzy zaciskami sieciowymi a ramą montażową lub obudową"
+       "text": "8.7. Wytrzymałość izolacji pomiędzy zaciskami sieciowymi a ramą montażową lub obudową przetwornicy – wyjścia stałoprądowe i zmiennoprądowe zwarte do obudowy: ..................................................................... kV (50 Hz, 60 s)"
       },
       {
        "type": "text",
-       "text": "przetwornicy – wyjścia stałoprądowe i zmiennoprądowe zwarte do obudowy:"
+       "text": "8.8. Wytrzymałość izolacji pomiędzy zaciskami wyjściowymi zmiennoprądowymi a ramą montażową lub obudową przy wszystkich pozostałych zaciskach zwartych do obudowy: .............................................................. kV (50 Hz, 60 s) 8.9. Wytrzymałość izolacji pomiędzy zaciskami wyjściowymi stałoprądowymi i obudową przy wszystkich pozostałych zaciskach zwartych do obudowy, o ile dotyczy: ....................................................................... kV (50 Hz, 60 s)"
       },
       {
        "type": "text",
-       "text": "..................................................................... kV (50 Hz, 60 s)"
+       "text": "8.10. Wytrzymałość izolacji pomiędzy ramą montażową lub obudową przetwornicy i masą trolejbusu: .......................................................... kV (50 Hz, 60 s)"
       },
       {
        "type": "text",
-       "text": "8.8. Wytrzymałość izolacji pomiędzy zaciskami wyjściowymi zmiennoprądowymi a ramą"
-      },
-      {
-       "type": "text",
-       "text": "montażową lub obudową przy wszystkich pozostałych zaciskach zwartych do obudowy:"
-      },
-      {
-       "type": "text",
-       "text": ".............................................................. kV (50 Hz, 60 s) 8.9. Wytrzymałość izolacji pomiędzy zaciskami wyjściowymi stałoprądowymi i obudową przy"
-      },
-      {
-       "type": "text",
-       "text": "wszystkich pozostałych zaciskach zwartych do obudowy, o ile dotyczy:"
-      },
-      {
-       "type": "text",
-       "text": "....................................................................... kV (50 Hz, 60 s)"
-      },
-      {
-       "type": "text",
-       "text": "8.10. Wytrzymałość izolacji pomiędzy ramą montażową lub obudową przetwornicy i masą"
-      },
-      {
-       "type": "text",
-       "text": "trolejbusu: .......................................................... kV (50 Hz, 60 s)"
-      },
-      {
-       "type": "text",
-       "text": "8.11. Izolacja pomiędzy wejściem sieciowym a wyjściem/wyjściami[^1_5] zmiennoprądowymi:"
-      },
-      {
-       "type": "text",
-       "text": "1-stopniowa/2-stopniowa[^1_5]"
+       "text": "8.11. Izolacja pomiędzy wejściem sieciowym a wyjściem/wyjściami[^1_5] zmiennoprądowymi: 1-stopniowa/2-stopniowa[^1_5]"
       },
       {
        "type": "text",
@@ -6136,11 +5660,7 @@
       },
       {
        "type": "text",
-       "text": "9.1.3. rodzaj: komutatorowy szczotkowy prądu stałego / bezszczotkowy prądu stałego"
-      },
-      {
-       "type": "text",
-       "text": "z komutatorem elektronicznym / asynchroniczny[^1_5]"
+       "text": "9.1.3. rodzaj: komutatorowy szczotkowy prądu stałego / bezszczotkowy prądu stałego z komutatorem elektronicznym / asynchroniczny[^1_5]"
       },
       {
        "type": "text",
@@ -6172,15 +5692,7 @@
       },
       {
        "type": "text",
-       "text": "9.1.11. wytrzymałość izolacji korpus silnika – masa trolejbusu, dotyczy silników zasilanych ze"
-      },
-      {
-       "type": "text",
-       "text": "źródła nieposiadającego podwójnej izolacji względem obwodów zasilanych bezpośrednio"
-      },
-      {
-       "type": "text",
-       "text": "napięciem trakcyjnym: ................... kV (50 Hz, 60 s)"
+       "text": "9.1.11. wytrzymałość izolacji korpus silnika – masa trolejbusu, dotyczy silników zasilanych ze źródła nieposiadającego podwójnej izolacji względem obwodów zasilanych bezpośrednio napięciem trakcyjnym: ................... kV (50 Hz, 60 s)"
       },
       {
        "type": "text",
@@ -6212,11 +5724,7 @@
      "children": [
       {
        "type": "text",
-       "text": "10.1. Sposób napędu mechanizmu wspomagania układu kierowniczego: silnik elektryczny"
-      },
-      {
-       "type": "text",
-       "text": "pomocniczy / od wału silnika trakcyjnego i pomocniczy silnik elektryczny[^1_5] 10.2. Silnik pomocniczy:"
+       "text": "10.1. Sposób napędu mechanizmu wspomagania układu kierowniczego: silnik elektryczny pomocniczy / od wału silnika trakcyjnego i pomocniczy silnik elektryczny[^1_5] 10.2. Silnik pomocniczy:"
       },
       {
        "type": "text",
@@ -6348,15 +5856,7 @@
       },
       {
        "type": "text",
-       "text": "11.10. Wytrzymałość izolacji korpus silnika – masa trolejbusu, dotyczy silników zasilanych ze"
-      },
-      {
-       "type": "text",
-       "text": "źródła nieposiadającego podwójnej izolacji względem obwodów zasilanych bezpośrednio"
-      },
-      {
-       "type": "text",
-       "text": "napięciem trakcyjnym: ....................... kV (50 Hz, 60 s)"
+       "text": "11.10. Wytrzymałość izolacji korpus silnika – masa trolejbusu, dotyczy silników zasilanych ze źródła nieposiadającego podwójnej izolacji względem obwodów zasilanych bezpośrednio napięciem trakcyjnym: ....................... kV (50 Hz, 60 s)"
       }
      ]
     },
@@ -6364,51 +5864,19 @@
      "type": "ust",
      "num": "12",
      "path": "ust_12",
-     "text": "INSTALACJA STERUJĄCA URZĄDZEŃ ZASILANYCH NAPIĘCIEM SIECIOWYM",
+     "text": "INSTALACJA STERUJĄCA URZĄDZEŃ ZASILANYCH NAPIĘCIEM SIECIOWYM 12.1. Sposób zasilania obwodów sterowania: z przetwornicy (przetwornic) separującej zapewniającej galwaniczną separację od instalacji sterującej autobusowej nieseparowanej od masy trolejbusu / mieszany z obwodami sterującymi zasilanymi zarówno z przetwornicy separującej, jak i z instalacji sterującej autobusowej nieseparowanej od masy trolejbusu / z instalacji autobusowej nieseparowanej od masy trolejbusu / z instalacji autobusowej separowanej względem masy trolejbusu (instalacja autobusowa dwuprzewodowa)[^1_5]",
      "children": [
-      {
-       "type": "text",
-       "text": "12.1. Sposób zasilania obwodów sterowania: z przetwornicy (przetwornic) separującej"
-      },
-      {
-       "type": "text",
-       "text": "zapewniającej galwaniczną separację od instalacji sterującej autobusowej nieseparowanej od"
-      },
-      {
-       "type": "text",
-       "text": "masy trolejbusu / mieszany z obwodami sterującymi zasilanymi zarówno z przetwornicy"
-      },
-      {
-       "type": "text",
-       "text": "separującej, jak i z instalacji sterującej autobusowej nieseparowanej od masy trolejbusu /"
-      },
-      {
-       "type": "text",
-       "text": "z instalacji autobusowej nieseparowanej od masy trolejbusu / z instalacji autobusowej"
-      },
-      {
-       "type": "text",
-       "text": "separowanej względem masy trolejbusu (instalacja autobusowa dwuprzewodowa)[^1_5]"
-      },
       {
        "type": "text",
        "text": "12.2. Instalacja elektryczna sterująca separowana, jeśli dotyczy:"
       },
       {
        "type": "text",
-       "text": "12.2.1. zasilanie: z wyjścia separowanego przetwornicy elektrostatycznej opisanej w pkt 8 /"
+       "text": "12.2.1. zasilanie: z wyjścia separowanego przetwornicy elektrostatycznej opisanej w pkt 8 / z dodatkowej, odrębnej przetwornicy separującej[^1_5]"
       },
       {
        "type": "text",
-       "text": "z dodatkowej, odrębnej przetwornicy separującej[^1_5]"
-      },
-      {
-       "type": "text",
-       "text": "12.2.2. dodatkowa przetwornica (przetwornice) separująca wykonana jako odrębna od głównej"
-      },
-      {
-       "type": "text",
-       "text": "przetwornicy statycznej, o ile dotyczy:"
+       "text": "12.2.2. dodatkowa przetwornica (przetwornice) separująca wykonana jako odrębna od głównej przetwornicy statycznej, o ile dotyczy:"
       },
       {
        "type": "text",
@@ -6440,19 +5908,7 @@
       },
       {
        "type": "text",
-       "text": "12.2.2.8. wytrzymałość izolacji pomiędzy zaciskami wejściowymi i wyjściowymi separowanymi,"
-      },
-      {
-       "type": "text",
-       "text": "zaciski wejściowe zwarte do ramy lub obudowy przetwornicy: ....................... kV (50 Hz, 60 s)"
-      },
-      {
-       "type": "text",
-       "text": "12.2.3. separacja sygnałów pomiędzy instalacją elektryczną autobusową nieseparowaną"
-      },
-      {
-       "type": "text",
-       "text": "i instalacją sterującą trakcyjną separowaną:"
+       "text": "12.2.2.8. wytrzymałość izolacji pomiędzy zaciskami wejściowymi i wyjściowymi separowanymi, zaciski wejściowe zwarte do ramy lub obudowy przetwornicy: ....................... kV (50 Hz, 60 s) 12.2.3. separacja sygnałów pomiędzy instalacją elektryczną autobusową nieseparowaną i instalacją sterującą trakcyjną separowaną:"
       },
       {
        "type": "text",
@@ -6468,19 +5924,7 @@
       },
       {
        "type": "text",
-       "text": "12.2.3.4. wytrzymałość napięciowa separatorów: ............................... kV (50 Hz, 60 s) 12.2.4. wytrzymałość izolacji instalacji trakcyjnej sterującej separowanej, galwanicznie"
-      },
-      {
-       "type": "text",
-       "text": "integralnej, względem instalacji zasilanej napięciem sieciowym: .................... kV (50 Hz, 60 s)"
-      },
-      {
-       "type": "text",
-       "text": "12.2.5. wytrzymałość izolacji instalacji trakcyjnej sterującej separowanej, galwanicznie"
-      },
-      {
-       "type": "text",
-       "text": "integralnej, względem masy trolejbusu: ...................................... kV (50 Hz, 60 s)"
+       "text": "12.2.3.4. wytrzymałość napięciowa separatorów: ............................... kV (50 Hz, 60 s) 12.2.4. wytrzymałość izolacji instalacji trakcyjnej sterującej separowanej, galwanicznie integralnej, względem instalacji zasilanej napięciem sieciowym: .................... kV (50 Hz, 60 s) 12.2.5. wytrzymałość izolacji instalacji trakcyjnej sterującej separowanej, galwanicznie integralnej, względem masy trolejbusu: ...................................... kV (50 Hz, 60 s)"
       },
       {
        "type": "text",
@@ -6496,31 +5940,7 @@
       },
       {
        "type": "text",
-       "text": "12.3.3. sposób zasilania: z instalacji separowanej / z instalacji autobusowej nieseparowanej[^1_5]"
-      },
-      {
-       "type": "text",
-       "text": "12.3.4. sposób uzyskania izolacji względem instalacji sieciowej, jeśli dane urządzenie jest"
-      },
-      {
-       "type": "text",
-       "text": "zasilane z instalacji separowanej, to należy podać sposób uzyskania i wytrzymałość napięciową"
-      },
-      {
-       "type": "text",
-       "text": "co najmniej pojedynczej izolacji od obwodów sieciowych, natomiast w przypadku zasilania"
-      },
-      {
-       "type": "text",
-       "text": "danego urządzenia z instalacji nieseparowanej należy podać sposób uzyskania i wytrzymałość"
-      },
-      {
-       "type": "text",
-       "text": "napięciową co najmniej podwójnej izolacji od obwodów sieciowych: ........................................."
-      },
-      {
-       "type": "text",
-       "text": "12.3.5. miejsce zamontowania: ..........................................................."
+       "text": "12.3.3. sposób zasilania: z instalacji separowanej / z instalacji autobusowej nieseparowanej[^1_5] 12.3.4. sposób uzyskania izolacji względem instalacji sieciowej, jeśli dane urządzenie jest zasilane z instalacji separowanej, to należy podać sposób uzyskania i wytrzymałość napięciową co najmniej pojedynczej izolacji od obwodów sieciowych, natomiast w przypadku zasilania danego urządzenia z instalacji nieseparowanej należy podać sposób uzyskania i wytrzymałość napięciową co najmniej podwójnej izolacji od obwodów sieciowych: ......................................... 12.3.5. miejsce zamontowania: ..........................................................."
       },
       {
        "type": "text",
@@ -6580,15 +6000,7 @@
      "children": [
       {
        "type": "text",
-       "text": "(opis powinien zawierać sposób, w jaki uzyskano wyizolowanie poręczy znajdujących się"
-      },
-      {
-       "type": "text",
-       "text": "w obszarze drzwi od masy trolejbusu, rodzaj i podstawowe parametry wykładziny"
-      },
-      {
-       "type": "text",
-       "text": "dielektrycznej położonej w obszarze drzwi lub na stopniach wejściowych)"
+       "text": "(opis powinien zawierać sposób, w jaki uzyskano wyizolowanie poręczy znajdujących się w obszarze drzwi od masy trolejbusu, rodzaj i podstawowe parametry wykładziny dielektrycznej położonej w obszarze drzwi lub na stopniach wejściowych)"
       },
       {
        "type": "text",
@@ -6600,20 +6012,8 @@
      "type": "ust",
      "num": "15",
      "path": "ust_15",
-     "text": "URZĄDZENIA DO WYKRYWANIA NIEBEZPIECZNEGO POTENCJAŁU",
+     "text": "URZĄDZENIA DO WYKRYWANIA NIEBEZPIECZNEGO POTENCJAŁU NA KAROSERII LUB INNE DODATKOWE URZĄDZENIA DO MONITORINGU STANU IZOLACJI URZĄDZEŃ PRACUJĄCYCH POD NAPIĘCIEM SIECIOWYM 15.1. Urządzenie do wykrywania niebezpiecznego potencjału na karoserii:",
      "children": [
-      {
-       "type": "text",
-       "text": "NA KAROSERII LUB INNE DODATKOWE URZĄDZENIA DO MONITORINGU"
-      },
-      {
-       "type": "text",
-       "text": "STANU IZOLACJI URZĄDZEŃ PRACUJĄCYCH POD NAPIĘCIEM SIECIOWYM"
-      },
-      {
-       "type": "text",
-       "text": "15.1. Urządzenie do wykrywania niebezpiecznego potencjału na karoserii:"
-      },
       {
        "type": "text",
        "text": "15.1.1. producent: .........................................................................."
@@ -6632,19 +6032,11 @@
       },
       {
        "type": "text",
-       "text": "15.1.5. poziom napięcia, przy którym działa sygnalizacja ostrzegająca o pojawieniu się"
+       "text": "15.1.5. poziom napięcia, przy którym działa sygnalizacja ostrzegająca o pojawieniu się potencjału pomiędzy nadwoziem i powierzchnią drogi: ..................... V"
       },
       {
        "type": "text",
-       "text": "potencjału pomiędzy nadwoziem i powierzchnią drogi: ..................... V"
-      },
-      {
-       "type": "text",
-       "text": "15.1.6. sposób sygnalizacji wystąpienia niebezpiecznego potencjału pomiędzy nadwoziem"
-      },
-      {
-       "type": "text",
-       "text": "i powierzchnią drogi: ............................................"
+       "text": "15.1.6. sposób sygnalizacji wystąpienia niebezpiecznego potencjału pomiędzy nadwoziem i powierzchnią drogi: ............................................"
       },
       {
        "type": "text",
@@ -6672,39 +6064,7 @@
       },
       {
        "type": "text",
-       "text": "15.2.5. miejsce podłączenia do obwodów monitorowanych, w przypadku urządzenia do"
-      },
-      {
-       "type": "text",
-       "text": "badania stanu izolacji mas pośrednich należy podać wszystkie monitorowane masy lub obwody"
-      },
-      {
-       "type": "text",
-       "text": "pośrednie, w przypadku miernika stanu izolacji lub woltomierzy należy podać rezystancję"
-      },
-      {
-       "type": "text",
-       "text": "wewnętrzną przyrządu pomiarowego, wytrzymałość dielektryczną izolacji urządzenia"
-      },
-      {
-       "type": "text",
-       "text": "pomiarowego, rodzaj i poziom zastosowanego napięcia pomiarowego oraz podać czas"
-      },
-      {
-       "type": "text",
-       "text": "wykonania poszczególnych pomiarów: ........................................................................................"
-      },
-      {
-       "type": "text",
-       "text": "15.2.6. próg (progi) sygnalizacji obniżenia poziomu izolacji, prąd upływu do ziemi, nastawy"
-      },
-      {
-       "type": "text",
-       "text": "dopuszczalnych minimalnych wartości izolacji mas pośrednich lub przyjęte dopuszczalne"
-      },
-      {
-       "type": "text",
-       "text": "poziomy napięć mas pośrednich względem nadwozia trolejbusu: ................................................"
+       "text": "15.2.5. miejsce podłączenia do obwodów monitorowanych, w przypadku urządzenia do badania stanu izolacji mas pośrednich należy podać wszystkie monitorowane masy lub obwody pośrednie, w przypadku miernika stanu izolacji lub woltomierzy należy podać rezystancję wewnętrzną przyrządu pomiarowego, wytrzymałość dielektryczną izolacji urządzenia pomiarowego, rodzaj i poziom zastosowanego napięcia pomiarowego oraz podać czas wykonania poszczególnych pomiarów: ........................................................................................ 15.2.6. próg (progi) sygnalizacji obniżenia poziomu izolacji, prąd upływu do ziemi, nastawy dopuszczalnych minimalnych wartości izolacji mas pośrednich lub przyjęte dopuszczalne poziomy napięć mas pośrednich względem nadwozia trolejbusu: ................................................"
       }
      ]
     },
@@ -6728,15 +6088,7 @@
       },
       {
        "type": "text",
-       "text": "16.4. Maksymalny prąd zwrotny płynący do sieci mogący wystąpić w trakcie hamowania"
-      },
-      {
-       "type": "text",
-       "text": "odzyskowego, jeśli dotyczy: ................ A 16.5. Średnie deklarowane opóźnienie hamowania hamulcem elektrodynamicznym bez"
-      },
-      {
-       "type": "text",
-       "text": "obciążenia z prędkości 30 km/h: ............. m/s²"
+       "text": "16.4. Maksymalny prąd zwrotny płynący do sieci mogący wystąpić w trakcie hamowania odzyskowego, jeśli dotyczy: ................ A 16.5. Średnie deklarowane opóźnienie hamowania hamulcem elektrodynamicznym bez obciążenia z prędkości 30 km/h: ............. m/s²"
       },
       {
        "type": "text",
@@ -6744,27 +6096,15 @@
       },
       {
        "type": "text",
-       "text": "16.7. Charakterystyki trakcyjne hamowania elektrodynamicznego dla nominalnego napięcia"
+       "text": "16.7. Charakterystyki trakcyjne hamowania elektrodynamicznego dla nominalnego napięcia zasilania:"
       },
       {
        "type": "text",
-       "text": "zasilania:"
+       "text": "16.7.1. wykres maksymalnej siły hamowania dla hamulca elektrodynamicznego w funkcji prędkości: ......................."
       },
       {
        "type": "text",
-       "text": "16.7.1. wykres maksymalnej siły hamowania dla hamulca elektrodynamicznego w funkcji"
-      },
-      {
-       "type": "text",
-       "text": "prędkości: ......................."
-      },
-      {
-       "type": "text",
-       "text": "16.7.2. wykres prądu w funkcji prędkości, jaki może być zwracany przez trolejbus do sieci,"
-      },
-      {
-       "type": "text",
-       "text": "przy maksymalnej sile hamowania elektrodynamicznego, jeśli dotyczy: ..................."
+       "text": "16.7.2. wykres prądu w funkcji prędkości, jaki może być zwracany przez trolejbus do sieci, przy maksymalnej sile hamowania elektrodynamicznego, jeśli dotyczy: ..................."
       }
      ]
     },
@@ -6772,35 +6112,15 @@
      "type": "ust",
      "num": "17",
      "path": "ust_17",
-     "text": "UKŁAD JAZDY AUTONOMICZNEJ LUB DODATKOWY UKŁAD",
+     "text": "UKŁAD JAZDY AUTONOMICZNEJ LUB DODATKOWY UKŁAD MAGAZYNUJĄCY ENERGIĘ (jeśli dotyczy)",
      "children": [
       {
        "type": "text",
-       "text": "MAGAZYNUJĄCY ENERGIĘ (jeśli dotyczy)"
+       "text": "17.1. Źródło zasilania dla jazdy autonomicznej, jeśli dotyczy: bateria akumulatorów / bateria kondensatorów / bateria akumulatorów i kondensatorów / agregat prądotwórczy napędzany silnikiem spalinowym[^1_5]"
       },
       {
        "type": "text",
-       "text": "17.1. Źródło zasilania dla jazdy autonomicznej, jeśli dotyczy: bateria akumulatorów / bateria"
-      },
-      {
-       "type": "text",
-       "text": "kondensatorów / bateria akumulatorów i kondensatorów / agregat prądotwórczy napędzany"
-      },
-      {
-       "type": "text",
-       "text": "silnikiem spalinowym[^1_5]"
-      },
-      {
-       "type": "text",
-       "text": "17.1.1. przeznaczenie układu jazdy autonomicznej: regularna obsługa pasażerska / obsługa"
-      },
-      {
-       "type": "text",
-       "text": "pasażerska w sytuacjach awaryjnych / jazda awaryjna lub manewrowa na bardzo krótkim"
-      },
-      {
-       "type": "text",
-       "text": "dystansie[^1_5]"
+       "text": "17.1.1. przeznaczenie układu jazdy autonomicznej: regularna obsługa pasażerska / obsługa pasażerska w sytuacjach awaryjnych / jazda awaryjna lub manewrowa na bardzo krótkim dystansie[^1_5]"
       },
       {
        "type": "text",
@@ -6844,11 +6164,7 @@
       },
       {
        "type": "text",
-       "text": "17.2.10. wytrzymałość napięciowa izolacji podstawy, na której są zamontowane baterie,"
-      },
-      {
-       "type": "text",
-       "text": "względem masy trolejbusu: ............................................. kV (50 Hz, 60 s)"
+       "text": "17.2.10. wytrzymałość napięciowa izolacji podstawy, na której są zamontowane baterie, względem masy trolejbusu: ............................................. kV (50 Hz, 60 s)"
       },
       {
        "type": "text",
@@ -6992,23 +6308,11 @@
       },
       {
        "type": "text",
-       "text": "17.4.11. wytrzymałość izolacji pomiędzy obwodami sieciowymi a obudową (ramą montażową)"
+       "text": "17.4.11. wytrzymałość izolacji pomiędzy obwodami sieciowymi a obudową (ramą montażową) przekształtnika przy zaciskach przeznaczonych do współpracy z baterią trakcyjną zwartych do obudowy (I stopień): .................... kV (50 Hz, 60 s)"
       },
       {
        "type": "text",
-       "text": "przekształtnika przy zaciskach przeznaczonych do współpracy z baterią trakcyjną zwartych do"
-      },
-      {
-       "type": "text",
-       "text": "obudowy (I stopień): .................... kV (50 Hz, 60 s)"
-      },
-      {
-       "type": "text",
-       "text": "17.4.12. wytrzymałość izolacji pomiędzy ramą montażową lub obudową przekształtnika i masą"
-      },
-      {
-       "type": "text",
-       "text": "trolejbusu (II stopień): ............................... kV (50 Hz, 60 s)"
+       "text": "17.4.12. wytrzymałość izolacji pomiędzy ramą montażową lub obudową przekształtnika i masą trolejbusu (II stopień): ............................... kV (50 Hz, 60 s)"
       },
       {
        "type": "text",
@@ -7028,11 +6332,7 @@
       },
       {
        "type": "text",
-       "text": "17.5.4. funkcja przekształtnika: kontrola prądu i napięcia ładowania / prądu rozładowania /"
-      },
-      {
-       "type": "text",
-       "text": "podwyższanie napięcia przy rozładowaniu[^1_5]"
+       "text": "17.5.4. funkcja przekształtnika: kontrola prądu i napięcia ładowania / prądu rozładowania / podwyższanie napięcia przy rozładowaniu[^1_5]"
       },
       {
        "type": "text",
@@ -7040,19 +6340,11 @@
       },
       {
        "type": "text",
-       "text": "17.5.6. częstotliwość impulsowania elementów półprzewodnikowych sterowanych: ............ Hz"
+       "text": "17.5.6. częstotliwość impulsowania elementów półprzewodnikowych sterowanych: ............ Hz 17.5.7. maksymalny prąd podczas ładowania baterii kondensatorów: ............................ A"
       },
       {
        "type": "text",
-       "text": "17.5.7. maksymalny prąd podczas ładowania baterii kondensatorów: ............................ A"
-      },
-      {
-       "type": "text",
-       "text": "17.5.8. maksymalny prąd podczas rozładowania baterii kondensatorów, jeśli dotyczy:"
-      },
-      {
-       "type": "text",
-       "text": ".............................. A"
+       "text": "17.5.8. maksymalny prąd podczas rozładowania baterii kondensatorów, jeśli dotyczy: .............................. A"
       },
       {
        "type": "text",
@@ -7068,19 +6360,11 @@
       },
       {
        "type": "text",
-       "text": "17.5.12. wytrzymałość izolacji pomiędzy obwodami sieciowymi a ramą montażową lub"
+       "text": "17.5.12. wytrzymałość izolacji pomiędzy obwodami sieciowymi a ramą montażową lub obudową przekształtnika: ......................................................... kV (50 Hz, 60 s)"
       },
       {
        "type": "text",
-       "text": "obudową przekształtnika: ......................................................... kV (50 Hz, 60 s)"
-      },
-      {
-       "type": "text",
-       "text": "17.5.13. wytrzymałość izolacji pomiędzy ramą montażową lub obudową przekształtnika i masą"
-      },
-      {
-       "type": "text",
-       "text": "trolejbusu: ...................................................................... kV (50 Hz, 60 s)"
+       "text": "17.5.13. wytrzymałość izolacji pomiędzy ramą montażową lub obudową przekształtnika i masą trolejbusu: ...................................................................... kV (50 Hz, 60 s)"
       },
       {
        "type": "text",
@@ -7112,11 +6396,7 @@
       },
       {
        "type": "text",
-       "text": "17.6.4.3. rodzaj silnika spalinowego: czterosuwowy benzynowy / czterosuwowy wysokoprężny[^1_5]"
-      },
-      {
-       "type": "text",
-       "text": "17.6.4.4. pojemność skokowa: ........................................................ cm³"
+       "text": "17.6.4.3. rodzaj silnika spalinowego: czterosuwowy benzynowy / czterosuwowy wysokoprężny[^1_5] 17.6.4.4. pojemność skokowa: ........................................................ cm³"
       },
       {
        "type": "text",
@@ -7272,11 +6552,7 @@
       },
       {
        "type": "text",
-       "text": "17.8.5. funkcja: odłączanie układu autonomicznego / odłączanie i ochrona nadmiarowa obwodu"
-      },
-      {
-       "type": "text",
-       "text": "autonomicznego[^1_5]"
+       "text": "17.8.5. funkcja: odłączanie układu autonomicznego / odłączanie i ochrona nadmiarowa obwodu autonomicznego[^1_5]"
       },
       {
        "type": "text",
@@ -7300,19 +6576,11 @@
       },
       {
        "type": "text",
-       "text": "17.8.11. wytrzymałość izolacji pomiędzy torem prądowym wyłącznika i instalacją sterującą:"
+       "text": "17.8.11. wytrzymałość izolacji pomiędzy torem prądowym wyłącznika i instalacją sterującą: ............................................................... kV (50 Hz, 60 s)"
       },
       {
        "type": "text",
-       "text": "............................................................... kV (50 Hz, 60 s)"
-      },
-      {
-       "type": "text",
-       "text": "17.8.12. wytrzymałość izolacji pomiędzy torem prądowym wyłącznika i podstawą lub"
-      },
-      {
-       "type": "text",
-       "text": "obudową: ............................................................... kV (50 Hz, 60 s)"
+       "text": "17.8.12. wytrzymałość izolacji pomiędzy torem prądowym wyłącznika i podstawą lub obudową: ............................................................... kV (50 Hz, 60 s)"
       },
       {
        "type": "text",
@@ -7328,23 +6596,7 @@
       },
       {
        "type": "text",
-       "text": "17.9.3. średnie deklarowane opóźnienie hamowania hamulcem elektrodynamicznym trolejbusu"
-      },
-      {
-       "type": "text",
-       "text": "pustego z prędkości 30 km/h: .................... m/s² (w sytuacji gdy trolejbus podczas jazdy"
-      },
-      {
-       "type": "text",
-       "text": "autonomicznej nie osiąga prędkości maksymalnej 30 km/h, pomiar przyspieszenia i opóźnienia"
-      },
-      {
-       "type": "text",
-       "text": "hamowania elektrodynamicznego należy wykonać odpowiednio do uzyskanej prędkości"
-      },
-      {
-       "type": "text",
-       "text": "i z możliwej do uzyskania prędkości, bliskiej prędkości maksymalnej)"
+       "text": "17.9.3. średnie deklarowane opóźnienie hamowania hamulcem elektrodynamicznym trolejbusu pustego z prędkości 30 km/h: .................... m/s² (w sytuacji gdy trolejbus podczas jazdy autonomicznej nie osiąga prędkości maksymalnej 30 km/h, pomiar przyspieszenia i opóźnienia hamowania elektrodynamicznego należy wykonać odpowiednio do uzyskanej prędkości i z możliwej do uzyskania prędkości, bliskiej prędkości maksymalnej)"
       },
       {
        "type": "text",
@@ -7359,27 +6611,18 @@
    "body": [
     {
      "type": "text",
-     "text": "ZAKRES I SPOSÓB PRZEPROWADZANIA KONTROLI ZGODNOŚCI PRODUKCJI W ZWIĄZKU Z PROCEDURĄ KRAJOWEJ HOMOLOGACJI TYPU TRAMWAJU LUB TROLEJBUSU"
+     "text": "ZAKRES I SPOSÓB PRZEPROWADZANIA KONTROLI ZGODNOŚCI PRODUKCJI"
+    },
+    {
+     "type": "text",
+     "text": "W ZWIĄZKU Z PROCEDURĄ KRAJOWEJ HOMOLOGACJI TYPU TRAMWAJU LUB TROLEJBUSU"
     },
     {
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Kontrola zgodności produkcji, o której mowa w art. 52 ustawy z dnia 14 kwietnia 2023 r.",
+     "text": "Kontrola zgodności produkcji, o której mowa w art. 52 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia (Dz. U. poz. 919), zwana dalej „kontrolą”, przeprowadzana przez Dyrektora Transportowego Dozoru Technicznego, zwanego dalej „Dyrektorem TDT”, składa się z dwóch etapów:",
      "children": [
-      {
-       "type": "text",
-       "text": "o systemach homologacji pojazdów oraz ich wyposażenia (Dz. U. poz. 919), zwana dalej"
-      },
-      {
-       "type": "text",
-       "text": "„kontrolą”, przeprowadzana przez Dyrektora Transportowego Dozoru Technicznego, zwanego",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "dalej „Dyrektorem TDT”, składa się z dwóch etapów:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -7391,16 +6634,8 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_1/pkt_2",
-       "text": "weryfikacji przedsięwzięć i metod zapewniających zgodność produkcji tramwaju lub",
+       "text": "weryfikacji przedsięwzięć i metod zapewniających zgodność produkcji tramwaju lub trolejbusu, przedmiotów wyposażenia lub części, zwanych dalej „wyrobami”, z typem objętym świadectwem homologacji.",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "trolejbusu, przedmiotów wyposażenia lub części, zwanych dalej „wyrobami”, z typem"
-      },
-      {
-       "type": "text",
-       "text": "objętym świadectwem homologacji."
       }
      ]
     },
@@ -7408,12 +6643,8 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "W ramach oceny wstępnej Dyrektor TDT sprawdza istnienie u producenta systemu",
+     "text": "W ramach oceny wstępnej Dyrektor TDT sprawdza istnienie u producenta systemu zarządzania jakością.",
      "children": [
-      {
-       "type": "text",
-       "text": "zarządzania jakością."
-      },
       {
        "type": "text",
        "text": "2.1. Przy określaniu zakresu oceny wstępnej Dyrektor TDT uwzględnia:"
@@ -7422,75 +6653,24 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_2/pkt_1",
-       "text": "dokumentację producenta potwierdzającą zgodność ze zharmonizowaną normą ISO 9001",
+       "text": "dokumentację producenta potwierdzającą zgodność ze zharmonizowaną normą ISO 9001 lub z równoważną zharmonizowaną normą, która spełnia ogólne wymagania oceny wstępnej;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "lub z równoważną zharmonizowaną normą, która spełnia ogólne wymagania oceny wstępnej;"
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_2/pkt_2",
-       "text": "dokumentację producenta pojazdu w zakresie przeprowadzonej przez niego oceny",
-       "children": []
-      },
-      {
-       "type": "text",
-       "text": "systemu zarządzania jakością u producenta wyrobów, zgodnie z co najmniej jedną"
-      },
-      {
-       "type": "text",
-       "text": "specyfikacją przemysłową, spełniającą wymagania normy, o której mowa w ppkt 1."
-      },
-      {
-       "type": "text",
-       "text": "2.2. Przy uwzględnianiu przez Dyrektora TDT, na potrzeby oceny wstępnej, dokumentacji"
-      },
-      {
-       "type": "text",
-       "text": "przedstawionej przez producenta według normy, o której mowa w pkt 2.1 ppkt 1, w toku"
-      },
-      {
-       "type": "text",
-       "text": "kontroli Dyrektor TDT ustala z producentem sposób informowania o wszelkich zmianach"
-      },
-      {
-       "type": "text",
-       "text": "zakresu i terminów ważności tej dokumentacji."
-      },
-      {
-       "type": "text",
-       "text": "2.3. Ocena wstępna przeprowadzana przed wydaniem świadectwa homologacji typu"
-      },
-      {
-       "type": "text",
-       "text": "tramwaju lub trolejbusu nie wymaga przeprowadzenia ponownej oceny wstępnej,"
-      },
-      {
-       "type": "text",
-       "text": "przeprowadzonej na potrzeby wydania świadectwa homologacji typu przedmiotu wyposażenia"
-      },
-      {
-       "type": "text",
-       "text": "lub części, montowanych w tym typie. W takim przypadku zakres oceny wstępnej powinien"
-      },
-      {
-       "type": "text",
-       "text": "obejmować zakłady produkcyjne producenta pojazdu i działania związane z montażem"
-      },
-      {
-       "type": "text",
-       "text": "tramwaju lub trolejbusu, które nie były objęte zakresem ocen wstępnych przeprowadzonych"
-      },
-      {
-       "type": "text",
-       "text": "przed wydaniem świadectwa homologacji typu przedmiotu wyposażenia lub części tego typu"
-      },
-      {
-       "type": "text",
-       "text": "tramwaju lub trolejbusu."
+       "text": "dokumentację producenta pojazdu w zakresie przeprowadzonej przez niego oceny systemu zarządzania jakością u producenta wyrobów, zgodnie z co najmniej jedną specyfikacją przemysłową, spełniającą wymagania normy, o której mowa w ppkt 1.",
+       "children": [
+        {
+         "type": "text",
+         "text": "2.2. Przy uwzględnianiu przez Dyrektora TDT, na potrzeby oceny wstępnej, dokumentacji przedstawionej przez producenta według normy, o której mowa w pkt 2.1 ppkt 1, w toku kontroli Dyrektor TDT ustala z producentem sposób informowania o wszelkich zmianach zakresu i terminów ważności tej dokumentacji."
+        },
+        {
+         "type": "text",
+         "text": "2.3. Ocena wstępna przeprowadzana przed wydaniem świadectwa homologacji typu tramwaju lub trolejbusu nie wymaga przeprowadzenia ponownej oceny wstępnej, przeprowadzonej na potrzeby wydania świadectwa homologacji typu przedmiotu wyposażenia lub części, montowanych w tym typie. W takim przypadku zakres oceny wstępnej powinien obejmować zakłady produkcyjne producenta pojazdu i działania związane z montażem tramwaju lub trolejbusu, które nie były objęte zakresem ocen wstępnych przeprowadzonych przed wydaniem świadectwa homologacji typu przedmiotu wyposażenia lub części tego typu tramwaju lub trolejbusu."
+        }
+       ]
       }
      ]
     },
@@ -7498,16 +6678,8 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "W ramach weryfikacji wprowadzonych przez producenta przedsięwzięć i metod",
+     "text": "W ramach weryfikacji wprowadzonych przez producenta przedsięwzięć i metod zapewniających zgodność produkcji wyrobów z typem objętym świadectwem homologacji Dyrektor TDT:",
      "children": [
-      {
-       "type": "text",
-       "text": "zapewniających zgodność produkcji wyrobów z typem objętym świadectwem homologacji"
-      },
-      {
-       "type": "text",
-       "text": "Dyrektor TDT:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -7590,70 +6762,49 @@
          "type": "lit",
          "num": "c",
          "path": "ust_3/pkt_1/lit_c",
-         "text": "istnienie systemu badań i kontroli wewnętrznych produkowanych wyrobów,",
+         "text": "istnienie systemu badań i kontroli wewnętrznych produkowanych wyrobów, zapewnienie:",
          "children": [
-          {
-           "type": "text",
-           "text": "zapewnienie:"
-          },
           {
            "type": "tir",
            "num": "1",
            "path": "ust_3/pkt_1/lit_c/tir_1",
-           "text": "sprawdzenia zgodności kompletacji pojazdu z danymi zawartymi w świadectwie",
+           "text": "sprawdzenia zgodności kompletacji pojazdu z danymi zawartymi w świadectwie homologacji typu tramwaju lub trolejbusu,",
            "children": []
           },
           {
-           "type": "text",
-           "text": "homologacji typu tramwaju lub trolejbusu,"
+           "type": "tir",
+           "num": "2",
+           "path": "ust_3/pkt_1/lit_c/tir_2",
+           "text": "dostępu do wyposażenia badawczo-rozwojowego i kontrolnego, w tym sposób identyfikacji i sprawdzania tego wyposażenia,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– dostępu do wyposażenia badawczo-rozwojowego i kontrolnego, w tym sposób"
+           "type": "tir",
+           "num": "3",
+           "path": "ust_3/pkt_1/lit_c/tir_3",
+           "text": "dokumentowania i udostępniania wyników badań i kontroli wewnętrznych wyrobów, między innymi poprzez plany kontroli,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "identyfikacji i sprawdzania tego wyposażenia,"
+           "type": "tir",
+           "num": "4",
+           "path": "ust_3/pkt_1/lit_c/tir_4",
+           "text": "prowadzenia analizy wyników badań i kontroli wewnętrznych pod kątem sprawdzania i zapewnienia przez producenta zachowania na takim samym poziomie produkcji wyrobów, z jednoczesnym uwzględnianiem postępu w obszarze technicznym i produkcji przemysłowej,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "– dokumentowania i udostępniania wyników badań i kontroli wewnętrznych"
+           "type": "tir",
+           "num": "5",
+           "path": "ust_3/pkt_1/lit_c/tir_5",
+           "text": "skutecznego procesu eliminowania niezgodności stwierdzonych w wyniku badań i kontroli wewnętrznych,",
+           "children": []
           },
           {
-           "type": "text",
-           "text": "wyrobów, między innymi poprzez plany kontroli,"
-          },
-          {
-           "type": "text",
-           "text": "– prowadzenia analizy wyników badań i kontroli wewnętrznych pod kątem"
-          },
-          {
-           "type": "text",
-           "text": "sprawdzania i zapewnienia przez producenta zachowania na takim samym"
-          },
-          {
-           "type": "text",
-           "text": "poziomie produkcji wyrobów, z jednoczesnym uwzględnianiem postępu"
-          },
-          {
-           "type": "text",
-           "text": "w obszarze technicznym i produkcji przemysłowej,"
-          },
-          {
-           "type": "text",
-           "text": "– skutecznego procesu eliminowania niezgodności stwierdzonych w wyniku"
-          },
-          {
-           "type": "text",
-           "text": "badań i kontroli wewnętrznych,"
-          },
-          {
-           "type": "text",
-           "text": "– skutecznego procesu eliminowania i wycofywania z produkcji wyrobów"
-          },
-          {
-           "type": "text",
-           "text": "wadliwych, w tym stosowania oznaczeń takich wyrobów;"
+           "type": "tir",
+           "num": "6",
+           "path": "ust_3/pkt_1/lit_c/tir_6",
+           "text": "skutecznego procesu eliminowania i wycofywania z produkcji wyrobów wadliwych, w tym stosowania oznaczeń takich wyrobów;",
+           "children": []
           }
          ]
         }
@@ -7663,12 +6814,8 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_3/pkt_2",
-       "text": "ustala z producentem okres przechowywania wyników badań i kontroli wewnętrznych",
+       "text": "ustala z producentem okres przechowywania wyników badań i kontroli wewnętrznych wyrobów przeprowadzanych przez tego producenta.",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "wyrobów przeprowadzanych przez tego producenta."
       }
      ]
     },
@@ -7676,24 +6823,15 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Dyrektor TDT uzgadnia termin kontroli z podmiotem podlegającym kontroli, zwanym",
-     "children": [
-      {
-       "type": "text",
-       "text": "dalej „kontrolowanym”."
-      }
-     ]
+     "text": "Dyrektor TDT uzgadnia termin kontroli z podmiotem podlegającym kontroli, zwanym dalej „kontrolowanym”.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "5",
      "path": "ust_5",
-     "text": "Dyrektor TDT, nie później niż w terminie 14 dni przed terminem przystąpienia do",
+     "text": "Dyrektor TDT, nie później niż w terminie 14 dni przed terminem przystąpienia do czynności kontrolnych, powiadamia kontrolowanego o:",
      "children": [
-      {
-       "type": "text",
-       "text": "czynności kontrolnych, powiadamia kontrolowanego o:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -7741,34 +6879,22 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_7/pkt_3",
-       "text": "wykaz przedstawicieli kontrolowanego, zawierający ich dane osobowe: imię, nazwisko",
+       "text": "wykaz przedstawicieli kontrolowanego, zawierający ich dane osobowe: imię, nazwisko oraz zajmowane stanowisko;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "oraz zajmowane stanowisko;"
       },
       {
        "type": "pkt",
        "num": "4",
        "path": "ust_7/pkt_4",
-       "text": "dane osobowe osób przeprowadzających kontrolę: imię, nazwisko oraz zajmowane",
+       "text": "dane osobowe osób przeprowadzających kontrolę: imię, nazwisko oraz zajmowane stanowisko;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "stanowisko;"
       },
       {
        "type": "pkt",
        "num": "5",
        "path": "ust_7/pkt_5",
-       "text": "wykaz skontrolowanych dokumentów, procedur, procesów produkcyjnych, obiektów,",
+       "text": "wykaz skontrolowanych dokumentów, procedur, procesów produkcyjnych, obiektów, pomieszczeń lub wyposażenia;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "pomieszczeń lub wyposażenia;"
       },
       {
        "type": "pkt",
@@ -7788,12 +6914,8 @@
        "type": "pkt",
        "num": "8",
        "path": "ust_7/pkt_8",
-       "text": "złożone przez kontrolowanego uwagi do kontroli oraz proponowane przez kontrolowanego",
+       "text": "złożone przez kontrolowanego uwagi do kontroli oraz proponowane przez kontrolowanego działania zapobiegawcze lub korygujące;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "działania zapobiegawcze lub korygujące;"
       },
       {
        "type": "pkt",
@@ -7806,23 +6928,15 @@
        "type": "pkt",
        "num": "10",
        "path": "ust_7/pkt_10",
-       "text": "załączniki z podaniem nazwy każdego z nich, zawierające pisemne oświadczenia,",
+       "text": "załączniki z podaniem nazwy każdego z nich, zawierające pisemne oświadczenia, wyjaśnienia, obliczenia i inne dokumenty przekazane przez kontrolowanego;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "wyjaśnienia, obliczenia i inne dokumenty przekazane przez kontrolowanego;"
       },
       {
        "type": "pkt",
        "num": "11",
        "path": "ust_7/pkt_11",
-       "text": "datę i miejsce sporządzenia protokołu, podpisy osób przeprowadzających kontrolę oraz",
+       "text": "datę i miejsce sporządzenia protokołu, podpisy osób przeprowadzających kontrolę oraz kontrolowanego.",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "kontrolowanego."
       }
      ]
     },
@@ -7850,12 +6964,8 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_8/pkt_3",
-       "text": "jeden egzemplarz jest przeznaczony dla służby technicznej w ramach prowadzonej przez",
+       "text": "jeden egzemplarz jest przeznaczony dla służby technicznej w ramach prowadzonej przez nią dokumentacji homologacyjnej.",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "nią dokumentacji homologacyjnej."
       }
      ]
     }
@@ -8246,39 +7356,11 @@
     },
     {
      "type": "text",
-     "text": "Oświadczenie zawierające dane i informacje o trolejbusie niezbędne do rejestracji"
+     "text": "Oświadczenie zawierające dane i informacje o trolejbusie niezbędne do rejestracji i ewidencji trolejbusu[^1_9]"
     },
     {
      "type": "text",
-     "text": "i ewidencji trolejbusu[^1_9]"
-    },
-    {
-     "type": "text",
-     "text": "Oświadczam o dodatkowych, wynikających z obowiązujących na terytorium Rzeczypospolitej"
-    },
-    {
-     "type": "text",
-     "text": "Polskiej przepisów, danych i informacjach o pojeździe niezbędnych do rejestracji i ewidencji,"
-    },
-    {
-     "type": "text",
-     "text": "który odpowiada pod każdym względem typowi opisanemu w świadectwie homologacji typu"
-    },
-    {
-     "type": "text",
-     "text": "WE pojazdu / świadectwie homologacji typu UE pojazdu / świadectwie krajowej homologacji"
-    },
-    {
-     "type": "text",
-     "text": "typu pojazdu[^2_8] nr ........................ z dnia .............................................................., które zostało"
-    },
-    {
-     "type": "text",
-     "text": "uznane przez organ właściwy do uznania tego świadectwa w drodze decyzji nr ....................."
-    },
-    {
-     "type": "text",
-     "text": "z dnia ..........................................................."
+     "text": "Oświadczam o dodatkowych, wynikających z obowiązujących na terytorium Rzeczypospolitej Polskiej przepisów, danych i informacjach o pojeździe niezbędnych do rejestracji i ewidencji, który odpowiada pod każdym względem typowi opisanemu w świadectwie homologacji typu WE pojazdu / świadectwie homologacji typu UE pojazdu / świadectwie krajowej homologacji typu pojazdu[^2_8] nr ........................ z dnia .............................................................., które zostało uznane przez organ właściwy do uznania tego świadectwa w drodze decyzji nr ..................... z dnia ..........................................................."
     },
     {
      "type": "text",
@@ -8286,7 +7368,15 @@
     },
     {
      "type": "text",
-     "text": "Numer VIN albo numer nadwozia, podwozia 1 lub ramy"
+     "text": "Numer VIN albo numer nadwozia, podwozia"
+    },
+    {
+     "type": "text",
+     "text": "1"
+    },
+    {
+     "type": "text",
+     "text": "lub ramy"
     },
     {
      "type": "text",

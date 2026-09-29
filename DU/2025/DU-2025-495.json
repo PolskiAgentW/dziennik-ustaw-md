@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/495",
  "title": "Obwieszczenie Ministra Zdrowia z dnia 20 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie programu pilotażowego \"Recepta na Ruch\"",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/495/text.pdf",
  "body": [
   {
@@ -488,8 +488,9 @@
      "text": "ZAKRES I RODZAJ ŚWIADCZEŃ OPIEKI ZDROWOTNEJ UDZIELANYCH W RAMACH PROGRAMU PILOTAŻOWEGO „RECEPTA NA RUCH”, WARUNKI ICH UDZIELANIA I ORGANIZACJI, SPOSÓB ROZLICZENIA TYCH ŚWIADCZEŃ, KRYTERIA KWALIFIKACJI ŚWIADCZENIOBIORCY DO PROGRAMU PILOTAŻOWEGO, A TAKŻE SCHEMAT POSTĘPOWANIA ZE ŚWIADCZENIOBIORCĄ ZAKWALIFIKOWANYM DO PROGRAMU PILOTAŻOWEGO „RECEPTA NA RUCH”"
     },
     {
-     "type": "text",
-     "text": "I. Zakres i rodzaj świadczeń opieki zdrowotnej udzielanych w ramach programu pilotażowego „Recepta na Ruch”, zwanego dalej „programem pilotażowym”"
+     "type": "heading",
+     "label": "I.",
+     "text": "Zakres i rodzaj świadczeń opieki zdrowotnej udzielanych w ramach programu pilotażowego „Recepta na Ruch”, zwanego dalej „programem pilotażowym”"
     },
     {
      "type": "ust",
@@ -794,16 +795,16 @@
          "num": "e",
          "path": "ust_2/pkt_4/lit_e",
          "text": "konsultacja fizjoterapeuty z lekarzem posiadającym tytuł specjalisty lub specjalizację II stopnia w dziedzinie: neurologii, kardiologii, ortopedii, gastrologii, diabetologii, onkologii, ginekologii, urologii, endokrynologii, pulmonologii.",
-         "children": [
-          {
-           "type": "text",
-           "text": "II. Warunki organizacji świadczeń opieki zdrowotnej z zakresu rehabilitacji leczniczej oraz warunki ich realizacji"
-          }
-         ]
+         "children": []
         }
        ]
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Warunki organizacji świadczeń opieki zdrowotnej z zakresu rehabilitacji leczniczej oraz warunki ich realizacji"
     },
     {
      "type": "ust",
@@ -1250,12 +1251,12 @@
      "num": "8",
      "path": "ust_8",
      "text": "Świadczenia opieki zdrowotnej, o których mowa w części I, są udzielane na podstawie skierowania w postaci elektronicznej wystawionego za pośrednictwem SIM.",
-     "children": [
-      {
-       "type": "text",
-       "text": "III. Schemat postępowania ze świadczeniobiorcą zakwalifikowanym do programu pilotażowego"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Schemat postępowania ze świadczeniobiorcą zakwalifikowanym do programu pilotażowego"
     },
     {
      "type": "ust",

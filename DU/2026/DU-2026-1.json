@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo atomowe",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1/text.pdf",
  "body": [
   {
@@ -29407,8 +29407,9 @@
      "text": "DAWKI GRANICZNE PROMIENIOWANIA JONIZUJĄCEGO"
     },
     {
-     "type": "text",
-     "text": "I. Dla pracowników"
+     "type": "heading",
+     "label": "I.",
+     "text": "Dla pracowników"
     },
     {
      "type": "ust",
@@ -29465,12 +29466,12 @@
      "num": "5",
      "path": "ust_5",
      "text": "Wartość, o której mowa w pkt 4 ppkt 1, może być w pojedynczym roku kalendarzowym przekroczona do 50 mSv, jednakże w każdym okresie pięciu kolejnych lat kalendarzowych, w tym lat, w których dawka graniczna została przekroczona, nie może przekroczyć 100 mSv.",
-     "children": [
-      {
-       "type": "text",
-       "text": "II. Dla uczniów, studentów i praktykantów"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Dla uczniów, studentów i praktykantów"
     },
     {
      "type": "ust",
@@ -29513,30 +29514,30 @@
      "num": "3",
      "path": "ust_3",
      "text": "Dla uczniów, studentów i praktykantów, w wieku poniżej 16 lat, mają zastosowanie dawki graniczne ustalone w poz. III.",
-     "children": [
-      {
-       "type": "text",
-       "text": "III. Dla osób z ogółu ludności"
-      },
-      {
-       "type": "text",
-       "text": "Dla osób z ogółu ludności dawka graniczna, wyrażona jako dawka skuteczna (efektywna), wynosi 1 mSv w ciągu roku kalendarzowego, przy czym dawka graniczna, wyrażona jako dawka równoważna, wynosi w ciągu roku kalendarzowego:"
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_3/pkt_1",
-       "text": "15 mSv – dla soczewki oka;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "ust_3/pkt_2",
-       "text": "50 mSv – dla skóry, jako wartość średnia dla każdego obszaru 1 cm² napromienionej części skóry, niezależnie od napromienionej powierzchni.",
-       "children": []
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Dla osób z ogółu ludności"
+    },
+    {
+     "type": "text",
+     "text": "Dla osób z ogółu ludności dawka graniczna, wyrażona jako dawka skuteczna (efektywna), wynosi 1 mSv w ciągu roku kalendarzowego, przy czym dawka graniczna, wyrażona jako dawka równoważna, wynosi w ciągu roku kalendarzowego:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "15 mSv – dla soczewki oka;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "50 mSv – dla skóry, jako wartość średnia dla każdego obszaru 1 cm² napromienionej części skóry, niezależnie od napromienionej powierzchni.",
+     "children": []
     }
    ]
   },

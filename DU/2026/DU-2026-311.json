@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/311",
  "title": "Rozporządzenie Ministra Finansów i Gospodarki z dnia 18 lutego 2026 r. w sprawie zasad tworzenia rezerw na ryzyko związane z działalnością banków",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/311/text.pdf",
  "body": [
   {
@@ -1144,8 +1144,9 @@
      "text": "ZASADY KLASYFIKACJI EKSPOZYCJI KREDYTOWYCH"
     },
     {
-     "type": "text",
-     "text": "I. Kryteria klasyfikacji ekspozycji kredytowych"
+     "type": "heading",
+     "label": "I.",
+     "text": "Kryteria klasyfikacji ekspozycji kredytowych"
     },
     {
      "type": "ust",
@@ -1380,14 +1381,14 @@
        "num": "4",
        "path": "ust_4/pkt_4",
        "text": "w części zabezpieczonej zabezpieczeniami, o których mowa w pkt 27 załącznika nr 2 do rozporządzenia, ekspozycje mogą być klasyfikowane jako ekspozycje kredytowe „normalne”; zabezpieczenia te uwzględnia się, stosując odpowiednio zasady określone w § 5 rozporządzenia.",
-       "children": [
-        {
-         "type": "text",
-         "text": "II. Klasyfikacja ekspozycji kredytowych"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Klasyfikacja ekspozycji kredytowych"
     },
     {
      "type": "ust",
@@ -2181,14 +2182,14 @@
        "num": "3",
        "path": "ust_10/pkt_3",
        "text": "„stracone” ‒ jeżeli wskaźnik „DO” jest równy 30 % lub większy od 30 %.",
-       "children": [
-        {
-         "type": "text",
-         "text": "III. Zmiana klasyfikacji ekspozycji kredytowych"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Zmiana klasyfikacji ekspozycji kredytowych"
     },
     {
      "type": "ust",
@@ -2288,14 +2289,14 @@
        "num": "3",
        "path": "ust_4/pkt_3",
        "text": "żadna z ekspozycji kredytowych wobec dłużnika nie jest przeterminowana o ponad 30 dni.",
-       "children": [
-        {
-         "type": "text",
-         "text": "IV. Częstotliwość przeglądów i klasyfikacji ekspozycji kredytowych"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Częstotliwość przeglądów i klasyfikacji ekspozycji kredytowych"
     },
     {
      "type": "ust",

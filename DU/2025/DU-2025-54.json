@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/54",
  "title": "Rozporządzenie Rady Ministrów z dnia 20 grudnia 2024 r. w sprawie przyjęcia planu zagospodarowania przestrzennego morskich wód wewnętrznych - port morski w Dziwnowie",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/54/text.pdf",
  "body": [
   {
@@ -70,7 +70,11 @@
    "body": [
     {
      "type": "text",
-     "text": "CZĘŚĆ TEKSTOWA PLANU W ZAKRESIE USTALEŃ OGÓLNYCH ZAWIERAJĄCYCH WSKAZANIE ROZSTRZYGNIĘĆ OBOWIĄZUJĄCYCH NA CZĘŚCI LUB NA CAŁYM OBSZARZE OBJĘTYM PLANEM, ROZSTRZYGNIĘĆ DOTYCZĄCYCH ROZMIESZCZENIA INWESTYCJI CELU PUBLICZNEGO ORAZ KIERUNKÓW ROZWOJU TRANSPORTU I INFRASTRUKTURY TECHNICZNEJ"
+     "text": "CZĘŚĆ TEKSTOWA PLANU W ZAKRESIE USTALEŃ OGÓLNYCH ZAWIERAJĄCYCH WSKAZANIE ROZSTRZYGNIĘĆ OBOWIĄZUJĄCYCH NA CZĘŚCI LUB NA CAŁYM OBSZARZE OBJĘTYM PLANEM, ROZSTRZYGNIĘĆ DOTYCZĄCYCH ROZMIESZCZENIA INWESTYCJI CELU PUBLICZNEGO"
+    },
+    {
+     "type": "text",
+     "text": "ORAZ KIERUNKÓW ROZWOJU TRANSPORTU I INFRASTRUKTURY TECHNICZNEJ"
     },
     {
      "type": "par",
@@ -88,79 +92,43 @@
          "type": "pkt",
          "num": "1",
          "path": "par_1/ust_1/pkt_1",
-         "text": "elementy liniowe – elementy liniowe infrastruktury technicznej, tj. kable energetyczne,",
+         "text": "elementy liniowe – elementy liniowe infrastruktury technicznej, tj. kable energetyczne, telekomunikacyjne i rurociągi;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "telekomunikacyjne i rurociągi;"
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "par_1/ust_1/pkt_2",
-         "text": "infrastruktura turystyczna – obiekty turystyczne związane z bierną i aktywną turystyką,",
+         "text": "infrastruktura turystyczna – obiekty turystyczne związane z bierną i aktywną turystyką, w szczególności: domy na wodzie, pomosty, pontony, slipy, pirsy, miejsca postoju jednostek turystycznych oraz urządzenia i konstrukcje rekreacyjne;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "w szczególności: domy na wodzie, pomosty, pontony, slipy, pirsy, miejsca postoju"
-        },
-        {
-         "type": "text",
-         "text": "jednostek turystycznych oraz urządzenia i konstrukcje rekreacyjne;"
         },
         {
          "type": "pkt",
          "num": "3",
          "path": "par_1/ust_1/pkt_3",
-         "text": "obszar ochrony wizury znaków nawigacyjnych – obszar wyznaczony w celu zapewnienia",
+         "text": "obszar ochrony wizury znaków nawigacyjnych – obszar wyznaczony w celu zapewnienia widzialności świateł i konstrukcji znaków nawigacyjnych;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "widzialności świateł i konstrukcji znaków nawigacyjnych;"
         },
         {
          "type": "pkt",
          "num": "4",
          "path": "par_1/ust_1/pkt_4",
-         "text": "podakwen ‒ obszar planu stanowiący wydzieloną część akwenu o określonych funkcjach",
+         "text": "podakwen ‒ obszar planu stanowiący wydzieloną część akwenu o określonych funkcjach dopuszczalnych lub na której obowiązują zakazy lub ograniczenia;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "dopuszczalnych lub na której obowiązują zakazy lub ograniczenia;"
         },
         {
          "type": "pkt",
          "num": "5",
          "path": "par_1/ust_1/pkt_5",
-         "text": "podwodne dziedzictwo kulturowe – zabytki zlokalizowane na obszarze portu morskiego",
+         "text": "podwodne dziedzictwo kulturowe – zabytki zlokalizowane na obszarze portu morskiego oraz ich otoczenie w rozumieniu art. 3 pkt 15 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907);",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "oraz ich otoczenie w rozumieniu art. 3 pkt 15 ustawy z dnia 23 lipca 2003 r. o ochronie"
-        },
-        {
-         "type": "text",
-         "text": "zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907);"
         },
         {
          "type": "pkt",
          "num": "6",
          "path": "par_1/ust_1/pkt_6",
-         "text": "sytuacja nadzwyczajna – sytuacja zagrażająca życiu i zdrowiu ludzkiemu lub zagrażająca",
+         "text": "sytuacja nadzwyczajna – sytuacja zagrażająca życiu i zdrowiu ludzkiemu lub zagrażająca bezpieczeństwu żeglugi lub środowisku, lub mieniu w tak znacznym wymiarze, że wymaga podjęcia działań natychmiastowych;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "bezpieczeństwu żeglugi lub środowisku, lub mieniu w tak znacznym wymiarze, że"
-        },
-        {
-         "type": "text",
-         "text": "wymaga podjęcia działań natychmiastowych;"
         }
        ]
       },
@@ -174,46 +142,22 @@
          "type": "pkt",
          "num": "1",
          "path": "par_1/ust_2/pkt_1",
-         "text": "badania naukowe – prowadzenie badań naukowych obejmujących m.in. monitoring wód",
+         "text": "badania naukowe – prowadzenie badań naukowych obejmujących m.in. monitoring wód oraz środowiska przyrodniczego oraz prowadzenie badań geologicznych (prac geologicznych) niewymagających koncesji na poszukiwanie i rozpoznawanie złóż;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "oraz środowiska przyrodniczego oraz prowadzenie badań geologicznych (prac"
-        },
-        {
-         "type": "text",
-         "text": "geologicznych) niewymagających koncesji na poszukiwanie i rozpoznawanie złóż;"
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "par_1/ust_2/pkt_2",
-         "text": "dziedzictwo kulturowe ‒ ochrona zidentyfikowanych elementów podwodnego",
+         "text": "dziedzictwo kulturowe ‒ ochrona zidentyfikowanych elementów podwodnego dziedzictwa kulturowego, w szczególności zabytków i krajobrazów kulturowych, przez wskazanie tych elementów w planie, a także zapewnienie warunków ich ochrony;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "dziedzictwa kulturowego, w szczególności zabytków i krajobrazów kulturowych, przez"
-        },
-        {
-         "type": "text",
-         "text": "wskazanie tych elementów w planie, a także zapewnienie warunków ich ochrony;"
         },
         {
          "type": "pkt",
          "num": "3",
          "path": "par_1/ust_2/pkt_3",
-         "text": "funkcjonowanie portu – utrzymanie i rozwój infrastruktury portowej w celu realizacji",
+         "text": "funkcjonowanie portu – utrzymanie i rozwój infrastruktury portowej w celu realizacji istniejących i przyszłych funkcji portowych: rybołówstwa, przeładunku, turystyki, transportu i przemysłu;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "istniejących i przyszłych funkcji portowych: rybołówstwa, przeładunku, turystyki,"
-        },
-        {
-         "type": "text",
-         "text": "transportu i przemysłu;"
         },
         {
          "type": "pkt",
@@ -239,12 +183,8 @@
            "type": "lit",
            "num": "c",
            "path": "par_1/ust_2/pkt_4/lit_c",
-           "text": "lokalizacja innych obiektów służących bezpieczeństwu żeglugi i obronności,",
+           "text": "lokalizacja innych obiektów służących bezpieczeństwu żeglugi i obronności, niewchodzących w skład infrastruktury portowej;",
            "children": []
-          },
-          {
-           "type": "text",
-           "text": "niewchodzących w skład infrastruktury portowej;"
           }
          ]
         },
@@ -252,104 +192,36 @@
          "type": "pkt",
          "num": "5",
          "path": "par_1/ust_2/pkt_5",
-         "text": "obronność i bezpieczeństwo państwa ‒ realizacja zadań mających na celu utrzymanie",
+         "text": "obronność i bezpieczeństwo państwa ‒ realizacja zadań mających na celu utrzymanie bezpieczeństwa narodowego, w szczególności ochrony i obrony wartości i interesów narodowych przed istniejącymi lub potencjalnymi zagrożeniami zewnętrznymi oraz wykorzystanie akwenów pod miejsce postoju jednostek specjalnych;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "bezpieczeństwa narodowego, w szczególności ochrony i obrony wartości i interesów"
-        },
-        {
-         "type": "text",
-         "text": "narodowych przed istniejącymi lub potencjalnymi zagrożeniami zewnętrznymi oraz"
-        },
-        {
-         "type": "text",
-         "text": "wykorzystanie akwenów pod miejsce postoju jednostek specjalnych;"
         },
         {
          "type": "pkt",
          "num": "6",
          "path": "par_1/ust_2/pkt_6",
-         "text": "ochrona środowiska i przyrody ‒ zapewnienie przestrzeni w obszarach morskich",
+         "text": "ochrona środowiska i przyrody ‒ zapewnienie przestrzeni w obszarach morskich niezbędnej do ochrony środowiska i utrzymania walorów przyrodniczych polskich obszarów morskich, uwzględniające konieczność ochrony różnorodności biologicznej i siedlisk przyrodniczych, zachowania właściwego funkcjonowania ekosystemu, utrzymania drożności szlaków migracyjnych zwierząt, utrzymania dobrego stanu wód morskich lub jego poprawę, zapewnienia człowiekowi możliwości zrównoważonego korzystania z walorów przyrodniczych i krajobrazowych środowiska oraz prowadzenia badań naukowych, których wyniki będą służyć ochronie środowiska i przyrody;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "niezbędnej do ochrony środowiska i utrzymania walorów przyrodniczych polskich"
-        },
-        {
-         "type": "text",
-         "text": "obszarów morskich, uwzględniające konieczność ochrony różnorodności biologicznej"
-        },
-        {
-         "type": "text",
-         "text": "i siedlisk przyrodniczych, zachowania właściwego funkcjonowania ekosystemu,"
-        },
-        {
-         "type": "text",
-         "text": "utrzymania drożności szlaków migracyjnych zwierząt, utrzymania dobrego stanu wód"
-        },
-        {
-         "type": "text",
-         "text": "morskich lub jego poprawę, zapewnienia człowiekowi możliwości zrównoważonego"
-        },
-        {
-         "type": "text",
-         "text": "korzystania z walorów przyrodniczych i krajobrazowych środowiska oraz prowadzenia"
-        },
-        {
-         "type": "text",
-         "text": "badań naukowych, których wyniki będą służyć ochronie środowiska i przyrody;"
         },
         {
          "type": "pkt",
          "num": "7",
          "path": "par_1/ust_2/pkt_7",
-         "text": "poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż ‒",
+         "text": "poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż ‒ poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż w rozumieniu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290);",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż"
-        },
-        {
-         "type": "text",
-         "text": "w rozumieniu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U."
-        },
-        {
-         "type": "text",
-         "text": "z 2024 r. poz. 1290);"
         },
         {
          "type": "pkt",
          "num": "8",
          "path": "par_1/ust_2/pkt_8",
-         "text": "sztuczne wyspy i konstrukcje ‒ wznoszenie i wykorzystywanie sztucznych wysp,",
+         "text": "sztuczne wyspy i konstrukcje ‒ wznoszenie i wykorzystywanie sztucznych wysp, konstrukcji i urządzeń służących w szczególności celom gospodarczym, ochronie środowiska i badaniom naukowym;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "konstrukcji i urządzeń służących w szczególności celom gospodarczym, ochronie"
-        },
-        {
-         "type": "text",
-         "text": "środowiska i badaniom naukowym;"
         },
         {
          "type": "pkt",
          "num": "9",
          "path": "par_1/ust_2/pkt_9",
-         "text": "transport ‒ umożliwienie bezpiecznego przemieszczania się jednostek pływających przez",
+         "text": "transport ‒ umożliwienie bezpiecznego przemieszczania się jednostek pływających przez utrzymanie i modernizację torów wodnych oraz infrastruktury związanej z ich funkcjonowaniem;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "utrzymanie i modernizację torów wodnych oraz infrastruktury związanej z ich"
-        },
-        {
-         "type": "text",
-         "text": "funkcjonowaniem;"
         },
         {
          "type": "pkt",
@@ -444,20 +316,8 @@
        "type": "ust",
        "num": "3",
        "path": "par_2/ust_3",
-       "text": "Obszar objęty planem, w granicach określonych w ust. 1, podzielono na akweny",
+       "text": "Obszar objęty planem, w granicach określonych w ust. 1, podzielono na akweny o funkcji podstawowej, o której mowa w art. 37a ust. 3 zdanie pierwsze ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125):",
        "children": [
-        {
-         "type": "text",
-         "text": "o funkcji podstawowej, o której mowa w art. 37a ust. 3 zdanie pierwsze ustawy z dnia 21 marca"
-        },
-        {
-         "type": "text",
-         "text": "1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U."
-        },
-        {
-         "type": "text",
-         "text": "z 2024 r. poz. 1125):"
-        },
         {
          "type": "pkt",
          "num": "1",
@@ -492,28 +352,15 @@
        "type": "ust",
        "num": "4",
        "path": "par_2/ust_4",
-       "text": "Akweny o funkcji podstawowej wskazano na rysunku planu w skali 1: 5000, który",
-       "children": [
-        {
-         "type": "text",
-         "text": "stanowi załącznik nr 3 do rozporządzenia."
-        }
-       ]
+       "text": "Akweny o funkcji podstawowej wskazano na rysunku planu w skali 1: 5000, który stanowi załącznik nr 3 do rozporządzenia.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "5",
        "path": "par_2/ust_5",
-       "text": "Funkcjami dopuszczalnymi, o których mowa w art. 37a ust. 3 zdanie drugie ustawy",
+       "text": "Funkcjami dopuszczalnymi, o których mowa w art. 37a ust. 3 zdanie drugie ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, są następujące funkcje:",
        "children": [
-        {
-         "type": "text",
-         "text": "z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji"
-        },
-        {
-         "type": "text",
-         "text": "morskiej, są następujące funkcje:"
-        },
         {
          "type": "pkt",
          "num": "1",
@@ -553,12 +400,8 @@
          "type": "pkt",
          "num": "6",
          "path": "par_2/ust_5/pkt_6",
-         "text": "poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż",
+         "text": "poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż o oznaczeniu literowym K;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "o oznaczeniu literowym K;"
         },
         {
          "type": "pkt",
@@ -587,25 +430,15 @@
        "type": "ust",
        "num": "6",
        "path": "par_2/ust_6",
-       "text": "Funkcje dopuszczalne nie mogą ograniczać lub uniemożliwiać zagospodarowania",
-       "children": [
-        {
-         "type": "text",
-         "text": "akwenów zgodnie z funkcją podstawową."
-        }
-       ]
+       "text": "Funkcje dopuszczalne nie mogą ograniczać lub uniemożliwiać zagospodarowania akwenów zgodnie z funkcją podstawową.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "7",
        "path": "par_2/ust_7",
-       "text": "Ustalenia dotyczące poszczególnych funkcji dopuszczalnych dla akwenów są określone",
-       "children": [
-        {
-         "type": "text",
-         "text": "w kartach akwenów."
-        }
-       ]
+       "text": "Ustalenia dotyczące poszczególnych funkcji dopuszczalnych dla akwenów są określone w kartach akwenów.",
+       "children": []
       }
      ]
     },
@@ -619,57 +452,29 @@
        "type": "ust",
        "num": "1",
        "path": "par_3/ust_1",
-       "text": "Na całym obszarze objętym planem jest wykonywana funkcja ochrony środowiska",
-       "children": [
-        {
-         "type": "text",
-         "text": "i przyrody."
-        }
-       ]
+       "text": "Na całym obszarze objętym planem jest wykonywana funkcja ochrony środowiska i przyrody.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
        "path": "par_3/ust_2",
-       "text": "Wykonywanie funkcji podstawowych i dopuszczalnych określonych dla",
-       "children": [
-        {
-         "type": "text",
-         "text": "poszczególnych akwenów lub ich podakwenów, wskazanych w rozstrzygnięciach"
-        },
-        {
-         "type": "text",
-         "text": "szczegółowych zawartych w załączniku nr 2 do rozporządzenia, może być czasowo ograniczane ze względu na konieczność zapewnienia obronności i bezpieczeństwa państwa,"
-        },
-        {
-         "type": "text",
-         "text": "bezpieczeństwa i ratowania życia ludzkiego oraz ochrony środowiska i przyrody."
-        }
-       ]
+       "text": "Wykonywanie funkcji podstawowych i dopuszczalnych określonych dla poszczególnych akwenów lub ich podakwenów, wskazanych w rozstrzygnięciach szczegółowych zawartych w załączniku nr 2 do rozporządzenia, może być czasowo ograniczane ze względu na konieczność zapewnienia obronności i bezpieczeństwa państwa, bezpieczeństwa i ratowania życia ludzkiego oraz ochrony środowiska i przyrody.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "3",
        "path": "par_3/ust_3",
-       "text": "Ochrona środowiska i przyrody stanowi istotny warunek podejmowania działań",
-       "children": [
-        {
-         "type": "text",
-         "text": "w poszczególnych akwenach."
-        }
-       ]
+       "text": "Ochrona środowiska i przyrody stanowi istotny warunek podejmowania działań w poszczególnych akwenach.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "4",
        "path": "par_3/ust_4",
-       "text": "Obszar objęty planem jest wyłączony na stałe z wykonywania rybołówstwa",
-       "children": [
-        {
-         "type": "text",
-         "text": "komercyjnego."
-        }
-       ]
+       "text": "Obszar objęty planem jest wyłączony na stałe z wykonywania rybołówstwa komercyjnego.",
+       "children": []
       }
      ]
     },
@@ -683,65 +488,22 @@
        "type": "ust",
        "num": "1",
        "path": "par_4/ust_1",
-       "text": "We wszystkich akwenach obowiązuje ochrona przestrzenna obiektów podwodnego",
-       "children": [
-        {
-         "type": "text",
-         "text": "dziedzictwa kulturowego na zasadach określonych w przepisach ustawy z dnia 23 lipca 2003 r."
-        },
-        {
-         "type": "text",
-         "text": "o ochronie zabytków i opiece nad zabytkami oraz ustawy z dnia 21 marca 1991 r. o obszarach"
-        },
-        {
-         "type": "text",
-         "text": "morskich Rzeczypospolitej Polskiej i administracji morskiej."
-        }
-       ]
+       "text": "We wszystkich akwenach obowiązuje ochrona przestrzenna obiektów podwodnego dziedzictwa kulturowego na zasadach określonych w przepisach ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami oraz ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
        "path": "par_4/ust_2",
-       "text": "Poza sytuacjami nadzwyczajnymi użytkowanie obszaru objętego planem nie może",
-       "children": [
-        {
-         "type": "text",
-         "text": "prowadzić do uszkodzenia lub zniszczenia podwodnego dziedzictwa kulturowego,"
-        },
-        {
-         "type": "text",
-         "text": "w szczególności w związku z funkcjonowaniem portu, układaniem elementów liniowych,"
-        },
-        {
-         "type": "text",
-         "text": "wznoszeniem sztucznych wysp, konstrukcji i urządzeń, ochroną brzegu morskiego,"
-        },
-        {
-         "type": "text",
-         "text": "uprawianiem turystyki, sportu i rekreacji, poszukiwaniem, rozpoznawaniem złóż kopalin oraz"
-        },
-        {
-         "type": "text",
-         "text": "wydobywaniem kopalin ze złóż, a także prowadzeniem badań naukowych."
-        }
-       ]
+       "text": "Poza sytuacjami nadzwyczajnymi użytkowanie obszaru objętego planem nie może prowadzić do uszkodzenia lub zniszczenia podwodnego dziedzictwa kulturowego, w szczególności w związku z funkcjonowaniem portu, układaniem elementów liniowych, wznoszeniem sztucznych wysp, konstrukcji i urządzeń, ochroną brzegu morskiego, uprawianiem turystyki, sportu i rekreacji, poszukiwaniem, rozpoznawaniem złóż kopalin oraz wydobywaniem kopalin ze złóż, a także prowadzeniem badań naukowych.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "3",
        "path": "par_4/ust_3",
-       "text": "W przypadku lokalizacji lub rozpoznania podwodnego dziedzictwa kulturowego do",
-       "children": [
-        {
-         "type": "text",
-         "text": "czasu wyznaczenia wokół niego strefy bezpieczeństwa oraz zasad obowiązujących w tej strefie"
-        },
-        {
-         "type": "text",
-         "text": "zakazuje się prowadzenia prac mogących spowodować jego uszkodzenie."
-        }
-       ]
+       "text": "W przypadku lokalizacji lub rozpoznania podwodnego dziedzictwa kulturowego do czasu wyznaczenia wokół niego strefy bezpieczeństwa oraz zasad obowiązujących w tej strefie zakazuje się prowadzenia prac mogących spowodować jego uszkodzenie.",
+       "children": []
       }
      ]
     },
@@ -755,57 +517,21 @@
        "type": "ust",
        "num": "1",
        "path": "par_5/ust_1",
-       "text": "Układanie elementów liniowych, przebudowa, remont i utrzymanie elementów",
+       "text": "Układanie elementów liniowych, przebudowa, remont i utrzymanie elementów istniejących jest dopuszczone na całym obszarze objętym planem, z tym że:",
        "children": [
-        {
-         "type": "text",
-         "text": "istniejących jest dopuszczone na całym obszarze objętym planem, z tym że:"
-        },
         {
          "type": "pkt",
          "num": "1",
          "path": "par_5/ust_1/pkt_1",
-         "text": "nakazuje się układanie nowych elementów liniowych pod powierzchnią dna akwenu,",
+         "text": "nakazuje się układanie nowych elementów liniowych pod powierzchnią dna akwenu, a jeżeli jest to niemożliwe ze względów środowiskowych czy technologicznych – należy stosować inne zabezpieczenia trwale zapewniające bezpieczeństwo nawigacyjne;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "a jeżeli jest to niemożliwe ze względów środowiskowych czy technologicznych – należy"
-        },
-        {
-         "type": "text",
-         "text": "stosować inne zabezpieczenia trwale zapewniające bezpieczeństwo nawigacyjne;"
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "par_5/ust_1/pkt_2",
-         "text": "nakazuje się układanie nowych elementów liniowych w sposób zapewniający najkrótszy",
+         "text": "nakazuje się układanie nowych elementów liniowych w sposób zapewniający najkrótszy ich przebieg po akwenie, tj. możliwie prostopadle do linii brzegu i bez załamań kierunku, oraz nakazuje się układanie wielu elementów liniowych w sposób zapewniający oszczędne korzystanie z przestrzeni, tj. możliwie równolegle do istniejącej, bezpośrednio sąsiadującej infrastruktury, z zachowaniem warunków określonych w przepisach wydanych na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2024 r. poz. 725, 834, 1222, 1847 i 1881);",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "ich przebieg po akwenie, tj. możliwie prostopadle do linii brzegu i bez załamań kierunku,"
-        },
-        {
-         "type": "text",
-         "text": "oraz nakazuje się układanie wielu elementów liniowych w sposób zapewniający"
-        },
-        {
-         "type": "text",
-         "text": "oszczędne korzystanie z przestrzeni, tj. możliwie równolegle do istniejącej, bezpośrednio"
-        },
-        {
-         "type": "text",
-         "text": "sąsiadującej infrastruktury, z zachowaniem warunków określonych w przepisach"
-        },
-        {
-         "type": "text",
-         "text": "wydanych na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane"
-        },
-        {
-         "type": "text",
-         "text": "(Dz. U. z 2024 r. poz. 725, 834, 1222, 1847 i 1881);"
         },
         {
          "type": "pkt",
@@ -818,39 +544,15 @@
          "type": "pkt",
          "num": "4",
          "path": "par_5/ust_1/pkt_4",
-         "text": "nakazuje się układanie wylotów kolektorów służących do wprowadzenia ścieków lub wód",
+         "text": "nakazuje się układanie wylotów kolektorów służących do wprowadzenia ścieków lub wód do wód morskich we wszystkich akwenach przylegających do linii brzegu, w których jest dopuszczona funkcja infrastruktura techniczna, chyba że w kartach akwenów wprowadzono ograniczenia w tym zakresie;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "do wód morskich we wszystkich akwenach przylegających do linii brzegu, w których jest"
-        },
-        {
-         "type": "text",
-         "text": "dopuszczona funkcja infrastruktura techniczna, chyba że w kartach akwenów"
-        },
-        {
-         "type": "text",
-         "text": "wprowadzono ograniczenia w tym zakresie;"
         },
         {
          "type": "pkt",
          "num": "5",
          "path": "par_5/ust_1/pkt_5",
-         "text": "nakazuje się układanie kolektorów do poboru i zrzutu wód na cele energetyki komunalnej",
+         "text": "nakazuje się układanie kolektorów do poboru i zrzutu wód na cele energetyki komunalnej we wszystkich akwenach przylegających do linii brzegu, w których jest dopuszczona funkcja infrastruktura techniczna, chyba że w kartach akwenów wprowadzono ograniczenia w tym zakresie.",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "we wszystkich akwenach przylegających do linii brzegu, w których jest dopuszczona"
-        },
-        {
-         "type": "text",
-         "text": "funkcja infrastruktura techniczna, chyba że w kartach akwenów wprowadzono"
-        },
-        {
-         "type": "text",
-         "text": "ograniczenia w tym zakresie."
         }
        ]
       },
@@ -858,109 +560,36 @@
        "type": "ust",
        "num": "2",
        "path": "par_5/ust_2",
-       "text": "Ustala się pas technologiczny wzdłuż projektowanych i istniejących elementów",
-       "children": [
-        {
-         "type": "text",
-         "text": "liniowych infrastruktury elektroenergetycznej w poziomie dla linii kablowych SN i nN"
-        },
-        {
-         "type": "text",
-         "text": "o szerokości 0,50 m (po 0,25 m po każdej ze stron od osi linii)."
-        }
-       ]
+       "text": "Ustala się pas technologiczny wzdłuż projektowanych i istniejących elementów liniowych infrastruktury elektroenergetycznej w poziomie dla linii kablowych SN i nN o szerokości 0,50 m (po 0,25 m po każdej ze stron od osi linii).",
+       "children": []
       },
       {
        "type": "ust",
        "num": "3",
        "path": "par_5/ust_3",
-       "text": "W pasie technologicznym, o którym mowa w ust. 2, obowiązuje zakaz kotwiczenia,",
-       "children": [
-        {
-         "type": "text",
-         "text": "z wyłączeniem kotwiczenia awaryjnego oraz związanego z pracami instalacyjnymi"
-        },
-        {
-         "type": "text",
-         "text": "i serwisowymi infrastruktury liniowej."
-        }
-       ]
+       "text": "W pasie technologicznym, o którym mowa w ust. 2, obowiązuje zakaz kotwiczenia, z wyłączeniem kotwiczenia awaryjnego oraz związanego z pracami instalacyjnymi i serwisowymi infrastruktury liniowej.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "4",
        "path": "par_5/ust_4",
-       "text": "Dopuszcza się układanie wylotów kolektorów służących do wprowadzania ścieków lub",
-       "children": [
-        {
-         "type": "text",
-         "text": "wód opadowych oraz roztopowych do wód morskich, a także wylotów przekopów służących"
-        },
-        {
-         "type": "text",
-         "text": "wymianie wód we wszystkich akwenach przylegających do linii brzegowej, z uwzględnieniem"
-        },
-        {
-         "type": "text",
-         "text": "przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r."
-        },
-        {
-         "type": "text",
-         "text": "poz. 54, z późn. zm.[^1]), ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę"
-        },
-        {
-         "type": "text",
-         "text": "i zbiorowym odprowadzaniu ścieków (Dz. U. z 2024 r. poz. 757), ustawy z dnia 20 lipca 2017 r. –"
-        },
-        {
-         "type": "text",
-         "text": "Prawo wodne oraz aktów wykonawczych wydanych na podstawie tych ustaw."
-        }
-       ]
+       "text": "Dopuszcza się układanie wylotów kolektorów służących do wprowadzania ścieków lub wód opadowych oraz roztopowych do wód morskich, a także wylotów przekopów służących wymianie wód we wszystkich akwenach przylegających do linii brzegowej, z uwzględnieniem przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm.[^1]), ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2024 r. poz. 757), ustawy z dnia 20 lipca 2017 r. – Prawo wodne oraz aktów wykonawczych wydanych na podstawie tych ustaw.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "5",
        "path": "par_5/ust_5",
-       "text": "Cały obszar objęty planem jest zlokalizowany w zasięgu strefy ochronnej terenu",
-       "children": [
-        {
-         "type": "text",
-         "text": "zamkniętego o promieniu 3000,0 m od punktu o współrzędnych X=5988026,92 Y=5482657,13"
-        },
-        {
-         "type": "text",
-         "text": "określonego w układzie współrzędnych płaskich prostokątnych PL-2000 p.5, w której"
-        },
-        {
-         "type": "text",
-         "text": "obowiązuje zakaz wznoszenia nowych obiektów budowlanych o wysokości powyżej"
-        },
-        {
-         "type": "text",
-         "text": "25 m n.p.m. Zezwala się na nadbudowę, rozbudowę istniejących obiektów budowlanych pod"
-        },
-        {
-         "type": "text",
-         "text": "warunkiem zachowania dopuszczalnej wysokości zabudowy, tj. 25 m n.p.m."
-        }
-       ]
+       "text": "Cały obszar objęty planem jest zlokalizowany w zasięgu strefy ochronnej terenu zamkniętego o promieniu 3000,0 m od punktu o współrzędnych X=5988026,92 Y=5482657,13 określonego w układzie współrzędnych płaskich prostokątnych PL-2000 p.5, w której obowiązuje zakaz wznoszenia nowych obiektów budowlanych o wysokości powyżej 25 m n.p.m. Zezwala się na nadbudowę, rozbudowę istniejących obiektów budowlanych pod warunkiem zachowania dopuszczalnej wysokości zabudowy, tj. 25 m n.p.m.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "6",
        "path": "par_5/ust_6",
-       "text": "Układanie elementów liniowych jest możliwe po spełnieniu warunków zawartych",
-       "children": [
-        {
-         "type": "text",
-         "text": "w pozwoleniu, o którym mowa w art. 26 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach"
-        },
-        {
-         "type": "text",
-         "text": "morskich Rzeczypospolitej Polskiej i administracji morskiej."
-        }
-       ]
+       "text": "Układanie elementów liniowych jest możliwe po spełnieniu warunków zawartych w pozwoleniu, o którym mowa w art. 26 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej.",
+       "children": []
       }
      ]
     },
@@ -974,64 +603,35 @@
        "type": "ust",
        "num": "1",
        "path": "par_6/ust_1",
-       "text": "Poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż jest",
-       "children": [
-        {
-         "type": "text",
-         "text": "dopuszczone na całym obszarze planu, z wyjątkiem akwenów o funkcji podstawowej transport,"
-        },
-        {
-         "type": "text",
-         "text": "pod warunkiem że działalność ta nie będzie uniemożliwiała wykorzystania akwenu zgodnie"
-        },
-        {
-         "type": "text",
-         "text": "z jego funkcją podstawową."
-        }
-       ]
+       "text": "Poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż jest dopuszczone na całym obszarze planu, z wyjątkiem akwenów o funkcji podstawowej transport, pod warunkiem że działalność ta nie będzie uniemożliwiała wykorzystania akwenu zgodnie z jego funkcją podstawową.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
        "path": "par_6/ust_2",
-       "text": "Ustala się następujące ograniczenia w zakresie poszukiwania, rozpoznawania złóż",
+       "text": "Ustala się następujące ograniczenia w zakresie poszukiwania, rozpoznawania złóż kopalin oraz wydobywania kopalin ze złóż:",
        "children": [
-        {
-         "type": "text",
-         "text": "kopalin oraz wydobywania kopalin ze złóż:"
-        },
         {
          "type": "pkt",
          "num": "1",
          "path": "par_6/ust_2/pkt_1",
-         "text": "zakazuje się wznoszenia sztucznych wysp, konstrukcji i urządzeń służących do",
+         "text": "zakazuje się wznoszenia sztucznych wysp, konstrukcji i urządzeń służących do wydobycia węglowodorów;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "wydobycia węglowodorów;"
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "par_6/ust_2/pkt_2",
-         "text": "zakazuje się poszukiwania, rozpoznawania złóż kopalin oraz wydobywania kopalin ze",
+         "text": "zakazuje się poszukiwania, rozpoznawania złóż kopalin oraz wydobywania kopalin ze złóż naruszających elementy liniowe;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "złóż naruszających elementy liniowe;"
         },
         {
          "type": "pkt",
          "num": "3",
          "path": "par_6/ust_2/pkt_3",
-         "text": "ogranicza się realizację infrastruktury służącej do wydobycia węglowodorów do",
+         "text": "ogranicza się realizację infrastruktury służącej do wydobycia węglowodorów do elementów liniowych wyprowadzających węglowodory na ląd, jak np. rurociągi.",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "elementów liniowych wyprowadzających węglowodory na ląd, jak np. rurociągi."
         }
        ]
       }
@@ -1054,37 +654,15 @@
        "type": "ust",
        "num": "2",
        "path": "par_7/ust_2",
-       "text": "Na całym obszarze objętym planem jest realizowana funkcja transport z ograniczeniami",
-       "children": [
-        {
-         "type": "text",
-         "text": "określonymi w kartach akwenów."
-        }
-       ]
+       "text": "Na całym obszarze objętym planem jest realizowana funkcja transport z ograniczeniami określonymi w kartach akwenów.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "3",
        "path": "par_7/ust_3",
-       "text": "Przemieszczanie się w polskich obszarach morskich jednostek Marynarki Wojennej,",
-       "children": [
-        {
-         "type": "text",
-         "text": "Straży Granicznej, Policji, Krajowej Administracji Skarbowej, ratownictwa morskiego,"
-        },
-        {
-         "type": "text",
-         "text": "jednostek ochrony przeciwpożarowej oraz innych jednostek pływających pełniących specjalną"
-        },
-        {
-         "type": "text",
-         "text": "służbę państwową nie podlega ustaleniom planu i wynikającym z nich zakazom lub"
-        },
-        {
-         "type": "text",
-         "text": "ograniczeniom."
-        }
-       ]
+       "text": "Przemieszczanie się w polskich obszarach morskich jednostek Marynarki Wojennej, Straży Granicznej, Policji, Krajowej Administracji Skarbowej, ratownictwa morskiego, jednostek ochrony przeciwpożarowej oraz innych jednostek pływających pełniących specjalną służbę państwową nie podlega ustaleniom planu i wynikającym z nich zakazom lub ograniczeniom.",
+       "children": []
       }
      ]
     },
@@ -1105,45 +683,29 @@
        "type": "pkt",
        "num": "2",
        "path": "par_8/pkt_2",
-       "text": "obiekty, które nie stanowią oznakowania nawigacyjnego, nie mogą przypominać go swoją",
+       "text": "obiekty, które nie stanowią oznakowania nawigacyjnego, nie mogą przypominać go swoją formą, kolorystyką i charakterystyką świecenia świateł;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "formą, kolorystyką i charakterystyką świecenia świateł;"
       },
       {
        "type": "pkt",
        "num": "3",
        "path": "par_8/pkt_3",
-       "text": "zakazuje się oświetlania obiektów w sposób mogący powodować oślepianie załóg",
+       "text": "zakazuje się oświetlania obiektów w sposób mogący powodować oślepianie załóg statków;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "statków;"
       },
       {
        "type": "pkt",
        "num": "4",
        "path": "par_8/pkt_4",
-       "text": "ustanawia się obszary ochrony wizury znaków nawigacyjnych, w których obowiązują",
+       "text": "ustanawia się obszary ochrony wizury znaków nawigacyjnych, w których obowiązują ograniczenia określone w kartach akwenów;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "ograniczenia określone w kartach akwenów;"
       },
       {
        "type": "pkt",
        "num": "5",
        "path": "par_8/pkt_5",
-       "text": "nakazuje się utrzymanie widzialności świateł i konstrukcji znaków nawigacyjnych na",
+       "text": "nakazuje się utrzymanie widzialności świateł i konstrukcji znaków nawigacyjnych na potrzeby bezpieczeństwa nawigacyjnego.",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "potrzeby bezpieczeństwa nawigacyjnego."
       }
      ]
     },
@@ -1157,49 +719,22 @@
        "type": "ust",
        "num": "1",
        "path": "par_9/ust_1",
-       "text": "W celu zapewnienia ochrony istniejących nabrzeży portowych oraz pozostałej",
-       "children": [
-        {
-         "type": "text",
-         "text": "infrastruktury portowej we wszystkich akwenach objętych planem budowa nowych obiektów"
-        },
-        {
-         "type": "text",
-         "text": "oraz rozbudowa, przebudowa i remont obiektów istniejących uwzględnia sąsiedztwo istniejących lub projektowanych obiektów hydrotechnicznych i liniowej infrastruktury"
-        },
-        {
-         "type": "text",
-         "text": "technicznej oraz jest realizowana w sposób zapewniający nienaruszalność i stateczność tych"
-        },
-        {
-         "type": "text",
-         "text": "obiektów lub gwarantujący usunięcie ewentualnych kolizji."
-        }
-       ]
+       "text": "W celu zapewnienia ochrony istniejących nabrzeży portowych oraz pozostałej infrastruktury portowej we wszystkich akwenach objętych planem budowa nowych obiektów oraz rozbudowa, przebudowa i remont obiektów istniejących uwzględnia sąsiedztwo istniejących lub projektowanych obiektów hydrotechnicznych i liniowej infrastruktury technicznej oraz jest realizowana w sposób zapewniający nienaruszalność i stateczność tych obiektów lub gwarantujący usunięcie ewentualnych kolizji.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
        "path": "par_9/ust_2",
-       "text": "Budowa nowych elementów infrastruktury turystycznej jest dopuszczona w akwenach",
-       "children": [
-        {
-         "type": "text",
-         "text": "DZI.1.Ip, DZI.2.S, DZI.4.Ip, DZI.5.Ip, DZI.6.S i DZI.8.S."
-        }
-       ]
+       "text": "Budowa nowych elementów infrastruktury turystycznej jest dopuszczona w akwenach DZI.1.Ip, DZI.2.S, DZI.4.Ip, DZI.5.Ip, DZI.6.S i DZI.8.S.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "3",
        "path": "par_9/ust_3",
-       "text": "Budowę nowych elementów infrastruktury turystycznej, o których mowa w ust. 2,",
-       "children": [
-        {
-         "type": "text",
-         "text": "prowadzi się w sposób niezagrażający stateczności budowli hydrotechnicznych."
-        }
-       ]
+       "text": "Budowę nowych elementów infrastruktury turystycznej, o których mowa w ust. 2, prowadzi się w sposób niezagrażający stateczności budowli hydrotechnicznych.",
+       "children": []
       }
      ]
     },
@@ -1213,17 +748,8 @@
        "type": "ust",
        "num": "1",
        "path": "par_10/ust_1",
-       "text": "Na obszarze objętym planem z wyjątkiem akwenów o funkcji podstawowej",
-       "children": [
-        {
-         "type": "text",
-         "text": "obronność i bezpieczeństwo państwa mogą być prowadzone badania naukowe"
-        },
-        {
-         "type": "text",
-         "text": "z ograniczeniami określonymi w kartach akwenów."
-        }
-       ]
+       "text": "Na obszarze objętym planem z wyjątkiem akwenów o funkcji podstawowej obronność i bezpieczeństwo państwa mogą być prowadzone badania naukowe z ograniczeniami określonymi w kartach akwenów.",
+       "children": []
       },
       {
        "type": "ust",
@@ -1273,12 +799,8 @@
        "type": "ust",
        "num": "1",
        "path": "par_11/ust_1",
-       "text": "Dla rozmieszczenia inwestycji celu publicznego wyznacza się następujące",
+       "text": "Dla rozmieszczenia inwestycji celu publicznego wyznacza się następujące akweny i podakweny na rzecz istniejących i planowanych inwestycji:",
        "children": [
-        {
-         "type": "text",
-         "text": "akweny i podakweny na rzecz istniejących i planowanych inwestycji:"
-        },
         {
          "type": "pkt",
          "num": "1",
@@ -1296,12 +818,8 @@
            "type": "lit",
            "num": "b",
            "path": "par_11/ust_1/pkt_1/lit_b",
-           "text": "realizację pomostu pływającego przeznaczonego dla Brzegowej Stacji Ratownictwa",
+           "text": "realizację pomostu pływającego przeznaczonego dla Brzegowej Stacji Ratownictwa w Dziwnowie;",
            "children": []
-          },
-          {
-           "type": "text",
-           "text": "w Dziwnowie;"
           }
          ]
         },
@@ -1309,27 +827,15 @@
          "type": "pkt",
          "num": "2",
          "path": "par_11/ust_1/pkt_2",
-         "text": "akwen DZI.3.T umożliwiający budowę, utrzymywanie oraz wykonywanie robót",
+         "text": "akwen DZI.3.T umożliwiający budowę, utrzymywanie oraz wykonywanie robót budowlanych związanych z drogami wodnymi, obiektami i urządzeniami transportu wodnego;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "budowlanych związanych z drogami wodnymi, obiektami i urządzeniami transportu"
-        },
-        {
-         "type": "text",
-         "text": "wodnego;"
         },
         {
          "type": "pkt",
          "num": "3",
          "path": "par_11/ust_1/pkt_3",
-         "text": "podakweny 1.2, 3.1 i 5.2 umożliwiające utrzymanie poprawnego stanu obiektu drogowego –",
+         "text": "podakweny 1.2, 3.1 i 5.2 umożliwiające utrzymanie poprawnego stanu obiektu drogowego – mostu.",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "mostu."
         }
        ]
       },
@@ -1337,145 +843,64 @@
        "type": "ust",
        "num": "2",
        "path": "par_11/ust_2",
-       "text": "We wszystkich akwenach dopuszcza się lokalizację inwestycji celu publicznego przy",
-       "children": [
-        {
-         "type": "text",
-         "text": "uwzględnieniu ograniczeń zawartych w kartach akwenów."
-        }
-       ]
+       "text": "We wszystkich akwenach dopuszcza się lokalizację inwestycji celu publicznego przy uwzględnieniu ograniczeń zawartych w kartach akwenów.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "3",
        "path": "par_11/ust_3",
-       "text": "Inwestycje celu publicznego obejmujące zachowanie, serwisowanie i rozbudowę kabli",
-       "children": [
-        {
-         "type": "text",
-         "text": "optotelekomunikacyjnych są dopuszczone wraz z dodatkowymi ograniczeniami na obszarze"
-        },
-        {
-         "type": "text",
-         "text": "akwenów o funkcji podstawowej transport oraz w pozostałych akwenach, o ile tak wskazano"
-        },
-        {
-         "type": "text",
-         "text": "w kartach akwenów."
-        }
-       ]
+       "text": "Inwestycje celu publicznego obejmujące zachowanie, serwisowanie i rozbudowę kabli optotelekomunikacyjnych są dopuszczone wraz z dodatkowymi ograniczeniami na obszarze akwenów o funkcji podstawowej transport oraz w pozostałych akwenach, o ile tak wskazano w kartach akwenów.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "4",
        "path": "par_11/ust_4",
-       "text": "Inwestycje celu publicznego obejmujące poszukiwanie, rozpoznawanie złóż kopalin",
-       "children": [
-        {
-         "type": "text",
-         "text": "i wydobywanie kopalin ze złóż są dopuszczone na zasadach określonych w § 6."
-        }
-       ]
+       "text": "Inwestycje celu publicznego obejmujące poszukiwanie, rozpoznawanie złóż kopalin i wydobywanie kopalin ze złóż są dopuszczone na zasadach określonych w § 6.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "5",
        "path": "par_11/ust_5",
-       "text": "Inwestycje celu publicznego obejmujące opiekę nad dziedzictwem kulturowym",
-       "children": [
-        {
-         "type": "text",
-         "text": "stanowiącym zabytki w rozumieniu art. 3 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie"
-        },
-        {
-         "type": "text",
-         "text": "zabytków i opiece nad zabytkami, niebędące sztucznymi wyspami, konstrukcjami"
-        },
-        {
-         "type": "text",
-         "text": "i urządzeniami, są dopuszczone we wszystkich akwenach objętych planem na zasadach"
-        },
-        {
-         "type": "text",
-         "text": "określonych w § 4 oraz zgodnie z kartami akwenów."
-        }
-       ]
+       "text": "Inwestycje celu publicznego obejmujące opiekę nad dziedzictwem kulturowym stanowiącym zabytki w rozumieniu art. 3 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, niebędące sztucznymi wyspami, konstrukcjami i urządzeniami, są dopuszczone we wszystkich akwenach objętych planem na zasadach określonych w § 4 oraz zgodnie z kartami akwenów.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "6",
        "path": "par_11/ust_6",
-       "text": "Inwestycje celu publicznego obejmujące zachowanie, serwisowanie i rozbudowę",
-       "children": [
-        {
-         "type": "text",
-         "text": "kolektorów są dopuszczone w akwenach, o których mowa w § 5 ust. 1 pkt 4 i 5."
-        }
-       ]
+       "text": "Inwestycje celu publicznego obejmujące zachowanie, serwisowanie i rozbudowę kolektorów są dopuszczone w akwenach, o których mowa w § 5 ust. 1 pkt 4 i 5.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "7",
        "path": "par_11/ust_7",
-       "text": "Inwestycje celu publicznego obejmujące budowę, utrzymywanie oraz wykonywanie",
-       "children": [
-        {
-         "type": "text",
-         "text": "robót budowlanych dróg wodnych, obiektów i urządzeń transportu publicznego są dopuszczone"
-        },
-        {
-         "type": "text",
-         "text": "w akwenach i podakwenach o funkcji funkcjonowanie portu zgodnie z kartami akwenów."
-        }
-       ]
+       "text": "Inwestycje celu publicznego obejmujące budowę, utrzymywanie oraz wykonywanie robót budowlanych dróg wodnych, obiektów i urządzeń transportu publicznego są dopuszczone w akwenach i podakwenach o funkcji funkcjonowanie portu zgodnie z kartami akwenów.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "8",
        "path": "par_11/ust_8",
-       "text": "Inwestycje celu publicznego obejmujące oznakowanie nawigacyjne są dopuszczone we",
-       "children": [
-        {
-         "type": "text",
-         "text": "wszystkich akwenach objętych planem."
-        }
-       ]
+       "text": "Inwestycje celu publicznego obejmujące oznakowanie nawigacyjne są dopuszczone we wszystkich akwenach objętych planem.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "9",
        "path": "par_11/ust_9",
-       "text": "Budowa i utrzymywanie obiektów oraz urządzeń niezbędnych dla potrzeb obronności",
-       "children": [
-        {
-         "type": "text",
-         "text": "państwa, a także do zapewnienia bezpieczeństwa publicznego, niebędących sztucznymi"
-        },
-        {
-         "type": "text",
-         "text": "wyspami, konstrukcjami i urządzeniami, są dopuszczone we wszystkich akwenach objętych"
-        },
-        {
-         "type": "text",
-         "text": "planem zgodnie z kartami akwenów."
-        }
-       ]
+       "text": "Budowa i utrzymywanie obiektów oraz urządzeń niezbędnych dla potrzeb obronności państwa, a także do zapewnienia bezpieczeństwa publicznego, niebędących sztucznymi wyspami, konstrukcjami i urządzeniami, są dopuszczone we wszystkich akwenach objętych planem zgodnie z kartami akwenów.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "10",
        "path": "par_11/ust_10",
-       "text": "Budowa i utrzymywanie obiektów oraz urządzeń niezbędnych dla potrzeb obronności",
-       "children": [
-        {
-         "type": "text",
-         "text": "państwa, a także do zapewnienia bezpieczeństwa publicznego, będących sztucznymi wyspami,"
-        },
-        {
-         "type": "text",
-         "text": "konstrukcjami i urządzeniami, są dopuszczone w akwenie DZI.7.B zgodnie z kartą akwenu."
-        }
-       ]
+       "text": "Budowa i utrzymywanie obiektów oraz urządzeń niezbędnych dla potrzeb obronności państwa, a także do zapewnienia bezpieczeństwa publicznego, będących sztucznymi wyspami, konstrukcjami i urządzeniami, są dopuszczone w akwenie DZI.7.B zgodnie z kartą akwenu.",
+       "children": []
       }
      ]
     },
@@ -1489,45 +914,15 @@
        "type": "ust",
        "num": "1",
        "path": "par_12/ust_1",
-       "text": "Na obszarze objętym planem ustala się priorytetowe kierunki rozwoju transportu",
-       "children": [
-        {
-         "type": "text",
-         "text": "i rozwoju infrastruktury technicznej obsługującej żeglugę, wyznaczając akwen DZI.3.T"
-        },
-        {
-         "type": "text",
-         "text": "zapewniające rozwój transportu i związanej z nimi infrastruktury technicznej oraz bezpieczną"
-        },
-        {
-         "type": "text",
-         "text": "żeglugę na polskich obszarach morskich w granicach portu Dziwnów."
-        }
-       ]
+       "text": "Na obszarze objętym planem ustala się priorytetowe kierunki rozwoju transportu i rozwoju infrastruktury technicznej obsługującej żeglugę, wyznaczając akwen DZI.3.T zapewniające rozwój transportu i związanej z nimi infrastruktury technicznej oraz bezpieczną żeglugę na polskich obszarach morskich w granicach portu Dziwnów.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
        "path": "par_12/ust_2",
-       "text": "W celu utrzymania parametrów torów wodnych określonych w akcie prawa",
-       "children": [
-        {
-         "type": "text",
-         "text": "miejscowego w sprawie określenia infrastruktury zapewniającej dostęp do portu morskiego"
-        },
-        {
-         "type": "text",
-         "text": "w Dziwnowie wydanym na podstawie art. 5 ust. 3 pkt 1 ustawy z dnia 20 grudnia 1996 r."
-        },
-        {
-         "type": "text",
-         "text": "o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796) dopuszcza się prowadzenie"
-        },
-        {
-         "type": "text",
-         "text": "w ich obrębie prac pogłębiarskich, podczyszczeniowych i zasypowych."
-        }
-       ]
+       "text": "W celu utrzymania parametrów torów wodnych określonych w akcie prawa miejscowego w sprawie określenia infrastruktury zapewniającej dostęp do portu morskiego w Dziwnowie wydanym na podstawie art. 5 ust. 3 pkt 1 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796) dopuszcza się prowadzenie w ich obrębie prac pogłębiarskich, podczyszczeniowych i zasypowych.",
+       "children": []
       }
      ]
     },
@@ -1541,13 +936,8 @@
        "type": "ust",
        "num": "1",
        "path": "par_13/ust_1",
-       "text": "Na obszarze objętym planem dopuszcza się zmianę linii brzegu oraz realizację",
-       "children": [
-        {
-         "type": "text",
-         "text": "robót zabezpieczających brzeg przed erozją lub powodzią."
-        }
-       ]
+       "text": "Na obszarze objętym planem dopuszcza się zmianę linii brzegu oraz realizację robót zabezpieczających brzeg przed erozją lub powodzią.",
+       "children": []
       },
       {
        "type": "ust",
@@ -2238,12 +1628,8 @@
        "type": "ust",
        "num": "7",
        "path": "par_1/ust_7",
-       "text": "ZAKAZY LUB OGRANICZENIA W KORZYSTANIU Z POSZCZEGÓLNYCH",
+       "text": "ZAKAZY LUB OGRANICZENIA W KORZYSTANIU Z POSZCZEGÓLNYCH OBSZARÓW",
        "children": [
-        {
-         "type": "text",
-         "text": "OBSZARÓW"
-        },
         {
          "type": "pkt",
          "num": "1",
@@ -2268,23 +1654,15 @@
            "type": "lit",
            "num": "c",
            "path": "par_1/ust_7/pkt_1/lit_c",
-           "text": "w sposób zagrażający bezpieczeństwu żeglugi lub utrudniający utrzymanie właściwych",
+           "text": "w sposób zagrażający bezpieczeństwu żeglugi lub utrudniający utrzymanie właściwych parametrów toru wodnego w porcie Dziwnów,",
            "children": []
-          },
-          {
-           "type": "text",
-           "text": "parametrów toru wodnego w porcie Dziwnów,"
           },
           {
            "type": "lit",
            "num": "d",
            "path": "par_1/ust_7/pkt_1/lit_d",
-           "text": "w miejscach niespełniających wymogów utrzymania stateczności budowli",
+           "text": "w miejscach niespełniających wymogów utrzymania stateczności budowli hydrotechnicznych;",
            "children": []
-          },
-          {
-           "type": "text",
-           "text": "hydrotechnicznych;"
           }
          ]
         },
@@ -2292,12 +1670,8 @@
          "type": "pkt",
          "num": "2",
          "path": "par_1/ust_7/pkt_2",
-         "text": "w wyznaczonym podakwenie 1.2 ustala się ograniczenie w realizacji funkcji do sposobów",
+         "text": "w wyznaczonym podakwenie 1.2 ustala się ograniczenie w realizacji funkcji do sposobów nienaruszających konstrukcji mostu.",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "nienaruszających konstrukcji mostu."
         }
        ]
       },
@@ -2311,39 +1685,22 @@
          "type": "pkt",
          "num": "1",
          "path": "par_1/ust_8/pkt_1",
-         "text": "modernizacja Portu Rybackiego w Dziwnowie – Nabrzeże Turystyczne (decyzja nr 21/16",
-         "children": [
-          {
-           "type": "text",
-           "text": "Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 21 lipca 2016 r.);"
-          }
-         ]
+         "text": "modernizacja Portu Rybackiego w Dziwnowie – Nabrzeże Turystyczne (decyzja nr 21/16 Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 21 lipca 2016 r.);",
+         "children": []
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "par_1/ust_8/pkt_2",
-         "text": "modernizacja Portu Rybackiego w Dziwnowie (decyzja nr 35/14 Ministra Infrastruktury",
+         "text": "modernizacja Portu Rybackiego w Dziwnowie (decyzja nr 35/14 Ministra Infrastruktury i Rozwoju z dnia 20 stycznia 2014 r.);",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "i Rozwoju z dnia 20 stycznia 2014 r.);"
         },
         {
          "type": "pkt",
          "num": "3",
          "path": "par_1/ust_8/pkt_3",
-         "text": "realizacja pomostu pływającego przeznaczonego dla Brzegowej Stacji Ratownictwa",
+         "text": "realizacja pomostu pływającego przeznaczonego dla Brzegowej Stacji Ratownictwa w Dziwnowie (decyzja nr 7/16 ministra gospodarki morskiej i żeglugi śródlądowej z dnia 8 marca 2016 r.);",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "w Dziwnowie (decyzja nr 7/16 ministra gospodarki morskiej i żeglugi śródlądowej z dnia"
-        },
-        {
-         "type": "text",
-         "text": "8 marca 2016 r.);"
         },
         {
          "type": "pkt",
@@ -2378,27 +1735,15 @@
          "type": "pkt",
          "num": "3",
          "path": "par_1/ust_9/pkt_3",
-         "text": "ochrona dziedzictwa kulturowego – w akwenie jest zlokalizowane zewidencjonowane",
+         "text": "ochrona dziedzictwa kulturowego – w akwenie jest zlokalizowane zewidencjonowane stanowisko archeologiczne: Dziwnów, stan.1 (AZP 17/08/15) – wprowadza się obowiązek przeprowadzenia inwentaryzacji archeologicznej przed rozpoczęciem inwestycji powodujących naruszenie dna;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "stanowisko archeologiczne: Dziwnów, stan.1 (AZP 17/08/15) – wprowadza się obowiązek przeprowadzenia inwentaryzacji archeologicznej przed rozpoczęciem inwestycji"
-        },
-        {
-         "type": "text",
-         "text": "powodujących naruszenie dna;"
         },
         {
          "type": "pkt",
          "num": "4",
          "path": "par_1/ust_9/pkt_4",
-         "text": "poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż – nie ustala",
+         "text": "poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż – nie ustala się;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "się;"
         },
         {
          "type": "pkt",
@@ -2417,11 +1762,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Ustala się wymóg utrzymania poprawnego stanu obiektu drogowego – mostu, celem"
-        },
-        {
-         "type": "text",
-         "text": "zapewnienia możliwości przemieszczania się pojazdów (podakwen 1.2)."
+         "text": "Ustala się wymóg utrzymania poprawnego stanu obiektu drogowego – mostu, celem zapewnienia możliwości przemieszczania się pojazdów (podakwen 1.2)."
         },
         {
          "type": "text",
@@ -2443,61 +1784,29 @@
          "type": "pkt",
          "num": "1",
          "path": "par_1/ust_11/pkt_1",
-         "text": "formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa",
+         "text": "formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa w przepisach o ochronie przyrody – akwen jest położony w granicach specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) i obszaru specjalnej ochrony ptaków Natura 2000 „Zalew Kamieński i Dziwna” (PLB320011);",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "w przepisach o ochronie przyrody – akwen jest położony w granicach specjalnego obszaru"
-        },
-        {
-         "type": "text",
-         "text": "ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) i obszaru"
-        },
-        {
-         "type": "text",
-         "text": "specjalnej ochrony ptaków Natura 2000 „Zalew Kamieński i Dziwna” (PLB320011);"
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "par_1/ust_11/pkt_2",
-         "text": "obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków",
+         "text": "obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków i opiece nad zabytkami – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "i opiece nad zabytkami – brak;"
         },
         {
          "type": "pkt",
          "num": "3",
          "path": "par_1/ust_11/pkt_3",
-         "text": "obiekty i strefy chronione ustanowione na podstawie przepisów o ochronie środowiska –",
+         "text": "obiekty i strefy chronione ustanowione na podstawie przepisów o ochronie środowiska – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "brak;"
         },
         {
          "type": "pkt",
          "num": "4",
          "path": "par_1/ust_11/pkt_4",
-         "text": "strefy zamknięte dla żeglugi i rybołówstwa oraz ogłaszane okresowo strefy niebezpieczne",
+         "text": "strefy zamknięte dla żeglugi i rybołówstwa oraz ogłaszane okresowo strefy niebezpieczne dla żeglugi lub rybołówstwa, ustanawiane na podstawie art. 3 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125) – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "dla żeglugi lub rybołówstwa, ustanawiane na podstawie art. 3 ust. 1 ustawy z dnia 21 marca"
-        },
-        {
-         "type": "text",
-         "text": "1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U."
-        },
-        {
-         "type": "text",
-         "text": "z 2024 r. poz. 1125) – brak;"
         },
         {
          "type": "pkt",
@@ -2510,16 +1819,8 @@
          "type": "pkt",
          "num": "6",
          "path": "par_1/ust_11/pkt_6",
-         "text": "w akwenie są realizowane działania opisane w programie ochrony wód morskich, o którym",
+         "text": "w akwenie są realizowane działania opisane w programie ochrony wód morskich, o którym mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089 i 1473).",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089"
-        },
-        {
-         "type": "text",
-         "text": "i 1473)."
         }
        ]
       },
@@ -2547,12 +1848,8 @@
          "type": "pkt",
          "num": "3",
          "path": "par_1/ust_12/pkt_3",
-         "text": "w akwenie jest zlokalizowany Pirs Stacji Paliw służący do tankowania jednostek",
+         "text": "w akwenie jest zlokalizowany Pirs Stacji Paliw służący do tankowania jednostek pływających;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "pływających;"
         },
         {
          "type": "pkt",
@@ -2572,23 +1869,15 @@
          "type": "pkt",
          "num": "6",
          "path": "par_1/ust_12/pkt_6",
-         "text": "w akwenie jest zlokalizowana Baza Ratownictwa Morskiego SAR oraz pomosty użytkowane",
+         "text": "w akwenie jest zlokalizowana Baza Ratownictwa Morskiego SAR oraz pomosty użytkowane przez SAR – część akwenu stanowi miejsce postoju i manewrowania jednostek SAR;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "przez SAR – część akwenu stanowi miejsce postoju i manewrowania jednostek SAR;"
         },
         {
          "type": "pkt",
          "num": "7",
          "path": "par_1/ust_12/pkt_7",
-         "text": "w akwenie jest zlokalizowane jedyne ciężkie nabrzeże w Basenie Zimowym oraz są",
+         "text": "w akwenie jest zlokalizowane jedyne ciężkie nabrzeże w Basenie Zimowym oraz są dokonywane wyładunki ryb do sąsiadującego z nabrzeżem budynku chłodziarni;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "dokonywane wyładunki ryb do sąsiadującego z nabrzeżem budynku chłodziarni;"
         },
         {
          "type": "pkt",
@@ -2608,34 +1897,22 @@
          "type": "pkt",
          "num": "10",
          "path": "par_1/ust_12/pkt_10",
-         "text": "w części centralnej akwenu jest zlokalizowany Pomost Odpraw Granicznych – w części",
+         "text": "w części centralnej akwenu jest zlokalizowany Pomost Odpraw Granicznych – w części akwenu są wykonywane odprawy graniczne;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "akwenu są wykonywane odprawy graniczne;"
         },
         {
          "type": "pkt",
          "num": "11",
          "path": "par_1/ust_12/pkt_11",
-         "text": "w akwenie jest zlokalizowane zewidencjonowane stanowisko archeologiczne: Dziwnów,",
+         "text": "w akwenie jest zlokalizowane zewidencjonowane stanowisko archeologiczne: Dziwnów, stan.1 (AZP 17/08/15);",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "stan.1 (AZP 17/08/15);"
         },
         {
          "type": "pkt",
          "num": "12",
          "path": "par_1/ust_12/pkt_12",
-         "text": "w sąsiedztwie północnej części akwenu, po stronie lądowej, został wyznaczony",
+         "text": "w sąsiedztwie północnej części akwenu, po stronie lądowej, został wyznaczony proponowany zespół przyrodniczo-krajobrazowy „Mikołajkowa wydma”.",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "proponowany zespół przyrodniczo-krajobrazowy „Mikołajkowa wydma”."
         }
        ]
       },
@@ -2647,20 +1924,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Po ustanowieniu w drodze rozporządzenia ministra właściwego do spraw środowiska będą"
-        },
-        {
-         "type": "text",
-         "text": "obowiązywać przepisy planu ochrony dla specjalnego obszaru ochrony siedlisk Natura 2000"
-        },
-        {
-         "type": "text",
-         "text": "„Ujście Odry i Zalew Szczeciński” (PLH320018) oraz planu ochrony dla obszaru specjalnej",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "ochrony ptaków Natura 2000 „Zalew Kamieński i Dziwna” (PLB320011)."
+         "text": "Po ustanowieniu w drodze rozporządzenia ministra właściwego do spraw środowiska będą obowiązywać przepisy planu ochrony dla specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) oraz planu ochrony dla obszaru specjalnej ochrony ptaków Natura 2000 „Zalew Kamieński i Dziwna” (PLB320011)."
         }
        ]
       }
@@ -2842,31 +2106,15 @@
          "type": "pkt",
          "num": "3",
          "path": "par_2/ust_9/pkt_3",
-         "text": "ochrona dziedzictwa kulturowego: w akwenie jest zlokalizowane zewidencjonowane",
+         "text": "ochrona dziedzictwa kulturowego: w akwenie jest zlokalizowane zewidencjonowane stanowisko archeologiczne – Dziwnów, stan.1 (AZP 17/08/15) – wprowadza się obowiązek przeprowadzenia inwentaryzacji archeologicznej przed rozpoczęciem inwestycji powodujących naruszenie dna;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "stanowisko archeologiczne – Dziwnów, stan.1 (AZP 17/08/15) – wprowadza się obowiązek"
-        },
-        {
-         "type": "text",
-         "text": "przeprowadzenia inwentaryzacji archeologicznej przed rozpoczęciem inwestycji"
-        },
-        {
-         "type": "text",
-         "text": "powodujących naruszenie dna;"
         },
         {
          "type": "pkt",
          "num": "4",
          "path": "par_2/ust_9/pkt_4",
-         "text": "poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż – nie ustala",
+         "text": "poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż – nie ustala się;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "się;"
         },
         {
          "type": "pkt",
@@ -2907,61 +2155,29 @@
          "type": "pkt",
          "num": "1",
          "path": "par_2/ust_11/pkt_1",
-         "text": "formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa",
+         "text": "formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa w przepisach o ochronie przyrody – akwen jest położony w granicach specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) i obszaru specjalnej ochrony ptaków Natura 2000 „Zalew Kamieński i Dziwna” (PLB320011);",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "w przepisach o ochronie przyrody – akwen jest położony w granicach specjalnego obszaru"
-        },
-        {
-         "type": "text",
-         "text": "ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) i obszaru"
-        },
-        {
-         "type": "text",
-         "text": "specjalnej ochrony ptaków Natura 2000 „Zalew Kamieński i Dziwna” (PLB320011);"
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "par_2/ust_11/pkt_2",
-         "text": "obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków",
+         "text": "obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków i opiece nad zabytkami – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "i opiece nad zabytkami – brak;"
         },
         {
          "type": "pkt",
          "num": "3",
          "path": "par_2/ust_11/pkt_3",
-         "text": "obiekty i strefy chronione ustanowione na podstawie przepisów o ochronie środowiska –",
+         "text": "obiekty i strefy chronione ustanowione na podstawie przepisów o ochronie środowiska – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "brak;"
         },
         {
          "type": "pkt",
          "num": "4",
          "path": "par_2/ust_11/pkt_4",
-         "text": "strefy zamknięte dla żeglugi i rybołówstwa oraz ogłaszane okresowo strefy niebezpieczne",
+         "text": "strefy zamknięte dla żeglugi i rybołówstwa oraz ogłaszane okresowo strefy niebezpieczne dla żeglugi lub rybołówstwa, ustanawiane na podstawie art. 3 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125) – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "dla żeglugi lub rybołówstwa, ustanawiane na podstawie art. 3 ust. 1 ustawy z dnia 21 marca"
-        },
-        {
-         "type": "text",
-         "text": "1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U."
-        },
-        {
-         "type": "text",
-         "text": "z 2024 r. poz. 1125) – brak;"
         },
         {
          "type": "pkt",
@@ -2974,16 +2190,8 @@
          "type": "pkt",
          "num": "6",
          "path": "par_2/ust_11/pkt_6",
-         "text": "w akwenie są realizowane działania opisane w programie ochrony wód morskich, o którym",
+         "text": "w akwenie są realizowane działania opisane w programie ochrony wód morskich, o którym mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089 i 1473).",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089"
-        },
-        {
-         "type": "text",
-         "text": "i 1473)."
         }
        ]
       },
@@ -3187,52 +2395,28 @@
        "type": "ust",
        "num": "7",
        "path": "par_3/ust_7",
-       "text": "ZAKAZY LUB OGRANICZENIA W KORZYSTANIU Z POSZCZEGÓLNYCH",
+       "text": "ZAKAZY LUB OGRANICZENIA W KORZYSTANIU Z POSZCZEGÓLNYCH OBSZARÓW",
        "children": [
-        {
-         "type": "text",
-         "text": "OBSZARÓW"
-        },
         {
          "type": "pkt",
          "num": "1",
          "path": "par_3/ust_7/pkt_1",
-         "text": "w podakwenie 3.1 ogranicza się realizację funkcji do sposobów nienaruszających konstrukcji",
+         "text": "w podakwenie 3.1 ogranicza się realizację funkcji do sposobów nienaruszających konstrukcji mostu;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "mostu;"
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "par_3/ust_7/pkt_2",
-         "text": "zakaz nurkowania z wyjątkiem działań ratunkowych i związanych z bezpieczeństwem",
+         "text": "zakaz nurkowania z wyjątkiem działań ratunkowych i związanych z bezpieczeństwem żeglugi oraz wydobywania obiektów zabytkowych i nurkowań związanych z eksploatacją i budową obiektów hydrotechnicznych;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "żeglugi oraz wydobywania obiektów zabytkowych i nurkowań związanych z eksploatacją"
-        },
-        {
-         "type": "text",
-         "text": "i budową obiektów hydrotechnicznych;"
         },
         {
          "type": "pkt",
          "num": "3",
          "path": "par_3/ust_7/pkt_3",
-         "text": "zakaz lokalizacji sztucznych wysp, konstrukcji i urządzeń, które mogłyby mieć negatywny",
+         "text": "zakaz lokalizacji sztucznych wysp, konstrukcji i urządzeń, które mogłyby mieć negatywny wpływ na warunki prowadzenia żeglugi lub utrzymanie właściwych parametrów toru wodnego.",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "wpływ na warunki prowadzenia żeglugi lub utrzymanie właściwych parametrów toru"
-        },
-        {
-         "type": "text",
-         "text": "wodnego."
         }
        ]
       },
@@ -3282,31 +2466,15 @@
          "type": "pkt",
          "num": "3",
          "path": "par_3/ust_9/pkt_3",
-         "text": "ochrona dziedzictwa kulturowego – w akwenie jest zlokalizowane zewidencjonowane",
+         "text": "ochrona dziedzictwa kulturowego – w akwenie jest zlokalizowane zewidencjonowane stanowisko archeologiczne: Dziwnów, stan.1 (AZP 17/08/15) – wprowadza się obowiązek przeprowadzenia inwentaryzacji archeologicznej przed rozpoczęciem inwestycji powodujących naruszenie dna;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "stanowisko archeologiczne: Dziwnów, stan.1 (AZP 17/08/15) – wprowadza się obowiązek"
-        },
-        {
-         "type": "text",
-         "text": "przeprowadzenia inwentaryzacji archeologicznej przed rozpoczęciem inwestycji"
-        },
-        {
-         "type": "text",
-         "text": "powodujących naruszenie dna;"
         },
         {
          "type": "pkt",
          "num": "4",
          "path": "par_3/ust_9/pkt_4",
-         "text": "poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż – nie ustala",
+         "text": "poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż – nie ustala się;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "się;"
         },
         {
          "type": "pkt",
@@ -3325,11 +2493,7 @@
        "children": [
         {
          "type": "text",
-         "text": "W podakwenie 3.1 ustala się wymóg utrzymania poprawnego stanu mostu, aby zapewnić"
-        },
-        {
-         "type": "text",
-         "text": "możliwość przemieszczania się pojazdów."
+         "text": "W podakwenie 3.1 ustala się wymóg utrzymania poprawnego stanu mostu, aby zapewnić możliwość przemieszczania się pojazdów."
         },
         {
          "type": "text",
@@ -3351,61 +2515,29 @@
          "type": "pkt",
          "num": "1",
          "path": "par_3/ust_11/pkt_1",
-         "text": "formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa",
+         "text": "formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa w przepisach o ochronie przyrody – akwen jest położony w granicach specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) i obszaru specjalnej ochrony ptaków Natura 2000 „Zalew Kamieński i Dziwna” (PLB320011);",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "w przepisach o ochronie przyrody – akwen jest położony w granicach specjalnego obszaru"
-        },
-        {
-         "type": "text",
-         "text": "ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) i obszaru"
-        },
-        {
-         "type": "text",
-         "text": "specjalnej ochrony ptaków Natura 2000 „Zalew Kamieński i Dziwna” (PLB320011);"
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "par_3/ust_11/pkt_2",
-         "text": "obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków",
+         "text": "obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków i opiece nad zabytkami – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "i opiece nad zabytkami – brak;"
         },
         {
          "type": "pkt",
          "num": "3",
          "path": "par_3/ust_11/pkt_3",
-         "text": "obiekty i strefy chronione ustanowione na podstawie przepisów o ochronie środowiska –",
+         "text": "obiekty i strefy chronione ustanowione na podstawie przepisów o ochronie środowiska – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "brak;"
         },
         {
          "type": "pkt",
          "num": "4",
          "path": "par_3/ust_11/pkt_4",
-         "text": "strefy zamknięte dla żeglugi i rybołówstwa oraz ogłaszane okresowo strefy niebezpieczne",
+         "text": "strefy zamknięte dla żeglugi i rybołówstwa oraz ogłaszane okresowo strefy niebezpieczne dla żeglugi lub rybołówstwa, ustanawiane na podstawie art. 3 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125) – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "dla żeglugi lub rybołówstwa, ustanawiane na podstawie art. 3 ust. 1 ustawy z dnia 21 marca"
-        },
-        {
-         "type": "text",
-         "text": "1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U."
-        },
-        {
-         "type": "text",
-         "text": "z 2024 r. poz. 1125) – brak;"
         },
         {
          "type": "pkt",
@@ -3418,16 +2550,8 @@
          "type": "pkt",
          "num": "6",
          "path": "par_3/ust_11/pkt_6",
-         "text": "w akwenie są realizowane działania opisane w programie ochrony wód morskich, o którym",
+         "text": "w akwenie są realizowane działania opisane w programie ochrony wód morskich, o którym mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089 i 1473).",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089"
-        },
-        {
-         "type": "text",
-         "text": "i 1473)."
         }
        ]
       },
@@ -3448,24 +2572,15 @@
          "type": "pkt",
          "num": "2",
          "path": "par_3/ust_12/pkt_2",
-         "text": "po akwenie odbywa się żegluga z portów w Wolinie, Kamieniu Pomorskim i Dziwnowie",
+         "text": "po akwenie odbywa się żegluga z portów w Wolinie, Kamieniu Pomorskim i Dziwnowie w kierunku północnym (morza) o intensywnym charakterze;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "w kierunku północnym (morza) o intensywnym charakterze;"
         },
         {
          "type": "pkt",
          "num": "3",
          "path": "par_3/ust_12/pkt_3",
-         "text": "akwen stanowi element infrastruktury dostępowej do portu w Dziwnowie, Kamieniu",
-         "children": [
-          {
-           "type": "text",
-           "text": "Pomorskim, Wolinie i Sierosławiu;"
-          }
-         ]
+         "text": "akwen stanowi element infrastruktury dostępowej do portu w Dziwnowie, Kamieniu Pomorskim, Wolinie i Sierosławiu;",
+         "children": []
         },
         {
          "type": "pkt",
@@ -3485,12 +2600,8 @@
          "type": "pkt",
          "num": "6",
          "path": "par_3/ust_12/pkt_6",
-         "text": "akwen jest wykorzystywany na rzecz turystyki, sportu i rekreacji – stanowi uczęszczany szlak",
+         "text": "akwen jest wykorzystywany na rzecz turystyki, sportu i rekreacji – stanowi uczęszczany szlak w kierunku morza oraz w kierunku południowym;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "w kierunku morza oraz w kierunku południowym;"
         },
         {
          "type": "pkt",
@@ -3503,43 +2614,22 @@
          "type": "pkt",
          "num": "8",
          "path": "par_3/ust_12/pkt_8",
-         "text": "tor wodny Dziwnów – Wolin jest torem zapewniającym dostęp do morza oraz do Zalewu",
-         "children": [
-          {
-           "type": "text",
-           "text": "Szczecińskiego;"
-          }
-         ]
+         "text": "tor wodny Dziwnów – Wolin jest torem zapewniającym dostęp do morza oraz do Zalewu Szczecińskiego;",
+         "children": []
         },
         {
          "type": "pkt",
          "num": "9",
          "path": "par_3/ust_12/pkt_9",
-         "text": "przez obszar przebiega projektowany „Zachodniopomorski Szlak Żeglarski”, w ramach",
+         "text": "przez obszar przebiega projektowany „Zachodniopomorski Szlak Żeglarski”, w ramach którego sukcesywnie następuje przebudowa i modernizacja marin i portów jachtowych w Gryfinie, Szczecinie, Trzebieży, Lubczynie, Stepnicy, Wolinie, Wapnicy, Świnoujściu, Kamieniu Pomorskim, Dziwnowie, Niechorzu, Mrzeżynie, Kołobrzegu, Mielnie i Darłowie;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "którego sukcesywnie następuje przebudowa i modernizacja marin i portów jachtowych"
-        },
-        {
-         "type": "text",
-         "text": "w Gryfinie, Szczecinie, Trzebieży, Lubczynie, Stepnicy, Wolinie, Wapnicy, Świnoujściu,"
-        },
-        {
-         "type": "text",
-         "text": "Kamieniu Pomorskim, Dziwnowie, Niechorzu, Mrzeżynie, Kołobrzegu, Mielnie i Darłowie;"
         },
         {
          "type": "pkt",
          "num": "10",
          "path": "par_3/ust_12/pkt_10",
-         "text": "w akwenie jest zlokalizowane zewidencjonowane stanowisko archeologiczne: Dziwnów,",
+         "text": "w akwenie jest zlokalizowane zewidencjonowane stanowisko archeologiczne: Dziwnów, stan.1 (AZP 17/08/15).",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "stan.1 (AZP 17/08/15)."
         }
        ]
       },
@@ -3551,20 +2641,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Po ustanowieniu w drodze rozporządzenia ministra właściwego do spraw środowiska będą"
-        },
-        {
-         "type": "text",
-         "text": "obowiązywać przepisy planu ochrony dla specjalnego obszaru ochrony siedlisk Natura 2000"
-        },
-        {
-         "type": "text",
-         "text": "„Ujście Odry i Zalew Szczeciński” (PLH320018) oraz planu ochrony dla obszaru specjalnej",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "ochrony ptaków Natura 2000 „Zalew Kamieński i Dziwna” (PLB320011)."
+         "text": "Po ustanowieniu w drodze rozporządzenia ministra właściwego do spraw środowiska będą obowiązywać przepisy planu ochrony dla specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) oraz planu ochrony dla obszaru specjalnej ochrony ptaków Natura 2000 „Zalew Kamieński i Dziwna” (PLB320011)."
         }
        ]
       }
@@ -3721,12 +2798,8 @@
            "type": "lit",
            "num": "d",
            "path": "par_4/ust_7/pkt_1/lit_d",
-           "text": "w miejscach niespełniających wymogów utrzymania stateczności budowli",
+           "text": "w miejscach niespełniających wymogów utrzymania stateczności budowli hydrotechnicznych;",
            "children": []
-          },
-          {
-           "type": "text",
-           "text": "hydrotechnicznych;"
           }
          ]
         },
@@ -3734,12 +2807,8 @@
          "type": "pkt",
          "num": "2",
          "path": "par_4/ust_7/pkt_2",
-         "text": "ograniczenie realizacji funkcji do sposobów niezakłócających wojskowej obserwacji",
+         "text": "ograniczenie realizacji funkcji do sposobów niezakłócających wojskowej obserwacji technicznej i wzrokowej oraz łączności radiowej;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "technicznej i wzrokowej oraz łączności radiowej;"
         },
         {
          "type": "pkt",
@@ -3793,12 +2862,8 @@
          "type": "pkt",
          "num": "4",
          "path": "par_4/ust_9/pkt_4",
-         "text": "poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż – nie ustala",
+         "text": "poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż – nie ustala się;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "się;"
         },
         {
          "type": "pkt",
@@ -3839,35 +2904,15 @@
          "type": "pkt",
          "num": "1",
          "path": "par_4/ust_11/pkt_1",
-         "text": "formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa",
+         "text": "formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa w przepisach o ochronie przyrody – akwen jest położony w granicach specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) i obszaru specjalnej ochrony ptaków Natura 2000 „Zalew Kamieński i Dziwna” (PLB320011);",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "w przepisach o ochronie przyrody – akwen jest położony w granicach specjalnego obszaru"
-        },
-        {
-         "type": "text",
-         "text": "ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) i obszaru"
-        },
-        {
-         "type": "text",
-         "text": "specjalnej ochrony ptaków Natura 2000 „Zalew Kamieński i Dziwna” (PLB320011);"
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "par_4/ust_11/pkt_2",
-         "text": "obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków",
+         "text": "obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków i opiece nad zabytkami – zabrania się penetracji wnętrza wraku, naruszania struktury oraz wydobywania zalegających na nich i w ich otoczeniu elementów;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "i opiece nad zabytkami – zabrania się penetracji wnętrza wraku, naruszania struktury oraz"
-        },
-        {
-         "type": "text",
-         "text": "wydobywania zalegających na nich i w ich otoczeniu elementów;"
         },
         {
          "type": "pkt",
@@ -3880,20 +2925,8 @@
          "type": "pkt",
          "num": "4",
          "path": "par_4/ust_11/pkt_4",
-         "text": "strefy zamknięte dla żeglugi i rybołówstwa oraz ogłaszane okresowo strefy niebezpieczne",
+         "text": "strefy zamknięte dla żeglugi i rybołówstwa oraz ogłaszane okresowo strefy niebezpieczne dla żeglugi lub rybołówstwa, ustanawiane na podstawie art. 3 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125) – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "dla żeglugi lub rybołówstwa, ustanawiane na podstawie art. 3 ust. 1 ustawy z dnia 21 marca"
-        },
-        {
-         "type": "text",
-         "text": "1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U."
-        },
-        {
-         "type": "text",
-         "text": "z 2024 r. poz. 1125) – brak;"
         },
         {
          "type": "pkt",
@@ -3906,16 +2939,8 @@
          "type": "pkt",
          "num": "6",
          "path": "par_4/ust_11/pkt_6",
-         "text": "w akwenie są realizowane działania opisane w programie ochrony wód morskich, o którym",
+         "text": "w akwenie są realizowane działania opisane w programie ochrony wód morskich, o którym mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089 i 1473).",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089"
-        },
-        {
-         "type": "text",
-         "text": "i 1473)."
         }
        ]
       },
@@ -3957,12 +2982,8 @@
          "type": "pkt",
          "num": "5",
          "path": "par_4/ust_12/pkt_5",
-         "text": "w bezpośrednim sąsiedztwie akwenu jest zlokalizowane siedlisko 9190 – pomorski kwaśny",
+         "text": "w bezpośrednim sąsiedztwie akwenu jest zlokalizowane siedlisko 9190 – pomorski kwaśny las brzozowo-dębowy.",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "las brzozowo-dębowy."
         }
        ]
       },
@@ -3974,20 +2995,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Po ustanowieniu w drodze rozporządzenia ministra właściwego do spraw środowiska będą"
-        },
-        {
-         "type": "text",
-         "text": "obowiązywać przepisy planu ochrony dla specjalnego obszaru ochrony siedlisk Natura 2000"
-        },
-        {
-         "type": "text",
-         "text": "„Ujście Odry i Zalew Szczeciński” (PLH320018) oraz planu ochrony dla obszaru specjalnej",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "ochrony ptaków Natura 2000 „Zalew Kamieński i Dziwna” (PLB320011)."
+         "text": "Po ustanowieniu w drodze rozporządzenia ministra właściwego do spraw środowiska będą obowiązywać przepisy planu ochrony dla specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) oraz planu ochrony dla obszaru specjalnej ochrony ptaków Natura 2000 „Zalew Kamieński i Dziwna” (PLB320011)."
         }
        ]
       }
@@ -4159,12 +3167,8 @@
            "type": "lit",
            "num": "d",
            "path": "par_5/ust_7/pkt_2/lit_d",
-           "text": "w miejscach niespełniających wymogów utrzymania stateczności budowli",
+           "text": "w miejscach niespełniających wymogów utrzymania stateczności budowli hydrotechnicznych;",
            "children": []
-          },
-          {
-           "type": "text",
-           "text": "hydrotechnicznych;"
           }
          ]
         },
@@ -4172,12 +3176,8 @@
          "type": "pkt",
          "num": "3",
          "path": "par_5/ust_7/pkt_3",
-         "text": "w podakwenie 5.2 ogranicza się realizację funkcji do sposobów nienaruszających konstrukcji",
+         "text": "w podakwenie 5.2 ogranicza się realizację funkcji do sposobów nienaruszających konstrukcji mostu.",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "mostu."
         }
        ]
       },
@@ -4224,12 +3224,8 @@
          "type": "pkt",
          "num": "4",
          "path": "par_5/ust_9/pkt_4",
-         "text": "poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż – nie ustala",
+         "text": "poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż – nie ustala się;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "się;"
         },
         {
          "type": "pkt",
@@ -4248,11 +3244,7 @@
        "children": [
         {
          "type": "text",
-         "text": "W podakwenie 5.2 ustala się wymóg utrzymania poprawnego stanu mostu, aby zapewnić"
-        },
-        {
-         "type": "text",
-         "text": "możliwość przemieszczania się pojazdów."
+         "text": "W podakwenie 5.2 ustala się wymóg utrzymania poprawnego stanu mostu, aby zapewnić możliwość przemieszczania się pojazdów."
         },
         {
          "type": "text",
@@ -4270,31 +3262,15 @@
          "type": "pkt",
          "num": "1",
          "path": "par_5/ust_11/pkt_1",
-         "text": "formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa",
+         "text": "formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa w przepisach o ochronie przyrody – akwen jest położony w granicach specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) i obszaru specjalnej ochrony ptaków Natura 2000 „Zalew Kamieński i Dziwna” (PLB320011);",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "w przepisach o ochronie przyrody – akwen jest położony w granicach specjalnego obszaru"
-        },
-        {
-         "type": "text",
-         "text": "ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) i obszaru"
-        },
-        {
-         "type": "text",
-         "text": "specjalnej ochrony ptaków Natura 2000 „Zalew Kamieński i Dziwna” (PLB320011);"
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "par_5/ust_11/pkt_2",
-         "text": "obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków",
+         "text": "obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków i opiece nad zabytkami – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "i opiece nad zabytkami – brak;"
         },
         {
          "type": "pkt",
@@ -4307,16 +3283,8 @@
          "type": "pkt",
          "num": "4",
          "path": "par_5/ust_11/pkt_4",
-         "text": "strefy zamknięte dla żeglugi i rybołówstwa oraz ogłaszane okresowo strefy niebezpieczne",
+         "text": "strefy zamknięte dla żeglugi i rybołówstwa oraz ogłaszane okresowo strefy niebezpieczne dla żeglugi lub rybołówstwa, ustanawiane na podstawie art. 3 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125) – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "dla żeglugi lub rybołówstwa, ustanawiane na podstawie art. 3 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U."
-        },
-        {
-         "type": "text",
-         "text": "z 2024 r. poz. 1125) – brak;"
         },
         {
          "type": "pkt",
@@ -4329,16 +3297,8 @@
          "type": "pkt",
          "num": "6",
          "path": "par_5/ust_11/pkt_6",
-         "text": "w akwenie są realizowane działania opisane w programie ochrony wód morskich, o którym",
+         "text": "w akwenie są realizowane działania opisane w programie ochrony wód morskich, o którym mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089 i 1473).",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089"
-        },
-        {
-         "type": "text",
-         "text": "i 1473)."
         }
        ]
       },
@@ -4359,13 +3319,8 @@
          "type": "pkt",
          "num": "2",
          "path": "par_5/ust_12/pkt_2",
-         "text": "w akwenie jest zlokalizowany obszar ochrony wizury znaków nawigacyjnych (podakwen",
-         "children": [
-          {
-           "type": "text",
-           "text": "5.1);"
-          }
-         ]
+         "text": "w akwenie jest zlokalizowany obszar ochrony wizury znaków nawigacyjnych (podakwen 5.1);",
+         "children": []
         },
         {
          "type": "pkt",
@@ -4378,35 +3333,22 @@
          "type": "pkt",
          "num": "4",
          "path": "par_5/ust_12/pkt_4",
-         "text": "w akwenie jest zlokalizowane miejsce przechowywania rurociągu refulacyjnego zestawu",
+         "text": "w akwenie jest zlokalizowane miejsce przechowywania rurociągu refulacyjnego zestawu pogłębiarskiego Urzędu Morskiego w Szczecinie;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "pogłębiarskiego Urzędu Morskiego w Szczecinie;"
         },
         {
          "type": "pkt",
          "num": "5",
          "path": "par_5/ust_12/pkt_5",
-         "text": "akwen jest wykorzystywany przez małe okręty w czasie ćwiczeń wojskowych z mostem",
+         "text": "akwen jest wykorzystywany przez małe okręty w czasie ćwiczeń wojskowych z mostem pontonowym;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "pontonowym;"
         },
         {
          "type": "pkt",
          "num": "6",
          "path": "par_5/ust_12/pkt_6",
-         "text": "w akwenie jest zlokalizowana konstrukcja mostu zwodzonego – droga wojewódzka nr 102",
-         "children": [
-          {
-           "type": "text",
-           "text": "(podakwen 5.2);"
-          }
-         ]
+         "text": "w akwenie jest zlokalizowana konstrukcja mostu zwodzonego – droga wojewódzka nr 102 (podakwen 5.2);",
+         "children": []
         },
         {
          "type": "pkt",
@@ -4426,12 +3368,8 @@
          "type": "pkt",
          "num": "9",
          "path": "par_5/ust_12/pkt_9",
-         "text": "w sąsiedztwie akwenu jest zlokalizowane siedlisko 2180 – lasy mieszane i bory na wydmach",
+         "text": "w sąsiedztwie akwenu jest zlokalizowane siedlisko 2180 – lasy mieszane i bory na wydmach oraz siedlisko 2130 – nadmorskie wydmy szare.",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "oraz siedlisko 2130 – nadmorskie wydmy szare."
         }
        ]
       },
@@ -4443,20 +3381,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Po ustanowieniu w drodze rozporządzenia ministra właściwego do spraw środowiska będą"
-        },
-        {
-         "type": "text",
-         "text": "obowiązywać przepisy planu ochrony dla specjalnego obszaru ochrony siedlisk Natura 2000"
-        },
-        {
-         "type": "text",
-         "text": "„Ujście Odry i Zalew Szczeciński” (PLH320018) oraz planu ochrony dla obszaru specjalnej",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "ochrony ptaków Natura 2000 „Zalew Kamieński i Dziwna” (PLB320011)."
+         "text": "Po ustanowieniu w drodze rozporządzenia ministra właściwego do spraw środowiska będą obowiązywać przepisy planu ochrony dla specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) oraz planu ochrony dla obszaru specjalnej ochrony ptaków Natura 2000 „Zalew Kamieński i Dziwna” (PLB320011)."
         }
        ]
       }
@@ -4644,12 +3569,8 @@
          "type": "pkt",
          "num": "4",
          "path": "par_6/ust_9/pkt_4",
-         "text": "poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż – nie",
+         "text": "poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż – nie ustala się;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "ustala się;"
         },
         {
          "type": "pkt",
@@ -4664,12 +3585,8 @@
        "type": "ust",
        "num": "10",
        "path": "par_6/ust_10",
-       "text": "USTALENIA WIĄŻĄCE SAMORZĄDY WOJEWÓDZTW ORAZ GMINY",
+       "text": "USTALENIA WIĄŻĄCE SAMORZĄDY WOJEWÓDZTW ORAZ GMINY Nie ustala się.",
        "children": [
-        {
-         "type": "text",
-         "text": "Nie ustala się."
-        },
         {
          "type": "text",
          "text": "UWARUNKOWANIA"
@@ -4690,75 +3607,43 @@
          "type": "pkt",
          "num": "1",
          "path": "par_6/ust_11/pkt_1",
-         "text": "formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa",
+         "text": "formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa w przepisach o ochronie przyrody – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "w przepisach o ochronie przyrody – brak;"
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "par_6/ust_11/pkt_2",
-         "text": "obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków",
+         "text": "obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków i opiece nad zabytkami – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "i opiece nad zabytkami – brak;"
         },
         {
          "type": "pkt",
          "num": "3",
          "path": "par_6/ust_11/pkt_3",
-         "text": "obiekty i strefy chronione ustanowione na podstawie przepisów o ochronie środowiska –",
+         "text": "obiekty i strefy chronione ustanowione na podstawie przepisów o ochronie środowiska – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "brak;"
         },
         {
          "type": "pkt",
          "num": "4",
          "path": "par_6/ust_11/pkt_4",
-         "text": "strefy zamknięte dla żeglugi i rybołówstwa oraz ogłaszane okresowo strefy",
+         "text": "strefy zamknięte dla żeglugi i rybołówstwa oraz ogłaszane okresowo strefy niebezpieczne dla żeglugi lub rybołówstwa, ustanawiane na podstawie art. 3 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125) – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "niebezpieczne dla żeglugi lub rybołówstwa, ustanawiane na podstawie art. 3 ust. 1"
-        },
-        {
-         "type": "text",
-         "text": "ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej"
-        },
-        {
-         "type": "text",
-         "text": "i administracji morskiej (Dz. U. z 2024 r. poz. 1125) – brak;"
         },
         {
          "type": "pkt",
          "num": "5",
          "path": "par_6/ust_11/pkt_5",
-         "text": "ochrona żywych zasobów morza na podstawie przepisów o rybołówstwie morskim –",
+         "text": "ochrona żywych zasobów morza na podstawie przepisów o rybołówstwie morskim – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "brak;"
         },
         {
          "type": "pkt",
          "num": "6",
          "path": "par_6/ust_11/pkt_6",
-         "text": "w akwenie są realizowane działania opisane w programie ochrony wód morskich,",
+         "text": "w akwenie są realizowane działania opisane w programie ochrony wód morskich, o którym mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne.",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "o którym mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne."
         }
        ]
       },
@@ -4970,12 +3855,8 @@
          "type": "pkt",
          "num": "4",
          "path": "par_7/ust_9/pkt_4",
-         "text": "poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż – realizacja",
+         "text": "poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż – realizacja przedsięwzięć musi być wcześniej uzgodniona z Ministrem Obrony Narodowej;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "przedsięwzięć musi być wcześniej uzgodniona z Ministrem Obrony Narodowej;"
         },
         {
          "type": "pkt",
@@ -5016,61 +3897,29 @@
          "type": "pkt",
          "num": "1",
          "path": "par_7/ust_11/pkt_1",
-         "text": "formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa",
+         "text": "formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa w przepisach o ochronie przyrody – akwen jest położony w granicach specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) oraz obszaru specjalnej ochrony ptaków „Zalew Kamieński i Dziwna” (PLB320011);",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "w przepisach o ochronie przyrody – akwen jest położony w granicach specjalnego obszaru"
-        },
-        {
-         "type": "text",
-         "text": "ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018) oraz obszaru"
-        },
-        {
-         "type": "text",
-         "text": "specjalnej ochrony ptaków „Zalew Kamieński i Dziwna” (PLB320011);"
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "par_7/ust_11/pkt_2",
-         "text": "obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków",
+         "text": "obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków i opiece nad zabytkami – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "i opiece nad zabytkami – brak;"
         },
         {
          "type": "pkt",
          "num": "3",
          "path": "par_7/ust_11/pkt_3",
-         "text": "obiekty i strefy chronione ustanowione na podstawie przepisów o ochronie środowiska –",
+         "text": "obiekty i strefy chronione ustanowione na podstawie przepisów o ochronie środowiska – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "brak;"
         },
         {
          "type": "pkt",
          "num": "4",
          "path": "par_7/ust_11/pkt_4",
-         "text": "strefy zamknięte dla żeglugi i rybołówstwa oraz ogłaszane okresowo strefy niebezpieczne",
+         "text": "strefy zamknięte dla żeglugi i rybołówstwa oraz ogłaszane okresowo strefy niebezpieczne dla żeglugi lub rybołówstwa, ustanawiane na podstawie art. 3 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125) – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "dla żeglugi lub rybołówstwa, ustanawiane na podstawie art. 3 ust. 1 ustawy z dnia 21 marca"
-        },
-        {
-         "type": "text",
-         "text": "1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U."
-        },
-        {
-         "type": "text",
-         "text": "z 2024 r. poz. 1125) – brak;"
         },
         {
          "type": "pkt",
@@ -5083,16 +3932,8 @@
          "type": "pkt",
          "num": "6",
          "path": "par_7/ust_11/pkt_6",
-         "text": "w akwenie są realizowane działania opisane w programie ochrony wód morskich, o którym",
+         "text": "w akwenie są realizowane działania opisane w programie ochrony wód morskich, o którym mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089 i 1473).",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089"
-        },
-        {
-         "type": "text",
-         "text": "i 1473)."
         }
        ]
       },
@@ -5106,16 +3947,8 @@
          "type": "pkt",
          "num": "1",
          "path": "par_7/ust_12/pkt_1",
-         "text": "część akwenu jest zlokalizowana w granicach Morskiego Portu Wojennego Dziwnów",
+         "text": "część akwenu jest zlokalizowana w granicach Morskiego Portu Wojennego Dziwnów określonych rozporządzeniem Ministra Obrony Narodowej z dnia 10 czerwca 2020 r. w sprawie granic Morskiego Portu Wojennego Dziwnów (Dz. U. poz. 1089);",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "określonych rozporządzeniem Ministra Obrony Narodowej z dnia 10 czerwca 2020 r."
-        },
-        {
-         "type": "text",
-         "text": "w sprawie granic Morskiego Portu Wojennego Dziwnów (Dz. U. poz. 1089);"
         },
         {
          "type": "pkt",
@@ -5328,12 +4161,8 @@
          "type": "pkt",
          "num": "4",
          "path": "par_8/ust_9/pkt_4",
-         "text": "poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż – nie",
+         "text": "poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż – nie ustala się;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "ustala się;"
         },
         {
          "type": "pkt",
@@ -5348,12 +4177,8 @@
        "type": "ust",
        "num": "10",
        "path": "par_8/ust_10",
-       "text": "USTALENIA WIĄŻĄCE SAMORZĄDY WOJEWÓDZTW ORAZ GMINY",
+       "text": "USTALENIA WIĄŻĄCE SAMORZĄDY WOJEWÓDZTW ORAZ GMINY Nie ustala się.",
        "children": [
-        {
-         "type": "text",
-         "text": "Nie ustala się."
-        },
         {
          "type": "text",
          "text": "UWARUNKOWANIA"
@@ -5374,83 +4199,43 @@
          "type": "pkt",
          "num": "1",
          "path": "par_8/ust_11/pkt_1",
-         "text": "formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa",
+         "text": "formy ochrony przyrody i ich otulin oraz ustalenia planów ochrony, o których mowa w przepisach o ochronie przyrody – akwen jest położony w granicach specjalnego obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński” (PLH320018);",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "w przepisach o ochronie przyrody – akwen jest położony w granicach specjalnego"
-        },
-        {
-         "type": "text",
-         "text": "obszaru ochrony siedlisk Natura 2000 „Ujście Odry i Zalew Szczeciński”"
-        },
-        {
-         "type": "text",
-         "text": "(PLH320018);"
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "par_8/ust_11/pkt_2",
-         "text": "obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie",
+         "text": "obiekty i akweny chronione ustanowione na podstawie przepisów o ochronie zabytków i opiece nad zabytkami – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "zabytków i opiece nad zabytkami – brak;"
         },
         {
          "type": "pkt",
          "num": "3",
          "path": "par_8/ust_11/pkt_3",
-         "text": "obiekty i strefy chronione ustanowione na podstawie przepisów o ochronie",
+         "text": "obiekty i strefy chronione ustanowione na podstawie przepisów o ochronie środowiska – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "środowiska – brak;"
         },
         {
          "type": "pkt",
          "num": "4",
          "path": "par_8/ust_11/pkt_4",
-         "text": "strefy zamknięte dla żeglugi i rybołówstwa oraz ogłaszane okresowo strefy",
+         "text": "strefy zamknięte dla żeglugi i rybołówstwa oraz ogłaszane okresowo strefy niebezpieczne dla żeglugi lub rybołówstwa, ustanawiane na podstawie art. 3 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125) – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "niebezpieczne dla żeglugi lub rybołówstwa, ustanawiane na podstawie art. 3 ust. 1"
-        },
-        {
-         "type": "text",
-         "text": "ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej"
-        },
-        {
-         "type": "text",
-         "text": "i administracji morskiej (Dz. U. z 2024 r. poz. 1125) – brak;"
         },
         {
          "type": "pkt",
          "num": "5",
          "path": "par_8/ust_11/pkt_5",
-         "text": "ochrona żywych zasobów morza na podstawie przepisów o rybołówstwie morskim –",
+         "text": "ochrona żywych zasobów morza na podstawie przepisów o rybołówstwie morskim – brak;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "brak;"
         },
         {
          "type": "pkt",
          "num": "6",
          "path": "par_8/ust_11/pkt_6",
-         "text": "w akwenie są realizowane działania opisane w programie ochrony wód morskich,",
+         "text": "w akwenie są realizowane działania opisane w programie ochrony wód morskich, o którym mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne.",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "o którym mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne."
         }
        ]
       },
@@ -5458,17 +4243,8 @@
        "type": "ust",
        "num": "12",
        "path": "par_8/ust_12",
-       "text": "SZCZEGÓLNIE ISTOTNE UWARUNKOWANIA DOTYCZĄCE AKWENU",
-       "children": [
-        {
-         "type": "text",
-         "text": "Akwen pełni funkcje turystyczno-rekreacyjne – jest zlokalizowana tu Marina"
-        },
-        {
-         "type": "text",
-         "text": "POLMAX."
-        }
-       ]
+       "text": "SZCZEGÓLNIE ISTOTNE UWARUNKOWANIA DOTYCZĄCE AKWENU Akwen pełni funkcje turystyczno-rekreacyjne – jest zlokalizowana tu Marina POLMAX.",
+       "children": []
       },
       {
        "type": "ust",
@@ -5604,112 +4380,51 @@
     },
     {
      "type": "text",
-     "text": "Stepnicy, Trzebieży, Wapnicy i Wolinie oraz do przystani morskich w Międzyzdrojach, Niechorzu i Rewalu (Dz. Urz. Woj. Zach. poz. 3487, z 2019 r. poz. 5262 oraz z 2021 r."
-    },
-    {
-     "type": "text",
-     "text": "poz. 1076), akt uchylony;"
+     "text": "Stepnicy, Trzebieży, Wapnicy i Wolinie oraz do przystani morskich w Międzyzdrojach, Niechorzu i Rewalu (Dz. Urz. Woj. Zach. poz. 3487, z 2019 r. poz. 5262 oraz z 2021 r. poz. 1076), akt uchylony;"
     },
     {
      "type": "pkt",
      "num": "6",
      "path": "pkt_6",
-     "text": "zarządzenie nr 2 Dyrektora Urzędu Morskiego w Szczecinie z dnia 10 maja 2018 r.",
+     "text": "zarządzenie nr 2 Dyrektora Urzędu Morskiego w Szczecinie z dnia 10 maja 2018 r. w sprawie określenia akwenów portowych oraz ogólnodostępnych obiektów, urządzeń i instalacji wchodzących w skład infrastruktury portowej w portach morskich w Dziwnowie, Kamieniu Pomorskim, Lubinie, Mrzeżynie, Nowym Warpnie, Policach, Przytorze, Sierosławiu, Stepnicy, Trzebieży, Wapnicy i Wolinie oraz w przystaniach morskich w Karsiborze, Międzyzdrojach, Niechorzu i Rewalu (Dz. Urz. Woj. Zach. poz. 2356), akt uchylony;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "w sprawie określenia akwenów portowych oraz ogólnodostępnych obiektów, urządzeń"
-    },
-    {
-     "type": "text",
-     "text": "i instalacji wchodzących w skład infrastruktury portowej w portach morskich"
-    },
-    {
-     "type": "text",
-     "text": "w Dziwnowie, Kamieniu Pomorskim, Lubinie, Mrzeżynie, Nowym Warpnie, Policach,"
-    },
-    {
-     "type": "text",
-     "text": "Przytorze, Sierosławiu, Stepnicy, Trzebieży, Wapnicy i Wolinie oraz w przystaniach"
-    },
-    {
-     "type": "text",
-     "text": "morskich w Karsiborze, Międzyzdrojach, Niechorzu i Rewalu (Dz. Urz. Woj. Zach."
-    },
-    {
-     "type": "text",
-     "text": "poz. 2356), akt uchylony;"
     },
     {
      "type": "pkt",
      "num": "7",
      "path": "pkt_7",
-     "text": "uchwałę nr 239 Rady Ministrów z dnia 13 grudnia 2011 r. w sprawie przyjęcia Koncepcji",
-     "children": [
-      {
-       "type": "text",
-       "text": "Przestrzennego Zagospodarowania Kraju 2030 (M.P. z 2012 r. poz. 252);"
-      }
-     ]
+     "text": "uchwałę nr 239 Rady Ministrów z dnia 13 grudnia 2011 r. w sprawie przyjęcia Koncepcji Przestrzennego Zagospodarowania Kraju 2030 (M.P. z 2012 r. poz. 252);",
+     "children": []
     },
     {
      "type": "pkt",
      "num": "8",
      "path": "pkt_8",
-     "text": "uchwałę nr 33/2015 Rady Ministrów z dnia 17 marca 2015 r. w sprawie Polityki morskiej",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rzeczypospolitej Polskiej do roku 2020 (z perspektywą do 2030 roku);"
-      }
-     ]
+     "text": "uchwałę nr 33/2015 Rady Ministrów z dnia 17 marca 2015 r. w sprawie Polityki morskiej Rzeczypospolitej Polskiej do roku 2020 (z perspektywą do 2030 roku);",
+     "children": []
     },
     {
      "type": "pkt",
      "num": "9",
      "path": "pkt_9",
-     "text": "uchwałę nr 8 Rady Ministrów z dnia 14 lutego 2017 r. w sprawie przyjęcia Strategii na",
+     "text": "uchwałę nr 8 Rady Ministrów z dnia 14 lutego 2017 r. w sprawie przyjęcia Strategii na rzecz Odpowiedzialnego Rozwoju do roku 2020 (z perspektywą do 2030 r.) (M.P. poz. 260);",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "rzecz Odpowiedzialnego Rozwoju do roku 2020 (z perspektywą do 2030 r.) (M.P."
-    },
-    {
-     "type": "text",
-     "text": "poz. 260);"
     },
     {
      "type": "pkt",
      "num": "10",
      "path": "pkt_10",
-     "text": "uchwałę nr 100 Rady Ministrów z dnia 17 września 2019 r. w sprawie przyjęcia programu",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "pod nazwą „Program rozwoju polskich portów morskich do 2030 roku” (M.P. poz. 1016)."
-    },
-    {
-     "type": "text",
-     "text": "Rozstrzygnięcia szczegółowe dotyczące poszczególnych akwenów opracowano w formie"
-    },
-    {
-     "type": "text",
-     "text": "kart akwenów, których wzór został określony w załączniku nr 1 do Rozporządzenia."
-    },
-    {
-     "type": "text",
-     "text": "Na podstawie szczegółowego rozpoznania terenu i analizy złożonych wniosków,"
-    },
-    {
-     "type": "text",
-     "text": "stosownie do § 5 ust. 1 pkt 3 i 6 lit. a oraz § 6 ust. 2 pkt 1 Rozporządzenia, dokonano podziału"
-    },
-    {
-     "type": "text",
-     "text": "obszaru opracowania na akweny o następujących funkcjach podstawowych:"
+     "text": "uchwałę nr 100 Rady Ministrów z dnia 17 września 2019 r. w sprawie przyjęcia programu pod nazwą „Program rozwoju polskich portów morskich do 2030 roku” (M.P. poz. 1016).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Rozstrzygnięcia szczegółowe dotyczące poszczególnych akwenów opracowano w formie kart akwenów, których wzór został określony w załączniku nr 1 do Rozporządzenia."
+      },
+      {
+       "type": "text",
+       "text": "Na podstawie szczegółowego rozpoznania terenu i analizy złożonych wniosków, stosownie do § 5 ust. 1 pkt 3 i 6 lit. a oraz § 6 ust. 2 pkt 1 Rozporządzenia, dokonano podziału obszaru opracowania na akweny o następujących funkcjach podstawowych:"
+      }
+     ]
     },
     {
      "type": "pkt",
@@ -5740,103 +4455,19 @@
      "children": [
       {
        "type": "text",
-       "text": "Rozstrzygnięcia szczegółowe zostały zdefiniowane w sposób zapewniający na całym"
+       "text": "Rozstrzygnięcia szczegółowe zostały zdefiniowane w sposób zapewniający na całym obszarze w niezakłócony sposób wykonywanie funkcji funkcjonowanie portu z funkcją ochrona środowiska i przyrody. Wyjątkiem są akweny o funkcji podstawowej transport, gdzie ochrona środowiska i przyrody jest ograniczona. Obszary portów są wyłączone z wykonywania rybołówstwa komercyjnego. Zgodnie z ustaleniami szczegółowymi planu wykonywanie funkcji podstawowych i dopuszczalnych określonych dla poszczególnych akwenów lub ich podakwenów może być czasowo ograniczane ze względu na konieczność zapewnienia obronności i bezpieczeństwa państwa, bezpieczeństwa życia ludzkiego oraz ochrony środowiska i przyrody."
       },
       {
        "type": "text",
-       "text": "obszarze w niezakłócony sposób wykonywanie funkcji funkcjonowanie portu z funkcją"
+       "text": "Uwzględniając dynamikę zmian zachodzących w portach w zakresie przystosowywania infrastruktury portowej do potrzeb obsługi różnego typu jednostek pływających, nie sprecyzowano w rozstrzygnięciach szczegółowych np. długości i charakteru wykorzystania nabrzeży, a co za tym idzie, sposobu zagospodarowania akwenu graniczącego z nabrzeżem, pozostawiając funkcję podstawową jako funkcjonowanie portu, wpisując dopuszczenia i ewentualne ograniczenia, zakazy i nakazy."
       },
       {
        "type": "text",
-       "text": "ochrona środowiska i przyrody. Wyjątkiem są akweny o funkcji podstawowej transport, gdzie"
+       "text": "Ustalenia szczegółowe planu zagospodarowania przestrzennego odnoszą się do obszarów Natura 2000 i innych obszarów wyznaczonych na morskich wodach wewnętrznych na mocy odrębnych aktów prawnych jedynie dla celów informacyjnych w ramach zasad korzystania z akwenu, wynikających z innych aktów i dokumentów normatywnych lub jako szczególnie istotne uwarunkowania korzystania z akwenu."
       },
       {
        "type": "text",
-       "text": "ochrona środowiska i przyrody jest ograniczona. Obszary portów są wyłączone z wykonywania"
-      },
-      {
-       "type": "text",
-       "text": "rybołówstwa komercyjnego. Zgodnie z ustaleniami szczegółowymi planu wykonywanie funkcji podstawowych i dopuszczalnych określonych dla poszczególnych akwenów lub ich"
-      },
-      {
-       "type": "text",
-       "text": "podakwenów może być czasowo ograniczane ze względu na konieczność zapewnienia"
-      },
-      {
-       "type": "text",
-       "text": "obronności i bezpieczeństwa państwa, bezpieczeństwa życia ludzkiego oraz ochrony"
-      },
-      {
-       "type": "text",
-       "text": "środowiska i przyrody."
-      },
-      {
-       "type": "text",
-       "text": "Uwzględniając dynamikę zmian zachodzących w portach w zakresie przystosowywania"
-      },
-      {
-       "type": "text",
-       "text": "infrastruktury portowej do potrzeb obsługi różnego typu jednostek pływających, nie"
-      },
-      {
-       "type": "text",
-       "text": "sprecyzowano w rozstrzygnięciach szczegółowych np. długości i charakteru wykorzystania"
-      },
-      {
-       "type": "text",
-       "text": "nabrzeży, a co za tym idzie, sposobu zagospodarowania akwenu graniczącego z nabrzeżem,"
-      },
-      {
-       "type": "text",
-       "text": "pozostawiając funkcję podstawową jako funkcjonowanie portu, wpisując dopuszczenia"
-      },
-      {
-       "type": "text",
-       "text": "i ewentualne ograniczenia, zakazy i nakazy."
-      },
-      {
-       "type": "text",
-       "text": "Ustalenia szczegółowe planu zagospodarowania przestrzennego odnoszą się do obszarów"
-      },
-      {
-       "type": "text",
-       "text": "Natura 2000 i innych obszarów wyznaczonych na morskich wodach wewnętrznych na mocy"
-      },
-      {
-       "type": "text",
-       "text": "odrębnych aktów prawnych jedynie dla celów informacyjnych w ramach zasad korzystania"
-      },
-      {
-       "type": "text",
-       "text": "z akwenu, wynikających z innych aktów i dokumentów normatywnych lub jako szczególnie"
-      },
-      {
-       "type": "text",
-       "text": "istotne uwarunkowania korzystania z akwenu."
-      },
-      {
-       "type": "text",
-       "text": "Cały obszar portu jest zlokalizowany w zasięgu strefy ochronnej terenu zamkniętego"
-      },
-      {
-       "type": "text",
-       "text": "o promieniu 3000 m od punktu o współrzędnych X=5988026,92 Y=5482657,13 określonego"
-      },
-      {
-       "type": "text",
-       "text": "w układzie współrzędnych płaskich prostokątnych PL-2000 p. 5. W strefie tej obowiązuje"
-      },
-      {
-       "type": "text",
-       "text": "zakaz wznoszenia nowych obiektów budowlanych o wysokości powyżej 25 m n.p.m. Zezwala"
-      },
-      {
-       "type": "text",
-       "text": "się na nadbudowę, rozbudowę istniejących obiektów budowlanych pod warunkiem zachowania"
-      },
-      {
-       "type": "text",
-       "text": "dopuszczalnej wysokości zabudowy, tj. 25 m n.p.m."
+       "text": "Cały obszar portu jest zlokalizowany w zasięgu strefy ochronnej terenu zamkniętego o promieniu 3000 m od punktu o współrzędnych X=5988026,92 Y=5482657,13 określonego w układzie współrzędnych płaskich prostokątnych PL-2000 p. 5. W strefie tej obowiązuje zakaz wznoszenia nowych obiektów budowlanych o wysokości powyżej 25 m n.p.m. Zezwala się na nadbudowę, rozbudowę istniejących obiektów budowlanych pod warunkiem zachowania dopuszczalnej wysokości zabudowy, tj. 25 m n.p.m."
       },
       {
        "type": "text",
@@ -5873,51 +4504,15 @@
      "children": [
       {
        "type": "text",
-       "text": "Nie wydzielono akwenów z funkcją podstawową infrastruktura techniczna, dziedzictwo"
+       "text": "Nie wydzielono akwenów z funkcją podstawową infrastruktura techniczna, dziedzictwo kulturowe, ochrona środowiska i przyrody, sztuczne wyspy i konstrukcje oraz badania naukowe. Funkcje te wskazano jako dopuszczalne z ograniczeniami wskazanymi w kartach poszczególnych akwenów, w zależności od istniejących uwarunkowań lub potrzeb rozwojowych w ramach poszczególnych akwenów."
       },
       {
        "type": "text",
-       "text": "kulturowe, ochrona środowiska i przyrody, sztuczne wyspy i konstrukcje oraz badania"
+       "text": "Z uwagi na specyfikę planu, który obejmuje obszar portu morskiego, nie wydzielono akwenów o funkcji podstawowej akwakultura i rybołówstwo. Funkcji tych nie wskazano także jako dopuszczalne. Obszary portów są wyłączone z wykonywania rybołówstwa komercyjnego."
       },
       {
        "type": "text",
-       "text": "naukowe. Funkcje te wskazano jako dopuszczalne z ograniczeniami wskazanymi w kartach"
-      },
-      {
-       "type": "text",
-       "text": "poszczególnych akwenów, w zależności od istniejących uwarunkowań lub potrzeb"
-      },
-      {
-       "type": "text",
-       "text": "rozwojowych w ramach poszczególnych akwenów."
-      },
-      {
-       "type": "text",
-       "text": "Z uwagi na specyfikę planu, który obejmuje obszar portu morskiego, nie wydzielono"
-      },
-      {
-       "type": "text",
-       "text": "akwenów o funkcji podstawowej akwakultura i rybołówstwo. Funkcji tych nie wskazano także"
-      },
-      {
-       "type": "text",
-       "text": "jako dopuszczalne. Obszary portów są wyłączone z wykonywania rybołówstwa komercyjnego."
-      },
-      {
-       "type": "text",
-       "text": "Wznoszenie sztucznych wysp, konstrukcji i urządzeń zostało dopuszczone w akwenach"
-      },
-      {
-       "type": "text",
-       "text": "jako dopełnienie innych funkcji, takich jak: transport, funkcjonowanie portu, turystyka, sport"
-      },
-      {
-       "type": "text",
-       "text": "i rekreacja oraz obronność i bezpieczeństwo państwa. Ustalono przy tym ogólne zakazy"
-      },
-      {
-       "type": "text",
-       "text": "dotyczące ich wznoszenia, w sposób:"
+       "text": "Wznoszenie sztucznych wysp, konstrukcji i urządzeń zostało dopuszczone w akwenach jako dopełnienie innych funkcji, takich jak: transport, funkcjonowanie portu, turystyka, sport i rekreacja oraz obronność i bezpieczeństwo państwa. Ustalono przy tym ogólne zakazy dotyczące ich wznoszenia, w sposób:"
       }
      ]
     },
@@ -5946,168 +4541,37 @@
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "zagrażający bezpieczeństwu żeglugi lub utrudniający utrzymanie właściwych parametrów",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "toru wodnego."
-    },
-    {
-     "type": "text",
-     "text": "Ustalając zasady realizacji funkcji dopuszczalnej infrastruktura techniczna, jako"
-    },
-    {
-     "type": "text",
-     "text": "podstawową zasadę, przyjęto oszczędne korzystanie z przestrzeni – zakaz układania sieci"
-    },
-    {
-     "type": "text",
-     "text": "infrastruktury technicznej w sposób rozproszony. Ponadto, dla zapewnienia bezpieczeństwa"
-    },
-    {
-     "type": "text",
-     "text": "żeglugi po torach wodnych, wskazano wymóg ustalenia pasów technologicznych wzdłuż"
-    },
-    {
-     "type": "text",
-     "text": "projektowanych i istniejących elementów liniowych infrastruktury elektroenergetycznej"
-    },
-    {
-     "type": "text",
-     "text": "w poziomie, w których obowiązuje zakaz kotwiczenia (z wyjątkiem kotwiczenia awaryjnego"
-    },
-    {
-     "type": "text",
-     "text": "oraz kotwiczenia związanego z pracami instalacyjnymi i serwisowymi)."
-    },
-    {
-     "type": "text",
-     "text": "Ochronę dziedzictwa kulturowego zapewniają przepisy wskazujące na wymóg"
-    },
-    {
-     "type": "text",
-     "text": "uwzględnienia przepisów odrębnych w zakresie ochrony zabytków oraz odpowiednich"
-    },
-    {
-     "type": "text",
-     "text": "przepisów wykonawczych w tym zakresie. Funkcja ochrona dziedzictwa kulturowego została"
-    },
-    {
-     "type": "text",
-     "text": "dopuszczona na obszarze całego planu. Na obszarze planu (akweny DZI.2.S i DZI.3.T)"
-    },
-    {
-     "type": "text",
-     "text": "znajduje się zewidencjonowane stanowisko archeologiczne (AZP 17/08/15), dla którego plan"
-    },
-    {
-     "type": "text",
-     "text": "ustala warunki jego ochrony."
-    },
-    {
-     "type": "text",
-     "text": "Na obszarze planu nie wyznaczono akwenów o funkcji podstawowej pozyskiwanie"
-    },
-    {
-     "type": "text",
-     "text": "energii odnawialnej ze względu na przepisy Ustawy, zgodnie z którymi na morskich wodach"
-    },
-    {
-     "type": "text",
-     "text": "wewnętrznych zakazuje się wznoszenia i wykorzystywania elektrowni wiatrowych."
-    },
-    {
-     "type": "text",
-     "text": "Pozostałych instalacji do pozyskiwania energii odnawialnej na obszarze opracowania nie"
-    },
-    {
-     "type": "text",
-     "text": "przewiduje się."
-    },
-    {
-     "type": "text",
-     "text": "Na całym obszarze planu, z wyjątkiem akwenu o funkcji podstawowej transport,"
-    },
-    {
-     "type": "text",
-     "text": "dopuszczone zostało poszukiwanie lub rozpoznawanie oraz wydobywanie kopalin ze złóż. Na obszarze planu zakazano wznoszenia sztucznych wysp, konstrukcji i urządzeń służących do"
-    },
-    {
-     "type": "text",
-     "text": "wydobycia węglowodorów. Ograniczono przy tym realizację infrastruktury służącej do"
-    },
-    {
-     "type": "text",
-     "text": "wydobycia węglowodorów do elementów liniowych infrastruktury technicznej"
-    },
-    {
-     "type": "text",
-     "text": "wyprowadzających węglowodory na ląd, jak np. rurociągi. Zastosowany w planie zakaz"
-    },
-    {
-     "type": "text",
-     "text": "podyktowany był szczególnymi uwarunkowaniami portu. Port jest akwenem zamkniętym,"
-    },
-    {
-     "type": "text",
-     "text": "zatem w przypadku wydostania się ropy do wód akwenu doszłoby do wystąpienia katastrofy"
-    },
-    {
-     "type": "text",
-     "text": "ekologicznej o znacznym zasięgu – negatywny wpływ na stan zasobów przyrodniczych (florę"
-    },
-    {
-     "type": "text",
-     "text": "i faunę) zarówno w wodzie, jak i na lądzie. Warunkiem prowadzenia przedmiotowej"
-    },
-    {
-     "type": "text",
-     "text": "działalności na obszarze planu jest niepowodowanie trudności w wykorzystaniu morskich wód"
-    },
-    {
-     "type": "text",
-     "text": "wewnętrznych zgodnie z ich funkcją podstawową."
-    },
-    {
-     "type": "text",
-     "text": "Nie wyznaczono także akwenów o funkcji podstawowej ochrona środowiska i przyrody,"
-    },
-    {
-     "type": "text",
-     "text": "z uwagi na brak obszarów objętych formami ochrony przyrody, określonymi w ustawie z dnia"
-    },
-    {
-     "type": "text",
-     "text": "16 kwietnia 2004 r. o ochronie przyrody, innymi niż obszary Natura 2000. Obszar portu"
-    },
-    {
-     "type": "text",
-     "text": "morskiego w Dziwnowie pełni głównie funkcje produkcyjne, przeładunkowe, postojowe,"
-    },
-    {
-     "type": "text",
-     "text": "przewozów pasażerskich oraz inne portowe."
-    },
-    {
-     "type": "text",
-     "text": "Ze względu na brak przesłanek nie wyznaczono także akwenów o funkcji podstawowej"
-    },
-    {
-     "type": "text",
-     "text": "sztuczne wyspy i konstrukcje."
-    },
-    {
-     "type": "text",
-     "text": "Badania naukowe zostały dopuszczone we wszystkich akwenach z wyjątkiem akwenu"
-    },
-    {
-     "type": "text",
-     "text": "o funkcji podstawowej obronność i bezpieczeństwo państwa. W kartach akwenów zakazano"
-    },
-    {
-     "type": "text",
-     "text": "ich prowadzenia w sposób:"
+     "text": "zagrażający bezpieczeństwu żeglugi lub utrudniający utrzymanie właściwych parametrów toru wodnego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ustalając zasady realizacji funkcji dopuszczalnej infrastruktura techniczna, jako podstawową zasadę, przyjęto oszczędne korzystanie z przestrzeni – zakaz układania sieci infrastruktury technicznej w sposób rozproszony. Ponadto, dla zapewnienia bezpieczeństwa żeglugi po torach wodnych, wskazano wymóg ustalenia pasów technologicznych wzdłuż projektowanych i istniejących elementów liniowych infrastruktury elektroenergetycznej w poziomie, w których obowiązuje zakaz kotwiczenia (z wyjątkiem kotwiczenia awaryjnego oraz kotwiczenia związanego z pracami instalacyjnymi i serwisowymi)."
+      },
+      {
+       "type": "text",
+       "text": "Ochronę dziedzictwa kulturowego zapewniają przepisy wskazujące na wymóg uwzględnienia przepisów odrębnych w zakresie ochrony zabytków oraz odpowiednich przepisów wykonawczych w tym zakresie. Funkcja ochrona dziedzictwa kulturowego została dopuszczona na obszarze całego planu. Na obszarze planu (akweny DZI.2.S i DZI.3.T) znajduje się zewidencjonowane stanowisko archeologiczne (AZP 17/08/15), dla którego plan ustala warunki jego ochrony."
+      },
+      {
+       "type": "text",
+       "text": "Na obszarze planu nie wyznaczono akwenów o funkcji podstawowej pozyskiwanie energii odnawialnej ze względu na przepisy Ustawy, zgodnie z którymi na morskich wodach wewnętrznych zakazuje się wznoszenia i wykorzystywania elektrowni wiatrowych. Pozostałych instalacji do pozyskiwania energii odnawialnej na obszarze opracowania nie przewiduje się."
+      },
+      {
+       "type": "text",
+       "text": "Na całym obszarze planu, z wyjątkiem akwenu o funkcji podstawowej transport, dopuszczone zostało poszukiwanie lub rozpoznawanie oraz wydobywanie kopalin ze złóż. Na obszarze planu zakazano wznoszenia sztucznych wysp, konstrukcji i urządzeń służących do wydobycia węglowodorów. Ograniczono przy tym realizację infrastruktury służącej do wydobycia węglowodorów do elementów liniowych infrastruktury technicznej wyprowadzających węglowodory na ląd, jak np. rurociągi. Zastosowany w planie zakaz podyktowany był szczególnymi uwarunkowaniami portu. Port jest akwenem zamkniętym, zatem w przypadku wydostania się ropy do wód akwenu doszłoby do wystąpienia katastrofy ekologicznej o znacznym zasięgu – negatywny wpływ na stan zasobów przyrodniczych (florę i faunę) zarówno w wodzie, jak i na lądzie. Warunkiem prowadzenia przedmiotowej działalności na obszarze planu jest niepowodowanie trudności w wykorzystaniu morskich wód wewnętrznych zgodnie z ich funkcją podstawową."
+      },
+      {
+       "type": "text",
+       "text": "Nie wyznaczono także akwenów o funkcji podstawowej ochrona środowiska i przyrody, z uwagi na brak obszarów objętych formami ochrony przyrody, określonymi w ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody, innymi niż obszary Natura 2000. Obszar portu morskiego w Dziwnowie pełni głównie funkcje produkcyjne, przeładunkowe, postojowe, przewozów pasażerskich oraz inne portowe."
+      },
+      {
+       "type": "text",
+       "text": "Ze względu na brak przesłanek nie wyznaczono także akwenów o funkcji podstawowej sztuczne wyspy i konstrukcje."
+      },
+      {
+       "type": "text",
+       "text": "Badania naukowe zostały dopuszczone we wszystkich akwenach z wyjątkiem akwenu o funkcji podstawowej obronność i bezpieczeństwo państwa. W kartach akwenów zakazano ich prowadzenia w sposób:"
+      }
+     ]
     },
     {
      "type": "pkt",
@@ -6138,199 +4602,39 @@
      "children": [
       {
        "type": "text",
-       "text": "Na obszarze objętym planem podstawowym kierunkiem rozwoju jest transport, dla"
+       "text": "Na obszarze objętym planem podstawowym kierunkiem rozwoju jest transport, dla którego wyznaczono akwen o funkcji podstawowej transport (DZI.3.T), zapewniający dostęp do morza oraz do Zalewu Kamieńskiego i Szczecińskiego. Akwen ten został wyznaczony w oparciu o przebieg istniejącego toru wodnego."
       },
       {
        "type": "text",
-       "text": "którego wyznaczono akwen o funkcji podstawowej transport (DZI.3.T), zapewniający dostęp"
+       "text": "Na zdecydowanej większości obszaru portu morskiego w Dziwnowie wyznaczona została funkcja podstawowa funkcjonowanie portu. Wydzielenie akwenów ze wskazaną funkcją miało na celu zapewnienie przestrzeni do realizacji priorytetowych kierunków zawartych w uchwale nr 33/2015 Rady Ministrów z dnia 17 marca 2015 r. w sprawie Polityki morskiej Rzeczypospolitej Polskiej do roku 2020 (z perspektywą do 2030 roku), tj. rozwoju portów morskich, konkurencyjnego transportu morskiego oraz poprawy bezpieczeństwa i ochrony żeglugi. Funkcjonowanie portu to akweny: DZI.1.Ip, DZI.4.Ip i DZI.5.Ip. W akwenach tych dopuszcza się budowę nowych elementów infrastruktury portowej i turystycznej przy uwzględnieniu ochrony istniejących już umocnień brzegu, sztucznych wysp i konstrukcji oraz innych budowli hydrotechnicznych."
       },
       {
        "type": "text",
-       "text": "do morza oraz do Zalewu Kamieńskiego i Szczecińskiego. Akwen ten został wyznaczony"
+       "text": "Na obszarze portów istotną kwestią jest bezpieczne poruszanie się statków (tzw. bezpieczeństwo nawigacyjne). W związku z tym, zgodnie z ustaleniami planu, wszelkie podejmowane w porcie działania nie mogą prowadzić do zmniejszenia widzialności świateł i konstrukcji znaków nawigacyjnych. Dodatkowo w obszarze ochrony wizury znaków nawigacyjnych (podakwen 5.1) ustalono zakaz lokalizacji obiektów i świateł mogących przysłaniać znaki nawigacyjne oraz mogących utrudniać widzialność i rozpoznawalność tych znaków."
       },
       {
        "type": "text",
-       "text": "w oparciu o przebieg istniejącego toru wodnego."
+       "text": "W celu zapewnienia ochrony nabrzeży portowych na akwenach o funkcji podstawowej funkcjonowanie portu ustalono ograniczenia w realizacji inwestycji oraz prowadzenia prac związanych z rozbudową i przebudową infrastruktury portowej do sposobów niezagrażających stateczności budowli hydrotechnicznych. Dodatkowo, na obszarze całego planu, budowa nowych obiektów, rozbudowa, przebudowa i remont obiektów istniejących musi uwzględniać sąsiedztwo z istniejącymi lub projektowanymi obiektami hydrotechnicznymi i liniową infrastrukturą techniczną oraz być realizowana w sposób zapewniający nienaruszalność i stateczność tych obiektów lub gwarantujący usunięcie ewentualnych kolizji."
       },
       {
        "type": "text",
-       "text": "Na zdecydowanej większości obszaru portu morskiego w Dziwnowie wyznaczona została"
+       "text": "Jako kolejna istotna funkcja na obszarze portu w Dziwnowie została wyznaczona funkcja turystyka, sport i rekreacja. Zasięg akwenów o tej funkcji wynikał z istniejących uwarunkowań obszaru opracowania i terenu sąsiedniego (port jachtowy, marina) oraz planowanych inwestycji turystyczno-rekreacyjnych na lądzie. W akwenach tych dopuszcza się budowę nowych elementów infrastruktury portowej i turystycznej przy uwzględnieniu ochrony istniejących już umocnień brzegu, sztucznych wysp i konstrukcji oraz innych budowli hydrotechnicznych."
       },
       {
        "type": "text",
-       "text": "funkcja podstawowa funkcjonowanie portu. Wydzielenie akwenów ze wskazaną funkcją miało"
+       "text": "W akwenach DZI.1.Ip, DZI.3.T i DZI.5.Ip istnieje most, którego lokalizacja wymusza pewne ograniczenia w korzystaniu z akwenów. Z tego powodu na potrzeby utrzymania mostu zostały wyznaczone podakweny, na których obowiązują ograniczenia w realizacji funkcji do sposobów nienaruszających konstrukcji mostu. Realizacja inwestycji związanych z rozbudową i przebudową infrastruktury portowej oraz realizacją nowych elementów infrastruktury technicznej została ograniczona do sposobów niezagrażających stateczności budowli hydrotechnicznych w porcie."
       },
       {
        "type": "text",
-       "text": "na celu zapewnienie przestrzeni do realizacji priorytetowych kierunków zawartych w uchwale"
+       "text": "W akwenie DZI.4.Ip jest zlokalizowany wrak barki. Ze względu na wskazane uwarunkowanie zakazano kotwiczenia w rejonie jego lokalizacji."
       },
       {
        "type": "text",
-       "text": "nr 33/2015 Rady Ministrów z dnia 17 marca 2015 r. w sprawie Polityki morskiej Rzeczypospolitej Polskiej do roku 2020 (z perspektywą do 2030 roku), tj. rozwoju portów"
+       "text": "Akwen o funkcji obronność i bezpieczeństwo państwa został wyznaczony w sąsiedztwie Morskiego Portu Wojennego Dziwnów. Ze względu na pełnione przez ten teren funkcje na akwenie DZI.7.B zakazano lokalizacji sztucznych wysp, konstrukcji i urządzeń mogących zakłócić realizację zadań z zakresu obronności i bezpieczeństwa państwa."
       },
       {
        "type": "text",
-       "text": "morskich, konkurencyjnego transportu morskiego oraz poprawy bezpieczeństwa i ochrony"
-      },
-      {
-       "type": "text",
-       "text": "żeglugi. Funkcjonowanie portu to akweny: DZI.1.Ip, DZI.4.Ip i DZI.5.Ip. W akwenach tych"
-      },
-      {
-       "type": "text",
-       "text": "dopuszcza się budowę nowych elementów infrastruktury portowej i turystycznej przy"
-      },
-      {
-       "type": "text",
-       "text": "uwzględnieniu ochrony istniejących już umocnień brzegu, sztucznych wysp i konstrukcji oraz"
-      },
-      {
-       "type": "text",
-       "text": "innych budowli hydrotechnicznych."
-      },
-      {
-       "type": "text",
-       "text": "Na obszarze portów istotną kwestią jest bezpieczne poruszanie się statków"
-      },
-      {
-       "type": "text",
-       "text": "(tzw. bezpieczeństwo nawigacyjne). W związku z tym, zgodnie z ustaleniami planu, wszelkie"
-      },
-      {
-       "type": "text",
-       "text": "podejmowane w porcie działania nie mogą prowadzić do zmniejszenia widzialności świateł"
-      },
-      {
-       "type": "text",
-       "text": "i konstrukcji znaków nawigacyjnych. Dodatkowo w obszarze ochrony wizury znaków"
-      },
-      {
-       "type": "text",
-       "text": "nawigacyjnych (podakwen 5.1) ustalono zakaz lokalizacji obiektów i świateł mogących"
-      },
-      {
-       "type": "text",
-       "text": "przysłaniać znaki nawigacyjne oraz mogących utrudniać widzialność i rozpoznawalność tych"
-      },
-      {
-       "type": "text",
-       "text": "znaków."
-      },
-      {
-       "type": "text",
-       "text": "W celu zapewnienia ochrony nabrzeży portowych na akwenach o funkcji podstawowej"
-      },
-      {
-       "type": "text",
-       "text": "funkcjonowanie portu ustalono ograniczenia w realizacji inwestycji oraz prowadzenia prac"
-      },
-      {
-       "type": "text",
-       "text": "związanych z rozbudową i przebudową infrastruktury portowej do sposobów niezagrażających"
-      },
-      {
-       "type": "text",
-       "text": "stateczności budowli hydrotechnicznych. Dodatkowo, na obszarze całego planu, budowa"
-      },
-      {
-       "type": "text",
-       "text": "nowych obiektów, rozbudowa, przebudowa i remont obiektów istniejących musi uwzględniać"
-      },
-      {
-       "type": "text",
-       "text": "sąsiedztwo z istniejącymi lub projektowanymi obiektami hydrotechnicznymi i liniową"
-      },
-      {
-       "type": "text",
-       "text": "infrastrukturą techniczną oraz być realizowana w sposób zapewniający nienaruszalność"
-      },
-      {
-       "type": "text",
-       "text": "i stateczność tych obiektów lub gwarantujący usunięcie ewentualnych kolizji."
-      },
-      {
-       "type": "text",
-       "text": "Jako kolejna istotna funkcja na obszarze portu w Dziwnowie została wyznaczona funkcja"
-      },
-      {
-       "type": "text",
-       "text": "turystyka, sport i rekreacja. Zasięg akwenów o tej funkcji wynikał z istniejących uwarunkowań"
-      },
-      {
-       "type": "text",
-       "text": "obszaru opracowania i terenu sąsiedniego (port jachtowy, marina) oraz planowanych inwestycji"
-      },
-      {
-       "type": "text",
-       "text": "turystyczno-rekreacyjnych na lądzie. W akwenach tych dopuszcza się budowę nowych"
-      },
-      {
-       "type": "text",
-       "text": "elementów infrastruktury portowej i turystycznej przy uwzględnieniu ochrony istniejących już"
-      },
-      {
-       "type": "text",
-       "text": "umocnień brzegu, sztucznych wysp i konstrukcji oraz innych budowli hydrotechnicznych."
-      },
-      {
-       "type": "text",
-       "text": "W akwenach DZI.1.Ip, DZI.3.T i DZI.5.Ip istnieje most, którego lokalizacja wymusza"
-      },
-      {
-       "type": "text",
-       "text": "pewne ograniczenia w korzystaniu z akwenów. Z tego powodu na potrzeby utrzymania mostu"
-      },
-      {
-       "type": "text",
-       "text": "zostały wyznaczone podakweny, na których obowiązują ograniczenia w realizacji funkcji do"
-      },
-      {
-       "type": "text",
-       "text": "sposobów nienaruszających konstrukcji mostu. Realizacja inwestycji związanych z rozbudową"
-      },
-      {
-       "type": "text",
-       "text": "i przebudową infrastruktury portowej oraz realizacją nowych elementów infrastruktury technicznej została ograniczona do sposobów niezagrażających stateczności budowli"
-      },
-      {
-       "type": "text",
-       "text": "hydrotechnicznych w porcie."
-      },
-      {
-       "type": "text",
-       "text": "W akwenie DZI.4.Ip jest zlokalizowany wrak barki. Ze względu na wskazane"
-      },
-      {
-       "type": "text",
-       "text": "uwarunkowanie zakazano kotwiczenia w rejonie jego lokalizacji."
-      },
-      {
-       "type": "text",
-       "text": "Akwen o funkcji obronność i bezpieczeństwo państwa został wyznaczony w sąsiedztwie"
-      },
-      {
-       "type": "text",
-       "text": "Morskiego Portu Wojennego Dziwnów. Ze względu na pełnione przez ten teren funkcje na"
-      },
-      {
-       "type": "text",
-       "text": "akwenie DZI.7.B zakazano lokalizacji sztucznych wysp, konstrukcji i urządzeń mogących"
-      },
-      {
-       "type": "text",
-       "text": "zakłócić realizację zadań z zakresu obronności i bezpieczeństwa państwa."
-      },
-      {
-       "type": "text",
-       "text": "W ramach inwentaryzacji zrealizowanej na potrzeby opracowania projektu planu zebrano"
-      },
-      {
-       "type": "text",
-       "text": "informacje, które przedstawiono na rysunku uwarunkowań, stanowiącym integralną część"
-      },
-      {
-       "type": "text",
-       "text": "niniejszego załącznika."
+       "text": "W ramach inwentaryzacji zrealizowanej na potrzeby opracowania projektu planu zebrano informacje, które przedstawiono na rysunku uwarunkowań, stanowiącym integralną część niniejszego załącznika."
       },
       {
        "type": "text",

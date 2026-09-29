@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1603",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 7 listopada 2025 r. w sprawie opłat za czynności wykonywane przez organy Państwowej Inspekcji Sanitarnej w ramach urzędowych kontroli żywności",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1603/text.pdf",
  "body": [
   {
@@ -569,48 +569,29 @@
      "text": "STAWKI OPŁAT ZA WYKONANIE BADAŃ LABORATORYJNYCH ŚRODKÓW SPOŻYWCZYCH LUB MATERIAŁÓW I WYROBÓW PRZEZNACZONYCH DO KONTAKTU Z ŻYWNOŚCIĄ"
     },
     {
-     "type": "text",
-     "text": "I. Badania fizykochemiczne"
+     "type": "heading",
+     "label": "I.",
+     "text": "Badania fizykochemiczne"
     },
     {
      "type": "text",
-     "text": "Opłata za badanie Lp. Rodzaj oznaczenia jednej próbki [zł], chyba że w tabeli określono inaczej"
+     "text": "Opłata za badanie Lp. Rodzaj oznaczenia jednej próbki [zł], chyba że w tabeli określono inaczej 1 Alkaloidy pirolizydynowe:"
     },
     {
      "type": "text",
-     "text": "1 Alkaloidy pirolizydynowe:"
+     "text": "metoda chromatografii cieczowej (LC-MS/MS) 1144 2 Alkaloidy sporyszu:"
     },
     {
      "type": "text",
-     "text": "metoda chromatografii cieczowej (LC-MS/MS) 1144"
+     "text": "metoda chromatografii cieczowej (LC-MS/MS) 553 3 Alkaloidy tropanowe:"
     },
     {
      "type": "text",
-     "text": "2 Alkaloidy sporyszu:"
+     "text": "metoda chromatografii cieczowej (LC-MS/MS) 402 4 Alkohol etylowy – fuzle:"
     },
     {
      "type": "text",
-     "text": "metoda chromatografii cieczowej (LC-MS/MS) 553"
-    },
-    {
-     "type": "text",
-     "text": "3 Alkaloidy tropanowe:"
-    },
-    {
-     "type": "text",
-     "text": "metoda chromatografii cieczowej (LC-MS/MS) 402"
-    },
-    {
-     "type": "text",
-     "text": "4 Alkohol etylowy – fuzle:"
-    },
-    {
-     "type": "text",
-     "text": "metoda spektrofotometryczna 109"
-    },
-    {
-     "type": "text",
-     "text": "5 Alkohol metylowy:"
+     "text": "metoda spektrofotometryczna 109 5 Alkohol metylowy:"
     },
     {
      "type": "pkt",
@@ -623,13 +604,8 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "metoda chromatografii gazowej (GC) 195",
-     "children": [
-      {
-       "type": "text",
-       "text": "6 Azotany i azotyny:"
-      }
-     ]
+     "text": "metoda chromatografii gazowej (GC) 195 6 Azotany i azotyny:",
+     "children": []
     },
     {
      "type": "pkt",
@@ -642,13 +618,8 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "metoda chromatografii cieczowej (HPLC) 376",
-     "children": [
-      {
-       "type": "text",
-       "text": "7 Barwniki:"
-      }
-     ]
+     "text": "metoda chromatografii cieczowej (HPLC) 376 7 Barwniki:",
+     "children": []
     },
     {
      "type": "pkt",
@@ -675,43 +646,23 @@
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "oznaczenie ilościowe – metoda chromatografii cieczowej (HPLC) 466",
+     "text": "oznaczenie ilościowe – metoda chromatografii cieczowej (HPLC) 466 8 Chlorki:",
      "children": [
       {
        "type": "text",
-       "text": "8 Chlorki:"
+       "text": "metoda miareczkowa 112 9 Cyjanowodór:"
       },
       {
        "type": "text",
-       "text": "metoda miareczkowa 112"
+       "text": "metoda spektrofotometryczna 271 10 Furan, 2-metylofuran, 3-metylofuran:"
       },
       {
        "type": "text",
-       "text": "9 Cyjanowodór:"
+       "text": "metoda chromatografii gazowej (GC) 515 11 Alergeny (w tym gluten, orzech ziemny / białko orzecha ziemnego, soja):"
       },
       {
        "type": "text",
-       "text": "metoda spektrofotometryczna 271"
-      },
-      {
-       "type": "text",
-       "text": "10 Furan, 2-metylofuran, 3-metylofuran:"
-      },
-      {
-       "type": "text",
-       "text": "metoda chromatografii gazowej (GC) 515"
-      },
-      {
-       "type": "text",
-       "text": "11 Alergeny (w tym gluten, orzech ziemny / białko orzecha ziemnego, soja):"
-      },
-      {
-       "type": "text",
-       "text": "metoda immunoenzymatyczna 496 (jeden alergen)"
-      },
-      {
-       "type": "text",
-       "text": "12 Glutaminian sodu:"
+       "text": "metoda immunoenzymatyczna 496 (jeden alergen) 12 Glutaminian sodu:"
       }
      ]
     },
@@ -730,11 +681,7 @@
      "children": [
       {
        "type": "text",
-       "text": "metoda spektrofotometryczna 236"
-      },
-      {
-       "type": "text",
-       "text": "14 Histamina:"
+       "text": "metoda spektrofotometryczna 236 14 Histamina:"
       },
       {
        "type": "text",
@@ -753,19 +700,11 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "ocena partii produktu (badanie 9 próbek) 1986",
+     "text": "ocena partii produktu (badanie 9 próbek) 1986 15 Karbaminian etylu:",
      "children": [
       {
        "type": "text",
-       "text": "15 Karbaminian etylu:"
-      },
-      {
-       "type": "text",
-       "text": "metoda chromatografii gazowej (GC) 562"
-      },
-      {
-       "type": "text",
-       "text": "16 Kofeina:"
+       "text": "metoda chromatografii gazowej (GC) 562 16 Kofeina:"
       }
      ]
     },
@@ -780,13 +719,8 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "metoda miareczkowa 81",
-     "children": [
-      {
-       "type": "text",
-       "text": "17 Konserwanty – kwas benzoesowy:"
-      }
-     ]
+     "text": "metoda miareczkowa 81 17 Konserwanty – kwas benzoesowy:",
+     "children": []
     },
     {
      "type": "pkt",
@@ -799,13 +733,8 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "metoda chromatografii cieczowej (HPLC) 359",
-     "children": [
-      {
-       "type": "text",
-       "text": "18 Konserwanty – kwas sorbowy:"
-      }
-     ]
+     "text": "metoda chromatografii cieczowej (HPLC) 359 18 Konserwanty – kwas sorbowy:",
+     "children": []
     },
     {
      "type": "pkt",
@@ -818,19 +747,11 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "metoda chromatografii cieczowej (HPLC) 359",
+     "text": "metoda chromatografii cieczowej (HPLC) 359 19 Konserwanty – kwas sorbowy i kwas benzoesowy:",
      "children": [
       {
        "type": "text",
-       "text": "19 Konserwanty – kwas sorbowy i kwas benzoesowy:"
-      },
-      {
-       "type": "text",
-       "text": "metoda chromatografii cieczowej (HPLC) 376"
-      },
-      {
-       "type": "text",
-       "text": "20 Konserwanty – dwutlenek siarki:"
+       "text": "metoda chromatografii cieczowej (HPLC) 376 20 Konserwanty – dwutlenek siarki:"
       }
      ]
     },
@@ -845,51 +766,27 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "metoda jodometryczna 186",
+     "text": "metoda jodometryczna 186 21 Kwas erukowy:",
      "children": [
       {
        "type": "text",
-       "text": "21 Kwas erukowy:"
+       "text": "metoda chromatografii gazowej (GC) 379 22 Liczba kwasowa w tłuszczach:"
       },
       {
        "type": "text",
-       "text": "metoda chromatografii gazowej (GC) 379"
+       "text": "metoda miareczkowa 108 23 Liczba nadtlenkowa w tłuszczach:"
       },
       {
        "type": "text",
-       "text": "22 Liczba kwasowa w tłuszczach:"
+       "text": "metoda miareczkowa 161 24 Liczba jodowa w tłuszczach:"
       },
       {
        "type": "text",
-       "text": "metoda miareczkowa 108"
+       "text": "metoda miareczkowa 55 25 Związki polarne w tłuszczach smażalniczych:"
       },
       {
        "type": "text",
-       "text": "23 Liczba nadtlenkowa w tłuszczach:"
-      },
-      {
-       "type": "text",
-       "text": "metoda miareczkowa 161"
-      },
-      {
-       "type": "text",
-       "text": "24 Liczba jodowa w tłuszczach:"
-      },
-      {
-       "type": "text",
-       "text": "metoda miareczkowa 55"
-      },
-      {
-       "type": "text",
-       "text": "25 Związki polarne w tłuszczach smażalniczych:"
-      },
-      {
-       "type": "text",
-       "text": "metoda wagowa 454"
-      },
-      {
-       "type": "text",
-       "text": "26 Metale – ołów, kadm:"
+       "text": "metoda wagowa 454 26 Metale – ołów, kadm:"
       }
      ]
     },
@@ -936,11 +833,7 @@
        "children": [
         {
          "type": "text",
-         "text": "metoda absorpcyjnej spektrometrii atomowej (ASA) 305"
-        },
-        {
-         "type": "text",
-         "text": "28 Metale – arsen:"
+         "text": "metoda absorpcyjnej spektrometrii atomowej (ASA) 305 28 Metale – arsen:"
         }
        ]
       }
@@ -957,19 +850,11 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "metoda spektrometrii masowej (ICP-MS) 390",
+     "text": "metoda spektrometrii masowej (ICP-MS) 390 29 Metale – arsen nieorganiczny:",
      "children": [
       {
        "type": "text",
-       "text": "29 Metale – arsen nieorganiczny:"
-      },
-      {
-       "type": "text",
-       "text": "metoda absorpcyjnej spektrometrii atomowej (ASA) 576"
-      },
-      {
-       "type": "text",
-       "text": "30 Metale – cyna:"
+       "text": "metoda absorpcyjnej spektrometrii atomowej (ASA) 576 30 Metale – cyna:"
       }
      ]
     },
@@ -984,13 +869,8 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "metoda spektrometrii masowej (ICP-MS) 390",
-     "children": [
-      {
-       "type": "text",
-       "text": "31 Metale – nikiel, glin:"
-      }
-     ]
+     "text": "metoda spektrometrii masowej (ICP-MS) 390 31 Metale – nikiel, glin:",
+     "children": []
     },
     {
      "type": "pkt",
@@ -1003,13 +883,8 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "metoda spektrometrii masowej (ICP-MS) 389 (jeden pierwiastek)",
-     "children": [
-      {
-       "type": "text",
-       "text": "32 Metale – żelazo, miedź, cynk, wapń, magnez, sód, potas, selen:"
-      }
-     ]
+     "text": "metoda spektrometrii masowej (ICP-MS) 389 (jeden pierwiastek) 32 Metale – żelazo, miedź, cynk, wapń, magnez, sód, potas, selen:",
+     "children": []
     },
     {
      "type": "pkt",
@@ -1022,19 +897,15 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "metoda spektrometrii masowej (ICP-MS) 299 (jeden pierwiastek)",
+     "text": "metoda spektrometrii masowej (ICP-MS) 299 (jeden pierwiastek) 33 Metale – żelazo:",
      "children": [
       {
        "type": "text",
-       "text": "33 Metale – żelazo:"
+       "text": "metoda spektrofotometryczna 165 34 Metale (arsen, kadm, ołów, rtęć, cyna, nikiel, miedź) w naturalnej wodzie"
       },
       {
        "type": "text",
-       "text": "metoda spektrofotometryczna 165"
-      },
-      {
-       "type": "text",
-       "text": "34 Metale (arsen, kadm, ołów, rtęć, cyna, nikiel, miedź) w naturalnej wodzie mineralnej, wodzie źródlanej i wodzie stołowej:"
+       "text": "mineralnej, wodzie źródlanej i wodzie stołowej:"
       }
      ]
     },
@@ -1049,13 +920,8 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "metoda spektrometrii masowej (ICP-MS) 80 (jeden pierwiastek)",
-     "children": [
-      {
-       "type": "text",
-       "text": "35 Mikotoksyny – ochratoksyna A:"
-      }
-     ]
+     "text": "metoda spektrometrii masowej (ICP-MS) 80 (jeden pierwiastek) 35 Mikotoksyny – ochratoksyna A:",
+     "children": []
     },
     {
      "type": "pkt",
@@ -1068,13 +934,8 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "metoda chromatografii cieczowej 604",
-     "children": [
-      {
-       "type": "text",
-       "text": "36 Mikotoksyny – aflatoksyna B₁:"
-      }
-     ]
+     "text": "metoda chromatografii cieczowej 604 36 Mikotoksyny – aflatoksyna B₁:",
+     "children": []
     },
     {
      "type": "pkt",
@@ -1087,13 +948,8 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "metoda chromatografii cieczowej 654",
-     "children": [
-      {
-       "type": "text",
-       "text": "37 Mikotoksyny – suma aflatoksyn B₁, B₂, G₁, G₂:"
-      }
-     ]
+     "text": "metoda chromatografii cieczowej 654 37 Mikotoksyny – suma aflatoksyn B₁, B₂, G₁, G₂:",
+     "children": []
     },
     {
      "type": "pkt",
@@ -1106,19 +962,11 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "metoda chromatografii cieczowej 870",
+     "text": "metoda chromatografii cieczowej 870 38 Mikotoksyny – aflatoksyna M₁:",
      "children": [
       {
        "type": "text",
-       "text": "38 Mikotoksyny – aflatoksyna M₁:"
-      },
-      {
-       "type": "text",
-       "text": "metoda chromatografii cieczowej 641"
-      },
-      {
-       "type": "text",
-       "text": "39 Mikotoksyny – zearalenon (ZEA):"
+       "text": "metoda chromatografii cieczowej 641 39 Mikotoksyny – zearalenon (ZEA):"
       }
      ]
     },
@@ -1133,13 +981,8 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "metoda chromatografii cieczowej 602",
-     "children": [
-      {
-       "type": "text",
-       "text": "40 Mikotoksyny – fumonizyny:"
-      }
-     ]
+     "text": "metoda chromatografii cieczowej 602 40 Mikotoksyny – fumonizyny:",
+     "children": []
     },
     {
      "type": "pkt",
@@ -1166,35 +1009,19 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "metoda chromatografii cieczowej 593",
+     "text": "metoda chromatografii cieczowej 593 42 Mikotoksyny – patulina:",
      "children": [
       {
        "type": "text",
-       "text": "42 Mikotoksyny – patulina:"
+       "text": "metoda chromatografii cieczowej 556 43 Mikotoksyny – toksyny T2, HT-2:"
       },
       {
        "type": "text",
-       "text": "metoda chromatografii cieczowej 556"
+       "text": "metoda chromatografii cieczowej 679 44 Mikotoksyny – cytryniny:"
       },
       {
        "type": "text",
-       "text": "43 Mikotoksyny – toksyny T2, HT-2:"
-      },
-      {
-       "type": "text",
-       "text": "metoda chromatografii cieczowej 679"
-      },
-      {
-       "type": "text",
-       "text": "44 Mikotoksyny – cytryniny:"
-      },
-      {
-       "type": "text",
-       "text": "metoda chromatografii cieczowej 645"
-      },
-      {
-       "type": "text",
-       "text": "45 Mikotoksyny – przygotowanie przed oznaczaniem dla próbek o masie 113 od 10 kg:"
+       "text": "metoda chromatografii cieczowej 645 45 Mikotoksyny – przygotowanie przed oznaczaniem dla próbek o masie 113 od 10 kg:"
       },
       {
        "type": "text",
@@ -1202,11 +1029,11 @@
       },
       {
        "type": "text",
-       "text": "metoda chromatografii gazowej (GC) 797"
+       "text": "metoda chromatografii gazowej (GC) 797 47 2-MCPD (2-monochloropropano-1,2-diol), 3-MCPD"
       },
       {
        "type": "text",
-       "text": "47 2-MCPD (2-monochloropropano-1,2-diol), 3-MCPD (3-monochloropropan-1, 2-diol):"
+       "text": "(3-monochloropropan-1, 2-diol):"
       },
       {
        "type": "text",
@@ -1225,13 +1052,8 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "dwa związki 2167",
-     "children": [
-      {
-       "type": "text",
-       "text": "48 Akryloamid:"
-      }
-     ]
+     "text": "dwa związki 2167 48 Akryloamid:",
+     "children": []
     },
     {
      "type": "pkt",
@@ -1244,12 +1066,8 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "metoda chromatografii cieczowej (LC-MS/MS) 655",
+     "text": "metoda chromatografii cieczowej (LC-MS/MS) 655 49 Wielopierścieniowe węglowodory aromatyczne WWA:",
      "children": [
-      {
-       "type": "text",
-       "text": "49 Wielopierścieniowe węglowodory aromatyczne WWA:"
-      },
       {
        "type": "text",
        "text": "metoda chromatografii cieczowej (HPLC):"
@@ -1267,27 +1085,15 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "ze zmydlaniem 992",
+     "text": "ze zmydlaniem 992 50 Fosfor dodany:",
      "children": [
       {
        "type": "text",
-       "text": "50 Fosfor dodany:"
+       "text": "metoda obliczeniowa 519 51 Fosfor ogólny:"
       },
       {
        "type": "text",
-       "text": "metoda obliczeniowa 519"
-      },
-      {
-       "type": "text",
-       "text": "51 Fosfor ogólny:"
-      },
-      {
-       "type": "text",
-       "text": "metoda wagowa 231"
-      },
-      {
-       "type": "text",
-       "text": "52 Pestycydy – jon bromkowy:"
+       "text": "metoda wagowa 231 52 Pestycydy – jon bromkowy:"
       }
      ]
     },
@@ -1302,13 +1108,8 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "metoda chromatografii cieczowej 440",
-     "children": [
-      {
-       "type": "text",
-       "text": "53 Pestycydy – ditiokarbaminiany:"
-      }
-     ]
+     "text": "metoda chromatografii cieczowej 440 53 Pestycydy – ditiokarbaminiany:",
+     "children": []
     },
     {
      "type": "pkt",
@@ -1321,13 +1122,8 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "metoda chromatografii gazowej 357",
-     "children": [
-      {
-       "type": "text",
-       "text": "54 Pestycydy – związki analizowane metodą wielopozostałościową:"
-      }
-     ]
+     "text": "metoda chromatografii gazowej 357 54 Pestycydy – związki analizowane metodą wielopozostałościową:",
+     "children": []
     },
     {
      "type": "pkt",
@@ -1543,12 +1339,8 @@
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "witamina B1 434",
+     "text": "witamina B1 434 63 Witaminy rozpuszczalne w tłuszczach:",
      "children": [
-      {
-       "type": "text",
-       "text": "63 Witaminy rozpuszczalne w tłuszczach:"
-      },
       {
        "type": "text",
        "text": "metoda chromatografii cieczowej (HPLC):"
@@ -1566,17 +1358,8 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "witaminy A i E 696",
-     "children": [
-      {
-       "type": "text",
-       "text": "64 Wartość energetyczna z obliczeń 51"
-      },
-      {
-       "type": "text",
-       "text": "65 Tłuszcz:"
-      }
-     ]
+     "text": "witaminy A i E 696 64 Wartość energetyczna z obliczeń 51 65 Tłuszcz:",
+     "children": []
     },
     {
      "type": "pkt",
@@ -1589,59 +1372,31 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "metoda Szmidta-Bondzyńskiego 310",
+     "text": "metoda Szmidta-Bondzyńskiego 310 66 Kwasy tłuszczowe, w tym izomery trans:",
      "children": [
       {
        "type": "text",
-       "text": "66 Kwasy tłuszczowe, w tym izomery trans:"
+       "text": "metoda chromatografii gazowej (GC) 542 67 Białko:"
       },
       {
        "type": "text",
-       "text": "metoda chromatografii gazowej (GC) 542"
+       "text": "metoda Kjeldahla 258 68 Cukry:"
       },
       {
        "type": "text",
-       "text": "67 Białko:"
+       "text": "metoda miareczkowa 309 69 Błonnik:"
       },
       {
        "type": "text",
-       "text": "metoda Kjeldahla 258"
+       "text": "metoda enzymatyczno-wagowa 433 70 Popiół ogólny:"
       },
       {
        "type": "text",
-       "text": "68 Cukry:"
+       "text": "metoda wagowa 163 71 Wilgotność / sucha masa:"
       },
       {
        "type": "text",
-       "text": "metoda miareczkowa 309"
-      },
-      {
-       "type": "text",
-       "text": "69 Błonnik:"
-      },
-      {
-       "type": "text",
-       "text": "metoda enzymatyczno-wagowa 433"
-      },
-      {
-       "type": "text",
-       "text": "70 Popiół ogólny:"
-      },
-      {
-       "type": "text",
-       "text": "metoda wagowa 163"
-      },
-      {
-       "type": "text",
-       "text": "71 Wilgotność / sucha masa:"
-      },
-      {
-       "type": "text",
-       "text": "metoda wagowa 115"
-      },
-      {
-       "type": "text",
-       "text": "72 Zanieczyszczenia fizyczne:"
+       "text": "metoda wagowa 115 72 Zanieczyszczenia fizyczne:"
       }
      ]
     },
@@ -1656,21 +1411,8 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "oznaczanie ilościowe – metoda wagowa 165",
-     "children": [
-      {
-       "type": "text",
-       "text": "73 Zanieczyszczenia biologiczne, w tym szkodniki żywnościowe 115"
-      },
-      {
-       "type": "text",
-       "text": "74 Przetrwalniki buławinki czerwonej 115"
-      },
-      {
-       "type": "text",
-       "text": "75 Oznaczanie jakościowe DNA jednej odmiany modyfikacji genetycznej:"
-      }
-     ]
+     "text": "oznaczanie ilościowe – metoda wagowa 165 73 Zanieczyszczenia biologiczne, w tym szkodniki żywnościowe 115 74 Przetrwalniki buławinki czerwonej 115 75 Oznaczanie jakościowe DNA jednej odmiany modyfikacji genetycznej:",
+     "children": []
     },
     {
      "type": "pkt",
@@ -1683,19 +1425,15 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "metoda Real-Time PCR 598",
+     "text": "metoda Real-Time PCR 598 76 Oznaczanie ilościowe DNA jednej odmiany modyfikacji genetycznej:",
      "children": [
       {
        "type": "text",
-       "text": "76 Oznaczanie ilościowe DNA jednej odmiany modyfikacji genetycznej:"
+       "text": "metoda Real-Time PCR 877 77 Oznaczanie jakościowe DNA (przesiewowe) jednej sekwencji specyficznej"
       },
       {
        "type": "text",
-       "text": "metoda Real-Time PCR 877"
-      },
-      {
-       "type": "text",
-       "text": "77 Oznaczanie jakościowe DNA (przesiewowe) jednej sekwencji specyficznej dla modyfikacji genetycznej:"
+       "text": "dla modyfikacji genetycznej:"
       }
      ]
     },
@@ -2010,20 +1748,21 @@
       {
        "type": "text",
        "text": "metoda spektrometrii masowej (ICP-MS) 202 (jeden pierwiastek)"
-      },
-      {
-       "type": "text",
-       "text": "II. Badania mikrobiologiczne[^2_2]"
-      },
-      {
-       "type": "text",
-       "text": "Opłata za badanie jednej próbki [zł], Lp. Rodzaj oznaczenia chyba że w tabeli określono inaczej"
-      },
-      {
-       "type": "text",
-       "text": "1 Salmonella spp.:"
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Badania mikrobiologiczne[^2_2]"
+    },
+    {
+     "type": "text",
+     "text": "Opłata za badanie jednej próbki [zł], Lp. Rodzaj oznaczenia chyba że w tabeli określono inaczej"
+    },
+    {
+     "type": "text",
+     "text": "1 Salmonella spp.:"
     },
     {
      "type": "pkt",

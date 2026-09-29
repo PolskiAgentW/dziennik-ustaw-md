@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/857",
  "title": "Rozporządzenie Ministra Infrastruktury z dnia 26 czerwca 2026 r. w sprawie sposobu unieważniania dokumentów pojazdów wycofanych z eksploatacji, wzorów zaświadczeń wydawanych dla tych pojazdów, sposobu przechowywania zaświadczeń oraz prowadzenia ich ewidencji",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/857/text.pdf",
  "body": [
   {
@@ -471,7 +471,11 @@
    "body": [
     {
      "type": "text",
-     "text": "WZÓR (format A4)"
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "(format A4)"
     },
     {
      "type": "text",
@@ -487,15 +491,15 @@
     },
     {
      "type": "text",
-     "text": "ZAŚWIADCZENIE O PRZYJĘCIU NIEKOMPLETNEGO POJAZDU nr……../………/……… Na podstawie art. 25 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. z 2020 r. poz. 2056)"
+     "text": "ZAŚWIADCZENIE O PRZYJĘCIU NIEKOMPLETNEGO POJAZDU"
     },
     {
      "type": "text",
-     "text": "oraz działając na podstawie posiadanego zezwolenia / pozwolenia / pozwolenia zintegrowanego / decyzji[^2] w zakresie zbierania"
+     "text": "nr……../………/………"
     },
     {
      "type": "text",
-     "text": "odpadów / gospodarki odpadami[^2] wydanego przez …………………………………...……………………………………….……….."
+     "text": "Na podstawie art. 25 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. z 2020 r. poz. 2056) oraz działając na podstawie posiadanego zezwolenia / pozwolenia / pozwolenia zintegrowanego / decyzji[^2] w zakresie zbierania odpadów / gospodarki odpadami[^2] wydanego przez …………………………………...……………………………………….……….."
     },
     {
      "type": "text",
@@ -527,11 +531,7 @@
     },
     {
      "type": "text",
-     "text": "wpisaną(-ny) pod nr ............... do rejestru prowadzonego przez marszałka województwa na podstawie art. 49 ust. 1 ustawy z dnia"
-    },
-    {
-     "type": "text",
-     "text": "14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, z późn. zm.)"
+     "text": "wpisaną(-ny) pod nr ............... do rejestru prowadzonego przez marszałka województwa na podstawie art. 49 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, z późn. zm.)"
     },
     {
      "type": "text",
@@ -541,7 +541,21 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Numer rejestracyjny pojazdu …………………………………………………………………………………………..………... 2. Marka ……………………... typ (jeżeli występuje)………………………………… model ……………………..…………… 3. Numer VIN albo numer nadwozia, podwozia lub ramy ……………………………………………………………………..….. 4. Masa pojazdu wycofanego z eksploatacji[^3]…………",
+     "text": "Numer rejestracyjny pojazdu …………………………………………………………………………………………..………...",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Marka ……………………... typ (jeżeli występuje)………………………………… model ……………………..…………… 3. Numer VIN albo numer nadwozia, podwozia lub ramy ……………………………………………………………………..…..",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Masa pojazdu wycofanego z eksploatacji[^3]…………",
      "children": [
       {
        "type": "text",
@@ -553,7 +567,14 @@
      "type": "ust",
      "num": "5",
      "path": "ust_5",
-     "text": "Znak wyróżniający państwa, w którym pojazd jest zarejestrowany ………………………………………...…………………... 6. Właściciel pojazdu[^4] ………………………………………………………………..……………………………..……………...",
+     "text": "Znak wyróżniający państwa, w którym pojazd jest zarejestrowany ………………………………………...…………………...",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Właściciel pojazdu[^4] ………………………………………………………………..……………………………..……………...",
      "children": [
       {
        "type": "text",
@@ -593,11 +614,19 @@
       },
       {
        "type": "text",
-       "text": "oraz oświadczam, że: ⎯ unieważniłem dowód rejestracyjny – seria i numer[^2],[^7] ……………….……. oraz ⎯ zniszczyłem tablice rejestracyjne o numerze rejestracyjnym …………………….. – sztuk[^2],[^7] ….. albo ⎯ przekazałem tablice rejestracyjne o numerze rejestracyjnym ……………………. – sztuk[^2],[^7] …. przedsiębiorcy"
+       "text": "oraz oświadczam, że:"
       },
       {
        "type": "text",
-       "text": "prowadzącemu stację demontażu"
+       "text": "⎯ unieważniłem dowód rejestracyjny – seria i numer[^2],[^7] ……………….……. oraz"
+      },
+      {
+       "type": "text",
+       "text": "⎯ zniszczyłem tablice rejestracyjne o numerze rejestracyjnym …………………….. – sztuk[^2],[^7] ….. albo"
+      },
+      {
+       "type": "text",
+       "text": "⎯ przekazałem tablice rejestracyjne o numerze rejestracyjnym ……………………. – sztuk[^2],[^7] …. przedsiębiorcy prowadzącemu stację demontażu"
       },
       {
        "type": "text",

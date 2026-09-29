@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/880",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 czerwca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/880/text.pdf",
  "body": [
   {
@@ -5221,8 +5221,9 @@
      "text": "CZĘŚĆ OGÓLNA"
     },
     {
-     "type": "text",
-     "text": "I. DANE IDENTYFIKACYJNE I KONTAKTOWE DOTYCZĄCE DEWELOPERA"
+     "type": "heading",
+     "label": "I.",
+     "text": "DANE IDENTYFIKACYJNE I KONTAKTOWE DOTYCZĄCE DEWELOPERA"
     },
     {
      "type": "text",
@@ -5257,8 +5258,9 @@
      "text": "Adres strony internetowej dewelopera"
     },
     {
-     "type": "text",
-     "text": "II. DOŚWIADCZENIE DEWELOPERA"
+     "type": "heading",
+     "label": "II.",
+     "text": "DOŚWIADCZENIE DEWELOPERA"
     },
     {
      "type": "text",
@@ -5313,8 +5315,9 @@
      "text": "Czy przeciwko deweloperowi prowadzono lub prowadzi się postępowania egzekucyjne na kwotę powyżej 100 000 zł"
     },
     {
-     "type": "text",
-     "text": "III. INFORMACJE DOTYCZĄCE NIERUCHOMOŚCI I PRZEDSIĘWZIĘCIA DEWELOPERSKIEGO"
+     "type": "heading",
+     "label": "III.",
+     "text": "INFORMACJE DOTYCZĄCE NIERUCHOMOŚCI I PRZEDSIĘWZIĘCIA DEWELOPERSKIEGO"
     },
     {
      "type": "text",
@@ -5577,8 +5580,9 @@
      "text": "INNE INFORMACJE"
     },
     {
-     "type": "text",
-     "text": "I. Informacja:"
+     "type": "heading",
+     "label": "I.",
+     "text": "Informacja:"
     },
     {
      "type": "pkt",
@@ -5592,12 +5596,12 @@
      "num": "2",
      "path": "pkt_2",
      "text": "w przypadku umów, o których mowa w art. 2 ust. 2 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym – o zgodzie banku, kasy lub innego wierzyciela hipotecznego na bezobciążeniowe przeniesienie własności lokalu użytkowego na nabywcę po wpłacie pełnej ceny przez nabywcę lub zobowiązaniu do udzielenia takiej zgody, jeżeli takie obciążenie istnieje, albo zgodzie banku, kasy lub innego wierzyciela hipotecznego na bezobciążeniowe przeniesienie na nabywcę ułamkowej części własności lokalu użytkowego po wpłacie pełnej ceny przez nabywcę lub zobowiązaniu do udzielenia takiej zgody, jeżeli takie obciążenie istnieje.",
-     "children": [
-      {
-       "type": "text",
-       "text": "II. Informacja o możliwości zapoznania się w lokalu przedsiębiorstwa przez osobę zainteresowaną zawarciem umowy odpowiednio do zakresu umowy z:"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Informacja o możliwości zapoznania się w lokalu przedsiębiorstwa przez osobę zainteresowaną zawarciem umowy odpowiednio do zakresu umowy z:"
     },
     {
      "type": "pkt",
@@ -5667,154 +5671,154 @@
        "num": "b",
        "path": "pkt_9/lit_b",
        "text": "w przypadku umów, o których mowa w art. 2 ust. 2 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym – zgodę banku, kasy lub innego wierzyciela hipotecznego na bezobciążeniowe przeniesienie własności lokalu użytkowego na nabywcę po wpłacie pełnej ceny przez nabywcę lub zobowiązanie do udzielenia takiej zgody, jeżeli takie obciążenie istnieje, albo zgodę banku, kasy lub innego wierzyciela hipotecznego na bezobciążeniowe przeniesienie na nabywcę ułamkowej części własności lokalu użytkowego po wpłacie pełnej ceny przez nabywcę lub zobowiązanie do udzielenia takiej zgody, jeżeli takie obciążenie istnieje.",
-       "children": [
-        {
-         "type": "text",
-         "text": "III. Informacja:"
-        },
-        {
-         "type": "text",
-         "text": "Środki pieniężne zgromadzone w ... [nazwa banku lub kasy prowadzących mieszkaniowy rachunek powierniczy], prowadzącym/prowadzącej otwarty mieszkaniowy rachunek powierniczy albo zamknięty mieszkaniowy rachunek powierniczy, są objęte ochroną obowiązkowego systemu gwarantowania depozytów na zasadach określonych w ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2026 r. poz. 620 i 644)."
-        },
-        {
-         "type": "text",
-         "text": "Informacje podstawowe o obowiązkowym systemie gwarantowania depozytów:"
-        },
-        {
-         "type": "tir",
-         "num": "1",
-         "path": "pkt_9/lit_b/tir_1",
-         "text": "ochrona środków dotyczy sytuacji spełnienia warunku gwarancji wobec ........................... [nazwa banku lub kasy prowadzących mieszkaniowy rachunek powierniczy],",
-         "children": []
-        },
-        {
-         "type": "tir",
-         "num": "2",
-         "path": "pkt_9/lit_b/tir_2",
-         "text": "w przypadku rachunku powierniczego deponentem (uprawnionym do środków gwarantowanych) jest każdy z powierzających, w granicach wynikających z jego udziału w kwocie zgromadzonej na tym rachunku, a w granicach pozostałej kwoty na rachunku prawo do środków gwarantowanych ma powiernik,",
-         "children": []
-        },
-        {
-         "type": "tir",
-         "num": "3",
-         "path": "pkt_9/lit_b/tir_3",
-         "text": "limit gwarancyjny przypadający na jednego deponenta to równowartość w złotych 100 000 euro; w przypadkach określonych w art. 24 ust. 3 i 4 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, środki deponenta, w terminie 3 miesięcy od dnia ich wpływu na rachunek, objęte są gwarancjami ponad równowartość w złotych 100 000 euro,",
-         "children": []
-        },
-        {
-         "type": "tir",
-         "num": "4",
-         "path": "pkt_9/lit_b/tir_4",
-         "text": "podstawą wyliczenia kwoty środków gwarantowanych należnej deponentowi jest suma wszystkich podlegających ochronie należności tego deponenta od banku lub kasy, w tym należności z tytułu środków zgromadzonych na jego rachunkach osobistych i z tytułu jego udziału w środkach zgromadzonych na rachunku powierniczym,",
-         "children": []
-        },
-        {
-         "type": "tir",
-         "num": "5",
-         "path": "pkt_9/lit_b/tir_5",
-         "text": "wypłata środków gwarantowanych – co do zasady – następuje w terminie 7 dni roboczych od dnia spełnienia warunku gwarancji wobec banku lub kasy,",
-         "children": []
-        },
-        {
-         "type": "tir",
-         "num": "6",
-         "path": "pkt_9/lit_b/tir_6",
-         "text": "wypłata środków gwarantowanych jest dokonywana w złotych,",
-         "children": []
-        },
-        {
-         "type": "tir",
-         "num": "7",
-         "path": "pkt_9/lit_b/tir_7",
-         "text": "........................... [nazwa banku lub kasy prowadzących mieszkaniowy rachunek powierniczy] korzysta także z następujących znaków towarowych: ...........................",
-         "children": [
-          {
-           "type": "text",
-           "text": "Dalsze informacje na temat systemu gwarantowania depozytów można uzyskać na stronie internetowej Bankowego Funduszu Gwarancyjnego: https://www.bfg.pl/."
-          },
-          {
-           "type": "text",
-           "text": "III. Informacja zamieszczana w przypadku zawarcia umowy mieszkaniowego rachunku powierniczego z oddziałem instytucji kredytowej w rozumieniu art. 4 ust. 1 pkt 18 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2026 r. poz. 38, 176, 331, 340 i 644)."
-          },
-          {
-           "type": "text",
-           "text": "Oddział instytucji kredytowej w rozumieniu art. 4 ust. 1 pkt 18 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe jest objęty systemem gwarantowania państwa macierzystego, co oznacza, że nie mają do niego zastosowania przepisy ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji."
-          },
-          {
-           "type": "text",
-           "text": "CZĘŚĆ INDYWIDUALNA"
-          },
-          {
-           "type": "text",
-           "text": "Cena lokalu mieszkalnego albo domu jednorodzinnego"
-          },
-          {
-           "type": "text",
-           "text": "Powierzchnia użytkowa lokalu mieszkalnego albo domu jednorodzinnego"
-          },
-          {
-           "type": "text",
-           "text": "Cena m² powierzchni użytkowej lokalu mieszkalnego albo domu jednorodzinnego"
-          },
-          {
-           "type": "text",
-           "text": "Termin, do którego nastąpi przeniesienie prawa własności nieruchomości wynikającego z umowy deweloperskiej lub jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 lub ust. 2 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym"
-          },
-          {
-           "type": "text",
-           "text": "Określenie położenia oraz Liczba kondygnacji istotnych cech domu jednorodzinnego albo budynku, Technologia wykonania w którym ma znajdować się lokal mieszkalny będący przedmiotem Standard prac wykończeniowych umowy rezerwacyjnej albo w części wspólnej budynku i terenie umowy deweloperskiej lub jednej wokół niego, stanowiącym część z umów, o których mowa w art. 2 wspólną nieruchomości ust. 1 pkt 2, 3 lub 5 lub ust. 2 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Liczba lokali w budynku Deweloperskim Funduszu Gwarancyjnym Liczba miejsc garażowych i postojowych"
-          },
-          {
-           "type": "text",
-           "text": "Dostępne media w budynku"
-          },
-          {
-           "type": "text",
-           "text": "Dostęp do drogi publicznej"
-          },
-          {
-           "type": "text",
-           "text": "Określenie usytuowania lokalu mieszkalnego w budynku, jeżeli przedsięwzięcie deweloperskie lub zadanie inwestycyjne dotyczy lokali mieszkalnych"
-          },
-          {
-           "type": "text",
-           "text": "Określenie powierzchni użytkowej i układu pomieszczeń oraz zakresu i standardu prac wykończeniowych, do których wykonania zobowiązuje się deweloper"
-          },
-          {
-           "type": "text",
-           "text": "Data wydania zaświadczenia o samodzielności lokalu mieszkalnego"
-          },
-          {
-           "type": "text",
-           "text": "Data ustanowienia odrębnej własności lokalu mieszkalnego"
-          },
-          {
-           "type": "text",
-           "text": "Informacje o lokalu użytkowym nabywanym równocześnie z lokalem mieszkalnym albo domem jednorodzinnym"
-          },
-          {
-           "type": "text",
-           "text": "Cena lokalu użytkowego albo ułamkowej części własności lokalu użytkowego"
-          },
-          {
-           "type": "text",
-           "text": "Termin, do którego nastąpi przeniesienie prawa własności lokalu użytkowego albo ułamkowej części własności lokalu użytkowego"
-          },
-          {
-           "type": "text",
-           "text": "Podpis dewelopera albo osoby upoważnionej do reprezentacji dewelopera"
-          },
-          {
-           "type": "text",
-           "text": ".............................................."
-          },
-          {
-           "type": "text",
-           "text": "Załączniki:"
-          }
-         ]
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Informacja:"
+    },
+    {
+     "type": "text",
+     "text": "Środki pieniężne zgromadzone w ... [nazwa banku lub kasy prowadzących mieszkaniowy rachunek powierniczy], prowadzącym/prowadzącej otwarty mieszkaniowy rachunek powierniczy albo zamknięty mieszkaniowy rachunek powierniczy, są objęte ochroną obowiązkowego systemu gwarantowania depozytów na zasadach określonych w ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2026 r. poz. 620 i 644)."
+    },
+    {
+     "type": "text",
+     "text": "Informacje podstawowe o obowiązkowym systemie gwarantowania depozytów:"
+    },
+    {
+     "type": "tir",
+     "num": "1",
+     "path": "tir_1",
+     "text": "ochrona środków dotyczy sytuacji spełnienia warunku gwarancji wobec ........................... [nazwa banku lub kasy prowadzących mieszkaniowy rachunek powierniczy],",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "2",
+     "path": "tir_2",
+     "text": "w przypadku rachunku powierniczego deponentem (uprawnionym do środków gwarantowanych) jest każdy z powierzających, w granicach wynikających z jego udziału w kwocie zgromadzonej na tym rachunku, a w granicach pozostałej kwoty na rachunku prawo do środków gwarantowanych ma powiernik,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "3",
+     "path": "tir_3",
+     "text": "limit gwarancyjny przypadający na jednego deponenta to równowartość w złotych 100 000 euro; w przypadkach określonych w art. 24 ust. 3 i 4 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, środki deponenta, w terminie 3 miesięcy od dnia ich wpływu na rachunek, objęte są gwarancjami ponad równowartość w złotych 100 000 euro,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "4",
+     "path": "tir_4",
+     "text": "podstawą wyliczenia kwoty środków gwarantowanych należnej deponentowi jest suma wszystkich podlegających ochronie należności tego deponenta od banku lub kasy, w tym należności z tytułu środków zgromadzonych na jego rachunkach osobistych i z tytułu jego udziału w środkach zgromadzonych na rachunku powierniczym,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "5",
+     "path": "tir_5",
+     "text": "wypłata środków gwarantowanych – co do zasady – następuje w terminie 7 dni roboczych od dnia spełnienia warunku gwarancji wobec banku lub kasy,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "6",
+     "path": "tir_6",
+     "text": "wypłata środków gwarantowanych jest dokonywana w złotych,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "7",
+     "path": "tir_7",
+     "text": "........................... [nazwa banku lub kasy prowadzących mieszkaniowy rachunek powierniczy] korzysta także z następujących znaków towarowych: ...........................",
+     "children": [
+      {
+       "type": "text",
+       "text": "Dalsze informacje na temat systemu gwarantowania depozytów można uzyskać na stronie internetowej Bankowego Funduszu Gwarancyjnego: https://www.bfg.pl/."
+      },
+      {
+       "type": "text",
+       "text": "III. Informacja zamieszczana w przypadku zawarcia umowy mieszkaniowego rachunku powierniczego z oddziałem instytucji kredytowej w rozumieniu art. 4 ust. 1 pkt 18 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2026 r. poz. 38, 176, 331, 340 i 644)."
+      },
+      {
+       "type": "text",
+       "text": "Oddział instytucji kredytowej w rozumieniu art. 4 ust. 1 pkt 18 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe jest objęty systemem gwarantowania państwa macierzystego, co oznacza, że nie mają do niego zastosowania przepisy ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji."
+      },
+      {
+       "type": "text",
+       "text": "CZĘŚĆ INDYWIDUALNA"
+      },
+      {
+       "type": "text",
+       "text": "Cena lokalu mieszkalnego albo domu jednorodzinnego"
+      },
+      {
+       "type": "text",
+       "text": "Powierzchnia użytkowa lokalu mieszkalnego albo domu jednorodzinnego"
+      },
+      {
+       "type": "text",
+       "text": "Cena m² powierzchni użytkowej lokalu mieszkalnego albo domu jednorodzinnego"
+      },
+      {
+       "type": "text",
+       "text": "Termin, do którego nastąpi przeniesienie prawa własności nieruchomości wynikającego z umowy deweloperskiej lub jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 lub ust. 2 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym"
+      },
+      {
+       "type": "text",
+       "text": "Określenie położenia oraz Liczba kondygnacji istotnych cech domu jednorodzinnego albo budynku, Technologia wykonania w którym ma znajdować się lokal mieszkalny będący przedmiotem Standard prac wykończeniowych umowy rezerwacyjnej albo w części wspólnej budynku i terenie umowy deweloperskiej lub jednej wokół niego, stanowiącym część z umów, o których mowa w art. 2 wspólną nieruchomości ust. 1 pkt 2, 3 lub 5 lub ust. 2 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Liczba lokali w budynku Deweloperskim Funduszu Gwarancyjnym Liczba miejsc garażowych i postojowych"
+      },
+      {
+       "type": "text",
+       "text": "Dostępne media w budynku"
+      },
+      {
+       "type": "text",
+       "text": "Dostęp do drogi publicznej"
+      },
+      {
+       "type": "text",
+       "text": "Określenie usytuowania lokalu mieszkalnego w budynku, jeżeli przedsięwzięcie deweloperskie lub zadanie inwestycyjne dotyczy lokali mieszkalnych"
+      },
+      {
+       "type": "text",
+       "text": "Określenie powierzchni użytkowej i układu pomieszczeń oraz zakresu i standardu prac wykończeniowych, do których wykonania zobowiązuje się deweloper"
+      },
+      {
+       "type": "text",
+       "text": "Data wydania zaświadczenia o samodzielności lokalu mieszkalnego"
+      },
+      {
+       "type": "text",
+       "text": "Data ustanowienia odrębnej własności lokalu mieszkalnego"
+      },
+      {
+       "type": "text",
+       "text": "Informacje o lokalu użytkowym nabywanym równocześnie z lokalem mieszkalnym albo domem jednorodzinnym"
+      },
+      {
+       "type": "text",
+       "text": "Cena lokalu użytkowego albo ułamkowej części własności lokalu użytkowego"
+      },
+      {
+       "type": "text",
+       "text": "Termin, do którego nastąpi przeniesienie prawa własności lokalu użytkowego albo ułamkowej części własności lokalu użytkowego"
+      },
+      {
+       "type": "text",
+       "text": "Podpis dewelopera albo osoby upoważnionej do reprezentacji dewelopera"
+      },
+      {
+       "type": "text",
+       "text": ".............................................."
+      },
+      {
+       "type": "text",
+       "text": "Załączniki:"
       }
      ]
     },

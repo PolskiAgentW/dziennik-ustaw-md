@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1766",
  "title": "Obwieszczenie Ministra Finansów i Gospodarki z dnia 20 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju, Pracy i Technologii w sprawie obiektów i pomieszczeń magazynowych do przechowywania materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1766/text.pdf",
  "body": [
   {
@@ -1134,8 +1134,9 @@
      "text": "WYMAGANIA W ZAKRESIE LOKALIZACJI ORAZ WARUNKÓW TECHNICZNYCH OBIEKTU MAGAZYNOWEGO, W KTÓRYM SĄ PRZECHOWYWANE MATERIAŁY WYBUCHOWE I AMUNICJA ZAKLASYFIKOWANE DO PODKLASY 1.1 I 1.5 ORAZ DO KLAS 3 I 4.1, A TAKŻE DOPUSZCZALNEJ ILOŚCI MATERIAŁÓW WYBUCHOWYCH PRZECHOWYWANYCH W TAKIM OBIEKCIE"
     },
     {
-     "type": "text",
-     "text": "Część I. Wymagania dotyczące magazynu bazowego"
+     "type": "heading",
+     "label": "Część I",
+     "text": "Wymagania dotyczące magazynu bazowego"
     },
     {
      "type": "par",
@@ -1616,14 +1617,14 @@
        "num": "25",
        "path": "par_1/ust_25",
        "text": "W przypadku gdy w wyniku wybuchu materiału wybuchowego lub amunicji przechowywanych w magazynie bazowym jest możliwy rozrzut odłamków o dużej masie, minimalna dopuszczalna odległość tego magazynu od obiektów wymienionych w ust. 18 w tabeli 1 w wierszach oznaczonych liczbami porządkowymi 1–3 wynosi co najmniej 180 m, w przypadku obiektów wymienionych w wierszu oznaczonym liczbą porządkową 4 – co najmniej 275 m, a w przypadku obiektów wymienionych w wierszu oznaczonym liczbą porządkową 5 – co najmniej 400 m. Za odłamek o dużej masie uznaje się odłamek o masie powyżej 1 kg, który uderzając w zagrożony obiekt, jest w stanie naruszyć jego konstrukcję.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Część II. Wymagania dotyczące magazynu podręcznego"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Część II",
+     "text": "Wymagania dotyczące magazynu podręcznego"
     },
     {
      "type": "par",
@@ -1768,8 +1769,9 @@
      "text": "WYMAGANIA W ZAKRESIE LOKALIZACJI ORAZ WARUNKÓW TECHNICZNYCH OBIEKTU MAGAZYNOWEGO, W KTÓRYM SĄ PRZECHOWYWANE MATERIAŁY WYBUCHOWE I AMUNICJA ZAKLASYFIKOWANE DO PODKLASY 1.2, 1.3, 1.4 I 1.6 ORAZ KLASY 9, A TAKŻE DOPUSZCZALNEJ ILOŚCI MATERIAŁÓW WYBUCHOWYCH PRZECHOWYWANYCH W TAKIM OBIEKCIE"
     },
     {
-     "type": "text",
-     "text": "Część I. Wymagania dotyczące magazynu bazowego"
+     "type": "heading",
+     "label": "Część I",
+     "text": "Wymagania dotyczące magazynu bazowego"
     },
     {
      "type": "par",
@@ -1864,14 +1866,14 @@
        "num": "8",
        "path": "par_1/ust_8",
        "text": "[^16] W przypadku gdy w magazynie bazowym przechowuje się wyłącznie materiały wybuchowe i amunicję zaklasyfikowane do podklasy 1.4S lub 1.6 oraz klasy 9, o łącznej masie netto nieprzekraczającej 1000 kg, dopuszcza się jego zlokalizowanie w części obiektu wydzielonej przeciwpożarowo ścianami wewnętrznymi o klasie odporności ogniowej co najmniej EI 60 oraz stropami o klasie odporności ogniowej co najmniej REI 60, zamykanej drzwiami o klasie odporności ogniowej EI 30, bez konieczności wydzielania tego magazynu bazowego jako odrębnej strefy pożarowej.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Część II. Wymagania dotyczące magazynu podręcznego"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Część II",
+     "text": "Wymagania dotyczące magazynu podręcznego"
     },
     {
      "type": "par",

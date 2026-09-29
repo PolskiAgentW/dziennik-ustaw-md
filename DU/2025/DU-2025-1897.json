@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1897",
  "title": "Rozporządzenie Ministra Finansów i Gospodarki z dnia 29 grudnia 2025 r. w sprawie finansowego wsparcia udzielanego na realizację niektórych przedsięwzięć mieszkaniowych",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1897/text.pdf",
  "body": [
   {
@@ -421,40 +421,13 @@
      "text": "SZCZEGÓŁOWY ZAKRES INFORMACJI, JAKIE ZAWIERA WNIOSEK O FINANSOWE WSPARCIE"
     },
     {
-     "type": "text",
-     "text": "I. Dane wnioskodawcy"
+     "type": "heading",
+     "label": "I.",
+     "text": "Dane wnioskodawcy"
     },
     {
      "type": "text",
-     "text": "A. Beneficjent wsparcia: gmina, jednoosobowa spółka gminna, której gmina powierzyła realizację za-"
-    },
-    {
-     "type": "text",
-     "text": "dania własnego w zakresie zaspokajania potrzeb mieszkaniowych wspólnoty samorządowej, z wyjąt-"
-    },
-    {
-     "type": "text",
-     "text": "kiem społecznych inicjatyw mieszkaniowych, albo zadania związanego z infrastrukturą techniczną lub"
-    },
-    {
-     "type": "text",
-     "text": "infrastrukturą społeczną, powiat, związek międzygminny, organizacja pozarządowa, o której mowa"
-    },
-    {
-     "type": "text",
-     "text": "w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie"
-    },
-    {
-     "type": "text",
-     "text": "(Dz. U. z 2025 r. poz. 1338), zwana dalej „organizacją pozarządową”, podmiot, o którym mowa"
-    },
-    {
-     "type": "text",
-     "text": "w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie,"
-    },
-    {
-     "type": "text",
-     "text": "uczelnia publiczna."
+     "text": "A. Beneficjent wsparcia: gmina, jednoosobowa spółka gminna, której gmina powierzyła realizację zadania własnego w zakresie zaspokajania potrzeb mieszkaniowych wspólnoty samorządowej, z wyjątkiem społecznych inicjatyw mieszkaniowych, albo zadania związanego z infrastrukturą techniczną lub infrastrukturą społeczną, powiat, związek międzygminny, organizacja pozarządowa, o której mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338), zwana dalej „organizacją pozarządową”, podmiot, o którym mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, uczelnia publiczna."
     },
     {
      "type": "text",
@@ -462,539 +435,73 @@
     },
     {
      "type": "text",
-     "text": "C. Adres, w tym adres do doręczeń elektronicznych[^1_2], o którym mowa w ustawie z dnia 18 listopada"
+     "text": "C. Adres, w tym adres do doręczeń elektronicznych[^1_2], o którym mowa w ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841)."
     },
     {
      "type": "text",
-     "text": "2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841)."
+     "text": "D. Numer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), a dla podmiotów innych niż gmina, powiat, związek międzygminny lub uczelnia publiczna numer KRS."
     },
     {
      "type": "text",
-     "text": "D. Numer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny w krajowym rejestrze urzędo-"
+     "text": "E. Imię i nazwisko, służbowy numer telefonu oraz służbowy adres poczty elektronicznej osoby bezpośrednio prowadzącej sprawę."
     },
     {
      "type": "text",
-     "text": "wym podmiotów gospodarki narodowej (REGON), a dla podmiotów innych niż gmina, powiat, związek"
+     "text": "F. W przypadku przedsięwzięć, o których mowa w art. 5 ust. 1 i art. 5c ust. 2 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2024 r. poz. 304 oraz z 2025 r. poz. 680 i 1077), zwanej dalej „ustawą” – nazwa, adres, w tym adres do doręczeń elektronicznych[^1_2], o którym mowa w ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, numery NIP, REGON i KRS inwestora."
     },
     {
      "type": "text",
-     "text": "międzygminny lub uczelnia publiczna numer KRS."
+     "text": "G. Numer rachunku bankowego lub rachunku prowadzonego przez spółdzielczą kasę oszczędnościowo-kredytową beneficjenta wsparcia, na który zostanie przekazane finansowe wsparcie."
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Dane dotyczące realizowanego przedsięwzięcia"
     },
     {
      "type": "text",
-     "text": "E. Imię i nazwisko, służbowy numer telefonu oraz służbowy adres poczty elektronicznej osoby bezpo-"
+     "text": "A. Wnioskowana kwota finansowego wsparcia (w przypadku przedsięwzięć, o których mowa w art. 5c ustawy, również w podziale na poszczególne zadania własne gminy wymienione w art. 7 ust. 1 pkt 2, 3, 4–6, 8–10 i 12 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2025 r. poz. 1153 i 1436) lub zadania publiczne powiatu, o których mowa w art. 4 ust. 1 pkt 1–3, 6–8 i 12 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2025 r. poz. 1684) (w zł)."
     },
     {
      "type": "text",
-     "text": "średnio prowadzącej sprawę."
+     "text": "B. Informacja, czy wniosek o finansowe wsparcie został złożony łącznie z wnioskiem o grant OZE, z wnioskiem o grant MZG lub wnioskiem o finansowe wsparcie w ramach planu rozwojowego."
     },
     {
      "type": "text",
-     "text": "F. W przypadku przedsięwzięć, o których mowa w art. 5 ust. 1 i art. 5c ust. 2 ustawy z dnia 8 grudnia"
+     "text": "C. Data rozpoczęcia realizacji przedsięwzięcia lub przewidywana data rozpoczęcia realizacji przedsięwzięcia (dzień, miesiąc (słownie) i rok)."
     },
     {
      "type": "text",
-     "text": "2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2024 r. poz. 304"
+     "text": "D. Data zakończenia realizacji przedsięwzięcia lub przewidywana data zakończenia realizacji przedsięwzięcia, a w przypadku przedsięwzięcia obejmującego remont lub przebudowę części budynku w rozbiciu na poszczególne lokale mieszkalne (dzień, miesiąc (słownie) i rok)."
     },
     {
      "type": "text",
-     "text": "oraz z 2025 r. poz. 680 i 1077), zwanej dalej „ustawą” – nazwa, adres, w tym adres do doręczeń elek-"
+     "text": "E. Przewidywana struktura finansowania przedsięwzięcia, z podziałem na środki własne inwestora (w tym wartość gruntu stanowiącego własność inwestora albo wartość prawa użytkowania wieczystego gruntu będącego we władaniu inwestora, na którym jest realizowane przedsięwzięcie, w przypadku gdy z realizacją przedsięwzięcia jest związane zawarcie umowy, o której mowa w art. 5 ust. 2 pkt 1 ustawy) i środki własne beneficjenta wsparcia, finansowe wsparcie na podstawie ustawy, grant OZE, grant MZG i finansowe wsparcie w ramach planu rozwojowego, wsparcie ze środków Rządowego Funduszu Rozwoju Mieszkalnictwa, udzielone na podstawie art. 33l ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2025 r. poz. 1273) w brzmieniu obowiązującym w dniu 21 sierpnia 2025 r., oraz inne źródła (kwoty netto i brutto oraz udział procentowy; kwota netto dla grantu OZE, grantu MZG i finansowego wsparcia w ramach planu rozwojowego)."
     },
     {
      "type": "text",
-     "text": "tronicznych[^1_2], o którym mowa w ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych,"
-    },
-    {
-     "type": "text",
-     "text": "numery NIP, REGON i KRS inwestora."
-    },
-    {
-     "type": "text",
-     "text": "G. Numer rachunku bankowego lub rachunku prowadzonego przez spółdzielczą kasę oszczędnoś-"
-    },
-    {
-     "type": "text",
-     "text": "ciowo-kredytową beneficjenta wsparcia, na który zostanie przekazane finansowe wsparcie."
-    },
-    {
-     "type": "text",
-     "text": "II. Dane dotyczące realizowanego przedsięwzięcia"
-    },
-    {
-     "type": "text",
-     "text": "A. Wnioskowana kwota finansowego wsparcia (w przypadku przedsięwzięć, o których mowa w art. 5c"
-    },
-    {
-     "type": "text",
-     "text": "ustawy, również w podziale na poszczególne zadania własne gminy wymienione w art. 7 ust. 1 pkt 2,"
-    },
-    {
-     "type": "text",
-     "text": "3, 4–6, 8–10 i 12 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2025 r. poz. 1153"
-    },
-    {
-     "type": "text",
-     "text": "i 1436) lub zadania publiczne powiatu, o których mowa w art. 4 ust. 1 pkt 1–3, 6–8 i 12 ustawy z dnia"
-    },
-    {
-     "type": "text",
-     "text": "5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2025 r. poz. 1684) (w zł)."
-    },
-    {
-     "type": "text",
-     "text": "B. Informacja, czy wniosek o finansowe wsparcie został złożony łącznie z wnioskiem o grant OZE,"
-    },
-    {
-     "type": "text",
-     "text": "z wnioskiem o grant MZG lub wnioskiem o finansowe wsparcie w ramach planu rozwojowego."
-    },
-    {
-     "type": "text",
-     "text": "C. Data rozpoczęcia realizacji przedsięwzięcia lub przewidywana data rozpoczęcia realizacji przedsię-"
-    },
-    {
-     "type": "text",
-     "text": "wzięcia (dzień, miesiąc (słownie) i rok)."
-    },
-    {
-     "type": "text",
-     "text": "D. Data zakończenia realizacji przedsięwzięcia lub przewidywana data zakończenia realizacji przedsię-"
-    },
-    {
-     "type": "text",
-     "text": "wzięcia, a w przypadku przedsięwzięcia obejmującego remont lub przebudowę części budynku w roz-"
-    },
-    {
-     "type": "text",
-     "text": "biciu na poszczególne lokale mieszkalne (dzień, miesiąc (słownie) i rok)."
-    },
-    {
-     "type": "text",
-     "text": "E. Przewidywana struktura finansowania przedsięwzięcia, z podziałem na środki własne inwestora"
-    },
-    {
-     "type": "text",
-     "text": "(w tym wartość gruntu stanowiącego własność inwestora albo wartość prawa użytkowania wieczystego"
-    },
-    {
-     "type": "text",
-     "text": "gruntu będącego we władaniu inwestora, na którym jest realizowane przedsięwzięcie, w przypadku gdy"
-    },
-    {
-     "type": "text",
-     "text": "z realizacją przedsięwzięcia jest związane zawarcie umowy, o której mowa w art. 5 ust. 2 pkt 1 ustawy)"
-    },
-    {
-     "type": "text",
-     "text": "i środki własne beneficjenta wsparcia, finansowe wsparcie na podstawie ustawy, grant OZE, grant MZG"
-    },
-    {
-     "type": "text",
-     "text": "i finansowe wsparcie w ramach planu rozwojowego, wsparcie ze środków Rządowego Funduszu Roz-"
-    },
-    {
-     "type": "text",
-     "text": "woju Mieszkalnictwa, udzielone na podstawie art. 33l ustawy z dnia 26 października 1995 r. o społecz-"
-    },
-    {
-     "type": "text",
-     "text": "nych formach rozwoju mieszkalnictwa (Dz. U. z 2025 r. poz. 1273) w brzmieniu obowiązującym"
-    },
-    {
-     "type": "text",
-     "text": "w dniu 21 sierpnia 2025 r., oraz inne źródła (kwoty netto i brutto oraz udział procentowy; kwota netto"
-    },
-    {
-     "type": "text",
-     "text": "dla grantu OZE, grantu MZG i finansowego wsparcia w ramach planu rozwojowego)."
-    },
-    {
-     "type": "text",
-     "text": "F. W przypadku przedsięwzięć realizowanych na podstawie art. 3 ust. 1 pkt 1, art. 4 ust. 1 pkt 1, art. 4a"
-    },
-    {
-     "type": "text",
-     "text": "ust. 1 pkt 1, art. 5 ust. 1 pkt 1 i art. 5c ustawy, informacje o dokumentach potwierdzających prawo do"
-    },
-    {
-     "type": "text",
-     "text": "prowadzenia robót budowlanych:"
+     "text": "F. W przypadku przedsięwzięć realizowanych na podstawie art. 3 ust. 1 pkt 1, art. 4 ust. 1 pkt 1, art. 4a ust. 1 pkt 1, art. 5 ust. 1 pkt 1 i art. 5c ustawy, informacje o dokumentach potwierdzających prawo do prowadzenia robót budowlanych:"
     },
     {
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "jeżeli planowany zakres robót wymaga pozwolenia na budowę lub zezwolenia na realizację",
+     "text": "jeżeli planowany zakres robót wymaga pozwolenia na budowę lub zezwolenia na realizację inwestycji drogowej – informacje o organie, który wydał decyzję, dacie wydania decyzji i jej numerze, dacie ostateczności lub wykonalności decyzji oraz o danych podmiotu, na który została wydana decyzja;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "inwestycji drogowej – informacje o organie, który wydał decyzję, dacie wydania decyzji i jej"
-    },
-    {
-     "type": "text",
-     "text": "numerze, dacie ostateczności lub wykonalności decyzji oraz o danych podmiotu, na który"
-    },
-    {
-     "type": "text",
-     "text": "została wydana decyzja;"
     },
     {
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "jeżeli planowany zakres robót wymaga zgłoszenia, o którym mowa w art. 30 lub w art. 71 ust. 2",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080, 1535, 1673"
-    },
-    {
-     "type": "text",
-     "text": "i 1847) – informacje o dacie zgłoszenia, dacie i numerze zaświadczenia organu administracji"
-    },
-    {
-     "type": "text",
-     "text": "architektoniczno-budowlanej o braku podstaw do wniesienia sprzeciwu, o którym mowa w art. 30 ust. 5aa i art. 71 ust. 4c ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, albo za-"
-    },
-    {
-     "type": "text",
-     "text": "świadczenia organu administracji architektoniczno-budowlanej o niewniesieniu w terminie"
-    },
-    {
-     "type": "text",
-     "text": "sprzeciwu wobec zgłoszenia oraz informacja o organie, który to zaświadczenie wydał, oraz o da-"
-    },
-    {
-     "type": "text",
-     "text": "nych podmiotu zgłaszającego."
-    },
-    {
-     "type": "text",
-     "text": "G. W przypadku przedsięwzięć realizowanych na podstawie art. 3 ust. 1 pkt 1, art. 4 ust. 1 pkt 1, art. 4a"
-    },
-    {
-     "type": "text",
-     "text": "ust. 1 pkt 1 i art. 5c ustawy, informacje o dacie rozpoczęcia przedsięwzięcia wynikającej z dziennika"
-    },
-    {
-     "type": "text",
-     "text": "budowy i dacie ostatniego wpisu do dziennika budowy dokonanego przed złożeniem wniosku o finan-"
-    },
-    {
-     "type": "text",
-     "text": "sowe wsparcie – jeżeli dla robót budowlanych wymagane jest prowadzenie dziennika budowy, a roboty"
-    },
-    {
-     "type": "text",
-     "text": "budowlane zostały już rozpoczęte."
-    },
-    {
-     "type": "text",
-     "text": "H. W przypadku przedsięwzięć, o których mowa w art. 3 ust. 1 pkt 5 i 6 i art. 4a ust. 1 pkt 3 ustawy,"
-    },
-    {
-     "type": "text",
-     "text": "informacja o:"
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "pkt_1",
-     "text": "przewidywanej cenie sprzedaży, a jeżeli przedsięwzięcie zostało rozpoczęte przed dniem złożenia",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "wniosku o finansowe wsparcie – informacja o dacie sporządzenia umowy sprzedaży i cenie"
-    },
-    {
-     "type": "text",
-     "text": "sprzedaży;"
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "pkt_2",
-     "text": "wartości gruntu, wynikającej z aktualnego operatu szacunkowego, sporządzonego zgodnie",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "z przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2024 r."
-    },
-    {
-     "type": "text",
-     "text": "poz. 1145, 1222, 1717 i 1881 oraz z 2025 r. poz. 1077 i 1080)."
-    },
-    {
-     "type": "text",
-     "text": "I. W przypadku przedsięwzięć, o których mowa w art. 3 ust. 1 pkt 5 i 6 ustawy, jeżeli przedmiotem"
-    },
-    {
-     "type": "text",
-     "text": "zakupu jest byłe mieszkanie zakładowe, budynek mieszkalny z byłymi mieszkaniami zakładowymi albo"
-    },
-    {
-     "type": "text",
-     "text": "udział we współwłasności budynku mieszkalnego, w którym znajdują się byłe mieszkania zakładowe,"
-    },
-    {
-     "type": "text",
-     "text": "informacja o:"
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "pkt_1",
-     "text": "wartości rynkowej nieruchomości, wynikającej z aktualnego operatu szacunkowego, sporządzo-",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "nego zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami;"
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "pkt_2",
-     "text": "wartości rynkowej gruntu, wynikającej z aktualnego operatu szacunkowego, sporządzonego",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami."
-    },
-    {
-     "type": "text",
-     "text": "J. W przypadku gdy z realizacją przedsięwzięcia realizowanego na gruncie stanowiącym własność"
-    },
-    {
-     "type": "text",
-     "text": "inwestora lub wobec którego inwestor ma prawo użytkowania wieczystego jest związane zawarcie"
-    },
-    {
-     "type": "text",
-     "text": "umowy, o której mowa w art. 5 ust. 2 pkt 1 ustawy, informacja o wartości rynkowej gruntu stanowią-"
-    },
-    {
-     "type": "text",
-     "text": "cego własność lub będącego w użytkowaniu wieczystym inwestora, na którym jest realizowane przed-"
-    },
-    {
-     "type": "text",
-     "text": "sięwzięcie, wynikająca z aktualnego operatu szacunkowego sporządzonego zgodnie z przepisami"
-    },
-    {
-     "type": "text",
-     "text": "ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami."
-    },
-    {
-     "type": "text",
-     "text": "K. W przypadku, o którym mowa w art. 13 ust. 5 ustawy, informacja o wpisie budynku lub obszaru, na"
-    },
-    {
-     "type": "text",
-     "text": "którym się on znajduje, do rejestru zabytków, w tym o dacie wydania decyzji, dacie prawomocności,"
-    },
-    {
-     "type": "text",
-     "text": "numerze decyzji i organie, który wydał decyzję."
-    },
-    {
-     "type": "text",
-     "text": "L. W przypadku przedsięwzięć, o których mowa w art. 5c ustawy, data oddania do użytkowania przed-"
-    },
-    {
-     "type": "text",
-     "text": "sięwzięcia lub inwestycji powiązanych z przedsięwzięciem, o którym mowa w art. 5c ust. 1 pkt 1–6"
-    },
-    {
-     "type": "text",
-     "text": "i ust. 1a ustawy."
-    },
-    {
-     "type": "text",
-     "text": "M. W przypadku przedsięwzięć, o których mowa w art. 5c ustawy, liczba przedsięwzięć lub inwestycji"
-    },
-    {
-     "type": "text",
-     "text": "powiązanych z przedsięwzięciem, o którym mowa w art. 5c ust. 1 pkt 1–6 i ust. 1a ustawy."
-    },
-    {
-     "type": "text",
-     "text": "N. W przypadku przedsięwzięć, o których mowa w art. 5c ustawy, informacje o wysokości:"
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "pkt_1",
-     "text": "partycypacji finansowej gminy w kosztach przedsięwzięcia inwestycyjno-budowlanego –",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "w przypadku, o którym mowa w art. 5c ust. 1 pkt 1 ustawy;"
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "pkt_2",
-     "text": "kosztów przedsięwzięcia, o którym mowa w art. 3, art. 4 lub art. 6 ustawy – w przypadku, o któ-",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "rym mowa w art. 5c ust. 1 pkt 2 i ust. 1a pkt 1 ustawy;"
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "pkt_3",
-     "text": "udziału gminy, powiatu albo związku międzygminnego w kosztach przedsięwzięcia, o którym",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "mowa w art. 5 ust. 1 lub art. 5a ust. 1 ustawy – w przypadku, o którym mowa w art. 5c"
-    },
-    {
-     "type": "text",
-     "text": "ust. 1 pkt 3 ustawy;"
-    },
-    {
-     "type": "pkt",
-     "num": "4",
-     "path": "pkt_4",
-     "text": "iloczynu 20 % średniego wskaźnika przeliczeniowego kosztu odtworzenia 1 m² powierzchni",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "użytkowej budynków mieszkalnych w rozumieniu art. 2 pkt 14 ustawy z dnia 20 lipca 2018 r."
-    },
-    {
-     "type": "text",
-     "text": "o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu"
-    },
-    {
-     "type": "text",
-     "text": "mieszkania (Dz. U. z 2024 r. poz. 506), obliczonego dla danej gminy według stanu na dzień"
-    },
-    {
-     "type": "text",
-     "text": "złożenia wniosku o finansowe wsparcie na realizację przedsięwzięcia infrastrukturalnego, oraz"
-    },
-    {
-     "type": "text",
-     "text": "powierzchni użytkowej mieszkań w rozumieniu art. 2 pkt 8 tej ustawy – w przypadku, o którym"
-    },
-    {
-     "type": "text",
-     "text": "mowa w art. 5c ust. 1 pkt 4 ustawy;"
-    },
-    {
-     "type": "pkt",
-     "num": "5",
-     "path": "pkt_5",
-     "text": "ceny nieruchomości zbytej przez gminę na zasadach określonych w ustawie z dnia 16 grudnia",
+     "text": "jeżeli planowany zakres robót wymaga zgłoszenia, o którym mowa w art. 30 lub w art. 71 ust. 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080, 1535, 1673 i 1847) – informacje o dacie zgłoszenia, dacie i numerze zaświadczenia organu administracji architektoniczno-budowlanej o braku podstaw do wniesienia sprzeciwu, o którym mowa w art. 30 ust. 5aa i art. 71 ust. 4c ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, albo zaświadczenia organu administracji architektoniczno-budowlanej o niewniesieniu w terminie sprzeciwu wobec zgłoszenia oraz informacja o organie, który to zaświadczenie wydał, oraz o danych podmiotu zgłaszającego.",
      "children": [
       {
        "type": "text",
-       "text": "2020 r. o zbywaniu nieruchomości z rozliczeniem „lokal za grunt” (Dz. U. z 2023 r. poz. 1525) –"
+       "text": "G. W przypadku przedsięwzięć realizowanych na podstawie art. 3 ust. 1 pkt 1, art. 4 ust. 1 pkt 1, art. 4a ust. 1 pkt 1 i art. 5c ustawy, informacje o dacie rozpoczęcia przedsięwzięcia wynikającej z dziennika budowy i dacie ostatniego wpisu do dziennika budowy dokonanego przed złożeniem wniosku o finansowe wsparcie – jeżeli dla robót budowlanych wymagane jest prowadzenie dziennika budowy, a roboty budowlane zostały już rozpoczęte."
       },
       {
        "type": "text",
-       "text": "w przypadku, o którym mowa w art. 5c ust. 1 pkt 5 i ust. 1a pkt 2 ustawy."
-      },
-      {
-       "type": "text",
-       "text": "III. Rodzaj przedsięwzięcia (należy wskazać właściwe)"
-      },
-      {
-       "type": "text",
-       "text": "A. Budowa budynku."
-      },
-      {
-       "type": "text",
-       "text": "B. Remont budynku albo jego części."
-      },
-      {
-       "type": "text",
-       "text": "C. Przebudowa budynku albo jego części."
-      },
-      {
-       "type": "text",
-       "text": "D. Zmiana sposobu użytkowania budynku albo jego części."
-      },
-      {
-       "type": "text",
-       "text": "E. Kupno lokalu mieszkalnego, budynku mieszkalnego albo udziału we współwłasności budynku"
-      },
-      {
-       "type": "text",
-       "text": "mieszkalnego."
-      },
-      {
-       "type": "text",
-       "text": "F. Kupno lokalu mieszkalnego, budynku mieszkalnego albo udziału we współwłasności budynku"
-      },
-      {
-       "type": "text",
-       "text": "mieszkalnego połączone z remontem tego lokalu lub budynku mieszkalnego."
-      },
-      {
-       "type": "text",
-       "text": "G. Budowa infrastruktury technicznej lub infrastruktury społecznej."
-      },
-      {
-       "type": "text",
-       "text": "H. Przebudowa infrastruktury technicznej lub infrastruktury społecznej."
-      },
-      {
-       "type": "text",
-       "text": "I. Kupno budynku mieszkalnego albo udziału we własności budynku mieszkalnego, w tym kupno połą-"
-      },
-      {
-       "type": "text",
-       "text": "czone z remontem lub przebudową tego budynku, w wyniku którego zostaną utworzone lub zmodernizo-"
-      },
-      {
-       "type": "text",
-       "text": "wane pomieszczenia służące zaspokajaniu potrzeb mieszkaniowych studentów i doktorantów."
-      },
-      {
-       "type": "text",
-       "text": "IV. Rodzaj i wielkość zasobu powstającego lub zmodernizowanego w wyniku przedsięwzięcia"
-      },
-      {
-       "type": "text",
-       "text": "A. Liczba lokali wchodzących w skład mieszkaniowego zasobu gminy, w tym liczba lokali, które zo-"
-      },
-      {
-       "type": "text",
-       "text": "staną utworzone i liczba lokali, które zostaną zmodernizowane."
-      },
-      {
-       "type": "text",
-       "text": "B. Liczba mieszkań treningowych lub wspomaganych."
-      },
-      {
-       "type": "text",
-       "text": "C. Liczba tymczasowych pomieszczeń."
-      },
-      {
-       "type": "text",
-       "text": "D. Liczba mieszkań pozyskiwanych w wyniku realizacji inwestycji przez społeczną inicjatywę miesz-"
-      },
-      {
-       "type": "text",
-       "text": "kaniową albo spółkę gminną, gdy z realizacją przedsięwzięcia jest związane zawarcie umowy, o której"
-      },
-      {
-       "type": "text",
-       "text": "mowa w art. 5 ust. 2 pkt 1 ustawy, w przypadku, o którym mowa w art. 5a ust. 1 ustawy:"
+       "text": "H. W przypadku przedsięwzięć, o których mowa w art. 3 ust. 1 pkt 5 i 6 i art. 4a ust. 1 pkt 3 ustawy, informacja o:"
       }
      ]
     },
@@ -1002,12 +509,155 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "mieszkania przeznaczone do podnajmowania osobom spełniającym warunki otrzymania lokalu",
+     "text": "przewidywanej cenie sprzedaży, a jeżeli przedsięwzięcie zostało rozpoczęte przed dniem złożenia wniosku o finansowe wsparcie – informacja o dacie sporządzenia umowy sprzedaży i cenie sprzedaży;",
      "children": []
     },
     {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "wartości gruntu, wynikającej z aktualnego operatu szacunkowego, sporządzonego zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145, 1222, 1717 i 1881 oraz z 2025 r. poz. 1077 i 1080).",
+     "children": [
+      {
+       "type": "text",
+       "text": "I. W przypadku przedsięwzięć, o których mowa w art. 3 ust. 1 pkt 5 i 6 ustawy, jeżeli przedmiotem zakupu jest byłe mieszkanie zakładowe, budynek mieszkalny z byłymi mieszkaniami zakładowymi albo udział we współwłasności budynku mieszkalnego, w którym znajdują się byłe mieszkania zakładowe, informacja o:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "wartości rynkowej nieruchomości, wynikającej z aktualnego operatu szacunkowego, sporządzonego zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "wartości rynkowej gruntu, wynikającej z aktualnego operatu szacunkowego, sporządzonego zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.",
+     "children": [
+      {
+       "type": "text",
+       "text": "J. W przypadku gdy z realizacją przedsięwzięcia realizowanego na gruncie stanowiącym własność inwestora lub wobec którego inwestor ma prawo użytkowania wieczystego jest związane zawarcie umowy, o której mowa w art. 5 ust. 2 pkt 1 ustawy, informacja o wartości rynkowej gruntu stanowiącego własność lub będącego w użytkowaniu wieczystym inwestora, na którym jest realizowane przedsięwzięcie, wynikająca z aktualnego operatu szacunkowego sporządzonego zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami."
+      },
+      {
+       "type": "text",
+       "text": "K. W przypadku, o którym mowa w art. 13 ust. 5 ustawy, informacja o wpisie budynku lub obszaru, na którym się on znajduje, do rejestru zabytków, w tym o dacie wydania decyzji, dacie prawomocności, numerze decyzji i organie, który wydał decyzję."
+      },
+      {
+       "type": "text",
+       "text": "L. W przypadku przedsięwzięć, o których mowa w art. 5c ustawy, data oddania do użytkowania przedsięwzięcia lub inwestycji powiązanych z przedsięwzięciem, o którym mowa w art. 5c ust. 1 pkt 1–6 i ust. 1a ustawy."
+      },
+      {
+       "type": "text",
+       "text": "M. W przypadku przedsięwzięć, o których mowa w art. 5c ustawy, liczba przedsięwzięć lub inwestycji powiązanych z przedsięwzięciem, o którym mowa w art. 5c ust. 1 pkt 1–6 i ust. 1a ustawy."
+      },
+      {
+       "type": "text",
+       "text": "N. W przypadku przedsięwzięć, o których mowa w art. 5c ustawy, informacje o wysokości:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "partycypacji finansowej gminy w kosztach przedsięwzięcia inwestycyjno-budowlanego – w przypadku, o którym mowa w art. 5c ust. 1 pkt 1 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "kosztów przedsięwzięcia, o którym mowa w art. 3, art. 4 lub art. 6 ustawy – w przypadku, o którym mowa w art. 5c ust. 1 pkt 2 i ust. 1a pkt 1 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "udziału gminy, powiatu albo związku międzygminnego w kosztach przedsięwzięcia, o którym mowa w art. 5 ust. 1 lub art. 5a ust. 1 ustawy – w przypadku, o którym mowa w art. 5c ust. 1 pkt 3 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "iloczynu 20 % średniego wskaźnika przeliczeniowego kosztu odtworzenia 1 m² powierzchni użytkowej budynków mieszkalnych w rozumieniu art. 2 pkt 14 ustawy z dnia 20 lipca 2018 r. o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu mieszkania (Dz. U. z 2024 r. poz. 506), obliczonego dla danej gminy według stanu na dzień złożenia wniosku o finansowe wsparcie na realizację przedsięwzięcia infrastrukturalnego, oraz powierzchni użytkowej mieszkań w rozumieniu art. 2 pkt 8 tej ustawy – w przypadku, o którym mowa w art. 5c ust. 1 pkt 4 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "ceny nieruchomości zbytej przez gminę na zasadach określonych w ustawie z dnia 16 grudnia 2020 r. o zbywaniu nieruchomości z rozliczeniem „lokal za grunt” (Dz. U. z 2023 r. poz. 1525) – w przypadku, o którym mowa w art. 5c ust. 1 pkt 5 i ust. 1a pkt 2 ustawy.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Rodzaj przedsięwzięcia (należy wskazać właściwe)"
+    },
+    {
      "type": "text",
-     "text": "wchodzącego w skład mieszkaniowego zasobu gminy;"
+     "text": "A. Budowa budynku."
+    },
+    {
+     "type": "text",
+     "text": "B. Remont budynku albo jego części."
+    },
+    {
+     "type": "text",
+     "text": "C. Przebudowa budynku albo jego części."
+    },
+    {
+     "type": "text",
+     "text": "D. Zmiana sposobu użytkowania budynku albo jego części."
+    },
+    {
+     "type": "text",
+     "text": "E. Kupno lokalu mieszkalnego, budynku mieszkalnego albo udziału we współwłasności budynku mieszkalnego."
+    },
+    {
+     "type": "text",
+     "text": "F. Kupno lokalu mieszkalnego, budynku mieszkalnego albo udziału we współwłasności budynku mieszkalnego połączone z remontem tego lokalu lub budynku mieszkalnego."
+    },
+    {
+     "type": "text",
+     "text": "G. Budowa infrastruktury technicznej lub infrastruktury społecznej."
+    },
+    {
+     "type": "text",
+     "text": "H. Przebudowa infrastruktury technicznej lub infrastruktury społecznej."
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Kupno budynku mieszkalnego albo udziału we własności budynku mieszkalnego, w tym kupno połączone z remontem lub przebudową tego budynku, w wyniku którego zostaną utworzone lub zmodernizowane pomieszczenia służące zaspokajaniu potrzeb mieszkaniowych studentów i doktorantów."
+    },
+    {
+     "type": "text",
+     "text": "IV. Rodzaj i wielkość zasobu powstającego lub zmodernizowanego w wyniku przedsięwzięcia A. Liczba lokali wchodzących w skład mieszkaniowego zasobu gminy, w tym liczba lokali, które zostaną utworzone i liczba lokali, które zostaną zmodernizowane."
+    },
+    {
+     "type": "text",
+     "text": "B. Liczba mieszkań treningowych lub wspomaganych."
+    },
+    {
+     "type": "text",
+     "text": "C. Liczba tymczasowych pomieszczeń."
+    },
+    {
+     "type": "text",
+     "text": "D. Liczba mieszkań pozyskiwanych w wyniku realizacji inwestycji przez społeczną inicjatywę mieszkaniową albo spółkę gminną, gdy z realizacją przedsięwzięcia jest związane zawarcie umowy, o której mowa w art. 5 ust. 2 pkt 1 ustawy, w przypadku, o którym mowa w art. 5a ust. 1 ustawy:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "mieszkania przeznaczone do podnajmowania osobom spełniającym warunki otrzymania lokalu wchodzącego w skład mieszkaniowego zasobu gminy;",
+     "children": []
     },
     {
      "type": "pkt",
@@ -1017,27 +667,11 @@
      "children": [
       {
        "type": "text",
-       "text": "E. Liczba lokali mieszkalnych na wynajem tworzonych z udziałem gminy albo związku międzygmin-"
+       "text": "E. Liczba lokali mieszkalnych na wynajem tworzonych z udziałem gminy albo związku międzygminnego w wyniku realizacji inwestycji przez inwestora, w przypadku gdy z realizacją przedsięwzięcia jest związane zawarcie umowy, o której mowa w art. 5 ust. 2 pkt 1 ustawy."
       },
       {
        "type": "text",
-       "text": "nego w wyniku realizacji inwestycji przez inwestora, w przypadku gdy z realizacją przedsięwzięcia jest"
-      },
-      {
-       "type": "text",
-       "text": "związane zawarcie umowy, o której mowa w art. 5 ust. 2 pkt 1 ustawy."
-      },
-      {
-       "type": "text",
-       "text": "F. Liczba mieszkań pozyskiwanych w wyniku realizacji inwestycji przez społeczną agencję najmu,"
-      },
-      {
-       "type": "text",
-       "text": "w przypadku gdy z realizacją przedsięwzięcia związane jest zawarcie umowy, o której mowa w art. 22b"
-      },
-      {
-       "type": "text",
-       "text": "ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa."
+       "text": "F. Liczba mieszkań pozyskiwanych w wyniku realizacji inwestycji przez społeczną agencję najmu, w przypadku gdy z realizacją przedsięwzięcia związane jest zawarcie umowy, o której mowa w art. 22b ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa."
       },
       {
        "type": "text",
@@ -1053,19 +687,7 @@
       },
       {
        "type": "text",
-       "text": "J. Wskazanie, które z zadań własnych gminy, o których mowa w art. 7 ust. 1 pkt 2, 3, 4–6, 8–10 i 12"
-      },
-      {
-       "type": "text",
-       "text": "ustawy z dnia 8 marca 1990 r. o samorządzie gminnym, lub zadań publicznych powiatu, o których"
-      },
-      {
-       "type": "text",
-       "text": "mowa w art. 4 ust. 1 pkt 1–3, 6–8 i 12 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym, jest"
-      },
-      {
-       "type": "text",
-       "text": "realizowane w ramach przedsięwzięcia, o którym mowa w art. 5c ust. 1 lub 2 ustawy."
+       "text": "J. Wskazanie, które z zadań własnych gminy, o których mowa w art. 7 ust. 1 pkt 2, 3, 4–6, 8–10 i 12 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym, lub zadań publicznych powiatu, o których mowa w art. 4 ust. 1 pkt 1–3, 6–8 i 12 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym, jest realizowane w ramach przedsięwzięcia, o którym mowa w art. 5c ust. 1 lub 2 ustawy."
       },
       {
        "type": "text",
@@ -1077,27 +699,11 @@
       },
       {
        "type": "text",
-       "text": "M. Liczba lokali mieszkalnych, które zostaną utworzone, lub liczba lokali mieszkalnych, które zostaną"
+       "text": "M. Liczba lokali mieszkalnych, które zostaną utworzone, lub liczba lokali mieszkalnych, które zostaną wyremontowane, z wykorzystaniem finansowego wsparcia, o którym mowa w art. 28 ust. 1 i 3 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2025 r. poz. 1402 i 1847)."
       },
       {
        "type": "text",
-       "text": "wyremontowane, z wykorzystaniem finansowego wsparcia, o którym mowa w art. 28 ust. 1 i 3 ustawy"
-      },
-      {
-       "type": "text",
-       "text": "z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi"
-      },
-      {
-       "type": "text",
-       "text": "(Dz. U. z 2025 r. poz. 1402 i 1847)."
-      },
-      {
-       "type": "text",
-       "text": "N. Liczba pomieszczeń służących zaspokajaniu potrzeb mieszkaniowych studentów i doktorantów oraz"
-      },
-      {
-       "type": "text",
-       "text": "liczba miejsc znajdujących się w tych pomieszczeniach."
+       "text": "N. Liczba pomieszczeń służących zaspokajaniu potrzeb mieszkaniowych studentów i doktorantów oraz liczba miejsc znajdujących się w tych pomieszczeniach."
       },
       {
        "type": "text",
@@ -1105,11 +711,7 @@
       },
       {
        "type": "text",
-       "text": "A. W przypadku budowy budynku, remontu, przebudowy lub zmiany sposobu użytkowania budynku"
-      },
-      {
-       "type": "text",
-       "text": "lub jego części[^2_2]:"
+       "text": "A. W przypadku budowy budynku, remontu, przebudowy lub zmiany sposobu użytkowania budynku lub jego części[^2_2]:"
       }
      ]
     },
@@ -1124,50 +726,27 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "łączna powierzchnia użytkowa tworzonych w ramach przedsięwzięcia lokali wchodzących",
+     "text": "łączna powierzchnia użytkowa tworzonych w ramach przedsięwzięcia lokali wchodzących w skład mieszkaniowego zasobu gminy, mieszkań treningowych lub wspomaganych oraz tymczasowych pomieszczeń[^3_2];",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "w skład mieszkaniowego zasobu gminy, mieszkań treningowych lub wspomaganych oraz tym-"
-    },
-    {
-     "type": "text",
-     "text": "czasowych pomieszczeń[^3_2];"
     },
     {
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "łączna powierzchnia użytkowa lokali znajdujących się lub powstających w budynku, nieobję-",
+     "text": "łączna powierzchnia użytkowa lokali znajdujących się lub powstających w budynku, nieobjętych finansowym wsparciem[^4];",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "tych finansowym wsparciem[^4];"
     },
     {
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "dodatkowa powierzchnia użytkowa przeznaczona na zaspokajanie potrzeb osób starszych nie-",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "obejmująca powierzchni użytkowej lokali mieszkalnych dla osób starszych[^4]."
-    },
-    {
-     "type": "text",
-     "text": "B. W przypadku kupna lokali mieszkalnych, budynku mieszkalnego albo udziału we współwłasności"
-    },
-    {
-     "type": "text",
-     "text": "budynku mieszkalnego, w tym kupna połączonego z remontem tych lokali lub remontem budynku"
-    },
-    {
-     "type": "text",
-     "text": "mieszkalnego:"
+     "text": "dodatkowa powierzchnia użytkowa przeznaczona na zaspokajanie potrzeb osób starszych nieobejmująca powierzchni użytkowej lokali mieszkalnych dla osób starszych[^4].",
+     "children": [
+      {
+       "type": "text",
+       "text": "B. W przypadku kupna lokali mieszkalnych, budynku mieszkalnego albo udziału we współwłasności budynku mieszkalnego, w tym kupna połączonego z remontem tych lokali lub remontem budynku mieszkalnego:"
+      }
+     ]
     },
     {
      "type": "pkt",
@@ -1194,24 +773,13 @@
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "łączna powierzchnia użytkowa przeznaczona na zaspokajanie potrzeb osób starszych, nieobej-",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "mująca powierzchni użytkowej lokali mieszkalnych dla osób starszych[^4]."
-    },
-    {
-     "type": "text",
-     "text": "C. W przypadku tworzenia lokali mieszkalnych na wynajem, powstających w wyniku realizacji przez"
-    },
-    {
-     "type": "text",
-     "text": "inwestora innego niż gmina albo związek międzygminny budowy budynku, remontu lub przebudowy"
-    },
-    {
-     "type": "text",
-     "text": "budynku lub jego części[^4]:"
+     "text": "łączna powierzchnia użytkowa przeznaczona na zaspokajanie potrzeb osób starszych, nieobejmująca powierzchni użytkowej lokali mieszkalnych dla osób starszych[^4].",
+     "children": [
+      {
+       "type": "text",
+       "text": "C. W przypadku tworzenia lokali mieszkalnych na wynajem, powstających w wyniku realizacji przez inwestora innego niż gmina albo związek międzygminny budowy budynku, remontu lub przebudowy budynku lub jego części[^4]:"
+      }
+     ]
     },
     {
      "type": "pkt",
@@ -1224,12 +792,8 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "liczba lokali mieszkalnych na wynajem w budynku tworzonych z udziałem gminy albo związku",
+     "text": "liczba lokali mieszkalnych na wynajem w budynku tworzonych z udziałem gminy albo związku międzygminnego;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "międzygminnego;"
     },
     {
      "type": "pkt",
@@ -1256,31 +820,24 @@
      "type": "pkt",
      "num": "6",
      "path": "pkt_6",
-     "text": "łączna powierzchnia użytkowa przeznaczona na zaspokajanie potrzeb osób starszych, nieobej-",
+     "text": "łączna powierzchnia użytkowa przeznaczona na zaspokajanie potrzeb osób starszych, nieobejmująca powierzchni użytkowej lokali mieszkalnych dla osób starszych[^4_2];",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "mująca powierzchni użytkowej lokali mieszkalnych dla osób starszych[^4_2];"
     },
     {
      "type": "pkt",
      "num": "7",
      "path": "pkt_7",
-     "text": "łączna powierzchnia użytkowa lokali znajdujących się lub powstających w budynku, nieobję-",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "tych finansowym wsparciem."
-    },
-    {
-     "type": "text",
-     "text": "V. B. Charakterystyka przedsięwzięcia określonego w art. 4 ustawy"
-    },
-    {
-     "type": "text",
-     "text": "A. W przypadku budowy budynku, jego remontu, przebudowy lub zmiany sposobu jego użytkowania:"
+     "text": "łączna powierzchnia użytkowa lokali znajdujących się lub powstających w budynku, nieobjętych finansowym wsparciem.",
+     "children": [
+      {
+       "type": "text",
+       "text": "V. B. Charakterystyka przedsięwzięcia określonego w art. 4 ustawy"
+      },
+      {
+       "type": "text",
+       "text": "A. W przypadku budowy budynku, jego remontu, przebudowy lub zmiany sposobu jego użytkowania:"
+      }
+     ]
     },
     {
      "type": "pkt",
@@ -1327,12 +884,8 @@
        "type": "lit",
        "num": "f",
        "path": "pkt_1/lit_f",
-       "text": "całkowita liczba miejsc w pomieszczeniach noclegowych, po zakończeniu realizacji przed-",
+       "text": "całkowita liczba miejsc w pomieszczeniach noclegowych, po zakończeniu realizacji przedsięwzięcia;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "sięwzięcia;"
       }
      ]
     },
@@ -1353,12 +906,8 @@
        "type": "lit",
        "num": "b",
        "path": "pkt_2/lit_b",
-       "text": "nowa powierzchnia użytkowa schroniska dla osób bezdomnych w m², w tym powierzchnia",
+       "text": "nowa powierzchnia użytkowa schroniska dla osób bezdomnych w m², w tym powierzchnia mieszkalna w m²,",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "mieszkalna w m²,"
       },
       {
        "type": "lit",
@@ -1378,23 +927,15 @@
        "type": "lit",
        "num": "e",
        "path": "pkt_2/lit_e",
-       "text": "dotychczasowa powierzchnia użytkowa schroniska dla osób bezdomnych w m², w tym po-",
+       "text": "dotychczasowa powierzchnia użytkowa schroniska dla osób bezdomnych w m², w tym powierzchnia mieszkalna w m²,",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "wierzchnia mieszkalna w m²,"
       },
       {
        "type": "lit",
        "num": "f",
        "path": "pkt_2/lit_f",
-       "text": "całkowita liczba miejsc w pomieszczeniach mieszkalnych, po zakończeniu realizacji przed-",
+       "text": "całkowita liczba miejsc w pomieszczeniach mieszkalnych, po zakończeniu realizacji przedsięwzięcia;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "sięwzięcia;"
       }
      ]
     },
@@ -1452,64 +993,21 @@
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "dostosowanie do wymagań osób ze szczególnymi potrzebami w rozumieniu art. 2 pkt 3 ustawy",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U."
-    },
-    {
-     "type": "text",
-     "text": "z 2024 r. poz. 1411) (podjazdy lub platformy dla wózków, ciągi komunikacyjne w budynku"
-    },
-    {
-     "type": "text",
-     "text": "wolne od barier poziomych i pionowych zapewniające dostęp na wszystkie kondygnacje użyt-"
-    },
-    {
-     "type": "text",
-     "text": "kowe, w tym windy lub inne rozwiązania architektoniczne zwiększające dostępność architekto-"
-    },
-    {
-     "type": "text",
-     "text": "niczną budynku)."
-    },
-    {
-     "type": "text",
-     "text": "B. Remont, przebudowa, rozbudowa lub nadbudowa istniejącej noclegowni, istniejącego schroniska dla"
-    },
-    {
-     "type": "text",
-     "text": "osób bezdomnych lub istniejącej ogrzewalni, w wyniku których nastąpi dostosowanie noclegowni,"
-    },
-    {
-     "type": "text",
-     "text": "schroniska dla osób bezdomnych lub ogrzewalni do standardów, o których mowa w przepisach wyda-"
-    },
-    {
-     "type": "text",
-     "text": "nych na podstawie art. 48a ust. 14 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U."
-    },
-    {
-     "type": "text",
-     "text": "z 2025 r. poz. 1214 i 1302) – zakres informacji taki jak w lit. A."
-    },
-    {
-     "type": "text",
-     "text": "V. C. Charakterystyka przedsięwzięcia określonego w art. 4a ustawy"
-    },
-    {
-     "type": "text",
-     "text": "A. Budowa budynku, remont lub przebudowa budynku albo części budynku, w wyniku których zostaną"
-    },
-    {
-     "type": "text",
-     "text": "utworzone lub zostaną zmodernizowane pomieszczenia służące zaspokajaniu potrzeb mieszkaniowych"
-    },
-    {
-     "type": "text",
-     "text": "studentów i doktorantów:"
+     "text": "dostosowanie do wymagań osób ze szczególnymi potrzebami w rozumieniu art. 2 pkt 3 ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. z 2024 r. poz. 1411) (podjazdy lub platformy dla wózków, ciągi komunikacyjne w budynku wolne od barier poziomych i pionowych zapewniające dostęp na wszystkie kondygnacje użytkowe, w tym windy lub inne rozwiązania architektoniczne zwiększające dostępność architektoniczną budynku).",
+     "children": [
+      {
+       "type": "text",
+       "text": "B. Remont, przebudowa, rozbudowa lub nadbudowa istniejącej noclegowni, istniejącego schroniska dla osób bezdomnych lub istniejącej ogrzewalni, w wyniku których nastąpi dostosowanie noclegowni, schroniska dla osób bezdomnych lub ogrzewalni do standardów, o których mowa w przepisach wydanych na podstawie art. 48a ust. 14 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2025 r. poz. 1214 i 1302) – zakres informacji taki jak w lit. A."
+      },
+      {
+       "type": "text",
+       "text": "V. C. Charakterystyka przedsięwzięcia określonego w art. 4a ustawy"
+      },
+      {
+       "type": "text",
+       "text": "A. Budowa budynku, remont lub przebudowa budynku albo części budynku, w wyniku których zostaną utworzone lub zostaną zmodernizowane pomieszczenia służące zaspokajaniu potrzeb mieszkaniowych studentów i doktorantów:"
+      }
+     ]
     },
     {
      "type": "pkt",
@@ -1529,35 +1027,20 @@
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "powierzchnia mieszkalna pomieszczeń służących zaspokajaniu potrzeb mieszkaniowych stu-",
+     "text": "powierzchnia mieszkalna pomieszczeń służących zaspokajaniu potrzeb mieszkaniowych studentów i doktorantów;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "dentów i doktorantów;"
     },
     {
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "powierzchnia użytkowa pomieszczeń służących zaspokajaniu potrzeb mieszkaniowych studen-",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "tów i doktorantów."
-    },
-    {
-     "type": "text",
-     "text": "B. Kupno budynku mieszkalnego albo udziału we własności budynku mieszkalnego, w tym kupno po-"
-    },
-    {
-     "type": "text",
-     "text": "łączone z remontem lub przebudową tego budynku, w wyniku którego zostaną utworzone lub zostaną"
-    },
-    {
-     "type": "text",
-     "text": "zmodernizowane pomieszczenia służące zaspokajaniu potrzeb mieszkaniowych studentów i doktorantów:"
+     "text": "powierzchnia użytkowa pomieszczeń służących zaspokajaniu potrzeb mieszkaniowych studentów i doktorantów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "B. Kupno budynku mieszkalnego albo udziału we własności budynku mieszkalnego, w tym kupno połączone z remontem lub przebudową tego budynku, w wyniku którego zostaną utworzone lub zostaną zmodernizowane pomieszczenia służące zaspokajaniu potrzeb mieszkaniowych studentów i doktorantów:"
+      }
+     ]
     },
     {
      "type": "pkt",
@@ -1584,39 +1067,28 @@
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "powierzchnia mieszkalna pomieszczeń służących zaspokajaniu potrzeb mieszkaniowych stu-",
+     "text": "powierzchnia mieszkalna pomieszczeń służących zaspokajaniu potrzeb mieszkaniowych studentów i doktorantów;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "dentów i doktorantów;"
     },
     {
      "type": "pkt",
      "num": "5",
      "path": "pkt_5",
-     "text": "powierzchnia użytkowa pomieszczeń służących zaspokajaniu potrzeb mieszkaniowych studen-",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "tów i doktorantów."
-    },
-    {
-     "type": "text",
-     "text": "C. Powierzchnia dodatkowa inna niż powierzchnia pomieszczeń służąca zaspokajaniu potrzeb miesz-"
-    },
-    {
-     "type": "text",
-     "text": "kaniowych studentów i doktorantów, utworzona bez wykorzystania finansowego wsparcia."
-    },
-    {
-     "type": "text",
-     "text": "V. D. Charakterystyka przedsięwzięcia określonego w art. 5c ustawy"
-    },
-    {
-     "type": "text",
-     "text": "Budowa lub przebudowa infrastruktury technicznej lub infrastruktury społecznej:"
+     "text": "powierzchnia użytkowa pomieszczeń służących zaspokajaniu potrzeb mieszkaniowych studentów i doktorantów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "C. Powierzchnia dodatkowa inna niż powierzchnia pomieszczeń służąca zaspokajaniu potrzeb mieszkaniowych studentów i doktorantów, utworzona bez wykorzystania finansowego wsparcia."
+      },
+      {
+       "type": "text",
+       "text": "V. D. Charakterystyka przedsięwzięcia określonego w art. 5c ustawy"
+      },
+      {
+       "type": "text",
+       "text": "Budowa lub przebudowa infrastruktury technicznej lub infrastruktury społecznej:"
+      }
+     ]
     },
     {
      "type": "pkt",
@@ -1629,12 +1101,8 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "numery działek ewidencyjnych, na których ma zostać utworzona infrastruktura techniczna lub infra-",
+     "text": "numery działek ewidencyjnych, na których ma zostać utworzona infrastruktura techniczna lub infrastruktura społeczna;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "struktura społeczna;"
     },
     {
      "type": "pkt",
@@ -1647,16 +1115,8 @@
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "łączna powierzchnia użytkowa tworzonej infrastruktury technicznej lub infrastruktury społecznej –",
+     "text": "łączna powierzchnia użytkowa tworzonej infrastruktury technicznej lub infrastruktury społecznej – w przypadku realizacji obiektów kubaturowych, a w przypadku realizacji obiektów liniowych – dane dotyczące rozmiaru/zakresu danego przedsięwzięcia;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "w przypadku realizacji obiektów kubaturowych, a w przypadku realizacji obiektów liniowych – dane"
-    },
-    {
-     "type": "text",
-     "text": "dotyczące rozmiaru/zakresu danego przedsięwzięcia;"
     },
     {
      "type": "pkt",
@@ -1669,484 +1129,146 @@
      "type": "pkt",
      "num": "6",
      "path": "pkt_6",
-     "text": "informacje o przedsięwzięciu lub inwestycji, z którymi powiązana jest realizacja przedsięwzięcia",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "infrastrukturalnego, o którym mowa w art. 5c ustawy, w tym numer księgi wieczystej i adres"
-    },
-    {
-     "type": "text",
-     "text": "nieruchomości, na której znajduje się albo będzie realizowane przedsięwzięcie lub inwestycja,"
-    },
-    {
-     "type": "text",
-     "text": "z którymi powiązana jest realizacja przedsięwzięcia infrastrukturalnego."
-    },
-    {
-     "type": "text",
-     "text": "VI. Dodatkowe informacje o przedsięwzięciu"
-    },
-    {
-     "type": "text",
-     "text": "A. Informacja, czy przedsięwzięcie jest realizowane zgodnie z zasadami określonymi w art. 7 ustawy."
-    },
-    {
-     "type": "text",
-     "text": "B. Informacja, czy przedsięwzięcie nie jest realizowane przy udziale finansowania zwrotnego, o którym"
-    },
-    {
-     "type": "text",
-     "text": "mowa w art. 15a ust. 1 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju miesz-"
-    },
-    {
-     "type": "text",
-     "text": "kalnictwa – w przypadku gdy z realizacją przedsięwzięcia jest związane zawarcie umowy, o której"
-    },
-    {
-     "type": "text",
-     "text": "mowa w art. 5 ust. 2 pkt 1 ustawy, w przypadku, o którym mowa w art. 5a ust. 1 ustawy."
-    },
-    {
-     "type": "text",
-     "text": "C. Informacja, czy przedsięwzięcie jest realizowane przy udziale finansowania zwrotnego, o którym"
-    },
-    {
-     "type": "text",
-     "text": "mowa w art. 15a ust. 1 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju miesz-"
-    },
-    {
-     "type": "text",
-     "text": "kalnictwa, i czy wysokość środków publicznych przekazanych inwestorowi na tworzenie lokali miesz-"
-    },
-    {
-     "type": "text",
-     "text": "kalnych na wynajem z udziałem gminy albo związku międzygminnego z tytułu finansowego wsparcia"
-    },
-    {
-     "type": "text",
-     "text": "udzielanego na zasadach określonych w ustawie oraz finansowania zwrotnego nie przekracza dopusz-"
-    },
-    {
-     "type": "text",
-     "text": "czalnej wysokości rekompensaty, o której mowa w art. 5 ust. 5 ustawy – w przypadku gdy z realizacją"
-    },
-    {
-     "type": "text",
-     "text": "przedsięwzięcia jest związane zawarcie umowy, o której mowa w art. 5 ust. 2 pkt 1 ustawy."
-    },
-    {
-     "type": "text",
-     "text": "D. Informacja, czy w lokalach mieszkalnych pozyskanych przy udziale finansowego wsparcia na pod-"
-    },
-    {
-     "type": "text",
-     "text": "stawie ustawy zostanie zainstalowane wyposażenie, o którym mowa w art. 6b ustawy (z wyłączeniem"
-    },
-    {
-     "type": "text",
-     "text": "przedsięwzięć, o których mowa w art. 3 ust. 3 ustawy), ze wskazaniem przyczyny braku jego instalacji."
-    },
-    {
-     "type": "text",
-     "text": "E. Informacja, czy przedsięwzięcie zostało zakończone przed dniem złożenia wniosku, o którym mowa"
-    },
-    {
-     "type": "text",
-     "text": "w art. 8 ust. 1 ustawy (z wyłączeniem przedsięwzięć, o których mowa w art. 3 ust. 1 pkt 5 i 6 oraz"
-    },
-    {
-     "type": "text",
-     "text": "art. 4a ust. 1 pkt 3 ustawy)."
-    },
-    {
-     "type": "text",
-     "text": "F. Informacja o planowanych kosztach przedsięwzięcia, o których mowa w art. 14 ust. 1 ustawy,"
-    },
-    {
-     "type": "text",
-     "text": "z uwzględnieniem wartości netto i brutto oraz ze wskazaniem wysokości przyjętej stawki podatku od"
-    },
-    {
-     "type": "text",
-     "text": "towarów i usług, dokumentów, na podstawie których te koszty określono (w przypadku przedsięwzięcia"
-    },
-    {
-     "type": "text",
-     "text": "obejmującego remont lub przebudowę części kilku budynków w rozbiciu na poszczególne lokale miesz-"
-    },
-    {
-     "type": "text",
-     "text": "kalne znajdujące się w budynkach objętych wnioskiem ze wskazaniem ich adresu), a także jeżeli przed-"
-    },
-    {
-     "type": "text",
-     "text": "sięwzięcie obejmuje zakup, montaż lub budowę instalacji odnawialnego źródła energii, o której mowa"
-    },
-    {
-     "type": "text",
-     "text": "w art. 2 pkt 13 lit. a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2024 r."
-    },
-    {
-     "type": "text",
-     "text": "poz. 1361, z późn. zm.[^5]), z wyłączeniem magazynu biogazu rolniczego, przyłączonej do sieci dystrybucyjnej"
-    },
-    {
-     "type": "text",
-     "text": "za pośrednictwem wewnętrznej instalacji, wskazanie kosztów zakupu, montażu lub budowy tej instalacji."
-    },
-    {
-     "type": "text",
-     "text": "G. Informacja o sposobie wyodrębnienia kosztów przedsięwzięcia, o których mowa w art. 14 ust. 1"
-    },
-    {
-     "type": "text",
-     "text": "ustawy, które nie podlegają sfinansowaniu w ramach danego wniosku, lub też kosztów innych niż te,"
-    },
-    {
-     "type": "text",
-     "text": "o których mowa w art. 14 ust. 1 ustawy."
-    },
-    {
-     "type": "text",
-     "text": "H. Informacja, czy beneficjentowi wsparcia lub inwestorowi przysługuje prawo do obniżenia kwoty"
-    },
-    {
-     "type": "text",
-     "text": "podatku należnego o kwotę podatku naliczonego związanego z tym przedsięwzięciem lub zwrot tego"
-    },
-    {
-     "type": "text",
-     "text": "podatku (z wyłączeniem przedsięwzięć, o których mowa w art. 3 ust. 1 pkt 5 ustawy)."
-    },
-    {
-     "type": "text",
-     "text": "I. Informacja, czy beneficjent wsparcia ubiega się o finansowe wsparcie na przedsięwzięcie, o którym"
-    },
-    {
-     "type": "text",
-     "text": "mowa w art. 3 ust. 1 pkt 5 i 6 ustawy, którego przedmiotem zakupu są byłe mieszkania zakładowe, wraz"
-    },
-    {
-     "type": "text",
-     "text": "z ich wykazem, których lokatorami są:"
+     "text": "informacje o przedsięwzięciu lub inwestycji, z którymi powiązana jest realizacja przedsięwzięcia infrastrukturalnego, o którym mowa w art. 5c ustawy, w tym numer księgi wieczystej i adres nieruchomości, na której znajduje się albo będzie realizowane przedsięwzięcie lub inwestycja, z którymi powiązana jest realizacja przedsięwzięcia infrastrukturalnego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "VI. Dodatkowe informacje o przedsięwzięciu"
+      },
+      {
+       "type": "text",
+       "text": "A. Informacja, czy przedsięwzięcie jest realizowane zgodnie z zasadami określonymi w art. 7 ustawy. B. Informacja, czy przedsięwzięcie nie jest realizowane przy udziale finansowania zwrotnego, o którym mowa w art. 15a ust. 1 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa – w przypadku gdy z realizacją przedsięwzięcia jest związane zawarcie umowy, o której mowa w art. 5 ust. 2 pkt 1 ustawy, w przypadku, o którym mowa w art. 5a ust. 1 ustawy."
+      },
+      {
+       "type": "text",
+       "text": "C. Informacja, czy przedsięwzięcie jest realizowane przy udziale finansowania zwrotnego, o którym mowa w art. 15a ust. 1 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, i czy wysokość środków publicznych przekazanych inwestorowi na tworzenie lokali mieszkalnych na wynajem z udziałem gminy albo związku międzygminnego z tytułu finansowego wsparcia udzielanego na zasadach określonych w ustawie oraz finansowania zwrotnego nie przekracza dopuszczalnej wysokości rekompensaty, o której mowa w art. 5 ust. 5 ustawy – w przypadku gdy z realizacją przedsięwzięcia jest związane zawarcie umowy, o której mowa w art. 5 ust. 2 pkt 1 ustawy."
+      },
+      {
+       "type": "text",
+       "text": "D. Informacja, czy w lokalach mieszkalnych pozyskanych przy udziale finansowego wsparcia na podstawie ustawy zostanie zainstalowane wyposażenie, o którym mowa w art. 6b ustawy (z wyłączeniem przedsięwzięć, o których mowa w art. 3 ust. 3 ustawy), ze wskazaniem przyczyny braku jego instalacji. E. Informacja, czy przedsięwzięcie zostało zakończone przed dniem złożenia wniosku, o którym mowa w art. 8 ust. 1 ustawy (z wyłączeniem przedsięwzięć, o których mowa w art. 3 ust. 1 pkt 5 i 6 oraz art. 4a ust. 1 pkt 3 ustawy)."
+      },
+      {
+       "type": "text",
+       "text": "F. Informacja o planowanych kosztach przedsięwzięcia, o których mowa w art. 14 ust. 1 ustawy, z uwzględnieniem wartości netto i brutto oraz ze wskazaniem wysokości przyjętej stawki podatku od towarów i usług, dokumentów, na podstawie których te koszty określono (w przypadku przedsięwzięcia obejmującego remont lub przebudowę części kilku budynków w rozbiciu na poszczególne lokale mieszkalne znajdujące się w budynkach objętych wnioskiem ze wskazaniem ich adresu), a także jeżeli przedsięwzięcie obejmuje zakup, montaż lub budowę instalacji odnawialnego źródła energii, o której mowa w art. 2 pkt 13 lit. a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2024 r. poz. 1361, z późn. zm.[^5]), z wyłączeniem magazynu biogazu rolniczego, przyłączonej do sieci dystrybucyjnej za pośrednictwem wewnętrznej instalacji, wskazanie kosztów zakupu, montażu lub budowy tej instalacji. G. Informacja o sposobie wyodrębnienia kosztów przedsięwzięcia, o których mowa w art. 14 ust. 1 ustawy, które nie podlegają sfinansowaniu w ramach danego wniosku, lub też kosztów innych niż te, o których mowa w art. 14 ust. 1 ustawy."
+      },
+      {
+       "type": "text",
+       "text": "H. Informacja, czy beneficjentowi wsparcia lub inwestorowi przysługuje prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego związanego z tym przedsięwzięciem lub zwrot tego podatku (z wyłączeniem przedsięwzięć, o których mowa w art. 3 ust. 1 pkt 5 ustawy)."
+      },
+      {
+       "type": "text",
+       "text": "I. Informacja, czy beneficjent wsparcia ubiega się o finansowe wsparcie na przedsięwzięcie, o którym mowa w art. 3 ust. 1 pkt 5 i 6 ustawy, którego przedmiotem zakupu są byłe mieszkania zakładowe, wraz z ich wykazem, których lokatorami są:"
+      }
+     ]
     },
     {
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "osoby, które przed dniem 7 lutego 2001 r. były pracownikami przedsiębiorstwa państwowego",
+     "text": "osoby, które przed dniem 7 lutego 2001 r. były pracownikami przedsiębiorstwa państwowego lub spółki handlowej, w których Skarb Państwa był podmiotem dominującym w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2025 r. poz. 592);",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "lub spółki handlowej, w których Skarb Państwa był podmiotem dominującym w rozumieniu ustawy"
-    },
-    {
-     "type": "text",
-     "text": "z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych"
-    },
-    {
-     "type": "text",
-     "text": "do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2025 r. poz. 592);"
     },
     {
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "zstępni, wstępni, małżonek lokatora, osoby przysposabiające lokatora i przysposobione przez",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "niego oraz osoby, które pozostawały z lokatorem w faktycznym wspólnym pożyciu, zamiesz-"
-    },
-    {
-     "type": "text",
-     "text": "kujące z lokatorem w chwili jego śmierci, którzy wstąpili w stosunek najmu po śmierci osób"
-    },
-    {
-     "type": "text",
-     "text": "wskazanych w pkt 1."
-    },
-    {
-     "type": "text",
-     "text": "J. Informacja, czy przedsięwzięcie jest objęte gminnym programem rewitalizacji w rozumieniu prze-"
-    },
-    {
-     "type": "text",
-     "text": "pisu art. 15 ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2024 r. poz. 278)."
-    },
-    {
-     "type": "text",
-     "text": "K. W sytuacji gdy beneficjent wsparcia nie korzysta z finansowego wsparcia w ramach planu rozwojo-"
-    },
-    {
-     "type": "text",
-     "text": "wego, informacja, czy tworzone lokale mieszkalne na wynajem będą wynajmowane i użytkowane na"
-    },
-    {
-     "type": "text",
-     "text": "zasadach wskazanych w art. 7a–7f ustawy – w przypadku gdy z realizacją przedsięwzięcia jest zwią-"
-    },
-    {
-     "type": "text",
-     "text": "zane zawarcie umowy, o której mowa w art. 5 ust. 2 pkt 1 ustawy."
-    },
-    {
-     "type": "text",
-     "text": "L. Informacja, czy tworzone lokale mieszkalne na wynajem będą wynajmowane i użytkowane na zasa-"
-    },
-    {
-     "type": "text",
-     "text": "dach wskazanych w art. 7a–7d i art. 7f ustawy – w przypadku gdy z realizacją przedsięwzięcia jest"
-    },
-    {
-     "type": "text",
-     "text": "związane zawarcie umowy, o której mowa w art. 5 ust. 2 pkt 2 ustawy."
-    },
-    {
-     "type": "text",
-     "text": "M. W sytuacji gdy beneficjent wsparcia nie korzysta z finansowego wsparcia w ramach planu rozwo-"
-    },
-    {
-     "type": "text",
-     "text": "jowego, informacja, czy inwestor, któremu powierzy się świadczenie usługi publicznej w ogólnym in-"
-    },
-    {
-     "type": "text",
-     "text": "teresie gospodarczym, świadczyć będzie usługę polegającą na najmie lokali mieszkalnych na warun-"
-    },
-    {
-     "type": "text",
-     "text": "kach określonych w art. 7a–7f ustawy – w przypadku gdy z realizacją przedsięwzięcia jest związane"
-    },
-    {
-     "type": "text",
-     "text": "zawarcie umowy, o której mowa w art. 5 ust. 2 pkt 1 ustawy."
-    },
-    {
-     "type": "text",
-     "text": "N. Informacja, czy inwestor, któremu powierzy się świadczenie usługi publicznej w ogólnym interesie"
-    },
-    {
-     "type": "text",
-     "text": "gospodarczym, świadczyć będzie usługę polegającą na najmie lokali mieszkalnych na warunkach okreś-"
-    },
-    {
-     "type": "text",
-     "text": "lonych w art. 7a–7d i art. 7f ustawy – w przypadku gdy z realizacją przedsięwzięcia jest związane za-"
-    },
-    {
-     "type": "text",
-     "text": "warcie umowy, o której mowa w art. 5 ust. 2 pkt 2 ustawy."
-    },
-    {
-     "type": "text",
-     "text": "O. W przypadku przedsięwzięć, o których mowa w art. 3 ustawy, informacja, czy tworzone w ramach"
-    },
-    {
-     "type": "text",
-     "text": "planu rozwojowego lokale mieszkalne na wynajem będą wynajmowane zgodnie z zasadami określo-"
-    },
-    {
-     "type": "text",
-     "text": "nymi w art. 7c ust. 2–6 oraz art. 22d ust. 1–2 i 4 ustawy."
-    },
-    {
-     "type": "text",
-     "text": "P. W przypadku przedsięwzięć, o których mowa w art. 5 ustawy, informacja, czy tworzone w ramach"
-    },
-    {
-     "type": "text",
-     "text": "planu rozwojowego lokale mieszkalne na wynajem będą wynajmowane zgodnie z zasadami określo-"
-    },
-    {
-     "type": "text",
-     "text": "nymi w art. 7a ust. 2 i ust. 3–8, art. 7b, art. 7c, art. 7d, art. 7e, art. 7f oraz art. 22d ustawy."
-    },
-    {
-     "type": "text",
-     "text": "Q. W przypadku przedsięwzięć, o których mowa w art. 5a ustawy, informacja, czy tworzone w ramach"
-    },
-    {
-     "type": "text",
-     "text": "planu rozwojowego lokale mieszkalne na wynajem będą wynajmowane zgodnie z zasadami określo-"
-    },
-    {
-     "type": "text",
-     "text": "nymi w art. 7c ust. 2–6 ustawy oraz art. 22d ustawy."
-    },
-    {
-     "type": "text",
-     "text": "R. Informacja, czy część lokali będzie przeznaczona dla rodzin z dziećmi posiadającymi zaświadczenie,"
-    },
-    {
-     "type": "text",
-     "text": "o którym mowa w art. 4 ust. 3 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin"
-    },
-    {
-     "type": "text",
-     "text": "„Za życiem” (Dz. U. z 2024 r. poz. 1829).",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "S. Informacja, czy:"
+     "text": "zstępni, wstępni, małżonek lokatora, osoby przysposabiające lokatora i przysposobione przez niego oraz osoby, które pozostawały z lokatorem w faktycznym wspólnym pożyciu, zamieszkujące z lokatorem w chwili jego śmierci, którzy wstąpili w stosunek najmu po śmierci osób wskazanych w pkt 1.",
+     "children": [
+      {
+       "type": "text",
+       "text": "J. Informacja, czy przedsięwzięcie jest objęte gminnym programem rewitalizacji w rozumieniu przepisu art. 15 ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2024 r. poz. 278)."
+      },
+      {
+       "type": "text",
+       "text": "K. W sytuacji gdy beneficjent wsparcia nie korzysta z finansowego wsparcia w ramach planu rozwojowego, informacja, czy tworzone lokale mieszkalne na wynajem będą wynajmowane i użytkowane na zasadach wskazanych w art. 7a–7f ustawy – w przypadku gdy z realizacją przedsięwzięcia jest związane zawarcie umowy, o której mowa w art. 5 ust. 2 pkt 1 ustawy."
+      },
+      {
+       "type": "text",
+       "text": "L. Informacja, czy tworzone lokale mieszkalne na wynajem będą wynajmowane i użytkowane na zasadach wskazanych w art. 7a–7d i art. 7f ustawy – w przypadku gdy z realizacją przedsięwzięcia jest związane zawarcie umowy, o której mowa w art. 5 ust. 2 pkt 2 ustawy."
+      },
+      {
+       "type": "text",
+       "text": "M. W sytuacji gdy beneficjent wsparcia nie korzysta z finansowego wsparcia w ramach planu rozwojowego, informacja, czy inwestor, któremu powierzy się świadczenie usługi publicznej w ogólnym interesie gospodarczym, świadczyć będzie usługę polegającą na najmie lokali mieszkalnych na warunkach określonych w art. 7a–7f ustawy – w przypadku gdy z realizacją przedsięwzięcia jest związane zawarcie umowy, o której mowa w art. 5 ust. 2 pkt 1 ustawy."
+      },
+      {
+       "type": "text",
+       "text": "N. Informacja, czy inwestor, któremu powierzy się świadczenie usługi publicznej w ogólnym interesie gospodarczym, świadczyć będzie usługę polegającą na najmie lokali mieszkalnych na warunkach określonych w art. 7a–7d i art. 7f ustawy – w przypadku gdy z realizacją przedsięwzięcia jest związane zawarcie umowy, o której mowa w art. 5 ust. 2 pkt 2 ustawy."
+      },
+      {
+       "type": "text",
+       "text": "O. W przypadku przedsięwzięć, o których mowa w art. 3 ustawy, informacja, czy tworzone w ramach planu rozwojowego lokale mieszkalne na wynajem będą wynajmowane zgodnie z zasadami określonymi w art. 7c ust. 2–6 oraz art. 22d ust. 1–2 i 4 ustawy."
+      },
+      {
+       "type": "text",
+       "text": "P. W przypadku przedsięwzięć, o których mowa w art. 5 ustawy, informacja, czy tworzone w ramach planu rozwojowego lokale mieszkalne na wynajem będą wynajmowane zgodnie z zasadami określonymi w art. 7a ust. 2 i ust. 3–8, art. 7b, art. 7c, art. 7d, art. 7e, art. 7f oraz art. 22d ustawy."
+      },
+      {
+       "type": "text",
+       "text": "Q. W przypadku przedsięwzięć, o których mowa w art. 5a ustawy, informacja, czy tworzone w ramach planu rozwojowego lokale mieszkalne na wynajem będą wynajmowane zgodnie z zasadami określonymi w art. 7c ust. 2–6 ustawy oraz art. 22d ustawy."
+      },
+      {
+       "type": "text",
+       "text": "R. Informacja, czy część lokali będzie przeznaczona dla rodzin z dziećmi posiadającymi zaświadczenie, o którym mowa w art. 4 ust. 3 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem” (Dz. U. z 2024 r. poz. 1829)."
+      },
+      {
+       "type": "text",
+       "text": "S. Informacja, czy:"
+      }
+     ]
     },
     {
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "przedsięwzięcie jest realizowane zgodnie ze standardami określonymi w rozporządzeniu Mini-",
+     "text": "przedsięwzięcie jest realizowane zgodnie ze standardami określonymi w rozporządzeniu Ministra Inwestycji i Rozwoju z dnia 4 marca 2019 r. w sprawie standardów dotyczących przestrzennego kształtowania budynku i jego otoczenia, technologii wykonania i wyposażenia technicznego budynku oraz lokalizacji przedsięwzięć realizowanych z wykorzystaniem finansowego wsparcia z Funduszu Dopłat (Dz. U. poz. 457) albo",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "stra Inwestycji i Rozwoju z dnia 4 marca 2019 r. w sprawie standardów dotyczących przestrzen-"
-    },
-    {
-     "type": "text",
-     "text": "nego kształtowania budynku i jego otoczenia, technologii wykonania i wyposażenia technicz-"
-    },
-    {
-     "type": "text",
-     "text": "nego budynku oraz lokalizacji przedsięwzięć realizowanych z wykorzystaniem finansowego"
-    },
-    {
-     "type": "text",
-     "text": "wsparcia z Funduszu Dopłat (Dz. U. poz. 457) albo"
     },
     {
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "wobec przedsięwzięcia nie stosuje się standardów określonych w rozporządzeniu, o którym",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "mowa w pkt 1, zgodnie z § 2 pkt 1 lub 2 lub 3 lub 4[^6] tego rozporządzenia."
-    },
-    {
-     "type": "text",
-     "text": "T. Informacja, czy przedsięwzięcie spełnia standardy, o których mowa w przepisach wydanych na pod-"
-    },
-    {
-     "type": "text",
-     "text": "stawie art. 48a ust. 14 ustawy z dnia 12 marca 2004 r. o pomocy społecznej – w przypadku przedsię-"
-    },
-    {
-     "type": "text",
-     "text": "wzięcia, o którym mowa w art. 4 ustawy."
-    },
-    {
-     "type": "text",
-     "text": "U. Informacja, czy przedsięwzięcie spełnia standardy, o których mowa w przepisach wydanych na pod-"
-    },
-    {
-     "type": "text",
-     "text": "stawie art. 53 ust. 24 ustawy z dnia 12 marca 2004 r. o pomocy społecznej – w przypadku przedsię-"
-    },
-    {
-     "type": "text",
-     "text": "wzięcia, o którym mowa w art. 6 ustawy."
-    },
-    {
-     "type": "text",
-     "text": "W. Informacja, czy finansowe wsparcie, o którym mowa w art. 3, art. 5 i art. 5a ustawy, jest udzielane"
-    },
-    {
-     "type": "text",
-     "text": "na przedsięwzięcie, w wyniku którego powstaną lokale mieszkalne, których docelową grupę najemców"
-    },
-    {
-     "type": "text",
-     "text": "będą stanowić również osoby starsze, o których mowa w art. 5b ustawy – w przypadku gdy finansowe"
-    },
-    {
-     "type": "text",
-     "text": "wsparcie ma być udzielone także na utworzenie dodatkowych powierzchni użytkowych przeznaczo-"
-    },
-    {
-     "type": "text",
-     "text": "nych na zaspokojenie potrzeb osób starszych."
-    },
-    {
-     "type": "text",
-     "text": "X. Informacja, czy w ramach przedsięwzięcia występuje pomoc publiczna – w przypadku przedsię-"
-    },
-    {
-     "type": "text",
-     "text": "wzięć i inwestycji, o których mowa w art. 5c ustawy."
-    },
-    {
-     "type": "text",
-     "text": "Y. Informacja, czy beneficjent wsparcia będący jednoosobową spółką gminną jest spółką, której gmina"
-    },
-    {
-     "type": "text",
-     "text": "powierzyła realizację zadania własnego w zakresie zaspokajania potrzeb mieszkaniowych wspólnoty"
-    },
-    {
-     "type": "text",
-     "text": "samorządowej w rozumieniu przepisu art. 2 pkt 5a lit. b ustawy – w przypadku przedsięwzięć, o któ-"
-    },
-    {
-     "type": "text",
-     "text": "rych mowa w art. 3 albo art. 4 ustawy."
-    },
-    {
-     "type": "text",
-     "text": "Z. W przypadku przedsięwzięć realizowanych na podstawie art. 3 ust. 1 pkt 1, art. 4 ust. 1 pkt 1, art. 4a"
-    },
-    {
-     "type": "text",
-     "text": "ust. 1 pkt 1, art. 5 ust. 1 pkt 1 i art. 5c ustawy informacja o numerze księgi wieczystej prowadzonej dla"
-    },
-    {
-     "type": "text",
-     "text": "nieruchomości objętej przedsięwzięciem."
-    },
-    {
-     "type": "text",
-     "text": "ZA. Informacja, czy beneficjent wsparcia lub inwestor posiada prawo własności lub użytkowania wie-"
-    },
-    {
-     "type": "text",
-     "text": "czystego lub dzierżawy lub użyczenia gruntu, na którym realizowane jest przedsięwzięcie, albo prawo"
-    },
-    {
-     "type": "text",
-     "text": "własności budynku lub części budynku (w tym lokali), w którym realizowane jest przedsięwzięcie, albo"
-    },
-    {
-     "type": "text",
-     "text": "o posiadanym prawie własności lub dzierżawy lub użytkowania wieczystego gruntu (dla przedsięwzięć,"
-    },
-    {
-     "type": "text",
-     "text": "o których mowa w art. 3 ust. 1, art. 4, art. 4a ust. 1, art. 5 ust. 1 i art. 5c ustawy)."
-    },
-    {
-     "type": "text",
-     "text": "ZB. W przypadku przedsięwzięć, o których mowa w art. 3 ust. 1 pkt 1, art. 4 ust. 1 pkt 1, art. 4a ust. 1"
-    },
-    {
-     "type": "text",
-     "text": "pkt 1 i art. 5 ust. 1 pkt 1 ustawy, informacje o:"
+     "text": "wobec przedsięwzięcia nie stosuje się standardów określonych w rozporządzeniu, o którym mowa w pkt 1, zgodnie z § 2 pkt 1 lub 2 lub 3 lub 4[^6] tego rozporządzenia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "T. Informacja, czy przedsięwzięcie spełnia standardy, o których mowa w przepisach wydanych na podstawie art. 48a ust. 14 ustawy z dnia 12 marca 2004 r. o pomocy społecznej – w przypadku przedsięwzięcia, o którym mowa w art. 4 ustawy."
+      },
+      {
+       "type": "text",
+       "text": "U. Informacja, czy przedsięwzięcie spełnia standardy, o których mowa w przepisach wydanych na podstawie art. 53 ust. 24 ustawy z dnia 12 marca 2004 r. o pomocy społecznej – w przypadku przedsięwzięcia, o którym mowa w art. 6 ustawy."
+      },
+      {
+       "type": "text",
+       "text": "W. Informacja, czy finansowe wsparcie, o którym mowa w art. 3, art. 5 i art. 5a ustawy, jest udzielane na przedsięwzięcie, w wyniku którego powstaną lokale mieszkalne, których docelową grupę najemców będą stanowić również osoby starsze, o których mowa w art. 5b ustawy – w przypadku gdy finansowe wsparcie ma być udzielone także na utworzenie dodatkowych powierzchni użytkowych przeznaczonych na zaspokojenie potrzeb osób starszych."
+      },
+      {
+       "type": "text",
+       "text": "X. Informacja, czy w ramach przedsięwzięcia występuje pomoc publiczna – w przypadku przedsięwzięć i inwestycji, o których mowa w art. 5c ustawy."
+      },
+      {
+       "type": "text",
+       "text": "Y. Informacja, czy beneficjent wsparcia będący jednoosobową spółką gminną jest spółką, której gmina powierzyła realizację zadania własnego w zakresie zaspokajania potrzeb mieszkaniowych wspólnoty samorządowej w rozumieniu przepisu art. 2 pkt 5a lit. b ustawy – w przypadku przedsięwzięć, o których mowa w art. 3 albo art. 4 ustawy."
+      },
+      {
+       "type": "text",
+       "text": "Z. W przypadku przedsięwzięć realizowanych na podstawie art. 3 ust. 1 pkt 1, art. 4 ust. 1 pkt 1, art. 4a ust. 1 pkt 1, art. 5 ust. 1 pkt 1 i art. 5c ustawy informacja o numerze księgi wieczystej prowadzonej dla nieruchomości objętej przedsięwzięciem."
+      },
+      {
+       "type": "text",
+       "text": "ZA. Informacja, czy beneficjent wsparcia lub inwestor posiada prawo własności lub użytkowania wieczystego lub dzierżawy lub użyczenia gruntu, na którym realizowane jest przedsięwzięcie, albo prawo własności budynku lub części budynku (w tym lokali), w którym realizowane jest przedsięwzięcie, albo o posiadanym prawie własności lub dzierżawy lub użytkowania wieczystego gruntu (dla przedsięwzięć, o których mowa w art. 3 ust. 1, art. 4, art. 4a ust. 1, art. 5 ust. 1 i art. 5c ustawy)."
+      },
+      {
+       "type": "text",
+       "text": "ZB. W przypadku przedsięwzięć, o których mowa w art. 3 ust. 1 pkt 1, art. 4 ust. 1 pkt 1, art. 4a ust. 1 pkt 1 i art. 5 ust. 1 pkt 1 ustawy, informacje o:"
+      }
+     ]
     },
     {
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "numerze działek ewidencyjnych, na których będą budowane budynki wraz ze związanymi",
+     "text": "numerze działek ewidencyjnych, na których będą budowane budynki wraz ze związanymi z nimi obiektami i urządzeniami w ramach przedsięwzięcia;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "z nimi obiektami i urządzeniami w ramach przedsięwzięcia;"
     },
     {
      "type": "pkt",
@@ -2159,217 +1281,74 @@
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "liczbie kondygnacji w budynkach przewidzianych w ramach przedsięwzięcia, w tym kondygna-",
+     "text": "liczbie kondygnacji w budynkach przewidzianych w ramach przedsięwzięcia, w tym kondygnacji naziemnych i podziemnych (w przypadku różnej liczby kondygnacji, należy wskazać je dla każdego budynku osobno);",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "cji naziemnych i podziemnych (w przypadku różnej liczby kondygnacji, należy wskazać je dla"
-    },
-    {
-     "type": "text",
-     "text": "każdego budynku osobno);"
     },
     {
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "tym, czy w każdym budynku oraz każdej wydzielonej w pionie odrębnej części budynku zapro-",
+     "text": "tym, czy w każdym budynku oraz każdej wydzielonej w pionie odrębnej części budynku zaprojektowano dźwig przystosowany do przewozu mebli, chorych na noszach i osób niepełnosprawnych (jeżeli nie w każdym – należy wskazać, w których budynkach zostały zaprojektowane i w jakiej liczbie);",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "jektowano dźwig przystosowany do przewozu mebli, chorych na noszach i osób niepełnospraw-"
-    },
-    {
-     "type": "text",
-     "text": "nych (jeżeli nie w każdym – należy wskazać, w których budynkach zostały zaprojektowane"
-    },
-    {
-     "type": "text",
-     "text": "i w jakiej liczbie);"
     },
     {
      "type": "pkt",
      "num": "5",
      "path": "pkt_5",
-     "text": "łącznej liczbie realizowanych stanowisk postojowych lub garaży znajdujących się w budynkach",
+     "text": "łącznej liczbie realizowanych stanowisk postojowych lub garaży znajdujących się w budynkach mieszkalnych i wielopoziomowych, w tym przypadających na lokale mieszkalne objęte wnioskiem;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "mieszkalnych i wielopoziomowych, w tym przypadających na lokale mieszkalne objęte wnios-"
-    },
-    {
-     "type": "text",
-     "text": "kiem;"
     },
     {
      "type": "pkt",
      "num": "6",
      "path": "pkt_6",
-     "text": "minimalnej liczbie stanowisk i garaży, o których mowa w pkt 5, wynikającej z ustaleń miejsco-",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "wego planu zagospodarowania przestrzennego albo decyzji o warunkach zabudowy, w tym"
-    },
-    {
-     "type": "text",
-     "text": "przypadających na lokale mieszkalne objęte wnioskiem."
-    },
-    {
-     "type": "text",
-     "text": "ZC. W przypadku przedsięwzięcia, o którym mowa w art. 5 ust. 1 albo art. 5c ust. 2 ustawy, informacja"
-    },
-    {
-     "type": "text",
-     "text": "o dacie albo planowanej dacie zawarcia umowy, o której mowa w art. 5 ust. 2 pkt 1 albo pkt 2 lit. a albo"
-    },
-    {
-     "type": "text",
-     "text": "art. 5c ust. 3 ustawy, oraz okresie, na jaki została bądź zostanie zawarta ta umowa."
-    },
-    {
-     "type": "text",
-     "text": "ZD. W przypadku przedsięwzięcia, o którym mowa w art. 5 ust. 1 pkt 2 lit. b ustawy, informacja, czy"
-    },
-    {
-     "type": "text",
-     "text": "gmina określiła kryteria, o których mowa w art. 22e ust. 1 pkt 1 ustawy z dnia 26 października 1995 r."
-    },
-    {
-     "type": "text",
-     "text": "o społecznych formach rozwoju mieszkalnictwa."
-    },
-    {
-     "type": "text",
-     "text": "ZE. Informacja, czy przed złożeniem danego wniosku o finansowe wsparcie, budynek lub jego część,"
-    },
-    {
-     "type": "text",
-     "text": "które są aktualnie przedmiotem przedsięwzięcia, podlegał finansowaniu ze środków Funduszu Dopłat."
-    },
-    {
-     "type": "text",
-     "text": "Jeżeli tak, to informacja czy przedsięwzięcie, w ramach którego finansowany był ten budynek lub ta"
-    },
-    {
-     "type": "text",
-     "text": "część zostało rozliczone i kiedy nastąpiło to rozliczenie."
-    },
-    {
-     "type": "text",
-     "text": "ZF. W przypadku przedsięwzięcia, o którym mowa w art. 3 ust. 1 pkt 1, art. 5 ust. 1 pkt 1 ustawy, in-"
-    },
-    {
-     "type": "text",
-     "text": "formacja czy przedsięwzięcie jest realizowane na podstawie dokumentacji projektowej opracowanej"
-    },
-    {
-     "type": "text",
-     "text": "z wykorzystaniem zasobu dokumentacji projektowych, o którym mowa w art. 7g ustawy."
-    },
-    {
-     "type": "text",
-     "text": "ZG. W przypadku przedsięwzięcia, o którym mowa w art. 4a ustawy, informacja, czy pomieszczenia"
-    },
-    {
-     "type": "text",
-     "text": "służące zaspokajaniu potrzeb mieszkaniowych studentów i doktorantów, pozyskanych przy udziale"
-    },
-    {
-     "type": "text",
-     "text": "finansowego wsparcia na podstawie ustawy, będą wyposażone w oświetlenie naturalne i elektryczne,"
-    },
-    {
-     "type": "text",
-     "text": "możliwość ogrzewania, niezawilgocone przegrody budowlane oraz wyposażone lub obejmujące bezpo-"
-    },
-    {
-     "type": "text",
-     "text": "średni dostęp do aneksu wyposażonego w źródło zaopatrzenia w wodę, ustęp oraz urządzenie do goto-"
-    },
-    {
-     "type": "text",
-     "text": "wania posiłków."
-    },
-    {
-     "type": "text",
-     "text": "ZH. Informacja, czy minimalna powierzchnia pomieszczenia służącego zaspokajaniu potrzeb mieszka-"
-    },
-    {
-     "type": "text",
-     "text": "niowych studentów i doktorantów wynosi 8 m² powierzchni mieszkalnej na jedną osobę."
-    },
-    {
-     "type": "text",
-     "text": "ZI. W przypadku przedsięwzięcia, o którym mowa w art. 4a ustawy, informacja, czy na realizację"
-    },
-    {
-     "type": "text",
-     "text": "przedsięwzięcia została udzielona dotacja celowa na podstawie art. 365 pkt 4 lit. a ustawy z dnia"
-    },
-    {
-     "type": "text",
-     "text": "20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm.[^7])."
-    },
-    {
-     "type": "text",
-     "text": "ZJ. W przypadku przedsięwzięcia, o którym mowa w art. 4a ustawy, informacja, czy tworzone lokale"
-    },
-    {
-     "type": "text",
-     "text": "mieszkalne będą wynajmowane i użytkowane na zasadach wskazanych w art. 7a ust. 1 pkt 1 i art. 7c"
-    },
-    {
-     "type": "text",
-     "text": "ust. 3a ustawy."
-    },
-    {
-     "type": "text",
-     "text": "ZK. W przypadku przedsięwzięć, o których mowa w art. 3 ust. 1 pkt 1 oraz w art. 5 ust. 1 pkt 1 ustawy,"
-    },
-    {
-     "type": "text",
-     "text": "informacja, czy wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP"
-    },
-    {
-     "type": "text",
-     "text": "w budynku powstałym w ramach przedsięwzięcia przekracza czy nie przekracza 52 kWh/(m²×rok)."
-    },
-    {
-     "type": "text",
-     "text": "ZL. Informacja, czy koszty przedsięwzięcia obejmują koszty związane z zakupem, montażem i urucho-"
-    },
-    {
-     "type": "text",
-     "text": "mieniem indywidualnego kotła zasilanego paliwami kopalnymi."
-    },
-    {
-     "type": "text",
-     "text": "VII. Zgoda na przekazywanie informacji"
-    },
-    {
-     "type": "text",
-     "text": "Informacja o wyrażeniu zgody na przekazywanie przez Bank Gospodarstwa Krajowego wszelkich"
-    },
-    {
-     "type": "text",
-     "text": "informacji o realizowanym przedsięwzięciu oraz na udostępnianie i przekazywanie dokumentacji foto-"
-    },
-    {
-     "type": "text",
-     "text": "graficznej przedsięwzięcia ministrowi właściwemu do spraw budownictwa, planowania i zagospodaro-"
-    },
-    {
-     "type": "text",
-     "text": "wania przestrzennego oraz mieszkalnictwa."
-    },
-    {
-     "type": "text",
-     "text": "VIII. Informacje o prawdziwości danych zawartych we wniosku, podpisane przez:"
+     "text": "minimalnej liczbie stanowisk i garaży, o których mowa w pkt 5, wynikającej z ustaleń miejscowego planu zagospodarowania przestrzennego albo decyzji o warunkach zabudowy, w tym przypadających na lokale mieszkalne objęte wnioskiem.",
+     "children": [
+      {
+       "type": "text",
+       "text": "ZC. W przypadku przedsięwzięcia, o którym mowa w art. 5 ust. 1 albo art. 5c ust. 2 ustawy, informacja o dacie albo planowanej dacie zawarcia umowy, o której mowa w art. 5 ust. 2 pkt 1 albo pkt 2 lit. a albo art. 5c ust. 3 ustawy, oraz okresie, na jaki została bądź zostanie zawarta ta umowa."
+      },
+      {
+       "type": "text",
+       "text": "ZD. W przypadku przedsięwzięcia, o którym mowa w art. 5 ust. 1 pkt 2 lit. b ustawy, informacja, czy gmina określiła kryteria, o których mowa w art. 22e ust. 1 pkt 1 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa."
+      },
+      {
+       "type": "text",
+       "text": "ZE. Informacja, czy przed złożeniem danego wniosku o finansowe wsparcie, budynek lub jego część, które są aktualnie przedmiotem przedsięwzięcia, podlegał finansowaniu ze środków Funduszu Dopłat. Jeżeli tak, to informacja czy przedsięwzięcie, w ramach którego finansowany był ten budynek lub ta część zostało rozliczone i kiedy nastąpiło to rozliczenie."
+      },
+      {
+       "type": "text",
+       "text": "ZF. W przypadku przedsięwzięcia, o którym mowa w art. 3 ust. 1 pkt 1, art. 5 ust. 1 pkt 1 ustawy, informacja czy przedsięwzięcie jest realizowane na podstawie dokumentacji projektowej opracowanej z wykorzystaniem zasobu dokumentacji projektowych, o którym mowa w art. 7g ustawy."
+      },
+      {
+       "type": "text",
+       "text": "ZG. W przypadku przedsięwzięcia, o którym mowa w art. 4a ustawy, informacja, czy pomieszczenia służące zaspokajaniu potrzeb mieszkaniowych studentów i doktorantów, pozyskanych przy udziale finansowego wsparcia na podstawie ustawy, będą wyposażone w oświetlenie naturalne i elektryczne, możliwość ogrzewania, niezawilgocone przegrody budowlane oraz wyposażone lub obejmujące bezpośredni dostęp do aneksu wyposażonego w źródło zaopatrzenia w wodę, ustęp oraz urządzenie do gotowania posiłków."
+      },
+      {
+       "type": "text",
+       "text": "ZH. Informacja, czy minimalna powierzchnia pomieszczenia służącego zaspokajaniu potrzeb mieszkaniowych studentów i doktorantów wynosi 8 m² powierzchni mieszkalnej na jedną osobę."
+      },
+      {
+       "type": "text",
+       "text": "ZI. W przypadku przedsięwzięcia, o którym mowa w art. 4a ustawy, informacja, czy na realizację przedsięwzięcia została udzielona dotacja celowa na podstawie art. 365 pkt 4 lit. a ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm.[^7]). ZJ. W przypadku przedsięwzięcia, o którym mowa w art. 4a ustawy, informacja, czy tworzone lokale mieszkalne będą wynajmowane i użytkowane na zasadach wskazanych w art. 7a ust. 1 pkt 1 i art. 7c ust. 3a ustawy."
+      },
+      {
+       "type": "text",
+       "text": "ZK. W przypadku przedsięwzięć, o których mowa w art. 3 ust. 1 pkt 1 oraz w art. 5 ust. 1 pkt 1 ustawy, informacja, czy wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP w budynku powstałym w ramach przedsięwzięcia przekracza czy nie przekracza 52 kWh/(m²×rok). ZL. Informacja, czy koszty przedsięwzięcia obejmują koszty związane z zakupem, montażem i uruchomieniem indywidualnego kotła zasilanego paliwami kopalnymi."
+      },
+      {
+       "type": "text",
+       "text": "VII. Zgoda na przekazywanie informacji"
+      },
+      {
+       "type": "text",
+       "text": "Informacja o wyrażeniu zgody na przekazywanie przez Bank Gospodarstwa Krajowego wszelkich informacji o realizowanym przedsięwzięciu oraz na udostępnianie i przekazywanie dokumentacji fotograficznej przedsięwzięcia ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa."
+      },
+      {
+       "type": "text",
+       "text": "VIII. Informacje o prawdziwości danych zawartych we wniosku, podpisane przez:"
+      }
+     ]
     },
     {
      "type": "pkt",
@@ -2396,20 +1375,8 @@
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "w przypadku jednoosobowej spółki gminnej, organizacji pozarządowej albo podmiotów, o których",
+     "text": "w przypadku jednoosobowej spółki gminnej, organizacji pozarządowej albo podmiotów, o których mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie – osobę lub osoby uprawnione do składania oświadczeń woli w imieniu spółki i organizacji;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wo-"
-    },
-    {
-     "type": "text",
-     "text": "lontariacie – osobę lub osoby uprawnione do składania oświadczeń woli w imieniu spółki i organi-"
-    },
-    {
-     "type": "text",
-     "text": "zacji;"
     },
     {
      "type": "pkt",
@@ -2425,43 +1392,24 @@
    "body": [
     {
      "type": "text",
-     "text": "SZCZEGÓŁOWY ZAKRES INFORMACJI, JAKIE SĄ DOŁĄCZANE DO WNIOSKU O GRANT MZG, WNIOSKU O GRANT OZE ORAZ WNIOSKU O FINANSOWE WSPARCIE UDZIELANE W RAMACH PLANU ROZWOJOWEGO"
+     "text": "SZCZEGÓŁOWY ZAKRES INFORMACJI, JAKIE SĄ DOŁĄCZANE DO WNIOSKU O GRANT MZG,"
     },
     {
      "type": "text",
-     "text": "I. Dane wnioskodawcy"
+     "text": "WNIOSKU O GRANT OZE ORAZ WNIOSKU O FINANSOWE WSPARCIE UDZIELANE"
     },
     {
      "type": "text",
-     "text": "A. Beneficjent wsparcia: gmina, jednoosobowa spółka gminna, której gmina powierzyła realizację za-"
+     "text": "W RAMACH PLANU ROZWOJOWEGO"
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Dane wnioskodawcy"
     },
     {
      "type": "text",
-     "text": "dania własnego w zakresie zaspokajania potrzeb mieszkaniowych wspólnoty samorządowej, z wyjąt-"
-    },
-    {
-     "type": "text",
-     "text": "kiem społecznych inicjatyw mieszkaniowych i społecznych agencji najmu albo zadania związanego"
-    },
-    {
-     "type": "text",
-     "text": "z infrastrukturą techniczną lub infrastrukturą społeczną, powiat, związek międzygminny, organizacja"
-    },
-    {
-     "type": "text",
-     "text": "pozarządowa, o której mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku"
-    },
-    {
-     "type": "text",
-     "text": "publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338), zwana dalej „organizacją pozarządową”,"
-    },
-    {
-     "type": "text",
-     "text": "podmiot, o którym mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku"
-    },
-    {
-     "type": "text",
-     "text": "publicznego i o wolontariacie."
+     "text": "A. Beneficjent wsparcia: gmina, jednoosobowa spółka gminna, której gmina powierzyła realizację zadania własnego w zakresie zaspokajania potrzeb mieszkaniowych wspólnoty samorządowej, z wyjątkiem społecznych inicjatyw mieszkaniowych i społecznych agencji najmu albo zadania związanego z infrastrukturą techniczną lub infrastrukturą społeczną, powiat, związek międzygminny, organizacja pozarządowa, o której mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338), zwana dalej „organizacją pozarządową”, podmiot, o którym mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie."
     },
     {
      "type": "text",
@@ -2469,63 +1417,24 @@
     },
     {
      "type": "text",
-     "text": "C. Adres, w tym adres do doręczeń elektronicznych[^1_3], o którym mowa w ustawie z dnia 18 listopada"
+     "text": "C. Adres, w tym adres do doręczeń elektronicznych[^1_3], o którym mowa w ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841)."
     },
     {
      "type": "text",
-     "text": "2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841)."
+     "text": "D. Numer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), a dla podmiotów innych niż gmina, powiat, związek międzygminny lub uczelnia publiczna numer KRS."
     },
     {
      "type": "text",
-     "text": "D. Numer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny w krajowym rejestrze urzędo-"
+     "text": "E. Imię i nazwisko, służbowy numer telefonu oraz służbowy adres poczty elektronicznej osoby bezpośrednio prowadzącej sprawę."
     },
     {
      "type": "text",
-     "text": "wym podmiotów gospodarki narodowej (REGON), a dla podmiotów innych niż gmina, powiat, związek"
+     "text": "F. W przypadku przedsięwzięć, o których mowa w art. 5 ust. 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2024 r. poz. 304 oraz z 2025 r. poz. 680 i 1077) – nazwa, adres, w tym adres do doręczeń elektronicznych[^1_3], o którym mowa w ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, numery REGON, NIP i KRS inwestora. G. Numer rachunku bankowego lub rachunku prowadzonego przez spółdzielczą kasę oszczędnościowo-kredytową beneficjenta wsparcia, na który zostanie przekazany grant MZG, grant OZE lub finansowe wsparcie udzielane w ramach planu rozwojowego."
     },
     {
-     "type": "text",
-     "text": "międzygminny lub uczelnia publiczna numer KRS."
-    },
-    {
-     "type": "text",
-     "text": "E. Imię i nazwisko, służbowy numer telefonu oraz służbowy adres poczty elektronicznej osoby bezpo-"
-    },
-    {
-     "type": "text",
-     "text": "średnio prowadzącej sprawę."
-    },
-    {
-     "type": "text",
-     "text": "F. W przypadku przedsięwzięć, o których mowa w art. 5 ust. 1 ustawy z dnia 8 grudnia 2006 r. o finan-"
-    },
-    {
-     "type": "text",
-     "text": "sowym wsparciu niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2024 r. poz. 304 oraz z 2025 r."
-    },
-    {
-     "type": "text",
-     "text": "poz. 680 i 1077) – nazwa, adres, w tym adres do doręczeń elektronicznych[^1_3], o którym mowa w ustawie"
-    },
-    {
-     "type": "text",
-     "text": "z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, numery REGON, NIP i KRS inwestora."
-    },
-    {
-     "type": "text",
-     "text": "G. Numer rachunku bankowego lub rachunku prowadzonego przez spółdzielczą kasę oszczędnoś-"
-    },
-    {
-     "type": "text",
-     "text": "ciowo-kredytową beneficjenta wsparcia, na który zostanie przekazany grant MZG, grant OZE lub"
-    },
-    {
-     "type": "text",
-     "text": "finansowe wsparcie udzielane w ramach planu rozwojowego."
-    },
-    {
-     "type": "text",
-     "text": "II. Dodatkowe informacje dołączane do wniosku o grant MZG"
+     "type": "heading",
+     "label": "II.",
+     "text": "Dodatkowe informacje dołączane do wniosku o grant MZG"
     },
     {
      "type": "text",
@@ -2543,17 +1452,8 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "przedsięwzięcie spełnia warunki określone w rozporządzeniu Parlamentu Europejskiego i Rady",
-     "children": [
-      {
-       "type": "text",
-       "text": "(UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającym Instrument na rzecz Odbudowy"
-      },
-      {
-       "type": "text",
-       "text": "i Zwiększania Odporności (Dz. Urz. UE L 57 z 18.02.2021, str. 17, z późn. zm.[^2_3]);"
-      }
-     ]
+     "text": "przedsięwzięcie spełnia warunki określone w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającym Instrument na rzecz Odbudowy i Zwiększania Odporności (Dz. Urz. UE L 57 z 18.02.2021, str. 17, z późn. zm.[^2_3]);",
+     "children": []
     },
     {
      "type": "pkt",
@@ -2566,174 +1466,77 @@
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "dla inwestycji został określony scenariusz według normy PN-EN 15978 Zrównoważone obiekty",
+     "text": "dla inwestycji został określony scenariusz według normy PN-EN 15978 Zrównoważone obiekty budowlane – Ocena środowiskowych właściwości użytkowych budynków – Metoda obliczania (dalej: norma PN-EN 15978);",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "budowlane – Ocena środowiskowych właściwości użytkowych budynków – Metoda obliczania"
-    },
-    {
-     "type": "text",
-     "text": "(dalej: norma PN-EN 15978);"
     },
     {
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "w projekcie uwzględniono konieczność weryfikacji spełnienia przez urządzenia zainstalowane",
+     "text": "w projekcie uwzględniono konieczność weryfikacji spełnienia przez urządzenia zainstalowane poza lokalami mieszkalnymi parametrów określonych w ust. 7.2. pkt 3 załącznika I do rozporządzenia delegowanego Komisji (UE) 2021/2139 z dnia 4 czerwca 2021 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/852 poprzez ustanowienie technicznych kryteriów kwalifikacji służących określeniu warunków, na jakich dana działalność gospodarcza kwalifikuje się jako wnosząca istotny wkład w łagodzenie zmian klimatu lub w adaptację do zmian klimatu, a także określeniu, czy ta działalność gospodarcza nie wyrządza poważnych szkód względem żadnego z pozostałych celów środowiskowych (Dz. Urz. UE L 442 z 09.12.2021, str. 1, z późn. zm.[^3_3]), zwanego dalej „rozporządzeniem nr 2021/2139”;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "poza lokalami mieszkalnymi parametrów określonych w ust. 7.2. pkt 3 załącznika I do rozpo-"
-    },
-    {
-     "type": "text",
-     "text": "rządzenia delegowanego Komisji (UE) 2021/2139 z dnia 4 czerwca 2021 r. uzupełniającego"
-    },
-    {
-     "type": "text",
-     "text": "rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/852 poprzez ustanowienie tech-"
-    },
-    {
-     "type": "text",
-     "text": "nicznych kryteriów kwalifikacji służących określeniu warunków, na jakich dana działalność"
-    },
-    {
-     "type": "text",
-     "text": "gospodarcza kwalifikuje się jako wnosząca istotny wkład w łagodzenie zmian klimatu lub"
-    },
-    {
-     "type": "text",
-     "text": "w adaptację do zmian klimatu, a także określeniu, czy ta działalność gospodarcza nie wyrządza"
-    },
-    {
-     "type": "text",
-     "text": "poważnych szkód względem żadnego z pozostałych celów środowiskowych (Dz. Urz. UE L 442"
-    },
-    {
-     "type": "text",
-     "text": "z 09.12.2021, str. 1, z późn. zm.[^3_3]), zwanego dalej „rozporządzeniem nr 2021/2139”;"
     },
     {
      "type": "pkt",
      "num": "5",
      "path": "pkt_5",
-     "text": "projekty budynków i techniki konstrukcyjne wspomagają obieg zamknięty, w tym wskazują,",
+     "text": "projekty budynków i techniki konstrukcyjne wspomagają obieg zamknięty, w tym wskazują, w jaki sposób zapewniono wyższy poziom zasobooszczędności, możliwości dostosowania, elastyczności i możliwości demontażu w celu umożliwienia ponownego użycia i recyklingu;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "w jaki sposób zapewniono wyższy poziom zasobooszczędności, możliwości dostosowania,"
-    },
-    {
-     "type": "text",
-     "text": "elastyczności i możliwości demontażu w celu umożliwienia ponownego użycia i recyklingu;"
     },
     {
      "type": "pkt",
      "num": "6",
      "path": "pkt_6",
-     "text": "elementy budynków i materiały budowlane wykorzystane przy budowie, z którymi mieszkańcy",
+     "text": "elementy budynków i materiały budowlane wykorzystane przy budowie, z którymi mieszkańcy mogą mieć kontakt, spełniają warunki, o których mowa w ust. 7.1. pkt 5 zdanie drugie załącznika I do rozporządzenia nr 2021/2139;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "mogą mieć kontakt, spełniają warunki, o których mowa w ust. 7.1. pkt 5 zdanie drugie załącz-"
-    },
-    {
-     "type": "text",
-     "text": "nika I do rozporządzenia nr 2021/2139;"
     },
     {
      "type": "pkt",
      "num": "7",
      "path": "pkt_7",
-     "text": "beneficjent wsparcia nie otrzymał już finansowania na realizację zakresu prac zakładanego w ra-",
+     "text": "beneficjent wsparcia nie otrzymał już finansowania na realizację zakresu prac zakładanego w ramach realizacji przedsięwzięcia w ramach planu rozwojowego lub innych unijnych programów, instrumentów, funduszy w ramach budżetu Unii Europejskiej;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "mach realizacji przedsięwzięcia w ramach planu rozwojowego lub innych unijnych programów,"
-    },
-    {
-     "type": "text",
-     "text": "instrumentów, funduszy w ramach budżetu Unii Europejskiej;"
     },
     {
      "type": "pkt",
      "num": "8",
      "path": "pkt_8",
-     "text": "beneficjent wsparcia w ramach realizacji przedsięwzięcia przestrzega zasady niedyskryminacji",
+     "text": "beneficjent wsparcia w ramach realizacji przedsięwzięcia przestrzega zasady niedyskryminacji i równości szans ze względu na płeć;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "i równości szans ze względu na płeć;"
     },
     {
      "type": "pkt",
      "num": "9",
      "path": "pkt_9",
-     "text": "beneficjent wsparcia nie jest wykluczony z dofinansowania na podstawie art. 207 ustawy z dnia",
-     "children": [
-      {
-       "type": "text",
-       "text": "27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846)."
-      },
-      {
-       "type": "text",
-       "text": "III. Dodatkowe informacje dołączane do wniosku o grant OZE"
-      },
-      {
-       "type": "text",
-       "text": "A. Wnioskowana kwota grantu OZE (w zł)[^4_2]."
-      },
-      {
-       "type": "text",
-       "text": "B. Koszt netto i brutto zakupu, montażu lub budowy instalacji odnawialnego źródła energii (w zł)."
-      },
-      {
-       "type": "text",
-       "text": "C. Informacja, czy:"
-      }
-     ]
+     "text": "beneficjent wsparcia nie jest wykluczony z dofinansowania na podstawie art. 207 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846).",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Dodatkowe informacje dołączane do wniosku o grant OZE"
+    },
+    {
+     "type": "text",
+     "text": "A. Wnioskowana kwota grantu OZE (w zł)[^4_2]."
+    },
+    {
+     "type": "text",
+     "text": "B. Koszt netto i brutto zakupu, montażu lub budowy instalacji odnawialnego źródła energii (w zł). C. Informacja, czy:"
     },
     {
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "przedsięwzięcie spełnia warunki określone w rozporządzeniu Parlamentu Europejskiego i Rady",
-     "children": [
-      {
-       "type": "text",
-       "text": "(UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającym Instrument na rzecz Odbudowy"
-      },
-      {
-       "type": "text",
-       "text": "i Zwiększania Odporności;"
-      }
-     ]
+     "text": "przedsięwzięcie spełnia warunki określone w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającym Instrument na rzecz Odbudowy i Zwiększania Odporności;",
+     "children": []
     },
     {
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "przedsięwzięcie obejmuje zakup i montaż instalacji odnawialnego źródła energii, o której mowa",
+     "text": "przedsięwzięcie obejmuje zakup i montaż instalacji odnawialnego źródła energii, o której mowa w art. 2 pkt 13 lit. a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2024 r. poz. 1361, z późn. zm.[^5_2]), z wyłączeniem magazynu biogazu rolniczego, przyłączonej do sieci dystrybucyjnej za pośrednictwem wewnętrznej instalacji;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "w art. 2 pkt 13 lit. a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U."
-    },
-    {
-     "type": "text",
-     "text": "z 2024 r. poz. 1361, z późn. zm.[^5_2]), z wyłączeniem magazynu biogazu rolniczego, przyłączonej"
-    },
-    {
-     "type": "text",
-     "text": "do sieci dystrybucyjnej za pośrednictwem wewnętrznej instalacji;"
     },
     {
      "type": "pkt",
@@ -2753,110 +1556,58 @@
      "type": "pkt",
      "num": "5",
      "path": "pkt_5",
-     "text": "beneficjent wsparcia nie otrzymał już finansowania na realizację zakresu prac zakładanego",
+     "text": "beneficjent wsparcia nie otrzymał już finansowania na realizację zakresu prac zakładanego w ramach realizacji przedsięwzięcia w ramach planu rozwojowego lub innych unijnych programów, instrumentów, funduszy w ramach budżetu Unii Europejskiej;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "w ramach realizacji przedsięwzięcia w ramach planu rozwojowego lub innych unijnych"
-    },
-    {
-     "type": "text",
-     "text": "programów, instrumentów, funduszy w ramach budżetu Unii Europejskiej;"
     },
     {
      "type": "pkt",
      "num": "6",
      "path": "pkt_6",
-     "text": "beneficjent wsparcia w ramach realizacji przedsięwzięcia przestrzega zasady niedyskryminacji",
+     "text": "beneficjent wsparcia w ramach realizacji przedsięwzięcia przestrzega zasady niedyskryminacji i równości szans ze względu na płeć;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "i równości szans ze względu na płeć;"
     },
     {
      "type": "pkt",
      "num": "7",
      "path": "pkt_7",
-     "text": "beneficjent wsparcia nie jest wykluczony z dofinansowania na podstawie art. 207 ustawy z dnia",
+     "text": "beneficjent wsparcia nie jest wykluczony z dofinansowania na podstawie art. 207 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.",
      "children": [
-      {
-       "type": "text",
-       "text": "27 sierpnia 2009 r. o finansach publicznych."
-      },
       {
        "type": "text",
        "text": "D. Moc elektryczna i cieplna instalacji odnawialnego źródła energii (kW)."
       },
       {
        "type": "text",
-       "text": "E. Przewidywana roczna ilość energii elektrycznej lub ciepła wytwarzanych przez instalację odnawial-"
+       "text": "E. Przewidywana roczna ilość energii elektrycznej lub ciepła wytwarzanych przez instalację odnawialnego źródła energii (kWh/rok)."
       },
       {
        "type": "text",
-       "text": "nego źródła energii (kWh/rok)."
-      },
-      {
-       "type": "text",
-       "text": "F. Informacja o rodzaju instalacji odnawialnego źródła energii (panele fotowoltaiczne, kolektory"
-      },
-      {
-       "type": "text",
-       "text": "słoneczne, pompa ciepła, kocioł na biomasę albo inna; w przypadku wyboru opcji „inna” należy"
-      },
-      {
-       "type": "text",
-       "text": "wskazać rodzaj tej instalacji)."
-      },
-      {
-       "type": "text",
-       "text": "IV. Dodatkowe informacje dołączane do wniosku o finansowe wsparcie udzielane w ramach"
-      },
-      {
-       "type": "text",
-       "text": "planu rozwojowego"
-      },
-      {
-       "type": "text",
-       "text": "A. Wnioskowana kwota finansowego wsparcia udzielanego w ramach planu rozwojowego (w zł)[^6_2]."
-      },
-      {
-       "type": "text",
-       "text": "B. Informacje o tym, czy:"
+       "text": "F. Informacja o rodzaju instalacji odnawialnego źródła energii (panele fotowoltaiczne, kolektory słoneczne, pompa ciepła, kocioł na biomasę albo inna; w przypadku wyboru opcji „inna” należy wskazać rodzaj tej instalacji)."
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Dodatkowe informacje dołączane do wniosku o finansowe wsparcie udzielane w ramach planu rozwojowego"
+    },
+    {
+     "type": "text",
+     "text": "A. Wnioskowana kwota finansowego wsparcia udzielanego w ramach planu rozwojowego (w zł)[^6_2]. B. Informacje o tym, czy:"
     },
     {
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "planowany termin zakończenia realizacji przedsięwzięcia wynika z Krajowego Planu Odbu-",
+     "text": "planowany termin zakończenia realizacji przedsięwzięcia wynika z Krajowego Planu Odbudowy i Zwiększenia Odporności w ramach działania B.3.5.1. „Inwestycje w energooszczędne budownictwo mieszkaniowe dla gospodarstw domowych o niskich i średnich dochodach”;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "dowy i Zwiększenia Odporności w ramach działania B.3.5.1. „Inwestycje w energooszczędne"
-    },
-    {
-     "type": "text",
-     "text": "budownictwo mieszkaniowe dla gospodarstw domowych o niskich i średnich dochodach”;"
     },
     {
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "przedsięwzięcie spełnia warunki określone w rozporządzeniu Parlamentu Europejskiego i Rady",
-     "children": [
-      {
-       "type": "text",
-       "text": "(UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającym Instrument na rzecz Odbudowy"
-      },
-      {
-       "type": "text",
-       "text": "i Zwiększania Odporności;"
-      }
-     ]
+     "text": "przedsięwzięcie spełnia warunki określone w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającym Instrument na rzecz Odbudowy i Zwiększania Odporności;",
+     "children": []
     },
     {
      "type": "pkt",
@@ -2876,156 +1627,81 @@
      "type": "pkt",
      "num": "5",
      "path": "pkt_5",
-     "text": "dla inwestycji została przeprowadzona ocena śladu węglowego budynków w pełnym cyklu",
+     "text": "dla inwestycji została przeprowadzona ocena śladu węglowego budynków w pełnym cyklu życia, zgodnie z metodą opisaną w normie PN-EN 15978 – w przypadku budynków o powierzchni przekraczającej 5000 m² – w przypadku przedsięwzięć polegających na budowie budynku;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "życia, zgodnie z metodą opisaną w normie PN-EN 15978 – w przypadku budynków"
-    },
-    {
-     "type": "text",
-     "text": "o powierzchni przekraczającej 5000 m² – w przypadku przedsięwzięć polegających na budowie"
-    },
-    {
-     "type": "text",
-     "text": "budynku;"
     },
     {
      "type": "pkt",
      "num": "6",
      "path": "pkt_6",
-     "text": "obliczenia współczynnika globalnego ocieplenia w cyklu życia budynku zostaną udostępnione",
+     "text": "obliczenia współczynnika globalnego ocieplenia w cyklu życia budynku zostaną udostępnione na życzenie najemców budynku – w przypadku budynków o powierzchni przekraczającej 5000 m² – w przypadku przedsięwzięć polegających na budowie budynku;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "na życzenie najemców budynku – w przypadku budynków o powierzchni przekraczającej"
-    },
-    {
-     "type": "text",
-     "text": "5000 m² – w przypadku przedsięwzięć polegających na budowie budynku;"
     },
     {
      "type": "pkt",
      "num": "7",
      "path": "pkt_7",
-     "text": "w projekcie uwzględniono konieczność weryfikacji spełnienia przez urządzenia zainstalowane",
+     "text": "w projekcie uwzględniono konieczność weryfikacji spełnienia przez urządzenia zainstalowane poza lokalami mieszkalnymi parametrów określonych w ust. 7.1. pkt 3 lub 7.2. pkt 3 załącznika I do rozporządzenia nr 2021/2139;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "poza lokalami mieszkalnymi parametrów określonych w ust. 7.1. pkt 3 lub 7.2. pkt 3 załącznika I"
-    },
-    {
-     "type": "text",
-     "text": "do rozporządzenia nr 2021/2139;"
     },
     {
      "type": "pkt",
      "num": "8",
      "path": "pkt_8",
-     "text": "projekty budynków i techniki konstrukcyjne wspomagają obieg zamknięty, w tym wskazują,",
+     "text": "projekty budynków i techniki konstrukcyjne wspomagają obieg zamknięty, w tym wskazują, w jaki sposób zapewniono wyższy poziom zasobooszczędności, możliwości dostosowania, elastyczności i możliwości demontażu w celu umożliwienia ponownego użycia i recyklingu;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "w jaki sposób zapewniono wyższy poziom zasobooszczędności, możliwości dostosowania,"
-    },
-    {
-     "type": "text",
-     "text": "elastyczności i możliwości demontażu w celu umożliwienia ponownego użycia i recyklingu;"
     },
     {
      "type": "pkt",
      "num": "9",
      "path": "pkt_9",
-     "text": "elementy budynków i materiały budowlane wykorzystane przy budowie, z którymi mieszkańcy",
+     "text": "elementy budynków i materiały budowlane wykorzystane przy budowie, z którymi mieszkańcy mogą mieć kontakt, spełniają warunki, o których mowa w ust. 7.1. pkt 5 zdanie drugie załącznika I do rozporządzenia nr 2021/2139;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "mogą mieć kontakt, spełniają warunki, o których mowa w ust. 7.1. pkt 5 zdanie drugie załącz-"
-    },
-    {
-     "type": "text",
-     "text": "nika I do rozporządzenia nr 2021/2139;"
     },
     {
      "type": "pkt",
      "num": "10",
      "path": "pkt_10",
-     "text": "teren został poddany badaniom pod kątem potencjalnych zanieczyszczeń – w przypadku gdy",
+     "text": "teren został poddany badaniom pod kątem potencjalnych zanieczyszczeń – w przypadku gdy budynek wznoszony jest na terenie zdegradowanym – w przypadku przedsięwzięć polegających na budowie budynku;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "budynek wznoszony jest na terenie zdegradowanym – w przypadku przedsięwzięć polegających"
-    },
-    {
-     "type": "text",
-     "text": "na budowie budynku;"
     },
     {
      "type": "pkt",
      "num": "11",
      "path": "pkt_11",
-     "text": "dla inwestycji został przygotowany wykaz środków służących redukcji emisji hałasu, kurzu",
+     "text": "dla inwestycji został przygotowany wykaz środków służących redukcji emisji hałasu, kurzu i zanieczyszczeń w trakcie robót budowlanych lub konserwacyjnych;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "i zanieczyszczeń w trakcie robót budowlanych lub konserwacyjnych;"
     },
     {
      "type": "pkt",
      "num": "12",
      "path": "pkt_12",
-     "text": "beneficjent wsparcia nie otrzymał już finansowania na realizację zakresu prac zakładanego",
+     "text": "beneficjent wsparcia nie otrzymał już finansowania na realizację zakresu prac zakładanego w ramach realizacji przedsięwzięcia w ramach planu rozwojowego lub innych unijnych programów, instrumentów, funduszy w ramach budżetu Unii Europejskiej;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "w ramach realizacji przedsięwzięcia w ramach planu rozwojowego lub innych unijnych"
-    },
-    {
-     "type": "text",
-     "text": "programów, instrumentów, funduszy w ramach budżetu Unii Europejskiej;"
     },
     {
      "type": "pkt",
      "num": "13",
      "path": "pkt_13",
-     "text": "beneficjent wsparcia w ramach realizacji przedsięwzięcia przestrzega zasady niedyskryminacji",
+     "text": "beneficjent wsparcia w ramach realizacji przedsięwzięcia przestrzega zasady niedyskryminacji i równości szans ze względu na płeć;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "i równości szans ze względu na płeć;"
     },
     {
      "type": "pkt",
      "num": "14",
      "path": "pkt_14",
-     "text": "beneficjent wsparcia nie jest wykluczony z dofinansowania na podstawie art. 207 ustawy z dnia",
+     "text": "beneficjent wsparcia nie jest wykluczony z dofinansowania na podstawie art. 207 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.",
      "children": [
       {
        "type": "text",
-       "text": "27 sierpnia 2009 r. o finansach publicznych."
-      },
-      {
-       "type": "text",
-       "text": "C. Ep – wskaźnik rocznego zapotrzebowania na nieodnawialną energię pierwotną [kWh/(m²·rok)]."
-      },
-      {
-       "type": "text",
-       "text": "D. Powierzchnia pomieszczeń o regulowanej temperaturze powietrza (w m²)."
-      },
-      {
-       "type": "text",
-       "text": "V. Informacje o prawdziwości danych zawartych we wniosku, podpisane przez:"
+       "text": "C. Ep – wskaźnik rocznego zapotrzebowania na nieodnawialną energię pierwotną [kWh/(m²·rok)]. D. Powierzchnia pomieszczeń o regulowanej temperaturze powietrza (w m²)."
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "V.",
+     "text": "Informacje o prawdziwości danych zawartych we wniosku, podpisane przez:"
     },
     {
      "type": "pkt",
@@ -3052,20 +1728,8 @@
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "w przypadku jednoosobowej spółki gminnej, organizacji pozarządowej albo podmiotów, o których",
+     "text": "w przypadku jednoosobowej spółki gminnej, organizacji pozarządowej albo podmiotów, o których mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie – osobę lub osoby uprawnione do składania oświadczeń woli w imieniu spółki i organizacji.",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego"
-    },
-    {
-     "type": "text",
-     "text": "i o wolontariacie – osobę lub osoby uprawnione do składania oświadczeń woli w imieniu spółki"
-    },
-    {
-     "type": "text",
-     "text": "i organizacji."
     }
    ]
   },
@@ -3074,43 +1738,20 @@
    "body": [
     {
      "type": "text",
-     "text": "SZCZEGÓŁOWY ZAKRES INFORMACJI, JAKIE ZAWIERA WNIOSEK O FINANSOWE WSPARCIE W ZAKRESIE AKTUALIZACJI KWOTY FINANSOWEGO WSPARCIA"
+     "text": "SZCZEGÓŁOWY ZAKRES INFORMACJI, JAKIE ZAWIERA WNIOSEK O FINANSOWE WSPARCIE"
     },
     {
      "type": "text",
-     "text": "I. Dane wnioskodawcy"
+     "text": "W ZAKRESIE AKTUALIZACJI KWOTY FINANSOWEGO WSPARCIA"
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Dane wnioskodawcy"
     },
     {
      "type": "text",
-     "text": "A. Beneficjent wsparcia: gmina, jednoosobowa spółka gminna, której gmina powierzyła realizację"
-    },
-    {
-     "type": "text",
-     "text": "zadania własnego w zakresie zaspokajania potrzeb mieszkaniowych wspólnoty samorządowej,"
-    },
-    {
-     "type": "text",
-     "text": "z wyjątkiem społecznych inicjatyw mieszkaniowych albo zadania związanego z infrastrukturą"
-    },
-    {
-     "type": "text",
-     "text": "techniczną lub infrastrukturą społeczną, powiat, związek międzygminny, organizacja pozarządowa,"
-    },
-    {
-     "type": "text",
-     "text": "o której mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego"
-    },
-    {
-     "type": "text",
-     "text": "i o wolontariacie (Dz. U. z 2025 r. poz. 1338), zwana dalej „organizacją pozarządową”, podmiot,"
-    },
-    {
-     "type": "text",
-     "text": "o którym mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego"
-    },
-    {
-     "type": "text",
-     "text": "i o wolontariacie."
+     "text": "A. Beneficjent wsparcia: gmina, jednoosobowa spółka gminna, której gmina powierzyła realizację zadania własnego w zakresie zaspokajania potrzeb mieszkaniowych wspólnoty samorządowej, z wyjątkiem społecznych inicjatyw mieszkaniowych albo zadania związanego z infrastrukturą techniczną lub infrastrukturą społeczną, powiat, związek międzygminny, organizacja pozarządowa, o której mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338), zwana dalej „organizacją pozarządową”, podmiot, o którym mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie."
     },
     {
      "type": "text",
@@ -3118,135 +1759,50 @@
     },
     {
      "type": "text",
-     "text": "C. Adres, w tym adres do doręczeń elektronicznych[^1_4], o którym mowa w ustawie z dnia 18 listopada"
+     "text": "C. Adres, w tym adres do doręczeń elektronicznych[^1_4], o którym mowa w ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841)."
     },
     {
      "type": "text",
-     "text": "2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841)."
+     "text": "D. Numer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), a dla podmiotów innych niż gmina, powiat, związek międzygminny lub uczelnia publiczna numer KRS."
     },
     {
      "type": "text",
-     "text": "D. Numer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny w krajowym rejestrze"
+     "text": "E. Imię i nazwisko, służbowy numer telefonu oraz służbowy adres poczty elektronicznej osoby bezpośrednio prowadzącej sprawę."
     },
     {
      "type": "text",
-     "text": "urzędowym podmiotów gospodarki narodowej (REGON), a dla podmiotów innych niż gmina, powiat,"
+     "text": "F. W przypadku przedsięwzięć, o których mowa w art. 5 ust. 1 i art. 5c ust. 2 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2024 r. poz. 304 oraz z 2025 r. poz. 680 i 1077), zwanej dalej „ustawą” – nazwa, adres, w tym adres do doręczeń elektronicznych, o którym mowa w ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych[^1_4], numery REGON, NIP i KRS inwestora."
     },
     {
      "type": "text",
-     "text": "związek międzygminny lub uczelnia publiczna numer KRS."
+     "text": "G. Numer rachunku bankowego lub rachunku prowadzonego przez spółdzielczą kasę oszczędnościowo-kredytową beneficjenta wsparcia, na który zostanie przekazane finansowe wsparcie."
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Dane dotyczące realizowanego przedsięwzięcia"
     },
     {
      "type": "text",
-     "text": "E. Imię i nazwisko, służbowy numer telefonu oraz służbowy adres poczty elektronicznej osoby"
+     "text": "Informacja o oznakowaniu umowy o finansowe wsparcie, o której mowa w art. 12 ust. 1 ustawy (znak, data zawarcia)."
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Inne"
     },
     {
      "type": "text",
-     "text": "bezpośrednio prowadzącej sprawę."
+     "text": "A. Wnioskowana kwota finansowego wsparcia, o której mowa w art. 13 ust. 8 ustawy (w zł), w przypadku przedsięwzięć, o których mowa w art. 5c ustawy, również w podziale na poszczególne zadania własne gminy wymienione w art. 7 ust. 1 pkt 2, 3, 4–6, 8–10 i 12 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2025 r. poz. 1153 i 1436) lub zadania publiczne powiatu, o których mowa w art. 4 ust. 1 pkt 1–3, 6–8 i 12 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2025 r. poz. 1684)."
     },
     {
      "type": "text",
-     "text": "F. W przypadku przedsięwzięć, o których mowa w art. 5 ust. 1 i art. 5c ust. 2 ustawy z dnia 8 grudnia"
+     "text": "B. Zaktualizowana przewidywana struktura finansowania przedsięwzięcia, z podziałem na środki własne inwestora (w tym wartość gruntu stanowiącego własność albo będącego w użytkowaniu wieczystym inwestora, na którym jest realizowane przedsięwzięcie, w przypadku gdy z realizacją przedsięwzięcia jest związane zawarcie umowy, o której mowa w art. 5 ust. 2 ustawy) i środki własne beneficjenta wsparcia, wsparcie finansowe na podstawie ustawy, wsparcie ze środków Rządowego Funduszu Rozwoju Mieszkalnictwa, udzielane na podstawie art. 33l ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2025 r. poz. 1273) w brzmieniu obowiązującym w dniu 21 sierpnia 2025 r., oraz inne źródła (kwoty oraz udział procentowy)."
     },
     {
-     "type": "text",
-     "text": "2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2024 r. poz. 304"
-    },
-    {
-     "type": "text",
-     "text": "oraz z 2025 r. poz. 680 i 1077), zwanej dalej „ustawą” – nazwa, adres, w tym adres do doręczeń"
-    },
-    {
-     "type": "text",
-     "text": "elektronicznych, o którym mowa w ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych[^1_4],"
-    },
-    {
-     "type": "text",
-     "text": "numery REGON, NIP i KRS inwestora."
-    },
-    {
-     "type": "text",
-     "text": "G. Numer rachunku bankowego lub rachunku prowadzonego przez spółdzielczą kasę"
-    },
-    {
-     "type": "text",
-     "text": "oszczędnościowo-kredytową beneficjenta wsparcia, na który zostanie przekazane finansowe wsparcie."
-    },
-    {
-     "type": "text",
-     "text": "II. Dane dotyczące realizowanego przedsięwzięcia"
-    },
-    {
-     "type": "text",
-     "text": "Informacja o oznakowaniu umowy o finansowe wsparcie, o której mowa w art. 12 ust. 1 ustawy (znak,"
-    },
-    {
-     "type": "text",
-     "text": "data zawarcia)."
-    },
-    {
-     "type": "text",
-     "text": "III. Inne"
-    },
-    {
-     "type": "text",
-     "text": "A. Wnioskowana kwota finansowego wsparcia, o której mowa w art. 13 ust. 8 ustawy (w zł),"
-    },
-    {
-     "type": "text",
-     "text": "w przypadku przedsięwzięć, o których mowa w art. 5c ustawy, również w podziale na poszczególne"
-    },
-    {
-     "type": "text",
-     "text": "zadania własne gminy wymienione w art. 7 ust. 1 pkt 2, 3, 4–6, 8–10 i 12 ustawy z dnia 8 marca 1990 r."
-    },
-    {
-     "type": "text",
-     "text": "o samorządzie gminnym (Dz. U. z 2025 r. poz. 1153 i 1436) lub zadania publiczne powiatu, o których"
-    },
-    {
-     "type": "text",
-     "text": "mowa w art. 4 ust. 1 pkt 1–3, 6–8 i 12 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym"
-    },
-    {
-     "type": "text",
-     "text": "(Dz. U. z 2025 r. poz. 1684)."
-    },
-    {
-     "type": "text",
-     "text": "B. Zaktualizowana przewidywana struktura finansowania przedsięwzięcia, z podziałem na środki"
-    },
-    {
-     "type": "text",
-     "text": "własne inwestora (w tym wartość gruntu stanowiącego własność albo będącego w użytkowaniu"
-    },
-    {
-     "type": "text",
-     "text": "wieczystym inwestora, na którym jest realizowane przedsięwzięcie, w przypadku gdy z realizacją"
-    },
-    {
-     "type": "text",
-     "text": "przedsięwzięcia jest związane zawarcie umowy, o której mowa w art. 5 ust. 2 ustawy) i środki własne"
-    },
-    {
-     "type": "text",
-     "text": "beneficjenta wsparcia, wsparcie finansowe na podstawie ustawy, wsparcie ze środków Rządowego"
-    },
-    {
-     "type": "text",
-     "text": "Funduszu Rozwoju Mieszkalnictwa, udzielane na podstawie art. 33l ustawy z dnia 26 października"
-    },
-    {
-     "type": "text",
-     "text": "1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2025 r. poz. 1273) w brzmieniu"
-    },
-    {
-     "type": "text",
-     "text": "obowiązującym w dniu 21 sierpnia 2025 r., oraz inne źródła (kwoty oraz udział procentowy)."
-    },
-    {
-     "type": "text",
-     "text": "IV. Informacje o prawdziwości danych zawartych we wniosku, podpisane przez:"
+     "type": "heading",
+     "label": "IV.",
+     "text": "Informacje o prawdziwości danych zawartych we wniosku, podpisane przez:"
     },
     {
      "type": "pkt",
@@ -3273,20 +1829,8 @@
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "w przypadku jednoosobowej spółki gminnej, organizacji pozarządowej albo podmiotów, o których",
+     "text": "w przypadku jednoosobowej spółki gminnej, organizacji pozarządowej albo podmiotów, o których mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie – osobę lub osoby uprawnione do składania oświadczeń woli w imieniu spółki i organizacji;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego"
-    },
-    {
-     "type": "text",
-     "text": "i o wolontariacie – osobę lub osoby uprawnione do składania oświadczeń woli w imieniu spółki"
-    },
-    {
-     "type": "text",
-     "text": "i organizacji;"
     },
     {
      "type": "pkt",
@@ -3427,7 +1971,11 @@
    "body": [
     {
      "type": "text",
-     "text": "INFORMACJE DOŁĄCZANE DO ROZLICZENIA FAKTYCZNIE PONIESIONYCH KOSZTÓW PRZEDSIĘWZIĘCIA W PRZYPADKU FINANSOWEGO WSPARCIA UDZIELONEGO WRAZ Z GRANTEM MZG LUB W RAMACH PLANU ROZWOJOWEGO"
+     "text": "INFORMACJE DOŁĄCZANE DO ROZLICZENIA FAKTYCZNIE PONIESIONYCH KOSZTÓW PRZEDSIĘWZIĘCIA W PRZYPADKU FINANSOWEGO WSPARCIA UDZIELONEGO WRAZ Z GRANTEM MZG"
+    },
+    {
+     "type": "text",
+     "text": "LUB W RAMACH PLANU ROZWOJOWEGO"
     },
     {
      "type": "text",
@@ -3437,85 +1985,34 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "urządzenia związane z wodą, zainstalowane poza lokalami mieszkalnymi, spełniają warunki",
+     "text": "urządzenia związane z wodą, zainstalowane poza lokalami mieszkalnymi, spełniają warunki specyfikacji technicznej określone w dodatku E do załącznika I do rozporządzenia delegowanego Komisji (UE) 2021/2139 z dnia 4 czerwca 2021 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/852 poprzez ustanowienie technicznych kryteriów kwalifikacji służących określeniu warunków, na jakich dana działalność gospodarcza kwalifikuje się jako wnosząca istotny wkład w łagodzenie zmian klimatu lub w adaptację do zmian klimatu, a także określeniu, czy ta działalność gospodarcza nie wyrządza poważnych szkód względem żadnego z pozostałych celów środowiskowych (Dz. Urz. UE L 442 z 09.12.2021, str. 1, z późn. zm.[^1_6]), zwanego dalej „rozporządzeniem nr 2021/2139”;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "specyfikacji technicznej określone w dodatku E do załącznika I do rozporządzenia delegowanego"
-    },
-    {
-     "type": "text",
-     "text": "Komisji (UE) 2021/2139 z dnia 4 czerwca 2021 r. uzupełniającego rozporządzenie Parlamentu"
-    },
-    {
-     "type": "text",
-     "text": "Europejskiego i Rady (UE) 2020/852 poprzez ustanowienie technicznych kryteriów kwalifikacji"
-    },
-    {
-     "type": "text",
-     "text": "służących określeniu warunków, na jakich dana działalność gospodarcza kwalifikuje się jako"
-    },
-    {
-     "type": "text",
-     "text": "wnosząca istotny wkład w łagodzenie zmian klimatu lub w adaptację do zmian klimatu, a także"
-    },
-    {
-     "type": "text",
-     "text": "określeniu, czy ta działalność gospodarcza nie wyrządza poważnych szkód względem żadnego"
-    },
-    {
-     "type": "text",
-     "text": "z pozostałych celów środowiskowych (Dz. Urz. UE L 442 z 09.12.2021, str. 1, z późn. zm.[^1_6]),"
-    },
-    {
-     "type": "text",
-     "text": "zwanego dalej „rozporządzeniem nr 2021/2139”;"
     },
     {
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "co najmniej 70 % masy innych niż niebezpieczne odpadów z budowy i rozbiórki wytwarzanych",
+     "text": "co najmniej 70 % masy innych niż niebezpieczne odpadów z budowy i rozbiórki wytwarzanych na placu budowy jest gotowe do ponownego użycia, recyklingu i innych procesów odzysku materiału, zgodnie z ust. 7.1. pkt 4 załącznika I do rozporządzenia nr 2021/2139;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "na placu budowy jest gotowe do ponownego użycia, recyklingu i innych procesów odzysku"
-    },
-    {
-     "type": "text",
-     "text": "materiału, zgodnie z ust. 7.1. pkt 4 załącznika I do rozporządzenia nr 2021/2139;"
     },
     {
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "ograniczono wytwarzanie odpadów w procesach związanych z budową i rozbiórką, zgodnie",
+     "text": "ograniczono wytwarzanie odpadów w procesach związanych z budową i rozbiórką, zgodnie z ust. 7.1. pkt 4 załącznika I do rozporządzenia nr 2021/2139;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "z ust. 7.1. pkt 4 załącznika I do rozporządzenia nr 2021/2139;"
     },
     {
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "w trakcie robót budowlanych lub konserwacyjnych wprowadzono środki służące redukcji emisji",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "hałasu, kurzu i zanieczyszczeń."
-    },
-    {
-     "type": "text",
-     "text": "B. W przypadku budowy budynków o powierzchni przekraczającej 5000 m² informacja o sporządzeniu"
-    },
-    {
-     "type": "text",
-     "text": "raportów z badań, o których mowa w ust. 7.1.2 załącznika I do rozporządzenia 2021/2139."
+     "text": "w trakcie robót budowlanych lub konserwacyjnych wprowadzono środki służące redukcji emisji hałasu, kurzu i zanieczyszczeń.",
+     "children": [
+      {
+       "type": "text",
+       "text": "B. W przypadku budowy budynków o powierzchni przekraczającej 5000 m² informacja o sporządzeniu raportów z badań, o których mowa w ust. 7.1.2 załącznika I do rozporządzenia 2021/2139."
+      }
+     ]
     }
    ]
   }

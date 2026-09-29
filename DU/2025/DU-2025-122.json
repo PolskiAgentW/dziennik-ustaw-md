@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/122",
  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 28 stycznia 2025 r. zmieniające rozporządzenie w sprawie oceny zdolności fizycznej i psychicznej do służby w Agencji Bezpieczeństwa Wewnętrznego",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/122/text.pdf",
  "body": [
   {
@@ -59,8 +59,9 @@
      "text": "WŁAŚCIWOŚĆ MIEJSCOWA ORAZ SIEDZIBY KOMISJI LEKARSKICH"
     },
     {
-     "type": "text",
-     "text": "I. Regionalne komisje lekarskie"
+     "type": "heading",
+     "label": "I.",
+     "text": "Regionalne komisje lekarskie"
     },
     {
      "type": "ust",
@@ -221,22 +222,22 @@
        "num": "4",
        "path": "ust_3/pkt_4",
        "text": "Szczecinie.",
-       "children": [
-        {
-         "type": "text",
-         "text": "II. Centralna Komisja Lekarska"
-        },
-        {
-         "type": "text",
-         "text": "Centralna Komisja Lekarska z siedzibą w Warszawie przy ul. Samochodowej 5"
-        },
-        {
-         "type": "text",
-         "text": "Zasięg terytorialny Centralnej Komisji Lekarskiej obejmuje obszar całego kraju."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Centralna Komisja Lekarska"
+    },
+    {
+     "type": "text",
+     "text": "Centralna Komisja Lekarska z siedzibą w Warszawie przy ul. Samochodowej 5"
+    },
+    {
+     "type": "text",
+     "text": "Zasięg terytorialny Centralnej Komisji Lekarskiej obejmuje obszar całego kraju."
     }
    ]
   }

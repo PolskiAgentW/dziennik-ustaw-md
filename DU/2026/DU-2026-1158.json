@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1158",
  "title": "Obwieszczenie Ministra Finansów i Gospodarki z dnia 31 lipca 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie przekazywania Komisji Nadzoru Finansowego informacji przez firmy inwestycyjne, banki państwowe prowadzące działalność maklerską, banki, o których mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, i banki powiernicze",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1158/text.pdf",
  "body": [
   {
@@ -7332,8 +7332,9 @@
      "text": "Okres sprawozdawczy:"
     },
     {
-     "type": "text",
-     "text": "I. Informacje ogólne."
+     "type": "heading",
+     "label": "I.",
+     "text": "Informacje ogólne."
     },
     {
      "type": "ust",
@@ -7906,8 +7907,9 @@
      "text": "Okres sprawozdawczy:"
     },
     {
-     "type": "text",
-     "text": "I. Informacje ogólne:"
+     "type": "heading",
+     "label": "I.",
+     "text": "Informacje ogólne:"
     },
     {
      "type": "ust",
@@ -8458,8 +8460,9 @@
      "text": "Okres sprawozdawczy:"
     },
     {
-     "type": "text",
-     "text": "I. Liczba pracowników zatrudnionych w jednostce organizacyjnej banku powierniczego prowadzącej działalność powierniczą lub w zakresie uczestnictwa w zawieraniu transakcji pożyczek papierów wartościowych (jednostka banku), według stanu na ostatni dzień okresu sprawozdawczego. II. Funkcja zgodności z przepisami."
+     "type": "heading",
+     "label": "I.",
+     "text": "Liczba pracowników zatrudnionych w jednostce organizacyjnej banku powierniczego prowadzącej działalność powierniczą lub w zakresie uczestnictwa w zawieraniu transakcji pożyczek papierów wartościowych (jednostka banku), według stanu na ostatni dzień okresu sprawozdawczego. II. Funkcja zgodności z przepisami."
     },
     {
      "type": "ust",
@@ -8828,8 +8831,9 @@
      "text": "Okres sprawozdawczy:"
     },
     {
-     "type": "text",
-     "text": "I. Informacje ogólne."
+     "type": "heading",
+     "label": "I.",
+     "text": "Informacje ogólne."
     },
     {
      "type": "ust",
@@ -9854,8 +9858,9 @@
      "text": "Data przekazania:"
     },
     {
-     "type": "text",
-     "text": "I. Nabywanie i zbywanie instrumentów finansowych (z wyłączeniem instrumentów pochodnych)."
+     "type": "heading",
+     "label": "I.",
+     "text": "Nabywanie i zbywanie instrumentów finansowych (z wyłączeniem instrumentów pochodnych)."
     },
     {
      "type": "text",
@@ -11025,18 +11030,18 @@
        "num": "4",
        "path": "ust_2/pkt_4",
        "text": "produkty strukturyzowane niebędące papierami wartościowymi; 5) inne instrumenty finansowe niebędące papierami wartościowymi ani instrumentami pochodnymi.",
-       "children": [
-        {
-         "type": "text",
-         "text": "II. Nabywanie i zbywanie instrumentów pochodnych."
-        },
-        {
-         "type": "text",
-         "text": "CZĘŚĆ A – wartość nabytych i zbytych instrumentów pochodnych oraz liczba klientów – instrumenty krajowe i zagraniczne (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów)."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Nabywanie i zbywanie instrumentów pochodnych."
+    },
+    {
+     "type": "text",
+     "text": "CZĘŚĆ A – wartość nabytych i zbytych instrumentów pochodnych oraz liczba klientów – instrumenty krajowe i zagraniczne (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów)."
     },
     {
      "type": "ust",
@@ -11447,18 +11452,18 @@
        "num": "8",
        "path": "ust_4/pkt_8",
        "text": "pozostałe pochodne instrumenty finansowe.",
-       "children": [
-        {
-         "type": "text",
-         "text": "III. Oferowanie i emisje instrumentów finansowych"
-        },
-        {
-         "type": "text",
-         "text": "CZĘŚĆ A – oferowanie i emisje instrumentów finansowych."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Oferowanie i emisje instrumentów finansowych"
+    },
+    {
+     "type": "text",
+     "text": "CZĘŚĆ A – oferowanie i emisje instrumentów finansowych."
     },
     {
      "type": "ust",
@@ -11937,12 +11942,12 @@
      "num": "25",
      "path": "ust_25",
      "text": "Dodatkowe objaśnienia.",
-     "children": [
-      {
-       "type": "text",
-       "text": "IV. Tytuły uczestnictwa w instytucjach wspólnego inwestowania – z wyjątkiem certyfikatów inwestycyjnych i tytułów uczestnictwa funduszy typu Exchange Traded Fund (ETF)."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Tytuły uczestnictwa w instytucjach wspólnego inwestowania – z wyjątkiem certyfikatów inwestycyjnych i tytułów uczestnictwa funduszy typu Exchange Traded Fund (ETF)."
     },
     {
      "type": "ust",
@@ -12048,12 +12053,12 @@
      "num": "13",
      "path": "ust_13",
      "text": "Dodatkowe objaśnienia.",
-     "children": [
-      {
-       "type": "text",
-       "text": "V. Umowy, klienci, rachunki CZĘŚĆ A – umowy o świadczenie usług, o których mowa w art. 69 ustawy (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów)."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "V.",
+     "text": "Umowy, klienci, rachunki CZĘŚĆ A – umowy o świadczenie usług, o których mowa w art. 69 ustawy (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów)."
     },
     {
      "type": "ust",
@@ -12238,12 +12243,12 @@
      "num": "3",
      "path": "ust_3",
      "text": "Dodatkowe objaśnienia.",
-     "children": [
-      {
-       "type": "text",
-       "text": "VI. Dane dotyczące agentów firm inwestycyjnych."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "VI.",
+     "text": "Dane dotyczące agentów firm inwestycyjnych."
     },
     {
      "type": "ust",
@@ -12284,14 +12289,14 @@
        "num": "2",
        "path": "ust_5/pkt_2",
        "text": "wynagrodzenie związane z klientami pozyskanymi w bieżącym okresie. 6. Dodatkowe objaśnienia.",
-       "children": [
-        {
-         "type": "text",
-         "text": "VII. Dane dotyczące czynności zleconych na podstawie art. 79 ust. 2b ustawy."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "VII.",
+     "text": "Dane dotyczące czynności zleconych na podstawie art. 79 ust. 2b ustawy."
     },
     {
      "type": "ust",
@@ -12319,12 +12324,12 @@
      "num": "4",
      "path": "ust_4",
      "text": "Wartość wynagrodzenia podmiotu, któremu zlecono czynności, o których mowa w pkt 3. 5. Dodatkowe objaśnienia.",
-     "children": [
-      {
-       "type": "text",
-       "text": "VIII. Lokaty strukturyzowane."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "VIII.",
+     "text": "Lokaty strukturyzowane."
     },
     {
      "type": "ust",
@@ -12394,12 +12399,12 @@
      "num": "10",
      "path": "ust_10",
      "text": "Dodatkowe objaśnienia.",
-     "children": [
-      {
-       "type": "text",
-       "text": "IX. Produkty energetyczne będące przedmiotem obrotu hurtowego na OTF, o których mowa w art. 2 ust. 1 pkt 2 lit. e ustawy."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "IX.",
+     "text": "Produkty energetyczne będące przedmiotem obrotu hurtowego na OTF, o których mowa w art. 2 ust. 1 pkt 2 lit. e ustawy."
     },
     {
      "type": "ust",
@@ -12448,12 +12453,12 @@
      "num": "7",
      "path": "ust_7",
      "text": "Dodatkowe objaśnienia.",
-     "children": [
-      {
-       "type": "text",
-       "text": "X. PRIIP niebędące instrumentami finansowymi – z wyłączeniem lokat strukturyzowanych."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "X.",
+     "text": "PRIIP niebędące instrumentami finansowymi – z wyłączeniem lokat strukturyzowanych."
     },
     {
      "type": "ust",

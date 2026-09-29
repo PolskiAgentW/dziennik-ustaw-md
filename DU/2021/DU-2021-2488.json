@@ -1,7 +1,7 @@
 {
  "eli": "DU/2021/2488",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 28 grudnia 2021 r. w sprawie formularza Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia dla inwestycji pozostających bez wpływu na zakres udzielanych świadczeń opieki zdrowotnej",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2021/2488/text.pdf",
  "body": [
   {
@@ -136,8 +136,9 @@
      "text": "Formularz Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia dla inwestycji pozostających bez wpływu na zakres udzielanych świadczeń opieki zdrowotnej"
     },
     {
-     "type": "text",
-     "text": "I. Informacje o inwestycji"
+     "type": "heading",
+     "label": "I.",
+     "text": "Informacje o inwestycji"
     },
     {
      "type": "ust",
@@ -284,120 +285,123 @@
      "num": "5",
      "path": "ust_5",
      "text": "Wybór 1. Czy planowana inwestycja ma wpływ na zakres udzielanych świadczeń opieki zdrowotnej? Lista rozwijana TAK/ NIE zakresu 2. Wybór dziedziny medycyny, w której 1. Dziedzina medycyny Lista rozwijana udzielanych realizowana będzie inwestycja 2. Szacunkowa wartość dziedziny medycyny świadczeń 3. Procentowa wartość dziedziny medycyny Punkt wypełniany automatycznie opieki 4. Skrótowy opis rzeczowy inwestycji w danej zdrowotnej dziedzinie medycyny i dziedzin 3. Ogółem wartość dziedzin medycyny Punkt wypełniany automatycznie medycyny, w których 4. Ogółem procentowa wartość dziedziny medycyny Punkt wypełniany automatycznie inwestycja będzie realizowana",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Kryteria oceny inwestycji"
+    },
+    {
+     "type": "text",
+     "text": "Kryteria Ocena podmiotu wnioskującego"
+    },
+    {
+     "type": "text",
+     "text": "Kryterium oceny Interpretacja i wyjaśnienie znaczenia kryterium Waga Wynik Lp. Ocena Uzasadnienie inwestycji oraz sposobu oceny inwestycji kryterium kryterium"
+    },
+    {
+     "type": "text",
+     "text": "W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Stosowane technologie medyczne charakteryzują się różną wpłynie na skutecznością. Szerokie wdrożenie metod diagnostyki lub leczenia poprawę o szczególnie wysokiej skuteczności klinicznej przełoży się na efektów znaczną poprawę stanu zdrowia w populacji pacjentów na danym 1 zdrowotnych obszarze. Najwyższe oceny należy przyznać inwestycjom 1,0 uzyskiwanych zakładającym kompleksowość opieki zdrowotnej, z zastosowaniem w populacji optymalnych metod diagnostyki lub leczenia. pacjentów na danym obszarze? W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Należy ocenić i uzasadnić, w jakim stopniu inwestycja przyczyni się wpłynie na do poprawy w szczególności: poprawę jakości 1) kompleksowości opieki – zapewnienia całego procesu opieki terapeutycznego w jednym podmiocie; zdrowotnej? 2) zastosowania optymalnych metod diagnostyki lub leczenia; 2 1,0 3) ciągłości opieki – zapewnienia całego procesu terapeutycznego bez przerywania procesu tej opieki, szczególnie przy przenoszeniu pacjenta pomiędzy podmiotami;"
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "interdyscyplinarności – zaangażowania różnych osób, w szczególności wykonujących zawód medyczny, w proces diagnostyki i leczenia. Czy podmiot Możliwe odpowiedzi to „TAK” (10 pkt) albo „NIE\" (0 pkt). posiada Czy podmiot posiada aktualny certyfikat akredytacyjny zgodnie akredytację z ustawą z dnia 6 listopada 2008 r. o akredytacji w ochronie zdrowia 3 Ministra (Dz. U. z 2016 r. poz. 2135). W przypadku braku tego certyfikatu 0,4 Zdrowia? należy przyjąć „NIE”. W przypadku inwestycji dotyczących realizacji świadczeń gwarantowanych z zakresu innego niż lecznictwo szpitalne należy przyjąć „TAK”.",
      "children": [
       {
        "type": "text",
-       "text": "II. Kryteria oceny inwestycji"
-      },
-      {
-       "type": "text",
-       "text": "Kryteria Ocena podmiotu wnioskującego"
-      },
-      {
-       "type": "text",
-       "text": "Kryterium oceny Interpretacja i wyjaśnienie znaczenia kryterium Waga Wynik Lp. Ocena Uzasadnienie inwestycji oraz sposobu oceny inwestycji kryterium kryterium"
-      },
-      {
-       "type": "text",
-       "text": "W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Stosowane technologie medyczne charakteryzują się różną wpłynie na skutecznością. Szerokie wdrożenie metod diagnostyki lub leczenia poprawę o szczególnie wysokiej skuteczności klinicznej przełoży się na efektów znaczną poprawę stanu zdrowia w populacji pacjentów na danym 1 zdrowotnych obszarze. Najwyższe oceny należy przyznać inwestycjom 1,0 uzyskiwanych zakładającym kompleksowość opieki zdrowotnej, z zastosowaniem w populacji optymalnych metod diagnostyki lub leczenia. pacjentów na danym obszarze? W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Należy ocenić i uzasadnić, w jakim stopniu inwestycja przyczyni się wpłynie na do poprawy w szczególności: poprawę jakości 1) kompleksowości opieki – zapewnienia całego procesu opieki terapeutycznego w jednym podmiocie; zdrowotnej? 2) zastosowania optymalnych metod diagnostyki lub leczenia; 2 1,0 3) ciągłości opieki – zapewnienia całego procesu terapeutycznego bez przerywania procesu tej opieki, szczególnie przy przenoszeniu pacjenta pomiędzy podmiotami;"
-      },
-      {
-       "type": "pkt",
-       "num": "4",
-       "path": "ust_5/pkt_4",
-       "text": "interdyscyplinarności – zaangażowania różnych osób, w szczególności wykonujących zawód medyczny, w proces diagnostyki i leczenia. Czy podmiot Możliwe odpowiedzi to „TAK” (10 pkt) albo „NIE\" (0 pkt). posiada Czy podmiot posiada aktualny certyfikat akredytacyjny zgodnie akredytację z ustawą z dnia 6 listopada 2008 r. o akredytacji w ochronie zdrowia 3 Ministra (Dz. U. z 2016 r. poz. 2135). W przypadku braku tego certyfikatu 0,4 Zdrowia? należy przyjąć „NIE”. W przypadku inwestycji dotyczących realizacji świadczeń gwarantowanych z zakresu innego niż lecznictwo szpitalne należy przyjąć „TAK”.",
-       "children": [
-        {
-         "type": "text",
-         "text": "W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Oszacowanie powinno być przeprowadzone w kontekście realizacji wpłynie na oczekiwań pacjentów i ich rodzin oraz z uwzględnieniem czynników poprawę wpływających na satysfakcję pacjentów i ich rodzin. W ramach 4 komfortu oceny wpływu na komfort należy uwzględnić warunki lokalowe, 1,0 pacjentów i ich udogodnienia związane z lokalizacją inwestycji (czy łatwo dojechać), rodzin? udogodnienia dla osób niepełnosprawnych, parking dla gości, ewentualne zapewnienie warunków hotelowych dla rodzin (szczególnie w przypadku pediatrii). W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Należy ocenić i uzasadnić, w jakim stopniu inwestycja poprawia wpłynie na spełnienie praw pacjentów, w szczególności w zakresie: 5 poprawę 1) zapewnienia prawa pacjenta do świadczeń zdrowotnych 0,4 zapewnienia odpowiadających wymaganiom aktualnej wiedzy medycznej; praw pacjenta? 2) poszanowania intymności i godności;"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "ust_5/pkt_3",
-       "text": "prawa do umierania w spokoju i godności.",
-       "children": [
-        {
-         "type": "text",
-         "text": "W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Należy wskazać, w jaki sposób, i uzasadnić, w jakim stopniu zmniejszy ryzyko inwestycja wpłynie na mniejsze ryzyko wystąpienia zdarzeń 6 zdarzeń epidemiologicznych (np. zakażenia wewnątrzszpitalne, jatrogenne). 1,0 epidemio- W przypadku inwestycji pozostających bez wpływu na zmniejszenie logicznych? ryzyka zdarzeń epidemiologicznych należy przyjąć 0 pkt. W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Należy ocenić i uzasadnić stopień, w jakim inwestycja odpowiada odpowiada trendom demograficznym na danym obszarze. W przypadku 7 trendom inwestycji w zakresie geriatrii, opieki długoterminowej, paliatywnej 1,0 demograficznym? lub hospicyjnej należy przyjąć 10 pkt."
-        },
-        {
-         "type": "text",
-         "text": "Czy inwestycja Możliwe odpowiedzi to „TAK” (10 pkt) albo „NIE” (0 pkt). wpłynie na Należy wziąć pod uwagę faktyczne zmniejszenie kosztów opieki zmniejszenie zdrowotnej, w szczególności z powodu: ogólnych 1) zastosowania bardziej efektywnej technologii medycznej; kosztów opieki 2) przesunięcia miejsca wykonywania świadczeń opieki zdrowotnej zdrowotnej na z lecznictwa szpitalnego do ambulatoryjnej opieki 8 danym obszarze? specjalistycznej, zwanej dalej „AOS”; 0,6 3) obniżenia kosztów diagnostyki. Ocena jest dokonywana na podstawie podanego we wniosku przewidywanego zmniejszenia kosztów opieki zdrowotnej zestawionego z kosztami inwestycji. Należy oszacować, tj. przedstawić dane liczbowe, w jakim stopniu inwestycja wpływa na zmniejszenie ogólnych kosztów opieki zdrowotnej."
-        },
-        {
-         "type": "text",
-         "text": "Czy koszt Możliwe odpowiedzi to „TAK” (10 pkt) albo „NIE” (0 pkt). inwestycji jest W przypadku braku podobnych realizowanych inwestycji albo uzasadniony podobnych zrealizowanych inwestycji można odpowiedzieć „TAK”, w porównaniu jeżeli zostanie przeprowadzona i załączona analiza zawierająca do podobnych informacje umożliwiające udzielenie odpowiedzi twierdzącej. Oceny 9 0,4 realizowanych nie należy zawężać do podobnych inwestycji w obszarze jej inwestycji albo oddziaływania lub województwie. podobnych zrealizowanych inwestycji? W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Należy ocenić i uzasadnić, w jakim stopniu inwestycja przyczyni się wpłynie do zmniejszenia obciążeń administracyjnych personelu, i wskazać, na zmniejszenie w jaki sposób (np. systemy informatyczne zmniejszające obciążeń zapotrzebowanie na pracę, automatyzacja procesu rejestracji). 10 administracyjnych W przypadku inwestycji pozostających bez wpływu na obciążenia 0,7 personelu? administracyjne personelu albo je zwiększających należy przyjąć 0 pkt."
-        },
-        {
-         "type": "text",
-         "text": "W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Należy ocenić i uzasadnić, czy inwestycja wpłynie na optymalizację wpłynie wykorzystania i rozmieszczenia osób wykonujących zawód na optymalizację medyczny, np. wynikającą z wielkości oddziału (odpowiednia wykorzystania wielkość oddziału zapewnia poprawę wskaźnika efektywności i rozmieszczenia wykorzystania opieki pielęgniarskiej lub lekarskiej). W przypadku 11 obecnie gdy inwestycja nie wpływa na wykorzystanie i rozmieszczenie 0,7 zatrudnionych obecnie zatrudnionych osób wykonujących zawód medyczny, należy w podmiocie przyjąć 0 pkt. Należy szczegółowo uzasadnić. osób wykonujących zawód medyczny? W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Należy zwrócić uwagę na charakter (jednostajność) i nasilenie wpłynie na obciążeń osób wykonujących zawód medyczny oraz określić, jak ergonomię pracy inwestycja wpłynie na ten problem. Jeżeli inwestycja nie uwzględnia 12 0,4 osób wpływu na ergonomię, należy przyjąć 0 pkt. wykonujących zawód medyczny? Czy inwestycja Możliwe odpowiedzi to „TAK” (10 pkt) albo „NIE” (0 pkt). służy poprawie Odpowiedzi „TAK” udziela się wyłącznie wtedy, gdy inwestycja 13 infrastruktury obejmuje swoim zakresem rozwój infrastruktury 0,5 telekomunikacyj- telekomunikacyjnej, telekomunikacyjnych urządzeń końcowych nej podmiotu? i służy poprawie zdolności komunikacyjnych podmiotu. Czy inwestycja Możliwe odpowiedzi to \"TAK\" (10 pkt) albo \"NIE\" (0 pkt). pozwoli obniżyć Należy określić, czy inwestycja pozwoli obniżyć bieżące koszty koszty funkcjonowania zarówno w okresie gwarancji jak i po tym okresie. 14 operacyjne 1,0 podmiotu medycznego?"
-        },
-        {
-         "type": "text",
-         "text": "Czy inwestycja Możliwe odpowiedzi to „TAK” (10 pkt) albo „NIE” (0 pkt). wynika Odpowiedzi „TAK\" udziela się wyłącznie wtedy, gdy zakres z konieczności inwestycji odpowiada wyłącznie obowiązkowi dostosowania 15 dostosowania do podmiotu do obowiązujących przepisów np. sanitarnych lub 1,0 obowiązujących przeciwpożarowych. przepisów prawa? W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja będzie Należy ocenić i uzasadnić stopień, w jakim inwestycja wpłynie poprawiała na np. niską emisyjność, energooszczędność, oszczędność wody, energooszczędność obniżając docelowo kosztochłonność tych elementów. 16 i sprzyjała 0,7 rozwiązaniom proekologicznym?"
-        },
-        {
-         "type": "text",
-         "text": "Jaki jest Czas wskazywany jest na podstawie informacji zawartych w polach Punkt wypeł niany przewidziany I.4.1.4 oraz I.4.1.5 wniosku. Minimalny czas wynosi 1 miesiąc. Współczynnik automatycznie czas korygujący 17 na inwestycję? czas realizacji – 6%"
-        },
-        {
-         "type": "text",
-         "text": "W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Należy ocenić i uzasadnić, w jakim stopniu inwestycja daje szansę wpłynie na lub spowoduje uzyskanie nowych kwalifikacji przez osoby podniesienie wykonujące zawód medyczny. W przypadku gdy inwestycja nie 18 kwalifikacji osób dotyczy tego kryterium, należy przyjąć 0 pkt. 0,2 wykonujących zawód medyczny?"
-        },
-        {
-         "type": "text",
-         "text": "Czy inwestycja Możliwe odpowiedzi to „TAK” (10 pkt) albo „NIE” (0 pkt). odpowiada Odpowiedzi „TAK” udziela się wyłącznie wtedy, gdy inwestycja mapie potrzeb całkowicie lub w zasadniczej części (rozumianej jako co najmniej zdrowotnych? 70% wartości inwestycji) wpisuje się w mapę potrzeb zdrowotnych. 19 Należy odnieść się w sposób dokładny do mapy potrzeb 1,0 zdrowotnych w części dla danego województwa. Należy wskazać działania, które dzięki danej inwestycji będą realizowane. Jeśli dany rodzaj inwestycji (np. mały sprzęt typu USG) nie jest szczegółowo analizowany w mapie potrzeb zdrowotnych, należy przyjąć „TAK\"."
-        },
-        {
-         "type": "text",
-         "text": "Czy inwestycja Możliwe odpowiedzi to „TAK” (10 pkt) albo „NIE” (0 pkt). odpowiada Odpowiedzi „TAK” udziela się wyłącznie wtedy, gdy inwestycja krajowemu lub wpisuje się w plan transformacji całkowicie lub w zasadniczej części wojewódzkiemu (rozumianej jako co najmniej 70% wartości inwestycji). Należy planowi odnieść się w sposób dokładny do planów transformacji transformacji? przygotowanych dla danego województwa, ze wskazaniem działań, które dzięki danej inwestycji będą realizowane. Jeżeli inwestycja nie jest zawarta w krajowym lub wojewódzkim planie transformacji, a dotyczy: robót budowlanych z wyłączeniem budowy, modernizacji, termomodernizacji, prac konserwatorskich czy restauratorskich, realizacji inwestycji, która wynika z konieczności dostosowania do rozporządzenia Ministra Zdrowia z dnia 26 marca 2019 r. w sprawie 20 szczegółowych wymagań, jakim powinny odpowiadać 1,0 pomieszczenia i urządzenia podmiotu wykonującego działalność leczniczą (Dz. U. poz. 595, z późn. zm.) i przepisów przeciwpożarowych zawartych w ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2021 r. poz. 869) oraz szczegółowych wytycznych znajdujących się także w rozporządzeniach do ww. ustawy, ponadto realizacji inwestycji związanych ze stacją uzdatniania wody, z wymianą dźwigów, czy remontów pomieszczeń technicznych, a także realizacji innych inwestycji w zakresie infrastruktury obiektów budowlanych (z wyłączeniem budowy) i infrastruktury technicznej niezbędnej do funkcjonowania podmiotu leczniczego, należy przyjąć „TAK”."
-        },
-        {
-         "type": "text",
-         "text": "W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Należy ocenić i uzasadnić, w jakim stopniu inwestycja odpowiada wpłynie na czas na obiektywnie istniejące potrzeby zdrowotne oraz służy oczekiwania na mierzalnemu skróceniu czasu oczekiwania na udzielenie 21 udzielenie świadczenia opieki zdrowotnej (wymagane podanie danych 0,5 świadczenia liczbowych). W przypadku inwestycji pozostających bez wpływu na opieki czas oczekiwania na udzielenie świadczenia opieki zdrowotnej zdrowotnej? należy przyjąć 0 pkt."
-        },
-        {
-         "type": "text",
-         "text": "W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Należy ocenić i uzasadnić, w jakim stopniu inwestycja umożliwi wpłynie skrócenie realizacji świadczenia opieki zdrowotnej i wskazać, w jaki na skrócenie sposób. W przypadku inwestycji pozostających bez wpływu na czas 22 0,3 czasu realizacji realizacji świadczeń oraz wydłużających czas realizacji świadczeń świadczenia należy przyjąć 0 pkt. opieki zdrowotnej? W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Na podstawie przeglądu rekomendacji towarzystw naukowych wpisuje się polskich lub zagranicznych należy określić zgodność inwestycji z w rekomendacje tymi rekomendacjami. Przeglądu można dokonać z wykorzystaniem towarzystw powszechnie dostępnych wyszukiwarek specjalistycznych takich jak: naukowych https://www.ahrq.gov/gam/index.html, polskich lub https://www.tripdatabase.com/, 23 zagranicznych https://www.ncbi.nlm.nih.gov/pubmed/. 0,2 dotyczących W uzasadnieniu należy wskazać adresy stron internetowych rozwoju danej podmiotów, na których rekomendacje powołuje się wnioskodawca. dziedziny medycyny, której dotyczy planowana inwestycja? W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja służyć Należy uwzględnić w szczególności dane pochodzące z własnych będzie analiz. Kryterium uwzględnia zmianę z lecznictwa szpitalnego na przesunięciu AOS, ewentualnie do podstawowej opieki zdrowotnej, zwanej dalej 24 ciężaru z „POZ”. W przypadku inwestycji w zakresie AOS lub POZ należy 1,0 lecznictwa przyjąć 10 pkt. szpitalnego na AOS? W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja jest Należy wziąć pod uwagę, jak duże jest ryzyko, że podmiot nie uzyska obarczona finansowania ze środków publicznych dla świadczeń opieki ryzykiem zdrowotnej, których może udzielać dzięki realizacji inwestycji, nieuzyskania w szczególności uwzględniając występowanie na danym obszarze finansowania ze świadczeniodawców udzielających takich samych świadczeń opieki 25 1,0 środków zdrowotnej oraz dotychczasowe finansowanie tych świadczeń. publicznych dla W przypadku inwestycji, które nie są obarczone ryzykiem udzielanych nieuzyskania finansowania ze środków publicznych, należy przyjąć świadczeń opieki 10 pkt. Należy zastosować skalę odwrotną – im mniejsze ryzyko, zdrowotnej? tym więcej punktów."
-        },
-        {
-         "type": "text",
-         "text": "Czy inwestycja Możliwe odpowiedzi to „TAK” (10 pkt) albo „NIE” (0 pkt). dotyczy profilu, Odpowiedzi „TAK\" udziela się wyłącznie wtedy, gdy podmiot jest w ramach wpisany w danym profilu do systemu podstawowego szpitalnego którego podmiot zabezpieczenia świadczeń opieki zdrowotnej w chwili składania jest wpisany wniosku o opinię o celowości inwestycji. 26 do systemu 1,0 podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej? W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja jest Trafność podjęcia decyzji o realizacji inwestycji określa się przez obarczona dane dostępne w mapie potrzeb zdrowotnych oraz innych ryzykiem wiarygodnych źródłach (np. w bazach Narodowego Funduszu niewykorzystania Zdrowia, Systemie Statystyki w Ochronie Zdrowia, rejestrach, 27 1,0 po jej dokumentach urzędowych). Należy określić, czy będzie istniało zakończeniu? zapotrzebowanie ze strony pacjentów na świadczenia opieki zdrowotnej, w tym przez obłożenie łóżek lub wykorzystanie zasobów. Należy zastosować skalę odwrotną – im mniejsze ryzyko, tym więcej punktów."
-        },
-        {
-         "type": "text",
-         "text": "W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja jest Należy ocenić i uzasadnić, czy planowane zatrudnienie osób obarczona wykonujących zawód medyczny w związku z inwestycją, ryzykiem uwzględniające wymagane kwalifikacje i uprawnienia tych osób, jest 28 niezapewnienia realistyczne. Jeżeli inwestycja nie wpływa na zatrudnienie, należy 0,7 odpowiednich przyjąć 10 pkt. Należy zastosować skalę odwrotną – im mniejsze zasobów ryzyko, tym więcej punktów. kadrowych?"
-        },
-        {
-         "type": "text",
-         "text": "Czy inwestycja Możliwe odpowiedzi to „TAK” (10 pkt) albo „NIE” (0 pkt). obejmuje Jeżeli inwestycja nie dotyczy nabywania wyrobów medycznych, wymianę należy przyjąć 0 pkt. wyrobów 29 medycznych, 1,0 których zalecany czas eksploatacji został przekroczony?"
-        },
-        {
-         "type": "text",
-         "text": "III. Całkowity wynik punktowy"
-        },
-        {
-         "type": "text",
-         "text": "Całkowity wynik punktowy Punkt wypełniany automatycznie"
-        },
-        {
-         "type": "text",
-         "text": "IV. Oświadczenie"
-        },
-        {
-         "type": "text",
-         "text": "Oświadczam, że jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń na podstawie art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2021 r. poz. 2345)."
-        },
-        {
-         "type": "text",
-         "text": "V. Inne"
-        }
-       ]
+       "text": "W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Oszacowanie powinno być przeprowadzone w kontekście realizacji wpłynie na oczekiwań pacjentów i ich rodzin oraz z uwzględnieniem czynników poprawę wpływających na satysfakcję pacjentów i ich rodzin. W ramach 4 komfortu oceny wpływu na komfort należy uwzględnić warunki lokalowe, 1,0 pacjentów i ich udogodnienia związane z lokalizacją inwestycji (czy łatwo dojechać), rodzin? udogodnienia dla osób niepełnosprawnych, parking dla gości, ewentualne zapewnienie warunków hotelowych dla rodzin (szczególnie w przypadku pediatrii). W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Należy ocenić i uzasadnić, w jakim stopniu inwestycja poprawia wpłynie na spełnienie praw pacjentów, w szczególności w zakresie: 5 poprawę 1) zapewnienia prawa pacjenta do świadczeń zdrowotnych 0,4 zapewnienia odpowiadających wymaganiom aktualnej wiedzy medycznej; praw pacjenta? 2) poszanowania intymności i godności;"
       }
      ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "prawa do umierania w spokoju i godności.",
+     "children": [
+      {
+       "type": "text",
+       "text": "W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Należy wskazać, w jaki sposób, i uzasadnić, w jakim stopniu zmniejszy ryzyko inwestycja wpłynie na mniejsze ryzyko wystąpienia zdarzeń 6 zdarzeń epidemiologicznych (np. zakażenia wewnątrzszpitalne, jatrogenne). 1,0 epidemio- W przypadku inwestycji pozostających bez wpływu na zmniejszenie logicznych? ryzyka zdarzeń epidemiologicznych należy przyjąć 0 pkt. W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Należy ocenić i uzasadnić stopień, w jakim inwestycja odpowiada odpowiada trendom demograficznym na danym obszarze. W przypadku 7 trendom inwestycji w zakresie geriatrii, opieki długoterminowej, paliatywnej 1,0 demograficznym? lub hospicyjnej należy przyjąć 10 pkt."
+      },
+      {
+       "type": "text",
+       "text": "Czy inwestycja Możliwe odpowiedzi to „TAK” (10 pkt) albo „NIE” (0 pkt). wpłynie na Należy wziąć pod uwagę faktyczne zmniejszenie kosztów opieki zmniejszenie zdrowotnej, w szczególności z powodu: ogólnych 1) zastosowania bardziej efektywnej technologii medycznej; kosztów opieki 2) przesunięcia miejsca wykonywania świadczeń opieki zdrowotnej zdrowotnej na z lecznictwa szpitalnego do ambulatoryjnej opieki 8 danym obszarze? specjalistycznej, zwanej dalej „AOS”; 0,6 3) obniżenia kosztów diagnostyki. Ocena jest dokonywana na podstawie podanego we wniosku przewidywanego zmniejszenia kosztów opieki zdrowotnej zestawionego z kosztami inwestycji. Należy oszacować, tj. przedstawić dane liczbowe, w jakim stopniu inwestycja wpływa na zmniejszenie ogólnych kosztów opieki zdrowotnej."
+      },
+      {
+       "type": "text",
+       "text": "Czy koszt Możliwe odpowiedzi to „TAK” (10 pkt) albo „NIE” (0 pkt). inwestycji jest W przypadku braku podobnych realizowanych inwestycji albo uzasadniony podobnych zrealizowanych inwestycji można odpowiedzieć „TAK”, w porównaniu jeżeli zostanie przeprowadzona i załączona analiza zawierająca do podobnych informacje umożliwiające udzielenie odpowiedzi twierdzącej. Oceny 9 0,4 realizowanych nie należy zawężać do podobnych inwestycji w obszarze jej inwestycji albo oddziaływania lub województwie. podobnych zrealizowanych inwestycji? W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Należy ocenić i uzasadnić, w jakim stopniu inwestycja przyczyni się wpłynie do zmniejszenia obciążeń administracyjnych personelu, i wskazać, na zmniejszenie w jaki sposób (np. systemy informatyczne zmniejszające obciążeń zapotrzebowanie na pracę, automatyzacja procesu rejestracji). 10 administracyjnych W przypadku inwestycji pozostających bez wpływu na obciążenia 0,7 personelu? administracyjne personelu albo je zwiększających należy przyjąć 0 pkt."
+      },
+      {
+       "type": "text",
+       "text": "W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Należy ocenić i uzasadnić, czy inwestycja wpłynie na optymalizację wpłynie wykorzystania i rozmieszczenia osób wykonujących zawód na optymalizację medyczny, np. wynikającą z wielkości oddziału (odpowiednia wykorzystania wielkość oddziału zapewnia poprawę wskaźnika efektywności i rozmieszczenia wykorzystania opieki pielęgniarskiej lub lekarskiej). W przypadku 11 obecnie gdy inwestycja nie wpływa na wykorzystanie i rozmieszczenie 0,7 zatrudnionych obecnie zatrudnionych osób wykonujących zawód medyczny, należy w podmiocie przyjąć 0 pkt. Należy szczegółowo uzasadnić. osób wykonujących zawód medyczny? W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Należy zwrócić uwagę na charakter (jednostajność) i nasilenie wpłynie na obciążeń osób wykonujących zawód medyczny oraz określić, jak ergonomię pracy inwestycja wpłynie na ten problem. Jeżeli inwestycja nie uwzględnia 12 0,4 osób wpływu na ergonomię, należy przyjąć 0 pkt. wykonujących zawód medyczny? Czy inwestycja Możliwe odpowiedzi to „TAK” (10 pkt) albo „NIE” (0 pkt). służy poprawie Odpowiedzi „TAK” udziela się wyłącznie wtedy, gdy inwestycja 13 infrastruktury obejmuje swoim zakresem rozwój infrastruktury 0,5 telekomunikacyj- telekomunikacyjnej, telekomunikacyjnych urządzeń końcowych nej podmiotu? i służy poprawie zdolności komunikacyjnych podmiotu. Czy inwestycja Możliwe odpowiedzi to \"TAK\" (10 pkt) albo \"NIE\" (0 pkt). pozwoli obniżyć Należy określić, czy inwestycja pozwoli obniżyć bieżące koszty koszty funkcjonowania zarówno w okresie gwarancji jak i po tym okresie. 14 operacyjne 1,0 podmiotu medycznego?"
+      },
+      {
+       "type": "text",
+       "text": "Czy inwestycja Możliwe odpowiedzi to „TAK” (10 pkt) albo „NIE” (0 pkt). wynika Odpowiedzi „TAK\" udziela się wyłącznie wtedy, gdy zakres z konieczności inwestycji odpowiada wyłącznie obowiązkowi dostosowania 15 dostosowania do podmiotu do obowiązujących przepisów np. sanitarnych lub 1,0 obowiązujących przeciwpożarowych. przepisów prawa? W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja będzie Należy ocenić i uzasadnić stopień, w jakim inwestycja wpłynie poprawiała na np. niską emisyjność, energooszczędność, oszczędność wody, energooszczędność obniżając docelowo kosztochłonność tych elementów. 16 i sprzyjała 0,7 rozwiązaniom proekologicznym?"
+      },
+      {
+       "type": "text",
+       "text": "Jaki jest Czas wskazywany jest na podstawie informacji zawartych w polach Punkt wypeł niany przewidziany I.4.1.4 oraz I.4.1.5 wniosku. Minimalny czas wynosi 1 miesiąc. Współczynnik automatycznie czas korygujący 17 na inwestycję? czas realizacji – 6%"
+      },
+      {
+       "type": "text",
+       "text": "W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Należy ocenić i uzasadnić, w jakim stopniu inwestycja daje szansę wpłynie na lub spowoduje uzyskanie nowych kwalifikacji przez osoby podniesienie wykonujące zawód medyczny. W przypadku gdy inwestycja nie 18 kwalifikacji osób dotyczy tego kryterium, należy przyjąć 0 pkt. 0,2 wykonujących zawód medyczny?"
+      },
+      {
+       "type": "text",
+       "text": "Czy inwestycja Możliwe odpowiedzi to „TAK” (10 pkt) albo „NIE” (0 pkt). odpowiada Odpowiedzi „TAK” udziela się wyłącznie wtedy, gdy inwestycja mapie potrzeb całkowicie lub w zasadniczej części (rozumianej jako co najmniej zdrowotnych? 70% wartości inwestycji) wpisuje się w mapę potrzeb zdrowotnych. 19 Należy odnieść się w sposób dokładny do mapy potrzeb 1,0 zdrowotnych w części dla danego województwa. Należy wskazać działania, które dzięki danej inwestycji będą realizowane. Jeśli dany rodzaj inwestycji (np. mały sprzęt typu USG) nie jest szczegółowo analizowany w mapie potrzeb zdrowotnych, należy przyjąć „TAK\"."
+      },
+      {
+       "type": "text",
+       "text": "Czy inwestycja Możliwe odpowiedzi to „TAK” (10 pkt) albo „NIE” (0 pkt). odpowiada Odpowiedzi „TAK” udziela się wyłącznie wtedy, gdy inwestycja krajowemu lub wpisuje się w plan transformacji całkowicie lub w zasadniczej części wojewódzkiemu (rozumianej jako co najmniej 70% wartości inwestycji). Należy planowi odnieść się w sposób dokładny do planów transformacji transformacji? przygotowanych dla danego województwa, ze wskazaniem działań, które dzięki danej inwestycji będą realizowane. Jeżeli inwestycja nie jest zawarta w krajowym lub wojewódzkim planie transformacji, a dotyczy: robót budowlanych z wyłączeniem budowy, modernizacji, termomodernizacji, prac konserwatorskich czy restauratorskich, realizacji inwestycji, która wynika z konieczności dostosowania do rozporządzenia Ministra Zdrowia z dnia 26 marca 2019 r. w sprawie 20 szczegółowych wymagań, jakim powinny odpowiadać 1,0 pomieszczenia i urządzenia podmiotu wykonującego działalność leczniczą (Dz. U. poz. 595, z późn. zm.) i przepisów przeciwpożarowych zawartych w ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2021 r. poz. 869) oraz szczegółowych wytycznych znajdujących się także w rozporządzeniach do ww. ustawy, ponadto realizacji inwestycji związanych ze stacją uzdatniania wody, z wymianą dźwigów, czy remontów pomieszczeń technicznych, a także realizacji innych inwestycji w zakresie infrastruktury obiektów budowlanych (z wyłączeniem budowy) i infrastruktury technicznej niezbędnej do funkcjonowania podmiotu leczniczego, należy przyjąć „TAK”."
+      },
+      {
+       "type": "text",
+       "text": "W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Należy ocenić i uzasadnić, w jakim stopniu inwestycja odpowiada wpłynie na czas na obiektywnie istniejące potrzeby zdrowotne oraz służy oczekiwania na mierzalnemu skróceniu czasu oczekiwania na udzielenie 21 udzielenie świadczenia opieki zdrowotnej (wymagane podanie danych 0,5 świadczenia liczbowych). W przypadku inwestycji pozostających bez wpływu na opieki czas oczekiwania na udzielenie świadczenia opieki zdrowotnej zdrowotnej? należy przyjąć 0 pkt."
+      },
+      {
+       "type": "text",
+       "text": "W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Należy ocenić i uzasadnić, w jakim stopniu inwestycja umożliwi wpłynie skrócenie realizacji świadczenia opieki zdrowotnej i wskazać, w jaki na skrócenie sposób. W przypadku inwestycji pozostających bez wpływu na czas 22 0,3 czasu realizacji realizacji świadczeń oraz wydłużających czas realizacji świadczeń świadczenia należy przyjąć 0 pkt. opieki zdrowotnej? W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja Na podstawie przeglądu rekomendacji towarzystw naukowych wpisuje się polskich lub zagranicznych należy określić zgodność inwestycji z w rekomendacje tymi rekomendacjami. Przeglądu można dokonać z wykorzystaniem towarzystw powszechnie dostępnych wyszukiwarek specjalistycznych takich jak: naukowych https://www.ahrq.gov/gam/index.html, polskich lub https://www.tripdatabase.com/, 23 zagranicznych https://www.ncbi.nlm.nih.gov/pubmed/. 0,2 dotyczących W uzasadnieniu należy wskazać adresy stron internetowych rozwoju danej podmiotów, na których rekomendacje powołuje się wnioskodawca. dziedziny medycyny, której dotyczy planowana inwestycja? W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja służyć Należy uwzględnić w szczególności dane pochodzące z własnych będzie analiz. Kryterium uwzględnia zmianę z lecznictwa szpitalnego na przesunięciu AOS, ewentualnie do podstawowej opieki zdrowotnej, zwanej dalej 24 ciężaru z „POZ”. W przypadku inwestycji w zakresie AOS lub POZ należy 1,0 lecznictwa przyjąć 10 pkt. szpitalnego na AOS? W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja jest Należy wziąć pod uwagę, jak duże jest ryzyko, że podmiot nie uzyska obarczona finansowania ze środków publicznych dla świadczeń opieki ryzykiem zdrowotnej, których może udzielać dzięki realizacji inwestycji, nieuzyskania w szczególności uwzględniając występowanie na danym obszarze finansowania ze świadczeniodawców udzielających takich samych świadczeń opieki 25 1,0 środków zdrowotnej oraz dotychczasowe finansowanie tych świadczeń. publicznych dla W przypadku inwestycji, które nie są obarczone ryzykiem udzielanych nieuzyskania finansowania ze środków publicznych, należy przyjąć świadczeń opieki 10 pkt. Należy zastosować skalę odwrotną – im mniejsze ryzyko, zdrowotnej? tym więcej punktów."
+      },
+      {
+       "type": "text",
+       "text": "Czy inwestycja Możliwe odpowiedzi to „TAK” (10 pkt) albo „NIE” (0 pkt). dotyczy profilu, Odpowiedzi „TAK\" udziela się wyłącznie wtedy, gdy podmiot jest w ramach wpisany w danym profilu do systemu podstawowego szpitalnego którego podmiot zabezpieczenia świadczeń opieki zdrowotnej w chwili składania jest wpisany wniosku o opinię o celowości inwestycji. 26 do systemu 1,0 podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej? W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja jest Trafność podjęcia decyzji o realizacji inwestycji określa się przez obarczona dane dostępne w mapie potrzeb zdrowotnych oraz innych ryzykiem wiarygodnych źródłach (np. w bazach Narodowego Funduszu niewykorzystania Zdrowia, Systemie Statystyki w Ochronie Zdrowia, rejestrach, 27 1,0 po jej dokumentach urzędowych). Należy określić, czy będzie istniało zakończeniu? zapotrzebowanie ze strony pacjentów na świadczenia opieki zdrowotnej, w tym przez obłożenie łóżek lub wykorzystanie zasobów. Należy zastosować skalę odwrotną – im mniejsze ryzyko, tym więcej punktów."
+      },
+      {
+       "type": "text",
+       "text": "W jakim stopniu Ocena od 0 pkt do 10 pkt. inwestycja jest Należy ocenić i uzasadnić, czy planowane zatrudnienie osób obarczona wykonujących zawód medyczny w związku z inwestycją, ryzykiem uwzględniające wymagane kwalifikacje i uprawnienia tych osób, jest 28 niezapewnienia realistyczne. Jeżeli inwestycja nie wpływa na zatrudnienie, należy 0,7 odpowiednich przyjąć 10 pkt. Należy zastosować skalę odwrotną – im mniejsze zasobów ryzyko, tym więcej punktów. kadrowych?"
+      },
+      {
+       "type": "text",
+       "text": "Czy inwestycja Możliwe odpowiedzi to „TAK” (10 pkt) albo „NIE” (0 pkt). obejmuje Jeżeli inwestycja nie dotyczy nabywania wyrobów medycznych, wymianę należy przyjąć 0 pkt. wyrobów 29 medycznych, 1,0 których zalecany czas eksploatacji został przekroczony?"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Całkowity wynik punktowy"
+    },
+    {
+     "type": "text",
+     "text": "Całkowity wynik punktowy Punkt wypełniany automatycznie"
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Oświadczenie"
+    },
+    {
+     "type": "text",
+     "text": "Oświadczam, że jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń na podstawie art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2021 r. poz. 2345)."
+    },
+    {
+     "type": "heading",
+     "label": "V.",
+     "text": "Inne"
     },
     {
      "type": "ust",
@@ -427,156 +431,161 @@
       {
        "type": "text",
        "text": "I. INFORMACJE O INWESTYCJI"
-      },
-      {
-       "type": "text",
-       "text": "Część 1. Podmiot wnioskujący:"
-      },
-      {
-       "type": "text",
-       "text": "Pole 1.1 – wybrać, czy podmiot wnioskujący jest osobą fizyczną, osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej;"
-      },
-      {
-       "type": "text",
-       "text": "Pole 1.2 – podać nazwę (firmę) podmiotu wnioskującego;"
-      },
-      {
-       "type": "text",
-       "text": "Pole 1.3 – w celu bieżącego informowania o aktualnym etapie wniosku należy podać adres e-mail podmiotu wnioskującego;"
-      },
-      {
-       "type": "text",
-       "text": "Pola 1.4–1.5 – podać numer KRS – w przypadku podmiotu wnioskującego będącego osobą prawną albo numer identyfikacji podatkowej (NIP) – w przypadku osób fizycznych lub jednostek organizacyjnych nieposiadających osobowości prawnej;"
-      },
-      {
-       "type": "text",
-       "text": "Pole 1.6 – wybrać, czy podmiot wnioskujący jest jednostką sektora finansów publicznych w rozumieniu art. 9 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.);"
-      },
-      {
-       "type": "text",
-       "text": "Pole 1.7 – wybrać właściwy organ wydający opinię, do którego jest składany wniosek – wojewoda albo minister właściwy do spraw zdrowia."
-      },
-      {
-       "type": "text",
-       "text": "Część 2. Siedziba albo adres zamieszkania podmiotu wnioskującego:"
-      },
-      {
-       "type": "text",
-       "text": "Pola 2.1–2.9 – podać adres siedziby albo miejsca zamieszkania podmiotu wnioskującego."
-      },
-      {
-       "type": "text",
-       "text": "Część 3. Typ inwestycji:"
-      },
-      {
-       "type": "text",
-       "text": "Pola 3.1–3.4 – wskazać typ inwestycji: utworzenie nowego podmiotu leczniczego, nowej jednostki lub komórki organizacyjnej zakładu leczniczego podmiotu leczniczego lub inna inwestycja;"
-      },
-      {
-       "type": "text",
-       "text": "Pole 3.5 – należy podać dokładny tytuł inwestycji."
-      },
-      {
-       "type": "text",
-       "text": "Część 4. Opis inwestycji:"
-      },
-      {
-       "type": "text",
-       "text": "Pola 4.1 (4.1.1–4.1.5) – podać opis inwestycji, uwzględniając:"
-      },
-      {
-       "type": "text",
-       "text": "Pole 4.1.1 – zakres rzeczowy inwestycji; w przypadku realizacji inwestycji w kilku lokalizacjach należy opisać zakresy rzeczowe w odniesieniu do każdej z nich;"
-      },
-      {
-       "type": "text",
-       "text": "Pole 4.1.2 – uzasadnienie celowości inwestycji;"
-      },
-      {
-       "type": "text",
-       "text": "Pole 4.1.3 – obszar oddziaływania inwestycji, zaznaczając państwo, województwo, powiat, gminę, miejscowość lub inne;"
-      },
-      {
-       "type": "text",
-       "text": "Pole 4.1.4 i pole 4.1.5 – podać termin (datę) planowanego rozpoczęcia i termin (datę) planowanego zakończenia inwestycji – na podstawie tych informacji zostanie automatycznie wskazana liczba pełnych miesięcy (nie mniej niż 1) – w kryterium oceny inwestycji lp. 17;"
-      },
-      {
-       "type": "text",
-       "text": "Pola 4.2 (4.2.1–4.2.9) – wskazać adres realizacji inwestycji; w przypadku gdy jest to więcej niż jeden adres, należy zawrzeć stosowne informacje w polu 4.1.1;"
-      },
-      {
-       "type": "text",
-       "text": "Pola 4.3 (4.3.1–4.3.6) – określić źródło/źródła finansowania inwestycji;"
-      },
-      {
-       "type": "text",
-       "text": "Pola 4.4 – podać inne informacje dotyczące inwestycji budowlanej:"
-      },
-      {
-       "type": "text",
-       "text": "Pola 4.4.1 – podstawowe parametry techniczne inwestycji – wypełnia się w celu przedstawienia wpływu inwestycji na daną komórkę organizacyjną w ramach podmiotu;"
-      },
-      {
-       "type": "text",
-       "text": "Pole 4.4.1.1 – informacja o komórce organizacyjnej medycznej (wybrać z listy kodów resortowych);"
-      },
-      {
-       "type": "text",
-       "text": "Pole 4.4.2 – wskaźniki techniczno-ekonomiczne inwestycji – wypełnia się w celu przedstawienia wpływu inwestycji na podmiot (jako całość);"
-      },
-      {
-       "type": "text",
-       "text": "Pola 4.5 – podać inne informacje dotyczące inwestycji zakupowej;"
-      },
-      {
-       "type": "text",
-       "text": "Pole 4.6 – należy wpisać na podstawie danych dostępnych w Systemie Ewidencji Zasobów Ochrony Zdrowia;"
-      },
-      {
-       "type": "text",
-       "text": "Pole 4.6.2 – możliwe odpowiedzi to „TAK\" albo „NIE\"; odpowiedzi „TAK\" udziela się wyłącznie wtedy, gdy dane dotyczące wyrobów medycznych, o których mowa w przepisach wydanych na podstawie art. 17 ust. 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2021 r. poz. 711, z późn. zm.), wprowadzone przez wnioskodawcę w Systemie Ewidencji Zasobów Ochrony Zdrowia są aktualne i kompletne;"
-      },
-      {
-       "type": "text",
-       "text": "Pole 4.7.8 – pole wypełnia się automatycznie (suma wartości z pól 4.7.1–4.7.7)."
-      },
-      {
-       "type": "text",
-       "text": "Część 5. Wybór zakresu udzielanych świadczeń opieki zdrowotnej i dziedzin medycyny, w których inwestycja będzie realizowana:"
-      },
-      {
-       "type": "text",
-       "text": "Pola 5.1– wskazać, czy inwestycja ma wpływ na zakres udzielanych świadczeń opieki zdrowotnej (należy wskazać „TAK” lub „NIE”); odpowiedź na to pytanie determinuje wybór formularza i kryteriów oceny inwestycji;"
-      },
-      {
-       "type": "text",
-       "text": "Pole 5.2.1 – należy wybrać dziedzinę medycyny, której dotyczy inwestycja;"
-      },
-      {
-       "type": "text",
-       "text": "Pole 5.2.2 – należy wskazać szacunkową wartość brutto wybranej dziedziny medycyny, rozumianą jako wartość kosztów na nią ponoszonych w ramach inwestycji"
-      },
-      {
-       "type": "text",
-       "text": "Pole 5.2.3 – należy wskazać procentową wartość dziedziny medycyny – pole wypełnia się automatycznie;"
-      },
-      {
-       "type": "text",
-       "text": "Pole 5.2.4 – skrótowy opis inwestycj w danej dziedzinie medycyny;"
-      },
-      {
-       "type": "text",
-       "text": "Pole 5.3 – pole wypełnia się automatycznie po wyborze i wprowadzeniu wartości dla wszystkich dziedzin medycyny;"
-      },
-      {
-       "type": "text",
-       "text": "Pole 5.4 – pole wypełnia się automatycznie po wyborze i wprowadzeniu wartości dla wszystkich dziedzin medycyny."
-      },
-      {
-       "type": "text",
-       "text": "II. KRYTERIA OCENY INWESTYCJI"
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Część 1",
+     "text": "Podmiot wnioskujący:"
+    },
+    {
+     "type": "text",
+     "text": "Pole 1.1 – wybrać, czy podmiot wnioskujący jest osobą fizyczną, osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej;"
+    },
+    {
+     "type": "text",
+     "text": "Pole 1.2 – podać nazwę (firmę) podmiotu wnioskującego;"
+    },
+    {
+     "type": "text",
+     "text": "Pole 1.3 – w celu bieżącego informowania o aktualnym etapie wniosku należy podać adres e-mail podmiotu wnioskującego;"
+    },
+    {
+     "type": "text",
+     "text": "Pola 1.4–1.5 – podać numer KRS – w przypadku podmiotu wnioskującego będącego osobą prawną albo numer identyfikacji podatkowej (NIP) – w przypadku osób fizycznych lub jednostek organizacyjnych nieposiadających osobowości prawnej;"
+    },
+    {
+     "type": "text",
+     "text": "Pole 1.6 – wybrać, czy podmiot wnioskujący jest jednostką sektora finansów publicznych w rozumieniu art. 9 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.);"
+    },
+    {
+     "type": "text",
+     "text": "Pole 1.7 – wybrać właściwy organ wydający opinię, do którego jest składany wniosek – wojewoda albo minister właściwy do spraw zdrowia."
+    },
+    {
+     "type": "heading",
+     "label": "Część 2",
+     "text": "Siedziba albo adres zamieszkania podmiotu wnioskującego:"
+    },
+    {
+     "type": "text",
+     "text": "Pola 2.1–2.9 – podać adres siedziby albo miejsca zamieszkania podmiotu wnioskującego."
+    },
+    {
+     "type": "heading",
+     "label": "Część 3",
+     "text": "Typ inwestycji:"
+    },
+    {
+     "type": "text",
+     "text": "Pola 3.1–3.4 – wskazać typ inwestycji: utworzenie nowego podmiotu leczniczego, nowej jednostki lub komórki organizacyjnej zakładu leczniczego podmiotu leczniczego lub inna inwestycja;"
+    },
+    {
+     "type": "text",
+     "text": "Pole 3.5 – należy podać dokładny tytuł inwestycji."
+    },
+    {
+     "type": "heading",
+     "label": "Część 4",
+     "text": "Opis inwestycji:"
+    },
+    {
+     "type": "text",
+     "text": "Pola 4.1 (4.1.1–4.1.5) – podać opis inwestycji, uwzględniając:"
+    },
+    {
+     "type": "text",
+     "text": "Pole 4.1.1 – zakres rzeczowy inwestycji; w przypadku realizacji inwestycji w kilku lokalizacjach należy opisać zakresy rzeczowe w odniesieniu do każdej z nich;"
+    },
+    {
+     "type": "text",
+     "text": "Pole 4.1.2 – uzasadnienie celowości inwestycji;"
+    },
+    {
+     "type": "text",
+     "text": "Pole 4.1.3 – obszar oddziaływania inwestycji, zaznaczając państwo, województwo, powiat, gminę, miejscowość lub inne;"
+    },
+    {
+     "type": "text",
+     "text": "Pole 4.1.4 i pole 4.1.5 – podać termin (datę) planowanego rozpoczęcia i termin (datę) planowanego zakończenia inwestycji – na podstawie tych informacji zostanie automatycznie wskazana liczba pełnych miesięcy (nie mniej niż 1) – w kryterium oceny inwestycji lp. 17;"
+    },
+    {
+     "type": "text",
+     "text": "Pola 4.2 (4.2.1–4.2.9) – wskazać adres realizacji inwestycji; w przypadku gdy jest to więcej niż jeden adres, należy zawrzeć stosowne informacje w polu 4.1.1;"
+    },
+    {
+     "type": "text",
+     "text": "Pola 4.3 (4.3.1–4.3.6) – określić źródło/źródła finansowania inwestycji;"
+    },
+    {
+     "type": "text",
+     "text": "Pola 4.4 – podać inne informacje dotyczące inwestycji budowlanej:"
+    },
+    {
+     "type": "text",
+     "text": "Pola 4.4.1 – podstawowe parametry techniczne inwestycji – wypełnia się w celu przedstawienia wpływu inwestycji na daną komórkę organizacyjną w ramach podmiotu;"
+    },
+    {
+     "type": "text",
+     "text": "Pole 4.4.1.1 – informacja o komórce organizacyjnej medycznej (wybrać z listy kodów resortowych);"
+    },
+    {
+     "type": "text",
+     "text": "Pole 4.4.2 – wskaźniki techniczno-ekonomiczne inwestycji – wypełnia się w celu przedstawienia wpływu inwestycji na podmiot (jako całość);"
+    },
+    {
+     "type": "text",
+     "text": "Pola 4.5 – podać inne informacje dotyczące inwestycji zakupowej;"
+    },
+    {
+     "type": "text",
+     "text": "Pole 4.6 – należy wpisać na podstawie danych dostępnych w Systemie Ewidencji Zasobów Ochrony Zdrowia;"
+    },
+    {
+     "type": "text",
+     "text": "Pole 4.6.2 – możliwe odpowiedzi to „TAK\" albo „NIE\"; odpowiedzi „TAK\" udziela się wyłącznie wtedy, gdy dane dotyczące wyrobów medycznych, o których mowa w przepisach wydanych na podstawie art. 17 ust. 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2021 r. poz. 711, z późn. zm.), wprowadzone przez wnioskodawcę w Systemie Ewidencji Zasobów Ochrony Zdrowia są aktualne i kompletne;"
+    },
+    {
+     "type": "text",
+     "text": "Pole 4.7.8 – pole wypełnia się automatycznie (suma wartości z pól 4.7.1–4.7.7)."
+    },
+    {
+     "type": "heading",
+     "label": "Część 5",
+     "text": "Wybór zakresu udzielanych świadczeń opieki zdrowotnej i dziedzin medycyny, w których inwestycja będzie realizowana:"
+    },
+    {
+     "type": "text",
+     "text": "Pola 5.1– wskazać, czy inwestycja ma wpływ na zakres udzielanych świadczeń opieki zdrowotnej (należy wskazać „TAK” lub „NIE”); odpowiedź na to pytanie determinuje wybór formularza i kryteriów oceny inwestycji;"
+    },
+    {
+     "type": "text",
+     "text": "Pole 5.2.1 – należy wybrać dziedzinę medycyny, której dotyczy inwestycja;"
+    },
+    {
+     "type": "text",
+     "text": "Pole 5.2.2 – należy wskazać szacunkową wartość brutto wybranej dziedziny medycyny, rozumianą jako wartość kosztów na nią ponoszonych w ramach inwestycji"
+    },
+    {
+     "type": "text",
+     "text": "Pole 5.2.3 – należy wskazać procentową wartość dziedziny medycyny – pole wypełnia się automatycznie;"
+    },
+    {
+     "type": "text",
+     "text": "Pole 5.2.4 – skrótowy opis inwestycj w danej dziedzinie medycyny;"
+    },
+    {
+     "type": "text",
+     "text": "Pole 5.3 – pole wypełnia się automatycznie po wyborze i wprowadzeniu wartości dla wszystkich dziedzin medycyny;"
+    },
+    {
+     "type": "text",
+     "text": "Pole 5.4 – pole wypełnia się automatycznie po wyborze i wprowadzeniu wartości dla wszystkich dziedzin medycyny."
+    },
+    {
+     "type": "text",
+     "text": "II. KRYTERIA OCENY INWESTYCJI"
     },
     {
      "type": "ust",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/704",
  "title": "Rozporządzenie Ministra Edukacji z dnia 27 maja 2026 r. zmieniające rozporządzenie w sprawie wypoczynku dzieci i młodzieży",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/704/text.pdf",
  "body": [
   {
@@ -228,8 +228,9 @@
      "text": "KARTA KWALIFIKACYJNA UCZESTNIKA WYPOCZYNKU"
     },
     {
-     "type": "text",
-     "text": "I. Informacje dotyczące wypoczynku"
+     "type": "heading",
+     "label": "I.",
+     "text": "Informacje dotyczące wypoczynku"
     },
     {
      "type": "ust",
@@ -279,12 +280,13 @@
       {
        "type": "text",
        "text": "............................................................ ......................................................................... (miejscowość, data) (podpis organizatora wypoczynku)"
-      },
-      {
-       "type": "text",
-       "text": "II. Informacje dotyczące uczestnika wypoczynku"
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Informacje dotyczące uczestnika wypoczynku"
     },
     {
      "type": "ust",
@@ -355,213 +357,129 @@
      "type": "ust",
      "num": "7",
      "path": "ust_7",
-     "text": "Numer telefonu rodziców lub numer telefonu osoby wskazanej przez pełnoletniego uczestnika",
+     "text": "Numer telefonu rodziców lub numer telefonu osoby wskazanej przez pełnoletniego uczestnika wypoczynku, pod którym rodzice lub ta osoba są dostępni w czasie trwania wypoczynku",
      "children": [
       {
        "type": "text",
-       "text": "wypoczynku, pod którym rodzice lub ta osoba są dostępni w czasie trwania wypoczynku"
+       "text": "……………………………………………………………………………………………..………….…… ……………………………………………………………………………………………..………….…… 8. Informacja o specjalnych potrzebach edukacyjnych uczestnika wypoczynku, w szczególności o potrzebach wynikających z niepełnosprawności, niedostosowania społecznego lub zagrożenia niedostosowaniem społecznym"
       },
       {
        "type": "text",
-       "text": "……………………………………………………………………………………………..………….……"
+       "text": "……………………………………………………………………………………………..………….…… ……………………………………………………………………………………………..………….…… ……………………………………………………………………………………………..………….…… 9. Istotne dane o stanie zdrowia uczestnika wypoczynku, rozwoju psychofizycznym i stosowanej diecie (np. uczulenie na leki, pyłki, pokarmy lub jad owadów, choroba lokomocyjna, lista przyjmowanych na stałe leków i ich dawek, choroby przewlekłe, noszenie aparatu ortodontycznego, okularów lub soczewek, dieta niskokaloryczna, wegetarianizm, problemy z wyrażaniem emocji, problemy z funkcjonowaniem w grupie, lęk wysokości, hydrofobia)"
       },
       {
        "type": "text",
-       "text": "……………………………………………………………………………………………..………….……"
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "8",
-     "path": "ust_8",
-     "text": "Informacja o specjalnych potrzebach edukacyjnych uczestnika wypoczynku, w szczególności o potrzebach",
-     "children": [
-      {
-       "type": "text",
-       "text": "wynikających z niepełnosprawności, niedostosowania społecznego lub zagrożenia niedostosowaniem"
+       "text": "……………………………………………………………………………………………..………….…… ……………………………………………………………………………………………..………….…… ……………………………………………………………………………………………..………….…… ……………………………………………………………………………………………..………….…… ……………………………………………………………………………………………..………….……"
       },
       {
        "type": "text",
-       "text": "społecznym"
+       "text": "oraz o szczepieniach ochronnych wraz z podaniem roku (lub przedstawienie książeczki zdrowia z aktualnym wpisem szczepień):"
       },
       {
        "type": "text",
-       "text": "……………………………………………………………………………………………..………….……"
-      },
-      {
-       "type": "text",
-       "text": "……………………………………………………………………………………………..………….……"
-      },
-      {
-       "type": "text",
-       "text": "……………………………………………………………………………………………..………….……"
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "9",
-     "path": "ust_9",
-     "text": "Istotne dane o stanie zdrowia uczestnika wypoczynku, rozwoju psychofizycznym i stosowanej diecie",
-     "children": [
-      {
-       "type": "text",
-       "text": "(np. uczulenie na leki, pyłki, pokarmy lub jad owadów, choroba lokomocyjna, lista przyjmowanych na stałe"
-      },
-      {
-       "type": "text",
-       "text": "leków i ich dawek, choroby przewlekłe, noszenie aparatu ortodontycznego, okularów lub soczewek, dieta"
-      },
-      {
-       "type": "text",
-       "text": "niskokaloryczna, wegetarianizm, problemy z wyrażaniem emocji, problemy z funkcjonowaniem w grupie,"
-      },
-      {
-       "type": "text",
-       "text": "lęk wysokości, hydrofobia)"
-      },
-      {
-       "type": "text",
-       "text": "……………………………………………………………………………………………..………….……"
-      },
-      {
-       "type": "text",
-       "text": "……………………………………………………………………………………………..………….……"
-      },
-      {
-       "type": "text",
-       "text": "……………………………………………………………………………………………..………….……"
-      },
-      {
-       "type": "text",
-       "text": "……………………………………………………………………………………………..………….……"
-      },
-      {
-       "type": "text",
-       "text": "……………………………………………………………………………………………..………….……"
-      },
-      {
-       "type": "text",
-       "text": "oraz o szczepieniach ochronnych wraz z podaniem roku (lub przedstawienie książeczki zdrowia"
-      },
-      {
-       "type": "text",
-       "text": "z aktualnym wpisem szczepień):"
-      },
-      {
-       "type": "text",
-       "text": "tężec ………………………………………………………………………………………………………..."
-      },
-      {
-       "type": "text",
-       "text": "błonica ...……………………………………………………………………………………………………"
-      },
-      {
-       "type": "text",
-       "text": "inne …………………………………………………………………………………………………………"
-      },
-      {
-       "type": "text",
-       "text": "……………………………………………………………………………………………..………….……"
-      },
-      {
-       "type": "text",
-       "text": "……………………………………………………………………………………………..………….……"
+       "text": "tężec ………………………………………………………………………………………………………... błonica ...…………………………………………………………………………………………………… inne ………………………………………………………………………………………………………… ……………………………………………………………………………………………..………….…… ……………………………………………………………………………………………..………….……"
       },
       {
        "type": "text",
        "text": "..................................... ……………………....................................................................."
-      },
-      {
-       "type": "text",
-       "text": "III. Decyzja organizatora wypoczynku o zakwalifikowaniu uczestnika wypoczynku do udziału w wypoczynku"
-      },
-      {
-       "type": "text",
-       "text": "Postanawiam[^1_2]:  zakwalifikować i skierować uczestnika na wypoczynek  odmówić skierowania uczestnika na wypoczynek ze względu"
-      },
-      {
-       "type": "text",
-       "text": ".............................................................................................................................................................................."
-      },
-      {
-       "type": "text",
-       "text": ".............................................................................................................................................................................."
-      },
-      {
-       "type": "text",
-       "text": "..................................... ........................................................................."
-      },
-      {
-       "type": "text",
-       "text": "IV. Potwierdzenie przez kierownika wypoczynku pobytu uczestnika wypoczynku w miejscu wypoczynku"
-      },
-      {
-       "type": "text",
-       "text": "Uczestnik przebywał ........................................................................................................................................... (adres miejsca wypoczynku)"
-      },
-      {
-       "type": "text",
-       "text": "od dnia (dzień, miesiąc, rok) ........................................ do dnia (dzień, miesiąc, rok) ........................................"
-      },
-      {
-       "type": "text",
-       "text": "..................................... ......................................................................... (data) (podpis kierownika wypoczynku)"
-      },
-      {
-       "type": "text",
-       "text": "V. Informacja kierownika wypoczynku o stanie zdrowia uczestnika wypoczynku w czasie trwania wypoczynku oraz o chorobach przebytych w jego trakcie"
-      },
-      {
-       "type": "text",
-       "text": ".............................................................................................................................................................................."
-      },
-      {
-       "type": "text",
-       "text": ".............................................................................................................................................................................."
-      },
-      {
-       "type": "text",
-       "text": ".............................................................................................................................................................................."
-      },
-      {
-       "type": "text",
-       "text": ".............................................................................................................................................................................."
-      },
-      {
-       "type": "text",
-       "text": "............................................................ ......................................................................... (miejscowość, data) (podpis kierownika wypoczynku)"
-      },
-      {
-       "type": "text",
-       "text": "VI. Informacja i spostrzeżenia wychowawcy wypoczynku dotyczące pobytu uczestnika wypoczynku"
-      },
-      {
-       "type": "text",
-       "text": ".............................................................................................................................................................................."
-      },
-      {
-       "type": "text",
-       "text": ".............................................................................................................................................................................."
-      },
-      {
-       "type": "text",
-       "text": ".............................................................................................................................................................................."
-      },
-      {
-       "type": "text",
-       "text": ".............................................................................................................................................................................."
-      },
-      {
-       "type": "text",
-       "text": ".............................................................................................................................................................................."
-      },
-      {
-       "type": "text",
-       "text": "............................................................ ........................................................................."
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Decyzja organizatora wypoczynku o zakwalifikowaniu uczestnika wypoczynku do udziału w wypoczynku"
+    },
+    {
+     "type": "text",
+     "text": "Postanawiam[^1_2]:"
+    },
+    {
+     "type": "text",
+     "text": " zakwalifikować i skierować uczestnika na wypoczynek"
+    },
+    {
+     "type": "text",
+     "text": " odmówić skierowania uczestnika na wypoczynek ze względu"
+    },
+    {
+     "type": "text",
+     "text": ".............................................................................................................................................................................. .............................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "..................................... ........................................................................."
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Potwierdzenie przez kierownika wypoczynku pobytu uczestnika wypoczynku w miejscu wypoczynku"
+    },
+    {
+     "type": "text",
+     "text": "Uczestnik przebywał ........................................................................................................................................... (adres miejsca wypoczynku)"
+    },
+    {
+     "type": "text",
+     "text": "od dnia (dzień, miesiąc, rok) ........................................ do dnia (dzień, miesiąc, rok) ........................................"
+    },
+    {
+     "type": "text",
+     "text": "..................................... ......................................................................... (data) (podpis kierownika wypoczynku)"
+    },
+    {
+     "type": "heading",
+     "label": "V.",
+     "text": "Informacja kierownika wypoczynku o stanie zdrowia uczestnika wypoczynku w czasie trwania wypoczynku oraz o chorobach przebytych w jego trakcie"
+    },
+    {
+     "type": "text",
+     "text": ".............................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": ".............................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": ".............................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": ".............................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "............................................................ ......................................................................... (miejscowość, data) (podpis kierownika wypoczynku)"
+    },
+    {
+     "type": "heading",
+     "label": "VI.",
+     "text": "Informacja i spostrzeżenia wychowawcy wypoczynku dotyczące pobytu uczestnika wypoczynku"
+    },
+    {
+     "type": "text",
+     "text": ".............................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": ".............................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": ".............................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": ".............................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": ".............................................................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "............................................................ ........................................................................."
     }
    ]
   }

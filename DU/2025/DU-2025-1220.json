@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1220",
  "title": "Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 29 sierpnia 2025 r. zmieniające rozporządzenie w sprawie studiów",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1220/text.pdf",
  "body": [
   {
@@ -789,11 +789,19 @@
           },
           {
            "type": "text",
-           "text": "nazwiskoStudenta SEQUENCE OF UTF8String (SIZE (1..28)),"
+           "text": "nazwiskoStudenta SEQUENCE OF"
           },
           {
            "type": "text",
-           "text": "imionaStudenta SEQUENCE OF UTF8String (SIZE (1..24)),"
+           "text": "UTF8String (SIZE (1..28)),"
+          },
+          {
+           "type": "text",
+           "text": "imionaStudenta SEQUENCE OF"
+          },
+          {
+           "type": "text",
+           "text": "UTF8String (SIZE (1..24)),"
           },
           {
            "type": "text",
@@ -833,11 +841,19 @@
           },
           {
            "type": "text",
-           "text": "nazwiskoStudenta SEQUENCE OF UTF8String (SIZE (1..28)),"
+           "text": "nazwiskoStudenta SEQUENCE OF"
           },
           {
            "type": "text",
-           "text": "imionaStudenta SEQUENCE OF UTF8String (SIZE (1..24)),"
+           "text": "UTF8String (SIZE (1..28)),"
+          },
+          {
+           "type": "text",
+           "text": "imionaStudenta SEQUENCE OF"
+          },
+          {
+           "type": "text",
+           "text": "UTF8String (SIZE (1..24)),"
           },
           {
            "type": "text",

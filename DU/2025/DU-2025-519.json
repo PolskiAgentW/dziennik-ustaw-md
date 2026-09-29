@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/519",
  "title": "Obwieszczenie Ministra Finansów z dnia 25 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie prospektu informacyjnego funduszu inwestycyjnego otwartego i specjalistycznego funduszu inwestycyjnego otwartego oraz wyliczania wskaźnika zysku do ryzyka tych funduszy",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/519/text.pdf",
  "body": [
   {
@@ -2054,8 +2054,9 @@
      "text": "SPOSÓB WYLICZANIA WSKAŹNIKA WKC, WSKAŹNIKA SWKC, WSKAŹNIKA SOP I WSKAŹNIKA SWZKC"
     },
     {
-     "type": "text",
-     "text": "I. Współczynnik Kosztów Całkowitych (wskaźnik WKC) wylicza się za ostatni pełny rok kalendarzowy według wzoru:"
+     "type": "heading",
+     "label": "I.",
+     "text": "Współczynnik Kosztów Całkowitych (wskaźnik WKC) wylicza się za ostatni pełny rok kalendarzowy według wzoru:"
     },
     {
      "type": "text",
@@ -2113,8 +2114,9 @@
      "text": "WAN – oznacza średnią wartość aktywów netto funduszu."
     },
     {
-     "type": "text",
-     "text": "II. Syntetyczny Współczynnik Kosztów Całkowitych (wskaźnik SWKC) wylicza się według wzoru:"
+     "type": "heading",
+     "label": "II.",
+     "text": "Syntetyczny Współczynnik Kosztów Całkowitych (wskaźnik SWKC) wylicza się według wzoru:"
     },
     {
      "type": "text",
@@ -2145,8 +2147,9 @@
      "text": "WAN – oznacza średnią wartość aktywów netto funduszu."
     },
     {
-     "type": "text",
-     "text": "III. Stopę Obrotu Portfela (wskaźnik SOP) wylicza się według wzoru:"
+     "type": "heading",
+     "label": "III.",
+     "text": "Stopę Obrotu Portfela (wskaźnik SOP) wylicza się według wzoru:"
     },
     {
      "type": "text",
@@ -2173,8 +2176,9 @@
      "text": "WAN – oznacza średnią wartość aktywów netto funduszu."
     },
     {
-     "type": "text",
-     "text": "IV. Syntetyczną Wartość Zakładanych Kosztów Całkowitych (wskaźnik SWZKC) wylicza się jako sumę kosztów funduszy i instytucji wspólnego inwestowania, uwzględnionych we wskaźniku WKC tych instytucji, przypadających na tytuły uczestnictwa nabyte przez fundusz, a w przypadku funduszy i instytucji wspólnego inwestowania, które nie publikują wskaźnika WKC – przypadające na nabyte tytuły uczestnictwa możliwe do oszacowania koszty, które wchodziłyby do wskaźnika WKC, gdyby wskaźnik ten był publikowany, oraz opłat z tytułu zbycia lub odkupienia tych tytułów uczestnictwa."
+     "type": "heading",
+     "label": "IV.",
+     "text": "Syntetyczną Wartość Zakładanych Kosztów Całkowitych (wskaźnik SWZKC) wylicza się jako sumę kosztów funduszy i instytucji wspólnego inwestowania, uwzględnionych we wskaźniku WKC tych instytucji, przypadających na tytuły uczestnictwa nabyte przez fundusz, a w przypadku funduszy i instytucji wspólnego inwestowania, które nie publikują wskaźnika WKC – przypadające na nabyte tytuły uczestnictwa możliwe do oszacowania koszty, które wchodziłyby do wskaźnika WKC, gdyby wskaźnik ten był publikowany, oraz opłat z tytułu zbycia lub odkupienia tych tytułów uczestnictwa."
     }
    ]
   },
@@ -2186,8 +2190,9 @@
      "text": "SPOSÓB I METODOLOGIA WYLICZANIA WSKAŹNIKA ZYSKU DO RYZYKA FUNDUSZU INWESTYCYJNEGO OTWARTEGO I SPECJALISTYCZNEGO FUNDUSZU INWESTYCYJNEGO OTWARTEGO"
     },
     {
-     "type": "text",
-     "text": "I. Ogólne zasady wyliczania wskaźnika zysku do ryzyka"
+     "type": "heading",
+     "label": "I.",
+     "text": "Ogólne zasady wyliczania wskaźnika zysku do ryzyka"
     },
     {
      "type": "ust",
@@ -2239,12 +2244,12 @@
      "num": "5",
      "path": "ust_5",
      "text": "Wskaźnik zysku do ryzyka powinien być przyporządkowany do liczby całkowitej przedstawiającej pozycję funduszu na skali od 1 do 7, zgodnie z rosnącym poziomem zmienności od najniższej do najwyższej.",
-     "children": [
-      {
-       "type": "text",
-       "text": "II. Określenie przedziałów zmienności stóp zwrotu funduszu"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Określenie przedziałów zmienności stóp zwrotu funduszu"
     },
     {
      "type": "ust",
@@ -2291,12 +2296,12 @@
      "num": "2",
      "path": "ust_2",
      "text": "Przedziały zmienności stóp zwrotu funduszu odzwierciedlają rosnący poziom ryzyka ponoszonego przez fundusz, a tym samym umiejscowienie funduszu na skali ryzyka.",
-     "children": [
-      {
-       "type": "text",
-       "text": "III. Przegląd wskaźnika zysku do ryzyka – zasady zmiany kategorii ryzyka"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Przegląd wskaźnika zysku do ryzyka – zasady zmiany kategorii ryzyka"
     },
     {
      "type": "ust",
@@ -2317,56 +2322,56 @@
      "num": "3",
      "path": "ust_3",
      "text": "Aktualizacja wskaźnika zysku do ryzyka powinna być przeprowadzana zawsze, jeżeli zmiany kluczowych informacji dla inwestorów w części odnoszącej się do profilu zysku i ryzyka funduszu wynikają z decyzji towarzystwa w zakresie dotyczącym polityki lub strategii inwestycyjnej funduszu. W takim przypadku każda zmiana wskaźnika zysku do ryzyka powinna skutkować nową klasyfikacją funduszu w zakresie profilu ryzyka, przeprowadzoną zgodnie z ogólnymi zasadami dotyczącymi wyznaczania wskaźnika zysku do ryzyka.",
-     "children": [
-      {
-       "type": "text",
-       "text": "IV. Fundusze zarządzane zgodnie z polityką lub strategią inwestycyjną, odwzorowującą profil zysku i ryzyka określonych segmentów rynku kapitałowego, dla których nie istnieje pełna historia stóp zwrotu funduszu"
-      },
-      {
-       "type": "text",
-       "text": "W przypadku funduszy zarządzanych zgodnie z polityką lub strategią inwestycyjną odwzorowującą profil ryzyka i zysku określonych segmentów rynku kapitałowego, dla których nie istnieje pełna historia stóp zwrotu funduszu spełniająca wymogi określone w pkt I, metodę wyliczania wskaźnika zysku do ryzyka należy dostosować przez:"
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_3/pkt_1",
-       "text": "pobranie (przyjęcie, wykorzystanie) dostępnej historii stóp zwrotu funduszu;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "ust_3/pkt_2",
-       "text": "określenie reprezentatywnego portfela modelowego funduszu, docelowej struktury aktywów funduszu lub benchmarku funduszu;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "ust_3/pkt_3",
-       "text": "wyliczenie stopy zwrotu funduszu z reprezentatywnego portfela modelowego funduszu, docelowej struktury aktywów funduszu lub benchmarku funduszu od początku wymaganego okresu do dnia, w którym są dostępne rzeczywiste stopy zwrotu funduszu, zgodnie z wymogami określonymi w pkt I;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "4",
-       "path": "ust_3/pkt_4",
-       "text": "połączenie obu serii stóp zwrotu funduszu w jeden szereg dla całego okresu, zgodnie z wymogami określonymi w pkt I;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "5",
-       "path": "ust_3/pkt_5",
-       "text": "oszacowanie zmienności historycznej w ujęciu rocznym, zgodnie z ogólnymi zasadami wyznaczania wskaźnika zysku do ryzyka.",
-       "children": [
-        {
-         "type": "text",
-         "text": "V. Fundusze zarządzane zgodnie z polityką lub strategią inwestycyjną, zakładającą zmienną alokację aktywów zgromadzonych w funduszach między różnymi klasami aktywów, z zastosowaniem ograniczenia w postaci określonego wcześniej limitu ryzyka"
-        }
-       ]
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Fundusze zarządzane zgodnie z polityką lub strategią inwestycyjną, odwzorowującą profil zysku i ryzyka określonych segmentów rynku kapitałowego, dla których nie istnieje pełna historia stóp zwrotu funduszu"
+    },
+    {
+     "type": "text",
+     "text": "W przypadku funduszy zarządzanych zgodnie z polityką lub strategią inwestycyjną odwzorowującą profil ryzyka i zysku określonych segmentów rynku kapitałowego, dla których nie istnieje pełna historia stóp zwrotu funduszu spełniająca wymogi określone w pkt I, metodę wyliczania wskaźnika zysku do ryzyka należy dostosować przez:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "pobranie (przyjęcie, wykorzystanie) dostępnej historii stóp zwrotu funduszu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "określenie reprezentatywnego portfela modelowego funduszu, docelowej struktury aktywów funduszu lub benchmarku funduszu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "wyliczenie stopy zwrotu funduszu z reprezentatywnego portfela modelowego funduszu, docelowej struktury aktywów funduszu lub benchmarku funduszu od początku wymaganego okresu do dnia, w którym są dostępne rzeczywiste stopy zwrotu funduszu, zgodnie z wymogami określonymi w pkt I;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "połączenie obu serii stóp zwrotu funduszu w jeden szereg dla całego okresu, zgodnie z wymogami określonymi w pkt I;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "oszacowanie zmienności historycznej w ujęciu rocznym, zgodnie z ogólnymi zasadami wyznaczania wskaźnika zysku do ryzyka.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "V.",
+     "text": "Fundusze zarządzane zgodnie z polityką lub strategią inwestycyjną, zakładającą zmienną alokację aktywów zgromadzonych w funduszach między różnymi klasami aktywów, z zastosowaniem ograniczenia w postaci określonego wcześniej limitu ryzyka"
     },
     {
      "type": "ust",
@@ -2410,102 +2415,102 @@
      "num": "2",
      "path": "ust_2",
      "text": "Zmienność, o której mowa w pkt 1 ppkt 1 lit. b, należy uznać za zgodną z limitem ryzyka funduszu, jeżeli stanowi ona jednocześnie cel funduszu wyrażony w kategoriach ryzyka lub jeżeli po przełożeniu limitu ryzyka na miarę VaR zostanie ona obliczona przez dekompozycję VaR przeprowadzoną przy założeniu neutralności względem ryzyka.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "VI.",
+     "text": "Fundusze zarządzane zgodnie z polityką lub strategią inwestycyjną, służącą osiąganiu określonych stóp zwrotu funduszu przez elastyczne inwestowanie zgromadzonych aktywów w różne klasy aktywów finansowych"
+    },
+    {
+     "type": "text",
+     "text": "W przypadku funduszy zarządzanych zgodnie z polityką lub strategią inwestycyjną, służącą osiąganiu określonych stóp zwrotu funduszu przez elastyczne inwestowanie zgromadzonych aktywów w różne klasy aktywów finansowych, w szczególności na rynkach instrumentów udziałowych i instrumentów dłużnych, przy wyliczaniu wskaźnika zysku do ryzyka należy:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "jeżeli jest dostępna pełna historia stóp zwrotu funduszu – przyjąć wartość najwyższą spośród:",
      "children": [
       {
-       "type": "text",
-       "text": "VI. Fundusze zarządzane zgodnie z polityką lub strategią inwestycyjną, służącą osiąganiu określonych stóp zwrotu funduszu przez elastyczne inwestowanie zgromadzonych aktywów w różne klasy aktywów finansowych"
-      },
-      {
-       "type": "text",
-       "text": "W przypadku funduszy zarządzanych zgodnie z polityką lub strategią inwestycyjną, służącą osiąganiu określonych stóp zwrotu funduszu przez elastyczne inwestowanie zgromadzonych aktywów w różne klasy aktywów finansowych, w szczególności na rynkach instrumentów udziałowych i instrumentów dłużnych, przy wyliczaniu wskaźnika zysku do ryzyka należy:"
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_2/pkt_1",
-       "text": "jeżeli jest dostępna pełna historia stóp zwrotu funduszu – przyjąć wartość najwyższą spośród:",
-       "children": [
-        {
-         "type": "lit",
-         "num": "a",
-         "path": "ust_2/pkt_1/lit_a",
-         "text": "rzeczywistej historycznej zmienności stóp zwrotu funduszu obliczonej w stosunku rocznym,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "b",
-         "path": "ust_2/pkt_1/lit_b",
-         "text": "przeskalowanej do roku zmienności stóp zwrotu funduszu z modelowej struktury aktywów zgodnej z bazową alokacją aktywów funduszu na moment wykonania obliczeń,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "c",
-         "path": "ust_2/pkt_1/lit_c",
-         "text": "zmienności zgodnej z limitem ryzyka funduszu, jeżeli taki limit ryzyka istnieje i ma zastosowanie;",
-         "children": []
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "ust_2/pkt_2",
-       "text": "w przypadku nowych funduszy, które nie dysponują dostateczną historią stóp zwrotu funduszu, oraz funduszy, które dokonały zmian w zakresie polityki inwestycyjnej w trakcie wymaganego okresu przyjętego do wyliczenia wskaźnika zysku do ryzyka – przyjąć wyższą z wartości wskazanych w ppkt 1 lit. b i c.",
-       "children": [
-        {
-         "type": "text",
-         "text": "VII. Fundusze zarządzane zgodnie z polityką lub strategią inwestycyjną, zakładającą zmieniającą się w czasie alokację aktywów funduszu z instrumentów udziałowych na instrumenty dłużne wraz ze zbliżającym się terminem rozwiązania funduszu, zgodnie z wcześniej przyjętymi zasadami"
-        },
-        {
-         "type": "text",
-         "text": "W przypadku funduszy zarządzanych zgodnie z polityką lub strategią inwestycyjną, zakładającą zmieniającą się w czasie alokację aktywów funduszu z instrumentów udziałowych na instrumenty dłużne wraz ze zbliżającym się terminem rozwiązania funduszu, zgodnie z wcześniej przyjętymi zasadami, przy wyliczaniu wskaźnika zysku do ryzyka należy:"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_2/pkt_1",
-       "text": "jeżeli jest dostępna pełna historia stóp zwrotu funduszu, a fundusz w tym okresie nie zmienił docelowej struktury aktywów – przyjąć rzeczywistą zmienność historycznych stóp zwrotu funduszu;",
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_1/lit_a",
+       "text": "rzeczywistej historycznej zmienności stóp zwrotu funduszu obliczonej w stosunku rocznym,",
        "children": []
       },
       {
-       "type": "pkt",
-       "num": "2",
-       "path": "ust_2/pkt_2",
-       "text": "w przypadku nowych funduszy, które nie dysponują dostateczną historią stóp zwrotu funduszu:",
-       "children": [
-        {
-         "type": "lit",
-         "num": "a",
-         "path": "ust_2/pkt_2/lit_a",
-         "text": "przyjąć istniejącą historię stóp zwrotu funduszu,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "b",
-         "path": "ust_2/pkt_2/lit_b",
-         "text": "określić reprezentatywny benchmark, portfel modelowy lub strukturę aktywów funduszu i obliczyć stopy zwrotu funduszu z tych przybliżonych indeksów (wskaźników), zgodnie z wymogami określonymi w pkt IV,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "c",
-         "path": "ust_2/pkt_2/lit_c",
-         "text": "połączyć obie serie stóp zwrotu funduszu w celu oszacowania właściwej zmienności w ujęciu rocznym.",
-         "children": [
-          {
-           "type": "text",
-           "text": "VIII. Fundusze wypłacające inwestorowi, w terminach wcześniej ustalonych, dochody z inwestycji wyliczone w oparciu o algorytm, związane z wynikami lub ze zmianą cen albo z innymi warunkami dotyczącymi indeksu odniesienia"
-          }
-         ]
-        }
-       ]
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_1/lit_b",
+       "text": "przeskalowanej do roku zmienności stóp zwrotu funduszu z modelowej struktury aktywów zgodnej z bazową alokacją aktywów funduszu na moment wykonania obliczeń,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_1/lit_c",
+       "text": "zmienności zgodnej z limitem ryzyka funduszu, jeżeli taki limit ryzyka istnieje i ma zastosowanie;",
+       "children": []
       }
      ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "w przypadku nowych funduszy, które nie dysponują dostateczną historią stóp zwrotu funduszu, oraz funduszy, które dokonały zmian w zakresie polityki inwestycyjnej w trakcie wymaganego okresu przyjętego do wyliczenia wskaźnika zysku do ryzyka – przyjąć wyższą z wartości wskazanych w ppkt 1 lit. b i c.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "VII.",
+     "text": "Fundusze zarządzane zgodnie z polityką lub strategią inwestycyjną, zakładającą zmieniającą się w czasie alokację aktywów funduszu z instrumentów udziałowych na instrumenty dłużne wraz ze zbliżającym się terminem rozwiązania funduszu, zgodnie z wcześniej przyjętymi zasadami"
+    },
+    {
+     "type": "text",
+     "text": "W przypadku funduszy zarządzanych zgodnie z polityką lub strategią inwestycyjną, zakładającą zmieniającą się w czasie alokację aktywów funduszu z instrumentów udziałowych na instrumenty dłużne wraz ze zbliżającym się terminem rozwiązania funduszu, zgodnie z wcześniej przyjętymi zasadami, przy wyliczaniu wskaźnika zysku do ryzyka należy:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "jeżeli jest dostępna pełna historia stóp zwrotu funduszu, a fundusz w tym okresie nie zmienił docelowej struktury aktywów – przyjąć rzeczywistą zmienność historycznych stóp zwrotu funduszu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "w przypadku nowych funduszy, które nie dysponują dostateczną historią stóp zwrotu funduszu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_2/lit_a",
+       "text": "przyjąć istniejącą historię stóp zwrotu funduszu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_2/lit_b",
+       "text": "określić reprezentatywny benchmark, portfel modelowy lub strukturę aktywów funduszu i obliczyć stopy zwrotu funduszu z tych przybliżonych indeksów (wskaźników), zgodnie z wymogami określonymi w pkt IV,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_2/lit_c",
+       "text": "połączyć obie serie stóp zwrotu funduszu w celu oszacowania właściwej zmienności w ujęciu rocznym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "VIII.",
+     "text": "Fundusze wypłacające inwestorowi, w terminach wcześniej ustalonych, dochody z inwestycji wyliczone w oparciu o algorytm, związane z wynikami lub ze zmianą cen albo z innymi warunkami dotyczącymi indeksu odniesienia"
     },
     {
      "type": "ust",

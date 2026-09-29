@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/629",
  "title": "Obwieszczenie Ministra Zdrowia z dnia 5 maja 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie programu pilotażowego w zakresie kompleksowej opieki specjalistycznej nad świadczeniobiorcami leczonymi z powodu otyłości olbrzymiej KOS-BAR",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/629/text.pdf",
  "body": [
   {
@@ -1329,8 +1329,9 @@
      "text": "UWAGA: Deklarację należy wypełniać czytelnie, drukowanymi literami."
     },
     {
-     "type": "text",
-     "text": "I. Dane osobowe"
+     "type": "heading",
+     "label": "I.",
+     "text": "Dane osobowe"
     },
     {
      "type": "text",
@@ -1413,12 +1414,13 @@
       {
        "type": "text",
        "text": "(numer PESEL, a w przypadku osób, (data urodzenia: dzień-miesiąc-rok) które nie mają nadanego numeru PESEL – seria i numer paszportu albo innego dokumentu stwierdzającego tożsamość) Objaśnienia: [^1_2] Wypełnić, określając kod oddziału wojewódzkiego Narodowego Funduszu Zdrowia; należy podać kod oddziału wojewódzkiego właściwego ze względu na siedzibę świadczeniodawcy: (01 – Dolnośląski, 02 – Kujawsko-Pomorski, 03 – Lubelski, 04 – Lubuski, 05 – Łódzki, 06 – Małopolski, 07 – Mazowiecki, 08 – Opolski, 09 – Podkarpacki, 10 – Podlaski, 11 – Pomorski, 12 – Śląski, 13 – Świętokrzyski, 14 – Warmińsko-Mazurski, 15 – Wielkopolski, 16 – Zachodniopomorski). [^2] Jeżeli świadczeniobiorcy została wydana karta ubezpieczenia zdrowotnego, a w przypadku osób uprawnionych na podstawie przepisów o koordynacji w rozumieniu art. 5 pkt 23 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm.) – numer poświadczenia potwierdzającego prawo do świadczeń opieki zdrowotnej w ramach ubezpieczenia zdrowotnego na terytorium Rzeczypospolitej Polskiej w rozumieniu art. 52 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. [^3] Wypełnić w przypadku, gdy dane są inne niż wyszczególnione w części 1."
-      },
-      {
-       "type": "text",
-       "text": "II. Oświadczenia osoby wypełniającej deklarację:"
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Oświadczenia osoby wypełniającej deklarację:"
     },
     {
      "type": "ust",
@@ -1436,40 +1438,41 @@
       {
        "type": "text",
        "text": "............................... ............................................................. ......................................... (data: dzień-miesiąc-rok) (podpis świadczeniobiorcy lub opiekuna prawnego) (podpis osoby przyjmującej deklarację)"
-      },
-      {
-       "type": "text",
-       "text": "III. Deklaracja wyboru świadczeniodawcy realizującego program pilotażowy kompleksowej opieki specjalistycznej nad świadczeniobiorcami leczonymi z powodu otyłości olbrzymiej KOS-BAR, zwany „programem pilotażowym”."
-      },
-      {
-       "type": "text",
-       "text": "Deklaruję wybór:"
-      },
-      {
-       "type": "text",
-       "text": "(nazwa świadczeniodawcy realizującego program pilotażowy)"
-      },
-      {
-       "type": "text",
-       "text": "............................. ……………………………………….. .…………………………….. (data: dzień-miesiąc-rok) (podpis świadczeniobiorcy lub opiekuna prawnego) (podpis osoby przyjmującej deklarację)"
-      },
-      {
-       "type": "text",
-       "text": "..................................................................................... (pieczątka, nadruk lub naklejka ośrodka koordynującego zawierająca: nazwę, adres siedziby oraz numer identyfikacyjny umowy) IV. Rezygnuję z wyboru świadczeniodawcy realizującego program pilotażowy"
-      },
-      {
-       "type": "text",
-       "text": "…………………… ……...……………….……………………. …………………………….. (data: dzień-miesiąc-rok) (podpis świadczeniobiorcy lub opiekuna prawnego) (podpis osoby przyjmującej deklarację)"
-      },
-      {
-       "type": "text",
-       "text": "......................................................................................... ......................................................................................... (pieczątka, nadruk lub naklejka ośrodka koordynującego (pieczątka, nadruk lub naklejka miejsca udzielania zawierająca: nazwę, adres siedziby oraz numer świadczeń opieki zdrowotnej zawierająca: nazwę, adres identyfikacyjny umowy) oraz numer identyfikacyjny umowy)"
-      },
-      {
-       "type": "text",
-       "text": "POUCZENIE Informacja dla wypełniającego deklarację Możliwe jest wybranie tylko jednego świadczeniodawcy realizującego program pilotażowy"
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Deklaracja wyboru świadczeniodawcy realizującego program pilotażowy kompleksowej opieki specjalistycznej nad świadczeniobiorcami leczonymi z powodu otyłości olbrzymiej KOS-BAR, zwany „programem pilotażowym”."
+    },
+    {
+     "type": "text",
+     "text": "Deklaruję wybór:"
+    },
+    {
+     "type": "text",
+     "text": "(nazwa świadczeniodawcy realizującego program pilotażowy)"
+    },
+    {
+     "type": "text",
+     "text": "............................. ……………………………………….. .…………………………….. (data: dzień-miesiąc-rok) (podpis świadczeniobiorcy lub opiekuna prawnego) (podpis osoby przyjmującej deklarację)"
+    },
+    {
+     "type": "text",
+     "text": "..................................................................................... (pieczątka, nadruk lub naklejka ośrodka koordynującego zawierająca: nazwę, adres siedziby oraz numer identyfikacyjny umowy) IV. Rezygnuję z wyboru świadczeniodawcy realizującego program pilotażowy"
+    },
+    {
+     "type": "text",
+     "text": "…………………… ……...……………….……………………. …………………………….. (data: dzień-miesiąc-rok) (podpis świadczeniobiorcy lub opiekuna prawnego) (podpis osoby przyjmującej deklarację)"
+    },
+    {
+     "type": "text",
+     "text": "......................................................................................... ......................................................................................... (pieczątka, nadruk lub naklejka ośrodka koordynującego (pieczątka, nadruk lub naklejka miejsca udzielania zawierająca: nazwę, adres siedziby oraz numer świadczeń opieki zdrowotnej zawierająca: nazwę, adres identyfikacyjny umowy) oraz numer identyfikacyjny umowy)"
+    },
+    {
+     "type": "text",
+     "text": "POUCZENIE Informacja dla wypełniającego deklarację Możliwe jest wybranie tylko jednego świadczeniodawcy realizującego program pilotażowy"
     }
    ]
   },

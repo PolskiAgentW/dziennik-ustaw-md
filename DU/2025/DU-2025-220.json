@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/220",
  "title": "Rozporządzenie Ministra Edukacji z dnia 19 lutego 2025 r. zmieniające rozporządzenie w sprawie podstawowych warunków niezbędnych do realizacji przez szkoły i nauczycieli zadań dydaktycznych, wychowawczych i opiekuńczych oraz programów nauczania",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/220/text.pdf",
  "body": [
   {
@@ -59,8 +59,9 @@
      "text": "MINIMALNE WYMAGANIA DLA SPRZĘTU KOMPUTEROWEGO"
     },
     {
-     "type": "text",
-     "text": "I. Sprzęt komputerowy dla ucznia"
+     "type": "heading",
+     "label": "I.",
+     "text": "Sprzęt komputerowy dla ucznia"
     },
     {
      "type": "text",
@@ -1861,20 +1862,21 @@
       {
        "type": "text",
        "text": "Tablet powinien być objęty co najmniej 24-miesięcznym okresem gwarancji producenta. Serwis gwarancyjny powinien być zlokalizowany na terytorium Rzeczypospolitej Polskiej. W przypadku naprawy realizowanej poza miejscem użytkowania tabletu wszelkie koszty związane z dostarczeniem tabletu do serwisu i z powrotem do użytkownika powinny być pokryte przez gwaranta w ramach gwarancji. Wymogu gwarancji producenta nie stosuje się w przypadku, gdy szkoła lub organ prowadzący zapewni obsługę serwisową na co najmniej tych samych warunkach."
-      },
-      {
-       "type": "text",
-       "text": "II. Sprzęt komputerowy dla nauczyciela"
-      },
-      {
-       "type": "text",
-       "text": "II.1. Komputer stacjonarny (zestaw)"
-      },
-      {
-       "type": "text",
-       "text": "Komputer stacjonarny (zestaw) powinien składać się z:"
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Sprzęt komputerowy dla nauczyciela"
+    },
+    {
+     "type": "text",
+     "text": "II.1. Komputer stacjonarny (zestaw)"
+    },
+    {
+     "type": "text",
+     "text": "Komputer stacjonarny (zestaw) powinien składać się z:"
     },
     {
      "type": "pkt",

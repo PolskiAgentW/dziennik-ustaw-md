@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/522",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rachunkowości",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/522/text.pdf",
  "body": [
   {
@@ -13747,36 +13747,44 @@
      "text": "Aktywa razem Pasywa"
     },
     {
-     "type": "text",
-     "text": "I. Zobowiązania wobec Banku Centralnego"
+     "type": "heading",
+     "label": "I.",
+     "text": "Zobowiązania wobec Banku Centralnego"
     },
     {
-     "type": "text",
-     "text": "II. Zobowiązania wobec sektora finansowego 1. W rachunku bieżącym 2. Terminowe"
+     "type": "heading",
+     "label": "II.",
+     "text": "Zobowiązania wobec sektora finansowego 1. W rachunku bieżącym 2. Terminowe"
     },
     {
-     "type": "text",
-     "text": "III. Zobowiązania wobec sektora niefinansowego 1. Rachunki oszczędnościowe, w tym: a) bieżące b) terminowe 2. Pozostałe, w tym: a) bieżące b) terminowe"
+     "type": "heading",
+     "label": "III.",
+     "text": "Zobowiązania wobec sektora niefinansowego 1. Rachunki oszczędnościowe, w tym: a) bieżące b) terminowe 2. Pozostałe, w tym: a) bieżące b) terminowe"
     },
     {
-     "type": "text",
-     "text": "IV. Zobowiązania wobec sektora budżetowego 1. Bieżące 2. Terminowe"
+     "type": "heading",
+     "label": "IV.",
+     "text": "Zobowiązania wobec sektora budżetowego 1. Bieżące 2. Terminowe"
     },
     {
-     "type": "text",
-     "text": "V. Zobowiązania z tytułu sprzedanych papierów wartościowych z udzielonym przyrzeczeniem odkupu"
+     "type": "heading",
+     "label": "V.",
+     "text": "Zobowiązania z tytułu sprzedanych papierów wartościowych z udzielonym przyrzeczeniem odkupu"
     },
     {
-     "type": "text",
-     "text": "VI. Zobowiązania z tytułu emisji dłużnych papierów wartościowych"
+     "type": "heading",
+     "label": "VI.",
+     "text": "Zobowiązania z tytułu emisji dłużnych papierów wartościowych"
     },
     {
-     "type": "text",
-     "text": "VII. Inne zobowiązania z tytułu instrumentów finansowych"
+     "type": "heading",
+     "label": "VII.",
+     "text": "Inne zobowiązania z tytułu instrumentów finansowych"
     },
     {
-     "type": "text",
-     "text": "VIII. Fundusze specjalne i inne zobowiązania IX. Koszty i przychody rozliczane w czasie 1. Rozliczenia międzyokresowe kosztów 2. Ujemna wartość firmy 3. Pozostałe rozliczenia międzyokresowe przychodów"
+     "type": "heading",
+     "label": "VIII.",
+     "text": "Fundusze specjalne i inne zobowiązania IX. Koszty i przychody rozliczane w czasie 1. Rozliczenia międzyokresowe kosztów 2. Ujemna wartość firmy 3. Pozostałe rozliczenia międzyokresowe przychodów"
     },
     {
      "type": "text",
@@ -13819,120 +13827,148 @@
      "text": "Pozycje pozabilansowe"
     },
     {
-     "type": "text",
-     "text": "I. Zobowiązania warunkowe udzielone i otrzymane 1. Zobowiązania udzielone: a) finansowe b) gwarancyjne 2. Zobowiązania otrzymane: a) finansowe b) gwarancyjne"
+     "type": "heading",
+     "label": "I.",
+     "text": "Zobowiązania warunkowe udzielone i otrzymane 1. Zobowiązania udzielone: a) finansowe b) gwarancyjne 2. Zobowiązania otrzymane: a) finansowe b) gwarancyjne"
     },
     {
-     "type": "text",
-     "text": "II. Zobowiązania związane z realizacją operacji kupna/sprzedaży"
+     "type": "heading",
+     "label": "II.",
+     "text": "Zobowiązania związane z realizacją operacji kupna/sprzedaży"
     },
     {
-     "type": "text",
-     "text": "III. Pozostałe Rachunek zysków i strat"
+     "type": "heading",
+     "label": "III.",
+     "text": "Pozostałe Rachunek zysków i strat"
     },
     {
-     "type": "text",
-     "text": "I. Przychody z tytułu odsetek 1. Od sektora finansowego 2. Od sektora niefinansowego 3. Od sektora budżetowego 4. Z papierów wartościowych o stałej kwocie dochodu"
+     "type": "heading",
+     "label": "I.",
+     "text": "Przychody z tytułu odsetek 1. Od sektora finansowego 2. Od sektora niefinansowego 3. Od sektora budżetowego 4. Z papierów wartościowych o stałej kwocie dochodu"
     },
     {
-     "type": "text",
-     "text": "II. Koszty odsetek 1. Od sektora finansowego 2. Od sektora niefinansowego 3. Od sektora budżetowego"
+     "type": "heading",
+     "label": "II.",
+     "text": "Koszty odsetek 1. Od sektora finansowego 2. Od sektora niefinansowego 3. Od sektora budżetowego"
     },
     {
-     "type": "text",
-     "text": "III. Wynik z tytułu odsetek (I–II)"
+     "type": "heading",
+     "label": "III.",
+     "text": "Wynik z tytułu odsetek (I–II)"
     },
     {
-     "type": "text",
-     "text": "IV. Przychody z tytułu prowizji"
+     "type": "heading",
+     "label": "IV.",
+     "text": "Przychody z tytułu prowizji"
     },
     {
-     "type": "text",
-     "text": "V. Koszty prowizji"
+     "type": "heading",
+     "label": "V.",
+     "text": "Koszty prowizji"
     },
     {
-     "type": "text",
-     "text": "VI. Wynik z tytułu prowizji (IV–V)"
+     "type": "heading",
+     "label": "VI.",
+     "text": "Wynik z tytułu prowizji (IV–V)"
     },
     {
-     "type": "text",
-     "text": "VII. Przychody z udziałów lub akcji, pozostałych papierów wartościowych i innych instrumentów finansowych, o zmiennej kwocie dochodu 1. Od jednostek zależnych 2. Od jednostek współzależnych 3. Od jednostek stowarzyszonych 4. Od pozostałych jednostek"
+     "type": "heading",
+     "label": "VII.",
+     "text": "Przychody z udziałów lub akcji, pozostałych papierów wartościowych i innych instrumentów finansowych, o zmiennej kwocie dochodu 1. Od jednostek zależnych 2. Od jednostek współzależnych 3. Od jednostek stowarzyszonych 4. Od pozostałych jednostek"
     },
     {
-     "type": "text",
-     "text": "VIII. Wynik operacji finansowych 1. Papierami wartościowymi i innymi instrumentami finansowymi 2. Pozostałych"
+     "type": "heading",
+     "label": "VIII.",
+     "text": "Wynik operacji finansowych 1. Papierami wartościowymi i innymi instrumentami finansowymi 2. Pozostałych"
     },
     {
-     "type": "text",
-     "text": "IX. Wynik z pozycji wymiany"
+     "type": "heading",
+     "label": "IX.",
+     "text": "Wynik z pozycji wymiany"
     },
     {
-     "type": "text",
-     "text": "X. Wynik działalności bankowej"
+     "type": "heading",
+     "label": "X.",
+     "text": "Wynik działalności bankowej"
     },
     {
-     "type": "text",
-     "text": "XI. Pozostałe przychody operacyjne"
+     "type": "heading",
+     "label": "XI.",
+     "text": "Pozostałe przychody operacyjne"
     },
     {
-     "type": "text",
-     "text": "XII. Pozostałe koszty operacyjne"
+     "type": "heading",
+     "label": "XII.",
+     "text": "Pozostałe koszty operacyjne"
     },
     {
-     "type": "text",
-     "text": "XIII. Koszty działania banku 1. Wynagrodzenia 2. Ubezpieczenia i inne świadczenia 3. Inne"
+     "type": "heading",
+     "label": "XIII.",
+     "text": "Koszty działania banku 1. Wynagrodzenia 2. Ubezpieczenia i inne świadczenia 3. Inne"
     },
     {
-     "type": "text",
-     "text": "XIV. Amortyzacja środków trwałych oraz wartości niematerialnych i prawnych"
+     "type": "heading",
+     "label": "XIV.",
+     "text": "Amortyzacja środków trwałych oraz wartości niematerialnych i prawnych"
     },
     {
-     "type": "text",
-     "text": "XV. Odpisy na rezerwy i aktualizacja wartości 1. Odpisy na rezerwy celowe i na ogólne ryzyko bankowe 2. Aktualizacja wartości aktywów finansowych"
+     "type": "heading",
+     "label": "XV.",
+     "text": "Odpisy na rezerwy i aktualizacja wartości 1. Odpisy na rezerwy celowe i na ogólne ryzyko bankowe 2. Aktualizacja wartości aktywów finansowych"
     },
     {
-     "type": "text",
-     "text": "XVI. Rozwiązanie rezerw i aktualizacja wartości 1. Rozwiązanie rezerw celowych i rezerw na ogólne ryzyko bankowe 2. Aktualizacja wartości aktywów finansowych"
+     "type": "heading",
+     "label": "XVI.",
+     "text": "Rozwiązanie rezerw i aktualizacja wartości 1. Rozwiązanie rezerw celowych i rezerw na ogólne ryzyko bankowe 2. Aktualizacja wartości aktywów finansowych"
     },
     {
-     "type": "text",
-     "text": "XVII. Różnica wartości rezerw i aktualizacji (XV–XVI)"
+     "type": "heading",
+     "label": "XVII.",
+     "text": "Różnica wartości rezerw i aktualizacji (XV–XVI)"
     },
     {
-     "type": "text",
-     "text": "XVIII. Wynik działalności operacyjnej"
+     "type": "heading",
+     "label": "XVIII.",
+     "text": "Wynik działalności operacyjnej"
     },
     {
-     "type": "text",
-     "text": "XIX. Wynik operacji nadzwyczajnych 1. Zyski nadzwyczajne 2. Straty nadzwyczajne"
+     "type": "heading",
+     "label": "XIX.",
+     "text": "Wynik operacji nadzwyczajnych 1. Zyski nadzwyczajne 2. Straty nadzwyczajne"
     },
     {
-     "type": "text",
-     "text": "XX. Zysk (strata) brutto"
+     "type": "heading",
+     "label": "XX.",
+     "text": "Zysk (strata) brutto"
     },
     {
-     "type": "text",
-     "text": "XXI. Podatek dochodowy"
+     "type": "heading",
+     "label": "XXI.",
+     "text": "Podatek dochodowy"
     },
     {
-     "type": "text",
-     "text": "XXII. Pozostałe obowiązkowe zmniejszenie zysku (zwiększenie straty)"
+     "type": "heading",
+     "label": "XXII.",
+     "text": "Pozostałe obowiązkowe zmniejszenie zysku (zwiększenie straty)"
     },
     {
-     "type": "text",
-     "text": "XXIII. Zysk (strata) netto Zestawienie zmian w kapitale (funduszu) własnym"
+     "type": "heading",
+     "label": "XXIII.",
+     "text": "Zysk (strata) netto Zestawienie zmian w kapitale (funduszu) własnym"
     },
     {
-     "type": "text",
-     "text": "I. Kapitał (fundusz) własny na początek okresu (BO)"
+     "type": "heading",
+     "label": "I.",
+     "text": "Kapitał (fundusz) własny na początek okresu (BO)"
     },
     {
      "type": "text",
      "text": "– korekty błędów podstawowych"
     },
     {
-     "type": "text",
-     "text": "II. Kapitał (fundusz) własny na początek okresu (BO), po korektach"
+     "type": "heading",
+     "label": "II.",
+     "text": "Kapitał (fundusz) własny na początek okresu (BO), po korektach"
     },
     {
      "type": "ust",
@@ -14288,58 +14324,65 @@
        "num": "c",
        "path": "ust_7/lit_c",
        "text": "odpisy z zysku",
-       "children": [
-        {
-         "type": "text",
-         "text": "III. Kapitał (fundusz) własny na koniec okresu (BZ)"
-        },
-        {
-         "type": "text",
-         "text": "IV. Kapitał (fundusz) własny po uwzględnieniu proponowanego podziału zysku (pokrycia straty)"
-        },
-        {
-         "type": "text",
-         "text": "Rachunek przepływów pieniężnych (metoda bezpośrednia)"
-        },
-        {
-         "type": "text",
-         "text": "A. Przepływy środków pieniężnych z działalności operacyjnej"
-        },
-        {
-         "type": "text",
-         "text": "I. Wpływy 1. Odsetki 2. Prowizje 3. Inne wpływy operacyjne"
-        },
-        {
-         "type": "text",
-         "text": "II. Wydatki 1. Odsetki 2. Prowizje 3. Wynagrodzenia 4. Ubezpieczenia i inne świadczenia 5. Inne koszty działania banku 6. Podatki i opłaty o charakterze publicznoprawnym 7. Inne wydatki operacyjne"
-        },
-        {
-         "type": "text",
-         "text": "III. Przepływy pieniężne netto z działalności operacyjnej (I–II) B. Przepływy środków pieniężnych z działalności inwestycyjnej"
-        },
-        {
-         "type": "text",
-         "text": "I. Wpływy 1. Zbycie udziałów lub akcji w jednostkach zależnych 2. Zbycie udziałów lub akcji w jednostkach współzależnych 3. Zbycie udziałów lub akcji w jednostkach stowarzyszonych 4. Zbycie udziałów lub akcji w innych jednostkach, pozostałych papierów wartościowych (w tym również handlowych) i innych aktywów finansowych 5. Zbycie wartości niematerialnych i prawnych oraz rzeczowych aktywów trwałych 6. Inne wpływy inwestycyjne"
-        },
-        {
-         "type": "text",
-         "text": "II. Wydatki 1. Nabycie udziałów lub akcji w jednostkach zależnych 2. Nabycie udziałów lub akcji w jednostkach współzależnych 3. Nabycie udziałów lub akcji w jednostkach stowarzyszonych 4. Nabycie udziałów lub akcji w innych jednostkach, pozostałych papierów wartościowych i innych aktywów finansowych (lokacyjnych) 5. Nabycie wartości niematerialnych i prawnych oraz rzeczowych aktywów trwałych 6. Inne wydatki inwestycyjne"
-        },
-        {
-         "type": "text",
-         "text": "III. Przepływy pieniężne netto z działalności inwestycyjnej (I–II)"
-        },
-        {
-         "type": "text",
-         "text": "C. Przepływy środków pieniężnych z działalności finansowej I. Wpływy 1. Zaciągnięcie długoterminowych kredytów od innych banków 2. Zaciągnięcie długoterminowych pożyczek od innych niż banki instytucji finansowych 3. Emisja dłużnych papierów wartościowych dla innych instytucji finansowych 4. Zwiększenie stanu zobowiązań podporządkowanych 5. Wpływy netto z emisji akcji i dopłat do kapitału 6. Inne wpływy finansowe II. Wydatki 1. Spłaty długoterminowych kredytów na rzecz innych banków 2. Spłaty długoterminowych pożyczek na rzecz innych niż banki instytucji finansowych 3. Wykup dłużnych papierów wartościowych od innych instytucji finansowych 4. Z tytułu innych zobowiązań finansowych 5. Płatności zobowiązań z tytułu umów leasingu finansowego 6. Zmniejszenie stanu zobowiązań podporządkowanych 7. Dywidendy i inne wypłaty na rzecz właścicieli 8. Inne, niż wypłaty na rzecz właścicieli, wydatki z tytułu podziału zysku 9. Nabycie akcji własnych 10. Inne wydatki finansowe III. Przepływy pieniężne netto z działalności finansowej (I–II) D. Przepływy pieniężne netto, razem (A.III±B.III±C.III) E. Bilansowa zmiana stanu środków pieniężnych, w tym – zmiana stanu środków pieniężnych z tytułu różnic kursowych F. Środki pieniężne na początek okresu G. Środki pieniężne na koniec okresu (F±D), w tym – o ograniczonej możliwości dysponowania"
-        },
-        {
-         "type": "text",
-         "text": "(metoda pośrednia) A. Przepływy środków pieniężnych z działalności operacyjnej I. Zysk (strata) netto II. Korekty razem:"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Kapitał (fundusz) własny na koniec okresu (BZ)"
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Kapitał (fundusz) własny po uwzględnieniu proponowanego podziału zysku (pokrycia straty)"
+    },
+    {
+     "type": "text",
+     "text": "Rachunek przepływów pieniężnych (metoda bezpośrednia)"
+    },
+    {
+     "type": "text",
+     "text": "A. Przepływy środków pieniężnych z działalności operacyjnej"
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Wpływy 1. Odsetki 2. Prowizje 3. Inne wpływy operacyjne"
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Wydatki 1. Odsetki 2. Prowizje 3. Wynagrodzenia 4. Ubezpieczenia i inne świadczenia 5. Inne koszty działania banku 6. Podatki i opłaty o charakterze publicznoprawnym 7. Inne wydatki operacyjne"
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Przepływy pieniężne netto z działalności operacyjnej (I–II) B. Przepływy środków pieniężnych z działalności inwestycyjnej"
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Wpływy 1. Zbycie udziałów lub akcji w jednostkach zależnych 2. Zbycie udziałów lub akcji w jednostkach współzależnych 3. Zbycie udziałów lub akcji w jednostkach stowarzyszonych 4. Zbycie udziałów lub akcji w innych jednostkach, pozostałych papierów wartościowych (w tym również handlowych) i innych aktywów finansowych 5. Zbycie wartości niematerialnych i prawnych oraz rzeczowych aktywów trwałych 6. Inne wpływy inwestycyjne"
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Wydatki 1. Nabycie udziałów lub akcji w jednostkach zależnych 2. Nabycie udziałów lub akcji w jednostkach współzależnych 3. Nabycie udziałów lub akcji w jednostkach stowarzyszonych 4. Nabycie udziałów lub akcji w innych jednostkach, pozostałych papierów wartościowych i innych aktywów finansowych (lokacyjnych) 5. Nabycie wartości niematerialnych i prawnych oraz rzeczowych aktywów trwałych 6. Inne wydatki inwestycyjne"
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Przepływy pieniężne netto z działalności inwestycyjnej (I–II)"
+    },
+    {
+     "type": "text",
+     "text": "C. Przepływy środków pieniężnych z działalności finansowej I. Wpływy 1. Zaciągnięcie długoterminowych kredytów od innych banków 2. Zaciągnięcie długoterminowych pożyczek od innych niż banki instytucji finansowych 3. Emisja dłużnych papierów wartościowych dla innych instytucji finansowych 4. Zwiększenie stanu zobowiązań podporządkowanych 5. Wpływy netto z emisji akcji i dopłat do kapitału 6. Inne wpływy finansowe II. Wydatki 1. Spłaty długoterminowych kredytów na rzecz innych banków 2. Spłaty długoterminowych pożyczek na rzecz innych niż banki instytucji finansowych 3. Wykup dłużnych papierów wartościowych od innych instytucji finansowych 4. Z tytułu innych zobowiązań finansowych 5. Płatności zobowiązań z tytułu umów leasingu finansowego 6. Zmniejszenie stanu zobowiązań podporządkowanych 7. Dywidendy i inne wypłaty na rzecz właścicieli 8. Inne, niż wypłaty na rzecz właścicieli, wydatki z tytułu podziału zysku 9. Nabycie akcji własnych 10. Inne wydatki finansowe III. Przepływy pieniężne netto z działalności finansowej (I–II) D. Przepływy pieniężne netto, razem (A.III±B.III±C.III) E. Bilansowa zmiana stanu środków pieniężnych, w tym – zmiana stanu środków pieniężnych z tytułu różnic kursowych F. Środki pieniężne na początek okresu G. Środki pieniężne na koniec okresu (F±D), w tym – o ograniczonej możliwości dysponowania"
+    },
+    {
+     "type": "text",
+     "text": "(metoda pośrednia) A. Przepływy środków pieniężnych z działalności operacyjnej I. Zysk (strata) netto II. Korekty razem:"
     },
     {
      "type": "ust",

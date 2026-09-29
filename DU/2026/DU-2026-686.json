@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/686",
  "title": "Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 21 maja 2026 r. w sprawie wzoru zaświadczenia jednostki prowadzącej studia lub kształcenie w szkole doktorskiej o przyjęciu cudzoziemca na studia stacjonarne lub kształcenie w szkole doktorskiej lub o kontynuacji przez niego studiów stacjonarnych lub kształcenia w szkole doktorskiej",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/686/text.pdf",
  "body": [
   {
@@ -134,8 +134,12 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "1) Kształcenie na studiach stacjonarnych / w szkole doktorskiej rozpoczyna się / rozpoczęło się w dniu",
+     "text": "1)",
      "children": [
+      {
+       "type": "text",
+       "text": "Kształcenie na studiach stacjonarnych / w szkole doktorskiej rozpoczyna się / rozpoczęło się w dniu"
+      },
       {
        "type": "text",
        "text": "………………...……….. r. Planowana data ukończenia studiów stacjonarnych / kształcenia w szkole"
@@ -146,19 +150,24 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "1) doktorskiej zgodnie z programem studiów / programem kształcenia w szkole doktorskiej przypada",
+     "text": "1)",
      "children": []
+    },
+    {
+     "type": "text",
+     "text": "doktorskiej zgodnie z programem studiów / programem kształcenia w szkole doktorskiej przypada"
     },
     {
      "type": "text",
      "text": "na ………………………… r."
     },
     {
-     "type": "pkt",
-     "num": "1",
-     "path": "pkt_1",
-     "text": "Studia stacjonarne odbywają się / kształcenie w szkole doktorskiej odbywa się w języku",
-     "children": []
+     "type": "text",
+     "text": "1)"
+    },
+    {
+     "type": "text",
+     "text": "Studia stacjonarne odbywają się / kształcenie w szkole doktorskiej odbywa się w języku"
     },
     {
      "type": "pkt",
@@ -168,19 +177,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Nazwa programu finansowanego przez Unię Europejską lub przez państwa członkowskie Unii"
-      },
-      {
-       "type": "text",
-       "text": "Europejskiej, który promuje przemieszczanie się obywateli państw trzecich w Unii Europejskiej"
-      },
-      {
-       "type": "text",
-       "text": "lub w państwach członkowskich Unii Europejskiej uczestniczących w tym programie, lub"
-      },
-      {
-       "type": "text",
-       "text": "porozumienia między przynajmniej dwiema instytucjami szkolnictwa wyższego przewidującego"
+       "text": "Nazwa programu finansowanego przez Unię Europejską lub przez państwa członkowskie Unii Europejskiej, który promuje przemieszczanie się obywateli państw trzecich w Unii Europejskiej lub w państwach członkowskich Unii Europejskiej uczestniczących w tym programie, lub porozumienia między przynajmniej dwiema instytucjami szkolnictwa wyższego przewidującego"
       }
      ]
     },
@@ -188,32 +185,21 @@
      "type": "pkt",
      "num": "9",
      "path": "pkt_9",
-     "text": "mobilność wewnątrzunijną ……………….………………………………………….…………",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "oraz nazwy i adresy jednostek prowadzących studia stacjonarne albo kształcenie w szkole"
-    },
-    {
-     "type": "text",
-     "text": "doktorskiej, objętych tym porozumieniem ………………………………………………………."
-    },
-    {
-     "type": "text",
-     "text": ".……………………………………………………………………………………………………"
-    },
-    {
-     "type": "text",
-     "text": "Informacja o dotychczasowej realizacji toku studiów stacjonarnych i zaliczeniu wymaganych"
-    },
-    {
-     "type": "text",
-     "text": "programem studiów zajęć lub grupy zajęć / kształcenia w szkole doktorskiej i zaliczeniu"
-    },
-    {
-     "type": "text",
-     "text": "1), 4) wymaganych programem kształcenia zajęć lub grupy zajęć ………………………………….."
+     "text": "mobilność wewnątrzunijną ……………….………………………………………….………… oraz nazwy i adresy jednostek prowadzących studia stacjonarne albo kształcenie w szkole doktorskiej, objętych tym porozumieniem ………………………………………………………. .……………………………………………………………………………………………………",
+     "children": [
+      {
+       "type": "text",
+       "text": "Informacja o dotychczasowej realizacji toku studiów stacjonarnych i zaliczeniu wymaganych programem studiów zajęć lub grupy zajęć / kształcenia w szkole doktorskiej i zaliczeniu"
+      },
+      {
+       "type": "text",
+       "text": "1), 4)"
+      },
+      {
+       "type": "text",
+       "text": "wymaganych programem kształcenia zajęć lub grupy zajęć ………………………………….."
+      }
+     ]
     },
     {
      "type": "pkt",

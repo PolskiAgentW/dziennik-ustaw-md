@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1871",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 22 grudnia 2025 r. w sprawie centralnej elektronicznej rejestracji",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1871/text.pdf",
  "body": [
   {
@@ -299,8 +299,9 @@
      "text": "ŚWIADCZENIA OPIEKI ZDROWOTNEJ OBJĘTE CENTRALNĄ ELEKTRONICZNĄ REJESTRACJĄ"
     },
     {
-     "type": "text",
-     "text": "I. Świadczenia gwarantowane z zakresu ambulatoryjnej opieki specjalistycznej wykonywane przez świadczeniodawcę, który realizuje świadczenia opieki zdrowotnej określone w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, z późn. zm.), zgodnie z umową o udzielanie świadczeń opieki zdrowotnej:"
+     "type": "heading",
+     "label": "I.",
+     "text": "Świadczenia gwarantowane z zakresu ambulatoryjnej opieki specjalistycznej wykonywane przez świadczeniodawcę, który realizuje świadczenia opieki zdrowotnej określone w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, z późn. zm.), zgodnie z umową o udzielanie świadczeń opieki zdrowotnej:"
     },
     {
      "type": "pkt",
@@ -363,12 +364,12 @@
      "num": "9",
      "path": "pkt_9",
      "text": "świadczenia z zakresu leczenia gruźlicy i chorób płuc.",
-     "children": [
-      {
-       "type": "text",
-       "text": "II. Świadczenia gwarantowane z zakresu programów zdrowotnych wykonywane przez świadczeniodawcę, który realizuje świadczenia opieki zdrowotnej określone w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zgodnie z umową o udzielanie świadczeń opieki zdrowotnej:"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Świadczenia gwarantowane z zakresu programów zdrowotnych wykonywane przez świadczeniodawcę, który realizuje świadczenia opieki zdrowotnej określone w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zgodnie z umową o udzielanie świadczeń opieki zdrowotnej:"
     },
     {
      "type": "pkt",

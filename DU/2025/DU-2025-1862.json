@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1862",
  "title": "Rozporządzenie Rady Ministrów z dnia 22 grudnia 2025 r. w sprawie rocznych opłat za prawo do dysponowania częstotliwością lub prawo do wykorzystywania częstotliwości",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1862/text.pdf",
  "body": [
   {
@@ -244,22 +244,22 @@
    "body": [
     {
      "type": "text",
-     "text": "ŚĆ ROCZNEJ OPŁATY W SŁUŻBACH SATELITARNYCH WYSOKOŚĆ ROCZNEJ OPŁATY W SŁUŻBACH SATELITARNYCH ORAZ W SŁUŻBIE RADIOLOKALIZACYJNEJ"
+     "text": "ŚĆ ROCZNEJ OPŁATY W SŁUŻBACH SATELITARNYCH"
+    },
+    {
+     "type": "text",
+     "text": "WYSOKOŚĆ ROCZNEJ OPŁATY W SŁUŻBACH SATELITARNYCH"
+    },
+    {
+     "type": "text",
+     "text": "ORAZ W SŁUŻBIE RADIOLOKALIZACYJNEJ"
     },
     {
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwością przez jedną stację",
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwością przez jedną stację satelitarną w systemach korzystających z satelitarnej infrastruktury telekomunikacyjnej wynosi:",
      "children": [
-      {
-       "type": "text",
-       "text": "satelitarną w systemach korzystających z satelitarnej infrastruktury telekomunikacyjnej"
-      },
-      {
-       "type": "text",
-       "text": "wynosi:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -336,123 +336,74 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Wysokość rocznej opłaty w służbie ruchomej satelitarnej za prawo do dysponowania",
-     "children": [
-      {
-       "type": "text",
-       "text": "częstotliwościami o łącznej szerokości 1 MHz wykorzystywanymi przez uzupełniające"
-      },
-      {
-       "type": "text",
-       "text": "elementy naziemne systemów satelitarnej komunikacji ruchomej, w przypadku"
-      },
-      {
-       "type": "text",
-       "text": "wykorzystywania tych częstotliwości na obszarze jednej gminy lub mniejszym, wynosi 287 zł."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty w służbie ruchomej satelitarnej za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz wykorzystywanymi przez uzupełniające elementy naziemne systemów satelitarnej komunikacji ruchomej, w przypadku wykorzystywania tych częstotliwości na obszarze jednej gminy lub mniejszym, wynosi 287 zł.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których",
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 2, w przypadku wykorzystywania częstotliwości na obszarze większym niż obszar jednej gminy, stanowi iloczyn kwoty w wysokości 287 zł i liczby gmin, na których obszarze są wykorzystywane częstotliwości. Jeżeli iloczyn ten przekroczy:",
      "children": [
-      {
-       "type": "text",
-       "text": "mowa w ust. 2, w przypadku wykorzystywania częstotliwości na obszarze większym niż"
-      },
-      {
-       "type": "text",
-       "text": "obszar jednej gminy, stanowi iloczyn kwoty w wysokości 287 zł i liczby gmin, na których"
-      },
-      {
-       "type": "text",
-       "text": "obszarze są wykorzystywane częstotliwości. Jeżeli iloczyn ten przekroczy:"
-      },
       {
        "type": "pkt",
        "num": "1",
        "path": "ust_3/pkt_1",
-       "text": "w zakresie częstotliwości poniżej 1900 MHz kwotę 230 000 zł, wysokość rocznej opłaty",
-       "children": []
-      },
-      {
-       "type": "text",
-       "text": "za prawo do dysponowania częstotliwościami, o których mowa w ust. 2, wynosi:"
-      },
-      {
-       "type": "text",
-       "text": "230 000 zł + 115 000 zł * (n/Nmax),"
+       "text": "w zakresie częstotliwości poniżej 1900 MHz kwotę 230 000 zł, wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 2, wynosi:",
+       "children": [
+        {
+         "type": "text",
+         "text": "230 000 zł + 115 000 zł * (n/Nmax),"
+        }
+       ]
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_3/pkt_2",
-       "text": "w zakresie częstotliwości powyżej 1900 MHz do 2300 MHz kwotę 80 500 zł, wysokość",
-       "children": []
-      },
-      {
-       "type": "text",
-       "text": "rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 2,"
-      },
-      {
-       "type": "text",
-       "text": "wynosi:"
-      },
-      {
-       "type": "text",
-       "text": "80 500 zł + 51 750 zł * (n/Nmax),"
+       "text": "w zakresie częstotliwości powyżej 1900 MHz do 2300 MHz kwotę 80 500 zł, wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 2, wynosi:",
+       "children": [
+        {
+         "type": "text",
+         "text": "80 500 zł + 51 750 zł * (n/Nmax),"
+        }
+       ]
       },
       {
        "type": "pkt",
        "num": "3",
        "path": "ust_3/pkt_3",
-       "text": "w zakresie częstotliwości powyżej 2300 MHz do 2690 MHz kwotę 80 500 zł, wysokość",
-       "children": []
-      },
-      {
-       "type": "text",
-       "text": "rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 2,"
-      },
-      {
-       "type": "text",
-       "text": "wynosi:"
-      },
-      {
-       "type": "text",
-       "text": "80 500 zł + 34 500 zł * (n/Nmax),"
+       "text": "w zakresie częstotliwości powyżej 2300 MHz do 2690 MHz kwotę 80 500 zł, wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 2, wynosi:",
+       "children": [
+        {
+         "type": "text",
+         "text": "80 500 zł + 34 500 zł * (n/Nmax),"
+        }
+       ]
       },
       {
        "type": "pkt",
        "num": "4",
        "path": "ust_3/pkt_4",
-       "text": "w zakresie częstotliwości powyżej 2690 MHz do 3400 MHz kwotę 57 500 zł, wysokość",
-       "children": []
-      },
-      {
-       "type": "text",
-       "text": "rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 2,"
-      },
-      {
-       "type": "text",
-       "text": "wynosi:"
-      },
-      {
-       "type": "text",
-       "text": "57 500 zł + 13 800 zł * (n/Nmax)"
-      },
-      {
-       "type": "text",
-       "text": "gdzie:"
-      },
-      {
-       "type": "text",
-       "text": "n – liczba gmin objętych prawem do dysponowania częstotliwością,"
-      },
-      {
-       "type": "text",
-       "text": "Nmax – liczba wszystkich gmin w kraju."
+       "text": "w zakresie częstotliwości powyżej 2690 MHz do 3400 MHz kwotę 57 500 zł, wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 2, wynosi:",
+       "children": [
+        {
+         "type": "text",
+         "text": "57 500 zł + 13 800 zł * (n/Nmax)"
+        },
+        {
+         "type": "text",
+         "text": "gdzie:"
+        },
+        {
+         "type": "text",
+         "text": "n – liczba gmin objętych prawem do dysponowania częstotliwością,"
+        },
+        {
+         "type": "text",
+         "text": "Nmax – liczba wszystkich gmin w kraju."
+        }
+       ]
       }
      ]
     },
@@ -460,13 +411,8 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Wysokość rocznej opłaty w służbie radiolokalizacyjnej za prawo do dysponowania",
-     "children": [
-      {
-       "type": "text",
-       "text": "częstotliwością przez jedną stację radarową wynosi 345 zł."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty w służbie radiolokalizacyjnej za prawo do dysponowania częstotliwością przez jedną stację radarową wynosi 345 zł.",
+     "children": []
     }
    ]
   },
@@ -475,34 +421,25 @@
    "body": [
     {
      "type": "text",
-     "text": "WYSOKOŚĆ ROCZNEJ OPŁATY W SŁUŻBIE LOTNICZEJ ORAZ W SŁUŻBIE MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ"
+     "text": "WYSOKOŚĆ ROCZNEJ OPŁATY W SŁUŻBIE LOTNICZEJ"
+    },
+    {
+     "type": "text",
+     "text": "ORAZ W SŁUŻBIE MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ"
     },
     {
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Wysokość rocznej opłaty w służbie lotniczej za prawo do dysponowania",
-     "children": [
-      {
-       "type": "text",
-       "text": "częstotliwościami o łącznej szerokości 1 kHz przez jeden system lotniskowy wynosi 18 zł."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty w służbie lotniczej za prawo do dysponowania częstotliwościami o łącznej szerokości 1 kHz przez jeden system lotniskowy wynosi 18 zł.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Wysokość rocznej opłaty w służbie morskiej i żeglugi śródlądowej za prawo do",
+     "text": "Wysokość rocznej opłaty w służbie morskiej i żeglugi śródlądowej za prawo do dysponowania częstotliwościami o łącznej szerokości 1 kHz przez jedną stację nadbrzeżną w relacji łączności brzeg – statek jest określona w tabeli 1.",
      "children": [
-      {
-       "type": "text",
-       "text": "dysponowania częstotliwościami o łącznej szerokości 1 kHz przez jedną stację nadbrzeżną"
-      },
-      {
-       "type": "text",
-       "text": "w relacji łączności brzeg – statek jest określona w tabeli 1."
-      },
       {
        "type": "text",
        "text": "TABELA 1"
@@ -533,16 +470,8 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Wysokość rocznej opłaty w służbie morskiej i żeglugi śródlądowej za prawo do",
+     "text": "Wysokość rocznej opłaty w służbie morskiej i żeglugi śródlądowej za prawo do dysponowania częstotliwościami o łącznej szerokości 1 kHz przez każdą stację lądową przewoźną lub przenośną w relacji łączności brzeg – statek jest określona w tabeli 2.",
      "children": [
-      {
-       "type": "text",
-       "text": "dysponowania częstotliwościami o łącznej szerokości 1 kHz przez każdą stację lądową"
-      },
-      {
-       "type": "text",
-       "text": "przewoźną lub przenośną w relacji łączności brzeg – statek jest określona w tabeli 2."
-      },
       {
        "type": "text",
        "text": "TABELA 2"
@@ -578,16 +507,8 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Wysokość rocznej opłaty w służbie radiodyfuzji naziemnej za prawo do dysponowania",
+     "text": "Wysokość rocznej opłaty w służbie radiodyfuzji naziemnej za prawo do dysponowania częstotliwościami o łącznej szerokości 1 kHz na obszarze jednej gminy lub mniejszym w zakresie do 174 MHz jest określona w tabeli 1.",
      "children": [
-      {
-       "type": "text",
-       "text": "częstotliwościami o łącznej szerokości 1 kHz na obszarze jednej gminy lub mniejszym"
-      },
-      {
-       "type": "text",
-       "text": "w zakresie do 174 MHz jest określona w tabeli 1."
-      },
       {
        "type": "text",
        "text": "TABELA 1"
@@ -614,7 +535,15 @@
       },
       {
        "type": "text",
-       "text": "od 300 do 3000 gmina miejska, z wyłączeniem miast 16 na prawach powiatu"
+       "text": "od 300 do 3000 gmina miejska, z wyłączeniem miast"
+      },
+      {
+       "type": "text",
+       "text": "16"
+      },
+      {
+       "type": "text",
+       "text": "na prawach powiatu"
       },
       {
        "type": "text",
@@ -622,7 +551,15 @@
       },
       {
        "type": "text",
-       "text": "powyżej 3000 każdy rodzaj gminy 460 do 30 000"
+       "text": "powyżej 3000"
+      },
+      {
+       "type": "text",
+       "text": "każdy rodzaj gminy 460"
+      },
+      {
+       "type": "text",
+       "text": "do 30 000"
       },
       {
        "type": "text",
@@ -630,7 +567,23 @@
       },
       {
        "type": "text",
-       "text": "gmina miejsko-wiejska 0,8 powyżej 30 000 gmina miejska, z wyłączeniem miast do 174 000* 2,3 na prawach powiatu"
+       "text": "gmina miejsko-wiejska 0,8"
+      },
+      {
+       "type": "text",
+       "text": "powyżej 30 000"
+      },
+      {
+       "type": "text",
+       "text": "gmina miejska, z wyłączeniem miast"
+      },
+      {
+       "type": "text",
+       "text": "do 174 000* 2,3"
+      },
+      {
+       "type": "text",
+       "text": "na prawach powiatu"
       },
       {
        "type": "text",
@@ -642,63 +595,30 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "W przypadku gdy decyzja przyznająca prawo do dysponowania częstotliwościami na",
-     "children": [
-      {
-       "type": "text",
-       "text": "obszarze mniejszym niż obszar całego kraju przyznaje prawo do dysponowania częstotliwością"
-      },
-      {
-       "type": "text",
-       "text": "na obszarze, na którym znajduje się co najmniej sześć miast na prawach powiatu w danym"
-      },
-      {
-       "type": "text",
-       "text": "województwie, wysokość rocznej opłaty za prawo do dysponowania częstotliwościami"
-      },
-      {
-       "type": "text",
-       "text": "o łącznej szerokości 1 kHz na obszarze szóstego miasta i kolejnych miast na prawach powiatu"
-      },
-      {
-       "type": "text",
-       "text": "w danym województwie w zakresie do 174 MHz stanowi iloczyn liczby tych miast i kwoty"
-      },
-      {
-       "type": "text",
-       "text": "opłaty za 1 kHz określonej w tabeli 1 dla gminy miejskiej, z wyłączeniem miast na prawach"
-      },
-      {
-       "type": "text",
-       "text": "powiatu."
-      }
-     ]
+     "text": "W przypadku gdy decyzja przyznająca prawo do dysponowania częstotliwościami na obszarze mniejszym niż obszar całego kraju przyznaje prawo do dysponowania częstotliwością na obszarze, na którym znajduje się co najmniej sześć miast na prawach powiatu w danym województwie, wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 kHz na obszarze szóstego miasta i kolejnych miast na prawach powiatu w danym województwie w zakresie do 174 MHz stanowi iloczyn liczby tych miast i kwoty opłaty za 1 kHz określonej w tabeli 1 dla gminy miejskiej, z wyłączeniem miast na prawach powiatu.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz, w przypadku wykorzystywania częstotliwości przez system naziemnej radiofonii cyfrowej na obszarze jednej gminy lub mniejszym, w zakresie powyżej 174 MHz do 230 MHz jest określona w tabeli 2.",
      "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 MHz, w przypadku wykorzystywania częstotliwości przez system naziemnej"
-      },
-      {
-       "type": "text",
-       "text": "radiofonii cyfrowej na obszarze jednej gminy lub mniejszym, w zakresie powyżej 174 MHz"
-      },
-      {
-       "type": "text",
-       "text": "do 230 MHz jest określona w tabeli 2."
-      },
       {
        "type": "text",
        "text": "TABELA 2"
       },
       {
        "type": "text",
-       "text": "Zakres częstotliwości Rodzaj gminy Opłata za 1 MHz [w zł] [w MHz]"
+       "text": "Zakres"
+      },
+      {
+       "type": "text",
+       "text": "częstotliwości Rodzaj gminy Opłata za 1 MHz [w zł]"
+      },
+      {
+       "type": "text",
+       "text": "[w MHz]"
       },
       {
        "type": "text",
@@ -706,23 +626,19 @@
       },
       {
        "type": "text",
-       "text": "13 – do dnia 31 grudnia 2032 r. gmina wiejska 130 – od dnia 1 stycznia 2033 r."
+       "text": "13 – do dnia 31 grudnia 2032 r. gmina wiejska"
       },
       {
        "type": "text",
-       "text": "13 – do dnia 31 grudnia 2032 r. gmina miejsko-wiejska powyżej 174 130 – od dnia 1 stycznia 2033 r."
+       "text": "130 – od dnia 1 stycznia 2033 r. 13 – do dnia 31 grudnia 2032 r. gmina miejsko-wiejska"
       },
       {
        "type": "text",
-       "text": "do 230 gmina miejska, z wyłączeniem miast 38 – do dnia 31 grudnia 2032 r."
+       "text": "powyżej 174 130 – od dnia 1 stycznia 2033 r. do 230 gmina miejska, z wyłączeniem miast 38 – do dnia 31 grudnia 2032 r. na prawach powiatu 380 – od dnia 1 stycznia 2033 r. 287 – do dnia 31 grudnia 2032 r. miasto na prawach powiatu"
       },
       {
        "type": "text",
-       "text": "na prawach powiatu 380 – od dnia 1 stycznia 2033 r."
-      },
-      {
-       "type": "text",
-       "text": "287 – do dnia 31 grudnia 2032 r. miasto na prawach powiatu 2870 – od dnia 1 stycznia 2033 r."
+       "text": "2870 – od dnia 1 stycznia 2033 r."
       }
      ]
     },
@@ -730,56 +646,15 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "W przypadku gdy decyzja przyznająca prawo do dysponowania częstotliwościami na",
-     "children": [
-      {
-       "type": "text",
-       "text": "obszarze mniejszym niż obszar całego kraju przyznaje prawo do dysponowania częstotliwością"
-      },
-      {
-       "type": "text",
-       "text": "lub wykorzystywania częstotliwości na obszarze, na którym znajduje się co najmniej"
-      },
-      {
-       "type": "text",
-       "text": "sześć miast na prawach powiatu w danym województwie, wysokość rocznej opłaty za prawo"
-      },
-      {
-       "type": "text",
-       "text": "do dysponowania częstotliwościami o łącznej szerokości 1 MHz na obszarze szóstego miasta"
-      },
-      {
-       "type": "text",
-       "text": "i kolejnych miast na prawach powiatu w danym województwie w zakresie powyżej 174 MHz"
-      },
-      {
-       "type": "text",
-       "text": "do 230 MHz stanowi iloczyn liczby tych miast i kwoty opłaty za 1 MHz określonej w tabeli 2"
-      },
-      {
-       "type": "text",
-       "text": "dla gminy miejskiej, z wyłączeniem miast na prawach powiatu."
-      }
-     ]
+     "text": "W przypadku gdy decyzja przyznająca prawo do dysponowania częstotliwościami na obszarze mniejszym niż obszar całego kraju przyznaje prawo do dysponowania częstotliwością lub wykorzystywania częstotliwości na obszarze, na którym znajduje się co najmniej sześć miast na prawach powiatu w danym województwie, wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz na obszarze szóstego miasta i kolejnych miast na prawach powiatu w danym województwie w zakresie powyżej 174 MHz do 230 MHz stanowi iloczyn liczby tych miast i kwoty opłaty za 1 MHz określonej w tabeli 2 dla gminy miejskiej, z wyłączeniem miast na prawach powiatu.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "5",
      "path": "ust_5",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz, w przypadku wykorzystywania częstotliwości przez system naziemnej telewizji cyfrowej na obszarze jednej gminy lub mniejszym, w zakresie powyżej 174 MHz do 230 MHz jest określona w tabeli 3.",
      "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 MHz, w przypadku wykorzystywania częstotliwości przez system naziemnej"
-      },
-      {
-       "type": "text",
-       "text": "telewizji cyfrowej na obszarze jednej gminy lub mniejszym, w zakresie powyżej 174 MHz"
-      },
-      {
-       "type": "text",
-       "text": "do 230 MHz jest określona w tabeli 3."
-      },
       {
        "type": "text",
        "text": "TABELA 3"
@@ -790,19 +665,11 @@
       },
       {
        "type": "text",
-       "text": "1 2 3"
+       "text": "1 2 3 gmina wiejska 130 gmina miejsko-wiejska 130 powyżej 174 do 230"
       },
       {
        "type": "text",
-       "text": "gmina wiejska 130"
-      },
-      {
-       "type": "text",
-       "text": "gmina miejsko-wiejska 130 powyżej 174 do 230 gmina miejska, z wyłączeniem miast na prawach powiatu 380"
-      },
-      {
-       "type": "text",
-       "text": "miasto na prawach powiatu 2870"
+       "text": "gmina miejska, z wyłączeniem miast na prawach powiatu 380 miasto na prawach powiatu 2870"
       }
      ]
     },
@@ -810,56 +677,15 @@
      "type": "ust",
      "num": "6",
      "path": "ust_6",
-     "text": "W przypadku gdy decyzja przyznająca prawo do dysponowania częstotliwościami na",
-     "children": [
-      {
-       "type": "text",
-       "text": "obszarze mniejszym niż obszar całego kraju obejmuje prawo do dysponowania częstotliwością"
-      },
-      {
-       "type": "text",
-       "text": "lub wykorzystywania częstotliwości na obszarze, na którym znajduje się co najmniej"
-      },
-      {
-       "type": "text",
-       "text": "sześć miast na prawach powiatu w danym województwie, wysokość rocznej opłaty za prawo"
-      },
-      {
-       "type": "text",
-       "text": "do dysponowania częstotliwościami o łącznej szerokości 1 MHz na obszarze szóstego miasta"
-      },
-      {
-       "type": "text",
-       "text": "i kolejnych miast na prawach powiatu w danym województwie w zakresie powyżej 174 MHz"
-      },
-      {
-       "type": "text",
-       "text": "do 230 MHz stanowi iloczyn liczby tych miast i kwoty opłaty za 1 MHz określonej w tabeli 3"
-      },
-      {
-       "type": "text",
-       "text": "dla gminy miejskiej, z wyłączeniem miast na prawach powiatu."
-      }
-     ]
+     "text": "W przypadku gdy decyzja przyznająca prawo do dysponowania częstotliwościami na obszarze mniejszym niż obszar całego kraju obejmuje prawo do dysponowania częstotliwością lub wykorzystywania częstotliwości na obszarze, na którym znajduje się co najmniej sześć miast na prawach powiatu w danym województwie, wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz na obszarze szóstego miasta i kolejnych miast na prawach powiatu w danym województwie w zakresie powyżej 174 MHz do 230 MHz stanowi iloczyn liczby tych miast i kwoty opłaty za 1 MHz określonej w tabeli 3 dla gminy miejskiej, z wyłączeniem miast na prawach powiatu.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "7",
      "path": "ust_7",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz, w przypadku wykorzystywania częstotliwości przez system naziemnej telewizji cyfrowej na obszarze jednej gminy lub mniejszym, w zakresie powyżej 470 MHz do 694 MHz jest określona w tabeli 4.",
      "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 MHz, w przypadku wykorzystywania częstotliwości przez system naziemnej"
-      },
-      {
-       "type": "text",
-       "text": "telewizji cyfrowej na obszarze jednej gminy lub mniejszym, w zakresie powyżej 470 MHz"
-      },
-      {
-       "type": "text",
-       "text": "do 694 MHz jest określona w tabeli 4."
-      },
       {
        "type": "text",
        "text": "TABELA 4"
@@ -882,7 +708,15 @@
       },
       {
        "type": "text",
-       "text": "powyżej 470 do 694 gmina miejska, z wyłączeniem miast 760 na prawach powiatu"
+       "text": "powyżej 470 do 694 gmina miejska, z wyłączeniem miast"
+      },
+      {
+       "type": "text",
+       "text": "760"
+      },
+      {
+       "type": "text",
+       "text": "na prawach powiatu"
       },
       {
        "type": "text",
@@ -898,37 +732,8 @@
      "type": "ust",
      "num": "8",
      "path": "ust_8",
-     "text": "W przypadku gdy decyzja przyznająca prawo do dysponowania częstotliwościami na",
-     "children": [
-      {
-       "type": "text",
-       "text": "obszarze mniejszym niż obszar całego kraju obejmuje prawo do dysponowania częstotliwością"
-      },
-      {
-       "type": "text",
-       "text": "lub wykorzystywania częstotliwości na obszarze, na którym znajduje się co najmniej"
-      },
-      {
-       "type": "text",
-       "text": "sześć miast na prawach powiatu w danym województwie, wysokość rocznej opłaty za prawo"
-      },
-      {
-       "type": "text",
-       "text": "do dysponowania częstotliwościami o łącznej szerokości 1 MHz na obszarze szóstego miasta"
-      },
-      {
-       "type": "text",
-       "text": "i kolejnych miast na prawach powiatu w danym województwie w zakresie powyżej 470 MHz"
-      },
-      {
-       "type": "text",
-       "text": "do 694 MHz stanowi iloczyn liczby tych miast i kwoty opłaty za 1 MHz określonej w tabeli 4"
-      },
-      {
-       "type": "text",
-       "text": "dla gminy miejskiej, z wyłączeniem miast na prawach powiatu."
-      }
-     ]
+     "text": "W przypadku gdy decyzja przyznająca prawo do dysponowania częstotliwościami na obszarze mniejszym niż obszar całego kraju obejmuje prawo do dysponowania częstotliwością lub wykorzystywania częstotliwości na obszarze, na którym znajduje się co najmniej sześć miast na prawach powiatu w danym województwie, wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz na obszarze szóstego miasta i kolejnych miast na prawach powiatu w danym województwie w zakresie powyżej 470 MHz do 694 MHz stanowi iloczyn liczby tych miast i kwoty opłaty za 1 MHz określonej w tabeli 4 dla gminy miejskiej, z wyłączeniem miast na prawach powiatu.",
+     "children": []
     }
    ]
   },
@@ -937,42 +742,25 @@
    "body": [
     {
      "type": "text",
-     "text": "OKOŚĆ ROCZNEJ OPŁATY W SŁUŻBIE STAŁ WYSOKOŚĆ ROCZNEJ OPŁATY W SŁUŻBIE STAŁEJ"
+     "text": "OKOŚĆ ROCZNEJ OPŁATY W SŁUŻBIE STAŁ"
+    },
+    {
+     "type": "text",
+     "text": "WYSOKOŚĆ ROCZNEJ OPŁATY W SŁUŻBIE STAŁEJ"
     },
     {
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Wysokość rocznej opłaty w służbie stałej za prawo do dysponowania częstotliwościami",
-     "children": [
-      {
-       "type": "text",
-       "text": "o łącznej szerokości 1 kHz w zakresie częstotliwości poniżej 30 MHz wynosi 1150 zł."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty w służbie stałej za prawo do dysponowania częstotliwościami o łącznej szerokości 1 kHz w zakresie częstotliwości poniżej 30 MHz wynosi 1150 zł.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 kHz, w przypadku wykorzystywania częstotliwości w systemach typu punkt – wiele punktów (ang. Point – Multipoint, PMP) oraz wiele punktów – wiele punktów (ang. Multipoint – Multipoint, MPMP) na obszarze jednej gminy lub mniejszym, w zakresie od 30 MHz do 470 MHz wynosi:",
      "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 kHz, w przypadku wykorzystywania częstotliwości w systemach typu punkt –"
-      },
-      {
-       "type": "text",
-       "text": "wiele punktów (ang. Point – Multipoint, PMP) oraz wiele punktów – wiele punktów"
-      },
-      {
-       "type": "text",
-       "text": "(ang. Multipoint – Multipoint, MPMP) na obszarze jednej gminy lub mniejszym, w zakresie od"
-      },
-      {
-       "type": "text",
-       "text": "30 MHz do 470 MHz wynosi:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -1007,44 +795,15 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
-     "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 kHz, w przypadku wykorzystywania częstotliwości w systemach, o których"
-      },
-      {
-       "type": "text",
-       "text": "mowa w ust. 2, na obszarze całego kraju, stanowi iloczyn liczby wszystkich gmin w kraju"
-      },
-      {
-       "type": "text",
-       "text": "i kwoty określonej w ust. 2 pkt 2."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 kHz, w przypadku wykorzystywania częstotliwości w systemach, o których mowa w ust. 2, na obszarze całego kraju, stanowi iloczyn liczby wszystkich gmin w kraju i kwoty określonej w ust. 2 pkt 2.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 kHz, w przypadku wykorzystywania częstotliwości w systemach typu punkt – wiele punktów (ang. Point – Multipoint, PMP) oraz wiele punktów – wiele punktów (ang. Multipoint – Multipoint, MPMP) na obszarze jednej gminy lub mniejszym, w zakresie powyżej 470 MHz do 3400 MHz wynosi:",
      "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 kHz, w przypadku wykorzystywania częstotliwości w systemach typu punkt –"
-      },
-      {
-       "type": "text",
-       "text": "wiele punktów (ang. Point – Multipoint, PMP) oraz wiele punktów – wiele punktów (ang."
-      },
-      {
-       "type": "text",
-       "text": "Multipoint – Multipoint, MPMP) na obszarze jednej gminy lub mniejszym, w zakresie powyżej"
-      },
-      {
-       "type": "text",
-       "text": "470 MHz do 3400 MHz wynosi:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -1079,40 +838,15 @@
      "type": "ust",
      "num": "5",
      "path": "ust_5",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
-     "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 kHz, w przypadku wykorzystywania częstotliwości w systemach, o których"
-      },
-      {
-       "type": "text",
-       "text": "mowa w ust. 4, na obszarze całego kraju, stanowi iloczyn liczby wszystkich gmin w kraju"
-      },
-      {
-       "type": "text",
-       "text": "i kwoty określonej w ust. 4 pkt 2."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 kHz, w przypadku wykorzystywania częstotliwości w systemach, o których mowa w ust. 4, na obszarze całego kraju, stanowi iloczyn liczby wszystkich gmin w kraju i kwoty określonej w ust. 4 pkt 2.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "6",
      "path": "ust_6",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz, w przypadku wykorzystywania częstotliwości w systemach typu punkt – wiele punktów (ang. Point – Multipoint, PMP) oraz wiele punktów – wiele punktów (ang. Multipoint – Multipoint, MPMP) na obszarze jednej gminy lub mniejszym, w zakresie powyżej 3400 MHz do 4200 MHz wynosi:",
      "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 MHz, w przypadku wykorzystywania częstotliwości w systemach typu punkt – wiele punktów (ang. Point – Multipoint, PMP) oraz wiele punktów – wiele punktów"
-      },
-      {
-       "type": "text",
-       "text": "(ang. Multipoint – Multipoint, MPMP) na obszarze jednej gminy lub mniejszym, w zakresie"
-      },
-      {
-       "type": "text",
-       "text": "powyżej 3400 MHz do 4200 MHz wynosi:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -1147,44 +881,15 @@
      "type": "ust",
      "num": "7",
      "path": "ust_7",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
-     "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 MHz, w przypadku wykorzystywania częstotliwości w systemach, o których"
-      },
-      {
-       "type": "text",
-       "text": "mowa w ust. 6, na obszarze całego kraju, stanowi iloczyn liczby wszystkich gmin w kraju"
-      },
-      {
-       "type": "text",
-       "text": "i kwoty określonej w ust. 6 pkt 2."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz, w przypadku wykorzystywania częstotliwości w systemach, o których mowa w ust. 6, na obszarze całego kraju, stanowi iloczyn liczby wszystkich gmin w kraju i kwoty określonej w ust. 6 pkt 2.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "8",
      "path": "ust_8",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz, w przypadku wykorzystywania częstotliwości w systemach typu punkt – wiele punktów (ang. Point – Multipoint, PMP) oraz wiele punktów – wiele punktów (ang. Multipoint – Multipoint, MPMP) na obszarze jednej gminy lub mniejszym, w zakresie powyżej 4200 MHz do 39 500 MHz wynosi:",
      "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 MHz, w przypadku wykorzystywania częstotliwości w systemach typu punkt –"
-      },
-      {
-       "type": "text",
-       "text": "wiele punktów (ang. Point – Multipoint, PMP) oraz wiele punktów – wiele punktów"
-      },
-      {
-       "type": "text",
-       "text": "(ang. Multipoint – Multipoint, MPMP) na obszarze jednej gminy lub mniejszym, w zakresie"
-      },
-      {
-       "type": "text",
-       "text": "powyżej 4200 MHz do 39 500 MHz wynosi:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -1219,44 +924,15 @@
      "type": "ust",
      "num": "9",
      "path": "ust_9",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
-     "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 MHz, w przypadku wykorzystywania częstotliwości w systemach, o których"
-      },
-      {
-       "type": "text",
-       "text": "mowa w ust. 8, na obszarze całego kraju, stanowi iloczyn liczby wszystkich gmin w kraju"
-      },
-      {
-       "type": "text",
-       "text": "i kwoty określonej w ust. 8 pkt 2."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz, w przypadku wykorzystywania częstotliwości w systemach, o których mowa w ust. 8, na obszarze całego kraju, stanowi iloczyn liczby wszystkich gmin w kraju i kwoty określonej w ust. 8 pkt 2.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "10",
      "path": "ust_10",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz, w przypadku wykorzystywania częstotliwości w systemach typu punkt – wiele punktów (ang. Point – Multipoint, PMP) oraz wiele punktów – wiele punktów (ang. Multipoint – Multipoint, MPMP) na obszarze jednej gminy lub mniejszym, w zakresie powyżej 39 500 MHz wynosi:",
      "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 MHz, w przypadku wykorzystywania częstotliwości w systemach typu punkt –"
-      },
-      {
-       "type": "text",
-       "text": "wiele punktów (ang. Point – Multipoint, PMP) oraz wiele punktów – wiele punktów"
-      },
-      {
-       "type": "text",
-       "text": "(ang. Multipoint – Multipoint, MPMP) na obszarze jednej gminy lub mniejszym, w zakresie"
-      },
-      {
-       "type": "text",
-       "text": "powyżej 39 500 MHz wynosi:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -1291,52 +967,22 @@
      "type": "ust",
      "num": "11",
      "path": "ust_11",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
-     "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 MHz, w przypadku wykorzystywania częstotliwości w systemach, o których"
-      },
-      {
-       "type": "text",
-       "text": "mowa w ust. 10, na obszarze całego kraju, stanowi iloczyn liczby wszystkich gmin w kraju"
-      },
-      {
-       "type": "text",
-       "text": "i kwoty określonej w ust. 10 pkt 2."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz, w przypadku wykorzystywania częstotliwości w systemach, o których mowa w ust. 10, na obszarze całego kraju, stanowi iloczyn liczby wszystkich gmin w kraju i kwoty określonej w ust. 10 pkt 2.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "12",
      "path": "ust_12",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
-     "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 kHz w jednym przęśle linii radiowej typu punkt – punkt (ang. Point – Point, PP)"
-      },
-      {
-       "type": "text",
-       "text": "w zakresie od 30 MHz do 1 GHz wynosi 2,30 zł."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 kHz w jednym przęśle linii radiowej typu punkt – punkt (ang. Point – Point, PP) w zakresie od 30 MHz do 1 GHz wynosi 2,30 zł.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "13",
      "path": "ust_13",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz w jednym przęśle linii radiowej typu punkt – punkt (ang. Point – Point, PP) w zakresie powyżej 1 GHz jest określona w poniższej tabeli.",
      "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 MHz w jednym przęśle linii radiowej typu punkt – punkt (ang. Point – Point, PP)"
-      },
-      {
-       "type": "text",
-       "text": "w zakresie powyżej 1 GHz jest określona w poniższej tabeli."
-      },
       {
        "type": "text",
        "text": "Zakres częstotliwości f [w GHz] Opłata za 1 MHz [w zł]"
@@ -1383,41 +1029,15 @@
      "type": "ust",
      "num": "14",
      "path": "ust_14",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami w jednym",
-     "children": [
-      {
-       "type": "text",
-       "text": "przęśle linii radiowej typu punkt – punkt (ang. Point – Point, PP), której jedna stacja jest"
-      },
-      {
-       "type": "text",
-       "text": "zlokalizowana na obszarze miasta na prawach powiatu, wynosi 150 % rocznej opłaty określonej"
-      },
-      {
-       "type": "text",
-       "text": "na podstawie ust. 12 lub 13."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami w jednym przęśle linii radiowej typu punkt – punkt (ang. Point – Point, PP), której jedna stacja jest zlokalizowana na obszarze miasta na prawach powiatu, wynosi 150 % rocznej opłaty określonej na podstawie ust. 12 lub 13.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "15",
      "path": "ust_15",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami w jednym",
-     "children": [
-      {
-       "type": "text",
-       "text": "przęśle linii radiowej typu punkt – punkt (ang. Point – Point, PP), której obie stacje linii"
-      },
-      {
-       "type": "text",
-       "text": "radiowej są zlokalizowane na obszarze miasta na prawach powiatu, wynosi 200 % rocznej"
-      },
-      {
-       "type": "text",
-       "text": "opłaty określonej na podstawie ust. 12 lub 13."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami w jednym przęśle linii radiowej typu punkt – punkt (ang. Point – Point, PP), której obie stacje linii radiowej są zlokalizowane na obszarze miasta na prawach powiatu, wynosi 200 % rocznej opłaty określonej na podstawie ust. 12 lub 13.",
+     "children": []
     }
    ]
   },
@@ -1426,26 +1046,18 @@
    "body": [
     {
      "type": "text",
-     "text": "W WYSOKOŚĆ ROCZNEJ OPŁATY W SŁUŻBIE RUCHOMEJ LĄDOWEJ"
+     "text": "W"
+    },
+    {
+     "type": "text",
+     "text": "WYSOKOŚĆ ROCZNEJ OPŁATY W SŁUŻBIE RUCHOMEJ LĄDOWEJ"
     },
     {
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Wysokość rocznej opłaty w służbie ruchomej lądowej za prawo do dysponowania",
+     "text": "Wysokość rocznej opłaty w służbie ruchomej lądowej za prawo do dysponowania częstotliwościami o łącznej szerokości 1 kHz na obszarze jednej gminy lub mniejszym w zakresie do 470 MHz, w przypadku wykorzystywania częstotliwości przez urządzenia radiowe wykorzystujące kanały radiowe o szerokości poniżej 200 kHz, jest określona w tabeli 1.",
      "children": [
-      {
-       "type": "text",
-       "text": "częstotliwościami o łącznej szerokości 1 kHz na obszarze jednej gminy lub mniejszym"
-      },
-      {
-       "type": "text",
-       "text": "w zakresie do 470 MHz, w przypadku wykorzystywania częstotliwości przez urządzenia"
-      },
-      {
-       "type": "text",
-       "text": "radiowe wykorzystujące kanały radiowe o szerokości poniżej 200 kHz, jest określona w tabeli 1."
-      },
       {
        "type": "text",
        "text": "TABELA 1"
@@ -1484,50 +1096,19 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 kHz w zakresie do 470 MHz, w przypadku wykorzystywania częstotliwości przez urządzenia radiowe wykorzystujące kanały radiowe o szerokości poniżej 200 kHz na obszarze większym niż obszar jednej gminy, stanowi sumę opłat za poszczególne gminy określonych w tabeli 1. Jeżeli suma ta przekroczy kwotę 46 zł w przypadku wykorzystywania częstotliwości na całym obszarze, o którym mowa w zdaniu pierwszym, wyłącznie przez stacje ruchome albo 345 zł w pozostałych przypadkach wykorzystywania częstotliwości, wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 1, wynosi:",
      "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 kHz w zakresie do 470 MHz, w przypadku wykorzystywania częstotliwości przez"
-      },
-      {
-       "type": "text",
-       "text": "urządzenia radiowe wykorzystujące kanały radiowe o szerokości poniżej 200 kHz na obszarze"
-      },
-      {
-       "type": "text",
-       "text": "większym niż obszar jednej gminy, stanowi sumę opłat za poszczególne gminy określonych"
-      },
-      {
-       "type": "text",
-       "text": "w tabeli 1. Jeżeli suma ta przekroczy kwotę 46 zł w przypadku wykorzystywania częstotliwości"
-      },
-      {
-       "type": "text",
-       "text": "na całym obszarze, o którym mowa w zdaniu pierwszym, wyłącznie przez stacje ruchome albo"
-      },
-      {
-       "type": "text",
-       "text": "345 zł w pozostałych przypadkach wykorzystywania częstotliwości, wysokość rocznej opłaty"
-      },
-      {
-       "type": "text",
-       "text": "za prawo do dysponowania częstotliwościami, o których mowa w ust. 1, wynosi:"
-      },
       {
        "type": "pkt",
        "num": "1",
        "path": "ust_2/pkt_1",
-       "text": "w przypadku wykorzystywania częstotliwości na całym obszarze wyłącznie przez stacje",
-       "children": []
-      },
-      {
-       "type": "text",
-       "text": "ruchome:"
-      },
-      {
-       "type": "text",
-       "text": "46 zł + 18 zł * (n/Nmax),"
+       "text": "w przypadku wykorzystywania częstotliwości na całym obszarze wyłącznie przez stacje ruchome:",
+       "children": [
+        {
+         "type": "text",
+         "text": "46 zł + 18 zł * (n/Nmax),"
+        }
+       ]
       },
       {
        "type": "pkt",
@@ -1559,48 +1140,15 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
-     "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 MHz w zakresie do 470 MHz, w przypadku wykorzystywania częstotliwości"
-      },
-      {
-       "type": "text",
-       "text": "przez urządzenia radiowe wykorzystujące kanały radiowe o szerokości 200 kHz i większej na"
-      },
-      {
-       "type": "text",
-       "text": "obszarze jednej gminy lub mniejszym, wynosi 149 zł."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz w zakresie do 470 MHz, w przypadku wykorzystywania częstotliwości przez urządzenia radiowe wykorzystujące kanały radiowe o szerokości 200 kHz i większej na obszarze jednej gminy lub mniejszym, wynosi 149 zł.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których",
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 3, w przypadku wykorzystywania częstotliwości na obszarze większym niż obszar jednej gminy, stanowi iloczyn kwoty w wysokości 149 zł i liczby gmin, na których obszarze są wykorzystywane częstotliwości. Jeżeli iloczyn ten przekroczy kwotę 115 000 zł, wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 3, wynosi:",
      "children": [
-      {
-       "type": "text",
-       "text": "mowa w ust. 3, w przypadku wykorzystywania częstotliwości na obszarze większym niż"
-      },
-      {
-       "type": "text",
-       "text": "obszar jednej gminy, stanowi iloczyn kwoty w wysokości 149 zł i liczby gmin, na których"
-      },
-      {
-       "type": "text",
-       "text": "obszarze są wykorzystywane częstotliwości. Jeżeli iloczyn ten przekroczy kwotę 115 000 zł,"
-      },
-      {
-       "type": "text",
-       "text": "wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa"
-      },
-      {
-       "type": "text",
-       "text": "w ust. 3, wynosi:"
-      },
       {
        "type": "text",
        "text": "115 000 zł + 69 000 zł * (n/Nmax)"
@@ -1623,20 +1171,8 @@
      "type": "ust",
      "num": "5",
      "path": "ust_5",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 kHz na obszarze jednej gminy lub mniejszym w zakresie powyżej 470 MHz do 3400 MHz, w przypadku wykorzystywania częstotliwości przez urządzenia radiowe wykorzystujące kanały radiowe o szerokości poniżej 200 kHz, jest określona w tabeli 2.",
      "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 kHz na obszarze jednej gminy lub mniejszym w zakresie powyżej 470 MHz do"
-      },
-      {
-       "type": "text",
-       "text": "3400 MHz, w przypadku wykorzystywania częstotliwości przez urządzenia radiowe"
-      },
-      {
-       "type": "text",
-       "text": "wykorzystujące kanały radiowe o szerokości poniżej 200 kHz, jest określona w tabeli 2."
-      },
       {
        "type": "text",
        "text": "TABELA 2"
@@ -1671,131 +1207,74 @@
      "type": "ust",
      "num": "6",
      "path": "ust_6",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
-     "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 MHz w zakresie powyżej 470 MHz do 3400 MHz, w przypadku"
-      },
-      {
-       "type": "text",
-       "text": "wykorzystywania częstotliwości przez urządzenia radiowe wykorzystujące kanały radiowe"
-      },
-      {
-       "type": "text",
-       "text": "o szerokości 200 kHz i większej na obszarze jednej gminy lub mniejszym, wynosi 287 zł."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz w zakresie powyżej 470 MHz do 3400 MHz, w przypadku wykorzystywania częstotliwości przez urządzenia radiowe wykorzystujące kanały radiowe o szerokości 200 kHz i większej na obszarze jednej gminy lub mniejszym, wynosi 287 zł.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "7",
      "path": "ust_7",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których",
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 6, w przypadku wykorzystywania częstotliwości przez urządzenia radiowe wykorzystujące kanały radiowe o szerokości 200 kHz i większej na obszarze większym niż obszar jednej gminy, stanowi iloczyn kwoty w wysokości 287 zł i liczby gmin, na których obszarze są wykorzystywane częstotliwości. Jeżeli iloczyn ten przekroczy:",
      "children": [
-      {
-       "type": "text",
-       "text": "mowa w ust. 6, w przypadku wykorzystywania częstotliwości przez urządzenia radiowe"
-      },
-      {
-       "type": "text",
-       "text": "wykorzystujące kanały radiowe o szerokości 200 kHz i większej na obszarze większym niż"
-      },
-      {
-       "type": "text",
-       "text": "obszar jednej gminy, stanowi iloczyn kwoty w wysokości 287 zł i liczby gmin, na których"
-      },
-      {
-       "type": "text",
-       "text": "obszarze są wykorzystywane częstotliwości. Jeżeli iloczyn ten przekroczy:"
-      },
       {
        "type": "pkt",
        "num": "1",
        "path": "ust_7/pkt_1",
-       "text": "w zakresie częstotliwości powyżej 470 MHz do 1900 MHz kwotę 230 000 zł, wysokość",
-       "children": []
-      },
-      {
-       "type": "text",
-       "text": "rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 6,"
-      },
-      {
-       "type": "text",
-       "text": "wynosi:"
-      },
-      {
-       "type": "text",
-       "text": "230 000 zł + 115 000 zł * (n/Nmax),"
+       "text": "w zakresie częstotliwości powyżej 470 MHz do 1900 MHz kwotę 230 000 zł, wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 6, wynosi:",
+       "children": [
+        {
+         "type": "text",
+         "text": "230 000 zł + 115 000 zł * (n/Nmax),"
+        }
+       ]
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_7/pkt_2",
-       "text": "w zakresie częstotliwości powyżej 1900 MHz do 2300 MHz kwotę 80 500 zł, wysokość",
-       "children": []
-      },
-      {
-       "type": "text",
-       "text": "rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 6,"
-      },
-      {
-       "type": "text",
-       "text": "wynosi:"
-      },
-      {
-       "type": "text",
-       "text": "80 500 zł + 51 750 zł * (n/Nmax),"
+       "text": "w zakresie częstotliwości powyżej 1900 MHz do 2300 MHz kwotę 80 500 zł, wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 6, wynosi:",
+       "children": [
+        {
+         "type": "text",
+         "text": "80 500 zł + 51 750 zł * (n/Nmax),"
+        }
+       ]
       },
       {
        "type": "pkt",
        "num": "3",
        "path": "ust_7/pkt_3",
-       "text": "w zakresie częstotliwości powyżej 2300 MHz do 2690 MHz kwotę 80 500 zł, wysokość",
-       "children": []
-      },
-      {
-       "type": "text",
-       "text": "rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 6,"
-      },
-      {
-       "type": "text",
-       "text": "wynosi:"
-      },
-      {
-       "type": "text",
-       "text": "80 500 zł + 34 500 zł * (n/Nmax),"
+       "text": "w zakresie częstotliwości powyżej 2300 MHz do 2690 MHz kwotę 80 500 zł, wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 6, wynosi:",
+       "children": [
+        {
+         "type": "text",
+         "text": "80 500 zł + 34 500 zł * (n/Nmax),"
+        }
+       ]
       },
       {
        "type": "pkt",
        "num": "4",
        "path": "ust_7/pkt_4",
-       "text": "w zakresie częstotliwości powyżej 2690 MHz do 3400 MHz kwotę 57 500 zł, wysokość",
-       "children": []
-      },
-      {
-       "type": "text",
-       "text": "rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 6,"
-      },
-      {
-       "type": "text",
-       "text": "wynosi:"
-      },
-      {
-       "type": "text",
-       "text": "57 500 zł + 13 800 zł * (n/Nmax)"
-      },
-      {
-       "type": "text",
-       "text": "gdzie:"
-      },
-      {
-       "type": "text",
-       "text": "n – liczba gmin objętych prawem do dysponowania częstotliwością,"
-      },
-      {
-       "type": "text",
-       "text": "Nmax – liczba wszystkich gmin w kraju."
+       "text": "w zakresie częstotliwości powyżej 2690 MHz do 3400 MHz kwotę 57 500 zł, wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 6, wynosi:",
+       "children": [
+        {
+         "type": "text",
+         "text": "57 500 zł + 13 800 zł * (n/Nmax)"
+        },
+        {
+         "type": "text",
+         "text": "gdzie:"
+        },
+        {
+         "type": "text",
+         "text": "n – liczba gmin objętych prawem do dysponowania częstotliwością,"
+        },
+        {
+         "type": "text",
+         "text": "Nmax – liczba wszystkich gmin w kraju."
+        }
+       ]
       }
      ]
     },
@@ -1803,44 +1282,15 @@
      "type": "ust",
      "num": "8",
      "path": "ust_8",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
-     "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 MHz na obszarze jednej gminy lub mniejszym w zakresie powyżej 3400 MHz"
-      },
-      {
-       "type": "text",
-       "text": "do 3800 MHz wynosi 287 zł."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz na obszarze jednej gminy lub mniejszym w zakresie powyżej 3400 MHz do 3800 MHz wynosi 287 zł.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "9",
      "path": "ust_9",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których",
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 8, w przypadku wykorzystywania częstotliwości na obszarze większym niż obszar jednej gminy, stanowi iloczyn kwoty w wysokości 287 zł i liczby gmin, na których obszarze są wykorzystywane częstotliwości. Jeżeli iloczyn ten przekroczy kwotę 57 500 zł, wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 8, wynosi:",
      "children": [
-      {
-       "type": "text",
-       "text": "mowa w ust. 8, w przypadku wykorzystywania częstotliwości na obszarze większym niż"
-      },
-      {
-       "type": "text",
-       "text": "obszar jednej gminy, stanowi iloczyn kwoty w wysokości 287 zł i liczby gmin, na których"
-      },
-      {
-       "type": "text",
-       "text": "obszarze są wykorzystywane częstotliwości. Jeżeli iloczyn ten przekroczy kwotę 57 500 zł,"
-      },
-      {
-       "type": "text",
-       "text": "wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa"
-      },
-      {
-       "type": "text",
-       "text": "w ust. 8, wynosi:"
-      },
       {
        "type": "text",
        "text": "57 500 zł + 13 800 zł * (n/Nmax) gdzie:"
@@ -1859,16 +1309,8 @@
      "type": "ust",
      "num": "10",
      "path": "ust_10",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz na obszarze jednej gminy lub mniejszym w zakresie powyżej 3800 MHz do 4200 MHz jest określona w tabeli 3.",
      "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 MHz na obszarze jednej gminy lub mniejszym w zakresie powyżej 3800 MHz"
-      },
-      {
-       "type": "text",
-       "text": "do 4200 MHz jest określona w tabeli 3."
-      },
       {
        "type": "text",
        "text": "TABELA 3"
@@ -1903,16 +1345,8 @@
      "type": "ust",
      "num": "11",
      "path": "ust_11",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz na obszarze jednej gminy lub mniejszym w zakresie powyżej 4200 MHz do 7125 MHz jest określona w tabeli 4.",
      "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 MHz na obszarze jednej gminy lub mniejszym w zakresie powyżej 4200 MHz"
-      },
-      {
-       "type": "text",
-       "text": "do 7125 MHz jest określona w tabeli 4."
-      },
       {
        "type": "text",
        "text": "TABELA 4"
@@ -1947,24 +1381,8 @@
      "type": "ust",
      "num": "12",
      "path": "ust_12",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których",
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 11, w przypadku wykorzystywania częstotliwości na obszarze większym niż obszar jednej gminy, stanowi sumę opłat za poszczególne gminy określonych w tabeli 4. Jeżeli suma ta przekroczy kwotę 57 500 zł, wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 11, wynosi:",
      "children": [
-      {
-       "type": "text",
-       "text": "mowa w ust. 11, w przypadku wykorzystywania częstotliwości na obszarze większym niż"
-      },
-      {
-       "type": "text",
-       "text": "obszar jednej gminy, stanowi sumę opłat za poszczególne gminy określonych w tabeli 4. Jeżeli"
-      },
-      {
-       "type": "text",
-       "text": "suma ta przekroczy kwotę 57 500 zł, wysokość rocznej opłaty za prawo do dysponowania"
-      },
-      {
-       "type": "text",
-       "text": "częstotliwościami, o których mowa w ust. 11, wynosi:"
-      },
       {
        "type": "text",
        "text": "57 500 zł + 13 800 zł * (n/Nmax) gdzie:"
@@ -1983,16 +1401,8 @@
      "type": "ust",
      "num": "13",
      "path": "ust_13",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz na obszarze jednej gminy lub mniejszym w zakresie powyżej 7125 MHz jest określona w tabeli 5.",
      "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 MHz na obszarze jednej gminy lub mniejszym w zakresie powyżej 7125 MHz jest"
-      },
-      {
-       "type": "text",
-       "text": "określona w tabeli 5."
-      },
       {
        "type": "text",
        "text": "TABELA 5"
@@ -2027,24 +1437,8 @@
      "type": "ust",
      "num": "14",
      "path": "ust_14",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których",
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 13, w przypadku wykorzystywania częstotliwości na obszarze większym niż obszar jednej gminy, stanowi sumę opłat za poszczególne gminy określonych w tabeli 5. Jeżeli suma ta przekroczy kwotę 25 000 zł, wysokość rocznej opłaty za prawo do dysponowania częstotliwościami, o których mowa w ust. 13, wynosi:",
      "children": [
-      {
-       "type": "text",
-       "text": "mowa w ust. 13, w przypadku wykorzystywania częstotliwości na obszarze większym niż"
-      },
-      {
-       "type": "text",
-       "text": "obszar jednej gminy, stanowi sumę opłat za poszczególne gminy określonych w tabeli 5. Jeżeli"
-      },
-      {
-       "type": "text",
-       "text": "suma ta przekroczy kwotę 25 000 zł, wysokość rocznej opłaty za prawo do dysponowania"
-      },
-      {
-       "type": "text",
-       "text": "częstotliwościami, o których mowa w ust. 13, wynosi:"
-      },
       {
        "type": "text",
        "text": "25 000 zł + 6 000 zł * (n/Nmax)"
@@ -2067,13 +1461,8 @@
      "type": "ust",
      "num": "15",
      "path": "ust_15",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej",
-     "children": [
-      {
-       "type": "text",
-       "text": "szerokości 1 MHz przez bezprzewodowy system reporterski wynosi 400 zł."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwościami o łącznej szerokości 1 MHz przez bezprzewodowy system reporterski wynosi 400 zł.",
+     "children": []
     }
    ]
   },
@@ -2088,332 +1477,120 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwością na obszarze",
-     "children": [
-      {
-       "type": "text",
-       "text": "morza terytorialnego przez jedną stację radiową w służbie stałej lub służbie ruchomej lądowej"
-      },
-      {
-       "type": "text",
-       "text": "wynosi, osobno dla każdej stacji, 3000 zł."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwością na obszarze morza terytorialnego przez jedną stację radiową w służbie stałej lub służbie ruchomej lądowej wynosi, osobno dla każdej stacji, 3000 zł.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwością w wyłącznej",
-     "children": [
-      {
-       "type": "text",
-       "text": "strefie ekonomicznej przez jedną stację radiową w służbie stałej lub służbie ruchomej lądowej"
-      },
-      {
-       "type": "text",
-       "text": "wynosi, osobno dla każdej stacji, 30 000 zł."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwością w wyłącznej strefie ekonomicznej przez jedną stację radiową w służbie stałej lub służbie ruchomej lądowej wynosi, osobno dla każdej stacji, 30 000 zł.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "W przypadku gdy decyzja przyznająca prawo do dysponowania częstotliwością",
-     "children": [
-      {
-       "type": "text",
-       "text": "w służbie stałej lub służbie ruchomej lądowej obejmuje zarówno obszar morza terytorialnego,"
-      },
-      {
-       "type": "text",
-       "text": "jak i obszar wyłącznej strefy ekonomicznej, wysokość rocznej opłaty wynosi, osobno dla"
-      },
-      {
-       "type": "text",
-       "text": "każdej stacji radiowej, 33 000 zł."
-      }
-     ]
+     "text": "W przypadku gdy decyzja przyznająca prawo do dysponowania częstotliwością w służbie stałej lub służbie ruchomej lądowej obejmuje zarówno obszar morza terytorialnego, jak i obszar wyłącznej strefy ekonomicznej, wysokość rocznej opłaty wynosi, osobno dla każdej stacji radiowej, 33 000 zł.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "W przypadku gdy decyzja przyznająca prawo do dysponowania częstotliwością",
-     "children": [
-      {
-       "type": "text",
-       "text": "w służbie stałej lub służbie ruchomej lądowej obejmuje zarówno obszar morza terytorialnego,"
-      },
-      {
-       "type": "text",
-       "text": "jak i obszar lądowy, wysokość rocznej opłaty stanowi sumę opłaty w wysokości 3000 zł oraz"
-      },
-      {
-       "type": "text",
-       "text": "opłaty ustalonej na podstawie odpowiednio załącznika nr 4 albo nr 5 do rozporządzenia."
-      }
-     ]
+     "text": "W przypadku gdy decyzja przyznająca prawo do dysponowania częstotliwością w służbie stałej lub służbie ruchomej lądowej obejmuje zarówno obszar morza terytorialnego, jak i obszar lądowy, wysokość rocznej opłaty stanowi sumę opłaty w wysokości 3000 zł oraz opłaty ustalonej na podstawie odpowiednio załącznika nr 4 albo nr 5 do rozporządzenia.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "5",
      "path": "ust_5",
-     "text": "W przypadku gdy decyzja przyznająca prawo do dysponowania częstotliwością",
-     "children": [
-      {
-       "type": "text",
-       "text": "w służbie stałej lub służbie ruchomej lądowej obejmuje zarówno obszar morza terytorialnego"
-      },
-      {
-       "type": "text",
-       "text": "i wyłącznej strefy ekonomicznej, jak i obszar lądowy, wysokość rocznej opłaty stanowi sumę"
-      },
-      {
-       "type": "text",
-       "text": "opłaty w wysokości 33 000 zł oraz opłaty ustalonej na podstawie odpowiednio załącznika nr 4"
-      },
-      {
-       "type": "text",
-       "text": "albo nr 5 do rozporządzenia."
-      }
-     ]
+     "text": "W przypadku gdy decyzja przyznająca prawo do dysponowania częstotliwością w służbie stałej lub służbie ruchomej lądowej obejmuje zarówno obszar morza terytorialnego i wyłącznej strefy ekonomicznej, jak i obszar lądowy, wysokość rocznej opłaty stanowi sumę opłaty w wysokości 33 000 zł oraz opłaty ustalonej na podstawie odpowiednio załącznika nr 4 albo nr 5 do rozporządzenia.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "6",
      "path": "ust_6",
-     "text": "W przypadku gdy decyzja przyznaje prawo do dysponowania częstotliwością w służbie",
-     "children": [
-      {
-       "type": "text",
-       "text": "stałej w jednym przęśle linii radiowej typu punkt – punkt (ang. Point – Point, PP), której co"
-      },
-      {
-       "type": "text",
-       "text": "najmniej jedna stacja radiowa jest zlokalizowana na obszarze morza terytorialnego, wysokość"
-      },
-      {
-       "type": "text",
-       "text": "rocznej opłaty za prawo do dysponowania częstotliwością wynosi 3000 zł."
-      }
-     ]
+     "text": "W przypadku gdy decyzja przyznaje prawo do dysponowania częstotliwością w służbie stałej w jednym przęśle linii radiowej typu punkt – punkt (ang. Point – Point, PP), której co najmniej jedna stacja radiowa jest zlokalizowana na obszarze morza terytorialnego, wysokość rocznej opłaty za prawo do dysponowania częstotliwością wynosi 3000 zł.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "7",
      "path": "ust_7",
-     "text": "W przypadku gdy decyzja przyznaje prawo do dysponowania częstotliwością w służbie",
-     "children": [
-      {
-       "type": "text",
-       "text": "stałej w jednym przęśle linii radiowej typu punkt – punkt (ang. Point – Point, PP), której co"
-      },
-      {
-       "type": "text",
-       "text": "najmniej jedna stacja radiowa jest zlokalizowana w wyłącznej strefie ekonomicznej, wysokość"
-      },
-      {
-       "type": "text",
-       "text": "rocznej opłaty za prawo do dysponowania częstotliwością wynosi 30 000 zł."
-      }
-     ]
+     "text": "W przypadku gdy decyzja przyznaje prawo do dysponowania częstotliwością w służbie stałej w jednym przęśle linii radiowej typu punkt – punkt (ang. Point – Point, PP), której co najmniej jedna stacja radiowa jest zlokalizowana w wyłącznej strefie ekonomicznej, wysokość rocznej opłaty za prawo do dysponowania częstotliwością wynosi 30 000 zł.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "8",
      "path": "ust_8",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwością na obszarze",
-     "children": [
-      {
-       "type": "text",
-       "text": "morza terytorialnego przez jedną stację radiową w służbie ruchomej satelitarnej"
-      },
-      {
-       "type": "text",
-       "text": "wykorzystywanej przez uzupełniające elementy naziemne systemów satelitarnej komunikacji"
-      },
-      {
-       "type": "text",
-       "text": "ruchomej lub w służbie radiodyfuzji naziemnej wynosi, osobno dla każdej stacji, 40 000 zł."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwością na obszarze morza terytorialnego przez jedną stację radiową w służbie ruchomej satelitarnej wykorzystywanej przez uzupełniające elementy naziemne systemów satelitarnej komunikacji ruchomej lub w służbie radiodyfuzji naziemnej wynosi, osobno dla każdej stacji, 40 000 zł.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "9",
      "path": "ust_9",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwością w wyłącznej",
-     "children": [
-      {
-       "type": "text",
-       "text": "strefie ekonomicznej przez jedną stację radiową w służbie ruchomej satelitarnej"
-      },
-      {
-       "type": "text",
-       "text": "wykorzystywanej przez uzupełniające elementy naziemne systemów satelitarnej komunikacji"
-      },
-      {
-       "type": "text",
-       "text": "ruchomej lub w służbie radiodyfuzji naziemnej wynosi, osobno dla każdej stacji, 40 000 zł."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwością w wyłącznej strefie ekonomicznej przez jedną stację radiową w służbie ruchomej satelitarnej wykorzystywanej przez uzupełniające elementy naziemne systemów satelitarnej komunikacji ruchomej lub w służbie radiodyfuzji naziemnej wynosi, osobno dla każdej stacji, 40 000 zł.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "10",
      "path": "ust_10",
-     "text": "W przypadku gdy decyzja przyznająca prawo do dysponowania częstotliwością",
-     "children": [
-      {
-       "type": "text",
-       "text": "w służbie ruchomej satelitarnej wykorzystywanej przez uzupełniające elementy naziemne"
-      },
-      {
-       "type": "text",
-       "text": "systemów satelitarnej komunikacji ruchomej lub w służbie radiodyfuzji naziemnej obejmuje"
-      },
-      {
-       "type": "text",
-       "text": "zarówno obszar morza terytorialnego, jak i obszar wyłącznej strefy ekonomicznej, wysokość"
-      },
-      {
-       "type": "text",
-       "text": "rocznej opłaty wynosi, osobno dla każdej stacji radiowej, 40 000 zł."
-      }
-     ]
+     "text": "W przypadku gdy decyzja przyznająca prawo do dysponowania częstotliwością w służbie ruchomej satelitarnej wykorzystywanej przez uzupełniające elementy naziemne systemów satelitarnej komunikacji ruchomej lub w służbie radiodyfuzji naziemnej obejmuje zarówno obszar morza terytorialnego, jak i obszar wyłącznej strefy ekonomicznej, wysokość rocznej opłaty wynosi, osobno dla każdej stacji radiowej, 40 000 zł.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "11",
      "path": "ust_11",
-     "text": "W przypadku gdy decyzja przyznająca prawo do dysponowania częstotliwością",
-     "children": [
-      {
-       "type": "text",
-       "text": "w służbie ruchomej satelitarnej wykorzystywanej przez uzupełniające elementy naziemne"
-      },
-      {
-       "type": "text",
-       "text": "systemów satelitarnej komunikacji ruchomej lub w służbie radiodyfuzji naziemnej obejmuje"
-      },
-      {
-       "type": "text",
-       "text": "zarówno obszar morza terytorialnego, jak i obszar lądowy, wysokość rocznej opłaty stanowi"
-      },
-      {
-       "type": "text",
-       "text": "sumę opłaty w wysokości 40 000 zł oraz opłaty ustalonej na podstawie odpowiednio załącznika"
-      },
-      {
-       "type": "text",
-       "text": "nr 1 albo nr 3 do rozporządzenia."
-      }
-     ]
+     "text": "W przypadku gdy decyzja przyznająca prawo do dysponowania częstotliwością w służbie ruchomej satelitarnej wykorzystywanej przez uzupełniające elementy naziemne systemów satelitarnej komunikacji ruchomej lub w służbie radiodyfuzji naziemnej obejmuje zarówno obszar morza terytorialnego, jak i obszar lądowy, wysokość rocznej opłaty stanowi sumę opłaty w wysokości 40 000 zł oraz opłaty ustalonej na podstawie odpowiednio załącznika nr 1 albo nr 3 do rozporządzenia.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "12",
      "path": "ust_12",
-     "text": "W przypadku gdy decyzja przyznająca prawo do dysponowania częstotliwością",
-     "children": [
-      {
-       "type": "text",
-       "text": "w służbie ruchomej satelitarnej wykorzystywanej przez uzupełniające elementy naziemne"
-      },
-      {
-       "type": "text",
-       "text": "systemów satelitarnej komunikacji ruchomej lub w służbie radiodyfuzji naziemnej obejmuje"
-      },
-      {
-       "type": "text",
-       "text": "zarówno obszar morza terytorialnego i wyłącznej strefy ekonomicznej, jak i obszar lądowy,"
-      },
-      {
-       "type": "text",
-       "text": "wysokość rocznej opłaty stanowi sumę opłaty w wysokości 40 000 zł oraz opłaty ustalonej na"
-      },
-      {
-       "type": "text",
-       "text": "podstawie odpowiednio załącznika nr 1 albo nr 3 do rozporządzenia."
-      }
-     ]
+     "text": "W przypadku gdy decyzja przyznająca prawo do dysponowania częstotliwością w służbie ruchomej satelitarnej wykorzystywanej przez uzupełniające elementy naziemne systemów satelitarnej komunikacji ruchomej lub w służbie radiodyfuzji naziemnej obejmuje zarówno obszar morza terytorialnego i wyłącznej strefy ekonomicznej, jak i obszar lądowy, wysokość rocznej opłaty stanowi sumę opłaty w wysokości 40 000 zł oraz opłaty ustalonej na podstawie odpowiednio załącznika nr 1 albo nr 3 do rozporządzenia.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "13",
      "path": "ust_13",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwością na obszarze",
-     "children": [
-      {
-       "type": "text",
-       "text": "morza terytorialnego przez jedną lotniskową stację radiową w służbie lotniczej wynosi, osobno"
-      },
-      {
-       "type": "text",
-       "text": "dla każdej stacji, 3000 zł."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwością na obszarze morza terytorialnego przez jedną lotniskową stację radiową w służbie lotniczej wynosi, osobno dla każdej stacji, 3000 zł.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "14",
      "path": "ust_14",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwością w wyłącznej",
-     "children": [
-      {
-       "type": "text",
-       "text": "strefie ekonomicznej przez jedną lotniskową stację radiową w służbie lotniczej wynosi, osobno"
-      },
-      {
-       "type": "text",
-       "text": "dla każdej stacji, 30 000 zł."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwością w wyłącznej strefie ekonomicznej przez jedną lotniskową stację radiową w służbie lotniczej wynosi, osobno dla każdej stacji, 30 000 zł.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "15",
      "path": "ust_15",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwością na obszarze",
-     "children": [
-      {
-       "type": "text",
-       "text": "morza terytorialnego przez jedną nadbrzeżną stację radiową w służbie morskiej i żeglugi"
-      },
-      {
-       "type": "text",
-       "text": "śródlądowej wynosi, osobno dla każdej stacji, 3000 zł."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwością na obszarze morza terytorialnego przez jedną nadbrzeżną stację radiową w służbie morskiej i żeglugi śródlądowej wynosi, osobno dla każdej stacji, 3000 zł.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "16",
      "path": "ust_16",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwością w wyłącznej",
-     "children": [
-      {
-       "type": "text",
-       "text": "strefie ekonomicznej przez jedną nadbrzeżną stację radiową w służbie morskiej i żeglugi"
-      },
-      {
-       "type": "text",
-       "text": "śródlądowej wynosi, osobno dla każdej stacji, 30 000 zł."
-      }
-     ]
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwością w wyłącznej strefie ekonomicznej przez jedną nadbrzeżną stację radiową w służbie morskiej i żeglugi śródlądowej wynosi, osobno dla każdej stacji, 30 000 zł.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "17",
      "path": "ust_17",
-     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwością przez jedną",
+     "text": "Wysokość rocznej opłaty za prawo do dysponowania częstotliwością przez jedną stację radiową na obszarze morza terytorialnego lub w wyłącznej strefie ekonomicznej wynosi:",
      "children": [
-      {
-       "type": "text",
-       "text": "stację radiową na obszarze morza terytorialnego lub w wyłącznej strefie ekonomicznej wynosi:"
-      },
       {
        "type": "pkt",
        "num": "1",

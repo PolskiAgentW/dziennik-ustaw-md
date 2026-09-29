@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/604",
  "title": "Obwieszczenie Ministra Sportu i Turystyki z dnia 28 kwietnia 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sportu i Turystyki w sprawie uprawiania turystyki wodnej",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/604/text.pdf",
  "body": [
   {
@@ -2169,8 +2169,9 @@
      "text": "ZAKRES WYMAGAŃ EGZAMINACYJNYCH"
     },
     {
-     "type": "text",
-     "text": "I. Zakres wiedzy i umiejętności wymaganych do uzyskania patentu żeglarza jachtowego."
+     "type": "heading",
+     "label": "I.",
+     "text": "Zakres wiedzy i umiejętności wymaganych do uzyskania patentu żeglarza jachtowego."
     },
     {
      "type": "ust",
@@ -2520,16 +2521,16 @@
          "num": "b",
          "path": "ust_2/pkt_5/lit_b",
          "text": "podstawowe prace przy obsłudze urządzeń i instalacji jachtowych.",
-         "children": [
-          {
-           "type": "text",
-           "text": "II. Zakres wiedzy i umiejętności wymaganych do uzyskania patentu jachtowego sternika morskiego."
-          }
-         ]
+         "children": []
         }
        ]
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Zakres wiedzy i umiejętności wymaganych do uzyskania patentu jachtowego sternika morskiego."
     },
     {
      "type": "ust",
@@ -2848,12 +2849,12 @@
      "num": "3",
      "path": "ust_3",
      "text": "Egzamin na patent jachtowego sternika morskiego dla osób, które nie posiadają patentu żeglarza jachtowego, obejmuje zakres wiedzy teoretycznej określonej w częściach I i II.",
-     "children": [
-      {
-       "type": "text",
-       "text": "III. Zakres wiedzy i umiejętności wymaganych do uzyskania patentu sternika motorowodnego."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Zakres wiedzy i umiejętności wymaganych do uzyskania patentu sternika motorowodnego."
     },
     {
      "type": "ust",
@@ -3103,14 +3104,14 @@
        "num": "4",
        "path": "ust_2/pkt_4",
        "text": "podstawowe prace bosmańskie.",
-       "children": [
-        {
-         "type": "text",
-         "text": "IV. Zakres wiedzy i umiejętności wymaganych do uzyskania patentu motorowodnego sternika morskiego."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Zakres wiedzy i umiejętności wymaganych do uzyskania patentu motorowodnego sternika morskiego."
     },
     {
      "type": "ust",
@@ -3457,12 +3458,12 @@
      "num": "3",
      "path": "ust_3",
      "text": "Egzamin na patent motorowodnego sternika morskiego dla osób, które nie posiadają patentu sternika motorowodnego, obejmuje zakres wiedzy teoretycznej określonej w częściach III i IV.",
-     "children": [
-      {
-       "type": "text",
-       "text": "V. Zakres wiedzy i umiejętności wymaganych do uzyskania patentu mechanika motorowodnego."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "V.",
+     "text": "Zakres wiedzy i umiejętności wymaganych do uzyskania patentu mechanika motorowodnego."
     },
     {
      "type": "ust",
@@ -3539,14 +3540,14 @@
        "num": "2",
        "path": "ust_2/pkt_2",
        "text": "obsługa silników i siłowni jachtów.",
-       "children": [
-        {
-         "type": "text",
-         "text": "VI. Zakres wiedzy i umiejętności wymaganych do uzyskania licencji do uprawiania turystyki wodnej na jachtach motorowych przy holowaniu narciarza wodnego lub innych obiektów pływających."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "VI.",
+     "text": "Zakres wiedzy i umiejętności wymaganych do uzyskania licencji do uprawiania turystyki wodnej na jachtach motorowych przy holowaniu narciarza wodnego lub innych obiektów pływających."
     },
     {
      "type": "ust",
@@ -3658,14 +3659,14 @@
        "num": "5",
        "path": "ust_2/pkt_5",
        "text": "manewry jachtem holującym, w tym zwroty, podpływanie po upadku.",
-       "children": [
-        {
-         "type": "text",
-         "text": "VII. Zakres wiedzy i umiejętności wymaganych do uzyskania licencji do uprawiania turystyki wodnej na jachtach motorowych przy holowaniu statków powietrznych."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "VII.",
+     "text": "Zakres wiedzy i umiejętności wymaganych do uzyskania licencji do uprawiania turystyki wodnej na jachtach motorowych przy holowaniu statków powietrznych."
     },
     {
      "type": "ust",

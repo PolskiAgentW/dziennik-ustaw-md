@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/849",
  "title": "Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 22 czerwca 2026 r. zmieniające rozporządzenie w sprawie legitymacji emeryta-rencisty",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/849/text.pdf",
  "body": [
   {
@@ -129,8 +129,9 @@
      "text": "Opis:"
     },
     {
-     "type": "text",
-     "text": "I. Awers i rewers"
+     "type": "heading",
+     "label": "I.",
+     "text": "Awers i rewers"
     },
     {
      "type": "ust",
@@ -151,12 +152,12 @@
      "num": "3",
      "path": "ust_3",
      "text": "Po procesie personalizacji na awers legitymacji jest nanoszona folia zabezpieczająca, niewykazująca luminescencji w promieniowaniu ultrafioletowym.",
-     "children": [
-      {
-       "type": "text",
-       "text": "II. Awers"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Awers"
     },
     {
      "type": "ust",
@@ -294,14 +295,14 @@
        "num": "6",
        "path": "ust_8/pkt_6",
        "text": "określenie terminu ważności legitymacji.",
-       "children": [
-        {
-         "type": "text",
-         "text": "III. Rewers"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Rewers"
     },
     {
      "type": "ust",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1105",
  "title": "Rozporządzenie Ministra Infrastruktury z dnia 9 lipca 2025 r. w sprawie warunków technicznych, jakim powinny odpowiadać skrzyżowania linii kolejowych oraz bocznic kolejowych z drogami i ich usytuowanie, oraz warunków technicznych ich użytkowania",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1105/text.pdf",
  "body": [
   {
@@ -3499,40 +3499,31 @@
    "body": [
     {
      "type": "text",
-     "text": "WARUNKI I SPOSÓB PROWADZENIA POMIARÓW NATĘŻENIA RUCHU KOLEJOWEGO I RUCHU DROGOWEGO ORAZ OBLICZANIA ILOCZYNU RUCHU"
+     "text": "WARUNKI I SPOSÓB PROWADZENIA POMIARÓW NATĘŻENIA RUCHU KOLEJOWEGO"
+    },
+    {
+     "type": "text",
+     "text": "I RUCHU DROGOWEGO ORAZ OBLICZANIA ILOCZYNU RUCHU"
     },
     {
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Pomiary natężenia ruchu drogowego na przejeździe kolejowo-drogowym kategorii A,",
-     "children": [
-      {
-       "type": "text",
-       "text": "B i C wykonuje się nie rzadziej niż co 5 lat."
-      }
-     ]
+     "text": "Pomiary natężenia ruchu drogowego na przejeździe kolejowo-drogowym kategorii A, B i C wykonuje się nie rzadziej niż co 5 lat.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Pomiary natężenia ruchu drogowego na przejeździe kolejowo-drogowym kategorii D",
+     "text": "Pomiary natężenia ruchu drogowego na przejeździe kolejowo-drogowym kategorii D wykonuje się nie rzadziej niż co:",
      "children": [
-      {
-       "type": "text",
-       "text": "wykonuje się nie rzadziej niż co:"
-      },
       {
        "type": "pkt",
        "num": "1",
        "path": "ust_2/pkt_1",
-       "text": "5 lat – w przypadku przejazdów położonych w ciągu dróg gruntowych lub jeżeli ostatni",
+       "text": "5 lat – w przypadku przejazdów położonych w ciągu dróg gruntowych lub jeżeli ostatni iloczyn ruchu nie przekraczał wartości 20 000;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "iloczyn ruchu nie przekraczał wartości 20 000;"
       },
       {
        "type": "pkt",
@@ -3554,189 +3545,78 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Pomiary natężenia ruchu kolejowego na przejeździe kolejowo-drogowym wykonuje się",
-     "children": [
-      {
-       "type": "text",
-       "text": "w tych samych okresach i dobach, w których zostało ustalone natężenie ruchu drogowego."
-      }
-     ]
+     "text": "Pomiary natężenia ruchu kolejowego na przejeździe kolejowo-drogowym wykonuje się w tych samych okresach i dobach, w których zostało ustalone natężenie ruchu drogowego.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Pomiary natężenia ruchu kolejowego na przejeździe kolejowo-drogowym są",
-     "children": [
-      {
-       "type": "text",
-       "text": "przeprowadzane w miesiącach kwiecień – maj lub wrzesień – październik, w ciągu dwóch"
-      },
-      {
-       "type": "text",
-       "text": "kolejnych dób (wtorek i środa lub środa i czwartek)."
-      }
-     ]
+     "text": "Pomiary natężenia ruchu kolejowego na przejeździe kolejowo-drogowym są przeprowadzane w miesiącach kwiecień – maj lub wrzesień – październik, w ciągu dwóch kolejnych dób (wtorek i środa lub środa i czwartek).",
+     "children": []
     },
     {
      "type": "ust",
      "num": "5",
      "path": "ust_5",
-     "text": "Jeżeli w okresach, o których mowa w ust. 4, nie odbywał się ruch pojazdów",
-     "children": [
-      {
-       "type": "text",
-       "text": "kolejowych, jako natężenie ruchu kolejowego przyjmuje się średnią arytmetyczną z dwóch"
-      },
-      {
-       "type": "text",
-       "text": "najbardziej obciążonych dób w ciągu 12 miesięcy poprzedzających pomiary natężenia ruchu"
-      },
-      {
-       "type": "text",
-       "text": "drogowego. W przypadku gdy wartość obliczonego natężenia ruchu kolejowego jest mniejsza"
-      },
-      {
-       "type": "text",
-       "text": "niż 1, do obliczenia iloczynu ruchu należy przyjąć wartość natężenia ruchu kolejowego równą 1."
-      }
-     ]
+     "text": "Jeżeli w okresach, o których mowa w ust. 4, nie odbywał się ruch pojazdów kolejowych, jako natężenie ruchu kolejowego przyjmuje się średnią arytmetyczną z dwóch najbardziej obciążonych dób w ciągu 12 miesięcy poprzedzających pomiary natężenia ruchu drogowego. W przypadku gdy wartość obliczonego natężenia ruchu kolejowego jest mniejsza niż 1, do obliczenia iloczynu ruchu należy przyjąć wartość natężenia ruchu kolejowego równą 1.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "6",
      "path": "ust_6",
-     "text": "Zarządca drogi powiadamia zarządcę kolei o planowanym terminie przeprowadzenia",
-     "children": [
-      {
-       "type": "text",
-       "text": "pomiarów natężenia ruchu drogowego na przejeździe kolejowo-drogowym."
-      }
-     ]
+     "text": "Zarządca drogi powiadamia zarządcę kolei o planowanym terminie przeprowadzenia pomiarów natężenia ruchu drogowego na przejeździe kolejowo-drogowym.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "7",
      "path": "ust_7",
-     "text": "Przedstawiciel zarządcy kolei ma prawo uczestniczyć w pomiarach natężenia ruchu",
-     "children": [
-      {
-       "type": "text",
-       "text": "drogowego na przejeździe kolejowo-drogowym."
-      }
-     ]
+     "text": "Przedstawiciel zarządcy kolei ma prawo uczestniczyć w pomiarach natężenia ruchu drogowego na przejeździe kolejowo-drogowym.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "8",
      "path": "ust_8",
-     "text": "Przy pomiarze natężenia ruchu drogowego na przejeździe kolejowo-drogowym",
-     "children": [
-      {
-       "type": "text",
-       "text": "uwzględnia się wszystkie pojazdy przekraczające przejazd kolejowo-drogowy, w tym rowery,"
-      },
-      {
-       "type": "text",
-       "text": "motorowery, hulajnogi elektryczne oraz inne urządzenia transportu osobistego. Średnie dobowe natężenie ruchu drogowego na przejeździe kolejowo-drogowym oblicza się jako"
-      },
-      {
-       "type": "text",
-       "text": "średnią arytmetyczną z pomiarów przeprowadzonych w ciągu dwóch dób."
-      }
-     ]
+     "text": "Przy pomiarze natężenia ruchu drogowego na przejeździe kolejowo-drogowym uwzględnia się wszystkie pojazdy przekraczające przejazd kolejowo-drogowy, w tym rowery, motorowery, hulajnogi elektryczne oraz inne urządzenia transportu osobistego. Średnie dobowe natężenie ruchu drogowego na przejeździe kolejowo-drogowym oblicza się jako średnią arytmetyczną z pomiarów przeprowadzonych w ciągu dwóch dób.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "9",
      "path": "ust_9",
-     "text": "Do obliczenia iloczynów ruchu na przejazdach kolejowo-drogowych w ciągach dróg",
-     "children": [
-      {
-       "type": "text",
-       "text": "krajowych i wojewódzkich jako wartości natężenia ruchu drogowego przyjmuje się wartości"
-      },
-      {
-       "type": "text",
-       "text": "średniego dobowego ruchu rocznego określonego na podstawie ostatnich wyników"
-      },
-      {
-       "type": "text",
-       "text": "generalnego pomiaru ruchu."
-      }
-     ]
+     "text": "Do obliczenia iloczynów ruchu na przejazdach kolejowo-drogowych w ciągach dróg krajowych i wojewódzkich jako wartości natężenia ruchu drogowego przyjmuje się wartości średniego dobowego ruchu rocznego określonego na podstawie ostatnich wyników generalnego pomiaru ruchu.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "10",
      "path": "ust_10",
-     "text": "Przepisu ust. 9 nie stosuje się do obliczenia iloczynu ruchu na przejazdach kolejowo-",
-     "children": [
-      {
-       "type": "text",
-       "text": "-drogowych kategorii D, na których ostatni iloczyn ruchu przekroczył wartość 20 000."
-      }
-     ]
+     "text": "Przepisu ust. 9 nie stosuje się do obliczenia iloczynu ruchu na przejazdach kolejowo-drogowych kategorii D, na których ostatni iloczyn ruchu przekroczył wartość 20 000.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "11",
      "path": "ust_11",
-     "text": "Przy obliczaniu natężenia ruchu kolejowego uwzględnia się wszystkie pojazdy",
-     "children": [
-      {
-       "type": "text",
-       "text": "kolejowe, które w danym dniu przejechały przez przejazd kolejowo-drogowy. Średnie dobowe"
-      },
-      {
-       "type": "text",
-       "text": "natężenie ruchu kolejowego na przejeździe kolejowo-drogowym oblicza się jako średnią"
-      },
-      {
-       "type": "text",
-       "text": "arytmetyczną z pomiarów przeprowadzonych w ciągu dwóch tych samych dób, w których"
-      },
-      {
-       "type": "text",
-       "text": "przeprowadza się pomiary ruchu drogowego."
-      }
-     ]
+     "text": "Przy obliczaniu natężenia ruchu kolejowego uwzględnia się wszystkie pojazdy kolejowe, które w danym dniu przejechały przez przejazd kolejowo-drogowy. Średnie dobowe natężenie ruchu kolejowego na przejeździe kolejowo-drogowym oblicza się jako średnią arytmetyczną z pomiarów przeprowadzonych w ciągu dwóch tych samych dób, w których przeprowadza się pomiary ruchu drogowego.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "12",
      "path": "ust_12",
-     "text": "Przy obliczaniu natężenia ruchu kolejowego na przejeździe kolejowo-drogowym, na",
-     "children": [
-      {
-       "type": "text",
-       "text": "którym z drogą krzyżują się wyłącznie tory kolejowe dojazdowe do bocznicy kolejowej,"
-      },
-      {
-       "type": "text",
-       "text": "sumuje się wszystkie przejazdy pojazdów kolejowych w miesiącu przeprowadzania pomiarów"
-      },
-      {
-       "type": "text",
-       "text": "natężenia ruchu drogowego, a obliczoną wartość dzieli się przez liczbę dni, w których"
-      },
-      {
-       "type": "text",
-       "text": "odnotowano ruch pojazdów kolejowych."
-      }
-     ]
+     "text": "Przy obliczaniu natężenia ruchu kolejowego na przejeździe kolejowo-drogowym, na którym z drogą krzyżują się wyłącznie tory kolejowe dojazdowe do bocznicy kolejowej, sumuje się wszystkie przejazdy pojazdów kolejowych w miesiącu przeprowadzania pomiarów natężenia ruchu drogowego, a obliczoną wartość dzieli się przez liczbę dni, w których odnotowano ruch pojazdów kolejowych.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "13",
      "path": "ust_13",
-     "text": "Otrzymane wyniki pomiarów natężenia ruchu drogowego i ruchu kolejowego oraz",
-     "children": [
-      {
-       "type": "text",
-       "text": "obliczony iloczyn ruchu zapisuje się w metryce."
-      }
-     ]
+     "text": "Otrzymane wyniki pomiarów natężenia ruchu drogowego i ruchu kolejowego oraz obliczony iloczyn ruchu zapisuje się w metryce.",
+     "children": []
     }
    ]
   },
@@ -4540,7 +4420,11 @@
    "body": [
     {
      "type": "text",
-     "text": "KOLEJOWO-DROGOWYCH I PRZEJŚĆ WARUNKI I SPOSÓB SPRAWDZANIA WIDOCZNOŚCI PRZEJAZDÓW KOLEJOWO-DROGOWYCH I PRZEJŚĆ"
+     "text": "KOLEJOWO-DROGOWYCH I PRZEJŚĆ"
+    },
+    {
+     "type": "text",
+     "text": "WARUNKI I SPOSÓB SPRAWDZANIA WIDOCZNOŚCI PRZEJAZDÓW KOLEJOWO-DROGOWYCH I PRZEJŚĆ"
     },
     {
      "type": "text",
@@ -4550,28 +4434,8 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "W zwykłych warunkach atmosferycznych kierowca pojazdu drogowego lub pieszy,",
+     "text": "W zwykłych warunkach atmosferycznych kierowca pojazdu drogowego lub pieszy, zbliżając się do przejazdu kolejowo-drogowego, mają zapewnioną właściwą widoczność drągów rogatek, sygnalizatorów drogowych oraz znaków drogowych. Minimalne odległości mierzone po osi drogi na wysokości 1 m nad osią pasa ruchu drogi, z których, w zależności od dopuszczalnej prędkości pojazdów drogowych, jest zapewniona widoczność przejazdu kolejowo-drogowego dla kierujących pojazdami, są określone w tabeli nr 1.",
      "children": [
-      {
-       "type": "text",
-       "text": "zbliżając się do przejazdu kolejowo-drogowego, mają zapewnioną właściwą widoczność"
-      },
-      {
-       "type": "text",
-       "text": "drągów rogatek, sygnalizatorów drogowych oraz znaków drogowych. Minimalne odległości"
-      },
-      {
-       "type": "text",
-       "text": "mierzone po osi drogi na wysokości 1 m nad osią pasa ruchu drogi, z których, w zależności od"
-      },
-      {
-       "type": "text",
-       "text": "dopuszczalnej prędkości pojazdów drogowych, jest zapewniona widoczność przejazdu"
-      },
-      {
-       "type": "text",
-       "text": "kolejowo-drogowego dla kierujących pojazdami, są określone w tabeli nr 1."
-      },
       {
        "type": "text",
        "text": "Tabela nr 1"
@@ -4582,11 +4446,7 @@
       },
       {
        "type": "text",
-       "text": "na drodze Odległość punktu obserwacyjnego [m]"
-      },
-      {
-       "type": "text",
-       "text": "[km/h]"
+       "text": "na drodze Odległość punktu obserwacyjnego [m] [km/h]"
       },
       {
        "type": "text",
@@ -4626,51 +4486,25 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Odległość punktu obserwacyjnego na drodze od przejazdu kolejowo-drogowego lub",
-     "children": [
-      {
-       "type": "text",
-       "text": "przejścia wynosi co najmniej 30 m, a dla przejść − do 5 m."
-      }
-     ]
+     "text": "Odległość punktu obserwacyjnego na drodze od przejazdu kolejowo-drogowego lub przejścia wynosi co najmniej 30 m, a dla przejść − do 5 m.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Sprawdzenia odległości widoczności przejazdu kolejowo-drogowego i przejścia od",
-     "children": [
-      {
-       "type": "text",
-       "text": "strony drogi dokonuje się w terminach określonych w § 17 ust. 2 rozporządzenia. Wyniki"
-      },
-      {
-       "type": "text",
-       "text": "sprawdzenia zapisuje się w metryce."
-      }
-     ]
+     "text": "Sprawdzenia odległości widoczności przejazdu kolejowo-drogowego i przejścia od strony drogi dokonuje się w terminach określonych w § 17 ust. 2 rozporządzenia. Wyniki sprawdzenia zapisuje się w metryce.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "W przypadku braku odpowiedniej widoczności ustalonej zgodnie z tabelą nr 1",
+     "text": "W przypadku braku odpowiedniej widoczności ustalonej zgodnie z tabelą nr 1 wprowadza się ograniczenie dopuszczalnej prędkości na drodze do wartości odpowiadającej rzeczywistej widoczności ustalonej zgodnie z tabelą nr 1.",
      "children": [
       {
        "type": "text",
-       "text": "wprowadza się ograniczenie dopuszczalnej prędkości na drodze do wartości odpowiadającej"
-      },
-      {
-       "type": "text",
-       "text": "rzeczywistej widoczności ustalonej zgodnie z tabelą nr 1."
-      },
-      {
-       "type": "text",
-       "text": "B. Widoczność czoła pojazdu kolejowego z drogi przed przejazdem kolejowo-drogowym"
-      },
-      {
-       "type": "text",
-       "text": "kategorii D"
+       "text": "B. Widoczność czoła pojazdu kolejowego z drogi przed przejazdem kolejowo-drogowym kategorii D"
       }
      ]
     },
@@ -4678,32 +4512,15 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "W zwykłych warunkach atmosferycznych czoło zbliżającego się pojazdu kolejowego,",
-     "children": [
-      {
-       "type": "text",
-       "text": "a co najmniej jedna z latarni jego czoła, jest widoczna dla kierujących pojazdami drogowymi"
-      },
-      {
-       "type": "text",
-       "text": "z odległości co najmniej 20 m mierzonej od skrajnej szyny po osi jezdni przez cały czas"
-      },
-      {
-       "type": "text",
-       "text": "zbliżania się pojazdu drogowego do przejazdu kolejowo-drogowego kategorii D."
-      }
-     ]
+     "text": "W zwykłych warunkach atmosferycznych czoło zbliżającego się pojazdu kolejowego, a co najmniej jedna z latarni jego czoła, jest widoczna dla kierujących pojazdami drogowymi z odległości co najmniej 20 m mierzonej od skrajnej szyny po osi jezdni przez cały czas zbliżania się pojazdu drogowego do przejazdu kolejowo-drogowego kategorii D.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Sposób sprawdzenia warunków widoczności czoła pojazdu kolejowego z drogi przed",
+     "text": "Sposób sprawdzenia warunków widoczności czoła pojazdu kolejowego z drogi przed przejazdem kolejowo-drogowym (trójkąty widoczności) przedstawia rysunek 1.",
      "children": [
-      {
-       "type": "text",
-       "text": "przejazdem kolejowo-drogowym (trójkąty widoczności) przedstawia rysunek 1."
-      },
       {
        "type": "text",
        "text": "Rysunek 1"
@@ -4718,136 +4535,50 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Z punktu obserwacyjnego E (20 m od przejazdu kolejowo-drogowego) czoło pojazdu",
-     "children": [
-      {
-       "type": "text",
-       "text": "kolejowego jest widoczne, począwszy od punktu B. W miarę zbliżania się pojazdu drogowego"
-      },
-      {
-       "type": "text",
-       "text": "do przejazdu kolejowo-drogowego odcinek widoczności czoła pojazdu kolejowego zwiększa"
-      },
-      {
-       "type": "text",
-       "text": "się tak, aby z odległości 10 m od skrajnej szyny (punkt C) czoło pojazdu kolejowego było"
-      },
-      {
-       "type": "text",
-       "text": "widoczne co najmniej od punktu D. Widoczność czoła pojazdu kolejowego z drogi ustala się"
-      },
-      {
-       "type": "text",
-       "text": "dla obu stron przejazdu kolejowo-drogowego."
-      }
-     ]
+     "text": "Z punktu obserwacyjnego E (20 m od przejazdu kolejowo-drogowego) czoło pojazdu kolejowego jest widoczne, począwszy od punktu B. W miarę zbliżania się pojazdu drogowego do przejazdu kolejowo-drogowego odcinek widoczności czoła pojazdu kolejowego zwiększa się tak, aby z odległości 10 m od skrajnej szyny (punkt C) czoło pojazdu kolejowego było widoczne co najmniej od punktu D. Widoczność czoła pojazdu kolejowego z drogi ustala się dla obu stron przejazdu kolejowo-drogowego.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Widoczność czoła pojazdu kolejowego sprawdza się w warunkach zbliżonych do tych,",
-     "children": [
-      {
-       "type": "text",
-       "text": "w jakich znajdują się użytkownicy drogi. Obserwację czoła zbliżającego się pojazdu"
-      },
-      {
-       "type": "text",
-       "text": "kolejowego przeprowadza się z wysokości od 1 m do 1,2 m nad osią pasa ruchu drogi."
-      },
-      {
-       "type": "text",
-       "text": "Widoczność czoła pojazdu kolejowego jest zapisywana w metryce."
-      }
-     ]
+     "text": "Widoczność czoła pojazdu kolejowego sprawdza się w warunkach zbliżonych do tych, w jakich znajdują się użytkownicy drogi. Obserwację czoła zbliżającego się pojazdu kolejowego przeprowadza się z wysokości od 1 m do 1,2 m nad osią pasa ruchu drogi. Widoczność czoła pojazdu kolejowego jest zapisywana w metryce.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "5",
      "path": "ust_5",
-     "text": "Jeżeli przejazd kategorii D nie odpowiada warunkom określonym w ust. 3, czoło",
-     "children": [
-      {
-       "type": "text",
-       "text": "pojazdu kolejowego jest widoczne z drogi co najmniej z odległości 5 m od skrajnej szyny"
-      },
-      {
-       "type": "text",
-       "text": "(punkt obserwacyjny A) na całym odcinku widoczności czoła pojazdu kolejowego z drogi L,"
-      },
-      {
-       "type": "text",
-       "text": "począwszy od punktu D."
-      }
-     ]
+     "text": "Jeżeli przejazd kategorii D nie odpowiada warunkom określonym w ust. 3, czoło pojazdu kolejowego jest widoczne z drogi co najmniej z odległości 5 m od skrajnej szyny (punkt obserwacyjny A) na całym odcinku widoczności czoła pojazdu kolejowego z drogi L, począwszy od punktu D.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "6",
      "path": "ust_6",
-     "text": "W przypadku gdy na przejeździe kategorii D nie są spełnione warunki widoczności dla",
-     "children": [
-      {
-       "type": "text",
-       "text": "maksymalnej prędkości rozkładowej z odległości 5 m, określa się prędkość pojazdów"
-      },
-      {
-       "type": "text",
-       "text": "kolejowych, przy której są spełnione warunki widoczności z odległości 5 m."
-      }
-     ]
+     "text": "W przypadku gdy na przejeździe kategorii D nie są spełnione warunki widoczności dla maksymalnej prędkości rozkładowej z odległości 5 m, określa się prędkość pojazdów kolejowych, przy której są spełnione warunki widoczności z odległości 5 m.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "7",
      "path": "ust_7",
-     "text": "W przypadku gdy dla określonej prędkości pojazdu kolejowego jest zachowana tylko",
-     "children": [
-      {
-       "type": "text",
-       "text": "widoczność z odległości 5 m, przy drodze po stronie przejazdu kolejowo-drogowego kategorii D,"
-      },
-      {
-       "type": "text",
-       "text": "po której jest zachowana widoczność tylko z odległości 5 m, ustawia się znak B-20 ,,stop”,"
-      },
-      {
-       "type": "text",
-       "text": "zgodnie z § 79 pkt 2 rozporządzenia. Na drodze o nawierzchni bitumicznej i betonowej"
-      },
-      {
-       "type": "text",
-       "text": "umieszcza się również znak P-12 ,,linia bezwzględnego zatrzymania − stop” ze znakiem P-16"
-      },
-      {
-       "type": "text",
-       "text": ",,napis stop” − zgodnie z § 79 pkt 4 rozporządzenia."
-      }
-     ]
+     "text": "W przypadku gdy dla określonej prędkości pojazdu kolejowego jest zachowana tylko widoczność z odległości 5 m, przy drodze po stronie przejazdu kolejowo-drogowego kategorii D, po której jest zachowana widoczność tylko z odległości 5 m, ustawia się znak B-20 ,,stop”, zgodnie z § 79 pkt 2 rozporządzenia. Na drodze o nawierzchni bitumicznej i betonowej umieszcza się również znak P-12 ,,linia bezwzględnego zatrzymania − stop” ze znakiem P-16 ,,napis stop” − zgodnie z § 79 pkt 4 rozporządzenia.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "8",
      "path": "ust_8",
-     "text": "Prędkości pojazdów kolejowych, o których mowa w ust. 6 i 7, obowiązują na całej",
-     "children": [
-      {
-       "type": "text",
-       "text": "długości odcinka widoczności czoła pojazdu kolejowego z drogi L."
-      }
-     ]
+     "text": "Prędkości pojazdów kolejowych, o których mowa w ust. 6 i 7, obowiązują na całej długości odcinka widoczności czoła pojazdu kolejowego z drogi L.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "9",
      "path": "ust_9",
-     "text": "Długości odcinków widoczności czoła pojazdu kolejowego z drogi L oraz L₁ zgodnie",
+     "text": "Długości odcinków widoczności czoła pojazdu kolejowego z drogi L oraz L₁ zgodnie z rysunkiem 1 określa się według wzorów określonych w tabeli nr 2.",
      "children": [
-      {
-       "type": "text",
-       "text": "z rysunkiem 1 określa się według wzorów określonych w tabeli nr 2."
-      },
       {
        "type": "text",
        "text": "Tabela nr 2"
@@ -4870,7 +4601,11 @@
       },
       {
        "type": "text",
-       "text": "L = 3,6 × V L = (3,6 + 0,07d) × V 1 r 1 r"
+       "text": "L = 3,6 × V L = (3,6 + 0,07d) × V"
+      },
+      {
+       "type": "text",
+       "text": "1 r 1 r"
       },
       {
        "type": "text",
@@ -4878,11 +4613,7 @@
       },
       {
        "type": "text",
-       "text": "V r – oznacza największą dozwoloną prędkość pojazdów kolejowych w rejonie przejazdu"
-      },
-      {
-       "type": "text",
-       "text": "kolejowo-drogowego [km/h],"
+       "text": "V r – oznacza największą dozwoloną prędkość pojazdów kolejowych w rejonie przejazdu kolejowo-drogowego [km/h],"
       },
       {
        "type": "text",
@@ -4894,143 +4625,39 @@
      "type": "ust",
      "num": "10",
      "path": "ust_10",
-     "text": "W przypadku gdy na przejeździe kolejowo-drogowym kategorii D nie są spełnione",
-     "children": [
-      {
-       "type": "text",
-       "text": "warunki widoczności z odległości 5 m dla prędkości pojazdów kolejowych do 40 km/h,"
-      },
-      {
-       "type": "text",
-       "text": "a długość odcinka widoczności czoła pojazdu kolejowego z drogi L jest większa od 125 m,"
-      },
-      {
-       "type": "text",
-       "text": "wprowadza się ograniczenie dopuszczalnej prędkości pojazdów kolejowych V ogr do 40 km/h"
-      },
-      {
-       "type": "text",
-       "text": "na całej długości odcinka widoczności czoła pojazdu kolejowego z drogi L, a przed przejazdem"
-      },
-      {
-       "type": "text",
-       "text": "kolejowo-drogowym na drodze ustawia się znak B-20 ,,stop”."
-      }
-     ]
+     "text": "W przypadku gdy na przejeździe kolejowo-drogowym kategorii D nie są spełnione warunki widoczności z odległości 5 m dla prędkości pojazdów kolejowych do 40 km/h, a długość odcinka widoczności czoła pojazdu kolejowego z drogi L jest większa od 125 m, wprowadza się ograniczenie dopuszczalnej prędkości pojazdów kolejowych V ogr do 40 km/h na całej długości odcinka widoczności czoła pojazdu kolejowego z drogi L, a przed przejazdem kolejowo-drogowym na drodze ustawia się znak B-20 ,,stop”.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "11",
      "path": "ust_11",
-     "text": "W przypadku gdy na przejeździe kolejowo-drogowym kategorii D nie są spełnione",
-     "children": [
-      {
-       "type": "text",
-       "text": "warunki widoczności z odległości 5 m dla prędkości pojazdów kolejowych równej 40 km/h,"
-      },
-      {
-       "type": "text",
-       "text": "a długość odcinka widoczności czoła pojazdu kolejowego z drogi L jest zawarta w przedziale"
-      },
-      {
-       "type": "text",
-       "text": "od 95 m do 125 m, wprowadza się ograniczenie prędkości pojazdów kolejowych V ogr do 30 km/h"
-      },
-      {
-       "type": "text",
-       "text": "na długości odcinka widoczności czoła pojazdu kolejowego z drogi L, a przed przejazdem"
-      },
-      {
-       "type": "text",
-       "text": "kolejowo-drogowym na drodze ustawia się znak B-20 ,,stop”."
-      }
-     ]
+     "text": "W przypadku gdy na przejeździe kolejowo-drogowym kategorii D nie są spełnione warunki widoczności z odległości 5 m dla prędkości pojazdów kolejowych równej 40 km/h, a długość odcinka widoczności czoła pojazdu kolejowego z drogi L jest zawarta w przedziale od 95 m do 125 m, wprowadza się ograniczenie prędkości pojazdów kolejowych V ogr do 30 km/h na długości odcinka widoczności czoła pojazdu kolejowego z drogi L, a przed przejazdem kolejowo-drogowym na drodze ustawia się znak B-20 ,,stop”.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "12",
      "path": "ust_12",
-     "text": "W przypadku gdy na przejeździe kolejowo-drogowym kategorii D nie są spełnione",
-     "children": [
-      {
-       "type": "text",
-       "text": "warunki widoczności określone zgodnie z ust. 10 i 11, wprowadza się ograniczenie prędkości"
-      },
-      {
-       "type": "text",
-       "text": "czoła pojazdów kolejowych do 20 km/h na szerokości przejazdu kolejowo-drogowego, a przed"
-      },
-      {
-       "type": "text",
-       "text": "przejazdem kolejowo-drogowym na drodze ustawia się znak B-20 ,,stop”."
-      }
-     ]
+     "text": "W przypadku gdy na przejeździe kolejowo-drogowym kategorii D nie są spełnione warunki widoczności określone zgodnie z ust. 10 i 11, wprowadza się ograniczenie prędkości czoła pojazdów kolejowych do 20 km/h na szerokości przejazdu kolejowo-drogowego, a przed przejazdem kolejowo-drogowym na drodze ustawia się znak B-20 ,,stop”.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "13",
      "path": "ust_13",
-     "text": "Wielkości wskazane w ust. 1–12 dotyczą przejazdów kolejowo-drogowych, których",
-     "children": [
-      {
-       "type": "text",
-       "text": "kąt skrzyżowania jest nie mniejszy niż 60º oraz przy których znak G-3 ,,krzyż św. Andrzeja"
-      },
-      {
-       "type": "text",
-       "text": "przed przejazdem kolejowym jednotorowym” albo znak G-4 ,,krzyż św. Andrzeja przed"
-      },
-      {
-       "type": "text",
-       "text": "przejazdem kolejowym wielotorowym” jest ustawiony w mierzonej po osi drogi odległości 5 m"
-      },
-      {
-       "type": "text",
-       "text": "od skrajnej szyny toru kolejowego. Jeżeli odległość tych znaków od skrajnej szyny toru"
-      },
-      {
-       "type": "text",
-       "text": "kolejowego jest większa niż 5 m, odległość odcinka widoczności czoła pojazdu kolejowego z drogi L zwiększa się o 0,25 V r , a odległość odcinka widoczności czoła pojazdu kolejowego"
-      },
-      {
-       "type": "text",
-       "text": "z drogi L₁ o 0,07 V r – na każdy metr zwiększonej odległości ustawienia znaku. Jeżeli kąt"
-      },
-      {
-       "type": "text",
-       "text": "skrzyżowania wynosi mniej niż 60º, na każde 5º poniżej 60º odległość 20 m (odcinek EP) przy"
-      },
-      {
-       "type": "text",
-       "text": "ustalaniu odległości odcinka widoczności czoła pojazdu kolejowego z drogi L₁ od strony kąta"
-      },
-      {
-       "type": "text",
-       "text": "ostrego zwiększa się o 1 m."
-      }
-     ]
+     "text": "Wielkości wskazane w ust. 1–12 dotyczą przejazdów kolejowo-drogowych, których kąt skrzyżowania jest nie mniejszy niż 60º oraz przy których znak G-3 ,,krzyż św. Andrzeja przed przejazdem kolejowym jednotorowym” albo znak G-4 ,,krzyż św. Andrzeja przed przejazdem kolejowym wielotorowym” jest ustawiony w mierzonej po osi drogi odległości 5 m od skrajnej szyny toru kolejowego. Jeżeli odległość tych znaków od skrajnej szyny toru kolejowego jest większa niż 5 m, odległość odcinka widoczności czoła pojazdu kolejowego z drogi L zwiększa się o 0,25 V r , a odległość odcinka widoczności czoła pojazdu kolejowego z drogi L₁ o 0,07 V r – na każdy metr zwiększonej odległości ustawienia znaku. Jeżeli kąt skrzyżowania wynosi mniej niż 60º, na każde 5º poniżej 60º odległość 20 m (odcinek EP) przy ustalaniu odległości odcinka widoczności czoła pojazdu kolejowego z drogi L₁ od strony kąta ostrego zwiększa się o 1 m.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "14",
      "path": "ust_14",
-     "text": "Sprawdzenia odległości widoczności czoła pojazdu kolejowego od strony drogi przed",
+     "text": "Sprawdzenia odległości widoczności czoła pojazdu kolejowego od strony drogi przed przejazdem kolejowo-drogowym lub przejściem dokonuje się w terminach określonych w § 17 ust. 2 rozporządzenia i zapisuje w metryce.",
      "children": [
       {
        "type": "text",
-       "text": "przejazdem kolejowo-drogowym lub przejściem dokonuje się w terminach określonych w § 17"
-      },
-      {
-       "type": "text",
-       "text": "ust. 2 rozporządzenia i zapisuje w metryce."
-      },
-      {
-       "type": "text",
-       "text": "C. Widoczność czoła pojazdu kolejowego przed przejściem kategorii E niewyposażonym"
-      },
-      {
-       "type": "text",
-       "text": "w urządzenia zabezpieczenia ruchu i systemy przejazdowe"
+       "text": "C. Widoczność czoła pojazdu kolejowego przed przejściem kategorii E niewyposażonym w urządzenia zabezpieczenia ruchu i systemy przejazdowe"
       }
      ]
     },
@@ -5038,32 +4665,15 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "W zwykłych warunkach atmosferycznych latarnie sygnałowe czoła zbliżającego się",
-     "children": [
-      {
-       "type": "text",
-       "text": "pojazdu kolejowego są widoczne z obu stron przejścia przez cały czas zbliżania się pojazdu"
-      },
-      {
-       "type": "text",
-       "text": "kolejowego do przejścia z mierzonej po osi drogi odległości co najmniej 4 m od skrajnych szyn"
-      },
-      {
-       "type": "text",
-       "text": "toru kolejowego."
-      }
-     ]
+     "text": "W zwykłych warunkach atmosferycznych latarnie sygnałowe czoła zbliżającego się pojazdu kolejowego są widoczne z obu stron przejścia przez cały czas zbliżania się pojazdu kolejowego do przejścia z mierzonej po osi drogi odległości co najmniej 4 m od skrajnych szyn toru kolejowego.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Sposób sprawdzenia warunków widoczności czoła pojazdu kolejowego przed",
+     "text": "Sposób sprawdzenia warunków widoczności czoła pojazdu kolejowego przed przejściem kategorii E przedstawia rysunek 2.",
      "children": [
-      {
-       "type": "text",
-       "text": "przejściem kategorii E przedstawia rysunek 2."
-      },
       {
        "type": "text",
        "text": "Rysunek 2"
@@ -5078,16 +4688,8 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Minimalną długość odcinka widoczności czoła pojazdu kolejowego z drogi L₂,",
+     "text": "Minimalną długość odcinka widoczności czoła pojazdu kolejowego z drogi L₂, mierzoną od osi przejścia z odległości 4 m od skrajnych szyn toru kolejowego, określa się według wzoru:",
      "children": [
-      {
-       "type": "text",
-       "text": "mierzoną od osi przejścia z odległości 4 m od skrajnych szyn toru kolejowego, określa się"
-      },
-      {
-       "type": "text",
-       "text": "według wzoru:"
-      },
       {
        "type": "text",
        "text": "L₂ = 3 × V r"
@@ -5098,11 +4700,7 @@
       },
       {
        "type": "text",
-       "text": "V r − oznacza największą dozwoloną prędkość pojazdów kolejowych [km/h] w rejonie"
-      },
-      {
-       "type": "text",
-       "text": "przejścia."
+       "text": "V r − oznacza największą dozwoloną prędkość pojazdów kolejowych [km/h] w rejonie przejścia."
       }
      ]
     },
@@ -5110,57 +4708,22 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "W przypadku gdy na przejściu nie są spełnione warunki widoczności dla największej",
-     "children": [
-      {
-       "type": "text",
-       "text": "prędkości pojazdów kolejowych w rejonie przejścia, dopuszczalną prędkość pojazdów"
-      },
-      {
-       "type": "text",
-       "text": "kolejowych w rejonie przejścia określa się na podstawie rzeczywistej długości odcinka"
-      },
-      {
-       "type": "text",
-       "text": "widoczności czoła pojazdu kolejowego z drogi L₂."
-      }
-     ]
+     "text": "W przypadku gdy na przejściu nie są spełnione warunki widoczności dla największej prędkości pojazdów kolejowych w rejonie przejścia, dopuszczalną prędkość pojazdów kolejowych w rejonie przejścia określa się na podstawie rzeczywistej długości odcinka widoczności czoła pojazdu kolejowego z drogi L₂.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "5",
      "path": "ust_5",
-     "text": "W przypadku gdy na przejściu nie są spełnione warunki widoczności dla prędkości",
-     "children": [
-      {
-       "type": "text",
-       "text": "pojazdów kolejowych 30 km/h dla linii kolejowej normalnotorowej i szerokotorowej, a dla linii"
-      },
-      {
-       "type": "text",
-       "text": "kolejowej kolei wąskotorowej dla prędkości pojazdów kolejowych 25 km/h, wprowadza się"
-      },
-      {
-       "type": "text",
-       "text": "ograniczenie prędkości czoła pojazdu kolejowego do 20 km/h na szerokości przejścia."
-      }
-     ]
+     "text": "W przypadku gdy na przejściu nie są spełnione warunki widoczności dla prędkości pojazdów kolejowych 30 km/h dla linii kolejowej normalnotorowej i szerokotorowej, a dla linii kolejowej kolei wąskotorowej dla prędkości pojazdów kolejowych 25 km/h, wprowadza się ograniczenie prędkości czoła pojazdu kolejowego do 20 km/h na szerokości przejścia.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "6",
      "path": "ust_6",
-     "text": "Sprawdzenia odległości widoczności czoła pojazdu kolejowego od strony drogi przed",
-     "children": [
-      {
-       "type": "text",
-       "text": "przejściem niewyposażonym w urządzenia zabezpieczenia ruchu dokonuje się w terminach"
-      },
-      {
-       "type": "text",
-       "text": "określonych w § 17 ust. 2 rozporządzenia i zapisuje w metryce."
-      }
-     ]
+     "text": "Sprawdzenia odległości widoczności czoła pojazdu kolejowego od strony drogi przed przejściem niewyposażonym w urządzenia zabezpieczenia ruchu dokonuje się w terminach określonych w § 17 ust. 2 rozporządzenia i zapisuje w metryce.",
+     "children": []
     }
    ]
   },
@@ -5175,50 +4738,21 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "W przypadku niedziałania urządzeń zabezpieczenia ruchu na przejazdach kolejowo-",
+     "text": "W przypadku niedziałania urządzeń zabezpieczenia ruchu na przejazdach kolejowo-drogowych kategorii A, jeżeli jest możliwość zapewnienia pracownika uprawnionego do kierowania ruchem drogowym na skrzyżowaniu w obrębie przejazdu kolejowo-drogowego:",
      "children": [
-      {
-       "type": "text",
-       "text": "-drogowych kategorii A, jeżeli jest możliwość zapewnienia pracownika uprawnionego do"
-      },
-      {
-       "type": "text",
-       "text": "kierowania ruchem drogowym na skrzyżowaniu w obrębie przejazdu kolejowo-drogowego:"
-      },
       {
        "type": "pkt",
        "num": "1",
        "path": "ust_1/pkt_1",
-       "text": "niezwłocznie zapewnia się kierowanie ruchem drogowym na przejeździe kolejowo-",
-       "children": [
-        {
-         "type": "text",
-         "text": "-drogowym przez tego pracownika;"
-        }
-       ]
+       "text": "niezwłocznie zapewnia się kierowanie ruchem drogowym na przejeździe kolejowo-drogowym przez tego pracownika;",
+       "children": []
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_1/pkt_2",
-       "text": "oznacza się przejazd kolejowo-drogowy od strony drogi znakiem B-32b „rogatka",
+       "text": "oznacza się przejazd kolejowo-drogowy od strony drogi znakiem B-32b „rogatka uszkodzona” lub znakiem B-32c „sygnalizacja uszkodzona”, które ustawia się z obu stron przejazdu kolejowo-drogowego, po prawej stronie drogi, bezpośrednio przed rogatką lub sygnalizatorem drogowym umieszczanym na przejazdach kolejowo-drogowych i przejściach w odległości 1 m od krawędzi jezdni.",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "uszkodzona” lub znakiem B-32c „sygnalizacja uszkodzona”, które ustawia się z obu stron"
-      },
-      {
-       "type": "text",
-       "text": "przejazdu kolejowo-drogowego, po prawej stronie drogi, bezpośrednio przed rogatką lub"
-      },
-      {
-       "type": "text",
-       "text": "sygnalizatorem drogowym umieszczanym na przejazdach kolejowo-drogowych i przej-"
-      },
-      {
-       "type": "text",
-       "text": "ściach w odległości 1 m od krawędzi jezdni."
       }
      ]
     },
@@ -5226,34 +4760,14 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "W przypadku niedziałania urządzeń zabezpieczenia ruchu na przejazdach kolejowo-",
+     "text": "W przypadku niedziałania urządzeń zabezpieczenia ruchu na przejazdach kolejowo-drogowych kategorii A, jeżeli nie ma możliwości zapewnienia pracownika uprawnionego do kierowania ruchem drogowym na skrzyżowaniu w obrębie przejazdu kolejowo-drogowego oraz na przejazdach kolejowo-drogowych kategorii B i C, ruch pojazdów kolejowych prowadzi się po:",
      "children": [
-      {
-       "type": "text",
-       "text": "-drogowych kategorii A, jeżeli nie ma możliwości zapewnienia pracownika uprawnionego do"
-      },
-      {
-       "type": "text",
-       "text": "kierowania ruchem drogowym na skrzyżowaniu w obrębie przejazdu kolejowo-drogowego"
-      },
-      {
-       "type": "text",
-       "text": "oraz na przejazdach kolejowo-drogowych kategorii B i C, ruch pojazdów kolejowych prowadzi"
-      },
-      {
-       "type": "text",
-       "text": "się po:"
-      },
       {
        "type": "pkt",
        "num": "1",
        "path": "ust_2/pkt_1",
-       "text": "wprowadzeniu ograniczenia dopuszczalnej prędkości czoła pojazdów kolejowych na całej",
+       "text": "wprowadzeniu ograniczenia dopuszczalnej prędkości czoła pojazdów kolejowych na całej szerokości przejazdu kolejowo-drogowego do 20 km/h;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "szerokości przejazdu kolejowo-drogowego do 20 km/h;"
       },
       {
        "type": "pkt",
@@ -5268,176 +4782,69 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "W przypadku, o którym mowa w ust. 2, niezwłocznie oznakowuje się przejazd",
-     "children": [
-      {
-       "type": "text",
-       "text": "kolejowo-drogowy znakiem B-20 ,,stop”, a pod tym znakiem umieszcza się tablicę ,,rogatka"
-      },
-      {
-       "type": "text",
-       "text": "uszkodzona” lub ,,sygnalizacja uszkodzona”. Znaki te ustawia się z obu stron przejazdu"
-      },
-      {
-       "type": "text",
-       "text": "kolejowo-drogowego, po prawej stronie drogi, bezpośrednio przed rogatką lub sygnalizatorem"
-      },
-      {
-       "type": "text",
-       "text": "drogowym w odległości 1 m od krawędzi jezdni."
-      }
-     ]
+     "text": "W przypadku, o którym mowa w ust. 2, niezwłocznie oznakowuje się przejazd kolejowo-drogowy znakiem B-20 ,,stop”, a pod tym znakiem umieszcza się tablicę ,,rogatka uszkodzona” lub ,,sygnalizacja uszkodzona”. Znaki te ustawia się z obu stron przejazdu kolejowo-drogowego, po prawej stronie drogi, bezpośrednio przed rogatką lub sygnalizatorem drogowym w odległości 1 m od krawędzi jezdni.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Przepisy ust. 2 i 3 stosuje się również na przejeździe kolejowo-drogowym kategorii A",
-     "children": [
-      {
-       "type": "text",
-       "text": "w przypadku braku pracownika obsługującego przejazd kolejowo-drogowy."
-      }
-     ]
+     "text": "Przepisy ust. 2 i 3 stosuje się również na przejeździe kolejowo-drogowym kategorii A w przypadku braku pracownika obsługującego przejazd kolejowo-drogowy.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "5",
      "path": "ust_5",
-     "text": "W przypadku zamknięcia jednego z torów kolejowych dla ruchu pojazdów",
+     "text": "W przypadku zamknięcia jednego z torów kolejowych dla ruchu pojazdów kolejowych na linii kolejowej dwutorowej lub wielotorowej w związku z koniecznością wykonywania pracy pociągu roboczego w strefie oddziaływania urządzeń samoczynnego systemu przejazdowego i z dezaktywacją urządzenia samoczynnego systemu przejazdowego na tym torze przepisów ust. 2, 3 i 8–11 nie stosuje się, a ruch pojazdów kolejowych na torze kolejowym czynnym lub na torach kolejowych czynnych prowadzi się bez wprowadzania ograniczenia prędkości czoła pojazdów kolejowych na całej szerokości przejazdu kolejowo-drogowego lub przejścia – po:",
      "children": [
-      {
-       "type": "text",
-       "text": "kolejowych na linii kolejowej dwutorowej lub wielotorowej w związku z koniecznością"
-      },
-      {
-       "type": "text",
-       "text": "wykonywania pracy pociągu roboczego w strefie oddziaływania urządzeń samoczynnego"
-      },
-      {
-       "type": "text",
-       "text": "systemu przejazdowego i z dezaktywacją urządzenia samoczynnego systemu przejazdowego"
-      },
-      {
-       "type": "text",
-       "text": "na tym torze przepisów ust. 2, 3 i 8–11 nie stosuje się, a ruch pojazdów kolejowych na torze"
-      },
-      {
-       "type": "text",
-       "text": "kolejowym czynnym lub na torach kolejowych czynnych prowadzi się bez wprowadzania"
-      },
-      {
-       "type": "text",
-       "text": "ograniczenia prędkości czoła pojazdów kolejowych na całej szerokości przejazdu kolejowo-"
-      },
-      {
-       "type": "text",
-       "text": "-drogowego lub przejścia – po:"
-      },
       {
        "type": "pkt",
        "num": "1",
        "path": "ust_5/pkt_1",
-       "text": "zarządzeniu dodatkowego podawania sygnału dźwiękowego Rp 1 „Baczność” na odcinku",
+       "text": "zarządzeniu dodatkowego podawania sygnału dźwiękowego Rp 1 „Baczność” na odcinku od wskaźnika W 6a albo W 6b do przejazdu kolejowo-drogowego lub przejścia;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "od wskaźnika W 6a albo W 6b do przejazdu kolejowo-drogowego lub przejścia;"
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_5/pkt_2",
-       "text": "dezaktywacji urządzenia samoczynnego systemu przejazdowego w torze kolejowym",
+       "text": "dezaktywacji urządzenia samoczynnego systemu przejazdowego w torze kolejowym zamkniętym w strefie przejazdu kolejowo-drogowego lub przejścia;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "zamkniętym w strefie przejazdu kolejowo-drogowego lub przejścia;"
       },
       {
        "type": "pkt",
        "num": "3",
        "path": "ust_5/pkt_3",
-       "text": "aktywacji urządzenia samoczynnego systemu przejazdowego w torze kolejowym",
+       "text": "aktywacji urządzenia samoczynnego systemu przejazdowego w torze kolejowym zamkniętym w strefie przejazdu kolejowo-drogowego lub przejścia, na żądanie kierownika pociągu roboczego, na czas przejazdu pociągu roboczego albo, w przypadku potrzeby wjechania pociągu roboczego na przejazd kolejowo-drogowy lub przejście – po:",
        "children": [
-        {
-         "type": "text",
-         "text": "zamkniętym w strefie przejazdu kolejowo-drogowego lub przejścia, na żądanie"
-        },
-        {
-         "type": "text",
-         "text": "kierownika pociągu roboczego, na czas przejazdu pociągu roboczego albo, w przypadku"
-        },
-        {
-         "type": "text",
-         "text": "potrzeby wjechania pociągu roboczego na przejazd kolejowo-drogowy lub przejście – po:"
-        },
         {
          "type": "lit",
          "num": "a",
          "path": "ust_5/pkt_3/lit_a",
-         "text": "zatrzymaniu pociągu roboczego bezpośrednio przed przejazdem kolejowo-",
-         "children": [
-          {
-           "type": "text",
-           "text": "-drogowym lub przejściem,"
-          }
-         ]
+         "text": "zatrzymaniu pociągu roboczego bezpośrednio przed przejazdem kolejowo-drogowym lub przejściem,",
+         "children": []
         },
         {
          "type": "lit",
          "num": "b",
          "path": "ust_5/pkt_3/lit_b",
-         "text": "kierowaniu ruchem drogowym na przejeździe kolejowo-drogowym lub przejściu",
+         "text": "kierowaniu ruchem drogowym na przejeździe kolejowo-drogowym lub przejściu przez kierownika pociągu roboczego lub innego pracownika uprawnionego do kierowania ruchem drogowym,",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "przez kierownika pociągu roboczego lub innego pracownika uprawnionego do"
-        },
-        {
-         "type": "text",
-         "text": "kierowania ruchem drogowym,"
         },
         {
          "type": "lit",
          "num": "c",
          "path": "ust_5/pkt_3/lit_c",
-         "text": "przekazaniu, po upewnieniu się, że pojazdy drogowe zatrzymały się, przez",
+         "text": "przekazaniu, po upewnieniu się, że pojazdy drogowe zatrzymały się, przez kierownika pociągu roboczego lub innego pracownika uprawnionego do kierowania ruchem drogowym prowadzącemu pociąg roboczy polecenia jazdy z dopuszczalną prędkością czoła pociągu roboczego nieprzekraczającą 10 km/h na całej szerokości przejazdu kolejowo-drogowego lub przejścia,",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "kierownika pociągu roboczego lub innego pracownika uprawnionego do kierowania"
-        },
-        {
-         "type": "text",
-         "text": "ruchem drogowym prowadzącemu pociąg roboczy polecenia jazdy z dopuszczalną"
-        },
-        {
-         "type": "text",
-         "text": "prędkością czoła pociągu roboczego nieprzekraczającą 10 km/h na całej szerokości"
-        },
-        {
-         "type": "text",
-         "text": "przejazdu kolejowo-drogowego lub przejścia,"
         },
         {
          "type": "lit",
          "num": "d",
          "path": "ust_5/pkt_3/lit_d",
-         "text": "podawaniu przez kierownika pociągu roboczego lub innego pracownika",
+         "text": "podawaniu przez kierownika pociągu roboczego lub innego pracownika uprawnionego do kierowania ruchem drogowym prowadzącemu pociąg roboczy sygnału Rm 1 „Do mnie”.",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "uprawnionego do kierowania ruchem drogowym prowadzącemu pociąg roboczy"
-        },
-        {
-         "type": "text",
-         "text": "sygnału Rm 1 „Do mnie”."
         }
        ]
       }
@@ -5447,60 +4854,22 @@
      "type": "ust",
      "num": "6",
      "path": "ust_6",
-     "text": "Przepisy ust. 5 stosuje się także w przypadku wykonywania prac modernizacyjnych lub",
-     "children": [
-      {
-       "type": "text",
-       "text": "utrzymaniowych w infrastrukturze kolejowej, jeżeli zachodzi potrzeba czasowego demontażu"
-      },
-      {
-       "type": "text",
-       "text": "czujników oddziaływania pojazdu kolejowego na urządzenia samoczynnego systemu"
-      },
-      {
-       "type": "text",
-       "text": "przejazdowego w torze kolejowym zamkniętym."
-      }
-     ]
+     "text": "Przepisy ust. 5 stosuje się także w przypadku wykonywania prac modernizacyjnych lub utrzymaniowych w infrastrukturze kolejowej, jeżeli zachodzi potrzeba czasowego demontażu czujników oddziaływania pojazdu kolejowego na urządzenia samoczynnego systemu przejazdowego w torze kolejowym zamkniętym.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "7",
      "path": "ust_7",
-     "text": "W przypadku budowy urządzeń zabezpieczenia ruchu na przejeździe kolejowo-",
-     "children": [
-      {
-       "type": "text",
-       "text": "-drogowym lub przejściu, do czasu przekazania ich do eksploatacji, zasłania się komory"
-      },
-      {
-       "type": "text",
-       "text": "sygnałowe i tarcze tłowe wraz z masztami na sygnalizatorach drogowych oraz wyłącza"
-      },
-      {
-       "type": "text",
-       "text": "urządzenia akustyczne generujące sygnały dźwiękowe."
-      }
-     ]
+     "text": "W przypadku budowy urządzeń zabezpieczenia ruchu na przejeździe kolejowo-drogowym lub przejściu, do czasu przekazania ich do eksploatacji, zasłania się komory sygnałowe i tarcze tłowe wraz z masztami na sygnalizatorach drogowych oraz wyłącza urządzenia akustyczne generujące sygnały dźwiękowe.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "8",
      "path": "ust_8",
-     "text": "W przypadku gdy przez okres dłuższy niż 7 dni brak jest pracownika obsługującego",
+     "text": "W przypadku gdy przez okres dłuższy niż 7 dni brak jest pracownika obsługującego przejazd kolejowo-drogowy na przejeździe kolejowo-drogowym kategorii A lub nie działają urządzenia zabezpieczenia ruchu na przejazdach kolejowo-drogowych kategorii B i C, zarządca kolei niezwłocznie:",
      "children": [
-      {
-       "type": "text",
-       "text": "przejazd kolejowo-drogowy na przejeździe kolejowo-drogowym kategorii A lub nie działają"
-      },
-      {
-       "type": "text",
-       "text": "urządzenia zabezpieczenia ruchu na przejazdach kolejowo-drogowych kategorii B i C, zarządca"
-      },
-      {
-       "type": "text",
-       "text": "kolei niezwłocznie:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -5511,13 +4880,8 @@
          "type": "lit",
          "num": "a",
          "path": "ust_8/pkt_1/lit_a",
-         "text": "o zmianę znaku A-9 „przejazd kolejowy z zaporami” na przejazdach kolejowo-",
-         "children": [
-          {
-           "type": "text",
-           "text": "-drogowych kategorii A i B na znak A-10 „przejazd kolejowy bez zapór”,"
-          }
-         ]
+         "text": "o zmianę znaku A-9 „przejazd kolejowy z zaporami” na przejazdach kolejowo-drogowych kategorii A i B na znak A-10 „przejazd kolejowy bez zapór”,",
+         "children": []
         },
         {
          "type": "lit",
@@ -5530,24 +4894,8 @@
          "type": "lit",
          "num": "c",
          "path": "ust_8/pkt_1/lit_c",
-         "text": "w uzasadnionych przypadkach – o umieszczenie znaku A-30 „inne niebezpieczeństwo”",
+         "text": "w uzasadnionych przypadkach – o umieszczenie znaku A-30 „inne niebezpieczeństwo” z tabliczką T-14d wskazującą przejazd kolejowo-drogowy, na którym warunki miejscowe powodują szczególne niebezpieczeństwo powstawania wypadków i wprowadzenie ograniczenia prędkości dla pojazdów drogowych przed dojazdem do przejazdu kolejowo-drogowego;",
          "children": []
-        },
-        {
-         "type": "text",
-         "text": "z tabliczką T-14d wskazującą przejazd kolejowo-drogowy, na którym warunki"
-        },
-        {
-         "type": "text",
-         "text": "miejscowe powodują szczególne niebezpieczeństwo powstawania wypadków"
-        },
-        {
-         "type": "text",
-         "text": "i wprowadzenie ograniczenia prędkości dla pojazdów drogowych przed dojazdem do"
-        },
-        {
-         "type": "text",
-         "text": "przejazdu kolejowo-drogowego;"
         }
        ]
       },
@@ -5555,52 +4903,15 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_8/pkt_2",
-       "text": "demontuje drągi rogatki na przejazdach kolejowo-drogowych kategorii A i B oraz",
+       "text": "demontuje drągi rogatki na przejazdach kolejowo-drogowych kategorii A i B oraz umieszcza znak G-3 „krzyż św. Andrzeja przed przejazdem kolejowym jednotorowym” albo znak G-4 „krzyż św. Andrzeja przed przejazdem kolejowym wielotorowym”, a na przejazdach kolejowo-drogowych kategorii B i C umieszcza tablicę „sygnalizacja uszkodzona”;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "umieszcza znak G-3 „krzyż św. Andrzeja przed przejazdem kolejowym jednotorowym”"
-      },
-      {
-       "type": "text",
-       "text": "albo znak G-4 „krzyż św. Andrzeja przed przejazdem kolejowym wielotorowym”, a na"
-      },
-      {
-       "type": "text",
-       "text": "przejazdach kolejowo-drogowych kategorii B i C umieszcza tablicę „sygnalizacja"
-      },
-      {
-       "type": "text",
-       "text": "uszkodzona”;"
       },
       {
        "type": "pkt",
        "num": "3",
        "path": "ust_8/pkt_3",
-       "text": "określa maksymalną prędkość pojazdów kolejowych przed przejazdem kolejowo-",
-       "children": [
-        {
-         "type": "text",
-         "text": "-drogowym, która jest ustalana dla warunków widoczności mierzonych po osi drogi"
-        },
-        {
-         "type": "text",
-         "text": "z odległości 5 m od skrajnej szyny toru kolejowego zgodnie z częścią B załącznika nr 3"
-        },
-        {
-         "type": "text",
-         "text": "do rozporządzenia; maksymalna prędkość pojazdów kolejowych powyżej 20 km/h jest"
-        },
-        {
-         "type": "text",
-         "text": "dopuszczalna na przejazdach kolejowo-drogowych, na których droga przecina nie więcej"
-        },
-        {
-         "type": "text",
-         "text": "niż dwa tory kolejowe, a iloczyn ruchu nie przekracza 60 000;"
-        }
-       ]
+       "text": "określa maksymalną prędkość pojazdów kolejowych przed przejazdem kolejowo-drogowym, która jest ustalana dla warunków widoczności mierzonych po osi drogi z odległości 5 m od skrajnej szyny toru kolejowego zgodnie z częścią B załącznika nr 3 do rozporządzenia; maksymalna prędkość pojazdów kolejowych powyżej 20 km/h jest dopuszczalna na przejazdach kolejowo-drogowych, na których droga przecina nie więcej niż dwa tory kolejowe, a iloczyn ruchu nie przekracza 60 000;",
+       "children": []
       },
       {
        "type": "pkt",
@@ -5613,20 +4924,8 @@
        "type": "pkt",
        "num": "5",
        "path": "ust_8/pkt_5",
-       "text": "ustala, w uzgodnieniu z zarządcą drogi, termin przywrócenia obsługi lub naprawy urządzeń",
+       "text": "ustala, w uzgodnieniu z zarządcą drogi, termin przywrócenia obsługi lub naprawy urządzeń zabezpieczenia ruchu na przejeździe kolejowo-drogowym nie dłuższy niż 3 miesiące od wystąpienia braku pracownika obsługującego przejazd kolejowo-drogowy na przejeździe kolejowo-drogowym kategorii A lub niedziałania urządzeń zabezpieczenia ruchu.",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "zabezpieczenia ruchu na przejeździe kolejowo-drogowym nie dłuższy niż 3 miesiące od"
-      },
-      {
-       "type": "text",
-       "text": "wystąpienia braku pracownika obsługującego przejazd kolejowo-drogowy na przejeździe"
-      },
-      {
-       "type": "text",
-       "text": "kolejowo-drogowym kategorii A lub niedziałania urządzeń zabezpieczenia ruchu."
       }
      ]
     },
@@ -5634,17 +4933,8 @@
      "type": "ust",
      "num": "9",
      "path": "ust_9",
-     "text": "W przypadkach, o których mowa w ust. 8, powiadamia się właściwego terenowo",
-     "children": [
-      {
-       "type": "text",
-       "text": "komendanta Policji oraz właściwego zarządcę drogi o zmianach sposobu istniejącego"
-      },
-      {
-       "type": "text",
-       "text": "zabezpieczenia przejazdu kolejowo-drogowego oraz o ewentualnych utrudnieniach."
-      }
-     ]
+     "text": "W przypadkach, o których mowa w ust. 8, powiadamia się właściwego terenowo komendanta Policji oraz właściwego zarządcę drogi o zmianach sposobu istniejącego zabezpieczenia przejazdu kolejowo-drogowego oraz o ewentualnych utrudnieniach.",
+     "children": []
     },
     {
      "type": "ust",
@@ -5656,12 +4946,8 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_10/pkt_1",
-       "text": "wprowadza się ograniczenie prędkości czoła pojazdów kolejowych do 20 km/h na całej",
+       "text": "wprowadza się ograniczenie prędkości czoła pojazdów kolejowych do 20 km/h na całej szerokości przejścia;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "szerokości przejścia;"
       },
       {
        "type": "pkt",
@@ -5676,41 +4962,21 @@
      "type": "ust",
      "num": "11",
      "path": "ust_11",
-     "text": "W przypadku gdy przez okres dłuższy niż 7 dni nie działają urządzenia zabezpieczenia",
+     "text": "W przypadku gdy przez okres dłuższy niż 7 dni nie działają urządzenia zabezpieczenia ruchu na przejściu, niezwłocznie:",
      "children": [
-      {
-       "type": "text",
-       "text": "ruchu na przejściu, niezwłocznie:"
-      },
       {
        "type": "pkt",
        "num": "1",
        "path": "ust_11/pkt_1",
-       "text": "demontuje się drągi rogatki oraz umieszcza się znak G-3 „krzyż św. Andrzeja przed",
+       "text": "demontuje się drągi rogatki oraz umieszcza się znak G-3 „krzyż św. Andrzeja przed przejazdem kolejowym jednotorowym” albo znak G-4 „krzyż św. Andrzeja przed przejazdem kolejowym wielotorowym”, a na przejściu wyposażonym w sygnalizatory drogowe umieszcza się tablicę „sygnalizacja uszkodzona”;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "przejazdem kolejowym jednotorowym” albo znak G-4 „krzyż św. Andrzeja przed"
-      },
-      {
-       "type": "text",
-       "text": "przejazdem kolejowym wielotorowym”, a na przejściu wyposażonym w sygnalizatory"
-      },
-      {
-       "type": "text",
-       "text": "drogowe umieszcza się tablicę „sygnalizacja uszkodzona”;"
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_11/pkt_2",
-       "text": "utrzymuje się ograniczenie prędkości czoła pojazdów kolejowych do 20 km/h na całej",
+       "text": "utrzymuje się ograniczenie prędkości czoła pojazdów kolejowych do 20 km/h na całej szerokości przejścia;",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "szerokości przejścia;"
       },
       {
        "type": "pkt",
@@ -5723,12 +4989,8 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_11/pkt_4",
-       "text": "ustala się termin przywrócenia właściwego działania urządzeń zabezpieczenia ruchu nie",
+       "text": "ustala się termin przywrócenia właściwego działania urządzeń zabezpieczenia ruchu nie dłuższy niż 3 miesiące od dnia wystąpienia usterki.",
        "children": []
-      },
-      {
-       "type": "text",
-       "text": "dłuższy niż 3 miesiące od dnia wystąpienia usterki."
       }
      ]
     }
@@ -5745,20 +5007,8 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "W dogodnych warunkach terenowych niweletę drogi na długości przejazdu kolejowo-",
+     "text": "W dogodnych warunkach terenowych niweletę drogi na długości przejazdu kolejowo-drogowego i na dojeździe do przejazdu kolejowo-drogowego projektuje się bez załomów profilu, tak aby uzyskać wspólną niweletę torów kolejowych bez przechyłek albo odpowiednio zróżnicowaną niweletę torów kolejowych z przechyłkami i zachować pochylenie podłużne drogi:",
      "children": [
-      {
-       "type": "text",
-       "text": "-drogowego i na dojeździe do przejazdu kolejowo-drogowego projektuje się bez załomów"
-      },
-      {
-       "type": "text",
-       "text": "profilu, tak aby uzyskać wspólną niweletę torów kolejowych bez przechyłek albo odpowiednio"
-      },
-      {
-       "type": "text",
-       "text": "zróżnicowaną niweletę torów kolejowych z przechyłkami i zachować pochylenie podłużne drogi:"
-      },
       {
        "type": "pkt",
        "num": "1",
@@ -5779,48 +5029,15 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "W przypadku uzasadnionym warunkami miejscowymi dopuszcza się stosowanie",
-     "children": [
-      {
-       "type": "text",
-       "text": "profilu podłużnego dróg na dojazdach do przejazdu kolejowo-drogowego oraz na długości"
-      },
-      {
-       "type": "text",
-       "text": "przejazdu zgodnie z przepisami techniczno-budowlanymi dotyczącymi dróg publicznych."
-      }
-     ]
+     "text": "W przypadku uzasadnionym warunkami miejscowymi dopuszcza się stosowanie profilu podłużnego dróg na dojazdach do przejazdu kolejowo-drogowego oraz na długości przejazdu zgodnie z przepisami techniczno-budowlanymi dotyczącymi dróg publicznych.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "W trudnych warunkach terenowych na projektowanych przejazdach kolejowo-",
+     "text": "W trudnych warunkach terenowych na projektowanych przejazdach kolejowo-drogowych różnice załomów przedstawionych na rysunku 1 nie przekraczają 5 %. Dopuszcza się większe załomy pod warunkiem przeprowadzenia analizy przejezdności w planie i profilu dla pojazdów miarodajnych w rozumieniu przepisów techniczno-budowlanych dotyczących dróg publicznych po określeniu takich pojazdów przez zarządcę drogi. W wyniku przeprowadzenia takiej analizy dostosowuje się organizację ruchu drogowego na przejeździe kolejowo-drogowym.",
      "children": [
-      {
-       "type": "text",
-       "text": "-drogowych różnice załomów przedstawionych na rysunku 1 nie przekraczają 5 %. Dopuszcza"
-      },
-      {
-       "type": "text",
-       "text": "się większe załomy pod warunkiem przeprowadzenia analizy przejezdności w planie i profilu"
-      },
-      {
-       "type": "text",
-       "text": "dla pojazdów miarodajnych w rozumieniu przepisów techniczno-budowlanych dotyczących"
-      },
-      {
-       "type": "text",
-       "text": "dróg publicznych po określeniu takich pojazdów przez zarządcę drogi. W wyniku"
-      },
-      {
-       "type": "text",
-       "text": "przeprowadzenia takiej analizy dostosowuje się organizację ruchu drogowego na przejeździe"
-      },
-      {
-       "type": "text",
-       "text": "kolejowo-drogowym."
-      },
       {
        "type": "text",
        "text": "Rysunek 1"

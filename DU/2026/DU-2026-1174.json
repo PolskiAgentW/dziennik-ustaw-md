@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1174",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 sierpnia 2026 r. zmieniające rozporządzenie w sprawie trybu i warunków określania predyspozycji policjantów do służby na określonych stanowiskach służbowych lub w określonych komórkach organizacyjnych Policji",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1174/text.pdf",
  "body": [
   {
@@ -480,8 +480,9 @@
      "text": "TRYB I WARUNKI PRZEPROWADZANIA TESTU SPRAWNOŚCI FIZYCZNEJ, W TYM KRYTERIA OCENY PRÓB TESTU, DLA BADANYCH UBIEGAJĄCYCH SIĘ O PODJĘCIE SŁUŻBY LUB PEŁNIĄCYCH SŁUŻBĘ W KOMÓRCE ORGANIZACYJNEJ WŁAŚCIWEJ W SPRAWACH PROWADZENIA DZIAŁAŃ REALIZACYJNYCH WYMAGAJĄCYCH STOSOWANIA TAKTYKI SPECJALNEJ ORAZ SPECJALISTYCZNEGO WYPOSAŻENIA CBŚP"
     },
     {
-     "type": "text",
-     "text": "I. Ogólne założenia do przeprowadzania testu sprawności fizycznej dla badanych ubiegających się o podjęcie służby lub pełniących służbę w komórce organizacyjnej właściwej w sprawach prowadzenia działań realizacyjnych wymagających stosowania taktyki specjalnej oraz specjalistycznego wyposażenia CBŚP"
+     "type": "heading",
+     "label": "I.",
+     "text": "Ogólne założenia do przeprowadzania testu sprawności fizycznej dla badanych ubiegających się o podjęcie służby lub pełniących służbę w komórce organizacyjnej właściwej w sprawach prowadzenia działań realizacyjnych wymagających stosowania taktyki specjalnej oraz specjalistycznego wyposażenia CBŚP"
     },
     {
      "type": "ust",
@@ -524,12 +525,12 @@
      "num": "3",
      "path": "ust_3",
      "text": "Rozpoczęcie testu poprzedza rozgrzewka. Badany przeprowadza rozgrzewkę we własnym zakresie.",
-     "children": [
-      {
-       "type": "text",
-       "text": "II. Miejsce, opis i ocena wykonania prób sprawnościowych"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Miejsce, opis i ocena wykonania prób sprawnościowych"
     },
     {
      "type": "ust",
@@ -986,48 +987,50 @@
       {
        "type": "text",
        "text": "Ocena: ćwiczenie jest uznane za zaliczone po wykonaniu 50 podwójnych powtórzeń lub 200 pojedynczych powtórzeń."
-      },
-      {
-       "type": "text",
-       "text": "III. Kryteria oceny prób sprawnościowych dla policjantów ubiegających się o podjęcie służby na stanowiskach w komórce organizacyjnej właściwej w sprawach prowadzenia działań realizacyjnych wymagających stosowania taktyki specjalnej oraz specjalistycznego wyposażenia CBŚP"
-      },
-      {
-       "type": "text",
-       "text": "Lp. Rodzaj próby Jednostka Zaliczenie próby sprawnościowej pomiaru"
-      },
-      {
-       "type": "text",
-       "text": "1 bieg w czasie metr pokonanie dystansu ≥2600 m 12 minut"
-      },
-      {
-       "type": "text",
-       "text": "wykonanie próby odpowiednio w czasie"
-      },
-      {
-       "type": "text",
-       "text": "sprawdzian ogólnej minuta 30 min 32,5 min 35 min 37,5 min 40 min 2 sprawności i sekunda fizycznej po uwzględnieniu pokonanego dystansu z pierwszej próby"
-      },
-      {
-       "type": "text",
-       "text": "≥2600 m ≥2700 m ≥2800 m ≥2900 m ≥3000 m"
-      },
-      {
-       "type": "text",
-       "text": "IV. Kryteria oceny prób sprawnościowych dla policjantów pełniących służbę na stanowiskach w komórce organizacyjnej właściwej w sprawach prowadzenia działań realizacyjnych wymagających stosowania taktyki specjalnej oraz specjalistycznego wyposażenia CBŚP"
-      },
-      {
-       "type": "text",
-       "text": "Lp. Rodzaj próby Jednostka Zaliczenie próby sprawnościowej pomiaru"
-      },
-      {
-       "type": "text",
-       "text": "1 bieg w czasie metr pokonanie dystansu ≥2600 m 12 minut"
-      },
-      {
-       "type": "text",
-       "text": "sprawdzian ogólnej minuta 2 sprawności i sekunda wykonanie próby w czasie ≤50 min fizycznej"
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Kryteria oceny prób sprawnościowych dla policjantów ubiegających się o podjęcie służby na stanowiskach w komórce organizacyjnej właściwej w sprawach prowadzenia działań realizacyjnych wymagających stosowania taktyki specjalnej oraz specjalistycznego wyposażenia CBŚP"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Rodzaj próby Jednostka Zaliczenie próby sprawnościowej pomiaru"
+    },
+    {
+     "type": "text",
+     "text": "1 bieg w czasie metr pokonanie dystansu ≥2600 m 12 minut"
+    },
+    {
+     "type": "text",
+     "text": "wykonanie próby odpowiednio w czasie"
+    },
+    {
+     "type": "text",
+     "text": "sprawdzian ogólnej minuta 30 min 32,5 min 35 min 37,5 min 40 min 2 sprawności i sekunda fizycznej po uwzględnieniu pokonanego dystansu z pierwszej próby"
+    },
+    {
+     "type": "text",
+     "text": "≥2600 m ≥2700 m ≥2800 m ≥2900 m ≥3000 m"
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Kryteria oceny prób sprawnościowych dla policjantów pełniących służbę na stanowiskach w komórce organizacyjnej właściwej w sprawach prowadzenia działań realizacyjnych wymagających stosowania taktyki specjalnej oraz specjalistycznego wyposażenia CBŚP"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Rodzaj próby Jednostka Zaliczenie próby sprawnościowej pomiaru"
+    },
+    {
+     "type": "text",
+     "text": "1 bieg w czasie metr pokonanie dystansu ≥2600 m 12 minut"
+    },
+    {
+     "type": "text",
+     "text": "sprawdzian ogólnej minuta 2 sprawności i sekunda wykonanie próby w czasie ≤50 min fizycznej"
     }
    ]
   }

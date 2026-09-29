@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/890",
  "title": "Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 17 czerwca 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej w sprawie zakresu informacji o okolicznościach mających wpływ na prawo do zasiłków z ubezpieczenia społecznego w razie choroby i macierzyństwa lub ich wysokość oraz dokumentów niezbędnych do przyznania i wypłaty zasiłków",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/890/text.pdf",
  "body": [
   {
@@ -1860,8 +1860,9 @@
      "text": "ZAKRES DANYCH WNIOSKU O ŚWIADCZENIE REHABILITACYJNE"
     },
     {
-     "type": "text",
-     "text": "I. W części wypełnianej przez wnioskodawcę:"
+     "type": "heading",
+     "label": "I.",
+     "text": "W części wypełnianej przez wnioskodawcę:"
     },
     {
      "type": "pkt",
@@ -1903,12 +1904,12 @@
      "num": "6",
      "path": "pkt_6",
      "text": "numer rachunku bankowego wnioskodawcy.",
-     "children": [
-      {
-       "type": "text",
-       "text": "II. W części wypełnianej przez płatnika składek:"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "W części wypełnianej przez płatnika składek:"
     },
     {
      "type": "pkt",
@@ -1943,12 +1944,12 @@
      "num": "5",
      "path": "pkt_5",
      "text": "data i podpis osoby upoważnionej do wypełnienia wniosku, numer telefonu oraz – w przypadku złożenia wniosku w formie dokumentu papierowego – pieczątka zawierająca imię, nazwisko i stanowisko, jeżeli ją posiada.",
-     "children": [
-      {
-       "type": "text",
-       "text": "III. W części wypełnianej przez płatnika zasiłku chorobowego:"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "W części wypełnianej przez płatnika zasiłku chorobowego:"
     },
     {
      "type": "pkt",
@@ -1976,12 +1977,12 @@
      "num": "4",
      "path": "pkt_4",
      "text": "data i podpis osoby upoważnionej do wypełnienia wniosku, numer telefonu oraz – w przypadku złożenia wniosku w formie dokumentu papierowego – pieczątka zawierająca imię, nazwisko i stanowisko, jeżeli ją posiada.",
-     "children": [
-      {
-       "type": "text",
-       "text": "IV. Pouczenie."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Pouczenie."
     }
    ]
   },

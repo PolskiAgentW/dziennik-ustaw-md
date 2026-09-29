@@ -1,7 +1,7 @@
 {
  "eli": "DU/2023/1202",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 25 maja 2023 r. w sprawie programu pilotażowego w zakresie kompleksowej opieki rozwojowej nad dziećmi urodzonymi przedwcześnie KORD",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2023/1202/text.pdf",
  "body": [
   {
@@ -1367,11 +1367,7 @@
       },
       {
        "type": "text",
-       "text": "A. Nazwa szpitala: wybierz z listy nazwę szpitala"
-      },
-      {
-       "type": "text",
-       "text": "B. Oddział szpitala: wybierz z listy nazwę oddziału"
+       "text": "A. Nazwa szpitala: wybierz z listy nazwę szpitala B. Oddział szpitala: wybierz z listy nazwę oddziału"
       }
      ]
     },
@@ -1386,13 +1382,8 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Rodzaj porodu (poród siłami natury (PSN), cięcie cesarskie, próżniociąg, kleszcze): wybierz z listy",
-     "children": [
-      {
-       "type": "text",
-       "text": "odpowiedź"
-      }
-     ]
+     "text": "Rodzaj porodu (poród siłami natury (PSN), cięcie cesarskie, próżniociąg, kleszcze): wybierz z listy odpowiedź",
+     "children": []
     },
     {
      "type": "ust",
@@ -1405,17 +1396,8 @@
      "type": "ust",
      "num": "5",
      "path": "ust_5",
-     "text": "Czas trwania ciąży: wybierz z listy liczbę tygodni ciąży; wybierz z listy liczbę dni;",
-     "children": [
-      {
-       "type": "text",
-       "text": "przyczyna porodu przedwczesnego: wybierz z listy prawdopodobną przyczynę porodu;"
-      },
-      {
-       "type": "text",
-       "text": "wybierz z listy przyczynę czynności skurczowej"
-      }
-     ]
+     "text": "Czas trwania ciąży: wybierz z listy liczbę tygodni ciąży; wybierz z listy liczbę dni; przyczyna porodu przedwczesnego: wybierz z listy prawdopodobną przyczynę porodu; wybierz z listy przyczynę czynności skurczowej",
+     "children": []
     },
     {
      "type": "ust",
@@ -1428,20 +1410,8 @@
      "type": "ust",
      "num": "7",
      "path": "ust_7",
-     "text": "Podanie steroidów przed urodzeniem się dziecka:",
+     "text": "Podanie steroidów przed urodzeniem się dziecka: A. Czas podania: wybierz z listy odpowiedzi, jeżeli kurs został powtórzony B. Pełny kurs – tak/nie: wybierz z listy odpowiedź C. Niepełny kurs – tak/nie: wybierz z listy odpowiedź",
      "children": [
-      {
-       "type": "text",
-       "text": "A. Czas podania: wybierz z listy odpowiedzi, jeżeli kurs został powtórzony"
-      },
-      {
-       "type": "text",
-       "text": "B. Pełny kurs – tak/nie: wybierz z listy odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "C. Niepełny kurs – tak/nie: wybierz z listy odpowiedź"
-      },
       {
        "type": "text",
        "text": "Część B: dziecko"
@@ -1459,13 +1429,8 @@
      "type": "ust",
      "num": "9",
      "path": "ust_9",
-     "text": "Wielorakość porodu – liczba płodów wybierz z listy liczbę płodów",
-     "children": [
-      {
-       "type": "text",
-       "text": "który płód z kolei: wybierz z listy, który z kolei płód"
-      }
-     ]
+     "text": "Wielorakość porodu – liczba płodów wybierz z listy liczbę płodów który płód z kolei: wybierz z listy, który z kolei płód",
+     "children": []
     },
     {
      "type": "ust",
@@ -1490,57 +1455,15 @@
      "type": "ust",
      "num": "12",
      "path": "ust_12",
-     "text": "Punktacja w skali APGAR – wpisz właściwą punktację przy podanych minutach lub dopisz liczbę",
-     "children": [
-      {
-       "type": "text",
-       "text": "minut, jeśli ich liczba nie jest wymieniona:"
-      },
-      {
-       "type": "text",
-       "text": "A. 1. minuta – wybierz z listy odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "B. 3. minuta – wybierz z listy odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "C. 5. minuta – wybierz z listy odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "D. 10. minuta – wybierz z listy odpowiedź"
-      }
-     ]
+     "text": "Punktacja w skali APGAR – wpisz właściwą punktację przy podanych minutach lub dopisz liczbę minut, jeśli ich liczba nie jest wymieniona: A. 1. minuta – wybierz z listy odpowiedź B. 3. minuta – wybierz z listy odpowiedź C. 5. minuta – wybierz z listy odpowiedź D. 10. minuta – wybierz z listy odpowiedź",
+     "children": []
     },
     {
      "type": "ust",
      "num": "13",
      "path": "ust_13",
-     "text": "Tlen (FIO2) – jeżeli tak – wybierz właściwą minutę i właściwy procent:",
-     "children": [
-      {
-       "type": "text",
-       "text": "A. 1. minuta – wybierz z listy odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "B. 3. minuta – wybierz z listy odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "C. 5. minuta – wybierz z listy odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "D. 10. minuta – wybierz z listy odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "E. 20. minuta – wybierz z listy odpowiedź"
-      }
-     ]
+     "text": "Tlen (FIO2) – jeżeli tak – wybierz właściwą minutę i właściwy procent: A. 1. minuta – wybierz z listy odpowiedź B. 3. minuta – wybierz z listy odpowiedź C. 5. minuta – wybierz z listy odpowiedź D. 10. minuta – wybierz z listy odpowiedź E. 20. minuta – wybierz z listy odpowiedź",
+     "children": []
     },
     {
      "type": "ust",
@@ -1928,55 +1851,7 @@
       },
       {
        "type": "text",
-       "text": "A. L – tak/nie: wybierz z listy odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "B. P – tak/nie: wybierz z listy odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "25.3. Pokrwotoczne poszerzenie komór mózgu – tak/nie: wybierz z listy odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "A. odbarczenie drogą nakłucia lędźwiowego – jeżeli tak, jaka liczba zastosowanych nakłuć:"
-      },
-      {
-       "type": "text",
-       "text": "wybierz z listy odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "B. odbarczenie drogą nakłucia przezciemiączkowego – jeżeli tak, jaka liczba nakłuć:"
-      },
-      {
-       "type": "text",
-       "text": "wybierz z listy odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "25.4. Inne krwawienia (opis): wprowadź opis"
-      },
-      {
-       "type": "text",
-       "text": "25.5. PVL (klasyfikacja) – jeżeli tak: zaznacz odpowiedź i wybierz stopień – I, II, III, IV:"
-      },
-      {
-       "type": "text",
-       "text": "wybierz z listy odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "A. L – tak/nie: wybierz z listy odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "B. P – tak/nie: wybierz z listy odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "25.6. Inne patologie OUN – jakie, opisz: wprowadź opis"
+       "text": "A. L – tak/nie: wybierz z listy odpowiedź B. P – tak/nie: wybierz z listy odpowiedź 25.3. Pokrwotoczne poszerzenie komór mózgu – tak/nie: wybierz z listy odpowiedź A. odbarczenie drogą nakłucia lędźwiowego – jeżeli tak, jaka liczba zastosowanych nakłuć: wybierz z listy odpowiedź B. odbarczenie drogą nakłucia przezciemiączkowego – jeżeli tak, jaka liczba nakłuć: wybierz z listy odpowiedź 25.4. Inne krwawienia (opis): wprowadź opis 25.5. PVL (klasyfikacja) – jeżeli tak: zaznacz odpowiedź i wybierz stopień – I, II, III, IV: wybierz z listy odpowiedź A. L – tak/nie: wybierz z listy odpowiedź B. P – tak/nie: wybierz z listy odpowiedź 25.6. Inne patologie OUN – jakie, opisz: wprowadź opis"
       }
      ]
     },
@@ -1984,13 +1859,8 @@
      "type": "ust",
      "num": "26",
      "path": "ust_26",
-     "text": "Wady wrodzone i zakażenia wrodzone – jeżeli tak, wpisz poniżej rozpoznanie(-nia) według kodów",
-     "children": [
-      {
-       "type": "text",
-       "text": "ICD-10: wpisz odpowiedź"
-      }
-     ]
+     "text": "Wady wrodzone i zakażenia wrodzone – jeżeli tak, wpisz poniżej rozpoznanie(-nia) według kodów ICD-10: wpisz odpowiedź",
+     "children": []
     },
     {
      "type": "ust",
@@ -2003,87 +1873,25 @@
      "type": "ust",
      "num": "28",
      "path": "ust_28",
-     "text": "Zakażenia późne – jeżeli tak: patogeny (wybierz z listy lub podaj inny – jaki):",
-     "children": [
-      {
-       "type": "text",
-       "text": "wybierz z listy odpowiedź ; wpisz, jeżeli inny niż na liście"
-      }
-     ]
+     "text": "Zakażenia późne – jeżeli tak: patogeny (wybierz z listy lub podaj inny – jaki): wybierz z listy odpowiedź ; wpisz, jeżeli inny niż na liście",
+     "children": []
     },
     {
      "type": "ust",
      "num": "29",
      "path": "ust_29",
-     "text": "Rozpoznanie kliniczne (zaznacz, jeżeli jest potwierdzone mikrobiologicznie, wybierz z listy",
-     "children": [
-      {
-       "type": "text",
-       "text": "patogen): wybierz z listy odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "A. Zapalenie płuc: zaznacz odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "B. Zapalenie opon mózgowych: zaznacz odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "C. Sepsa: zaznacz odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "D. Zapalenie kości: zaznacz odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "E. Zakażenie układu moczowego: zaznacz odpowiedź"
-      }
-     ]
+     "text": "Rozpoznanie kliniczne (zaznacz, jeżeli jest potwierdzone mikrobiologicznie, wybierz z listy patogen): wybierz z listy odpowiedź A. Zapalenie płuc: zaznacz odpowiedź B. Zapalenie opon mózgowych: zaznacz odpowiedź C. Sepsa: zaznacz odpowiedź D. Zapalenie kości: zaznacz odpowiedź E. Zakażenie układu moczowego: zaznacz odpowiedź",
+     "children": []
     },
     {
      "type": "ust",
      "num": "30",
      "path": "ust_30",
-     "text": "Antybiotykoterapia – jeżeli tak: zaznacz odpowiedź",
+     "text": "Antybiotykoterapia – jeżeli tak: zaznacz odpowiedź A. Liczba dni łącznie: wybierz z listy odpowiedź B. Liczba stosowanych antybiotyków: wpisz odpowiedź C. Klasa zastosowanych antybiotyków:",
      "children": [
       {
        "type": "text",
-       "text": "A. Liczba dni łącznie: wybierz z listy odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "B. Liczba stosowanych antybiotyków: wpisz odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "C. Klasa zastosowanych antybiotyków:"
-      },
-      {
-       "type": "text",
-       "text": "☐ aminoglikozydy – jeżeli tak, wpisz liczbę zastosowanych antybiotyków tej klasy: wpisz odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "☐ beta-laktaminy – jeżeli tak, wpisz liczbę zastosowanych antybiotyków tej klasy: wpisz odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "☐ fluorochinolony – jeżeli tak, wpisz liczbę zastosowanych antybiotyków tej klasy: wpisz odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "☐ glikopeptydy – jeżeli tak, wpisz liczbę zastosowanych antybiotyków tej klasy: wpisz odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "☐ linkozamidy – jeżeli tak, wpisz liczbę zastosowanych antybiotyków tej klasy: wpisz odpowiedź"
-      },
-      {
-       "type": "text",
-       "text": "☐ makrolidy – jeżeli tak, wpisz liczbę zastosowanych antybiotyków tej klasy: wpisz odpowiedź"
+       "text": "☐ aminoglikozydy – jeżeli tak, wpisz liczbę zastosowanych antybiotyków tej klasy: wpisz odpowiedź ☐ beta-laktaminy – jeżeli tak, wpisz liczbę zastosowanych antybiotyków tej klasy: wpisz odpowiedź ☐ fluorochinolony – jeżeli tak, wpisz liczbę zastosowanych antybiotyków tej klasy: wpisz odpowiedź ☐ glikopeptydy – jeżeli tak, wpisz liczbę zastosowanych antybiotyków tej klasy: wpisz odpowiedź ☐ linkozamidy – jeżeli tak, wpisz liczbę zastosowanych antybiotyków tej klasy: wpisz odpowiedź ☐ makrolidy – jeżeli tak, wpisz liczbę zastosowanych antybiotyków tej klasy: wpisz odpowiedź"
       },
       {
        "type": "text",
@@ -2616,11 +2424,7 @@
     {
      "type": "heading",
      "label": "CZĘŚĆ II",
-     "text": "PORADA ZERO"
-    },
-    {
-     "type": "text",
-     "text": "W PIERWSZYM ROKU ŻYCIA"
+     "text": "PORADA ZERO W PIERWSZYM ROKU ŻYCIA"
     },
     {
      "type": "text",
@@ -2652,7 +2456,14 @@
     },
     {
      "type": "text",
-     "text": "a. ☐ Morfologia – wynik badania: a) Hemoglobina: wpisz wyniki badania"
+     "text": "a. ☐ Morfologia – wynik badania:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "Hemoglobina: wpisz wyniki badania",
+     "children": []
     },
     {
      "type": "lit",
@@ -2663,19 +2474,7 @@
     },
     {
      "type": "text",
-     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "e. ☐ CHr – wynik badania: wpisz wyniki badania"
+     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania e. ☐ CHr – wynik badania: wpisz wyniki badania"
     },
     {
      "type": "text",
@@ -2683,99 +2482,11 @@
     },
     {
      "type": "text",
-     "text": "f. ☐ CRP – wynik badania: wpisz wyniki badania"
+     "text": "f. ☐ CRP – wynik badania: wpisz wyniki badania g. ☐ Koagulogram – wynik badania: wpisz wyniki badania h. ☐ ALAT – wynik badania: wpisz wyniki badania i. ☐ ASPAT – wynik badania: wpisz wyniki badania j. ☐ GGPT – wynik badania: wpisz wyniki badania k. ☐ Wapń – wynik badania: wpisz wyniki badania l. ☐ Fosfor – wynik badania: wpisz wyniki badania m. ☐ Sód – wynik badania: wpisz wyniki badania n. ☐ Potas – wynik badania: wpisz wyniki badania o. ☐ Mocznik – wynik badania: wpisz wyniki badania p. ☐ Kreatynina – wynik badania: wpisz wyniki badania q. ☐ Glukoza – wynik badania: wpisz wyniki badania r. ☐ Albuminy – wynik badania: wpisz wyniki badania s. ☐ Hormon adrenokortykotropowy (ACTH) – wynik badania: wpisz wyniki badania t. ☐ Hormon folikulotropowy (FSH) – wynik badania: wpisz wyniki badania u. ☐ Hormon luteinizujący (LH) – wynik badania: wpisz wyniki badania v. ☐ Hormon tyreotropowy (TSH) – wynik badania: wpisz wyniki badania w. ☐ FT3 – wynik badania: wpisz wyniki badania x. ☐ FT4 – wynik badania: wpisz wyniki badania y. ☐ Alfafetoproteina – wynik badania: wpisz wyniki badania z. ☐ Hormon wzrostu (GH) – wynik badania: wpisz wyniki badania aa. ☐ Kortyzol – wynik badania: wpisz wyniki badania bb. ☐ Witamina D – wynik badania: wpisz wyniki badania cc. ☐ Badanie ogólne moczu:"
     },
     {
      "type": "text",
-     "text": "g. ☐ Koagulogram – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "h. ☐ ALAT – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "i. ☐ ASPAT – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "j. ☐ GGPT – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "k. ☐ Wapń – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "l. ☐ Fosfor – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "m. ☐ Sód – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "n. ☐ Potas – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "o. ☐ Mocznik – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "p. ☐ Kreatynina – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "q. ☐ Glukoza – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "r. ☐ Albuminy – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "s. ☐ Hormon adrenokortykotropowy (ACTH) – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "t. ☐ Hormon folikulotropowy (FSH) – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "u. ☐ Hormon luteinizujący (LH) – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "v. ☐ Hormon tyreotropowy (TSH) – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "w. ☐ FT3 – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "x. ☐ FT4 – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "y. ☐ Alfafetoproteina – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "z. ☐ Hormon wzrostu (GH) – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "aa. ☐ Kortyzol – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "bb. ☐ Witamina D – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "cc. ☐ Badanie ogólne moczu: wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -2783,19 +2494,7 @@
     },
     {
      "type": "text",
-     "text": "dd. ☐ Wydalanie wapnia w moczu – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "ee. ☐ Wydalanie fosforu w moczu – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "ff. ☐ Wydalanie kreatyniny w moczu – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "gg. ☐ Wydalanie hormonów w moczu – wynik badania: wpisz wyniki badania"
+     "text": "dd. ☐ Wydalanie wapnia w moczu – wynik badania: wpisz wyniki badania ee. ☐ Wydalanie fosforu w moczu – wynik badania: wpisz wyniki badania ff. ☐ Wydalanie kreatyniny w moczu – wynik badania: wpisz wyniki badania gg. ☐ Wydalanie hormonów w moczu – wynik badania: wpisz wyniki badania"
     },
     {
      "type": "text",
@@ -2807,7 +2506,11 @@
     },
     {
      "type": "text",
-     "text": "A. ☐ Badanie RTG: a. RTG: wybierz z listy odpowiedź"
+     "text": "A. ☐ Badanie RTG:"
+    },
+    {
+     "type": "text",
+     "text": "a. RTG: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -2839,7 +2542,11 @@
     },
     {
      "type": "text",
-     "text": "B. ☐ Badania USG: a. USG: wybierz z listy odpowiedź"
+     "text": "B. ☐ Badania USG:"
+    },
+    {
+     "type": "text",
+     "text": "a. USG: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -2871,7 +2578,11 @@
     },
     {
      "type": "text",
-     "text": "C. ☐ Echokardiografia: data badania: wybierz datę"
+     "text": "C. ☐ Echokardiografia:"
+    },
+    {
+     "type": "text",
+     "text": "data badania: wybierz datę"
     },
     {
      "type": "text",
@@ -2883,7 +2594,11 @@
     },
     {
      "type": "text",
-     "text": "D. ☐ EEG: data badania: wybierz datę"
+     "text": "D. ☐ EEG:"
+    },
+    {
+     "type": "text",
+     "text": "data badania: wybierz datę"
     },
     {
      "type": "text",
@@ -2895,7 +2610,11 @@
     },
     {
      "type": "text",
-     "text": "E. ☐ Tomografia komputerowa: a. TK: wybierz z listy odpowiedź"
+     "text": "E. ☐ Tomografia komputerowa:"
+    },
+    {
+     "type": "text",
+     "text": "a. TK: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -2927,7 +2646,11 @@
     },
     {
      "type": "text",
-     "text": "F. ☐ Rezonans magnetyczny: a. RM: wybierz z listy odpowiedź"
+     "text": "F. ☐ Rezonans magnetyczny:"
+    },
+    {
+     "type": "text",
+     "text": "a. RM: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -3034,8 +2757,9 @@
      "text": "H. Suplementacja żelaza – jeżeli tak: zaznacz odpowiedź"
     },
     {
-     "type": "text",
-     "text": "I. Suplementacja wapniowo-fosforanowa (jeżeli stosowano BMF, proszę uznać to za suplementację) –"
+     "type": "heading",
+     "label": "I.",
+     "text": "Suplementacja wapniowo-fosforanowa (jeżeli stosowano BMF, proszę uznać to za suplementację) –"
     },
     {
      "type": "text",
@@ -3091,15 +2815,7 @@
     },
     {
      "type": "text",
-     "text": "PORADA PIERWSZA"
-    },
-    {
-     "type": "text",
-     "text": "W PIERWSZYM ROKU ŻYCIA"
-    },
-    {
-     "type": "text",
-     "text": "(80–100 dni od porady kwalifikującej)"
+     "text": "PORADA PIERWSZA W PIERWSZYM ROKU ŻYCIA (80–100 dni od porady kwalifikującej)"
     },
     {
      "type": "text",
@@ -3123,7 +2839,14 @@
     },
     {
      "type": "text",
-     "text": "a. ☐ Morfologia – wynik badania: a) Hemoglobina: wpisz wyniki badania"
+     "text": "a. ☐ Morfologia – wynik badania:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "Hemoglobina: wpisz wyniki badania",
+     "children": []
     },
     {
      "type": "lit",
@@ -3134,23 +2857,7 @@
     },
     {
      "type": "text",
-     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "e. ☐ CHr – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "f. ☐ CRP – wynik badania: wpisz wyniki badania"
+     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania e. ☐ CHr – wynik badania: wpisz wyniki badania f. ☐ CRP – wynik badania: wpisz wyniki badania"
     },
     {
      "type": "text",
@@ -3222,7 +2929,11 @@
     },
     {
      "type": "text",
-     "text": "w. ☐ FT3 – wynik badania: wpisz wyniki badania x. ☐ FT4 – wynik badania: wpisz wyniki badania y. ☐ Alfafetoproteina – wynik badania: wpisz wyniki badania z. ☐ Hormon wzrostu (GH) – wynik badania: wpisz wyniki badania aa. ☐ Kortyzol – wynik badania: wpisz wyniki badania bb. ☐ Witamina D – wynik badania: wpisz wyniki badania cc. ☐ Badanie ogólne moczu: wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "w. ☐ FT3 – wynik badania: wpisz wyniki badania x. ☐ FT4 – wynik badania: wpisz wyniki badania y. ☐ Alfafetoproteina – wynik badania: wpisz wyniki badania z. ☐ Hormon wzrostu (GH) – wynik badania: wpisz wyniki badania aa. ☐ Kortyzol – wynik badania: wpisz wyniki badania bb. ☐ Witamina D – wynik badania: wpisz wyniki badania cc. ☐ Badanie ogólne moczu:"
+    },
+    {
+     "type": "text",
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -3238,7 +2949,11 @@
     },
     {
      "type": "text",
-     "text": "A. ☐ Badanie RTG: a. RTG: wybierz z listy odpowiedź"
+     "text": "A. ☐ Badanie RTG:"
+    },
+    {
+     "type": "text",
+     "text": "a. RTG: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -3266,31 +2981,15 @@
     },
     {
      "type": "text",
-     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
     },
     {
      "type": "text",
-     "text": "Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
+     "text": "B. ☐ Badania USG:"
     },
     {
      "type": "text",
-     "text": "B. ☐ Badania USG: a. USG: wybierz odpowiedź"
-    },
-    {
-     "type": "text",
-     "text": "data badania: wybierz datę"
-    },
-    {
-     "type": "text",
-     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
-    },
-    {
-     "type": "text",
-     "text": "Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
-    },
-    {
-     "type": "text",
-     "text": "b. USG – jakie: wybierz odpowiedź"
+     "text": "a. USG: wybierz odpowiedź"
     },
     {
      "type": "text",
@@ -3298,31 +2997,7 @@
     },
     {
      "type": "text",
-     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
-    },
-    {
-     "type": "text",
-     "text": "Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
-    },
-    {
-     "type": "text",
-     "text": "C. ☐ Echokardiografia – data badania: wybierz datę wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
-    },
-    {
-     "type": "text",
-     "text": "Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
-    },
-    {
-     "type": "text",
-     "text": "D. ☐ EEG – data badania: wybierz datę wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
-    },
-    {
-     "type": "text",
-     "text": "Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
-    },
-    {
-     "type": "text",
-     "text": "E. ☐ Tomografia komputerowa: a. TK: wybierz z listy odpowiedź"
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski b. USG – jakie: wybierz odpowiedź"
     },
     {
      "type": "text",
@@ -3330,15 +3005,31 @@
     },
     {
      "type": "text",
-     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
     },
     {
      "type": "text",
-     "text": "Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
+     "text": "C. ☐ Echokardiografia – data badania: wybierz datę"
     },
     {
      "type": "text",
-     "text": "b. TK: wybierz z listy odpowiedź"
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
+    },
+    {
+     "type": "text",
+     "text": "D. ☐ EEG – data badania: wybierz datę"
+    },
+    {
+     "type": "text",
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
+    },
+    {
+     "type": "text",
+     "text": "E. ☐ Tomografia komputerowa:"
+    },
+    {
+     "type": "text",
+     "text": "a. TK: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -3346,15 +3037,7 @@
     },
     {
      "type": "text",
-     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
-    },
-    {
-     "type": "text",
-     "text": "Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
-    },
-    {
-     "type": "text",
-     "text": "F. ☐ Rezonans magnetyczny: a. RM: wybierz z listy odpowiedź"
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski b. TK: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -3362,23 +3045,27 @@
     },
     {
      "type": "text",
-     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
     },
     {
      "type": "text",
-     "text": "Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
+     "text": "F. ☐ Rezonans magnetyczny:"
     },
     {
      "type": "text",
-     "text": "b. RM: wybierz z listy odpowiedź"
+     "text": "a. RM: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
-     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "data badania: wybierz datę"
     },
     {
      "type": "text",
-     "text": "Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski b. RM: wybierz z listy odpowiedź"
+    },
+    {
+     "type": "text",
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
     },
     {
      "type": "text",
@@ -3461,8 +3148,9 @@
      "text": "H. Suplementacja żelaza – jeżeli tak: zaznacz odpowiedź"
     },
     {
-     "type": "text",
-     "text": "I. Suplementacja wapniowo-fosforanowa (jeżeli stosowano BMF, proszę uznać to za suplementację) –"
+     "type": "heading",
+     "label": "I.",
+     "text": "Suplementacja wapniowo-fosforanowa (jeżeli stosowano BMF, proszę uznać to za suplementację) –"
     },
     {
      "type": "text",
@@ -3518,15 +3206,7 @@
     },
     {
      "type": "text",
-     "text": "PORADA DRUGA"
-    },
-    {
-     "type": "text",
-     "text": "W PIERWSZYM ROKU ŻYCIA"
-    },
-    {
-     "type": "text",
-     "text": "(170–190 dni od porady kwalifikującej)"
+     "text": "PORADA DRUGA W PIERWSZYM ROKU ŻYCIA (170–190 dni od porady kwalifikującej)"
     },
     {
      "type": "text",
@@ -3550,7 +3230,14 @@
     },
     {
      "type": "text",
-     "text": "a. ☐ Morfologia – wynik badania: a) Hemoglobina: wpisz wyniki badania"
+     "text": "a. ☐ Morfologia – wynik badania:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "Hemoglobina: wpisz wyniki badania",
+     "children": []
     },
     {
      "type": "lit",
@@ -3561,23 +3248,7 @@
     },
     {
      "type": "text",
-     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "e. ☐ CHr – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "f. ☐ CRP – wynik badania: wpisz wyniki badania"
+     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania e. ☐ CHr – wynik badania: wpisz wyniki badania f. ☐ CRP – wynik badania: wpisz wyniki badania"
     },
     {
      "type": "text",
@@ -3641,7 +3312,35 @@
     },
     {
      "type": "text",
-     "text": "u. ☐ Hormon luteinizujący (LH) – wynik badania: wpisz wyniki badania v. ☐ Hormon tyreotropowy (TSH) – wynik badania: wpisz wyniki badania w. ☐ FT3 – wynik badania: wpisz wyniki badania x. ☐ FT4 – wynik badania: wpisz wyniki badania y. ☐ Alfafetoproteina – wynik badania: wpisz wyniki badania z. ☐ Hormon wzrostu (GH) – wynik badania: wpisz wyniki badania aa. ☐ Kortyzol – wynik badania: wpisz wyniki badania bb. ☐ Witamina D – wynik badania: wpisz wyniki badania cc. ☐ Badanie ogólne moczu: wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "u. ☐ Hormon luteinizujący (LH) – wynik badania: wpisz wyniki badania v. ☐ Hormon tyreotropowy (TSH) – wynik badania: wpisz wyniki badania w. ☐ FT3 – wynik badania: wpisz wyniki badania"
+    },
+    {
+     "type": "text",
+     "text": "x. ☐ FT4 – wynik badania: wpisz wyniki badania"
+    },
+    {
+     "type": "text",
+     "text": "y. ☐ Alfafetoproteina – wynik badania: wpisz wyniki badania"
+    },
+    {
+     "type": "text",
+     "text": "z. ☐ Hormon wzrostu (GH) – wynik badania: wpisz wyniki badania"
+    },
+    {
+     "type": "text",
+     "text": "aa. ☐ Kortyzol – wynik badania: wpisz wyniki badania"
+    },
+    {
+     "type": "text",
+     "text": "bb. ☐ Witamina D – wynik badania: wpisz wyniki badania"
+    },
+    {
+     "type": "text",
+     "text": "cc. ☐ Badanie ogólne moczu:"
+    },
+    {
+     "type": "text",
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -3661,7 +3360,11 @@
     },
     {
      "type": "text",
-     "text": "A. ☐ Badanie RTG: a. RTG: wybierz z listy odpowiedź"
+     "text": "A. ☐ Badanie RTG:"
+    },
+    {
+     "type": "text",
+     "text": "a. RTG: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -3693,7 +3396,11 @@
     },
     {
      "type": "text",
-     "text": "B. ☐ Badania USG: a. USG: wybierz z listy odpowiedź"
+     "text": "B. ☐ Badania USG:"
+    },
+    {
+     "type": "text",
+     "text": "a. USG: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -3725,7 +3432,11 @@
     },
     {
      "type": "text",
-     "text": "C. ☐ Echokardiografia – data badania: wybierz datę wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "C. ☐ Echokardiografia – data badania: wybierz datę"
+    },
+    {
+     "type": "text",
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -3733,7 +3444,11 @@
     },
     {
      "type": "text",
-     "text": "D. ☐ EEG – data badania: wybierz datę wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "D. ☐ EEG – data badania: wybierz datę"
+    },
+    {
+     "type": "text",
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -3741,7 +3456,11 @@
     },
     {
      "type": "text",
-     "text": "E. ☐ Tomografia komputerowa: a. TK: wybierz z listy odpowiedź"
+     "text": "E. ☐ Tomografia komputerowa:"
+    },
+    {
+     "type": "text",
+     "text": "a. TK: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -3773,7 +3492,11 @@
     },
     {
      "type": "text",
-     "text": "F. ☐ Rezonans magnetyczny: a. RM: wybierz z listy odpowiedź"
+     "text": "F. ☐ Rezonans magnetyczny:"
+    },
+    {
+     "type": "text",
+     "text": "a. RM: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -3880,8 +3603,9 @@
      "text": "H. Suplementacja żelaza – jeżeli tak: zaznacz odpowiedź"
     },
     {
-     "type": "text",
-     "text": "I. Suplementacja wapniowo-fosforanowa (jeżeli stosowano BMF, proszę uznać to za suplementację) –"
+     "type": "heading",
+     "label": "I.",
+     "text": "Suplementacja wapniowo-fosforanowa (jeżeli stosowano BMF, proszę uznać to za suplementację) –"
     },
     {
      "type": "text",
@@ -3941,15 +3665,7 @@
     },
     {
      "type": "text",
-     "text": "PORADA TRZECIA"
-    },
-    {
-     "type": "text",
-     "text": "W PIERWSZYM ROKU ŻYCIA"
-    },
-    {
-     "type": "text",
-     "text": "(260–280 dni od porady kwalifikującej)"
+     "text": "PORADA TRZECIA W PIERWSZYM ROKU ŻYCIA (260–280 dni od porady kwalifikującej)"
     },
     {
      "type": "text",
@@ -3973,7 +3689,14 @@
     },
     {
      "type": "text",
-     "text": "a. ☐ Morfologia – wynik badania: a) Hemoglobina wpisz wyniki badania"
+     "text": "a. ☐ Morfologia – wynik badania:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "Hemoglobina wpisz wyniki badania",
+     "children": []
     },
     {
      "type": "lit",
@@ -3984,27 +3707,7 @@
     },
     {
      "type": "text",
-     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "e. ☐ CHr – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "f. ☐ CRP – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "g. ☐ Koagulogram – wynik badania: wpisz wyniki badania"
+     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania e. ☐ CHr – wynik badania: wpisz wyniki badania f. ☐ CRP – wynik badania: wpisz wyniki badania g. ☐ Koagulogram – wynik badania: wpisz wyniki badania"
     },
     {
      "type": "text",
@@ -4012,91 +3715,11 @@
     },
     {
      "type": "text",
-     "text": "h. ☐ ALAT – wynik badania: wpisz wyniki badania"
+     "text": "h. ☐ ALAT – wynik badania: wpisz wyniki badania i. ☐ ASPAT – wynik badania: wpisz wyniki badania j. ☐ GGPT – wynik badania: wpisz wyniki badania k. ☐ Wapń – wynik badania: wpisz wyniki badania l. ☐ Fosfor – wynik badania: wpisz wyniki badania m. ☐ Sód – wynik badania: wpisz wyniki badania n. ☐ Potas – wynik badania: wpisz wyniki badania o. ☐ Mocznik – wynik badania: wpisz wyniki badania p. ☐ Kreatynina – wynik badania: wpisz wyniki badania q. ☐ Glukoza – wynik badania: wpisz wyniki badania r. ☐ Albuminy – wynik badania: wpisz wyniki badania s. ☐ Hormon adrenokortykotropowy (ACTH) – wynik badania: wpisz wyniki badania t. ☐ Hormon folikulotropowy (FSH) – wynik badania: wpisz wyniki badania u. ☐ Hormon luteinizujący (LH) – wynik badania: wpisz wyniki badania v. ☐ Hormon tyreotropowy (TSH) – wynik badania: wpisz wyniki badania w. ☐ FT3 – wynik badania: wpisz wyniki badania x. ☐ FT4 – wynik badania: wpisz wyniki badania y. ☐ Alfafetoproteina – wynik badania: wpisz wyniki badania z. ☐ Hormon wzrostu (GH) – wynik badania: wpisz wyniki badania aa. ☐ Kortyzol – wynik badania: wpisz wyniki badania bb. ☐ Witamina D – wynik badania: wpisz wyniki badania cc. ☐ Badanie ogólne moczu:"
     },
     {
      "type": "text",
-     "text": "i. ☐ ASPAT – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "j. ☐ GGPT – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "k. ☐ Wapń – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "l. ☐ Fosfor – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "m. ☐ Sód – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "n. ☐ Potas – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "o. ☐ Mocznik – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "p. ☐ Kreatynina – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "q. ☐ Glukoza – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "r. ☐ Albuminy – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "s. ☐ Hormon adrenokortykotropowy (ACTH) – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "t. ☐ Hormon folikulotropowy (FSH) – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "u. ☐ Hormon luteinizujący (LH) – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "v. ☐ Hormon tyreotropowy (TSH) – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "w. ☐ FT3 – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "x. ☐ FT4 – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "y. ☐ Alfafetoproteina – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "z. ☐ Hormon wzrostu (GH) – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "aa. ☐ Kortyzol – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "bb. ☐ Witamina D – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "cc. ☐ Badanie ogólne moczu: wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -4104,19 +3727,7 @@
     },
     {
      "type": "text",
-     "text": "dd. ☐ Wydalanie wapnia w moczu – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "ee. ☐ Wydalanie fosforu w moczu – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "ff. ☐ Wydalanie kreatyniny w moczu – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "gg. ☐ Wydalanie hormonów w moczu – wynik badania: wpisz wyniki badania"
+     "text": "dd. ☐ Wydalanie wapnia w moczu – wynik badania: wpisz wyniki badania ee. ☐ Wydalanie fosforu w moczu – wynik badania: wpisz wyniki badania ff. ☐ Wydalanie kreatyniny w moczu – wynik badania: wpisz wyniki badania gg. ☐ Wydalanie hormonów w moczu – wynik badania: wpisz wyniki badania"
     },
     {
      "type": "text",
@@ -4128,7 +3739,11 @@
     },
     {
      "type": "text",
-     "text": "A. ☐ Badanie RTG: a. RTG: wybierz z listy odpowiedź"
+     "text": "A. ☐ Badanie RTG:"
+    },
+    {
+     "type": "text",
+     "text": "a. RTG: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -4160,7 +3775,11 @@
     },
     {
      "type": "text",
-     "text": "B. ☐ Badania USG: a. USG: wybierz z listy odpowiedź"
+     "text": "B. ☐ Badania USG:"
+    },
+    {
+     "type": "text",
+     "text": "a. USG: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -4192,7 +3811,11 @@
     },
     {
      "type": "text",
-     "text": "C. ☐ Echokardiografia – data badania: wybierz datę wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "C. ☐ Echokardiografia – data badania: wybierz datę"
+    },
+    {
+     "type": "text",
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -4200,7 +3823,11 @@
     },
     {
      "type": "text",
-     "text": "D. ☐ EEG – data badania: wybierz datę wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "D. ☐ EEG – data badania: wybierz datę"
+    },
+    {
+     "type": "text",
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -4208,7 +3835,11 @@
     },
     {
      "type": "text",
-     "text": "E. ☐ Tomografia komputerowa: a. TK: wybierz z listy odpowiedź"
+     "text": "E. ☐ Tomografia komputerowa:"
+    },
+    {
+     "type": "text",
+     "text": "a. TK: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -4240,7 +3871,11 @@
     },
     {
      "type": "text",
-     "text": "F. ☐ Rezonans magnetyczny: a. RM: wybierz z listy odpowiedź"
+     "text": "F. ☐ Rezonans magnetyczny:"
+    },
+    {
+     "type": "text",
+     "text": "a. RM: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -4404,15 +4039,7 @@
     },
     {
      "type": "text",
-     "text": "BILANS OPIEKI"
-    },
-    {
-     "type": "text",
-     "text": "PO PIERWSZYM ROKU ŻYCIA"
-    },
-    {
-     "type": "text",
-     "text": "(350–370 dni od porady kwalifikującej)"
+     "text": "BILANS OPIEKI PO PIERWSZYM ROKU ŻYCIA (350–370 dni od porady kwalifikującej)"
     },
     {
      "type": "text",
@@ -4436,7 +4063,14 @@
     },
     {
      "type": "text",
-     "text": "a. ☐ Morfologia – wynik badania: a) Hemoglobina: wpisz wyniki badania"
+     "text": "a. ☐ Morfologia – wynik badania:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "Hemoglobina: wpisz wyniki badania",
+     "children": []
     },
     {
      "type": "lit",
@@ -4447,27 +4081,7 @@
     },
     {
      "type": "text",
-     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "e. ☐ CHr – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "f. ☐ CRP – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "g. ☐ Koagulogram – wynik badania: wpisz wyniki badania"
+     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania e. ☐ CHr – wynik badania: wpisz wyniki badania f. ☐ CRP – wynik badania: wpisz wyniki badania g. ☐ Koagulogram – wynik badania: wpisz wyniki badania"
     },
     {
      "type": "text",
@@ -4535,7 +4149,11 @@
     },
     {
      "type": "text",
-     "text": "w. ☐ FT3 – wynik badania: wpisz wyniki badania x. ☐ FT4 – wynik badania: wpisz wyniki badania y. ☐ Alfafetoproteina – wynik badania: wpisz wyniki badania z. ☐ Hormon wzrostu (GH) – wynik badania: wpisz wyniki badania aa. ☐ Kortyzol – wynik badania: wpisz wyniki badania bb. ☐ Witamina D – wynik badania: wpisz wyniki badania cc. ☐ Badanie ogólne moczu: wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "w. ☐ FT3 – wynik badania: wpisz wyniki badania x. ☐ FT4 – wynik badania: wpisz wyniki badania y. ☐ Alfafetoproteina – wynik badania: wpisz wyniki badania z. ☐ Hormon wzrostu (GH) – wynik badania: wpisz wyniki badania aa. ☐ Kortyzol – wynik badania: wpisz wyniki badania bb. ☐ Witamina D – wynik badania: wpisz wyniki badania cc. ☐ Badanie ogólne moczu:"
+    },
+    {
+     "type": "text",
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -4555,7 +4173,11 @@
     },
     {
      "type": "text",
-     "text": "A. ☐ Badanie RTG: a. RTG: wybierz z listy odpowiedź"
+     "text": "A. ☐ Badanie RTG:"
+    },
+    {
+     "type": "text",
+     "text": "a. RTG: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -4587,7 +4209,11 @@
     },
     {
      "type": "text",
-     "text": "B. ☐ Badania USG: a. USG: wybierz z listy odpowiedź"
+     "text": "B. ☐ Badania USG:"
+    },
+    {
+     "type": "text",
+     "text": "a. USG: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -4619,7 +4245,11 @@
     },
     {
      "type": "text",
-     "text": "C. ☐ Echokardiografia: data badania: wybierz datę wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "C. ☐ Echokardiografia: data badania: wybierz datę"
+    },
+    {
+     "type": "text",
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -4627,7 +4257,11 @@
     },
     {
      "type": "text",
-     "text": "D. ☐ EEG – data badania: wybierz datę wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "D. ☐ EEG – data badania: wybierz datę"
+    },
+    {
+     "type": "text",
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -4635,7 +4269,11 @@
     },
     {
      "type": "text",
-     "text": "E. ☐ Tomografia komputerowa: a. TK: wybierz z listy odpowiedź"
+     "text": "E. ☐ Tomografia komputerowa:"
+    },
+    {
+     "type": "text",
+     "text": "a. TK: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -4667,7 +4305,11 @@
     },
     {
      "type": "text",
-     "text": "F. ☐ Rezonans magnetyczny: a. RM: wybierz z listy odpowiedź"
+     "text": "F. ☐ Rezonans magnetyczny:"
+    },
+    {
+     "type": "text",
+     "text": "a. RM: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -4839,19 +4481,7 @@
     },
     {
      "type": "text",
-     "text": "DRUGI ROK ŻYCIA"
-    },
-    {
-     "type": "text",
-     "text": "PORADA PIERWSZA"
-    },
-    {
-     "type": "text",
-     "text": "W DRUGIM ROKU ŻYCIA"
-    },
-    {
-     "type": "text",
-     "text": "(80–100 dni od porady bilansowej)"
+     "text": "DRUGI ROK ŻYCIA PORADA PIERWSZA W DRUGIM ROKU ŻYCIA (80–100 dni od porady bilansowej)"
     },
     {
      "type": "text",
@@ -4875,7 +4505,14 @@
     },
     {
      "type": "text",
-     "text": "a. ☐ Morfologia – wynik badania: a) Hemoglobina: wpisz wyniki badania"
+     "text": "a. ☐ Morfologia – wynik badania:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "Hemoglobina: wpisz wyniki badania",
+     "children": []
     },
     {
      "type": "lit",
@@ -4886,27 +4523,7 @@
     },
     {
      "type": "text",
-     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "e. ☐ Koagulogram – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "f. ☐ CRP – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "g. ☐ ALAT – wynik badania: wpisz wyniki badania"
+     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania e. ☐ Koagulogram – wynik badania: wpisz wyniki badania f. ☐ CRP – wynik badania: wpisz wyniki badania g. ☐ ALAT – wynik badania: wpisz wyniki badania"
     },
     {
      "type": "text",
@@ -4986,7 +4603,11 @@
     },
     {
      "type": "text",
-     "text": "A. ☐ Badanie RTG: a. RTG: wybierz rodzaj RTG"
+     "text": "A. ☐ Badanie RTG:"
+    },
+    {
+     "type": "text",
+     "text": "a. RTG: wybierz rodzaj RTG"
     },
     {
      "type": "text",
@@ -5018,7 +4639,11 @@
     },
     {
      "type": "text",
-     "text": "B. ☐ Badania USG: a. USG: wybierz rodzaj USG"
+     "text": "B. ☐ Badania USG:"
+    },
+    {
+     "type": "text",
+     "text": "a. USG: wybierz rodzaj USG"
     },
     {
      "type": "text",
@@ -5050,7 +4675,11 @@
     },
     {
      "type": "text",
-     "text": "C. ☐ Echokardiografia – data badania: wybierz datę wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "C. ☐ Echokardiografia – data badania: wybierz datę"
+    },
+    {
+     "type": "text",
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -5058,7 +4687,11 @@
     },
     {
      "type": "text",
-     "text": "D. ☐ EEG – data badania: wybierz datę wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "D. ☐ EEG – data badania: wybierz datę"
+    },
+    {
+     "type": "text",
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -5066,7 +4699,11 @@
     },
     {
      "type": "text",
-     "text": "E. ☐ Tomografia komputerowa: a. TK: wybierz z listy odpowiedź"
+     "text": "E. ☐ Tomografia komputerowa:"
+    },
+    {
+     "type": "text",
+     "text": "a. TK: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -5098,7 +4735,11 @@
     },
     {
      "type": "text",
-     "text": "F. ☐ Rezonans magnetyczny: a. RM: wpisz, którego układu/narządu dotyczy rezonans"
+     "text": "F. ☐ Rezonans magnetyczny:"
+    },
+    {
+     "type": "text",
+     "text": "a. RM: wpisz, którego układu/narządu dotyczy rezonans"
     },
     {
      "type": "text",
@@ -5246,19 +4887,7 @@
     },
     {
      "type": "text",
-     "text": "PORADA DRUGA"
-    },
-    {
-     "type": "text",
-     "text": "W DRUGIM ROKU ŻYCIA"
-    },
-    {
-     "type": "text",
-     "text": "BILANS OPIEKI"
-    },
-    {
-     "type": "text",
-     "text": "(170–190 dni od porady bilansowej po pierwszym roku życia)"
+     "text": "PORADA DRUGA W DRUGIM ROKU ŻYCIA BILANS OPIEKI (170–190 dni od porady bilansowej po pierwszym roku życia)"
     },
     {
      "type": "text",
@@ -5282,7 +4911,14 @@
     },
     {
      "type": "text",
-     "text": "a. ☐ Morfologia – wynik badania: a) Hemoglobina: wpisz wyniki badania"
+     "text": "a. ☐ Morfologia – wynik badania:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "Hemoglobina: wpisz wyniki badania",
+     "children": []
     },
     {
      "type": "lit",
@@ -5293,27 +4929,7 @@
     },
     {
      "type": "text",
-     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "e. ☐ Koagulogram – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "f. ☐ CRP – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "g. ☐ ALAT – wynik badania: wpisz wyniki badania"
+     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania e. ☐ Koagulogram – wynik badania: wpisz wyniki badania f. ☐ CRP – wynik badania: wpisz wyniki badania g. ☐ ALAT – wynik badania: wpisz wyniki badania"
     },
     {
      "type": "text",
@@ -5393,7 +5009,11 @@
     },
     {
      "type": "text",
-     "text": "A. ☐ Badanie RTG: a. RTG: wybierz rodzaj RTG"
+     "text": "A. ☐ Badanie RTG:"
+    },
+    {
+     "type": "text",
+     "text": "a. RTG: wybierz rodzaj RTG"
     },
     {
      "type": "text",
@@ -5425,7 +5045,11 @@
     },
     {
      "type": "text",
-     "text": "B. ☐ Badania USG: a. USG: wybierz rodzaj USG"
+     "text": "B. ☐ Badania USG:"
+    },
+    {
+     "type": "text",
+     "text": "a. USG: wybierz rodzaj USG"
     },
     {
      "type": "text",
@@ -5457,7 +5081,11 @@
     },
     {
      "type": "text",
-     "text": "C. ☐ Echokardiografia – data badania: wybierz datę wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "C. ☐ Echokardiografia – data badania: wybierz datę"
+    },
+    {
+     "type": "text",
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -5465,7 +5093,11 @@
     },
     {
      "type": "text",
-     "text": "D. ☐ EEG – data badania: wybierz datę wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "D. ☐ EEG – data badania: wybierz datę"
+    },
+    {
+     "type": "text",
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -5473,7 +5105,11 @@
     },
     {
      "type": "text",
-     "text": "E. ☐ Tomografia komputerowa: a. TK: wybierz z listy odpowiedź"
+     "text": "E. ☐ Tomografia komputerowa:"
+    },
+    {
+     "type": "text",
+     "text": "a. TK: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -5505,7 +5141,11 @@
     },
     {
      "type": "text",
-     "text": "F. ☐ Rezonans magnetyczny: a. RM: wpisz jakiego układu/narządu dotyczy rezonans"
+     "text": "F. ☐ Rezonans magnetyczny:"
+    },
+    {
+     "type": "text",
+     "text": "a. RM: wpisz jakiego układu/narządu dotyczy rezonans"
     },
     {
      "type": "text",
@@ -5693,15 +5333,7 @@
     },
     {
      "type": "text",
-     "text": "PORADA TRZECIA"
-    },
-    {
-     "type": "text",
-     "text": "W DRUGIM ROKU ŻYCIA"
-    },
-    {
-     "type": "text",
-     "text": "(260–280 dni od porady bilansowej po pierwszym roku życia)"
+     "text": "PORADA TRZECIA W DRUGIM ROKU ŻYCIA (260–280 dni od porady bilansowej po pierwszym roku życia)"
     },
     {
      "type": "text",
@@ -5725,7 +5357,14 @@
     },
     {
      "type": "text",
-     "text": "a. ☐ Morfologia – wynik badania: a) Hemoglobina: wpisz wyniki badania"
+     "text": "a. ☐ Morfologia – wynik badania:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "Hemoglobina: wpisz wyniki badania",
+     "children": []
     },
     {
      "type": "lit",
@@ -5736,35 +5375,7 @@
     },
     {
      "type": "text",
-     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "e. ☐ Koagulogram – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "f. ☐ CRP – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "g. ☐ ALAT – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "h. ☐ ASPAT – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "i. ☐ GGPT – wynik badania: wpisz wyniki badania"
+     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania e. ☐ Koagulogram – wynik badania: wpisz wyniki badania f. ☐ CRP – wynik badania: wpisz wyniki badania g. ☐ ALAT – wynik badania: wpisz wyniki badania h. ☐ ASPAT – wynik badania: wpisz wyniki badania i. ☐ GGPT – wynik badania: wpisz wyniki badania"
     },
     {
      "type": "text",
@@ -5836,7 +5447,11 @@
     },
     {
      "type": "text",
-     "text": "A. ☐ Badanie RTG: a. RTG: wybierz z listy odpowiedź"
+     "text": "A. ☐ Badanie RTG:"
+    },
+    {
+     "type": "text",
+     "text": "a. RTG: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -5868,7 +5483,11 @@
     },
     {
      "type": "text",
-     "text": "B. ☐ Badania USG: a. USG: wybierz rodzaj USG"
+     "text": "B. ☐ Badania USG:"
+    },
+    {
+     "type": "text",
+     "text": "a. USG: wybierz rodzaj USG"
     },
     {
      "type": "text",
@@ -5900,7 +5519,11 @@
     },
     {
      "type": "text",
-     "text": "C. ☐ Echokardiografia – data badania: wybierz datę wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "C. ☐ Echokardiografia – data badania: wybierz datę"
+    },
+    {
+     "type": "text",
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -5908,7 +5531,11 @@
     },
     {
      "type": "text",
-     "text": "D. ☐ EEG – data badania: wybierz datę wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "D. ☐ EEG – data badania: wybierz datę"
+    },
+    {
+     "type": "text",
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -5916,7 +5543,11 @@
     },
     {
      "type": "text",
-     "text": "E. ☐ Tomografia komputerowa: a. TK: wybierz z listy odpowiedź"
+     "text": "E. ☐ Tomografia komputerowa:"
+    },
+    {
+     "type": "text",
+     "text": "a. TK: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -5948,7 +5579,11 @@
     },
     {
      "type": "text",
-     "text": "F. ☐ Rezonans magnetyczny: a. RM: wybierz z listy odpowiedź"
+     "text": "F. ☐ Rezonans magnetyczny:"
+    },
+    {
+     "type": "text",
+     "text": "a. RM: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -6100,15 +5735,7 @@
     },
     {
      "type": "text",
-     "text": "BILANS OPIEKI"
-    },
-    {
-     "type": "text",
-     "text": "PO DRUGIM ROKU ŻYCIA"
-    },
-    {
-     "type": "text",
-     "text": "(350–370 dni od porady bilansowej po pierwszym roku życia)"
+     "text": "BILANS OPIEKI PO DRUGIM ROKU ŻYCIA (350–370 dni od porady bilansowej po pierwszym roku życia)"
     },
     {
      "type": "text",
@@ -6132,7 +5759,14 @@
     },
     {
      "type": "text",
-     "text": "a. ☐ Morfologia – wynik badania: a) Hemoglobina: wpisz wyniki badania"
+     "text": "a. ☐ Morfologia – wynik badania:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "Hemoglobina: wpisz wyniki badania",
+     "children": []
     },
     {
      "type": "lit",
@@ -6143,31 +5777,7 @@
     },
     {
      "type": "text",
-     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "e. ☐ Koagulogram – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "f. ☐ CRP – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "g. ☐ ALAT – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "h. ☐ ASPAT – wynik badania: wpisz wyniki badania"
+     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania e. ☐ Koagulogram – wynik badania: wpisz wyniki badania f. ☐ CRP – wynik badania: wpisz wyniki badania g. ☐ ALAT – wynik badania: wpisz wyniki badania h. ☐ ASPAT – wynik badania: wpisz wyniki badania"
     },
     {
      "type": "text",
@@ -6243,7 +5853,11 @@
     },
     {
      "type": "text",
-     "text": "A. ☐ Badanie RTG: a. RTG: wybierz z listy odpowiedź"
+     "text": "A. ☐ Badanie RTG:"
+    },
+    {
+     "type": "text",
+     "text": "a. RTG: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -6275,7 +5889,11 @@
     },
     {
      "type": "text",
-     "text": "B. ☐ Badania USG: a. USG – wybierz rodzaj USG"
+     "text": "B. ☐ Badania USG:"
+    },
+    {
+     "type": "text",
+     "text": "a. USG – wybierz rodzaj USG"
     },
     {
      "type": "text",
@@ -6307,7 +5925,11 @@
     },
     {
      "type": "text",
-     "text": "C. ☐ Echokardiografia – data badania: wybierz datę wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "C. ☐ Echokardiografia – data badania: wybierz datę"
+    },
+    {
+     "type": "text",
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -6315,7 +5937,11 @@
     },
     {
      "type": "text",
-     "text": "D. ☐ EEG – data badania: wybierz datę wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "D. ☐ EEG – data badania: wybierz datę"
+    },
+    {
+     "type": "text",
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -6323,7 +5949,11 @@
     },
     {
      "type": "text",
-     "text": "E. ☐ Tomografia komputerowa – jaka: a. TK: wybierz z listy odpowiedź"
+     "text": "E. ☐ Tomografia komputerowa – jaka:"
+    },
+    {
+     "type": "text",
+     "text": "a. TK: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -6355,7 +5985,11 @@
     },
     {
      "type": "text",
-     "text": "F. ☐ Rezonans magnetyczny – jaki: a. RM: wybierz z listy odpowiedź"
+     "text": "F. ☐ Rezonans magnetyczny – jaki:"
+    },
+    {
+     "type": "text",
+     "text": "a. RM: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -6527,15 +6161,7 @@
     },
     {
      "type": "text",
-     "text": "PORADA PIERWSZA"
-    },
-    {
-     "type": "text",
-     "text": "W TRZECIM ROKU ŻYCIA"
-    },
-    {
-     "type": "text",
-     "text": "(80–120 dni od porady bilansowej po drugim roku życia)"
+     "text": "PORADA PIERWSZA W TRZECIM ROKU ŻYCIA (80–120 dni od porady bilansowej po drugim roku życia)"
     },
     {
      "type": "text",
@@ -6559,7 +6185,14 @@
     },
     {
      "type": "text",
-     "text": "a. ☐ Morfologia – wynik badania: a) Hemoglobina: wpisz wyniki badania"
+     "text": "a. ☐ Morfologia – wynik badania:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "Hemoglobina: wpisz wyniki badania",
+     "children": []
     },
     {
      "type": "lit",
@@ -6570,27 +6203,7 @@
     },
     {
      "type": "text",
-     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "e. ☐ Koagulogram – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "f. ☐ CRP – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "g. ☐ ALAT – wynik badania: wpisz wyniki badania"
+     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania e. ☐ Koagulogram – wynik badania: wpisz wyniki badania f. ☐ CRP – wynik badania: wpisz wyniki badania g. ☐ ALAT – wynik badania: wpisz wyniki badania"
     },
     {
      "type": "text",
@@ -6670,7 +6283,11 @@
     },
     {
      "type": "text",
-     "text": "A. ☐ Badanie RTG: a. RTG: wybierz z listy odpowiedź"
+     "text": "A. ☐ Badanie RTG:"
+    },
+    {
+     "type": "text",
+     "text": "a. RTG: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -6702,7 +6319,11 @@
     },
     {
      "type": "text",
-     "text": "B. ☐ Badania USG: a. USG – wybierz z listy odpowiedź"
+     "text": "B. ☐ Badania USG:"
+    },
+    {
+     "type": "text",
+     "text": "a. USG – wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -6734,7 +6355,11 @@
     },
     {
      "type": "text",
-     "text": "C. ☐ Echokardiografia: data badania: wybierz datę"
+     "text": "C. ☐ Echokardiografia:"
+    },
+    {
+     "type": "text",
+     "text": "data badania: wybierz datę"
     },
     {
      "type": "text",
@@ -6746,7 +6371,11 @@
     },
     {
      "type": "text",
-     "text": "D. ☐ EEG: data badania: wybierz datę"
+     "text": "D. ☐ EEG:"
+    },
+    {
+     "type": "text",
+     "text": "data badania: wybierz datę"
     },
     {
      "type": "text",
@@ -6758,7 +6387,11 @@
     },
     {
      "type": "text",
-     "text": "E. ☐ Tomografia komputerowa – jaka: a. TK: wybierz z listy odpowiedź"
+     "text": "E. ☐ Tomografia komputerowa – jaka:"
+    },
+    {
+     "type": "text",
+     "text": "a. TK: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -6790,7 +6423,11 @@
     },
     {
      "type": "text",
-     "text": "F. ☐ Rezonans magnetyczny – jaki: a. RM: wybierz z listy odpowiedź"
+     "text": "F. ☐ Rezonans magnetyczny – jaki:"
+    },
+    {
+     "type": "text",
+     "text": "a. RM: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -6798,39 +6435,11 @@
     },
     {
      "type": "text",
-     "text": "data badania: wybierz datę"
+     "text": "data badania: wybierz datę wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski b. RM: wybierz z listy odpowiedź data badania: wybierz datę wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
     },
     {
      "type": "text",
-     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
-    },
-    {
-     "type": "text",
-     "text": "Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
-    },
-    {
-     "type": "text",
-     "text": "b. RM: wybierz z listy odpowiedź"
-    },
-    {
-     "type": "text",
-     "text": "data badania: wybierz datę"
-    },
-    {
-     "type": "text",
-     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
-    },
-    {
-     "type": "text",
-     "text": "Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
-    },
-    {
-     "type": "text",
-     "text": "1/3/5. OPIS KONSULTACJI SPECJALISTY(-TÓW):"
-    },
-    {
-     "type": "text",
-     "text": "wpisz konsultację"
+     "text": "1/3/5. OPIS KONSULTACJI SPECJALISTY(-TÓW): wpisz konsultację"
     },
     {
      "type": "text",
@@ -6862,11 +6471,7 @@
     },
     {
      "type": "text",
-     "text": "Trzeci rok Data Masa ciała Długość ciała Obwód Uwagi"
-    },
-    {
-     "type": "text",
-     "text": "życia (kg)/centyl (cm)/centyl głowy(cm)/"
+     "text": "Trzeci rok Data Masa ciała Długość ciała Obwód Uwagi życia (kg)/centyl (cm)/centyl głowy(cm)/"
     },
     {
      "type": "text",
@@ -6874,19 +6479,7 @@
     },
     {
      "type": "text",
-     "text": "porada"
-    },
-    {
-     "type": "text",
-     "text": "pierwsza"
-    },
-    {
-     "type": "text",
-     "text": "w trzecim roku"
-    },
-    {
-     "type": "text",
-     "text": "życia dziecka"
+     "text": "porada pierwsza w trzecim roku życia dziecka"
     },
     {
      "type": "text",
@@ -6894,11 +6487,7 @@
     },
     {
      "type": "text",
-     "text": "A. Żywienie bez ograniczeń – tak/nie: wybierz odpowiedź"
-    },
-    {
-     "type": "text",
-     "text": "B. Żywienie z ograniczeniami – z jakimi: wpisz ograniczenia"
+     "text": "A. Żywienie bez ograniczeń – tak/nie: wybierz odpowiedź B. Żywienie z ograniczeniami – z jakimi: wpisz ograniczenia"
     },
     {
      "type": "text",
@@ -6950,15 +6539,7 @@
     },
     {
      "type": "text",
-     "text": "PORADA DRUGA"
-    },
-    {
-     "type": "text",
-     "text": "W TRZECIM ROKU ŻYCIA"
-    },
-    {
-     "type": "text",
-     "text": "(220 – 240 dni od porady bilansowej po drugim roku życia)"
+     "text": "PORADA DRUGA W TRZECIM ROKU ŻYCIA (220 – 240 dni od porady bilansowej po drugim roku życia)"
     },
     {
      "type": "text",
@@ -6982,7 +6563,14 @@
     },
     {
      "type": "text",
-     "text": "a. ☐ Morfologia – wynik badania: a) Hemoglobina: wpisz wyniki badania"
+     "text": "a. ☐ Morfologia – wynik badania:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "Hemoglobina: wpisz wyniki badania",
+     "children": []
     },
     {
      "type": "lit",
@@ -6993,31 +6581,7 @@
     },
     {
      "type": "text",
-     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "e. ☐ Koagulogram – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "f. ☐ CRP – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "g. ☐ ALAT – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "h. ☐ ASPAT – wynik badania: wpisz wyniki badania"
+     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania e. ☐ Koagulogram – wynik badania: wpisz wyniki badania f. ☐ CRP – wynik badania: wpisz wyniki badania g. ☐ ALAT – wynik badania: wpisz wyniki badania h. ☐ ASPAT – wynik badania: wpisz wyniki badania"
     },
     {
      "type": "text",
@@ -7025,83 +6589,7 @@
     },
     {
      "type": "text",
-     "text": "i. ☐ GGPT – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "j. ☐ Wapń – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "k. ☐ Fosfor – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "l. ☐ Sód – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "m. ☐ Potas – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "n. ☐ Mocznik – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "o. ☐ Kreatynina – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "p. ☐ Glukoza – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "q. ☐ Albuminy – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "r. ☐ Hormon adrenokortykotropowy (ACTH) – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "s. ☐ Hormon folikulotropowy (FSH) – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "t. ☐ Hormon luteinizujący (LH) – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "u. ☐ Hormon tyreotropowy (TSH) – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "v. ☐ FT3 – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "w. ☐ FT4 – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "x. ☐ Alfafetoproteina – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "y. ☐ Hormon wzrostu (GH) – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "z. ☐ Kortyzol – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "aa. ☐ Witamina D – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "bb. ☐ Badanie ogólne moczu:"
+     "text": "i. ☐ GGPT – wynik badania: wpisz wyniki badania j. ☐ Wapń – wynik badania: wpisz wyniki badania k. ☐ Fosfor – wynik badania: wpisz wyniki badania l. ☐ Sód – wynik badania: wpisz wyniki badania m. ☐ Potas – wynik badania: wpisz wyniki badania n. ☐ Mocznik – wynik badania: wpisz wyniki badania o. ☐ Kreatynina – wynik badania: wpisz wyniki badania p. ☐ Glukoza – wynik badania: wpisz wyniki badania q. ☐ Albuminy – wynik badania: wpisz wyniki badania r. ☐ Hormon adrenokortykotropowy (ACTH) – wynik badania: wpisz wyniki badania s. ☐ Hormon folikulotropowy (FSH) – wynik badania: wpisz wyniki badania t. ☐ Hormon luteinizujący (LH) – wynik badania: wpisz wyniki badania u. ☐ Hormon tyreotropowy (TSH) – wynik badania: wpisz wyniki badania v. ☐ FT3 – wynik badania: wpisz wyniki badania w. ☐ FT4 – wynik badania: wpisz wyniki badania x. ☐ Alfafetoproteina – wynik badania: wpisz wyniki badania y. ☐ Hormon wzrostu (GH) – wynik badania: wpisz wyniki badania z. ☐ Kortyzol – wynik badania: wpisz wyniki badania aa. ☐ Witamina D – wynik badania: wpisz wyniki badania bb. ☐ Badanie ogólne moczu:"
     },
     {
      "type": "text",
@@ -7125,7 +6613,11 @@
     },
     {
      "type": "text",
-     "text": "A. ☐ Badanie RTG: a. RTG: wybierz z listy odpowiedź"
+     "text": "A. ☐ Badanie RTG:"
+    },
+    {
+     "type": "text",
+     "text": "a. RTG: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -7157,7 +6649,11 @@
     },
     {
      "type": "text",
-     "text": "B. ☐ Badania USG: a. USG – wybierz rodzaj USG"
+     "text": "B. ☐ Badania USG:"
+    },
+    {
+     "type": "text",
+     "text": "a. USG – wybierz rodzaj USG"
     },
     {
      "type": "text",
@@ -7189,7 +6685,11 @@
     },
     {
      "type": "text",
-     "text": "C. ☐ Echokardiografia: data badania: wybierz datę"
+     "text": "C. ☐ Echokardiografia:"
+    },
+    {
+     "type": "text",
+     "text": "data badania: wybierz datę"
     },
     {
      "type": "text",
@@ -7201,7 +6701,11 @@
     },
     {
      "type": "text",
-     "text": "D. ☐ EEG: data badania: wybierz datę"
+     "text": "D. ☐ EEG:"
+    },
+    {
+     "type": "text",
+     "text": "data badania: wybierz datę"
     },
     {
      "type": "text",
@@ -7213,7 +6717,11 @@
     },
     {
      "type": "text",
-     "text": "E. ☐ Tomografia komputerowa – jaka: a. TK: wybierz z listy odpowiedź"
+     "text": "E. ☐ Tomografia komputerowa – jaka:"
+    },
+    {
+     "type": "text",
+     "text": "a. TK: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -7245,7 +6753,11 @@
     },
     {
      "type": "text",
-     "text": "F. ☐ Rezonans magnetyczny – jaki: a. RM: wybierz z listy odpowiedź"
+     "text": "F. ☐ Rezonans magnetyczny – jaki:"
+    },
+    {
+     "type": "text",
+     "text": "a. RM: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -7253,39 +6765,11 @@
     },
     {
      "type": "text",
-     "text": "data badania: wybierz datę"
+     "text": "data badania: wybierz datę Wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski b. RM: wybierz z listy odpowiedź data badania: wybierz datę wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
     },
     {
      "type": "text",
-     "text": "Wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
-    },
-    {
-     "type": "text",
-     "text": "Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
-    },
-    {
-     "type": "text",
-     "text": "b. RM: wybierz z listy odpowiedź"
-    },
-    {
-     "type": "text",
-     "text": "data badania: wybierz datę"
-    },
-    {
-     "type": "text",
-     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
-    },
-    {
-     "type": "text",
-     "text": "Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
-    },
-    {
-     "type": "text",
-     "text": "2/3/5. OPIS KONSULTACJI SPECJALISTY(-TÓW):"
-    },
-    {
-     "type": "text",
-     "text": "wpisz konsultację"
+     "text": "2/3/5. OPIS KONSULTACJI SPECJALISTY(-TÓW): wpisz konsultację"
     },
     {
      "type": "text",
@@ -7321,11 +6805,7 @@
     },
     {
      "type": "text",
-     "text": "Trzeci rok Data Masa ciała Długość ciała Obwód Uwagi"
-    },
-    {
-     "type": "text",
-     "text": "życia (kg)/centyl (cm)/centyl głowy(cm)/"
+     "text": "Trzeci rok Data Masa ciała Długość ciała Obwód Uwagi życia (kg)/centyl (cm)/centyl głowy(cm)/"
     },
     {
      "type": "text",
@@ -7333,15 +6813,7 @@
     },
     {
      "type": "text",
-     "text": "porada druga"
-    },
-    {
-     "type": "text",
-     "text": "w trzecim roku"
-    },
-    {
-     "type": "text",
-     "text": "życia dziecka"
+     "text": "porada druga w trzecim roku życia dziecka"
     },
     {
      "type": "text",
@@ -7349,11 +6821,7 @@
     },
     {
      "type": "text",
-     "text": "A. Żywienie bez ograniczeń – tak/nie: wybierz odpowiedź"
-    },
-    {
-     "type": "text",
-     "text": "B. Żywienie z ograniczeniami – z jakimi: wpisz ograniczenia"
+     "text": "A. Żywienie bez ograniczeń – tak/nie: wybierz odpowiedź B. Żywienie z ograniczeniami – z jakimi: wpisz ograniczenia"
     },
     {
      "type": "text",
@@ -7405,15 +6873,7 @@
     },
     {
      "type": "text",
-     "text": "TRZECI ROK ŻYCIA"
-    },
-    {
-     "type": "text",
-     "text": "BILANS OPIEKI"
-    },
-    {
-     "type": "text",
-     "text": "PO TRZECIM ROKU ŻYCIA"
+     "text": "TRZECI ROK ŻYCIA BILANS OPIEKI PO TRZECIM ROKU ŻYCIA"
     },
     {
      "type": "text",
@@ -7441,7 +6901,14 @@
     },
     {
      "type": "text",
-     "text": "a. ☐ Morfologia – wynik badania: a) Hemoglobina: wpisz wyniki badania"
+     "text": "a. ☐ Morfologia – wynik badania:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "Hemoglobina: wpisz wyniki badania",
+     "children": []
     },
     {
      "type": "lit",
@@ -7452,15 +6919,7 @@
     },
     {
      "type": "text",
-     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania"
-    },
-    {
-     "type": "text",
-     "text": "d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania"
+     "text": "b. ☐ Żelazo – wynik badania: wpisz wyniki badania c. ☐ Ferrytyna – wynik badania: wpisz wyniki badania d. ☐ Retikulocyty – wynik badania: wpisz wyniki badania"
     },
     {
      "type": "text",
@@ -7552,7 +7011,11 @@
     },
     {
      "type": "text",
-     "text": "A. ☐ Badanie RTG: a. RTG: wybierz z listy odpowiedź"
+     "text": "A. ☐ Badanie RTG:"
+    },
+    {
+     "type": "text",
+     "text": "a. RTG: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -7584,7 +7047,11 @@
     },
     {
      "type": "text",
-     "text": "B. ☐ Badania USG: a. USG – wybierz z listy odpowiedź"
+     "text": "B. ☐ Badania USG:"
+    },
+    {
+     "type": "text",
+     "text": "a. USG – wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -7616,7 +7083,11 @@
     },
     {
      "type": "text",
-     "text": "C. ☐ Echokardiografia: data badania: wybierz datę"
+     "text": "C. ☐ Echokardiografia:"
+    },
+    {
+     "type": "text",
+     "text": "data badania: wybierz datę"
     },
     {
      "type": "text",
@@ -7628,7 +7099,11 @@
     },
     {
      "type": "text",
-     "text": "D. ☐ EEG: data badania: wybierz datę"
+     "text": "D. ☐ EEG:"
+    },
+    {
+     "type": "text",
+     "text": "data badania: wybierz datę"
     },
     {
      "type": "text",
@@ -7640,7 +7115,11 @@
     },
     {
      "type": "text",
-     "text": "E. ☐ Tomografia komputerowa – jaka: a. TK: wybierz z listy odpowiedź"
+     "text": "E. ☐ Tomografia komputerowa – jaka:"
+    },
+    {
+     "type": "text",
+     "text": "a. TK: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -7672,7 +7151,11 @@
     },
     {
      "type": "text",
-     "text": "F. ☐ Rezonans magnetyczny – jaki: a. RM: wybierz z listy odpowiedź"
+     "text": "F. ☐ Rezonans magnetyczny – jaki:"
+    },
+    {
+     "type": "text",
+     "text": "a. RM: wybierz z listy odpowiedź"
     },
     {
      "type": "text",
@@ -7680,19 +7163,7 @@
     },
     {
      "type": "text",
-     "text": "data badania: wybierz datę"
-    },
-    {
-     "type": "text",
-     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
-    },
-    {
-     "type": "text",
-     "text": "Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
-    },
-    {
-     "type": "text",
-     "text": "b. RM: wpisz, którego układu/narządu dotyczy rezonans"
+     "text": "data badania: wybierz datę wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski b. RM: wpisz, którego układu/narządu dotyczy rezonans"
     },
     {
      "type": "text",
@@ -7700,19 +7171,11 @@
     },
     {
      "type": "text",
-     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź"
+     "text": "wynik badania prawidłowy – tak/nie: wybierz z listy odpowiedź Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
     },
     {
      "type": "text",
-     "text": "Jeżeli wynik nieprawidłowy, wpisz wnioski: wpisz wnioski"
-    },
-    {
-     "type": "text",
-     "text": "B/3/5. OPIS KONSULTACJI SPECJALISTY(-TÓW):"
-    },
-    {
-     "type": "text",
-     "text": "wpisz konsultację"
+     "text": "B/3/5. OPIS KONSULTACJI SPECJALISTY(-TÓW): wpisz konsultację"
     },
     {
      "type": "text",
@@ -7748,11 +7211,7 @@
     },
     {
      "type": "text",
-     "text": "Trzeci rok życia Data Masa ciała Długość ciała Obwód Uwagi"
-    },
-    {
-     "type": "text",
-     "text": "(kg)/centyl (cm)/centyl głowy(cm)/"
+     "text": "Trzeci rok życia Data Masa ciała Długość ciała Obwód Uwagi (kg)/centyl (cm)/centyl głowy(cm)/"
     },
     {
      "type": "text",
@@ -7760,15 +7219,7 @@
     },
     {
      "type": "text",
-     "text": "porada trzecia bilans"
-    },
-    {
-     "type": "text",
-     "text": "po trzecim roku życia"
-    },
-    {
-     "type": "text",
-     "text": "dziecka"
+     "text": "porada trzecia bilans po trzecim roku życia dziecka"
     },
     {
      "type": "text",
@@ -7776,11 +7227,7 @@
     },
     {
      "type": "text",
-     "text": "A. Żywienie bez ograniczeń – tak/nie: wybierz odpowiedź"
-    },
-    {
-     "type": "text",
-     "text": "B. Żywienie z ograniczeniami – z jakimi: wpisz ograniczenia"
+     "text": "A. Żywienie bez ograniczeń – tak/nie: wybierz odpowiedź B. Żywienie z ograniczeniami – z jakimi: wpisz ograniczenia"
     },
     {
      "type": "text",
@@ -7872,8 +7319,9 @@
      "text": "UWAGA: Deklarację należy wypełniać czytelnie, drukowanymi literami."
     },
     {
-     "type": "text",
-     "text": "I. Dane osobowe"
+     "type": "heading",
+     "label": "I.",
+     "text": "Dane osobowe"
     },
     {
      "type": "ust",
@@ -7972,12 +7420,13 @@
       {
        "type": "text",
        "text": "(data urodzenia: dzień-miesiąc-rok) ojciec (numer PESEL, a w przypadku osób, które nie mają nadanego numeru inny (jaki?) lub brak PESEL, seria i numer paszportu albo innego dokumentu stwierdzającego tożsamość) (stopień pokrewieństwa z dzieckiem[^3])"
-      },
-      {
-       "type": "text",
-       "text": "II. Oświadczenia osoby wypełniającej deklarację (opiekuna prawnego dziecka):"
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Oświadczenia osoby wypełniającej deklarację (opiekuna prawnego dziecka):"
     },
     {
      "type": "ust",
@@ -7995,12 +7444,13 @@
       {
        "type": "text",
        "text": "................................. ............................................................................................ ...................................................................... (data: dzień-miesiąc-rok) (podpis opiekuna prawnego dziecka) (podpis osoby przyjmującej deklarację)"
-      },
-      {
-       "type": "text",
-       "text": "III. Deklaracja wyboru świadczeniodawcy realizującego program pilotażowy kompleksowej opieki rozwojowej nad dziećmi urodzonymi przedwcześnie KORD"
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Deklaracja wyboru świadczeniodawcy realizującego program pilotażowy kompleksowej opieki rozwojowej nad dziećmi urodzonymi przedwcześnie KORD"
     },
     {
      "type": "ust",
@@ -8023,28 +7473,29 @@
       {
        "type": "text",
        "text": "................................. ........................................................................................... .........................................................................."
-      },
-      {
-       "type": "text",
-       "text": "IV. Rezygnacja z wyboru świadczeniodawcy realizującego program pilotażowy kompleksowej opieki rozwojowej nad dziećmi urodzonymi przedwcześnie KORD"
-      },
-      {
-       "type": "text",
-       "text": "Rezygnuję z wyboru świadczeniodawcy realizującego program pilotażowy kompleksowej opieki rozwojowej nad dziećmi urodzonymi przedwcześnie KORD"
-      },
-      {
-       "type": "text",
-       "text": "2 ................................. ........................................................................................... ...................................................................... (data: dzień-miesiąc-rok) (podpis opiekuna prawnego dziecka) (podpis osoby przyjmującej deklarację)"
-      },
-      {
-       "type": "text",
-       "text": ".............................................................................................................. .................................................................................................................... (pieczątka, nadruk lub naklejka ośrodka koordynującego KORD (pieczątka, nadruk lub naklejka miejsca udzielania świadczeń opieki zawierające nazwę, adres siedziby oraz numer identyfikacyjny umowy zdrowotnej zawierające nazwę, adres oraz numer identyfikacyjny umowy z Narodowym Funduszem Zdrowia) z Narodowym Funduszem Zdrowia)"
-      },
-      {
-       "type": "text",
-       "text": "POUCZENIE Informacja dla wypełniającego deklarację"
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Rezygnacja z wyboru świadczeniodawcy realizującego program pilotażowy kompleksowej opieki rozwojowej nad dziećmi urodzonymi przedwcześnie KORD"
+    },
+    {
+     "type": "text",
+     "text": "Rezygnuję z wyboru świadczeniodawcy realizującego program pilotażowy kompleksowej opieki rozwojowej nad dziećmi urodzonymi przedwcześnie KORD"
+    },
+    {
+     "type": "text",
+     "text": "2 ................................. ........................................................................................... ...................................................................... (data: dzień-miesiąc-rok) (podpis opiekuna prawnego dziecka) (podpis osoby przyjmującej deklarację)"
+    },
+    {
+     "type": "text",
+     "text": ".............................................................................................................. .................................................................................................................... (pieczątka, nadruk lub naklejka ośrodka koordynującego KORD (pieczątka, nadruk lub naklejka miejsca udzielania świadczeń opieki zawierające nazwę, adres siedziby oraz numer identyfikacyjny umowy zdrowotnej zawierające nazwę, adres oraz numer identyfikacyjny umowy z Narodowym Funduszem Zdrowia) z Narodowym Funduszem Zdrowia)"
+    },
+    {
+     "type": "text",
+     "text": "POUCZENIE Informacja dla wypełniającego deklarację"
     },
     {
      "type": "ust",
@@ -8422,58 +7873,39 @@
     },
     {
      "type": "text",
-     "text": "SZKOLENIE ON-LINE PRZEZNACZONE DLA KOORDYNATORÓW PROCESU LECZENIA – LEKARZY NEONATOLOGÓW ORAZ ASYSTENTÓW OPIEKI (4 godziny) 1. Informacje ogólne dotyczące programu pilotażowego w zakresie kompleksowej opieki"
+     "text": "SZKOLENIE ON-LINE PRZEZNACZONE DLA KOORDYNATORÓW"
     },
     {
      "type": "text",
-     "text": "rozwojowej nad dziećmi urodzonymi przedwcześnie KORD (1 godzina)."
+     "text": "PROCESU LECZENIA – LEKARZY NEONATOLOGÓW ORAZ ASYSTENTÓW OPIEKI (4 godziny)"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Informacje ogólne dotyczące programu pilotażowego w zakresie kompleksowej opieki rozwojowej nad dziećmi urodzonymi przedwcześnie KORD (1 godzina).",
+     "children": []
     },
     {
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Informacje ogólne na temat procesu indywidualnej opieki nad dzieckiem urodzonym",
-     "children": [
-      {
-       "type": "text",
-       "text": "przedwcześnie do 3. roku życia – na podstawie danych i harmonogramu porad zawartych"
-      },
-      {
-       "type": "text",
-       "text": "w Karcie Dziecka Urodzonego Przedwcześnie (1 godzina)."
-      }
-     ]
+     "text": "Informacje ogólne na temat procesu indywidualnej opieki nad dzieckiem urodzonym przedwcześnie do 3. roku życia – na podstawie danych i harmonogramu porad zawartych w Karcie Dziecka Urodzonego Przedwcześnie (1 godzina).",
+     "children": []
     },
     {
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Informacje ogólne na temat obowiązujących dokumentów w programie pilotażowym w zakresie",
-     "children": [
-      {
-       "type": "text",
-       "text": "kompleksowej opieki rozwojowej nad dziećmi urodzonymi przedwcześnie KORD (1 godzina)."
-      }
-     ]
+     "text": "Informacje ogólne na temat obowiązujących dokumentów w programie pilotażowym w zakresie kompleksowej opieki rozwojowej nad dziećmi urodzonymi przedwcześnie KORD (1 godzina).",
+     "children": []
     },
     {
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Wybór kluczowych narzędzi badawczych do monitorowania rozwoju dzieci urodzonych",
+     "text": "Wybór kluczowych narzędzi badawczych do monitorowania rozwoju dzieci urodzonych przedwcześnie do 3. roku życia – w programie pilotażowym w zakresie kompleksowej opieki rozwojowej nad dziećmi urodzonymi przedwcześnie KORD (badania neurologiczne i badania obserwacyjne) (1 godzina).",
      "children": [
-      {
-       "type": "text",
-       "text": "przedwcześnie do 3. roku życia – w programie pilotażowym w zakresie kompleksowej opieki"
-      },
-      {
-       "type": "text",
-       "text": "rozwojowej nad dziećmi urodzonymi przedwcześnie KORD (badania neurologiczne i badania"
-      },
-      {
-       "type": "text",
-       "text": "obserwacyjne) (1 godzina)."
-      },
       {
        "type": "text",
        "text": "SZKOLENIE STACJONARNE LUB ON-LINE"
@@ -8496,60 +7928,29 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Omówienie szczegółowej organizacji programu pilotażowego w zakresie kompleksowej opieki",
-     "children": [
-      {
-       "type": "text",
-       "text": "rozwojowej nad dziećmi urodzonymi przedwcześnie KORD – w warunkach ośrodka"
-      },
-      {
-       "type": "text",
-       "text": "koordynującego KORD (1 godzina)."
-      }
-     ]
+     "text": "Omówienie szczegółowej organizacji programu pilotażowego w zakresie kompleksowej opieki rozwojowej nad dziećmi urodzonymi przedwcześnie KORD – w warunkach ośrodka koordynującego KORD (1 godzina).",
+     "children": []
     },
     {
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Szczegółowe omówienie procesu indywidualnej opieki nad dzieckiem urodzonym",
-     "children": [
-      {
-       "type": "text",
-       "text": "przedwcześnie do 3. roku życia, odbywającego się w warunkach ośrodka koordynującego"
-      },
-      {
-       "type": "text",
-       "text": "KORD – na podstawie danych i harmonogramu porad zawartych w Karcie Dziecka"
-      },
-      {
-       "type": "text",
-       "text": "Urodzonego Przedwcześnie (2 godziny)."
-      }
-     ]
+     "text": "Szczegółowe omówienie procesu indywidualnej opieki nad dzieckiem urodzonym przedwcześnie do 3. roku życia, odbywającego się w warunkach ośrodka koordynującego KORD – na podstawie danych i harmonogramu porad zawartych w Karcie Dziecka Urodzonego Przedwcześnie (2 godziny).",
+     "children": []
     },
     {
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Szczegółowe omówienie dokumentów obowiązujących w programie pilotażowym w zakresie",
-     "children": [
-      {
-       "type": "text",
-       "text": "kompleksowej opieki rozwojowej nad dziećmi urodzonymi przedwcześnie KORD (1 godzina)."
-      }
-     ]
+     "text": "Szczegółowe omówienie dokumentów obowiązujących w programie pilotażowym w zakresie kompleksowej opieki rozwojowej nad dziećmi urodzonymi przedwcześnie KORD (1 godzina).",
+     "children": []
     },
     {
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Rozwiązywanie problemów lokalnych, występujących w ośrodkach koordynujących KORD,",
+     "text": "Rozwiązywanie problemów lokalnych, występujących w ośrodkach koordynujących KORD, związanych z realizacją programu pilotażowego (1 godzina).",
      "children": [
-      {
-       "type": "text",
-       "text": "związanych z realizacją programu pilotażowego (1 godzina)."
-      },
       {
        "type": "text",
        "text": "SPOTKANIE ON-LINE"

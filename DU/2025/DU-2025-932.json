@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/932",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 9 lipca 2025 r. w sprawie warunków organizowania oraz wymagań, jakie powinny spełniać miejsca doraźnego schronienia",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/932/text.pdf",
  "body": [
   {
@@ -1317,15 +1317,23 @@
      "type": "ust",
      "num": "6",
      "path": "ust_6",
-     "text": "Osłona przy wejściu prowadzącym do mds bezpośrednio z zewnątrz jest usytuowana",
+     "text": "Osłona przy wejściu prowadzącym do mds bezpośrednio z zewnątrz jest usytuowana od tego wejścia w odległości L nie mniejszej niż obliczona według wzoru:",
      "children": [
       {
        "type": "text",
-       "text": "od tego wejścia w odległości L nie mniejszej niż obliczona według wzoru:"
+       "text": "AA"
       },
       {
        "type": "text",
-       "text": "AA gdzie: LL = +0,6 mm 2 A – szerokość otworu drzwiowego."
+       "text": "gdzie: LL = +0,6 mm"
+      },
+      {
+       "type": "text",
+       "text": "2"
+      },
+      {
+       "type": "text",
+       "text": "A – szerokość otworu drzwiowego."
       }
      ]
     },
@@ -1333,16 +1341,8 @@
      "type": "ust",
      "num": "7",
      "path": "ust_7",
-     "text": "Osłona przy wejściu prowadzącym do mds bezpośrednio z zewnątrz ma szerokość S",
+     "text": "Osłona przy wejściu prowadzącym do mds bezpośrednio z zewnątrz ma szerokość S nie mniejszą niż określona na podstawie kąta 45 według zasady przedstawionej na poniższym rysunku:",
      "children": [
-      {
-       "type": "text",
-       "text": "nie mniejszą niż określona na podstawie kąta 45 według zasady przedstawionej na poniższym"
-      },
-      {
-       "type": "text",
-       "text": "rysunku:"
-      },
       {
        "type": "note",
        "text": "[Na stronie 11 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"

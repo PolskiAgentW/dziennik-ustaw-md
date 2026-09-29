@@ -20,7 +20,7 @@ się przeszukiwać, porównywać i przetwarzać.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-29 16:39 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-29 20:10 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -30,11 +30,11 @@ Stan na 2026-09-29 16:39 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 2025 | 1900 | 1900 | 0 |
 | 2026 | 1268 | 1268 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 82, razem 1848 z 55640 stron. Tekst z OCR (oznaczony) ma 1736 z nich w 70 aktach; treści pozostałych brak.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 81, razem 1837 z 55640 stron. Tekst z OCR (oznaczony) ma 1736 z nich w 70 aktach; treści pozostałych brak.
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 197.
 
 Rodzaje aktów: Rozporządzenie 1814, Obwieszczenie 1004, Ustawa 362, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
-Wersje konwertera: eli2md 0.6.1 (3266).
+Wersje konwertera: eli2md 0.6.2 (3266).
 <!-- stats:end -->
 
 ## Zawartość
@@ -84,6 +84,18 @@ nowych próbach dają w treści głównej te same lub lepsze wyniki, szczegóły
 Przypisy i tabele wypadają słabiej (tabele są spłaszczone do akapitów, wiersz po wierszu). Szczegóły,
 słabe miejsca i poprzednie wyniki są w README eli2md.
 
+Zmiana 2026-09-29 późnym wieczorem (eli2md 0.6.2, wszystkie akty od nowa):
+- akapity: część aktów jest składana z większym odstępem między liniami (ok. 0,6 rozmiaru czcionki), a konwerter
+  robił wtedy z każdej linii osobny akapit. Tekst zmienił się w 182 plikach (w pozostałych tylko pole `converter`);
+  akapitów w nich było 272 723, jest 214 537. Na odłożonej próbie z 2024 r. (41 aktów) fałszywe podziały
+  w załącznikach: precision 0.953 → 0.989, bez utraty prawdziwych podziałów (recall 0.997 w obu wersjach);
+- JSON: „Rozdział 2. Tytuł” w jednej linii jest nagłówkiem, a sekcje załącznika „I.”, „II.”, … zamykają jednostki
+  poprzedniej sekcji (wcześniej np. lista „1) …” z sekcji III wisiała pod ust. 6 z sekcji II). Zmienione drzewo
+  w 313 plikach JSON, w 74 inne ścieżki jednostek; węzłów `heading` 940 → 2093;
+- dane z Monitora Polskiego (2025–2026, ten sam konwerter) są w osobnym repozytorium:
+  [monitor-polski-md](https://github.com/PolskiAgentW/monitor-polski-md);
+- poprawiona podstawa prawna w sekcji Licencja (art. 4 pkt 1, wcześniej błędnie pkt 2).
+
 Zmiana 2026-09-29 wieczorem (eli2md 0.6.1, wszystkie akty od nowa):
 - przypisy: numeracja zaczyna się od nowa w załącznikach i formularzach, a etykiety w Markdown się powtarzały
   (466 plików), przez co odnośniki wskazywały zły przypis, a w JSON część przypisów ginęła. Teraz kolejne
@@ -95,7 +107,9 @@ Zmiana 2026-09-29 wieczorem (eli2md 0.6.1, wszystkie akty od nowa):
   obecnych w wyniku 0.972, odwrotnie 0.989 — jak w aktach 2025–2026);
 - znany problem: na ok. 11 stronach w kilku aktach (np. DU/2025/1249 s. 104–107) większość znaków nie ma kodów
   Unicode, a OCR nie dał czytelnego tekstu, więc jest tylko notka; w poprzedniej wersji była tam część słów.
-  Do poprawienia w następnej wersji.
+  Od 0.6.2 taka strona zachowuje czytelną część warstwy tekstowej (bez nieczytelnych znaków, z notką), o ile
+  jakaś jest: w DU/2025/1249 wróciła s. 104, a s. 105–107 nadal mają tylko notkę (w całym zbiorze stron bez
+  czytelnej warstwy tekstowej: 1848 → 1837).
 
 Zmiana 2026-09-29 po południu (eli2md 0.5.2 → 0.5.3, wszystkie akty przekonwertowane od nowa, dodany JSON).
 Policzone na całym zbiorze przed i po:
@@ -117,7 +131,8 @@ była widoczna. Najdłuższa przerwa w ogłaszaniu aktów w latach 2025–2026 w
 
 ## Licencja
 
-Akty normatywne i ich urzędowe projekty nie są przedmiotem prawa autorskiego (art. 4 pkt 2 ustawy
-o prawie autorskim i prawach pokrewnych). Pozostała zawartość (indeks, skrypty): CC0 1.0.
+Akty normatywne i ich urzędowe projekty oraz urzędowe dokumenty i materiały nie są przedmiotem prawa
+autorskiego (art. 4 pkt 1 i 2 ustawy o prawie autorskim i prawach pokrewnych). Pozostała zawartość
+(indeks, skrypty): CC0 1.0.
 
 Błędy konwersji zgłaszaj w Issues. Najlepiej podaj pozycję aktu i fragment.

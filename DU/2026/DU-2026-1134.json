@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1134",
  "title": "Obwieszczenie Ministra Finansów i Gospodarki z dnia 13 sierpnia 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie pobierania i zwrotu podatku od czynności cywilnoprawnych",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1134/text.pdf",
  "body": [
   {
@@ -610,7 +610,35 @@
       },
       {
        "type": "text",
-       "text": "G. INFORMACJE DODATKOWE W przypadku: - umowy spółki należy podać adres siedziby spółki (rzeczywistego ośrodka zarządzania), - umowy sprzedaży, gdy kupujący nie ma miejsca zamieszkania lub siedziby na terytorium Rzeczypospolite Polskiej, należy podać miejsce zamieszkania lub siedzbę sprzedawcy, a jeżeli żadna ze stron nie ma miejsca zamieszkania lub siedziby na terytorium Rzeczypospolitej Polskiej, należy podać miejsce dokonania czynności, - umowy sprzedaży przedsiębiorstwa albo jego zorganizowanej części należy podać siedzibę przedsiębiorstwa albo miejsce położenia jego zorganizowanej części, - orzeczenia sądu, w tym polubownego, oraz ugody, jeżeli przedmiotem jest przeniesienie własnośc nieruchomości, prawa użytkowania wieczystego lub spółdzielczego własnościowego prawa do lokalu mieszkalnego albo użytkowego, należy podać miejsce położenia nieruchomości."
+       "text": "G. INFORMACJE DODATKOWE"
+      },
+      {
+       "type": "text",
+       "text": "W przypadku:"
+      },
+      {
+       "type": "text",
+       "text": "- umowy spółki należy podać adres siedziby spółki (rzeczywistego ośrodka zarządzania),"
+      },
+      {
+       "type": "text",
+       "text": "- umowy sprzedaży, gdy kupujący nie ma miejsca zamieszkania lub siedziby na terytorium Rzeczypospolite Polskiej, należy podać miejsce zamieszkania lub siedzbę"
+      },
+      {
+       "type": "text",
+       "text": "sprzedawcy, a jeżeli żadna ze stron nie ma miejsca zamieszkania lub siedziby na terytorium Rzeczypospolitej Polskiej, należy podać miejsce dokonania czynności,"
+      },
+      {
+       "type": "text",
+       "text": "- umowy sprzedaży przedsiębiorstwa albo jego zorganizowanej części należy podać siedzibę przedsiębiorstwa albo miejsce położenia jego zorganizowanej części,"
+      },
+      {
+       "type": "text",
+       "text": "- orzeczenia sądu, w tym polubownego, oraz ugody, jeżeli przedmiotem jest przeniesienie własnośc nieruchomości, prawa użytkowania wieczystego lub"
+      },
+      {
+       "type": "text",
+       "text": "spółdzielczego własnościowego prawa do lokalu mieszkalnego albo użytkowego, należy podać miejsce położenia nieruchomości."
       }
      ]
     },
@@ -698,9 +726,16 @@
      "children": [
       {
        "type": "text",
-       "text": "└────┴────┘-└────┴────┘-└────┴────┴────┴────┘ 71. Imię 72. Nazwisko"
+       "text": "└────┴────┘-└────┴────┘-└────┴────┴────┴────┘"
       }
      ]
+    },
+    {
+     "type": "ust",
+     "num": "71",
+     "path": "ust_71",
+     "text": "Imię 72. Nazwisko",
+     "children": []
     },
     {
      "type": "ust",
@@ -741,25 +776,35 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_73/pkt_4",
-       "text": "W przypadku umowy pożyczki zwolnionej na podstawie art. 9 pkt 10 lit. b ustawy, w poz. 31 należy wpisać kwotę udzielonej pożyczki, a w poz. 32 i 33 należy wpisać 0. 5) W przypadku ustanowienia hipoteki na zabezpieczenie wierzytelności istniejących, w poz. 40 należy wpisać kwotę zabezpieczonej wierzytelności; w przypadku ustanowienia hipoteki na zabezpieczenie wierzytelności o wysokości nieustalonej, w poz. 42 należy wpisać liczbę 19.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Pouczenia"
-        },
-        {
-         "type": "text",
-         "text": "Za podanie nieprawdy lub zatajenie prawdy i przez to narażenie podatku na uszczuplenie grozi odpowiedzialność przewidziana w Kodeksie karnym skarbowym."
-        },
-        {
-         "type": "text",
-         "text": "W przypadku niezapłacenia w obowiązującym terminie kwoty podatku od czynności cywilnoprawnych z poz. 53 lub wpłacenia jej w niepełnej wysokości, niniejsza deklaracja stanowi podstawę do wystawienia tytułu wykonawczego, zgodnie z przepisami ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2026 r. poz. 268, z późn. zm.)."
-        },
-        {
-         "type": "text",
-         "text": "PCC-3 3 POLA JASNE WYPEŁNIA PODATNIK POLA CIEMNE WYPEŁNIA ORGAN PODATKOWY WYPEŁNIĆ DUŻYMI, DRUKOWANYMI LITERAMI CZARNYM LUB NIEBIESKIM KOLOREM Składanie w wersji elektronicznej: www.podatki.gov.pl"
-        }
-       ]
+       "text": "W przypadku umowy pożyczki zwolnionej na podstawie art. 9 pkt 10 lit. b ustawy, w poz. 31 należy wpisać kwotę udzielonej pożyczki, a w poz. 32 i 33 należy wpisać 0.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_73/pkt_5",
+       "text": "W przypadku ustanowienia hipoteki na zabezpieczenie wierzytelności istniejących, w poz. 40 należy wpisać kwotę zabezpieczonej wierzytelności; w przypadku",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "ustanowienia hipoteki na zabezpieczenie wierzytelności o wysokości nieustalonej, w poz. 42 należy wpisać liczbę 19."
+      },
+      {
+       "type": "text",
+       "text": "Pouczenia"
+      },
+      {
+       "type": "text",
+       "text": "Za podanie nieprawdy lub zatajenie prawdy i przez to narażenie podatku na uszczuplenie grozi odpowiedzialność przewidziana w Kodeksie karnym skarbowym."
+      },
+      {
+       "type": "text",
+       "text": "W przypadku niezapłacenia w obowiązującym terminie kwoty podatku od czynności cywilnoprawnych z poz. 53 lub wpłacenia jej w niepełnej wysokości, niniejsza deklaracja stanowi podstawę do wystawienia tytułu wykonawczego, zgodnie z przepisami ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2026 r. poz. 268, z późn. zm.)."
+      },
+      {
+       "type": "text",
+       "text": "PCC-3 3 POLA JASNE WYPEŁNIA PODATNIK POLA CIEMNE WYPEŁNIA ORGAN PODATKOWY WYPEŁNIĆ DUŻYMI, DRUKOWANYMI LITERAMI CZARNYM LUB NIEBIESKIM KOLOREM Składanie w wersji elektronicznej: www.podatki.gov.pl"
       }
      ]
     },

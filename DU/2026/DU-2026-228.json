@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/228",
  "title": "Obwieszczenie Ministra Zdrowia z dnia 16 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie standardu organizacyjnego opieki zdrowotnej w dziedzinie anestezjologii i intensywnej terapii",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/228/text.pdf",
  "body": [
   {
@@ -911,8 +911,9 @@
      "text": "WARUNKI DLA ODDZIAŁÓW ANESTEZJOLOGII I INTENSYWNEJ TERAPII ORAZ ODDZIAŁÓW ANESTEZJOLOGII W SZPITALACH"
     },
     {
-     "type": "text",
-     "text": "Część I. Warunki ogólne dla oddziału anestezjologii i intensywnej terapii lub oddziału anestezjologii i intensywnej terapii dla dzieci oraz oddziału anestezjologii lub oddziału anestezjologii dla dzieci w szpitalu"
+     "type": "heading",
+     "label": "Część I",
+     "text": "Warunki ogólne dla oddziału anestezjologii i intensywnej terapii lub oddziału anestezjologii i intensywnej terapii dla dzieci oraz oddziału anestezjologii lub oddziału anestezjologii dla dzieci w szpitalu"
     },
     {
      "type": "text",
@@ -1338,20 +1339,20 @@
      "num": "2",
      "path": "pkt_2",
      "text": "pokój wielostanowiskowy – co najmniej 16,0 m² na 1 stanowisko.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Część II. Warunki szczegółowe dla poziomów referencyjnych oddziału anestezjologii i intensywnej terapii w szpitalu"
-      },
-      {
-       "type": "text",
-       "text": "Lp. Poziom Warunki wymagane referencyjny"
-      },
-      {
-       "type": "text",
-       "text": "1¹ Pierwszy² Organizacja³ 1) co najmniej 4 stanowiska intensywnej terapii;⁴ poziom udzielania 2) wyodrębniona całodobowa opieka lekarska – jednoczasowo przez co najmniej 1 lekarza specjalistę referencyjny świadczeń anestezjologii i intensywnej terapii we wszystkie dni tygodnia (nie może być łączona z innymi oddziałami lub wykonywaniem świadczeń z zakresu anestezji);"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Część II",
+     "text": "Warunki szczegółowe dla poziomów referencyjnych oddziału anestezjologii i intensywnej terapii w szpitalu"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Poziom Warunki wymagane referencyjny"
+    },
+    {
+     "type": "text",
+     "text": "1¹ Pierwszy² Organizacja³ 1) co najmniej 4 stanowiska intensywnej terapii;⁴ poziom udzielania 2) wyodrębniona całodobowa opieka lekarska – jednoczasowo przez co najmniej 1 lekarza specjalistę referencyjny świadczeń anestezjologii i intensywnej terapii we wszystkie dni tygodnia (nie może być łączona z innymi oddziałami lub wykonywaniem świadczeń z zakresu anestezji);"
     },
     {
      "type": "pkt",
@@ -1437,24 +1438,25 @@
       {
        "type": "text",
        "text": "Do podmiotów leczniczych realizujących świadczenia wysokospecjalistyczne określone w przepisach w sprawie świadczeń gwarantowanych z zakresu świadczeń wysokospecjalistycznych oraz warunków ich realizacji nie stosuje się wymogów określonych w pkt 3–5."
-      },
-      {
-       "type": "text",
-       "text": "Część III. Warunki szczegółowe dla poziomów referencyjnych oddziału anestezjologii i intensywnej terapii dla dzieci w szpitalu"
-      },
-      {
-       "type": "text",
-       "text": "Lp. Poziom Warunki wymagane referencyjny"
-      },
-      {
-       "type": "text",
-       "text": "1 2 3 4"
-      },
-      {
-       "type": "text",
-       "text": "1 Pierwszy Organizacja 1) co najmniej 4 stanowiska intensywnej terapii, w tym co najmniej 1 dla noworodków; poziom udzielania 2) co najmniej 2 inkubatory otwarte z możliwością fototerapii oraz ważenia dzieci oraz co najmniej referencyjny świadczeń 1 inkubator zamknięty z możliwością fototerapii oraz ważenia dzieci, w przypadku udzielania świadczeń dla noworodków;"
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Część III",
+     "text": "Warunki szczegółowe dla poziomów referencyjnych oddziału anestezjologii i intensywnej terapii dla dzieci w szpitalu"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Poziom Warunki wymagane referencyjny"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3 4"
+    },
+    {
+     "type": "text",
+     "text": "1 Pierwszy Organizacja 1) co najmniej 4 stanowiska intensywnej terapii, w tym co najmniej 1 dla noworodków; poziom udzielania 2) co najmniej 2 inkubatory otwarte z możliwością fototerapii oraz ważenia dzieci oraz co najmniej referencyjny świadczeń 1 inkubator zamknięty z możliwością fototerapii oraz ważenia dzieci, w przypadku udzielania świadczeń dla noworodków;"
     },
     {
      "type": "pkt",

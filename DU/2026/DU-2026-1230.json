@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1230",
  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 10 września 2026 r. zmieniające rozporządzenie w sprawie świadczeń zdrowotnych przysługujących żołnierzom zawodowym",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1230/text.pdf",
  "body": [
   {
@@ -68,16 +68,18 @@
      "text": "RAMOWY PROGRAM TURNUSU LECZNICZO-PROFILAKTYCZNEGO"
     },
     {
-     "type": "text",
-     "text": "I. Cel główny programu"
+     "type": "heading",
+     "label": "I.",
+     "text": "Cel główny programu"
     },
     {
      "type": "text",
      "text": "Poprawa kondycji psychicznej uczestników działań poza granicami państwa."
     },
     {
-     "type": "text",
-     "text": "II. Cele szczegółowe programu"
+     "type": "heading",
+     "label": "II.",
+     "text": "Cele szczegółowe programu"
     },
     {
      "type": "ust",
@@ -98,20 +100,21 @@
      "num": "3",
      "path": "ust_3",
      "text": "Trening ma na celu obniżenie poziomu napięcia psychicznego i fizycznego, readaptację po powrocie z misji, wzmocnienie zasobów psychicznych i społecznych, wsparcie komunikacji rodzinnej (w związkach) i reintegracji po rozłące.",
-     "children": [
-      {
-       "type": "text",
-       "text": "III. Odbiorcy programu"
-      },
-      {
-       "type": "text",
-       "text": "Odbiorcami programu są uczestnicy działań poza granicami państwa oraz pełnoletni członkowie ich rodzin, zwani dalej „uczestnikami turnusu”."
-      },
-      {
-       "type": "text",
-       "text": "IV. Założenia organizacyjne"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Odbiorcy programu"
+    },
+    {
+     "type": "text",
+     "text": "Odbiorcami programu są uczestnicy działań poza granicami państwa oraz pełnoletni członkowie ich rodzin, zwani dalej „uczestnikami turnusu”."
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Założenia organizacyjne"
     },
     {
      "type": "ust",
@@ -371,72 +374,73 @@
      "num": "19",
      "path": "ust_19",
      "text": "Program można elastycznie dostosowywać pod względem godzin realizacji zajęć psychologicznych i rehabilitacyjnych, tak aby zapewnić ich optymalny przebieg i komfort uczestników.",
-     "children": [
-      {
-       "type": "text",
-       "text": "V. Ramowy harmonogram turnusu"
-      },
-      {
-       "type": "text",
-       "text": "Rodzaj zajęć Lp. Dzień przed południem po południu wieczorem[^1_2]"
-      },
-      {
-       "type": "text",
-       "text": "zakwaterowanie; 1 niedziela badania lekarskie, ordynowanie zakwaterowanie zakwaterowanie i planowanie zabiegów"
-      },
-      {
-       "type": "text",
-       "text": "spotkanie organizacyjne z psychologiem – omówienie badania lekarskie, ordynowanie celów turnusu; konsultacje indywidualne 2 poniedziałek i planowanie zabiegów; spotkanie zapoznawcze z psychologiem zabiegi rehabilitacyjne (z rodzinami); relaksacja (45 min) warsztat zajęcia integracyjne: quiz psychologiczny 1 3 wtorek zabiegi rehabilitacyjne rodzinny lub taniec / spacer (3 godz.); terapeutyczny z rodziną relaksacja (45 min)"
-      },
-      {
-       "type": "text",
-       "text": "propozycje: wieczór gier psychoedukacja 1 (1,5 godz.); planszowych / 4 środa zabiegi rehabilitacyjne relaksacja (45 min) wieczór wspomnień / rozmowy grupowe"
-      },
-      {
-       "type": "text",
-       "text": "warsztat psychologiczny 2 spotkanie taneczne / zajęcia 5 czwartek zabiegi rehabilitacyjne (3 godz.); ruchowe relaksacja (45 min)"
-      },
-      {
-       "type": "text",
-       "text": "turniej drużynowy z rodzinami psychoedukacja 2 (1,5 godz.); 6 piątek zabiegi rehabilitacyjne / relaksacja (45 min) wieczór gier zespołowych"
-      },
-      {
-       "type": "text",
-       "text": "wspólne ognisko lub kolacja 7 sobota czas wolny czas wolny tematyczna / kino"
-      },
-      {
-       "type": "text",
-       "text": "integracja rodzinna (wspólny 8 niedziela czas wolny czas wolny quiz)"
-      },
-      {
-       "type": "text",
-       "text": "wieczór rozmów warsztat psychologiczny 3 z psychologiem (dla chętnych) / 9 poniedziałek zabiegi rehabilitacyjne (3 godz.); zajęcia integracyjne: escape relaksacja (45 min) room lub zajęcia taneczne"
-      },
-      {
-       "type": "text",
-       "text": "wieczór otwarty – zabiegi rehabilitacyjne; psychoedukacja 3 (1,5 godz.); pytania do psychologa / 10 wtorek konsultacje indywidualne / relaksacja (45 min) wieczór filmowy lub rozmowy konsultacje dla par grupowe"
-      },
-      {
-       "type": "text",
-       "text": "warsztat psychologiczny 4 zajęcia relaksacyjne; 11 środa zabiegi rehabilitacyjne (1,5 godz.); muzykoterapia relaksacja (45 min)"
-      },
-      {
-       "type": "text",
-       "text": "psychoedukacja 4 (1,5 godz.); propozycje: ognisko 12 czwartek zabiegi rehabilitacyjne relaksacja (45 min) lub spotkanie taneczne"
-      },
-      {
-       "type": "text",
-       "text": "wieczór integracyjny warsztat psychologiczny 5 z podsumowaniem; 13 piątek zabiegi rehabilitacyjne (zamykający); pożegnanie relaksacja (45 min) (z wręczeniem materiałów)"
-      },
-      {
-       "type": "text",
-       "text": "wykwaterowanie, 14 sobota wydanie epikryz wyjazd wyjazd i wyjazd"
-      },
-      {
-       "type": "text",
-       "text": "VI. Wskazówki dla psychologa"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "V.",
+     "text": "Ramowy harmonogram turnusu"
+    },
+    {
+     "type": "text",
+     "text": "Rodzaj zajęć Lp. Dzień przed południem po południu wieczorem[^1_2]"
+    },
+    {
+     "type": "text",
+     "text": "zakwaterowanie; 1 niedziela badania lekarskie, ordynowanie zakwaterowanie zakwaterowanie i planowanie zabiegów"
+    },
+    {
+     "type": "text",
+     "text": "spotkanie organizacyjne z psychologiem – omówienie badania lekarskie, ordynowanie celów turnusu; konsultacje indywidualne 2 poniedziałek i planowanie zabiegów; spotkanie zapoznawcze z psychologiem zabiegi rehabilitacyjne (z rodzinami); relaksacja (45 min) warsztat zajęcia integracyjne: quiz psychologiczny 1 3 wtorek zabiegi rehabilitacyjne rodzinny lub taniec / spacer (3 godz.); terapeutyczny z rodziną relaksacja (45 min)"
+    },
+    {
+     "type": "text",
+     "text": "propozycje: wieczór gier psychoedukacja 1 (1,5 godz.); planszowych / 4 środa zabiegi rehabilitacyjne relaksacja (45 min) wieczór wspomnień / rozmowy grupowe"
+    },
+    {
+     "type": "text",
+     "text": "warsztat psychologiczny 2 spotkanie taneczne / zajęcia 5 czwartek zabiegi rehabilitacyjne (3 godz.); ruchowe relaksacja (45 min)"
+    },
+    {
+     "type": "text",
+     "text": "turniej drużynowy z rodzinami psychoedukacja 2 (1,5 godz.); 6 piątek zabiegi rehabilitacyjne / relaksacja (45 min) wieczór gier zespołowych"
+    },
+    {
+     "type": "text",
+     "text": "wspólne ognisko lub kolacja 7 sobota czas wolny czas wolny tematyczna / kino"
+    },
+    {
+     "type": "text",
+     "text": "integracja rodzinna (wspólny 8 niedziela czas wolny czas wolny quiz)"
+    },
+    {
+     "type": "text",
+     "text": "wieczór rozmów warsztat psychologiczny 3 z psychologiem (dla chętnych) / 9 poniedziałek zabiegi rehabilitacyjne (3 godz.); zajęcia integracyjne: escape relaksacja (45 min) room lub zajęcia taneczne"
+    },
+    {
+     "type": "text",
+     "text": "wieczór otwarty – zabiegi rehabilitacyjne; psychoedukacja 3 (1,5 godz.); pytania do psychologa / 10 wtorek konsultacje indywidualne / relaksacja (45 min) wieczór filmowy lub rozmowy konsultacje dla par grupowe"
+    },
+    {
+     "type": "text",
+     "text": "warsztat psychologiczny 4 zajęcia relaksacyjne; 11 środa zabiegi rehabilitacyjne (1,5 godz.); muzykoterapia relaksacja (45 min)"
+    },
+    {
+     "type": "text",
+     "text": "psychoedukacja 4 (1,5 godz.); propozycje: ognisko 12 czwartek zabiegi rehabilitacyjne relaksacja (45 min) lub spotkanie taneczne"
+    },
+    {
+     "type": "text",
+     "text": "wieczór integracyjny warsztat psychologiczny 5 z podsumowaniem; 13 piątek zabiegi rehabilitacyjne (zamykający); pożegnanie relaksacja (45 min) (z wręczeniem materiałów)"
+    },
+    {
+     "type": "text",
+     "text": "wykwaterowanie, 14 sobota wydanie epikryz wyjazd wyjazd i wyjazd"
+    },
+    {
+     "type": "heading",
+     "label": "VI.",
+     "text": "Wskazówki dla psychologa"
     },
     {
      "type": "ust",

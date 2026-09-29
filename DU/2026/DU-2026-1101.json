@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1101",
  "title": "Obwieszczenie Przewodniczącego Krajowej Rady Radiofonii i Telewizji z dnia 31 lipca 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Krajowej Rady Radiofonii i Telewizji w sprawie sposobu prowadzenia dokumentacji oraz sposobu sporządzania sprawozdań z realizacji misji publicznej składanych przez jednostki publicznej radiofonii i telewizji",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1101/text.pdf",
  "body": [
   {
@@ -1270,8 +1270,19 @@
        "type": "lit",
        "num": "a",
        "path": "ust_1/lit_a",
-       "text": "z opłat abonamentowych b) z rekompensaty 1.2 Nadwyżka, o której mowa w art. 31 ust. 7 lub 8 ustawy",
+       "text": "z opłat abonamentowych",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "z rekompensaty",
        "children": [
+        {
+         "type": "text",
+         "text": "1.2 Nadwyżka, o której mowa w art. 31 ust. 7 lub 8 ustawy"
+        },
         {
          "type": "text",
          "text": "2 Przychody, o których mowa w art. 31 ust. 2 ustawy, w tym: 2.1"
@@ -1286,7 +1297,11 @@
         },
         {
          "type": "text",
-         "text": "3 Razem przychody własne spółki 3.1 Przychody, o których mowa w art. 31 ust. 1 pkt 2 ustawy"
+         "text": "3 Razem przychody własne spółki"
+        },
+        {
+         "type": "text",
+         "text": "3.1 Przychody, o których mowa w art. 31 ust. 1 pkt 2 ustawy"
         },
         {
          "type": "text",
@@ -1298,11 +1313,18 @@
        "type": "lit",
        "num": "a",
        "path": "ust_1/lit_a",
-       "text": "z reklamy b) ze sponsoringu 3.3 Przychody, o których mowa w art. 31 ust. 1 pkt 4 ustawy, w tym:",
+       "text": "z reklamy",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "ze sponsoringu",
        "children": [
         {
          "type": "text",
-         "text": "a)"
+         "text": "3.3 Przychody, o których mowa w art. 31 ust. 1 pkt 4 ustawy, w tym: a)"
         },
         {
          "type": "text",
@@ -1342,7 +1364,15 @@
         },
         {
          "type": "text",
-         "text": "II Koszty misji w danym roku rozliczeniowym[^1_7] 1 Zużycie materiałów i energii, w tym: 1.1 energii"
+         "text": "II Koszty misji w danym roku rozliczeniowym[^1_7]"
+        },
+        {
+         "type": "text",
+         "text": "1 Zużycie materiałów i energii, w tym:"
+        },
+        {
+         "type": "text",
+         "text": "1.1 energii"
         },
         {
          "type": "text",
@@ -1354,7 +1384,11 @@
         },
         {
          "type": "text",
-         "text": "2 Usługi obce, w tym: 2.1 koszty emisji, w tym:"
+         "text": "2 Usługi obce, w tym:"
+        },
+        {
+         "type": "text",
+         "text": "2.1 koszty emisji, w tym:"
         },
         {
          "type": "text",
@@ -1386,7 +1420,11 @@
         },
         {
          "type": "text",
-         "text": "3 Podatki i opłaty: 3.1 podatek od nieruchomości"
+         "text": "3 Podatki i opłaty:"
+        },
+        {
+         "type": "text",
+         "text": "3.1 podatek od nieruchomości"
         },
         {
          "type": "text",

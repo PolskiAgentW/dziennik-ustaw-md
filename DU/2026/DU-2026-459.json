@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/459",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 20 marca 2026 r. zmieniające rozporządzenie w sprawie rodzajów dokumentacji medycznej służby medycyny pracy, sposobu jej prowadzenia i przechowywania oraz wzorów stosowanych dokumentów",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/459/text.pdf",
  "body": [
   {
@@ -90,16 +90,18 @@
      "text": "Rodzaj badania Wstępne (W); Okresowe (O); Kontrolne (K) profilaktycznego Pozostała działalność Monitoring stanu zdrowia (M); badanie celowane (C); profilaktyczna czynne poradnictwo (D); inne (I) Objęty opieką Pracownik (P); wykonujący pracę nakładczą (N); pobierający naukę (U); na własny wniosek (W)"
     },
     {
-     "type": "text",
-     "text": "I. Dane identyfikacyjne osoby objętej badaniami Imię i nazwisko płeć"
+     "type": "heading",
+     "label": "I.",
+     "text": "Dane identyfikacyjne osoby objętej badaniami Imię i nazwisko płeć"
     },
     {
      "type": "text",
      "text": "Identyfikator (numer PESEL, o ile został nadany, M/K a w przypadku jego braku – nazwa, numer dokumentu potwierdzającego tożsamość i data urodzenia) Adres zamieszkania kod - pocztowy Zawód wyuczony / Zawód wykonywany"
     },
     {
-     "type": "text",
-     "text": "II. Dane identyfikacyjne miejsca pracy / pobierania nauki"
+     "type": "heading",
+     "label": "II.",
+     "text": "Dane identyfikacyjne miejsca pracy / pobierania nauki"
     },
     {
      "type": "text",
@@ -325,15 +327,7 @@
       },
       {
        "type": "text",
-       "text": "Lp. Skierowanie do specjalisty Data skierowania Data konsultacji Wyniki konsultacji Imię i nazwisko osoby badanej: …………………………………………………………………."
-      },
-      {
-       "type": "text",
-       "text": "Zakres badań poszerzony poza wskazówki metodyczne: Nie □ Tak □"
-      },
-      {
-       "type": "text",
-       "text": "Lp. Rodzaj badania Uzasadnienie"
+       "text": "Lp. Skierowanie do specjalisty Data skierowania Data konsultacji Wyniki konsultacji Imię i nazwisko osoby badanej: …………………………………………………………………. Zakres badań poszerzony poza wskazówki metodyczne: Nie □ Tak □ Lp. Rodzaj badania Uzasadnienie"
       },
       {
        "type": "text",
@@ -349,11 +343,7 @@
       },
       {
        "type": "text",
-       "text": "Rozpoznanie: ......................................................................................................................................................................................................................................................................................................................."
-      },
-      {
-       "type": "text",
-       "text": "Zalecania: ………………………………………………………………………………………………………………………………………………………………………………………………………………….."
+       "text": "Rozpoznanie: ....................................................................................................................................................................................................................................................................................................................... Zalecania: ………………………………………………………………………………………………………………………………………………………………………………………………………………….."
       },
       {
        "type": "text",
@@ -361,31 +351,7 @@
       },
       {
        "type": "text",
-       "text": "Imię i nazwisko osoby badanej: …………………………………………………………………."
-      },
-      {
-       "type": "text",
-       "text": "WYDANO ORZECZENIE O:"
-      },
-      {
-       "type": "text",
-       "text": "braku przeciwwskazań zdrowotnych do pracy na stanowisku .............................................. ....................................."
-      },
-      {
-       "type": "text",
-       "text": "braku przeciwwskazań zdrowotnych do podjęcia lub kontynuowania nauki, studiów lub studiów doktoranckich"
-      },
-      {
-       "type": "text",
-       "text": "przeciwwskazaniach zdrowotnych do pracy na stanowisku .................................................. ....................................."
-      },
-      {
-       "type": "text",
-       "text": "przeciwwskazaniach zdrowotnych do podjęcia lub kontynuowania nauki, studiów lub studiów doktoranckich"
-      },
-      {
-       "type": "text",
-       "text": "utracie zdolności do wykonywania dotychczasowej pracy przeciwwskazaniach zdrowotnych do wykonywania dotychczasowej pracy przez pracownicę w ciąży lub karmiącą dziecko uzasadniających:"
+       "text": "Imię i nazwisko osoby badanej: …………………………………………………………………. WYDANO ORZECZENIE O: braku przeciwwskazań zdrowotnych do pracy na stanowisku .............................................. ..................................... braku przeciwwskazań zdrowotnych do podjęcia lub kontynuowania nauki, studiów lub studiów doktoranckich przeciwwskazaniach zdrowotnych do pracy na stanowisku .................................................. ..................................... przeciwwskazaniach zdrowotnych do podjęcia lub kontynuowania nauki, studiów lub studiów doktoranckich utracie zdolności do wykonywania dotychczasowej pracy przeciwwskazaniach zdrowotnych do wykonywania dotychczasowej pracy przez pracownicę w ciąży lub karmiącą dziecko uzasadniających:"
       },
       {
        "type": "text",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1588",
  "title": "Obwieszczenie Ministra Zdrowia z dnia 20 października 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie zakresu niezbędnych informacji przetwarzanych przez świadczeniodawców, szczegółowego sposobu rejestrowania tych informacji oraz ich przekazywania podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1588/text.pdf",
  "body": [
   {
@@ -4327,8 +4327,9 @@
      "text": "1 2 3 4"
     },
     {
-     "type": "text",
-     "text": "I. Prawo do świadczeń opieki zdrowotnej niezakwalifikowanych jako świadczenia gwarantowane"
+     "type": "heading",
+     "label": "I.",
+     "text": "Prawo do świadczeń opieki zdrowotnej niezakwalifikowanych jako świadczenia gwarantowane"
     },
     {
      "type": "text",
@@ -4347,8 +4348,9 @@
      "text": "art. 42 ust. 2 ustawy świadczenia opieki zdrowotnej, funkcjonariusz Policji, Straży 42MSW niezakwalifikowane jako świadczenia Granicznej, Biura Ochrony Rządu, gwarantowane oraz odpłatne Służby Ochrony Państwa, strażak świadczenia opieki zdrowotnej, Państwowej Straży Pożarnej, a także w związku z urazami i chorobami pracownik tych służb, po zwolnieniu ze nabytymi podczas wykonywania służby lub ustaniu umowy o pracę, zadań poza granicami państwa zwolniony ze służby funkcjonariusz Agencji Bezpieczeństwa Wewnętrznego, zwolniony ze służby funkcjonariusz Agencji Wywiadu"
     },
     {
-     "type": "text",
-     "text": "II. Prawo do wyrobów medycznych"
+     "type": "heading",
+     "label": "II.",
+     "text": "Prawo do wyrobów medycznych"
     },
     {
      "type": "text",
@@ -4473,7 +4475,11 @@
    "body": [
     {
      "type": "text",
-     "text": "KODY TRYBU PRZYJĘCIA OSOBY, KTÓREJ UDZIELONO ŚW ADCZENIA KODY TRYBU PRZYJĘCIA OSOBY, KTÓREJ UDZIELONO ŚWIADCZENIA ZDROWOTNEGO, W PRZYPADKU UDZIELENIA ŚWIADCZENIA Z ZAKRESU AMBULATORYJNEJ OPIEKI SPECJALISTYCZNEJ"
+     "text": "KODY TRYBU PRZYJĘCIA OSOBY, KTÓREJ UDZIELONO ŚW ADCZENIA"
+    },
+    {
+     "type": "text",
+     "text": "KODY TRYBU PRZYJĘCIA OSOBY, KTÓREJ UDZIELONO ŚWIADCZENIA ZDROWOTNEGO, W PRZYPADKU UDZIELENIA ŚWIADCZENIA Z ZAKRESU AMBULATORYJNEJ OPIEKI SPECJALISTYCZNEJ"
     },
     {
      "type": "pkt",
@@ -4493,135 +4499,43 @@
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": ",,5” – przyjęcie planowe w przypadkach, w których skierowanie nie jest wymagane zgodnie",
+     "text": ",,5” – przyjęcie planowe w przypadkach, w których skierowanie nie jest wymagane zgodnie z art. 57 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, z późn. zm.), zwanej dalej ,,ustawą”;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "z art. 57 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej"
-    },
-    {
-     "type": "text",
-     "text": "finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, z późn. zm.), zwanej"
-    },
-    {
-     "type": "text",
-     "text": "dalej ,,ustawą”;"
     },
     {
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "[^15] „7” – przyjęcie przymusowe – przyjęcie w związku z realizacją ustawowego obowiązku",
+     "text": "[^15] „7” – przyjęcie przymusowe – przyjęcie w związku z realizacją ustawowego obowiązku poddania się leczeniu, określonego w art. 21 ust. 1 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2024 r. poz. 917), art. 93f ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383), art. 202 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, z późn. zm.), art. 16 ust. 1 ustawy z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. z 2022 r. poz. 1689) oraz art. 65 ust. 1 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. z 2024 r. poz. 978, z późn. zm.);",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "poddania się leczeniu, określonego w art. 21 ust. 1 ustawy z dnia 19 sierpnia 1994 r."
-    },
-    {
-     "type": "text",
-     "text": "o ochronie zdrowia psychicznego (Dz. U. z 2024 r. poz. 917), art. 93f ustawy z dnia"
-    },
-    {
-     "type": "text",
-     "text": "6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383), art. 202 ustawy z dnia"
-    },
-    {
-     "type": "text",
-     "text": "6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, z późn. zm.),"
-    },
-    {
-     "type": "text",
-     "text": "art. 16 ust. 1 ustawy z dnia 22 listopada 2013 r. o postępowaniu wobec osób"
-    },
-    {
-     "type": "text",
-     "text": "z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności"
-    },
-    {
-     "type": "text",
-     "text": "seksualnej innych osób (Dz. U. z 2022 r. poz. 1689) oraz art. 65 ust. 1 ustawy z dnia"
-    },
-    {
-     "type": "text",
-     "text": "9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. z 2024 r. poz. 978,"
-    },
-    {
-     "type": "text",
-     "text": "z późn. zm.);"
     },
     {
      "type": "pkt",
      "num": "5",
      "path": "pkt_5",
-     "text": ",,8” – przyjęcie planowe na podstawie skierowania osoby, która skorzystała ze świadczeń",
+     "text": ",,8” – przyjęcie planowe na podstawie skierowania osoby, która skorzystała ze świadczeń opieki zdrowotnej poza kolejnością, zgodnie z uprawnieniami przysługującymi jej na podstawie ustawy;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "opieki zdrowotnej poza kolejnością, zgodnie z uprawnieniami przysługującymi jej"
-    },
-    {
-     "type": "text",
-     "text": "na podstawie ustawy;"
     },
     {
      "type": "pkt",
      "num": "6",
      "path": "pkt_6",
-     "text": ",,9” – przyjęcie planowe w przypadkach, w których skierowanie nie jest wymagane",
+     "text": ",,9” – przyjęcie planowe w przypadkach, w których skierowanie nie jest wymagane zgodnie z art. 57 ust. 2 ustawy, osoby, która skorzystała ze świadczeń opieki zdrowotnej poza kolejnością, zgodnie z uprawnieniami przysługującymi jej na podstawie ustawy;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "zgodnie z art. 57 ust. 2 ustawy, osoby, która skorzystała ze świadczeń opieki zdrowotnej"
-    },
-    {
-     "type": "text",
-     "text": "poza kolejnością, zgodnie z uprawnieniami przysługującymi jej na podstawie ustawy;"
     },
     {
      "type": "pkt",
      "num": "7",
      "path": "pkt_7",
-     "text": ",,11” – przyjęcie osoby podlegającej obowiązkowemu leczeniu – przyjęcie w związku",
+     "text": ",,11” – przyjęcie osoby podlegającej obowiązkowemu leczeniu – przyjęcie w związku z realizacją ustawowego obowiązku poddania się leczeniu, określonego w art. 40 ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2024 r. poz. 924, z późn. zm.), art. 26 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 2151) oraz art. 71 ust. 1 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 1939);",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "z realizacją ustawowego obowiązku poddania się leczeniu, określonego w art. 40 ust. 1"
-    },
-    {
-     "type": "text",
-     "text": "ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób"
-    },
-    {
-     "type": "text",
-     "text": "zakaźnych u ludzi (Dz. U. z 2024 r. poz. 924, z późn. zm.), art. 26 ustawy z dnia"
-    },
-    {
-     "type": "text",
-     "text": "26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 2151) oraz art. 71 ust. 1 ustawy z dnia 29 lipca 2005 r."
-    },
-    {
-     "type": "text",
-     "text": "o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 1939);"
     },
     {
      "type": "pkt",
      "num": "8",
      "path": "pkt_8",
-     "text": ",,13” – przyjęcie w celu wykonania świadczenia zgodnie z planem leczenia osoby, która",
+     "text": ",,13” – przyjęcie w celu wykonania świadczenia zgodnie z planem leczenia osoby, która wymaga okresowego, w ściśle ustalonych terminach, wykonywania kolejnych etapów świadczenia;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "wymaga okresowego, w ściśle ustalonych terminach, wykonywania kolejnych etapów"
-    },
-    {
-     "type": "text",
-     "text": "świadczenia;"
     },
     {
      "type": "pkt",
@@ -4631,7 +4545,11 @@
      "children": [
       {
        "type": "text",
-       "text": "KODY TRYBU PRZYJĘCIA I WYPISU OSOBY, KTÓREJ UDZIELONO ŚWIADCZENIA ZDROWOTNEGO, W PRZYPADKU POBYTU W ODDZIALE SZPITALNYM"
+       "text": "KODY TRYBU PRZYJĘCIA I WYPISU OSOBY, KTÓREJ UDZIELONO ŚWIADCZENIA"
+      },
+      {
+       "type": "text",
+       "text": "ZDROWOTNEGO, W PRZYPADKU POBYTU W ODDZIALE SZPITALNYM"
       },
       {
        "type": "text",
@@ -4643,12 +4561,8 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": ",,2” – przyjęcie w trybie nagłym w wyniku przekazania przez zespół ratownictwa",
+     "text": ",,2” – przyjęcie w trybie nagłym w wyniku przekazania przez zespół ratownictwa medycznego;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "medycznego;"
     },
     {
      "type": "pkt",
@@ -4675,12 +4589,8 @@
      "type": "pkt",
      "num": "5",
      "path": "pkt_5",
-     "text": ",,7” – przyjęcie planowe osoby, która skorzystała ze świadczeń opieki zdrowotnej poza",
+     "text": ",,7” – przyjęcie planowe osoby, która skorzystała ze świadczeń opieki zdrowotnej poza kolejnością, zgodnie z uprawnieniami przysługującymi jej na podstawie ustawy;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "kolejnością, zgodnie z uprawnieniami przysługującymi jej na podstawie ustawy;"
     },
     {
      "type": "pkt",
@@ -4693,71 +4603,19 @@
      "type": "pkt",
      "num": "7",
      "path": "pkt_7",
-     "text": ",,9” – przyjęcie osoby podlegającej obowiązkowemu leczeniu – przyjęcie w związku",
+     "text": ",,9” – przyjęcie osoby podlegającej obowiązkowemu leczeniu – przyjęcie w związku z realizacją ustawowego obowiązku poddania się leczeniu określonego w art. 26 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi oraz art. 33 ust. 1 i art. 34 ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "z realizacją ustawowego obowiązku poddania się leczeniu określonego w art. 26 ustawy"
-    },
-    {
-     "type": "text",
-     "text": "z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu"
-    },
-    {
-     "type": "text",
-     "text": "alkoholizmowi oraz art. 33 ust. 1 i art. 34 ust. 1 ustawy z dnia 5 grudnia 2008 r."
-    },
-    {
-     "type": "text",
-     "text": "o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi;"
     },
     {
      "type": "pkt",
      "num": "8",
      "path": "pkt_8",
-     "text": "[^16] „10” – przyjęcie przymusowe – przyjęcie przymusowe w związku z realizacją",
+     "text": "[^16] „10” – przyjęcie przymusowe – przyjęcie przymusowe w związku z realizacją ustawowego obowiązku poddania się hospitalizacji, określonego w art. 35 ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, art. 21 ust. 3, art. 23, 24 i 29 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego, art. 30 i art. 71 ust. 1 i 3 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii, art. 93a § 1 pkt 3 i 4 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, art. 203 i 260 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, art. 17, art. 65 ust. 3 i art. 146 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich oraz art. 13 ust. 1, art. 15 ust. 1, art. 16 ust. 1 oraz art. 21 ustawy z dnia 22 listopada 2013 r.",
      "children": []
     },
     {
      "type": "text",
-     "text": "ustawowego obowiązku poddania się hospitalizacji, określonego w art. 35 ust. 1 ustawy"
-    },
-    {
-     "type": "text",
-     "text": "z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych"
-    },
-    {
-     "type": "text",
-     "text": "u ludzi, art. 21 ust. 3, art. 23, 24 i 29 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia"
-    },
-    {
-     "type": "text",
-     "text": "psychicznego, art. 30 i art. 71 ust. 1 i 3 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu"
-    },
-    {
-     "type": "text",
-     "text": "narkomanii, art. 93a § 1 pkt 3 i 4 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, art. 203"
-    },
-    {
-     "type": "text",
-     "text": "i 260 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, art. 17, art. 65"
-    },
-    {
-     "type": "text",
-     "text": "ust. 3 i art. 146 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich"
-    },
-    {
-     "type": "text",
-     "text": "oraz art. 13 ust. 1, art. 15 ust. 1, art. 16 ust. 1 oraz art. 21 ustawy z dnia 22 listopada 2013 r."
-    },
-    {
-     "type": "text",
-     "text": "o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie"
-    },
-    {
-     "type": "text",
-     "text": "życia, zdrowia lub wolności seksualnej innych osób;"
+     "text": "o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób;"
     },
     {
      "type": "pkt",
@@ -4796,16 +4654,8 @@
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": ",,4” – skierowanie do dalszego leczenia w innym niż szpital zakładzie leczniczym",
+     "text": ",,4” – skierowanie do dalszego leczenia w innym niż szpital zakładzie leczniczym podmiotu leczniczego wykonującego działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "podmiotu leczniczego wykonującego działalność leczniczą w rodzaju stacjonarne"
-    },
-    {
-     "type": "text",
-     "text": "i całodobowe świadczenia zdrowotne;"
     },
     {
      "type": "pkt",
@@ -4818,27 +4668,15 @@
      "type": "pkt",
      "num": "6",
      "path": "pkt_6",
-     "text": ",,7” – osoba leczona samowolnie opuściła podmiot leczniczy wykonujący działalność",
+     "text": ",,7” – osoba leczona samowolnie opuściła podmiot leczniczy wykonujący działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne przed zakończeniem procesu terapeutycznego lub diagnostycznego;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne przed"
-    },
-    {
-     "type": "text",
-     "text": "zakończeniem procesu terapeutycznego lub diagnostycznego;"
     },
     {
      "type": "pkt",
      "num": "7",
      "path": "pkt_7",
-     "text": ",,8” – wypisanie na podstawie art. 29 ust. 1 pkt 3 ustawy z dnia 15 kwietnia 2011 r.",
+     "text": ",,8” – wypisanie na podstawie art. 29 ust. 1 pkt 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, z późn. zm.);",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "o działalności leczniczej (Dz. U. z 2025 r. poz. 450, z późn. zm.);"
     },
     {
      "type": "pkt",
@@ -4851,27 +4689,15 @@
      "type": "pkt",
      "num": "9",
      "path": "pkt_9",
-     "text": ",,10” – osoba leczona, przyjęta w trybie oznaczonym kodem ,,9” lub ,,10”, która",
+     "text": ",,10” – osoba leczona, przyjęta w trybie oznaczonym kodem ,,9” lub ,,10”, która samowolnie opuściła podmiot leczniczy;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "samowolnie opuściła podmiot leczniczy;"
     },
     {
      "type": "pkt",
      "num": "10",
      "path": "pkt_10",
-     "text": ",,11” – wypisanie na podstawie art. 47 ustawy z dnia 22 listopada 2013 r. o postępowaniu",
+     "text": ",,11” – wypisanie na podstawie art. 47 ustawy z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób.",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia"
-    },
-    {
-     "type": "text",
-     "text": "lub wolności seksualnej innych osób."
     }
    ]
   },
@@ -4987,45 +4813,8 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Średni czas oczekiwania oblicza się odrębnie dla każdej grupy osób wpisanych na listę",
-     "children": [
-      {
-       "type": "text",
-       "text": "oczekujących na udzielenie świadczenia w poszczególnej komórce organizacyjnej lub na"
-      },
-      {
-       "type": "text",
-       "text": "poszczególną procedurę medyczną, lub świadczenia w określonym zakresie, z wyłączeniem"
-      },
-      {
-       "type": "text",
-       "text": "listy, o której mowa w art. 20 ust. 12 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki"
-      },
-      {
-       "type": "text",
-       "text": "zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, z późn. zm.)."
-      },
-      {
-       "type": "text",
-       "text": "Grupy te są wyodrębniane ze względu na kryterium medyczne, o którym mowa w § 8 ust. 2"
-      },
-      {
-       "type": "text",
-       "text": "pkt 5 lit. c rozporządzenia. Osoba wpisana na listę oczekujących na określoną procedurę"
-      },
-      {
-       "type": "text",
-       "text": "medyczną lub świadczenie w określonym zakresie nie może być jednocześnie wykazywana"
-      },
-      {
-       "type": "text",
-       "text": "na liście oczekujących na udzielenie świadczenia w komórce organizacyjnej, w której ta"
-      },
-      {
-       "type": "text",
-       "text": "procedura lub świadczenie w określonym zakresie będą wykonywane."
-      }
-     ]
+     "text": "Średni czas oczekiwania oblicza się odrębnie dla każdej grupy osób wpisanych na listę oczekujących na udzielenie świadczenia w poszczególnej komórce organizacyjnej lub na poszczególną procedurę medyczną, lub świadczenia w określonym zakresie, z wyłączeniem listy, o której mowa w art. 20 ust. 12 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, z późn. zm.). Grupy te są wyodrębniane ze względu na kryterium medyczne, o którym mowa w § 8 ust. 2 pkt 5 lit. c rozporządzenia. Osoba wpisana na listę oczekujących na określoną procedurę medyczną lub świadczenie w określonym zakresie nie może być jednocześnie wykazywana na liście oczekujących na udzielenie świadczenia w komórce organizacyjnej, w której ta procedura lub świadczenie w określonym zakresie będą wykonywane.",
+     "children": []
     },
     {
      "type": "ust",
@@ -5043,7 +4832,11 @@
       },
       {
        "type": "text",
-       "text": "1 2 n D = d + d + ... + d ,"
+       "text": "1 2 n"
+      },
+      {
+       "type": "text",
+       "text": "D = d + d + ... + d ,"
       },
       {
        "type": "text",
@@ -5051,55 +4844,7 @@
       },
       {
        "type": "text",
-       "text": "d n – liczba dni oczekiwania każdej osoby skreślonej w okresie ostatnich trzech miesięcy"
-      },
-      {
-       "type": "text",
-       "text": "z listy oczekujących z powodu wykonania świadczenia, na które oczekiwała, liczona"
-      },
-      {
-       "type": "text",
-       "text": "od daty wpisania na tę listę do daty rozpoczęcia wykonywania świadczenia,"
-      },
-      {
-       "type": "text",
-       "text": "z wyłączeniem osób, które rezerwowały termin, zgodnie z § 8 ust. 2 pkt 5 lit. b"
-      },
-      {
-       "type": "text",
-       "text": "rozporządzenia; w przypadku osoby, której data zaplanowanego terminu udzielenia"
-      },
-      {
-       "type": "text",
-       "text": "świadczenia wyznaczona przez świadczeniodawcę w dniu wpisu na listę"
-      },
-      {
-       "type": "text",
-       "text": "oczekujących została w terminie późniejszym zmieniona na wniosek tej osoby lub"
-      },
-      {
-       "type": "text",
-       "text": "z przyczyn leżących po jej stronie – liczba dni jej oczekiwania liczona jest od daty"
-      },
-      {
-       "type": "text",
-       "text": "wpisania na listę oczekujących do daty zaplanowanego terminu udzielenia"
-      },
-      {
-       "type": "text",
-       "text": "świadczenia, aktualnej na dzień, w którym świadczeniobiorca wnioskuje o zmianę."
-      },
-      {
-       "type": "text",
-       "text": "L – łączna liczba osób skreślonych w ostatnich trzech miesiącach z listy oczekujących"
-      },
-      {
-       "type": "text",
-       "text": "z powodu wykonania świadczenia, z wyłączeniem osób, które rezerwowały termin,"
-      },
-      {
-       "type": "text",
-       "text": "zgodnie z § 8 ust. 2 pkt 5 lit. b rozporządzenia."
+       "text": "d n – liczba dni oczekiwania każdej osoby skreślonej w okresie ostatnich trzech miesięcy z listy oczekujących z powodu wykonania świadczenia, na które oczekiwała, liczona od daty wpisania na tę listę do daty rozpoczęcia wykonywania świadczenia, z wyłączeniem osób, które rezerwowały termin, zgodnie z § 8 ust. 2 pkt 5 lit. b rozporządzenia; w przypadku osoby, której data zaplanowanego terminu udzielenia świadczenia wyznaczona przez świadczeniodawcę w dniu wpisu na listę oczekujących została w terminie późniejszym zmieniona na wniosek tej osoby lub z przyczyn leżących po jej stronie – liczba dni jej oczekiwania liczona jest od daty wpisania na listę oczekujących do daty zaplanowanego terminu udzielenia świadczenia, aktualnej na dzień, w którym świadczeniobiorca wnioskuje o zmianę. L – łączna liczba osób skreślonych w ostatnich trzech miesiącach z listy oczekujących z powodu wykonania świadczenia, z wyłączeniem osób, które rezerwowały termin, zgodnie z § 8 ust. 2 pkt 5 lit. b rozporządzenia."
       }
      ]
     }
@@ -5521,8 +5266,9 @@
      "text": "WYKAZ ŚWIADCZEŃ, W PRZYPADKU UDZIELANIA KTÓRYCH ŚWIADCZENIODAWCY PROWADZĄ HARMONOGRAM PRZYJĘĆ, W TYM LISTY OCZEKUJĄCYCH, NA UDZIELENIE ŚWIADCZENIA"
     },
     {
-     "type": "text",
-     "text": "I. Świadczenia polegające na wykonaniu procedur medycznych:"
+     "type": "heading",
+     "label": "I.",
+     "text": "Świadczenia polegające na wykonaniu procedur medycznych:"
     },
     {
      "type": "pkt",
@@ -5549,12 +5295,8 @@
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "implantacja, założenie, umiejscowienie lub przemieszczenie wewnątrzczaszkowego",
+     "text": "implantacja, założenie, umiejscowienie lub przemieszczenie wewnątrzczaszkowego neurostymulatora mózgu [02.931];",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "neurostymulatora mózgu [02.931];"
     },
     {
      "type": "pkt",
@@ -5631,20 +5373,17 @@
      "num": "15",
      "path": "pkt_15",
      "text": "operacje palucha koślawego [77.5, 77.51–77.59].",
-     "children": [
-      {
-       "type": "text",
-       "text": "II. Świadczenia gwarantowane z zakresu ambulatoryjnej opieki specjalistycznej – badania"
-      },
-      {
-       "type": "text",
-       "text": "genetyczne."
-      },
-      {
-       "type": "text",
-       "text": "III. Świadczenia gwarantowane z zakresu leczenia stomatologicznego:"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Świadczenia gwarantowane z zakresu ambulatoryjnej opieki specjalistycznej – badania genetyczne."
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Świadczenia gwarantowane z zakresu leczenia stomatologicznego:"
     },
     {
      "type": "pkt",
@@ -5658,44 +5397,17 @@
      "num": "2",
      "path": "pkt_2",
      "text": "leczenie protetyczne [23.3102; 23.3103; 23.3104; 23.3105].",
-     "children": [
-      {
-       "type": "text",
-       "text": "IV. Świadczenia gwarantowane z zakresu programów lekowych określonych w przepisach"
-      },
-      {
-       "type": "text",
-       "text": "ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego"
-      },
-      {
-       "type": "text",
-       "text": "przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2025 r. poz. 907,"
-      },
-      {
-       "type": "text",
-       "text": "z późn. zm.), niewymienione w załączniku nr 9 do rozporządzenia."
-      },
-      {
-       "type": "text",
-       "text": "V. Świadczenia gwarantowane znajdujące się w wykazie określonym w przepisach"
-      },
-      {
-       "type": "text",
-       "text": "wydanych na podstawie art. 42e ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach"
-      },
-      {
-       "type": "text",
-       "text": "opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461,"
-      },
-      {
-       "type": "text",
-       "text": "z późn. zm.), jeżeli nie są wymienione w częściach I–IV i zostały wskazane w sposób"
-      },
-      {
-       "type": "text",
-       "text": "umożliwiający prowadzenie odrębnej listy."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Świadczenia gwarantowane z zakresu programów lekowych określonych w przepisach ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2025 r. poz. 907, z późn. zm.), niewymienione w załączniku nr 9 do rozporządzenia."
+    },
+    {
+     "type": "heading",
+     "label": "V.",
+     "text": "Świadczenia gwarantowane znajdujące się w wykazie określonym w przepisach wydanych na podstawie art. 42e ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, z późn. zm.), jeżeli nie są wymienione w częściach I–IV i zostały wskazane w sposób umożliwiający prowadzenie odrębnej listy."
     }
    ]
   },
@@ -5707,8 +5419,9 @@
      "text": "WYKAZ ŚWIADCZEŃ, W PRZYPADKU UDZIELANIA KTÓRYCH ŚWIADCZENIODAWCY PROWADZĄ HARMONOGRAM PRZYJĘĆ, W TYM LISTY OCZEKUJĄCYCH NA UDZIELENIE ŚWIADCZENIA, W CZASIE RZECZYWISTYM W APLIKACJI UDOSTĘPNIONEJ PRZEZ PREZESA FUNDUSZU Z"
     },
     {
-     "type": "text",
-     "text": "I. Świadczenia gwarantowane z zakresu ambulatoryjnej opieki specjalistycznej udzielane"
+     "type": "heading",
+     "label": "I.",
+     "text": "Świadczenia gwarantowane z zakresu ambulatoryjnej opieki specjalistycznej udzielane"
     },
     {
      "type": "text",
@@ -5767,8 +5480,9 @@
      "text": "12[^17] Świadczenia z zakresu 1050 Poradnia gastroenterologiczna; 1051 Poradnia gastroenterologiczna dla gastroenterologii dzieci"
     },
     {
-     "type": "text",
-     "text": "II. Świadczenia polegające na wykonaniu procedur medycznych:"
+     "type": "heading",
+     "label": "II.",
+     "text": "Świadczenia polegające na wykonaniu procedur medycznych:"
     },
     {
      "type": "pkt",
@@ -5901,16 +5615,16 @@
      "num": "15",
      "path": "pkt_15",
      "text": "wycięcie macicy (histerektomia) [68.3–68.7, 68.9].",
-     "children": [
-      {
-       "type": "text",
-       "text": "III. Świadczenia gwarantowane z zakresu ambulatoryjnej opieki specjalistycznej – badania"
-      },
-      {
-       "type": "text",
-       "text": "diagnostyczne:"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Świadczenia gwarantowane z zakresu ambulatoryjnej opieki specjalistycznej – badania"
+    },
+    {
+     "type": "text",
+     "text": "diagnostyczne:"
     },
     {
      "type": "pkt",
@@ -5938,12 +5652,12 @@
      "num": "4",
      "path": "pkt_4",
      "text": "kolonoskopia.",
-     "children": [
-      {
-       "type": "text",
-       "text": "IV. Świadczenia gwarantowane z zakresu rehabilitacji leczniczej:"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Świadczenia gwarantowane z zakresu rehabilitacji leczniczej:"
     },
     {
      "type": "pkt",
@@ -5992,80 +5706,56 @@
      "num": "7",
      "path": "pkt_7",
      "text": "fizjoterapia domowa.",
-     "children": [
-      {
-       "type": "text",
-       "text": "V. Świadczenia gwarantowane z zakresu programów lekowych określonych w przepisach"
-      },
-      {
-       "type": "text",
-       "text": "ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2025 r. poz. 907,"
-      },
-      {
-       "type": "text",
-       "text": "z późn. zm.):"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "V.",
+     "text": "Świadczenia gwarantowane z zakresu programów lekowych określonych w przepisach"
+    },
+    {
+     "type": "text",
+     "text": "ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2025 r. poz. 907, z późn. zm.):"
     },
     {
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "leczenie przewlekłego wirusowego zapalenia wątroby typu C terapią",
+     "text": "leczenie przewlekłego wirusowego zapalenia wątroby typu C terapią bezinterferonową;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "bezinterferonową;"
     },
     {
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "leczenie neowaskularnej (wysiękowej) postaci zwyrodnienia plamki związanego",
+     "text": "leczenie neowaskularnej (wysiękowej) postaci zwyrodnienia plamki związanego z wiekiem (AMD);",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "z wiekiem (AMD);"
     },
     {
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
      "text": "leczenie stwardnienia rozsianego.",
-     "children": [
-      {
-       "type": "text",
-       "text": "VI. Świadczenia gwarantowane z zakresu leczenia szpitalnego oraz świadczeń"
-      },
-      {
-       "type": "text",
-       "text": "wysokospecjalistycznych:"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "VI.",
+     "text": "Świadczenia gwarantowane z zakresu leczenia szpitalnego oraz świadczeń wysokospecjalistycznych:"
     },
     {
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "wideotorakoskopowa ablacja w ciężkim, niepoddającym się leczeniu",
+     "text": "wideotorakoskopowa ablacja w ciężkim, niepoddającym się leczeniu farmakologicznemu migotaniu przedsionków;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "farmakologicznemu migotaniu przedsionków;"
     },
     {
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "operacje wad wrodzonych serca i wielkich naczyń u dzieci do ukończenia 1 roku",
+     "text": "operacje wad wrodzonych serca i wielkich naczyń u dzieci do ukończenia 1 roku życia, z wyłączeniem operacji izolowanego przewodu tętniczego Botalla;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "życia, z wyłączeniem operacji izolowanego przewodu tętniczego Botalla;"
     },
     {
      "type": "pkt",
@@ -6085,12 +5775,8 @@
      "type": "pkt",
      "num": "5",
      "path": "pkt_5",
-     "text": "kardiologiczne zabiegi interwencyjne u dzieci do lat 18, w tym przezskórne",
+     "text": "kardiologiczne zabiegi interwencyjne u dzieci do lat 18, w tym przezskórne zamykanie przecieków z użyciem zestawów zamykających;",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "zamykanie przecieków z użyciem zestawów zamykających;"
     },
     {
      "type": "pkt",
@@ -6103,12 +5789,8 @@
      "type": "pkt",
      "num": "7",
      "path": "pkt_7",
-     "text": "przezcewnikowa nieoperacyjna naprawa zastawki mitralnej u chorych wysokiego",
+     "text": "przezcewnikowa nieoperacyjna naprawa zastawki mitralnej u chorych wysokiego ryzyka.",
      "children": []
-    },
-    {
-     "type": "text",
-     "text": "ryzyka."
     }
    ]
   }

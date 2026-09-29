@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1116",
  "title": "Rozporządzenie Ministra Finansów i Gospodarki z dnia 8 sierpnia 2026 r. w sprawie certyfikatu wykonawcy zamówień publicznych",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1116/text.pdf",
  "body": [
   {
@@ -112,8 +112,9 @@
      "text": "nr: ………/………"
     },
     {
-     "type": "text",
-     "text": "I. DANE WYKONAWCY"
+     "type": "heading",
+     "label": "I.",
+     "text": "DANE WYKONAWCY"
     },
     {
      "type": "text",
@@ -136,8 +137,9 @@
      "text": "1.5. Numer Identyfikacji Podatkowej wykonawcy"
     },
     {
-     "type": "text",
-     "text": "II. DANE PODMIOTU CERTYFIKUJĄCEGO"
+     "type": "heading",
+     "label": "II.",
+     "text": "DANE PODMIOTU CERTYFIKUJĄCEGO"
     },
     {
      "type": "ust",
@@ -262,8 +264,9 @@
      "text": "nr: ………/………"
     },
     {
-     "type": "text",
-     "text": "I. DANE WYKONAWCÓW*[^1_3]"
+     "type": "heading",
+     "label": "I.",
+     "text": "DANE WYKONAWCÓW*[^1_3]"
     },
     {
      "type": "text",
@@ -334,8 +337,9 @@
      "text": "3.5. Numer Identyfikacji Podatkowej wykonawcy"
     },
     {
-     "type": "text",
-     "text": "II. DANE PODMIOTU CERTYFIKUJĄCEGO"
+     "type": "heading",
+     "label": "II.",
+     "text": "DANE PODMIOTU CERTYFIKUJĄCEGO"
     },
     {
      "type": "ust",
@@ -356,44 +360,44 @@
      "num": "3",
      "path": "ust_3",
      "text": "Symbol udzielonej akredytacji",
-     "children": [
-      {
-       "type": "text",
-       "text": "III. ZAKRES UDZIELONEJ CERTYFIKACJI ZDOLNOŚCI WYKONAWCÓW[^3_2]"
-      },
-      {
-       "type": "text",
-       "text": "Certyfikat obejmuje potwierdzenie zdolności wykonawców do należytego wykonania zamówienia publicznego w następujący sposób[^4_2]:"
-      },
-      {
-       "type": "text",
-       "text": "Lp. Zdolność wykonawcy Sposób spełnienia zdolności[^5_2] Poziom zdolności[^6_2] 1 Zdolność do występowania w obrocie gospodarczym Uprawnienia do prowadzenia określonej 2 działalności gospodarczej lub zawodowej, o ile wynika to z przepisów odrębnych 3 Sytuacja ekonomiczna lub finansowa 4 Zdolność techniczna lub zawodowa Informacja o dokonaniu zastrzeżenia danych stanowiących tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2026 r. poz. 85) i zakresie tego zastrzeżenia"
-      },
-      {
-       "type": "text",
-       "text": "Inne dane dotyczące udzielonej certyfikacji"
-      },
-      {
-       "type": "text",
-       "text": "Data wydania certyfikatu (DD-MM-RRRR)"
-      },
-      {
-       "type": "text",
-       "text": "Okres ważności certyfikacji (DD-MM-RRRR – DD-MM-RRRR) w zakresie zdolności wykonawcy"
-      },
-      {
-       "type": "text",
-       "text": "Dane osoby uprawnionej do wydania certyfikatu"
-      },
-      {
-       "type": "text",
-       "text": "Kwalifikowany podpis elektroniczny osoby uprawnionej do wydania certyfikatu SUPLEMENT DO CERTYFIKATU WYKONAWCÓW ZAMÓWIEŃ PUBLICZNYCH"
-      },
-      {
-       "type": "text",
-       "text": "Zdolność wykonawcy zgodnie Dane wynikające z zakresem Nazwa wykonawcy / Oznaczenie podmiotowego z podmiotowego środka określonym Sposób spełnienia Poziom imię i nazwisko środka dowodowego dowodowego, które służyły Lp. w art. 112 ustawy zdolności wykonawcy zdolności wykonawcy spełniającego stanowiącego podstawę potwierdzeniu zdolności 7) 8) z dnia 11 września wskazaną zdolność udzielenia certyfikacji wykonawcy do należytego 9) 2019 r. – Prawo wykonania zamówienia zamówień publicznych 1 2 3 4 5 6 7 8 9 10"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "ZAKRES UDZIELONEJ CERTYFIKACJI ZDOLNOŚCI WYKONAWCÓW[^3_2]"
+    },
+    {
+     "type": "text",
+     "text": "Certyfikat obejmuje potwierdzenie zdolności wykonawców do należytego wykonania zamówienia publicznego w następujący sposób[^4_2]:"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Zdolność wykonawcy Sposób spełnienia zdolności[^5_2] Poziom zdolności[^6_2] 1 Zdolność do występowania w obrocie gospodarczym Uprawnienia do prowadzenia określonej 2 działalności gospodarczej lub zawodowej, o ile wynika to z przepisów odrębnych 3 Sytuacja ekonomiczna lub finansowa 4 Zdolność techniczna lub zawodowa Informacja o dokonaniu zastrzeżenia danych stanowiących tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2026 r. poz. 85) i zakresie tego zastrzeżenia"
+    },
+    {
+     "type": "text",
+     "text": "Inne dane dotyczące udzielonej certyfikacji"
+    },
+    {
+     "type": "text",
+     "text": "Data wydania certyfikatu (DD-MM-RRRR)"
+    },
+    {
+     "type": "text",
+     "text": "Okres ważności certyfikacji (DD-MM-RRRR – DD-MM-RRRR) w zakresie zdolności wykonawcy"
+    },
+    {
+     "type": "text",
+     "text": "Dane osoby uprawnionej do wydania certyfikatu"
+    },
+    {
+     "type": "text",
+     "text": "Kwalifikowany podpis elektroniczny osoby uprawnionej do wydania certyfikatu SUPLEMENT DO CERTYFIKATU WYKONAWCÓW ZAMÓWIEŃ PUBLICZNYCH"
+    },
+    {
+     "type": "text",
+     "text": "Zdolność wykonawcy zgodnie Dane wynikające z zakresem Nazwa wykonawcy / Oznaczenie podmiotowego z podmiotowego środka określonym Sposób spełnienia Poziom imię i nazwisko środka dowodowego dowodowego, które służyły Lp. w art. 112 ustawy zdolności wykonawcy zdolności wykonawcy spełniającego stanowiącego podstawę potwierdzeniu zdolności 7) 8) z dnia 11 września wskazaną zdolność udzielenia certyfikacji wykonawcy do należytego 9) 2019 r. – Prawo wykonania zamówienia zamówień publicznych 1 2 3 4 5 6 7 8 9 10"
     }
    ]
   }

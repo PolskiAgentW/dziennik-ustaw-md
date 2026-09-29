@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/336",
  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 20 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodowej w sprawie wypłaty odprawy mieszkaniowej",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/336/text.pdf",
  "body": [
   {
@@ -186,8 +186,9 @@
      "text": "[^3] W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 28 września 2023 r. zmieniającego rozporządzenie w sprawie wypłaty odprawy mieszkaniowej (Dz. U. poz. 2228), które weszło w życie z dniem 1 listopada 2023 r."
     },
     {
-     "type": "text",
-     "text": "I. WSKAZANIE TRYBU WYPŁATY ODPRAWY MIESZKANIOWEJ:"
+     "type": "heading",
+     "label": "I.",
+     "text": "WSKAZANIE TRYBU WYPŁATY ODPRAWY MIESZKANIOWEJ:"
     },
     {
      "type": "pkt",
@@ -283,152 +284,153 @@
       {
        "type": "text",
        "text": "- - - - - -"
-      },
-      {
-       "type": "text",
-       "text": "II. OŚWIADCZENIA ŻOŁNIERZA ZAWODOWEGO SŁUŻĄCE USTALENIU PRAWA DO ODPRAWY MIESZKANIOWEJ:"
-      },
-      {
-       "type": "text",
-       "text": "DANE MAŁŻONKA, Z KTÓRYM WNIOSKODAWCA POZOSTAJE W ZWIĄZKU MAŁŻEŃSKIM"
-      },
-      {
-       "type": "text",
-       "text": "…………………………………………………………… , IMIĘ I NAZWISKO PESEL"
-      },
-      {
-       "type": "text",
-       "text": "Oświadczam, że mój małżonek: ❑ ❑ jest żołnierzem zawodowym: tak nie ❑ ❑ był żołnierzem zawodowym: tak nie"
-      },
-      {
-       "type": "text",
-       "text": "OŚWIADCZAM, ŻE JA LUB MÓJ MAŁŻONEK[^10]"
-      },
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "pkt_5/lit_a",
-       "text": "otrzymałam(-łem) ekwiwalent pieniężny w zamian za rezygnację z kwatery, wypłacony na podstawie przepisów ustawy o zakwaterowaniu obowiązujących do dnia 30 czerwca 2004 r.:",
-       "children": [
-        {
-         "type": "text",
-         "text": "❑ ❑ tak, w miejscowości ……………………………. nie"
-        }
-       ]
-      },
-      {
-       "type": "lit",
-       "num": "b",
-       "path": "pkt_5/lit_b",
-       "text": "otrzymałam(-łem) odprawę mieszkaniową wypłaconą albo zrealizowaną w formie rzeczowej na podstawie przepisów ustawy o zakwaterowaniu obowiązujących od dnia 1 lipca 2004 r.:",
-       "children": [
-        {
-         "type": "text",
-         "text": "❑ ❑ tak, w miejscowości ……………………………. nie"
-        }
-       ]
-      },
-      {
-       "type": "lit",
-       "num": "c",
-       "path": "pkt_5/lit_c",
-       "text": "nabyłam(-łem) lokal mieszkalny od Skarbu Państwa, Agencji Mienia Wojskowego (wcześniej pod nazwą Wojskowej Agencji Mieszkaniowej) lub jednostki samorządu terytorialnego z bonifikatą lub z uwzględnieniem pomniejszenia w cenie nabycia:",
-       "children": [
-        {
-         "type": "text",
-         "text": "❑ ❑ tak, w miejscowości ……………………………. nie"
-        }
-       ]
-      },
-      {
-       "type": "lit",
-       "num": "d",
-       "path": "pkt_5/lit_d",
-       "text": "otrzymałam(-łem) pomoc finansową w formie zaliczkowej lub bezzwrotnej do dnia 31 grudnia 1995 r. na podstawie przepisów ustawy z dnia 20 maja 1976 r. o zakwaterowaniu sił zbrojnych:",
-       "children": [
-        {
-         "type": "text",
-         "text": "❑ ❑ tak, w miejscowości ……………………………. nie"
-        }
-       ]
-      },
-      {
-       "type": "lit",
-       "num": "e",
-       "path": "pkt_5/lit_e",
-       "text": "nabyłam(-łem) własnościowe spółdzielcze prawo do lokalu mieszkalnego od Agencji Mienia Wojskowego (wcześniej pod nazwą Wojskowej Agencji Mieszkaniowej):",
-       "children": [
-        {
-         "type": "text",
-         "text": "❑ ❑ tak, w miejscowości ……………………………. nie"
-        },
-        {
-         "type": "text",
-         "text": "OŚWIADCZAM, ŻE ZOSTAŁAM(-ŁEM) ZWOLNIONA(-NY)[^11] Z CZYNNEJ SŁUŻBY WOJSKOWEJ:"
-        }
-       ]
-      },
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "pkt_5/lit_a",
-       "text": "na skutek skazania prawomocnym wyrokiem sądu za popełnienie przestępstwa umyślnego:",
-       "children": [
-        {
-         "type": "text",
-         "text": "❑ ❑ tak nie b) na skutek orzeczenia wydanego w postępowaniu dyscyplinarnym:"
-        },
-        {
-         "type": "text",
-         "text": "❑ ❑ tak nie"
-        }
-       ]
-      },
-      {
-       "type": "lit",
-       "num": "c",
-       "path": "pkt_5/lit_c",
-       "text": "przed upływem 10 lat od dnia powołania do tej służby w przypadku, gdy powołanie do czynnej służby wojskowej nastąpiło po okresie służby w Policji, Straży Granicznej, Biurze Ochrony Rządu, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnym Biurze Antykorupcyjnym, Służbie Celno-Skarbowej, Służbie Celnej, Służbie 12) Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego lub Urzędzie Ochrony Państwa : ❑ ❑ tak nie",
-       "children": [
-        {
-         "type": "text",
-         "text": "III. OŚWIADCZENIA ŻOŁNIERZA ZAWODOWEGO SŁUŻĄCE DO WYLICZENIA ODPRAWY MIESZKANIOWEJ"
-        },
-        {
-         "type": "text",
-         "text": "W okresie pełnienia zawodowej służby wojskowej"
-        },
-        {
-         "type": "text",
-         "text": "od - - do - -"
-        },
-        {
-         "type": "text",
-         "text": "Do wyliczenia odprawy mieszkaniowej wskazuję dzień:"
-        },
-        {
-         "type": "text",
-         "text": "- -"
-        },
-        {
-         "type": "text",
-         "text": "W KTÓRYM PEŁNIŁAM(-ŁEM) SŁUŻBĘ WOJSKOWĄ:"
-        },
-        {
-         "type": "text",
-         "text": "❑ 13) na stanowisku służbowym ………………………............ w Jednostce Wojskowej nr ………………………….... ;"
-        },
-        {
-         "type": "text",
-         "text": "❑ 14 w uczelni wojskowej, szkole podoficerskiej, centrum szkolenia, ośrodku szkolenia ;"
-        },
-        {
-         "type": "text",
-         "text": "❑ 15) w dyspozycji"
-        }
-       ]
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "OŚWIADCZENIA ŻOŁNIERZA ZAWODOWEGO SŁUŻĄCE USTALENIU PRAWA DO ODPRAWY MIESZKANIOWEJ:"
+    },
+    {
+     "type": "text",
+     "text": "DANE MAŁŻONKA, Z KTÓRYM WNIOSKODAWCA POZOSTAJE W ZWIĄZKU MAŁŻEŃSKIM"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………………………… , IMIĘ I NAZWISKO PESEL"
+    },
+    {
+     "type": "text",
+     "text": "Oświadczam, że mój małżonek: ❑ ❑ jest żołnierzem zawodowym: tak nie ❑ ❑ był żołnierzem zawodowym: tak nie"
+    },
+    {
+     "type": "text",
+     "text": "OŚWIADCZAM, ŻE JA LUB MÓJ MAŁŻONEK[^10]"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "otrzymałam(-łem) ekwiwalent pieniężny w zamian za rezygnację z kwatery, wypłacony na podstawie przepisów ustawy o zakwaterowaniu obowiązujących do dnia 30 czerwca 2004 r.:",
+     "children": [
+      {
+       "type": "text",
+       "text": "❑ ❑ tak, w miejscowości ……………………………. nie"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "otrzymałam(-łem) odprawę mieszkaniową wypłaconą albo zrealizowaną w formie rzeczowej na podstawie przepisów ustawy o zakwaterowaniu obowiązujących od dnia 1 lipca 2004 r.:",
+     "children": [
+      {
+       "type": "text",
+       "text": "❑ ❑ tak, w miejscowości ……………………………. nie"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "nabyłam(-łem) lokal mieszkalny od Skarbu Państwa, Agencji Mienia Wojskowego (wcześniej pod nazwą Wojskowej Agencji Mieszkaniowej) lub jednostki samorządu terytorialnego z bonifikatą lub z uwzględnieniem pomniejszenia w cenie nabycia:",
+     "children": [
+      {
+       "type": "text",
+       "text": "❑ ❑ tak, w miejscowości ……………………………. nie"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "lit_d",
+     "text": "otrzymałam(-łem) pomoc finansową w formie zaliczkowej lub bezzwrotnej do dnia 31 grudnia 1995 r. na podstawie przepisów ustawy z dnia 20 maja 1976 r. o zakwaterowaniu sił zbrojnych:",
+     "children": [
+      {
+       "type": "text",
+       "text": "❑ ❑ tak, w miejscowości ……………………………. nie"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "lit_e",
+     "text": "nabyłam(-łem) własnościowe spółdzielcze prawo do lokalu mieszkalnego od Agencji Mienia Wojskowego (wcześniej pod nazwą Wojskowej Agencji Mieszkaniowej):",
+     "children": [
+      {
+       "type": "text",
+       "text": "❑ ❑ tak, w miejscowości ……………………………. nie"
+      },
+      {
+       "type": "text",
+       "text": "OŚWIADCZAM, ŻE ZOSTAŁAM(-ŁEM) ZWOLNIONA(-NY)[^11] Z CZYNNEJ SŁUŻBY WOJSKOWEJ:"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "na skutek skazania prawomocnym wyrokiem sądu za popełnienie przestępstwa umyślnego:",
+     "children": [
+      {
+       "type": "text",
+       "text": "❑ ❑ tak nie b) na skutek orzeczenia wydanego w postępowaniu dyscyplinarnym:"
+      },
+      {
+       "type": "text",
+       "text": "❑ ❑ tak nie"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "przed upływem 10 lat od dnia powołania do tej służby w przypadku, gdy powołanie do czynnej służby wojskowej nastąpiło po okresie służby w Policji, Straży Granicznej, Biurze Ochrony Rządu, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnym Biurze Antykorupcyjnym, Służbie Celno-Skarbowej, Służbie Celnej, Służbie 12) Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego lub Urzędzie Ochrony Państwa : ❑ ❑ tak nie",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "OŚWIADCZENIA ŻOŁNIERZA ZAWODOWEGO SŁUŻĄCE DO WYLICZENIA ODPRAWY MIESZKANIOWEJ"
+    },
+    {
+     "type": "text",
+     "text": "W okresie pełnienia zawodowej służby wojskowej"
+    },
+    {
+     "type": "text",
+     "text": "od - - do - -"
+    },
+    {
+     "type": "text",
+     "text": "Do wyliczenia odprawy mieszkaniowej wskazuję dzień:"
+    },
+    {
+     "type": "text",
+     "text": "- -"
+    },
+    {
+     "type": "text",
+     "text": "W KTÓRYM PEŁNIŁAM(-ŁEM) SŁUŻBĘ WOJSKOWĄ:"
+    },
+    {
+     "type": "text",
+     "text": "❑ 13) na stanowisku służbowym ………………………............ w Jednostce Wojskowej nr ………………………….... ;"
+    },
+    {
+     "type": "text",
+     "text": "❑ 14 w uczelni wojskowej, szkole podoficerskiej, centrum szkolenia, ośrodku szkolenia ;"
+    },
+    {
+     "type": "text",
+     "text": "❑ 15) w dyspozycji"
     },
     {
      "type": "pkt",
@@ -615,76 +617,78 @@
       {
        "type": "text",
        "text": "❑ ❑ normy dziecka/dzieci[^23] we wnioskowanej odprawie mieszkaniowej tak nie"
-      },
-      {
-       "type": "text",
-       "text": "IV. MIEJSCE NA PODANIE DODATKOWYCH INFORMACJI:"
-      },
-      {
-       "type": "text",
-       "text": "……..……………………………………………………………………………………………………………………….."
-      },
-      {
-       "type": "text",
-       "text": "……..…………………………………………………………………………...…………………………………….…..…"
-      },
-      {
-       "type": "text",
-       "text": "……..……………………………………………………………………………………………………………………….."
-      },
-      {
-       "type": "text",
-       "text": "……..…………………………………………………………………………...…………………………………….…..…"
-      },
-      {
-       "type": "text",
-       "text": "……..……………………………………………………………………………………………………………………….."
-      },
-      {
-       "type": "text",
-       "text": "……..…………………………………………………………………………...…………………………………….…..…"
-      },
-      {
-       "type": "text",
-       "text": "V. DO WNIOSKU ZAŁĄCZAM[^24]:"
-      },
-      {
-       "type": "text",
-       "text": "W związku ze zwolnieniem ze służby:"
-      },
-      {
-       "type": "text",
-       "text": "❑ a) decyzję o zwolnieniu z zawodowej służby wojskowej i zaświadczenie o wysłudze lat, od której jest uzależniona wysokość dodatku za długoletnią służbę wojskową, wydane przez właściwy organ wojskowy, jaką żołnierz zawodowy będzie posiadał w ostatnim dniu pełnienia zawodowej służby wojskowej, ❑ b) zaświadczenie o nabyciu uprawnień do emerytury wojskowej lub do wojskowej renty inwalidzkiej wydane przez wojskowy organ emerytalny, ❑ c) ostateczną decyzję o zwolnieniu z zawodowej służby wojskowej i zaświadczenie o wysłudze lat, od której jest uzależniona wysokość dodatku za długoletnią służbę wojskową, wydane przez właściwy organ wojskowy, jaką żołnierz zawodowy będzie posiadał w ostatnim dniu pełnienia zawodowej służby wojskowej, ❑ d) wyciąg/odpis rozkazu personalnego wskazanego we wniosku."
-      },
-      {
-       "type": "text",
-       "text": "…………………….……………………….. DATA I CZYTELNY PODPIS"
-      },
-      {
-       "type": "text",
-       "text": "OŚWIADCZENIE"
-      },
-      {
-       "type": "text",
-       "text": "Wyrażam zgodę na przetwarzanie moich danych osobowych przez Agencję Mienia Wojskowego w zakresie przekazanego numeru telefonu, adresu e-mail i adresów elektronicznych wyłącznie w celach związanych z realizacją prawa do zakwaterowania."
-      },
-      {
-       "type": "text",
-       "text": "Wyrażoną zgodę obejmującą: przekazany numer telefonu, adres e-mail i adresy elektroniczne może Pani/Pan odwołać w każdym czasie. Wycofanie zgody nie wpływa na zgodność z prawem przetwarzania, którego dokonano na podstawie zgody przed jej cofnięciem."
-      },
-      {
-       "type": "text",
-       "text": "…………………….……………………….. DATA I CZYTELNY PODPIS"
-      },
-      {
-       "type": "text",
-       "text": "POUCZENIE"
-      },
-      {
-       "type": "text",
-       "text": "Zgodnie z art. 13 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.) informuję, że:"
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "MIEJSCE NA PODANIE DODATKOWYCH INFORMACJI:"
+    },
+    {
+     "type": "text",
+     "text": "……..……………………………………………………………………………………………………………………….."
+    },
+    {
+     "type": "text",
+     "text": "……..…………………………………………………………………………...…………………………………….…..…"
+    },
+    {
+     "type": "text",
+     "text": "……..……………………………………………………………………………………………………………………….."
+    },
+    {
+     "type": "text",
+     "text": "……..…………………………………………………………………………...…………………………………….…..…"
+    },
+    {
+     "type": "text",
+     "text": "……..……………………………………………………………………………………………………………………….."
+    },
+    {
+     "type": "text",
+     "text": "……..…………………………………………………………………………...…………………………………….…..…"
+    },
+    {
+     "type": "heading",
+     "label": "V.",
+     "text": "DO WNIOSKU ZAŁĄCZAM[^24]:"
+    },
+    {
+     "type": "text",
+     "text": "W związku ze zwolnieniem ze służby:"
+    },
+    {
+     "type": "text",
+     "text": "❑ a) decyzję o zwolnieniu z zawodowej służby wojskowej i zaświadczenie o wysłudze lat, od której jest uzależniona wysokość dodatku za długoletnią służbę wojskową, wydane przez właściwy organ wojskowy, jaką żołnierz zawodowy będzie posiadał w ostatnim dniu pełnienia zawodowej służby wojskowej, ❑ b) zaświadczenie o nabyciu uprawnień do emerytury wojskowej lub do wojskowej renty inwalidzkiej wydane przez wojskowy organ emerytalny, ❑ c) ostateczną decyzję o zwolnieniu z zawodowej służby wojskowej i zaświadczenie o wysłudze lat, od której jest uzależniona wysokość dodatku za długoletnią służbę wojskową, wydane przez właściwy organ wojskowy, jaką żołnierz zawodowy będzie posiadał w ostatnim dniu pełnienia zawodowej służby wojskowej, ❑ d) wyciąg/odpis rozkazu personalnego wskazanego we wniosku."
+    },
+    {
+     "type": "text",
+     "text": "…………………….……………………….. DATA I CZYTELNY PODPIS"
+    },
+    {
+     "type": "text",
+     "text": "OŚWIADCZENIE"
+    },
+    {
+     "type": "text",
+     "text": "Wyrażam zgodę na przetwarzanie moich danych osobowych przez Agencję Mienia Wojskowego w zakresie przekazanego numeru telefonu, adresu e-mail i adresów elektronicznych wyłącznie w celach związanych z realizacją prawa do zakwaterowania."
+    },
+    {
+     "type": "text",
+     "text": "Wyrażoną zgodę obejmującą: przekazany numer telefonu, adres e-mail i adresy elektroniczne może Pani/Pan odwołać w każdym czasie. Wycofanie zgody nie wpływa na zgodność z prawem przetwarzania, którego dokonano na podstawie zgody przed jej cofnięciem."
+    },
+    {
+     "type": "text",
+     "text": "…………………….……………………….. DATA I CZYTELNY PODPIS"
+    },
+    {
+     "type": "text",
+     "text": "POUCZENIE"
+    },
+    {
+     "type": "text",
+     "text": "Zgodnie z art. 13 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.) informuję, że:"
     },
     {
      "type": "ust",

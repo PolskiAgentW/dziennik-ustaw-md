@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/843",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/843/text.pdf",
  "body": [
   {
@@ -5300,8 +5300,9 @@
      "text": "WYKAZ WYROBÓW RĘKODZIEŁA LUDOWEGO I ARTYSTYCZNEGO (ATESTOWANYCH PRZEZ KOMISJE ARTYSTYCZNE I ETNOGRAFICZNE)"
     },
     {
-     "type": "text",
-     "text": "Część I. Wyroby rękodzieła ludowego i artystycznego z metalu"
+     "type": "heading",
+     "label": "Część I",
+     "text": "Wyroby rękodzieła ludowego i artystycznego z metalu"
     },
     {
      "type": "text",
@@ -5348,8 +5349,9 @@
      "text": "9 ex 32.13.10.0 Biżuteria sztuczna i podobne wyroby – w tym medale oprawione w biżuterię, z wyłączeniem pasków i bransoletek do zegarków oraz ich części wykonanych z metali nieszlachetnych pokrytych metalem szlachetnym"
     },
     {
-     "type": "text",
-     "text": "Część II. Wyroby rękodzieła ludowego i artystycznego z ceramiki"
+     "type": "heading",
+     "label": "Część II",
+     "text": "Wyroby rękodzieła ludowego i artystycznego z ceramiki"
     },
     {
      "type": "text",
@@ -5400,40 +5402,40 @@
      "num": "1",
      "path": "tir_1",
      "text": "współczesnych artystycznych wyrobów z ceramiki innych niż rzeźby i posągi 10 ex 90.03.13.0 Oryginały prac malarzy, grafików i rzeźbiarzy dotyczy wyłącznie: – współczesnych oryginałów rzeźb, posągów, z ceramiki",
-     "children": [
-      {
-       "type": "text",
-       "text": "Część III. Wyroby rękodzieła ludowego i artystycznego ze szkła"
-      },
-      {
-       "type": "text",
-       "text": "Lp. Symbol PKWiU Nazwa wyrobu"
-      },
-      {
-       "type": "text",
-       "text": "1 2 3"
-      },
-      {
-       "type": "text",
-       "text": "1 ex 23.13.12.0 Kieliszki i szklanki, z wyłączeniem z tworzywa szklano-ceramicznego"
-      },
-      {
-       "type": "text",
-       "text": "2 ex 23.13.13.0 Wyroby ze szkła, w rodzaju stosowanych do celów stołowych, kuchennych, toaletowych, biurowych, dekoracji wnętrz lub podobnych celów"
-      },
-      {
-       "type": "text",
-       "text": "3 ex 23.19.24.0 Części szklane do lamp i osprzętu oświetleniowego, podświetlane tablice informacyjne itp."
-      },
-      {
-       "type": "text",
-       "text": "4 ex 23.19.26.0 Wyroby szklane, gdzie indziej niesklasyfikowane"
-      },
-      {
-       "type": "text",
-       "text": "5 ex 32.13.10.0 Biżuteria sztuczna i podobne wyroby dotyczy wyłącznie:"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Część III",
+     "text": "Wyroby rękodzieła ludowego i artystycznego ze szkła"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Symbol PKWiU Nazwa wyrobu"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "1 ex 23.13.12.0 Kieliszki i szklanki, z wyłączeniem z tworzywa szklano-ceramicznego"
+    },
+    {
+     "type": "text",
+     "text": "2 ex 23.13.13.0 Wyroby ze szkła, w rodzaju stosowanych do celów stołowych, kuchennych, toaletowych, biurowych, dekoracji wnętrz lub podobnych celów"
+    },
+    {
+     "type": "text",
+     "text": "3 ex 23.19.24.0 Części szklane do lamp i osprzętu oświetleniowego, podświetlane tablice informacyjne itp."
+    },
+    {
+     "type": "text",
+     "text": "4 ex 23.19.26.0 Wyroby szklane, gdzie indziej niesklasyfikowane"
+    },
+    {
+     "type": "text",
+     "text": "5 ex 32.13.10.0 Biżuteria sztuczna i podobne wyroby dotyczy wyłącznie:"
     },
     {
      "type": "tir",
@@ -5464,24 +5466,24 @@
      "num": "4",
      "path": "tir_4",
      "text": "współczesnych oryginałów rzeźb i posągów, ze szkła",
-     "children": [
-      {
-       "type": "text",
-       "text": "Część IV. Wyroby rękodzieła ludowego i artystycznego z drewna, wikliny, słomy, rogożyny, trzciny, łuby oraz papieru"
-      },
-      {
-       "type": "text",
-       "text": "Lp. Symbol PKWiU Nazwa wyrobu"
-      },
-      {
-       "type": "text",
-       "text": "1 2 3"
-      },
-      {
-       "type": "text",
-       "text": "1 ex 16.24.12.0 Beczki i pozostałe wyroby bednarskie, z drewna dotyczy wyłącznie:"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Część IV",
+     "text": "Wyroby rękodzieła ludowego i artystycznego z drewna, wikliny, słomy, rogożyny, trzciny, łuby oraz papieru"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Symbol PKWiU Nazwa wyrobu"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "1 ex 16.24.12.0 Beczki i pozostałe wyroby bednarskie, z drewna dotyczy wyłącznie:"
     },
     {
      "type": "tir",
@@ -5722,339 +5724,341 @@
         {
          "type": "text",
          "text": "17 ex 13.99.12.0 Hafty w sztukach, paskach lub motywach"
-        },
-        {
-         "type": "text",
-         "text": "Część VI. Wyroby rękodzieła ludowego i artystycznego odzieżowe"
-        },
-        {
-         "type": "text",
-         "text": "Lp. Symbol PKWiU Nazwa wyrobu"
-        },
-        {
-         "type": "text",
-         "text": "1 2 3"
-        },
-        {
-         "type": "text",
-         "text": "1 ex 13.92.12.0 Pościel"
-        },
-        {
-         "type": "text",
-         "text": "2 ex 13.92.13.0 Obrusy i serwety"
-        },
-        {
-         "type": "text",
-         "text": "3 ex 14.13 Pozostała odzież wierzchnia z wyłączeniem: – odzieży używanej i pozostałych używanych artykułów włókienniczych (PKWiU 14.13.4) 1 2 3"
-        },
-        {
-         "type": "text",
-         "text": "4 ex 14.14 Bielizna z wyłączeniem:"
         }
        ]
-      },
-      {
-       "type": "tir",
-       "num": "12",
-       "path": "pkt_2/tir_12",
-       "text": "biustonoszy, pasów, gorsetów, szelek, pasów do pończoch, podwiązek i podobnych artykułów oraz ich części (PKWiU 14.14.25.0) 5 ex 14.19 Pozostała odzież i dodatki odzieżowe z wyłączeniem:",
-       "children": []
-      },
-      {
-       "type": "tir",
-       "num": "13",
-       "path": "pkt_2/tir_13",
-       "text": "dresów, ubiorów narciarskich, strojów kąpielowych i pozostałej odzieży, dzianych (PKWiU 14.19.12.0)",
-       "children": [
-        {
-         "type": "text",
-         "text": "6 ex 14.31.10.0 Rajstopy, pończochy, skarpetki i pozostałe wyroby pończosznicze"
-        },
-        {
-         "type": "text",
-         "text": "7 ex 14.39.10.0 Blezery, pulowery, swetry rozpinane, kamizelki i podobne wyroby dziane"
-        },
-        {
-         "type": "text",
-         "text": "Część VII. Wyroby rękodzieła ludowego i artystycznego skórzane"
-        },
-        {
-         "type": "text",
-         "text": "Lp. Symbol PKWiU Nazwa wyrobu"
-        },
-        {
-         "type": "text",
-         "text": "1 2 3"
-        },
-        {
-         "type": "text",
-         "text": "1 ex 14.11.10.0 Odzież ze skóry wyprawionej lub skóry wtórnej"
-        },
-        {
-         "type": "text",
-         "text": "2 ex 14.20.10.0 Odzież, dodatki odzieżowe i pozostałe wyroby ze skór futerkowych, z wyłączeniem nakryć głowy"
-        },
-        {
-         "type": "text",
-         "text": "3 ex 15.12.11.0 Wyroby rymarskie z dowolnego materiału przeznaczone dla zwierząt, z wyłączeniem biczy i szpicrut oraz akcesoriów do nich, lasek, lasek z siodełkiem i innych lasek"
-        },
-        {
-         "type": "text",
-         "text": "4 ex 15.12.19.0 Pozostałe wyroby ze skóry wyprawionej lub skóry wtórnej, gdzie indziej niesklasyfikowane, włączając wyroby w rodzaju stosowanych w maszynach lub urządzeniach mechanicznych itp. dotyczy wyłącznie:"
-        }
-       ]
-      },
-      {
-       "type": "tir",
-       "num": "14",
-       "path": "pkt_2/tir_14",
-       "text": "wyrobów ze skóry lub skóry wtórnej, gdzie indziej niesklasyfikowanych",
-       "children": [
-        {
-         "type": "text",
-         "text": "5 ex 15.20 Obuwie"
-        },
-        {
-         "type": "text",
-         "text": "6 ex 90.03.12.0 Oryginały prac autorów, kompozytorów i pozostałych artystów, z wyłączeniem artystów wykonawców, malarzy, grafików i rzeźbiarzy dotyczy wyłącznie:"
-        }
-       ]
-      },
-      {
-       "type": "tir",
-       "num": "15",
-       "path": "pkt_2/tir_15",
-       "text": "współczesnych artystycznych wyrobów ze skóry",
-       "children": [
-        {
-         "type": "text",
-         "text": "7 ex 90.03.13.0 Oryginały prac malarzy, grafików i rzeźbiarzy dotyczy wyłącznie:"
-        }
-       ]
-      },
-      {
-       "type": "tir",
-       "num": "16",
-       "path": "pkt_2/tir_16",
-       "text": "współczesnych artystycznych wyrobów ze skóry",
-       "children": [
-        {
-         "type": "text",
-         "text": "Część VIII. Wyroby rękodzieła ludowego i artystycznego osobno niewymienione"
-        },
-        {
-         "type": "text",
-         "text": "Lp. Symbol PKWiU Nazwa wyrobu"
-        },
-        {
-         "type": "text",
-         "text": "1 2 3"
-        },
-        {
-         "type": "text",
-         "text": "1 ex 13.99 Wyroby tekstylne, gdzie indziej niesklasyfikowane dotyczy wyłącznie:"
-        }
-       ]
-      },
-      {
-       "type": "tir",
-       "num": "17",
-       "path": "pkt_2/tir_17",
-       "text": "puszków do pudru",
-       "children": [
-        {
-         "type": "text",
-         "text": "2 ex 15.12 Wyroby rymarskie; torby bagażowe, torebki ręczne i podobne wyroby kaletnicze – dotyczy wyłącznie: batów i szpicrut"
-        },
-        {
-         "type": "text",
-         "text": "3 ex 16.29 Pozostałe wyroby z drewna; wyroby z korka, słomy i materiałów w rodzaju stosowanych do wyplatania dotyczy wyłącznie:"
-        }
-       ]
-      },
-      {
-       "type": "tir",
-       "num": "18",
-       "path": "pkt_2/tir_18",
-       "text": "rączek do parasolek, lasek i podobnych przedmiotów,",
-       "children": []
-      },
-      {
-       "type": "tir",
-       "num": "19",
-       "path": "pkt_2/tir_19",
-       "text": "bloków do wyrobu fajek do palenia tytoniu 1 2 3",
-       "children": [
-        {
-         "type": "text",
-         "text": "4 ex 17.29 Pozostałe wyroby z papieru i tektury dotyczy wyłącznie:"
-        }
-       ]
-      },
-      {
-       "type": "tir",
-       "num": "20",
-       "path": "pkt_2/tir_20",
-       "text": "papierowych ozdóbek",
-       "children": [
-        {
-         "type": "text",
-         "text": "5 ex 20.51 Materiały wybuchowe; zapałki dotyczy wyłącznie:"
-        }
-       ]
-      },
-      {
-       "type": "tir",
-       "num": "21",
-       "path": "pkt_2/tir_21",
-       "text": "zapałek",
-       "children": [
-        {
-         "type": "text",
-         "text": "6 ex 22.19 Pozostałe wyroby z gumy dotyczy wyłącznie:"
-        }
-       ]
-      },
-      {
-       "type": "tir",
-       "num": "22",
-       "path": "pkt_2/tir_22",
-       "text": "szczotek gumowych,",
-       "children": []
-      },
-      {
-       "type": "tir",
-       "num": "23",
-       "path": "pkt_2/tir_23",
-       "text": "cybuchów fajek z ebonitu,",
-       "children": []
-      },
-      {
-       "type": "tir",
-       "num": "24",
-       "path": "pkt_2/tir_24",
-       "text": "grzebieni, spinek, szpilek, wałków do włosów i podobnych artykułów z ebonitu",
-       "children": [
-        {
-         "type": "text",
-         "text": "7 ex 22.23 Wyroby z tworzyw sztucznych dla budownictwa dotyczy wyłącznie:"
-        }
-       ]
-      },
-      {
-       "type": "tir",
-       "num": "25",
-       "path": "pkt_2/tir_25",
-       "text": "sprężystych pokryć podłogowych, tj. płytek winylowych, linoleum, itp., z tworzyw sztucznych",
-       "children": [
-        {
-         "type": "text",
-         "text": "8 ex 22.29 Pozostałe wyroby z tworzyw sztucznych dotyczy wyłącznie:"
-        }
-       ]
-      },
-      {
-       "type": "tir",
-       "num": "26",
-       "path": "pkt_2/tir_26",
-       "text": "cygarniczek, grzebieni, wałków do włosów, drobnych artykułów, z tworzyw sztucznych",
-       "children": [
-        {
-         "type": "text",
-         "text": "9 ex 25.99 Pozostałe gotowe wyroby metalowe, gdzie indziej niesklasyfikowane dotyczy wyłącznie:"
-        }
-       ]
-      },
-      {
-       "type": "tir",
-       "num": "27",
-       "path": "pkt_2/tir_27",
-       "text": "termosów i butelek metalowych,",
-       "children": []
-      },
-      {
-       "type": "tir",
-       "num": "28",
-       "path": "pkt_2/tir_28",
-       "text": "metalowych odznak i insygniów wojskowych, metalowych wałków do włosów, metalowych rączek i ram parasolek",
-       "children": [
-        {
-         "type": "text",
-         "text": "10 ex 26.51.32.0 Przyrządy traserskie"
-        },
-        {
-         "type": "text",
-         "text": "11 ex 28.99 Pozostałe maszyny specjalnego przeznaczenia, gdzie indziej niesklasyfikowane dotyczy wyłącznie:"
-        }
-       ]
-      },
-      {
-       "type": "tir",
-       "num": "29",
-       "path": "pkt_2/tir_29",
-       "text": "karuzeli, huśtawek, strzelnic i pozostałych urządzeń dla wesołych miasteczek",
-       "children": [
-        {
-         "type": "text",
-         "text": "12 ex 30.92 Rowery i wózki inwalidzkie dotyczy wyłącznie:"
-        }
-       ]
-      },
-      {
-       "type": "tir",
-       "num": "30",
-       "path": "pkt_2/tir_30",
-       "text": "wózków dziecięcych",
-       "children": [
-        {
-         "type": "text",
-         "text": "13 ex 32.20.12.0 Pozostałe strunowe instrumenty muzyczne – z wyłączeniem instrumentów muzycznych strunowych smyczkowych oraz gitar i harf"
-        },
-        {
-         "type": "text",
-         "text": "14 ex 32.99 Pozostałe wyroby, gdzie indziej niesklasyfikowane dotyczy wyłącznie:"
-        }
-       ]
-      },
-      {
-       "type": "tir",
-       "num": "31",
-       "path": "pkt_2/tir_31",
-       "text": "globusów plastycznych – tablic do pisania",
-       "children": [
-        {
-         "type": "text",
-         "text": "15 ex 90.03.12.0 Oryginały prac autorów, kompozytorów i pozostałych artystów, z wyłączeniem artystów wykonawców, malarzy, grafików i rzeźbiarzy dotyczy wyłącznie:"
-        }
-       ]
-      },
-      {
-       "type": "tir",
-       "num": "32",
-       "path": "pkt_2/tir_32",
-       "text": "prac wykonanych ręcznie np. druków reklamowych wykonanych przez artystów innych niż autorzy, kompozytorzy, artyści wykonawcy, malarze, graficy i rzeźbiarze",
-       "children": [
-        {
-         "type": "text",
-         "text": "16 ex 90.03.13.0 Oryginały prac malarzy, grafików i rzeźbiarzy dotyczy wyłącznie:"
-        }
-       ]
-      },
-      {
-       "type": "tir",
-       "num": "33",
-       "path": "pkt_2/tir_33",
-       "text": "współczesnych obrazów, rysunków, pasteli, grafik, plakatów, druków reklamowych wykonanych ręcznie,",
-       "children": []
-      },
-      {
-       "type": "tir",
-       "num": "34",
-       "path": "pkt_2/tir_34",
-       "text": "współczesnych oryginałów rzeźb, posągów z dowolnego materiału",
-       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Część VI",
+     "text": "Wyroby rękodzieła ludowego i artystycznego odzieżowe"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Symbol PKWiU Nazwa wyrobu"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "1 ex 13.92.12.0 Pościel"
+    },
+    {
+     "type": "text",
+     "text": "2 ex 13.92.13.0 Obrusy i serwety"
+    },
+    {
+     "type": "text",
+     "text": "3 ex 14.13 Pozostała odzież wierzchnia z wyłączeniem: – odzieży używanej i pozostałych używanych artykułów włókienniczych (PKWiU 14.13.4) 1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "4 ex 14.14 Bielizna z wyłączeniem:"
+    },
+    {
+     "type": "tir",
+     "num": "6",
+     "path": "tir_6",
+     "text": "biustonoszy, pasów, gorsetów, szelek, pasów do pończoch, podwiązek i podobnych artykułów oraz ich części (PKWiU 14.14.25.0) 5 ex 14.19 Pozostała odzież i dodatki odzieżowe z wyłączeniem:",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "7",
+     "path": "tir_7",
+     "text": "dresów, ubiorów narciarskich, strojów kąpielowych i pozostałej odzieży, dzianych (PKWiU 14.19.12.0)",
+     "children": [
+      {
+       "type": "text",
+       "text": "6 ex 14.31.10.0 Rajstopy, pończochy, skarpetki i pozostałe wyroby pończosznicze"
+      },
+      {
+       "type": "text",
+       "text": "7 ex 14.39.10.0 Blezery, pulowery, swetry rozpinane, kamizelki i podobne wyroby dziane"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Część VII",
+     "text": "Wyroby rękodzieła ludowego i artystycznego skórzane"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Symbol PKWiU Nazwa wyrobu"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "1 ex 14.11.10.0 Odzież ze skóry wyprawionej lub skóry wtórnej"
+    },
+    {
+     "type": "text",
+     "text": "2 ex 14.20.10.0 Odzież, dodatki odzieżowe i pozostałe wyroby ze skór futerkowych, z wyłączeniem nakryć głowy"
+    },
+    {
+     "type": "text",
+     "text": "3 ex 15.12.11.0 Wyroby rymarskie z dowolnego materiału przeznaczone dla zwierząt, z wyłączeniem biczy i szpicrut oraz akcesoriów do nich, lasek, lasek z siodełkiem i innych lasek"
+    },
+    {
+     "type": "text",
+     "text": "4 ex 15.12.19.0 Pozostałe wyroby ze skóry wyprawionej lub skóry wtórnej, gdzie indziej niesklasyfikowane, włączając wyroby w rodzaju stosowanych w maszynach lub urządzeniach mechanicznych itp. dotyczy wyłącznie:"
+    },
+    {
+     "type": "tir",
+     "num": "8",
+     "path": "tir_8",
+     "text": "wyrobów ze skóry lub skóry wtórnej, gdzie indziej niesklasyfikowanych",
+     "children": [
+      {
+       "type": "text",
+       "text": "5 ex 15.20 Obuwie"
+      },
+      {
+       "type": "text",
+       "text": "6 ex 90.03.12.0 Oryginały prac autorów, kompozytorów i pozostałych artystów, z wyłączeniem artystów wykonawców, malarzy, grafików i rzeźbiarzy dotyczy wyłącznie:"
+      }
+     ]
+    },
+    {
+     "type": "tir",
+     "num": "9",
+     "path": "tir_9",
+     "text": "współczesnych artystycznych wyrobów ze skóry",
+     "children": [
+      {
+       "type": "text",
+       "text": "7 ex 90.03.13.0 Oryginały prac malarzy, grafików i rzeźbiarzy dotyczy wyłącznie:"
+      }
+     ]
+    },
+    {
+     "type": "tir",
+     "num": "10",
+     "path": "tir_10",
+     "text": "współczesnych artystycznych wyrobów ze skóry",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Część VIII",
+     "text": "Wyroby rękodzieła ludowego i artystycznego osobno niewymienione"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Symbol PKWiU Nazwa wyrobu"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "1 ex 13.99 Wyroby tekstylne, gdzie indziej niesklasyfikowane dotyczy wyłącznie:"
+    },
+    {
+     "type": "tir",
+     "num": "11",
+     "path": "tir_11",
+     "text": "puszków do pudru",
+     "children": [
+      {
+       "type": "text",
+       "text": "2 ex 15.12 Wyroby rymarskie; torby bagażowe, torebki ręczne i podobne wyroby kaletnicze – dotyczy wyłącznie: batów i szpicrut"
+      },
+      {
+       "type": "text",
+       "text": "3 ex 16.29 Pozostałe wyroby z drewna; wyroby z korka, słomy i materiałów w rodzaju stosowanych do wyplatania dotyczy wyłącznie:"
+      }
+     ]
+    },
+    {
+     "type": "tir",
+     "num": "12",
+     "path": "tir_12",
+     "text": "rączek do parasolek, lasek i podobnych przedmiotów,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "13",
+     "path": "tir_13",
+     "text": "bloków do wyrobu fajek do palenia tytoniu 1 2 3",
+     "children": [
+      {
+       "type": "text",
+       "text": "4 ex 17.29 Pozostałe wyroby z papieru i tektury dotyczy wyłącznie:"
+      }
+     ]
+    },
+    {
+     "type": "tir",
+     "num": "14",
+     "path": "tir_14",
+     "text": "papierowych ozdóbek",
+     "children": [
+      {
+       "type": "text",
+       "text": "5 ex 20.51 Materiały wybuchowe; zapałki dotyczy wyłącznie:"
+      }
+     ]
+    },
+    {
+     "type": "tir",
+     "num": "15",
+     "path": "tir_15",
+     "text": "zapałek",
+     "children": [
+      {
+       "type": "text",
+       "text": "6 ex 22.19 Pozostałe wyroby z gumy dotyczy wyłącznie:"
+      }
+     ]
+    },
+    {
+     "type": "tir",
+     "num": "16",
+     "path": "tir_16",
+     "text": "szczotek gumowych,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "17",
+     "path": "tir_17",
+     "text": "cybuchów fajek z ebonitu,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "18",
+     "path": "tir_18",
+     "text": "grzebieni, spinek, szpilek, wałków do włosów i podobnych artykułów z ebonitu",
+     "children": [
+      {
+       "type": "text",
+       "text": "7 ex 22.23 Wyroby z tworzyw sztucznych dla budownictwa dotyczy wyłącznie:"
+      }
+     ]
+    },
+    {
+     "type": "tir",
+     "num": "19",
+     "path": "tir_19",
+     "text": "sprężystych pokryć podłogowych, tj. płytek winylowych, linoleum, itp., z tworzyw sztucznych",
+     "children": [
+      {
+       "type": "text",
+       "text": "8 ex 22.29 Pozostałe wyroby z tworzyw sztucznych dotyczy wyłącznie:"
+      }
+     ]
+    },
+    {
+     "type": "tir",
+     "num": "20",
+     "path": "tir_20",
+     "text": "cygarniczek, grzebieni, wałków do włosów, drobnych artykułów, z tworzyw sztucznych",
+     "children": [
+      {
+       "type": "text",
+       "text": "9 ex 25.99 Pozostałe gotowe wyroby metalowe, gdzie indziej niesklasyfikowane dotyczy wyłącznie:"
+      }
+     ]
+    },
+    {
+     "type": "tir",
+     "num": "21",
+     "path": "tir_21",
+     "text": "termosów i butelek metalowych,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "22",
+     "path": "tir_22",
+     "text": "metalowych odznak i insygniów wojskowych, metalowych wałków do włosów, metalowych rączek i ram parasolek",
+     "children": [
+      {
+       "type": "text",
+       "text": "10 ex 26.51.32.0 Przyrządy traserskie"
+      },
+      {
+       "type": "text",
+       "text": "11 ex 28.99 Pozostałe maszyny specjalnego przeznaczenia, gdzie indziej niesklasyfikowane dotyczy wyłącznie:"
+      }
+     ]
+    },
+    {
+     "type": "tir",
+     "num": "23",
+     "path": "tir_23",
+     "text": "karuzeli, huśtawek, strzelnic i pozostałych urządzeń dla wesołych miasteczek",
+     "children": [
+      {
+       "type": "text",
+       "text": "12 ex 30.92 Rowery i wózki inwalidzkie dotyczy wyłącznie:"
+      }
+     ]
+    },
+    {
+     "type": "tir",
+     "num": "24",
+     "path": "tir_24",
+     "text": "wózków dziecięcych",
+     "children": [
+      {
+       "type": "text",
+       "text": "13 ex 32.20.12.0 Pozostałe strunowe instrumenty muzyczne – z wyłączeniem instrumentów muzycznych strunowych smyczkowych oraz gitar i harf"
+      },
+      {
+       "type": "text",
+       "text": "14 ex 32.99 Pozostałe wyroby, gdzie indziej niesklasyfikowane dotyczy wyłącznie:"
+      }
+     ]
+    },
+    {
+     "type": "tir",
+     "num": "25",
+     "path": "tir_25",
+     "text": "globusów plastycznych – tablic do pisania",
+     "children": [
+      {
+       "type": "text",
+       "text": "15 ex 90.03.12.0 Oryginały prac autorów, kompozytorów i pozostałych artystów, z wyłączeniem artystów wykonawców, malarzy, grafików i rzeźbiarzy dotyczy wyłącznie:"
+      }
+     ]
+    },
+    {
+     "type": "tir",
+     "num": "26",
+     "path": "tir_26",
+     "text": "prac wykonanych ręcznie np. druków reklamowych wykonanych przez artystów innych niż autorzy, kompozytorzy, artyści wykonawcy, malarze, graficy i rzeźbiarze",
+     "children": [
+      {
+       "type": "text",
+       "text": "16 ex 90.03.13.0 Oryginały prac malarzy, grafików i rzeźbiarzy dotyczy wyłącznie:"
+      }
+     ]
+    },
+    {
+     "type": "tir",
+     "num": "27",
+     "path": "tir_27",
+     "text": "współczesnych obrazów, rysunków, pasteli, grafik, plakatów, druków reklamowych wykonanych ręcznie,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "28",
+     "path": "tir_28",
+     "text": "współczesnych oryginałów rzeźb, posągów z dowolnego materiału",
+     "children": []
     }
    ]
   },
@@ -6066,8 +6070,9 @@
      "text": "TABELA MIESIĘCZNYCH STAWEK PODATKU DOCHODOWEGO W FORMIE KARTY PODATKOWEJ (W ZŁOTYCH)[^15]"
     },
     {
-     "type": "text",
-     "text": "Część I. Działalność usługowa oraz wytwórczo-usługowa Objaśnienia:"
+     "type": "heading",
+     "label": "Część I",
+     "text": "Działalność usługowa oraz wytwórczo-usługowa Objaśnienia:"
     },
     {
      "type": "ust",
@@ -7718,20 +7723,20 @@
          "num": "b",
          "path": "ust_5/pkt_38/lit_b",
          "text": "„Usługi świadczone przez organizacje międzynarodowe i eksterytorialne” (PKWiU 99.00.10.0).",
-         "children": [
-          {
-           "type": "text",
-           "text": "Część II. Usługi w zakresie handlu detalicznego żywnością, napojami, wyrobami tytoniowymi oraz kwiatami"
-          },
-          {
-           "type": "text",
-           "text": "Objaśnienia:"
-          }
-         ]
+         "children": []
         }
        ]
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Część II",
+     "text": "Usługi w zakresie handlu detalicznego żywnością, napojami, wyrobami tytoniowymi oraz kwiatami"
+    },
+    {
+     "type": "text",
+     "text": "Objaśnienia:"
     },
     {
      "type": "ust",
@@ -7873,18 +7878,19 @@
         {
          "type": "text",
          "text": "2 411 965 568 1697 714 2482"
-        },
-        {
-         "type": "text",
-         "text": "Część IV. Gastronomia"
-        },
-        {
-         "type": "text",
-         "text": "Objaśnienia:"
         }
        ]
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Część IV",
+     "text": "Gastronomia"
+    },
+    {
+     "type": "text",
+     "text": "Objaśnienia:"
     },
     {
      "type": "ust",
@@ -7945,14 +7951,15 @@
         {
          "type": "text",
          "text": "4 663–809"
-        },
-        {
-         "type": "text",
-         "text": "Część V. Usługi transportowe Objaśnienia:"
         }
        ]
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Część V",
+     "text": "Usługi transportowe Objaśnienia:"
     },
     {
      "type": "ust",
@@ -7990,16 +7997,17 @@
       {
        "type": "text",
        "text": "3 Przewozy pasażerskie z wykorzystaniem ludzkiej i zwierzęcej siły pociągowej 81 81 81 81 4 Usługi transportu wodnego śródlądowego pasażerskiego i towarowego, z wyjątkiem przewozu jednostkami o napędzie mechanicznym 90 90 90 90 z czego: usługi w zakresie transportu osób na rzece Dunajec przez flisaków pienińskich 40–65 40–65 40–65 40–65"
-      },
-      {
-       "type": "text",
-       "text": "Część VI. Usługi rozrywkowe"
-      },
-      {
-       "type": "text",
-       "text": "Objaśnienia:"
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Część VI",
+     "text": "Usługi rozrywkowe"
+    },
+    {
+     "type": "text",
+     "text": "Objaśnienia:"
     },
     {
      "type": "ust",
@@ -8214,94 +8222,95 @@
        "num": "g",
        "path": "ust_3/lit_g",
        "text": "hipodrom – kuce 1* 21 zł",
-       "children": [
-        {
-         "type": "text",
-         "text": "Część VII. Sprzedaż posiłków domowych w mieszkaniach"
-        },
-        {
-         "type": "text",
-         "text": "W miejscowości o liczbie mieszkańców Lp. Rodzaj wykonywanej czynności do 25 000 powyżej 25 000"
-        },
-        {
-         "type": "text",
-         "text": "1 2 3 4"
-        },
-        {
-         "type": "text",
-         "text": "Sprzedaż śniadań, obiadów i kolacji w liczbie posiłków każdego rodzaju, licząc w skali średniej tygodniowej:"
-        },
-        {
-         "type": "text",
-         "text": "1 do 10 na dobę 227 241"
-        },
-        {
-         "type": "text",
-         "text": "2 do 20 na dobę 312 329"
-        },
-        {
-         "type": "text",
-         "text": "3 do 30 na dobę 358 –"
-        },
-        {
-         "type": "text",
-         "text": "Sprzedaż jednodaniowych posiłków i napojów bezalkoholowych na podstawie umowy zawartej z jednostką właściwą do prowadzenia działalności gastronomicznej lub turystycznej w liczbie:"
-        },
-        {
-         "type": "text",
-         "text": "4 do 50 posiłków na dobę 273 298"
-        },
-        {
-         "type": "text",
-         "text": "5 do 100 posiłków na dobę 358 394"
-        },
-        {
-         "type": "text",
-         "text": "Część VIII. Świadczenie usług w zakresie ochrony zdrowia ludzkiego"
-        },
-        {
-         "type": "text",
-         "text": "Liczba godzin przeznaczonych na Lp. Rodzaj wykonywanego zawodu wykonywanie zawodu Stawka miesięcznie"
-        },
-        {
-         "type": "text",
-         "text": "1 2 3 4"
-        },
-        {
-         "type": "text",
-         "text": "1 Lekarz i lekarz dentysta do 48 11,10 zł za każdą godzinę"
-        },
-        {
-         "type": "text",
-         "text": "powyżej 48 do 96 532,80 zł + 14,90 zł za każdą godzinę ponad 48"
-        },
-        {
-         "type": "text",
-         "text": "powyżej 96 1248,00 zł"
-        },
-        {
-         "type": "text",
-         "text": "2 Felczer 3,30 zł za każdą godzinę"
-        },
-        {
-         "type": "text",
-         "text": "3 Technik dentystyczny do 24 9,80 zł za każdą godzinę"
-        },
-        {
-         "type": "text",
-         "text": "powyżej 24 do 96 235,20 zł + 12,80 zł za każdą godzinę ponad 24"
-        },
-        {
-         "type": "text",
-         "text": "powyżej 96 1156,80 zł"
-        },
-        {
-         "type": "text",
-         "text": "4 Pielęgniarka, położna 1,30 zł za każdą godzinę Objaśnienia:"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Część VII",
+     "text": "Sprzedaż posiłków domowych w mieszkaniach"
+    },
+    {
+     "type": "text",
+     "text": "W miejscowości o liczbie mieszkańców Lp. Rodzaj wykonywanej czynności do 25 000 powyżej 25 000"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3 4"
+    },
+    {
+     "type": "text",
+     "text": "Sprzedaż śniadań, obiadów i kolacji w liczbie posiłków każdego rodzaju, licząc w skali średniej tygodniowej:"
+    },
+    {
+     "type": "text",
+     "text": "1 do 10 na dobę 227 241"
+    },
+    {
+     "type": "text",
+     "text": "2 do 20 na dobę 312 329"
+    },
+    {
+     "type": "text",
+     "text": "3 do 30 na dobę 358 –"
+    },
+    {
+     "type": "text",
+     "text": "Sprzedaż jednodaniowych posiłków i napojów bezalkoholowych na podstawie umowy zawartej z jednostką właściwą do prowadzenia działalności gastronomicznej lub turystycznej w liczbie:"
+    },
+    {
+     "type": "text",
+     "text": "4 do 50 posiłków na dobę 273 298"
+    },
+    {
+     "type": "text",
+     "text": "5 do 100 posiłków na dobę 358 394"
+    },
+    {
+     "type": "heading",
+     "label": "Część VIII",
+     "text": "Świadczenie usług w zakresie ochrony zdrowia ludzkiego"
+    },
+    {
+     "type": "text",
+     "text": "Liczba godzin przeznaczonych na Lp. Rodzaj wykonywanego zawodu wykonywanie zawodu Stawka miesięcznie"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3 4"
+    },
+    {
+     "type": "text",
+     "text": "1 Lekarz i lekarz dentysta do 48 11,10 zł za każdą godzinę"
+    },
+    {
+     "type": "text",
+     "text": "powyżej 48 do 96 532,80 zł + 14,90 zł za każdą godzinę ponad 48"
+    },
+    {
+     "type": "text",
+     "text": "powyżej 96 1248,00 zł"
+    },
+    {
+     "type": "text",
+     "text": "2 Felczer 3,30 zł za każdą godzinę"
+    },
+    {
+     "type": "text",
+     "text": "3 Technik dentystyczny do 24 9,80 zł za każdą godzinę"
+    },
+    {
+     "type": "text",
+     "text": "powyżej 24 do 96 235,20 zł + 12,80 zł za każdą godzinę ponad 24"
+    },
+    {
+     "type": "text",
+     "text": "powyżej 96 1156,80 zł"
+    },
+    {
+     "type": "text",
+     "text": "4 Pielęgniarka, położna 1,30 zł za każdą godzinę Objaśnienia:"
     },
     {
      "type": "ust",
@@ -8322,16 +8331,16 @@
      "num": "3",
      "path": "ust_3",
      "text": "Stawki nie dotyczą działalności wykonywanej na rzecz osób prawnych oraz jednostek organizacyjnych nieposiadających osobowości prawnej albo na rzecz osób fizycznych dla potrzeb prowadzonej przez nie pozarolniczej działalności gospodarczej.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Część IX. Świadczenie usług weterynaryjnych"
-      },
-      {
-       "type": "text",
-       "text": "Objaśnienia:"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Część IX",
+     "text": "Świadczenie usług weterynaryjnych"
+    },
+    {
+     "type": "text",
+     "text": "Objaśnienia:"
     },
     {
      "type": "ust",
@@ -8399,50 +8408,51 @@
        "num": "b",
        "path": "ust_5/lit_b",
        "text": "– 260 zł",
-       "children": [
-        {
-         "type": "text",
-         "text": "Część X. Opieka domowa nad dziećmi i osobami chorymi"
-        },
-        {
-         "type": "text",
-         "text": "Objaśnienie:"
-        },
-        {
-         "type": "text",
-         "text": "Stawki dotyczą działalności prowadzonej bez zatrudnienia pracowników, z wyjątkiem małżonka."
-        },
-        {
-         "type": "text",
-         "text": "Liczba godzin przeznaczonych na wykonywanie usług Stawka miesięcznie"
-        },
-        {
-         "type": "text",
-         "text": "1 2"
-        },
-        {
-         "type": "text",
-         "text": "do 48 1 zł za każdą godzinę"
-        },
-        {
-         "type": "text",
-         "text": "powyżej 48 do 96 48 zł + 2 zł za każdą godzinę ponad 48"
-        },
-        {
-         "type": "text",
-         "text": "powyżej 96 144 zł"
-        },
-        {
-         "type": "text",
-         "text": "Część XI. Usługi edukacyjne w zakresie udzielania lekcji na godziny"
-        },
-        {
-         "type": "text",
-         "text": "Objaśnienia:"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Część X",
+     "text": "Opieka domowa nad dziećmi i osobami chorymi"
+    },
+    {
+     "type": "text",
+     "text": "Objaśnienie:"
+    },
+    {
+     "type": "text",
+     "text": "Stawki dotyczą działalności prowadzonej bez zatrudnienia pracowników, z wyjątkiem małżonka."
+    },
+    {
+     "type": "text",
+     "text": "Liczba godzin przeznaczonych na wykonywanie usług Stawka miesięcznie"
+    },
+    {
+     "type": "text",
+     "text": "1 2"
+    },
+    {
+     "type": "text",
+     "text": "do 48 1 zł za każdą godzinę"
+    },
+    {
+     "type": "text",
+     "text": "powyżej 48 do 96 48 zł + 2 zł za każdą godzinę ponad 48"
+    },
+    {
+     "type": "text",
+     "text": "powyżej 96 144 zł"
+    },
+    {
+     "type": "heading",
+     "label": "Część XI",
+     "text": "Usługi edukacyjne w zakresie udzielania lekcji na godziny"
+    },
+    {
+     "type": "text",
+     "text": "Objaśnienia:"
     },
     {
      "type": "ust",

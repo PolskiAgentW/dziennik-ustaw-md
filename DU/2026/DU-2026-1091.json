@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1091",
  "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 sierpnia 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie wymagań weterynaryjnych przy produkcji mięsa przeznaczonego na użytek własny",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1091/text.pdf",
  "body": [
   {
@@ -921,24 +921,27 @@
      "text": "POWIADOMIENIE O ZAMIARZE PRZEPROWADZENIA UBOJU BYDŁA DO DWUNASTEGO MIESIĄCA ŻYCIA URODZONEGO W PAŃSTWACH LUB ICH REGIONACH O KONTROLOWANYM ORAZ NIEOKREŚLONYM RYZYKU WYSTĘPOWANIA BSE, OWIEC LUB KÓZ W WIEKU POWYŻEJ 12 MIESIĘCY LUB OWIEC LUB KÓZ, KTÓRE MAJĄ STAŁY SIEKACZ WYRŻNIĘTY Z DZIĄSŁA, W CELU PRODUKCJI MIĘSA PRZEZNACZONEGO NA UŻYTEK WŁASNY"
     },
     {
-     "type": "text",
-     "text": "I. Informacja o zamiarze przeprowadzenia uboju"
+     "type": "heading",
+     "label": "I.",
+     "text": "Informacja o zamiarze przeprowadzenia uboju"
     },
     {
      "type": "text",
      "text": "Imię i nazwisko, miejsce zamieszkania oraz adres posiadacza zwierzęcia: …………………………………………………………………………..……………….…………..……...............…... Imię i nazwisko, miejsce zamieszkania oraz adres podmiotu prowadzącego gospodarstwo:[^1_3] …………………………………………………………………………..……………….…………..……...............…... Gatunek zwierząt poddawanych ubojowi: …………………………………………………………………………..……………….…………..……...............…... Data urodzenia i liczba stałych siekaczy wyrżniętych z dziąsła – w przypadku uboju owiec lub kóz: …………………………………………………………………………..……………….…………..……...............…... Liczba zwierząt poddawanych ubojowi: …………………………………………………………………………..……………….…………..……...............…... Numer identyfikacyjny zwierzęcia lub zwierząt poddawanych ubojowi:[^2_2] …………………………………………………………………………..……………….…………..……...............…... Miejsce uboju: …………………………………………………………………………..……………….…………..……...............…... Termin uboju: …………………………………………………………………………..……………….…………..……...............…... Imię i nazwisko oraz adres osoby uprawnionej do przeprowadzenia uboju: …………………………………………………………………………..……………….…………..……...............…... Zgłoszenie dotyczy / nie dotyczy[^3_2] uboju zwierząt, o których mowa w § 2 ust. 3 rozporządzenia: …………………………………………………………………………..……………….…………..……...............…... Inne dane, w tym numer telefonu lub adres e-mail, przekazującego powiadomienie: …………………………………………………………………………..……………….…………..……...............…..."
     },
     {
-     "type": "text",
-     "text": "II. Oświadczenie o zagospodarowaniu materiału szczególnego ryzyka"
+     "type": "heading",
+     "label": "II.",
+     "text": "Oświadczenie o zagospodarowaniu materiału szczególnego ryzyka"
     },
     {
      "type": "text",
      "text": "Oświadczam, że zagospodaruję na własny koszt materiał szczególnego ryzyka zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 999/2001 z dnia 22 maja 2001 r. ustanawiającym zasady dotyczące zapobiegania, kontroli i zwalczania niektórych pasażowalnych gąbczastych encefalopatii (Dz. Urz. WE L 147 z 31.05.2001, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 32, str. 289) i rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 1069/2009 z dnia 21 października 2009 r. określającym przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego i produktów pochodnych, nieprzeznaczonych do spożycia przez ludzi, i uchylającym rozporządzenie (WE) nr 1774/2002 (rozporządzenie o produktach ubocznych pochodzenia zwierzęcego) (Dz. Urz. UE L 300 z 14.11.2009, str. 1, z późn. zm.)."
     },
     {
-     "type": "text",
-     "text": "III. Informacja o zgłoszeniu mięsa do badania poubojowego"
+     "type": "heading",
+     "label": "III.",
+     "text": "Informacja o zgłoszeniu mięsa do badania poubojowego"
     },
     {
      "type": "text",
@@ -958,8 +961,9 @@
      "text": "SPOSÓB POBIERANIA PRÓBEK DO BADANIA MIĘSA NA OBECNOŚĆ WŁOŚNI ORAZ ZASADY DOSTARCZANIA PRÓBEK DO PRACOWNI BADANIA MIĘSA NA OBECNOŚĆ WŁOŚNI"
     },
     {
-     "type": "text",
-     "text": "I. Sposób pobierania próbek do badania mięsa na obecność włośni"
+     "type": "heading",
+     "label": "I.",
+     "text": "Sposób pobierania próbek do badania mięsa na obecność włośni"
     },
     {
      "type": "ust",
@@ -1039,14 +1043,14 @@
        "num": "2",
        "path": "ust_6/pkt_2",
        "text": "innych mięśni – w przypadku gatunków zwierząt innych niż świnie.",
-       "children": [
-        {
-         "type": "text",
-         "text": "II. Zasady dostarczania próbek mięsa do pracowni badania mięsa na obecność włośni"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Zasady dostarczania próbek mięsa do pracowni badania mięsa na obecność włośni"
     },
     {
      "type": "ust",

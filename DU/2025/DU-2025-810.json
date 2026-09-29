@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/810",
  "title": "Rozporządzenie Rady Ministrów z dnia 6 czerwca 2025 r. w sprawie przeprowadzania oceny bezpieczeństwa związanej z zapobieganiem zdarzeniom o charakterze terrorystycznym lub uprawdopodabniającym popełnienie przestępstwa szpiegostwa",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/810/text.pdf",
  "body": [
   {
@@ -690,11 +690,19 @@
     },
     {
      "type": "text",
-     "text": "..................................................... (klauzula tajności – po wypełnieniu)"
+     "text": "....................................................."
     },
     {
      "type": "text",
-     "text": "...................................... Egz. nr ............... (sygnatura literowo-cyfrowa)"
+     "text": "(klauzula tajności – po wypełnieniu)"
+    },
+    {
+     "type": "text",
+     "text": "......................................"
+    },
+    {
+     "type": "text",
+     "text": "Egz. nr ............... (sygnatura literowo-cyfrowa)"
     },
     {
      "type": "text",
@@ -716,15 +724,24 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Przedmiotem porozumienia o przeprowadzeniu oceny bezpieczeństwa, zwanego dalej „porozumieniem”, jest przeprowadzenie przez ABW oceny bezpieczeństwa, w rozumieniu art. 32a ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2024 r. poz. 812, z późn. zm.), zwanej dalej „ustawą”, następujących systemów teleinformatycznych lub sieci teleinformatycznych podmiotu zarządzającego systemem: ................................................................................................................................................ ................................................................................................................................................ ................................................................................................................................................ ............................................................................................................................................... , zwanych dalej „systemem”.",
-     "children": []
+     "text": "Przedmiotem porozumienia o przeprowadzeniu oceny bezpieczeństwa, zwanego dalej „porozumieniem”, jest przeprowadzenie przez ABW oceny bezpieczeństwa, w rozumieniu art. 32a ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2024 r. poz. 812, z późn. zm.), zwanej dalej „ustawą”, następujących systemów teleinformatycznych lub sieci teleinformatycznych podmiotu zarządzającego systemem:",
+     "children": [
+      {
+       "type": "text",
+       "text": "................................................................................................................................................ ................................................................................................................................................ ................................................................................................................................................ ............................................................................................................................................... , zwanych dalej „systemem”."
+      }
+     ]
     },
     {
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Stronami porozumienia są: Szef Agencji Bezpieczeństwa Wewnętrznego: .....................................................................",
+     "text": "Stronami porozumienia są:",
      "children": [
+      {
+       "type": "text",
+       "text": "Szef Agencji Bezpieczeństwa Wewnętrznego: ....................................................................."
+      },
       {
        "type": "text",
        "text": "kierownik podmiotu zarządzającego systemem: ..................................................................."
@@ -751,7 +768,15 @@
      "children": [
       {
        "type": "text",
-       "text": "..................................................... (klauzula tajności – po wypełnieniu) ...................................... Egz. nr ............... (sygnatura literowo-cyfrowa)"
+       "text": "....................................................."
+      },
+      {
+       "type": "text",
+       "text": "(klauzula tajności – po wypełnieniu)"
+      },
+      {
+       "type": "text",
+       "text": "...................................... Egz. nr ............... (sygnatura literowo-cyfrowa)"
       },
       {
        "type": "text",
@@ -759,7 +784,11 @@
       },
       {
        "type": "text",
-       "text": "3.* Podmiot zarządzający systemem wyraża zgodę na przeprowadzenie przez ABW, w ramach oceny bezpieczeństwa, następujących testów bezpieczeństwa[^1_2]: ................................................................................................................................................ ................................................................................................................................................ ................................................................................................................................................ ................................................................................................................................................"
+       "text": "3.* Podmiot zarządzający systemem wyraża zgodę na przeprowadzenie przez ABW, w ramach oceny bezpieczeństwa, następujących testów bezpieczeństwa[^1_2]:"
+      },
+      {
+       "type": "text",
+       "text": "................................................................................................................................................ ................................................................................................................................................ ................................................................................................................................................ ................................................................................................................................................"
       }
      ]
     },

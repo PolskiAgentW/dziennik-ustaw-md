@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/252",
  "title": "Ustawa z dnia 23 stycznia 2026 r. o zmianie ustawy o krajowym systemie cyberbezpieczeństwa oraz niektórych innych ustaw",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/252/text.pdf",
  "body": [
   {
@@ -13148,8 +13148,9 @@
      "text": "WYMOGI DLA SYSTEMU ZARZĄDZANIA BEZPIECZEŃSTWEM INFORMACJI DLA PODMIOTU WAŻNEGO BĘDĄCEGO PODMIOTEM PUBLICZNYM"
     },
     {
-     "type": "text",
-     "text": "I. System zarządzania bezpieczeństwem informacji dla podmiotu ważnego będącego podmiotem publicznym obejmuje co najmniej:"
+     "type": "heading",
+     "label": "I.",
+     "text": "System zarządzania bezpieczeństwem informacji dla podmiotu ważnego będącego podmiotem publicznym obejmuje co najmniej:"
     },
     {
      "type": "pkt",
@@ -13326,12 +13327,12 @@
      "num": "18",
      "path": "pkt_18",
      "text": "określenie procedur i zasad działania podmiotu na wypadek wystąpienia cyberzagrożenia lub w przypadku wystąpienia incydentu.",
-     "children": [
-      {
-       "type": "text",
-       "text": "II. System zarządzania bezpieczeństwem informacji dla podmiotu ważnego będącego podmiotem publicznym może dodatkowo obejmować:"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "System zarządzania bezpieczeństwem informacji dla podmiotu ważnego będącego podmiotem publicznym może dodatkowo obejmować:"
     },
     {
      "type": "pkt",
@@ -13424,12 +13425,12 @@
      "num": "9",
      "path": "pkt_9",
      "text": "stosowanie dodatkowych środków technicznych i organizacyjnych, jeżeli jest to konieczne dla zapewnienia odpowiedniego poziomu bezpieczeństwa systemów informacyjnych.",
-     "children": [
-      {
-       "type": "text",
-       "text": "III. Podmiot ważny będący podmiotem publicznym dokonuje przeglądu systemu zarządzania bezpieczeństwem informacji:"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Podmiot ważny będący podmiotem publicznym dokonuje przeglądu systemu zarządzania bezpieczeństwem informacji:"
     },
     {
      "type": "pkt",
@@ -13450,12 +13451,12 @@
      "num": "3",
      "path": "pkt_3",
      "text": "bezzwłocznie w przypadku wystąpienia okoliczności, które mogą wpłynąć na ryzyko wystąpienia incydentu poważnego i wymagających ponownego zrealizowania działań opisanych w przyjętym systemie zarządzania bezpieczeństwie informacji lub zmian w samym systemie.",
-     "children": [
-      {
-       "type": "text",
-       "text": "IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj ę działań wskazanych do realizacji w systemie zarządzania cyberbezpieczeństwa."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Podmiot ważny będący podmiotem publicznym dokumentuje realizacj ę działań wskazanych do realizacji w systemie zarządzania cyberbezpieczeństwa."
     }
    ]
   }

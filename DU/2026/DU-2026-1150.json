@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1150",
  "title": "Rozporządzenie Ministra Sportu i Turystyki z dnia 19 sierpnia 2026 r. zmieniające rozporządzenie w sprawie obiektów hotelarskich i innych obiektów, w których są świadczone usługi hotelarskie",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1150/text.pdf",
  "body": [
   {
@@ -1013,8 +1013,9 @@
      "text": "1 2 3 4 5 6 7"
     },
     {
-     "type": "text",
-     "text": "I. Zabezpieczenie terenu"
+     "type": "heading",
+     "label": "I.",
+     "text": "Zabezpieczenie terenu"
     },
     {
      "type": "text",
@@ -1037,8 +1038,9 @@
      "text": "5 Punkt pierwszej pomocy czynny całą dobę, w tym przeszkolony o o o o pracownik, apteczka i łączność z pogotowiem ratunkowym; w przypadku kempingów (campingów) kategorii * i ** co najmniej apteczka"
     },
     {
-     "type": "text",
-     "text": "II. Zagospodarowanie terenu"
+     "type": "heading",
+     "label": "II.",
+     "text": "Zagospodarowanie terenu"
     },
     {
      "type": "text",
@@ -1085,8 +1087,9 @@
      "text": "16 Pojemniki do selektywnej zbiórki odpadów komunalnych oznaczone o o o o o napisami: „Papier”, „Szkło”, „Metale i tworzywa sztuczne”, „Bio”, „Zmieszane”, rozmieszczone w punktach dostępnych dla gości"
     },
     {
-     "type": "text",
-     "text": "III. Recepcja"
+     "type": "heading",
+     "label": "III.",
+     "text": "Recepcja"
     },
     {
      "type": "text",
@@ -1097,16 +1100,18 @@
      "text": "18 Przechowalnia bagażu, pieniędzy i wartościowych rzeczy gości o o o 1 2 3 4 5 6 7"
     },
     {
-     "type": "text",
-     "text": "IV. Świetlica"
+     "type": "heading",
+     "label": "IV.",
+     "text": "Świetlica"
     },
     {
      "type": "text",
      "text": "19 Świetlica – w przypadku kempingów (campingów) kategorii ** o o o udostępnione zadaszone pomieszczenie"
     },
     {
-     "type": "text",
-     "text": "V. Stanowiska obozowania"
+     "type": "heading",
+     "label": "V.",
+     "text": "Stanowiska obozowania"
     },
     {
      "type": "text",
@@ -1129,8 +1134,9 @@
      "text": "24 Zieleń odgradzająca stanowiska lub grupy stanowisk o o"
     },
     {
-     "type": "text",
-     "text": "VI. Urządzenia higieniczno-sanitarne"
+     "type": "heading",
+     "label": "VI.",
+     "text": "Urządzenia higieniczno-sanitarne"
     },
     {
      "type": "text",
@@ -1230,72 +1236,73 @@
      "num": "5",
      "path": "pkt_5",
      "text": "przewijak dla niemowląt o o o o",
-     "children": [
-      {
-       "type": "text",
-       "text": "VII. Usługi gastronomiczne"
-      },
-      {
-       "type": "text",
-       "text": "32 Stanowiska spożywania posiłków – w przypadku kempingów o o o (campingów) kategorii ** przynajmniej zadaszone stoły lub ławy na stanowiskach obozowania"
-      },
-      {
-       "type": "text",
-       "text": "33 Stanowiska do zmywania naczyń o o o o 1 2 3 4 5 6 7"
-      },
-      {
-       "type": "text",
-       "text": "34 Zakład gastronomiczny; o wymóg nie obowiązuje, jeżeli zakład gastronomiczny znajduje się w odległości niewiększej niż 500 m od kempingu (campingu)"
-      },
-      {
-       "type": "text",
-       "text": "35 Sklepik spożywczy i z artykułami higieniczno-sanitarnymi; o o wymóg nie obowiązuje, jeżeli sklep znajduje się w odległości mniejszej niż 500 m od kempingu (campingu)"
-      },
-      {
-       "type": "text",
-       "text": "VIII. Zaopatrzenie w wodę"
-      },
-      {
-       "type": "text",
-       "text": "36 Punkty poboru wody do picia i do celów gospodarczych o o na stanowiskach lub grupach stanowisk obozowania"
-      },
-      {
-       "type": "text",
-       "text": "37 Punkty poboru wody do picia na terenie o o o"
-      },
-      {
-       "type": "text",
-       "text": "38 Ciepła woda bieżąca: o o o 1) w przypadku kempingów (campingów) kategorii **** – całą dobę 2) w przypadku kempingów (campingów) kategorii *** – co najmniej trzy razy dziennie, o ustalonych godzinach 3) w przypadku kempingów (campingów) kategorii ** – co najmniej dwa razy dziennie, o ustalonych godzinach"
-      },
-      {
-       "type": "text",
-       "text": "Objaśnienia znaków:"
-      },
-      {
-       "type": "text",
-       "text": "o – wymaganie obowiązuje"
-      },
-      {
-       "type": "text",
-       "text": "* – kemping (camping) kategorii jedna gwiazdka"
-      },
-      {
-       "type": "text",
-       "text": "** – kemping (camping) kategorii dwie gwiazdki"
-      },
-      {
-       "type": "text",
-       "text": "*** – kemping (camping) kategorii trzy gwiazdki"
-      },
-      {
-       "type": "text",
-       "text": "**** – kemping (camping) kategorii cztery gwiazdki WYMAGANIA CO DO WYPOSAŻENIA DLA STAŁEJ BAZY NOCLEGOWEJ NA KEMPINGACH (CAMPINGACH)"
-      },
-      {
-       "type": "text",
-       "text": "Kategorie kempingu Lp. Wymagania (campingu)"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "VII.",
+     "text": "Usługi gastronomiczne"
+    },
+    {
+     "type": "text",
+     "text": "32 Stanowiska spożywania posiłków – w przypadku kempingów o o o (campingów) kategorii ** przynajmniej zadaszone stoły lub ławy na stanowiskach obozowania"
+    },
+    {
+     "type": "text",
+     "text": "33 Stanowiska do zmywania naczyń o o o o 1 2 3 4 5 6 7"
+    },
+    {
+     "type": "text",
+     "text": "34 Zakład gastronomiczny; o wymóg nie obowiązuje, jeżeli zakład gastronomiczny znajduje się w odległości niewiększej niż 500 m od kempingu (campingu)"
+    },
+    {
+     "type": "text",
+     "text": "35 Sklepik spożywczy i z artykułami higieniczno-sanitarnymi; o o wymóg nie obowiązuje, jeżeli sklep znajduje się w odległości mniejszej niż 500 m od kempingu (campingu)"
+    },
+    {
+     "type": "heading",
+     "label": "VIII.",
+     "text": "Zaopatrzenie w wodę"
+    },
+    {
+     "type": "text",
+     "text": "36 Punkty poboru wody do picia i do celów gospodarczych o o na stanowiskach lub grupach stanowisk obozowania"
+    },
+    {
+     "type": "text",
+     "text": "37 Punkty poboru wody do picia na terenie o o o"
+    },
+    {
+     "type": "text",
+     "text": "38 Ciepła woda bieżąca: o o o 1) w przypadku kempingów (campingów) kategorii **** – całą dobę 2) w przypadku kempingów (campingów) kategorii *** – co najmniej trzy razy dziennie, o ustalonych godzinach 3) w przypadku kempingów (campingów) kategorii ** – co najmniej dwa razy dziennie, o ustalonych godzinach"
+    },
+    {
+     "type": "text",
+     "text": "Objaśnienia znaków:"
+    },
+    {
+     "type": "text",
+     "text": "o – wymaganie obowiązuje"
+    },
+    {
+     "type": "text",
+     "text": "* – kemping (camping) kategorii jedna gwiazdka"
+    },
+    {
+     "type": "text",
+     "text": "** – kemping (camping) kategorii dwie gwiazdki"
+    },
+    {
+     "type": "text",
+     "text": "*** – kemping (camping) kategorii trzy gwiazdki"
+    },
+    {
+     "type": "text",
+     "text": "**** – kemping (camping) kategorii cztery gwiazdki WYMAGANIA CO DO WYPOSAŻENIA DLA STAŁEJ BAZY NOCLEGOWEJ NA KEMPINGACH (CAMPINGACH)"
+    },
+    {
+     "type": "text",
+     "text": "Kategorie kempingu Lp. Wymagania (campingu)"
     },
     {
      "type": "signature",

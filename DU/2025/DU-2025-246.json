@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/246",
  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 19 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie badań funkcjonariuszy Służby Więziennej na zawartość w organizmie alkoholu lub obecność podobnie działającego środka",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/246/text.pdf",
  "body": [
   {
@@ -1132,18 +1132,20 @@
      "text": "Część A – POBRANIE MATERIAŁU BIOLOGICZNEGO DO BADAŃ"
     },
     {
-     "type": "ust",
-     "num": "1",
-     "path": "ust_1",
-     "text": "(stopień, imię i nazwisko kierownika jednostki organizacyjnej Służby Więziennej lub osoby przez niego upoważnionej, przełożonego funkcjonariusza zarządzającego badanie)",
-     "children": []
+     "type": "text",
+     "text": "1."
     },
     {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "(imię i nazwisko, stanowisko osoby przeprowadzającej pobranie próbek materiału biologicznego do badań)",
-     "children": []
+     "type": "text",
+     "text": "(stopień, imię i nazwisko kierownika jednostki organizacyjnej Służby Więziennej lub osoby przez niego upoważnionej, przełożonego funkcjonariusza zarządzającego badanie)"
+    },
+    {
+     "type": "text",
+     "text": "2."
+    },
+    {
+     "type": "text",
+     "text": "(imię i nazwisko, stanowisko osoby przeprowadzającej pobranie próbek materiału biologicznego do badań)"
     },
     {
      "type": "ust",
@@ -1169,19 +1171,67 @@
      "children": [
       {
        "type": "text",
-       "text": "ij 5. Wzrost: gnij masa ciała: (na podstawie oświadczenia funkcjonariusza, jeżeli jego złożenie jest możliwe) wagę 6. Informacje uwagę o chorobach, na jakie choruje funkcjonariusz: (na podstawie oświadczenia funkcjonariusza, jeżeli jego złożenie jest możliwe)"
+       "text": "ij 5. Wzrost: gnij masa ciała:"
       },
       {
        "type": "text",
-       "text": "k 7. Oświadczam, że poinformowano mnie o prawie do odmowy składania wyjaśnień suj interesuj"
+       "text": "(na podstawie oświadczenia funkcjonariusza, jeżeli jego złożenie jest możliwe)"
       },
       {
        "type": "text",
-       "text": "ym 8. Ilość, rodzaj, data i godzina spożycia napojów alkoholowych przez funkcjonariusza w ciągu ostatnich m 24 cytatem godzin lub informacja o przyjęciu albo nieprzyjęciu środka działającego podobnie do alkoholu: z"
+       "text": "wagę 6. Informacje uwagę o chorobach, na jakie choruje funkcjonariusz:"
       },
       {
        "type": "text",
-       "text": "k e 9. Opis objawów i okoliczności uzasadniających przeprowadzenie badania, data, godzina i minuta ich b stwierdzenia: ntu lub w podaj w"
+       "text": "(na podstawie oświadczenia funkcjonariusza, jeżeli jego złożenie jest możliwe)"
+      },
+      {
+       "type": "text",
+       "text": "k"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Oświadczam, że poinformowano mnie o prawie do odmowy składania wyjaśnień",
+     "children": [
+      {
+       "type": "text",
+       "text": "suj interesuj"
+      },
+      {
+       "type": "text",
+       "text": "ym"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Ilość, rodzaj, data i godzina spożycia napojów alkoholowych przez funkcjonariusza w ciągu ostatnich m 24 cytatem godzin lub informacja o przyjęciu albo nieprzyjęciu środka działającego podobnie do alkoholu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "z"
+      },
+      {
+       "type": "text",
+       "text": "k e"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Opis objawów i okoliczności uzasadniających przeprowadzenie badania, data, godzina i minuta ich b stwierdzenia: ntu lub",
+     "children": [
+      {
+       "type": "text",
+       "text": "w podaj w"
       },
       {
        "type": "text",
@@ -1197,8 +1247,16 @@
       },
       {
        "type": "text",
-       "text": "ą 12. est W ę. kwestię. przypadku odstąpienia od pobrania krwi – informacja o przyczynie odstąpienia:"
-      },
+       "text": "ą"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "est W ę. kwestię. przypadku odstąpienia od pobrania krwi – informacja o przyczynie odstąpienia:",
+     "children": [
       {
        "type": "text",
        "text": "by Aby"

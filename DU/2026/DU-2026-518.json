@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/518",
  "title": "Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 9 kwietnia 2026 r. w sprawie określenia wzorów zgłoszeń do ubezpieczeń społecznych i ubezpieczenia zdrowotnego, imiennych raportów miesięcznych i imiennych raportów miesięcznych korygujących, zgłoszeń płatnika składek, deklaracji rozliczeniowych i deklaracji rozliczeniowych korygujących, zgłoszeń danych o pracy w szczególnych warunkach lub o szczególnym charakterze, raportów informacyjnych, oświadczeń o zamiarze przekazania raportów informacyjnych, informacji o zawartych umowach o dzieło oraz innych dokumentów",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/518/text.pdf",
  "body": [
   {
@@ -2994,8 +2994,9 @@
      "text": "KODY WYKORZYSTYWANE PRZY WYPEŁNIANIU DOKUMENTÓW"
     },
     {
-     "type": "text",
-     "text": "I. Kod tytułu ubezpieczenia - składa się z 6 znaków, oznaczających:"
+     "type": "heading",
+     "label": "I.",
+     "text": "Kod tytułu ubezpieczenia - składa się z 6 znaków, oznaczających:"
     },
     {
      "type": "pkt",
@@ -3519,524 +3520,534 @@
       {
        "type": "text",
        "text": "4 - osoba, która przedłożyła płatnikowi orzeczenie o niepełnosprawności wydawane osobom do 16. roku życia"
-      },
-      {
-       "type": "text",
-       "text": "II. Kod stopnia pokrewieństwa/powinowactwa - składa się z 2 znaków:"
-      },
-      {
-       "type": "text",
-       "text": "01 - małżonek"
-      },
-      {
-       "type": "text",
-       "text": "11 - dziecko własne, przysposobione lub dziecko małżonka 21 - wnuk albo dziecko obce, dla którego ustanowiono opiekę, albo dziecko obce w ramach rodziny zastępczej lub rodzinnego domu dziecka"
-      },
-      {
-       "type": "text",
-       "text": "30 - matka"
-      },
-      {
-       "type": "text",
-       "text": "31 - ojciec"
-      },
-      {
-       "type": "text",
-       "text": "32 - macocha"
-      },
-      {
-       "type": "text",
-       "text": "33 - ojczym"
-      },
-      {
-       "type": "text",
-       "text": "40 - babka"
-      },
-      {
-       "type": "text",
-       "text": "41 - dziadek"
-      },
-      {
-       "type": "text",
-       "text": "50 - osoby przysposabiające osoby ubezpieczone"
-      },
-      {
-       "type": "text",
-       "text": "60 - inni wstępni pozostający z ubezpieczonym we wspólnym gospodarstwie domowym"
-      },
-      {
-       "type": "text",
-       "text": "III. Kod pracy w szczególnych warunkach - składa się z 3 znaków zgodnych z załącznikiem nr 1 do ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych, z których:"
-      },
-      {
-       "type": "text",
-       "text": "- w polu pierwszym należy wpisać numer załącznika (1)"
-      },
-      {
-       "type": "text",
-       "text": "- w polu drugim i trzecim należy wpisać numer rodzaju pracy:"
-      },
-      {
-       "type": "text",
-       "text": "01 - prace bezpośrednio przy przeróbce mechanicznej węgla oraz rud metali lub ich wzbogacaniu"
-      },
-      {
-       "type": "text",
-       "text": "02 - prace udostępniające lub eksploatacyjne związane z urabianiem minerałów skalnych"
-      },
-      {
-       "type": "text",
-       "text": "03 - prace pod ziemią bezpośrednio przy drążeniu tuneli w górotworze"
-      },
-      {
-       "type": "text",
-       "text": "04 - prace bezpośrednio przy zalewaniu form odlewniczych, transportowaniu naczyń odlewniczych z płynnym, rozgrzanym materiałem (żeliwo, staliwo, metale nieżelazne i ich stopy)"
-      },
-      {
-       "type": "text",
-       "text": "05 - prace bezpośrednio przy ręcznej obróbce wykańczającej odlewy: usuwanie elementów układu wlewowego, ścinanie, szlifowanie powierzchni odlewów oraz ich malowanie na gorąco"
-      },
-      {
-       "type": "text",
-       "text": "06 - prace bezpośrednio przy obsłudze wielkich pieców oraz pieców stalowniczych lub odlewniczych"
-      },
-      {
-       "type": "text",
-       "text": "07 - prace murarskie bezpośrednio w piecach hutniczych, odlewniczych, bateriach koksowniczych oraz w piecach do produkcji materiałów ceramicznych"
-      },
-      {
-       "type": "text",
-       "text": "08 - prace bezpośrednio przy ręcznym zestawianiu surowców lub ręcznym formowaniu wyrobów szklanych w hutnictwie szkła"
-      },
-      {
-       "type": "text",
-       "text": "09 - prace bezpośrednio przy kuciu ręcznym w kuźniach"
-      },
-      {
-       "type": "text",
-       "text": "10 - prace bezpośrednio przy obsłudze agregatów i urządzeń do produkcji metali nieżelaznych"
-      },
-      {
-       "type": "text",
-       "text": "11 - prace bezpośrednio przy obsłudze ciągów walcowniczych: przygotowanie, dozorowanie pracy walców lub samotoków, ingerencja przy wypadaniu i zaklinowaniu materiałów"
-      },
-      {
-       "type": "text",
-       "text": "12 - prace przy obsłudze dźwignic bezpośrednio przy wytapianiu surówki, stopów żelaza lub metali nieżelaznych"
-      },
-      {
-       "type": "text",
-       "text": "13 - prace bezpośrednio przy produkcji koksu w bateriach koksowniczych 14 - prace bezpośrednio przy wypychaniu koksu z baterii koksowniczych, gaszeniu lub sortowaniu koksu"
-      },
-      {
-       "type": "text",
-       "text": "15 - prace bezpośrednio przy produkcji materiałów formierskich lub izolacyjnoegzotermicznych używanych w odlewnictwie i hutnictwie"
-      },
-      {
-       "type": "text",
-       "text": "16 - prace bezpośrednio przy ręcznym załadunku lub wyładunku pieców komorowych wyrobami ogniotrwałymi"
-      },
-      {
-       "type": "text",
-       "text": "17 - prace bezpośrednio przy ręcznym załadunku lub rozładunku gorących wyrobów ceramicznych"
-      },
-      {
-       "type": "text",
-       "text": "18 - prace bezpośrednio przy formowaniu wyrobów ogniotrwałych wielkogabarytowych przy użyciu ręcznych narzędzi wibracyjnych"
-      },
-      {
-       "type": "text",
-       "text": "19 - prace przy ręcznym formowaniu, odlewaniu, czyszczeniu lub szkliwieniu wyrobów ceramicznych"
-      },
-      {
-       "type": "text",
-       "text": "20 - prace nurka lub kesoniarza, prace w komorach hiperbarycznych"
-      },
-      {
-       "type": "text",
-       "text": "21 - prace fizyczne ciężkie bezpośrednio przy przeładunku w ładowniach statku"
-      },
-      {
-       "type": "text",
-       "text": "22 - prace rybaków morskich"
-      },
-      {
-       "type": "text",
-       "text": "23 - prace na statkach żeglugi morskiej"
-      },
-      {
-       "type": "text",
-       "text": "24 - prace na morskich platformach wiertniczych"
-      },
-      {
-       "type": "text",
-       "text": "25 - prace w powietrzu wykonywane na statkach powietrznych przez personel pokładowy"
-      },
-      {
-       "type": "text",
-       "text": "26 - prace bezpośrednio przy obsłudze urządzeń wiertniczych i wydobywczych przy poszukiwaniu złóż ropy naftowej lub gazu ziemnego"
-      },
-      {
-       "type": "text",
-       "text": "27 - prace bezpośrednio przy obróbce odwiertów w górnictwie otworowym: ropy naftowej lub gazu ziemnego"
-      },
-      {
-       "type": "text",
-       "text": "28 - prace bezpośrednio przy spawaniu łukowym lub cięciu termicznym w pomieszczeniach o bardzo małej kubaturze, z utrudnioną wentylacją (podwójne dna statków, zbiorniki, rury itp.)"
-      },
-      {
-       "type": "text",
-       "text": "29 - prace bezpośrednio przy malowaniu, nitowaniu lub montowaniu elementów wyposażenia w pomieszczeniach o bardzo małej kubaturze z utrudnioną wentylacją (podwójne dna statków, zbiorniki, rury itp.)"
-      },
-      {
-       "type": "text",
-       "text": "30 - prace wewnątrz cystern, kotłów, a także zbiorników o bardzo małej kubaturze po substancjach niebezpiecznych"
-      },
-      {
-       "type": "text",
-       "text": "31 - prace przy ręcznym układaniu na gorąco nawierzchni z mieszanek mineralno-bitumicznych"
-      },
-      {
-       "type": "text",
-       "text": "32 - prace bezpośrednio przy przetwórstwie materiałów zawierających azbest lub prace rozbiórkowe związane z ich usuwaniem"
-      },
-      {
-       "type": "text",
-       "text": "33 - prace garbarskie bezpośrednio przy obróbce mokrych skór"
-      },
-      {
-       "type": "text",
-       "text": "34 - prace bezpośrednio przy zrywce lub ręcznej ścince drzew przenośną pilarką z piłą łańcuchową"
-      },
-      {
-       "type": "text",
-       "text": "35 - prace w pomieszczeniach o narzuconej technologią temperaturze powietrza poniżej 0 °C"
-      },
-      {
-       "type": "text",
-       "text": "36 - prace fizyczne ciężkie w podziemnych kanałach ściekowych"
-      },
-      {
-       "type": "text",
-       "text": "37 - prace tancerzy zawodowych związane z bardzo ciężkim wysiłkiem fizycznym 38 - prace przy wywozie nieczystości stałych i płynnych oraz prace na wysypiskach i wylewiskach nieczystości związane z bardzo ciężkim wysiłkiem fizycznym"
-      },
-      {
-       "type": "text",
-       "text": "39 - prace przy kuciu ręcznym w kuźniach przemysłowych oraz obsłudze młotów mechanicznych"
-      },
-      {
-       "type": "text",
-       "text": "40 - prace przy produkcji węglików spiekanych, elektrod, rud i walczaków oraz żelazostopów"
-      },
-      {
-       "type": "text",
-       "text": "IV. Kod pracy o szczególnym charakterze - składa się z 3 znaków zgodnych z załącznikiem nr 2 do ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych, z których:"
-      },
-      {
-       "type": "text",
-       "text": "- w polu pierwszym należy wpisać numer załącznika (2)"
-      },
-      {
-       "type": "text",
-       "text": "- w polu drugim i trzecim należy wpisać numer rodzaju pracy:"
-      },
-      {
-       "type": "text",
-       "text": "01 - prace pilotów statków powietrznych (pilot, instruktor)"
-      },
-      {
-       "type": "text",
-       "text": "02 - prace kontrolerów ruchu lotniczego"
-      },
-      {
-       "type": "text",
-       "text": "03 - prace mechaników lotniczych związane z bezpośrednią obsługą potwierdzającą bezpieczeństwo statków powietrznych na płycie lotniska"
-      },
-      {
-       "type": "text",
-       "text": "04 - prace nawigatorów na statkach morskich oraz pilotów morskich"
-      },
-      {
-       "type": "text",
-       "text": "05 - prace maszynistów pojazdów trakcyjnych (maszynista pojazdów trakcyjnych, maszynista instruktor, maszynista zakładowy, maszynista wieloczynnościowych i ciężkich maszyn do kolejowych robót budowlanych i kolejowej sieci trakcyjnej, kierowca lokomotywy spalinowej o mocy do 300 KM, pomocnik maszynisty pojazdów trakcyjnych) i kierowników pociągów"
-      },
-      {
-       "type": "text",
-       "text": "06 - prace bezpośrednio przy ustawianiu drogi przebiegu pociągów i pojazdów metra (dyżurny ruchu, nastawniczy, manewrowy, ustawiacz, zwrotniczy, rewident taboru bezpośrednio potwierdzający bezpieczeństwo pociągu, dyspozytor ruchu metra, dyżurny ruchu i stacji metra)"
-      },
-      {
-       "type": "text",
-       "text": "07 - prace funkcjonariuszy straży ochrony kolei"
-      },
-      {
-       "type": "text",
-       "text": "08 - prace kierowców autobusów, trolejbusów oraz motorniczych tramwajów w transporcie publicznym"
-      },
-      {
-       "type": "text",
-       "text": "09 - prace kierowców pojazdów uprzywilejowanych"
-      },
-      {
-       "type": "text",
-       "text": "10 - prace kierowców pojazdów przewożących towary niebezpieczne wymagające oznakowania pojazdu tablicą ostrzegawczą barwy pomarańczowej, zgodnie z przepisami Umowy europejskiej dotyczącej międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzonej w Genewie dnia 30 września 1957 r."
-      },
-      {
-       "type": "text",
-       "text": "11 - prace operatorów reaktorów jądrowych"
-      },
-      {
-       "type": "text",
-       "text": "12 - prace operatorów żurawi wieżowych, do obsługi których są wymagane uprawnienia kategorii IŻ lub równorzędne, oraz dźwignic portowych lub stoczniowych"
-      },
-      {
-       "type": "text",
-       "text": "13 - prace przy bezpośrednim sterowaniu procesami technologicznymi mogącymi stwarzać zagrożenie wystąpienia poważnej awarii przemysłowej ze skutkami dla bezpieczeństwa publicznego"
-      },
-      {
-       "type": "text",
-       "text": "14 - prace przy bezpośrednim sterowaniu procesami technicznymi mogącymi spowodować awarię techniczną z poważnymi skutkami dla bezpieczeństwa publicznego"
-      },
-      {
-       "type": "text",
-       "text": "15 - prace bezpośrednio przy produkcji materiałów wybuchowych, środków strzałowych, wyrobów pirotechnicznych oraz ich konfekcjonowaniu 16 - prace bezpośrednio przy sterowaniu blokami energetycznymi wytwarzającymi energię elektryczną lub cieplną"
-      },
-      {
-       "type": "text",
-       "text": "17 - prace elektromonterów bezpośrednio przy usuwaniu awarii oraz eksploatacji napowietrznych sieci elektroenergetycznych w warunkach prac pod napięciem"
-      },
-      {
-       "type": "text",
-       "text": "18 - prace członków zespołów ratownictwa medycznego"
-      },
-      {
-       "type": "text",
-       "text": "19 - prace członków zawodowych ekip ratownictwa (chemicznego, górskiego, morskiego, górnictwa otworowego)"
-      },
-      {
-       "type": "text",
-       "text": "20 - prace pracowników jednostek ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1a-5 і 8 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej, uczestniczących bezpośrednio w akcjach ratowniczych"
-      },
-      {
-       "type": "text",
-       "text": "21 - prace nauczycieli, wychowawców i innych pracowników pedagogicznych zatrudnionych w młodzieżowych ośrodkach wychowawczych, młodzieżowych ośrodkach socjoterapii, ośrodkach szkolno-wychowawczych, okręgowych ośrodkach wychowawczych, schroniskach dla nieletnich oraz zakładach poprawczych, zgodnie z przepisami ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich"
-      },
-      {
-       "type": "text",
-       "text": "22 - prace personelu sprawującego opiekę nad mieszkańcami domów pomocy społecznej dla przewlekle psychicznie chorych, niepełnosprawnych intelektualnie dzieci i młodzieży lub dorosłych, zgodnie z przepisami ustawy z dnia 12 marca 2004 r. o pomocy społecznej"
-      },
-      {
-       "type": "text",
-       "text": "23 - prace personelu medycznego oddziałów psychiatrycznych i leczenia uzależnień w bezpośrednim kontakcie z pacjentami, zgodnie z przepisami ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego"
-      },
-      {
-       "type": "text",
-       "text": "24 - prace personelu medycznego w zespołach operacyjnych dyscyplin zabiegowych i anestezjologii w warunkach ostrego dyżuru"
-      },
-      {
-       "type": "text",
-       "text": "V. Kod oddziału wojewódzkiego Narodowego Funduszu Zdrowia składa się z trzech znaków:"
-      },
-      {
-       "type": "text",
-       "text": "01R - Dolnośląski Oddział Wojewódzki Narodowego Funduszu Zdrowia we Wrocławiu"
-      },
-      {
-       "type": "text",
-       "text": "02R - Kujawsko-Pomorski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Bydgoszczy"
-      },
-      {
-       "type": "text",
-       "text": "03R - Lubelski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Lublinie"
-      },
-      {
-       "type": "text",
-       "text": "04R - Lubuski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Zielonej Górze"
-      },
-      {
-       "type": "text",
-       "text": "05R - Łódzki Oddział Wojewódzki Narodowego Funduszu Zdrowia w Łodzi"
-      },
-      {
-       "type": "text",
-       "text": "06R - Małopolski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Krakowie"
-      },
-      {
-       "type": "text",
-       "text": "07R - Mazowiecki Oddział Wojewódzki Narodowego Funduszu Zdrowia w Warszawie"
-      },
-      {
-       "type": "text",
-       "text": "08R - Opolski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Opolu"
-      },
-      {
-       "type": "text",
-       "text": "09R - Podkarpacki Oddział Wojewódzki Narodowego Funduszu Zdrowia w Rzeszowie"
-      },
-      {
-       "type": "text",
-       "text": "10R - Podlaski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Białymstoku"
-      },
-      {
-       "type": "text",
-       "text": "11R - Pomorski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Gdańsku"
-      },
-      {
-       "type": "text",
-       "text": "12R - Śląski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Katowicach 13R - Świętokrzyski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Kielcach"
-      },
-      {
-       "type": "text",
-       "text": "14R - Warmińsko-Mazurski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Olsztynie"
-      },
-      {
-       "type": "text",
-       "text": "15R - Wielkopolski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Poznaniu"
-      },
-      {
-       "type": "text",
-       "text": "16R - Zachodniopomorski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Szczecinie"
-      },
-      {
-       "type": "text",
-       "text": "VI. Kod stopnia niepełnosprawności:"
-      },
-      {
-       "type": "text",
-       "text": "0 - osoba nieposiadająca orzeczenia o niepełnosprawności"
-      },
-      {
-       "type": "text",
-       "text": "1 - osoba posiadająca orzeczenie o lekkim stopniu niepełnosprawności"
-      },
-      {
-       "type": "text",
-       "text": "2 - osoba posiadająca orzeczenie o umiarkowanym stopniu niepełnosprawności"
-      },
-      {
-       "type": "text",
-       "text": "3 - osoba posiadająca orzeczenie o znacznym stopniu niepełnosprawności"
-      },
-      {
-       "type": "text",
-       "text": "4 - osoba posiadająca orzeczenie o niepełnosprawności wydawane osobom do 16. roku życia"
-      },
-      {
-       "type": "text",
-       "text": "VII. Kod przyczyny wyrejestrowania ubezpieczonego - składa się z 3 znaków:"
-      },
-      {
-       "type": "text",
-       "text": "100 - ustanie tytułu do ubezpieczeń/ubezpieczenia"
-      },
-      {
-       "type": "text",
-       "text": "500 - zgon osoby ubezpieczonej"
-      },
-      {
-       "type": "text",
-       "text": "600 - inna przyczyna wyrejestrowania"
-      },
-      {
-       "type": "text",
-       "text": "700 - zawieszenie wykonywania pozarolniczej działalności gospodarczej na podstawie przepisów o swobodzie działalności gospodarczej"
-      },
-      {
-       "type": "text",
-       "text": "750 - zawieszenie statusu marynarza"
-      },
-      {
-       "type": "text",
-       "text": "800 - wyrejestrowanie pracownika w związku z przejściem zakładu pracy lub jego części na innego pracodawcę w trybie art. 23¹ ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-      },
-      {
-       "type": "text",
-       "text": "VIII. Kod rodzaju uprawnienia - składa się z 2 znaków:"
-      },
-      {
-       "type": "text",
-       "text": "11 - wpis do ewidencji, na listę lub do rejestru"
-      },
-      {
-       "type": "text",
-       "text": "31 - koncesja"
-      },
-      {
-       "type": "text",
-       "text": "32 - zezwolenie"
-      },
-      {
-       "type": "text",
-       "text": "34 - decyzja"
-      },
-      {
-       "type": "text",
-       "text": "40 - uprawnienie inne niż wymienione wyżej"
-      },
-      {
-       "type": "text",
-       "text": "IX. Kod przyczyny wyrejestrowania płatnika - składa się z 3 znaków:"
-      },
-      {
-       "type": "text",
-       "text": "111 - zaprzestanie prowadzenia pozarolniczej działalności"
-      },
-      {
-       "type": "text",
-       "text": "115 - postanowienie sądu o ukończeniu postępowania upadłościowego"
-      },
-      {
-       "type": "text",
-       "text": "117 - zgon płatnika składek"
-      },
-      {
-       "type": "text",
-       "text": "210 - zawieszenie wykonywania pozarolniczej działalności gospodarczej na podstawie przepisów o swobodzie działalności gospodarczej"
-      },
-      {
-       "type": "text",
-       "text": "211 - wykreślenie z rejestru, ewidencji lub skreślenie z listy 218 - zawieszenie statusu marynarza"
-      },
-      {
-       "type": "text",
-       "text": "311 - decyzja właściwego organu o likwidacji płatnika składek będącego jednostką sektora finansów publicznych"
-      },
-      {
-       "type": "text",
-       "text": "350 - wyrejestrowanie z ubezpieczeń ostatniej osoby, za którą płatnik miał obowiązek składania dokumentów ubezpieczeniowych"
-      },
-      {
-       "type": "text",
-       "text": "600 - inna przyczyna wyrejestrowania"
-      },
-      {
-       "type": "text",
-       "text": "X. Typ identyfikatora:"
-      },
-      {
-       "type": "text",
-       "text": "P - PESEL"
-      },
-      {
-       "type": "text",
-       "text": "N - NIP"
-      },
-      {
-       "type": "text",
-       "text": "R - REGON"
-      },
-      {
-       "type": "text",
-       "text": "1 - dowód osobisty"
-      },
-      {
-       "type": "text",
-       "text": "2 - paszport lub inny dokument potwierdzający tożsamość obywatela UE"
-      },
-      {
-       "type": "text",
-       "text": "XI. Kod świadczenia/przerwy - składa się z 3 znaków:"
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Kod stopnia pokrewieństwa/powinowactwa - składa się z 2 znaków:"
+    },
+    {
+     "type": "text",
+     "text": "01 - małżonek"
+    },
+    {
+     "type": "text",
+     "text": "11 - dziecko własne, przysposobione lub dziecko małżonka 21 - wnuk albo dziecko obce, dla którego ustanowiono opiekę, albo dziecko obce w ramach rodziny zastępczej lub rodzinnego domu dziecka"
+    },
+    {
+     "type": "text",
+     "text": "30 - matka"
+    },
+    {
+     "type": "text",
+     "text": "31 - ojciec"
+    },
+    {
+     "type": "text",
+     "text": "32 - macocha"
+    },
+    {
+     "type": "text",
+     "text": "33 - ojczym"
+    },
+    {
+     "type": "text",
+     "text": "40 - babka"
+    },
+    {
+     "type": "text",
+     "text": "41 - dziadek"
+    },
+    {
+     "type": "text",
+     "text": "50 - osoby przysposabiające osoby ubezpieczone"
+    },
+    {
+     "type": "text",
+     "text": "60 - inni wstępni pozostający z ubezpieczonym we wspólnym gospodarstwie domowym"
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Kod pracy w szczególnych warunkach - składa się z 3 znaków zgodnych z załącznikiem nr 1 do ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych, z których:"
+    },
+    {
+     "type": "text",
+     "text": "- w polu pierwszym należy wpisać numer załącznika (1)"
+    },
+    {
+     "type": "text",
+     "text": "- w polu drugim i trzecim należy wpisać numer rodzaju pracy:"
+    },
+    {
+     "type": "text",
+     "text": "01 - prace bezpośrednio przy przeróbce mechanicznej węgla oraz rud metali lub ich wzbogacaniu"
+    },
+    {
+     "type": "text",
+     "text": "02 - prace udostępniające lub eksploatacyjne związane z urabianiem minerałów skalnych"
+    },
+    {
+     "type": "text",
+     "text": "03 - prace pod ziemią bezpośrednio przy drążeniu tuneli w górotworze"
+    },
+    {
+     "type": "text",
+     "text": "04 - prace bezpośrednio przy zalewaniu form odlewniczych, transportowaniu naczyń odlewniczych z płynnym, rozgrzanym materiałem (żeliwo, staliwo, metale nieżelazne i ich stopy)"
+    },
+    {
+     "type": "text",
+     "text": "05 - prace bezpośrednio przy ręcznej obróbce wykańczającej odlewy: usuwanie elementów układu wlewowego, ścinanie, szlifowanie powierzchni odlewów oraz ich malowanie na gorąco"
+    },
+    {
+     "type": "text",
+     "text": "06 - prace bezpośrednio przy obsłudze wielkich pieców oraz pieców stalowniczych lub odlewniczych"
+    },
+    {
+     "type": "text",
+     "text": "07 - prace murarskie bezpośrednio w piecach hutniczych, odlewniczych, bateriach koksowniczych oraz w piecach do produkcji materiałów ceramicznych"
+    },
+    {
+     "type": "text",
+     "text": "08 - prace bezpośrednio przy ręcznym zestawianiu surowców lub ręcznym formowaniu wyrobów szklanych w hutnictwie szkła"
+    },
+    {
+     "type": "text",
+     "text": "09 - prace bezpośrednio przy kuciu ręcznym w kuźniach"
+    },
+    {
+     "type": "text",
+     "text": "10 - prace bezpośrednio przy obsłudze agregatów i urządzeń do produkcji metali nieżelaznych"
+    },
+    {
+     "type": "text",
+     "text": "11 - prace bezpośrednio przy obsłudze ciągów walcowniczych: przygotowanie, dozorowanie pracy walców lub samotoków, ingerencja przy wypadaniu i zaklinowaniu materiałów"
+    },
+    {
+     "type": "text",
+     "text": "12 - prace przy obsłudze dźwignic bezpośrednio przy wytapianiu surówki, stopów żelaza lub metali nieżelaznych"
+    },
+    {
+     "type": "text",
+     "text": "13 - prace bezpośrednio przy produkcji koksu w bateriach koksowniczych 14 - prace bezpośrednio przy wypychaniu koksu z baterii koksowniczych, gaszeniu lub sortowaniu koksu"
+    },
+    {
+     "type": "text",
+     "text": "15 - prace bezpośrednio przy produkcji materiałów formierskich lub izolacyjnoegzotermicznych używanych w odlewnictwie i hutnictwie"
+    },
+    {
+     "type": "text",
+     "text": "16 - prace bezpośrednio przy ręcznym załadunku lub wyładunku pieców komorowych wyrobami ogniotrwałymi"
+    },
+    {
+     "type": "text",
+     "text": "17 - prace bezpośrednio przy ręcznym załadunku lub rozładunku gorących wyrobów ceramicznych"
+    },
+    {
+     "type": "text",
+     "text": "18 - prace bezpośrednio przy formowaniu wyrobów ogniotrwałych wielkogabarytowych przy użyciu ręcznych narzędzi wibracyjnych"
+    },
+    {
+     "type": "text",
+     "text": "19 - prace przy ręcznym formowaniu, odlewaniu, czyszczeniu lub szkliwieniu wyrobów ceramicznych"
+    },
+    {
+     "type": "text",
+     "text": "20 - prace nurka lub kesoniarza, prace w komorach hiperbarycznych"
+    },
+    {
+     "type": "text",
+     "text": "21 - prace fizyczne ciężkie bezpośrednio przy przeładunku w ładowniach statku"
+    },
+    {
+     "type": "text",
+     "text": "22 - prace rybaków morskich"
+    },
+    {
+     "type": "text",
+     "text": "23 - prace na statkach żeglugi morskiej"
+    },
+    {
+     "type": "text",
+     "text": "24 - prace na morskich platformach wiertniczych"
+    },
+    {
+     "type": "text",
+     "text": "25 - prace w powietrzu wykonywane na statkach powietrznych przez personel pokładowy"
+    },
+    {
+     "type": "text",
+     "text": "26 - prace bezpośrednio przy obsłudze urządzeń wiertniczych i wydobywczych przy poszukiwaniu złóż ropy naftowej lub gazu ziemnego"
+    },
+    {
+     "type": "text",
+     "text": "27 - prace bezpośrednio przy obróbce odwiertów w górnictwie otworowym: ropy naftowej lub gazu ziemnego"
+    },
+    {
+     "type": "text",
+     "text": "28 - prace bezpośrednio przy spawaniu łukowym lub cięciu termicznym w pomieszczeniach o bardzo małej kubaturze, z utrudnioną wentylacją (podwójne dna statków, zbiorniki, rury itp.)"
+    },
+    {
+     "type": "text",
+     "text": "29 - prace bezpośrednio przy malowaniu, nitowaniu lub montowaniu elementów wyposażenia w pomieszczeniach o bardzo małej kubaturze z utrudnioną wentylacją (podwójne dna statków, zbiorniki, rury itp.)"
+    },
+    {
+     "type": "text",
+     "text": "30 - prace wewnątrz cystern, kotłów, a także zbiorników o bardzo małej kubaturze po substancjach niebezpiecznych"
+    },
+    {
+     "type": "text",
+     "text": "31 - prace przy ręcznym układaniu na gorąco nawierzchni z mieszanek mineralno-bitumicznych"
+    },
+    {
+     "type": "text",
+     "text": "32 - prace bezpośrednio przy przetwórstwie materiałów zawierających azbest lub prace rozbiórkowe związane z ich usuwaniem"
+    },
+    {
+     "type": "text",
+     "text": "33 - prace garbarskie bezpośrednio przy obróbce mokrych skór"
+    },
+    {
+     "type": "text",
+     "text": "34 - prace bezpośrednio przy zrywce lub ręcznej ścince drzew przenośną pilarką z piłą łańcuchową"
+    },
+    {
+     "type": "text",
+     "text": "35 - prace w pomieszczeniach o narzuconej technologią temperaturze powietrza poniżej 0 °C"
+    },
+    {
+     "type": "text",
+     "text": "36 - prace fizyczne ciężkie w podziemnych kanałach ściekowych"
+    },
+    {
+     "type": "text",
+     "text": "37 - prace tancerzy zawodowych związane z bardzo ciężkim wysiłkiem fizycznym 38 - prace przy wywozie nieczystości stałych i płynnych oraz prace na wysypiskach i wylewiskach nieczystości związane z bardzo ciężkim wysiłkiem fizycznym"
+    },
+    {
+     "type": "text",
+     "text": "39 - prace przy kuciu ręcznym w kuźniach przemysłowych oraz obsłudze młotów mechanicznych"
+    },
+    {
+     "type": "text",
+     "text": "40 - prace przy produkcji węglików spiekanych, elektrod, rud i walczaków oraz żelazostopów"
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Kod pracy o szczególnym charakterze - składa się z 3 znaków zgodnych z załącznikiem nr 2 do ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych, z których:"
+    },
+    {
+     "type": "text",
+     "text": "- w polu pierwszym należy wpisać numer załącznika (2)"
+    },
+    {
+     "type": "text",
+     "text": "- w polu drugim i trzecim należy wpisać numer rodzaju pracy:"
+    },
+    {
+     "type": "text",
+     "text": "01 - prace pilotów statków powietrznych (pilot, instruktor)"
+    },
+    {
+     "type": "text",
+     "text": "02 - prace kontrolerów ruchu lotniczego"
+    },
+    {
+     "type": "text",
+     "text": "03 - prace mechaników lotniczych związane z bezpośrednią obsługą potwierdzającą bezpieczeństwo statków powietrznych na płycie lotniska"
+    },
+    {
+     "type": "text",
+     "text": "04 - prace nawigatorów na statkach morskich oraz pilotów morskich"
+    },
+    {
+     "type": "text",
+     "text": "05 - prace maszynistów pojazdów trakcyjnych (maszynista pojazdów trakcyjnych, maszynista instruktor, maszynista zakładowy, maszynista wieloczynnościowych i ciężkich maszyn do kolejowych robót budowlanych i kolejowej sieci trakcyjnej, kierowca lokomotywy spalinowej o mocy do 300 KM, pomocnik maszynisty pojazdów trakcyjnych) i kierowników pociągów"
+    },
+    {
+     "type": "text",
+     "text": "06 - prace bezpośrednio przy ustawianiu drogi przebiegu pociągów i pojazdów metra (dyżurny ruchu, nastawniczy, manewrowy, ustawiacz, zwrotniczy, rewident taboru bezpośrednio potwierdzający bezpieczeństwo pociągu, dyspozytor ruchu metra, dyżurny ruchu i stacji metra)"
+    },
+    {
+     "type": "text",
+     "text": "07 - prace funkcjonariuszy straży ochrony kolei"
+    },
+    {
+     "type": "text",
+     "text": "08 - prace kierowców autobusów, trolejbusów oraz motorniczych tramwajów w transporcie publicznym"
+    },
+    {
+     "type": "text",
+     "text": "09 - prace kierowców pojazdów uprzywilejowanych"
+    },
+    {
+     "type": "text",
+     "text": "10 - prace kierowców pojazdów przewożących towary niebezpieczne wymagające oznakowania pojazdu tablicą ostrzegawczą barwy pomarańczowej, zgodnie z przepisami Umowy europejskiej dotyczącej międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzonej w Genewie dnia 30 września 1957 r."
+    },
+    {
+     "type": "text",
+     "text": "11 - prace operatorów reaktorów jądrowych"
+    },
+    {
+     "type": "text",
+     "text": "12 - prace operatorów żurawi wieżowych, do obsługi których są wymagane uprawnienia kategorii IŻ lub równorzędne, oraz dźwignic portowych lub stoczniowych"
+    },
+    {
+     "type": "text",
+     "text": "13 - prace przy bezpośrednim sterowaniu procesami technologicznymi mogącymi stwarzać zagrożenie wystąpienia poważnej awarii przemysłowej ze skutkami dla bezpieczeństwa publicznego"
+    },
+    {
+     "type": "text",
+     "text": "14 - prace przy bezpośrednim sterowaniu procesami technicznymi mogącymi spowodować awarię techniczną z poważnymi skutkami dla bezpieczeństwa publicznego"
+    },
+    {
+     "type": "text",
+     "text": "15 - prace bezpośrednio przy produkcji materiałów wybuchowych, środków strzałowych, wyrobów pirotechnicznych oraz ich konfekcjonowaniu 16 - prace bezpośrednio przy sterowaniu blokami energetycznymi wytwarzającymi energię elektryczną lub cieplną"
+    },
+    {
+     "type": "text",
+     "text": "17 - prace elektromonterów bezpośrednio przy usuwaniu awarii oraz eksploatacji napowietrznych sieci elektroenergetycznych w warunkach prac pod napięciem"
+    },
+    {
+     "type": "text",
+     "text": "18 - prace członków zespołów ratownictwa medycznego"
+    },
+    {
+     "type": "text",
+     "text": "19 - prace członków zawodowych ekip ratownictwa (chemicznego, górskiego, morskiego, górnictwa otworowego)"
+    },
+    {
+     "type": "text",
+     "text": "20 - prace pracowników jednostek ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1a-5 і 8 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej, uczestniczących bezpośrednio w akcjach ratowniczych"
+    },
+    {
+     "type": "text",
+     "text": "21 - prace nauczycieli, wychowawców i innych pracowników pedagogicznych zatrudnionych w młodzieżowych ośrodkach wychowawczych, młodzieżowych ośrodkach socjoterapii, ośrodkach szkolno-wychowawczych, okręgowych ośrodkach wychowawczych, schroniskach dla nieletnich oraz zakładach poprawczych, zgodnie z przepisami ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich"
+    },
+    {
+     "type": "text",
+     "text": "22 - prace personelu sprawującego opiekę nad mieszkańcami domów pomocy społecznej dla przewlekle psychicznie chorych, niepełnosprawnych intelektualnie dzieci i młodzieży lub dorosłych, zgodnie z przepisami ustawy z dnia 12 marca 2004 r. o pomocy społecznej"
+    },
+    {
+     "type": "text",
+     "text": "23 - prace personelu medycznego oddziałów psychiatrycznych i leczenia uzależnień w bezpośrednim kontakcie z pacjentami, zgodnie z przepisami ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego"
+    },
+    {
+     "type": "text",
+     "text": "24 - prace personelu medycznego w zespołach operacyjnych dyscyplin zabiegowych i anestezjologii w warunkach ostrego dyżuru"
+    },
+    {
+     "type": "heading",
+     "label": "V.",
+     "text": "Kod oddziału wojewódzkiego Narodowego Funduszu Zdrowia składa się z trzech znaków:"
+    },
+    {
+     "type": "text",
+     "text": "01R - Dolnośląski Oddział Wojewódzki Narodowego Funduszu Zdrowia we Wrocławiu"
+    },
+    {
+     "type": "text",
+     "text": "02R - Kujawsko-Pomorski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Bydgoszczy"
+    },
+    {
+     "type": "text",
+     "text": "03R - Lubelski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Lublinie"
+    },
+    {
+     "type": "text",
+     "text": "04R - Lubuski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Zielonej Górze"
+    },
+    {
+     "type": "text",
+     "text": "05R - Łódzki Oddział Wojewódzki Narodowego Funduszu Zdrowia w Łodzi"
+    },
+    {
+     "type": "text",
+     "text": "06R - Małopolski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Krakowie"
+    },
+    {
+     "type": "text",
+     "text": "07R - Mazowiecki Oddział Wojewódzki Narodowego Funduszu Zdrowia w Warszawie"
+    },
+    {
+     "type": "text",
+     "text": "08R - Opolski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Opolu"
+    },
+    {
+     "type": "text",
+     "text": "09R - Podkarpacki Oddział Wojewódzki Narodowego Funduszu Zdrowia w Rzeszowie"
+    },
+    {
+     "type": "text",
+     "text": "10R - Podlaski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Białymstoku"
+    },
+    {
+     "type": "text",
+     "text": "11R - Pomorski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Gdańsku"
+    },
+    {
+     "type": "text",
+     "text": "12R - Śląski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Katowicach 13R - Świętokrzyski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Kielcach"
+    },
+    {
+     "type": "text",
+     "text": "14R - Warmińsko-Mazurski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Olsztynie"
+    },
+    {
+     "type": "text",
+     "text": "15R - Wielkopolski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Poznaniu"
+    },
+    {
+     "type": "text",
+     "text": "16R - Zachodniopomorski Oddział Wojewódzki Narodowego Funduszu Zdrowia w Szczecinie"
+    },
+    {
+     "type": "heading",
+     "label": "VI.",
+     "text": "Kod stopnia niepełnosprawności:"
+    },
+    {
+     "type": "text",
+     "text": "0 - osoba nieposiadająca orzeczenia o niepełnosprawności"
+    },
+    {
+     "type": "text",
+     "text": "1 - osoba posiadająca orzeczenie o lekkim stopniu niepełnosprawności"
+    },
+    {
+     "type": "text",
+     "text": "2 - osoba posiadająca orzeczenie o umiarkowanym stopniu niepełnosprawności"
+    },
+    {
+     "type": "text",
+     "text": "3 - osoba posiadająca orzeczenie o znacznym stopniu niepełnosprawności"
+    },
+    {
+     "type": "text",
+     "text": "4 - osoba posiadająca orzeczenie o niepełnosprawności wydawane osobom do 16. roku życia"
+    },
+    {
+     "type": "heading",
+     "label": "VII.",
+     "text": "Kod przyczyny wyrejestrowania ubezpieczonego - składa się z 3 znaków:"
+    },
+    {
+     "type": "text",
+     "text": "100 - ustanie tytułu do ubezpieczeń/ubezpieczenia"
+    },
+    {
+     "type": "text",
+     "text": "500 - zgon osoby ubezpieczonej"
+    },
+    {
+     "type": "text",
+     "text": "600 - inna przyczyna wyrejestrowania"
+    },
+    {
+     "type": "text",
+     "text": "700 - zawieszenie wykonywania pozarolniczej działalności gospodarczej na podstawie przepisów o swobodzie działalności gospodarczej"
+    },
+    {
+     "type": "text",
+     "text": "750 - zawieszenie statusu marynarza"
+    },
+    {
+     "type": "text",
+     "text": "800 - wyrejestrowanie pracownika w związku z przejściem zakładu pracy lub jego części na innego pracodawcę w trybie art. 23¹ ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "heading",
+     "label": "VIII.",
+     "text": "Kod rodzaju uprawnienia - składa się z 2 znaków:"
+    },
+    {
+     "type": "text",
+     "text": "11 - wpis do ewidencji, na listę lub do rejestru"
+    },
+    {
+     "type": "text",
+     "text": "31 - koncesja"
+    },
+    {
+     "type": "text",
+     "text": "32 - zezwolenie"
+    },
+    {
+     "type": "text",
+     "text": "34 - decyzja"
+    },
+    {
+     "type": "text",
+     "text": "40 - uprawnienie inne niż wymienione wyżej"
+    },
+    {
+     "type": "heading",
+     "label": "IX.",
+     "text": "Kod przyczyny wyrejestrowania płatnika - składa się z 3 znaków:"
+    },
+    {
+     "type": "text",
+     "text": "111 - zaprzestanie prowadzenia pozarolniczej działalności"
+    },
+    {
+     "type": "text",
+     "text": "115 - postanowienie sądu o ukończeniu postępowania upadłościowego"
+    },
+    {
+     "type": "text",
+     "text": "117 - zgon płatnika składek"
+    },
+    {
+     "type": "text",
+     "text": "210 - zawieszenie wykonywania pozarolniczej działalności gospodarczej na podstawie przepisów o swobodzie działalności gospodarczej"
+    },
+    {
+     "type": "text",
+     "text": "211 - wykreślenie z rejestru, ewidencji lub skreślenie z listy 218 - zawieszenie statusu marynarza"
+    },
+    {
+     "type": "text",
+     "text": "311 - decyzja właściwego organu o likwidacji płatnika składek będącego jednostką sektora finansów publicznych"
+    },
+    {
+     "type": "text",
+     "text": "350 - wyrejestrowanie z ubezpieczeń ostatniej osoby, za którą płatnik miał obowiązek składania dokumentów ubezpieczeniowych"
+    },
+    {
+     "type": "text",
+     "text": "600 - inna przyczyna wyrejestrowania"
+    },
+    {
+     "type": "heading",
+     "label": "X.",
+     "text": "Typ identyfikatora:"
+    },
+    {
+     "type": "text",
+     "text": "P - PESEL"
+    },
+    {
+     "type": "text",
+     "text": "N - NIP"
+    },
+    {
+     "type": "text",
+     "text": "R - REGON"
+    },
+    {
+     "type": "text",
+     "text": "1 - dowód osobisty"
+    },
+    {
+     "type": "text",
+     "text": "2 - paszport lub inny dokument potwierdzający tożsamość obywatela UE"
+    },
+    {
+     "type": "heading",
+     "label": "XI.",
+     "text": "Kod świadczenia/przerwy - składa się z 3 znaków:"
     },
     {
      "type": "ust",
@@ -4211,138 +4222,125 @@
       {
        "type": "text",
        "text": "350 - inne świadczenia/przerwy"
-      },
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "XII.",
+     "text": "Kod terminu przesyłania deklaracji i raportów:"
+    },
+    {
+     "type": "text",
+     "text": "1 - dla deklaracji składanych do 5. dnia następnego miesiąca za miesiąc poprzedni dla jednostek budżetowych i samorządowych zakładów budżetowych"
+    },
+    {
+     "type": "text",
+     "text": "(skreślony)"
+    },
+    {
+     "type": "text",
+     "text": "3 - dla deklaracji składanych do 15. dnia następnego miesiąca - dla płatników składek posiadających osobowość prawną"
+    },
+    {
+     "type": "text",
+     "text": "(skreślony)"
+    },
+    {
+     "type": "text",
+     "text": "5 - dla deklaracji składanych za sędziów, prokuratorów, żołnierzy lub funkcjonariuszy, za których jest obowiązek opłacania składek na ubezpieczenia społeczne"
+    },
+    {
+     "type": "text",
+     "text": "6 - dla deklaracji składanych do 20. dnia następnego miesiąca - dla pozostałych płatników składek"
+    },
+    {
+     "type": "heading",
+     "label": "XIII.",
+     "text": "Kod informacji o przekroczeniu rocznej podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe:"
+    },
+    {
+     "type": "text",
+     "text": "1 - w przypadku gdy informację o przekroczeniu rocznej podstawy wymiaru składek przekazał ubezpieczony"
+    },
+    {
+     "type": "text",
+     "text": "2 - w przypadku gdy informację o przekroczeniu rocznej podstawy wymiaru składek przekazał płatnik składek"
+    },
+    {
+     "type": "text",
+     "text": "3 - w przypadku gdy informację o przekroczeniu rocznej podstawy wymiaru składek przekazał Zakład Ubezpieczeń Społecznych"
+    },
+    {
+     "type": "heading",
+     "label": "XIV.",
+     "text": "Kody numerów identyfikatorów deklaracji rozliczeniowych i imiennego raportu miesięcznego:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "01 - dla deklaracji rozliczeniowej i imiennego raportu miesięcznego",
+     "children": [
       {
        "type": "text",
-       "text": "XII. Kod terminu przesyłania deklaracji i raportów:"
+       "text": "02-39 włącznie - dla deklaracji rozliczeniowej korygującej i imiennego raportu miesięcznego korygującego"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "w przypadku:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_2/lit_a",
+       "text": "powiatowych urzędów pracy, za bezrobotnych oraz osoby pobierające stypendium w okresie odbywania szkolenia, stażu lub przygotowania zawodowego w miejscu pracy, na które zostały skierowane przez powiatowy urząd pracy,",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "1 - dla deklaracji składanych do 5. dnia następnego miesiąca za miesiąc poprzedni dla jednostek budżetowych i samorządowych zakładów budżetowych"
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_2/lit_b",
+       "text": "wojskowych biur emerytalnych, Zakładu Emerytalno-Rentowego Ministerstwa Spraw Wewnętrznych i Administracji oraz Biura Emerytalnego Służby Więziennej, za emerytów i rencistów,",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "(skreślony)"
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_2/lit_c",
+       "text": "jednostek organizacyjnych pomocy społecznej albo wójtów, burmistrzów i prezydentów miast, za osoby pobierające świadczenia rodzinne oraz za osoby korzystające ze świadczeń z pomocy społecznej, za które opłacane są składki,",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "3 - dla deklaracji składanych do 15. dnia następnego miesiąca - dla płatników składek posiadających osobowość prawną"
+       "type": "lit",
+       "num": "d",
+       "path": "pkt_2/lit_d",
+       "text": "banków rozliczających składki na ubezpieczenie zdrowotne w przypadku dokonywania wypłaty emerytury lub renty z zagranicy,",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "(skreślony)"
+       "type": "lit",
+       "num": "e",
+       "path": "pkt_2/lit_e",
+       "text": "innych podmiotów rozliczających składki na ubezpieczenie zdrowotne w przypadku dokonywania wypłat emerytury lub renty z zagranicy,",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "5 - dla deklaracji składanych za sędziów, prokuratorów, żołnierzy lub funkcjonariuszy, za których jest obowiązek opłacania składek na ubezpieczenia społeczne"
+       "type": "lit",
+       "num": "f",
+       "path": "pkt_2/lit_f",
+       "text": "instytucji rozliczającej składki na ubezpieczenie zdrowotne, dokonującej wypłaty renty strukturalnej zgodnie z przepisami o rentach strukturalnych i przepisami o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej oraz przepisami o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich,",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "6 - dla deklaracji składanych do 20. dnia następnego miesiąca - dla pozostałych płatników składek"
-      },
-      {
-       "type": "text",
-       "text": "XIII. Kod informacji o przekroczeniu rocznej podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe:"
-      },
-      {
-       "type": "text",
-       "text": "1 - w przypadku gdy informację o przekroczeniu rocznej podstawy wymiaru składek przekazał ubezpieczony"
-      },
-      {
-       "type": "text",
-       "text": "2 - w przypadku gdy informację o przekroczeniu rocznej podstawy wymiaru składek przekazał płatnik składek"
-      },
-      {
-       "type": "text",
-       "text": "3 - w przypadku gdy informację o przekroczeniu rocznej podstawy wymiaru składek przekazał Zakład Ubezpieczeń Społecznych"
-      },
-      {
-       "type": "text",
-       "text": "XIV. Kody numerów identyfikatorów deklaracji rozliczeniowych i imiennego raportu miesięcznego:"
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_3/pkt_1",
-       "text": "01 - dla deklaracji rozliczeniowej i imiennego raportu miesięcznego",
-       "children": [
-        {
-         "type": "text",
-         "text": "02-39 włącznie - dla deklaracji rozliczeniowej korygującej i imiennego raportu miesięcznego korygującego"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "ust_3/pkt_2",
-       "text": "w przypadku:",
-       "children": [
-        {
-         "type": "lit",
-         "num": "a",
-         "path": "ust_3/pkt_2/lit_a",
-         "text": "powiatowych urzędów pracy, za bezrobotnych oraz osoby pobierające stypendium w okresie odbywania szkolenia, stażu lub przygotowania zawodowego w miejscu pracy, na które zostały skierowane przez powiatowy urząd pracy,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "b",
-         "path": "ust_3/pkt_2/lit_b",
-         "text": "wojskowych biur emerytalnych, Zakładu Emerytalno-Rentowego Ministerstwa Spraw Wewnętrznych i Administracji oraz Biura Emerytalnego Służby Więziennej, za emerytów i rencistów,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "c",
-         "path": "ust_3/pkt_2/lit_c",
-         "text": "jednostek organizacyjnych pomocy społecznej albo wójtów, burmistrzów i prezydentów miast, za osoby pobierające świadczenia rodzinne oraz za osoby korzystające ze świadczeń z pomocy społecznej, za które opłacane są składki,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "d",
-         "path": "ust_3/pkt_2/lit_d",
-         "text": "banków rozliczających składki na ubezpieczenie zdrowotne w przypadku dokonywania wypłaty emerytury lub renty z zagranicy,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "e",
-         "path": "ust_3/pkt_2/lit_e",
-         "text": "innych podmiotów rozliczających składki na ubezpieczenie zdrowotne w przypadku dokonywania wypłat emerytury lub renty z zagranicy,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "f",
-         "path": "ust_3/pkt_2/lit_f",
-         "text": "instytucji rozliczającej składki na ubezpieczenie zdrowotne, dokonującej wypłaty renty strukturalnej zgodnie z przepisami o rentach strukturalnych i przepisami o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej oraz przepisami o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "g",
-         "path": "ust_3/pkt_2/lit_g",
-         "text": "centrum integracji społecznej za osoby pobierające świadczenie integracyjne,",
-         "children": [
-          {
-           "type": "text",
-           "text": "51 - dla deklaracji rozliczeniowej i imiennego raportu miesięcznego"
-          },
-          {
-           "type": "text",
-           "text": "52-69 włącznie - dla deklaracji rozliczeniowej korygującej i imiennego raportu miesięcznego korygującego"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "ust_3/pkt_3",
-       "text": "w przypadku ZUS za emerytów i rencistów oraz osoby pobierające zasiłek przedemerytalny lub świadczenie przedemerytalne:",
+       "type": "lit",
+       "num": "g",
+       "path": "pkt_2/lit_g",
+       "text": "centrum integracji społecznej za osoby pobierające świadczenie integracyjne,",
        "children": [
         {
          "type": "text",
@@ -4350,827 +4348,846 @@
         },
         {
          "type": "text",
-         "text": "52-89 włącznie - dla deklaracji rozliczeniowej korygującej i imiennego raportu miesięcznego korygującego"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "4",
-       "path": "ust_3/pkt_4",
-       "text": "w przypadku sędziów, prokuratorów, żołnierzy lub funkcjonariuszy, za których powstał obowiązek opłacania składek na ubezpieczenia społeczne:",
-       "children": [
-        {
-         "type": "text",
-         "text": "70 - dla deklaracji rozliczeniowej i imiennego raportu miesięcznego"
-        },
-        {
-         "type": "text",
-         "text": "71-79 włącznie - dla deklaracji rozliczeniowej korygującej i imiennego raportu miesięcznego korygującego"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "5",
-       "path": "ust_3/pkt_5",
-       "text": "w przypadku deklaracji rozliczeniowej i imiennego raportu miesięcznego za dany miesiąc kalendarzowy, składanych przez syndyka upadłości za okres od dnia ogłoszenia upadłości:",
-       "children": [
-        {
-         "type": "text",
-         "text": "80 - dla deklaracji rozliczeniowej i imiennego raportu miesięcznego"
-        },
-        {
-         "type": "text",
-         "text": "81-89 włącznie - dla deklaracji rozliczeniowej korygującej i imiennego raportu miesięcznego korygującego"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "6",
-       "path": "ust_3/pkt_6",
-       "text": "w przypadku płatników składek opłacających składki wyłącznie na własne ubezpieczenia, składających za dany miesiąc więcej niż jedną deklarację rozliczeniową z różnymi kodami tytułu ubezpieczenia:",
-       "children": [
-        {
-         "type": "text",
-         "text": "01 - dla pierwszej deklaracji rozliczeniowej składanej za dany miesiąc"
-        },
-        {
-         "type": "text",
-         "text": "02-39 włącznie - dla deklaracji rozliczeniowej korygującej składanej do deklaracji oznaczonej numerem 01"
-        },
-        {
-         "type": "text",
-         "text": "40 - dla drugiej deklaracji rozliczeniowej składanej za dany miesiąc"
-        },
-        {
-         "type": "text",
-         "text": "41-49 włącznie - dla deklaracji rozliczeniowej korygującej składanej do deklaracji oznaczonej numerem 40"
-        },
-        {
-         "type": "text",
-         "text": "51 - dla trzeciej deklaracji rozliczeniowej składanej za dany miesiąc"
-        },
-        {
-         "type": "text",
-         "text": "52-69 włącznie - dla deklaracji rozliczeniowej korygującej składanej do deklaracji oznaczonej numerem 51"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "7",
-       "path": "ust_3/pkt_7",
-       "text": "w przypadku płatników składek zobowiązanych do sporządzenia i przekazania dokumentów rozliczeniowych za osobę sprawującą opiekę nad dziećmi na podstawie umowy uaktywniającej w rozumieniu ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3:",
-       "children": [
-        {
-         "type": "text",
-         "text": "40 - dla deklaracji rozliczeniowej i imiennego raportu miesięcznego"
-        },
-        {
-         "type": "text",
-         "text": "41-49 włącznie - dla deklaracji rozliczeniowej korygującej i imiennego raportu miesięcznego korygującego"
-        },
-        {
-         "type": "text",
-         "text": "Numer imiennego raportu miesięcznego powinien być zgodny z numerem deklaracji rozliczeniowej, do której jest dołączony"
-        },
-        {
-         "type": "text",
-         "text": "XV. Kod wygaśnięcia/ kod trybu rozwiązania stosunku pracy/ stosunku służbowego - składa się z 3 znaków, z których wpisana w polu 3 litera:"
-        },
-        {
-         "type": "text",
-         "text": "- R - oznacza ustanie stosunku pracy/stosunku służbowego w wyniku jego rozwiązania"
-        },
-        {
-         "type": "text",
-         "text": "- W - oznacza ustanie stosunku pracy/stosunku służbowego w wyniku jego wygaśnięcia"
-        },
-        {
-         "type": "text",
-         "text": "20R - bez wypowiedzenia, przez pracownika w związku z przejściem zakładu pracy lub jego części na innego pracodawcę"
-        },
-        {
-         "type": "text",
-         "text": "21R - w wyniku nieuzgodnienia nowych warunków pracy i płacy, zaproponowanych przez pracodawcę z dniem przejęcia zakładu pracy lub jego części"
-        },
-        {
-         "type": "text",
-         "text": "22R - na mocy porozumienia stron"
-        },
-        {
-         "type": "text",
-         "text": "23R - wypowiedzenie przez pracodawcę"
-        },
-        {
-         "type": "text",
-         "text": "24R - wypowiedzenie przez pracownika"
-        },
-        {
-         "type": "text",
-         "text": "25R - bez wypowiedzenia przez pracodawcę, naruszenie obowiązków pracowniczych"
-        },
-        {
-         "type": "text",
-         "text": "26R - bez wypowiedzenia przez pracodawcę, popełnienie przestępstwa"
-        },
-        {
-         "type": "text",
-         "text": "27R - bez wypowiedzenia przez pracodawcę, utrata koniecznych uprawnień"
-        },
-        {
-         "type": "text",
-         "text": "28R - z upływem czasu, na który była zawarta umowa o pracę 29R - z dniem ukończenia pracy, dla której wykonania była zawarta umowa"
-        },
-        {
-         "type": "text",
-         "text": "30R - ze skróconym okresem wypowiedzenia, z przyczyn niedotyczących pracowników"
-        },
-        {
-         "type": "text",
-         "text": "31R - przywrócenie do pracy i zatrudnienie u innego pracodawcy"
-        },
-        {
-         "type": "text",
-         "text": "32R - bez wypowiedzenia przez pracodawcę, niezdolność do pracy dłuższa niż 3 mies."
-        },
-        {
-         "type": "text",
-         "text": "33R - bez wypowiedzenia przez pracodawcę, wyczerpanie okresu zasiłkowego, pobierania świadczenia rehabilitacyjnego"
-        },
-        {
-         "type": "text",
-         "text": "34R - bez wypowiedzenia przez pracodawcę, usprawiedliwiona nieobecność dłuższa niż 1 mies."
-        },
-        {
-         "type": "text",
-         "text": "35R - bez wypowiedzenia przez pracownika, orzeczenie o szkodliwym wpływie wykonywanej pracy na zdrowie"
-        },
-        {
-         "type": "text",
-         "text": "36R - bez wypowiedzenia przez pracownika, naruszenie obowiązków przez pracodawcę"
-        },
-        {
-         "type": "text",
-         "text": "37R - w przypadkach określonych w przepisach szczególnych, innych niż określone w części XVI"
-        },
-        {
-         "type": "text",
-         "text": "38R - powołanie u innego pracodawcy"
-        },
-        {
-         "type": "text",
-         "text": "39R - odwołanie"
-        },
-        {
-         "type": "text",
-         "text": "40R - odwołanie bez wypowiedzenia"
-        },
-        {
-         "type": "text",
-         "text": "41R - wygaśnięcie mandatu"
-        },
-        {
-         "type": "text",
-         "text": "42R - z pracownikiem młodocianym w związku z orzeczeniem lekarskim o pracy zagrażającej zdrowiu"
-        },
-        {
-         "type": "text",
-         "text": "43R - z przyczyn niedotyczących pracownika, grupowe zwolnienie - porozumienie stron"
-        },
-        {
-         "type": "text",
-         "text": "44R - z przyczyn niedotyczących pracownika, grupowe zwolnienie - wypowiedzenie"
-        },
-        {
-         "type": "text",
-         "text": "45R - z przyczyn niedotyczących pracownika, indywidualne zwolnienie - wypowiedzenie"
-        },
-        {
-         "type": "text",
-         "text": "46R - z przyczyn niedotyczących pracownika, indywidualne zwolnienie - porozumienie stron"
-        },
-        {
-         "type": "text",
-         "text": "47W - brak powrotu do pracy po zakończeniu stosunku pracy z wyboru"
-        },
-        {
-         "type": "text",
-         "text": "48W - śmierć pracownika"
-        },
-        {
-         "type": "text",
-         "text": "49W - śmierć pracodawcy"
-        },
-        {
-         "type": "text",
-         "text": "50W - tymczasowe aresztowanie"
-        },
-        {
-         "type": "text",
-         "text": "51W - powołanie do zawodowej służby wojskowej"
-        },
-        {
-         "type": "text",
-         "text": "52W - brak powrotu do pracy po zwolnieniu z czynnej służby wojskowej"
-        },
-        {
-         "type": "text",
-         "text": "53W - w przypadkach określonych w przepisach szczególnych, innych niż określone w części XVI"
-        },
-        {
-         "type": "text",
-         "text": "XVI. Kod podstawy prawnej rozwiązania lub wygaśnięcia stosunku pracy lub stosunku służbowego - składa się z 3 znaków:"
-        },
-        {
-         "type": "text",
-         "text": "400 - art. 23¹ § 4 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "401 - art. 23¹ § 5 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "402 - art. 30 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy 403 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "404 - art. 30 § 1 pkt 3 w związku z art. 52 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "405 - art. 30 § 1 pkt 3 w związku z art. 52 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "406 - art. 30 § 1 pkt 3 w związku z art. 52 § 1 pkt 3 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "407 - art. 30 § 1 pkt 4 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "408 - art. 30 § 1 pkt 5 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w brzmieniu obowiązującym do dnia 21 lutego 2016 r."
-        },
-        {
-         "type": "text",
-         "text": "409 - art. 36¹ § 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "410 - art. 48 § 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "411 - art. 30 § 1 pkt 3 w związku z art. 53 § 1 pkt 1 lit. a ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "412 - art. 30 § 1 pkt 3 w związku z art. 53 § 1 pkt 1 lit. b ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "413 - art. 30 § 1 pkt 3 w związku z art. 53 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "414 - art. 30 § 1 pkt 3 w związku z art. 55 § 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "415 - art. 30 § 1 pkt 3 w związku z art. 55 § 1¹ ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "416 - art. 68³ ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "417 - art. 70 § 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "418 - art. 70 § 3 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "419 - art. 73 § 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "420 - art. 201 § 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "421 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 1 ust. 1 ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników"
-        },
-        {
-         "type": "text",
-         "text": "422 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 10 ust. 1 ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników"
-        },
-        {
-         "type": "text",
-         "text": "423 - art. 74 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "424 - art. 63¹ § 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "425 - art. 63² § 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "426 - art. 66 § 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
-        },
-        {
-         "type": "text",
-         "text": "427 - art. 63 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 189 ust. 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny 428 - art. 63 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 315 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny"
-        },
-        {
-         "type": "text",
-         "text": "429 - art. 30 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 2 pkt 38 lit. a ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia"
-        },
-        {
-         "type": "text",
-         "text": "430 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 2 pkt 38 lit. a ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia"
-        },
-        {
-         "type": "text",
-         "text": "431 - art. 30 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 2 pkt 38 lit. b ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia"
-        },
-        {
-         "type": "text",
-         "text": "432 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 2 pkt 38 lit. b ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia"
-        },
-        {
-         "type": "text",
-         "text": "433 - art. 30 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 3 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
-        },
-        {
-         "type": "text",
-         "text": "434 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 3 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
-        },
-        {
-         "type": "text",
-         "text": "435 - art. 30 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 4 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
-        },
-        {
-         "type": "text",
-         "text": "436 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 4 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
-        },
-        {
-         "type": "text",
-         "text": "437 - art. 30 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 5 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
-        },
-        {
-         "type": "text",
-         "text": "438 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 5 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
-        },
-        {
-         "type": "text",
-         "text": "439 - art. 30 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 6 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
-        },
-        {
-         "type": "text",
-         "text": "440 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 6 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
-        },
-        {
-         "type": "text",
-         "text": "441 - art. 30 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 8 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
-        },
-        {
-         "type": "text",
-         "text": "442 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 8 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
-        },
-        {
-         "type": "text",
-         "text": "443 - art. 30 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 8a ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
-        },
-        {
-         "type": "text",
-         "text": "444 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 8a ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
-        },
-        {
-         "type": "text",
-         "text": "445 - art. 27 ust. 1 pkt 2 ustawy z dnia 27 lipca 2001 r. o kuratorach sądowych"
-        },
-        {
-         "type": "text",
-         "text": "446 - art. 62 ust. 1 pkt 2 ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy"
-        },
-        {
-         "type": "text",
-         "text": "447 - art. 71 ust. 1 pkt 4 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej 448 - art. 13 ust. 1 pkt 2 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych"
-        },
-        {
-         "type": "text",
-         "text": "449 - art. 170 ust. 1 pkt 1 ustawy z dnia 16 listopada 2016 r. - Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej"
-        },
-        {
-         "type": "text",
-         "text": "450 - art. 97 ust. 3 ustawy z dnia 16 grudnia 2016 r. - Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym"
-        },
-        {
-         "type": "text",
-         "text": "451 - art. 30 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 20 ust. 1 pkt 1 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela"
-        },
-        {
-         "type": "text",
-         "text": "452 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 20 ust. 1 pkt i ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela"
-        },
-        {
-         "type": "text",
-         "text": "453 - art. 30 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 20 ust. 1 pkt 2 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela"
-        },
-        {
-         "type": "text",
-         "text": "454 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 20 ust. 1 pkt 2 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela"
-        },
-        {
-         "type": "text",
-         "text": "455 - art. 20 ust. 5c ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela"
-        },
-        {
-         "type": "text",
-         "text": "456 - art. 20 ust. 6 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela"
-        },
-        {
-         "type": "text",
-         "text": "457 - art. 20 ust. 7 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela"
-        },
-        {
-         "type": "text",
-         "text": "458 - art. 23 ust. 1 pkt 1 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela"
-        },
-        {
-         "type": "text",
-         "text": "459 - art. 23 ust. 4 pkt 1 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela"
-        },
-        {
-         "type": "text",
-         "text": "460 - art. 27 ust. 1 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela"
-        },
-        {
-         "type": "text",
-         "text": "461 - art. 225 ust. 1, 6 i 10 ustawy z dnia 14 grudnia 2016 r. - Przepisy wprowadzające ustawę - Prawo oświatowe"
-        },
-        {
-         "type": "text",
-         "text": "462 - art. 225 ust. 7 pkt 1 ustawy z dnia 14 grudnia 2016 r. - Przepisy wprowadzające ustawę - Prawo oświatowe"
-        },
-        {
-         "type": "text",
-         "text": "463 - art. 226 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Przepisy wprowadzające ustawę - Prawo oświatowe"
-        },
-        {
-         "type": "text",
-         "text": "550 - inna niż określona w kodach od 400 do 463 - podstawa prawna rozwiązania lub wygaśnięcia stosunku pracy lub stosunku służbowego"
-        },
-        {
-         "type": "text",
-         "text": "XVII. Kod pracy w szczególnych warunkach, o której mowa w art. 32 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych:"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_3/pkt_1",
-       "text": "5 pierwszych znaków jest zgodne z załącznikiem do rozporządzenia Rady Ministrów z dnia 7 lutego 1983 r. w sprawie wieku emerytalnego pracowników zatrudnionych w szczególnych warunkach lub w szczególnym charakterze, z których:",
-       "children": [
-        {
-         "type": "text",
-         "text": "- w polu pierwszym wpisujemy nazwę wykazu (A lub B)"
-        },
-        {
-         "type": "text",
-         "text": "- dwa następne znaki to numer działu w wykazie podany cyframi arabskimi"
-        },
-        {
-         "type": "text",
-         "text": "- dwa znaki dalsze to numer rodzaju pracy w dziale"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "ust_3/pkt_2",
-       "text": "6 i 7 znak to kod dotychczasowych przepisów zarządzeń i uchwał resortowych według następującej listy:",
-       "children": [
-        {
-         "type": "text",
-         "text": "01 - zarządzenie nr 9 Ministra Administracji, Gospodarki Terenowej i Ochrony Środowiska z dnia 1 lipca 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "02 - zarządzenie nr 9 Ministra Budownictwa i Przemysłu Materiałów Budowlanych z dnia 1 sierpnia 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "03 - zarządzenie nr 41 Ministra Finansów z dnia 17 maja 1985 r."
-        },
-        {
-         "type": "text",
-         "text": "04 - zarządzenie nr 17 Ministra Górnictwa i Energetyki z dnia 12 sierpnia 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "05 - zarządzenie nr 19 Ministra Handlu Wewnętrznego i Usług z dnia 10 listopada 1986 r."
-        },
-        {
-         "type": "text",
-         "text": "06 - zarządzenie nr 3 Ministra Hutnictwa i Przemysłu Maszynowego z dnia 30 marca 1985 r."
-        },
-        {
-         "type": "text",
-         "text": "07 - zarządzenie nr 64 Ministra Komunikacji z dnia 29 czerwca 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "08 - zarządzenie nr 50 Ministra Handlu Zagranicznego z dnia 13 grudnia 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "09 - zarządzenie nr 26 Ministra Kultury i Sztuki z dnia 1 lipca 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "10 - zarządzenie nr 33 Ministra Łączności z dnia 16 maja 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "11 - zarządzenie nr 28 Ministra Pracy, Płac i Spraw Socjalnych z dnia 30 lipca 1986 r."
-        },
-        {
-         "type": "text",
-         "text": "12 - zarządzenie nr 37 Ministra Nauki, Szkolnictwa Wyższego i Techniki z dnia 25 października 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "13 - zarządzenie nr 48 Ministra Obrony Narodowej z dnia 12 września 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "14 - zarządzenie nr DK 4-1000-1/84 Ministra Oświaty i Wychowania z dnia 15 czerwca 1984 r."
-        },
-        {
-         "type": "text",
-         "text": "15 - zarządzenie nr 16 Ministra Rolnictwa, Leśnictwa i Gospodarki Żywnościowej z dnia 31 marca 1988 r."
-        },
-        {
-         "type": "text",
-         "text": "16 - zarządzenie nr 11/86 Ministra Spraw Wewnętrznych z dnia 4 marca 1986 r."
-        },
-        {
-         "type": "text",
-         "text": "17 - zarządzenie nr 51/83/CZZK Ministra Sprawiedliwości z dnia 20 października 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "18 - zarządzenie nr 7 Ministra Przemysłu Chemicznego i Lekkiego z dnia 7 lipca 1987 r."
-        },
-        {
-         "type": "text",
-         "text": "19 - zarządzenie Ministra Zdrowia i Opieki Społecznej z dnia 12 lipca 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "20 - zarządzenie nr 9 Ministra Gospodarki Materiałowej z dnia 31 maja 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "21 - zarządzenie nr 9 Prezesa Centralnego Urzędu Geologii z dnia 4 lipca 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "22 - zarządzenie nr 11 Przewodniczącego Komitetu do Spraw Młodzieży i Kultury Fizycznej z dnia 1 lipca 1988 r."
-        },
-        {
-         "type": "text",
-         "text": "23 - zarządzenie nr 24 Ministra - Kierownika Urzędu Gospodarki Morskiej z dnia 15 sierpnia 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "24 - zarządzenie nr 24 Prezesa Polskiego Komitetu Normalizacji, Norm i Jakości z dnia 6 czerwca 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "25 - uchwała nr 64/83 Zarządu Głównego Centralnego Związku Spółdzielni Rolniczych „Samopomoc Chłopska” z dnia 25 lipca 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "26 - uchwała nr 184 Zarządu Centralnego Związku Spółdzielni Budownictwa Mieszkaniowego z dnia 20 maja 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "27 - uchwała nr 80/83 Zarządu Centralnego Związku Spółdzielczości Pracy z dnia 30 czerwca 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "28 - uchwała nr 38 Zarządu „Społem” Centralnego Związku Spółdzielni Spożywców z dnia 11 lipca 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "29 - uchwała nr 106 Zarządu Centralnego Związku Spółdzielni Inwalidów z dnia 20 lipca 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "30 - uchwała nr 16/83 Zarządu Centralnego Związku Spółdzielni Mleczarskich z dnia 27 czerwca 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "31 - uchwała nr 14/84 Zarządu Centrali i Spółdzielni Ogrodniczych i Pszczelarskich z dnia 23 marca 1984 r."
-        },
-        {
-         "type": "text",
-         "text": "32 - zarządzenie nr 21 Prezesa Robotniczej Spółdzielni Wydawniczej „Prasa – Książka – Ruch” z dnia 21 października 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "33 - uchwała nr 41/83 Zarządu Głównego Związku Zakładów Doskonalenia Zawodowego z dnia 28 września 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "34 - zarządzenie nr 47 Prezesa Głównego Urzędu Statystycznego z dnia 17 czerwca 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "35 - zarządzenie nr 20 Sekretarza Naukowego Polskiej Akademii Nauk z dnia 16 czerwca 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "36 - zarządzenie nr 12/83 Naczelnego Redaktora Polskiej Agencji Prasowej PAP z dnia 31 maja 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "37 - uchwała nr 22 Zarządu „Cepelii” Centralnego Związku Spółdzielni Rękodzieła Ludowego i Artystycznego z dnia 1 czerwca 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "38 - zarządzenie Prezesa Narodowego Banku Polskiego z dnia 17 maja 1983 r. (zmienione zarządzeniem Prezesa Narodowego Banku Polskiego nr 5/87 z dnia 7 października 1987 r. i nr 1/90 z dnia i sierpnia 1990 r.)"
-        },
-        {
-         "type": "text",
-         "text": "39 - uchwała nr 62 Zarządu Centralnego Związku Spółdzielni Niewidomych z dnia 15 lipca 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "40 - zarządzenie nr 24 Przewodniczącego Komitetu do spraw Radia i Telewizji „Polskie Radio i Telewizja” z dnia 15 lipca 1988 r."
-        },
-        {
-         "type": "text",
-         "text": "41 - uchwała Prezydium Zarządu Stowarzyszenia „PAX” z dnia 28 grudnia 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "42 - uchwała nr 19/84 Zarządu Centralnego Związku Budowlanych Spółdzielni Pracy z dnia 24 kwietnia 1984 r."
-        },
-        {
-         "type": "text",
-         "text": "43 - uchwała nr XXVIII/193/84 Zarządu Centralnego Związku Rolniczych Spółdzielni Produkcyjnych z dnia 15 marca 1984 r."
-        },
-        {
-         "type": "text",
-         "text": "44 - zarządzenie nr 17 Ministra - Kierownika Urzędu Ochrony Środowiska i Gospodarki Wodnej z dnia 2 sierpnia 1985 r."
-        },
-        {
-         "type": "text",
-         "text": "45 - zarządzenie nr 1/89 Ministra - Kierownika Urzędu do Spraw Wyznań z dnia 6 stycznia 1989 r."
-        },
-        {
-         "type": "text",
-         "text": "46 - uchwała nr 24 Zarządu Krajowego Związku Rolników, Kółek i Organizacji Rolniczych z dnia 14 czerwca 1983 r."
-        },
-        {
-         "type": "text",
-         "text": "47 - zarządzenie nr 2 Prezesa Państwowej Agencji Atomistyki z dnia 20 lutego 1989 r."
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "ust_3/pkt_3",
-       "text": "8 i 9 znak jest to numer określający stanowisko pracy jako punkt w pozycji rodzaj pracy - określony w wykazie szczegółowym stanowiącym załącznik do uchwały lub zarządzenia resortowego, stosowanego przez płatnika składek na podstawie odrębnych przepisów.",
-       "children": [
-        {
-         "type": "text",
-         "text": "XVIII. Kod pracy w szczególnym charakterze, o której mowa w art. 32 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych:"
-        },
-        {
-         "type": "text",
-         "text": "Przy ustalaniu tego kodu nie stosuje się systemu oznaczeń określonego dla kodów wykorzystujących układ wykazów A і B z załącznika do rozporządzenia Rady Ministrów z dnia 7 lutego 1983 r. w sprawie wieku emerytalnego pracowników zatrudnionych w szczególnych warunkach lub w szczególnym charakterze i zarządzeń resortowych."
-        },
-        {
-         "type": "text",
-         "text": "Kod ten składa się z 9 znaków:"
-        },
-        {
-         "type": "text",
-         "text": "000320301 - pracownik organów kontroli państwowej"
-        },
-        {
-         "type": "text",
-         "text": "000320302 - pracownik organów administracji celnej"
-        },
-        {
-         "type": "text",
-         "text": "pracownik /ubezpieczony/ wykonujący działalność twórczą lub artystyczną:"
-        },
-        {
-         "type": "text",
-         "text": "032030301 - tancerz"
-        },
-        {
-         "type": "text",
-         "text": "032030302 - akrobata"
-        },
-        {
-         "type": "text",
-         "text": "032030303 - gimnastyk"
-        },
-        {
-         "type": "text",
-         "text": "032030304 - ekwilibrysta"
-        },
-        {
-         "type": "text",
-         "text": "032030305 - kaskader"
-        },
-        {
-         "type": "text",
-         "text": "032030306 - solista wokalista"
-        },
-        {
-         "type": "text",
-         "text": "032030307 - muzyk grający na instrumentach dętych"
-        },
-        {
-         "type": "text",
-         "text": "032030308 - treser zwierząt drapieżnych"
-        },
-        {
-         "type": "text",
-         "text": "032030309 - artysta chóru"
-        },
-        {
-         "type": "text",
-         "text": "032030310 - żongler"
-        },
-        {
-         "type": "text",
-         "text": "032030311 - komik cyrkowy"
-        },
-        {
-         "type": "text",
-         "text": "032030312 - aktor teatru lalek"
-        },
-        {
-         "type": "text",
-         "text": "032030313 - aktorka"
-        },
-        {
-         "type": "text",
-         "text": "032030314 - dyrygentka"
-        },
-        {
-         "type": "text",
-         "text": "032030315 - muzyk grający na instrumentach smyczkowych"
-        },
-        {
-         "type": "text",
-         "text": "032030316 - muzyk grający na instrumentach perkusyjnych"
-        },
-        {
-         "type": "text",
-         "text": "032030317 - muzyk grający na instrumentach klawiszowych"
-        },
-        {
-         "type": "text",
-         "text": "032030318 - operator obrazu filmowego"
-        },
-        {
-         "type": "text",
-         "text": "032030319 - fotografik 000320304 - dziennikarz zatrudniony w redakcjach dzienników, czasopism, w radiu, telewizji oraz w organach prasowych, informacyjnych, publicystycznych albo fotograficznych objętych układem zbiorowym pracy dziennikarzy"
-        },
-        {
-         "type": "text",
-         "text": "000320305 - nauczyciel, wychowawca lub inny pracownik pedagogiczny wykonujący pracę nauczycielską, wymienioną w art. 1 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela"
-        },
-        {
-         "type": "text",
-         "text": "000320307 - pracownik jednostek ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1a-5 і 8 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej"
+         "text": "52-69 włącznie - dla deklaracji rozliczeniowej korygującej i imiennego raportu miesięcznego korygującego"
         }
        ]
       }
      ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "w przypadku ZUS za emerytów i rencistów oraz osoby pobierające zasiłek przedemerytalny lub świadczenie przedemerytalne:",
+     "children": [
+      {
+       "type": "text",
+       "text": "51 - dla deklaracji rozliczeniowej i imiennego raportu miesięcznego"
+      },
+      {
+       "type": "text",
+       "text": "52-89 włącznie - dla deklaracji rozliczeniowej korygującej i imiennego raportu miesięcznego korygującego"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "w przypadku sędziów, prokuratorów, żołnierzy lub funkcjonariuszy, za których powstał obowiązek opłacania składek na ubezpieczenia społeczne:",
+     "children": [
+      {
+       "type": "text",
+       "text": "70 - dla deklaracji rozliczeniowej i imiennego raportu miesięcznego"
+      },
+      {
+       "type": "text",
+       "text": "71-79 włącznie - dla deklaracji rozliczeniowej korygującej i imiennego raportu miesięcznego korygującego"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "w przypadku deklaracji rozliczeniowej i imiennego raportu miesięcznego za dany miesiąc kalendarzowy, składanych przez syndyka upadłości za okres od dnia ogłoszenia upadłości:",
+     "children": [
+      {
+       "type": "text",
+       "text": "80 - dla deklaracji rozliczeniowej i imiennego raportu miesięcznego"
+      },
+      {
+       "type": "text",
+       "text": "81-89 włącznie - dla deklaracji rozliczeniowej korygującej i imiennego raportu miesięcznego korygującego"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "w przypadku płatników składek opłacających składki wyłącznie na własne ubezpieczenia, składających za dany miesiąc więcej niż jedną deklarację rozliczeniową z różnymi kodami tytułu ubezpieczenia:",
+     "children": [
+      {
+       "type": "text",
+       "text": "01 - dla pierwszej deklaracji rozliczeniowej składanej za dany miesiąc"
+      },
+      {
+       "type": "text",
+       "text": "02-39 włącznie - dla deklaracji rozliczeniowej korygującej składanej do deklaracji oznaczonej numerem 01"
+      },
+      {
+       "type": "text",
+       "text": "40 - dla drugiej deklaracji rozliczeniowej składanej za dany miesiąc"
+      },
+      {
+       "type": "text",
+       "text": "41-49 włącznie - dla deklaracji rozliczeniowej korygującej składanej do deklaracji oznaczonej numerem 40"
+      },
+      {
+       "type": "text",
+       "text": "51 - dla trzeciej deklaracji rozliczeniowej składanej za dany miesiąc"
+      },
+      {
+       "type": "text",
+       "text": "52-69 włącznie - dla deklaracji rozliczeniowej korygującej składanej do deklaracji oznaczonej numerem 51"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "w przypadku płatników składek zobowiązanych do sporządzenia i przekazania dokumentów rozliczeniowych za osobę sprawującą opiekę nad dziećmi na podstawie umowy uaktywniającej w rozumieniu ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3:",
+     "children": [
+      {
+       "type": "text",
+       "text": "40 - dla deklaracji rozliczeniowej i imiennego raportu miesięcznego"
+      },
+      {
+       "type": "text",
+       "text": "41-49 włącznie - dla deklaracji rozliczeniowej korygującej i imiennego raportu miesięcznego korygującego"
+      },
+      {
+       "type": "text",
+       "text": "Numer imiennego raportu miesięcznego powinien być zgodny z numerem deklaracji rozliczeniowej, do której jest dołączony"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "XV.",
+     "text": "Kod wygaśnięcia/ kod trybu rozwiązania stosunku pracy/ stosunku służbowego - składa się z 3 znaków, z których wpisana w polu 3 litera:"
+    },
+    {
+     "type": "text",
+     "text": "- R - oznacza ustanie stosunku pracy/stosunku służbowego w wyniku jego rozwiązania"
+    },
+    {
+     "type": "text",
+     "text": "- W - oznacza ustanie stosunku pracy/stosunku służbowego w wyniku jego wygaśnięcia"
+    },
+    {
+     "type": "text",
+     "text": "20R - bez wypowiedzenia, przez pracownika w związku z przejściem zakładu pracy lub jego części na innego pracodawcę"
+    },
+    {
+     "type": "text",
+     "text": "21R - w wyniku nieuzgodnienia nowych warunków pracy i płacy, zaproponowanych przez pracodawcę z dniem przejęcia zakładu pracy lub jego części"
+    },
+    {
+     "type": "text",
+     "text": "22R - na mocy porozumienia stron"
+    },
+    {
+     "type": "text",
+     "text": "23R - wypowiedzenie przez pracodawcę"
+    },
+    {
+     "type": "text",
+     "text": "24R - wypowiedzenie przez pracownika"
+    },
+    {
+     "type": "text",
+     "text": "25R - bez wypowiedzenia przez pracodawcę, naruszenie obowiązków pracowniczych"
+    },
+    {
+     "type": "text",
+     "text": "26R - bez wypowiedzenia przez pracodawcę, popełnienie przestępstwa"
+    },
+    {
+     "type": "text",
+     "text": "27R - bez wypowiedzenia przez pracodawcę, utrata koniecznych uprawnień"
+    },
+    {
+     "type": "text",
+     "text": "28R - z upływem czasu, na który była zawarta umowa o pracę 29R - z dniem ukończenia pracy, dla której wykonania była zawarta umowa"
+    },
+    {
+     "type": "text",
+     "text": "30R - ze skróconym okresem wypowiedzenia, z przyczyn niedotyczących pracowników"
+    },
+    {
+     "type": "text",
+     "text": "31R - przywrócenie do pracy i zatrudnienie u innego pracodawcy"
+    },
+    {
+     "type": "text",
+     "text": "32R - bez wypowiedzenia przez pracodawcę, niezdolność do pracy dłuższa niż 3 mies."
+    },
+    {
+     "type": "text",
+     "text": "33R - bez wypowiedzenia przez pracodawcę, wyczerpanie okresu zasiłkowego, pobierania świadczenia rehabilitacyjnego"
+    },
+    {
+     "type": "text",
+     "text": "34R - bez wypowiedzenia przez pracodawcę, usprawiedliwiona nieobecność dłuższa niż 1 mies."
+    },
+    {
+     "type": "text",
+     "text": "35R - bez wypowiedzenia przez pracownika, orzeczenie o szkodliwym wpływie wykonywanej pracy na zdrowie"
+    },
+    {
+     "type": "text",
+     "text": "36R - bez wypowiedzenia przez pracownika, naruszenie obowiązków przez pracodawcę"
+    },
+    {
+     "type": "text",
+     "text": "37R - w przypadkach określonych w przepisach szczególnych, innych niż określone w części XVI"
+    },
+    {
+     "type": "text",
+     "text": "38R - powołanie u innego pracodawcy"
+    },
+    {
+     "type": "text",
+     "text": "39R - odwołanie"
+    },
+    {
+     "type": "text",
+     "text": "40R - odwołanie bez wypowiedzenia"
+    },
+    {
+     "type": "text",
+     "text": "41R - wygaśnięcie mandatu"
+    },
+    {
+     "type": "text",
+     "text": "42R - z pracownikiem młodocianym w związku z orzeczeniem lekarskim o pracy zagrażającej zdrowiu"
+    },
+    {
+     "type": "text",
+     "text": "43R - z przyczyn niedotyczących pracownika, grupowe zwolnienie - porozumienie stron"
+    },
+    {
+     "type": "text",
+     "text": "44R - z przyczyn niedotyczących pracownika, grupowe zwolnienie - wypowiedzenie"
+    },
+    {
+     "type": "text",
+     "text": "45R - z przyczyn niedotyczących pracownika, indywidualne zwolnienie - wypowiedzenie"
+    },
+    {
+     "type": "text",
+     "text": "46R - z przyczyn niedotyczących pracownika, indywidualne zwolnienie - porozumienie stron"
+    },
+    {
+     "type": "text",
+     "text": "47W - brak powrotu do pracy po zakończeniu stosunku pracy z wyboru"
+    },
+    {
+     "type": "text",
+     "text": "48W - śmierć pracownika"
+    },
+    {
+     "type": "text",
+     "text": "49W - śmierć pracodawcy"
+    },
+    {
+     "type": "text",
+     "text": "50W - tymczasowe aresztowanie"
+    },
+    {
+     "type": "text",
+     "text": "51W - powołanie do zawodowej służby wojskowej"
+    },
+    {
+     "type": "text",
+     "text": "52W - brak powrotu do pracy po zwolnieniu z czynnej służby wojskowej"
+    },
+    {
+     "type": "text",
+     "text": "53W - w przypadkach określonych w przepisach szczególnych, innych niż określone w części XVI"
+    },
+    {
+     "type": "heading",
+     "label": "XVI.",
+     "text": "Kod podstawy prawnej rozwiązania lub wygaśnięcia stosunku pracy lub stosunku służbowego - składa się z 3 znaków:"
+    },
+    {
+     "type": "text",
+     "text": "400 - art. 23¹ § 4 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "401 - art. 23¹ § 5 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "402 - art. 30 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy 403 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "404 - art. 30 § 1 pkt 3 w związku z art. 52 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "405 - art. 30 § 1 pkt 3 w związku z art. 52 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "406 - art. 30 § 1 pkt 3 w związku z art. 52 § 1 pkt 3 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "407 - art. 30 § 1 pkt 4 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "408 - art. 30 § 1 pkt 5 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w brzmieniu obowiązującym do dnia 21 lutego 2016 r."
+    },
+    {
+     "type": "text",
+     "text": "409 - art. 36¹ § 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "410 - art. 48 § 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "411 - art. 30 § 1 pkt 3 w związku z art. 53 § 1 pkt 1 lit. a ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "412 - art. 30 § 1 pkt 3 w związku z art. 53 § 1 pkt 1 lit. b ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "413 - art. 30 § 1 pkt 3 w związku z art. 53 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "414 - art. 30 § 1 pkt 3 w związku z art. 55 § 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "415 - art. 30 § 1 pkt 3 w związku z art. 55 § 1¹ ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "416 - art. 68³ ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "417 - art. 70 § 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "418 - art. 70 § 3 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "419 - art. 73 § 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "420 - art. 201 § 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "421 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 1 ust. 1 ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników"
+    },
+    {
+     "type": "text",
+     "text": "422 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 10 ust. 1 ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników"
+    },
+    {
+     "type": "text",
+     "text": "423 - art. 74 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "424 - art. 63¹ § 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "425 - art. 63² § 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "426 - art. 66 § 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy"
+    },
+    {
+     "type": "text",
+     "text": "427 - art. 63 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 189 ust. 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny 428 - art. 63 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 315 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny"
+    },
+    {
+     "type": "text",
+     "text": "429 - art. 30 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 2 pkt 38 lit. a ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia"
+    },
+    {
+     "type": "text",
+     "text": "430 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 2 pkt 38 lit. a ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia"
+    },
+    {
+     "type": "text",
+     "text": "431 - art. 30 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 2 pkt 38 lit. b ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia"
+    },
+    {
+     "type": "text",
+     "text": "432 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 2 pkt 38 lit. b ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia"
+    },
+    {
+     "type": "text",
+     "text": "433 - art. 30 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 3 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
+    },
+    {
+     "type": "text",
+     "text": "434 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 3 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
+    },
+    {
+     "type": "text",
+     "text": "435 - art. 30 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 4 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
+    },
+    {
+     "type": "text",
+     "text": "436 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 4 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
+    },
+    {
+     "type": "text",
+     "text": "437 - art. 30 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 5 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
+    },
+    {
+     "type": "text",
+     "text": "438 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 5 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
+    },
+    {
+     "type": "text",
+     "text": "439 - art. 30 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 6 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
+    },
+    {
+     "type": "text",
+     "text": "440 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 6 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
+    },
+    {
+     "type": "text",
+     "text": "441 - art. 30 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 8 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
+    },
+    {
+     "type": "text",
+     "text": "442 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 8 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
+    },
+    {
+     "type": "text",
+     "text": "443 - art. 30 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 8a ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
+    },
+    {
+     "type": "text",
+     "text": "444 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 8a ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy"
+    },
+    {
+     "type": "text",
+     "text": "445 - art. 27 ust. 1 pkt 2 ustawy z dnia 27 lipca 2001 r. o kuratorach sądowych"
+    },
+    {
+     "type": "text",
+     "text": "446 - art. 62 ust. 1 pkt 2 ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy"
+    },
+    {
+     "type": "text",
+     "text": "447 - art. 71 ust. 1 pkt 4 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej 448 - art. 13 ust. 1 pkt 2 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych"
+    },
+    {
+     "type": "text",
+     "text": "449 - art. 170 ust. 1 pkt 1 ustawy z dnia 16 listopada 2016 r. - Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej"
+    },
+    {
+     "type": "text",
+     "text": "450 - art. 97 ust. 3 ustawy z dnia 16 grudnia 2016 r. - Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym"
+    },
+    {
+     "type": "text",
+     "text": "451 - art. 30 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 20 ust. 1 pkt 1 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela"
+    },
+    {
+     "type": "text",
+     "text": "452 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 20 ust. 1 pkt i ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela"
+    },
+    {
+     "type": "text",
+     "text": "453 - art. 30 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 20 ust. 1 pkt 2 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela"
+    },
+    {
+     "type": "text",
+     "text": "454 - art. 30 § 1 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy w związku z art. 20 ust. 1 pkt 2 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela"
+    },
+    {
+     "type": "text",
+     "text": "455 - art. 20 ust. 5c ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela"
+    },
+    {
+     "type": "text",
+     "text": "456 - art. 20 ust. 6 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela"
+    },
+    {
+     "type": "text",
+     "text": "457 - art. 20 ust. 7 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela"
+    },
+    {
+     "type": "text",
+     "text": "458 - art. 23 ust. 1 pkt 1 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela"
+    },
+    {
+     "type": "text",
+     "text": "459 - art. 23 ust. 4 pkt 1 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela"
+    },
+    {
+     "type": "text",
+     "text": "460 - art. 27 ust. 1 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela"
+    },
+    {
+     "type": "text",
+     "text": "461 - art. 225 ust. 1, 6 i 10 ustawy z dnia 14 grudnia 2016 r. - Przepisy wprowadzające ustawę - Prawo oświatowe"
+    },
+    {
+     "type": "text",
+     "text": "462 - art. 225 ust. 7 pkt 1 ustawy z dnia 14 grudnia 2016 r. - Przepisy wprowadzające ustawę - Prawo oświatowe"
+    },
+    {
+     "type": "text",
+     "text": "463 - art. 226 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Przepisy wprowadzające ustawę - Prawo oświatowe"
+    },
+    {
+     "type": "text",
+     "text": "550 - inna niż określona w kodach od 400 do 463 - podstawa prawna rozwiązania lub wygaśnięcia stosunku pracy lub stosunku służbowego"
+    },
+    {
+     "type": "heading",
+     "label": "XVII.",
+     "text": "Kod pracy w szczególnych warunkach, o której mowa w art. 32 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "5 pierwszych znaków jest zgodne z załącznikiem do rozporządzenia Rady Ministrów z dnia 7 lutego 1983 r. w sprawie wieku emerytalnego pracowników zatrudnionych w szczególnych warunkach lub w szczególnym charakterze, z których:",
+     "children": [
+      {
+       "type": "text",
+       "text": "- w polu pierwszym wpisujemy nazwę wykazu (A lub B)"
+      },
+      {
+       "type": "text",
+       "text": "- dwa następne znaki to numer działu w wykazie podany cyframi arabskimi"
+      },
+      {
+       "type": "text",
+       "text": "- dwa znaki dalsze to numer rodzaju pracy w dziale"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "6 i 7 znak to kod dotychczasowych przepisów zarządzeń i uchwał resortowych według następującej listy:",
+     "children": [
+      {
+       "type": "text",
+       "text": "01 - zarządzenie nr 9 Ministra Administracji, Gospodarki Terenowej i Ochrony Środowiska z dnia 1 lipca 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "02 - zarządzenie nr 9 Ministra Budownictwa i Przemysłu Materiałów Budowlanych z dnia 1 sierpnia 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "03 - zarządzenie nr 41 Ministra Finansów z dnia 17 maja 1985 r."
+      },
+      {
+       "type": "text",
+       "text": "04 - zarządzenie nr 17 Ministra Górnictwa i Energetyki z dnia 12 sierpnia 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "05 - zarządzenie nr 19 Ministra Handlu Wewnętrznego i Usług z dnia 10 listopada 1986 r."
+      },
+      {
+       "type": "text",
+       "text": "06 - zarządzenie nr 3 Ministra Hutnictwa i Przemysłu Maszynowego z dnia 30 marca 1985 r."
+      },
+      {
+       "type": "text",
+       "text": "07 - zarządzenie nr 64 Ministra Komunikacji z dnia 29 czerwca 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "08 - zarządzenie nr 50 Ministra Handlu Zagranicznego z dnia 13 grudnia 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "09 - zarządzenie nr 26 Ministra Kultury i Sztuki z dnia 1 lipca 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "10 - zarządzenie nr 33 Ministra Łączności z dnia 16 maja 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "11 - zarządzenie nr 28 Ministra Pracy, Płac i Spraw Socjalnych z dnia 30 lipca 1986 r."
+      },
+      {
+       "type": "text",
+       "text": "12 - zarządzenie nr 37 Ministra Nauki, Szkolnictwa Wyższego i Techniki z dnia 25 października 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "13 - zarządzenie nr 48 Ministra Obrony Narodowej z dnia 12 września 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "14 - zarządzenie nr DK 4-1000-1/84 Ministra Oświaty i Wychowania z dnia 15 czerwca 1984 r."
+      },
+      {
+       "type": "text",
+       "text": "15 - zarządzenie nr 16 Ministra Rolnictwa, Leśnictwa i Gospodarki Żywnościowej z dnia 31 marca 1988 r."
+      },
+      {
+       "type": "text",
+       "text": "16 - zarządzenie nr 11/86 Ministra Spraw Wewnętrznych z dnia 4 marca 1986 r."
+      },
+      {
+       "type": "text",
+       "text": "17 - zarządzenie nr 51/83/CZZK Ministra Sprawiedliwości z dnia 20 października 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "18 - zarządzenie nr 7 Ministra Przemysłu Chemicznego i Lekkiego z dnia 7 lipca 1987 r."
+      },
+      {
+       "type": "text",
+       "text": "19 - zarządzenie Ministra Zdrowia i Opieki Społecznej z dnia 12 lipca 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "20 - zarządzenie nr 9 Ministra Gospodarki Materiałowej z dnia 31 maja 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "21 - zarządzenie nr 9 Prezesa Centralnego Urzędu Geologii z dnia 4 lipca 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "22 - zarządzenie nr 11 Przewodniczącego Komitetu do Spraw Młodzieży i Kultury Fizycznej z dnia 1 lipca 1988 r."
+      },
+      {
+       "type": "text",
+       "text": "23 - zarządzenie nr 24 Ministra - Kierownika Urzędu Gospodarki Morskiej z dnia 15 sierpnia 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "24 - zarządzenie nr 24 Prezesa Polskiego Komitetu Normalizacji, Norm i Jakości z dnia 6 czerwca 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "25 - uchwała nr 64/83 Zarządu Głównego Centralnego Związku Spółdzielni Rolniczych „Samopomoc Chłopska” z dnia 25 lipca 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "26 - uchwała nr 184 Zarządu Centralnego Związku Spółdzielni Budownictwa Mieszkaniowego z dnia 20 maja 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "27 - uchwała nr 80/83 Zarządu Centralnego Związku Spółdzielczości Pracy z dnia 30 czerwca 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "28 - uchwała nr 38 Zarządu „Społem” Centralnego Związku Spółdzielni Spożywców z dnia 11 lipca 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "29 - uchwała nr 106 Zarządu Centralnego Związku Spółdzielni Inwalidów z dnia 20 lipca 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "30 - uchwała nr 16/83 Zarządu Centralnego Związku Spółdzielni Mleczarskich z dnia 27 czerwca 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "31 - uchwała nr 14/84 Zarządu Centrali i Spółdzielni Ogrodniczych i Pszczelarskich z dnia 23 marca 1984 r."
+      },
+      {
+       "type": "text",
+       "text": "32 - zarządzenie nr 21 Prezesa Robotniczej Spółdzielni Wydawniczej „Prasa – Książka – Ruch” z dnia 21 października 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "33 - uchwała nr 41/83 Zarządu Głównego Związku Zakładów Doskonalenia Zawodowego z dnia 28 września 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "34 - zarządzenie nr 47 Prezesa Głównego Urzędu Statystycznego z dnia 17 czerwca 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "35 - zarządzenie nr 20 Sekretarza Naukowego Polskiej Akademii Nauk z dnia 16 czerwca 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "36 - zarządzenie nr 12/83 Naczelnego Redaktora Polskiej Agencji Prasowej PAP z dnia 31 maja 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "37 - uchwała nr 22 Zarządu „Cepelii” Centralnego Związku Spółdzielni Rękodzieła Ludowego i Artystycznego z dnia 1 czerwca 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "38 - zarządzenie Prezesa Narodowego Banku Polskiego z dnia 17 maja 1983 r. (zmienione zarządzeniem Prezesa Narodowego Banku Polskiego nr 5/87 z dnia 7 października 1987 r. i nr 1/90 z dnia i sierpnia 1990 r.)"
+      },
+      {
+       "type": "text",
+       "text": "39 - uchwała nr 62 Zarządu Centralnego Związku Spółdzielni Niewidomych z dnia 15 lipca 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "40 - zarządzenie nr 24 Przewodniczącego Komitetu do spraw Radia i Telewizji „Polskie Radio i Telewizja” z dnia 15 lipca 1988 r."
+      },
+      {
+       "type": "text",
+       "text": "41 - uchwała Prezydium Zarządu Stowarzyszenia „PAX” z dnia 28 grudnia 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "42 - uchwała nr 19/84 Zarządu Centralnego Związku Budowlanych Spółdzielni Pracy z dnia 24 kwietnia 1984 r."
+      },
+      {
+       "type": "text",
+       "text": "43 - uchwała nr XXVIII/193/84 Zarządu Centralnego Związku Rolniczych Spółdzielni Produkcyjnych z dnia 15 marca 1984 r."
+      },
+      {
+       "type": "text",
+       "text": "44 - zarządzenie nr 17 Ministra - Kierownika Urzędu Ochrony Środowiska i Gospodarki Wodnej z dnia 2 sierpnia 1985 r."
+      },
+      {
+       "type": "text",
+       "text": "45 - zarządzenie nr 1/89 Ministra - Kierownika Urzędu do Spraw Wyznań z dnia 6 stycznia 1989 r."
+      },
+      {
+       "type": "text",
+       "text": "46 - uchwała nr 24 Zarządu Krajowego Związku Rolników, Kółek i Organizacji Rolniczych z dnia 14 czerwca 1983 r."
+      },
+      {
+       "type": "text",
+       "text": "47 - zarządzenie nr 2 Prezesa Państwowej Agencji Atomistyki z dnia 20 lutego 1989 r."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "8 i 9 znak jest to numer określający stanowisko pracy jako punkt w pozycji rodzaj pracy - określony w wykazie szczegółowym stanowiącym załącznik do uchwały lub zarządzenia resortowego, stosowanego przez płatnika składek na podstawie odrębnych przepisów.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "XVIII.",
+     "text": "Kod pracy w szczególnym charakterze, o której mowa w art. 32 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych:"
+    },
+    {
+     "type": "text",
+     "text": "Przy ustalaniu tego kodu nie stosuje się systemu oznaczeń określonego dla kodów wykorzystujących układ wykazów A і B z załącznika do rozporządzenia Rady Ministrów z dnia 7 lutego 1983 r. w sprawie wieku emerytalnego pracowników zatrudnionych w szczególnych warunkach lub w szczególnym charakterze i zarządzeń resortowych."
+    },
+    {
+     "type": "text",
+     "text": "Kod ten składa się z 9 znaków:"
+    },
+    {
+     "type": "text",
+     "text": "000320301 - pracownik organów kontroli państwowej"
+    },
+    {
+     "type": "text",
+     "text": "000320302 - pracownik organów administracji celnej"
+    },
+    {
+     "type": "text",
+     "text": "pracownik /ubezpieczony/ wykonujący działalność twórczą lub artystyczną:"
+    },
+    {
+     "type": "text",
+     "text": "032030301 - tancerz"
+    },
+    {
+     "type": "text",
+     "text": "032030302 - akrobata"
+    },
+    {
+     "type": "text",
+     "text": "032030303 - gimnastyk"
+    },
+    {
+     "type": "text",
+     "text": "032030304 - ekwilibrysta"
+    },
+    {
+     "type": "text",
+     "text": "032030305 - kaskader"
+    },
+    {
+     "type": "text",
+     "text": "032030306 - solista wokalista"
+    },
+    {
+     "type": "text",
+     "text": "032030307 - muzyk grający na instrumentach dętych"
+    },
+    {
+     "type": "text",
+     "text": "032030308 - treser zwierząt drapieżnych"
+    },
+    {
+     "type": "text",
+     "text": "032030309 - artysta chóru"
+    },
+    {
+     "type": "text",
+     "text": "032030310 - żongler"
+    },
+    {
+     "type": "text",
+     "text": "032030311 - komik cyrkowy"
+    },
+    {
+     "type": "text",
+     "text": "032030312 - aktor teatru lalek"
+    },
+    {
+     "type": "text",
+     "text": "032030313 - aktorka"
+    },
+    {
+     "type": "text",
+     "text": "032030314 - dyrygentka"
+    },
+    {
+     "type": "text",
+     "text": "032030315 - muzyk grający na instrumentach smyczkowych"
+    },
+    {
+     "type": "text",
+     "text": "032030316 - muzyk grający na instrumentach perkusyjnych"
+    },
+    {
+     "type": "text",
+     "text": "032030317 - muzyk grający na instrumentach klawiszowych"
+    },
+    {
+     "type": "text",
+     "text": "032030318 - operator obrazu filmowego"
+    },
+    {
+     "type": "text",
+     "text": "032030319 - fotografik 000320304 - dziennikarz zatrudniony w redakcjach dzienników, czasopism, w radiu, telewizji oraz w organach prasowych, informacyjnych, publicystycznych albo fotograficznych objętych układem zbiorowym pracy dziennikarzy"
+    },
+    {
+     "type": "text",
+     "text": "000320305 - nauczyciel, wychowawca lub inny pracownik pedagogiczny wykonujący pracę nauczycielską, wymienioną w art. 1 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela"
+    },
+    {
+     "type": "text",
+     "text": "000320307 - pracownik jednostek ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1a-5 і 8 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej"
     }
    ]
   },

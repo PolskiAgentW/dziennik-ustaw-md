@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/978",
  "title": "Obwieszczenie Ministra Finansów z dnia 13 lipca 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie sposobu określania profilu ryzyka spółdzielczych kas oszczędnościowo-kredytowych oraz uwzględniania tego profilu w wyznaczaniu składek na fundusz gwarancyjny kas",
- "converter": "eli2md 0.6.1",
+ "converter": "eli2md 0.6.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/978/text.pdf",
  "body": [
   {
@@ -432,7 +432,11 @@
       },
       {
        "type": "text",
-       "text": "Fundusze własne Wyższa wartość – fundusze własne, Aktywa o których ogółem mowa oznacza niższe ryzyko w art. 24 ustawy z dnia 5 listopada 2009 r."
+       "text": "Fundusze własne Wyższa wartość"
+      },
+      {
+       "type": "text",
+       "text": "– fundusze własne, Aktywa o których ogółem mowa oznacza niższe ryzyko w art. 24 ustawy z dnia 5 listopada 2009 r."
       },
       {
        "type": "text",
@@ -472,11 +476,7 @@
       },
       {
        "type": "text",
-       "text": "art. 24 ust. 6 ustawy z dnia 5 listopada oznacza niższe ryzyko"
-      },
-      {
-       "type": "text",
-       "text": "2009 r. o spółdzielczych kasach"
+       "text": "art. 24 ust. 6 ustawy z dnia 5 listopada oznacza niższe ryzyko 2009 r. o spółdzielczych kasach"
       },
       {
        "type": "text",
@@ -488,7 +488,27 @@
       },
       {
        "type": "text",
-       "text": "płynnej do limitu Rezerwa płynna Wyższa wartość 10 % funduszu % ndusz oznacza niższe ryzyko Wskaźnik oszczędnościowo‑pożyczkowego rezerwy płynnej do limitu 10 % oszczędnościowofunduszu oszczędnościowo-pożyczkowego, -pożyczkowego o którym mowa w art. 38 ust. 1 ustawy"
+       "text": "płynnej do limitu Rezerwa płynna Wyższa wartość"
+      },
+      {
+       "type": "text",
+       "text": "10 % funduszu % ndusz oznacza niższe ryzyko Wskaźnik oszczędnościowo‑pożyczkowego rezerwy płynnej do limitu 10 %"
+      },
+      {
+       "type": "text",
+       "text": "oszczędnościowo-"
+      },
+      {
+       "type": "text",
+       "text": "funduszu oszczędnościowo-pożyczkowego,"
+      },
+      {
+       "type": "text",
+       "text": "-pożyczkowego"
+      },
+      {
+       "type": "text",
+       "text": "o którym mowa w art. 38 ust. 1 ustawy"
       },
       {
        "type": "text",
@@ -690,35 +710,31 @@
       },
       {
        "type": "text",
-       "text": "W przypadku gdy niższa wartość wskaźnika wskazuje na podmiot większego ryzyka,"
+       "text": "W przypadku gdy niższa wartość wskaźnika wskazuje na podmiot większego ryzyka, a wskaźnik znajduje się poniżej dolnej granicy, IRS i , j przyjmuje wartość równą 100. W przypadku gdy wartość wskaźnika kształtuje się powyżej górnej granicy, IRS i , j przyjmuje wartość 0."
       },
       {
        "type": "text",
-       "text": "a wskaźnik znajduje się poniżej dolnej granicy, IRS i , j przyjmuje wartość równą 100."
+       "text": "W przypadku gdy wartość wskaźnika znajduje się pomiędzy zdefiniowanymi granicami, IRS , przyjmuje wartość z przedziału (0, 100). W przypadku każdego wskaźnika ryzyka A , i j i j jego wartość będzie odpowiadała punktacji wyjściowej (IRS i , j ):"
       },
       {
        "type": "text",
-       "text": "W przypadku gdy wartość wskaźnika kształtuje się powyżej górnej granicy, IRS i , j przyjmuje"
+       "text": "0 jjeeee AA ii,jj > aa jj"
       },
       {
        "type": "text",
-       "text": "wartość 0."
+       "text": "100 jjjjżjjeeee AA ii,jj < bb jj"
       },
       {
        "type": "text",
-       "text": "W przypadku gdy wartość wskaźnika znajduje się pomiędzy zdefiniowanymi granicami,"
+       "text": "aa jj −AA ii,jj"
       },
       {
        "type": "text",
-       "text": "IRS , przyjmuje wartość z przedziału (0, 100). W przypadku każdego wskaźnika ryzyka A , i j i j"
+       "text": "gdzie: × 100, jjjjżjjeeee bb jj ≤ AA ii,jj ≤ aa jj"
       },
       {
        "type": "text",
-       "text": "jego wartość będzie odpowiadała punktacji wyjściowej (IRS i , j ):"
-      },
-      {
-       "type": "text",
-       "text": "0 jjeeee AA ii,jj > aa jj 100 jjjjżjjeeee AA ii,jj < bb jj aa jj −AA ii,jj gdzie: × 100, jjjjżjjeeee bb jj ≤ AA ii,jj ≤ aa jj aa jj −bb jj"
+       "text": "aa jj −bb jj"
       },
       {
        "type": "text",
@@ -738,15 +754,15 @@
      "children": [
       {
        "type": "text",
-       "text": "Ocena ARS i jest ważoną sumą wszystkich punktowych ocen ryzyka kasy obliczaną"
+       "text": "Ocena ARS i jest ważoną sumą wszystkich punktowych ocen ryzyka kasy obliczaną według wzoru:"
       },
       {
        "type": "text",
-       "text": "według wzoru:"
+       "text": "AAIIII ii = ∑IIII jj ×IIIIII ii,jj"
       },
       {
        "type": "text",
-       "text": "AAIIII ii = ∑IIII jj ×IIIIII ii,jj gdzie: jj=1"
+       "text": "gdzie: jj=1"
       },
       {
        "type": "text",
@@ -754,7 +770,11 @@
       },
       {
        "type": "text",
-       "text": ". ∑ nn jj=1 IIII jj = 100 %"
+       "text": "."
+      },
+      {
+       "type": "text",
+       "text": "∑ nn jj=1 IIII jj = 100 %"
       }
      ]
     },
@@ -766,39 +786,23 @@
      "children": [
       {
        "type": "text",
-       "text": "Fundusz przypisuje kasom ich całkowite wagi ryzyka (ARW) na podstawie ich"
+       "text": "Fundusz przypisuje kasom ich całkowite wagi ryzyka (ARW) na podstawie ich całkowitych ocen punktowych ryzyka (ARS) przy użyciu metody skali ruchomej. W metodzie skali ruchomej ARS i jest przeliczana na całkowitą wagę ryzyka (ARW i ) na podstawie wzoru funkcji wykładniczej."
       },
       {
        "type": "text",
-       "text": "całkowitych ocen punktowych ryzyka (ARS) przy użyciu metody skali ruchomej. W metodzie"
+       "text": "ARW i związana z ARS i ma charakter wykładniczy, z górną i dolną granicą  i , określonymi przez Fundusz zgodnie z § 5 ust. 3 i 4 rozporządzenia."
       },
       {
        "type": "text",
-       "text": "skali ruchomej ARS i jest przeliczana na całkowitą wagę ryzyka (ARW i ) na podstawie wzoru"
+       "text": "Przeliczenie ARS i na ARW i metodą funkcji wykładniczej jest dokonywane według wzoru:"
       },
       {
        "type": "text",
-       "text": "funkcji wykładniczej."
+       "text": "."
       },
       {
        "type": "text",
-       "text": "ARW i związana z ARS i ma charakter wykładniczy, z górną i dolną granicą  i ,"
-      },
-      {
-       "type": "text",
-       "text": "określonymi przez Fundusz zgodnie z § 5 ust. 3 i 4 rozporządzenia."
-      },
-      {
-       "type": "text",
-       "text": "Przeliczenie ARS i na ARW i metodą funkcji wykładniczej jest dokonywane według"
-      },
-      {
-       "type": "text",
-       "text": "wzoru:"
-      },
-      {
-       "type": "text",
-       "text": ". αα"
+       "text": "αα"
       }
      ]
     },
@@ -812,124 +816,127 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_5/pkt_1",
-       "text": "Składki kwartalne na fundusz gwarancyjny kas wnoszone przez poszczególne kasy są",
-       "children": []
-      },
-      {
-       "type": "text",
-       "text": "obliczane według wzoru:"
-      },
-      {
-       "type": "text",
-       "text": "C (t) = CR(t) × ARW × CD (t-1) × μ i i i"
-      },
-      {
-       "type": "text",
-       "text": "gdzie:"
-      },
-      {
-       "type": "text",
-       "text": "C i (t) = składka kwartalna kasy „i” w kwartale t,"
-      },
-      {
-       "type": "text",
-       "text": "CR(t) = stawka (taka sama dla wszystkich kas w danym kwartale),"
-      },
-      {
-       "type": "text",
-       "text": "ARW i = całkowita waga ryzyka dla kasy „i”,"
-      },
-      {
-       "type": "text",
-       "text": "CD i (t-1) = środki gwarantowane zgromadzone w kasie „i” na koniec kwartału t-1,"
-      },
-      {
-       "type": "text",
-       "text": "μ = współczynnik korekty (taki sam dla wszystkich kas w danym kwartale)."
+       "text": "Składki kwartalne na fundusz gwarancyjny kas wnoszone przez poszczególne kasy są obliczane według wzoru:",
+       "children": [
+        {
+         "type": "text",
+         "text": "C (t) = CR(t) × ARW × CD (t-1) × μ"
+        },
+        {
+         "type": "text",
+         "text": "i i i"
+        },
+        {
+         "type": "text",
+         "text": "gdzie:"
+        },
+        {
+         "type": "text",
+         "text": "C i (t) = składka kwartalna kasy „i” w kwartale t,"
+        },
+        {
+         "type": "text",
+         "text": "CR(t) = stawka (taka sama dla wszystkich kas w danym kwartale),"
+        },
+        {
+         "type": "text",
+         "text": "ARW i = całkowita waga ryzyka dla kasy „i”,"
+        },
+        {
+         "type": "text",
+         "text": "CD i (t-1) = środki gwarantowane zgromadzone w kasie „i” na koniec kwartału t-1,"
+        },
+        {
+         "type": "text",
+         "text": "μ = współczynnik korekty (taki sam dla wszystkich kas w danym kwartale)."
+        }
+       ]
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_5/pkt_2",
-       "text": "Stawka jest określana jako iloraz jednej czwartej łącznej kwoty składek (CL) i sumy",
+       "text": "Stawka jest określana jako iloraz jednej czwartej łącznej kwoty składek (CL) i sumy środków gwarantowanych wszystkich kas:",
        "children": [
         {
          "type": "text",
-         "text": "środków gwarantowanych wszystkich kas:"
+         "text": "0,25×CCCC"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "Współczynnik korekty (µ) AA(tt) jest wyznaczany = według wzoru:",
+       "children": [
+        {
+         "type": "text",
+         "text": "∑ ii CCCC ii (tt−1)"
         },
         {
          "type": "text",
-         "text": "0,25×CCCC 3) Współczynnik korekty (µ) AA(tt) jest wyznaczany = według wzoru: ∑ ii CCCC ii (tt−1)"
-        },
+         "text": "∑ ii CCCC ii (tt−1)"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_5/pkt_4",
+       "text": "Jeżeli Fundusz dopuści μ wnoszenie = składek minimalnych, o których mowa w § 6 ∑ ii AAAAAA ii × CCCC ii (tt−1)",
+       "children": [
         {
          "type": "text",
-         "text": "∑ ii CCCC ii (tt−1) 4) Jeżeli Fundusz dopuści μ wnoszenie = składek minimalnych, o których mowa w § 6 ∑ ii AAAAAA ii × CCCC ii (tt−1) rozporządzenia, składki kwartalne są wyznaczane w jeden z dwóch sposobów:"
+         "text": "rozporządzenia, składki kwartalne są wyznaczane w jeden z dwóch sposobów:"
         },
         {
          "type": "lit",
          "num": "a",
-         "path": "ust_5/pkt_2/lit_a",
-         "text": "w przypadku gdy składka minimalna jest uwzględniana jako kwota doliczona do",
-         "children": []
-        },
-        {
-         "type": "text",
-         "text": "kwoty składki kwartalnej uzależnionej od ryzyka – według wzoru:"
-        },
-        {
-         "type": "text",
-         "text": "∗ 0,25×CCCC−nn ×MMCC gdzie: CC ii (t) = MMCC +( × AAAAAA ii × CCCC ii (tt−1) × µ) ∑ ii CCCC ii (tt−1) C i * (t) = składka kwartalna kasy „i” w kwartale t w przypadku stosowania składek minimalnych,"
-        },
-        {
-         "type": "text",
-         "text": "n = liczba kas,"
-        },
-        {
-         "type": "text",
-         "text": "MC = składka minimalna,"
+         "path": "ust_5/pkt_4/lit_a",
+         "text": "w przypadku gdy składka minimalna jest uwzględniana jako kwota doliczona do kwoty składki kwartalnej uzależnionej od ryzyka – według wzoru:",
+         "children": [
+          {
+           "type": "text",
+           "text": "∗ 0,25×CCCC−nn ×MMCC"
+          },
+          {
+           "type": "text",
+           "text": "gdzie: CC ii (t) = MMCC +( × AAAAAA ii × CCCC ii (tt−1) × µ)"
+          },
+          {
+           "type": "text",
+           "text": "∑ ii CCCC ii (tt−1)"
+          },
+          {
+           "type": "text",
+           "text": "C i * (t) = składka kwartalna kasy „i” w kwartale t w przypadku stosowania składek minimalnych, n = liczba kas,"
+          },
+          {
+           "type": "text",
+           "text": "MC = składka minimalna,"
+          }
+         ]
         },
         {
          "type": "lit",
          "num": "b",
-         "path": "ust_5/pkt_2/lit_b",
-         "text": "w przypadku gdy składka minimalna jest uwzględniana jako dolny poziom kwoty",
-         "children": []
-        },
-        {
-         "type": "text",
-         "text": "składki kwartalnej:"
-        },
-        {
-         "type": "text",
-         "text": "− kasy, w przypadku których kwota składki minimalnej jest wyższa niż kwota wyznaczona"
-        },
-        {
-         "type": "text",
-         "text": "zgodnie z ppkt 1, wnoszą składkę w wysokości odpowiadającej składce minimalnej,"
-        },
-        {
-         "type": "text",
-         "text": "− kwoty składek pozostałych kas są wyznaczane zgodnie z ppkt 1, przy czym stawka oraz"
-        },
-        {
-         "type": "text",
-         "text": "współczynnik korekty są wyznaczane wyłącznie z uwzględnieniem całkowitych wag ryzyka"
-        },
-        {
-         "type": "text",
-         "text": "i środków gwarantowanych tych kas, a podziałowi podlega ¼ łącznej kwoty składek"
-        },
-        {
-         "type": "text",
-         "text": "pomniejszona o sumę składek kas wnoszących składki w kwocie minimalnej."
-        },
-        {
-         "type": "text",
-         "text": "B. SZCZEGÓŁOWY SPOSÓB OBLICZANIA SKŁADEK NADZWYCZAJNYCH"
-        },
-        {
-         "type": "text",
-         "text": "NALEŻNYCH OD KAS"
+         "path": "ust_5/pkt_4/lit_b",
+         "text": "w przypadku gdy składka minimalna jest uwzględniana jako dolny poziom kwoty składki kwartalnej:",
+         "children": [
+          {
+           "type": "text",
+           "text": "− kasy, w przypadku których kwota składki minimalnej jest wyższa niż kwota wyznaczona zgodnie z ppkt 1, wnoszą składkę w wysokości odpowiadającej składce minimalnej,"
+          },
+          {
+           "type": "text",
+           "text": "− kwoty składek pozostałych kas są wyznaczane zgodnie z ppkt 1, przy czym stawka oraz współczynnik korekty są wyznaczane wyłącznie z uwzględnieniem całkowitych wag ryzyka i środków gwarantowanych tych kas, a podziałowi podlega ¼ łącznej kwoty składek pomniejszona o sumę składek kas wnoszących składki w kwocie minimalnej."
+          },
+          {
+           "type": "text",
+           "text": "B. SZCZEGÓŁOWY SPOSÓB OBLICZANIA SKŁADEK NADZWYCZAJNYCH NALEŻNYCH OD KAS"
+          }
+         ]
         }
        ]
       }
@@ -943,11 +950,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Przypisanie każdej kasie całkowitej wagi ryzyka ARW następuje zgodnie z częścią A"
-      },
-      {
-       "type": "text",
-       "text": "pkt 1–4."
+       "text": "Przypisanie każdej kasie całkowitej wagi ryzyka ARW następuje zgodnie z częścią A pkt 1–4."
       }
      ]
     },
@@ -961,59 +964,73 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_2/pkt_1",
-       "text": "Składki nadzwyczajne na fundusz gwarancyjny kas wnoszone przez kasę są obliczane",
-       "children": []
-      },
-      {
-       "type": "text",
-       "text": "według wzoru:"
-      },
-      {
-       "type": "text",
-       "text": "CN (t) = CR × ARW × CD (t-1) × μ i i i"
-      },
-      {
-       "type": "text",
-       "text": "gdzie:"
-      },
-      {
-       "type": "text",
-       "text": "CN i (t) = składka nadzwyczajna kasy „i”,"
-      },
-      {
-       "type": "text",
-       "text": "CR = stawka (taka sama dla wszystkich kas),"
-      },
-      {
-       "type": "text",
-       "text": "ARW i = całkowita waga ryzyka dla kasy „i”,"
-      },
-      {
-       "type": "text",
-       "text": "CD i (t-1) = środki gwarantowane zgromadzone w kasie „i” na koniec kwartału t-1,"
-      },
-      {
-       "type": "text",
-       "text": "μ = współczynnik korekty (taki sam dla wszystkich kas)."
+       "text": "Składki nadzwyczajne na fundusz gwarancyjny kas wnoszone przez kasę są obliczane według wzoru:",
+       "children": [
+        {
+         "type": "text",
+         "text": "CN (t) = CR × ARW × CD (t-1) × μ"
+        },
+        {
+         "type": "text",
+         "text": "i i i"
+        },
+        {
+         "type": "text",
+         "text": "gdzie:"
+        },
+        {
+         "type": "text",
+         "text": "CN i (t) = składka nadzwyczajna kasy „i”,"
+        },
+        {
+         "type": "text",
+         "text": "CR = stawka (taka sama dla wszystkich kas),"
+        },
+        {
+         "type": "text",
+         "text": "ARW i = całkowita waga ryzyka dla kasy „i”,"
+        },
+        {
+         "type": "text",
+         "text": "CD i (t-1) = środki gwarantowane zgromadzone w kasie „i” na koniec kwartału t-1,"
+        },
+        {
+         "type": "text",
+         "text": "μ = współczynnik korekty (taki sam dla wszystkich kas)."
+        }
+       ]
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_2/pkt_2",
-       "text": "Stawka jest określana jako iloraz łącznej kwoty składek nadzwyczajnych (CLN) i sumy",
-       "children": []
+       "text": "Stawka jest określana jako iloraz łącznej kwoty składek nadzwyczajnych (CLN) i sumy środków gwarantowanych wszystkich kas:",
+       "children": [
+        {
+         "type": "text",
+         "text": "CCCCCC"
+        }
+       ]
       },
       {
-       "type": "text",
-       "text": "środków gwarantowanych wszystkich kas:"
-      },
-      {
-       "type": "text",
-       "text": "CCCCCC 3) Współczynnik korekty (µ) jest CCCC wyznaczany = według wzoru: ∑ ii CCCC ii (tt−1)"
-      },
-      {
-       "type": "text",
-       "text": "∑ ii CC ii −1 ii CCAA ii × CCCC ii (tt−1)⁶"
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "Współczynnik korekty (µ) jest CCCC wyznaczany = według wzoru:",
+       "children": [
+        {
+         "type": "text",
+         "text": "∑ ii CCCC ii (tt−1)"
+        },
+        {
+         "type": "text",
+         "text": "∑ ii CC ii −1"
+        },
+        {
+         "type": "text",
+         "text": "ii CCAA ii × CCCC ii (tt−1)⁶"
+        }
+       ]
       }
      ]
     }
