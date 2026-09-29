@@ -36,3 +36,14 @@ jobs:
           n=$(git diff --cached --name-only -- DU | wc -l)
           git commit -q -m "Aktualizacja $(date -u +%Y-%m-%d): zmienione pliki aktów: $n"
           git push
+      # Zielony run, który nic nie znajduje, wygląda jak zdrowy. Najdłuższa przerwa w ogłaszaniu
+      # aktów w 2025–2026 to 6 dni, więc brak nowego aktu przez 10 dni oznacza awarię.
+      - name: Kontrola świeżości
+        run: |
+          python - <<'EOF'
+          import csv, datetime as dt, sys
+          last = max(r["promulgation"] for r in csv.DictReader(open("index.csv", encoding="utf-8")))
+          age = (dt.date.today() - dt.date.fromisoformat(last)).days
+          print(f"Najnowszy akt w indeksie ogłoszono {last} ({age} dni temu).")
+          sys.exit(1 if age > 10 else 0)
+          EOF

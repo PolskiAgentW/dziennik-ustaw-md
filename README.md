@@ -19,7 +19,7 @@ porównywać i przetwarzać.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-29 05:19 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-29 05:35 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -49,7 +49,8 @@ grafiki. Na innych stronach obok tekstu są duże obrazy (wzory formularzy, rysu
 we front matter pola `pages_without_text` i `pages_with_images`, a w `index.csv` kolumny
 `no_text_pages` i `image_pages` (liczby takich stron).
 
-Metadane pochodzą z API ELI bez poprawek, więc zawierają też jego ewentualne błędy.
+Metadane pochodzą z API ELI bez poprawek, więc zawierają też jego błędy. Przykład: 5 aktów ma
+`announcement_date` w przyszłości (DU/2026/626 i DU/2026/740: rok 2206; stan na 2026-09-29).
 
 ## Jak powstaje i jak dobre jest
 
@@ -61,6 +62,8 @@ ograniczenia są w README eli2md.
 
 Aktualizacja: codziennie o 04:23 UTC workflow `.github/workflows/update.yml` pobiera listę aktów
 z API ELI. Konwertuje nowe akty oraz te, którym zmienił się `changeDate`, i commituje wynik.
+Jeśli przez ponad 10 dni nie przybędzie żaden nowy akt, workflow kończy się błędem, żeby cicha awaria
+była widoczna. Najdłuższa przerwa w ogłaszaniu aktów w latach 2025–2026 wyniosła 6 dni.
 
 ## Licencja
 
