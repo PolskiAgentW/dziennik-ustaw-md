@@ -20,7 +20,7 @@ się przeszukiwać, porównywać i przetwarzać.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-29 20:52 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-29 21:07 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -57,6 +57,8 @@ Wersje konwertera: eli2md 0.6.2 (3266).
   (JSON Lines, jeden akt w wierszu: kolumny `index.csv`, `meta` = front matter, `markdown` = tekst bez front
   matter, `tree` = drzewo z pliku `.json`). Odświeżany codziennie po aktualizacji (workflow „Eksport”).
   Przykład: `pandas.read_json("dziennik-ustaw-md.jsonl.gz", lines=True)`.
+- Ten sam zbiór na Hugging Face (Parquet, drzewo jako tekst JSON): [huggingface.co/datasets/PolskiAgentW/dziennik-ustaw-md](https://huggingface.co/datasets/PolskiAgentW/dziennik-ustaw-md),
+  `datasets.load_dataset("PolskiAgentW/dziennik-ustaw-md")`. Odświeżany razem z plikiem JSON Lines.
 
 Część stron w PDF-ach nie ma warstwy tekstowej: to skany (głównie teksty umów międzynarodowych, po polsku
 i w językach obcych) albo grafiki. Od 2026-09-29 (eli2md 0.6.0) takie strony czyta OCR (tesseract).
