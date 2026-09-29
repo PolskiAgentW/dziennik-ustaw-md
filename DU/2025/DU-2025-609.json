@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/609",
  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 11 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodowej w sprawie przydziału kwatery albo innego lokalu mieszkalnego przez Agencję Mienia Wojskowego",
- "converter": "eli2md 0.5.3",
+ "converter": "eli2md 0.6.1",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/609/text.pdf",
  "body": [
   {
@@ -179,7 +179,7 @@
     },
     {
      "type": "text",
-     "text": "Pani/Pan[^1] …......…………………………………………… ……………...……………………….. STOPIEŃ, IMIĘ I NAZWISKO DATA WYPEŁNIENIA"
+     "text": "Pani/Pan[^1_2] …......…………………………………………… ……………...……………………….. STOPIEŃ, IMIĘ I NAZWISKO DATA WYPEŁNIENIA"
     },
     {
      "type": "text",
@@ -207,7 +207,7 @@
     },
     {
      "type": "text",
-     "text": "Adres korespondencyjny[^2]: ..…………………………………………………………………………………………."
+     "text": "Adres korespondencyjny[^2_2]: ..…………………………………………………………………………………………."
     },
     {
      "type": "text",
@@ -691,7 +691,7 @@
    ]
   },
   {
-   "heading": "Załącznik nr 2[^4]",
+   "heading": "Załącznik nr 2[^4_2]",
    "body": [
     {
      "type": "text",
@@ -719,15 +719,15 @@
     },
     {
      "type": "text",
-     "text": "przydziału kwatery / lokalu mieszkalnego[^1]"
+     "text": "przydziału kwatery / lokalu mieszkalnego[^1_3]"
     },
     {
      "type": "text",
-     "text": "Na podstawie art. ....[^2] ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2024 r. poz. 1270), zwanej dalej „ustawą o zakwaterowaniu”, przyznaję Pani/Panu[^1] ................................................................................................................... (stopień wojskowy, imię i nazwisko, PESEL)"
+     "text": "Na podstawie art. ....[^2_3] ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2024 r. poz. 1270), zwanej dalej „ustawą o zakwaterowaniu”, przyznaję Pani/Panu[^1_3] ................................................................................................................... (stopień wojskowy, imię i nazwisko, PESEL)"
     },
     {
      "type": "text",
-     "text": "prawo do zakwaterowania w kwaterze / lokalu mieszkalnym[^1] nr ................................................."
+     "text": "prawo do zakwaterowania w kwaterze / lokalu mieszkalnym[^1_3] nr ................................................."
     },
     {
      "type": "text",
@@ -745,7 +745,7 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "W skład lokalu mieszkalnego wchodzi: ...................... pokój/pokoje[^1], kuchnia, przedpokój,",
+     "text": "W skład lokalu mieszkalnego wchodzi: ...................... pokój/pokoje[^1_3], kuchnia, przedpokój,",
      "children": [
       {
        "type": "text",
@@ -761,7 +761,7 @@
      "children": [
       {
        "type": "text",
-       "text": "gazową, centralnego ogrzewania[^1]."
+       "text": "gazową, centralnego ogrzewania[^1_3]."
       }
      ]
     },
@@ -789,19 +789,19 @@
       },
       {
        "type": "text",
-       "text": "oraz normę przysługującą przyszłemu dziecku[^1]."
+       "text": "oraz normę przysługującą przyszłemu dziecku[^1_3]."
       },
       {
        "type": "text",
-       "text": "Na wniosek żołnierza / za zgodą żołnierza[^1] wydano decyzję o przydziale kwatery / lokalu mieszkalnego[^1] o powierzchni użytkowej podstawowej mniejszej/większej[^1] od przysługującej."
+       "text": "Na wniosek żołnierza / za zgodą żołnierza[^1_3] wydano decyzję o przydziale kwatery / lokalu mieszkalnego[^1_3] o powierzchni użytkowej podstawowej mniejszej/większej[^1_3] od przysługującej."
       },
       {
        "type": "text",
-       "text": "Przydział kwatery / lokalu mieszkalnego[^1] został zrealizowany w miejscowości, w której żołnierz pełni służbę, w miejscowości pobliskiej, za zgodą żołnierza w miejscowości dalszej niż pobliska."
+       "text": "Przydział kwatery / lokalu mieszkalnego[^1_3] został zrealizowany w miejscowości, w której żołnierz pełni służbę, w miejscowości pobliskiej, za zgodą żołnierza w miejscowości dalszej niż pobliska."
       },
       {
        "type": "text",
-       "text": "UZASADNIENIE[^3]"
+       "text": "UZASADNIENIE[^3_3]"
       },
       {
        "type": "text",
@@ -879,10 +879,13 @@
   }
  ],
  "footnotes": {
-  "1": "Niepotrzebne skreślić.",
-  "2": "Należy wpisać właściwą podstawę prawną decyzji wynikającą z ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2024 r. poz. 1270). ¹",
-  "3": "W uzasadnieniu należy podać stan faktyczny i prawny sprawy, zgodnie z art. 107 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572). ²",
-  "4": "W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.",
+  "1": "Rozporządzenie zostało ogłoszone w dniu 30 marca 2016 r.",
+  "2": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 23 czerwca 2010 r. w sprawie gospodarowania lokalami mieszkalnymi przez Wojskową Agencję Mieszkaniową (Dz. U. poz. 777), które na podstawie art. 136 ust. 1 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. poz. 1322 i 1830) utraciło moc, w zakresie objętym niniejszym rozporządzeniem, z dniem wejścia w życie niniejszego rozporządzenia.",
+  "1_2": "Niepotrzebne skreślić.",
+  "2_2": "Należy uzupełnić, jeśli adres do doręczeń jest inny niż adres zamieszkania.",
+  "3": "Dane nieobowiązkowe. Podając je, usprawnisz kontakt z Agencją Mienia Wojskowego.",
+  "4": "Wniosek wraz z poświadczeniem dowódcy jednostki wojskowej (wypełniony przez dowódcę załącznik nr 1 do wzoru wniosku), w której żołnierz pełni służbę wojskową, składa się do dyrektora oddziału regionalnego właściwego dla garnizonu, w którym żołnierz pełni służbę wojskową. Szczegółowe dane teleadresowe organów Agencji Mienia Wojskowego są wskazane na stronie internetowej www.amw.com.pl. 1",
+  "3_2": "W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Obrony Narodowej z dnia 28 listopada 2023 r. zmieniającego rozporządzenie w sprawie przydziału kwatery albo innego lokalu mieszkalnego przez Agencję Mienia Wojskowego (Dz. U. poz. 2651), które weszło w życie z dniem 22 grudnia 2023 r.",
   "5": "Zgodnie z art. 26 ust. 3 ustawy o zakwaterowaniu członkami rodziny żołnierza zawodowego, których uwzględnia się przy ustalaniu przysługującej powierzchni użytkowej podstawowej, są:",
   "6": "Zgodnie z art. 21 ust. 7 ustawy o zakwaterowaniu w przypadku gdy oboje małżonkowie są żołnierzami zawodowymi, jednemu z małżonków przysługuje prawo do zakwaterowania realizowane w formie przydziału kwatery albo innego lokalu mieszkalnego, a drugiemu w formie przydziału miejsca w internacie albo kwaterze internatowej albo wypłaty świadczenia mieszkaniowego; w przypadku braku możliwości przydziału kwatery albo innego lokalu mieszkalnego prawo do zakwaterowania jest realizowane w formie przydziału miejsc w internacie albo kwaterze internatowej albo w formie wypłaty świadczeń mieszkaniowych. Małżonkowie wybierają, na ich wniosek, formę realizowania prawa do zakwaterowania. Małżonkowi, który wybrał realizację prawa do zakwaterowania w formie przydziału kwatery albo innego lokalu mieszkalnego, nie przysługuje norma na małżonka, który korzysta z innej formy realizacji prawa do zakwaterowania. 2",
   "7": "W przypadku dzieci małoletnich konieczne są dodatkowe ustalenia w zakresie wspólnego zamieszkiwania dziecka z żołnierzem.",
@@ -901,6 +904,10 @@
   "20": "Inna sytuacja związana ze służbą wojskową, np. dyspozycja, skierowanie, zawieszenie, wypowiedzenie, urlopy rodzicielskie itp.",
   "21": "Podpis zawiera: czytelne imię i nazwisko oraz stanowisko służbowe, jakie zajmuje osoba składająca podpis. 6 7",
   "22": "Ustawa z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).",
-  "23": "Ustawa z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383). 8"
+  "23": "Ustawa z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383). 8",
+  "1_3": "Niepotrzebne skreślić.",
+  "2_3": "Należy wpisać właściwą podstawę prawną decyzji wynikającą z ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2024 r. poz. 1270). ¹",
+  "4_2": "W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.",
+  "3_3": "W uzasadnieniu należy podać stan faktyczny i prawny sprawy, zgodnie z art. 107 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572). ²"
  }
 }

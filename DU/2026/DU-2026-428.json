@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/428",
  "title": "Rozporządzenie Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych",
- "converter": "eli2md 0.5.3",
+ "converter": "eli2md 0.6.1",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/428/text.pdf",
  "body": [
   {
@@ -2919,7 +2919,7 @@
     },
     {
      "type": "text",
-     "text": "……………………………………………………………………………………………….…. (nazwa i adres przedszkola, innej formy wychowania przedszkolnego, szkoły lub ośrodka, o którym mowa w art. 2 pkt 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, a w przypadku ucznia – także oznaczenie oddziału w szkole oraz nazwa zawodu[^1])"
+     "text": "……………………………………………………………………………………………….…. (nazwa i adres przedszkola, innej formy wychowania przedszkolnego, szkoły lub ośrodka, o którym mowa w art. 2 pkt 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, a w przypadku ucznia – także oznaczenie oddziału w szkole oraz nazwa zawodu[^1_2])"
     },
     {
      "type": "text",
@@ -3345,11 +3345,11 @@
     },
     {
      "type": "text",
-     "text": "…………………………………………………………………………………………………… (imiona i nazwiska rodziców[^1] oraz adres albo adresy ich zamieszkania)"
+     "text": "…………………………………………………………………………………………………… (imiona i nazwiska rodziców[^1_3] oraz adres albo adresy ich zamieszkania)"
     },
     {
      "type": "text",
-     "text": "na okres:[^2] .…………………………………………………………………………..…………… ze względu na stan zdrowia dziecka uniemożliwiający / znacznie utrudniający[^3] uczęszczanie do"
+     "text": "na okres:[^2_2] .…………………………………………………………………………..…………… ze względu na stan zdrowia dziecka uniemożliwiający / znacznie utrudniający[^3_2] uczęszczanie do"
     },
     {
      "type": "text",
@@ -3462,7 +3462,7 @@
      "children": [
       {
        "type": "text",
-       "text": "TAK/NIE[^4]"
+       "text": "TAK/NIE[^4_2]"
       },
       {
        "type": "text",
@@ -3482,11 +3482,11 @@
       },
       {
        "type": "text",
-       "text": "W przypadku wydania nowego orzeczenia o potrzebie indywidualnego obowiązkowego rocznego przygotowania przedszkolnego należy wskazać okoliczności, które zespół orzekający uznał za istotne dla rozstrzygnięcia, oraz wyjaśnić powody, na podstawie których stwierdzono potrzebę wydania nowego orzeczenia[^5]:"
+       "text": "W przypadku wydania nowego orzeczenia o potrzebie indywidualnego obowiązkowego rocznego przygotowania przedszkolnego należy wskazać okoliczności, które zespół orzekający uznał za istotne dla rozstrzygnięcia, oraz wyjaśnić powody, na podstawie których stwierdzono potrzebę wydania nowego orzeczenia[^5_2]:"
       },
       {
        "type": "text",
-       "text": "..…………………………………………………………………………………………………………… ..…………………………………………………………………………………………………………… ..…………………………………………………………………………………………………………… ..…………………………………………………………………………………………………………… ..…………………………………………………………………………………………………………… Orzeczenie uchyla[^6] orzeczenie nr …… o potrzebie indywidualnego obowiązkowego"
+       "text": "..…………………………………………………………………………………………………………… ..…………………………………………………………………………………………………………… ..…………………………………………………………………………………………………………… ..…………………………………………………………………………………………………………… ..…………………………………………………………………………………………………………… Orzeczenie uchyla[^6_2] orzeczenie nr …… o potrzebie indywidualnego obowiązkowego"
       },
       {
        "type": "text",
@@ -3542,7 +3542,7 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Wnioskodawca[^7]",
+     "text": "Wnioskodawca[^7_2]",
      "children": [
       {
        "type": "text",
@@ -3617,19 +3617,19 @@
     },
     {
      "type": "text",
-     "text": "………………………………………………………………………………………………………………………………. (nazwa i adres szkoły oraz oznaczenie oddziału w szkole, nazwa zawodu[^1])"
+     "text": "………………………………………………………………………………………………………………………………. (nazwa i adres szkoły oraz oznaczenie oddziału w szkole, nazwa zawodu[^1_4])"
     },
     {
      "type": "text",
-     "text": "………………………………………………………………………………………………………………………………... (imiona i nazwiska rodziców[^2] oraz adres albo adresy ich zamieszkania)"
+     "text": "………………………………………………………………………………………………………………………………... (imiona i nazwiska rodziców[^2_3] oraz adres albo adresy ich zamieszkania)"
     },
     {
      "type": "text",
-     "text": "na okres[^3] ..………………………………………………………………………………………………"
+     "text": "na okres[^3_3] ..………………………………………………………………………………………………"
     },
     {
      "type": "text",
-     "text": "ze względu na stan zdrowia ucznia uniemożliwiający / znacznie utrudniający[^4] uczęszczanie do szkoły."
+     "text": "ze względu na stan zdrowia ucznia uniemożliwiający / znacznie utrudniający[^4_3] uczęszczanie do szkoły."
     },
     {
      "type": "text",
@@ -3768,7 +3768,7 @@
      "children": [
       {
        "type": "text",
-       "text": "TAK/NIE[^5] ……………………………………………………………………………………………… ………………………………………………………………………………………………"
+       "text": "TAK/NIE[^5_3] ……………………………………………………………………………………………… ………………………………………………………………………………………………"
       }
      ]
     },
@@ -3780,7 +3780,7 @@
      "children": [
       {
        "type": "text",
-       "text": "W przypadku wydania nowego orzeczenia o potrzebie indywidualnego nauczania należy wskazać okoliczności, które zespół orzekający uznał za istotne dla rozstrzygnięcia, oraz wyjaśnić powody, na podstawie których stwierdzono potrzebę wydania nowego orzeczenia[^6]: ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… Orzeczenie uchyla[^7] orzeczenie nr …… o potrzebie indywidualnego nauczania z dnia"
+       "text": "W przypadku wydania nowego orzeczenia o potrzebie indywidualnego nauczania należy wskazać okoliczności, które zespół orzekający uznał za istotne dla rozstrzygnięcia, oraz wyjaśnić powody, na podstawie których stwierdzono potrzebę wydania nowego orzeczenia[^6_3]: ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… Orzeczenie uchyla[^7_3] orzeczenie nr …… o potrzebie indywidualnego nauczania z dnia"
       },
       {
        "type": "text",
@@ -3836,7 +3836,7 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Wnioskodawca[^8] ………………………………………………………………………………………………………………………… (imię i nazwisko)",
+     "text": "Wnioskodawca[^8_2] ………………………………………………………………………………………………………………………… (imię i nazwisko)",
      "children": [
       {
        "type": "text",
@@ -3891,7 +3891,7 @@
     },
     {
      "type": "text",
-     "text": "orzeka o potrzebie zajęć rewalidacyjno-wychowawczych zespołowych/indywidualnych[^1]"
+     "text": "orzeka o potrzebie zajęć rewalidacyjno-wychowawczych zespołowych/indywidualnych[^1_5]"
     },
     {
      "type": "text",
@@ -3903,11 +3903,11 @@
     },
     {
      "type": "text",
-     "text": "……………………………………………………………………………………………………………………… (nazwa i adres podmiotu organizującego zajęcia rewalidacyjno-wychowawcze[^2])"
+     "text": "……………………………………………………………………………………………………………………… (nazwa i adres podmiotu organizującego zajęcia rewalidacyjno-wychowawcze[^2_4])"
     },
     {
      "type": "text",
-     "text": "……………………………………………………………………………………………………………………… (imiona i nazwiska rodziców[^3] oraz adres albo adresy ich zamieszkania) na okres[^4]…...………........................................................................................................................"
+     "text": "……………………………………………………………………………………………………………………… (imiona i nazwiska rodziców[^3_4] oraz adres albo adresy ich zamieszkania) na okres[^4_4]…...………........................................................................................................................"
     },
     {
      "type": "text",
@@ -3984,7 +3984,7 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "formę zajęć rewalidacyjno-wychowawczych: indywidualną/zespołową[^5]: ……………………………………………………………………………………………… ……………………………………………………………………………………………… ………………………………………………………………………………………………",
+     "text": "formę zajęć rewalidacyjno-wychowawczych: indywidualną/zespołową[^5_4]: ……………………………………………………………………………………………… ……………………………………………………………………………………………… ………………………………………………………………………………………………",
      "children": []
     },
     {
@@ -4003,7 +4003,7 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Dziecko posługuje się wspomagającą lub alternatywną metodą komunikacji (AAC) lub językiem migowym: TAK/NIE[^6] ……………………………………………………………….………………………….……… ………………………………………………………………………….………………….……",
+     "text": "Dziecko posługuje się wspomagającą lub alternatywną metodą komunikacji (AAC) lub językiem migowym: TAK/NIE[^6_4] ……………………………………………………………….………………………….……… ………………………………………………………………………….………………….……",
      "children": []
     },
     {
@@ -4021,7 +4021,7 @@
      "children": [
       {
        "type": "text",
-       "text": "W przypadku wydania nowego orzeczenia o potrzebie zajęć rewalidacyjno-wychowawczych indywidualnych lub zespołowych należy wskazać okoliczności, które zespół orzekający uznał za istotne dla rozstrzygnięcia, oraz wyjaśnić powody, na podstawie których stwierdzono potrzebę wydania nowego orzeczenia[^7]: ……………………………………………………………….………………………….………… ……………………………………………………………….………………………….………… ……………………………………………………………….………………………….………… ……………………………………………………………….………………………….………… ……………………………………………………………….………………………….………… Orzeczenie uchyla[^8]:"
+       "text": "W przypadku wydania nowego orzeczenia o potrzebie zajęć rewalidacyjno-wychowawczych indywidualnych lub zespołowych należy wskazać okoliczności, które zespół orzekający uznał za istotne dla rozstrzygnięcia, oraz wyjaśnić powody, na podstawie których stwierdzono potrzebę wydania nowego orzeczenia[^7_4]: ……………………………………………………………….………………………….………… ……………………………………………………………….………………………….………… ……………………………………………………………….………………………….………… ……………………………………………………………….………………………….………… ……………………………………………………………….………………………….………… Orzeczenie uchyla[^8_3]:"
       },
       {
        "type": "pkt",
@@ -4032,7 +4032,7 @@
       },
       {
        "type": "text",
-       "text": "indywidualnych[^9] z dnia ……………………..………… wydane przez ……………………"
+       "text": "indywidualnych[^9_2] z dnia ……………………..………… wydane przez ……………………"
       },
       {
        "type": "text",
@@ -4099,7 +4099,7 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Wnioskodawca[^10]:",
+     "text": "Wnioskodawca[^10_2]:",
      "children": [
       {
        "type": "text",
@@ -4170,11 +4170,11 @@
     },
     {
      "type": "text",
-     "text": "………………………………………………………………………………………………………………………. (nazwa i adres przedszkola, innej formy wychowania przedszkolnego, szkoły lub ośrodka, o którym mowa w art. 2 pkt 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, a w przypadku ucznia – także oznaczenie oddziału w szkole oraz nazwa zawodu[^1])"
+     "text": "………………………………………………………………………………………………………………………. (nazwa i adres przedszkola, innej formy wychowania przedszkolnego, szkoły lub ośrodka, o którym mowa w art. 2 pkt 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, a w przypadku ucznia – także oznaczenie oddziału w szkole oraz nazwa zawodu[^1_6])"
     },
     {
      "type": "text",
-     "text": "……………………………………………………………………………………………………………………… (imiona i nazwiska rodziców[^2] oraz adres albo adresy ich zamieszkania) Uzasadnienie"
+     "text": "……………………………………………………………………………………………………………………… (imiona i nazwiska rodziców[^2_5] oraz adres albo adresy ich zamieszkania) Uzasadnienie"
     },
     {
      "type": "text",
@@ -4186,7 +4186,7 @@
     },
     {
      "type": "text",
-     "text": "Orzeczenie uchyla[^3] orzeczenie nr …… o potrzebie kształcenia specjalnego z dnia …………. wydane przez ……………………………………….…………………………………………… …………………………………………………………………………………………………….."
+     "text": "Orzeczenie uchyla[^3_5] orzeczenie nr …… o potrzebie kształcenia specjalnego z dnia …………. wydane przez ……………………………………….…………………………………………… …………………………………………………………………………………………………….."
     },
     {
      "type": "text",
@@ -4206,7 +4206,7 @@
     },
     {
      "type": "text",
-     "text": "Wnioskodawca[^4]:"
+     "text": "Wnioskodawca[^4_5]:"
     },
     {
      "type": "text",
@@ -4279,7 +4279,7 @@
     },
     {
      "type": "text",
-     "text": "……………………………………………………………….……………………………………………………… (imiona i nazwiska rodziców[^1] oraz adres albo adresy ich zamieszkania) Uzasadnienie"
+     "text": "……………………………………………………………….……………………………………………………… (imiona i nazwiska rodziców[^1_6] oraz adres albo adresy ich zamieszkania) Uzasadnienie"
     },
     {
      "type": "text",
@@ -4339,7 +4339,7 @@
     },
     {
      "type": "text",
-     "text": "Wnioskodawca[^2]:"
+     "text": "Wnioskodawca[^2_5]:"
     },
     {
      "type": "text",
@@ -4408,11 +4408,11 @@
     },
     {
      "type": "text",
-     "text": "………………………………………………………………………………………………………………………. (nazwa i adres szkoły oraz oznaczenie oddziału w szkole, nazwa zawodu[^1])"
+     "text": "………………………………………………………………………………………………………………………. (nazwa i adres szkoły oraz oznaczenie oddziału w szkole, nazwa zawodu[^1_7])"
     },
     {
      "type": "text",
-     "text": "………………………………………………………………………………………………………………………. (imiona i nazwiska rodziców[^2] oraz adres albo adresy ich zamieszkania) Uzasadnienie"
+     "text": "………………………………………………………………………………………………………………………. (imiona i nazwiska rodziców[^2_6] oraz adres albo adresy ich zamieszkania) Uzasadnienie"
     },
     {
      "type": "text",
@@ -4488,7 +4488,7 @@
     },
     {
      "type": "text",
-     "text": "Wnioskodawca[^3]:"
+     "text": "Wnioskodawca[^3_6]:"
     },
     {
      "type": "text",
@@ -4557,11 +4557,11 @@
     },
     {
      "type": "text",
-     "text": "………......................................................................................................................................................................... (nazwa i adres podmiotu organizującego zajęcia rewalidacyjno-wychowawcze[^1])"
+     "text": "………......................................................................................................................................................................... (nazwa i adres podmiotu organizującego zajęcia rewalidacyjno-wychowawcze[^1_8])"
     },
     {
      "type": "text",
-     "text": "………......................................................................................................................................................................... (imiona i nazwiska rodziców[^2] oraz adres albo adresy ich zamieszkania) Uzasadnienie"
+     "text": "………......................................................................................................................................................................... (imiona i nazwiska rodziców[^2_7] oraz adres albo adresy ich zamieszkania) Uzasadnienie"
     },
     {
      "type": "text",
@@ -4652,7 +4652,7 @@
     },
     {
      "type": "text",
-     "text": "Wnioskodawca[^4]:"
+     "text": "Wnioskodawca[^4_6]:"
     },
     {
      "type": "text",
@@ -4729,11 +4729,11 @@
     },
     {
      "type": "text",
-     "text": "…………………………………………………………………………………………………… (nazwa i adres przedszkola, innej formy wychowania przedszkolnego, szkoły lub ośrodka, o którym mowa w art. 2 pkt 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, a w przypadku ucznia – także oznaczenie oddziału w szkole oraz nazwa zawodu[^1])"
+     "text": "…………………………………………………………………………………………………… (nazwa i adres przedszkola, innej formy wychowania przedszkolnego, szkoły lub ośrodka, o którym mowa w art. 2 pkt 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, a w przypadku ucznia – także oznaczenie oddziału w szkole oraz nazwa zawodu[^1_9])"
     },
     {
      "type": "text",
-     "text": "…………………………………………………………………………………………………… (imiona i nazwiska rodziców[^2] oraz adres albo adresy ich zamieszkania) Uzasadnienie"
+     "text": "…………………………………………………………………………………………………… (imiona i nazwiska rodziców[^2_8] oraz adres albo adresy ich zamieszkania) Uzasadnienie"
     },
     {
      "type": "text",
@@ -4809,7 +4809,7 @@
     },
     {
      "type": "text",
-     "text": "Wnioskodawca[^3]:"
+     "text": "Wnioskodawca[^3_8]:"
     },
     {
      "type": "text",
@@ -4890,7 +4890,7 @@
     },
     {
      "type": "text",
-     "text": ".……………………………………………………………………………………………………… (imiona i nazwiska rodziców[^1] oraz adres albo adresy ich zamieszkania) Uzasadnienie"
+     "text": ".……………………………………………………………………………………………………… (imiona i nazwiska rodziców[^1_10] oraz adres albo adresy ich zamieszkania) Uzasadnienie"
     },
     {
      "type": "text",
@@ -4962,7 +4962,7 @@
     },
     {
      "type": "text",
-     "text": "Wnioskodawca[^2]:"
+     "text": "Wnioskodawca[^2_9]:"
     },
     {
      "type": "text",
@@ -5035,11 +5035,11 @@
     },
     {
      "type": "text",
-     "text": "………………………………………………………………………………………………. (nazwa i adres szkoły oraz oznaczenie oddziału w szkole, nazwa zawodu[^1])"
+     "text": "………………………………………………………………………………………………. (nazwa i adres szkoły oraz oznaczenie oddziału w szkole, nazwa zawodu[^1_11])"
     },
     {
      "type": "text",
-     "text": "………………………………………………………………………………………………. (imiona i nazwiska rodziców[^2] oraz adres albo adresy ich zamieszkania) Uzasadnienie"
+     "text": "………………………………………………………………………………………………. (imiona i nazwiska rodziców[^2_10] oraz adres albo adresy ich zamieszkania) Uzasadnienie"
     },
     {
      "type": "text",
@@ -5119,7 +5119,7 @@
     },
     {
      "type": "text",
-     "text": "Wnioskodawca[^3]:"
+     "text": "Wnioskodawca[^3_9]:"
     },
     {
      "type": "text",
@@ -5168,7 +5168,7 @@
     },
     {
      "type": "text",
-     "text": "orzeka o odmowie uchylenia orzeczenia nr …………… o potrzebie zajęć rewalidacyjno-wychowawczych zespołowych/indywidualnych[^1] z dnia …………………………………… wydanego przez zespół orzekający ………………………………………………………………"
+     "text": "orzeka o odmowie uchylenia orzeczenia nr …………… o potrzebie zajęć rewalidacyjno-wychowawczych zespołowych/indywidualnych[^1_12] z dnia …………………………………… wydanego przez zespół orzekający ………………………………………………………………"
     },
     {
      "type": "text",
@@ -5188,11 +5188,11 @@
     },
     {
      "type": "text",
-     "text": "………………………………………………………………………………………………………. (nazwa i adres podmiotu organizującego zajęcia rewalidacyjno-wychowawcze[^2])"
+     "text": "………………………………………………………………………………………………………. (nazwa i adres podmiotu organizującego zajęcia rewalidacyjno-wychowawcze[^2_11])"
     },
     {
      "type": "text",
-     "text": "………………………………………………………………………………………………………. (imiona i nazwiska rodziców[^3] oraz adres albo adresy ich zamieszkania) Uzasadnienie"
+     "text": "………………………………………………………………………………………………………. (imiona i nazwiska rodziców[^3_10] oraz adres albo adresy ich zamieszkania) Uzasadnienie"
     },
     {
      "type": "text",
@@ -5268,7 +5268,7 @@
     },
     {
      "type": "text",
-     "text": "Wnioskodawca[^4]:"
+     "text": "Wnioskodawca[^4_7]:"
     },
     {
      "type": "text",
@@ -5341,11 +5341,11 @@
     },
     {
      "type": "text",
-     "text": "…………………………………………………………………………………………………… (imiona i nazwiska rodziców[^1] oraz adres albo adresy ich zamieszkania)"
+     "text": "…………………………………………………………………………………………………… (imiona i nazwiska rodziców[^1_13] oraz adres albo adresy ich zamieszkania)"
     },
     {
      "type": "text",
-     "text": "na okres[^2] …………………………………………………………………………………………"
+     "text": "na okres[^2_12] …………………………………………………………………………………………"
     },
     {
      "type": "text",
@@ -5461,7 +5461,7 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Dziecko posługuje się wspomagającą lub alternatywną metodą komunikacji (AAC) lub językiem migowym: TAK/NIE[^3] ………………………………………………………………………………………………. ………………………………………………………………………………………………. ……………………………………………………………………………………………….",
+     "text": "Dziecko posługuje się wspomagającą lub alternatywną metodą komunikacji (AAC) lub językiem migowym: TAK/NIE[^3_11] ………………………………………………………………………………………………. ………………………………………………………………………………………………. ……………………………………………………………………………………………….",
      "children": []
     },
     {
@@ -5472,7 +5472,7 @@
      "children": [
       {
        "type": "text",
-       "text": "W przypadku wydania nowej opinii o potrzebie wczesnego wspomagania rozwoju dziecka należy wskazać okoliczności, które zespół orzekający uznał za istotne dla rozstrzygnięcia, oraz wyjaśnić powody, na podstawie których stwierdzono potrzebę wydania nowej opinii[^4]:"
+       "text": "W przypadku wydania nowej opinii o potrzebie wczesnego wspomagania rozwoju dziecka należy wskazać okoliczności, które zespół orzekający uznał za istotne dla rozstrzygnięcia, oraz wyjaśnić powody, na podstawie których stwierdzono potrzebę wydania nowej opinii[^4_8]:"
       },
       {
        "type": "text",
@@ -5480,7 +5480,7 @@
       },
       {
        "type": "text",
-       "text": "Opinia uchyla[^4] opinię nr …………… o potrzebie wczesnego wspomagania rozwoju dziecka z dnia ………………………………….………… wydaną przez ………………………………… ……………………………………………………………………………………………………….… ."
+       "text": "Opinia uchyla[^4_9] opinię nr …………… o potrzebie wczesnego wspomagania rozwoju dziecka z dnia ………………………………….………… wydaną przez ………………………………… ……………………………………………………………………………………………………….… ."
       },
       {
        "type": "text",
@@ -5516,7 +5516,7 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Wnioskodawca[^5]",
+     "text": "Wnioskodawca[^5_5]",
      "children": [
       {
        "type": "text",
@@ -5587,11 +5587,11 @@
     },
     {
      "type": "text",
-     "text": "…….…….…….…….…….…….…….…….…….…….…….…….…….…….…….…….… (nazwa i adres podmiotu organizującego wczesne wspomaganie rozwoju dziecka[^1])"
+     "text": "…….…….…….…….…….…….…….…….…….…….…….…….…….…….…….…….… (nazwa i adres podmiotu organizującego wczesne wspomaganie rozwoju dziecka[^1_14])"
     },
     {
      "type": "text",
-     "text": "…….…….…….…….…….…….…….…….…….…….…….…….…….…….…….…….… (imiona i nazwiska rodziców[^2] oraz adres ich zamieszkania) Uzasadnienie"
+     "text": "…….…….…….…….…….…….…….…….…….…….…….…….…….…….…….…….… (imiona i nazwiska rodziców[^2_13] oraz adres ich zamieszkania) Uzasadnienie"
     },
     {
      "type": "text",
@@ -5669,7 +5669,7 @@
       },
       {
        "type": "text",
-       "text": "Wnioskodawca[^4]"
+       "text": "Wnioskodawca[^4_9]"
       },
       {
        "type": "text",
@@ -5752,11 +5752,11 @@
     },
     {
      "type": "text",
-     "text": "………………………..……………………………………………………………………… (nazwa i adres podmiotu organizującego wczesne wspomaganie rozwoju dziecka[^1])"
+     "text": "………………………..……………………………………………………………………… (nazwa i adres podmiotu organizującego wczesne wspomaganie rozwoju dziecka[^1_15])"
     },
     {
      "type": "text",
-     "text": "………………………..……………………………………………………………………… (imiona i nazwiska rodziców[^2] oraz adres albo adresy ich zamieszkania) Uzasadnienie"
+     "text": "………………………..……………………………………………………………………… (imiona i nazwiska rodziców[^2_14] oraz adres albo adresy ich zamieszkania) Uzasadnienie"
     },
     {
      "type": "text",
@@ -5820,7 +5820,7 @@
     },
     {
      "type": "text",
-     "text": "Wnioskodawca[^3]:"
+     "text": "Wnioskodawca[^3_13]:"
     },
     {
      "type": "text",
@@ -5834,16 +5834,77 @@
   }
  ],
  "footnotes": {
-  "1": "W przypadku gdy dziecko nie uczęszcza na zajęcia wczesnego wspomagania rozwoju, należy wpisać „nie dotyczy”.",
+  "1": "Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).",
+  "1_2": "Nazwę zawodu wpisuje się wyłącznie w przypadku ucznia uczęszczającego do szkoły prowadzącej kształcenie zawodowe.",
   "2": "Zgodnie z art. 4 pkt 19 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe przez rodziców należy rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem.",
-  "3": "Wnioskodawca określony zgodnie z § 6 ust. 1 pkt 12 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych (Dz. U. poz. 428); drugi z wnioskodawców zachowuje prawo do otrzymania kopii orzeczenia potwierdzonej za zgodność z oryginałem.",
-  "4": "Wnioskodawca określony zgodnie z § 6 ust. 1 pkt 12 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych; drugi z wnioskodawców zachowuje prawo do otrzymania kopii orzeczenia potwierdzonej za zgodność z oryginałem.",
-  "5": "Wnioskodawca określony zgodnie z § 6 ust. 1 pkt 12 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych (Dz. U. poz. 428); drugi z wnioskodawców zachowuje prawo do otrzymania kopii orzeczenia potwierdzonej za zgodność z oryginałem.",
+  "3": "Orzeczenie wydaje się na okres wychowania przedszkolnego, roku szkolnego lub etapu edukacyjnego. W przypadku ucznia szkoły ponadpodstawowej termin ważności orzeczenia nie może przypadać później niż koniec roku szkolnego, w roku kalendarzowym, w którym uczeń kończy 24. rok życia.",
+  "4": "Właściwe podkreślić; w przypadku gdy potrzeba kształcenia specjalnego wynika zarówno z występowania u ucznia niepełnosprawności, jak i niedostosowania społecznego albo zagrożenia niedostosowaniem społecznym, należy podkreślić występującą u ucznia niepełnosprawność lub niepełnosprawności (pkt 1 lit. a–j) oraz niedostosowanie społeczne (pkt 2) albo zagrożenie niedostosowaniem społecznym (pkt 3).",
+  "5": "Wskazać współwystępujące niepełnosprawności, o których mowa w lit. a–i.",
   "6": "Właściwe podkreślić. Jeżeli podkreślono odpowiedź TAK, należy wymienić wspomagające lub alternatywne metody komunikacji (AAC), którymi posługuje się dziecko lub uczeń.",
-  "7": "Wypełnia się w przypadkach, o których mowa w § 21 ust. 1 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych (Dz. U. poz. 428).",
-  "8": "Wypełnia się w przypadku wydania nowego orzeczenia o potrzebie zajęć rewalidacyjno-wychowawczych.",
-  "9": "Właściwe podkreślić.",
-  "10": "Wnioskodawca określony zgodnie z § 6 ust. 1 pkt 12 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych; drugi z wnioskodawców zachowuje prawo do otrzymania kopii orzeczenia potwierdzonej za zgodność z oryginałem. 1) Nazwę zawodu wpisuje się wyłącznie w przypadku ucznia uczęszczającego do szkoły prowadzącej kształcenie zawodowe. 2) Zgodnie z art. 4 pkt 19 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe przez rodziców należy rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem.",
-  "11": "Wnioskodawca określony zgodnie z § 6 ust. 1 pkt 12 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych; drugi z wnioskodawców zachowuje prawo do otrzymania kopii orzeczenia potwierdzonej za zgodność z oryginałem."
+  "7": "Jeżeli nie dotyczy, przekreślić.",
+  "8": "Wypełnia się w przypadkach, o których mowa w § 21 ust. 1 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych.",
+  "9": "Wypełnia się w przypadku wydania nowego orzeczenia o potrzebie kształcenia specjalnego.",
+  "10": "Właściwe podkreślić.",
+  "11": "Wnioskodawca określony zgodnie z § 6 ust. 1 pkt 12 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych; drugi z wnioskodawców zachowuje prawo do otrzymania kopii orzeczenia potwierdzonej za zgodność z oryginałem.",
+  "1_3": "Zgodnie z art. 4 pkt 19 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe przez rodziców należy rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem.",
+  "2_2": "Orzeczenie wydaje się na okres niekrótszy niż 30 dni i niedłuższy niż jeden rok szkolny.",
+  "3_2": "Niepotrzebne skreślić.",
+  "4_2": "Właściwe podkreślić. Jeżeli podkreślono odpowiedź TAK, należy wymienić wspomagające lub alternatywne metody komunikacji (AAC) lub język migowy, którymi posługuje się dziecko.",
+  "5_2": "Wypełnia się w przypadkach, o których mowa w § 23 ust. 1 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych (Dz. U. poz. 428).",
+  "6_2": "Wypełnia się w przypadku wydania nowego orzeczenia o potrzebie indywidualnego obowiązkowego rocznego przygotowania przedszkolnego.",
+  "7_2": "Wnioskodawca określony zgodnie z § 6 ust. 1 pkt 12 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych; drugi z wnioskodawców zachowuje prawo do otrzymania kopii orzeczenia potwierdzonej za zgodność z oryginałem.",
+  "1_4": "Nazwę zawodu wpisuje się wyłącznie w przypadku ucznia uczęszczającego do szkoły prowadzącej kształcenie zawodowe.",
+  "2_3": "Zgodnie z art. 4 pkt 19 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe przez rodziców należy rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem.",
+  "3_3": "Orzeczenie o potrzebie indywidualnego nauczania wydaje się na okres niekrótszy niż 30 dni i niedłuższy niż jeden rok szkolny.",
+  "4_3": "Niepotrzebne skreślić.",
+  "5_3": "Właściwe podkreślić. Jeżeli podkreślono odpowiedź TAK, należy wymienić wspomagające lub alternatywne metody komunikacji (AAC) lub język migowy, którymi posługuje się uczeń.",
+  "6_3": "Wypełnia się w przypadkach, o których mowa w § 23 ust. 1 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych (Dz. U. poz. 428).",
+  "7_3": "Wypełnia się w przypadku wydania nowego orzeczenia o potrzebie indywidualnego nauczania.",
+  "8_2": "Wnioskodawca określony zgodnie z § 6 ust. 1 pkt 12 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych; drugi z wnioskodawców zachowuje prawo do otrzymania kopii orzeczenia potwierdzonej za zgodność z oryginałem.",
+  "1_5": "Właściwe podkreślić.",
+  "2_4": "W przypadku gdy dziecko nie uczęszcza na zajęcia rewalidacyjno-wychowawcze, należy wpisać „nie dotyczy”.",
+  "3_4": "Zgodnie z art. 4 pkt 19 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe przez rodziców należy rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem.",
+  "4_4": "Orzeczenie wydaje się na okres niedłuższy niż 5 lat szkolnych. Termin ważności orzeczenia nie może przypadać później niż koniec roku szkolnego, w roku kalendarzowym, w którym dziecko kończy 25. rok życia.",
+  "5_4": "Właściwe podkreślić i wymienić rodzaj i zakres tych zajęć.",
+  "6_4": "Właściwe podkreślić. Jeżeli podkreślono odpowiedź TAK, należy wymienić wspomagające lub alternatywne metody komunikacji (AAC), którymi posługuje się dziecko lub uczeń.",
+  "7_4": "Wypełnia się w przypadkach, o których mowa w § 21 ust. 1 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych (Dz. U. poz. 428).",
+  "8_3": "Wypełnia się w przypadku wydania nowego orzeczenia o potrzebie zajęć rewalidacyjno-wychowawczych.",
+  "9_2": "Właściwe podkreślić.",
+  "10_2": "Wnioskodawca określony zgodnie z § 6 ust. 1 pkt 12 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych; drugi z wnioskodawców zachowuje prawo do otrzymania kopii orzeczenia potwierdzonej za zgodność z oryginałem. 1) Nazwę zawodu wpisuje się wyłącznie w przypadku ucznia uczęszczającego do szkoły prowadzącej kształcenie zawodowe. 2) Zgodnie z art. 4 pkt 19 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe przez rodziców należy rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem.",
+  "3_5": "Wypełnia się w przypadku, o którym mowa w § 22 ust. 1 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych (Dz. U. poz. 428).",
+  "4_5": "Wnioskodawca określony zgodnie z § 6 ust. 1 pkt 12 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych; drugi z wnioskodawców zachowuje prawo do otrzymania kopii orzeczenia potwierdzonej za zgodność z oryginałem.",
+  "1_6": "Zgodnie z art. 4 pkt 19 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe przez rodziców należy rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem.",
+  "2_5": "Wnioskodawca określony zgodnie z § 6 ust. 1 pkt 12 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych (Dz. U. poz. 428); drugi z wnioskodawców zachowuje prawo do otrzymania kopii orzeczenia potwierdzonej za zgodność z oryginałem.",
+  "1_7": "Nazwę zawodu wpisuje się wyłącznie w przypadku ucznia uczęszczającego do szkoły prowadzącej kształcenie zawodowe.",
+  "2_6": "Zgodnie z art. 4 pkt 19 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe przez rodziców należy rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem.",
+  "3_6": "Wnioskodawca określony zgodnie z § 6 ust. 1 pkt 12 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych (Dz. U. poz. 428); drugi z wnioskodawców zachowuje prawo do otrzymania kopii orzeczenia potwierdzonej za zgodność z oryginałem.",
+  "1_8": "W przypadku gdy dziecko nie uczęszcza na zajęcia rewalidacyjno-wychowawcze, należy wpisać „nie dotyczy”.",
+  "2_7": "Zgodnie z art. 4 pkt 19 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe przez rodziców należy rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem.",
+  "3_7": "Wypełnia się w przypadku, o którym mowa w § 22 ust. 1 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych (Dz. U. poz. 428).",
+  "4_6": "Wnioskodawca określony zgodnie z § 6 ust. 1 pkt 12 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych; drugi z wnioskodawców zachowuje prawo do otrzymania kopii orzeczenia potwierdzonej za zgodność z oryginałem.",
+  "1_9": "Nazwę zawodu wpisuje się wyłącznie w przypadku ucznia uczęszczającego do szkoły prowadzącej kształcenie zawodowe.",
+  "2_8": "Zgodnie z art. 4 pkt 19 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe przez rodziców należy rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem.",
+  "3_8": "Wnioskodawca określony zgodnie z § 6 ust. 1 pkt 12 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych (Dz. U. poz. 428); drugi z wnioskodawców zachowuje prawo do otrzymania kopii orzeczenia potwierdzonej za zgodność z oryginałem.",
+  "1_10": "Zgodnie z art. 4 pkt 19 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe przez rodziców należy rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem.",
+  "2_9": "Wnioskodawca określony zgodnie z § 6 ust. 1 pkt 12 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych (Dz. U. poz. 428); drugi z wnioskodawców zachowuje prawo do otrzymania kopii orzeczenia potwierdzonej za zgodność z oryginałem.",
+  "1_11": "Nazwę zawodu wpisuje się wyłącznie w przypadku ucznia uczęszczającego do szkoły prowadzącej kształcenie zawodowe.",
+  "2_10": "Zgodnie z art. 4 pkt 19 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe przez rodziców należy rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem.",
+  "3_9": "Wnioskodawca określony zgodnie z § 6 ust. 1 pkt 12 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych (Dz. U. poz. 428); drugi z wnioskodawców zachowuje prawo do otrzymania kopii orzeczenia potwierdzonej za zgodność z oryginałem.",
+  "1_12": "Właściwe podkreślić.",
+  "2_11": "W przypadku gdy dziecko nie uczęszcza na zajęcia rewalidacyjno-wychowawcze, należy wpisać „nie dotyczy”.",
+  "3_10": "Zgodnie z art. 4 pkt 19 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe przez rodziców należy rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem.",
+  "4_7": "Wnioskodawca określony zgodnie z § 6 ust. 1 pkt 12 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych (Dz. U. poz. 428); drugi z wnioskodawców zachowuje prawo do otrzymania kopii orzeczenia potwierdzonej za zgodność z oryginałem.",
+  "1_13": "Zgodnie z art. 4 pkt 19 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe przez rodziców należy rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem.",
+  "2_12": "Opinia może być wydana od chwili wykrycia niepełnosprawności dziecka do podjęcia nauki w szkole.",
+  "3_11": "Właściwe podkreślić. Jeżeli podkreślono odpowiedź TAK, należy wymienić wspomagające lub alternatywne metody komunikacji (AAC), którymi posługuje się dziecko.",
+  "4_8": "Wypełnia się w przypadku wydania nowej opinii o potrzebie wczesnego wspomagania rozwoju dziecka.",
+  "5_5": "Wnioskodawca określony zgodnie z § 6 ust. 1 pkt 12 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych (Dz. U. poz. 428); drugi z wnioskodawców zachowuje prawo do otrzymania kopii orzeczenia potwierdzonej za zgodność z oryginałem.",
+  "1_14": "W przypadku gdy dziecko nie uczęszcza na zajęcia wczesnego wspomagania rozwoju, należy wpisać „nie dotyczy”.",
+  "2_13": "Zgodnie z art. 4 pkt 19 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe przez rodziców należy rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem.",
+  "3_12": "Wypełnia się w przypadku, o którym mowa w § 28 ust. 1 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych (Dz. U. poz. 428).",
+  "4_9": "Wnioskodawca określony zgodnie z § 6 ust. 1 pkt 12 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych; drugi z wnioskodawców zachowuje prawo do otrzymania kopii orzeczenia potwierdzonej za zgodność z oryginałem.",
+  "1_15": "W przypadku gdy dziecko nie uczęszcza na zajęcia wczesnego wspomagania rozwoju, należy wpisać „nie dotyczy”.",
+  "2_14": "Zgodnie z art. 4 pkt 19 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe przez rodziców należy rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem.",
+  "3_13": "Wnioskodawca określony zgodnie z § 6 ust. 1 pkt 12 rozporządzenia Ministra Edukacji z dnia 2 marca 2026 r. w sprawie orzeczeń i opinii wydawanych przez zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych (Dz. U. poz. 428); drugi z wnioskodawców zachowuje prawo do otrzymania kopii orzeczenia potwierdzonej za zgodność z oryginałem."
  }
 }

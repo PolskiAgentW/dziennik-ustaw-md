@@ -1,0 +1,824 @@
+{
+ "eli": "DU/2021/2481",
+ "title": "Rozporządzenie Ministra Finansów z dnia 27 grudnia 2021 r. w sprawie korzystania z Krajowego Systemu e-Faktur",
+ "converter": "eli2md 0.6.1",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2021/2481/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA FINANSÓW[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 grudnia 2021 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie korzystania z Krajowego Systemu e-Faktur"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 106r ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2021 r. poz. 685, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "rodzaje uprawnień do korzystania z Krajowego Systemu e-Faktur;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "sposoby nadawania, zmiany lub odbierania uprawnień do korzystania z Krajowego Systemu e-Faktur oraz wzór zawiadomienia o nadaniu lub odebraniu tych uprawnień;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "sposoby uwierzytelnienia podmiotów korzystających z Krajowego Systemu e-Faktur;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "dane faktury ustrukturyzowanej, których podanie umożliwia dostęp do tej faktury w Krajowym Systemie e-Faktur.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Uprawnieniami do korzystania z Krajowego Systemu e-Faktur są uprawnienia do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "nadawania, zmiany lub odbierania uprawnień do korzystania z Krajowego Systemu e-Faktur;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "wystawiania lub dostępu do faktur ustrukturyzowanych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "wystawiania faktur, o których mowa w art. 106d ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, zwanej dalej „ustawą”, będących fakturami ustrukturyzowanymi.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Uprawnienie, o którym mowa w ust. 1 pkt 1, posiada:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "podatnik;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "osoba fizyczna wskazana przez podatnika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_2/pkt_3",
+       "text": "podmioty, o których mowa w art. 106c ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_2/pkt_4",
+       "text": "osoba fizyczna wskazana przez podmiot, o którym mowa w art. 106c pkt 1 ustawy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Uprawnienia, o których mowa w ust. 1 pkt 2, posiada:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_3/pkt_1",
+       "text": "podatnik;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_3/pkt_2",
+       "text": "osoba fizyczna wskazana p rzez podatnika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_3/pkt_3",
+       "text": "podmiot wskazany przez podatnika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_3/pkt_4",
+       "text": "osoba fizyczna wskazana przez podmiot, który został wskazany przez podatnika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_3/pkt_5",
+       "text": "podmioty, o których mowa w art. 106c ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_3/pkt_6",
+       "text": "osoba fizyczna wskazana przez podmiot, o którym mowa w art. 106c ustawy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Uprawnienia, o których mowa ust. 1 pkt 2, posiadane przez podmiot wskazany przez podatnika są również uprawnieniami osób fizycznych wskazanych przez ten podmiot.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "Uprawnienie, o którym mowa w ust. 1 pkt 3, posiada wskazany przez podatnika nabywca towarów lub usług oraz podmioty uprawnione przez tego nabywcę do wystawiania faktur ustrukturyzowanych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Nadawanie, zmiana lub odbieranie uprawnień do korzystania z Krajowego Systemu e-Faktur jest dokonywane za pomocą oprogramowania interfejsowego, o którym mowa w art. 106nc ust. 1 ustawy, dostępnego na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych, i następuje z zastosowaniem specyfikacji tego oprogramowania interfejsowego, po weryfikacji posiadanych uprawnień.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Nadanie, zmiana lub odebranie uprawnień do korzystania z Krajowego Systemu e-Faktur wymaga podania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "numeru identyfikacji podatkowej (NIP) podatnika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "danych podmiotu lub danych osoby fizycznej, którym jest nadawane, zmieniane lub odbierane uprawnienie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_2/pkt_2/lit_a",
+         "text": "numeru identyfikacji podatkowej (NIP) podmiotu albo numeru identyfikacji podatkowej (NIP) lub numeru PESEL osoby fizycznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_2/pkt_2/lit_b",
+         "text": "imienia i nazwiska osoby fizycznej albo nazwy podmiotu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_2/pkt_2/lit_c",
+         "text": "daty urodzenia osoby fizycznej, w przypadku niepodania numeru identyfikacji podatkowej (NIP) i numeru PESEL,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/ust_2/pkt_2/lit_d",
+         "text": "numeru i serii dowodu osobistego lub innego dokumentu potwierdzającego tożsamość osoby fizycznej wraz z krajem jego wydania, w przypadku nieposiadania numeru identyfikacji podatkowej (NIP) i numeru PESEL,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/ust_2/pkt_2/lit_e",
+         "text": "danych unikalnych identyfikujących kwalifikowany podpis elektroniczny uprawnionej osoby fizycznej, w przypadku gdy podpis ten nie zawiera numeru identyfikacji podatkowej (NIP) i numeru PESEL;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_2/pkt_3",
+       "text": "rodzaju uprawnienia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_2/pkt_4",
+       "text": "informacji, czy podmiot lub osoba fizyczna, którym jest nadawane, zmieniane lub odbierane uprawnienie, jest przedstawicielem podatkowym, o którym mowa w art. 18a ustawy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Nadanie, zmiana lub odebranie uprawnienia do wystawiania faktur ustrukturyzowanych przez osobę fizyczną uprawnioną przez podmioty, o których mowa w art. 106c ustawy, wymaga podania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_3/pkt_1",
+       "text": "numeru identyfikacji podatkowej (NIP) podmiotu, o którym mowa w art. 106c pkt 2 ustawy, lub urzędu obsługującego podmiot, o którym mowa w art. 106c pkt 1 ustawy, oraz",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_3/pkt_2",
+       "text": "danych, o których mowa w ust. 2 pkt 2 lit. b–e.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "W przypadku podatników lub podmiotów niebędących osobami fizycznymi, nieposiadających możliwości uwierzytelnienia się w sposób, o którym mowa w § 5 ust. 1, nadawanie lub odbieranie uprawnień do korzystania z Krajowego Systemu e-Faktur jest dokonywane przez złożenie w postaci papierowej do właściwego naczelnika urzędu skarbowego zawiadomienia o nadaniu lub odebraniu uprawnień do korzystania z Krajowego Systemu e-Faktur.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Wzór zawiadomienia o nadaniu lub odebraniu uprawnień do korzystania z Krajowego Systemu e-Faktur określa załącznik do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Korzystanie z Krajowego Systemu e-Faktur wymaga uwierzytelnienia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "kwalifikowanym podpisem elektronicznym albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "kwalifikowaną pieczęcią elektroniczną, albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "podpisem zaufanym, albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_1/pkt_4",
+       "text": "wygenerowanym przez Krajowy System e-Faktur, po uwierzytelnieniu się podatnika lub podmiotu uprawnionego w sposób, o którym mowa w pkt 1–3, ciągiem znaków alfanumerycznych, z wyłączeniem znaków interpunkcyjnych, przypisanym do podatnika lub podmiotu uprawnionego i jego uprawnień",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– oraz weryfikacji posiadanych uprawnień."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W przypadku kwalifikowanych podpisów elektronicznych niezawierających numeru identyfikacji podatkowej (NIP) i numeru PESEL podatnika będącego osobą fizyczną, uwierzytelnienie oraz weryfikacja posiadanych uprawnień są możliwe również po zgłoszeniu danych unikalnych identyfikujących ten podpis, do właściwego naczelnika urzędu skarbowego, w zawiadomieniu, o którym mowa w § 4.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Dostęp do faktury ustrukturyzowanej jest możliwy poprzez podanie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "numeru identyfikującego daną fakturę w Krajowym Systemie e-Faktur, o którym mowa w art. 106nd ust. 2 pkt 8 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "numeru faktury, o którym mowa w art. 106e ust. 1 pkt 2 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_6/pkt_3",
+     "text": "numeru identyfikacji podatkowej (NIP) lub innego identyfikatora nabywcy towarów lub usług albo informacji o braku identyfikatora;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_6/pkt_4",
+     "text": "imienia i nazwiska lub nazwy nabywcy towarów lub usług albo informacji o braku tych danych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_6/pkt_5",
+     "text": "kwoty należności ogółem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: wz. S. Skuza"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Finansów z dnia 27 grudnia 2021 r. (poz. 2481)",
+   "body": [
+    {
+     "type": "text",
+     "text": "POLA JASNE WYPEŁNIA PODMIOT SKŁADAJĄCY ZAWIADOMIENIE WYPEŁNIĆ NA MASZYNIE KOMPUTEROWO LUB RĘCZNIE DUŻYMI DRUKOWANYMI LITERAMI CZARNYM LUB NIEBIESKIM KOLOREM . 1.Identyfikator podatkowy NIP podatnika lub podmiotu 2.Nr dokumentu 3.Status"
+    },
+    {
+     "type": "text",
+     "text": "└────┴────┴────┴────┴────┴────┴────┴────┴────┴────┘"
+    },
+    {
+     "type": "text",
+     "text": "ZAW-FA ZAWIADOMIENIE O NADANIU LUB ODEBRANIU UPRAWNIEŃ DO KORZYSTANIA ZKRAJOWEGO SYSTEMU E-FAKTUR"
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Kolejny nr egz. / ogółem liczbaegzemplarzy[^1]",
+     "children": [
+      {
+       "type": "text",
+       "text": "└────┴────┘/└────┴────┘ Podstawa prawna: § 4 ust. 1 rozporządzenia Ministra Finansów z dnia 27 grudnia 2021 r. w sprawie korzystania z Krajowego Systemu e-Faktur (Dz. U. poz. 2481) Składający: Podatnicy i podmioty nadający lub odbierający osobie fizycznej uprawnienia do korzystania z Krajowego Systemu e-Faktur."
+      },
+      {
+       "type": "text",
+       "text": "Miejsce składania: Właściwy naczelnik urzędu skarbowego."
+      },
+      {
+       "type": "text",
+       "text": "A.MIEJSCE I CEL SKŁADANIA 5.Właściwy naczelnik urzędu skarbowego"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Cel złożenia formularza (zaznaczyć właściwy kwadrat):",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "nadanie uprawnień[^2] 2. odebranie uprawnień 3. zgłoszenie danych unikalnych identyfikujących kwalifikowany podpis elektroniczny podatnika[^3] ❑ ❑ ❑ B. DANE PODATNIKA LUB PODMIOTU, KTÓRY NADAJE LUB ODBIERA UPRAWNIENIA DO KORZYSTANIA ZKRAJOWEGO SYSTEMU E-FAKTUR B.1. DANE IDENTYFIKACYJNE * - dotyczy podmiotu niebędącego osobą fizyczną ** - dotyczy podmiotu będącego osobą fizyczną 7. Rodzaj podmiotu (zaznaczyć właściwy kwadrat):    1. podmiot niebędący osobą fizyczną 2. organ egzekucyjny[^4] 3. osoba fizyczna",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Nazwa pełna* / Nazwisko, pierwsze imię **",
+     "children": [
+      {
+       "type": "text",
+       "text": "B.2. ADRES SIEDZIBY * / ZAMIESZKANIA **"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Kraj 10. Województwo 11. Powiat",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Gmina 13. Ulica 14. Nr domu 15. Nr lokalu",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "Miejscowość 17. Kod pocztowy",
+     "children": [
+      {
+       "type": "text",
+       "text": "B.3. DANE KONTAKTOWE"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "Telefon",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "ust_19",
+     "text": "E-mail[^5]",
+     "children": [
+      {
+       "type": "text",
+       "text": "C. DANE OSOBY UPRAWNIONEJ DO KORZYSTANIA Z KRAJOWEGO SYSTEMU E-FAKTUR"
+      },
+      {
+       "type": "text",
+       "text": "C.1. DANE IDENTYFIKACYJNE"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "20",
+     "path": "ust_20",
+     "text": "Rodzaj identyfikatora podatkowego (zaznaczyć właściwy kwadrat):    1. NIP 2. PESEL 3. Brak identyfikatora[^6]",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "21",
+     "path": "ust_21",
+     "text": "Identyfikator podatkowy NIP / numer PESEL",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "22",
+     "path": "ust_22",
+     "text": "Nazwisko 23.Pierwsze imię 24.Data urodzenia[^6]",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "25",
+     "path": "ust_25",
+     "text": "Rodzaj dokumentu potwierdzającego tożsamość[^6] 26.Numer i seria dokumentu potwierdzającego tożsamość[^6]",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "27",
+     "path": "ust_27",
+     "text": "Kraj wydania dokumentu wymienionego w poz. 25[^6]",
+     "children": [
+      {
+       "type": "text",
+       "text": "C.2. ADRES ZAMIESZKANIA"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "28",
+     "path": "ust_28",
+     "text": "Kraj 29. Województwo 30. Powiat",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "31",
+     "path": "ust_31",
+     "text": "Gmina 32. Ulica 33. Nr domu 34. Nr lokalu",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "35",
+     "path": "ust_35",
+     "text": "Miejscowość 36. Kod pocztowy",
+     "children": [
+      {
+       "type": "text",
+       "text": "ZAW-FA 1 POLA JASNE WYPEŁNIA PODMIOT SKŁADAJĄCY ZAWIADOMIENIE WYPEŁNIĆ NA MASZYNIE KOMPUTEROWO LUB RĘCZNIE DUŻYMI, DRUKOWANYMI LITERAMI CZARNYM LUB NIEBIESKIM KOLOREM."
+      },
+      {
+       "type": "text",
+       "text": "C.3. DANE KONTAKTOWE"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "37",
+     "path": "ust_37",
+     "text": "Telefon",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "38",
+     "path": "ust_38",
+     "text": "E-mail[^7]",
+     "children": [
+      {
+       "type": "text",
+       "text": "D. DANE UNIKALNE IDENTYFIKUJĄCE KWALIFIKOWANYPODPIS ELEKTRONICZNY NIEZAWIERAJĄCY IDENTYFIKATORA PODATKOWEGO NIP I NUMERU PESEL 39.Zgłoszenie danych unikalnych identyfikujących kwalifikowany podpis elektroniczny(SHA-256)[^8]"
+      },
+      {
+       "type": "text",
+       "text": "└────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┘"
+      },
+      {
+       "type": "text",
+       "text": "└────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┘"
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_38/pkt_9",
+       "text": "E. PODPIS PODATNIKA LUB PODMIOTU / OSOBY REPREZENTUJĄCEJ",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "40",
+     "path": "ust_40",
+     "text": "Nazwisko 41. Pierwsze imię",
+     "children": [
+      {
+       "type": "text",
+       "text": "1 42.Stanowisko / Funkcja 43.Podpis"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "44",
+     "path": "ust_44",
+     "text": "Nazwisko 45. Pierwsze imię",
+     "children": [
+      {
+       "type": "text",
+       "text": "2 46.Stanowisko / Funkcja 47.Podpis"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "48",
+     "path": "ust_48",
+     "text": "Nazwisko 49. Pierwsze imię",
+     "children": [
+      {
+       "type": "text",
+       "text": "3 50.Stanowisko / Funkcja 51.Podpis"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "52",
+     "path": "ust_52",
+     "text": "Nazwisko 53. Pierwsze imię",
+     "children": [
+      {
+       "type": "text",
+       "text": "4 54.Stanowisko / Funkcja 55.Podpis"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "56",
+     "path": "ust_56",
+     "text": "Nazwisko 57. Pierwsze imię",
+     "children": [
+      {
+       "type": "text",
+       "text": "5 58.Stanowisko / Funkcja 59. Podpis"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "60",
+     "path": "ust_60",
+     "text": "Nazwisko 61. Pierwsze imię",
+     "children": [
+      {
+       "type": "text",
+       "text": "6 62.Stanowisko / Funkcja 63.Podpis"
+      },
+      {
+       "type": "text",
+       "text": "Objaśnienia"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_60/pkt_1",
+       "text": "Wypełnia się w przypadku złożenia więcej niż jednego formularza ZAW-FA.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_60/pkt_2",
+       "text": "Przez nadanie uprawnień należy rozumieć wskazanie osoby uprawnionej do korzystania z Krajowego Systemu e-Faktur. Do nadania dalszych uprawnień służy Krajowy System e-Faktur.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_60/pkt_3",
+       "text": "Zaznaczyć w przypadku zgłaszania kwalifikowanego podpisu elektronicznego niezawierającego numeru identyfikacji podatkowej (NIP) i numeru PESEL podatnika, którym będzie się posługiwał podatnik będący osobą fizyczną wymienioną w części B. W takim przypadku nie wypełnia się części C.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_60/pkt_4",
+       "text": "W przypadku organu egzekucyjnego wypełnia się również kwadrat “podmiot niebędący osobą fizyczną”.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_60/pkt_5",
+       "text": "Adres e-mai wypełnia się obowiązkowo. Podatnik na podany adres e-mail otrzyma informacje o nadaniu lub odebranu uprawnień do korzystania z Krajowego Systemu e-Faktur.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_60/pkt_6",
+       "text": "Wypełnia się w przypadku nierezydenta, który nie posiada identyfikatora podatkowego. W przypadku innego dokumentu potwierdzającego tożsamość podaje się rodzaj tego dokumentu.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_60/pkt_7",
+       "text": "Adres e-mail wypełnia się obowiązkowo. Osoba uprawniona na podany adres e-mail otrzyma informacje o nadaniu lub odebraniu uprawnień do korzystania z Krajowego Systemu e-Faktur.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_60/pkt_8",
+       "text": "Wypełnia się w przypadku zgłaszania danych unikalnych identyfikujących kwalifikowany podpis elektroniczny niezawierający numeru identyfikacji podatkowej (NIP) i numeru PESEL w przypadku gdy:",
+       "children": [
+        {
+         "type": "text",
+         "text": "- w polu nr 6 zaznaczono „zgłoszenie danych unikanych identyfikujących kwalifikowany podpis elektroniczny podatnika”. W takim przypadku nie wypełnia się części C albo"
+        },
+        {
+         "type": "text",
+         "text": "- w polu nr 6 zaznaczono „nadanie uprawnień oraz osoba uprawniona do korzystania z Krajowego Systemu e-Faktur wymieniona w częśc C, nie posiada numeru identyfikacj podatkowej (NIP) i numeru PESEL oraz posiada wyłącznie kwalifikowany podpis elektroniczny niezawierający numeru identyfikacji podatkowej (NIP) numeru PESEL albo"
+        },
+        {
+         "type": "text",
+         "text": "- w polu nr 6 zaznaczono „nadanie uprawnień” oraz osoba uprawniona do korzystania z Krajowego Systemu e-Faktur wymieniona w części C posiada wyłącznie kwalifikowany podpis elektroniczny niezawierający numeru identyfikacji podatkowej (NIP) i numeru PESEL."
+        },
+        {
+         "type": "text",
+         "text": "W przypadku zaznaczenia „zgłoszenie danych unikalnych identyfikujących kwalifikowany podpis elektroniczny podatnika” każdą zmianę kwalifikowanego podpisu elektronicznego należy zgłaszać odpowiednio w trybie nadania uprawnień lub zgłoszenia danych unikalnych kwalifikowanego podpisu elektronicznego podatnika."
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_60/pkt_9",
+       "text": "W przypadku reprezentacji wieloosobowej (powyżej 6 osób) pozostałych uprawnionych do reprezentowania i ustanowienia osoby uprawnionej do korzystania z Krajowego Systemu e-Faktur należy wymienić w dodatkowym formularzu ZAW-FA.",
+       "children": [
+        {
+         "type": "text",
+         "text": "ZAW-FA 2"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 694, 802, 1163, 1243, 1598, 1626, 2076, 2105 i 2427. └────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┘ └────┴────┘-└────┴────┘-└────┴────┴────┴────┘ (1) /2 (1) /2"
+ }
+}

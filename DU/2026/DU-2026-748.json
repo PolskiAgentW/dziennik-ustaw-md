@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/748",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 22 maja 2026 r. w sprawie jakości wody przeznaczonej do spożycia przez ludzi",
- "converter": "eli2md 0.5.3",
+ "converter": "eli2md 0.6.1",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/748/text.pdf",
  "body": [
   {
@@ -801,7 +801,7 @@
     },
     {
      "type": "text",
-     "text": "3 Pseudomonas aeruginosa ≤ 10 100[^1]"
+     "text": "3 Pseudomonas aeruginosa ≤ 10 100[^1_2]"
     },
     {
      "type": "pkt",
@@ -819,7 +819,7 @@
       },
       {
        "type": "text",
-       "text": "Objaśnienia: [^1] Należy badać w miejscu (punkcie czerpalnym) położonym najdalej od zbiornika magazynującego wodę w środkach transportu powietrznego po zakończonym locie. [^2] Należy przedsięwziąć działania naprawcze."
+       "text": "Objaśnienia: [^1_2] Należy badać w miejscu (punkcie czerpalnym) położonym najdalej od zbiornika magazynującego wodę w środkach transportu powietrznego po zakończonym locie. [^2_2] Należy przedsięwziąć działania naprawcze."
       },
       {
        "type": "text",
@@ -939,11 +939,11 @@
       },
       {
        "type": "text",
-       "text": "Lp. Parametr Wartość Jednostka Objaśnienia parametryczna 1 Bakterie grupy 0 liczba * /100 ml[^1] coli Dla wody rozlewanej do butelek lub pojemników i rozprowadzanej w opakowaniach w sytuacjach nadzwyczajnych (powodzie, awarie sieci itp.) jednostką jest liczba * /250 ml 2 Clostridium 0 jtk/100 ml[^3] perfringens (łącznie ze sporami)"
+       "text": "Lp. Parametr Wartość Jednostka Objaśnienia parametryczna 1 Bakterie grupy 0 liczba * /100 ml[^1_2] coli Dla wody rozlewanej do butelek lub pojemników i rozprowadzanej w opakowaniach w sytuacjach nadzwyczajnych (powodzie, awarie sieci itp.) jednostką jest liczba * /250 ml 2 Clostridium 0 jtk/100 ml[^3_2] perfringens (łącznie ze sporami)"
       },
       {
        "type": "text",
-       "text": "3 Liczba kolonii ** Bez jtk/1 ml[^2] w 22 °C nieprawidłowych zmian"
+       "text": "3 Liczba kolonii ** Bez jtk/1 ml[^2_2] w 22 °C nieprawidłowych zmian"
       },
       {
        "type": "text",
@@ -1023,7 +1023,7 @@
       },
       {
        "type": "text",
-       "text": "Objaśnienia: [^1] Dopuszcza się pojedyncze bakterie grupy coli <10 (jtk lub NPL)/100 ml, przy jednoczesnym wykluczeniu obecności w badanej próbce E. coli i enterokoków jelitowych. W przypadku wykrycia bakterii grupy coli <10 (jtk lub NPL)/100 ml należy wykonać badanie parametru E. coli i enterokoki jelitowe w związku z art. 37ax ust. 5 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej. [^2] Zaleca się, aby liczba kolonii w 22 °C nie przekraczała:"
+       "text": "Objaśnienia: [^1_2] Dopuszcza się pojedyncze bakterie grupy coli <10 (jtk lub NPL)/100 ml, przy jednoczesnym wykluczeniu obecności w badanej próbce E. coli i enterokoków jelitowych. W przypadku wykrycia bakterii grupy coli <10 (jtk lub NPL)/100 ml należy wykonać badanie parametru E. coli i enterokoki jelitowe w związku z art. 37ax ust. 5 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej. [^2_2] Zaleca się, aby liczba kolonii w 22 °C nie przekraczała:"
       }
      ]
     },
@@ -1038,7 +1038,7 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "200 jtk/1 ml w kranie konsumenta. [^3] Ten parametr mierzy się, jeżeli ocena ryzyka wskazuje, że jest to właściwe. [^4] W przypadku podania jednej wartości dolna wartość zakresu wynosi zero. [^5] Woda nie powinna wykazywać właściwości korozyjnych. [^6] Nie musi być oznaczany dla produkcji wody mniejszych niż 10 000 m³ dziennie. [^7] W odniesieniu do wody niegazowanej rozlewanej do butelek lub pojemników wartość minimalna może zostać obniżona do 4,5 jednostek pH. Dla wody rozlewanej do butelek lub pojemników z natury bogatej w dwutlenek węgla lub sztucznie wzbogaconej dwutlenkiem węgla wartość minimalna może być niższa. [^8] Oznaczana w temperaturze 25 °C. [^9] Nie musi być oznaczany, jeżeli badane jest OWO.",
+     "text": "200 jtk/1 ml w kranie konsumenta. [^3_2] Ten parametr mierzy się, jeżeli ocena ryzyka wskazuje, że jest to właściwe. [^4] W przypadku podania jednej wartości dolna wartość zakresu wynosi zero. [^5] Woda nie powinna wykazywać właściwości korozyjnych. [^6] Nie musi być oznaczany dla produkcji wody mniejszych niż 10 000 m³ dziennie. [^7] W odniesieniu do wody niegazowanej rozlewanej do butelek lub pojemników wartość minimalna może zostać obniżona do 4,5 jednostek pH. Dla wody rozlewanej do butelek lub pojemników z natury bogatej w dwutlenek węgla lub sztucznie wzbogaconej dwutlenkiem węgla wartość minimalna może być niższa. [^8] Oznaczana w temperaturze 25 °C. [^9] Nie musi być oznaczany, jeżeli badane jest OWO.",
      "children": [
       {
        "type": "text",
@@ -1050,11 +1050,11 @@
       },
       {
        "type": "text",
-       "text": "Lp. Parametry Wartość Jednostka Objaśnienia parametryczna[^1]"
+       "text": "Lp. Parametry Wartość Jednostka Objaśnienia parametryczna[^1_2]"
       },
       {
        "type": "text",
-       "text": "1 Bromodichlorometan 15 µg/l[^2]"
+       "text": "1 Bromodichlorometan 15 µg/l[^2_2]"
       },
       {
        "type": "text",
@@ -1062,7 +1062,7 @@
       },
       {
        "type": "text",
-       "text": "3 Chloraminy 0,5 mg/l[^2]"
+       "text": "3 Chloraminy 0,5 mg/l[^2_2]"
       },
       {
        "type": "text",
@@ -1070,11 +1070,11 @@
       },
       {
        "type": "text",
-       "text": "5 Trichlorometan 30 µg/l (chloroform)[^2] Tabela 2."
+       "text": "5 Trichlorometan 30 µg/l (chloroform)[^2_2] Tabela 2."
       },
       {
        "type": "text",
-       "text": "Lp. Parametry Wartość Jednostka Objaśnienia parametryczna[^1]"
+       "text": "Lp. Parametry Wartość Jednostka Objaśnienia parametryczna[^1_2]"
       },
       {
        "type": "text",
@@ -1094,7 +1094,7 @@
       },
       {
        "type": "text",
-       "text": "Objaśnienia: [^1] W przypadku podania jednej wartości dolna wartość zakresu wynosi zero. [^2] W punkcie czerpalnym u konsumenta, jeżeli woda jest dezynfekowana chlorem lub jego związkami. [^3] Dopuszczalne stężenie wolnego chloru w zbiorniku magazynującym wodę w środkach transportu lądowego, powietrznego lub wodnego wynosi 0,3–0,5 mg/l. [^4] W punkcie, w którym woda jest wprowadzana do sieci, jeżeli ozon jest stosowany w procesie uzdatniania lub dezynfekcji wody. [^5] Niewięcej niż 30 mg/l magnezu, jeżeli stężenie siarczanów jest równe lub większe od 250 mg/l. Przy niższej zawartości siarczanów dopuszczalne stężenie magnezu wynosi 125 mg/l; wartość zalecana ze względów zdrowotnych – oznacza, że jest pożądana dla zdrowia ludzkiego, ale nie nakłada obowiązku uzupełniania minimalnej zawartości podanej w niniejszym załączniku przez dostawców wody. [^6] W punkcie czerpalnym u konsumenta, jeżeli materiały i wyroby stosowane do dystrybucji i uzdatniania wody zawierają dodatek srebra. [^7] Dopuszczalny zakres wartości dla ciepłej wody użytkowej dezynfekowanej jonami srebra w budynkach zamieszkania zbiorowego oraz budynkach użyteczności publicznej może wynosić do 0,05 mg/l. [^8] W przeliczeniu na węglan wapnia; wartość zalecana ze względów zdrowotnych – oznacza, że jest to wartość pożądana dla zdrowia ludzkiego, ale nie nakłada obowiązku uzupełniania przez dostawcę wody."
+       "text": "Objaśnienia: [^1_2] W przypadku podania jednej wartości dolna wartość zakresu wynosi zero. [^2_2] W punkcie czerpalnym u konsumenta, jeżeli woda jest dezynfekowana chlorem lub jego związkami. [^3_2] Dopuszczalne stężenie wolnego chloru w zbiorniku magazynującym wodę w środkach transportu lądowego, powietrznego lub wodnego wynosi 0,3–0,5 mg/l. [^4] W punkcie, w którym woda jest wprowadzana do sieci, jeżeli ozon jest stosowany w procesie uzdatniania lub dezynfekcji wody. [^5] Niewięcej niż 30 mg/l magnezu, jeżeli stężenie siarczanów jest równe lub większe od 250 mg/l. Przy niższej zawartości siarczanów dopuszczalne stężenie magnezu wynosi 125 mg/l; wartość zalecana ze względów zdrowotnych – oznacza, że jest pożądana dla zdrowia ludzkiego, ale nie nakłada obowiązku uzupełniania minimalnej zawartości podanej w niniejszym załączniku przez dostawców wody. [^6] W punkcie czerpalnym u konsumenta, jeżeli materiały i wyroby stosowane do dystrybucji i uzdatniania wody zawierają dodatek srebra. [^7] Dopuszczalny zakres wartości dla ciepłej wody użytkowej dezynfekowanej jonami srebra w budynkach zamieszkania zbiorowego oraz budynkach użyteczności publicznej może wynosić do 0,05 mg/l. [^8] W przeliczeniu na węglan wapnia; wartość zalecana ze względów zdrowotnych – oznacza, że jest to wartość pożądana dla zdrowia ludzkiego, ale nie nakłada obowiązku uzupełniania przez dostawcę wody."
       },
       {
        "type": "text",
@@ -1129,7 +1129,7 @@
     },
     {
      "type": "text",
-     "text": "Lp. Parametr Wartość parametryczna[^1] Jednostka Objaśnienia"
+     "text": "Lp. Parametr Wartość parametryczna[^1_2] Jednostka Objaśnienia"
     },
     {
      "type": "text",
@@ -1137,7 +1137,7 @@
     },
     {
      "type": "text",
-     "text": "2 Tryt 100 Bq/l[^2]"
+     "text": "2 Tryt 100 Bq/l[^2_2]"
     },
     {
      "type": "pkt",
@@ -1151,7 +1151,7 @@
       },
       {
        "type": "text",
-       "text": "Lp. Pochodzenie Izotopy Stężenie pochodne – wartość promieniotwórcze parametryczna[^3]"
+       "text": "Lp. Pochodzenie Izotopy Stężenie pochodne – wartość promieniotwórcze parametryczna[^3_2]"
       },
       {
        "type": "text",
@@ -1199,7 +1199,7 @@
       },
       {
        "type": "text",
-       "text": "14 I-131 6,2 Bq/l [^3] Dawka orientacyjna to obciążająca dawka skuteczna będąca wynikiem przyjęcia w ciągu jednego roku wszystkich izotopów promieniotwórczych pochodzenia naturalnego i sztucznego, których obecność w wodzie została wykryta, z wyjątkiem trytu, potasu-40, radonu i krótkożyciowych produktów rozpadu radonu."
+       "text": "14 I-131 6,2 Bq/l [^3_2] Dawka orientacyjna to obciążająca dawka skuteczna będąca wynikiem przyjęcia w ciągu jednego roku wszystkich izotopów promieniotwórczych pochodzenia naturalnego i sztucznego, których obecność w wodzie została wykryta, z wyjątkiem trytu, potasu-40, radonu i krótkożyciowych produktów rozpadu radonu."
       },
       {
        "type": "text",
@@ -1235,11 +1235,11 @@
       },
       {
        "type": "text",
-       "text": "Objętość dostarczanej lub Kontrolny monitoring substancji Lp. produkowanej wody w strefie promieniotwórczych zaopatrzenia[^1] [liczba próbek/rok][^2] [m³/24 h]"
+       "text": "Objętość dostarczanej lub Kontrolny monitoring substancji Lp. produkowanej wody w strefie promieniotwórczych zaopatrzenia[^1_3] [liczba próbek/rok][^2_3] [m³/24 h]"
       },
       {
        "type": "text",
-       "text": "1 ≤ 100[^3]"
+       "text": "1 ≤ 100[^3_2]"
       },
       {
        "type": "text",
@@ -1255,7 +1255,7 @@
       },
       {
        "type": "text",
-       "text": "5 > 100 000 10+1 na każde 25 000 m³/24 h i część tej wartości stanowiącą uzupełnienie do całości Objaśnienia: [^1] Objętości wody obliczane jako średnie w ciągu roku. Do określenia minimalnej częstotliwości można też stosować liczbę mieszkańców w zaopatrywanej strefie, przyjmując wielkość zużycia wody równą 200 l/dobę na 1 osobę. [^2] W miarę możliwości liczba próbek powinna być rozdzielona równomiernie w czasie i miejscu. [^3] Ustalenie częstotliwości zależy odpowiednio od właściwego państwowego powiatowego lub granicznego inspektora sanitarnego lub wojskowego inspektora sanitarnego właściwego terytorialnie wojskowego ośrodka medycyny prewencyjnej jednak nierzadziej niż 1 próbkę na 2 lata."
+       "text": "5 > 100 000 10+1 na każde 25 000 m³/24 h i część tej wartości stanowiącą uzupełnienie do całości Objaśnienia: [^1_3] Objętości wody obliczane jako średnie w ciągu roku. Do określenia minimalnej częstotliwości można też stosować liczbę mieszkańców w zaopatrywanej strefie, przyjmując wielkość zużycia wody równą 200 l/dobę na 1 osobę. [^2_3] W miarę możliwości liczba próbek powinna być rozdzielona równomiernie w czasie i miejscu. [^3_2] Ustalenie częstotliwości zależy odpowiednio od właściwego państwowego powiatowego lub granicznego inspektora sanitarnego lub wojskowego inspektora sanitarnego właściwego terytorialnie wojskowego ośrodka medycyny prewencyjnej jednak nierzadziej niż 1 próbkę na 2 lata."
       }
      ]
     }
@@ -1342,11 +1342,11 @@
       },
       {
        "type": "text",
-       "text": "1 < 10  0[^1]  0[^1]"
+       "text": "1 < 10  0[^1_3]  0[^1_3]"
       },
       {
        "type": "text",
-       "text": "2 ≥ 10 ≤ 100 2 1[^2]"
+       "text": "2 ≥ 10 ≤ 100 2 1[^2_3]"
       },
       {
        "type": "text",
@@ -1354,19 +1354,19 @@
       },
       {
        "type": "text",
-       "text": "4 > 1000 ≤ 10 000 4 dla pierwszych 1000 m³/d 1 dla pierwszych + 3 na każde dodatkowe 1000 m³/d 1000 m³/d i ich część + 1 na każde całkowitej objętości[^3] dodatkowe 4500 m³/d i ich część całkowitej objętości[^3]"
+       "text": "4 > 1000 ≤ 10 000 4 dla pierwszych 1000 m³/d 1 dla pierwszych + 3 na każde dodatkowe 1000 m³/d 1000 m³/d i ich część + 1 na każde całkowitej objętości[^3_2] dodatkowe 4500 m³/d i ich część całkowitej objętości[^3_2]"
       },
       {
        "type": "text",
-       "text": "5 > 10 000 ≤ 100 000 3 dla pierwszych 10 000 m³/d + 1 na każde dodatkowe 10 000 m³/d i ich część całkowitej objętości[^3]"
+       "text": "5 > 10 000 ≤ 100 000 3 dla pierwszych 10 000 m³/d + 1 na każde dodatkowe 10 000 m³/d i ich część całkowitej objętości[^3_2]"
       },
       {
        "type": "text",
-       "text": "6 > 100 000 12 dla pierwszych 100 000 m³/d + 1 na każde dodatkowe 25 000 m³/d i ich część całkowitej objętości[^3]"
+       "text": "6 > 100 000 12 dla pierwszych 100 000 m³/d + 1 na każde dodatkowe 25 000 m³/d i ich część całkowitej objętości[^3_2]"
       },
       {
        "type": "text",
-       "text": "7 Uwaga: Wielkości są obliczane jako średnie pobrane w ciągu roku kalendarzowego. Zamiast objętości wody można wykorzystać liczbę mieszkańców strefy zaopatrzenia w celu ustalenia minimalnej częstotliwości, przyjmując, że zużycie wody wynosi 200 l/(dzień * na mieszkańca) [^3] Wskazaną częstotliwość oblicza się w następujący sposób: na przykład 4300 m³/d = 16 próbek dla parametrów grupy A (cztery dla pierwszych 1000 m³/d + 12 dla dodatkowych 3300 m³/d)."
+       "text": "7 Uwaga: Wielkości są obliczane jako średnie pobrane w ciągu roku kalendarzowego. Zamiast objętości wody można wykorzystać liczbę mieszkańców strefy zaopatrzenia w celu ustalenia minimalnej częstotliwości, przyjmując, że zużycie wody wynosi 200 l/(dzień * na mieszkańca) [^3_2] Wskazaną częstotliwość oblicza się w następujący sposób: na przykład 4300 m³/d = 16 próbek dla parametrów grupy A (cztery dla pierwszych 1000 m³/d + 12 dla dodatkowych 3300 m³/d)."
       }
      ]
     }
@@ -1458,7 +1458,7 @@
       },
       {
        "type": "text",
-       "text": "Niepewność pomiaru[^1] Lp. Parametry % wartości parametrycznej (z wyjątkiem pH)"
+       "text": "Niepewność pomiaru[^1_4] Lp. Parametry % wartości parametrycznej (z wyjątkiem pH)"
       },
       {
        "type": "text",
@@ -1494,7 +1494,7 @@
       },
       {
        "type": "text",
-       "text": "9 Benzo(a)piren 50[^2]"
+       "text": "9 Benzo(a)piren 50[^2_4]"
       },
       {
        "type": "text",
@@ -1542,7 +1542,7 @@
       },
       {
        "type": "text",
-       "text": "21 Cyjanki 30[^3]"
+       "text": "21 Cyjanki 30[^3_2]"
       },
       {
        "type": "text",
@@ -1670,7 +1670,7 @@
       },
       {
        "type": "text",
-       "text": "54 Żelazo 30 [^2] Jeżeli wartość niepewności pomiaru nie może zostać dotrzymana, należy wybrać najlepszą dostępną technikę (do 60 %). [^3] Metoda określa całkowitą ilość cyjanków we wszystkich postaciach. [^4] Wartość niepewności pomiaru wyraża się w jednostkach pH. [^5] Metoda referencyjna: norma PN-EN ISO 8467. [^6] Charakterystykę wykonania analizy dla poszczególnych pestycydów podano orientacyjnie. Niskie wartości dla niepewności pomiaru, takie jak 30 %, można osiągnąć w odniesieniu do niektórych pestycydów, natomiast wyższe wartości do 80 % mogą być dopuszczone w odniesieniu do niektórych pestycydów. [^7] Charakterystykę wykonania analizy stosuje się do pojedynczych określonych substancji przy 25 % wartości parametrycznej w części B załącznika nr 1 do rozporządzenia. [^8] Charakterystykę wykonania analizy stosuje się do pojedynczych określonych substancji przy 50 % wartości parametrycznej w części B załącznika nr 1 do rozporządzenia. [^9] Niepewność pomiaru szacuje się na poziomie 3 mg/l ogólnego węgla organicznego (OWO). Do określenia niepewności metody badania stosuje się wytyczne zawarte w normie PN-EN 1484 dotyczące określania OWO i rozpuszczonego węgla organicznego. [^10] Niepewność pomiaru szacuje się na poziomie 1,0 NTU (nefelometrycznych jednostek mętności) zgodnie z normą PN-EN ISO 7027 lub inną równoważną metodą standardową. [^11] W tym przypadku należy pamiętać, że wartość parametru wyznacza się najczęściej jako różnicę wartości stężeń chloru całkowitego i chloru wolnego, co może sprawić trudność w wyznaczeniu niepewności pomiaru."
+       "text": "54 Żelazo 30 [^2_4] Jeżeli wartość niepewności pomiaru nie może zostać dotrzymana, należy wybrać najlepszą dostępną technikę (do 60 %). [^3_2] Metoda określa całkowitą ilość cyjanków we wszystkich postaciach. [^4] Wartość niepewności pomiaru wyraża się w jednostkach pH. [^5] Metoda referencyjna: norma PN-EN ISO 8467. [^6] Charakterystykę wykonania analizy dla poszczególnych pestycydów podano orientacyjnie. Niskie wartości dla niepewności pomiaru, takie jak 30 %, można osiągnąć w odniesieniu do niektórych pestycydów, natomiast wyższe wartości do 80 % mogą być dopuszczone w odniesieniu do niektórych pestycydów. [^7] Charakterystykę wykonania analizy stosuje się do pojedynczych określonych substancji przy 25 % wartości parametrycznej w części B załącznika nr 1 do rozporządzenia. [^8] Charakterystykę wykonania analizy stosuje się do pojedynczych określonych substancji przy 50 % wartości parametrycznej w części B załącznika nr 1 do rozporządzenia. [^9] Niepewność pomiaru szacuje się na poziomie 3 mg/l ogólnego węgla organicznego (OWO). Do określenia niepewności metody badania stosuje się wytyczne zawarte w normie PN-EN 1484 dotyczące określania OWO i rozpuszczonego węgla organicznego. [^10] Niepewność pomiaru szacuje się na poziomie 1,0 NTU (nefelometrycznych jednostek mętności) zgodnie z normą PN-EN ISO 7027 lub inną równoważną metodą standardową. [^11] W tym przypadku należy pamiętać, że wartość parametru wyznacza się najczęściej jako różnicę wartości stężeń chloru całkowitego i chloru wolnego, co może sprawić trudność w wyznaczeniu niepewności pomiaru."
       }
      ]
     },
@@ -1846,7 +1846,7 @@
    "body": [
     {
      "type": "text",
-     "text": "MINIMALNA CZĘSTOTLIWOŚĆ POBIERANIA PRÓBEK DO BADAŃ JAKOŚCI WODY DLA MONITOROWANIA WARTOŚCI PARAMETRYCZNEJ BAKTERII Z RODZAJU LEGIONELLA W CIEPŁEJ WODZIE UŻYTKOWEJ W WEWNĘTRZNYCH SYSTEMACH WODOCIĄGOWYCH ORAZ PROCEDURY POSTĘPOWANIA W ZALEŻNOŚCI OD WYNIKÓW TYCH BADAŃ[^1]"
+     "text": "MINIMALNA CZĘSTOTLIWOŚĆ POBIERANIA PRÓBEK DO BADAŃ JAKOŚCI WODY DLA MONITOROWANIA WARTOŚCI PARAMETRYCZNEJ BAKTERII Z RODZAJU LEGIONELLA W CIEPŁEJ WODZIE UŻYTKOWEJ W WEWNĘTRZNYCH SYSTEMACH WODOCIĄGOWYCH ORAZ PROCEDURY POSTĘPOWANIA W ZALEŻNOŚCI OD WYNIKÓW TYCH BADAŃ[^1_5]"
     },
     {
      "type": "text",
@@ -1854,7 +1854,7 @@
     },
     {
      "type": "text",
-     "text": "Jeżeli w co najmniej 1 próbce Po roku[^3] oznaczona liczba bakterii z rodzaju Legionella jest 2 razy w roku odpowiednio (co 6 miesięcy)[^4] <1000 /l ≥ 50 jtk lub ≥ 25 jtk[^2], 1 Niski potwierdzić, że środki kontroli mieszczą się w określonych <50/l[^2] wartościach granicznych (stężenie dezynfektanta, temperatura wody), w razie konieczności przeprowadzić korekcję"
+     "text": "Jeżeli w co najmniej 1 próbce Po roku[^3_2] oznaczona liczba bakterii z rodzaju Legionella jest 2 razy w roku odpowiednio (co 6 miesięcy)[^4] <1000 /l ≥ 50 jtk lub ≥ 25 jtk[^2_4], 1 Niski potwierdzić, że środki kontroli mieszczą się w określonych <50/l[^2_4] wartościach granicznych (stężenie dezynfektanta, temperatura wody), w razie konieczności przeprowadzić korekcję"
     },
     {
      "type": "text",
@@ -1862,11 +1862,11 @@
     },
     {
      "type": "text",
-     "text": "≥50 do <100/l[^2] W przypadku uzyskania Po tygodniu od ponownie wyniku wskazującego czyszczenia na co najmniej średni poziom i dezynfekcji ** zanieczyszczenia * podjąć W przypadku działania zmierzające do potwierdzenia redukcji liczby bakterii z rodzaju niskiego poziomu Legionella, przeprowadzić zanieczyszczenia czyszczenie i dezynfekcję. Nie następne badanie dopuszczać do stagnacji wody co 3 miesiące[^5] Po tygodniu od Wyłączyć z użytkowania czyszczenia ≥10 000 do prysznice oraz urządzenia i dezynfekcji. <100 000/l wytwarzające aerozol wodny. W przypadku 3 Wysoki Zastosować środki kontroli potwierdzenia ≥100 do ryzyka jw., wraz z czyszczeniem niskiego poziomu <1000/l[^2] i dezynfekcją systemu. Nie zanieczyszczenia dopuszczać do stagnacji wody następne badanie co 3 miesiące[^5]"
+     "text": "≥50 do <100/l[^2_4] W przypadku uzyskania Po tygodniu od ponownie wyniku wskazującego czyszczenia na co najmniej średni poziom i dezynfekcji ** zanieczyszczenia * podjąć W przypadku działania zmierzające do potwierdzenia redukcji liczby bakterii z rodzaju niskiego poziomu Legionella, przeprowadzić zanieczyszczenia czyszczenie i dezynfekcję. Nie następne badanie dopuszczać do stagnacji wody co 3 miesiące[^5] Po tygodniu od Wyłączyć z użytkowania czyszczenia ≥10 000 do prysznice oraz urządzenia i dezynfekcji. <100 000/l wytwarzające aerozol wodny. W przypadku 3 Wysoki Zastosować środki kontroli potwierdzenia ≥100 do ryzyka jw., wraz z czyszczeniem niskiego poziomu <1000/l[^2_4] i dezynfekcją systemu. Nie zanieczyszczenia dopuszczać do stagnacji wody następne badanie co 3 miesiące[^5]"
     },
     {
      "type": "text",
-     "text": "Po tygodniu od czyszczenia i dezynfekcji. ≥100 000/l W przypadku 4 Bardzo Postępować jak wyżej, w trybie wysoki natychmiastowym potwierdzenia ≥1000/l[^2] niskiego poziomu zanieczyszczenia następne badanie co 3 miesiące[^5]"
+     "text": "Po tygodniu od czyszczenia i dezynfekcji. ≥100 000/l W przypadku 4 Bardzo Postępować jak wyżej, w trybie wysoki natychmiastowym potwierdzenia ≥1000/l[^2_4] niskiego poziomu zanieczyszczenia następne badanie co 3 miesiące[^5]"
     },
     {
      "type": "text",
@@ -1878,7 +1878,7 @@
     },
     {
      "type": "text",
-     "text": "Objaśnienia: [^1] Jeżeli jest to wynik badania 1 lub 2 próbek, w celu wykluczenia zanieczyszczenia punktowego powinno być pobranych i zbadanych więcej próbek. [^2] Wartość parametru dotyczy wewnętrznych systemów wodociągowych w obiektach, o których mowa w art. 4j ust. 2 pkt 1 lit. a ustawy, w których przebywają pacjenci o obniżonej odporności, w tym objęci leczeniem immunosupresyjnym. [^3] Minimalna częstotliwość pobierania próbek ciepłej wody użytkowej do badań w obiektach priorytetowych, o których mowa w art. 4j ust. 2 pkt 1 ustawy, oraz obiektach, dla których w ocenie ryzyka w wewnętrznym systemie wodociągowym zdefiniowano ryzyko dla jakości wody przeznaczonej do spożycia przez ludzi i dla zdrowia ludzi wskazujące na konieczność monitorowania bakterii z rodzaju Legionella. Jeżeli w kolejnych dwóch badaniach w odstępach rocznych stwierdzono <1000 jtk/l, badanie wykonuje się po 3 latach. [^4] Minimalna częstotliwość pobierania próbek ciepłej wody użytkowej do badań w obiektach, o których mowa w art. 4j ust. 2 pkt 1 lit. a ustawy, w których przebywają pacjenci o obniżonej odporności, w tym objęci leczeniem immunosupresyjnym i w których podczas użytkowania wewnętrznych systemów wodociągowych lub związanych z nimi urządzeń jest wytwarzany aerozol wodny. [^5] Jeżeli w kolejnych dwóch badaniach wykonanych w odstępach 3 miesięcy stwierdzono <1000 jtk/l, to następne badanie można wykonać za rok. Jeżeli w kolejnych dwóch badaniach wykonanych w odstępach 3 miesięcy stwierdzono <50 jtk/l, to następne badanie można wykonać za pół roku."
+     "text": "Objaśnienia: [^1_5] Jeżeli jest to wynik badania 1 lub 2 próbek, w celu wykluczenia zanieczyszczenia punktowego powinno być pobranych i zbadanych więcej próbek. [^2_4] Wartość parametru dotyczy wewnętrznych systemów wodociągowych w obiektach, o których mowa w art. 4j ust. 2 pkt 1 lit. a ustawy, w których przebywają pacjenci o obniżonej odporności, w tym objęci leczeniem immunosupresyjnym. [^3_2] Minimalna częstotliwość pobierania próbek ciepłej wody użytkowej do badań w obiektach priorytetowych, o których mowa w art. 4j ust. 2 pkt 1 ustawy, oraz obiektach, dla których w ocenie ryzyka w wewnętrznym systemie wodociągowym zdefiniowano ryzyko dla jakości wody przeznaczonej do spożycia przez ludzi i dla zdrowia ludzi wskazujące na konieczność monitorowania bakterii z rodzaju Legionella. Jeżeli w kolejnych dwóch badaniach w odstępach rocznych stwierdzono <1000 jtk/l, badanie wykonuje się po 3 latach. [^4] Minimalna częstotliwość pobierania próbek ciepłej wody użytkowej do badań w obiektach, o których mowa w art. 4j ust. 2 pkt 1 lit. a ustawy, w których przebywają pacjenci o obniżonej odporności, w tym objęci leczeniem immunosupresyjnym i w których podczas użytkowania wewnętrznych systemów wodociągowych lub związanych z nimi urządzeń jest wytwarzany aerozol wodny. [^5] Jeżeli w kolejnych dwóch badaniach wykonanych w odstępach 3 miesięcy stwierdzono <1000 jtk/l, to następne badanie można wykonać za rok. Jeżeli w kolejnych dwóch badaniach wykonanych w odstępach 3 miesięcy stwierdzono <50 jtk/l, to następne badanie można wykonać za pół roku."
     },
     {
      "type": "text",
@@ -1963,11 +1963,11 @@
     },
     {
      "type": "text",
-     "text": "1 Tryt 10 Bq/l[^3]"
+     "text": "1 Tryt 10 Bq/l[^3_2]"
     },
     {
      "type": "text",
-     "text": "2 Radon 10 Bq/l[^3]"
+     "text": "2 Radon 10 Bq/l[^3_2]"
     },
     {
      "type": "text",
@@ -2023,7 +2023,7 @@
     },
     {
      "type": "text",
-     "text": "16 I-131 0,5 Bq/l – [^2] Niepewność pomiaru oblicza się i przedstawia jako całkowitą niepewność standardową lub jako rozszerzoną niepewność standardową o współczynniku rozszerzenia wynoszącym 1,96. [^3] Granica wykrywalności trytu i radonu wynosi 10 % wartości parametrycznej tych pierwiastków wynoszącej 100 Bq/1. [^4] Niniejsza granica wykrywalności ma zastosowanie wyłącznie do kontroli początkowej pod kątem dawki orientacyjnej dla nowego źródła wody; jeżeli w wyniku początkowej kontroli zostanie ustalone, że nie jest prawdopodobne, aby wartość Ra-228 przekraczała 20 % stężenia pochodnego, granica wykrywalności może zostać podniesiona do 0,08 Bq/1 dla rutynowych pomiarów izotopów promieniotwórczych Ra-228 do czasu, kiedy konieczna będzie kolejna kontrola."
+     "text": "16 I-131 0,5 Bq/l – [^2_4] Niepewność pomiaru oblicza się i przedstawia jako całkowitą niepewność standardową lub jako rozszerzoną niepewność standardową o współczynniku rozszerzenia wynoszącym 1,96. [^3_2] Granica wykrywalności trytu i radonu wynosi 10 % wartości parametrycznej tych pierwiastków wynoszącej 100 Bq/1. [^4] Niniejsza granica wykrywalności ma zastosowanie wyłącznie do kontroli początkowej pod kątem dawki orientacyjnej dla nowego źródła wody; jeżeli w wyniku początkowej kontroli zostanie ustalone, że nie jest prawdopodobne, aby wartość Ra-228 przekraczała 20 % stężenia pochodnego, granica wykrywalności może zostać podniesiona do 0,08 Bq/1 dla rutynowych pomiarów izotopów promieniotwórczych Ra-228 do czasu, kiedy konieczna będzie kolejna kontrola."
     }
    ]
   },
@@ -2040,7 +2040,7 @@
     },
     {
      "type": "text",
-     "text": "Parametr operacyjny Wartość odniesienia[^1]"
+     "text": "Parametr operacyjny Wartość odniesienia[^1_6]"
     },
     {
      "type": "text",
@@ -2048,19 +2048,19 @@
     },
     {
      "type": "text",
-     "text": "Objętość (m³) wody dostarczanej lub Minimalna częstotliwość pobierania produkowanej dziennie w strefie próbek i wykonywania analiz[^1] zaopatrzenia"
+     "text": "Objętość (m³) wody dostarczanej lub Minimalna częstotliwość pobierania produkowanej dziennie w strefie próbek i wykonywania analiz[^1_6] zaopatrzenia"
     },
     {
      "type": "text",
      "text": "≤ 1000 Tygodniowo"
     },
     {
-     "type": "ocr",
-     "text": "1000 do ≤ 10 000 Codziennie"
+     "type": "text",
+     "text": "> 1000 do ≤ 10 000 Codziennie"
     },
     {
-     "type": "ocr",
-     "text": "10 000 Ciągle"
+     "type": "text",
+     "text": "> 10 000 Ciągle"
     },
     {
      "type": "text",
@@ -2068,11 +2068,11 @@
     },
     {
      "type": "text",
-     "text": "Parametr Wartość Jednostka Uwagi operacyjny[^2] odniesienia"
+     "text": "Parametr Wartość Jednostka Uwagi operacyjny[^2_4] odniesienia"
     },
     {
      "type": "text",
-     "text": "Colifagi 50 Jednostki Parametr mierzy się, jeżeli ocena ryzyka somatyczne (dla wody tworzące łysinki wskazuje, że jest to właściwe. Jeżeli surowej) (pfu)[^3]/100 ml zostanie on stwierdzony w wodzie surowej w stężeniach wynoszących > 50 pfu/100 ml, należy przeprowadzić analizę po etapach uzdatniania, aby oznaczyć wartość logarytmiczną usuwania przez występujące bariery oraz ocenić, czy ryzyko przedostania się wirusów chorobotwórczych zostało w wystarczającym stopniu opanowane"
+     "text": "Colifagi 50 Jednostki Parametr mierzy się, jeżeli ocena ryzyka somatyczne (dla wody tworzące łysinki wskazuje, że jest to właściwe. Jeżeli surowej) (pfu)[^3_2]/100 ml zostanie on stwierdzony w wodzie surowej w stężeniach wynoszących > 50 pfu/100 ml, należy przeprowadzić analizę po etapach uzdatniania, aby oznaczyć wartość logarytmiczną usuwania przez występujące bariery oraz ocenić, czy ryzyko przedostania się wirusów chorobotwórczych zostało w wystarczającym stopniu opanowane"
     },
     {
      "type": "pkt",
@@ -2113,8 +2113,17 @@
   }
  ],
  "footnotes": {
-  "1": "Wartości odniesienia i częstotliwości pobierania próbek i wykonywania analiz nie dotyczą źródeł wód podziemnych, w przypadku których mętność wynika z obecności żelaza i manganu.",
-  "2": "Parametr monitorowany w wodzie surowej, w celu kontrolowania skuteczności procesów uzdatniania w odniesieniu do ryzyka mikrobiologicznego.",
-  "3": "pfu – ang. plaque-forming units."
+  "1": "Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1004).",
+  "2": "Niniejsze rozporządzenie wdraża:",
+  "3": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 7 grudnia 2017 r. w sprawie jakości wody przeznaczonej do spożycia przez ludzi (Dz. U. poz. 2294), które zgodnie z art. 23 ustawy z dnia 13 marca 2026 r. o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw (Dz. U. poz. 605) traci moc z dniem wejścia w życie niniejszego rozporządzenia. * liczba – jtk lub NPL. * liczba – jtk lub NPL. ** liczba kolonii = ogólna liczba mikroorganizmów. * Po dniu 11 stycznia 2036 przynajmniej w punkcie dostawy do wewnętrznego systemu wodociągowego musi zostać osiągnięta wartość parametryczna wynosząca 5 μg/l.",
+  "1_2": "W przypadku podania jednej wartości dolna wartość zakresu wynosi zero.",
+  "2_2": "Podwyższone stężenie trytu może świadczyć o obecności innych sztucznych izotopów promieniotwórczych. W przypadku wzrostu stężenia trytu ponad wartość parametryczną wymagane jest przeprowadzenie analizy pod kątem obecności innych sztucznych izotopów promieniotwórczych. Objaśnienia:",
+  "1_3": "Dla dostawców wody, którym nie przyznano odstępstwa, ustalenie częstotliwości zależy odpowiednio od właściwego państwowego powiatowego lub granicznego inspektora sanitarnego lub wojskowego inspektora sanitarnego właściwego terytorialnie wojskowego ośrodka medycyny prewencyjnej, jednak nierzadziej niż raz w roku dla parametrów grupy A i dla parametrów grupy B.",
+  "2_3": "Częstotliwość pobierania próbek może być zmniejszona pod warunkiem, że przeprowadzono ocenę ryzyka w systemie zaopatrzenia w wodę, o której mowa w art. 4d ust. 1 pkt 2 ustawy. W takich przypadkach wszystkie parametry są monitorowane co najmniej raz na sześć lat, a także są monitorowane w przypadkach, gdy do danego systemu zaopatrzenia w wodę jest przyłączane nowe źródło wody lub są wprowadzane zmiany do tego systemu, w wyniku których można spodziewać się potencjalnie niekorzystnego wpływu na jakość wody. Objaśnienia:",
+  "1_4": "Niepewność pomiaru to parametr nieujemny charakteryzujący rozkład wartości ilościowych przyporządkowanych wielkości mierzalnej na podstawie wykorzystanych informacji. Kryterium wykonania analizy dla niepewności pomiaru (k = 2) to odsetek wartości parametrycznej określonej w tabeli lub wartości bardziej rygorystycznej. Niepewność pomiaru szacuje się na poziomie wartości parametrycznej, o ile nie wskazano inaczej. Objaśnienia:",
+  "1_5": "Ustalanie granic charakterystycznych (próg decyzji, granica wykrywalności i przedział ufności) dla pomiarów promieniowania jonizującego – Zasady podstawowe i zastosowania ogólne, charakterystykę z prawdopodobieństwem błędu pierwszego i drugiego stopnia wynoszącym 0,05. Objaśnienia:",
+  "1_6": "Wartości odniesienia i częstotliwości pobierania próbek i wykonywania analiz nie dotyczą źródeł wód podziemnych, w przypadku których mętność wynika z obecności żelaza i manganu.",
+  "2_4": "Parametr monitorowany w wodzie surowej, w celu kontrolowania skuteczności procesów uzdatniania w odniesieniu do ryzyka mikrobiologicznego.",
+  "3_2": "pfu – ang. plaque-forming units."
  }
 }

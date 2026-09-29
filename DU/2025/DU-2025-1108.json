@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1108",
  "title": "Obwieszczenie Ministra Finansów z dnia 10 lipca 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie sprawozdań spółdzielczych kas oszczędnościowo-kredytowych oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej",
- "converter": "eli2md 0.5.3",
+ "converter": "eli2md 0.6.1",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1108/text.pdf",
  "body": [
   {
@@ -141,7 +141,7 @@
     },
     {
      "type": "text",
-     "text": "MINISTRA ROZWOJU I FINANSÓW[^1]"
+     "text": "MINISTRA ROZWOJU I FINANSÓW[^1_2]"
     },
     {
      "type": "text",
@@ -1641,7 +1641,7 @@
     },
     {
      "type": "text",
-     "text": "Wartość Pozostałe rozliczenia międzyokresowe bilansowa A. RMK01.1. Rozliczenia międzyokresowe, w tym:[^1] RMK01.1.1. Aktywa z tytułu odroczonego podatku dochodowego RMK01.1.2. RMK01.1.3. RMK01.1.4. RMK01.1.5. RMK01.1.6. RMK01.1.7. RMK01.1.8. RMK01.1.9. RMK01.1.10. pozostałe < 10 % ogólnej wartości RMK01.2. Część długoterminowa (powyżej 12 miesięcy) RMK01.3. Część krótkoterminowa (poniżej 12 miesięcy)"
+     "text": "Wartość Pozostałe rozliczenia międzyokresowe bilansowa A. RMK01.1. Rozliczenia międzyokresowe, w tym:[^1_2] RMK01.1.1. Aktywa z tytułu odroczonego podatku dochodowego RMK01.1.2. RMK01.1.3. RMK01.1.4. RMK01.1.5. RMK01.1.6. RMK01.1.7. RMK01.1.8. RMK01.1.9. RMK01.1.10. pozostałe < 10 % ogólnej wartości RMK01.2. Część długoterminowa (powyżej 12 miesięcy) RMK01.3. Część krótkoterminowa (poniżej 12 miesięcy)"
     },
     {
      "type": "text",
@@ -1649,7 +1649,7 @@
     },
     {
      "type": "text",
-     "text": "[^1] W polach od RMK01.1.1 do RMK01.1.9 należy przedstawić rozliczenia, których udział w całości rozliczeń jest wyższy niż 10 %."
+     "text": "[^1_2] W polach od RMK01.1.1 do RMK01.1.9 należy przedstawić rozliczenia, których udział w całości rozliczeń jest wyższy niż 10 %."
     },
     {
      "type": "text",
@@ -1677,11 +1677,11 @@
     },
     {
      "type": "text",
-     "text": "Wartość Pozostałe rozliczenia międzyokresowe bilansowa A. RMK02.1. Rozliczenia międzyokresowe, w tym:[^1] RMK02.1.1. Przychody przyszłych okresów RMK02.1.2. RMK02.1.3. RMK02.1.4. RMK02.1.5. RMK02.1.6. RMK02.1.7. RMK02.1.8. RMK02.1.9. RMK02.1.10. pozostałe < 10 % ogólnej wartości RMK02.2. Część długoterminowa (powyżej 12 miesięcy) RMK02.3. Część krótkoterminowa (poniżej 12 miesięcy) Nota objaśniająca:"
+     "text": "Wartość Pozostałe rozliczenia międzyokresowe bilansowa A. RMK02.1. Rozliczenia międzyokresowe, w tym:[^1_2] RMK02.1.1. Przychody przyszłych okresów RMK02.1.2. RMK02.1.3. RMK02.1.4. RMK02.1.5. RMK02.1.6. RMK02.1.7. RMK02.1.8. RMK02.1.9. RMK02.1.10. pozostałe < 10 % ogólnej wartości RMK02.2. Część długoterminowa (powyżej 12 miesięcy) RMK02.3. Część krótkoterminowa (poniżej 12 miesięcy) Nota objaśniająca:"
     },
     {
      "type": "text",
-     "text": "[^1] W polach od RMK02.1.1 do RMK02.1.9 należy przedstawić rozliczenia, których udział w całości rozliczeń jest wyższy niż 10 %."
+     "text": "[^1_2] W polach od RMK02.1.1 do RMK02.1.9 należy przedstawić rozliczenia, których udział w całości rozliczeń jest wyższy niż 10 %."
     },
     {
      "type": "text",
@@ -2088,16 +2088,16 @@
      "text": "≤ 90 dni"
     },
     {
-     "type": "ocr",
-     "text": "90 dni ≤ 180 dni"
+     "type": "text",
+     "text": "> 90 dni ≤ 180 dni"
     },
     {
-     "type": "ocr",
-     "text": "180 dni ≤ 1 roku"
+     "type": "text",
+     "text": "> 180 dni ≤ 1 roku"
     },
     {
-     "type": "ocr",
-     "text": "1 roku"
+     "type": "text",
+     "text": "> 1 roku"
     },
     {
      "type": "text",
@@ -3489,7 +3489,7 @@
     },
     {
      "type": "text",
-     "text": "Wartość A. PKZ03.1. Lokaty PKZ03.1.1. Kasa Krajowa PKZ03.1.2. Banki, w tym:[^1] PKZ03.1.2.1. PKZ03.1.2.2. PKZ03.1.2.3. PKZ03.1.2.4. PKZ03.1.2.5. PKZ03.1.2.6. PKZ03.1.2.7. PKZ03.1.2.8. PKZ03.1.2.9. PKZ03.1.2.10. PKZ03.1.2.11. PKZ03.1.2.12. PKZ03.1.2.13. Pozostałe banki PKZ03.2. Łączna wartość wkładu PKZ03.3. Łączna wartość udziału PKZ03.4. Łączna wartość jednostek uczestnictwa PKZ03.5. Papiery wartościowe, w tym:[^2] PKZ03.5.1. PKZ03.5.2. PKZ03.5.3. PKZ03.5.4. PKZ03.5.5. PKZ03.5.6. PKZ03.5.7. PKZ03.5.8. PKZ03.5.9. PKZ03.5.10. PKZ03.5.11. PKZ03.5.12. PKZ03.5.13. pozostałe papiery wartościowe PKZ03.6. Wartość 8 % wartości aktywów kasy"
+     "text": "Wartość A. PKZ03.1. Lokaty PKZ03.1.1. Kasa Krajowa PKZ03.1.2. Banki, w tym:[^1_2] PKZ03.1.2.1. PKZ03.1.2.2. PKZ03.1.2.3. PKZ03.1.2.4. PKZ03.1.2.5. PKZ03.1.2.6. PKZ03.1.2.7. PKZ03.1.2.8. PKZ03.1.2.9. PKZ03.1.2.10. PKZ03.1.2.11. PKZ03.1.2.12. PKZ03.1.2.13. Pozostałe banki PKZ03.2. Łączna wartość wkładu PKZ03.3. Łączna wartość udziału PKZ03.4. Łączna wartość jednostek uczestnictwa PKZ03.5. Papiery wartościowe, w tym:[^2] PKZ03.5.1. PKZ03.5.2. PKZ03.5.3. PKZ03.5.4. PKZ03.5.5. PKZ03.5.6. PKZ03.5.7. PKZ03.5.8. PKZ03.5.9. PKZ03.5.10. PKZ03.5.11. PKZ03.5.12. PKZ03.5.13. pozostałe papiery wartościowe PKZ03.6. Wartość 8 % wartości aktywów kasy"
     },
     {
      "type": "text",
@@ -3497,7 +3497,7 @@
     },
     {
      "type": "text",
-     "text": "[^1] Należy przedstawić listę nie więcej niż 12 banków, w których kasa posiada lokaty wraz z łączną wartością tych lokat"
+     "text": "[^1_2] Należy przedstawić listę nie więcej niż 12 banków, w których kasa posiada lokaty wraz z łączną wartością tych lokat"
     },
     {
      "type": "text",
@@ -3588,11 +3588,11 @@
       },
       {
        "type": "text",
-       "text": "ZKK01 – Istotne zaangażowania kredytowe kasy - powyżej kwoty 100 tys. złotych[^1]"
+       "text": "ZKK01 – Istotne zaangażowania kredytowe kasy - powyżej kwoty 100 tys. złotych[^1_2]"
       },
       {
        "type": "text",
-       "text": "Dane dotyczące zaangażowania w podmiocie[^2] A. ZKK01.1. Identyfikacja podmiotu ZKK01.1.1. Forma prawna[^3] ZKK01.1.2. Identyfikator podmiotu[^4] ZKK01.1.3. Nazwa jednostki/Imię i nazwisko ZKK01.1.4. Wielkość przedsiębiorstwa[^5] ZKK01.1.5. Sektor[^6] ZKK01.1.6. Ekspozycja przekraczająca limit określony w art. 30 ust. 1 ustawy[^7] ZKK01.1.7. Ekspozycja przekraczająca limit określony w art. 30 ust. 2 ustawy[^8] ZKK01.2. Zaangażowania bilansowe ZKK01.2.1. Zaangażowania bilansowe[^9] ZKK01.2.2. Kredyty i pożyczki (wartość bilansowa brutto) ZKK01.2.3. Odpis aktualizujący z tytułu utraty wartości kredytów i pożyczek ZKK01.2.4. Instrumenty kapitałowe (cena nabycia) ZKK01.2.5. Instrumenty kapitałowe (wartość bilansowa) ZKK01.2.6. Instrumenty dłużne (cena nabycia) ZKK01.2.7. Instrumenty dłużne (wartość bilansowa ) ZKK01.2.8. Odpis aktualizujący z tytułu utraty wartości instrumentów dłużnych ZKK01.2.9. Pozostałe należności (wartość bilansowa brutto) ZKK01.2.10. Odpis aktualizujący z tytułu utraty wartości pozostałych należności"
+       "text": "Dane dotyczące zaangażowania w podmiocie[^2] A. ZKK01.1. Identyfikacja podmiotu ZKK01.1.1. Forma prawna[^3] ZKK01.1.2. Identyfikator podmiotu[^4] ZKK01.1.3. Nazwa jednostki/Imię i nazwisko ZKK01.1.4. Wielkość przedsiębiorstwa[^5] ZKK01.1.5. Sektor[^6] ZKK01.1.6. Ekspozycja przekraczająca limit określony w art. 30 ust. 1 ustawy[^7_2] ZKK01.1.7. Ekspozycja przekraczająca limit określony w art. 30 ust. 2 ustawy[^8] ZKK01.2. Zaangażowania bilansowe ZKK01.2.1. Zaangażowania bilansowe[^9] ZKK01.2.2. Kredyty i pożyczki (wartość bilansowa brutto) ZKK01.2.3. Odpis aktualizujący z tytułu utraty wartości kredytów i pożyczek ZKK01.2.4. Instrumenty kapitałowe (cena nabycia) ZKK01.2.5. Instrumenty kapitałowe (wartość bilansowa) ZKK01.2.6. Instrumenty dłużne (cena nabycia) ZKK01.2.7. Instrumenty dłużne (wartość bilansowa ) ZKK01.2.8. Odpis aktualizujący z tytułu utraty wartości instrumentów dłużnych ZKK01.2.9. Pozostałe należności (wartość bilansowa brutto) ZKK01.2.10. Odpis aktualizujący z tytułu utraty wartości pozostałych należności"
       },
       {
        "type": "text",
@@ -5561,13 +5561,15 @@
   }
  ],
  "footnotes": {
-  "1": "Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – instytucje finansowe kieruje Minister Finansów i Gospodarki, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Finansów i Gospodarki (Dz. U. poz. 997).",
+  "1": "Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).",
+  "1_2": "Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – instytucje finansowe kieruje Minister Finansów i Gospodarki, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Finansów i Gospodarki (Dz. U. poz. 997).",
   "2": "Dodany przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 19 grudnia 2023 r. zmieniającego rozporządzenie w sprawie sprawozdań spółdzielczych kas oszczędnościowo-kredytowych oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej (Dz. U. poz. 2786), które weszło w życie z dniem 1 stycznia 2024 r.",
   "3": "Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.",
   "4": "Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.",
   "5": "Rozporządzenie zostało ogłoszone w dniu 28 lipca 2017 r.",
   "6": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 21 lutego 2014 r. w sprawie informacji sprawozdawczych spółdzielczych kas oszczędnościowo-kredytowych oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej (Dz. U. poz. 248), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 5 ustawy z dnia 26 stycznia 2017 r. o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych oraz niektórych innych ustaw (Dz. U. poz. 245). ¹ Z uwzględnieniem art. 6 ustawy z dnia 26 stycznia 2017 r. o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych oraz niektórych innych ustaw (Dz. U. poz. 245). ² Z uwzględnieniem art. 6 ustawy z dnia 26 stycznia 2017 r. o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych oraz niektórych innych ustaw (Dz. U. poz. 245).",
-  "7": "Dodana przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. ¹ Z uwzględnieniem art. 6 ustawy z dnia 26 stycznia 2017 r. o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych oraz niektórych innych ustaw (Dz. U. poz. 245). ² Z uwzględnieniem art. 6 ustawy z dnia 26 stycznia 2017 r. o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych oraz niektórych innych ustaw (Dz. U. poz. 245). Ze zmianami wprowadzonymi",
+  "7": "Dodana przez § 1 pkt 4 rozporzą z a o odn śn",
+  "7_2": "Dodana przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. ¹ Z uwzględnieniem art. 6 ustawy z dnia 26 stycznia 2017 r. o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych oraz niektórych innych ustaw (Dz. U. poz. 245). ² Z uwzględnieniem art. 6 ustawy z dnia 26 stycznia 2017 r. o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych oraz niektórych innych ustaw (Dz. U. poz. 245). Ze zmianami wprowadzonymi",
   "8": "Ze zmianami wprowadzonymi przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2, oraz przez § 1 rozporządzenia Ministra Finansów z dnia 15 kwietnia 2025 r. zmieniającego rozporządzenie w sprawie sprawozdań spółdzielczych kas oszczędnościowo-kredytowych oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej (Dz. U. poz. 509), które weszło w życie z dniem 19 kwietnia 2025 r. 1 Z uwzględnieniem art. 6 ustawy z dnia 26 stycznia 2017 r. o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych oraz niektórych innych ustaw (Dz. U. poz. 245). 2 Z uwzględnieniem art. 6 ustawy z dnia 26 stycznia 2017 r. o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych oraz niektórych innych ustaw (Dz. U. poz. 245).",
   "9": "Dodana przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2. E-mail służbowy do kontaktu w sprawie uzyskania przez wnioskodawcę dostępu do systemu teleinformatycznego: Nazwisko i imię: Stanowisko: PESEL: Telefon służbowy: E-mail służbowy :"
  }

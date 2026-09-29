@@ -1,7 +1,7 @@
 # Dziennik Ustaw w Markdown (od 2025 r.)
 
-Teksty aktów z **Dziennika Ustaw** od 2025 r. w Markdown i jako drzewo jednostek w JSON, z metadanymi
-z API ELI Sejmu. Aktualizowane codziennie przez GitHub Actions.
+Teksty aktów z **Dziennika Ustaw** od 2025 r. (oraz 98 aktów z lat 2020–2023, dla których API nie ma HTML)
+w Markdown i jako drzewo jednostek w JSON, z metadanymi z API ELI Sejmu. Aktualizowane codziennie przez GitHub Actions.
 *Texts of Polish Journal of Laws acts (2025+) as Markdown and as a JSON tree of units (art./§/ust./pkt/lit.),
 converted from the official PDFs; updated daily.*
 
@@ -12,24 +12,29 @@ converted from the official PDFs; updated daily.*
 
 API ELI Sejmu (`api.sejm.gov.pl/eli`) podaje teksty aktów z Dziennika Ustaw od 2025 r. tylko
 jako PDF. Dla 2024 r. był też HTML (sprawdzone 2026-09-29: 2024 – 1984/1984 aktów z HTML,
-2025 – 0/1900, 2026 – 0/1255). Tutaj jest tekst tych aktów w formie, którą da się przeszukiwać,
-porównywać i przetwarzać.
+2025 – 0/1900, 2026 – 0/1255). Także wcześniej zdarzają się akty bez HTML: w latach 2012–2024 jest ich 98
+(2020 – 10, 2021 – 42, 2023 – 46; sprawdzone 2026-09-29), a przed 2012 r. HTML-a nie ma dla żadnego aktu
+(tych, 55 tys. skanów z warstwą OCR, tu nie ma). Tutaj jest tekst aktów bez HTML od 2012 r. w formie, którą da
+się przeszukiwać, porównywać i przetwarzać.
 
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-29 15:43 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-29 16:37 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
+| 2020 | 10 | 10 | 0 |
+| 2021 | 42 | 42 | 0 |
+| 2023 | 46 | 46 | 0 |
 | 2025 | 1900 | 1900 | 0 |
 | 2026 | 1268 | 1268 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 62, razem 1734 z 53356 stron. Tekst z OCR (oznaczony) ma 1640 z nich w 52 aktach; treści pozostałych brak.
-Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 195.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 82, razem 1848 z 55640 stron. Tekst z OCR (oznaczony) ma 1736 z nich w 70 aktach; treści pozostałych brak.
+Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 197.
 
-Rodzaje aktów: Rozporządzenie 1735, Obwieszczenie 989, Ustawa 360, Oświadczenie rządowe 41, Umowa międzynarodowa 34, Komunikat 4, Postanowienie 3, Uchwała 2.
-Wersje konwertera: eli2md 0.5.3 (3106), eli2md 0.6.0 (62).
+Rodzaje aktów: Rozporządzenie 1814, Obwieszczenie 1004, Ustawa 362, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
+Wersje konwertera: eli2md 0.6.1 (3266).
 <!-- stats:end -->
 
 ## Zawartość
@@ -68,8 +73,8 @@ Metadane pochodzą z API ELI bez poprawek, więc zawierają też jego błędy. P
 ## Jak powstaje i jak dobre jest
 
 Konwerter: [eli2md](https://github.com/PolskiAgentW/eli2md). Jakość zmierzyłem na aktach z 2024 r.,
-które mają i PDF, i oficjalny HTML. Na odłożonej próbie 46 aktów (wersja 0.5.3, której używa ten zbiór,
-ocena jednorazowa):
+które mają i PDF, i oficjalny HTML. Na odłożonej próbie 46 aktów (wersja 0.5.3; kolejne wersje 0.6.x mierzone na
+nowych próbach dają w treści głównej te same lub lepsze wyniki, szczegóły w README eli2md; ocena jednorazowa):
 - słowa treści głównej: recall 0.998, precision 0.984;
 - drzewo jednostek (art., §, ust., pkt, lit.): w treści głównej 1256 z 1256 jednostek z właściwą ścieżką
   we właściwym miejscu i żadnej fałszywej; w załącznikach recall 0.998, precision 0.994;
@@ -79,7 +84,20 @@ ocena jednorazowa):
 Przypisy i tabele wypadają słabiej (tabele są spłaszczone do akapitów, wiersz po wierszu). Szczegóły,
 słabe miejsca i poprzednie wyniki są w README eli2md.
 
-Zmiana 2026-09-29 wieczorem (eli2md 0.5.2 → 0.5.3, wszystkie akty przekonwertowane od nowa, dodany JSON).
+Zmiana 2026-09-29 wieczorem (eli2md 0.6.1, wszystkie akty od nowa):
+- przypisy: numeracja zaczyna się od nowa w załącznikach i formularzach, a etykiety w Markdown się powtarzały
+  (466 plików), przez co odnośniki wskazywały zły przypis, a w JSON część przypisów ginęła. Teraz kolejne
+  przypisy o tym samym numerze mają etykiety `[^1_2]`, `[^1_3]`…;
+- strony, na których większość znaków nie ma kodów Unicode (formularze; w tekście było „(cid:3)(cid:346)…”,
+  27 plików), są traktowane jak strony bez czytelnej warstwy tekstowej i czytane przez OCR;
+- akapit zaczynający się od `>` albo `#` (np. `> 90 dni` w tabeli) jest poprzedzony `\`;
+- dołączone 98 aktów z lat 2020–2023, dla których API nie ma HTML (selfcheck: mediana odsetka słów PDF
+  obecnych w wyniku 0.972, odwrotnie 0.989 — jak w aktach 2025–2026);
+- znany problem: na ok. 11 stronach w kilku aktach (np. DU/2025/1249 s. 104–107) większość znaków nie ma kodów
+  Unicode, a OCR nie dał czytelnego tekstu, więc jest tylko notka; w poprzedniej wersji była tam część słów.
+  Do poprawienia w następnej wersji.
+
+Zmiana 2026-09-29 po południu (eli2md 0.5.2 → 0.5.3, wszystkie akty przekonwertowane od nowa, dodany JSON).
 Policzone na całym zbiorze przed i po:
 - pliki, w których ust./pkt/lit. były sklejone w jeden akapit („…: a) …; b) …”): 347 → 176
   (wystąpień 11 066 → 2 691). Część rozporządzeń jest składana z bardzo małym odstępem między jednostkami;

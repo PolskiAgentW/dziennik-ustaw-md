@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/44",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej",
- "converter": "eli2md 0.5.3",
+ "converter": "eli2md 0.6.1",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/44/text.pdf",
  "body": [
   {
@@ -2469,7 +2469,7 @@
     },
     {
      "type": "text",
-     "text": "PESEL[^1] .................................................,"
+     "text": "PESEL[^1_2] .................................................,"
     },
     {
      "type": "text",
@@ -2486,7 +2486,7 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "w ciągu ostatniego roku, nie zatrudniałem(-am) innych osób[^2].",
+     "text": "w ciągu ostatniego roku, nie zatrudniałem(-am) innych osób[^2_2].",
      "children": [
       {
        "type": "text",
@@ -2494,7 +2494,7 @@
       },
       {
        "type": "text",
-       "text": "[^1] W przypadku braku numeru PESEL – numer paszportu albo innego dokumentu stwierdzającego tożsamość."
+       "text": "[^1_2] W przypadku braku numeru PESEL – numer paszportu albo innego dokumentu stwierdzającego tożsamość."
       }
      ]
     }
@@ -2513,7 +2513,7 @@
     },
     {
      "type": "text",
-     "text": "Ja, niżej podpisany(-na), (imię, nazwisko, adres) ......................................................................................................................., PESEL[^1] .........................................................................., przyjmuję do wiadomości, że nieodpłatna pomoc prawna udzielana jest przez osobę, która:"
+     "text": "Ja, niżej podpisany(-na), (imię, nazwisko, adres) ......................................................................................................................., PESEL[^1_2] .........................................................................., przyjmuję do wiadomości, że nieodpłatna pomoc prawna udzielana jest przez osobę, która:"
     },
     {
      "type": "pkt",
@@ -2572,8 +2572,8 @@
   }
  ],
  "footnotes": {
-  "1": "W przypadku braku numeru PESEL – numer paszportu albo innego dokumentu stwierdzającego tożsamość.",
-  "2": "Dotyczy tylko osoby fizycznej prowadzącej jednoosobową działalność gospodarczą.",
+  "1": "W brzmieniu ustalonym przez art. 1 pkt 1 lit. a ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (Dz. U. poz. 1166), która weszła w życie z dniem 1 stycznia 2026 r.",
+  "2": "Ze zmianą wprowadzoną przez art. 1 pkt 1 lit. b ustawy, o której mowa w odnośniku 1.",
   "3": "W brzmieniu ustalonym przez art. 1 pkt 1 lit. c ustawy, o której mowa w odnośniku 1.",
   "4": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1841 oraz z 2025 r. poz. 620, 1172, 1302, 1518 i 1661.",
   "5": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1907 oraz z 2025 r. poz. 526, 820, 1172, 1178 i 1609.",
@@ -2587,6 +2587,8 @@
   "13": "W brzmieniu ustalonym przez art. 1 pkt 5 lit. b ustawy, o której mowa w odnośniku 1.",
   "14": "Oznaczenie ust. 1 nadane przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 26 sierpnia 2025 r.",
   "15": "Dodany przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 26 sierpnia 2025 r.",
-  "16": "Przez art. 1 pkt 7 ustawy, o której mowa w odnośniku 1."
+  "16": "Przez art. 1 pkt 7 ustawy, o której mowa w odnośniku 1.",
+  "2_2": "Dotyczy tylko osoby fizycznej prowadzącej jednoosobową działalność gospodarczą.",
+  "1_2": "W przypadku braku numeru PESEL – numer paszportu albo innego dokumentu stwierdzającego tożsamość."
  }
 }

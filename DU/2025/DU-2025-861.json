@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/861",
  "title": "Rozporządzenie Ministra Finansów z dnia 25 czerwca 2025 r. w sprawie kas rejestrujących mających postać oprogramowania",
- "converter": "eli2md 0.5.3",
+ "converter": "eli2md 0.6.1",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/861/text.pdf",
  "body": [
   {
@@ -5655,7 +5655,7 @@
       },
       {
        "type": "text",
-       "text": "Nazwa[^2] / Nazwisko i pierwsze imię[^3]: _________________________________________"
+       "text": "Nazwa[^2_2] / Nazwisko i pierwsze imię[^3]: _________________________________________"
       },
       {
        "type": "text",
@@ -5742,7 +5742,7 @@
     },
     {
      "type": "text",
-     "text": "I. MIEJSCE SKŁADANIA WNIOSKU Naczelnik urzędu skarbowego, do którego jest składany wniosek: II. DANE PODATNIKA[^1] Identyfikator podatkowy NIP podatnika: Nazwa[^2] / Nazwisko i pierwsze imię[^3]: Kraj: Województwo: Gmina/Dzielnica: Ulica: Nr domu: Nr lokalu: Miejscowość: Kod pocztowy: Telefon: Adres e-mail:"
+     "text": "I. MIEJSCE SKŁADANIA WNIOSKU Naczelnik urzędu skarbowego, do którego jest składany wniosek: II. DANE PODATNIKA[^1_2] Identyfikator podatkowy NIP podatnika: Nazwa[^2_2] / Nazwisko i pierwsze imię[^3]: Kraj: Województwo: Gmina/Dzielnica: Ulica: Nr domu: Nr lokalu: Miejscowość: Kod pocztowy: Telefon: Adres e-mail:"
     },
     {
      "type": "text",
@@ -5789,7 +5789,7 @@
       },
       {
        "type": "text",
-       "text": "[^1] W danych adresowych należy wskazać: a) adres siedziby – w przypadku podmiotu niebędącego osobą fizyczną, b) adres zamieszkania – w przypadku podmiotu będącego osobą fizyczną. [^2] Wypełnić w przypadku podmiotu niebędącego osobą fizyczną. [^3] Wypełnić w przypadku podmiotu będącego osobą fizyczną. [^4] Zaznaczyć właściwe. [^5] Zaznaczyć właściwe. [^6] W przypadku podmiotu niebędącego osobą fizyczną – imię i nazwisko oraz podpis osoby/osób uprawnionej/uprawnionych do reprezentacji podatnika składającego wniosek."
+       "text": "[^1_2] W danych adresowych należy wskazać: a) adres siedziby – w przypadku podmiotu niebędącego osobą fizyczną, b) adres zamieszkania – w przypadku podmiotu będącego osobą fizyczną. [^2_2] Wypełnić w przypadku podmiotu niebędącego osobą fizyczną. [^3] Wypełnić w przypadku podmiotu będącego osobą fizyczną. [^4] Zaznaczyć właściwe. [^5] Zaznaczyć właściwe. [^6] W przypadku podmiotu niebędącego osobą fizyczną – imię i nazwisko oraz podpis osoby/osób uprawnionej/uprawnionych do reprezentacji podatnika składającego wniosek."
       }
      ]
     }
@@ -5870,8 +5870,10 @@
   }
  ],
  "footnotes": {
-  "1": "Dokument sporządza się w dwóch jednobrzmiących egzemplarzach, po jednym dla podatnika i osoby, która prowadzi u podatnika ewidencję sprzedaży przy użyciu kasy rejestrującej.",
-  "2": "Wypełnić w przypadku podmiotu niebędącego osobą fizyczną.",
+  "1": "Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).",
+  "2": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 26 maja 2020 r. w sprawie kas rejestrujących mających postać oprogramowania (Dz. U. z 2023 r. poz. 1849 oraz z 2024 r. poz. 1433), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 32 ustawy z dnia 26 maja 2023 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1059, 1705 i 1723). Objaśnienia",
+  "1_2": "Dokument sporządza się w dwóch jednobrzmiących egzemplarzach, po jednym dla podatnika i osoby, która prowadzi u podatnika ewidencję sprzedaży przy użyciu kasy rejestrującej.",
+  "2_2": "Wypełnić w przypadku podmiotu niebędącego osobą fizyczną.",
   "3": "Wypełnić w przypadku osoby fizycznej.",
   "4": "Osoba, która prowadzi u podatnika ewidencję sprzedaży przy użyciu kasy rejestrującej. Jej dane znajdują się w części B oświadczenia."
  }

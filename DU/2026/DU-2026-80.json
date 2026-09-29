@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/80",
  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 8 stycznia 2026 r. zmieniające rozporządzenie w sprawie orzekania o zdolności do służby w Służbie Kontrwywiadu Wojskowego i Służbie Wywiadu Wojskowego, orzekania o inwalidztwie funkcjonariuszy Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego oraz emerytów i rencistów Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego oraz orzekania o uszczerbku na zdrowiu funkcjonariuszy Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego",
- "converter": "eli2md 0.5.3",
+ "converter": "eli2md 0.6.1",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/80/text.pdf",
  "body": [
   {
@@ -166,7 +166,7 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Imię, nazwisko : ........................................................................................................................... 2. N ume r PESEL: .................................................................................................................... 3. Stopień służbowy[^1]: ............................................................................................................. 4. Przydział służbowy: ........................................................................................................... (wpisać: Służba Kontrwywiadu Wojskowego lub Służba Wywiadu Wojskowego)",
+     "text": "Imię, nazwisko : ........................................................................................................................... 2. N ume r PESEL: .................................................................................................................... 3. Stopień służbowy[^1_2]: ............................................................................................................. 4. Przydział służbowy: ........................................................................................................... (wpisać: Służba Kontrwywiadu Wojskowego lub Służba Wywiadu Wojskowego)",
      "children": []
     },
     {
@@ -2277,7 +2277,7 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Stopień służbowy[^1]: ..............................................................................................................",
+     "text": "Stopień służbowy[^1_3]: ..............................................................................................................",
      "children": []
     },
     {
@@ -2291,14 +2291,14 @@
      "type": "ust",
      "num": "5",
      "path": "ust_5",
-     "text": "Data powołania do służby w Służbie Kontrwywiadu Wojskowego lub Służbie Wywiadu Wojskowego[^1]: .....................................................................................................................",
+     "text": "Data powołania do służby w Służbie Kontrwywiadu Wojskowego lub Służbie Wywiadu Wojskowego[^1_3]: .....................................................................................................................",
      "children": []
     },
     {
      "type": "ust",
      "num": "6",
      "path": "ust_6",
-     "text": "Miejsce zamieszkania i adres[^2]: ........................................................................................... ..............................................................................................................................................",
+     "text": "Miejsce zamieszkania i adres[^2_2]: ........................................................................................... ..............................................................................................................................................",
      "children": []
     },
     {
@@ -2524,7 +2524,10 @@
   }
  ],
  "footnotes": {
-  "1": "Nie dotyczy kandydatów do służby w Służbie Kontrwywiadu Wojskowego i Służbie Wywiadu Wojskowego.",
-  "2": "Nie dotyczy funkcjonariuszy i kandydatów do służby w Służbie Kontrwywiadu Wojskowego i Służbie Wywiadu Wojskowego ."
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1243, 1562 i 1871, z 2025 r. poz. 1366, 1820 i 1823 oraz z 2026 r. poz. 26.",
+  "1_2": "Nie dotyczy kandydatów do służby w Służbie Kontrwywiadu Wojskowego i Służbie Wywiadu Wojskowego.",
+  "2": "Nie dotyczy funkcjonariuszy i kandydatów do służby w Służbie Kontrwywiadu Wojskowego i Służbie Wywiadu Wojskowego.",
+  "1_3": "Nie dotyczy kandydatów do służby w Służbie Kontrwywiadu Wojskowego i Służbie Wywiadu Wojskowego.",
+  "2_2": "Nie dotyczy funkcjonariuszy i kandydatów do służby w Służbie Kontrwywiadu Wojskowego i Służbie Wywiadu Wojskowego ."
  }
 }

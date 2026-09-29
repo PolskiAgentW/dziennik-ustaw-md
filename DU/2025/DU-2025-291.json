@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/291",
  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 7 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie ustanowienia odznaki honorowej \"Za Zasługi dla Turystyki\", ustalenia jej wzoru, zasad i trybu nadawania oraz sposobu noszenia",
- "converter": "eli2md 0.5.3",
+ "converter": "eli2md 0.6.1",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/291/text.pdf",
  "body": [
   {
@@ -384,35 +384,10 @@
     {
      "type": "text",
      "text": "UZASADNIENIE"
-    }
-   ]
-  },
-  {
-   "heading": "Załącznik nr 3",
-   "body": [
-    {
-     "type": "text",
-     "text": "WZÓR ODZNAKI HONOROWEJ „ZA ZASŁUGI DLA TURYSTYKI”"
-    },
-    {
-     "type": "text",
-     "text": "(cid:3)(cid:4)(cid:449)(cid:286)(cid:396)(cid:400)"
-    },
-    {
-     "type": "text",
-     "text": "(cid:94)(cid:364)(cid:258)(cid:367)(cid:258)(cid:1006)(cid:855)(cid:1005)"
     },
     {
      "type": "note",
-     "text": "[Na stronie 8 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "(cid:90)(cid:286)(cid:449)(cid:286)(cid:396)(cid:400) (cid:94)(cid:364)(cid:258)(cid:367)(cid:258)(cid:3)(cid:1006)(cid:855)(cid:1005)"
-    },
-    {
-     "type": "note",
-     "text": "[Na stronie 9 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strony 8-9 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
     }
    ]
   },
@@ -426,19 +401,38 @@
     {
      "type": "note",
      "text": "[Na stronie 10 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-    }
-   ]
-  },
-  {
-   "heading": "Załącznik nr 5",
-   "body": [
-    {
-     "type": "text",
-     "text": "WZÓR LEGITYMACJI STWIERDZAJĄCEJ NADANIE ODZNAKI HONOROWEJ „ZA ZASŁUGI DLA TURYSTYKI” ORGANIZACJI LUB INNEJ INSTYTUCJI"
     },
     {
      "type": "note",
-     "text": "[Na stronie 11 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Załącznik nr 5"
+    },
+    {
+     "type": "ocr",
+     "text": "WZÓR LEGITYMACJI STWIERDZAJĄCEJ NADANIE ODZNAKI HONOROWEJ „ZA ZASŁUGI DLA TURYSTYKI” ORGANIZACJI LUB INNEJ INSTYTUCJI"
+    },
+    {
+     "type": "ocr",
+     "text": "Zewnętrzna strona legitymacji"
+    },
+    {
+     "type": "ocr",
+     "text": "Minister W uznaniu zasług właściwy do spraw turystyki * dla rozwoju turystyki wyróżnione /.... zostaje"
+    },
+    {
+     "type": "ocr",
+     "text": "(w tym miejscu nazwa jednostki organizacyjnej) LEGITYMACJA"
+    },
+    {
+     "type": "ocr",
+     "text": "ODZNAKĄ HONOROWĄ ZA ZASŁUGI DLA TURYSTYKI Warszawa, dnia MINISTER"
+    },
+    {
+     "type": "ocr",
+     "text": "* Nazwa ministra właściwego do spraw turystyki w dniu wystawienia legitymacji. Objaśnienie: legitymacja ma wymiary 110 mm x 140 mm. Na zewnętrznej stronie wydrukowane jest godło państwa."
     }
    ]
   }

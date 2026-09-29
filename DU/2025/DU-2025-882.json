@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/882",
  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 17 czerwca 2025 r. zmieniające rozporządzenie w sprawie oceny zdolności fizycznej i psychicznej do służby w Agencji Wywiadu",
- "converter": "eli2md 0.5.3",
+ "converter": "eli2md 0.6.1",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/882/text.pdf",
  "body": [
   {
@@ -467,7 +467,7 @@
      "type": "ust",
      "num": "5",
      "path": "ust_5",
-     "text": "Proponowane przyporządkowanie do grupy I, II, III lub IV[^1]: ....................................... ;",
+     "text": "Proponowane przyporządkowanie do grupy I, II, III lub IV[^1_2]: ....................................... ;",
      "children": []
     },
     {
@@ -2542,7 +2542,7 @@
      "children": [
       {
        "type": "text",
-       "text": "W wyniku przeprowadzonego badania lekarskiego ......................................................................................................................................................................................................... (stopień[^2], imię i nazwisko)"
+       "text": "W wyniku przeprowadzonego badania lekarskiego ......................................................................................................................................................................................................... (stopień[^2_2], imię i nazwisko)"
       },
       {
        "type": "text",
@@ -2558,7 +2558,7 @@
       },
       {
        "type": "text",
-       "text": "...................................................................................... Komisja Lekarska[^1] w składzie:"
+       "text": "...................................................................................... Komisja Lekarska[^1_3] w składzie:"
       },
       {
        "type": "text",
@@ -2702,8 +2702,11 @@
   }
  ],
  "footnotes": {
-  "1": "Nazwę wpisuje właściwa komisja lekarska.",
-  "2": "Wypełnia się w przypadku funkcjonariusza Agencji Wywiadu.",
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1222, 1562, 1684 i 1871 oraz z 2025 r. poz. 179 i 718. (imienna pieczątka i podpis organu kierującego) _____________________",
+  "1_2": "Należy wpisać grupę lub grupy zgodnie z wykazem chorób i ułomności oraz kategorii zdolności do służby.",
+  "2": "W przypadku kandydata będącego aktualnie funkcjonariuszem innej służby mundurowej należy podać nazwę tej służby.",
+  "1_3": "Nazwę wpisuje właściwa komisja lekarska.",
+  "2_2": "Wypełnia się w przypadku funkcjonariusza Agencji Wywiadu.",
   "3": "Wypełnia się również w przypadku uchylenia orzeczenia Regionalnej Komisji Lekarskiej i wydania nowego orzeczenia przez Centralną Komisję Lekarską.",
   "4": "Niepotrzebne skreślić.",
   "5": "Wypełnia się w przypadku przewidywanego negatywnego wpływu określonych warunków lub właściwości służby na stan zdrowia kandydata uznanego za zdolnego do służby i przyporządkowanego do grupy III, zgodnie z wykazem chorób i ułomności oraz kategorii zdolności do służby.",

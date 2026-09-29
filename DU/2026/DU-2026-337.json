@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/337",
  "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2026 r. w sprawie wzoru zaświadczenia o zaszczepieniu psa przeciwko wściekliźnie oraz wzoru i sposobu prowadzenia wykazu posiadaczy psów zaszczepionych przeciwko wściekliźnie",
- "converter": "eli2md 0.5.3",
+ "converter": "eli2md 0.6.1",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/337/text.pdf",
  "body": [
   {
@@ -145,15 +145,15 @@
     },
     {
      "type": "text",
-     "text": "Numer wszczepionego transpondera albo numer tatuażu[^1]: ..................................................................."
+     "text": "Numer wszczepionego transpondera albo numer tatuażu[^1_2]: ..................................................................."
     },
     {
      "type": "text",
-     "text": "Data i godzina odczytu transpondera[^1]: .................................................................................................."
+     "text": "Data i godzina odczytu transpondera[^1_2]: .................................................................................................."
     },
     {
      "type": "text",
-     "text": "Data i godzina wszczepienia transpondera[^2]: .........................................................................................."
+     "text": "Data i godzina wszczepienia transpondera[^2_2]: .........................................................................................."
     },
     {
      "type": "text",
@@ -202,7 +202,7 @@
     },
     {
      "type": "text",
-     "text": "Imię, nazwisko, Data i godzina miejsce Numer odczytu zamieszkania Opis wszczepionego transpondera lub Data i godzina Nazwa, numer Lp. i adres albo zaszczepionego transpondera tatuażu albo data zaszczepienia serii i data nazwa, siedziba psa albo numer i godzina[^2] psa ważności i adres posiadacza[^1] tatuażu wszczepienia szczepionki zaszczepionego[^2] transpondera psa[^3]"
+     "text": "Imię, nazwisko, Data i godzina miejsce Numer odczytu zamieszkania Opis wszczepionego transpondera lub Data i godzina Nazwa, numer Lp. i adres albo zaszczepionego transpondera tatuażu albo data zaszczepienia serii i data nazwa, siedziba psa albo numer i godzina[^2_3] psa ważności i adres posiadacza[^1_3] tatuażu wszczepienia szczepionki zaszczepionego[^2_3] transpondera psa[^3]"
     },
     {
      "type": "text",
@@ -216,8 +216,12 @@
   }
  ],
  "footnotes": {
-  "1": "Opis zaszczepionego psa: nazwa, rasa, płeć, wiek lub data urodzenia, maść i znaki szczególne.",
-  "2": "Jeżeli pies został oznakowany.",
+  "1": "Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1000).",
+  "2": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 28 czerwca 2004 r. w sprawie wzoru i szczegółowego sposobu prowadzenia rejestru psów zaszczepionych przeciwko wściekliźnie oraz wzoru zaświadczenia o szczepieniu psa przeciwko wściekliźnie (Dz. U. poz. 1672), które traci moc z dniem 18 marca 2026 r. w związku z wejściem w życie ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795).",
+  "1_2": "Jeżeli pies został oznakowany.",
+  "2_2": "Jeżeli szczepienie psa zostało poprzedzone wszczepieniem transpondera.",
+  "1_3": "Opis zaszczepionego psa: nazwa, rasa, płeć, wiek lub data urodzenia, maść i znaki szczególne.",
+  "2_3": "Jeżeli pies został oznakowany.",
   "3": "Jeżeli szczepienie psa zostało poprzedzone wszczepieniem transpondera.",
   "4": "W przypadku prowadzenia wykazu w postaci papierowej.",
   "5": "W przypadku prowadzenia wykazu w postaci elektronicznej."

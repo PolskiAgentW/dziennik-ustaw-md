@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1152",
  "title": "Obwieszczenie Ministra Finansów i Gospodarki z dnia 23 sierpnia 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie wzorów dokumentów związanych z rejestracją w zakresie podatku od towarów i usług",
- "converter": "eli2md 0.5.3",
+ "converter": "eli2md 0.6.1",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1152/text.pdf",
  "body": [
   {
@@ -101,7 +101,7 @@
     },
     {
      "type": "text",
-     "text": "MINISTRA FINANSÓW[^1]"
+     "text": "MINISTRA FINANSÓW[^1_2]"
     },
     {
      "type": "text",
@@ -187,7 +187,7 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Identyfikator podatkowy NIP podatnika[^1] [Tax Identification Number of the taxable person][^1] 2. Nr dokumentu [Document No.] 3. Status [Status]",
+     "text": "Identyfikator podatkowy NIP podatnika[^1_2] [Tax Identification Number of the taxable person][^1_2] 2. Nr dokumentu [Document No.] 3. Status [Status]",
      "children": [
       {
        "type": "text",
@@ -917,7 +917,7 @@
      "type": "ust",
      "num": "20",
      "path": "ust_20",
-     "text": "Telefon kontaktowy[^1] 21. Adres e-mail[^1]",
+     "text": "Telefon kontaktowy[^1_2] 21. Adres e-mail[^1_2]",
      "children": []
     },
     {
@@ -967,7 +967,8 @@
   }
  ],
  "footnotes": {
-  "1": "Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – finanse publiczne kieruje Minister Finansów i Gospodarki, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Finansów i Gospodarki (Dz. U. poz. 997).",
+  "1": "Minister Finansów i Gospodarki kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Finansów i Gospodarki (Dz. U. poz. 997).",
+  "1_2": "Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – finanse publiczne kieruje Minister Finansów i Gospodarki, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Finansów i Gospodarki (Dz. U. poz. 997).",
   "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 894, 896, 1203, 1541 i 1811 oraz z 2026 r. poz. 507 i 846. 8. Zakres zmiany danych (zaznaczyć właściwy kwadrat) [The scope of data change (tick right box)]: 1 zmiana nie spowodowała zmiany właściwości organu podatkowego [the change did not change the competence of the tax authority] 2 zmiana spowodowała zmianę właściwości organu podatkowego [the change resulted in a change in the competence of the tax authority] 9. Poprzedni naczelnik urzędu skarbowego (należy wypełnić tylko w przypadku zaznaczenia w poz. 8 kwadratu nr 2) [ Previous head of the tax office (complete only if box no 2 in item 8 is ticked)] 10. Rodzaj podatnika (zaznaczyć właściwy kwadrat) [Type of taxable person (tick right box)]: 1 podatnik niebędący osobą fizyczną [taxable person who is not a natural person] 2 osoba fizyczna [natural person] 3 osoba zagraniczna[^3] [foreign person][^3] 11. Grupa VAT (zaznaczyć właściwy kwadrat) [VAT group (tick the appropriate box)]: 1 tak [yes] 2 nie [no] VAT-R (18) 1 /5 (18) /5 (18) /5 └────┴────┘-└────┴────┘-└────┴────┴────┴────┘ (18) /5 (18) /5 VAT-5 (3) 1 /1 (3) /1 └────┴────┘-└────┴────┘-└────┴────┴────┴────┘ (6) /1"
  }
 }
