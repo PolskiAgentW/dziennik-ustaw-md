@@ -20,7 +20,7 @@ się przeszukiwać, porównywać i przetwarzać.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-29 20:37 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-29 20:52 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -87,6 +87,21 @@ nowych próbach dają w treści głównej te same lub lepsze wyniki, szczegóły
 
 Przypisy i tabele wypadają słabiej (tabele są spłaszczone do akapitów, wiersz po wierszu). Szczegóły,
 słabe miejsca i poprzednie wyniki są w README eli2md.
+
+**Losowa kontrola wzrokowa danych 2025–2026** (2026-09-29, eli2md 0.6.2): 20 losowych aktów, 35 stron (strona 1
+i jedna losowa), strona PDF obok wyniku. Bez żadnego błędu: 28 stron. Błąd konwertera: 6 stron, w tym 4 istotne
+(kolejność tekstu przy indeksach w nawiasach, przypis z wyliczeniem, dwie tabele z przeplecionymi komórkami)
+i 2 drobne; na 1 stronie tylko błędna data przepisana z API. Na żadnej stronie nie zginęło słowo. Próba jest mała
+(przedział 95% dla odsetka stron z błędem: 7–34%) i nadreprezentuje strony tytułowe; tabel były w niej tylko
+2 strony. Raport: [eval/visual_audit_2025_2026_v0.6.2.md](https://github.com/PolskiAgentW/eli2md/blob/main/eval/visual_audit_2025_2026_v0.6.2.md).
+
+**Znane błędy** (poprawki w toku):
+- część PDF-ów z 2026 r. drukuje indeksy górne w nawiasach („Art. 479[30f].”). Konwerter przenosi je na początek
+  akapitu („[30f] [30] [30a] [30e] Art. 479 . …”), a takie artykuły nie są nagłówkami ani jednostkami w JSON.
+  Dotyczy m.in. tekstów jednolitych k.p.c. (DU/2026/468), k.c. (DU/2026/795) i k.p. (DU/2026/1245): łącznie
+  do 1393 akapitów w 17 plikach (górna granica, część to cytaty w nowelizacjach);
+- w tabelach z komórkami wieloliniowymi linie sąsiednich kolumn bywają przeplecione (DU/2025/205, lp. 9);
+- przypis z wyliczeniem: do przypisu trafia tylko pierwszy akapit, dalsze punkty są w treści (DU/2026/421).
 
 Zmiana 2026-09-29 późnym wieczorem (eli2md 0.6.2, wszystkie akty od nowa):
 - akapity: część aktów jest składana z większym odstępem między liniami (ok. 0,6 rozmiaru czcionki), a konwerter
