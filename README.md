@@ -19,7 +19,7 @@ porównywać i przetwarzać.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-29 05:35 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-29 05:36 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
