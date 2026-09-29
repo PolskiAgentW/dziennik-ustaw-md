@@ -211,15 +211,11 @@
          "num": "g",
          "path": "par_2/pkt_6/lit_g",
          "text": "137605 Zespół Legiusa",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "par_2/pkt_6/lit_g/tir_1",
-           "text": "według klasyfikacji rozpoznań opisanych numerami ORPHA;",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– według klasyfikacji rozpoznań opisanych numerami ORPHA;"
         }
        ]
       },
@@ -576,15 +572,11 @@
            "num": "jb",
            "path": "par_7/ust_2/pkt_5/lit_jb",
            "text": "[^5] kardiologii",
-           "children": [
-            {
-             "type": "tir",
-             "num": "1",
-             "path": "par_7/ust_2/pkt_5/lit_jb/tir_1",
-             "text": "w lokalizacji,",
-             "children": []
-            }
-           ]
+           "children": []
+          },
+          {
+           "type": "text",
+           "text": "– w lokalizacji,"
           },
           {
            "type": "lit",
@@ -605,15 +597,11 @@
            "num": "m",
            "path": "par_7/ust_2/pkt_5/lit_m",
            "text": "okulistyki",
-           "children": [
-            {
-             "type": "tir",
-             "num": "1",
-             "path": "par_7/ust_2/pkt_5/lit_m/tir_1",
-             "text": "w dostępie;",
-             "children": []
-            }
-           ]
+           "children": []
+          },
+          {
+           "type": "text",
+           "text": "– w dostępie;"
           }
          ]
         },
@@ -1449,12 +1437,11 @@
      "num": "6",
      "path": "pkt_6",
      "text": "Wojewódzki Specjalistyczny Szpital Dziecięcy im. prof. dr Stanisława Popowskiego",
-     "children": [
-      {
-       "type": "text",
-       "text": "w Olsztynie;"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "w Olsztynie;"
     },
     {
      "type": "pkt",
@@ -1473,12 +1460,11 @@
      "num": "8",
      "path": "pkt_8",
      "text": "[^10] Państwowy Instytut Medyczny Ministerstwa Spraw Wewnętrznych i Administracji",
-     "children": [
-      {
-       "type": "text",
-       "text": "w Warszawie."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "w Warszawie."
     }
    ]
   }

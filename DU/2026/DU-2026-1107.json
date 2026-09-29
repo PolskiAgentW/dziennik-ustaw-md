@@ -47,15 +47,11 @@
      "num": "2",
      "path": "par_1/pkt_2",
      "text": "zakres informacyjny i strukturę metadanych infrastruktury informacji przestrzennej",
-     "children": [
-      {
-       "type": "tir",
-       "num": "1",
-       "path": "par_1/pkt_2/tir_1",
-       "text": "w zakresie zagospodarowania przestrzennego.",
-       "children": []
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "– w zakresie zagospodarowania przestrzennego."
     }
    ]
   },
@@ -283,15 +279,11 @@
        "num": "3",
        "path": "par_4/ust_2/pkt_3",
        "text": "specyfikacji danych zbiorów danych przestrzennych – szczegółowego opisu zestawów danych wraz z dodatkowymi informacjami umożliwiającymi ich tworzenie, dostarczanie i wykorzystywanie przez inny podmiot",
-       "children": [
-        {
-         "type": "tir",
-         "num": "1",
-         "path": "par_4/ust_2/pkt_3/tir_1",
-         "text": "są udostępniane na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.",
-         "children": []
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– są udostępniane na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa."
       }
      ]
     },
@@ -3425,20 +3417,19 @@
        "num": "5",
        "path": "ust_2/tir_5",
        "text": "strefa produkcji rolniczej.",
-       "children": [
-        {
-         "type": "text",
-         "text": "inv: self.nazwa = 'strefaWielofunkcyjnaZZabudowaMieszkaniowaWielorodzinna' or self.nazwa = 'strefaWielofunkcyjnaZZabudowaMieszkaniowaJednorodzinna' 57 OCL: or self.nazwa = 'strefaWielofunkcyjnaZZabudowaZagrodowa' or self.nazwa = 'strefaUslugowa ' or self.nazwa = 'strefaHandluWielkopowierzchniowego' or self.nazwa = 'strefaGospodarcza' or self.nazwa = 'strefaProdukcjiRolniczej' implies self.maksNadziemnaIntensywnoscZabudowy->notEmpty()"
-        },
-        {
-         "type": "text",
-         "text": "58 Ograniczenie: maksUdzialPowierzchniZabudowyZasada"
-        },
-        {
-         "type": "text",
-         "text": "Wyznaczenie maksymalnego udziału powierzchni zabudowy jest obligatoryjne w strefach planistycznych:"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "inv: self.nazwa = 'strefaWielofunkcyjnaZZabudowaMieszkaniowaWielorodzinna' or self.nazwa = 'strefaWielofunkcyjnaZZabudowaMieszkaniowaJednorodzinna' 57 OCL: or self.nazwa = 'strefaWielofunkcyjnaZZabudowaZagrodowa' or self.nazwa = 'strefaUslugowa ' or self.nazwa = 'strefaHandluWielkopowierzchniowego' or self.nazwa = 'strefaGospodarcza' or self.nazwa = 'strefaProdukcjiRolniczej' implies self.maksNadziemnaIntensywnoscZabudowy->notEmpty()"
+      },
+      {
+       "type": "text",
+       "text": "58 Ograniczenie: maksUdzialPowierzchniZabudowyZasada"
+      },
+      {
+       "type": "text",
+       "text": "Wyznaczenie maksymalnego udziału powierzchni zabudowy jest obligatoryjne w strefach planistycznych:"
       },
       {
        "type": "tir",
@@ -3473,20 +3464,19 @@
        "num": "10",
        "path": "ust_2/tir_10",
        "text": "strefa produkcji rolniczej.",
-       "children": [
-        {
-         "type": "text",
-         "text": "inv: self.nazwa = 'strefaWielofunkcyjnaZZabudowaMieszkaniowaWielorodzinna' or self.nazwa = 'strefaWielofunkcyjnaZZabudowaMieszkaniowaJednorodzinna' 60 OCL: or self.nazwa = 'strefaWielofunkcyjnaZZabudowaZagrodowa' or self.nazwa = 'strefaUslugowa ' or self.nazwa = 'strefaHandluWielkopowierzchniowego' or self.nazwa = 'strefaGospodarcza' or self.nazwa = 'strefaProdukcjiRolniczej' implies self.maksUdzialPowierzchniZabudowy ->notEmpty()"
-        },
-        {
-         "type": "text",
-         "text": "61 Ograniczenie: maksWysokoscZabudowyZasada"
-        },
-        {
-         "type": "text",
-         "text": "Wyznaczenie maksymalnej wysokości zabudowy jest obligatoryjne w strefach planistycznych:"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "inv: self.nazwa = 'strefaWielofunkcyjnaZZabudowaMieszkaniowaWielorodzinna' or self.nazwa = 'strefaWielofunkcyjnaZZabudowaMieszkaniowaJednorodzinna' 60 OCL: or self.nazwa = 'strefaWielofunkcyjnaZZabudowaZagrodowa' or self.nazwa = 'strefaUslugowa ' or self.nazwa = 'strefaHandluWielkopowierzchniowego' or self.nazwa = 'strefaGospodarcza' or self.nazwa = 'strefaProdukcjiRolniczej' implies self.maksUdzialPowierzchniZabudowy ->notEmpty()"
+      },
+      {
+       "type": "text",
+       "text": "61 Ograniczenie: maksWysokoscZabudowyZasada"
+      },
+      {
+       "type": "text",
+       "text": "Wyznaczenie maksymalnej wysokości zabudowy jest obligatoryjne w strefach planistycznych:"
       },
       {
        "type": "tir",
@@ -3521,840 +3511,839 @@
        "num": "15",
        "path": "ust_2/tir_15",
        "text": "strefa produkcji rolniczej.",
-       "children": [
-        {
-         "type": "text",
-         "text": "inv: self.nazwa = 'strefaWielofunkcyjnaZZabudowaMieszkaniowaWielorodzinna' or self.nazwa = 'strefaWielofunkcyjnaZZabudowaMieszkaniowaJednorodzinna' 63 OCL: or self.nazwa = 'strefaWielofunkcyjnaZZabudowaZagrodowa' or self.nazwa = 'strefaUslugowa ' or self.nazwa = 'strefaHandluWielkopowierzchniowego' or self.nazwa = 'strefaGospodarcza' or self.nazwa = 'strefaProdukcjiRolniczej' implies self.maksWysokoscZabudowy->notEmpty()"
-        },
-        {
-         "type": "text",
-         "text": "64 Ograniczenie: minUdzialPowierzchniBiologicznieCzynnejZasada Wyznaczenie minimalnego udział powierzchni biologicznie czynnej jest obligatoryjne w strefach planistycznych: – strefa wielofunkcyjna z zabudową mieszkaniową wielorodzinną, – strefa wielofunkcyjna z zabudową mieszkaniową jednorodzinną, – strefa wielofunkcyjna z zabudową zagrodową, 65 Język naturalny: – strefa usługowa, – strefa handlu wielkopowierzchniowego, – strefa gospodarcza, – strefa produkcji rolniczej, – strefa infrastrukturalna, – strefa zieleni i rekreacji, – strefa cmentarzy."
-        },
-        {
-         "type": "text",
-         "text": "inv: self.nazwa = 'strefaWielofunkcyjnaZZabudowaMieszkaniowaWielorodzinna' or self.nazwa = 'strefaWielofunkcyjnaZZabudowaMieszkaniowaJednorodzinna' or self.nazwa = 'strefaWielofunkcyjnaZZabudowaZagrodowa' or self.nazwa = 66 OCL: 'strefaUslugowa ' or self.nazwa = 'strefaHandluWielkopowierzchniowego' or self.nazwa = 'strefaGospodarcza' or self.nazwa = 'strefaProdukcjiRolniczej' or self.nazwa = 'strefaInfrastrukturalna' or self.nazwa = 'strefaZieleniIRekreacji' or self.nazwa = 'strefaCmentarzy' implies self.minUdzialPowierzchniBiologicznieCzynnej ->notEmpty()"
-        },
-        {
-         "type": "text",
-         "text": "2.10. Typ danych: „Identyfikator”"
-        },
-        {
-         "type": "text",
-         "text": "1 Klasa: Identyfikator"
-        },
-        {
-         "type": "text",
-         "text": "2 Nazwa (pełna): identyfikator"
-        },
-        {
-         "type": "text",
-         "text": "Zewnętrzny jednoznaczny, niezmienny identyfikator obiektu przestrzennego 3 Definicja: publikowany przez dostawcę zbioru danych przestrzennych. Identyfikator ten może zostać wykorzystany przez zewnętrzne systemy lub aplikacje w celu odniesienia do obiektu."
-        },
-        {
-         "type": "text",
-         "text": "4 Stereotypy: «DataType»"
-        },
-        {
-         "type": "text",
-         "text": "5 Atrybut: przestrzenNazw"
-        },
-        {
-         "type": "text",
-         "text": "6 Nazwa (pełna): przestrzeń nazw"
-        },
-        {
-         "type": "text",
-         "text": "7 Dziedzina: Swobodny tekst."
-        },
-        {
-         "type": "text",
-         "text": "8 Liczność: 1"
-        },
-        {
-         "type": "text",
-         "text": "Przestrzeń nazw identyfikująca w sposób jednoznaczny źródło danych obiektu przestrzennego, o której mowa w § 6 ust. 1 pkt 1 rozporządzenia. 9 Definicja: Wartość atrybutu przestrzeń nazw powinna jednoznacznie identyfikować zbiór danych przestrzennych, do którego należy instancja typu obiektu przestrzennego."
-        },
-        {
-         "type": "text",
-         "text": "10 Atrybut: lokalnyId"
-        },
-        {
-         "type": "text",
-         "text": "11 Nazwa (pełna): identyfikator lokalny"
-        },
-        {
-         "type": "text",
-         "text": "12 Dziedzina: Swobodny tekst."
-        },
-        {
-         "type": "text",
-         "text": "13 Liczność: 1"
-        },
-        {
-         "type": "text",
-         "text": "Identyfikator lokalny obiektu przestrzennego, o którym mowa w § 6 ust. 1 pkt 2 rozporządzenia, przypisany przez dostawcę danych. 14 Definicja: Unikalność identyfikatora w przestrzeni nazw gwarantuje dostawca zbioru danych przestrzennych."
-        },
-        {
-         "type": "text",
-         "text": "15 Atrybut: wersjaId"
-        },
-        {
-         "type": "text",
-         "text": "16 Nazwa (pełna): identyfikator wersji"
-        },
-        {
-         "type": "text",
-         "text": "17 Dziedzina: Swobodny tekst."
-        },
-        {
-         "type": "text",
-         "text": "18 Liczność: 0..1"
-        },
-        {
-         "type": "text",
-         "text": "Identyfikator poszczególnej wersji obiektu przestrzennego, o którym mowa w § 6 ust. 1 pkt 3 rozporządzenia, przypisany przez dostawcę danych. 19 Definicja: W zestawie wszystkich wersji danego obiektu przestrzennego identyfikator wersji jest unikalny."
-        },
-        {
-         "type": "text",
-         "text": "2.11. Lista kodowa: „Typ aktu planowania przestrzennego”"
-        },
-        {
-         "type": "text",
-         "text": "1 Klasa: TypAktuPlanowaniaPrzestrzennegoKod"
-        },
-        {
-         "type": "text",
-         "text": "2 Nazwa (pełna): typ aktu planowania przestrzennego"
-        },
-        {
-         "type": "text",
-         "text": "3 Definicja: Klasyfikacja aktów planowania przestrzennego ze względu na ich zawartość oraz tryb tworzenia i uchwalenia, a także organ odpowiedzialny za jego uchwalenie."
-        },
-        {
-         "type": "text",
-         "text": "4 Stereotypy: «CodeList»"
-        },
-        {
-         "type": "text",
-         "text": "5 Wartość: planZagospodarowaniaPrzestrzennegoWojewodztwa"
-        },
-        {
-         "type": "text",
-         "text": "6 Nazwa (pełna): plan zagospodarowania przestrzennego województwa"
-        },
-        {
-         "type": "text",
-         "text": "7 Definicja: Akt planowania przestrzennego, o którym mowa w art. 38 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
-        },
-        {
-         "type": "text",
-         "text": "8 Wartość: planOgolnyGminy"
-        },
-        {
-         "type": "text",
-         "text": "9 Nazwa (pełna): plan ogólny gminy"
-        },
-        {
-         "type": "text",
-         "text": "10 Definicja: Akt planowania przestrzennego, o którym mowa w art. 13a ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
-        },
-        {
-         "type": "text",
-         "text": "11 Wartość: miejscowyPlanZagospodarowaniaPrzestrzennego"
-        },
-        {
-         "type": "text",
-         "text": "12 Nazwa (pełna): miejscowy plan zagospodarowania przestrzennego"
-        },
-        {
-         "type": "text",
-         "text": "13 Definicja: Akt planowania przestrzennego, o którym mowa w art. 14 ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
-        },
-        {
-         "type": "text",
-         "text": "14 Wartość: zintegrowanyPlanInwestycyjny"
-        },
-        {
-         "type": "text",
-         "text": "15 Nazwa (pełna): zintegrowany plan inwestycyjny"
-        },
-        {
-         "type": "text",
-         "text": "16 Definicja: Akt planowania przestrzennego, o którym mowa w art. 37ea ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
-        },
-        {
-         "type": "text",
-         "text": "17 Wartość: miejscowyPlanRewitalizacji"
-        },
-        {
-         "type": "text",
-         "text": "18 Nazwa (pełna): miejscowy plan rewitalizacji"
-        },
-        {
-         "type": "text",
-         "text": "19 Definicja: Akt planowania przestrzennego, o którym mowa w art. 37f ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
-        },
-        {
-         "type": "text",
-         "text": "20 Wartość: miejscowyPlanOdbudowy"
-        },
-        {
-         "type": "text",
-         "text": "21 Nazwa (pełna): miejscowy plan odbudowy"
-        },
-        {
-         "type": "text",
-         "text": "Miejscowy plan odbudowy obiektów budowlanych, o którym mowa w art. 13d 22 Definicja: ustawy z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu."
-        },
-        {
-         "type": "text",
-         "text": "23 Wartość: audytKrajobrazowy"
-        },
-        {
-         "type": "text",
-         "text": "24 Nazwa (pełna): audyt krajobrazowy"
-        },
-        {
-         "type": "text",
-         "text": "25 Definicja: Akt planowania przestrzennego, o którym mowa w art. 38a ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
-        },
-        {
-         "type": "text",
-         "text": "26 Wartość: uchwalaKrajobrazowa"
-        },
-        {
-         "type": "text",
-         "text": "27 Nazwa (pełna): uchwała krajobrazowa Uchwała ustalająca zasady i warunki sytuowania obiektów małej architektury, tablic reklamowych i urządzeń reklamowych oraz ogrodzeń, ich gabaryty, 28 Definicja: standardy jakościowe oraz rodzaje materiałów budowlanych, z jakich mogą być wykonane, o której mowa w art. 37a ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
-        },
-        {
-         "type": "text",
-         "text": "2.12. Lista kodowa: „Dziennik Urzędowy”"
-        },
-        {
-         "type": "text",
-         "text": "1 Klasa: DziennikUrzedowyKod"
-        },
-        {
-         "type": "text",
-         "text": "2 Nazwa (pełna): dziennik urzędowy"
-        },
-        {
-         "type": "text",
-         "text": "3 Definicja: Klasyfikacja dzienników urzędowych ze względu na organ wydający."
-        },
-        {
-         "type": "text",
-         "text": "4 Stereotypy: «CodeList»"
-        },
-        {
-         "type": "text",
-         "text": "5 Wartość: dziennikUstaw"
-        },
-        {
-         "type": "text",
-         "text": "6 Nazwa (pełna): Dziennik Ustaw"
-        },
-        {
-         "type": "text",
-         "text": "7 Definicja: Dziennik Ustaw."
-        },
-        {
-         "type": "text",
-         "text": "8 Wartość: monitorPolski"
-        },
-        {
-         "type": "text",
-         "text": "9 Nazwa (pełna): Monitor Polski"
-        },
-        {
-         "type": "text",
-         "text": "10 Definicja: Monitor Polski."
-        },
-        {
-         "type": "text",
-         "text": "11 Wartość: dziennikResortowy"
-        },
-        {
-         "type": "text",
-         "text": "12 Nazwa (pełna): Dziennik urzędowy organu władzy państwowej"
-        },
-        {
-         "type": "text",
-         "text": "13 Definicja: Dziennik urzędowy organu władzy państwowej."
-        },
-        {
-         "type": "text",
-         "text": "14 Wartość: dziennikUrzedowyUniiEuropejskiej"
-        },
-        {
-         "type": "text",
-         "text": "15 Nazwa (pełna): Dziennik Urzędowy Unii Europejskiej"
-        },
-        {
-         "type": "text",
-         "text": "16 Definicja: Dziennik Urzędowy Unii Europejskiej."
-        },
-        {
-         "type": "text",
-         "text": "17 Wartość: dziennikUrzedowyWojDolnoslaskiego"
-        },
-        {
-         "type": "text",
-         "text": "18 Nazwa (pełna): Dziennik Urzędowy Woj. Dolnośląskiego"
-        },
-        {
-         "type": "text",
-         "text": "19 Definicja: Dziennik Urzędowy Woj. Dolnośląskiego."
-        },
-        {
-         "type": "text",
-         "text": "20 Wartość: dziennikUrzedowyWojKujawskoPomorskiego"
-        },
-        {
-         "type": "text",
-         "text": "21 Nazwa (pełna): Dziennik Urzędowy Woj. Kujawsko-Pomorskiego"
-        },
-        {
-         "type": "text",
-         "text": "22 Definicja: Dziennik Urzędowy Woj. Kujawsko-Pomorskiego."
-        },
-        {
-         "type": "text",
-         "text": "23 Wartość: dziennikUrzedowyWojLubelskiego"
-        },
-        {
-         "type": "text",
-         "text": "24 Nazwa (pełna): Dziennik Urzędowy Woj. Lubelskiego"
-        },
-        {
-         "type": "text",
-         "text": "25 Definicja: Dziennik Urzędowy Woj. Lubelskiego."
-        },
-        {
-         "type": "text",
-         "text": "26 Wartość: dziennikUrzedowyWojLubuskiego"
-        },
-        {
-         "type": "text",
-         "text": "27 Nazwa (pełna): Dziennik Urzędowy Woj. Lubuskiego"
-        },
-        {
-         "type": "text",
-         "text": "28 Definicja: Dziennik Urzędowy Woj. Lubuskiego."
-        },
-        {
-         "type": "text",
-         "text": "29 Wartość: dziennikUrzedowyWojLodzkiego"
-        },
-        {
-         "type": "text",
-         "text": "30 Nazwa (pełna): Dziennik Urzędowy Woj. Łódzkiego"
-        },
-        {
-         "type": "text",
-         "text": "31 Definicja: Dziennik Urzędowy Woj. Łódzkiego."
-        },
-        {
-         "type": "text",
-         "text": "32 Wartość: dziennikUrzedowyWojMalopolskiego"
-        },
-        {
-         "type": "text",
-         "text": "33 Nazwa (pełna): Dziennik Urzędowy Woj. Małopolskiego 34 Definicja: Dziennik Urzędowy Woj. Małopolskiego."
-        },
-        {
-         "type": "text",
-         "text": "35 Wartość: dziennikUrzedowyWojMazowieckiego"
-        },
-        {
-         "type": "text",
-         "text": "36 Nazwa (pełna): Dziennik Urzędowy Woj. Mazowieckiego"
-        },
-        {
-         "type": "text",
-         "text": "37 Definicja: Dziennik Urzędowy Woj. Mazowieckiego."
-        },
-        {
-         "type": "text",
-         "text": "38 Wartość: dziennikUrzedowyWojOpolskiego"
-        },
-        {
-         "type": "text",
-         "text": "39 Nazwa (pełna): Dziennik Urzędowy Woj. Opolskiego"
-        },
-        {
-         "type": "text",
-         "text": "40 Definicja: Dziennik Urzędowy Woj. Opolskiego."
-        },
-        {
-         "type": "text",
-         "text": "41 Wartość: dziennikUrzedowyWojPodkarpackiego"
-        },
-        {
-         "type": "text",
-         "text": "42 Nazwa (pełna): Dziennik Urzędowy Woj. Podkarpackiego"
-        },
-        {
-         "type": "text",
-         "text": "43 Definicja: Dziennik Urzędowy Woj. Podkarpackiego."
-        },
-        {
-         "type": "text",
-         "text": "44 Wartość: dziennikUrzedowyWojPodlaskiego"
-        },
-        {
-         "type": "text",
-         "text": "45 Nazwa (pełna): Dziennik Urzędowy Woj. Podlaskiego"
-        },
-        {
-         "type": "text",
-         "text": "46 Definicja: Dziennik Urzędowy Woj. Podlaskiego."
-        },
-        {
-         "type": "text",
-         "text": "47 Wartość: dziennikUrzedowyWojPomorskiego"
-        },
-        {
-         "type": "text",
-         "text": "48 Nazwa (pełna): Dziennik Urzędowy Woj. Pomorskiego"
-        },
-        {
-         "type": "text",
-         "text": "49 Definicja: Dziennik Urzędowy Woj. Pomorskiego."
-        },
-        {
-         "type": "text",
-         "text": "50 Wartość: dziennikUrzedowyWojSlaskiego"
-        },
-        {
-         "type": "text",
-         "text": "51 Nazwa (pełna): Dziennik Urzędowy Woj. Śląskiego"
-        },
-        {
-         "type": "text",
-         "text": "52 Definicja: Dziennik Urzędowy Woj. Śląskiego."
-        },
-        {
-         "type": "text",
-         "text": "53 Wartość: dziennikUrzedowyWojSwietokrzyskiego"
-        },
-        {
-         "type": "text",
-         "text": "54 Nazwa (pełna): Dziennik Urzędowy Woj. Świętokrzyskiego"
-        },
-        {
-         "type": "text",
-         "text": "55 Definicja: Dziennik Urzędowy Woj. Świętokrzyskiego."
-        },
-        {
-         "type": "text",
-         "text": "56 Wartość: dziennikUrzedowyWojWarminskoMazurskiego"
-        },
-        {
-         "type": "text",
-         "text": "57 Nazwa (pełna): Dziennik Urzędowy Woj. Warmińsko-Mazurskiego"
-        },
-        {
-         "type": "text",
-         "text": "58 Definicja: Dziennik Urzędowy Woj. Warmińsko-Mazurskiego."
-        },
-        {
-         "type": "text",
-         "text": "59 Wartość: dziennikUrzedowyWojWielkopolskiego"
-        },
-        {
-         "type": "text",
-         "text": "60 Nazwa (pełna): Dziennik Urzędowy Woj. Wielkopolskiego"
-        },
-        {
-         "type": "text",
-         "text": "61 Definicja: Dziennik Urzędowy Woj. Wielkopolskiego."
-        },
-        {
-         "type": "text",
-         "text": "62 Wartość: dziennikUrzedowyWojZachodniopomorskiego"
-        },
-        {
-         "type": "text",
-         "text": "63 Nazwa (pełna): Dziennik Urzędowy Woj. Zachodniopomorskiego"
-        },
-        {
-         "type": "text",
-         "text": "64 Definicja: Dziennik Urzędowy Woj. Zachodniopomorskiego."
-        },
-        {
-         "type": "text",
-         "text": "2.13. Lista kodowa: „Poziom planu zagospodarowania przestrzennego”"
-        },
-        {
-         "type": "text",
-         "text": "1 Klasa: LevelOfSpatialPlanValue"
-        },
-        {
-         "type": "text",
-         "text": "2 Nazwa (pełna): poziom planu zagospodarowania przestrzennego"
-        },
-        {
-         "type": "text",
-         "text": "3 Definicja: Hierarchia terytorialna planu."
-        },
-        {
-         "type": "text",
-         "text": "4 Stereotypy: «CodeList» Lista kodowa „LevelOfSpatialPlanValue”, o której mowa w ust. 4.7.1.2 załącznika V do rozporządzenia Komisji (UE) nr 1089/2010 z dnia 23 listopada 2010 r. w sprawie wykonania 5 dyrektywy 2007/2/WE Parlamentu Europejskiego i Rady w zakresie interoperacyjności zbiorów i usług danych przestrzennych (Dz. Urz. UE L 323 z 08.12.2010, str. 11, z późn. zm.)."
-        },
-        {
-         "type": "text",
-         "text": "2.14. Lista kodowa: „Etap procesu ogólny”"
-        },
-        {
-         "type": "text",
-         "text": "1 Klasa: ProcessStepGeneralValue"
-        },
-        {
-         "type": "text",
-         "text": "2 Nazwa (pełna): etap procesu ogólny"
-        },
-        {
-         "type": "text",
-         "text": "3 Definicja: Ogólne wskazanie etapu procesu planowania."
-        },
-        {
-         "type": "text",
-         "text": "4 Stereotypy: «CodeList»"
-        },
-        {
-         "type": "text",
-         "text": "Lista kodowa „ProcessStepGeneralValue”, o której mowa w ust. 4.7.1.2 załącznika V 5 do rozporządzenia Komisji (UE) nr 1089/2010 z dnia 23 listopada 2010 r. w sprawie wykonania dyrektywy 2007/2/WE Parlamentu Europejskiego i Rady w zakresie interoperacyjności zbiorów i usług danych przestrzennych."
-        },
-        {
-         "type": "text",
-         "text": "2.15. Lista kodowa: „Typ kodu daty”"
-        },
-        {
-         "type": "text",
-         "text": "1 Klasa: TypKoduDatyKod"
-        },
-        {
-         "type": "text",
-         "text": "2 Nazwa (pełna): typ kodu daty"
-        },
-        {
-         "type": "text",
-         "text": "3 Definicja: Identyfikacja dnia, w którym wystąpiło dane zdarzenie."
-        },
-        {
-         "type": "text",
-         "text": "4 Stereotypy: «CodeList»"
-        },
-        {
-         "type": "text",
-         "text": "5 Wartość: Utworzenie"
-        },
-        {
-         "type": "text",
-         "text": "6 Nazwa (pełna): Utworzenie"
-        },
-        {
-         "type": "text",
-         "text": "7 Definicja: Data utworzenia zasobu."
-        },
-        {
-         "type": "text",
-         "text": "8 Wartość: Publikacja"
-        },
-        {
-         "type": "text",
-         "text": "9 Nazwa (pełna): Publikacja"
-        },
-        {
-         "type": "text",
-         "text": "10 Definicja: Data publikacji lub dopuszczenia do użytkowania zasobu."
-        },
-        {
-         "type": "text",
-         "text": "11 Wartość: Przeglad"
-        },
-        {
-         "type": "text",
-         "text": "12 Nazwa (pełna): Przegląd"
-        },
-        {
-         "type": "text",
-         "text": "13 Definicja: Data przeglądu zasobu (sprawdzenia lub sprawdzenia i ulepszenia, lub poprawienia)."
-        },
-        {
-         "type": "text",
-         "text": "2.16. Lista kodowa: „Rodzaj strefy planistycznej”"
-        },
-        {
-         "type": "text",
-         "text": "1 Klasa: RodzajStrefyPlanistycznejKod"
-        },
-        {
-         "type": "text",
-         "text": "2 Nazwa (pełna): rodzaj strefy planistycznej"
-        },
-        {
-         "type": "text",
-         "text": "Klasyfikacja stref planistycznych stosowanych w planie ogólnym gminy, 3 Definicja: określonych w art. 13c ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
-        },
-        {
-         "type": "text",
-         "text": "4 Stereotypy: «CodeList»"
-        },
-        {
-         "type": "text",
-         "text": "5 Wartość: strefaWielofunkcyjnaZZabudowaMieszkaniowaWielorodzinna"
-        },
-        {
-         "type": "text",
-         "text": "6 Nazwa (pełna): strefa wielofunkcyjna z zabudową mieszkaniową wielorodzinną"
-        },
-        {
-         "type": "text",
-         "text": "7 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym. 8 Wartość: strefaWielofunkcyjnaZZabudowaMieszkaniowaJednorodzinna 9 Nazwa (pełna): strefa wielofunkcyjna z zabudową mieszkaniową jednorodzinną"
-        },
-        {
-         "type": "text",
-         "text": "10 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
-        },
-        {
-         "type": "text",
-         "text": "11 Wartość: strefaWielofunkcyjnaZZabudowaZagrodowa"
-        },
-        {
-         "type": "text",
-         "text": "12 Nazwa (pełna): strefa wielofunkcyjna z zabudową zagrodową"
-        },
-        {
-         "type": "text",
-         "text": "13 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 3 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
-        },
-        {
-         "type": "text",
-         "text": "14 Wartość: strefaUslugowa"
-        },
-        {
-         "type": "text",
-         "text": "15 Nazwa (pełna): strefa usługowa"
-        },
-        {
-         "type": "text",
-         "text": "16 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 4 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
-        },
-        {
-         "type": "text",
-         "text": "17 Wartość: strefaHandluWielkopowierzchniowego"
-        },
-        {
-         "type": "text",
-         "text": "18 Nazwa (pełna): strefa handlu wielkopowierzchniowego"
-        },
-        {
-         "type": "text",
-         "text": "19 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 5 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
-        },
-        {
-         "type": "text",
-         "text": "20 Wartość: strefaGospodarcza"
-        },
-        {
-         "type": "text",
-         "text": "21 Nazwa (pełna): strefa gospodarcza"
-        },
-        {
-         "type": "text",
-         "text": "22 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 6 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
-        },
-        {
-         "type": "text",
-         "text": "23 Wartość: strefaProdukcjiRolniczej"
-        },
-        {
-         "type": "text",
-         "text": "24 Nazwa (pełna): strefa produkcji rolniczej"
-        },
-        {
-         "type": "text",
-         "text": "25 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 7 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
-        },
-        {
-         "type": "text",
-         "text": "26 Wartość: strefaInfrastrukturalna"
-        },
-        {
-         "type": "text",
-         "text": "27 Nazwa (pełna): strefa infrastrukturalna"
-        },
-        {
-         "type": "text",
-         "text": "28 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 8 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
-        },
-        {
-         "type": "text",
-         "text": "29 Wartość: strefaZieleniIRekreacji"
-        },
-        {
-         "type": "text",
-         "text": "30 Nazwa (pełna): strefa zieleni i rekreacji"
-        },
-        {
-         "type": "text",
-         "text": "31 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 9 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
-        },
-        {
-         "type": "text",
-         "text": "32 Wartość: strefaCmentarzy"
-        },
-        {
-         "type": "text",
-         "text": "33 Nazwa (pełna): strefa cmentarzy"
-        },
-        {
-         "type": "text",
-         "text": "34 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 10 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
-        },
-        {
-         "type": "text",
-         "text": "35 Wartość: strefaGornictwa"
-        },
-        {
-         "type": "text",
-         "text": "36 Nazwa (pełna): strefa górnictwa"
-        },
-        {
-         "type": "text",
-         "text": "37 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 11 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
-        },
-        {
-         "type": "text",
-         "text": "38 Wartość: strefaOtwarta"
-        },
-        {
-         "type": "text",
-         "text": "39 Nazwa (pełna): strefa otwarta"
-        },
-        {
-         "type": "text",
-         "text": "40 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 12 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
-        },
-        {
-         "type": "text",
-         "text": "41 Wartość: strefaKomunikacyjna"
-        },
-        {
-         "type": "text",
-         "text": "42 Nazwa (pełna): strefa komunikacyjna"
-        },
-        {
-         "type": "text",
-         "text": "43 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 13 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
-        },
-        {
-         "type": "text",
-         "text": "2.17. Lista kodowa: „Charakter regulacji”"
-        },
-        {
-         "type": "text",
-         "text": "1 Klasa: RegulationNatureValue"
-        },
-        {
-         "type": "text",
-         "text": "2 Nazwa (pełna): charakter regulacji"
-        },
-        {
-         "type": "text",
-         "text": "3 Definicja: Charakter prawny obiektu przestrzennego."
-        },
-        {
-         "type": "text",
-         "text": "4 Stereotypy: «CodeList»"
-        },
-        {
-         "type": "text",
-         "text": "Lista kodowa „RegulationNatureValue”, o której mowa w ust. 4.7.1.3 załącznika V do rozporządzenia 5 Komisji (UE) nr 1089/2010 z dnia 23 listopada 2010 r. w sprawie wykonania dyrektywy 2007/2/WE Parlamentu Europejskiego i Rady w zakresie interoperacyjności zbiorów i usług danych przestrzennych."
-        },
-        {
-         "type": "text",
-         "text": "2.18. Typ danych: „Mapa podkładowa”"
-        },
-        {
-         "type": "text",
-         "text": "1 Klasa: MapaPodkladowa"
-        },
-        {
-         "type": "text",
-         "text": "2 Nazwa (pełna): mapa podkładowa"
-        },
-        {
-         "type": "text",
-         "text": "3 Definicja: Informacje dotyczące mapy użytej jako dokument podkładowy w części graficznej aktu planowania przestrzennego."
-        },
-        {
-         "type": "text",
-         "text": "4 Stereotypy: «DataType»"
-        },
-        {
-         "type": "text",
-         "text": "5 Atrybut: data"
-        },
-        {
-         "type": "text",
-         "text": "6 Nazwa (pełna): data"
-        },
-        {
-         "type": "text",
-         "text": "7 Dziedzina: Dziedziną elementu jest Data dzienna opisana wartościami dla roku, miesiąca i dnia."
-        },
-        {
-         "type": "text",
-         "text": "8 Liczność: 1"
-        },
-        {
-         "type": "text",
-         "text": "Data aktualności lub opracowania użytej mapy podkładowej. 9 Definicja: Należy podać datę aktualności użytej mapy podkładowej, a w przypadku braku tej daty, należy podać datę opracowania mapy podkładowej."
-        },
-        {
-         "type": "text",
-         "text": "10 Atrybut: referencja"
-        },
-        {
-         "type": "text",
-         "text": "11 Nazwa (pełna): referencja"
-        },
-        {
-         "type": "text",
-         "text": "12 Dziedzina: Swobodny tekst."
-        },
-        {
-         "type": "text",
-         "text": "13 Liczność: 1"
-        },
-        {
-         "type": "text",
-         "text": "14 Definicja: Odniesienie do użytej mapy podkładowej."
-        },
-        {
-         "type": "text",
-         "text": "15 Atrybut: lacze"
-        },
-        {
-         "type": "text",
-         "text": "16 Nazwa (pełna): łącze"
-        },
-        {
-         "type": "text",
-         "text": "17 Dziedzina: URI"
-        },
-        {
-         "type": "text",
-         "text": "18 Liczność: 0..1"
-        },
-        {
-         "type": "text",
-         "text": "19 Definicja: Łącze (adres URI), pod którym udostępniona jest mapa podkładowa."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "inv: self.nazwa = 'strefaWielofunkcyjnaZZabudowaMieszkaniowaWielorodzinna' or self.nazwa = 'strefaWielofunkcyjnaZZabudowaMieszkaniowaJednorodzinna' 63 OCL: or self.nazwa = 'strefaWielofunkcyjnaZZabudowaZagrodowa' or self.nazwa = 'strefaUslugowa ' or self.nazwa = 'strefaHandluWielkopowierzchniowego' or self.nazwa = 'strefaGospodarcza' or self.nazwa = 'strefaProdukcjiRolniczej' implies self.maksWysokoscZabudowy->notEmpty()"
+      },
+      {
+       "type": "text",
+       "text": "64 Ograniczenie: minUdzialPowierzchniBiologicznieCzynnejZasada Wyznaczenie minimalnego udział powierzchni biologicznie czynnej jest obligatoryjne w strefach planistycznych: – strefa wielofunkcyjna z zabudową mieszkaniową wielorodzinną, – strefa wielofunkcyjna z zabudową mieszkaniową jednorodzinną, – strefa wielofunkcyjna z zabudową zagrodową, 65 Język naturalny: – strefa usługowa, – strefa handlu wielkopowierzchniowego, – strefa gospodarcza, – strefa produkcji rolniczej, – strefa infrastrukturalna, – strefa zieleni i rekreacji, – strefa cmentarzy."
+      },
+      {
+       "type": "text",
+       "text": "inv: self.nazwa = 'strefaWielofunkcyjnaZZabudowaMieszkaniowaWielorodzinna' or self.nazwa = 'strefaWielofunkcyjnaZZabudowaMieszkaniowaJednorodzinna' or self.nazwa = 'strefaWielofunkcyjnaZZabudowaZagrodowa' or self.nazwa = 66 OCL: 'strefaUslugowa ' or self.nazwa = 'strefaHandluWielkopowierzchniowego' or self.nazwa = 'strefaGospodarcza' or self.nazwa = 'strefaProdukcjiRolniczej' or self.nazwa = 'strefaInfrastrukturalna' or self.nazwa = 'strefaZieleniIRekreacji' or self.nazwa = 'strefaCmentarzy' implies self.minUdzialPowierzchniBiologicznieCzynnej ->notEmpty()"
+      },
+      {
+       "type": "text",
+       "text": "2.10. Typ danych: „Identyfikator”"
+      },
+      {
+       "type": "text",
+       "text": "1 Klasa: Identyfikator"
+      },
+      {
+       "type": "text",
+       "text": "2 Nazwa (pełna): identyfikator"
+      },
+      {
+       "type": "text",
+       "text": "Zewnętrzny jednoznaczny, niezmienny identyfikator obiektu przestrzennego 3 Definicja: publikowany przez dostawcę zbioru danych przestrzennych. Identyfikator ten może zostać wykorzystany przez zewnętrzne systemy lub aplikacje w celu odniesienia do obiektu."
+      },
+      {
+       "type": "text",
+       "text": "4 Stereotypy: «DataType»"
+      },
+      {
+       "type": "text",
+       "text": "5 Atrybut: przestrzenNazw"
+      },
+      {
+       "type": "text",
+       "text": "6 Nazwa (pełna): przestrzeń nazw"
+      },
+      {
+       "type": "text",
+       "text": "7 Dziedzina: Swobodny tekst."
+      },
+      {
+       "type": "text",
+       "text": "8 Liczność: 1"
+      },
+      {
+       "type": "text",
+       "text": "Przestrzeń nazw identyfikująca w sposób jednoznaczny źródło danych obiektu przestrzennego, o której mowa w § 6 ust. 1 pkt 1 rozporządzenia. 9 Definicja: Wartość atrybutu przestrzeń nazw powinna jednoznacznie identyfikować zbiór danych przestrzennych, do którego należy instancja typu obiektu przestrzennego."
+      },
+      {
+       "type": "text",
+       "text": "10 Atrybut: lokalnyId"
+      },
+      {
+       "type": "text",
+       "text": "11 Nazwa (pełna): identyfikator lokalny"
+      },
+      {
+       "type": "text",
+       "text": "12 Dziedzina: Swobodny tekst."
+      },
+      {
+       "type": "text",
+       "text": "13 Liczność: 1"
+      },
+      {
+       "type": "text",
+       "text": "Identyfikator lokalny obiektu przestrzennego, o którym mowa w § 6 ust. 1 pkt 2 rozporządzenia, przypisany przez dostawcę danych. 14 Definicja: Unikalność identyfikatora w przestrzeni nazw gwarantuje dostawca zbioru danych przestrzennych."
+      },
+      {
+       "type": "text",
+       "text": "15 Atrybut: wersjaId"
+      },
+      {
+       "type": "text",
+       "text": "16 Nazwa (pełna): identyfikator wersji"
+      },
+      {
+       "type": "text",
+       "text": "17 Dziedzina: Swobodny tekst."
+      },
+      {
+       "type": "text",
+       "text": "18 Liczność: 0..1"
+      },
+      {
+       "type": "text",
+       "text": "Identyfikator poszczególnej wersji obiektu przestrzennego, o którym mowa w § 6 ust. 1 pkt 3 rozporządzenia, przypisany przez dostawcę danych. 19 Definicja: W zestawie wszystkich wersji danego obiektu przestrzennego identyfikator wersji jest unikalny."
+      },
+      {
+       "type": "text",
+       "text": "2.11. Lista kodowa: „Typ aktu planowania przestrzennego”"
+      },
+      {
+       "type": "text",
+       "text": "1 Klasa: TypAktuPlanowaniaPrzestrzennegoKod"
+      },
+      {
+       "type": "text",
+       "text": "2 Nazwa (pełna): typ aktu planowania przestrzennego"
+      },
+      {
+       "type": "text",
+       "text": "3 Definicja: Klasyfikacja aktów planowania przestrzennego ze względu na ich zawartość oraz tryb tworzenia i uchwalenia, a także organ odpowiedzialny za jego uchwalenie."
+      },
+      {
+       "type": "text",
+       "text": "4 Stereotypy: «CodeList»"
+      },
+      {
+       "type": "text",
+       "text": "5 Wartość: planZagospodarowaniaPrzestrzennegoWojewodztwa"
+      },
+      {
+       "type": "text",
+       "text": "6 Nazwa (pełna): plan zagospodarowania przestrzennego województwa"
+      },
+      {
+       "type": "text",
+       "text": "7 Definicja: Akt planowania przestrzennego, o którym mowa w art. 38 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
+      },
+      {
+       "type": "text",
+       "text": "8 Wartość: planOgolnyGminy"
+      },
+      {
+       "type": "text",
+       "text": "9 Nazwa (pełna): plan ogólny gminy"
+      },
+      {
+       "type": "text",
+       "text": "10 Definicja: Akt planowania przestrzennego, o którym mowa w art. 13a ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
+      },
+      {
+       "type": "text",
+       "text": "11 Wartość: miejscowyPlanZagospodarowaniaPrzestrzennego"
+      },
+      {
+       "type": "text",
+       "text": "12 Nazwa (pełna): miejscowy plan zagospodarowania przestrzennego"
+      },
+      {
+       "type": "text",
+       "text": "13 Definicja: Akt planowania przestrzennego, o którym mowa w art. 14 ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
+      },
+      {
+       "type": "text",
+       "text": "14 Wartość: zintegrowanyPlanInwestycyjny"
+      },
+      {
+       "type": "text",
+       "text": "15 Nazwa (pełna): zintegrowany plan inwestycyjny"
+      },
+      {
+       "type": "text",
+       "text": "16 Definicja: Akt planowania przestrzennego, o którym mowa w art. 37ea ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
+      },
+      {
+       "type": "text",
+       "text": "17 Wartość: miejscowyPlanRewitalizacji"
+      },
+      {
+       "type": "text",
+       "text": "18 Nazwa (pełna): miejscowy plan rewitalizacji"
+      },
+      {
+       "type": "text",
+       "text": "19 Definicja: Akt planowania przestrzennego, o którym mowa w art. 37f ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
+      },
+      {
+       "type": "text",
+       "text": "20 Wartość: miejscowyPlanOdbudowy"
+      },
+      {
+       "type": "text",
+       "text": "21 Nazwa (pełna): miejscowy plan odbudowy"
+      },
+      {
+       "type": "text",
+       "text": "Miejscowy plan odbudowy obiektów budowlanych, o którym mowa w art. 13d 22 Definicja: ustawy z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu."
+      },
+      {
+       "type": "text",
+       "text": "23 Wartość: audytKrajobrazowy"
+      },
+      {
+       "type": "text",
+       "text": "24 Nazwa (pełna): audyt krajobrazowy"
+      },
+      {
+       "type": "text",
+       "text": "25 Definicja: Akt planowania przestrzennego, o którym mowa w art. 38a ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
+      },
+      {
+       "type": "text",
+       "text": "26 Wartość: uchwalaKrajobrazowa"
+      },
+      {
+       "type": "text",
+       "text": "27 Nazwa (pełna): uchwała krajobrazowa Uchwała ustalająca zasady i warunki sytuowania obiektów małej architektury, tablic reklamowych i urządzeń reklamowych oraz ogrodzeń, ich gabaryty, 28 Definicja: standardy jakościowe oraz rodzaje materiałów budowlanych, z jakich mogą być wykonane, o której mowa w art. 37a ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
+      },
+      {
+       "type": "text",
+       "text": "2.12. Lista kodowa: „Dziennik Urzędowy”"
+      },
+      {
+       "type": "text",
+       "text": "1 Klasa: DziennikUrzedowyKod"
+      },
+      {
+       "type": "text",
+       "text": "2 Nazwa (pełna): dziennik urzędowy"
+      },
+      {
+       "type": "text",
+       "text": "3 Definicja: Klasyfikacja dzienników urzędowych ze względu na organ wydający."
+      },
+      {
+       "type": "text",
+       "text": "4 Stereotypy: «CodeList»"
+      },
+      {
+       "type": "text",
+       "text": "5 Wartość: dziennikUstaw"
+      },
+      {
+       "type": "text",
+       "text": "6 Nazwa (pełna): Dziennik Ustaw"
+      },
+      {
+       "type": "text",
+       "text": "7 Definicja: Dziennik Ustaw."
+      },
+      {
+       "type": "text",
+       "text": "8 Wartość: monitorPolski"
+      },
+      {
+       "type": "text",
+       "text": "9 Nazwa (pełna): Monitor Polski"
+      },
+      {
+       "type": "text",
+       "text": "10 Definicja: Monitor Polski."
+      },
+      {
+       "type": "text",
+       "text": "11 Wartość: dziennikResortowy"
+      },
+      {
+       "type": "text",
+       "text": "12 Nazwa (pełna): Dziennik urzędowy organu władzy państwowej"
+      },
+      {
+       "type": "text",
+       "text": "13 Definicja: Dziennik urzędowy organu władzy państwowej."
+      },
+      {
+       "type": "text",
+       "text": "14 Wartość: dziennikUrzedowyUniiEuropejskiej"
+      },
+      {
+       "type": "text",
+       "text": "15 Nazwa (pełna): Dziennik Urzędowy Unii Europejskiej"
+      },
+      {
+       "type": "text",
+       "text": "16 Definicja: Dziennik Urzędowy Unii Europejskiej."
+      },
+      {
+       "type": "text",
+       "text": "17 Wartość: dziennikUrzedowyWojDolnoslaskiego"
+      },
+      {
+       "type": "text",
+       "text": "18 Nazwa (pełna): Dziennik Urzędowy Woj. Dolnośląskiego"
+      },
+      {
+       "type": "text",
+       "text": "19 Definicja: Dziennik Urzędowy Woj. Dolnośląskiego."
+      },
+      {
+       "type": "text",
+       "text": "20 Wartość: dziennikUrzedowyWojKujawskoPomorskiego"
+      },
+      {
+       "type": "text",
+       "text": "21 Nazwa (pełna): Dziennik Urzędowy Woj. Kujawsko-Pomorskiego"
+      },
+      {
+       "type": "text",
+       "text": "22 Definicja: Dziennik Urzędowy Woj. Kujawsko-Pomorskiego."
+      },
+      {
+       "type": "text",
+       "text": "23 Wartość: dziennikUrzedowyWojLubelskiego"
+      },
+      {
+       "type": "text",
+       "text": "24 Nazwa (pełna): Dziennik Urzędowy Woj. Lubelskiego"
+      },
+      {
+       "type": "text",
+       "text": "25 Definicja: Dziennik Urzędowy Woj. Lubelskiego."
+      },
+      {
+       "type": "text",
+       "text": "26 Wartość: dziennikUrzedowyWojLubuskiego"
+      },
+      {
+       "type": "text",
+       "text": "27 Nazwa (pełna): Dziennik Urzędowy Woj. Lubuskiego"
+      },
+      {
+       "type": "text",
+       "text": "28 Definicja: Dziennik Urzędowy Woj. Lubuskiego."
+      },
+      {
+       "type": "text",
+       "text": "29 Wartość: dziennikUrzedowyWojLodzkiego"
+      },
+      {
+       "type": "text",
+       "text": "30 Nazwa (pełna): Dziennik Urzędowy Woj. Łódzkiego"
+      },
+      {
+       "type": "text",
+       "text": "31 Definicja: Dziennik Urzędowy Woj. Łódzkiego."
+      },
+      {
+       "type": "text",
+       "text": "32 Wartość: dziennikUrzedowyWojMalopolskiego"
+      },
+      {
+       "type": "text",
+       "text": "33 Nazwa (pełna): Dziennik Urzędowy Woj. Małopolskiego 34 Definicja: Dziennik Urzędowy Woj. Małopolskiego."
+      },
+      {
+       "type": "text",
+       "text": "35 Wartość: dziennikUrzedowyWojMazowieckiego"
+      },
+      {
+       "type": "text",
+       "text": "36 Nazwa (pełna): Dziennik Urzędowy Woj. Mazowieckiego"
+      },
+      {
+       "type": "text",
+       "text": "37 Definicja: Dziennik Urzędowy Woj. Mazowieckiego."
+      },
+      {
+       "type": "text",
+       "text": "38 Wartość: dziennikUrzedowyWojOpolskiego"
+      },
+      {
+       "type": "text",
+       "text": "39 Nazwa (pełna): Dziennik Urzędowy Woj. Opolskiego"
+      },
+      {
+       "type": "text",
+       "text": "40 Definicja: Dziennik Urzędowy Woj. Opolskiego."
+      },
+      {
+       "type": "text",
+       "text": "41 Wartość: dziennikUrzedowyWojPodkarpackiego"
+      },
+      {
+       "type": "text",
+       "text": "42 Nazwa (pełna): Dziennik Urzędowy Woj. Podkarpackiego"
+      },
+      {
+       "type": "text",
+       "text": "43 Definicja: Dziennik Urzędowy Woj. Podkarpackiego."
+      },
+      {
+       "type": "text",
+       "text": "44 Wartość: dziennikUrzedowyWojPodlaskiego"
+      },
+      {
+       "type": "text",
+       "text": "45 Nazwa (pełna): Dziennik Urzędowy Woj. Podlaskiego"
+      },
+      {
+       "type": "text",
+       "text": "46 Definicja: Dziennik Urzędowy Woj. Podlaskiego."
+      },
+      {
+       "type": "text",
+       "text": "47 Wartość: dziennikUrzedowyWojPomorskiego"
+      },
+      {
+       "type": "text",
+       "text": "48 Nazwa (pełna): Dziennik Urzędowy Woj. Pomorskiego"
+      },
+      {
+       "type": "text",
+       "text": "49 Definicja: Dziennik Urzędowy Woj. Pomorskiego."
+      },
+      {
+       "type": "text",
+       "text": "50 Wartość: dziennikUrzedowyWojSlaskiego"
+      },
+      {
+       "type": "text",
+       "text": "51 Nazwa (pełna): Dziennik Urzędowy Woj. Śląskiego"
+      },
+      {
+       "type": "text",
+       "text": "52 Definicja: Dziennik Urzędowy Woj. Śląskiego."
+      },
+      {
+       "type": "text",
+       "text": "53 Wartość: dziennikUrzedowyWojSwietokrzyskiego"
+      },
+      {
+       "type": "text",
+       "text": "54 Nazwa (pełna): Dziennik Urzędowy Woj. Świętokrzyskiego"
+      },
+      {
+       "type": "text",
+       "text": "55 Definicja: Dziennik Urzędowy Woj. Świętokrzyskiego."
+      },
+      {
+       "type": "text",
+       "text": "56 Wartość: dziennikUrzedowyWojWarminskoMazurskiego"
+      },
+      {
+       "type": "text",
+       "text": "57 Nazwa (pełna): Dziennik Urzędowy Woj. Warmińsko-Mazurskiego"
+      },
+      {
+       "type": "text",
+       "text": "58 Definicja: Dziennik Urzędowy Woj. Warmińsko-Mazurskiego."
+      },
+      {
+       "type": "text",
+       "text": "59 Wartość: dziennikUrzedowyWojWielkopolskiego"
+      },
+      {
+       "type": "text",
+       "text": "60 Nazwa (pełna): Dziennik Urzędowy Woj. Wielkopolskiego"
+      },
+      {
+       "type": "text",
+       "text": "61 Definicja: Dziennik Urzędowy Woj. Wielkopolskiego."
+      },
+      {
+       "type": "text",
+       "text": "62 Wartość: dziennikUrzedowyWojZachodniopomorskiego"
+      },
+      {
+       "type": "text",
+       "text": "63 Nazwa (pełna): Dziennik Urzędowy Woj. Zachodniopomorskiego"
+      },
+      {
+       "type": "text",
+       "text": "64 Definicja: Dziennik Urzędowy Woj. Zachodniopomorskiego."
+      },
+      {
+       "type": "text",
+       "text": "2.13. Lista kodowa: „Poziom planu zagospodarowania przestrzennego”"
+      },
+      {
+       "type": "text",
+       "text": "1 Klasa: LevelOfSpatialPlanValue"
+      },
+      {
+       "type": "text",
+       "text": "2 Nazwa (pełna): poziom planu zagospodarowania przestrzennego"
+      },
+      {
+       "type": "text",
+       "text": "3 Definicja: Hierarchia terytorialna planu."
+      },
+      {
+       "type": "text",
+       "text": "4 Stereotypy: «CodeList» Lista kodowa „LevelOfSpatialPlanValue”, o której mowa w ust. 4.7.1.2 załącznika V do rozporządzenia Komisji (UE) nr 1089/2010 z dnia 23 listopada 2010 r. w sprawie wykonania 5 dyrektywy 2007/2/WE Parlamentu Europejskiego i Rady w zakresie interoperacyjności zbiorów i usług danych przestrzennych (Dz. Urz. UE L 323 z 08.12.2010, str. 11, z późn. zm.)."
+      },
+      {
+       "type": "text",
+       "text": "2.14. Lista kodowa: „Etap procesu ogólny”"
+      },
+      {
+       "type": "text",
+       "text": "1 Klasa: ProcessStepGeneralValue"
+      },
+      {
+       "type": "text",
+       "text": "2 Nazwa (pełna): etap procesu ogólny"
+      },
+      {
+       "type": "text",
+       "text": "3 Definicja: Ogólne wskazanie etapu procesu planowania."
+      },
+      {
+       "type": "text",
+       "text": "4 Stereotypy: «CodeList»"
+      },
+      {
+       "type": "text",
+       "text": "Lista kodowa „ProcessStepGeneralValue”, o której mowa w ust. 4.7.1.2 załącznika V 5 do rozporządzenia Komisji (UE) nr 1089/2010 z dnia 23 listopada 2010 r. w sprawie wykonania dyrektywy 2007/2/WE Parlamentu Europejskiego i Rady w zakresie interoperacyjności zbiorów i usług danych przestrzennych."
+      },
+      {
+       "type": "text",
+       "text": "2.15. Lista kodowa: „Typ kodu daty”"
+      },
+      {
+       "type": "text",
+       "text": "1 Klasa: TypKoduDatyKod"
+      },
+      {
+       "type": "text",
+       "text": "2 Nazwa (pełna): typ kodu daty"
+      },
+      {
+       "type": "text",
+       "text": "3 Definicja: Identyfikacja dnia, w którym wystąpiło dane zdarzenie."
+      },
+      {
+       "type": "text",
+       "text": "4 Stereotypy: «CodeList»"
+      },
+      {
+       "type": "text",
+       "text": "5 Wartość: Utworzenie"
+      },
+      {
+       "type": "text",
+       "text": "6 Nazwa (pełna): Utworzenie"
+      },
+      {
+       "type": "text",
+       "text": "7 Definicja: Data utworzenia zasobu."
+      },
+      {
+       "type": "text",
+       "text": "8 Wartość: Publikacja"
+      },
+      {
+       "type": "text",
+       "text": "9 Nazwa (pełna): Publikacja"
+      },
+      {
+       "type": "text",
+       "text": "10 Definicja: Data publikacji lub dopuszczenia do użytkowania zasobu."
+      },
+      {
+       "type": "text",
+       "text": "11 Wartość: Przeglad"
+      },
+      {
+       "type": "text",
+       "text": "12 Nazwa (pełna): Przegląd"
+      },
+      {
+       "type": "text",
+       "text": "13 Definicja: Data przeglądu zasobu (sprawdzenia lub sprawdzenia i ulepszenia, lub poprawienia)."
+      },
+      {
+       "type": "text",
+       "text": "2.16. Lista kodowa: „Rodzaj strefy planistycznej”"
+      },
+      {
+       "type": "text",
+       "text": "1 Klasa: RodzajStrefyPlanistycznejKod"
+      },
+      {
+       "type": "text",
+       "text": "2 Nazwa (pełna): rodzaj strefy planistycznej"
+      },
+      {
+       "type": "text",
+       "text": "Klasyfikacja stref planistycznych stosowanych w planie ogólnym gminy, 3 Definicja: określonych w art. 13c ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
+      },
+      {
+       "type": "text",
+       "text": "4 Stereotypy: «CodeList»"
+      },
+      {
+       "type": "text",
+       "text": "5 Wartość: strefaWielofunkcyjnaZZabudowaMieszkaniowaWielorodzinna"
+      },
+      {
+       "type": "text",
+       "text": "6 Nazwa (pełna): strefa wielofunkcyjna z zabudową mieszkaniową wielorodzinną"
+      },
+      {
+       "type": "text",
+       "text": "7 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym. 8 Wartość: strefaWielofunkcyjnaZZabudowaMieszkaniowaJednorodzinna 9 Nazwa (pełna): strefa wielofunkcyjna z zabudową mieszkaniową jednorodzinną"
+      },
+      {
+       "type": "text",
+       "text": "10 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
+      },
+      {
+       "type": "text",
+       "text": "11 Wartość: strefaWielofunkcyjnaZZabudowaZagrodowa"
+      },
+      {
+       "type": "text",
+       "text": "12 Nazwa (pełna): strefa wielofunkcyjna z zabudową zagrodową"
+      },
+      {
+       "type": "text",
+       "text": "13 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 3 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
+      },
+      {
+       "type": "text",
+       "text": "14 Wartość: strefaUslugowa"
+      },
+      {
+       "type": "text",
+       "text": "15 Nazwa (pełna): strefa usługowa"
+      },
+      {
+       "type": "text",
+       "text": "16 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 4 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
+      },
+      {
+       "type": "text",
+       "text": "17 Wartość: strefaHandluWielkopowierzchniowego"
+      },
+      {
+       "type": "text",
+       "text": "18 Nazwa (pełna): strefa handlu wielkopowierzchniowego"
+      },
+      {
+       "type": "text",
+       "text": "19 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 5 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
+      },
+      {
+       "type": "text",
+       "text": "20 Wartość: strefaGospodarcza"
+      },
+      {
+       "type": "text",
+       "text": "21 Nazwa (pełna): strefa gospodarcza"
+      },
+      {
+       "type": "text",
+       "text": "22 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 6 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
+      },
+      {
+       "type": "text",
+       "text": "23 Wartość: strefaProdukcjiRolniczej"
+      },
+      {
+       "type": "text",
+       "text": "24 Nazwa (pełna): strefa produkcji rolniczej"
+      },
+      {
+       "type": "text",
+       "text": "25 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 7 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
+      },
+      {
+       "type": "text",
+       "text": "26 Wartość: strefaInfrastrukturalna"
+      },
+      {
+       "type": "text",
+       "text": "27 Nazwa (pełna): strefa infrastrukturalna"
+      },
+      {
+       "type": "text",
+       "text": "28 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 8 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
+      },
+      {
+       "type": "text",
+       "text": "29 Wartość: strefaZieleniIRekreacji"
+      },
+      {
+       "type": "text",
+       "text": "30 Nazwa (pełna): strefa zieleni i rekreacji"
+      },
+      {
+       "type": "text",
+       "text": "31 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 9 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
+      },
+      {
+       "type": "text",
+       "text": "32 Wartość: strefaCmentarzy"
+      },
+      {
+       "type": "text",
+       "text": "33 Nazwa (pełna): strefa cmentarzy"
+      },
+      {
+       "type": "text",
+       "text": "34 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 10 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
+      },
+      {
+       "type": "text",
+       "text": "35 Wartość: strefaGornictwa"
+      },
+      {
+       "type": "text",
+       "text": "36 Nazwa (pełna): strefa górnictwa"
+      },
+      {
+       "type": "text",
+       "text": "37 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 11 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
+      },
+      {
+       "type": "text",
+       "text": "38 Wartość: strefaOtwarta"
+      },
+      {
+       "type": "text",
+       "text": "39 Nazwa (pełna): strefa otwarta"
+      },
+      {
+       "type": "text",
+       "text": "40 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 12 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
+      },
+      {
+       "type": "text",
+       "text": "41 Wartość: strefaKomunikacyjna"
+      },
+      {
+       "type": "text",
+       "text": "42 Nazwa (pełna): strefa komunikacyjna"
+      },
+      {
+       "type": "text",
+       "text": "43 Definicja: Strefa planistyczna, o której mowa w art. 13c ust. 2 pkt 13 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym."
+      },
+      {
+       "type": "text",
+       "text": "2.17. Lista kodowa: „Charakter regulacji”"
+      },
+      {
+       "type": "text",
+       "text": "1 Klasa: RegulationNatureValue"
+      },
+      {
+       "type": "text",
+       "text": "2 Nazwa (pełna): charakter regulacji"
+      },
+      {
+       "type": "text",
+       "text": "3 Definicja: Charakter prawny obiektu przestrzennego."
+      },
+      {
+       "type": "text",
+       "text": "4 Stereotypy: «CodeList»"
+      },
+      {
+       "type": "text",
+       "text": "Lista kodowa „RegulationNatureValue”, o której mowa w ust. 4.7.1.3 załącznika V do rozporządzenia 5 Komisji (UE) nr 1089/2010 z dnia 23 listopada 2010 r. w sprawie wykonania dyrektywy 2007/2/WE Parlamentu Europejskiego i Rady w zakresie interoperacyjności zbiorów i usług danych przestrzennych."
+      },
+      {
+       "type": "text",
+       "text": "2.18. Typ danych: „Mapa podkładowa”"
+      },
+      {
+       "type": "text",
+       "text": "1 Klasa: MapaPodkladowa"
+      },
+      {
+       "type": "text",
+       "text": "2 Nazwa (pełna): mapa podkładowa"
+      },
+      {
+       "type": "text",
+       "text": "3 Definicja: Informacje dotyczące mapy użytej jako dokument podkładowy w części graficznej aktu planowania przestrzennego."
+      },
+      {
+       "type": "text",
+       "text": "4 Stereotypy: «DataType»"
+      },
+      {
+       "type": "text",
+       "text": "5 Atrybut: data"
+      },
+      {
+       "type": "text",
+       "text": "6 Nazwa (pełna): data"
+      },
+      {
+       "type": "text",
+       "text": "7 Dziedzina: Dziedziną elementu jest Data dzienna opisana wartościami dla roku, miesiąca i dnia."
+      },
+      {
+       "type": "text",
+       "text": "8 Liczność: 1"
+      },
+      {
+       "type": "text",
+       "text": "Data aktualności lub opracowania użytej mapy podkładowej. 9 Definicja: Należy podać datę aktualności użytej mapy podkładowej, a w przypadku braku tej daty, należy podać datę opracowania mapy podkładowej."
+      },
+      {
+       "type": "text",
+       "text": "10 Atrybut: referencja"
+      },
+      {
+       "type": "text",
+       "text": "11 Nazwa (pełna): referencja"
+      },
+      {
+       "type": "text",
+       "text": "12 Dziedzina: Swobodny tekst."
+      },
+      {
+       "type": "text",
+       "text": "13 Liczność: 1"
+      },
+      {
+       "type": "text",
+       "text": "14 Definicja: Odniesienie do użytej mapy podkładowej."
+      },
+      {
+       "type": "text",
+       "text": "15 Atrybut: lacze"
+      },
+      {
+       "type": "text",
+       "text": "16 Nazwa (pełna): łącze"
+      },
+      {
+       "type": "text",
+       "text": "17 Dziedzina: URI"
+      },
+      {
+       "type": "text",
+       "text": "18 Liczność: 0..1"
+      },
+      {
+       "type": "text",
+       "text": "19 Definicja: Łącze (adres URI), pod którym udostępniona jest mapa podkładowa."
       }
      ]
     }

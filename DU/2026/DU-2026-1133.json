@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1133",
  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 24 sierpnia 2026 r. zmieniające rozporządzenie w sprawie wyróżniania żołnierzy oraz pododdziałów, oddziałów i instytucji wojskowych",
- "converter": "eli2md 0.5.3",
+ "converter": "eli2md 0.6.0",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1133/text.pdf",
  "body": [
   {
@@ -348,44 +348,39 @@
      "num": "2",
      "path": "tir_2",
      "text": "„Zasłużony Pilot Wojskowy” – po wyrazach „odznaki nr ...” wpisuje się poniżej",
-     "children": [
-      {
-       "type": "text",
-       "text": "wyrazy: „Nadany po raz pierwszy”, „Nadany po raz drugi” albo „Nadany po raz trzeci”,"
-      },
-      {
-       "type": "text",
-       "text": "w razie nadania żołnierzowi tytułu honorowego wielokrotnie,"
-      }
-     ]
+     "children": []
     },
     {
-     "type": "tir",
-     "num": "3",
-     "path": "tir_3",
-     "text": "„Zasłużony Żołnierz OT” – po wyrazach „odznaki nr ...” pozostawia się tylko „m.p.”",
-     "children": [
-      {
-       "type": "text",
-       "text": "oraz „podpis udzielającego wyróżnienie”."
-      },
-      {
-       "type": "text",
-       "text": "strona przednia strona odwrotna"
-      },
-      {
-       "type": "text",
-       "text": "LEGITYMACJA NR……."
-      },
-      {
-       "type": "text",
-       "text": "……………………………………… (stopień imię i nazwisko)"
-      },
-      {
-       "type": "text",
-       "text": "………………."
-      }
-     ]
+     "type": "text",
+     "text": "wyrazy: „Nadany po raz pierwszy”, „Nadany po raz drugi” albo „Nadany po raz trzeci”,"
+    },
+    {
+     "type": "text",
+     "text": "w razie nadania żołnierzowi tytułu honorowego wielokrotnie,"
+    },
+    {
+     "type": "text",
+     "text": "– „Zasłużony Żołnierz OT” – po wyrazach „odznaki nr ...” pozostawia się tylko „m.p.”"
+    },
+    {
+     "type": "text",
+     "text": "oraz „podpis udzielającego wyróżnienie”."
+    },
+    {
+     "type": "text",
+     "text": "strona przednia strona odwrotna"
+    },
+    {
+     "type": "text",
+     "text": "LEGITYMACJA NR……."
+    },
+    {
+     "type": "text",
+     "text": "……………………………………… (stopień imię i nazwisko)"
+    },
+    {
+     "type": "text",
+     "text": "………………."
     }
    ]
   },
@@ -503,12 +498,11 @@
        "num": "1",
        "path": "ust_1/pkt_1",
        "text": "w wierszu pierwszym: stopień wojskowy, tytuł wojskowy, imię i nazwisko",
-       "children": [
-        {
-         "type": "text",
-         "text": "wyróżnionego – w trzecim przypadku deklinacyjnym;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "wyróżnionego – w trzecim przypadku deklinacyjnym;"
       },
       {
        "type": "pkt",
@@ -522,92 +516,91 @@
        "num": "3",
        "path": "ust_1/pkt_3",
        "text": "w wierszu trzecim: stanowisko służbowe przełożonego dyscyplinarnego udzielającego",
-       "children": [
-        {
-         "type": "text",
-         "text": "wyróżnienia i data wyróżnienia."
-        },
-        {
-         "type": "text",
-         "text": "W przypadku wykonania pozłocenia na zewnętrznym płazie głowni – napis dedykacyjny"
-        },
-        {
-         "type": "text",
-         "text": "oraz częściowo liście akantu powinny być pozłocone elektrolitycznie."
-        },
-        {
-         "type": "text",
-         "text": "Rękojeść otwarta, z prostym jelcem. Ramiona jelca zakończone wachlarzowatym"
-        },
-        {
-         "type": "text",
-         "text": "rozszerzeniem. Trzon (uchwyt) rękojeści o przekroju owalnym od strony jelca lekko zwężony,"
-        },
-        {
-         "type": "text",
-         "text": "wykonany z tworzywa sztucznego w barwie kości słoniowej, odpornego na działania"
-        },
-        {
-         "type": "text",
-         "text": "mechaniczne i atmosferyczne. Pomiędzy jelcem a trzonem (uchwytem) metalowy pierścień"
-        },
-        {
-         "type": "text",
-         "text": "w przekroju owalnym, przy jelcu lekko rozszerzony, od góry obwiedziony drutem o przekroju"
-        },
-        {
-         "type": "text",
-         "text": "kwadratowym. Na stronie wewnętrznej pierścienia otwór na przycisk blokady sprężyny."
-        },
-        {
-         "type": "text",
-         "text": "Sprężyna przynitowana do trzpienia głowni, przechodząca przez okienko jelca naprzeciwko"
-        },
-        {
-         "type": "text",
-         "text": "wewnętrznego progu głowni. Powyżej trzonu (uchwytu) metalowa głowica o przekroju"
-        },
-        {
-         "type": "text",
-         "text": "owalnym, od dołu obwiedziona drutem o przekroju kwadratowym, od góry zamknięta,"
-        },
-        {
-         "type": "text",
-         "text": "z otworem na grzybek-nakrętkę M-6, mocującą elementy rękojeści do trzpienia głowni."
-        },
-        {
-         "type": "text",
-         "text": "Wszystkie elementy metalowe rękojeści kordzików honorowych dla Marynarki Wojennej"
-        },
-        {
-         "type": "text",
-         "text": "wykonane z polerowanego mosiądzu w barwie złocistej. Dla pozostałych rodzajów sił zbrojnych –"
-        },
-        {
-         "type": "text",
-         "text": "z białego nierdzewnego metalu oksydowanego na stare srebro. Na kordziku honorowym MW"
-        },
-        {
-         "type": "text",
-         "text": "mosiężne elementy rękojeści mogą być pozłocone. Na pozostałych kordzikach honorowych te"
-        },
-        {
-         "type": "text",
-         "text": "same elementy mogą być posrebrzone."
-        },
-        {
-         "type": "text",
-         "text": "Na zewnętrznej stronie głowicy kordzika przylutowany orzeł odpowiedni dla rodzaju"
-        },
-        {
-         "type": "text",
-         "text": "sił zbrojnych, wykonany z metalu w barwie jasnosrebrzystej, według wzorów określonych"
-        },
-        {
-         "type": "text",
-         "text": "w art. 5–7b ustawy o znakach."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "wyróżnienia i data wyróżnienia."
+      },
+      {
+       "type": "text",
+       "text": "W przypadku wykonania pozłocenia na zewnętrznym płazie głowni – napis dedykacyjny"
+      },
+      {
+       "type": "text",
+       "text": "oraz częściowo liście akantu powinny być pozłocone elektrolitycznie."
+      },
+      {
+       "type": "text",
+       "text": "Rękojeść otwarta, z prostym jelcem. Ramiona jelca zakończone wachlarzowatym"
+      },
+      {
+       "type": "text",
+       "text": "rozszerzeniem. Trzon (uchwyt) rękojeści o przekroju owalnym od strony jelca lekko zwężony,"
+      },
+      {
+       "type": "text",
+       "text": "wykonany z tworzywa sztucznego w barwie kości słoniowej, odpornego na działania"
+      },
+      {
+       "type": "text",
+       "text": "mechaniczne i atmosferyczne. Pomiędzy jelcem a trzonem (uchwytem) metalowy pierścień"
+      },
+      {
+       "type": "text",
+       "text": "w przekroju owalnym, przy jelcu lekko rozszerzony, od góry obwiedziony drutem o przekroju"
+      },
+      {
+       "type": "text",
+       "text": "kwadratowym. Na stronie wewnętrznej pierścienia otwór na przycisk blokady sprężyny."
+      },
+      {
+       "type": "text",
+       "text": "Sprężyna przynitowana do trzpienia głowni, przechodząca przez okienko jelca naprzeciwko"
+      },
+      {
+       "type": "text",
+       "text": "wewnętrznego progu głowni. Powyżej trzonu (uchwytu) metalowa głowica o przekroju"
+      },
+      {
+       "type": "text",
+       "text": "owalnym, od dołu obwiedziona drutem o przekroju kwadratowym, od góry zamknięta,"
+      },
+      {
+       "type": "text",
+       "text": "z otworem na grzybek-nakrętkę M-6, mocującą elementy rękojeści do trzpienia głowni."
+      },
+      {
+       "type": "text",
+       "text": "Wszystkie elementy metalowe rękojeści kordzików honorowych dla Marynarki Wojennej"
+      },
+      {
+       "type": "text",
+       "text": "wykonane z polerowanego mosiądzu w barwie złocistej. Dla pozostałych rodzajów sił zbrojnych –"
+      },
+      {
+       "type": "text",
+       "text": "z białego nierdzewnego metalu oksydowanego na stare srebro. Na kordziku honorowym MW"
+      },
+      {
+       "type": "text",
+       "text": "mosiężne elementy rękojeści mogą być pozłocone. Na pozostałych kordzikach honorowych te"
+      },
+      {
+       "type": "text",
+       "text": "same elementy mogą być posrebrzone."
+      },
+      {
+       "type": "text",
+       "text": "Na zewnętrznej stronie głowicy kordzika przylutowany orzeł odpowiedni dla rodzaju"
+      },
+      {
+       "type": "text",
+       "text": "sił zbrojnych, wykonany z metalu w barwie jasnosrebrzystej, według wzorów określonych"
+      },
+      {
+       "type": "text",
+       "text": "w art. 5–7b ustawy o znakach."
       }
      ]
     },
@@ -755,7 +748,11 @@
       },
       {
        "type": "note",
-       "text": "[Strona 10 PDF nie ma warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+       "text": "[Strona 10 PDF nie ma warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "wz. 08 MW - HSZ wz. 08 SP - HSZ wz. 08 WL - HSZ wz. 08 WS - HSZ wz. 08 WOT - HSZ"
       }
      ]
     }

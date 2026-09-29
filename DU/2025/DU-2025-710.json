@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/710",
  "title": "Rozporządzenie Ministra Infrastruktury z dnia 26 maja 2025 r. zmieniające rozporządzenie w sprawie wzorów zezwoleń na wykonywanie krajowych i międzynarodowych przewozów drogowych osób oraz wypisów z zezwoleń",
- "converter": "eli2md 0.5.3",
+ "converter": "eli2md 0.6.0",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/710/text.pdf",
  "body": [
   {
@@ -60,7 +60,15 @@
     },
     {
      "type": "note",
-     "text": "[Strona 3 PDF nie ma warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 3 PDF nie ma warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Objaśnienie:"
+    },
+    {
+     "type": "ocr",
+     "text": "W pojeździe przez cały czas trwania przewozu powinien znajdować się wypis z zezwolenia i powinien być okazywany przez kierowcę na żądanie uprawnionego organu kontroli (art. 87 ust. 1 pkt 2 it. a ustawy o transporcie drogowym)."
     },
     {
      "type": "text",

@@ -1293,60 +1293,52 @@
        "text": "• transakcji korzystających ze zwolnienia na podstawie art. 23z pkt 1–2 ustawy (kod „ZW01” w tabeli 14), • transakcji kontrolowanych spełniających warunki do zastosowania mechanizmu tzw. bezpiecznej przystani dla transakcji o niskiej wartości dodanej (art. 23r ustawy) lub pożyczek, kredytów i emisji obligacji (art. 23s ustawy), • transakcji refakturowania korzystających ze zwolnienia na podstawie art. 23z pkt 9 ustawy (tzw. czyste refakturowanie), • transakcji innych niż transakcje kontrolowane (kod „TK02” w tabeli 15), • transakcji kontrolowanych, o których mowa w art. 23zc ust. 3a pkt 1 ustawy, zawieranych przez podmiot powiązany, który w ostatnim roku podatkowym spełnił warunki określone w art. 7 ust. 1 pkt 1 albo 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców zgodnie z art. 23zc ust. 3b ustawy"
       },
       {
-       "type": "tir",
-       "num": "1",
-       "path": "ust_5/tir_1",
-       "text": "należy wskazać wybraną i zastosowaną metodę weryfikacji rynkowego charakteru ceny transferowej (np. ceny nominalnej, wskaźnika finansowego), wybierając odpowiedni kod „MW01” – „MW06” zgodnie z tabelą 17.",
-       "children": [
-        {
-         "type": "text",
-         "text": "W przypadku:"
-        },
-        {
-         "type": "text",
-         "text": "• transakcji innych niż transakcje kontrolowane (kod „TK02” w tabeli 15), • transakcji kontrolowanych, o których mowa w art. 23zc ust. 3a pkt 1 ustawy, zawieranych przez podmiot powiązany, który zgodnie z art. 23zc ust. 3b ustawy w ostatnim roku podatkowym spełnił warunki określone w art. 7 ust. 1 pkt 1 albo 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców"
-        }
-       ]
+       "type": "text",
+       "text": "– należy wskazać wybraną i zastosowaną metodę weryfikacji rynkowego charakteru ceny transferowej (np. ceny nominalnej, wskaźnika finansowego), wybierając odpowiedni kod „MW01” – „MW06” zgodnie z tabelą 17."
       },
       {
-       "type": "tir",
-       "num": "2",
-       "path": "ust_5/tir_2",
-       "text": "w tabeli 17 można wybrać kod „MW00”. W przypadku wyboru kodu „MW00” nie wykazuje się informacji, o których mowa w częściach 5.2, 5.3 i 6 objaśnień.",
-       "children": [
-        {
-         "type": "text",
-         "text": "W przypadku gdy do weryfikacji wykorzystano więcej niż jedną metodę, należy wskazać wyłącznie jedną metodę użytą jako podstawową."
-        },
-        {
-         "type": "text",
-         "text": "W przypadku transakcji kontrolowanych, w których zamiast analizy porównawczej sporządzono analizę zgodności, należy wskazać Inną metodę oznaczoną kodem „MW06”."
-        },
-        {
-         "type": "text",
-         "text": "Tabela 17"
-        },
-        {
-         "type": "text",
-         "text": "Kod Metoda weryfikacji ceny transferowej MW00 Nie dotyczy MW01 Metoda porównywalnej ceny niekontrolowanej MW02 Metoda ceny odprzedaży MW03 Metoda koszt plus MW04 Metoda podziału zysku MW05 Metoda marży transakcyjnej netto MW06 Inna metoda"
-        },
-        {
-         "type": "text",
-         "text": "5.2. Informacje o stosowanej cenie transferowej (§ 2 pkt 5 lit. b rozporządzenia)"
-        },
-        {
-         "type": "text",
-         "text": "W tej części należy wskazać szczegółowe informacje na temat stosowanej ceny transferowej dla każdej transakcji kontrolowanej – w zależności od wybranej metody oraz kategorii transakcji kontrolowanej, z wyjątkiem transakcji oznaczonych kodami 1201–1204, 2201–2204, 1401 i 2401, dla których podaje się informacje wskazane w części 6 objaśnień."
-        },
-        {
-         "type": "text",
-         "text": "5.2.1. Wybór kodu MW01"
-        },
-        {
-         "type": "text",
-         "text": "Jeżeli jako metodę weryfikacji ceny transferowej wybrano kod „MW01” (metoda porównywalnej ceny niekontrolowanej), należy uzupełnić następujące informacje:"
-        }
-       ]
+       "type": "text",
+       "text": "W przypadku:"
+      },
+      {
+       "type": "text",
+       "text": "• transakcji innych niż transakcje kontrolowane (kod „TK02” w tabeli 15), • transakcji kontrolowanych, o których mowa w art. 23zc ust. 3a pkt 1 ustawy, zawieranych przez podmiot powiązany, który zgodnie z art. 23zc ust. 3b ustawy w ostatnim roku podatkowym spełnił warunki określone w art. 7 ust. 1 pkt 1 albo 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców"
+      },
+      {
+       "type": "text",
+       "text": "– w tabeli 17 można wybrać kod „MW00”. W przypadku wyboru kodu „MW00” nie wykazuje się informacji, o których mowa w częściach 5.2, 5.3 i 6 objaśnień."
+      },
+      {
+       "type": "text",
+       "text": "W przypadku gdy do weryfikacji wykorzystano więcej niż jedną metodę, należy wskazać wyłącznie jedną metodę użytą jako podstawową."
+      },
+      {
+       "type": "text",
+       "text": "W przypadku transakcji kontrolowanych, w których zamiast analizy porównawczej sporządzono analizę zgodności, należy wskazać Inną metodę oznaczoną kodem „MW06”."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 17"
+      },
+      {
+       "type": "text",
+       "text": "Kod Metoda weryfikacji ceny transferowej MW00 Nie dotyczy MW01 Metoda porównywalnej ceny niekontrolowanej MW02 Metoda ceny odprzedaży MW03 Metoda koszt plus MW04 Metoda podziału zysku MW05 Metoda marży transakcyjnej netto MW06 Inna metoda"
+      },
+      {
+       "type": "text",
+       "text": "5.2. Informacje o stosowanej cenie transferowej (§ 2 pkt 5 lit. b rozporządzenia)"
+      },
+      {
+       "type": "text",
+       "text": "W tej części należy wskazać szczegółowe informacje na temat stosowanej ceny transferowej dla każdej transakcji kontrolowanej – w zależności od wybranej metody oraz kategorii transakcji kontrolowanej, z wyjątkiem transakcji oznaczonych kodami 1201–1204, 2201–2204, 1401 i 2401, dla których podaje się informacje wskazane w części 6 objaśnień."
+      },
+      {
+       "type": "text",
+       "text": "5.2.1. Wybór kodu MW01"
+      },
+      {
+       "type": "text",
+       "text": "Jeżeli jako metodę weryfikacji ceny transferowej wybrano kod „MW01” (metoda porównywalnej ceny niekontrolowanej), należy uzupełnić następujące informacje:"
       },
       {
        "type": "pkt",

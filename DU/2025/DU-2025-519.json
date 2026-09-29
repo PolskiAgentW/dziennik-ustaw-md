@@ -167,15 +167,11 @@
          "num": "e",
          "path": "par_2/pkt_4/lit_e",
          "text": "udostępnianie wydzielonych linii telefonicznych",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "par_2/pkt_4/lit_e/tir_1",
-           "text": "jeżeli usługi te są świadczone w ramach opłaty za pośrednictwo podmiotu prowadzącego działalność maklerską w obrocie papierami wartościowymi, instrumentami rynku pieniężnego lub instrumentami pochodnymi, a wykonywanie takich usług wynika z umowy o pośrednictwo;",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– jeżeli usługi te są świadczone w ramach opłaty za pośrednictwo podmiotu prowadzącego działalność maklerską w obrocie papierami wartościowymi, instrumentami rynku pieniężnego lub instrumentami pochodnymi, a wykonywanie takich usług wynika z umowy o pośrednictwo;"
         }
        ]
       },
@@ -2106,80 +2102,79 @@
      "num": "5",
      "path": "pkt_5",
      "text": "wartości usług dodatkowych,",
-     "children": [
-      {
-       "type": "text",
-       "text": "t – oznacza okres, za który są przedstawiane dane,"
-      },
-      {
-       "type": "text",
-       "text": "WAN – oznacza średnią wartość aktywów netto funduszu."
-      },
-      {
-       "type": "text",
-       "text": "II. Syntetyczny Współczynnik Kosztów Całkowitych (wskaźnik SWKC) wylicza się według wzoru:"
-      },
-      {
-       "type": "text",
-       "text": "SWKC = (K + I + O)t/WANt × 100 %,"
-      },
-      {
-       "type": "text",
-       "text": "gdzie:"
-      },
-      {
-       "type": "text",
-       "text": "K – oznacza koszty funduszu uwzględnione we wskaźniku WKC,"
-      },
-      {
-       "type": "text",
-       "text": "I – oznacza koszty funduszy i instytucji wspólnego inwestowania uwzględnione we wskaźniku WKC tych funduszy i instytucji, przypadające na tytuły uczestnictwa nabyte przez fundusz w tych funduszach i instytucjach,"
-      },
-      {
-       "type": "text",
-       "text": "O – oznacza koszty poniesione przez fundusz w związku ze zbyciem lub odkupieniem tytułów uczestnictwa w funduszach i instytucjach wspólnego inwestowania,"
-      },
-      {
-       "type": "text",
-       "text": "t – oznacza okres, za który są przedstawiane dane,"
-      },
-      {
-       "type": "text",
-       "text": "WAN – oznacza średnią wartość aktywów netto funduszu."
-      },
-      {
-       "type": "text",
-       "text": "III. Stopę Obrotu Portfela (wskaźnik SOP) wylicza się według wzoru:"
-      },
-      {
-       "type": "text",
-       "text": "SOP = [(T1 – T2)t/WANt] × 100 %,"
-      },
-      {
-       "type": "text",
-       "text": "gdzie:"
-      },
-      {
-       "type": "text",
-       "text": "T1 – oznacza całkowitą wartość wszystkich dokonanych przez fundusz transakcji nabycia i zbycia papierów wartościowych, instrumentów rynku pieniężnego lub tytułów uczestnictwa w funduszach inwestycyjnych lub instytucjach wspólnego inwestowania, a w przypadku specjalistycznego funduszu inwestycyjnego otwartego stosującego ograniczenia inwestycyjne funduszu inwestycyjnego zamkniętego – także transakcji nabycia i zbycia praw, o których mowa w art. 147 ust. 1 ustawy,"
-      },
-      {
-       "type": "text",
-       "text": "T2 – oznacza całkowitą wartość zbytych i odkupionych jednostek uczestnictwa funduszu,"
-      },
-      {
-       "type": "text",
-       "text": "t – oznacza okres, za który są przedstawiane dane,"
-      },
-      {
-       "type": "text",
-       "text": "WAN – oznacza średnią wartość aktywów netto funduszu."
-      },
-      {
-       "type": "text",
-       "text": "IV. Syntetyczną Wartość Zakładanych Kosztów Całkowitych (wskaźnik SWZKC) wylicza się jako sumę kosztów funduszy i instytucji wspólnego inwestowania, uwzględnionych we wskaźniku WKC tych instytucji, przypadających na tytuły uczestnictwa nabyte przez fundusz, a w przypadku funduszy i instytucji wspólnego inwestowania, które nie publikują wskaźnika WKC – przypadające na nabyte tytuły uczestnictwa możliwe do oszacowania koszty, które wchodziłyby do wskaźnika WKC, gdyby wskaźnik ten był publikowany, oraz opłat z tytułu zbycia lub odkupienia tych tytułów uczestnictwa."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "t – oznacza okres, za który są przedstawiane dane,"
+    },
+    {
+     "type": "text",
+     "text": "WAN – oznacza średnią wartość aktywów netto funduszu."
+    },
+    {
+     "type": "text",
+     "text": "II. Syntetyczny Współczynnik Kosztów Całkowitych (wskaźnik SWKC) wylicza się według wzoru:"
+    },
+    {
+     "type": "text",
+     "text": "SWKC = (K + I + O)t/WANt × 100 %,"
+    },
+    {
+     "type": "text",
+     "text": "gdzie:"
+    },
+    {
+     "type": "text",
+     "text": "K – oznacza koszty funduszu uwzględnione we wskaźniku WKC,"
+    },
+    {
+     "type": "text",
+     "text": "I – oznacza koszty funduszy i instytucji wspólnego inwestowania uwzględnione we wskaźniku WKC tych funduszy i instytucji, przypadające na tytuły uczestnictwa nabyte przez fundusz w tych funduszach i instytucjach,"
+    },
+    {
+     "type": "text",
+     "text": "O – oznacza koszty poniesione przez fundusz w związku ze zbyciem lub odkupieniem tytułów uczestnictwa w funduszach i instytucjach wspólnego inwestowania,"
+    },
+    {
+     "type": "text",
+     "text": "t – oznacza okres, za który są przedstawiane dane,"
+    },
+    {
+     "type": "text",
+     "text": "WAN – oznacza średnią wartość aktywów netto funduszu."
+    },
+    {
+     "type": "text",
+     "text": "III. Stopę Obrotu Portfela (wskaźnik SOP) wylicza się według wzoru:"
+    },
+    {
+     "type": "text",
+     "text": "SOP = [(T1 – T2)t/WANt] × 100 %,"
+    },
+    {
+     "type": "text",
+     "text": "gdzie:"
+    },
+    {
+     "type": "text",
+     "text": "T1 – oznacza całkowitą wartość wszystkich dokonanych przez fundusz transakcji nabycia i zbycia papierów wartościowych, instrumentów rynku pieniężnego lub tytułów uczestnictwa w funduszach inwestycyjnych lub instytucjach wspólnego inwestowania, a w przypadku specjalistycznego funduszu inwestycyjnego otwartego stosującego ograniczenia inwestycyjne funduszu inwestycyjnego zamkniętego – także transakcji nabycia i zbycia praw, o których mowa w art. 147 ust. 1 ustawy,"
+    },
+    {
+     "type": "text",
+     "text": "T2 – oznacza całkowitą wartość zbytych i odkupionych jednostek uczestnictwa funduszu,"
+    },
+    {
+     "type": "text",
+     "text": "t – oznacza okres, za który są przedstawiane dane,"
+    },
+    {
+     "type": "text",
+     "text": "WAN – oznacza średnią wartość aktywów netto funduszu."
+    },
+    {
+     "type": "text",
+     "text": "IV. Syntetyczną Wartość Zakładanych Kosztów Całkowitych (wskaźnik SWZKC) wylicza się jako sumę kosztów funduszy i instytucji wspólnego inwestowania, uwzględnionych we wskaźniku WKC tych instytucji, przypadających na tytuły uczestnictwa nabyte przez fundusz, a w przypadku funduszy i instytucji wspólnego inwestowania, które nie publikują wskaźnika WKC – przypadające na nabyte tytuły uczestnictwa możliwe do oszacowania koszty, które wchodziłyby do wskaźnika WKC, gdyby wskaźnik ten był publikowany, oraz opłat z tytułu zbycia lub odkupienia tych tytułów uczestnictwa."
     }
    ]
   },

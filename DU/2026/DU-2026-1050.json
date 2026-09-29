@@ -892,57 +892,50 @@
      "text": "Adres do korespondencji"
     },
     {
+     "type": "text",
+     "text": "– kod, miasto"
+    },
+    {
+     "type": "text",
+     "text": "– ulica, nr"
+    },
+    {
+     "type": "text",
+     "text": "Numer telefonu²"
+    },
+    {
+     "type": "text",
+     "text": "Adres poczty elektronicznej²"
+    },
+    {
+     "type": "text",
+     "text": "Data rozpoczęcia studiów (rok, miesiąc)³ Informacja o zaliczonym roku studiów w poprzednim roku akademickim:"
+    },
+    {
      "type": "tir",
      "num": "1",
      "path": "tir_1",
-     "text": "kod, miasto",
+     "text": "rok studiów",
      "children": []
     },
     {
      "type": "tir",
      "num": "2",
      "path": "tir_2",
-     "text": "ulica, nr",
-     "children": [
-      {
-       "type": "text",
-       "text": "Numer telefonu²"
-      },
-      {
-       "type": "text",
-       "text": "Adres poczty elektronicznej²"
-      },
-      {
-       "type": "text",
-       "text": "Data rozpoczęcia studiów (rok, miesiąc)³ Informacja o zaliczonym roku studiów w poprzednim roku akademickim:"
-      }
-     ]
+     "text": "poziom studiów",
+     "children": []
     },
     {
      "type": "tir",
      "num": "3",
      "path": "tir_3",
-     "text": "rok studiów",
+     "text": "kierunek studiów",
      "children": []
     },
     {
      "type": "tir",
      "num": "4",
      "path": "tir_4",
-     "text": "poziom studiów",
-     "children": []
-    },
-    {
-     "type": "tir",
-     "num": "5",
-     "path": "tir_5",
-     "text": "kierunek studiów",
-     "children": []
-    },
-    {
-     "type": "tir",
-     "num": "6",
-     "path": "tir_6",
      "text": "dyscyplina naukowa, do której jest przyporządkowany kierunek studiów",
      "children": [
       {
@@ -953,29 +946,29 @@
     },
     {
      "type": "tir",
+     "num": "5",
+     "path": "tir_5",
+     "text": "rok studiów",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "6",
+     "path": "tir_6",
+     "text": "poziom studiów",
+     "children": []
+    },
+    {
+     "type": "tir",
      "num": "7",
      "path": "tir_7",
-     "text": "rok studiów",
+     "text": "kierunek studiów⁴",
      "children": []
     },
     {
      "type": "tir",
      "num": "8",
      "path": "tir_8",
-     "text": "poziom studiów",
-     "children": []
-    },
-    {
-     "type": "tir",
-     "num": "9",
-     "path": "tir_9",
-     "text": "kierunek studiów⁴",
-     "children": []
-    },
-    {
-     "type": "tir",
-     "num": "10",
-     "path": "tir_10",
      "text": "dyscyplina naukowa, do której jest przyporządkowany kierunek studiów⁵",
      "children": [
       {

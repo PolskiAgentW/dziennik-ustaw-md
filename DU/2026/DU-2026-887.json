@@ -385,69 +385,43 @@
          "num": "t",
          "path": "par_1/pkt_1/lit_t",
          "text": "informacje o padnięciu, zabiciu lub poddaniu zwierzęcia ubojowi z nakazu powiatowego lekarza weterynarii, uboju zwierzęcia pochodzącego z siedziby stada, w której jest utrzymywane, w celu produkcji mięsa na użytek własny, uboju zwierzęcia pochodzącego z innej siedziby stada w celu produkcji mięsa na użytek własny, uboju zwierzęcia z konieczności lub śmierci zwierzęcia w innych okolicznościach albo informacje dotyczące uboju zwierzęcia w rzeźni obejmujące:[^4]",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "par_1/pkt_1/lit_t/tir_1",
-           "text": "datę przemieszczenia tego zwierzęcia do rzeźni,",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "2",
-           "path": "par_1/pkt_1/lit_t/tir_2",
-           "text": "datę przyjęcia do rzeźni ciała zwierzęcia poddanego ubojowi z konieczności,",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "3",
-           "path": "par_1/pkt_1/lit_t/tir_3",
-           "text": "datę uboju wraz z podaniem typu uboju, któremu poddano to zwierzę,",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "4",
-           "path": "par_1/pkt_1/lit_t/tir_4",
-           "text": "numer partii uboju tego zwierzęcia,",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "5",
-           "path": "par_1/pkt_1/lit_t/tir_5",
-           "text": "numer siedziby stada, z której to zwierzę zostało przyjęte do rzeźni,",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "6",
-           "path": "par_1/pkt_1/lit_t/tir_6",
-           "text": "kategorię ubojową zgodną z częścią A pkt II załącznika IV do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.),",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "7",
-           "path": "par_1/pkt_1/lit_t/tir_7",
-           "text": "masę tuszy lub masę ciała zwierzęcia,",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "8",
-           "path": "par_1/pkt_1/lit_t/tir_8",
-           "text": "wyniki klasyfikacji tusz wołowych sporządzone zgodnie z art. 1 rozporządzenia wykonawczego Komisji (UE) 2017/1184 z dnia 20 kwietnia 2017 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do unijnych skal klasyfikacji tusz wołowych, wieprzowych i baranich oraz raportowania cen rynkowych niektórych kategorii tusz żywych zwierząt (Dz. Urz. UE L 171 z 04.07.2017, str. 103), o ile są znane,",
-           "children": [
-            {
-             "type": "text",
-             "text": "–[^5] informację o dokonaniu uboju zwierzęcia po jego przemieszczeniu do rzeźni z państwa członkowskiego albo z państwa trzeciego, jeżeli dotyczy,"
-            }
-           ]
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– datę przemieszczenia tego zwierzęcia do rzeźni,"
+        },
+        {
+         "type": "text",
+         "text": "– datę przyjęcia do rzeźni ciała zwierzęcia poddanego ubojowi z konieczności,"
+        },
+        {
+         "type": "text",
+         "text": "– datę uboju wraz z podaniem typu uboju, któremu poddano to zwierzę,"
+        },
+        {
+         "type": "text",
+         "text": "– numer partii uboju tego zwierzęcia,"
+        },
+        {
+         "type": "text",
+         "text": "– numer siedziby stada, z której to zwierzę zostało przyjęte do rzeźni,"
+        },
+        {
+         "type": "text",
+         "text": "– kategorię ubojową zgodną z częścią A pkt II załącznika IV do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.),"
+        },
+        {
+         "type": "text",
+         "text": "– masę tuszy lub masę ciała zwierzęcia,"
+        },
+        {
+         "type": "text",
+         "text": "– wyniki klasyfikacji tusz wołowych sporządzone zgodnie z art. 1 rozporządzenia wykonawczego Komisji (UE) 2017/1184 z dnia 20 kwietnia 2017 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do unijnych skal klasyfikacji tusz wołowych, wieprzowych i baranich oraz raportowania cen rynkowych niektórych kategorii tusz żywych zwierząt (Dz. Urz. UE L 171 z 04.07.2017, str. 103), o ile są znane,"
+        },
+        {
+         "type": "text",
+         "text": "–[^5] informację o dokonaniu uboju zwierzęcia po jego przemieszczeniu do rzeźni z państwa członkowskiego albo z państwa trzeciego, jeżeli dotyczy,"
         },
         {
          "type": "lit",
@@ -2270,48 +2244,31 @@
          "num": "q",
          "path": "par_1/pkt_5/lit_q",
          "text": "informacje o padnięciu, zabiciu lub poddaniu zwierzęcia ubojowi z nakazu powiatowego lekarza weterynarii, uboju zwierzęcia z konieczności lub śmierci zwierzęcia w innych okolicznościach albo informacje dotyczące uboju zwierzęcia w rzeźni obejmujące:[^27]",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "par_1/pkt_5/lit_q/tir_1",
-           "text": "datę przemieszczenia tego zwierzęcia do rzeźni,",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "2",
-           "path": "par_1/pkt_5/lit_q/tir_2",
-           "text": "datę przyjęcia do rzeźni ciała zwierzęcia poddanego ubojowi z konieczności,",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "3",
-           "path": "par_1/pkt_5/lit_q/tir_3",
-           "text": "datę uboju wraz z podaniem typu uboju, któremu poddano to zwierzę,",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "4",
-           "path": "par_1/pkt_5/lit_q/tir_4",
-           "text": "numer partii uboju tego zwierzęcia,",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "5",
-           "path": "par_1/pkt_5/lit_q/tir_5",
-           "text": "numer siedziby stada, z której to zwierzę zostało przyjęte do rzeźni,",
-           "children": [
-            {
-             "type": "text",
-             "text": "–[^28] informację o dokonaniu uboju zwierzęcia po jego przemieszczeniu do rzeźni z państwa członkowskiego albo z państwa trzeciego, jeżeli dotyczy,"
-            }
-           ]
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– datę przemieszczenia tego zwierzęcia do rzeźni,"
+        },
+        {
+         "type": "text",
+         "text": "– datę przyjęcia do rzeźni ciała zwierzęcia poddanego ubojowi z konieczności,"
+        },
+        {
+         "type": "text",
+         "text": "– datę uboju wraz z podaniem typu uboju, któremu poddano to zwierzę,"
+        },
+        {
+         "type": "text",
+         "text": "– numer partii uboju tego zwierzęcia,"
+        },
+        {
+         "type": "text",
+         "text": "– numer siedziby stada, z której to zwierzę zostało przyjęte do rzeźni,"
+        },
+        {
+         "type": "text",
+         "text": "–[^28] informację o dokonaniu uboju zwierzęcia po jego przemieszczeniu do rzeźni z państwa członkowskiego albo z państwa trzeciego, jeżeli dotyczy,"
         },
         {
          "type": "lit",
@@ -2738,12 +2695,11 @@
          "num": "ma",
          "path": "par_1/pkt_6/lit_ma",
          "text": "[^36] informacje zawarte w dokumencie handlowym, o którym mowa w art. 93 ust. 1 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt, lub w innym dokumencie potwierdzającym przekazanie zwłok ptaków lub jaj wylęgowych do zakładu przetwórczego lub spalarni, jeżeli dotyczy,",
-         "children": [
-          {
-           "type": "text",
-           "text": "n)[^34]oznaczenie państwa przeznaczenia partii jaj wylęgowych, ptaków lub zwłok ptaków, jeżeli dotyczy;"
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "n)[^34]oznaczenie państwa przeznaczenia partii jaj wylęgowych, ptaków lub zwłok ptaków, jeżeli dotyczy;"
         }
        ]
       },

@@ -18,18 +18,18 @@ porównywać i przetwarzać.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-29 15:04 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-29 15:42 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
 | 2025 | 1900 | 1900 | 0 |
 | 2026 | 1268 | 1268 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki; ich treści brak): 62, razem 1734 z 53356 stron.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 62, razem 1734 z 53356 stron. Tekst z OCR (oznaczony) ma 1640 z nich w 52 aktach; treści pozostałych brak.
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 195.
 
 Rodzaje aktów: Rozporządzenie 1735, Obwieszczenie 989, Ustawa 360, Oświadczenie rządowe 41, Umowa międzynarodowa 34, Komunikat 4, Postanowienie 3, Uchwała 2.
-Wersje konwertera: eli2md 0.5.3 (3168).
+Wersje konwertera: eli2md 0.5.3 (3106), eli2md 0.6.0 (62).
 <!-- stats:end -->
 
 ## Zawartość
@@ -46,14 +46,21 @@ Wersje konwertera: eli2md 0.5.3 (3168).
   Opis i przykład: [README eli2md](https://github.com/PolskiAgentW/eli2md#json-drzewo-jednostek-od-053).
 - `index.csv`: jeden wiersz na akt, także nieudany: `eli, year, pos, type, title,
   announcement_date, promulgation, change_date, pdf_sha256, pages, words, no_text_pages, image_pages,
-  status, error, converter, converted_at`.
+  ocr_pages, status, error, converter, converted_at`. `ocr_pages` jest puste, jeśli akt konwertowano bez OCR
+  (akty bez skanów przed 0.6.0).
 
-Część stron w PDF-ach nie ma warstwy tekstowej: to skany (np. teksty umów międzynarodowych) albo
-grafiki. Na innych stronach obok tekstu są duże obrazy (wzory formularzy, rysunki, mapy).
-**Treści skanów i obrazów tu nie ma.** W tekście aktu jest w tym miejscu notka
-`> [Strony 2-28 PDF nie mają warstwy tekstowej …]` albo `> [Na stronie 7 PDF jest obraz …]`,
-we front matter pola `pages_without_text` i `pages_with_images`, a w `index.csv` kolumny
-`no_text_pages` i `image_pages` (liczby takich stron).
+Część stron w PDF-ach nie ma warstwy tekstowej: to skany (głównie teksty umów międzynarodowych, po polsku
+i w językach obcych) albo grafiki. Od 2026-09-29 (eli2md 0.6.0) takie strony czyta OCR (tesseract).
+**Tekst z OCR jest oznaczony**: przed każdą stroną stoi notka `> [Strona 5 PDF nie ma warstwy tekstowej.
+Tekst poniżej odczytał OCR …]`, a każdy akapit OCR jest cytatem blokowym (`> …`); w JSON to węzły `ocr`, nigdy
+jednostki. We front matter jest pole `pages_ocr`, w `index.csv` kolumna `ocr_pages`. OCR myli się częściej niż
+warstwa tekstowa PDF, zwłaszcza w liczbach i tabelach. Zmierzone na stronach cyfrowych (górna granica, prawdziwe
+skany są gorsze): recall słów 0.97–0.98, słów z cyframi 0.88–0.91, tabel ok. 0.83. Strony, z których OCR nie daje
+czytelnego tekstu (mapy, rysunki, podpisy), mają nadal tylko notkę `> [Strony … PDF nie mają warstwy tekstowej …]`.
+
+Na innych stronach obok tekstu są duże obrazy (wzory formularzy, rysunki, mapy). **Ich treści tu nie ma.**
+W tekście jest notka `> [Na stronie 7 PDF jest obraz …]`, we front matter pole `pages_with_images`,
+w `index.csv` kolumna `image_pages`.
 
 Metadane pochodzą z API ELI bez poprawek, więc zawierają też jego błędy. Przykład: 5 aktów ma
 `announcement_date` w przyszłości (DU/2026/626 i DU/2026/740: rok 2206; stan na 2026-09-29).

@@ -1136,1932 +1136,1772 @@
      "text": "lub stropodachu¹ – współczynnik ostrości klimatu, na podstawie ¹² AA pp⁰¹ dd danych zawartych w tabeli nr 1,"
     },
     {
-     "type": "tir",
-     "num": "1",
-     "path": "tir_1",
-     "text": "współczynnik korekcyjny w zależności od",
-     "children": [
-      {
-       "type": "text",
-       "text": "wielkości średniej temperatury pomieszczenia"
-      },
-      {
-       "type": "text",
-       "text": "ogrzewanego, na podstawie danych zawartych"
-      },
-      {
-       "type": "text",
-       "text": "w tabeli nr 3,"
-      }
-     ]
+     "type": "text",
+     "text": "– współczynnik korekcyjny w zależności od"
     },
     {
-     "type": "tir",
-     "num": "2",
-     "path": "tir_2",
-     "text": "powierzchnia ocieplonej przegrody przed",
-     "children": [
-      {
-       "type": "text",
-       "text": "wykonaniem ocieplenia, wyrażona w [m²],"
-      }
-     ]
+     "type": "text",
+     "text": "wielkości średniej temperatury pomieszczenia"
     },
     {
-     "type": "tir",
-     "num": "3",
-     "path": "tir_3",
-     "text": "współczynnik przenikania ciepła ściany",
-     "children": [
-      {
-       "type": "text",
-       "text": "zewnętrznej lub stropodachu w stanie"
-      },
-      {
-       "type": "text",
-       "text": "istniejącym, określony na podstawie"
-      },
-      {
-       "type": "text",
-       "text": "dokumentacji technicznej, odpowiednich"
-      },
-      {
-       "type": "text",
-       "text": "obliczeń wykonanych dla stanu faktycznego"
-      },
-      {
-       "type": "text",
-       "text": "zgodnie z Polską Normą PN-EN ISO 6946 lub"
-      },
-      {
-       "type": "text",
-       "text": "na podstawie danych zawartych w tabeli nr 2,"
-      },
-      {
-       "type": "text",
-       "text": "wyrażony w [W/m² K],"
-      }
-     ]
+     "type": "text",
+     "text": "ogrzewanego, na podstawie danych zawartych"
     },
     {
-     "type": "tir",
-     "num": "4",
-     "path": "tir_4",
-     "text": "grubość dodatkowej warstwy ocieplenia,",
-     "children": [
-      {
-       "type": "text",
-       "text": "wyrażona w [m],"
-      }
-     ]
+     "type": "text",
+     "text": "w tabeli nr 3,"
     },
     {
-     "type": "tir",
-     "num": "5",
-     "path": "tir_5",
-     "text": "współczynnik przewodności cieplnej",
-     "children": [
-      {
-       "type": "text",
-       "text": "materiału izolacyjnego określony na"
-      },
-      {
-       "type": "text",
-       "text": "podstawie Polskiej Normy PN-EN ISO 10456"
-      },
-      {
-       "type": "text",
-       "text": "lub na podstawie danych producenta; dla"
-      },
-      {
-       "type": "text",
-       "text": "większości standardowych materiałów do"
-      },
-      {
-       "type": "text",
-       "text": "izolacji cieplnej, w tym dla wełny mineralnej"
-      },
-      {
-       "type": "text",
-       "text": "lub styropianu, można przyjmować = 0,040;"
-      },
-      {
-       "type": "text",
-       "text": "dla materiałów o podwyższonej izolacyjności λλ cieplnej można przyjmować wartości niższe,"
-      },
-      {
-       "type": "text",
-       "text": "pod warunkiem potwierdzenia przyjętych do"
-      },
-      {
-       "type": "text",
-       "text": "obliczeń parametrów izolacyjności cieplnej odpowiednią dokumentacją lub obliczeniami,"
-      },
-      {
-       "type": "text",
-       "text": "wyrażony w [W/m K],"
-      }
-     ]
+     "type": "text",
+     "text": "– powierzchnia ocieplonej przegrody przed"
     },
     {
-     "type": "tir",
-     "num": "6",
-     "path": "tir_6",
-     "text": "całkowita sprawność systemu grzewczego",
-     "children": [
-      {
-       "type": "text",
-       "text": "równa w przypadku budynków"
-      },
-      {
-       "type": "text",
-       "text": "mieszkalnych ηη 0MM lub w przypadku budynków użyteczności ηη publicznej 0PP i budynków usługowych, określona na podstawie danych"
-      },
-      {
-       "type": "text",
-       "text": "zawartych w tabeli nr 4"
-      },
-      {
-       "type": "text",
-       "text": "Ocieplenie stropu (2) – ilość zaoszczędzonej energii finalnej,"
-      },
-      {
-       "type": "text",
-       "text": "pod nieogrzewanym wyrażonej w [GJ/rok],"
-      },
-      {
-       "type": "text",
-       "text": "poddaszem₁ – współczynnik ostrości klimatu, na podstawie ¹² ∙AA pp⁰¹ dd danych zawartych w tabeli nr 1,"
-      }
-     ]
+     "type": "text",
+     "text": "wykonaniem ocieplenia, wyrażona w [m²],"
     },
     {
-     "type": "tir",
-     "num": "7",
-     "path": "tir_7",
-     "text": "współczynnik korekcyjny w zależności od",
-     "children": [
-      {
-       "type": "text",
-       "text": "wysokości średniej temperatury"
-      },
-      {
-       "type": "text",
-       "text": "pomieszczenia ogrzewanego, na podstawie"
-      },
-      {
-       "type": "text",
-       "text": "danych zawartych w tabeli nr 3,"
-      }
-     ]
+     "type": "text",
+     "text": "– współczynnik przenikania ciepła ściany"
     },
     {
-     "type": "tir",
-     "num": "8",
-     "path": "tir_8",
-     "text": "powierzchnia ocieplonej przegrody przed",
-     "children": [
-      {
-       "type": "text",
-       "text": "wykonaniem ocieplenia, wyrażona w [m²],"
-      }
-     ]
+     "type": "text",
+     "text": "zewnętrznej lub stropodachu w stanie"
     },
     {
-     "type": "tir",
-     "num": "9",
-     "path": "tir_9",
-     "text": "współczynnik przenikania ciepła stropu pod",
-     "children": [
-      {
-       "type": "text",
-       "text": "nieogrzewanym poddaszem w stanie"
-      },
-      {
-       "type": "text",
-       "text": "istniejącym, określony na podstawie dokumentacji technicznej, odpowiednich"
-      },
-      {
-       "type": "text",
-       "text": "obliczeń wykonanych dla stanu faktycznego"
-      },
-      {
-       "type": "text",
-       "text": "zgodnie z Polską Normą PN-EN ISO 6946 lub"
-      },
-      {
-       "type": "text",
-       "text": "na podstawie danych zawartych w tabeli nr 2,"
-      },
-      {
-       "type": "text",
-       "text": "wyrażony w [W/m² K],"
-      }
-     ]
+     "type": "text",
+     "text": "istniejącym, określony na podstawie"
     },
     {
-     "type": "tir",
-     "num": "10",
-     "path": "tir_10",
-     "text": "grubość dodatkowej warstwy ocieplenia,",
-     "children": [
-      {
-       "type": "text",
-       "text": "wyrażona w [m],"
-      }
-     ]
+     "type": "text",
+     "text": "dokumentacji technicznej, odpowiednich"
     },
     {
-     "type": "tir",
-     "num": "11",
-     "path": "tir_11",
-     "text": "współczynnik przewodności cieplnej",
-     "children": [
-      {
-       "type": "text",
-       "text": "materiału izolacyjnego określony na"
-      },
-      {
-       "type": "text",
-       "text": "podstawie Polskiej Normy PN-EN ISO 10456"
-      },
-      {
-       "type": "text",
-       "text": "lub na podstawie danych producenta; dla"
-      },
-      {
-       "type": "text",
-       "text": "większości standardowych materiałów do"
-      },
-      {
-       "type": "text",
-       "text": "izolacji cieplnej, w tym dla wełny mineralnej"
-      },
-      {
-       "type": "text",
-       "text": "lub styropianu, można przyjmować = 0,040;"
-      },
-      {
-       "type": "text",
-       "text": "dla materiałów o podwyższonej izolacyjności λλ cieplnej można przyjmować wartości niższe,"
-      },
-      {
-       "type": "text",
-       "text": "pod warunkiem potwierdzenia przyjętych do"
-      },
-      {
-       "type": "text",
-       "text": "obliczeń parametrów izolacyjności cieplnej"
-      },
-      {
-       "type": "text",
-       "text": "odpowiednią dokumentacją lub obliczeniami,"
-      },
-      {
-       "type": "text",
-       "text": "wyrażony w [W/m K],"
-      }
-     ]
+     "type": "text",
+     "text": "obliczeń wykonanych dla stanu faktycznego"
     },
     {
-     "type": "tir",
-     "num": "12",
-     "path": "tir_12",
-     "text": "całkowita sprawność systemu grzewczego",
-     "children": [
-      {
-       "type": "text",
-       "text": "równa w przypadku budynków"
-      },
-      {
-       "type": "text",
-       "text": "mieszkalnych ηη 0MM lub w przypadku budynków użyteczności ηη publicznej 0PP i budynków usługowych, określona na podstawie danych"
-      },
-      {
-       "type": "text",
-       "text": "zawartych w tabeli nr 4"
-      },
-      {
-       "type": "text",
-       "text": "Ocieplenie stropu (3) – ilość zaoszczędzonej energii finalnej,"
-      },
-      {
-       "type": "text",
-       "text": "nad piwnicą wyrażonej w [GJ/rok],"
-      },
-      {
-       "type": "text",
-       "text": "¹ – współczynnik ostrości klimatu, na podstawie ¹² ∙AA pp⁰¹ dd tabeli nr 1,"
-      }
-     ]
+     "type": "text",
+     "text": "zgodnie z Polską Normą PN-EN ISO 6946 lub"
     },
     {
-     "type": "tir",
-     "num": "13",
-     "path": "tir_13",
-     "text": "współczynnik korekcyjny w zależności od",
-     "children": [
-      {
-       "type": "text",
-       "text": "wysokości średniej temperatury"
-      },
-      {
-       "type": "text",
-       "text": "pomieszczenia ogrzewanego, na podstawie"
-      },
-      {
-       "type": "text",
-       "text": "danych zawartych w tabeli nr 3,"
-      }
-     ]
+     "type": "text",
+     "text": "na podstawie danych zawartych w tabeli nr 2,"
     },
     {
-     "type": "tir",
-     "num": "14",
-     "path": "tir_14",
-     "text": "powierzchnia ocieplonej przegrody przed",
-     "children": [
-      {
-       "type": "text",
-       "text": "wykonaniem ocieplenia, wyrażona w [m²],"
-      }
-     ]
+     "type": "text",
+     "text": "wyrażony w [W/m² K],"
     },
     {
-     "type": "tir",
-     "num": "15",
-     "path": "tir_15",
-     "text": "współczynnik przenikania ciepła stropu nad",
-     "children": [
-      {
-       "type": "text",
-       "text": "piwnicą nieogrzewaną w stanie istniejącym,"
-      },
-      {
-       "type": "text",
-       "text": "określony na podstawie dokumentacji"
-      },
-      {
-       "type": "text",
-       "text": "technicznej, odpowiednich obliczeń"
-      },
-      {
-       "type": "text",
-       "text": "wykonanych dla stanu faktycznego zgodnie z Polską Normą PN-EN ISO 6946 lub na"
-      },
-      {
-       "type": "text",
-       "text": "podstawie danych zawartych w tabeli nr 2,"
-      },
-      {
-       "type": "text",
-       "text": "wyrażony w [W/m²K],"
-      }
-     ]
+     "type": "text",
+     "text": "– grubość dodatkowej warstwy ocieplenia,"
     },
     {
-     "type": "tir",
-     "num": "16",
-     "path": "tir_16",
-     "text": "grubość dodatkowej warstwy ocieplenia,",
-     "children": [
-      {
-       "type": "text",
-       "text": "wyrażona w [m],"
-      }
-     ]
+     "type": "text",
+     "text": "wyrażona w [m],"
     },
     {
-     "type": "tir",
-     "num": "17",
-     "path": "tir_17",
-     "text": "współczynnik przewodności cieplnej",
-     "children": [
-      {
-       "type": "text",
-       "text": "materiału izolacyjnego określony na"
-      },
-      {
-       "type": "text",
-       "text": "podstawie Polskiej Normy PN-EN ISO 10456"
-      },
-      {
-       "type": "text",
-       "text": "lub na podstawie danych producenta; dla"
-      },
-      {
-       "type": "text",
-       "text": "większości standardowych materiałów do"
-      },
-      {
-       "type": "text",
-       "text": "izolacji cieplnej, w tym dla wełny mineralnej"
-      },
-      {
-       "type": "text",
-       "text": "lub styropianu, można przyjmować = 0,040;"
-      },
-      {
-       "type": "text",
-       "text": "dla materiałów o podwyższonej izolacyjności λλ cieplnej można przyjmować wartości niższe,"
-      },
-      {
-       "type": "text",
-       "text": "pod warunkiem potwierdzenia przyjętych do"
-      },
-      {
-       "type": "text",
-       "text": "obliczeń parametrów izolacyjności cieplnej"
-      },
-      {
-       "type": "text",
-       "text": "odpowiednią dokumentacją lub obliczeniami,"
-      },
-      {
-       "type": "text",
-       "text": "wyrażony w [W/m K],"
-      }
-     ]
+     "type": "text",
+     "text": "– współczynnik przewodności cieplnej"
     },
     {
-     "type": "tir",
-     "num": "18",
-     "path": "tir_18",
-     "text": "całkowita sprawność systemu grzewczego",
-     "children": [
-      {
-       "type": "text",
-       "text": "równa w przypadku budynków"
-      },
-      {
-       "type": "text",
-       "text": "mieszkalnych ηη 0MM lub w przypadku budynków użyteczności publicznej i budynków"
-      },
-      {
-       "type": "text",
-       "text": "usługowych, określona na podstawie danych"
-      },
-      {
-       "type": "text",
-       "text": "zawartych w tabeli nr 4"
-      },
-      {
-       "type": "text",
-       "text": "Modernizacja lub wymiana stolarki okiennej w budynkach mieszkalnych i zamieszkania zbiorowego"
-      },
-      {
-       "type": "text",
-       "text": "Modernizacja lub (4) – ilość zaoszczędzonej energii finalnej,"
-      },
-      {
-       "type": "text",
-       "text": "wymiana stolarki wyrażonej w [GJ/rok],"
-      },
-      {
-       "type": "text",
-       "text": "okiennej na nową 56 – współczynnik ostrości klimatu, na podstawie danych zawartych w tabeli nr 1,"
-      }
-     ]
+     "type": "text",
+     "text": "materiału izolacyjnego określony na"
     },
     {
-     "type": "tir",
-     "num": "19",
-     "path": "tir_19",
-     "text": "współczynnik korekcyjny w zależności od",
-     "children": [
-      {
-       "type": "text",
-       "text": "wysokości średniej temperatury"
-      },
-      {
-       "type": "text",
-       "text": "pomieszczenia ogrzewanego, na podstawie"
-      },
-      {
-       "type": "text",
-       "text": "danych zawartych w tabeli nr 3,"
-      }
-     ]
+     "type": "text",
+     "text": "podstawie Polskiej Normy PN-EN ISO 10456"
     },
     {
-     "type": "tir",
-     "num": "20",
-     "path": "tir_20",
-     "text": "powierzchnia okien poddawanych",
-     "children": [
-      {
-       "type": "text",
-       "text": "termomodernizacji, wyrażona w [m²],"
-      }
-     ]
+     "type": "text",
+     "text": "lub na podstawie danych producenta; dla"
     },
     {
-     "type": "tir",
-     "num": "21",
-     "path": "tir_21",
-     "text": "współczynnik przenikania ciepła okna",
-     "children": [
-      {
-       "type": "text",
-       "text": "zewnętrznego i drzwi balkonowych w stanie"
-      },
-      {
-       "type": "text",
-       "text": "istniejącym, określony na podstawie"
-      },
-      {
-       "type": "text",
-       "text": "dokumentacji technicznej lub na podstawie"
-      },
-      {
-       "type": "text",
-       "text": "danych zawartych w tabeli nr 2,"
-      }
-     ]
+     "type": "text",
+     "text": "większości standardowych materiałów do"
     },
     {
-     "type": "tir",
-     "num": "22",
-     "path": "tir_22",
-     "text": "współczynnik przenikania ciepła okna",
-     "children": [
-      {
-       "type": "text",
-       "text": "zewnętrznego i drzwi balkonowych po modernizacji, określony na podstawie"
-      },
-      {
-       "type": "text",
-       "text": "dokumentacji technicznej dostawcy stolarki"
-      },
-      {
-       "type": "text",
-       "text": "okiennej,"
-      }
-     ]
+     "type": "text",
+     "text": "izolacji cieplnej, w tym dla wełny mineralnej"
     },
     {
-     "type": "tir",
-     "num": "23",
-     "path": "tir_23",
-     "text": "całkowita sprawność systemu grzewczego dla",
-     "children": [
-      {
-       "type": "text",
-       "text": "budynków mieszkalnych i zamieszkania"
-      },
-      {
-       "type": "text",
-       "text": "zbiorowego określona na podstawie danych"
-      },
-      {
-       "type": "text",
-       "text": "zawartych w tabeli nr 4"
-      },
-      {
-       "type": "text",
-       "text": "Uwaga:"
-      },
-      {
-       "type": "text",
-       "text": "Uszczelnienie stolarki okiennej nie powoduje poprawy"
-      },
-      {
-       "type": "text",
-       "text": "współczynnika przenikania ciepła , a jedynie"
-      },
-      {
-       "type": "text",
-       "text": "ograniczenie strat ciepła w związku UU z 0oooo ograniczeniem nadmiernej wentylacji. W przypadkach modernizacji"
-      },
-      {
-       "type": "text",
-       "text": "polegającej na remoncie i uszczelnieniu istniejącej"
-      },
-      {
-       "type": "text",
-       "text": "stolarki okiennej należy korzystać ze wzoru (4),"
-      },
-      {
-       "type": "text",
-       "text": "przyjmując ="
-      },
-      {
-       "type": "text",
-       "text": "Modernizacja lub wymiana stolarki okiennej w budynkach użyteczności publicznej i budynkach UU 0oooo biurowych UU 1oooo"
-      },
-      {
-       "type": "text",
-       "text": "Modernizacja lub (5) – ilość zaoszczędzonej energii finalnej,"
-      },
-      {
-       "type": "text",
-       "text": "wymiana stolarki wyrażonej w [GJ/rok],"
-      },
-      {
-       "type": "text",
-       "text": "okiennej na nową 56 – współczynnik ostrości klimatu, na podstawie danych zawartych w tabeli nr 1,"
-      }
-     ]
+     "type": "text",
+     "text": "lub styropianu, można przyjmować = 0,040;"
     },
     {
-     "type": "tir",
-     "num": "24",
-     "path": "tir_24",
-     "text": "współczynnik korekcyjny w zależności od",
-     "children": [
-      {
-       "type": "text",
-       "text": "wysokości średniej temperatury"
-      },
-      {
-       "type": "text",
-       "text": "pomieszczenia ogrzewanego, na podstawie"
-      },
-      {
-       "type": "text",
-       "text": "danych zawartych w tabeli nr 3,"
-      }
-     ]
+     "type": "text",
+     "text": "dla materiałów o podwyższonej izolacyjności λλ cieplnej można przyjmować wartości niższe,"
     },
     {
-     "type": "tir",
-     "num": "25",
-     "path": "tir_25",
-     "text": "powierzchnia okien poddawanych",
-     "children": [
-      {
-       "type": "text",
-       "text": "termomodernizacji, wyrażona w [m²],"
-      }
-     ]
+     "type": "text",
+     "text": "pod warunkiem potwierdzenia przyjętych do"
     },
     {
-     "type": "tir",
-     "num": "26",
-     "path": "tir_26",
-     "text": "współczynnik przenikania ciepła okna",
-     "children": [
-      {
-       "type": "text",
-       "text": "zewnętrznego i drzwi balkonowych w stanie"
-      },
-      {
-       "type": "text",
-       "text": "istniejącym, określony na podstawie"
-      },
-      {
-       "type": "text",
-       "text": "dokumentacji technicznej lub na podstawie"
-      },
-      {
-       "type": "text",
-       "text": "danych zawartych w tabeli nr 2,"
-      }
-     ]
+     "type": "text",
+     "text": "obliczeń parametrów izolacyjności cieplnej odpowiednią dokumentacją lub obliczeniami,"
     },
     {
-     "type": "tir",
-     "num": "27",
-     "path": "tir_27",
-     "text": "współczynnik przenikania ciepła okna",
-     "children": [
-      {
-       "type": "text",
-       "text": "zewnętrznego i drzwi balkonowych po"
-      },
-      {
-       "type": "text",
-       "text": "modernizacji, określony na podstawie"
-      },
-      {
-       "type": "text",
-       "text": "dokumentacji technicznej dostawcy stolarki"
-      },
-      {
-       "type": "text",
-       "text": "okiennej,"
-      }
-     ]
+     "type": "text",
+     "text": "wyrażony w [W/m K],"
     },
     {
-     "type": "tir",
-     "num": "28",
-     "path": "tir_28",
-     "text": "całkowita sprawność systemu grzewczego dla",
-     "children": [
-      {
-       "type": "text",
-       "text": "budynków użyteczności publicznej i budynków"
-      },
-      {
-       "type": "text",
-       "text": "usługowych, określona na podstawie danych"
-      },
-      {
-       "type": "text",
-       "text": "zawartych w tabeli nr 4 Uwaga:"
-      },
-      {
-       "type": "text",
-       "text": "Uszczelnienie stolarki okiennej nie powoduje poprawy"
-      },
-      {
-       "type": "text",
-       "text": "współczynnika przenikania ciepła , a jedynie"
-      },
-      {
-       "type": "text",
-       "text": "ograniczenie strat ciepła w związku UU z 0oooo ograniczeniem nadmiernej wentylacji. W przypadkach modernizacji"
-      },
-      {
-       "type": "text",
-       "text": "polegającej na remoncie i uszczelnieniu istniejącej"
-      },
-      {
-       "type": "text",
-       "text": "stolarki okiennej należy korzystać ze wzoru (5),"
-      },
-      {
-       "type": "text",
-       "text": "przyjmując ="
-      },
-      {
-       "type": "text",
-       "text": "Modernizacja lub wymiana instalacji ciepłej wody użytkowej"
-      },
-      {
-       "type": "text",
-       "text": "Modernizacja lub (6) – ilość zaoszczędzonej energii finalnej,"
-      },
-      {
-       "type": "text",
-       "text": "wymiana instalacji wyrażonej w [GJ/rok],"
-      },
-      {
-       "type": "text",
-       "text": "ciepłej wody , – współczynniki korekcyjne z uwagi na"
-      },
-      {
-       "type": "text",
-       "text": "użytkowej zastosowanie urządzeń i armatury"
-      },
-      {
-       "type": "text",
-       "text": "w budynkach powodującej redukcję zużycia wody"
-      },
-      {
-       "type": "text",
-       "text": "mieszkalnych, odpowiednio dla stanu przed i po"
-      },
-      {
-       "type": "text",
-       "text": "użyteczności modernizacji, przyjmowane na podstawie"
-      },
-      {
-       "type": "text",
-       "text": "publicznej danych zawartych w tabeli nr 5; w przypadku"
-      },
-      {
-       "type": "text",
-       "text": "i biurowych braku urządzeń i armatury powodującej"
-      },
-      {
-       "type": "text",
-       "text": "redukcję zużycia wody przyjmuje się"
-      },
-      {
-       "type": "text",
-       "text": "= = 1,00, , – zapotrzebowanie na energię finalną do"
-      },
-      {
-       "type": "text",
-       "text": "HH,WW¹przygotowania ciepłej wody użytkowej"
-      },
-      {
-       "type": "text",
-       "text": "odpowiednio dla stanu przed i po"
-      },
-      {
-       "type": "text",
-       "text": "modernizacji, obliczoną zgodnie"
-      },
-      {
-       "type": "text",
-       "text": "z rozporządzeniem wydanym na podstawie"
-      },
-      {
-       "type": "text",
-       "text": "art. 15 ustawy z dnia 29 sierpnia 2014 r."
-      },
-      {
-       "type": "text",
-       "text": "o charakterystyce energetycznej budynków,"
-      },
-      {
-       "type": "text",
-       "text": "wyrażoną w [kWh/rok],"
-      },
-      {
-       "type": "text",
-       "text": "Wymiana opraw oświetleniowych lub źródeł światła"
-      },
-      {
-       "type": "text",
-       "text": "Oprawy (7) – ilość zaoszczędzonej energii finalnej,"
-      },
-      {
-       "type": "text",
-       "text": "oświetleniowe wyrażonej w [kWh/rok],"
-      },
-      {
-       "type": "text",
-       "text": "i źródła światła – czas użytkowania źródła światła określony na"
-      },
-      {
-       "type": "text",
-       "text": "podstawie danych zawartych w tabeli nr 6,"
-      },
-      {
-       "type": "text",
-       "text": "wyrażony w [h/rok],"
-      }
-     ]
+     "type": "text",
+     "text": "– całkowita sprawność systemu grzewczego"
     },
     {
-     "type": "tir",
-     "num": "29",
-     "path": "tir_29",
-     "text": "łączna moc znamionowa opraw",
-     "children": [
-      {
-       "type": "text",
-       "text": "oświetleniowych lub źródeł światła przed"
-      },
-      {
-       "type": "text",
-       "text": "wymianą, wyrażona w [W]; w przypadku gdy"
-      },
-      {
-       "type": "text",
-       "text": "wymieniane typy opraw lub źródeł światła"
-      },
-      {
-       "type": "text",
-       "text": "zostały wycofane z obrotu, należy"
-      },
-      {
-       "type": "text",
-       "text": "przyjmować dla nich moce odpowiadające"
-      },
-      {
-       "type": "text",
-       "text": "najniższej dostępnej obecnie na rynku klasie efektywności energetycznej, zgodnie"
-      },
-      {
-       "type": "text",
-       "text": "z przepisami aktu delegowanego,"
-      },
-      {
-       "type": "text",
-       "text": "w rozumieniu art. 2 ust. 1 ustawy z dnia"
-      },
-      {
-       "type": "text",
-       "text": "14 września 2012 r. o etykietowaniu"
-      },
-      {
-       "type": "text",
-       "text": "energetycznym produktów związanych"
-      },
-      {
-       "type": "text",
-       "text": "z energią (Dz. U. z 2020 r. poz. 378),"
-      }
-     ]
+     "type": "text",
+     "text": "równa w przypadku budynków"
     },
     {
-     "type": "tir",
-     "num": "30",
-     "path": "tir_30",
-     "text": "łączna moc znamionowa nowych opraw",
-     "children": [
-      {
-       "type": "text",
-       "text": "oświetleniowych lub źródeł światła po"
-      },
-      {
-       "type": "text",
-       "text": "wymianie, wyrażona w [W]"
-      },
-      {
-       "type": "text",
-       "text": "Uwaga:"
-      },
-      {
-       "type": "text",
-       "text": "Oszczędności w zużyciu energii dla źródeł światła"
-      },
-      {
-       "type": "text",
-       "text": "obliczane są przy założeniu, że natężenie oświetlenia"
-      },
-      {
-       "type": "text",
-       "text": "powierzchni, mierzone w [lm/m²], po wymianie"
-      },
-      {
-       "type": "text",
-       "text": "spełnia wymagania Polskich Norm PN-EN 12464-1"
-      },
-      {
-       "type": "text",
-       "text": "oraz PN-EN-13201-2 Wymiana urządzeń przeznaczonych do użytku domowego – pralki, suszarki, zmywarki do naczyń, chłodziarki, kuchenki lub piekarniki"
-      },
-      {
-       "type": "text",
-       "text": "Pralki, suszarki, (8) – ilość zaoszczędzonej energii finalnej,"
-      },
-      {
-       "type": "text",
-       "text": "zmywarki do naczyń, wyrażonej w [kWh/rok],"
-      },
-      {
-       "type": "text",
-       "text": "chłodziarki, – roczne zużycie energii urządzenia przed"
-      },
-      {
-       "type": "text",
-       "text": "kuchenki, piekarniki wymianą, wyrażone w [kWh/rok]; w przypadku"
-      },
-      {
-       "type": "text",
-       "text": "gdy wymieniany typ urządzenia został"
-      },
-      {
-       "type": "text",
-       "text": "wycofany z obrotu, należy przyjąć wartość"
-      },
-      {
-       "type": "text",
-       "text": "odpowiadającą najniższej dostępnej obecnie"
-      },
-      {
-       "type": "text",
-       "text": "na rynku klasie efektywności energetycznej,"
-      },
-      {
-       "type": "text",
-       "text": "określoną zgodnie z przepisami aktu"
-      },
-      {
-       "type": "text",
-       "text": "delegowanego, w rozumieniu art. 2 ust. 1"
-      },
-      {
-       "type": "text",
-       "text": "ustawy z dnia 14 września 2012 r."
-      },
-      {
-       "type": "text",
-       "text": "o etykietowaniu energetycznym produktów"
-      },
-      {
-       "type": "text",
-       "text": "związanych z energią,"
-      }
-     ]
+     "type": "text",
+     "text": "mieszkalnych ηη 0MM lub w przypadku budynków użyteczności ηη publicznej 0PP i budynków usługowych, określona na podstawie danych"
     },
     {
-     "type": "tir",
-     "num": "31",
-     "path": "tir_31",
-     "text": "roczne zużycie energii nowego urządzenia po",
-     "children": [
-      {
-       "type": "text",
-       "text": "wymianie, określone na podstawie"
-      },
-      {
-       "type": "text",
-       "text": "dokumentacji technicznej tego urządzenia,"
-      },
-      {
-       "type": "text",
-       "text": "wyrażone w [kWh/rok]"
-      },
-      {
-       "type": "text",
-       "text": "Wymiana silników elektrycznych"
-      },
-      {
-       "type": "text",
-       "text": "Silniki elektryczne (9) – ilość zaoszczędzonej energii finalnej,"
-      },
-      {
-       "type": "text",
-       "text": "o mocy znamionowej wyrażonej w [kWh/rok],"
-      },
-      {
-       "type": "text",
-       "text": "1 1 ∆QQ⁰ = PP 2NN ∙tt∙KK PP ∙( − )∙100 od 0,75 kW do – moc znamionowa silnika przed wymianą,"
-      },
-      {
-       "type": "text",
-       "text": "375 kW określona na podstawie danych z tabliczki"
-      },
-      {
-       "type": "text",
-       "text": "znamionowej, wyrażona w [kW],"
-      }
-     ]
+     "type": "text",
+     "text": "zawartych w tabeli nr 4"
     },
     {
-     "type": "tir",
-     "num": "32",
-     "path": "tir_32",
-     "text": "średni czas pracy silnika, określony na",
-     "children": [
-      {
-       "type": "text",
-       "text": "podstawie danych zawartych w tabeli nr 7,"
-      },
-      {
-       "type": "text",
-       "text": "wyrażony w [h/rok],"
-      }
-     ]
+     "type": "text",
+     "text": "Ocieplenie stropu (2) – ilość zaoszczędzonej energii finalnej,"
     },
     {
-     "type": "tir",
-     "num": "33",
-     "path": "tir_33",
-     "text": "średnie obciążenie silnika w czasie t w stosunku",
-     "children": [
-      {
-       "type": "text",
-       "text": "do jego mocy znamionowej, określone na"
-      },
-      {
-       "type": "text",
-       "text": "podstawie danych zawartych w tabeli nr 8,"
-      }
-     ]
+     "type": "text",
+     "text": "pod nieogrzewanym wyrażonej w [GJ/rok],"
     },
     {
-     "type": "tir",
-     "num": "34",
-     "path": "tir_34",
-     "text": "sprawność silnika przed wymianą, określona",
-     "children": [
-      {
-       "type": "text",
-       "text": "na podstawie danych zawartych w załączniku I"
-      },
-      {
-       "type": "text",
-       "text": "rozporządzenia 640/2009 z dnia 22 lipca"
-      },
-      {
-       "type": "text",
-       "text": "2009 r. w sprawie wykonania dyrektywy"
-      },
-      {
-       "type": "text",
-       "text": "2005/32/WE Parlamentu Europejskiego"
-      },
-      {
-       "type": "text",
-       "text": "i Rady w odniesieniu do wymogów"
-      },
-      {
-       "type": "text",
-       "text": "dotyczących ekoprojektu dla silników"
-      },
-      {
-       "type": "text",
-       "text": "elektrycznych (Dz. Urz. UE L 191"
-      },
-      {
-       "type": "text",
-       "text": "z 23.07.2009, str. 26, Dz. Urz. UE L 46"
-      },
-      {
-       "type": "text",
-       "text": "z 19.02.2011, str. 63, Dz. Urz. UE L 2"
-      },
-      {
-       "type": "text",
-       "text": "z 07.01.2014, str. 1 oraz Dz. Urz. UE L 346 8) z 20.12.2016, str. 51) ; w przypadku gdy"
-      },
-      {
-       "type": "text",
-       "text": "wymieniany typ silnika został wycofany"
-      },
-      {
-       "type": "text",
-       "text": "z obrotu, należy przyjąć sprawność"
-      },
-      {
-       "type": "text",
-       "text": "odpowiadającą silnikowi o klasie IE3 lub"
-      },
-      {
-       "type": "text",
-       "text": "klasie IE2 z wyposażeniem w sterownik"
-      },
-      {
-       "type": "text",
-       "text": "bezstopniowy, wyrażona w [%],"
-      }
-     ]
+     "type": "text",
+     "text": "poddaszem₁ – współczynnik ostrości klimatu, na podstawie ¹² ∙AA pp⁰¹ dd danych zawartych w tabeli nr 1,"
     },
     {
-     "type": "tir",
-     "num": "35",
-     "path": "tir_35",
-     "text": "sprawność nowego silnika po wymianie,",
-     "children": [
-      {
-       "type": "text",
-       "text": "określona na podstawie dokumentacji"
-      },
-      {
-       "type": "text",
-       "text": "technicznej, wyrażona w [%]"
-      },
-      {
-       "type": "text",
-       "text": "Określanie ilości zaoszczędzonej energii pierwotnej"
-      },
-      {
-       "type": "text",
-       "text": "(10) – ilość zaoszczędzonej energii pierwotnej,"
-      },
-      {
-       "type": "text",
-       "text": "wyrażonej w [kWh/rok],"
-      }
-     ]
+     "type": "text",
+     "text": "– współczynnik korekcyjny w zależności od"
     },
     {
-     "type": "tir",
-     "num": "36",
-     "path": "tir_36",
-     "text": "ilość zaoszczędzonej energii finalnej,",
-     "children": [
-      {
-       "type": "text",
-       "text": "wyrażonej w [kWh/rok],"
-      }
-     ]
+     "type": "text",
+     "text": "wysokości średniej temperatury"
     },
     {
-     "type": "tir",
-     "num": "37",
-     "path": "tir_37",
-     "text": "współczynnik nakładu nieodnawialnej energii",
-     "children": [
-      {
-       "type": "text",
-       "text": "pierwotnej odpowiedni dla danego nośnika energii finalnej, stosownie do"
-      },
-      {
-       "type": "text",
-       "text": "wykorzystywanego paliwa lub energii,"
-      },
-      {
-       "type": "text",
-       "text": "określony na podstawie danych zawartych"
-      },
-      {
-       "type": "text",
-       "text": "w tabeli 1 załącznika nr 4 do rozporządzenia"
-      },
-      {
-       "type": "text",
-       "text": "Wymiana pojazdów służących do transportu drogowego"
-      },
-      {
-       "type": "text",
-       "text": "Wymiana pojazdów (11) – ilość zaoszczędzonej energii finalnej,"
-      },
-      {
-       "type": "text",
-       "text": "służących do wyrażonej w [kWh/rok], transportu LL∙CCCC – średni przebieg dla danej kategorii pojazdu )∙ 1 drogowego na nowe wynoszący 190 000 km,"
-      },
-      {
-       "type": "text",
-       "text": "pojazdy, – rzeczywisty przebieg danego pojazdu,"
-      },
-      {
-       "type": "text",
-       "text": "w przypadku gdy są wyrażony w [km],"
-      },
-      {
-       "type": "text",
-       "text": "one objęte zakresem – jednostkowe zużycie energii przez pojazd"
-      },
-      {
-       "type": "text",
-       "text": "rozporządzenia określone na podstawie rzeczywistego zużycia"
-      },
-      {
-       "type": "text",
-       "text": "Parlamentu lub w przypadku gdy nie jest możliwe jego"
-      },
-      {
-       "type": "text",
-       "text": "Europejskiego i Rady udokumentowanie – określone na podstawie"
-      },
-      {
-       "type": "text",
-       "text": "(UE) 2019/631 danych producenta lub na podstawie danych"
-      },
-      {
-       "type": "text",
-       "text": "z dnia 17 kwietnia zawartych w tabeli nr 9, wyrażone w [MJ/km],"
-      },
-      {
-       "type": "text",
-       "text": "2019 r. określającego – norma emisji CO₂ dla pojazdu nabytego"
-      },
-      {
-       "type": "text",
-       "text": "normy emisji CO₂ wynikająca z rozporządzenia (UE) 2019/631,"
-      },
-      {
-       "type": "text",
-       "text": "dla nowych wyrażona w [kgCO₂/km],"
-      },
-      {
-       "type": "text",
-       "text": "samochodów osobowych i dla – obliczeniowa wartość opałowa (kaloryczna)"
-      },
-      {
-       "type": "text",
-       "text": "nowych lekkich paliwa będąca średnią ważoną wartości"
-      },
-      {
-       "type": "text",
-       "text": "pojazdów opałowych benzyny i oleju napędowego"
-      },
-      {
-       "type": "text",
-       "text": "użytkowych oraz wynosząca 43,558 MJ/kg,"
-      },
-      {
-       "type": "text",
-       "text": "uchylającego – współczynnik przeliczeniowy emisji CO₂"
-      },
-      {
-       "type": "text",
-       "text": "rozporządzenia (WE) przypadającej na jednostkę masy spalonego"
-      },
-      {
-       "type": "text",
-       "text": "nr 443/2009 i (UE) paliwa przez pojazd nabyty, wynoszący"
-      },
-      {
-       "type": "text",
-       "text": "nr 510/2011 3,169 kgCO₂/kg,"
-      },
-      {
-       "type": "text",
-       "text": "(Dz. Urz. UE L 111 – okres pozostały do przewidywanego"
-      },
-      {
-       "type": "text",
-       "text": "z 25.04.2019, str. 13, zakończenia cyklu życia pojazdu, wyrażony"
-      },
-      {
-       "type": "text",
-       "text": "z późn. zm.) lub w [lata], liczony jako iloraz przebiegu"
-      },
-      {
-       "type": "text",
-       "text": "rozporządzenia pozostałego do zakończenia średniego cyklu"
-      },
-      {
-       "type": "text",
-       "text": "Parlamentu życia pojazdu, wyrażonego w [km],"
-      },
-      {
-       "type": "text",
-       "text": "Europejskiego i Rady i średniorocznego przebiegu pojazdu"
-      },
-      {
-       "type": "text",
-       "text": "(UE) 2019/1242 wynoszącego 8000 km"
-      },
-      {
-       "type": "text",
-       "text": "z dnia 20 czerwca"
-      },
-      {
-       "type": "text",
-       "text": "2019 r. określającego"
-      },
-      {
-       "type": "text",
-       "text": "normy emisji CO₂"
-      },
-      {
-       "type": "text",
-       "text": "dla nowych"
-      },
-      {
-       "type": "text",
-       "text": "pojazdów ciężkich"
-      },
-      {
-       "type": "text",
-       "text": "oraz zmieniającego rozporządzenia"
-      },
-      {
-       "type": "text",
-       "text": "Parlamentu"
-      },
-      {
-       "type": "text",
-       "text": "Europejskiego i Rady"
-      },
-      {
-       "type": "text",
-       "text": "(WE) nr 595/2009"
-      },
-      {
-       "type": "text",
-       "text": "i (UE) 2018/956 oraz"
-      },
-      {
-       "type": "text",
-       "text": "dyrektywę Rady"
-      },
-      {
-       "type": "text",
-       "text": "96/53/WE (Dz. Urz."
-      },
-      {
-       "type": "text",
-       "text": "UE L 198"
-      },
-      {
-       "type": "text",
-       "text": "z 25.07.2019, str. 202)"
-      },
-      {
-       "type": "text",
-       "text": "Wymiana pojazdów (12) – ilość zaoszczędzonej energii finalnej,"
-      },
-      {
-       "type": "text",
-       "text": "służących do wyrażonej w [kWh/rok],"
-      },
-      {
-       "type": "text",
-       "text": "transportu MM śrr 1 – średni przebieg dla danej kategorii pojazdu drogowego innych określony na podstawie danych zawartych"
-      },
-      {
-       "type": "text",
-       "text": "niż wskazane w tabeli nr 10, wyrażony w [km],"
-      },
-      {
-       "type": "text",
-       "text": "w rozporządzeniu – rzeczywisty przebieg danego pojazdu,"
-      },
-      {
-       "type": "text",
-       "text": "Parlamentu wyrażony w [km],"
-      },
-      {
-       "type": "text",
-       "text": "Europejskiego i Rady – jednostkowe zużycie energii przez pojazd"
-      },
-      {
-       "type": "text",
-       "text": "(UE) 2019/631 lub określone na podstawie rzeczywistego zużycia"
-      },
-      {
-       "type": "text",
-       "text": "rozporządzeniu lub w przypadku gdy nie jest możliwe jego"
-      },
-      {
-       "type": "text",
-       "text": "Parlamentu udokumentowanie – określone na podstawie Europejskiego i Rady danych producenta lub na podstawie danych"
-      },
-      {
-       "type": "text",
-       "text": "(UE) 2019/1242 zawartych w tabeli nr 9, wyrażone w [MJ/km],"
-      }
-     ]
+     "type": "text",
+     "text": "pomieszczenia ogrzewanego, na podstawie"
     },
     {
-     "type": "tir",
-     "num": "38",
-     "path": "tir_38",
-     "text": "jednostkowe zużycie energii przez pojazd",
-     "children": [
-      {
-       "type": "text",
-       "text": "nabyty określone na podstawie rzeczywistego"
-      },
-      {
-       "type": "text",
-       "text": "zużycia lub w przypadku gdy nie jest możliwe"
-      },
-      {
-       "type": "text",
-       "text": "jego udokumentowanie – określone na"
-      },
-      {
-       "type": "text",
-       "text": "podstawie danych producenta lub na"
-      },
-      {
-       "type": "text",
-       "text": "podstawie danych zawartych w tabeli nr 9,"
-      },
-      {
-       "type": "text",
-       "text": "wyrażone w [MJ/km],"
-      }
-     ]
+     "type": "text",
+     "text": "danych zawartych w tabeli nr 3,"
     },
     {
-     "type": "tir",
-     "num": "39",
-     "path": "tir_39",
-     "text": "jednostkowe zużycie energii przez",
-     "children": [
-      {
-       "type": "text",
-       "text": "standardowy pojazd należący do tej samej,"
-      },
-      {
-       "type": "text",
-       "text": "pod względem wielkości i napędu, kategorii"
-      },
-      {
-       "type": "text",
-       "text": "pojazdów określone na podstawie danych"
-      },
-      {
-       "type": "text",
-       "text": "zawartych w tabeli nr 9, wyrażone w [MJ/km],"
-      }
-     ]
+     "type": "text",
+     "text": "– powierzchnia ocieplonej przegrody przed"
     },
     {
-     "type": "tir",
-     "num": "40",
-     "path": "tir_40",
-     "text": "średni cykl życia pojazdu określony na",
-     "children": [
-      {
-       "type": "text",
-       "text": "podstawie danych zawartych w tabeli nr 11,"
-      },
-      {
-       "type": "text",
-       "text": "wyrażony w [lata]."
-      },
-      {
-       "type": "text",
-       "text": "Uwaga:"
-      },
-      {
-       "type": "text",
-       "text": "W przypadku gdy rzeczywisty przebieg danego"
-      },
-      {
-       "type": "text",
-       "text": "pojazdu jest większy niż średni przebieg dla danej kategorii pojazdu , różnica przyjmuje"
-      },
-      {
-       "type": "text",
-       "text": "wartość 0 1.2. Dane wykorzystywane do określania i weryfikacji ilości energii zaoszczędzonej"
-      },
-      {
-       "type": "text",
-       "text": "w wyniku realizacji przedsięwzięcia służącego poprawie efektywności energetycznej"
-      },
-      {
-       "type": "text",
-       "text": "Tabela nr 1. Współczynnik k₁ ostrości klimatu"
-      },
-      {
-       "type": "text",
-       "text": "Lp. Województwo Współczynnik Lp. Województwo Współczynnik"
-      },
-      {
-       "type": "text",
-       "text": "ostrości ostrości klimatu"
-      },
-      {
-       "type": "text",
-       "text": "klimatu k₁"
-      },
-      {
-       "type": "text",
-       "text": "k₁"
-      },
-      {
-       "type": "text",
-       "text": "1 mazowieckie 1,012 9 dolnośląskie 0,975"
-      },
-      {
-       "type": "text",
-       "text": "2 podlaskie 1,124 10 łódzkie 0,998"
-      },
-      {
-       "type": "text",
-       "text": "3 warmińsko-"
-      },
-      {
-       "type": "text",
-       "text": "-mazurskie 1,125 11 lubelskie 1,040"
-      },
-      {
-       "type": "text",
-       "text": "4 pomorskie 1,011 12 opolskie 0,948"
-      },
-      {
-       "type": "text",
-       "text": "5 zachodniopomorskie 0,994 13 śląskie 0,976"
-      },
-      {
-       "type": "text",
-       "text": "6 lubuskie 0,962 14 świętokrzyskie 1,022"
-      },
-      {
-       "type": "text",
-       "text": "7 wielkopolskie 0,985 15 małopolskie 0,970"
-      },
-      {
-       "type": "text",
-       "text": "8 kujawsko-pomorskie 1,006 16 podkarpackie 0,997"
-      },
-      {
-       "type": "text",
-       "text": "Tabela nr 2. Wskaźnik U₀ w stanie istniejącym w zależności od okresu budowy i rodzaju"
-      },
-      {
-       "type": "text",
-       "text": "przegrody budowlanej "
-      },
-      {
-       "type": "text",
-       "text": "Współczynnik U przegród zewnętrznych w zależności od Dane wyjściowe⁰ Lp. rodzaju przegrody i okresu budowy [W/m² K]"
-      },
-      {
-       "type": "text",
-       "text": "okres budowy przed 1983 r. 1983–1991 1992–1998 po 1998 r."
-      },
-      {
-       "type": "text",
-       "text": "Strop pod"
-      },
-      {
-       "type": "text",
-       "text": "1 nieogrzewanym 0,90 0,40 0,30 0,30"
-      },
-      {
-       "type": "text",
-       "text": "poddaszem"
-      },
-      {
-       "type": "text",
-       "text": "2 Dach lub stropodach 0,70 0,45 0,30 0,30"
-      },
-      {
-       "type": "text",
-       "text": "3 Ściany zewnętrzne 1,10 0,75 0,60 0,50 Strop nad piwnicą / 4 0,8 0,8 0,7 0,6 podłoga na gruncie"
-      },
-      {
-       "type": "text",
-       "text": "5 Okna zewnętrzne 2,6 2,6 2,6 2,0"
-      },
-      {
-       "type": "text",
-       "text": "Tabela nr 3. Współczynnik korekcyjny k₂ w zależności od średniej temperatury pomieszczenia"
-      },
-      {
-       "type": "text",
-       "text": "ogrzewanego"
-      },
-      {
-       "type": "text",
-       "text": "Średnia temperatura wewnętrzna w pomieszczeniu, z którego Współczynnik korekcyjny następuje strata ciepła przez analizowaną przegrodę k t w [⁰C]²"
-      },
-      {
-       "type": "text",
-       "text": "12 0,530"
-      },
-      {
-       "type": "text",
-       "text": "13 0,589"
-      },
-      {
-       "type": "text",
-       "text": "14 0,648"
-      },
-      {
-       "type": "text",
-       "text": "15 0,707"
-      },
-      {
-       "type": "text",
-       "text": "16 0,766"
-      },
-      {
-       "type": "text",
-       "text": "17 0,825"
-      },
-      {
-       "type": "text",
-       "text": "18 0,883"
-      },
-      {
-       "type": "text",
-       "text": "19 0,942"
-      },
-      {
-       "type": "text",
-       "text": "20 1,000"
-      },
-      {
-       "type": "text",
-       "text": "21 1,058"
-      },
-      {
-       "type": "text",
-       "text": "22 1,117"
-      },
-      {
-       "type": "text",
-       "text": "23 1,175"
-      },
-      {
-       "type": "text",
-       "text": "24 1,234"
-      },
-      {
-       "type": "text",
-       "text": "25 1,292"
-      },
-      {
-       "type": "text",
-       "text": "24 Tabela nr 4. Współczynniki sprawności systemów grzewczych w zależności od sposobu"
-      },
-      {
-       "type": "text",
-       "text": "ogrzewania i sposobu zasilania budynku w ciepło"
-      },
-      {
-       "type": "text",
-       "text": "Współczynnik Współczynnik"
-      },
-      {
-       "type": "text",
-       "text": "sprawności systemu sprawności systemu"
-      },
-      {
-       "type": "text",
-       "text": "Lp. Rodzaj ogrzewania budynku grzewczego – budynki grzewczego – budynki"
-      },
-      {
-       "type": "text",
-       "text": "mieszkalne użyteczności publicznej"
-      },
-      {
-       "type": "text",
-       "text": " 0M  0P"
-      },
-      {
-       "type": "text",
-       "text": "Instalacja centralnego ogrzewania"
-      },
-      {
-       "type": "text",
-       "text": "1 zasilana z kotła gazowego lub 0,74 0,87"
-      },
-      {
-       "type": "text",
-       "text": "olejowego w budynku"
-      },
-      {
-       "type": "text",
-       "text": "Instalacja centralnego ogrzewania 2 0,59 0,69 z kotła węglowego w budynku"
-      },
-      {
-       "type": "text",
-       "text": "Instalacja centralnego ogrzewania"
-      },
-      {
-       "type": "text",
-       "text": "zasilana z węzła cieplnego 3 0,90 1,06 zasilanego z zewnętrznej sieci"
-      },
-      {
-       "type": "text",
-       "text": "ciepłowniczej"
-      },
-      {
-       "type": "text",
-       "text": "Instalacja centralnego ogrzewania 4 0,88 1,04 zasilana z kotła elektrycznego"
-      },
-      {
-       "type": "text",
-       "text": "Ogrzewanie elektryczne 5 0,95 1,12 miejscowe w pomieszczeniach"
-      },
-      {
-       "type": "text",
-       "text": "Ogrzewanie węglowe miejscowe 6 0,50 0,58 w pomieszczeniach"
-      },
-      {
-       "type": "text",
-       "text": "Tabela nr 5. Współczynniki korekcyjne k₀ i k₁ z uwagi na zastosowanie urządzeń i armatury"
-      },
-      {
-       "type": "text",
-       "text": "powodującej redukcję zużycia wody odpowiednio dla stanu przed i po modernizacji"
-      },
-      {
-       "type": "text",
-       "text": "Budynki Budynki użyteczności Lp. Rodzaj zastosowanej armatury mieszkalne publicznej k , k ⁰¹ k₀, k₁"
-      },
-      {
-       "type": "text",
-       "text": "1 Reduktory prysznicowe 0,80 0,70"
-      },
-      {
-       "type": "text",
-       "text": "Perlatory kaskadowe o zmniejszonym 2 0,75 0,65 przepływie Tabela nr 6. Czasy użytkowania T U źródeł światła w zależności od rodzaju budynku"
-      },
-      {
-       "type": "text",
-       "text": "i przeznaczenia pomieszczenia"
-      },
-      {
-       "type": "text",
-       "text": "Czas użytkowania źródła Czas użytkowania źródła światła – budynki światła – budynki Lp. Przeznaczenie pomieszczenia użyteczności publicznej mieszkalne i budynki biurowe [h/rok] [h/rok]"
-      },
-      {
-       "type": "text",
-       "text": "1 Kuchnie 1 900 1 200"
-      },
-      {
-       "type": "text",
-       "text": "2 Halle i korytarze 420 1 080"
-      },
-      {
-       "type": "text",
-       "text": "3 Drogi ewakuacyjne 2 200 2 200"
-      },
-      {
-       "type": "text",
-       "text": "4 Pomieszczenia mieszkalne 1 100 –"
-      },
-      {
-       "type": "text",
-       "text": "Pomieszczenia w budynkach"
-      },
-      {
-       "type": "text",
-       "text": "5 biurowych i użyteczności – 1800"
-      },
-      {
-       "type": "text",
-       "text": "publicznej"
-      },
-      {
-       "type": "text",
-       "text": "Oświetlenie zewnętrzne 6 700 2 200 budynku"
-      },
-      {
-       "type": "text",
-       "text": "7 Pozostałe 360 540"
-      },
-      {
-       "type": "text",
-       "text": "8 Oświetlenie uliczne 4150"
-      },
-      {
-       "type": "text",
-       "text": "Tabela nr 7. Średni czas pracy silnika w roku t w podziale na sektory"
-      },
-      {
-       "type": "text",
-       "text": "Średni czas pracy silnika"
-      },
-      {
-       "type": "text",
-       "text": "Moc znamionowa Średni czas pracy silnika (budynki mieszkalne,"
-      },
-      {
-       "type": "text",
-       "text": "Lp. silnika (sektor przemysłu) użyteczności publicznej"
-      },
-      {
-       "type": "text",
-       "text": "[kW] [h/rok] i usługowe)"
-      },
-      {
-       "type": "text",
-       "text": "[h/rok]"
-      },
-      {
-       "type": "text",
-       "text": "1 P2N < 0,75 2 150 2 400"
-      },
-      {
-       "type": "text",
-       "text": "2 0,75 ≤ P2N < 4,00 2 500 1 400"
-      },
-      {
-       "type": "text",
-       "text": "3 4,00 ≤ P2N < 10,00 2 350 1 250"
-      },
-      {
-       "type": "text",
-       "text": "4 10,00 ≤ P2N < 30,00 2 800 1 100"
-      },
-      {
-       "type": "text",
-       "text": "5 30,00 ≤ P2N < 70,00 4 700 1 550"
-      },
-      {
-       "type": "text",
-       "text": "6 70,00 ≤ P2N < 130,00 5 600 1 600"
-      },
-      {
-       "type": "text",
-       "text": "7 130,00 ≤ P2N < 375,00 6 100 1 350 Tabela nr 8. Średnia wartość współczynnika K P w podziale na sektory"
-      },
-      {
-       "type": "text",
-       "text": "Budynki mieszkalne, Moc znamionowa silnika Sektor przemysłu Lp. użyteczności publicznej [kW] i usługowe"
-      },
-      {
-       "type": "text",
-       "text": "1 P2N < 0,75 0,55 0,53"
-      },
-      {
-       "type": "text",
-       "text": "2 0,75 ≤ P2N < 4,00 0,55 0,53"
-      },
-      {
-       "type": "text",
-       "text": "3 4,00 ≤ P2N < 10,00 0,56 0,56"
-      },
-      {
-       "type": "text",
-       "text": "4 10,00 ≤ P2N < 30,00 0,62 0,55"
-      },
-      {
-       "type": "text",
-       "text": "5 30,00 ≤ P2N < 70,00 0,62 0,57"
-      },
-      {
-       "type": "text",
-       "text": "6 70,00 ≤ P2N < 130,00 0,59 0,62"
-      },
-      {
-       "type": "text",
-       "text": "7 130,00 ≤ P2N < 375,00 0,52 0,60"
-      },
-      {
-       "type": "text",
-       "text": "Tabela nr 9. Wskaźniki zużycia energii w zależności od kategorii pojazdu"
-      },
-      {
-       "type": "text",
-       "text": "Kategoria Podkategoria pojazdów Techno logia Wskaźnik pojazdów zużycia energii [MJ/km] osob owe benzynowe mini Euro 4 i późniejsze 2,14 benzynowe małe PRE-ECE to open 2,85 loop benzynowe małe Euro 1 i późniejsze 2,45 benzynowe średnie PRE-ECE to open 3,37 loop benzynowe średnie Euro 1 i późniejsze 2,89 benzynowe duże SUV PRE-ECE to open 4,16 loop benzynowe duże SUV Euro 1 i późniejsze 3,76 diesel małe Euro 4 i późniejsze 1,62 diesel średnie konwencjonalne 2,69 diesel średnie Euro 1 i późniejsze 2,35 diesel duże SUV konwencjonalne 3,20 diesel duże SUV Euro 1 i późniejsze 3,12 LPG konwencjonalne 2,75 LPG Euro 1 i późniejsze 2,65 dwusuwowe konwencjonalne 3,59 hybrydowe benzynowe małe Euro 4 1,49 hybrydowe benzynowe średnie Euro 4 1,49 hybrydowe benzynowe duże Euro 4 1,49 SUV E85 Euro 4 i późniejsze 3,33 CNG Euro 4 i późniejsze 3,02 pojazdy bateryjne – 0,54 pojazdy z ogniwem paliwowym – 0,95 dosta wcze benzynowe konwencjonalne 3,72 benzynowe Euro 1 i późniejsze 3,06 diesel konwencjonalne 3,80 diesel Euro 1 i późniejsze 3,42 pojazdy bateryjne – 0,90 pojazdy z ogniwem paliwowym – 1,78 cięża rowe benzynowe konwencjonalne 7,75 > 3,5 t diesel konwencjonalne 5,34 < 7,5 t diesel Euro 1 i późniejsze 4,31 < 7,5 t pojazdy bateryjne – 2,16 ≥ 3,5 ≤ 12 t pojazdy z ogniwem paliwowym – 3,56 ≥ 3,5 ≤ 12 t diesel konwencjonalne 7,77 ≥ 7,5 < 16 t diesel Euro 1 i późniejsze 6,62 ≥ 7,5 < 16 t diesel konwencjonalne 10,72 ≥ 16 ≤ 32 t diesel Euro 1 i późniejsze 8,97 ≥ 16 ≤ 32 t pojazdy bateryjne – 4,32 > 16 t pojazdy z ogniwem paliwowym – 9,50 > 16 t diesel konwencjonalne 12,68 > 32 t diesel Euro 1 i późniejsze 10,72 > 32 t autob usy miejskie CNG HD Euro I 26,64 miejskie CNG HD Euro II 24,72 miejskie CNG HD Euro III 21,84 miejskie CNG EEV 21,84 miejskie standardowe konwencjonalne 15,63 miejskie standardowe Euro 1 i późniejsze 12,85 autokary standardowe konwencjonalne 11,23 autokary standardowe Euro 1 i późniejsze 10,55 pojazdy bateryjne – 2,88 miejskie pojazdy z ogniwem paliwowym – 9,50 miejskie pojazdy z ogniwem paliwowym – 11,88 autokary standardowe katego ria L motorowery dwusuwowe konwencjonalne 1,09 < 50 cm³ motorowery dwusuwowe Euro 1 0,88 < 50 cm³ motorowery dwusuwowe Euro 2 0,88 < 50 cm³ motorowery dwusuwowe Euro 3 i późniejsze 0,88 < 50 cm³ motorowery czterosuwowe konwencjonalne 1,09 < 50 cm³ motorowery czterosuwowe Euro 1 0,88 < 50 cm³ motorowery czterosuwowe Euro 2 0,88 < 50 cm³ motorowery czterosuwowe Euro 3 i późniejsze 0,88 < 50 cm³ pojazdy bateryjne – 0,03 motorowery motocykle dwusuwowe konwencjonalne 1,44 < 50 cm³ motocykle dwusuwowe Euro 1 1,09 < 50 cm³ motocykle dwusuwowe Euro 2 1,01 < 50 cm³ motocykle dwusuwowe Euro 3 i późniejsze 0,74 < 50 cm³ motocykle czterosuwowe konwencjonalne 14,00 < 250 cm³ motocykle czterosuwowe Euro 1 i późniejsze 1,58 < 250 cm³ motocykle czterosuwowe konwencjonalne 1,62 ≥ 250 ≤ 750 cm³ motocykle czterosuwowe Euro 1 i późniejsze 1,58 ≥ 250 ≤ 750 cm³ motocykle czterosuwowe konwencjonalne 1,97 > 750 cm³ motocykle czterosuwowe Euro 1 i późniejsze 2,01 > 750 cm³ pojazdy bateryjne – 0,03 motocykle mini samochody diesel konwencjonalne 1,44 mini samochody diesel Euro 1 1,26 mini samochody diesel Euro 2 1,26 mini samochody diesel Euro 3 1,26 mini samochody diesel Euro 4 1,13 mini samochody diesel Euro 5 1,13 pojazdy terenowe (ATVs) konwencjonalne 2,07 pojazdy terenowe (ATVs) Euro 1 1,79 pojazdy terenowe (ATVs) Euro 2 1,79 pojazdy terenowe (ATVs) Euro 3 1,79 pojazdy terenowe (ATVs) Euro 4 1,74 pojazdy terenowe (ATVs) Euro 5 1,74"
-      },
-      {
-       "type": "text",
-       "text": "Tabela nr 10. Średni przebieg w podziale na kategorie pojazdów"
-      },
-      {
-       "type": "text",
-       "text": "Kategoria pojazdów Średni przebieg [km]"
-      },
-      {
-       "type": "text",
-       "text": "osobowe 190 000 dostawcze 300 000 ciężarowe 500 000 autobusy 600 000 kategoria L 40 000"
-      },
-      {
-       "type": "text",
-       "text": "Tabela nr 11. Średni cykl życia pojazdu w podziale na kategorie"
-      },
-      {
-       "type": "text",
-       "text": "Kategoria pojazdów Średni cykl życia [lata]"
-      },
-      {
-       "type": "text",
-       "text": "osobowe 14,0 dostawcze 13,5 ciężarowe 12,2 autobusy 15,6 kategoria L 10,0"
-      }
-     ]
+     "type": "text",
+     "text": "wykonaniem ocieplenia, wyrażona w [m²],"
+    },
+    {
+     "type": "text",
+     "text": "– współczynnik przenikania ciepła stropu pod"
+    },
+    {
+     "type": "text",
+     "text": "nieogrzewanym poddaszem w stanie"
+    },
+    {
+     "type": "text",
+     "text": "istniejącym, określony na podstawie dokumentacji technicznej, odpowiednich"
+    },
+    {
+     "type": "text",
+     "text": "obliczeń wykonanych dla stanu faktycznego"
+    },
+    {
+     "type": "text",
+     "text": "zgodnie z Polską Normą PN-EN ISO 6946 lub"
+    },
+    {
+     "type": "text",
+     "text": "na podstawie danych zawartych w tabeli nr 2,"
+    },
+    {
+     "type": "text",
+     "text": "wyrażony w [W/m² K],"
+    },
+    {
+     "type": "text",
+     "text": "– grubość dodatkowej warstwy ocieplenia,"
+    },
+    {
+     "type": "text",
+     "text": "wyrażona w [m],"
+    },
+    {
+     "type": "text",
+     "text": "– współczynnik przewodności cieplnej"
+    },
+    {
+     "type": "text",
+     "text": "materiału izolacyjnego określony na"
+    },
+    {
+     "type": "text",
+     "text": "podstawie Polskiej Normy PN-EN ISO 10456"
+    },
+    {
+     "type": "text",
+     "text": "lub na podstawie danych producenta; dla"
+    },
+    {
+     "type": "text",
+     "text": "większości standardowych materiałów do"
+    },
+    {
+     "type": "text",
+     "text": "izolacji cieplnej, w tym dla wełny mineralnej"
+    },
+    {
+     "type": "text",
+     "text": "lub styropianu, można przyjmować = 0,040;"
+    },
+    {
+     "type": "text",
+     "text": "dla materiałów o podwyższonej izolacyjności λλ cieplnej można przyjmować wartości niższe,"
+    },
+    {
+     "type": "text",
+     "text": "pod warunkiem potwierdzenia przyjętych do"
+    },
+    {
+     "type": "text",
+     "text": "obliczeń parametrów izolacyjności cieplnej"
+    },
+    {
+     "type": "text",
+     "text": "odpowiednią dokumentacją lub obliczeniami,"
+    },
+    {
+     "type": "text",
+     "text": "wyrażony w [W/m K],"
+    },
+    {
+     "type": "text",
+     "text": "– całkowita sprawność systemu grzewczego"
+    },
+    {
+     "type": "text",
+     "text": "równa w przypadku budynków"
+    },
+    {
+     "type": "text",
+     "text": "mieszkalnych ηη 0MM lub w przypadku budynków użyteczności ηη publicznej 0PP i budynków usługowych, określona na podstawie danych"
+    },
+    {
+     "type": "text",
+     "text": "zawartych w tabeli nr 4"
+    },
+    {
+     "type": "text",
+     "text": "Ocieplenie stropu (3) – ilość zaoszczędzonej energii finalnej,"
+    },
+    {
+     "type": "text",
+     "text": "nad piwnicą wyrażonej w [GJ/rok],"
+    },
+    {
+     "type": "text",
+     "text": "¹ – współczynnik ostrości klimatu, na podstawie ¹² ∙AA pp⁰¹ dd tabeli nr 1,"
+    },
+    {
+     "type": "text",
+     "text": "– współczynnik korekcyjny w zależności od"
+    },
+    {
+     "type": "text",
+     "text": "wysokości średniej temperatury"
+    },
+    {
+     "type": "text",
+     "text": "pomieszczenia ogrzewanego, na podstawie"
+    },
+    {
+     "type": "text",
+     "text": "danych zawartych w tabeli nr 3,"
+    },
+    {
+     "type": "text",
+     "text": "– powierzchnia ocieplonej przegrody przed"
+    },
+    {
+     "type": "text",
+     "text": "wykonaniem ocieplenia, wyrażona w [m²],"
+    },
+    {
+     "type": "text",
+     "text": "– współczynnik przenikania ciepła stropu nad"
+    },
+    {
+     "type": "text",
+     "text": "piwnicą nieogrzewaną w stanie istniejącym,"
+    },
+    {
+     "type": "text",
+     "text": "określony na podstawie dokumentacji"
+    },
+    {
+     "type": "text",
+     "text": "technicznej, odpowiednich obliczeń"
+    },
+    {
+     "type": "text",
+     "text": "wykonanych dla stanu faktycznego zgodnie z Polską Normą PN-EN ISO 6946 lub na"
+    },
+    {
+     "type": "text",
+     "text": "podstawie danych zawartych w tabeli nr 2,"
+    },
+    {
+     "type": "text",
+     "text": "wyrażony w [W/m²K],"
+    },
+    {
+     "type": "text",
+     "text": "– grubość dodatkowej warstwy ocieplenia,"
+    },
+    {
+     "type": "text",
+     "text": "wyrażona w [m],"
+    },
+    {
+     "type": "text",
+     "text": "– współczynnik przewodności cieplnej"
+    },
+    {
+     "type": "text",
+     "text": "materiału izolacyjnego określony na"
+    },
+    {
+     "type": "text",
+     "text": "podstawie Polskiej Normy PN-EN ISO 10456"
+    },
+    {
+     "type": "text",
+     "text": "lub na podstawie danych producenta; dla"
+    },
+    {
+     "type": "text",
+     "text": "większości standardowych materiałów do"
+    },
+    {
+     "type": "text",
+     "text": "izolacji cieplnej, w tym dla wełny mineralnej"
+    },
+    {
+     "type": "text",
+     "text": "lub styropianu, można przyjmować = 0,040;"
+    },
+    {
+     "type": "text",
+     "text": "dla materiałów o podwyższonej izolacyjności λλ cieplnej można przyjmować wartości niższe,"
+    },
+    {
+     "type": "text",
+     "text": "pod warunkiem potwierdzenia przyjętych do"
+    },
+    {
+     "type": "text",
+     "text": "obliczeń parametrów izolacyjności cieplnej"
+    },
+    {
+     "type": "text",
+     "text": "odpowiednią dokumentacją lub obliczeniami,"
+    },
+    {
+     "type": "text",
+     "text": "wyrażony w [W/m K],"
+    },
+    {
+     "type": "text",
+     "text": "– całkowita sprawność systemu grzewczego"
+    },
+    {
+     "type": "text",
+     "text": "równa w przypadku budynków"
+    },
+    {
+     "type": "text",
+     "text": "mieszkalnych ηη 0MM lub w przypadku budynków użyteczności publicznej i budynków"
+    },
+    {
+     "type": "text",
+     "text": "usługowych, określona na podstawie danych"
+    },
+    {
+     "type": "text",
+     "text": "zawartych w tabeli nr 4"
+    },
+    {
+     "type": "text",
+     "text": "Modernizacja lub wymiana stolarki okiennej w budynkach mieszkalnych i zamieszkania zbiorowego"
+    },
+    {
+     "type": "text",
+     "text": "Modernizacja lub (4) – ilość zaoszczędzonej energii finalnej,"
+    },
+    {
+     "type": "text",
+     "text": "wymiana stolarki wyrażonej w [GJ/rok],"
+    },
+    {
+     "type": "text",
+     "text": "okiennej na nową 56 – współczynnik ostrości klimatu, na podstawie danych zawartych w tabeli nr 1,"
+    },
+    {
+     "type": "text",
+     "text": "– współczynnik korekcyjny w zależności od"
+    },
+    {
+     "type": "text",
+     "text": "wysokości średniej temperatury"
+    },
+    {
+     "type": "text",
+     "text": "pomieszczenia ogrzewanego, na podstawie"
+    },
+    {
+     "type": "text",
+     "text": "danych zawartych w tabeli nr 3,"
+    },
+    {
+     "type": "text",
+     "text": "– powierzchnia okien poddawanych"
+    },
+    {
+     "type": "text",
+     "text": "termomodernizacji, wyrażona w [m²],"
+    },
+    {
+     "type": "text",
+     "text": "– współczynnik przenikania ciepła okna"
+    },
+    {
+     "type": "text",
+     "text": "zewnętrznego i drzwi balkonowych w stanie"
+    },
+    {
+     "type": "text",
+     "text": "istniejącym, określony na podstawie"
+    },
+    {
+     "type": "text",
+     "text": "dokumentacji technicznej lub na podstawie"
+    },
+    {
+     "type": "text",
+     "text": "danych zawartych w tabeli nr 2,"
+    },
+    {
+     "type": "text",
+     "text": "– współczynnik przenikania ciepła okna"
+    },
+    {
+     "type": "text",
+     "text": "zewnętrznego i drzwi balkonowych po modernizacji, określony na podstawie"
+    },
+    {
+     "type": "text",
+     "text": "dokumentacji technicznej dostawcy stolarki"
+    },
+    {
+     "type": "text",
+     "text": "okiennej,"
+    },
+    {
+     "type": "text",
+     "text": "– całkowita sprawność systemu grzewczego dla"
+    },
+    {
+     "type": "text",
+     "text": "budynków mieszkalnych i zamieszkania"
+    },
+    {
+     "type": "text",
+     "text": "zbiorowego określona na podstawie danych"
+    },
+    {
+     "type": "text",
+     "text": "zawartych w tabeli nr 4"
+    },
+    {
+     "type": "text",
+     "text": "Uwaga:"
+    },
+    {
+     "type": "text",
+     "text": "Uszczelnienie stolarki okiennej nie powoduje poprawy"
+    },
+    {
+     "type": "text",
+     "text": "współczynnika przenikania ciepła , a jedynie"
+    },
+    {
+     "type": "text",
+     "text": "ograniczenie strat ciepła w związku UU z 0oooo ograniczeniem nadmiernej wentylacji. W przypadkach modernizacji"
+    },
+    {
+     "type": "text",
+     "text": "polegającej na remoncie i uszczelnieniu istniejącej"
+    },
+    {
+     "type": "text",
+     "text": "stolarki okiennej należy korzystać ze wzoru (4),"
+    },
+    {
+     "type": "text",
+     "text": "przyjmując ="
+    },
+    {
+     "type": "text",
+     "text": "Modernizacja lub wymiana stolarki okiennej w budynkach użyteczności publicznej i budynkach UU 0oooo biurowych UU 1oooo"
+    },
+    {
+     "type": "text",
+     "text": "Modernizacja lub (5) – ilość zaoszczędzonej energii finalnej,"
+    },
+    {
+     "type": "text",
+     "text": "wymiana stolarki wyrażonej w [GJ/rok],"
+    },
+    {
+     "type": "text",
+     "text": "okiennej na nową 56 – współczynnik ostrości klimatu, na podstawie danych zawartych w tabeli nr 1,"
+    },
+    {
+     "type": "text",
+     "text": "– współczynnik korekcyjny w zależności od"
+    },
+    {
+     "type": "text",
+     "text": "wysokości średniej temperatury"
+    },
+    {
+     "type": "text",
+     "text": "pomieszczenia ogrzewanego, na podstawie"
+    },
+    {
+     "type": "text",
+     "text": "danych zawartych w tabeli nr 3,"
+    },
+    {
+     "type": "text",
+     "text": "– powierzchnia okien poddawanych"
+    },
+    {
+     "type": "text",
+     "text": "termomodernizacji, wyrażona w [m²],"
+    },
+    {
+     "type": "text",
+     "text": "– współczynnik przenikania ciepła okna"
+    },
+    {
+     "type": "text",
+     "text": "zewnętrznego i drzwi balkonowych w stanie"
+    },
+    {
+     "type": "text",
+     "text": "istniejącym, określony na podstawie"
+    },
+    {
+     "type": "text",
+     "text": "dokumentacji technicznej lub na podstawie"
+    },
+    {
+     "type": "text",
+     "text": "danych zawartych w tabeli nr 2,"
+    },
+    {
+     "type": "text",
+     "text": "– współczynnik przenikania ciepła okna"
+    },
+    {
+     "type": "text",
+     "text": "zewnętrznego i drzwi balkonowych po"
+    },
+    {
+     "type": "text",
+     "text": "modernizacji, określony na podstawie"
+    },
+    {
+     "type": "text",
+     "text": "dokumentacji technicznej dostawcy stolarki"
+    },
+    {
+     "type": "text",
+     "text": "okiennej,"
+    },
+    {
+     "type": "text",
+     "text": "– całkowita sprawność systemu grzewczego dla"
+    },
+    {
+     "type": "text",
+     "text": "budynków użyteczności publicznej i budynków"
+    },
+    {
+     "type": "text",
+     "text": "usługowych, określona na podstawie danych"
+    },
+    {
+     "type": "text",
+     "text": "zawartych w tabeli nr 4 Uwaga:"
+    },
+    {
+     "type": "text",
+     "text": "Uszczelnienie stolarki okiennej nie powoduje poprawy"
+    },
+    {
+     "type": "text",
+     "text": "współczynnika przenikania ciepła , a jedynie"
+    },
+    {
+     "type": "text",
+     "text": "ograniczenie strat ciepła w związku UU z 0oooo ograniczeniem nadmiernej wentylacji. W przypadkach modernizacji"
+    },
+    {
+     "type": "text",
+     "text": "polegającej na remoncie i uszczelnieniu istniejącej"
+    },
+    {
+     "type": "text",
+     "text": "stolarki okiennej należy korzystać ze wzoru (5),"
+    },
+    {
+     "type": "text",
+     "text": "przyjmując ="
+    },
+    {
+     "type": "text",
+     "text": "Modernizacja lub wymiana instalacji ciepłej wody użytkowej"
+    },
+    {
+     "type": "text",
+     "text": "Modernizacja lub (6) – ilość zaoszczędzonej energii finalnej,"
+    },
+    {
+     "type": "text",
+     "text": "wymiana instalacji wyrażonej w [GJ/rok],"
+    },
+    {
+     "type": "text",
+     "text": "ciepłej wody , – współczynniki korekcyjne z uwagi na"
+    },
+    {
+     "type": "text",
+     "text": "użytkowej zastosowanie urządzeń i armatury"
+    },
+    {
+     "type": "text",
+     "text": "w budynkach powodującej redukcję zużycia wody"
+    },
+    {
+     "type": "text",
+     "text": "mieszkalnych, odpowiednio dla stanu przed i po"
+    },
+    {
+     "type": "text",
+     "text": "użyteczności modernizacji, przyjmowane na podstawie"
+    },
+    {
+     "type": "text",
+     "text": "publicznej danych zawartych w tabeli nr 5; w przypadku"
+    },
+    {
+     "type": "text",
+     "text": "i biurowych braku urządzeń i armatury powodującej"
+    },
+    {
+     "type": "text",
+     "text": "redukcję zużycia wody przyjmuje się"
+    },
+    {
+     "type": "text",
+     "text": "= = 1,00, , – zapotrzebowanie na energię finalną do"
+    },
+    {
+     "type": "text",
+     "text": "HH,WW¹przygotowania ciepłej wody użytkowej"
+    },
+    {
+     "type": "text",
+     "text": "odpowiednio dla stanu przed i po"
+    },
+    {
+     "type": "text",
+     "text": "modernizacji, obliczoną zgodnie"
+    },
+    {
+     "type": "text",
+     "text": "z rozporządzeniem wydanym na podstawie"
+    },
+    {
+     "type": "text",
+     "text": "art. 15 ustawy z dnia 29 sierpnia 2014 r."
+    },
+    {
+     "type": "text",
+     "text": "o charakterystyce energetycznej budynków,"
+    },
+    {
+     "type": "text",
+     "text": "wyrażoną w [kWh/rok],"
+    },
+    {
+     "type": "text",
+     "text": "Wymiana opraw oświetleniowych lub źródeł światła"
+    },
+    {
+     "type": "text",
+     "text": "Oprawy (7) – ilość zaoszczędzonej energii finalnej,"
+    },
+    {
+     "type": "text",
+     "text": "oświetleniowe wyrażonej w [kWh/rok],"
+    },
+    {
+     "type": "text",
+     "text": "i źródła światła – czas użytkowania źródła światła określony na"
+    },
+    {
+     "type": "text",
+     "text": "podstawie danych zawartych w tabeli nr 6,"
+    },
+    {
+     "type": "text",
+     "text": "wyrażony w [h/rok],"
+    },
+    {
+     "type": "text",
+     "text": "– łączna moc znamionowa opraw"
+    },
+    {
+     "type": "text",
+     "text": "oświetleniowych lub źródeł światła przed"
+    },
+    {
+     "type": "text",
+     "text": "wymianą, wyrażona w [W]; w przypadku gdy"
+    },
+    {
+     "type": "text",
+     "text": "wymieniane typy opraw lub źródeł światła"
+    },
+    {
+     "type": "text",
+     "text": "zostały wycofane z obrotu, należy"
+    },
+    {
+     "type": "text",
+     "text": "przyjmować dla nich moce odpowiadające"
+    },
+    {
+     "type": "text",
+     "text": "najniższej dostępnej obecnie na rynku klasie efektywności energetycznej, zgodnie"
+    },
+    {
+     "type": "text",
+     "text": "z przepisami aktu delegowanego,"
+    },
+    {
+     "type": "text",
+     "text": "w rozumieniu art. 2 ust. 1 ustawy z dnia"
+    },
+    {
+     "type": "text",
+     "text": "14 września 2012 r. o etykietowaniu"
+    },
+    {
+     "type": "text",
+     "text": "energetycznym produktów związanych"
+    },
+    {
+     "type": "text",
+     "text": "z energią (Dz. U. z 2020 r. poz. 378),"
+    },
+    {
+     "type": "text",
+     "text": "– łączna moc znamionowa nowych opraw"
+    },
+    {
+     "type": "text",
+     "text": "oświetleniowych lub źródeł światła po"
+    },
+    {
+     "type": "text",
+     "text": "wymianie, wyrażona w [W]"
+    },
+    {
+     "type": "text",
+     "text": "Uwaga:"
+    },
+    {
+     "type": "text",
+     "text": "Oszczędności w zużyciu energii dla źródeł światła"
+    },
+    {
+     "type": "text",
+     "text": "obliczane są przy założeniu, że natężenie oświetlenia"
+    },
+    {
+     "type": "text",
+     "text": "powierzchni, mierzone w [lm/m²], po wymianie"
+    },
+    {
+     "type": "text",
+     "text": "spełnia wymagania Polskich Norm PN-EN 12464-1"
+    },
+    {
+     "type": "text",
+     "text": "oraz PN-EN-13201-2 Wymiana urządzeń przeznaczonych do użytku domowego – pralki, suszarki, zmywarki do naczyń, chłodziarki, kuchenki lub piekarniki"
+    },
+    {
+     "type": "text",
+     "text": "Pralki, suszarki, (8) – ilość zaoszczędzonej energii finalnej,"
+    },
+    {
+     "type": "text",
+     "text": "zmywarki do naczyń, wyrażonej w [kWh/rok],"
+    },
+    {
+     "type": "text",
+     "text": "chłodziarki, – roczne zużycie energii urządzenia przed"
+    },
+    {
+     "type": "text",
+     "text": "kuchenki, piekarniki wymianą, wyrażone w [kWh/rok]; w przypadku"
+    },
+    {
+     "type": "text",
+     "text": "gdy wymieniany typ urządzenia został"
+    },
+    {
+     "type": "text",
+     "text": "wycofany z obrotu, należy przyjąć wartość"
+    },
+    {
+     "type": "text",
+     "text": "odpowiadającą najniższej dostępnej obecnie"
+    },
+    {
+     "type": "text",
+     "text": "na rynku klasie efektywności energetycznej,"
+    },
+    {
+     "type": "text",
+     "text": "określoną zgodnie z przepisami aktu"
+    },
+    {
+     "type": "text",
+     "text": "delegowanego, w rozumieniu art. 2 ust. 1"
+    },
+    {
+     "type": "text",
+     "text": "ustawy z dnia 14 września 2012 r."
+    },
+    {
+     "type": "text",
+     "text": "o etykietowaniu energetycznym produktów"
+    },
+    {
+     "type": "text",
+     "text": "związanych z energią,"
+    },
+    {
+     "type": "text",
+     "text": "– roczne zużycie energii nowego urządzenia po"
+    },
+    {
+     "type": "text",
+     "text": "wymianie, określone na podstawie"
+    },
+    {
+     "type": "text",
+     "text": "dokumentacji technicznej tego urządzenia,"
+    },
+    {
+     "type": "text",
+     "text": "wyrażone w [kWh/rok]"
+    },
+    {
+     "type": "text",
+     "text": "Wymiana silników elektrycznych"
+    },
+    {
+     "type": "text",
+     "text": "Silniki elektryczne (9) – ilość zaoszczędzonej energii finalnej,"
+    },
+    {
+     "type": "text",
+     "text": "o mocy znamionowej wyrażonej w [kWh/rok],"
+    },
+    {
+     "type": "text",
+     "text": "1 1 ∆QQ⁰ = PP 2NN ∙tt∙KK PP ∙( − )∙100 od 0,75 kW do – moc znamionowa silnika przed wymianą,"
+    },
+    {
+     "type": "text",
+     "text": "375 kW określona na podstawie danych z tabliczki"
+    },
+    {
+     "type": "text",
+     "text": "znamionowej, wyrażona w [kW],"
+    },
+    {
+     "type": "text",
+     "text": "– średni czas pracy silnika, określony na"
+    },
+    {
+     "type": "text",
+     "text": "podstawie danych zawartych w tabeli nr 7,"
+    },
+    {
+     "type": "text",
+     "text": "wyrażony w [h/rok],"
+    },
+    {
+     "type": "text",
+     "text": "– średnie obciążenie silnika w czasie t w stosunku"
+    },
+    {
+     "type": "text",
+     "text": "do jego mocy znamionowej, określone na"
+    },
+    {
+     "type": "text",
+     "text": "podstawie danych zawartych w tabeli nr 8,"
+    },
+    {
+     "type": "text",
+     "text": "– sprawność silnika przed wymianą, określona"
+    },
+    {
+     "type": "text",
+     "text": "na podstawie danych zawartych w załączniku I"
+    },
+    {
+     "type": "text",
+     "text": "rozporządzenia 640/2009 z dnia 22 lipca"
+    },
+    {
+     "type": "text",
+     "text": "2009 r. w sprawie wykonania dyrektywy"
+    },
+    {
+     "type": "text",
+     "text": "2005/32/WE Parlamentu Europejskiego"
+    },
+    {
+     "type": "text",
+     "text": "i Rady w odniesieniu do wymogów"
+    },
+    {
+     "type": "text",
+     "text": "dotyczących ekoprojektu dla silników"
+    },
+    {
+     "type": "text",
+     "text": "elektrycznych (Dz. Urz. UE L 191"
+    },
+    {
+     "type": "text",
+     "text": "z 23.07.2009, str. 26, Dz. Urz. UE L 46"
+    },
+    {
+     "type": "text",
+     "text": "z 19.02.2011, str. 63, Dz. Urz. UE L 2"
+    },
+    {
+     "type": "text",
+     "text": "z 07.01.2014, str. 1 oraz Dz. Urz. UE L 346 8) z 20.12.2016, str. 51) ; w przypadku gdy"
+    },
+    {
+     "type": "text",
+     "text": "wymieniany typ silnika został wycofany"
+    },
+    {
+     "type": "text",
+     "text": "z obrotu, należy przyjąć sprawność"
+    },
+    {
+     "type": "text",
+     "text": "odpowiadającą silnikowi o klasie IE3 lub"
+    },
+    {
+     "type": "text",
+     "text": "klasie IE2 z wyposażeniem w sterownik"
+    },
+    {
+     "type": "text",
+     "text": "bezstopniowy, wyrażona w [%],"
+    },
+    {
+     "type": "text",
+     "text": "– sprawność nowego silnika po wymianie,"
+    },
+    {
+     "type": "text",
+     "text": "określona na podstawie dokumentacji"
+    },
+    {
+     "type": "text",
+     "text": "technicznej, wyrażona w [%]"
+    },
+    {
+     "type": "text",
+     "text": "Określanie ilości zaoszczędzonej energii pierwotnej"
+    },
+    {
+     "type": "text",
+     "text": "(10) – ilość zaoszczędzonej energii pierwotnej,"
+    },
+    {
+     "type": "text",
+     "text": "wyrażonej w [kWh/rok],"
+    },
+    {
+     "type": "text",
+     "text": "– ilość zaoszczędzonej energii finalnej,"
+    },
+    {
+     "type": "text",
+     "text": "wyrażonej w [kWh/rok],"
+    },
+    {
+     "type": "text",
+     "text": "– współczynnik nakładu nieodnawialnej energii"
+    },
+    {
+     "type": "text",
+     "text": "pierwotnej odpowiedni dla danego nośnika energii finalnej, stosownie do"
+    },
+    {
+     "type": "text",
+     "text": "wykorzystywanego paliwa lub energii,"
+    },
+    {
+     "type": "text",
+     "text": "określony na podstawie danych zawartych"
+    },
+    {
+     "type": "text",
+     "text": "w tabeli 1 załącznika nr 4 do rozporządzenia"
+    },
+    {
+     "type": "text",
+     "text": "Wymiana pojazdów służących do transportu drogowego"
+    },
+    {
+     "type": "text",
+     "text": "Wymiana pojazdów (11) – ilość zaoszczędzonej energii finalnej,"
+    },
+    {
+     "type": "text",
+     "text": "służących do wyrażonej w [kWh/rok], transportu LL∙CCCC – średni przebieg dla danej kategorii pojazdu )∙ 1 drogowego na nowe wynoszący 190 000 km,"
+    },
+    {
+     "type": "text",
+     "text": "pojazdy, – rzeczywisty przebieg danego pojazdu,"
+    },
+    {
+     "type": "text",
+     "text": "w przypadku gdy są wyrażony w [km],"
+    },
+    {
+     "type": "text",
+     "text": "one objęte zakresem – jednostkowe zużycie energii przez pojazd"
+    },
+    {
+     "type": "text",
+     "text": "rozporządzenia określone na podstawie rzeczywistego zużycia"
+    },
+    {
+     "type": "text",
+     "text": "Parlamentu lub w przypadku gdy nie jest możliwe jego"
+    },
+    {
+     "type": "text",
+     "text": "Europejskiego i Rady udokumentowanie – określone na podstawie"
+    },
+    {
+     "type": "text",
+     "text": "(UE) 2019/631 danych producenta lub na podstawie danych"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 17 kwietnia zawartych w tabeli nr 9, wyrażone w [MJ/km],"
+    },
+    {
+     "type": "text",
+     "text": "2019 r. określającego – norma emisji CO₂ dla pojazdu nabytego"
+    },
+    {
+     "type": "text",
+     "text": "normy emisji CO₂ wynikająca z rozporządzenia (UE) 2019/631,"
+    },
+    {
+     "type": "text",
+     "text": "dla nowych wyrażona w [kgCO₂/km],"
+    },
+    {
+     "type": "text",
+     "text": "samochodów osobowych i dla – obliczeniowa wartość opałowa (kaloryczna)"
+    },
+    {
+     "type": "text",
+     "text": "nowych lekkich paliwa będąca średnią ważoną wartości"
+    },
+    {
+     "type": "text",
+     "text": "pojazdów opałowych benzyny i oleju napędowego"
+    },
+    {
+     "type": "text",
+     "text": "użytkowych oraz wynosząca 43,558 MJ/kg,"
+    },
+    {
+     "type": "text",
+     "text": "uchylającego – współczynnik przeliczeniowy emisji CO₂"
+    },
+    {
+     "type": "text",
+     "text": "rozporządzenia (WE) przypadającej na jednostkę masy spalonego"
+    },
+    {
+     "type": "text",
+     "text": "nr 443/2009 i (UE) paliwa przez pojazd nabyty, wynoszący"
+    },
+    {
+     "type": "text",
+     "text": "nr 510/2011 3,169 kgCO₂/kg,"
+    },
+    {
+     "type": "text",
+     "text": "(Dz. Urz. UE L 111 – okres pozostały do przewidywanego"
+    },
+    {
+     "type": "text",
+     "text": "z 25.04.2019, str. 13, zakończenia cyklu życia pojazdu, wyrażony"
+    },
+    {
+     "type": "text",
+     "text": "z późn. zm.) lub w [lata], liczony jako iloraz przebiegu"
+    },
+    {
+     "type": "text",
+     "text": "rozporządzenia pozostałego do zakończenia średniego cyklu"
+    },
+    {
+     "type": "text",
+     "text": "Parlamentu życia pojazdu, wyrażonego w [km],"
+    },
+    {
+     "type": "text",
+     "text": "Europejskiego i Rady i średniorocznego przebiegu pojazdu"
+    },
+    {
+     "type": "text",
+     "text": "(UE) 2019/1242 wynoszącego 8000 km"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 20 czerwca"
+    },
+    {
+     "type": "text",
+     "text": "2019 r. określającego"
+    },
+    {
+     "type": "text",
+     "text": "normy emisji CO₂"
+    },
+    {
+     "type": "text",
+     "text": "dla nowych"
+    },
+    {
+     "type": "text",
+     "text": "pojazdów ciężkich"
+    },
+    {
+     "type": "text",
+     "text": "oraz zmieniającego rozporządzenia"
+    },
+    {
+     "type": "text",
+     "text": "Parlamentu"
+    },
+    {
+     "type": "text",
+     "text": "Europejskiego i Rady"
+    },
+    {
+     "type": "text",
+     "text": "(WE) nr 595/2009"
+    },
+    {
+     "type": "text",
+     "text": "i (UE) 2018/956 oraz"
+    },
+    {
+     "type": "text",
+     "text": "dyrektywę Rady"
+    },
+    {
+     "type": "text",
+     "text": "96/53/WE (Dz. Urz."
+    },
+    {
+     "type": "text",
+     "text": "UE L 198"
+    },
+    {
+     "type": "text",
+     "text": "z 25.07.2019, str. 202)"
+    },
+    {
+     "type": "text",
+     "text": "Wymiana pojazdów (12) – ilość zaoszczędzonej energii finalnej,"
+    },
+    {
+     "type": "text",
+     "text": "służących do wyrażonej w [kWh/rok],"
+    },
+    {
+     "type": "text",
+     "text": "transportu MM śrr 1 – średni przebieg dla danej kategorii pojazdu drogowego innych określony na podstawie danych zawartych"
+    },
+    {
+     "type": "text",
+     "text": "niż wskazane w tabeli nr 10, wyrażony w [km],"
+    },
+    {
+     "type": "text",
+     "text": "w rozporządzeniu – rzeczywisty przebieg danego pojazdu,"
+    },
+    {
+     "type": "text",
+     "text": "Parlamentu wyrażony w [km],"
+    },
+    {
+     "type": "text",
+     "text": "Europejskiego i Rady – jednostkowe zużycie energii przez pojazd"
+    },
+    {
+     "type": "text",
+     "text": "(UE) 2019/631 lub określone na podstawie rzeczywistego zużycia"
+    },
+    {
+     "type": "text",
+     "text": "rozporządzeniu lub w przypadku gdy nie jest możliwe jego"
+    },
+    {
+     "type": "text",
+     "text": "Parlamentu udokumentowanie – określone na podstawie Europejskiego i Rady danych producenta lub na podstawie danych"
+    },
+    {
+     "type": "text",
+     "text": "(UE) 2019/1242 zawartych w tabeli nr 9, wyrażone w [MJ/km],"
+    },
+    {
+     "type": "text",
+     "text": "– jednostkowe zużycie energii przez pojazd"
+    },
+    {
+     "type": "text",
+     "text": "nabyty określone na podstawie rzeczywistego"
+    },
+    {
+     "type": "text",
+     "text": "zużycia lub w przypadku gdy nie jest możliwe"
+    },
+    {
+     "type": "text",
+     "text": "jego udokumentowanie – określone na"
+    },
+    {
+     "type": "text",
+     "text": "podstawie danych producenta lub na"
+    },
+    {
+     "type": "text",
+     "text": "podstawie danych zawartych w tabeli nr 9,"
+    },
+    {
+     "type": "text",
+     "text": "wyrażone w [MJ/km],"
+    },
+    {
+     "type": "text",
+     "text": "– jednostkowe zużycie energii przez"
+    },
+    {
+     "type": "text",
+     "text": "standardowy pojazd należący do tej samej,"
+    },
+    {
+     "type": "text",
+     "text": "pod względem wielkości i napędu, kategorii"
+    },
+    {
+     "type": "text",
+     "text": "pojazdów określone na podstawie danych"
+    },
+    {
+     "type": "text",
+     "text": "zawartych w tabeli nr 9, wyrażone w [MJ/km],"
+    },
+    {
+     "type": "text",
+     "text": "– średni cykl życia pojazdu określony na"
+    },
+    {
+     "type": "text",
+     "text": "podstawie danych zawartych w tabeli nr 11,"
+    },
+    {
+     "type": "text",
+     "text": "wyrażony w [lata]."
+    },
+    {
+     "type": "text",
+     "text": "Uwaga:"
+    },
+    {
+     "type": "text",
+     "text": "W przypadku gdy rzeczywisty przebieg danego"
+    },
+    {
+     "type": "text",
+     "text": "pojazdu jest większy niż średni przebieg dla danej kategorii pojazdu , różnica przyjmuje"
+    },
+    {
+     "type": "text",
+     "text": "wartość 0 1.2. Dane wykorzystywane do określania i weryfikacji ilości energii zaoszczędzonej"
+    },
+    {
+     "type": "text",
+     "text": "w wyniku realizacji przedsięwzięcia służącego poprawie efektywności energetycznej"
+    },
+    {
+     "type": "text",
+     "text": "Tabela nr 1. Współczynnik k₁ ostrości klimatu"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Województwo Współczynnik Lp. Województwo Współczynnik"
+    },
+    {
+     "type": "text",
+     "text": "ostrości ostrości klimatu"
+    },
+    {
+     "type": "text",
+     "text": "klimatu k₁"
+    },
+    {
+     "type": "text",
+     "text": "k₁"
+    },
+    {
+     "type": "text",
+     "text": "1 mazowieckie 1,012 9 dolnośląskie 0,975"
+    },
+    {
+     "type": "text",
+     "text": "2 podlaskie 1,124 10 łódzkie 0,998"
+    },
+    {
+     "type": "text",
+     "text": "3 warmińsko-"
+    },
+    {
+     "type": "text",
+     "text": "-mazurskie 1,125 11 lubelskie 1,040"
+    },
+    {
+     "type": "text",
+     "text": "4 pomorskie 1,011 12 opolskie 0,948"
+    },
+    {
+     "type": "text",
+     "text": "5 zachodniopomorskie 0,994 13 śląskie 0,976"
+    },
+    {
+     "type": "text",
+     "text": "6 lubuskie 0,962 14 świętokrzyskie 1,022"
+    },
+    {
+     "type": "text",
+     "text": "7 wielkopolskie 0,985 15 małopolskie 0,970"
+    },
+    {
+     "type": "text",
+     "text": "8 kujawsko-pomorskie 1,006 16 podkarpackie 0,997"
+    },
+    {
+     "type": "text",
+     "text": "Tabela nr 2. Wskaźnik U₀ w stanie istniejącym w zależności od okresu budowy i rodzaju"
+    },
+    {
+     "type": "text",
+     "text": "przegrody budowlanej "
+    },
+    {
+     "type": "text",
+     "text": "Współczynnik U przegród zewnętrznych w zależności od Dane wyjściowe⁰ Lp. rodzaju przegrody i okresu budowy [W/m² K]"
+    },
+    {
+     "type": "text",
+     "text": "okres budowy przed 1983 r. 1983–1991 1992–1998 po 1998 r."
+    },
+    {
+     "type": "text",
+     "text": "Strop pod"
+    },
+    {
+     "type": "text",
+     "text": "1 nieogrzewanym 0,90 0,40 0,30 0,30"
+    },
+    {
+     "type": "text",
+     "text": "poddaszem"
+    },
+    {
+     "type": "text",
+     "text": "2 Dach lub stropodach 0,70 0,45 0,30 0,30"
+    },
+    {
+     "type": "text",
+     "text": "3 Ściany zewnętrzne 1,10 0,75 0,60 0,50 Strop nad piwnicą / 4 0,8 0,8 0,7 0,6 podłoga na gruncie"
+    },
+    {
+     "type": "text",
+     "text": "5 Okna zewnętrzne 2,6 2,6 2,6 2,0"
+    },
+    {
+     "type": "text",
+     "text": "Tabela nr 3. Współczynnik korekcyjny k₂ w zależności od średniej temperatury pomieszczenia"
+    },
+    {
+     "type": "text",
+     "text": "ogrzewanego"
+    },
+    {
+     "type": "text",
+     "text": "Średnia temperatura wewnętrzna w pomieszczeniu, z którego Współczynnik korekcyjny następuje strata ciepła przez analizowaną przegrodę k t w [⁰C]²"
+    },
+    {
+     "type": "text",
+     "text": "12 0,530"
+    },
+    {
+     "type": "text",
+     "text": "13 0,589"
+    },
+    {
+     "type": "text",
+     "text": "14 0,648"
+    },
+    {
+     "type": "text",
+     "text": "15 0,707"
+    },
+    {
+     "type": "text",
+     "text": "16 0,766"
+    },
+    {
+     "type": "text",
+     "text": "17 0,825"
+    },
+    {
+     "type": "text",
+     "text": "18 0,883"
+    },
+    {
+     "type": "text",
+     "text": "19 0,942"
+    },
+    {
+     "type": "text",
+     "text": "20 1,000"
+    },
+    {
+     "type": "text",
+     "text": "21 1,058"
+    },
+    {
+     "type": "text",
+     "text": "22 1,117"
+    },
+    {
+     "type": "text",
+     "text": "23 1,175"
+    },
+    {
+     "type": "text",
+     "text": "24 1,234"
+    },
+    {
+     "type": "text",
+     "text": "25 1,292"
+    },
+    {
+     "type": "text",
+     "text": "24 Tabela nr 4. Współczynniki sprawności systemów grzewczych w zależności od sposobu"
+    },
+    {
+     "type": "text",
+     "text": "ogrzewania i sposobu zasilania budynku w ciepło"
+    },
+    {
+     "type": "text",
+     "text": "Współczynnik Współczynnik"
+    },
+    {
+     "type": "text",
+     "text": "sprawności systemu sprawności systemu"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Rodzaj ogrzewania budynku grzewczego – budynki grzewczego – budynki"
+    },
+    {
+     "type": "text",
+     "text": "mieszkalne użyteczności publicznej"
+    },
+    {
+     "type": "text",
+     "text": " 0M  0P"
+    },
+    {
+     "type": "text",
+     "text": "Instalacja centralnego ogrzewania"
+    },
+    {
+     "type": "text",
+     "text": "1 zasilana z kotła gazowego lub 0,74 0,87"
+    },
+    {
+     "type": "text",
+     "text": "olejowego w budynku"
+    },
+    {
+     "type": "text",
+     "text": "Instalacja centralnego ogrzewania 2 0,59 0,69 z kotła węglowego w budynku"
+    },
+    {
+     "type": "text",
+     "text": "Instalacja centralnego ogrzewania"
+    },
+    {
+     "type": "text",
+     "text": "zasilana z węzła cieplnego 3 0,90 1,06 zasilanego z zewnętrznej sieci"
+    },
+    {
+     "type": "text",
+     "text": "ciepłowniczej"
+    },
+    {
+     "type": "text",
+     "text": "Instalacja centralnego ogrzewania 4 0,88 1,04 zasilana z kotła elektrycznego"
+    },
+    {
+     "type": "text",
+     "text": "Ogrzewanie elektryczne 5 0,95 1,12 miejscowe w pomieszczeniach"
+    },
+    {
+     "type": "text",
+     "text": "Ogrzewanie węglowe miejscowe 6 0,50 0,58 w pomieszczeniach"
+    },
+    {
+     "type": "text",
+     "text": "Tabela nr 5. Współczynniki korekcyjne k₀ i k₁ z uwagi na zastosowanie urządzeń i armatury"
+    },
+    {
+     "type": "text",
+     "text": "powodującej redukcję zużycia wody odpowiednio dla stanu przed i po modernizacji"
+    },
+    {
+     "type": "text",
+     "text": "Budynki Budynki użyteczności Lp. Rodzaj zastosowanej armatury mieszkalne publicznej k , k ⁰¹ k₀, k₁"
+    },
+    {
+     "type": "text",
+     "text": "1 Reduktory prysznicowe 0,80 0,70"
+    },
+    {
+     "type": "text",
+     "text": "Perlatory kaskadowe o zmniejszonym 2 0,75 0,65 przepływie Tabela nr 6. Czasy użytkowania T U źródeł światła w zależności od rodzaju budynku"
+    },
+    {
+     "type": "text",
+     "text": "i przeznaczenia pomieszczenia"
+    },
+    {
+     "type": "text",
+     "text": "Czas użytkowania źródła Czas użytkowania źródła światła – budynki światła – budynki Lp. Przeznaczenie pomieszczenia użyteczności publicznej mieszkalne i budynki biurowe [h/rok] [h/rok]"
+    },
+    {
+     "type": "text",
+     "text": "1 Kuchnie 1 900 1 200"
+    },
+    {
+     "type": "text",
+     "text": "2 Halle i korytarze 420 1 080"
+    },
+    {
+     "type": "text",
+     "text": "3 Drogi ewakuacyjne 2 200 2 200"
+    },
+    {
+     "type": "text",
+     "text": "4 Pomieszczenia mieszkalne 1 100 –"
+    },
+    {
+     "type": "text",
+     "text": "Pomieszczenia w budynkach"
+    },
+    {
+     "type": "text",
+     "text": "5 biurowych i użyteczności – 1800"
+    },
+    {
+     "type": "text",
+     "text": "publicznej"
+    },
+    {
+     "type": "text",
+     "text": "Oświetlenie zewnętrzne 6 700 2 200 budynku"
+    },
+    {
+     "type": "text",
+     "text": "7 Pozostałe 360 540"
+    },
+    {
+     "type": "text",
+     "text": "8 Oświetlenie uliczne 4150"
+    },
+    {
+     "type": "text",
+     "text": "Tabela nr 7. Średni czas pracy silnika w roku t w podziale na sektory"
+    },
+    {
+     "type": "text",
+     "text": "Średni czas pracy silnika"
+    },
+    {
+     "type": "text",
+     "text": "Moc znamionowa Średni czas pracy silnika (budynki mieszkalne,"
+    },
+    {
+     "type": "text",
+     "text": "Lp. silnika (sektor przemysłu) użyteczności publicznej"
+    },
+    {
+     "type": "text",
+     "text": "[kW] [h/rok] i usługowe)"
+    },
+    {
+     "type": "text",
+     "text": "[h/rok]"
+    },
+    {
+     "type": "text",
+     "text": "1 P2N < 0,75 2 150 2 400"
+    },
+    {
+     "type": "text",
+     "text": "2 0,75 ≤ P2N < 4,00 2 500 1 400"
+    },
+    {
+     "type": "text",
+     "text": "3 4,00 ≤ P2N < 10,00 2 350 1 250"
+    },
+    {
+     "type": "text",
+     "text": "4 10,00 ≤ P2N < 30,00 2 800 1 100"
+    },
+    {
+     "type": "text",
+     "text": "5 30,00 ≤ P2N < 70,00 4 700 1 550"
+    },
+    {
+     "type": "text",
+     "text": "6 70,00 ≤ P2N < 130,00 5 600 1 600"
+    },
+    {
+     "type": "text",
+     "text": "7 130,00 ≤ P2N < 375,00 6 100 1 350 Tabela nr 8. Średnia wartość współczynnika K P w podziale na sektory"
+    },
+    {
+     "type": "text",
+     "text": "Budynki mieszkalne, Moc znamionowa silnika Sektor przemysłu Lp. użyteczności publicznej [kW] i usługowe"
+    },
+    {
+     "type": "text",
+     "text": "1 P2N < 0,75 0,55 0,53"
+    },
+    {
+     "type": "text",
+     "text": "2 0,75 ≤ P2N < 4,00 0,55 0,53"
+    },
+    {
+     "type": "text",
+     "text": "3 4,00 ≤ P2N < 10,00 0,56 0,56"
+    },
+    {
+     "type": "text",
+     "text": "4 10,00 ≤ P2N < 30,00 0,62 0,55"
+    },
+    {
+     "type": "text",
+     "text": "5 30,00 ≤ P2N < 70,00 0,62 0,57"
+    },
+    {
+     "type": "text",
+     "text": "6 70,00 ≤ P2N < 130,00 0,59 0,62"
+    },
+    {
+     "type": "text",
+     "text": "7 130,00 ≤ P2N < 375,00 0,52 0,60"
+    },
+    {
+     "type": "text",
+     "text": "Tabela nr 9. Wskaźniki zużycia energii w zależności od kategorii pojazdu"
+    },
+    {
+     "type": "text",
+     "text": "Kategoria Podkategoria pojazdów Techno logia Wskaźnik pojazdów zużycia energii [MJ/km] osob owe benzynowe mini Euro 4 i późniejsze 2,14 benzynowe małe PRE-ECE to open 2,85 loop benzynowe małe Euro 1 i późniejsze 2,45 benzynowe średnie PRE-ECE to open 3,37 loop benzynowe średnie Euro 1 i późniejsze 2,89 benzynowe duże SUV PRE-ECE to open 4,16 loop benzynowe duże SUV Euro 1 i późniejsze 3,76 diesel małe Euro 4 i późniejsze 1,62 diesel średnie konwencjonalne 2,69 diesel średnie Euro 1 i późniejsze 2,35 diesel duże SUV konwencjonalne 3,20 diesel duże SUV Euro 1 i późniejsze 3,12 LPG konwencjonalne 2,75 LPG Euro 1 i późniejsze 2,65 dwusuwowe konwencjonalne 3,59 hybrydowe benzynowe małe Euro 4 1,49 hybrydowe benzynowe średnie Euro 4 1,49 hybrydowe benzynowe duże Euro 4 1,49 SUV E85 Euro 4 i późniejsze 3,33 CNG Euro 4 i późniejsze 3,02 pojazdy bateryjne – 0,54 pojazdy z ogniwem paliwowym – 0,95 dosta wcze benzynowe konwencjonalne 3,72 benzynowe Euro 1 i późniejsze 3,06 diesel konwencjonalne 3,80 diesel Euro 1 i późniejsze 3,42 pojazdy bateryjne – 0,90 pojazdy z ogniwem paliwowym – 1,78 cięża rowe benzynowe konwencjonalne 7,75 > 3,5 t diesel konwencjonalne 5,34 < 7,5 t diesel Euro 1 i późniejsze 4,31 < 7,5 t pojazdy bateryjne – 2,16 ≥ 3,5 ≤ 12 t pojazdy z ogniwem paliwowym – 3,56 ≥ 3,5 ≤ 12 t diesel konwencjonalne 7,77 ≥ 7,5 < 16 t diesel Euro 1 i późniejsze 6,62 ≥ 7,5 < 16 t diesel konwencjonalne 10,72 ≥ 16 ≤ 32 t diesel Euro 1 i późniejsze 8,97 ≥ 16 ≤ 32 t pojazdy bateryjne – 4,32 > 16 t pojazdy z ogniwem paliwowym – 9,50 > 16 t diesel konwencjonalne 12,68 > 32 t diesel Euro 1 i późniejsze 10,72 > 32 t autob usy miejskie CNG HD Euro I 26,64 miejskie CNG HD Euro II 24,72 miejskie CNG HD Euro III 21,84 miejskie CNG EEV 21,84 miejskie standardowe konwencjonalne 15,63 miejskie standardowe Euro 1 i późniejsze 12,85 autokary standardowe konwencjonalne 11,23 autokary standardowe Euro 1 i późniejsze 10,55 pojazdy bateryjne – 2,88 miejskie pojazdy z ogniwem paliwowym – 9,50 miejskie pojazdy z ogniwem paliwowym – 11,88 autokary standardowe katego ria L motorowery dwusuwowe konwencjonalne 1,09 < 50 cm³ motorowery dwusuwowe Euro 1 0,88 < 50 cm³ motorowery dwusuwowe Euro 2 0,88 < 50 cm³ motorowery dwusuwowe Euro 3 i późniejsze 0,88 < 50 cm³ motorowery czterosuwowe konwencjonalne 1,09 < 50 cm³ motorowery czterosuwowe Euro 1 0,88 < 50 cm³ motorowery czterosuwowe Euro 2 0,88 < 50 cm³ motorowery czterosuwowe Euro 3 i późniejsze 0,88 < 50 cm³ pojazdy bateryjne – 0,03 motorowery motocykle dwusuwowe konwencjonalne 1,44 < 50 cm³ motocykle dwusuwowe Euro 1 1,09 < 50 cm³ motocykle dwusuwowe Euro 2 1,01 < 50 cm³ motocykle dwusuwowe Euro 3 i późniejsze 0,74 < 50 cm³ motocykle czterosuwowe konwencjonalne 14,00 < 250 cm³ motocykle czterosuwowe Euro 1 i późniejsze 1,58 < 250 cm³ motocykle czterosuwowe konwencjonalne 1,62 ≥ 250 ≤ 750 cm³ motocykle czterosuwowe Euro 1 i późniejsze 1,58 ≥ 250 ≤ 750 cm³ motocykle czterosuwowe konwencjonalne 1,97 > 750 cm³ motocykle czterosuwowe Euro 1 i późniejsze 2,01 > 750 cm³ pojazdy bateryjne – 0,03 motocykle mini samochody diesel konwencjonalne 1,44 mini samochody diesel Euro 1 1,26 mini samochody diesel Euro 2 1,26 mini samochody diesel Euro 3 1,26 mini samochody diesel Euro 4 1,13 mini samochody diesel Euro 5 1,13 pojazdy terenowe (ATVs) konwencjonalne 2,07 pojazdy terenowe (ATVs) Euro 1 1,79 pojazdy terenowe (ATVs) Euro 2 1,79 pojazdy terenowe (ATVs) Euro 3 1,79 pojazdy terenowe (ATVs) Euro 4 1,74 pojazdy terenowe (ATVs) Euro 5 1,74"
+    },
+    {
+     "type": "text",
+     "text": "Tabela nr 10. Średni przebieg w podziale na kategorie pojazdów"
+    },
+    {
+     "type": "text",
+     "text": "Kategoria pojazdów Średni przebieg [km]"
+    },
+    {
+     "type": "text",
+     "text": "osobowe 190 000 dostawcze 300 000 ciężarowe 500 000 autobusy 600 000 kategoria L 40 000"
+    },
+    {
+     "type": "text",
+     "text": "Tabela nr 11. Średni cykl życia pojazdu w podziale na kategorie"
+    },
+    {
+     "type": "text",
+     "text": "Kategoria pojazdów Średni cykl życia [lata]"
+    },
+    {
+     "type": "text",
+     "text": "osobowe 14,0 dostawcze 13,5 ciężarowe 12,2 autobusy 15,6 kategoria L 10,0"
     }
    ]
   },
@@ -3570,148 +3410,140 @@
      "text": "ww PP, ii ∙VV gdzie poszczególne symbole oznaczają: W"
     },
     {
-     "type": "tir",
-     "num": "1",
-     "path": "tir_1",
-     "text": "współczynnik nakładu nieodnawialnej energii pierwotnej, określony",
-     "children": [
-      {
-       "type": "text",
-       "text": "w tabeli 1, odpowiedni dla danego nośnika energii finalnej,"
-      },
-      {
-       "type": "text",
-       "text": "stosownie do wykorzystywanego paliwa lub źródła energii,"
-      }
-     ]
+     "type": "text",
+     "text": "– współczynnik nakładu nieodnawialnej energii pierwotnej, określony"
     },
     {
-     "type": "tir",
-     "num": "2",
-     "path": "tir_2",
-     "text": "objętość gazu ziemnego lub biogazu wprowadzonego do danej sieci",
-     "children": [
-      {
-       "type": "text",
-       "text": "gazowej w ciągu roku kalendarzowego poprzedzającego rok,"
-      },
-      {
-       "type": "text",
-       "text": "w którym sporządzany jest audyt efektywności energetycznej,"
-      },
-      {
-       "type": "text",
-       "text": "wyrażona w Nm³/rok."
-      },
-      {
-       "type": "text",
-       "text": "Tabela 1. Wartości współczynnika nakładu nieodnawialnej energii pierwotnej dla"
-      },
-      {
-       "type": "text",
-       "text": "poszczególnych nośników energii"
-      },
-      {
-       "type": "text",
-       "text": "Lp. Rodzaj nośnika energii Współczynnik nakładu"
-      },
-      {
-       "type": "text",
-       "text": "nieodnawialnej energii"
-      },
-      {
-       "type": "text",
-       "text": "pierwotnej"
-      },
-      {
-       "type": "text",
-       "text": "w P , w el"
-      },
-      {
-       "type": "text",
-       "text": "1 Paliwo lub źródło Olej opałowy 1,1"
-      },
-      {
-       "type": "text",
-       "text": "2 energii Gaz ziemny 1,1"
-      },
-      {
-       "type": "text",
-       "text": "3 Gaz płynny 1,1"
-      },
-      {
-       "type": "text",
-       "text": "4 Węgiel kamienny 1,1"
-      },
-      {
-       "type": "text",
-       "text": "5 Węgiel brunatny 1,1"
-      },
-      {
-       "type": "text",
-       "text": "6 Biomasa 0,2"
-      },
-      {
-       "type": "text",
-       "text": "7 Biogaz 0,5"
-      },
-      {
-       "type": "text",
-       "text": "8 Energia słoneczna 0,0"
-      },
-      {
-       "type": "text",
-       "text": "9 Energia wiatrowa 0,0"
-      },
-      {
-       "type": "text",
-       "text": "10 Energia geotermalna 0,0"
-      },
-      {
-       "type": "text",
-       "text": "11 Ciepło odpadowe z przemysłu 0,05"
-      },
-      {
-       "type": "text",
-       "text": "12 Olej napędowy 1,1"
-      },
-      {
-       "type": "text",
-       "text": "13 Benzyna 1,1"
-      },
-      {
-       "type": "text",
-       "text": "14 LPG 1,1"
-      },
-      {
-       "type": "text",
-       "text": "15 Wodór (energia elektryczna 4,2 z produkcji mieszanej)"
-      },
-      {
-       "type": "text",
-       "text": "16 Wodór (energia elektryczna"
-      },
-      {
-       "type": "text",
-       "text": "z energii słonecznej, 0,0"
-      },
-      {
-       "type": "text",
-       "text": "wiatrowej, geotermalnej)"
-      },
-      {
-       "type": "text",
-       "text": "17 Wodór (energia elektryczna 0,33 z biomasy)"
-      },
-      {
-       "type": "text",
-       "text": "18 Wodór (energia elektryczna 0,83 z biogazu) 19 Wodór (reforming parowy 1,47 metanu)"
-      },
-      {
-       "type": "text",
-       "text": "20 Sieć Energia elektryczna z produkcji elektroenergetyczna 2,5 mieszanej systemowa"
-      }
-     ]
+     "type": "text",
+     "text": "w tabeli 1, odpowiedni dla danego nośnika energii finalnej,"
+    },
+    {
+     "type": "text",
+     "text": "stosownie do wykorzystywanego paliwa lub źródła energii,"
+    },
+    {
+     "type": "text",
+     "text": "– objętość gazu ziemnego lub biogazu wprowadzonego do danej sieci"
+    },
+    {
+     "type": "text",
+     "text": "gazowej w ciągu roku kalendarzowego poprzedzającego rok,"
+    },
+    {
+     "type": "text",
+     "text": "w którym sporządzany jest audyt efektywności energetycznej,"
+    },
+    {
+     "type": "text",
+     "text": "wyrażona w Nm³/rok."
+    },
+    {
+     "type": "text",
+     "text": "Tabela 1. Wartości współczynnika nakładu nieodnawialnej energii pierwotnej dla"
+    },
+    {
+     "type": "text",
+     "text": "poszczególnych nośników energii"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Rodzaj nośnika energii Współczynnik nakładu"
+    },
+    {
+     "type": "text",
+     "text": "nieodnawialnej energii"
+    },
+    {
+     "type": "text",
+     "text": "pierwotnej"
+    },
+    {
+     "type": "text",
+     "text": "w P , w el"
+    },
+    {
+     "type": "text",
+     "text": "1 Paliwo lub źródło Olej opałowy 1,1"
+    },
+    {
+     "type": "text",
+     "text": "2 energii Gaz ziemny 1,1"
+    },
+    {
+     "type": "text",
+     "text": "3 Gaz płynny 1,1"
+    },
+    {
+     "type": "text",
+     "text": "4 Węgiel kamienny 1,1"
+    },
+    {
+     "type": "text",
+     "text": "5 Węgiel brunatny 1,1"
+    },
+    {
+     "type": "text",
+     "text": "6 Biomasa 0,2"
+    },
+    {
+     "type": "text",
+     "text": "7 Biogaz 0,5"
+    },
+    {
+     "type": "text",
+     "text": "8 Energia słoneczna 0,0"
+    },
+    {
+     "type": "text",
+     "text": "9 Energia wiatrowa 0,0"
+    },
+    {
+     "type": "text",
+     "text": "10 Energia geotermalna 0,0"
+    },
+    {
+     "type": "text",
+     "text": "11 Ciepło odpadowe z przemysłu 0,05"
+    },
+    {
+     "type": "text",
+     "text": "12 Olej napędowy 1,1"
+    },
+    {
+     "type": "text",
+     "text": "13 Benzyna 1,1"
+    },
+    {
+     "type": "text",
+     "text": "14 LPG 1,1"
+    },
+    {
+     "type": "text",
+     "text": "15 Wodór (energia elektryczna 4,2 z produkcji mieszanej)"
+    },
+    {
+     "type": "text",
+     "text": "16 Wodór (energia elektryczna"
+    },
+    {
+     "type": "text",
+     "text": "z energii słonecznej, 0,0"
+    },
+    {
+     "type": "text",
+     "text": "wiatrowej, geotermalnej)"
+    },
+    {
+     "type": "text",
+     "text": "17 Wodór (energia elektryczna 0,33 z biomasy)"
+    },
+    {
+     "type": "text",
+     "text": "18 Wodór (energia elektryczna 0,83 z biogazu) 19 Wodór (reforming parowy 1,47 metanu)"
+    },
+    {
+     "type": "text",
+     "text": "20 Sieć Energia elektryczna z produkcji elektroenergetyczna 2,5 mieszanej systemowa"
     }
    ]
   },

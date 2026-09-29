@@ -130,66 +130,59 @@
        "text": "II.4 Ilość biokomponentów ogółem [t] , w tym ilość biokomponentów: 6), 7)"
       },
       {
+       "type": "text",
+       "text": "– zaawansowanych, wytworzonych z surowców wymienionych w części A 6), 7) załącznika nr 1 do ustawy o biokomponentach i biopaliwach ciekłych [t]"
+      },
+      {
+       "type": "text",
+       "text": "– wytworzonych z surowców wymienionych w części B załącznika nr 1 6), 7) do ustawy o biokomponentach i biopaliwach ciekłych [t]"
+      },
+      {
+       "type": "text",
+       "text": "6), 7) – zawartych w paliwach [t]"
+      },
+      {
+       "type": "text",
+       "text": "6), 7) – zawartych w paliwach lotniczych [t]"
+      },
+      {
+       "type": "text",
+       "text": "6), 7) – zawartych w paliwach żeglugowych [t] III. INFORMACJE DOTYCZĄCE CIEKŁYCH PALIW WĘGLOWYCH POCHODZĄCYCH Z RECYKLINGU ALBO GAZOWYCH PALIW WĘGLOWYCH POCHODZĄCYCH Z RECYKLINGU WSKAZANYCH W ŚWIADECTWIE"
+      },
+      {
+       "type": "text",
+       "text": "III.1 Data uruchomienia instalacji, z której pochodzą ciekłe paliwa węglowe pochodzące z recyklingu albo gazowe paliwa węglowe pochodzące z recyklingu [dzień, miesiąc, rok]"
+      },
+      {
+       "type": "text",
+       "text": "III.2 Rodzaj ciekłego paliwa węglowego pochodzącego z recyklingu albo gazowego paliwa węglowego pochodzącego z recyklingu[^8]"
+      },
+      {
+       "type": "text",
+       "text": "III.3 Wartość energetyczna ciekłego paliwa węglowego pochodzącego z recyklingu albo gazowego paliwa węglowego pochodzącego z recyklingu [MJ/kg][^9]"
+      },
+      {
+       "type": "text",
+       "text": "III.4 Ilość ciekłych paliw węglowych pochodzących z recyklingu albo gazowych paliw węglowych pochodzących z recyklingu ogółem [t][^10], w tym ilość ciekłych paliw węglowych pochodzących z recyklingu albo gazowych paliw węglowych pochodzących z recyklingu:"
+      },
+      {
        "type": "tir",
        "num": "1",
        "path": "pkt_5/tir_1",
-       "text": "zaawansowanych, wytworzonych z surowców wymienionych w części A 6), 7) załącznika nr 1 do ustawy o biokomponentach i biopaliwach ciekłych [t]",
+       "text": "zawartych w paliwach [t][^10]",
        "children": []
       },
       {
        "type": "tir",
        "num": "2",
        "path": "pkt_5/tir_2",
-       "text": "wytworzonych z surowców wymienionych w części B załącznika nr 1 6), 7) do ustawy o biokomponentach i biopaliwach ciekłych [t]",
-       "children": [
-        {
-         "type": "text",
-         "text": "6), 7) – zawartych w paliwach [t]"
-        },
-        {
-         "type": "text",
-         "text": "6), 7) – zawartych w paliwach lotniczych [t]"
-        },
-        {
-         "type": "text",
-         "text": "6), 7) – zawartych w paliwach żeglugowych [t] III. INFORMACJE DOTYCZĄCE CIEKŁYCH PALIW WĘGLOWYCH POCHODZĄCYCH Z RECYKLINGU ALBO GAZOWYCH PALIW WĘGLOWYCH POCHODZĄCYCH Z RECYKLINGU WSKAZANYCH W ŚWIADECTWIE"
-        },
-        {
-         "type": "text",
-         "text": "III.1 Data uruchomienia instalacji, z której pochodzą ciekłe paliwa węglowe pochodzące z recyklingu albo gazowe paliwa węglowe pochodzące z recyklingu [dzień, miesiąc, rok]"
-        },
-        {
-         "type": "text",
-         "text": "III.2 Rodzaj ciekłego paliwa węglowego pochodzącego z recyklingu albo gazowego paliwa węglowego pochodzącego z recyklingu[^8]"
-        },
-        {
-         "type": "text",
-         "text": "III.3 Wartość energetyczna ciekłego paliwa węglowego pochodzącego z recyklingu albo gazowego paliwa węglowego pochodzącego z recyklingu [MJ/kg][^9]"
-        },
-        {
-         "type": "text",
-         "text": "III.4 Ilość ciekłych paliw węglowych pochodzących z recyklingu albo gazowych paliw węglowych pochodzących z recyklingu ogółem [t][^10], w tym ilość ciekłych paliw węglowych pochodzących z recyklingu albo gazowych paliw węglowych pochodzących z recyklingu:"
-        }
-       ]
-      },
-      {
-       "type": "tir",
-       "num": "3",
-       "path": "pkt_5/tir_3",
-       "text": "zawartych w paliwach [t][^10]",
-       "children": []
-      },
-      {
-       "type": "tir",
-       "num": "4",
-       "path": "pkt_5/tir_4",
        "text": "zawartych w paliwach lotniczych [t][^10]",
        "children": []
       },
       {
        "type": "tir",
-       "num": "5",
-       "path": "pkt_5/tir_5",
+       "num": "3",
+       "path": "pkt_5/tir_3",
        "text": "zawartych w paliwach żeglugowych [t][^10] IV. INFORMACJE DOTYCZĄCE INNYCH PALIW ODNAWIALNYCH WSKAZANYCH W ŚWIADECTWIE",
        "children": [
         {
@@ -212,22 +205,22 @@
       },
       {
        "type": "tir",
-       "num": "6",
-       "path": "pkt_5/tir_6",
+       "num": "4",
+       "path": "pkt_5/tir_4",
        "text": "zawartych w paliwach [t][^13]",
        "children": []
       },
       {
        "type": "tir",
-       "num": "7",
-       "path": "pkt_5/tir_7",
+       "num": "5",
+       "path": "pkt_5/tir_5",
        "text": "zawartych w paliwach lotniczych [t][^13]",
        "children": []
       },
       {
        "type": "tir",
-       "num": "8",
-       "path": "pkt_5/tir_8",
+       "num": "6",
+       "path": "pkt_5/tir_6",
        "text": "zawartych w paliwach żeglugowych [t][^13] V. SZCZEGÓŁOWY WYKAZ POŚWIADCZEŃ LUB DOKUMENTÓW",
        "children": [
         {

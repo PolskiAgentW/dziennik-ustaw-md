@@ -2377,12 +2377,11 @@
        "num": "f",
        "path": "ust_3/lit_f",
        "text": "producent postprodukcji lub koordynator",
-       "children": [
-        {
-         "type": "text",
-         "text": "efektów specjalnych VFX,"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "efektów specjalnych VFX,"
       },
       {
        "type": "lit",
@@ -2801,29 +2800,19 @@
      "num": "a",
      "path": "lit_a",
      "text": "do realizacji zdjęć lub animacji",
-     "children": [
-      {
-       "type": "tir",
-       "num": "1",
-       "path": "lit_a/tir_1",
-       "text": "przynajmniej 10 1",
-       "children": []
-      },
-      {
-       "type": "tir",
-       "num": "2",
-       "path": "lit_a/tir_2",
-       "text": "przynajmniej 20 2",
-       "children": []
-      },
-      {
-       "type": "tir",
-       "num": "3",
-       "path": "lit_a/tir_3",
-       "text": "przynajmniej 30 3",
-       "children": []
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "– przynajmniej 10 1"
+    },
+    {
+     "type": "text",
+     "text": "– przynajmniej 20 2"
+    },
+    {
+     "type": "text",
+     "text": "– przynajmniej 30 3"
     },
     {
      "type": "lit",
@@ -2832,61 +2821,51 @@
      "text": "do realizacji usług postprodukcyjnych",
      "children": [
       {
+       "type": "text",
+       "text": "– przynajmniej 10 1"
+      },
+      {
+       "type": "text",
+       "text": "– przynajmniej 20 2"
+      },
+      {
+       "type": "text",
+       "text": "– przynajmniej 30 3"
+      },
+      {
+       "type": "text",
+       "text": "4 Wykonanie na terytorium Rzeczypospolitej Polskiej efektów specjalnych 1"
+      },
+      {
+       "type": "text",
+       "text": "5 Nagranie muzyki na terytorium Rzeczypospolitej Polskiej 1"
+      },
+      {
+       "type": "text",
+       "text": "6 Montaż dźwięku i zgranie na terytorium Rzeczypospolitej Polskiej 1"
+      },
+      {
+       "type": "text",
+       "text": "7 Postprodukcja obrazu na terytorium Rzeczypospolitej Polskiej:"
+      },
+      {
        "type": "tir",
        "num": "1",
        "path": "lit_b/tir_1",
-       "text": "przynajmniej 10 1",
+       "text": "przynajmniej 10 % kosztów postprodukcji jest wydatkowanych na terytorium Rzeczypospolitej 1 Polskiej",
        "children": []
       },
       {
        "type": "tir",
        "num": "2",
        "path": "lit_b/tir_2",
-       "text": "przynajmniej 20 2",
+       "text": "przynajmniej 30 % kosztów postprodukcji jest wydatkowanych na terytorium Rzeczypospolitej 2 Polskiej",
        "children": []
       },
       {
        "type": "tir",
        "num": "3",
        "path": "lit_b/tir_3",
-       "text": "przynajmniej 30 3",
-       "children": [
-        {
-         "type": "text",
-         "text": "4 Wykonanie na terytorium Rzeczypospolitej Polskiej efektów specjalnych 1"
-        },
-        {
-         "type": "text",
-         "text": "5 Nagranie muzyki na terytorium Rzeczypospolitej Polskiej 1"
-        },
-        {
-         "type": "text",
-         "text": "6 Montaż dźwięku i zgranie na terytorium Rzeczypospolitej Polskiej 1"
-        },
-        {
-         "type": "text",
-         "text": "7 Postprodukcja obrazu na terytorium Rzeczypospolitej Polskiej:"
-        }
-       ]
-      },
-      {
-       "type": "tir",
-       "num": "4",
-       "path": "lit_b/tir_4",
-       "text": "przynajmniej 10 % kosztów postprodukcji jest wydatkowanych na terytorium Rzeczypospolitej 1 Polskiej",
-       "children": []
-      },
-      {
-       "type": "tir",
-       "num": "5",
-       "path": "lit_b/tir_5",
-       "text": "przynajmniej 30 % kosztów postprodukcji jest wydatkowanych na terytorium Rzeczypospolitej 2 Polskiej",
-       "children": []
-      },
-      {
-       "type": "tir",
-       "num": "6",
-       "path": "lit_b/tir_6",
        "text": "przynajmniej 50 % kosztów postprodukcji jest wydatkowanych na terytorium Rzeczypospolitej 3 Polskiej",
        "children": [
         {
@@ -3381,32 +3360,30 @@
        "num": "1",
        "path": "ust_1/pkt_1",
        "text": "poniesienie kosztów nabycia towarów lub usług, w szczególności faktury, rachunki oraz potwierdzenia zapłaty za",
-       "children": [
-        {
-         "type": "text",
-         "text": "towary lub usługi;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "towary lub usługi;"
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_1/pkt_2",
        "text": "dokonanie zapłaty honorariów, wynagrodzeń i innych świadczeń stanowiących koszty pracy osób zaangażowanych",
-       "children": [
-        {
-         "type": "text",
-         "text": "do produkcji audiowizualnej w okresie trwania produkcji audiowizualnej, w szczególności umowy zawarte z osobami"
-        },
-        {
-         "type": "text",
-         "text": "fizycznymi (umowy o pracę, umowy o świadczenie usług, umowy zlecenia lub umowy o dzieło), a także potwierdze-"
-        },
-        {
-         "type": "text",
-         "text": "nia zapłaty wynagrodzenia z tytułu realizacji tych umów."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "do produkcji audiowizualnej w okresie trwania produkcji audiowizualnej, w szczególności umowy zawarte z osobami"
+      },
+      {
+       "type": "text",
+       "text": "fizycznymi (umowy o pracę, umowy o świadczenie usług, umowy zlecenia lub umowy o dzieło), a także potwierdze-"
+      },
+      {
+       "type": "text",
+       "text": "nia zapłaty wynagrodzenia z tytułu realizacji tych umów."
       }
      ]
     },

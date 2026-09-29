@@ -15,8 +15,11 @@ for y in years:
     lines.append(f"| {y} | {len(ry)} | {sum(r['status'] == 'ok' for r in ry)} | "
                  f"{sum(r['status'] != 'ok' for r in ry)} |")
 nt = [r for r in ok if int(r.get("no_text_pages") or 0) > 0]
-lines += ["", f"Akty ze stronami bez warstwy tekstowej (skany, grafiki; ich treści brak): {len(nt)}, "
-              f"razem {sum(int(r['no_text_pages']) for r in nt)} z {sum(int(r['pages'] or 0) for r in ok)} stron.",
+ocr = [r for r in ok if int(r.get("ocr_pages") or 0) > 0]
+lines += ["", f"Akty ze stronami bez warstwy tekstowej (skany, grafiki): {len(nt)}, "
+              f"razem {sum(int(r['no_text_pages']) for r in nt)} z {sum(int(r['pages'] or 0) for r in ok)} stron. "
+              f"Tekst z OCR (oznaczony) ma {sum(int(r['ocr_pages']) for r in ocr)} z nich w {len(ocr)} aktach; "
+              f"treści pozostałych brak.",
           f"Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): "
           f"{sum(int(r.get('image_pages') or 0) > 0 for r in ok)}."]
 types = Counter(r["type"] for r in ok)

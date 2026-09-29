@@ -1026,15 +1026,11 @@
        "num": "2",
        "path": "par_28/ust_1/pkt_2",
        "text": "135º ≥ α ≥ 45º – w przypadku pozostałych przejazdów kolejowo-drogowych",
-       "children": [
-        {
-         "type": "tir",
-         "num": "1",
-         "path": "par_28/ust_1/pkt_2/tir_1",
-         "text": "przy czym kąt skrzyżowania (α) dobiera się, uwzględniając przebieg drogi przed przejazdem kolejowo-drogowym i za przejazdem kolejowo-drogowym, w celu uproszczenia geometrii drogi.",
-         "children": []
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– przy czym kąt skrzyżowania (α) dobiera się, uwzględniając przebieg drogi przed przejazdem kolejowo-drogowym i za przejazdem kolejowo-drogowym, w celu uproszczenia geometrii drogi."
       }
      ]
     },
@@ -2317,15 +2313,11 @@
      "num": "2",
      "path": "par_60/pkt_2",
      "text": "8 sekund – dla przejazdów kolejowo-drogowych i przejść obsługiwanych z odległości",
-     "children": [
-      {
-       "type": "tir",
-       "num": "1",
-       "path": "par_60/pkt_2/tir_1",
-       "text": "przed rozpoczęciem opuszczania rogatek i działające do czasu ich ponownego całkowitego podniesienia.",
-       "children": []
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "– przed rozpoczęciem opuszczania rogatek i działające do czasu ich ponownego całkowitego podniesienia."
     }
    ]
   },
@@ -3417,15 +3409,11 @@
        "num": "4",
        "path": "par_88/ust_1/pkt_4",
        "text": "została wydana decyzja o legalizacji, o której mowa w art. 49 ust. 4 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, lub decyzje, o których mowa w art. 51 ust. 4 tej ustawy",
-       "children": [
-        {
-         "type": "tir",
-         "num": "1",
-         "path": "par_88/ust_1/pkt_4/tir_1",
-         "text": "stosuje się przepisy dotychczasowe.",
-         "children": []
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– stosuje się przepisy dotychczasowe."
       }
      ]
     },
@@ -3540,12 +3528,11 @@
        "num": "1",
        "path": "ust_2/pkt_1",
        "text": "5 lat – w przypadku przejazdów położonych w ciągu dróg gruntowych lub jeżeli ostatni",
-       "children": [
-        {
-         "type": "text",
-         "text": "iloczyn ruchu nie przekraczał wartości 20 000;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "iloczyn ruchu nie przekraczał wartości 20 000;"
       },
       {
        "type": "pkt",
@@ -3847,20 +3834,19 @@
        "num": "e",
        "path": "ust_3/lit_e",
        "text": "szerokość dróg dla pieszych, dróg dla rowerów lub dróg dla pieszych i rowerów na dojazdach do przejazdu kolejowo-drogowego / przejścia *)",
-       "children": [
-        {
-         "type": "text",
-         "text": "strona L m strona L m chodnik ścieżka rowerowa strona P m strona P m"
-        },
-        {
-         "type": "text",
-         "text": "strona L m f) szerokość pasa dzielącego na dojazdach do przejazdu kolejowo-drogowego / przejścia *) strona P m"
-        },
-        {
-         "type": "text",
-         "text": "strona L m g) długość odcinka prostego drogi, mierząc od skrajnej szyny strona P m"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "strona L m strona L m chodnik ścieżka rowerowa strona P m strona P m"
+      },
+      {
+       "type": "text",
+       "text": "strona L m f) szerokość pasa dzielącego na dojazdach do przejazdu kolejowo-drogowego / przejścia *) strona P m"
+      },
+      {
+       "type": "text",
+       "text": "strona L m g) długość odcinka prostego drogi, mierząc od skrajnej szyny strona P m"
       },
       {
        "type": "lit",
@@ -3881,28 +3867,26 @@
        "num": "j",
        "path": "ust_3/lit_j",
        "text": "nawierzchnia kolejowa w obrębie przejazdu kolejowo-drogowego / przejścia *)",
-       "children": [
-        {
-         "type": "text",
-         "text": "st a n d a r d p r o s ta tor nr kon s tr u k c y j ny łuk R m pr z e c h ył ka mm st a n d a r d p r o s ta tor nr kon s tr u k c y j ny łuk R m pr z e c h ył ka mm"
-        },
-        {
-         "type": "text",
-         "text": "st a n d a r d p r o s ta tor nr kon s tr u k c y j ny łuk R m pr z e c h ył k a mm"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "st a n d a r d p r o s ta tor nr kon s tr u k c y j ny łuk R m pr z e c h ył ka mm st a n d a r d p r o s ta tor nr kon s tr u k c y j ny łuk R m pr z e c h ył ka mm"
+      },
+      {
+       "type": "text",
+       "text": "st a n d a r d p r o s ta tor nr kon s tr u k c y j ny łuk R m pr z e c h ył k a mm"
       },
       {
        "type": "lit",
        "num": "k",
        "path": "ust_3/lit_k",
        "text": "nawierzchnia drogowa przejazdu kolejowo-drogowego / przejścia *)",
-       "children": [
-        {
-         "type": "text",
-         "text": "tor nr rodzaj tor nr rodzaj nawierzchni nawierzchni"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "tor nr rodzaj tor nr rodzaj nawierzchni nawierzchni"
       },
       {
        "type": "lit",
@@ -4121,28 +4105,26 @@
        "num": "b",
        "path": "ust_7/lit_b",
        "text": "napędy rogatkowe",
-       "children": [
-        {
-         "type": "text",
-         "text": "liczba typ napędu długość drąga liczba typ drąga długość drąga"
-        },
-        {
-         "type": "text",
-         "text": "światła migowe kontrola ciągłości drąga"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "liczba typ napędu długość drąga liczba typ drąga długość drąga"
+      },
+      {
+       "type": "text",
+       "text": "światła migowe kontrola ciągłości drąga"
       },
       {
        "type": "lit",
        "num": "c",
        "path": "ust_7/lit_c",
        "text": "wyposażenie drągów rogatek *) folia odblaskowa bezpiecznik drąga",
-       "children": [
-        {
-         "type": "text",
-         "text": "inne:"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "inne:"
       },
       {
        "type": "lit",
@@ -4156,24 +4138,23 @@
        "num": "e",
        "path": "ust_7/lit_e",
        "text": "dane techniczne systemu przejazdowego *) półsamoczynny samoczynny",
-       "children": [
-        {
-         "type": "text",
-         "text": "typ:"
-        },
-        {
-         "type": "text",
-         "text": "liczba i typ sygnalizatorów zakazujących wjazdu i wejścia umieszczanych na przejazdach kolejowo-drogowych i przejściach:"
-        },
-        {
-         "type": "text",
-         "text": "lokalizacja urządzenia zdalnej kontroli:"
-        },
-        {
-         "type": "text",
-         "text": "liczba i typ tarcz ostrzegawczych przejazdowych:"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "typ:"
+      },
+      {
+       "type": "text",
+       "text": "liczba i typ sygnalizatorów zakazujących wjazdu i wejścia umieszczanych na przejazdach kolejowo-drogowych i przejściach:"
+      },
+      {
+       "type": "text",
+       "text": "lokalizacja urządzenia zdalnej kontroli:"
+      },
+      {
+       "type": "text",
+       "text": "liczba i typ tarcz ostrzegawczych przejazdowych:"
       },
       {
        "type": "lit",
@@ -4201,36 +4182,34 @@
        "num": "i",
        "path": "ust_7/lit_i",
        "text": "urządzenia telewizji użytkowej *) TAK NIE Uwagi",
-       "children": [
-        {
-         "type": "text",
-         "text": "rejestracja TAK NIE Uwagi"
-        },
-        {
-         "type": "text",
-         "text": "liczba kamer szt. Uwagi"
-        },
-        {
-         "type": "text",
-         "text": "lokalizacja monitora"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "rejestracja TAK NIE Uwagi"
+      },
+      {
+       "type": "text",
+       "text": "liczba kamer szt. Uwagi"
+      },
+      {
+       "type": "text",
+       "text": "lokalizacja monitora"
       },
       {
        "type": "lit",
        "num": "j",
        "path": "ust_7/lit_j",
        "text": "urządzenia łączności na przejeździe kolejowo-drogowym / przejściu *) TAK NIE",
-       "children": [
-        {
-         "type": "text",
-         "text": "typ:"
-        },
-        {
-         "type": "text",
-         "text": "7 *) 8. OBSŁUGA PRZEJAZDU KOLEJOWO-DROGOWEGO / PRZEJŚCIA (kategorii A, E oraz F z urządzeniami półsamoczynnymi zabezpieczającymi)"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "typ:"
+      },
+      {
+       "type": "text",
+       "text": "7 *) 8. OBSŁUGA PRZEJAZDU KOLEJOWO-DROGOWEGO / PRZEJŚCIA (kategorii A, E oraz F z urządzeniami półsamoczynnymi zabezpieczającymi)"
       },
       {
        "type": "lit",
@@ -4244,12 +4223,11 @@
        "num": "b",
        "path": "ust_7/lit_b",
        "text": "miejsce obsługi (posterunek)",
-       "children": [
-        {
-         "type": "text",
-         "text": "z miejsca z odległości m"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "z miejsca z odległości m"
       },
       {
        "type": "lit",
@@ -4263,28 +4241,27 @@
        "num": "d",
        "path": "ust_7/lit_d",
        "text": "liczba przejazdów kolejowo-drogowych obsługiwanych szt. z posterunku",
-       "children": [
-        {
-         "type": "text",
-         "text": "linia: km: kat."
-        },
-        {
-         "type": "text",
-         "text": "linia: km: kat."
-        },
-        {
-         "type": "text",
-         "text": "linia: km: kat."
-        },
-        {
-         "type": "text",
-         "text": "linia: km: kat."
-        },
-        {
-         "type": "text",
-         "text": "szczegółowy sposób obsługi określa Regulamin obsługi przejazdu kolejowo-drogowego lub przejścia dołączony do metryki"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "linia: km: kat."
+      },
+      {
+       "type": "text",
+       "text": "linia: km: kat."
+      },
+      {
+       "type": "text",
+       "text": "linia: km: kat."
+      },
+      {
+       "type": "text",
+       "text": "linia: km: kat."
+      },
+      {
+       "type": "text",
+       "text": "szczegółowy sposób obsługi określa Regulamin obsługi przejazdu kolejowo-drogowego lub przejścia dołączony do metryki"
       }
      ]
     },
@@ -5225,24 +5202,23 @@
        "num": "2",
        "path": "ust_1/pkt_2",
        "text": "oznacza się przejazd kolejowo-drogowy od strony drogi znakiem B-32b „rogatka",
-       "children": [
-        {
-         "type": "text",
-         "text": "uszkodzona” lub znakiem B-32c „sygnalizacja uszkodzona”, które ustawia się z obu stron"
-        },
-        {
-         "type": "text",
-         "text": "przejazdu kolejowo-drogowego, po prawej stronie drogi, bezpośrednio przed rogatką lub"
-        },
-        {
-         "type": "text",
-         "text": "sygnalizatorem drogowym umieszczanym na przejazdach kolejowo-drogowych i przej-"
-        },
-        {
-         "type": "text",
-         "text": "ściach w odległości 1 m od krawędzi jezdni."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "uszkodzona” lub znakiem B-32c „sygnalizacja uszkodzona”, które ustawia się z obu stron"
+      },
+      {
+       "type": "text",
+       "text": "przejazdu kolejowo-drogowego, po prawej stronie drogi, bezpośrednio przed rogatką lub"
+      },
+      {
+       "type": "text",
+       "text": "sygnalizatorem drogowym umieszczanym na przejazdach kolejowo-drogowych i przej-"
+      },
+      {
+       "type": "text",
+       "text": "ściach w odległości 1 m od krawędzi jezdni."
       }
      ]
     },
@@ -5273,12 +5249,11 @@
        "num": "1",
        "path": "ust_2/pkt_1",
        "text": "wprowadzeniu ograniczenia dopuszczalnej prędkości czoła pojazdów kolejowych na całej",
-       "children": [
-        {
-         "type": "text",
-         "text": "szerokości przejazdu kolejowo-drogowego do 20 km/h;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "szerokości przejazdu kolejowo-drogowego do 20 km/h;"
       },
       {
        "type": "pkt",
@@ -5364,24 +5339,22 @@
        "num": "1",
        "path": "ust_5/pkt_1",
        "text": "zarządzeniu dodatkowego podawania sygnału dźwiękowego Rp 1 „Baczność” na odcinku",
-       "children": [
-        {
-         "type": "text",
-         "text": "od wskaźnika W 6a albo W 6b do przejazdu kolejowo-drogowego lub przejścia;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "od wskaźnika W 6a albo W 6b do przejazdu kolejowo-drogowego lub przejścia;"
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_5/pkt_2",
        "text": "dezaktywacji urządzenia samoczynnego systemu przejazdowego w torze kolejowym",
-       "children": [
-        {
-         "type": "text",
-         "text": "zamkniętym w strefie przejazdu kolejowo-drogowego lub przejścia;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "zamkniętym w strefie przejazdu kolejowo-drogowego lub przejścia;"
       },
       {
        "type": "pkt",
@@ -5418,56 +5391,53 @@
          "num": "b",
          "path": "ust_5/pkt_3/lit_b",
          "text": "kierowaniu ruchem drogowym na przejeździe kolejowo-drogowym lub przejściu",
-         "children": [
-          {
-           "type": "text",
-           "text": "przez kierownika pociągu roboczego lub innego pracownika uprawnionego do"
-          },
-          {
-           "type": "text",
-           "text": "kierowania ruchem drogowym,"
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "przez kierownika pociągu roboczego lub innego pracownika uprawnionego do"
+        },
+        {
+         "type": "text",
+         "text": "kierowania ruchem drogowym,"
         },
         {
          "type": "lit",
          "num": "c",
          "path": "ust_5/pkt_3/lit_c",
          "text": "przekazaniu, po upewnieniu się, że pojazdy drogowe zatrzymały się, przez",
-         "children": [
-          {
-           "type": "text",
-           "text": "kierownika pociągu roboczego lub innego pracownika uprawnionego do kierowania"
-          },
-          {
-           "type": "text",
-           "text": "ruchem drogowym prowadzącemu pociąg roboczy polecenia jazdy z dopuszczalną"
-          },
-          {
-           "type": "text",
-           "text": "prędkością czoła pociągu roboczego nieprzekraczającą 10 km/h na całej szerokości"
-          },
-          {
-           "type": "text",
-           "text": "przejazdu kolejowo-drogowego lub przejścia,"
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "kierownika pociągu roboczego lub innego pracownika uprawnionego do kierowania"
+        },
+        {
+         "type": "text",
+         "text": "ruchem drogowym prowadzącemu pociąg roboczy polecenia jazdy z dopuszczalną"
+        },
+        {
+         "type": "text",
+         "text": "prędkością czoła pociągu roboczego nieprzekraczającą 10 km/h na całej szerokości"
+        },
+        {
+         "type": "text",
+         "text": "przejazdu kolejowo-drogowego lub przejścia,"
         },
         {
          "type": "lit",
          "num": "d",
          "path": "ust_5/pkt_3/lit_d",
          "text": "podawaniu przez kierownika pociągu roboczego lub innego pracownika",
-         "children": [
-          {
-           "type": "text",
-           "text": "uprawnionego do kierowania ruchem drogowym prowadzącemu pociąg roboczy"
-          },
-          {
-           "type": "text",
-           "text": "sygnału Rm 1 „Do mnie”."
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "uprawnionego do kierowania ruchem drogowym prowadzącemu pociąg roboczy"
+        },
+        {
+         "type": "text",
+         "text": "sygnału Rm 1 „Do mnie”."
         }
        ]
       }
@@ -5561,24 +5531,23 @@
          "num": "c",
          "path": "ust_8/pkt_1/lit_c",
          "text": "w uzasadnionych przypadkach – o umieszczenie znaku A-30 „inne niebezpieczeństwo”",
-         "children": [
-          {
-           "type": "text",
-           "text": "z tabliczką T-14d wskazującą przejazd kolejowo-drogowy, na którym warunki"
-          },
-          {
-           "type": "text",
-           "text": "miejscowe powodują szczególne niebezpieczeństwo powstawania wypadków"
-          },
-          {
-           "type": "text",
-           "text": "i wprowadzenie ograniczenia prędkości dla pojazdów drogowych przed dojazdem do"
-          },
-          {
-           "type": "text",
-           "text": "przejazdu kolejowo-drogowego;"
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "z tabliczką T-14d wskazującą przejazd kolejowo-drogowy, na którym warunki"
+        },
+        {
+         "type": "text",
+         "text": "miejscowe powodują szczególne niebezpieczeństwo powstawania wypadków"
+        },
+        {
+         "type": "text",
+         "text": "i wprowadzenie ograniczenia prędkości dla pojazdów drogowych przed dojazdem do"
+        },
+        {
+         "type": "text",
+         "text": "przejazdu kolejowo-drogowego;"
         }
        ]
       },
@@ -5587,24 +5556,23 @@
        "num": "2",
        "path": "ust_8/pkt_2",
        "text": "demontuje drągi rogatki na przejazdach kolejowo-drogowych kategorii A i B oraz",
-       "children": [
-        {
-         "type": "text",
-         "text": "umieszcza znak G-3 „krzyż św. Andrzeja przed przejazdem kolejowym jednotorowym”"
-        },
-        {
-         "type": "text",
-         "text": "albo znak G-4 „krzyż św. Andrzeja przed przejazdem kolejowym wielotorowym”, a na"
-        },
-        {
-         "type": "text",
-         "text": "przejazdach kolejowo-drogowych kategorii B i C umieszcza tablicę „sygnalizacja"
-        },
-        {
-         "type": "text",
-         "text": "uszkodzona”;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "umieszcza znak G-3 „krzyż św. Andrzeja przed przejazdem kolejowym jednotorowym”"
+      },
+      {
+       "type": "text",
+       "text": "albo znak G-4 „krzyż św. Andrzeja przed przejazdem kolejowym wielotorowym”, a na"
+      },
+      {
+       "type": "text",
+       "text": "przejazdach kolejowo-drogowych kategorii B i C umieszcza tablicę „sygnalizacja"
+      },
+      {
+       "type": "text",
+       "text": "uszkodzona”;"
       },
       {
        "type": "pkt",
@@ -5646,20 +5614,19 @@
        "num": "5",
        "path": "ust_8/pkt_5",
        "text": "ustala, w uzgodnieniu z zarządcą drogi, termin przywrócenia obsługi lub naprawy urządzeń",
-       "children": [
-        {
-         "type": "text",
-         "text": "zabezpieczenia ruchu na przejeździe kolejowo-drogowym nie dłuższy niż 3 miesiące od"
-        },
-        {
-         "type": "text",
-         "text": "wystąpienia braku pracownika obsługującego przejazd kolejowo-drogowy na przejeździe"
-        },
-        {
-         "type": "text",
-         "text": "kolejowo-drogowym kategorii A lub niedziałania urządzeń zabezpieczenia ruchu."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "zabezpieczenia ruchu na przejeździe kolejowo-drogowym nie dłuższy niż 3 miesiące od"
+      },
+      {
+       "type": "text",
+       "text": "wystąpienia braku pracownika obsługującego przejazd kolejowo-drogowy na przejeździe"
+      },
+      {
+       "type": "text",
+       "text": "kolejowo-drogowym kategorii A lub niedziałania urządzeń zabezpieczenia ruchu."
       }
      ]
     },
@@ -5690,12 +5657,11 @@
        "num": "1",
        "path": "ust_10/pkt_1",
        "text": "wprowadza się ograniczenie prędkości czoła pojazdów kolejowych do 20 km/h na całej",
-       "children": [
-        {
-         "type": "text",
-         "text": "szerokości przejścia;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "szerokości przejścia;"
       },
       {
        "type": "pkt",
@@ -5721,32 +5687,30 @@
        "num": "1",
        "path": "ust_11/pkt_1",
        "text": "demontuje się drągi rogatki oraz umieszcza się znak G-3 „krzyż św. Andrzeja przed",
-       "children": [
-        {
-         "type": "text",
-         "text": "przejazdem kolejowym jednotorowym” albo znak G-4 „krzyż św. Andrzeja przed"
-        },
-        {
-         "type": "text",
-         "text": "przejazdem kolejowym wielotorowym”, a na przejściu wyposażonym w sygnalizatory"
-        },
-        {
-         "type": "text",
-         "text": "drogowe umieszcza się tablicę „sygnalizacja uszkodzona”;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "przejazdem kolejowym jednotorowym” albo znak G-4 „krzyż św. Andrzeja przed"
+      },
+      {
+       "type": "text",
+       "text": "przejazdem kolejowym wielotorowym”, a na przejściu wyposażonym w sygnalizatory"
+      },
+      {
+       "type": "text",
+       "text": "drogowe umieszcza się tablicę „sygnalizacja uszkodzona”;"
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_11/pkt_2",
        "text": "utrzymuje się ograniczenie prędkości czoła pojazdów kolejowych do 20 km/h na całej",
-       "children": [
-        {
-         "type": "text",
-         "text": "szerokości przejścia;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "szerokości przejścia;"
       },
       {
        "type": "pkt",
@@ -5760,12 +5724,11 @@
        "num": "4",
        "path": "ust_11/pkt_4",
        "text": "ustala się termin przywrócenia właściwego działania urządzeń zabezpieczenia ruchu nie",
-       "children": [
-        {
-         "type": "text",
-         "text": "dłuższy niż 3 miesiące od dnia wystąpienia usterki."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "dłuższy niż 3 miesiące od dnia wystąpienia usterki."
       }
      ]
     }

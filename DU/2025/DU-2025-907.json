@@ -804,15 +804,11 @@
          "num": "3",
          "path": "art_6/ust_2/pkt_3",
          "text": "za odpłatnością w wysokości 30 % albo 50 % ich limitu finansowania",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_6/ust_2/pkt_3/tir_1",
-           "text": "do wysokości limitu finansowania i za dopłatą w wysokości różnicy między ceną detaliczną a wysokością limitu finansowania.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– do wysokości limitu finansowania i za dopłatą w wysokości różnicy między ceną detaliczną a wysokością limitu finansowania."
         }
        ]
       },
@@ -834,15 +830,11 @@
          "num": "2",
          "path": "art_6/ust_2a/pkt_2",
          "text": "15 % – w przypadku gdy lek jest wytwarzany na terytorium Rzeczypospolitej Polskiej z wykorzystaniem substancji czynnej wytwarzanej na terytorium Rzeczypospolitej Polskiej",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_6/ust_2a/pkt_2/tir_1",
-           "text": "przy czym koszt tej obniżki jest finansowany ze środków Funduszu.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– przy czym koszt tej obniżki jest finansowany ze środków Funduszu."
         }
        ]
       },
@@ -955,15 +947,11 @@
          "num": "2",
          "path": "art_6/ust_10/pkt_2",
          "text": "ilość leku recepturowego, którego dotyczy odpłatność ryczałtowa, oraz sposób obliczania kosztu sporządzania leku recepturowego",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_6/ust_10/pkt_2/tir_1",
-           "text": "biorąc pod uwagę dostępność do leków, bezpieczeństwo ich stosowania oraz postać farmaceutyczną.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– biorąc pod uwagę dostępność do leków, bezpieczeństwo ich stosowania oraz postać farmaceutyczną."
         }
        ]
       }
@@ -1022,43 +1010,36 @@
          "text": "od do zasada marży"
         },
         {
-         "type": "tir",
-         "num": "1",
-         "path": "art_7/ust_4/tir_1",
-         "text": "10,00 zł 0,45 zł + 35 % * x",
-         "children": [
-          {
-           "type": "text",
-           "text": "10,01 zł 20,00 zł 3,95 zł + 25 % * (x – 10,00 zł)"
-          },
-          {
-           "type": "text",
-           "text": "20,01 zł 40,00 zł 6,45 zł + 15 % * (x – 20,00 zł)"
-          },
-          {
-           "type": "text",
-           "text": "40,01 zł 80,00 zł 9,45 zł + 10 % * (x – 40,00 zł)"
-          },
-          {
-           "type": "text",
-           "text": "80,01 zł 160,00 zł 13,45 zł + 5 % * (x – 80,00 zł)"
-          },
-          {
-           "type": "text",
-           "text": "160,01 zł 640,00 zł 17,45 zł + 2,75 % * (x – 160,00 zł)"
-          },
-          {
-           "type": "text",
-           "text": "640,01 zł 30,65 zł + 2 % * (x – 640,00 zł)"
-          }
-         ]
+         "type": "text",
+         "text": "– 10,00 zł 0,45 zł + 35 % * x"
         },
         {
-         "type": "tir",
-         "num": "2",
-         "path": "art_7/ust_4/tir_2",
-         "text": "gdzie x oznacza cenę hurtową brutto leku, środka spożywczego specjalnego przeznaczenia żywieniowego albo wyrobu medycznego stanowiącego podstawę limitu, uwzględniającą liczbę DDD leku, jednostek środka spożywczego specjalnego przeznaczenia żywieniowego w opakowaniu albo liczbę jednostkowych wyrobów medycznych, albo liczbę jednostek wyrobu medycznego.",
-         "children": []
+         "type": "text",
+         "text": "10,01 zł 20,00 zł 3,95 zł + 25 % * (x – 10,00 zł)"
+        },
+        {
+         "type": "text",
+         "text": "20,01 zł 40,00 zł 6,45 zł + 15 % * (x – 20,00 zł)"
+        },
+        {
+         "type": "text",
+         "text": "40,01 zł 80,00 zł 9,45 zł + 10 % * (x – 40,00 zł)"
+        },
+        {
+         "type": "text",
+         "text": "80,01 zł 160,00 zł 13,45 zł + 5 % * (x – 80,00 zł)"
+        },
+        {
+         "type": "text",
+         "text": "160,01 zł 640,00 zł 17,45 zł + 2,75 % * (x – 160,00 zł)"
+        },
+        {
+         "type": "text",
+         "text": "640,01 zł 30,65 zł + 2 % * (x – 640,00 zł)"
+        },
+        {
+         "type": "text",
+         "text": "– gdzie x oznacza cenę hurtową brutto leku, środka spożywczego specjalnego przeznaczenia żywieniowego albo wyrobu medycznego stanowiącego podstawę limitu, uwzględniającą liczbę DDD leku, jednostek środka spożywczego specjalnego przeznaczenia żywieniowego w opakowaniu albo liczbę jednostkowych wyrobów medycznych, albo liczbę jednostek wyrobu medycznego."
         }
        ]
       },
@@ -1130,15 +1111,11 @@
          "num": "2",
          "path": "art_9/ust_2/pkt_2",
          "text": "będącego najtańszym odpowiednikiem nabywanego leku, w przypadku gdy podstawę limitu w danej grupie limitowej wyznacza lek z inną substancją czynną, jednak nie wyższą niż urzędowa cena zbytu danego leku",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_9/ust_2/pkt_2/tir_1",
-           "text": "uwzględniając liczbę DDD leku, jednostek środka spożywczego specjalnego przeznaczenia żywieniowego w opakowaniu albo liczbę jednostkowych wyrobów medycznych, albo liczbę jednostek wyrobu medycznego, powiększoną o marżę nie wyższą niż urzędowa marża hurtowa, a w przypadku nabywania od podmiotu innego niż przedsiębiorca prowadzący obrót hurtowy w rozumieniu art. 72 ust. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne – po cenie nie wyższej niż urzędowa cena zbytu.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– uwzględniając liczbę DDD leku, jednostek środka spożywczego specjalnego przeznaczenia żywieniowego w opakowaniu albo liczbę jednostkowych wyrobów medycznych, albo liczbę jednostek wyrobu medycznego, powiększoną o marżę nie wyższą niż urzędowa marża hurtowa, a w przypadku nabywania od podmiotu innego niż przedsiębiorca prowadzący obrót hurtowy w rozumieniu art. 72 ust. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne – po cenie nie wyższej niż urzędowa cena zbytu."
         }
        ]
       },
@@ -1697,15 +1674,11 @@
        "num": "14",
        "path": "art_12/pkt_14",
        "text": "zobowiązania do zapewnienia ciągłości dostaw, o którym mowa w art. 25 pkt 4",
-       "children": [
-        {
-         "type": "tir",
-         "num": "1",
-         "path": "art_12/pkt_14/tir_1",
-         "text": "biorąc pod uwagę inne możliwe do zastosowania w danym stanie klinicznym procedury medyczne, które mogą być zastąpione przez wnioskowany lek, środek spożywczy specjalnego przeznaczenia żywieniowego, wyrób medyczny.",
-         "children": []
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– biorąc pod uwagę inne możliwe do zastosowania w danym stanie klinicznym procedury medyczne, które mogą być zastąpione przez wnioskowany lek, środek spożywczy specjalnego przeznaczenia żywieniowego, wyrób medyczny."
       }
      ]
     },
@@ -1740,15 +1713,11 @@
          "num": "3",
          "path": "art_13/ust_1/pkt_3",
          "text": "konkurencyjności cenowej",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_13/ust_1/pkt_3/tir_1",
-           "text": "biorąc pod uwagę równoważenie interesów świadczeniobiorców i przedsiębiorców zajmujących się wytwarzaniem lub obrotem lekami, środkami spożywczymi specjalnego przeznaczenia żywieniowego, wyrobami medycznymi, możliwości płatnicze podmiotu zobowiązanego do finansowania świadczeń ze środków publicznych oraz działalność naukowo-badawczą i inwestycyjną wnioskodawcy w zakresie związanym z ochroną zdrowia na terytorium Rzeczypospolitej Polskiej oraz w innych państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA).",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– biorąc pod uwagę równoważenie interesów świadczeniobiorców i przedsiębiorców zajmujących się wytwarzaniem lub obrotem lekami, środkami spożywczymi specjalnego przeznaczenia żywieniowego, wyrobami medycznymi, możliwości płatnicze podmiotu zobowiązanego do finansowania świadczeń ze środków publicznych oraz działalność naukowo-badawczą i inwestycyjną wnioskodawcy w zakresie związanym z ochroną zdrowia na terytorium Rzeczypospolitej Polskiej oraz w innych państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA)."
         }
        ]
       },
@@ -1840,15 +1809,11 @@
            "num": "b",
            "path": "art_13/ust_6/pkt_2/lit_b",
            "text": "najtańszego odpowiednika, o ile podstawę limitu w danej grupie limitowej wyznacza lek niebędący odpowiednikiem leku, który jest przedmiotem wniosku",
-           "children": [
-            {
-             "type": "tir",
-             "num": "1",
-             "path": "art_13/ust_6/pkt_2/lit_b/tir_1",
-             "text": "w przypadku kolejnego odpowiednika refundowanego w danym wskazaniu.",
-             "children": []
-            }
-           ]
+           "children": []
+          },
+          {
+           "type": "text",
+           "text": "– w przypadku kolejnego odpowiednika refundowanego w danym wskazaniu."
           }
          ]
         }
@@ -2313,15 +2278,11 @@
          "num": "2",
          "path": "art_15/ust_13/pkt_2",
          "text": "środków spożywczych specjalnego przeznaczenia żywieniowego",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_15/ust_13/pkt_2/tir_1",
-           "text": "o których mowa w art. 6 ust. 1 pkt 2 i 3.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– o których mowa w art. 6 ust. 1 pkt 2 i 3."
         }
        ]
       },
@@ -2824,15 +2785,11 @@
          "num": "7",
          "path": "art_19/ust_2/pkt_7",
          "text": "wysokość progu kosztu uzyskania dodatkowego roku życia skorygowanego o jego jakość, ustalonego w wysokości trzykrotności Produktu Krajowego Brutto na jednego mieszkańca, o którym mowa w art. 6 ustawy z dnia 26 października 2000 r. o sposobie obliczania wartości rocznego produktu krajowego brutto, a w przypadku braku możliwości wyznaczenia tego kosztu – koszt uzyskania dodatkowego roku życia",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_19/ust_2/pkt_7/tir_1",
-           "text": "uwzględniając potrzebę równoważenia interesów świadczeniobiorców i przedsiębiorców zajmujących się wytwarzaniem lub obrotem lekami, środkami spożywczymi specjalnego przeznaczenia żywieniowego, wyrobami medycznymi, możliwości płatnicze podmiotu zobowiązanego do finansowania świadczeń ze środków publicznych oraz działalność naukowo-badawczą i inwestycyjną wnioskodawcy w zakresie związanym z ochroną zdrowia na terytorium Rzeczypospolitej Polskiej oraz w innych państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA).",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– uwzględniając potrzebę równoważenia interesów świadczeniobiorców i przedsiębiorców zajmujących się wytwarzaniem lub obrotem lekami, środkami spożywczymi specjalnego przeznaczenia żywieniowego, wyrobami medycznymi, możliwości płatnicze podmiotu zobowiązanego do finansowania świadczeń ze środków publicznych oraz działalność naukowo-badawczą i inwestycyjną wnioskodawcy w zakresie związanym z ochroną zdrowia na terytorium Rzeczypospolitej Polskiej oraz w innych państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA)."
         }
        ]
       },
@@ -5846,15 +5803,11 @@
          "num": "3",
          "path": "art_37/ust_1/pkt_3",
          "text": "wyrobów medycznych",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_37/ust_1/pkt_3/tir_1",
-           "text": "w stosunku do których wydano ostateczne decyzje administracyjne o objęciu refundacją albo ostateczne decyzje zmieniające, o których mowa w art. 16.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– w stosunku do których wydano ostateczne decyzje administracyjne o objęciu refundacją albo ostateczne decyzje zmieniające, o których mowa w art. 16."
         }
        ]
       },
@@ -6018,15 +5971,11 @@
          "num": "3",
          "path": "art_37/ust_4/pkt_3",
          "text": "wyrobów medycznych",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_37/ust_4/pkt_3/tir_1",
-           "text": "o których mowa w art. 6 ust. 1 pkt 4, w stosunku do których wydano ostateczną decyzję administracyjną o ustaleniu ceny zbytu netto.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– o których mowa w art. 6 ust. 1 pkt 4, w stosunku do których wydano ostateczną decyzję administracyjną o ustaleniu ceny zbytu netto."
         }
        ]
       },
@@ -6122,15 +6071,11 @@
        "num": "2",
        "path": "art_37a/pkt_2",
        "text": "nie wydano kolejnej decyzji o objęciu refundacją",
-       "children": [
-        {
-         "type": "tir",
-         "num": "1",
-         "path": "art_37a/pkt_2/tir_1",
-         "text": "wnioskodawca zapewnia bezpłatnie kontynuację leczenia świadczeniobiorcom, którzy rozpoczęli terapię przed dniem uchylenia albo wygaśnięcia decyzji.",
-         "children": []
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– wnioskodawca zapewnia bezpłatnie kontynuację leczenia świadczeniobiorcom, którzy rozpoczęli terapię przed dniem uchylenia albo wygaśnięcia decyzji."
       }
      ]
     },
@@ -6230,30 +6175,22 @@
          "num": "2",
          "path": "art_38/ust_4/pkt_2",
          "text": "pielęgniarki i położnej",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_38/ust_4/pkt_2/tir_1",
-           "text": "z określeniem limitów ich finansowania ze środków publicznych i wysokości udziału własnego świadczeniobiorcy w tym limicie i kryteria ich przyznawania,",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– z określeniem limitów ich finansowania ze środków publicznych i wysokości udziału własnego świadczeniobiorcy w tym limicie i kryteria ich przyznawania,"
         },
         {
          "type": "pkt",
          "num": "3",
          "path": "art_38/ust_4/pkt_3",
          "text": "okresy użytkowania oraz limity cen ich napraw",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_38/ust_4/pkt_3/tir_1",
-           "text": "uwzględniając skuteczność i bezpieczeństwo ich stosowania, sposób ich wytwarzania, oraz możliwości płatnicze podmiotu zobowiązanego do finansowania świadczeń opieki zdrowotnej ze środków publicznych.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– uwzględniając skuteczność i bezpieczeństwo ich stosowania, sposób ich wytwarzania, oraz możliwości płatnicze podmiotu zobowiązanego do finansowania świadczeń opieki zdrowotnej ze środków publicznych."
         }
        ]
       },
@@ -7224,15 +7161,11 @@
          "num": "2",
          "path": "art_40/ust_1/pkt_2",
          "text": "stosunku kosztów do uzyskiwanych efektów zdrowotnych",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_40/ust_1/pkt_2/tir_1",
-           "text": "decyzję administracyjną o objęciu refundacją leku przy danych klinicznych, w zakresie wskazań do stosowania lub dawkowania, lub sposobu podawania odmiennych niż określone w Charakterystyce Produktu Leczniczego w rozumieniu ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– decyzję administracyjną o objęciu refundacją leku przy danych klinicznych, w zakresie wskazań do stosowania lub dawkowania, lub sposobu podawania odmiennych niż określone w Charakterystyce Produktu Leczniczego w rozumieniu ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne."
         }
        ]
       },
@@ -8629,52 +8562,36 @@
            "text": "–[^10] 0 – dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego wydanego bezpłatnie, w przypadku gdy realizacja recepty nastąpiła na podstawie uprawnienia innego niż uprawnienie, o którym mowa w art. 43a ust. 1 albo art. 43b ust. 1 ustawy o świadczeniach,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "art_45a/pkt_8/lit_i/tir_1",
-           "text": "10 – dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego wydanego bezpłatnie do wysokości limitu finansowania,",
-           "children": [
-            {
-             "type": "text",
-             "text": "–[^10] 20 – dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego wydanego bezpłatnie na podstawie uprawnienia, o którym mowa w art. 43a ust. 1 albo art. 43b ust. 1 ustawy o świadczeniach, świadczeniobiorcy uprawnionemu również na podstawie art. 43 ust. 1 albo art. 45 ust. 1 pkt 1–3 ustawy o świadczeniach,"
-            }
-           ]
+           "type": "text",
+           "text": "– 10 – dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego wydanego bezpłatnie do wysokości limitu finansowania,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "art_45a/pkt_8/lit_i/tir_2",
-           "text": "11 – dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego wydanego za odpłatnością ryczałtową,",
-           "children": [
-            {
-             "type": "text",
-             "text": "–[^10] 21 – dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego wydawanego za odpłatnością ryczałtową, wydanego bezpłatnie na podstawie uprawnienia, o którym mowa w art. 43a ust. 1 albo art. 43b ust. 1 ustawy o świadczeniach,"
-            }
-           ]
+           "type": "text",
+           "text": "–[^10] 20 – dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego wydanego bezpłatnie na podstawie uprawnienia, o którym mowa w art. 43a ust. 1 albo art. 43b ust. 1 ustawy o świadczeniach, świadczeniobiorcy uprawnionemu również na podstawie art. 43 ust. 1 albo art. 45 ust. 1 pkt 1–3 ustawy o świadczeniach,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "art_45a/pkt_8/lit_i/tir_3",
-           "text": "12 – dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego wydanego za odpłatnością w wysokości 30 % limitu finansowania,",
-           "children": [
-            {
-             "type": "text",
-             "text": "–[^10] 22 – dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego wydawanego za odpłatnością w wysokości 30 % limitu finansowania, wydanego bezpłatnie na podstawie uprawnienia, o którym mowa w art. 43a ust. 1 albo art. 43b ust. 1 ustawy o świadczeniach,"
-            }
-           ]
+           "type": "text",
+           "text": "– 11 – dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego wydanego za odpłatnością ryczałtową,"
           },
           {
-           "type": "tir",
-           "num": "4",
-           "path": "art_45a/pkt_8/lit_i/tir_4",
-           "text": "13 – dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego wydanego za odpłatnością w wysokości 50 % limitu finansowania,",
-           "children": [
-            {
-             "type": "text",
-             "text": "–[^10] 23 – dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego wydawanego za odpłatnością w wysokości 50 % limitu finansowania, wydanego bezpłatnie na podstawie uprawnienia, o którym mowa w art. 43a ust. 1 albo art. 43b ust. 1 ustawy o świadczeniach,"
-            }
-           ]
+           "type": "text",
+           "text": "–[^10] 21 – dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego wydawanego za odpłatnością ryczałtową, wydanego bezpłatnie na podstawie uprawnienia, o którym mowa w art. 43a ust. 1 albo art. 43b ust. 1 ustawy o świadczeniach,"
+          },
+          {
+           "type": "text",
+           "text": "– 12 – dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego wydanego za odpłatnością w wysokości 30 % limitu finansowania,"
+          },
+          {
+           "type": "text",
+           "text": "–[^10] 22 – dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego wydawanego za odpłatnością w wysokości 30 % limitu finansowania, wydanego bezpłatnie na podstawie uprawnienia, o którym mowa w art. 43a ust. 1 albo art. 43b ust. 1 ustawy o świadczeniach,"
+          },
+          {
+           "type": "text",
+           "text": "– 13 – dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego wydanego za odpłatnością w wysokości 50 % limitu finansowania,"
+          },
+          {
+           "type": "text",
+           "text": "–[^10] 23 – dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego wydawanego za odpłatnością w wysokości 50 % limitu finansowania, wydanego bezpłatnie na podstawie uprawnienia, o którym mowa w art. 43a ust. 1 albo art. 43b ust. 1 ustawy o świadczeniach,"
           }
          ]
         },
@@ -8771,15 +8688,11 @@
          "num": "2",
          "path": "art_45b/ust_1/pkt_2",
          "text": "projekt zestawienia zbiorczego recept na leki, środki spożywcze specjalnego przeznaczenia żywieniowego lub wyroby medyczne objęte refundacją na podstawie zaakceptowanych recept, zwany dalej „projektem zestawienia zbiorczego”",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_45b/ust_1/pkt_2/tir_1",
-           "text": "o których mowa w art. 45 ust. 3 pkt 2, w formacie zgodnym ze wzorami zamieszczonymi w Biuletynie Informacji Publicznej Funduszu.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– o których mowa w art. 45 ust. 3 pkt 2, w formacie zgodnym ze wzorami zamieszczonymi w Biuletynie Informacji Publicznej Funduszu."
         }
        ]
       },
@@ -9142,15 +9055,11 @@
          "num": "4",
          "path": "art_48/ust_7a/pkt_4",
          "text": "wypisania recepty niezgodnej ze wskazaniami zawartymi w obwieszczeniach, o których mowa w art. 37 ust. 1 lub 4",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_48/ust_7a/pkt_4/tir_1",
-           "text": "w terminie 14 dni od dnia otrzymania wezwania do zapłaty.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– w terminie 14 dni od dnia otrzymania wezwania do zapłaty."
         }
        ]
       },
@@ -9179,15 +9088,11 @@
          "num": "3",
          "path": "art_48/ust_7b/pkt_3",
          "text": "wypisania zlecenia niezgodnego z kryteriami przyznawania zawartymi w przepisach, o których mowa w art. 38 ust. 4",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_48/ust_7b/pkt_3/tir_1",
-           "text": "w terminie 14 dni od dnia otrzymania wezwania do zapłaty.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– w terminie 14 dni od dnia otrzymania wezwania do zapłaty."
         }
        ]
       },
@@ -9223,15 +9128,11 @@
          "num": "2",
          "path": "art_48/ust_7e/pkt_2",
          "text": "niewykonania w terminie zaleceń pokontrolnych",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_48/ust_7e/pkt_2/tir_1",
-           "text": "są obowiązani do zapłaty Funduszowi kary pieniężnej w wysokości równowartości kwoty refundacji za okres objęty czynnościami, o których mowa w dziale IIIA ustawy o świadczeniach, nieprzekraczający 5 lat liczonych od zakończenia roku kalendarzowego, w którym nastąpiła refundacja.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– są obowiązani do zapłaty Funduszowi kary pieniężnej w wysokości równowartości kwoty refundacji za okres objęty czynnościami, o których mowa w dziale IIIA ustawy o świadczeniach, nieprzekraczający 5 lat liczonych od zakończenia roku kalendarzowego, w którym nastąpiła refundacja."
         }
        ]
       },
@@ -9323,15 +9224,11 @@
            "num": "d",
            "path": "art_49/ust_1/pkt_1/lit_d",
            "text": "osobę wydającą leki, środki spożywcze specjalnego przeznaczenia żywieniowego, wyroby medyczne objęte refundacją",
-           "children": [
-            {
-             "type": "tir",
-             "num": "1",
-             "path": "art_49/ust_1/pkt_1/lit_d/tir_1",
-             "text": "świadczenia niezwiązanego z przedmiotem tej umowy, w tym korzyści majątkowej lub osobistej, o której mowa w ust. 3;",
-             "children": []
-            }
-           ]
+           "children": []
+          },
+          {
+           "type": "text",
+           "text": "– świadczenia niezwiązanego z przedmiotem tej umowy, w tym korzyści majątkowej lub osobistej, o której mowa w ust. 3;"
           }
          ]
         },
@@ -9369,15 +9266,11 @@
          "num": "2",
          "path": "art_49/ust_3/pkt_2",
          "text": "podmiotowi prowadzącemu aptekę, kierownikowi apteki lub osobie wydającej leki, środki spożywcze specjalnego przeznaczenia żywieniowego, wyroby medyczne objęte refundacją, w związku z realizacją recept na refundowane leki, środki spożywcze specjalnego przeznaczenia żywieniowego, wyroby medyczne",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_49/ust_3/pkt_2/tir_1",
-           "text": "sprzedaży uwarunkowanej, upustów, rabatów, bonifikat, pakietów i programów lojalnościowych, darowizn, nagród, wycieczek, gier losowych, zakładów wzajemnych, wszelkich form użyczeń, transakcji wiązanych, wszelkiego rodzaju talonów i bonów, a także udzielania innych niewymienionych z nazwy korzyści majątkowych lub osobistych dla świadczeniobiorców oraz osób uprawnionych.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– sprzedaży uwarunkowanej, upustów, rabatów, bonifikat, pakietów i programów lojalnościowych, darowizn, nagród, wycieczek, gier losowych, zakładów wzajemnych, wszelkich form użyczeń, transakcji wiązanych, wszelkiego rodzaju talonów i bonów, a także udzielania innych niewymienionych z nazwy korzyści majątkowych lub osobistych dla świadczeniobiorców oraz osób uprawnionych."
         }
        ]
       },
@@ -9476,15 +9369,11 @@
          "num": "3",
          "path": "art_50/ust_3/pkt_3",
          "text": "cenę detaliczną netto w przypadku podmiotu uprawnionego do obrotu detalicznego",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_50/ust_3/pkt_3/tir_1",
-           "text": "otrzymanej w poprzednim roku kalendarzowym kwoty z tytułu refundacji.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– otrzymanej w poprzednim roku kalendarzowym kwoty z tytułu refundacji."
         }
        ]
       },
@@ -9555,15 +9444,11 @@
            "num": "d",
            "path": "art_52/ust_1/pkt_1/lit_d",
            "text": "osobę wydającą leki, środki spożywcze specjalnego przeznaczenia żywieniowego, wyroby medyczne objęte refundacją",
-           "children": [
-            {
-             "type": "tir",
-             "num": "1",
-             "path": "art_52/ust_1/pkt_1/lit_d/tir_1",
-             "text": "świadczenia niezwiązanego z przedmiotem tej umowy, w tym którejkolwiek korzyści majątkowej lub osobistej, o której mowa w art. 49 ust. 3;",
-             "children": []
-            }
-           ]
+           "children": []
+          },
+          {
+           "type": "text",
+           "text": "– świadczenia niezwiązanego z przedmiotem tej umowy, w tym którejkolwiek korzyści majątkowej lub osobistej, o której mowa w art. 49 ust. 3;"
           }
          ]
         },
@@ -9685,15 +9570,11 @@
          "num": "2",
          "path": "art_54/ust_1/pkt_2",
          "text": "obrót lub powstrzymanie się od obrotu konkretnym lekiem, środkiem spożywczym specjalnego przeznaczenia żywieniowego lub wyrobem medycznym podlegającym refundacji ze środków publicznych;",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_54/ust_1/pkt_2/tir_1",
-           "text": "podlega karze pozbawienia wolności od 6 miesięcy do 8 lat.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– podlega karze pozbawienia wolności od 6 miesięcy do 8 lat."
         }
        ]
       },
@@ -9725,11 +9606,8 @@
        "text": "W wypadku mniejszej wagi sprawca czynu określonego w ust. 1–4",
        "children": [
         {
-         "type": "tir",
-         "num": "1",
-         "path": "art_54/ust_5/tir_1",
-         "text": "podlega karze pozbawienia wolności do lat 3.",
-         "children": []
+         "type": "text",
+         "text": "– podlega karze pozbawienia wolności do lat 3."
         }
        ]
       },
@@ -9834,15 +9712,11 @@
          "num": "2",
          "path": "art_67/ust_1/pkt_2",
          "text": "o których mowa w art. 36 ust. 5, art. 37 ust. 2 i art. 38 ust. 6 tej ustawy",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_67/ust_1/pkt_2/tir_1",
-           "text": "do przeprowadzenia negocjacji w zakresie ustalenia urzędowej ceny zbytu oraz instrumentów dzielenia ryzyka, o których mowa w art. 11 ust. 5.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– do przeprowadzenia negocjacji w zakresie ustalenia urzędowej ceny zbytu oraz instrumentów dzielenia ryzyka, o których mowa w art. 11 ust. 5."
         }
        ]
       },
@@ -9973,15 +9847,11 @@
          "num": "2",
          "path": "art_67/ust_10/pkt_2",
          "text": "konkurencyjność cenową",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_67/ust_10/pkt_2/tir_1",
-           "text": "biorąc pod uwagę równoważenie interesów świadczeniobiorców i przedsiębiorców zajmujących się wytwarzaniem lub obrotem lekami, środkami spożywczymi specjalnego przeznaczenia żywieniowego, wyrobami medycznymi, możliwości płatnicze podmiotu zobowiązanego do finansowania świadczeń ze środków publicznych oraz działalność naukowo-badawczą i inwestycyjną wnioskodawcy w zakresie związanym z ochroną zdrowia na terytorium Rzeczypospolitej Polskiej oraz w innych państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA).",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– biorąc pod uwagę równoważenie interesów świadczeniobiorców i przedsiębiorców zajmujących się wytwarzaniem lub obrotem lekami, środkami spożywczymi specjalnego przeznaczenia żywieniowego, wyrobami medycznymi, możliwości płatnicze podmiotu zobowiązanego do finansowania świadczeń ze środków publicznych oraz działalność naukowo-badawczą i inwestycyjną wnioskodawcy w zakresie związanym z ochroną zdrowia na terytorium Rzeczypospolitej Polskiej oraz w innych państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA)."
         }
        ]
       },
@@ -10322,15 +10192,11 @@
          "num": "3",
          "path": "art_77/ust_1/pkt_3",
          "text": "pkt 14 ustawy, o której mowa w art. 63[^12], w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_77/ust_1/pkt_3/tir_1",
-           "text": "skierowane do Prezesa Agencji Oceny Technologii Medycznych przed dniem wejścia w życie niniejszej ustawy zachowują ważność i są rozpatrywane na zasadach dotychczasowych.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– skierowane do Prezesa Agencji Oceny Technologii Medycznych przed dniem wejścia w życie niniejszej ustawy zachowują ważność i są rozpatrywane na zasadach dotychczasowych."
         }
        ]
       },
@@ -10410,15 +10276,11 @@
          "num": "2",
          "path": "art_80/ust_3/pkt_2",
          "text": "poda do publicznej wiadomości informacje, o których mowa w art. 102 ust. 5 pkt 27 i 29 ustawy, o której mowa w art. 63[^12], w brzmieniu nadanym niniejszą ustawą",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_80/ust_3/pkt_2/tir_1",
-           "text": "za okres od dnia 1 stycznia 2011 r. do dnia ogłoszenia niniejszej ustawy.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– za okres od dnia 1 stycznia 2011 r. do dnia ogłoszenia niniejszej ustawy."
         }
        ]
       },
@@ -10490,15 +10352,11 @@
          "num": "3",
          "path": "art_85/ust_1/pkt_3",
          "text": "art. 31j, art. 31s ust. 13, art. 36 ust. 5 pkt 4 i 5, art. 39 ust. 9, art. 39c, art. 159 ust. 5 i art. 190 ust. 2 ustawy, o której mowa w art. 63[^12]",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "art_85/ust_1/pkt_3/tir_1",
-           "text": "zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 45 ust. 5 ustawy, o której mowa w art. 58[^15], w brzmieniu nadanym niniejszą ustawą, art. 31d, 31j, 31s ust. 25 i art. 159 ust. 5 ustawy, o której mowa w art. 63[^12], w brzmieniu nadanym niniejszą ustawą, oraz art. 6 ust. 10, art. 24 ust. 7, art. 35 ust. 10 i art. 38 ust. 4, jednak nie dłużej niż przez okres 24 miesięcy od dnia wejścia w życie niniejszej ustawy.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 45 ust. 5 ustawy, o której mowa w art. 58[^15], w brzmieniu nadanym niniejszą ustawą, art. 31d, 31j, 31s ust. 25 i art. 159 ust. 5 ustawy, o której mowa w art. 63[^12], w brzmieniu nadanym niniejszą ustawą, oraz art. 6 ust. 10, art. 24 ust. 7, art. 35 ust. 10 i art. 38 ust. 4, jednak nie dłużej niż przez okres 24 miesięcy od dnia wejścia w życie niniejszej ustawy."
         }
        ]
       },

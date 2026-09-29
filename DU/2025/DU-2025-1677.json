@@ -268,15 +268,11 @@
          "num": "2",
          "path": "par_5/ust_3/pkt_2",
          "text": "ilości folii odblaskowej naklejonej na taśmę aluminiową, przyciętej zgodnie z wymiarem tablic rejestracyjnych",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "par_5/ust_3/pkt_2/tir_1",
-           "text": "z wyszczególnieniem przetworzonego materiału, o którym mowa w § 7 ust. 1 pkt 2.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– z wyszczególnieniem przetworzonego materiału, o którym mowa w § 7 ust. 1 pkt 2."
         }
        ]
       },
@@ -298,15 +294,11 @@
          "num": "2",
          "path": "par_5/ust_4/pkt_2",
          "text": "z wytłoczonymi numerami rejestracyjnymi",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "par_5/ust_4/pkt_2/tir_1",
-           "text": "z wyszczególnieniem tablic rejestracyjnych, o których mowa w § 7 ust. 1 pkt 1.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– z wyszczególnieniem tablic rejestracyjnych, o których mowa w § 7 ust. 1 pkt 1."
         }
        ]
       },
@@ -862,12 +854,11 @@
        "num": "a",
        "path": "ust_4/lit_a",
        "text": "metry (m) w przypadku materiałów mających szczególne znaczenie do produkcji tablic rejestracyjnych",
-       "children": [
-        {
-         "type": "text",
-         "text": "i przetworzonych materiałów mających szczególne znaczenie do produkcji tablic rejestracyjnych,"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "i przetworzonych materiałów mających szczególne znaczenie do produkcji tablic rejestracyjnych,"
       },
       {
        "type": "lit",
@@ -941,57 +932,53 @@
      "text": "W tabelach nr I i IV pola niewypełniane zakreśla się znakiem „X” lub „–”.",
      "children": [
       {
-       "type": "tir",
-       "num": "1",
-       "path": "ust_8/tir_1",
-       "text": "15 –",
-       "children": [
-        {
-         "type": "text",
-         "text": "TABELA NR I.[^13] STAN POCZĄTKOWY ................................"
-        },
-        {
-         "type": "text",
-         "text": "KODY MATERIAŁÓW MAJĄCYCH SZCZEGÓLNE ZNACZENIE DO PRODUKCJI TABLIC REJESTRACYJNYCH / PRZETWORZONYCH"
-        },
-        {
-         "type": "text",
-         "text": "MATERIAŁÓW MAJĄCYCH SZCZEGÓLNE ZNACZENIE DO PRODUKCJI TABLIC REJESTRACYJNYCH / TABLIC REJESTRACYJNYCH Tablice do"
-        },
-        {
-         "type": "text",
-         "text": "101 102 103 104 201 202 203 204 205 206 207 208 209 01 02 03 04 05 11 15 12 21 22 13 23 14 31 32 33 34 35 41 45 42 43 44 51 52 53 54 61 62 63 64 zniszczenia"
-        },
-        {
-         "type": "text",
-         "text": "TABELA NR II. PRZYCHODY"
-        },
-        {
-         "type": "text",
-         "text": "KODY MATERIAŁÓW MAJĄCYCH SZCZEGÓLNE ZNACZENIE DO PRODUKCJI TABLIC REJESTRACYJNYCH /"
-        },
-        {
-         "type": "text",
-         "text": "PRZETWORZONYCH MATERIAŁÓW MAJĄCYCH SZCZEGÓLNE ZNACZENIE DO PRODUKCJI TABLIC REJESTRACYJNYCH /"
-        },
-        {
-         "type": "text",
-         "text": "Nazwa, TABLIC REJESTRACYJNYCH Tablice do"
-        },
-        {
-         "type": "text",
-         "text": "Lp. Data nr dok. 101 102 103 104 201 202 203 204 205 206 207 208 209 01 02 03 04 05 zniszczenia"
-        },
-        {
-         "type": "text",
-         "text": "RAZEM:"
-        }
-       ]
+       "type": "text",
+       "text": "– 15 –"
+      },
+      {
+       "type": "text",
+       "text": "TABELA NR I.[^13] STAN POCZĄTKOWY ................................"
+      },
+      {
+       "type": "text",
+       "text": "KODY MATERIAŁÓW MAJĄCYCH SZCZEGÓLNE ZNACZENIE DO PRODUKCJI TABLIC REJESTRACYJNYCH / PRZETWORZONYCH"
+      },
+      {
+       "type": "text",
+       "text": "MATERIAŁÓW MAJĄCYCH SZCZEGÓLNE ZNACZENIE DO PRODUKCJI TABLIC REJESTRACYJNYCH / TABLIC REJESTRACYJNYCH Tablice do"
+      },
+      {
+       "type": "text",
+       "text": "101 102 103 104 201 202 203 204 205 206 207 208 209 01 02 03 04 05 11 15 12 21 22 13 23 14 31 32 33 34 35 41 45 42 43 44 51 52 53 54 61 62 63 64 zniszczenia"
+      },
+      {
+       "type": "text",
+       "text": "TABELA NR II. PRZYCHODY"
+      },
+      {
+       "type": "text",
+       "text": "KODY MATERIAŁÓW MAJĄCYCH SZCZEGÓLNE ZNACZENIE DO PRODUKCJI TABLIC REJESTRACYJNYCH /"
+      },
+      {
+       "type": "text",
+       "text": "PRZETWORZONYCH MATERIAŁÓW MAJĄCYCH SZCZEGÓLNE ZNACZENIE DO PRODUKCJI TABLIC REJESTRACYJNYCH /"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa, TABLIC REJESTRACYJNYCH Tablice do"
+      },
+      {
+       "type": "text",
+       "text": "Lp. Data nr dok. 101 102 103 104 201 202 203 204 205 206 207 208 209 01 02 03 04 05 zniszczenia"
+      },
+      {
+       "type": "text",
+       "text": "RAZEM:"
       },
       {
        "type": "tir",
-       "num": "2",
-       "path": "ust_8/tir_2",
+       "num": "1",
+       "path": "ust_8/tir_1",
        "text": "16 –",
        "children": [
         {

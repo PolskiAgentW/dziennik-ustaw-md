@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/100",
  "title": "Obwieszczenie Ministra Infrastruktury z dnia 8 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury w sprawie ogólnych warunków prowadzenia ruchu kolejowego i sygnalizacji",
- "converter": "eli2md 0.5.3",
+ "converter": "eli2md 0.6.0",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/100/text.pdf",
  "body": [
   {
@@ -401,15 +401,11 @@
            "num": "d",
            "path": "par_2/ust_2/pkt_4/lit_d",
            "text": "dwoma kolejnymi wskaźnikami W ETCS 10 lub W ETCS 11",
-           "children": [
-            {
-             "type": "tir",
-             "num": "1",
-             "path": "par_2/ust_2/pkt_4/lit_d/tir_1",
-             "text": "w przypadkach, o których mowa w § 30aa ust. 1 pkt 2 i 3.",
-             "children": []
-            }
-           ]
+           "children": []
+          },
+          {
+           "type": "text",
+           "text": "– w przypadkach, o których mowa w § 30aa ust. 1 pkt 2 i 3."
           }
          ]
         }
@@ -2002,15 +1998,11 @@
        "num": "3",
        "path": "par_21a/pkt_3",
        "text": "poziomu 2 i porusza się na odcinku linii kolejowej wyposażonej w urządzenia przytorowe systemu ERTMS/ETCS poziomu 1, jeśli urządzenia pokładowe systemu ERTMS/ETCS pociągu przystosowane są również do pracy w poziomie 1",
-       "children": [
-        {
-         "type": "tir",
-         "num": "1",
-         "path": "par_21a/pkt_3/tir_1",
-         "text": "z zastrzeżeniem § 30d.",
-         "children": []
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– z zastrzeżeniem § 30d."
       }
      ]
     },
@@ -5763,12 +5755,11 @@
          "num": "2",
          "path": "par_48/ust_4/pkt_2",
          "text": "zagrożone miejsce osłonić sygnałami,",
-         "children": [
-          {
-           "type": "text",
-           "text": "a w razie potrzeby podawać sygnały „Stój” oraz wezwać pomoc."
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "a w razie potrzeby podawać sygnały „Stój” oraz wezwać pomoc."
         }
        ]
       },
@@ -10737,12 +10728,11 @@
          "num": "2",
          "path": "par_112/ust_2/pkt_2",
          "text": "wskaźniki W 2, W 26a, W 26b „Wskaźniki kierunku jazdy” oznaczają: kierunek wyjazdu pociągu (wskaźnik W 2), przejazd z grupy torów dalekobieżnych na grupę torów podmiejskich (wskaźnik W 26a) lub przejazd z grupy torów podmiejskich na grupę torów dalekobieżnych (wskaźnik W 26b); wskaźnik świetlny z matowobiałą literą na czarnym tle, stanowiącą skrót nazwy stacji końcowej lub najbliższej węzłowej danej linii kolejowej bądź innego wyróżnionego punktu docelowego dla wyjazdu pociągu (wskaźnik W 2) lub grupy torów, na którą przejeżdża pociąg (wskaźnik W 26a – zawsze litera „P”, wskaźnik W 26b – zawsze litera „D”) (rys. 163 i 164);",
-         "children": [
-          {
-           "type": "text",
-           "text": "wskaźnik W 2 umieszcza się na maszcie semafora albo na osobnym maszcie, wskaźniki W 26a i W 26b umieszcza się na semaforze ustawionym przed przejściem zwrotnicowym służącym do przejazdu z jednej grupy torów na drugą; wskaźnik jest wyświetlany tylko wtedy, kiedy semafor wskazuje sygnał zezwalający na jazdę w kierunku, który został wyróżniony tym wskaźnikiem; wskaźniki W 26a i W 26b wyświetlają się również, gdy na semaforze ukaże się sygnał zastępczy;"
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "wskaźnik W 2 umieszcza się na maszcie semafora albo na osobnym maszcie, wskaźniki W 26a i W 26b umieszcza się na semaforze ustawionym przed przejściem zwrotnicowym służącym do przejazdu z jednej grupy torów na drugą; wskaźnik jest wyświetlany tylko wtedy, kiedy semafor wskazuje sygnał zezwalający na jazdę w kierunku, który został wyróżniony tym wskaźnikiem; wskaźniki W 26a i W 26b wyświetlają się również, gdy na semaforze ukaże się sygnał zastępczy;"
         },
         {
          "type": "pkt",
@@ -18003,7 +17993,19 @@
     },
     {
      "type": "note",
-     "text": "[Strona 139 PDF nie ma warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 139 PDF nie ma warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 199. Wskaźnik We la, We Ib, We Ic"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 200. Wskaźnik We 2a, We 2b, We 2c"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 201. Wskaznik We 3a, We 3b, We 3c"
     },
     {
      "type": "note",
@@ -18298,7 +18300,63 @@
     },
     {
      "type": "note",
-     "text": "[Strony 156-157 PDF nie mają warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 156 PDF nie ma warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "4 f i et 2a 6 i | | Rys. 24 | | Sygnał Rm 3 - słuchowy"
+    },
+    {
+     "type": "ocr",
+     "text": "\\ A e. e e. 6 ee e Rys. 26"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 25 Sygnał Rm 3 - wzrokowy Sygnał Rm 4 - słuchowy"
+    },
+    {
+     "type": "ocr",
+     "text": "ee ="
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 27 Rys. 28 Rys. 29 Sygnat Rm 4 - wzrokowy Sygnał Rm 6 - słuchowy Sygnał Rm 6 - wzrokowy"
+    },
+    {
+     "type": "ocr",
+     "text": "a! | „A a ="
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 31 Rys. 32 SygnatA 2"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 30 Sygnał A 1 - słuchowy Sygnał Rp 1"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 157 PDF nie ma warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Baa A Rys. 33 Wskażnik Wm 4"
+    },
+    {
+     "type": "ocr",
+     "text": "EESETY\" 35m Rys. 33a Rys. 34 Rys. 35 Wskażnk Wm § Wskażnik Wm 16 wskażnik Vin 17"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys. 38 Rys. 37 Rys. 38 Rys. 39 Wskaźnik Win 32 Wskażnik WS Wskażnik W Ba Wskażnik W 7"
+    },
+    {
+     "type": "ocr",
+     "text": "Rys.40 Rys. 41 Rys. 41a wskażnik WO Wskaźnik W 9 Wskaźnik W 14"
+    },
+    {
+     "type": "ocr",
+     "text": ". WBE 3,5m (dla taboru metra) 3,75m (dla taboru PKP) Rys. 42 Rys. 43 Rys. 44 Rys. 45 ! Rys. 46 Wskaźnik W 15 Wskaźnik W 17 Wskaźnik W 24 Wskaźnik W 27 Wskażnik We 12"
     }
    ]
   }

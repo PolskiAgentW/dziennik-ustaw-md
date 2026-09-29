@@ -267,12 +267,11 @@
        "num": "1",
        "path": "ust_5/pkt_1",
        "text": "element wykonany specjalną farbą zmienną optycznie – OVI® – umieszczony w polu",
-       "children": [
-        {
-         "type": "text",
-         "text": "o powierzchni 13,5 mm wysokości x 8,2 mm szerokości;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "o powierzchni 13,5 mm wysokości x 8,2 mm szerokości;"
       },
       {
        "type": "pkt",
@@ -314,48 +313,45 @@
          "num": "a",
          "path": "ust_6/pkt_1/lit_a",
          "text": "„LEGITYMACJA SZKOLNA” na białym pasku o szerokości 5 mm przebiegającym",
-         "children": [
-          {
-           "type": "text",
-           "text": "poziomo w odległości 7,4 mm od górnej krawędzi legitymacji szkolnej, w kolorze"
-          },
-          {
-           "type": "text",
-           "text": "czarnym (Black), krój czcionki LEVENIM MT BOLD 11,5 pkt,"
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "poziomo w odległości 7,4 mm od górnej krawędzi legitymacji szkolnej, w kolorze"
+        },
+        {
+         "type": "text",
+         "text": "czarnym (Black), krój czcionki LEVENIM MT BOLD 11,5 pkt,"
         },
         {
          "type": "lit",
          "num": "b",
          "path": "ust_6/pkt_1/lit_b",
          "text": "„Nr” (dla numeru jednostkowego legitymacji szkolnej) w kolorze czarnym (Black),",
-         "children": [
-          {
-           "type": "text",
-           "text": "krój czcionki Swiss 721 PL BOLD 7 pkt,"
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "krój czcionki Swiss 721 PL BOLD 7 pkt,"
         },
         {
          "type": "lit",
          "num": "c",
          "path": "ust_6/pkt_1/lit_c",
          "text": "„Imię (imiona) i nazwisko”, „Data urodzenia”, „Numer PESEL”, „Nazwa i adres",
-         "children": [
-          {
-           "type": "text",
-           "text": "szkoły”, „Dyrektor szkoły”, „Data wydania” w kolorze czarnym (Black), krój"
-          },
-          {
-           "type": "text",
-           "text": "czcionki Swiss 721 PL 5,5 pkt. W procesie personalizacji napisy są nanoszone"
-          },
-          {
-           "type": "text",
-           "text": "czcionką z grupy Arial w kolorze czarnym (Black);"
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "szkoły”, „Dyrektor szkoły”, „Data wydania” w kolorze czarnym (Black), krój"
+        },
+        {
+         "type": "text",
+         "text": "czcionki Swiss 721 PL 5,5 pkt. W procesie personalizacji napisy są nanoszone"
+        },
+        {
+         "type": "text",
+         "text": "czcionką z grupy Arial w kolorze czarnym (Black);"
         }
        ]
       },
@@ -433,22 +429,15 @@
             {
              "type": "text",
              "text": "umieszczone na rewersie blankietu, w prawej dolnej jego części,"
-            }
-           ]
-          },
-          {
-           "type": "tir",
-           "num": "2",
-           "path": "ust_6/pkt_2/lit_d/tir_2",
-           "text": "na oznaczenie indywidualne blankietu składają się dwie litery i siedem cyfr,",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "3",
-           "path": "ust_6/pkt_2/lit_d/tir_3",
-           "text": "obok oznaczenia indywidualnego, z lewej jego strony, producent blankietu",
-           "children": [
+            },
+            {
+             "type": "text",
+             "text": "– na oznaczenie indywidualne blankietu składają się dwie litery i siedem cyfr,"
+            },
+            {
+             "type": "text",
+             "text": "– obok oznaczenia indywidualnego, z lewej jego strony, producent blankietu"
+            },
             {
              "type": "text",
              "text": "dokumentu publicznego umieszcza skrót nazwy producenta blankietu"
@@ -460,38 +449,36 @@
             {
              "type": "tir",
              "num": "1",
-             "path": "ust_6/pkt_2/lit_d/tir_3/tir_1",
+             "path": "ust_6/pkt_2/lit_d/tir_1/tir_1",
              "text": "od czterech do siedmiu liter oznaczających skrót nazwy producenta",
-             "children": [
-              {
-               "type": "text",
-               "text": "blankietu dokumentu publicznego, które umieszcza w miejscu oznaczonym"
-              },
-              {
-               "type": "text",
-               "text": "we wzorze symbolem XXXX, oraz"
-              }
-             ]
+             "children": []
+            },
+            {
+             "type": "text",
+             "text": "blankietu dokumentu publicznego, które umieszcza w miejscu oznaczonym"
+            },
+            {
+             "type": "text",
+             "text": "we wzorze symbolem XXXX, oraz"
             },
             {
              "type": "tir",
              "num": "2",
-             "path": "ust_6/pkt_2/lit_d/tir_3/tir_2",
+             "path": "ust_6/pkt_2/lit_d/tir_1/tir_2",
              "text": "cztery cyfry oznaczające rok produkcji blankietu, które umieszcza w miejscu",
-             "children": [
-              {
-               "type": "text",
-               "text": "oznaczonym we wzorze symbolem YYYY."
-              },
-              {
-               "type": "text",
-               "text": "Skrót nazwy producenta blankietu dokumentu publicznego oraz rok produkcji jest wykonany"
-              },
-              {
-               "type": "text",
-               "text": "w technice grawerowania laserowego."
-              }
-             ]
+             "children": []
+            },
+            {
+             "type": "text",
+             "text": "oznaczonym we wzorze symbolem YYYY."
+            },
+            {
+             "type": "text",
+             "text": "Skrót nazwy producenta blankietu dokumentu publicznego oraz rok produkcji jest wykonany"
+            },
+            {
+             "type": "text",
+             "text": "w technice grawerowania laserowego."
             }
            ]
           }
@@ -572,68 +559,64 @@
        "num": "1",
        "path": "ust_11/pkt_1",
        "text": "fotografia posiadacza legitymacji szkolnej spełniająca szczegółowe wymogi techniczne",
-       "children": [
-        {
-         "type": "text",
-         "text": "dotyczące fotografii załączanej do wniosku o wydanie dowodu osobistego, określone"
-        },
-        {
-         "type": "text",
-         "text": "w przepisach wydanych na podstawie art. 54 ustawy z dnia 6 sierpnia 2010 r. o dowodach"
-        },
-        {
-         "type": "text",
-         "text": "osobistych (Dz. U. z 2025 r. poz. 1753), a w przypadku dostarczenia fotografii w wersji"
-        },
-        {
-         "type": "text",
-         "text": "cyfrowej – zgodnie z § 5 ust. 2 rozporządzenia Ministra Spraw Wewnętrznych"
-        },
-        {
-         "type": "text",
-         "text": "i Administracji z dnia 23 lipca 2025 r. w sprawie wzoru dowodu osobistego, jego"
-        },
-        {
-         "type": "text",
-         "text": "wydawania i odbioru oraz utraty, uszkodzenia, unieważnienia i zwrotu (Dz. U. poz. 1031);"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "dotyczące fotografii załączanej do wniosku o wydanie dowodu osobistego, określone"
+      },
+      {
+       "type": "text",
+       "text": "w przepisach wydanych na podstawie art. 54 ustawy z dnia 6 sierpnia 2010 r. o dowodach"
+      },
+      {
+       "type": "text",
+       "text": "osobistych (Dz. U. z 2025 r. poz. 1753), a w przypadku dostarczenia fotografii w wersji"
+      },
+      {
+       "type": "text",
+       "text": "cyfrowej – zgodnie z § 5 ust. 2 rozporządzenia Ministra Spraw Wewnętrznych"
+      },
+      {
+       "type": "text",
+       "text": "i Administracji z dnia 23 lipca 2025 r. w sprawie wzoru dowodu osobistego, jego"
+      },
+      {
+       "type": "text",
+       "text": "wydawania i odbioru oraz utraty, uszkodzenia, unieważnienia i zwrotu (Dz. U. poz. 1031);"
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_11/pkt_2",
        "text": "imię (imiona) i nazwisko – w jednym wierszu, napis wykonany krojem Arial Bold",
-       "children": [
-        {
-         "type": "text",
-         "text": "o wielkości 7 pkt w kolorze czarnym, notacja „WIELKIE LITERY”;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "o wielkości 7 pkt w kolorze czarnym, notacja „WIELKIE LITERY”;"
       },
       {
        "type": "pkt",
        "num": "3",
        "path": "ust_11/pkt_3",
        "text": "data urodzenia – w jednym wierszu do 10 znaków, napis wykonany krojem Arial Bold",
-       "children": [
-        {
-         "type": "text",
-         "text": "o wielkości 7 pkt w kolorze czarnym, w układzie DD-MM-RRRR;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "o wielkości 7 pkt w kolorze czarnym, w układzie DD-MM-RRRR;"
       },
       {
        "type": "pkt",
        "num": "4",
        "path": "ust_11/pkt_4",
        "text": "numer PESEL – w jednym wierszu do 11 znaków, napis wykonany krojem Arial Bold",
-       "children": [
-        {
-         "type": "text",
-         "text": "o wielkości 7 pkt w kolorze czarnym;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "o wielkości 7 pkt w kolorze czarnym;"
       },
       {
        "type": "pkt",
@@ -652,40 +635,37 @@
        "num": "6",
        "path": "ust_11/pkt_6",
        "text": "dyrektor szkoły – imię i nazwisko, w jednym wierszu, napis wykonany krojem Arial Bold",
-       "children": [
-        {
-         "type": "text",
-         "text": "o wielkości 7 pkt w kolorze czarnym, notacja „WIELKIE LITERY”;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "o wielkości 7 pkt w kolorze czarnym, notacja „WIELKIE LITERY”;"
       },
       {
        "type": "pkt",
        "num": "7",
        "path": "ust_11/pkt_7",
        "text": "data wydania – w jednym wierszu do 10 znaków, napis wykonany krojem Arial Bold",
-       "children": [
-        {
-         "type": "text",
-         "text": "o wielkości 7 pkt w kolorze czarnym, w układzie DD-MM-RRRR;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "o wielkości 7 pkt w kolorze czarnym, w układzie DD-MM-RRRR;"
       },
       {
        "type": "pkt",
        "num": "8",
        "path": "ust_11/pkt_8",
        "text": "numer legitymacji – w jednym wierszu, zgodny z numerem mLegitymacji szkolnej,",
-       "children": [
-        {
-         "type": "text",
-         "text": "o której mowa w art. 11 ust. 1d ustawy z dnia 7 września 1991 r. o systemie oświaty, napis"
-        },
-        {
-         "type": "text",
-         "text": "wykonany krojem Arial Bold o wielkości 7 pkt w kolorze czarnym."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "o której mowa w art. 11 ust. 1d ustawy z dnia 7 września 1991 r. o systemie oświaty, napis"
+      },
+      {
+       "type": "text",
+       "text": "wykonany krojem Arial Bold o wielkości 7 pkt w kolorze czarnym."
       }
      ]
     },
@@ -1005,22 +985,15 @@
             {
              "type": "text",
              "text": "umieszczone na rewersie blankietu, w prawej dolnej jego części,"
-            }
-           ]
-          },
-          {
-           "type": "tir",
-           "num": "2",
-           "path": "ust_5/pkt_2/lit_e/tir_2",
-           "text": "na oznaczenie indywidualne blankietu składają się dwie litery i siedem cyfr,",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "3",
-           "path": "ust_5/pkt_2/lit_e/tir_3",
-           "text": "obok oznaczenia indywidualnego, z lewej jego strony, producent blankietu",
-           "children": [
+            },
+            {
+             "type": "text",
+             "text": "– na oznaczenie indywidualne blankietu składają się dwie litery i siedem cyfr,"
+            },
+            {
+             "type": "text",
+             "text": "– obok oznaczenia indywidualnego, z lewej jego strony, producent blankietu"
+            },
             {
              "type": "text",
              "text": "umieszcza skrót nazwy producenta blankietu dokumentu publicznego, według"
@@ -1032,38 +1005,36 @@
             {
              "type": "tir",
              "num": "1",
-             "path": "ust_5/pkt_2/lit_e/tir_3/tir_1",
+             "path": "ust_5/pkt_2/lit_e/tir_1/tir_1",
              "text": "od czterech do siedmiu liter oznaczających skrót nazwy producenta",
-             "children": [
-              {
-               "type": "text",
-               "text": "blankietu dokumentu publicznego, które umieszcza w miejscu oznaczonym"
-              },
-              {
-               "type": "text",
-               "text": "we wzorze symbolem XXXX, oraz"
-              }
-             ]
+             "children": []
+            },
+            {
+             "type": "text",
+             "text": "blankietu dokumentu publicznego, które umieszcza w miejscu oznaczonym"
+            },
+            {
+             "type": "text",
+             "text": "we wzorze symbolem XXXX, oraz"
             },
             {
              "type": "tir",
              "num": "2",
-             "path": "ust_5/pkt_2/lit_e/tir_3/tir_2",
+             "path": "ust_5/pkt_2/lit_e/tir_1/tir_2",
              "text": "cztery cyfry oznaczające rok produkcji blankietu, które umieszcza w miejscu",
-             "children": [
-              {
-               "type": "text",
-               "text": "oznaczonym we wzorze symbolem YYYY."
-              },
-              {
-               "type": "text",
-               "text": "Skrót nazwy producenta blankietu dokumentu publicznego oraz rok produkcji wykonany"
-              },
-              {
-               "type": "text",
-               "text": "w technice grawerowania laserowego."
-              }
-             ]
+             "children": []
+            },
+            {
+             "type": "text",
+             "text": "oznaczonym we wzorze symbolem YYYY."
+            },
+            {
+             "type": "text",
+             "text": "Skrót nazwy producenta blankietu dokumentu publicznego oraz rok produkcji wykonany"
+            },
+            {
+             "type": "text",
+             "text": "w technice grawerowania laserowego."
             }
            ]
           }
@@ -1144,36 +1115,33 @@
        "num": "1",
        "path": "ust_10/pkt_1",
        "text": "imię (imiona) – w jednym wierszu, napis wykonany krojem Arial Bold o wielkości 7 pkt",
-       "children": [
-        {
-         "type": "text",
-         "text": "w kolorze czarnym, notacja „WIELKIE LITERY”;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "w kolorze czarnym, notacja „WIELKIE LITERY”;"
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_10/pkt_2",
        "text": "nazwisko – w jednym wierszu, napis wykonany krojem Arial Bold o wielkości 7 pkt",
-       "children": [
-        {
-         "type": "text",
-         "text": "w kolorze czarnym, notacja „WIELKIE LITERY”;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "w kolorze czarnym, notacja „WIELKIE LITERY”;"
       },
       {
        "type": "pkt",
        "num": "3",
        "path": "ust_10/pkt_3",
        "text": "data urodzenia – w jednym wierszu do 12 znaków, napis wykonany krojem Arial Bold",
-       "children": [
-        {
-         "type": "text",
-         "text": "o wielkości 7 pkt w kolorze czarnym, w układzie DD-MM-RRRR;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "o wielkości 7 pkt w kolorze czarnym, w układzie DD-MM-RRRR;"
       },
       {
        "type": "pkt",
@@ -1204,44 +1172,42 @@
        "num": "6",
        "path": "ust_10/pkt_6",
        "text": "data wydania – w jednym wierszu do 12 znaków, napis wykonany krojem Arial Bold",
-       "children": [
-        {
-         "type": "text",
-         "text": "o wielkości 7 pkt w kolorze czarnym, w układzie DD-MM-RRRR;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "o wielkości 7 pkt w kolorze czarnym, w układzie DD-MM-RRRR;"
       },
       {
        "type": "pkt",
        "num": "7",
        "path": "ust_10/pkt_7",
        "text": "numer legitymacji – w jednym wierszu, napis wykonany krojem Arial Bold o wielkości 7 pkt",
-       "children": [
-        {
-         "type": "text",
-         "text": "w kolorze czarnym."
-        },
-        {
-         "type": "text",
-         "text": "Wzór nr 5"
-        },
-        {
-         "type": "text",
-         "text": "Legitymacja przedszkolna"
-        },
-        {
-         "type": "text",
-         "text": "awers"
-        },
-        {
-         "type": "note",
-         "text": "[Na stronie 13 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "rewers"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "w kolorze czarnym."
+      },
+      {
+       "type": "text",
+       "text": "Wzór nr 5"
+      },
+      {
+       "type": "text",
+       "text": "Legitymacja przedszkolna"
+      },
+      {
+       "type": "text",
+       "text": "awers"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 13 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "rewers"
       }
      ]
     }

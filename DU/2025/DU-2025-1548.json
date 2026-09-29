@@ -393,15 +393,11 @@
          "num": "b",
          "path": "par_4/ust_4/pkt_2/lit_b",
          "text": "10 km od przewidywanego miejsca uszkodzenia budowli piętrzącej klasy II",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "par_4/ust_4/pkt_2/lit_b/tir_1",
-           "text": "według mapy zagrożenia powodziowego, udostępnianej w systemie informacyjnym Hydroportal, o którym mowa w art. 332 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2025 r. poz. 960 i 1535).",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– według mapy zagrożenia powodziowego, udostępnianej w systemie informacyjnym Hydroportal, o którym mowa w art. 332 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2025 r. poz. 960 i 1535)."
         }
        ]
       }
@@ -789,15 +785,11 @@
        "num": "3",
        "path": "par_9/ust_1/pkt_3",
        "text": "240 minut – w przypadku schronów",
-       "children": [
-        {
-         "type": "tir",
-         "num": "1",
-         "path": "par_9/ust_1/pkt_3/tir_1",
-         "text": "przy oddziaływaniu pożaru określonym w odniesieniu do krzywej pożaru standardowego, oraz ograniczający rozprzestrzenianie się zadymienia.",
-         "children": []
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– przy oddziaływaniu pożaru określonym w odniesieniu do krzywej pożaru standardowego, oraz ograniczający rozprzestrzenianie się zadymienia."
       }
      ]
     },
@@ -5314,12 +5306,11 @@
        "num": "3",
        "path": "ust_1/pkt_3",
        "text": "uszkodzenia części budowli, połączeń lub zainstalowanego wyposażenia w wyniku znacznych przemiesz-",
-       "children": [
-        {
-         "type": "text",
-         "text": "czeń elementów konstrukcji;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "czeń elementów konstrukcji;"
       },
       {
        "type": "pkt",
@@ -5405,40 +5396,37 @@
        "num": "1",
        "path": "ust_6/pkt_1",
        "text": "lokalne uszkodzenia, w tym również rysy, które mogą niekorzystnie wpływać na przydatność użytkową,",
-       "children": [
-        {
-         "type": "text",
-         "text": "trwałość konstrukcji, jej części, a także przyległych do niej niekonstrukcyjnych części budowli;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "trwałość konstrukcji, jej części, a także przyległych do niej niekonstrukcyjnych części budowli;"
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_6/pkt_2",
        "text": "odkształcenia lub przemieszczenia ujemnie wpływające na jakość konstrukcji i jej przydatność użytkową,",
-       "children": [
-        {
-         "type": "text",
-         "text": "włączając w to również funkcjonowanie maszyn i urządzeń, oraz uszkodzenia części niekonstrukcyjnych"
-        },
-        {
-         "type": "text",
-         "text": "budowli i elementów wykończenia;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "włączając w to również funkcjonowanie maszyn i urządzeń, oraz uszkodzenia części niekonstrukcyjnych"
+      },
+      {
+       "type": "text",
+       "text": "budowli i elementów wykończenia;"
       },
       {
        "type": "pkt",
        "num": "3",
        "path": "ust_6/pkt_3",
        "text": "drgania dokuczliwe dla ludzi lub powodujące uszkodzenia budowli, jej wyposażenia oraz przechowywa-",
-       "children": [
-        {
-         "type": "text",
-         "text": "nego mienia, a także ograniczające jej użytkowanie zgodnie z przeznaczeniem."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "nego mienia, a także ograniczające jej użytkowanie zgodnie z przeznaczeniem."
       }
      ]
     },
@@ -5518,28 +5506,26 @@
        "num": "2",
        "path": "ust_10/pkt_2",
        "text": "obciążenie od skutków wybuchu wywołującego na powierzchni terenu nadciśnienie w wyniku oddziaływa-",
-       "children": [
-        {
-         "type": "text",
-         "text": "nia fali padającej;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "nia fali padającej;"
       },
       {
        "type": "pkt",
        "num": "3",
        "path": "ust_10/pkt_3",
        "text": "obciążenie od skutków wybuchu wywołującego na powierzchni terenu podciśnienie w wyniku oddziaływa-",
-       "children": [
-        {
-         "type": "text",
-         "text": "nia fali padającej o wartości 30 % przyjętego nadciśnienia."
-        },
-        {
-         "type": "text",
-         "text": "III. OBCIĄŻENIE OD ZAGRUZOWANIA"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "nia fali padającej o wartości 30 % przyjętego nadciśnienia."
+      },
+      {
+       "type": "text",
+       "text": "III. OBCIĄŻENIE OD ZAGRUZOWANIA"
       }
      ]
     },
@@ -5590,20 +5576,19 @@
        "num": "1",
        "path": "ust_2/tir_1",
        "text": "wysokość budynku zmierzona od uśrednionego poziomu terenu przy ścianie zewnętrznej budynku",
-       "children": [
-        {
-         "type": "text",
-         "text": "do górnej powierzchni najwyżej położonego stropu lub najwyżej położonego punktu stropodachu"
-        },
-        {
-         "type": "text",
-         "text": "lub konstrukcji przekrycia budynku, przy czym do wysokości nie wlicza się poddaszy o konstrukcji"
-        },
-        {
-         "type": "text",
-         "text": "drewnianej."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "do górnej powierzchni najwyżej położonego stropu lub najwyżej położonego punktu stropodachu"
+      },
+      {
+       "type": "text",
+       "text": "lub konstrukcji przekrycia budynku, przy czym do wysokości nie wlicza się poddaszy o konstrukcji"
+      },
+      {
+       "type": "text",
+       "text": "drewnianej."
       }
      ]
     },
@@ -5634,12 +5619,11 @@
        "num": "1",
        "path": "ust_3/tir_1",
        "text": "promień strefy prognozowanego zagruzowania [m],",
-       "children": [
-        {
-         "type": "text",
-         "text": "rr zz – odległość od ściany zewnętrznej budynku [m]; zakres stosowania: m ."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "rr zz – odległość od ściany zewnętrznej budynku [m]; zakres stosowania: m ."
       }
      ]
     },
@@ -5752,12 +5736,11 @@
        "num": "2",
        "path": "ust_9/pkt_2",
        "text": "budynku sąsiedniego, którego strefa prognozowanego zagruzowania obejmuje budowlę ochronną w całości",
-       "children": [
-        {
-         "type": "text",
-         "text": "lub w części."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "lub w części."
       }
      ]
     },
@@ -5780,36 +5763,27 @@
        "num": "1",
        "path": "ust_10/tir_1",
        "text": "obciążenie od zagruzowania od budynku lub jego części znajdującego się nad budowlą ochronną",
-       "children": [
-        {
-         "type": "text",
-         "text": "lub przy budowli ochronnej [kN/m²],"
-        }
-       ]
+       "children": []
       },
       {
-       "type": "tir",
-       "num": "2",
-       "path": "ust_10/tir_2",
-       "text": "obciążenie od zagruzowania od i-tego budynku sąsiedniego, którego strefa prognozowanego zagru-",
-       "children": [
-        {
-         "type": "text",
-         "text": "zowania obejmuje budowlę ochronną w całości lub w części [kN/m²],"
-        }
-       ]
+       "type": "text",
+       "text": "lub przy budowli ochronnej [kN/m²],"
       },
       {
-       "type": "tir",
-       "num": "3",
-       "path": "ust_10/tir_3",
-       "text": "współczynnik redukcyjny dla obciążenia od zagruzowania od i-tego budynku sąsiedniego [-],",
-       "children": [
-        {
-         "type": "text",
-         "text": "ηη – liczba budynków sąsiednich, których strefa prognozowanego zagruzowania obejmuje budowlę ochronną w całości lub w części [-]."
-        }
-       ]
+       "type": "text",
+       "text": "– obciążenie od zagruzowania od i-tego budynku sąsiedniego, którego strefa prognozowanego zagru-"
+      },
+      {
+       "type": "text",
+       "text": "zowania obejmuje budowlę ochronną w całości lub w części [kN/m²],"
+      },
+      {
+       "type": "text",
+       "text": "– współczynnik redukcyjny dla obciążenia od zagruzowania od i-tego budynku sąsiedniego [-],"
+      },
+      {
+       "type": "text",
+       "text": "ηη – liczba budynków sąsiednich, których strefa prognozowanego zagruzowania obejmuje budowlę ochronną w całości lub w części [-]."
       }
      ]
     },
@@ -5828,79 +5802,62 @@
        "num": "1",
        "path": "ust_11/tir_1",
        "text": "wysokość konstrukcji budynku [m] mierzona od poziomu najwyżej położonego punktu płaszczyzny",
-       "children": [
-        {
-         "type": "text",
-         "text": "poziomej na górnej krawędzi stropu lub stropodachu budowli ochronnej do poziomu górnej po-"
-        },
-        {
-         "type": "text",
-         "text": "wierzchni najwyżej położonego stropu lub stropodachu budynku,"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "poziomej na górnej krawędzi stropu lub stropodachu budowli ochronnej do poziomu górnej po-"
+      },
+      {
+       "type": "text",
+       "text": "wierzchni najwyżej położonego stropu lub stropodachu budynku,"
+      },
+      {
+       "type": "text",
+       "text": "– reprezentatywna wartość obciążeń stałych (w tym ciężaru własnego konstrukcji) i obciążeń użytko-"
+      },
+      {
+       "type": "text",
+       "text": "wych na kondygnacjach znajdujących się ponad budowlą ochronną [kN/m²] określona, z zastrzeże-"
+      },
+      {
+       "type": "text",
+       "text": "niem ust. 12 i 13, według wzoru:"
+      },
+      {
+       "type": "text",
+       "text": "∑ gdzie:"
       },
       {
        "type": "tir",
        "num": "2",
        "path": "ust_11/tir_2",
-       "text": "reprezentatywna wartość obciążeń stałych (w tym ciężaru własnego konstrukcji) i obciążeń użytko-",
-       "children": [
-        {
-         "type": "text",
-         "text": "wych na kondygnacjach znajdujących się ponad budowlą ochronną [kN/m²] określona, z zastrzeże-"
-        },
-        {
-         "type": "text",
-         "text": "niem ust. 12 i 13, według wzoru:"
-        },
-        {
-         "type": "text",
-         "text": "∑ gdzie:"
-        }
-       ]
-      },
-      {
-       "type": "tir",
-       "num": "3",
-       "path": "ust_11/tir_3",
        "text": "obciążenie stałe kondygnacji znajdujących się ponad budowlą ochronną, wyznaczone",
-       "children": [
-        {
-         "type": "text",
-         "text": "zgodnie z Polską Normą dotyczącą podstaw projektowania konstrukcji [kN/m²],"
-        }
-       ]
-      },
-      {
-       "type": "tir",
-       "num": "4",
-       "path": "ust_11/tir_4",
-       "text": "współczynnik udziału wartości quasi-stałej oddziaływania zmiennego, wyznaczony zgod-",
-       "children": [
-        {
-         "type": "text",
-         "text": "nie z Polską Normą [-],"
-        }
-       ]
-      },
-      {
-       "type": "tir",
-       "num": "5",
-       "path": "ust_11/tir_5",
-       "text": "obciążenie użytkowe kondygnacji znajdujących się ponad budowlą ochronną, wyznaczone",
-       "children": [
-        {
-         "type": "text",
-         "text": "zgodnie z Polską Normą dotyczącą podstaw projektowania konstrukcji [kN/m²],"
-        }
-       ]
-      },
-      {
-       "type": "tir",
-       "num": "6",
-       "path": "ust_11/tir_6",
-       "text": "liczba kondygnacji znajdujących się ponad budowlą ochronną.",
        "children": []
+      },
+      {
+       "type": "text",
+       "text": "zgodnie z Polską Normą dotyczącą podstaw projektowania konstrukcji [kN/m²],"
+      },
+      {
+       "type": "text",
+       "text": "– współczynnik udziału wartości quasi-stałej oddziaływania zmiennego, wyznaczony zgod-"
+      },
+      {
+       "type": "text",
+       "text": "nie z Polską Normą [-],"
+      },
+      {
+       "type": "text",
+       "text": "– obciążenie użytkowe kondygnacji znajdujących się ponad budowlą ochronną, wyznaczone"
+      },
+      {
+       "type": "text",
+       "text": "zgodnie z Polską Normą dotyczącą podstaw projektowania konstrukcji [kN/m²],"
+      },
+      {
+       "type": "text",
+       "text": "– liczba kondygnacji znajdujących się ponad budowlą ochronną."
       }
      ]
     },
@@ -6038,20 +5995,19 @@
        "num": "1",
        "path": "ust_17/pkt_1",
        "text": "liczbę kondygnacji budynku w budynku sąsiednim oraz możliwe usytuowanie w stosunku do budowli",
-       "children": [
-        {
-         "type": "text",
-         "text": "ochronnej, które jest najbardziej niekorzystne z punktu widzenia oddziaływania zagruzowania – na"
-        },
-        {
-         "type": "text",
-         "text": "podstawie danych określonych w miejscowym planie zagospodarowania przestrzennego, w warunkach"
-        },
-        {
-         "type": "text",
-         "text": "zabudowy lub w planie ogólnym;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "ochronnej, które jest najbardziej niekorzystne z punktu widzenia oddziaływania zagruzowania – na"
+      },
+      {
+       "type": "text",
+       "text": "podstawie danych określonych w miejscowym planie zagospodarowania przestrzennego, w warunkach"
+      },
+      {
+       "type": "text",
+       "text": "zabudowy lub w planie ogólnym;"
       },
       {
        "type": "pkt",
@@ -6065,16 +6021,15 @@
        "num": "3",
        "path": "ust_17/pkt_3",
        "text": "wysokość kondygnacji do 3,5 m – w przypadku gdy w danych, o których mowa w pkt 1, określono",
-       "children": [
-        {
-         "type": "text",
-         "text": "wyłącznie dopuszczalną wysokość zabudowy."
-        },
-        {
-         "type": "text",
-         "text": "IV. ODPORNOŚĆ NA DZIAŁANIE ODŁAMKÓW"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "wyłącznie dopuszczalną wysokość zabudowy."
+      },
+      {
+       "type": "text",
+       "text": "IV. ODPORNOŚĆ NA DZIAŁANIE ODŁAMKÓW"
       }
      ]
     },
@@ -6129,12 +6084,11 @@
          "num": "d",
          "path": "ust_1/pkt_1/lit_d",
          "text": "z muru z bloczków silikatowych pełnych na zaprawie cementowej lub cementowo-wapiennej – o gru-",
-         "children": [
-          {
-           "type": "text",
-           "text": "bości co najmniej 36 cm lub"
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "bości co najmniej 36 cm lub"
         }
        ]
       },
@@ -6410,48 +6364,46 @@
        "num": "1",
        "path": "ust_5/pkt_1",
        "text": "załamania pod kątem prostym drogi rozchodzenia się promieniowania przenikliwego na drodze prowadzącej",
-       "children": [
-        {
-         "type": "text",
-         "text": "do strefy ochronnej – przy założeniu, że każde załamanie drogi promieniowania przenikliwego pod kątem"
-        },
-        {
-         "type": "text",
-         "text": "prostym osłabia promieniowanie dziesięciokrotnie, jeżeli masa powierzchniowa warstw ochronnych na"
-        },
-        {
-         "type": "text",
-         "text": "załamaniu drogi jest nie mniejsza niż 500 kg/m²;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "do strefy ochronnej – przy założeniu, że każde załamanie drogi promieniowania przenikliwego pod kątem"
+      },
+      {
+       "type": "text",
+       "text": "prostym osłabia promieniowanie dziesięciokrotnie, jeżeli masa powierzchniowa warstw ochronnych na"
+      },
+      {
+       "type": "text",
+       "text": "załamaniu drogi jest nie mniejsza niż 500 kg/m²;"
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_5/pkt_2",
        "text": "co najmniej jedno załamanie pod kątem prostym drogi rozchodzenia się promieniowania przenikliwego na",
-       "children": [
-        {
-         "type": "text",
-         "text": "drodze prowadzącej do strefy ochronnej oraz dodatkowe osłony, w tym drzwi lub wyłazy – przy założeniu,"
-        },
-        {
-         "type": "text",
-         "text": "że dziesięciokrotne osłabienie tego promieniowania zapewnia osłona wykonana z żelbetu lub betonu zbro-"
-        },
-        {
-         "type": "text",
-         "text": "jonego o gęstości 2500 kg/m³ i grubości co najmniej 20 cm lub inna osłona o grubości ekwiwalentnej, okreś-"
-        },
-        {
-         "type": "text",
-         "text": "lonej zgodnie z ust. 4 i 5."
-        },
-        {
-         "type": "text",
-         "text": "VI. WSTRZĄS"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "drodze prowadzącej do strefy ochronnej oraz dodatkowe osłony, w tym drzwi lub wyłazy – przy założeniu,"
+      },
+      {
+       "type": "text",
+       "text": "że dziesięciokrotne osłabienie tego promieniowania zapewnia osłona wykonana z żelbetu lub betonu zbro-"
+      },
+      {
+       "type": "text",
+       "text": "jonego o gęstości 2500 kg/m³ i grubości co najmniej 20 cm lub inna osłona o grubości ekwiwalentnej, okreś-"
+      },
+      {
+       "type": "text",
+       "text": "lonej zgodnie z ust. 4 i 5."
+      },
+      {
+       "type": "text",
+       "text": "VI. WSTRZĄS"
       }
      ]
     },
@@ -6492,38 +6444,34 @@
          "num": "1",
          "path": "ust_2/pkt_1/tir_1",
          "text": "obciążenie bezwładnościowe wywołane przez wstrząs na kierunku pionowym [N/m²],",
-         "children": [
-          {
-           "type": "text",
-           "text": "qq aa – masa [kg/m²], mm – przyspieszenie ziemskie [m/s²],"
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "qq aa – masa [kg/m²], mm – przyspieszenie ziemskie [m/s²],"
+        },
+        {
+         "type": "text",
+         "text": "– współczynnik przyjmowany w zależności od kategorii odporności schronu:"
         },
         {
          "type": "tir",
          "num": "2",
          "path": "ust_2/pkt_1/tir_2",
-         "text": "współczynnik przyjmowany w zależności od kategorii odporności schronu:",
+         "text": "schron kategorii S-1: K a = [1,5 ÷ 2,5],",
          "children": []
         },
         {
          "type": "tir",
          "num": "3",
          "path": "ust_2/pkt_1/tir_3",
-         "text": "schron kategorii S-1: K a = [1,5 ÷ 2,5],",
+         "text": "schron kategorii S-2: K a = [2,5 ÷ 3,5],",
          "children": []
         },
         {
          "type": "tir",
          "num": "4",
          "path": "ust_2/pkt_1/tir_4",
-         "text": "schron kategorii S-2: K a = [2,5 ÷ 3,5],",
-         "children": []
-        },
-        {
-         "type": "tir",
-         "num": "5",
-         "path": "ust_2/pkt_1/tir_5",
          "text": "schron kategorii S-3: K a = [3,5 ÷ 4,5].",
          "children": [
           {
@@ -6705,16 +6653,12 @@
        "text": "nntt(tt+1)bbbb² gdzie:² ] ttbb"
       },
       {
-       "type": "tir",
-       "num": "1",
-       "path": "ust_3/tir_1",
-       "text": "współczynnik redukcji (np. siły, naprężenia, parcia),",
-       "children": [
-        {
-         "type": "text",
-         "text": "nn rrrrrr – współczynnik parcia spoczynkowego gruntu wyznaczony zgodnie z Polską Normą, KK₀ – kąt tarcia wewnętrznego gruntu, tt – stosunek długości do rozpiętości stropu L budowli ochronnej, tt – stosunek zagłębienia stropu budowli ochronnej poniżej poziomu terenu do rozpiętości stropu L, bb – rozpiętość stropu budowli ochronnej; w przypadku stropu charakteryzowanego przez średnicę D bb rozpiętość odpowiada zależności L = 2/3D."
-        }
-       ]
+       "type": "text",
+       "text": "– współczynnik redukcji (np. siły, naprężenia, parcia),"
+      },
+      {
+       "type": "text",
+       "text": "nn rrrrrr – współczynnik parcia spoczynkowego gruntu wyznaczony zgodnie z Polską Normą, KK₀ – kąt tarcia wewnętrznego gruntu, tt – stosunek długości do rozpiętości stropu L budowli ochronnej, tt – stosunek zagłębienia stropu budowli ochronnej poniżej poziomu terenu do rozpiętości stropu L, bb – rozpiętość stropu budowli ochronnej; w przypadku stropu charakteryzowanego przez średnicę D bb rozpiętość odpowiada zależności L = 2/3D."
       }
      ]
     },
@@ -6773,20 +6717,19 @@
        "num": "1",
        "path": "ust_6/pkt_1",
        "text": "w przypadku stropu budowli ochronnej, nad którym występuje kondygnacja podziemna ze stropem żel-",
-       "children": [
-        {
-         "type": "text",
-         "text": "betowym o grubości co najmniej 22 cm, który jest usytuowany poniżej poziomu przylegającego terenu lub"
-        },
-        {
-         "type": "text",
-         "text": "na równi z tym poziomem:"
-        },
-        {
-         "type": "text",
-         "text": "qq kk1 =0,8×qq ww"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "betowym o grubości co najmniej 22 cm, który jest usytuowany poniżej poziomu przylegającego terenu lub"
+      },
+      {
+       "type": "text",
+       "text": "na równi z tym poziomem:"
+      },
+      {
+       "type": "text",
+       "text": "qq kk1 =0,8×qq ww"
       },
       {
        "type": "pkt",
@@ -7013,16 +6956,15 @@
          "num": "b",
          "path": "ust_7/pkt_4/lit_b",
          "text": "KK dla gg części ściany powyżej Ppt, gdy jej wysokość Hs  1,5 m i powierzchnia otworów w ścianie ze-",
-         "children": [
-          {
-           "type": "text",
-           "text": "wnętrznej budynku Ao > 10 % w stosunku do powierzchni ściany zewnętrznej budynku:"
-          },
-          {
-           "type": "text",
-           "text": "2,5×qq ww²"
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "wnętrznej budynku Ao > 10 % w stosunku do powierzchni ściany zewnętrznej budynku:"
+        },
+        {
+         "type": "text",
+         "text": "2,5×qq ww²"
         },
         {
          "type": "lit",
@@ -7062,16 +7004,15 @@
        "num": "5",
        "path": "ust_7/pkt_5",
        "text": "w przypadku ściany przylegającej do pomieszczenia na kondygnacji podziemnej, której strop jest usytuowany",
-       "children": [
-        {
-         "type": "text",
-         "text": "poniżej poziomu przylegającego terenu (Ppt) lub na równi z tym poziomem:"
-        },
-        {
-         "type": "note",
-         "text": "[Na stronie 51 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "poniżej poziomu przylegającego terenu (Ppt) lub na równi z tym poziomem:"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 51 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
       },
       {
        "type": "pkt",
@@ -7126,19 +7067,15 @@
            "num": "1",
            "path": "ust_7/pkt_6/lit_a/tir_1",
            "text": "wyznaczone według lit. a albo b odpowiednio do warunków wykonania części ściany powyżej",
-           "children": [
-            {
-             "type": "text",
-             "text": "posadzki pomieszczenia,"
-            }
-           ]
+           "children": []
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "ust_7/pkt_6/lit_a/tir_2",
-           "text": "współczynnik parcia bocznego gruntu według tabeli w pkt 1.",
-           "children": []
+           "type": "text",
+           "text": "posadzki pomieszczenia,"
+          },
+          {
+           "type": "text",
+           "text": "– współczynnik parcia bocznego gruntu według tabeli w pkt 1."
           }
          ]
         }
@@ -7169,44 +7106,43 @@
        "num": "1",
        "path": "ust_8/tir_1",
        "text": "współczynnik odbicia w zależności od warunków usytuowania i ukształtowania przestrzeni odpo-",
-       "children": [
-        {
-         "type": "text",
-         "text": "wiednio przy wejściu lub przy wyjściu zapasowym według tabeli:"
-        },
-        {
-         "type": "text",
-         "text": "Usytuowanie wejścia do budowli ochronnej Współczynnik Lp. lub wyjścia zapasowego"
-        },
-        {
-         "type": "text",
-         "text": "1 wejście z przestrzeni zamkniętej (korytarza lub pomieszczenia) 0,8 KK ww na kondygnacji podziemnej, której strop jest usytuowany poniżej poziomu przylegającego terenu (Ppt) lub na równi z tym poziomem"
-        },
-        {
-         "type": "text",
-         "text": "2 wejście z przestrzeni zamkniętej (korytarza lub pomieszczenia) na pierwszej 1,3 kondygnacji podziemnej z posadzką zagłębioną poniżej poziomu terenu o co najmniej 1,5 m przy A o < 50 %"
-        },
-        {
-         "type": "text",
-         "text": "3 wejście lub wyjście zapasowe ze schodów prowadzących bezpośrednio 1,3 z zewnątrz, przykrytych stropem i mających formę przelotową"
-        },
-        {
-         "type": "text",
-         "text": "4 wejście bezpośrednio z klatek schodowych w budynku przy A ok  50 % 2,0"
-        },
-        {
-         "type": "text",
-         "text": "5 wejście lub wyjście zapasowe ze schodów prowadzących bezpośrednio 2,3 z zewnątrz, usytuowanych w końcowym odcinku ślepo zakończonej przestrzeni (półprzelotnia), z pochylni znajdujących się na wprost wejścia lub bezpośrednio z klatek schodowych w budynku przy A ok < 50 %"
-        },
-        {
-         "type": "text",
-         "text": "6 wyjście zapasowe z tunelem wyjścia zapasowego zakończonego szybem 1,8 z naziemnym kominkiem"
-        },
-        {
-         "type": "text",
-         "text": "Objaśnienia: A ok – powierzchnia otworów w obudowie klatki schodowej w stosunku do powierzchni ścian i stropów stanowiących obudowę klatki schodowej [%], A o – powierzchnia otworów w ścianie zewnętrznej budynku w stosunku do powierzchni ściany zewnętrznej budynku [%]."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "wiednio przy wejściu lub przy wyjściu zapasowym według tabeli:"
+      },
+      {
+       "type": "text",
+       "text": "Usytuowanie wejścia do budowli ochronnej Współczynnik Lp. lub wyjścia zapasowego"
+      },
+      {
+       "type": "text",
+       "text": "1 wejście z przestrzeni zamkniętej (korytarza lub pomieszczenia) 0,8 KK ww na kondygnacji podziemnej, której strop jest usytuowany poniżej poziomu przylegającego terenu (Ppt) lub na równi z tym poziomem"
+      },
+      {
+       "type": "text",
+       "text": "2 wejście z przestrzeni zamkniętej (korytarza lub pomieszczenia) na pierwszej 1,3 kondygnacji podziemnej z posadzką zagłębioną poniżej poziomu terenu o co najmniej 1,5 m przy A o < 50 %"
+      },
+      {
+       "type": "text",
+       "text": "3 wejście lub wyjście zapasowe ze schodów prowadzących bezpośrednio 1,3 z zewnątrz, przykrytych stropem i mających formę przelotową"
+      },
+      {
+       "type": "text",
+       "text": "4 wejście bezpośrednio z klatek schodowych w budynku przy A ok  50 % 2,0"
+      },
+      {
+       "type": "text",
+       "text": "5 wejście lub wyjście zapasowe ze schodów prowadzących bezpośrednio 2,3 z zewnątrz, usytuowanych w końcowym odcinku ślepo zakończonej przestrzeni (półprzelotnia), z pochylni znajdujących się na wprost wejścia lub bezpośrednio z klatek schodowych w budynku przy A ok < 50 %"
+      },
+      {
+       "type": "text",
+       "text": "6 wyjście zapasowe z tunelem wyjścia zapasowego zakończonego szybem 1,8 z naziemnym kominkiem"
+      },
+      {
+       "type": "text",
+       "text": "Objaśnienia: A ok – powierzchnia otworów w obudowie klatki schodowej w stosunku do powierzchni ścian i stropów stanowiących obudowę klatki schodowej [%], A o – powierzchnia otworów w ścianie zewnętrznej budynku w stosunku do powierzchni ściany zewnętrznej budynku [%]."
       }
      ]
     },
@@ -7393,16 +7329,15 @@
        "num": "2",
        "path": "ust_16/pkt_2",
        "text": "przy obliczaniu ścinania i przebicia φφ dddddd =1,20 , gdy w obliczeniach nie uwzględnia się wpływu sztywności",
-       "children": [
-        {
-         "type": "text",
-         "text": "podpór na wartości sił ścinających oraz φφ dddddd redystrybucję =2,0 sił wewnętrznych w stanie zarysowanym."
-        },
-        {
-         "type": "text",
-         "text": "IX. METODA ANALIZY DYNAMICZNEJ KONSTRUKCJI"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "podpór na wartości sił ścinających oraz φφ dddddd redystrybucję =2,0 sił wewnętrznych w stanie zarysowanym."
+      },
+      {
+       "type": "text",
+       "text": "IX. METODA ANALIZY DYNAMICZNEJ KONSTRUKCJI"
       }
      ]
     },
@@ -7444,12 +7379,11 @@
        "num": "2",
        "path": "ust_2/pkt_2",
        "text": "kąty obrotu na podporach;",
-       "children": [
-        {
-         "type": "text",
-         "text": "odkształcenia trwałe powstałe po ustaniu oddziaływania wybuchowego."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "odkształcenia trwałe powstałe po ustaniu oddziaływania wybuchowego."
       }
      ]
     },
@@ -7784,15 +7718,11 @@
        "num": "2",
        "path": "ust_6/pkt_2",
        "text": "350 Pa – przy przepływie nominalnym o wartości 900 m³/h",
-       "children": [
-        {
-         "type": "tir",
-         "num": "1",
-         "path": "ust_6/pkt_2/tir_1",
-         "text": "przy czym dla innych wartości przepływu wartości oporów granicznych przyjmuje się proporcjonalnie.",
-         "children": []
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– przy czym dla innych wartości przepływu wartości oporów granicznych przyjmuje się proporcjonalnie."
       }
      ]
     },
@@ -7858,15 +7788,11 @@
        "num": "2",
        "path": "ust_1/pkt_2",
        "text": "1400 Pa – przy przepływie nominalnym 620 m³/h",
-       "children": [
-        {
-         "type": "tir",
-         "num": "1",
-         "path": "ust_1/pkt_2/tir_1",
-         "text": "przy czym dla innych wartości przepływu wartości oporów granicznych przyjmuje się proporcjonalnie.",
-         "children": []
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– przy czym dla innych wartości przepływu wartości oporów granicznych przyjmuje się proporcjonalnie."
       }
      ]
     },
@@ -8049,16 +7975,15 @@
        "num": "2",
        "path": "ust_12/pkt_2",
        "text": "materiał filtra jest odporny na oddzielne rozpuszczanie w kwasie solnym o stężeniu 0,5 N i amoniaku",
-       "children": [
-        {
-         "type": "text",
-         "text": "o stężeniu 0,5 N w temperaturze +20 °C przez 5 godzin, a ubytek masy materiałów filtracyjnych nie może"
-        },
-        {
-         "type": "text",
-         "text": "przekraczać 2 % masy pierwotnej;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "o stężeniu 0,5 N w temperaturze +20 °C przez 5 godzin, a ubytek masy materiałów filtracyjnych nie może"
+      },
+      {
+       "type": "text",
+       "text": "przekraczać 2 % masy pierwotnej;"
       },
       {
        "type": "pkt",
@@ -8081,16 +8006,15 @@
        "num": "4",
        "path": "ust_12/pkt_4",
        "text": "materiał filtra odpycha wilgoć w taki sposób, aby nie zostało wchłonięte więcej niż 10 g wody na metr",
-       "children": [
-        {
-         "type": "text",
-         "text": "kwadratowy, co najmniej tak jak określono w teście absorpcji Cobba zgodnie z wymaganiami Polskiej"
-        },
-        {
-         "type": "text",
-         "text": "Normy dotyczącej oznaczania absorpcji wody przez papier i tekturę."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "kwadratowy, co najmniej tak jak określono w teście absorpcji Cobba zgodnie z wymaganiami Polskiej"
+      },
+      {
+       "type": "text",
+       "text": "Normy dotyczącej oznaczania absorpcji wody przez papier i tekturę."
       }
      ]
     },
@@ -8117,40 +8041,37 @@
        "num": "2",
        "path": "ust_13/pkt_2",
        "text": "szczelność gotowego filtra specjalnego jest taka, aby ciśnienie próbne wynoszące 10 kPa wewnętrznego",
-       "children": [
-        {
-         "type": "text",
-         "text": "nadciśnienia zmieniało się maksymalnie o 2,5 % w ciągu pięciu minut;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "nadciśnienia zmieniało się maksymalnie o 2,5 % w ciągu pięciu minut;"
       },
       {
        "type": "pkt",
        "num": "3",
        "path": "ust_13/pkt_3",
        "text": "filtr specjalny wytrzymuje bez uszkodzeń naprężenia wywołane dwuminutowymi wibracjami",
-       "children": [
-        {
-         "type": "text",
-         "text": "o maksymalnym przyspieszeniu około 100 m/s² i częstotliwości około 25 Hz;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "o maksymalnym przyspieszeniu około 100 m/s² i częstotliwości około 25 Hz;"
       },
       {
        "type": "pkt",
        "num": "4",
        "path": "ust_13/pkt_4",
        "text": "specjalny filtr z suchym sorbentem węglowym ma zdolność retencyjną gazów bojowych i innych gazów",
-       "children": [
-        {
-         "type": "text",
-         "text": "szkodliwych określoną w tabeli 1; dla co najwyżej jednego gazu bojowego i jednego gazu szkodliwego"
-        },
-        {
-         "type": "text",
-         "text": "zdolność retencyjna może być o 10 % niższa od wartości określonych w tabeli 1;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "szkodliwych określoną w tabeli 1; dla co najwyżej jednego gazu bojowego i jednego gazu szkodliwego"
+      },
+      {
+       "type": "text",
+       "text": "zdolność retencyjna może być o 10 % niższa od wartości określonych w tabeli 1;"
       },
       {
        "type": "pkt",
@@ -8180,44 +8101,43 @@
        "num": "7",
        "path": "ust_13/pkt_7",
        "text": "budowa filtropochłaniacza musi uniemożliwiać przedostawanie się pyłu węglowego do filtrowanego",
-       "children": [
-        {
-         "type": "text",
-         "text": "powietrza."
-        },
-        {
-         "type": "text",
-         "text": "Tabela 1. Zdolność retencyjna gotowego specjalnego filtra z suchym sorbentem węglowym do gazów bojowych i innych gazów szkodliwych"
-        },
-        {
-         "type": "text",
-         "text": "Gaz bojowy Stężenie gazu Limit przepustowości Wydajność lub inny gaz szkodliwy objętościowe [%] [mg/m³] [kg/dm³/s]"
-        },
-        {
-         "type": "text",
-         "text": "chloropikryna 0,2 2 0,125"
-        },
-        {
-         "type": "text",
-         "text": "chlorocyjan 0,2 20 0,015"
-        },
-        {
-         "type": "text",
-         "text": "cyjanowodór 0,2 11 0,02"
-        },
-        {
-         "type": "text",
-         "text": "chlor 0,2 1,5 0,038"
-        },
-        {
-         "type": "text",
-         "text": "dwutlenek siarki 0,2 13 0,025"
-        },
-        {
-         "type": "text",
-         "text": "amoniak 0,2 18 0,005"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "powietrza."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 1. Zdolność retencyjna gotowego specjalnego filtra z suchym sorbentem węglowym do gazów bojowych i innych gazów szkodliwych"
+      },
+      {
+       "type": "text",
+       "text": "Gaz bojowy Stężenie gazu Limit przepustowości Wydajność lub inny gaz szkodliwy objętościowe [%] [mg/m³] [kg/dm³/s]"
+      },
+      {
+       "type": "text",
+       "text": "chloropikryna 0,2 2 0,125"
+      },
+      {
+       "type": "text",
+       "text": "chlorocyjan 0,2 20 0,015"
+      },
+      {
+       "type": "text",
+       "text": "cyjanowodór 0,2 11 0,02"
+      },
+      {
+       "type": "text",
+       "text": "chlor 0,2 1,5 0,038"
+      },
+      {
+       "type": "text",
+       "text": "dwutlenek siarki 0,2 13 0,025"
+      },
+      {
+       "type": "text",
+       "text": "amoniak 0,2 18 0,005"
       }
      ]
     },
@@ -8494,24 +8414,19 @@
        "num": "3",
        "path": "ust_14/pkt_3",
        "text": "wentylacji i utrzymania w czasie ochrony nie krótszym niż 48 godzin stężenia objętościowego tlenu wyno-",
-       "children": [
-        {
-         "type": "text",
-         "text": "szącego co najmniej 18 % oraz stężenia dwutlenku węgla nie większego niż 2,0 %"
-        },
-        {
-         "type": "tir",
-         "num": "1",
-         "path": "ust_14/pkt_3/tir_1",
-         "text": "ogranicza użytkowanie obiektu podziemnego systemu transportu szynowego w normalnych warunkach",
-         "children": [
-          {
-           "type": "text",
-           "text": "funkcjonowania, dopuszcza się wykonanie przyłączy umożliwiających dalsze rozprowadzanie tych instalacji."
-          }
-         ]
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "szącego co najmniej 18 % oraz stężenia dwutlenku węgla nie większego niż 2,0 %"
+      },
+      {
+       "type": "text",
+       "text": "– ogranicza użytkowanie obiektu podziemnego systemu transportu szynowego w normalnych warunkach"
+      },
+      {
+       "type": "text",
+       "text": "funkcjonowania, dopuszcza się wykonanie przyłączy umożliwiających dalsze rozprowadzanie tych instalacji."
       }
      ]
     },
@@ -8526,16 +8441,15 @@
        "num": "1",
        "path": "ust_15/pkt_1",
        "text": "na każde 100 osób pojemności zapewnia się co najmniej miskę ustępową lub ustęp suchy nieskanalizowany,",
-       "children": [
-        {
-         "type": "text",
-         "text": "przy czym liczba ustępów suchych nieskanalizowanych w stosunku do misek ustępowych podłączonych do"
-        },
-        {
-         "type": "text",
-         "text": "kanalizacji nie może być większa niż 3:1;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "przy czym liczba ustępów suchych nieskanalizowanych w stosunku do misek ustępowych podłączonych do"
+      },
+      {
+       "type": "text",
+       "text": "kanalizacji nie może być większa niż 3:1;"
       },
       {
        "type": "pkt",
@@ -8666,32 +8580,30 @@
        "num": "1",
        "path": "ust_1/pkt_1",
        "text": "nawa tunelu przeznaczona do prowadzenia ruchu drogowego lub jej część spełnia warunki techniczne określone",
-       "children": [
-        {
-         "type": "text",
-         "text": "dla ukrycia kategorii U-1;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "dla ukrycia kategorii U-1;"
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_1/pkt_2",
        "text": "przestrzenie inne niż określone w pkt 1, takie jak nawy ewakuacyjne, przestrzenie technologiczne niewyko-",
-       "children": [
-        {
-         "type": "text",
-         "text": "rzystywane na potrzeby prowadzenia ruchu drogowego lub zapewnienia prawidłowego funkcjonowania tu-"
-        },
-        {
-         "type": "text",
-         "text": "nelu, przejścia techniczne lub ewakuacyjne między nawami tunelu, mające powierzchnię użytkową co naj-"
-        },
-        {
-         "type": "text",
-         "text": "mniej 30 m² – spełniają warunki techniczne określone co najmniej dla ukrycia kategorii U-2."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "rzystywane na potrzeby prowadzenia ruchu drogowego lub zapewnienia prawidłowego funkcjonowania tu-"
+      },
+      {
+       "type": "text",
+       "text": "nelu, przejścia techniczne lub ewakuacyjne między nawami tunelu, mające powierzchnię użytkową co naj-"
+      },
+      {
+       "type": "text",
+       "text": "mniej 30 m² – spełniają warunki techniczne określone co najmniej dla ukrycia kategorii U-2."
       }
      ]
     },
@@ -8915,24 +8827,19 @@
        "num": "3",
        "path": "ust_14/pkt_3",
        "text": "wentylacji i utrzymania w czasie ochrony nie krótszym niż 48 godzin stężenia objętościowego tlenu wyno-",
-       "children": [
-        {
-         "type": "text",
-         "text": "szącego co najmniej 18 % oraz stężenia dwutlenku węgla nie większego niż 2,0 %"
-        },
-        {
-         "type": "tir",
-         "num": "1",
-         "path": "ust_14/pkt_3/tir_1",
-         "text": "ogranicza użytkowanie obiektu podziemnego systemu transportu drogowego w normalnych warunkach",
-         "children": [
-          {
-           "type": "text",
-           "text": "funkcjonowania, dopuszcza się wykonanie przyłączy umożliwiających dalsze rozprowadzanie tych instalacji."
-          }
-         ]
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "szącego co najmniej 18 % oraz stężenia dwutlenku węgla nie większego niż 2,0 %"
+      },
+      {
+       "type": "text",
+       "text": "– ogranicza użytkowanie obiektu podziemnego systemu transportu drogowego w normalnych warunkach"
+      },
+      {
+       "type": "text",
+       "text": "funkcjonowania, dopuszcza się wykonanie przyłączy umożliwiających dalsze rozprowadzanie tych instalacji."
       }
      ]
     },

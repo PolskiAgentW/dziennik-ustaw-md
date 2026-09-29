@@ -1082,120 +1082,118 @@
        "num": "1",
        "path": "ust_2/pkt_1",
        "text": "Fundusz przypisuje indywidualne punktowe oceny ryzyka (IRS) wszystkim",
-       "children": [
-        {
-         "type": "text",
-         "text": "wskaźnikom dla każdego podmiotu. Dla każdego wskaźnika ryzyka indywidualne punktowe"
-        },
-        {
-         "type": "text",
-         "text": "oceny ryzyka mieszczą się w przedziale między 0 a 100, gdzie 0 oznacza najniższe ryzyko,"
-        },
-        {
-         "type": "text",
-         "text": "a 100 – najwyższe ryzyko."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "wskaźnikom dla każdego podmiotu. Dla każdego wskaźnika ryzyka indywidualne punktowe"
+      },
+      {
+       "type": "text",
+       "text": "oceny ryzyka mieszczą się w przedziale między 0 a 100, gdzie 0 oznacza najniższe ryzyko,"
+      },
+      {
+       "type": "text",
+       "text": "a 100 – najwyższe ryzyko."
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_2/pkt_2",
        "text": "Fundusz przypisuje indywidualne punktowe oceny ryzyka przy użyciu metody skali",
-       "children": [
-        {
-         "type": "text",
-         "text": "ruchomej."
-        },
-        {
-         "type": "text",
-         "text": "W metodzie skali ruchomej w odniesieniu do każdego podmiotu „i” jest obliczana"
-        },
-        {
-         "type": "text",
-         "text": "indywidualna punktowa ocena ryzyka (IRS i,j ) dla każdego wskaźnika ryzyka A i,j . Każdy"
-        },
-        {
-         "type": "text",
-         "text": "wskaźnik ma zdefiniowaną górną i dolną granicę a j i b j ."
-        },
-        {
-         "type": "text",
-         "text": "W przypadku gdy wyższa wartość wskaźnika wskazuje na podmiot większego ryzyka"
-        },
-        {
-         "type": "text",
-         "text": "i wskaźnik przyjmuje wartość powyżej górnej granicy, IRS i,j przyjmuje wartość równą 100."
-        },
-        {
-         "type": "text",
-         "text": "W przypadku gdy wartość wskaźnika znajduje się poniżej dolnej granicy, IRS i,j przyjmuje"
-        },
-        {
-         "type": "text",
-         "text": "wartość 0."
-        },
-        {
-         "type": "text",
-         "text": "W przypadku gdy wartość wskaźnika znajduje się pomiędzy zdefiniowanymi granicami,"
-        },
-        {
-         "type": "text",
-         "text": "IRS i,j przyjmuje wartość z przedziału (0, 100). W przypadku każdego wskaźnika ryzyka A i,j"
-        },
-        {
-         "type": "text",
-         "text": "jego wartość będzie odpowiadała punktacji wyjściowej (IRS i,j ):"
-        },
-        {
-         "type": "text",
-         "text": "100 jjeeee AA ii,jj > aa jj 0 jjjjżjjeeee AA ii,jj < bb jj AA ii,jj −bb jj gdzie: × 100, jjjjżjjeeee bb jj ≤ AA ii,jj ≤ aa jj aa jj −bb jj"
-        },
-        {
-         "type": "text",
-         "text": "j = 1…n,"
-        },
-        {
-         "type": "text",
-         "text": "n – liczba stosowanych wskaźników ryzyka."
-        },
-        {
-         "type": "text",
-         "text": "W przypadku gdy niższa wartość wskaźnika wskazuje na podmiot większego ryzyka,"
-        },
-        {
-         "type": "text",
-         "text": "a wskaźnik znajduje się poniżej dolnej granicy, IRS i,j przyjmuje wartość równą 100. Jeżeli"
-        },
-        {
-         "type": "text",
-         "text": "wartość wskaźnika kształtuje się powyżej górnej granicy, IRS i,j przyjmuje wartość 0."
-        },
-        {
-         "type": "text",
-         "text": "W przypadku gdy wartość wskaźnika znajduje się pomiędzy zdefiniowanymi granicami,"
-        },
-        {
-         "type": "text",
-         "text": "IRS i,j przyjmuje wartość z przedziału (0, 100). W przypadku każdego wskaźnika ryzyka A i,j"
-        },
-        {
-         "type": "text",
-         "text": "jego wartość będzie odpowiadała punktacji wyjściowej (IRS i,j ):"
-        },
-        {
-         "type": "text",
-         "text": "0 jj jjeeee AA ii,jj > aa jj 100 jjjjżjjeeee AA ii,jj < bb jj aa jj −AA ii,jj gdzie: × 100, jjjjżjjeeee bb jj ≤ AA ii,jj ≤ aa jj aa jj −bb jj"
-        },
-        {
-         "type": "text",
-         "text": "j = 1…n"
-        },
-        {
-         "type": "text",
-         "text": "n – liczba stosowanych wskaźników ryzyka."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "ruchomej."
+      },
+      {
+       "type": "text",
+       "text": "W metodzie skali ruchomej w odniesieniu do każdego podmiotu „i” jest obliczana"
+      },
+      {
+       "type": "text",
+       "text": "indywidualna punktowa ocena ryzyka (IRS i,j ) dla każdego wskaźnika ryzyka A i,j . Każdy"
+      },
+      {
+       "type": "text",
+       "text": "wskaźnik ma zdefiniowaną górną i dolną granicę a j i b j ."
+      },
+      {
+       "type": "text",
+       "text": "W przypadku gdy wyższa wartość wskaźnika wskazuje na podmiot większego ryzyka"
+      },
+      {
+       "type": "text",
+       "text": "i wskaźnik przyjmuje wartość powyżej górnej granicy, IRS i,j przyjmuje wartość równą 100."
+      },
+      {
+       "type": "text",
+       "text": "W przypadku gdy wartość wskaźnika znajduje się poniżej dolnej granicy, IRS i,j przyjmuje"
+      },
+      {
+       "type": "text",
+       "text": "wartość 0."
+      },
+      {
+       "type": "text",
+       "text": "W przypadku gdy wartość wskaźnika znajduje się pomiędzy zdefiniowanymi granicami,"
+      },
+      {
+       "type": "text",
+       "text": "IRS i,j przyjmuje wartość z przedziału (0, 100). W przypadku każdego wskaźnika ryzyka A i,j"
+      },
+      {
+       "type": "text",
+       "text": "jego wartość będzie odpowiadała punktacji wyjściowej (IRS i,j ):"
+      },
+      {
+       "type": "text",
+       "text": "100 jjeeee AA ii,jj > aa jj 0 jjjjżjjeeee AA ii,jj < bb jj AA ii,jj −bb jj gdzie: × 100, jjjjżjjeeee bb jj ≤ AA ii,jj ≤ aa jj aa jj −bb jj"
+      },
+      {
+       "type": "text",
+       "text": "j = 1…n,"
+      },
+      {
+       "type": "text",
+       "text": "n – liczba stosowanych wskaźników ryzyka."
+      },
+      {
+       "type": "text",
+       "text": "W przypadku gdy niższa wartość wskaźnika wskazuje na podmiot większego ryzyka,"
+      },
+      {
+       "type": "text",
+       "text": "a wskaźnik znajduje się poniżej dolnej granicy, IRS i,j przyjmuje wartość równą 100. Jeżeli"
+      },
+      {
+       "type": "text",
+       "text": "wartość wskaźnika kształtuje się powyżej górnej granicy, IRS i,j przyjmuje wartość 0."
+      },
+      {
+       "type": "text",
+       "text": "W przypadku gdy wartość wskaźnika znajduje się pomiędzy zdefiniowanymi granicami,"
+      },
+      {
+       "type": "text",
+       "text": "IRS i,j przyjmuje wartość z przedziału (0, 100). W przypadku każdego wskaźnika ryzyka A i,j"
+      },
+      {
+       "type": "text",
+       "text": "jego wartość będzie odpowiadała punktacji wyjściowej (IRS i,j ):"
+      },
+      {
+       "type": "text",
+       "text": "0 jj jjeeee AA ii,jj > aa jj 100 jjjjżjjeeee AA ii,jj < bb jj aa jj −AA ii,jj gdzie: × 100, jjjjżjjeeee bb jj ≤ AA ii,jj ≤ aa jj aa jj −bb jj"
+      },
+      {
+       "type": "text",
+       "text": "j = 1…n"
+      },
+      {
+       "type": "text",
+       "text": "n – liczba stosowanych wskaźników ryzyka."
       }
      ]
     },
@@ -1278,60 +1276,58 @@
        "num": "1",
        "path": "ust_4/pkt_1",
        "text": "Fundusz ustala łączną kwotę składek należną w danym kwartale od banków według",
-       "children": [
-        {
-         "type": "text",
-         "text": "wzoru:"
-        },
-        {
-         "type": "text",
-         "text": "∑ CC ii tt − ) gdzie:"
-        },
-        {
-         "type": "text",
-         "text": "CLb(t) = łączna kwota składek należna w danym kwartale od banków,"
-        },
-        {
-         "type": "text",
-         "text": "CL = łączna kwota składek,"
-        },
-        {
-         "type": "text",
-         "text": "CDb i (t-1) = środki gwarantowane zgromadzone w banku „i” na koniec kwartału t-1,"
-        },
-        {
-         "type": "text",
-         "text": "CDo i (t-1) = środki gwarantowane zgromadzone w oddziale banku zagranicznego „i” na"
-        },
-        {
-         "type": "text",
-         "text": "koniec kwartału t-1."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "wzoru:"
+      },
+      {
+       "type": "text",
+       "text": "∑ CC ii tt − ) gdzie:"
+      },
+      {
+       "type": "text",
+       "text": "CLb(t) = łączna kwota składek należna w danym kwartale od banków,"
+      },
+      {
+       "type": "text",
+       "text": "CL = łączna kwota składek,"
+      },
+      {
+       "type": "text",
+       "text": "CDb i (t-1) = środki gwarantowane zgromadzone w banku „i” na koniec kwartału t-1,"
+      },
+      {
+       "type": "text",
+       "text": "CDo i (t-1) = środki gwarantowane zgromadzone w oddziale banku zagranicznego „i” na"
+      },
+      {
+       "type": "text",
+       "text": "koniec kwartału t-1."
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_4/pkt_2",
        "text": "Fundusz ustala łączną kwotę składek należną w danym kwartale od oddziałów banków",
-       "children": [
-        {
-         "type": "text",
-         "text": "zagranicznych według wzoru:"
-        },
-        {
-         "type": "text",
-         "text": "gdzie:"
-        },
-        {
-         "type": "text",
-         "text": "CLo(t) = łączna kwota składek należna w danym kwartale od oddziałów banków"
-        },
-        {
-         "type": "text",
-         "text": "zagranicznych."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "zagranicznych według wzoru:"
+      },
+      {
+       "type": "text",
+       "text": "gdzie:"
+      },
+      {
+       "type": "text",
+       "text": "CLo(t) = łączna kwota składek należna w danym kwartale od oddziałów banków"
+      },
+      {
+       "type": "text",
+       "text": "zagranicznych."
       }
      ]
     },
@@ -1346,68 +1342,66 @@
        "num": "1",
        "path": "ust_6/pkt_1",
        "text": "Składki kwartalne na fundusz gwarancyjny banków wnoszone przez poszczególne",
-       "children": [
-        {
-         "type": "text",
-         "text": "banki są obliczane według wzoru:"
-        },
-        {
-         "type": "text",
-         "text": "Cb (t) = CR(t) × [ARWb × (1-U )] × CDb (t-1) × μb i i i i"
-        },
-        {
-         "type": "text",
-         "text": "gdzie:"
-        },
-        {
-         "type": "text",
-         "text": "Cb i (t) = składka kwartalna banku „i” w kwartale t,"
-        },
-        {
-         "type": "text",
-         "text": "CR(t) = stawka (taka sama dla wszystkich banków w danym kwartale),"
-        },
-        {
-         "type": "text",
-         "text": "ARWb i = całkowita waga ryzyka dla banku „i”,"
-        },
-        {
-         "type": "text",
-         "text": "U i = procentowy poziom ulgi z tytułu przynależności banku „i” do systemu ochrony"
-        },
-        {
-         "type": "text",
-         "text": "instytucjonalnej (IPS). Przyjmuje wartość 80 % dla banków, które w pierwszym dniu kwartału,"
-        },
-        {
-         "type": "text",
-         "text": "za który należna jest składka, należały do IPS, oraz wartość 0 dla pozostałych banków,"
-        },
-        {
-         "type": "text",
-         "text": "μb = współczynnik korekty (taki sam dla wszystkich banków w danym kwartale)."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "banki są obliczane według wzoru:"
+      },
+      {
+       "type": "text",
+       "text": "Cb (t) = CR(t) × [ARWb × (1-U )] × CDb (t-1) × μb i i i i"
+      },
+      {
+       "type": "text",
+       "text": "gdzie:"
+      },
+      {
+       "type": "text",
+       "text": "Cb i (t) = składka kwartalna banku „i” w kwartale t,"
+      },
+      {
+       "type": "text",
+       "text": "CR(t) = stawka (taka sama dla wszystkich banków w danym kwartale),"
+      },
+      {
+       "type": "text",
+       "text": "ARWb i = całkowita waga ryzyka dla banku „i”,"
+      },
+      {
+       "type": "text",
+       "text": "U i = procentowy poziom ulgi z tytułu przynależności banku „i” do systemu ochrony"
+      },
+      {
+       "type": "text",
+       "text": "instytucjonalnej (IPS). Przyjmuje wartość 80 % dla banków, które w pierwszym dniu kwartału,"
+      },
+      {
+       "type": "text",
+       "text": "za który należna jest składka, należały do IPS, oraz wartość 0 dla pozostałych banków,"
+      },
+      {
+       "type": "text",
+       "text": "μb = współczynnik korekty (taki sam dla wszystkich banków w danym kwartale)."
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_6/pkt_2",
        "text": "Stawka jest określana jako iloraz jednej czwartej łącznej kwoty składek (CL) i sumy",
-       "children": [
-        {
-         "type": "text",
-         "text": "środków gwarantowanych wszystkich banków i oddziałów banków zagranicznych:"
-        },
-        {
-         "type": "text",
-         "text": "25 × CCCC 3) Współczynnik korekty CCCC(tt) (µb) = jest wyznaczany według wzoru: ∑ ii CCCCCC ii (tt −1) + ∑ ii CCCCCC ii (tt−1"
-        },
-        {
-         "type": "text",
-         "text": "∑ CCCC ii (tt − ) ii CCAACC ii ×(1−U ii )× CCCCCC ii (tt−1)"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "środków gwarantowanych wszystkich banków i oddziałów banków zagranicznych:"
+      },
+      {
+       "type": "text",
+       "text": "25 × CCCC 3) Współczynnik korekty CCCC(tt) (µb) = jest wyznaczany według wzoru: ∑ ii CCCCCC ii (tt −1) + ∑ ii CCCCCC ii (tt−1"
+      },
+      {
+       "type": "text",
+       "text": "∑ CCCC ii (tt − ) ii CCAACC ii ×(1−U ii )× CCCCCC ii (tt−1)"
       },
       {
        "type": "pkt",
@@ -1424,72 +1418,70 @@
          "num": "a",
          "path": "ust_6/pkt_4/lit_a",
          "text": "w przypadku gdy składka minimalna jest uwzględniana jako kwota doliczona do kwoty",
-         "children": [
-          {
-           "type": "text",
-           "text": "składki kwartalnej uzależnionej od ryzyka – według wzoru:"
-          },
-          {
-           "type": "text",
-           "text": "CCCCCC(tt)−nn ×MMCC gdzie: CC +( × AAAAAACC ii ×(1−U ii )× CCCCCC ii (tt −1)× µCC) ∑ ii CCCCCC ii (tt−1) Cb i *(t) = składka kwartalna banku „i” w kwartale t w przypadku stosowania składek"
-          },
-          {
-           "type": "text",
-           "text": "minimalnych,"
-          },
-          {
-           "type": "text",
-           "text": "n = liczba banków,"
-          },
-          {
-           "type": "text",
-           "text": "MC = składka minimalna."
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "składki kwartalnej uzależnionej od ryzyka – według wzoru:"
+        },
+        {
+         "type": "text",
+         "text": "CCCCCC(tt)−nn ×MMCC gdzie: CC +( × AAAAAACC ii ×(1−U ii )× CCCCCC ii (tt −1)× µCC) ∑ ii CCCCCC ii (tt−1) Cb i *(t) = składka kwartalna banku „i” w kwartale t w przypadku stosowania składek"
+        },
+        {
+         "type": "text",
+         "text": "minimalnych,"
+        },
+        {
+         "type": "text",
+         "text": "n = liczba banków,"
+        },
+        {
+         "type": "text",
+         "text": "MC = składka minimalna."
         },
         {
          "type": "lit",
          "num": "b",
          "path": "ust_6/pkt_4/lit_b",
          "text": "w przypadku gdy składka minimalna jest uwzględniana jako dolny poziom kwoty",
-         "children": [
-          {
-           "type": "text",
-           "text": "składki kwartalnej:"
-          },
-          {
-           "type": "text",
-           "text": "⎯ banki, w przypadku których kwota składki minimalnej jest wyższa niż kwota"
-          },
-          {
-           "type": "text",
-           "text": "wyznaczona zgodnie z ppkt 1, wnoszą składkę w wysokości odpowiadającej składce"
-          },
-          {
-           "type": "text",
-           "text": "minimalnej,"
-          },
-          {
-           "type": "text",
-           "text": "⎯ kwoty składek pozostałych banków są wyznaczane zgodnie z ppkt 1, przy czym stawka"
-          },
-          {
-           "type": "text",
-           "text": "oraz współczynnik korekty są wyznaczane wyłącznie z uwzględnieniem całkowitych wag"
-          },
-          {
-           "type": "text",
-           "text": "ryzyka i środków gwarantowanych tych banków, a podziałowi podlega łączna kwota składek"
-          },
-          {
-           "type": "text",
-           "text": "należna w danym kwartale od banków pomniejszona o sumę składek banków wnoszących"
-          },
-          {
-           "type": "text",
-           "text": "składki w kwocie minimalnej."
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "składki kwartalnej:"
+        },
+        {
+         "type": "text",
+         "text": "⎯ banki, w przypadku których kwota składki minimalnej jest wyższa niż kwota"
+        },
+        {
+         "type": "text",
+         "text": "wyznaczona zgodnie z ppkt 1, wnoszą składkę w wysokości odpowiadającej składce"
+        },
+        {
+         "type": "text",
+         "text": "minimalnej,"
+        },
+        {
+         "type": "text",
+         "text": "⎯ kwoty składek pozostałych banków są wyznaczane zgodnie z ppkt 1, przy czym stawka"
+        },
+        {
+         "type": "text",
+         "text": "oraz współczynnik korekty są wyznaczane wyłącznie z uwzględnieniem całkowitych wag"
+        },
+        {
+         "type": "text",
+         "text": "ryzyka i środków gwarantowanych tych banków, a podziałowi podlega łączna kwota składek"
+        },
+        {
+         "type": "text",
+         "text": "należna w danym kwartale od banków pomniejszona o sumę składek banków wnoszących"
+        },
+        {
+         "type": "text",
+         "text": "składki w kwocie minimalnej."
         }
        ]
       }
@@ -1510,44 +1502,43 @@
        "num": "1",
        "path": "ust_7/pkt_1",
        "text": "Składki kwartalne na fundusz gwarancyjny banków wnoszone przez poszczególne",
-       "children": [
-        {
-         "type": "text",
-         "text": "oddziały banków zagranicznych są obliczane według wzoru:"
-        },
-        {
-         "type": "text",
-         "text": "Co (t) = CR(t) × ARWo × CDo (t-1) × μo"
-        },
-        {
-         "type": "text",
-         "text": "gdzie:"
-        },
-        {
-         "type": "text",
-         "text": "Co i (t) = składka kwartalna oddziału banku zagranicznego „i” w kwartale t,"
-        },
-        {
-         "type": "text",
-         "text": "CR(t) = stawka (taka sama dla wszystkich oddziałów banków zagranicznych w danym"
-        },
-        {
-         "type": "text",
-         "text": "kwartale),"
-        },
-        {
-         "type": "text",
-         "text": "ARWo i = całkowita waga ryzyka dla oddziału banku zagranicznego „i”,"
-        },
-        {
-         "type": "text",
-         "text": "μo = współczynnik korekty (taki sam dla wszystkich oddziałów banków zagranicznych w danym"
-        },
-        {
-         "type": "text",
-         "text": "kwartale)."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "oddziały banków zagranicznych są obliczane według wzoru:"
+      },
+      {
+       "type": "text",
+       "text": "Co (t) = CR(t) × ARWo × CDo (t-1) × μo"
+      },
+      {
+       "type": "text",
+       "text": "gdzie:"
+      },
+      {
+       "type": "text",
+       "text": "Co i (t) = składka kwartalna oddziału banku zagranicznego „i” w kwartale t,"
+      },
+      {
+       "type": "text",
+       "text": "CR(t) = stawka (taka sama dla wszystkich oddziałów banków zagranicznych w danym"
+      },
+      {
+       "type": "text",
+       "text": "kwartale),"
+      },
+      {
+       "type": "text",
+       "text": "ARWo i = całkowita waga ryzyka dla oddziału banku zagranicznego „i”,"
+      },
+      {
+       "type": "text",
+       "text": "μo = współczynnik korekty (taki sam dla wszystkich oddziałów banków zagranicznych w danym"
+      },
+      {
+       "type": "text",
+       "text": "kwartale)."
       },
       {
        "type": "pkt",
@@ -1572,84 +1563,82 @@
          "num": "a",
          "path": "ust_7/pkt_2/lit_a",
          "text": "w przypadku gdy składka minimalna jest uwzględniana jako kwota doliczona do kwoty",
-         "children": [
-          {
-           "type": "text",
-           "text": "składki kwartalnej uzależnionej od ryzyka – według wzoru:"
-          },
-          {
-           "type": "text",
-           "text": "∗ CCCCCC(tt)−nn ×MMCC gdzie: CCCC ii (t) = MMCC +( × AACCAACC ii × CCCCCC ii (tt−1)× µCC) ∑ ii CCCCCC ii (tt−1) Co i *(t) = składka kwartalna oddziału banku zagranicznego „i” w kwartale t w przypadku"
-          },
-          {
-           "type": "text",
-           "text": "stosowania składek minimalnych,"
-          },
-          {
-           "type": "text",
-           "text": "n = liczba oddziałów banków zagranicznych,"
-          },
-          {
-           "type": "text",
-           "text": "MC = składka minimalna,"
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "składki kwartalnej uzależnionej od ryzyka – według wzoru:"
+        },
+        {
+         "type": "text",
+         "text": "∗ CCCCCC(tt)−nn ×MMCC gdzie: CCCC ii (t) = MMCC +( × AACCAACC ii × CCCCCC ii (tt−1)× µCC) ∑ ii CCCCCC ii (tt−1) Co i *(t) = składka kwartalna oddziału banku zagranicznego „i” w kwartale t w przypadku"
+        },
+        {
+         "type": "text",
+         "text": "stosowania składek minimalnych,"
+        },
+        {
+         "type": "text",
+         "text": "n = liczba oddziałów banków zagranicznych,"
+        },
+        {
+         "type": "text",
+         "text": "MC = składka minimalna,"
         },
         {
          "type": "lit",
          "num": "b",
          "path": "ust_7/pkt_2/lit_b",
          "text": "w przypadku gdy składka minimalna jest uwzględniana jako dolny poziom kwoty",
-         "children": [
-          {
-           "type": "text",
-           "text": "składki kwartalnej:"
-          },
-          {
-           "type": "text",
-           "text": "⎯ oddziały banków zagranicznych, w przypadku których kwota składki minimalnej jest"
-          },
-          {
-           "type": "text",
-           "text": "wyższa niż kwota wyznaczona zgodnie z ppkt 1, wnoszą składkę w wysokości"
-          },
-          {
-           "type": "text",
-           "text": "odpowiadającej składce minimalnej,"
-          },
-          {
-           "type": "text",
-           "text": "⎯ kwoty składek pozostałych oddziałów banków zagranicznych są wyznaczane zgodnie"
-          },
-          {
-           "type": "text",
-           "text": "z ppkt 1, przy czym stawka oraz współczynnik korekty są wyznaczane wyłącznie"
-          },
-          {
-           "type": "text",
-           "text": "z uwzględnieniem całkowitych wag ryzyka i środków gwarantowanych tych oddziałów"
-          },
-          {
-           "type": "text",
-           "text": "banków zagranicznych, a podziałowi podlega łączna kwota składek należna w danym"
-          },
-          {
-           "type": "text",
-           "text": "kwartale od oddziałów banków zagranicznych pomniejszona o sumę składek oddziałów"
-          },
-          {
-           "type": "text",
-           "text": "banków zagranicznych wnoszących składki w kwocie minimalnej."
-          },
-          {
-           "type": "text",
-           "text": "B. SZCZEGÓŁOWY SPOSÓB OBLICZANIA SKŁADEK NADZWYCZAJNYCH"
-          },
-          {
-           "type": "text",
-           "text": "NALEŻNYCH OD PODMIOTÓW WNOSZĄCYCH SKŁADKI"
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "składki kwartalnej:"
+        },
+        {
+         "type": "text",
+         "text": "⎯ oddziały banków zagranicznych, w przypadku których kwota składki minimalnej jest"
+        },
+        {
+         "type": "text",
+         "text": "wyższa niż kwota wyznaczona zgodnie z ppkt 1, wnoszą składkę w wysokości"
+        },
+        {
+         "type": "text",
+         "text": "odpowiadającej składce minimalnej,"
+        },
+        {
+         "type": "text",
+         "text": "⎯ kwoty składek pozostałych oddziałów banków zagranicznych są wyznaczane zgodnie"
+        },
+        {
+         "type": "text",
+         "text": "z ppkt 1, przy czym stawka oraz współczynnik korekty są wyznaczane wyłącznie"
+        },
+        {
+         "type": "text",
+         "text": "z uwzględnieniem całkowitych wag ryzyka i środków gwarantowanych tych oddziałów"
+        },
+        {
+         "type": "text",
+         "text": "banków zagranicznych, a podziałowi podlega łączna kwota składek należna w danym"
+        },
+        {
+         "type": "text",
+         "text": "kwartale od oddziałów banków zagranicznych pomniejszona o sumę składek oddziałów"
+        },
+        {
+         "type": "text",
+         "text": "banków zagranicznych wnoszących składki w kwocie minimalnej."
+        },
+        {
+         "type": "text",
+         "text": "B. SZCZEGÓŁOWY SPOSÓB OBLICZANIA SKŁADEK NADZWYCZAJNYCH"
+        },
+        {
+         "type": "text",
+         "text": "NALEŻNYCH OD PODMIOTÓW WNOSZĄCYCH SKŁADKI"
         }
        ]
       }
@@ -1690,56 +1679,54 @@
        "num": "1",
        "path": "ust_2/pkt_1",
        "text": "Fundusz ustala łączną kwotę składek nadzwyczajnych należną od banków według",
-       "children": [
-        {
-         "type": "text",
-         "text": "wzoru:"
-        },
-        {
-         "type": "text",
-         "text": "∑ CC ii tt − ) gdzie:"
-        },
-        {
-         "type": "text",
-         "text": "CLNb(t) = łączna kwota składek nadzwyczajnych należna od banków,"
-        },
-        {
-         "type": "text",
-         "text": "CLN = łączna kwota składek nadzwyczajnych,"
-        },
-        {
-         "type": "text",
-         "text": "CDb i (t-1) = środki gwarantowane zgromadzone w banku „i” na koniec kwartału t-1,"
-        },
-        {
-         "type": "text",
-         "text": "CDo i (t-1) = środki gwarantowane zgromadzone w oddziale banku zagranicznego „i” na koniec"
-        },
-        {
-         "type": "text",
-         "text": "kwartału t-1."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "wzoru:"
+      },
+      {
+       "type": "text",
+       "text": "∑ CC ii tt − ) gdzie:"
+      },
+      {
+       "type": "text",
+       "text": "CLNb(t) = łączna kwota składek nadzwyczajnych należna od banków,"
+      },
+      {
+       "type": "text",
+       "text": "CLN = łączna kwota składek nadzwyczajnych,"
+      },
+      {
+       "type": "text",
+       "text": "CDb i (t-1) = środki gwarantowane zgromadzone w banku „i” na koniec kwartału t-1,"
+      },
+      {
+       "type": "text",
+       "text": "CDo i (t-1) = środki gwarantowane zgromadzone w oddziale banku zagranicznego „i” na koniec"
+      },
+      {
+       "type": "text",
+       "text": "kwartału t-1."
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_2/pkt_2",
        "text": "Fundusz ustala łączną kwotę składek nadzwyczajnych należną od oddziałów banków",
-       "children": [
-        {
-         "type": "text",
-         "text": "zagranicznych według wzoru:"
-        },
-        {
-         "type": "text",
-         "text": "gdzie:"
-        },
-        {
-         "type": "text",
-         "text": "CLNo(t) = łączna kwota składek należna od oddziałów banków zagranicznych."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "zagranicznych według wzoru:"
+      },
+      {
+       "type": "text",
+       "text": "gdzie:"
+      },
+      {
+       "type": "text",
+       "text": "CLNo(t) = łączna kwota składek należna od oddziałów banków zagranicznych."
       }
      ]
     },
@@ -1754,132 +1741,128 @@
        "num": "1",
        "path": "ust_3/pkt_1",
        "text": "Składki nadzwyczajne na fundusz gwarancyjny banków wnoszone przez poszczególne",
-       "children": [
-        {
-         "type": "text",
-         "text": "banki są obliczane według wzoru:"
-        },
-        {
-         "type": "text",
-         "text": "CNb (t) = CR(t) × [ARWb × (1-U )] × CDb (t-1) × μb"
-        },
-        {
-         "type": "text",
-         "text": "gdzie:"
-        },
-        {
-         "type": "text",
-         "text": "CNb i (t) = składka nadzwyczajna banku „i”,"
-        },
-        {
-         "type": "text",
-         "text": "CR(t) = stawka (taka sama dla wszystkich banków),"
-        },
-        {
-         "type": "text",
-         "text": "ARWb i = całkowita waga ryzyka dla banku „i”, U i = procentowy poziom ulgi z tytułu przynależności banku „i” do systemu ochrony"
-        },
-        {
-         "type": "text",
-         "text": "instytucjonalnej (IPS). Przyjmuje wartość 80 % dla banków, które w pierwszym dniu kwartału,"
-        },
-        {
-         "type": "text",
-         "text": "w którym Rada Funduszu zobowiązała podmioty do wniesienia składek nadzwyczajnych,"
-        },
-        {
-         "type": "text",
-         "text": "należały do IPS, oraz wartość 0 dla pozostałych banków,"
-        },
-        {
-         "type": "text",
-         "text": "μb = współczynnik korekty (taki sam dla wszystkich banków w danym kwartale)."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "banki są obliczane według wzoru:"
+      },
+      {
+       "type": "text",
+       "text": "CNb (t) = CR(t) × [ARWb × (1-U )] × CDb (t-1) × μb"
+      },
+      {
+       "type": "text",
+       "text": "gdzie:"
+      },
+      {
+       "type": "text",
+       "text": "CNb i (t) = składka nadzwyczajna banku „i”,"
+      },
+      {
+       "type": "text",
+       "text": "CR(t) = stawka (taka sama dla wszystkich banków),"
+      },
+      {
+       "type": "text",
+       "text": "ARWb i = całkowita waga ryzyka dla banku „i”, U i = procentowy poziom ulgi z tytułu przynależności banku „i” do systemu ochrony"
+      },
+      {
+       "type": "text",
+       "text": "instytucjonalnej (IPS). Przyjmuje wartość 80 % dla banków, które w pierwszym dniu kwartału,"
+      },
+      {
+       "type": "text",
+       "text": "w którym Rada Funduszu zobowiązała podmioty do wniesienia składek nadzwyczajnych,"
+      },
+      {
+       "type": "text",
+       "text": "należały do IPS, oraz wartość 0 dla pozostałych banków,"
+      },
+      {
+       "type": "text",
+       "text": "μb = współczynnik korekty (taki sam dla wszystkich banków w danym kwartale)."
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_3/pkt_2",
        "text": "Stawka jest określana jako iloraz łącznej kwoty składek nadzwyczajnych (CLN) i sumy",
-       "children": [
-        {
-         "type": "text",
-         "text": "środków gwarantowanych wszystkich banków i oddziałów banków zagranicznych:"
-        },
-        {
-         "type": "text",
-         "text": "CCCC 3) Współczynnik korekty CCCC(tt) (µb) = jest wyznaczany według wzoru: ∑ ii CCCCCC ii (tt −1) + ∑ ii CCCCCC ii (tt−1"
-        },
-        {
-         "type": "text",
-         "text": "∑ ii CC 1) ii CCAACC ii × CCCCCC ii (tt −1) 4. Obliczenie składek uzależnionych od ryzyka"
-        },
-        {
-         "type": "text",
-         "text": "dla każdego oddziału banku zagranicznego"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "środków gwarantowanych wszystkich banków i oddziałów banków zagranicznych:"
+      },
+      {
+       "type": "text",
+       "text": "CCCC 3) Współczynnik korekty CCCC(tt) (µb) = jest wyznaczany według wzoru: ∑ ii CCCCCC ii (tt −1) + ∑ ii CCCCCC ii (tt−1"
+      },
+      {
+       "type": "text",
+       "text": "∑ ii CC 1) ii CCAACC ii × CCCCCC ii (tt −1) 4. Obliczenie składek uzależnionych od ryzyka"
+      },
+      {
+       "type": "text",
+       "text": "dla każdego oddziału banku zagranicznego"
       },
       {
        "type": "pkt",
        "num": "1",
        "path": "ust_3/pkt_1",
        "text": "Składki nadzwyczajne na fundusz gwarancyjny banków wnoszone przez poszczególne",
-       "children": [
-        {
-         "type": "text",
-         "text": "oddziały banków zagranicznych są obliczane według wzoru:"
-        },
-        {
-         "type": "text",
-         "text": "CNo (t) = CR(t) × ARWo × CDo (t-1) × μo i i i"
-        },
-        {
-         "type": "text",
-         "text": "gdzie:"
-        },
-        {
-         "type": "text",
-         "text": "CNo i (t) = składka nadzwyczajna oddziału banku zagranicznego „i”,"
-        },
-        {
-         "type": "text",
-         "text": "CR(t) = stawka (taka sama dla wszystkich oddziałów banków zagranicznych),"
-        },
-        {
-         "type": "text",
-         "text": "ARWo i = całkowita waga ryzyka dla oddziału banku zagranicznego „i”,"
-        },
-        {
-         "type": "text",
-         "text": "μo = współczynnik korekty (taki sam dla wszystkich oddziałów banków zagranicznych w danym"
-        },
-        {
-         "type": "text",
-         "text": "kwartale)."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "oddziały banków zagranicznych są obliczane według wzoru:"
+      },
+      {
+       "type": "text",
+       "text": "CNo (t) = CR(t) × ARWo × CDo (t-1) × μo i i i"
+      },
+      {
+       "type": "text",
+       "text": "gdzie:"
+      },
+      {
+       "type": "text",
+       "text": "CNo i (t) = składka nadzwyczajna oddziału banku zagranicznego „i”,"
+      },
+      {
+       "type": "text",
+       "text": "CR(t) = stawka (taka sama dla wszystkich oddziałów banków zagranicznych),"
+      },
+      {
+       "type": "text",
+       "text": "ARWo i = całkowita waga ryzyka dla oddziału banku zagranicznego „i”,"
+      },
+      {
+       "type": "text",
+       "text": "μo = współczynnik korekty (taki sam dla wszystkich oddziałów banków zagranicznych w danym"
+      },
+      {
+       "type": "text",
+       "text": "kwartale)."
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_3/pkt_2",
        "text": "Stawka jest określana jako iloraz łącznej kwoty składek nadzwyczajnych i sumy",
-       "children": [
-        {
-         "type": "text",
-         "text": "środków gwarantowanych wszystkich banków i oddziałów banków zagranicznych:"
-        },
-        {
-         "type": "text",
-         "text": "CCCCCC 3) Współczynnik korekty CCCC(tt) (µo) = jest wyznaczany według wzoru: ∑ ii CCCCCC ii (tt −1) + ∑ ii CCCCCC ii (tt−1)"
-        },
-        {
-         "type": "text",
-         "text": "∑ ii CCCCCC ii (tt−1) μo = ∑ ii AACCAACC ii × CCCCCC ii (tt−1)"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "środków gwarantowanych wszystkich banków i oddziałów banków zagranicznych:"
+      },
+      {
+       "type": "text",
+       "text": "CCCCCC 3) Współczynnik korekty CCCC(tt) (µo) = jest wyznaczany według wzoru: ∑ ii CCCCCC ii (tt −1) + ∑ ii CCCCCC ii (tt−1)"
+      },
+      {
+       "type": "text",
+       "text": "∑ ii CCCCCC ii (tt−1) μo = ∑ ii AACCAACC ii × CCCCCC ii (tt−1)"
       }
      ]
     }

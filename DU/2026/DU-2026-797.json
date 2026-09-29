@@ -451,15 +451,11 @@
          "num": "3",
          "path": "par_12/ust_1/pkt_3",
          "text": "działalności dydaktycznej prowadzonej przez jednostki szkolnictwa wojskowego oraz etatowe ośrodki szkolenia",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "par_12/ust_1/pkt_3/tir_1",
-           "text": "przysługuje dodatkowe wynagrodzenie.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– przysługuje dodatkowe wynagrodzenie."
         }
        ]
       },
@@ -620,15 +616,11 @@
          "num": "3",
          "path": "par_15/ust_2/pkt_3",
          "text": "pozostałych żołnierzy zawodowych wykonujących w czasie lotu próbnego na statku powietrznym czynności przewidziane w programie tego lotu – 50 %",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "par_15/ust_2/pkt_3/tir_1",
-           "text": "stawki obliczonej zgodnie z przepisami § 14 ust. 2 i 3.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– stawki obliczonej zgodnie z przepisami § 14 ust. 2 i 3."
         }
        ]
       }
@@ -1069,31 +1061,24 @@
      "text": "1 – pierwszej i drugiej 1 godz. lotu kategorii, 100 140 170 220 140"
     },
     {
-     "type": "tir",
-     "num": "1",
-     "path": "tir_1",
-     "text": "trzeciej i czwartej kategorii 80 125 140 210 125",
-     "children": [
-      {
-       "type": "text",
-       "text": "Loty próbne kontrolne: za wykonanie – pierwszej kategorii, lotu według 220 350 370 940 280 2 – drugiej kategorii, określonego 170 210 240 540 210 programu – trzeciej kategorii 70 80 100 190 80"
-      },
-      {
-       "type": "text",
-       "text": "Próby łopat wirników nośnych śmigłowców 3 1 godz. próby – – – – 70 na drgania typu flatter oraz ich torowanie"
-      },
-      {
-       "type": "text",
-       "text": "Przygotowanie statku powietrznego do lotu: – próbnego 1 roboczo- 4 doświadczalnego, godzina 20"
-      }
-     ]
+     "type": "text",
+     "text": "– trzeciej i czwartej kategorii 80 125 140 210 125"
     },
     {
-     "type": "tir",
-     "num": "2",
-     "path": "tir_2",
-     "text": "próbnego kontrolnego 15",
-     "children": []
+     "type": "text",
+     "text": "Loty próbne kontrolne: za wykonanie – pierwszej kategorii, lotu według 220 350 370 940 280 2 – drugiej kategorii, określonego 170 210 240 540 210 programu – trzeciej kategorii 70 80 100 190 80"
+    },
+    {
+     "type": "text",
+     "text": "Próby łopat wirników nośnych śmigłowców 3 1 godz. próby – – – – 70 na drgania typu flatter oraz ich torowanie"
+    },
+    {
+     "type": "text",
+     "text": "Przygotowanie statku powietrznego do lotu: – próbnego 1 roboczo- 4 doświadczalnego, godzina 20"
+    },
+    {
+     "type": "text",
+     "text": "– próbnego kontrolnego 15"
     }
    ]
   },

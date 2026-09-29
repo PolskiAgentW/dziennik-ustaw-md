@@ -263,36 +263,32 @@
          "text": "R₃"
         },
         {
+         "type": "text",
+         "text": "– w punkcie 4.2:"
+        },
+        {
          "type": "tir",
          "num": "1",
          "path": "par_1/pkt_3/lit_q/tir_1",
-         "text": "w punkcie 4.2:",
+         "text": "lit. a otrzymuje brzmienie:",
          "children": [
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_1/pkt_3/lit_q/tir_1/tir_1",
-           "text": "lit. a otrzymuje brzmienie:",
-           "children": [
-            {
-             "type": "text",
-             "text": "„a) grupa karbonylowa, azakarbonylowa lub metylenokarbonylowa (łączenie do struktury podstawowej następuje poprzez atom węgla grupy CH2),”,",
-             "quoted": true
-            }
-           ]
-          },
+           "type": "text",
+           "text": "„a) grupa karbonylowa, azakarbonylowa lub metylenokarbonylowa (łączenie do struktury podstawowej następuje poprzez atom węgla grupy CH2),”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_3/lit_q/tir_2",
+         "text": "w lit. d kropkę zastępuje się przecinkiem i dodaje się lit. e w brzmieniu:",
+         "children": [
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_1/pkt_3/lit_q/tir_1/tir_2",
-           "text": "w lit. d kropkę zastępuje się przecinkiem i dodaje się lit. e w brzmieniu:",
-           "children": [
-            {
-             "type": "text",
-             "text": "„e) grupa karbonylohydrazonu (łączenie do struktury podstawowej następuje poprzez atom azotu grupy hydrazonu połączony podwójnym wiązaniem z pozycją 3 grupy podstawowej).”,",
-             "quoted": true
-            }
-           ]
+           "type": "text",
+           "text": "„e) grupa karbonylohydrazonu (łączenie do struktury podstawowej następuje poprzez atom azotu grupy hydrazonu połączony podwójnym wiązaniem z pozycją 3 grupy podstawowej).”,",
+           "quoted": true
           }
          ]
         }

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/15",
  "title": "Obwieszczenie Ministra Infrastruktury z dnia 10 grudnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury w sprawie wydawania karty kwalifikacji kierowcy",
- "converter": "eli2md 0.5.3",
+ "converter": "eli2md 0.6.0",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/15/text.pdf",
  "body": [
   {
@@ -1593,15 +1593,11 @@
          "num": "3",
          "path": "par_17/ust_4/pkt_3",
          "text": "elektroniczną kopię (skan) wzoru podpisu",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "par_17/ust_4/pkt_3/tir_1",
-           "text": "w formacie i zgodnie z wymaganiami zamieszczonymi przez ministra właściwego do spraw transportu w Biuletynie Informacji Publicznej na podstawie przepisów wydanych na podstawie art. 20 ust. 1 pkt 2 ustawy.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– w formacie i zgodnie z wymaganiami zamieszczonymi przez ministra właściwego do spraw transportu w Biuletynie Informacji Publicznej na podstawie przepisów wydanych na podstawie art. 20 ust. 1 pkt 2 ustawy."
         }
        ]
       },
@@ -1705,7 +1701,31 @@
     },
     {
      "type": "note",
-     "text": "[Strona 14 PDF nie ma warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 14 PDF nie ma warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "F. Potwierdzenie odbioru karty kwalifikacji kierowcy Wydano kartę kwalifikacji kierowcy nr... uu. ważną dO ANIE aw wdw dd WA OWA A z wpisem kodu 95 w zakresie następujących uprawnień do kierowania pojazdem."
+    },
+    {
+     "type": "ocr",
+     "text": "KARTA KWALIFIKACJI KIEROWCY Kategoria Data uzyskania wpisu Data ważności C1"
+    },
+    {
+     "type": "ocr",
+     "text": "Data, podpis i pieczęć organu wydającego"
+    },
+    {
+     "type": "ocr",
+     "text": "OBJAŚNIENIA ” Kod terytorialny organu wydającego kartę kwalifikacji kierowcy. * Skreślić część lub całość punktu, jeśli nie dotyczy osoby. * Wpisać znak wyróżniający kraj (dla osób posiadających polskie obywatelstwo wpisać „PL”). * Pole nieobowiązkowe / fakultatywne * Data potwierdzenia odbioru przesyłki lub odbioru osobiście. *W przypadku wniosku składanego elektronicznie załącza się kopię elektroniczną (skan) podpisu. |"
+    },
+    {
+     "type": "ocr",
+     "text": "MBIS() ĄTUUSTZC]"
+    },
+    {
+     "type": "ocr",
+     "text": "SI zod"
     }
    ]
   },

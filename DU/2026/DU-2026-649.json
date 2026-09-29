@@ -1238,32 +1238,20 @@
            "text": "–[^17] w polu drugim – kraj i nazwę rejestru, w którym podmiot był zarejestrowany; jeżeli przekształceniu podlegała spółka cywilna – pole pozostaje niewypełnione,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_19/pkt_6/lit_c/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot był zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS; jeżeli przekształceniu podlegała spółka cywilna, pole pozostaje niewypełnione,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot był zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS; jeżeli przekształceniu podlegała spółka cywilna, pole pozostaje niewypełnione,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_19/pkt_6/lit_c/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_19/pkt_6/lit_c/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON; jeżeli przekształceniu podlegała spółka cywilna, wpisuje się REGON nadany spółce,",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON; jeżeli przekształceniu podlegała spółka cywilna, wpisuje się REGON nadany spółce,"
           },
           {
-           "type": "tir",
-           "num": "4",
-           "path": "par_19/pkt_6/lit_c/tir_4",
-           "text": "w polu szóstym – NIP; jeżeli przekształceniu podlegała spółka cywilna, wpisuje się NIP nadany spółce;",
-           "children": []
+           "type": "text",
+           "text": "– w polu szóstym – NIP; jeżeli przekształceniu podlegała spółka cywilna, wpisuje się NIP nadany spółce;"
           }
          ]
         }
@@ -2210,12 +2198,11 @@
          "num": "a",
          "path": "par_28/pkt_2/lit_a",
          "text": "[^31] w polu pierwszym – określenie okoliczności, o których mowa w art. 44 ust. 1 pkt 3 ustawy, co obejmuje rozwiązanie, rozwiązanie bez przeprowadzania likwidacji albo unieważnienie,",
-         "children": [
-          {
-           "type": "text",
-           "text": "b)[^31]w polu drugim – informacje o rozwiązaniu, rozwiązaniu bez przeprowadzania likwidacji albo unieważnieniu, co obejmuje: wskazanie przyczyny rozwiązania, wskazanie, czy rozwiązanie lub unieważnienie nastąpiło orzeczeniem sądu czy uchwałą, oraz odpowiednio: nazwę sądu prowadzącego postępowanie, datę wydania prawomocnego orzeczenia lub datę wydania postanowienia o rozwiązaniu podmiotu na podstawie art. 25d ustawy, sygnaturę sprawy, datę podjęcia uchwały, numer uchwały, a jeżeli uchwała została podjęta w formie aktu notarialnego – datę sporządzenia aktu notarialnego zawierającego uchwałę, oznaczenie notariusza, numer repertorium;"
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "b)[^31]w polu drugim – informacje o rozwiązaniu, rozwiązaniu bez przeprowadzania likwidacji albo unieważnieniu, co obejmuje: wskazanie przyczyny rozwiązania, wskazanie, czy rozwiązanie lub unieważnienie nastąpiło orzeczeniem sądu czy uchwałą, oraz odpowiednio: nazwę sądu prowadzącego postępowanie, datę wydania prawomocnego orzeczenia lub datę wydania postanowienia o rozwiązaniu podmiotu na podstawie art. 25d ustawy, sygnaturę sprawy, datę podjęcia uchwały, numer uchwały, a jeżeli uchwała została podjęta w formie aktu notarialnego – datę sporządzenia aktu notarialnego zawierającego uchwałę, oznaczenie notariusza, numer repertorium;"
         }
        ]
       },
@@ -2269,25 +2256,16 @@
            "text": "–[^32] w polu drugim – kraj i nazwę rejestru, w którym podmiot jest zarejestrowany,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_28/pkt_3/lit_c/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_28/pkt_3/lit_c/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_28/pkt_3/lit_c/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON;",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON;"
           }
          ]
         }
@@ -2465,41 +2443,27 @@
          "num": "d",
          "path": "par_28/pkt_6/lit_d",
          "text": "w podrubryce pierwszej – dane nadzorcy sądowego, zarządcy, nadzorcy układu wykonującego uprawnienia nadzorcy sądowego oraz osoby powołanej w toku postępowania restrukturyzacyjnego do reprezentowania dłużnika, a w przypadku przymusowej restrukturyzacji – dane administratora lub zastępcy administratora, lub pełnomocnika:[^36]",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "par_28/pkt_6/lit_d/tir_1",
-           "text": "w polu pierwszym – nazwisko, nazwę lub firmę,",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "2",
-           "path": "par_28/pkt_6/lit_d/tir_2",
-           "text": "w polu drugim – imiona,",
-           "children": [
-            {
-             "type": "text",
-             "text": "–[^18] w polu trzecim – numer PESEL lub datę urodzenia lub numer identyfikacyjny REGON,"
-            }
-           ]
-          },
-          {
-           "type": "tir",
-           "num": "3",
-           "path": "par_28/pkt_6/lit_d/tir_3",
-           "text": "w polu czwartym – numer KRS,",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "4",
-           "path": "par_28/pkt_6/lit_d/tir_4",
-           "text": "w polu piątym – funkcję;",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– w polu pierwszym – nazwisko, nazwę lub firmę,"
+        },
+        {
+         "type": "text",
+         "text": "– w polu drugim – imiona,"
+        },
+        {
+         "type": "text",
+         "text": "–[^18] w polu trzecim – numer PESEL lub datę urodzenia lub numer identyfikacyjny REGON,"
+        },
+        {
+         "type": "text",
+         "text": "– w polu czwartym – numer KRS,"
+        },
+        {
+         "type": "text",
+         "text": "– w polu piątym – funkcję;"
         }
        ]
       },
@@ -4796,32 +4760,20 @@
            "text": "–[^72] w polu drugim – kraj i nazwę rejestru, w którym podmiot jest zarejestrowany,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_50/pkt_6/lit_d/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS; jeżeli podmiot był wpisany w Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub przekształceniu podlegała spółka cywilna, pole pozostaje niewypełnione,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS; jeżeli podmiot był wpisany w Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub przekształceniu podlegała spółka cywilna, pole pozostaje niewypełnione,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_50/pkt_6/lit_d/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_50/pkt_6/lit_d/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON; jeżeli przekształceniu podlegała spółka cywilna, wpisuje się REGON nadany spółce,",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON; jeżeli przekształceniu podlegała spółka cywilna, wpisuje się REGON nadany spółce,"
           },
           {
-           "type": "tir",
-           "num": "4",
-           "path": "par_50/pkt_6/lit_d/tir_4",
-           "text": "w polu szóstym – NIP; jeżeli przekształceniu podlegała spółka cywilna, wpisuje się NIP nadany spółce;",
-           "children": []
+           "type": "text",
+           "text": "– w polu szóstym – NIP; jeżeli przekształceniu podlegała spółka cywilna, wpisuje się NIP nadany spółce;"
           }
          ]
         }
@@ -5851,25 +5803,16 @@
            "text": "–[^94] w polu drugim – kraj i nazwę rejestru albo ewidencji, w których podmiot jest zarejestrowany; jeżeli przekształceniu podlegała spółka cywilna – pole pozostaje niewypełnione; w przypadku podmiotu objętego systemem integracji rejestrów nazwę rejestru wpisuje się zgodnie z listą rejestrów udostępnianą w Biuletynie Informacji Publicznej na stronie podmiotowej Ministra Sprawiedliwości,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_58/pkt_4/lit_c/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_58/pkt_4/lit_c/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_58/pkt_4/lit_c/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON,",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON,"
           }
          ]
         },
@@ -5888,25 +5831,16 @@
            "text": "–[^95] w polu drugim – kraj i nazwę rejestru, w którym podmiot jest zarejestrowany,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_58/pkt_4/lit_d/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_58/pkt_4/lit_d/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_58/pkt_4/lit_d/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON;",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON;"
           }
          ]
         }
@@ -6424,32 +6358,20 @@
            "text": "–[^105] w polu drugim – kraj i nazwę rejestru albo ewidencji, w których podmiot jest zarejestrowany; jeżeli przekształceniu podlegała spółka cywilna – pole pozostaje niewypełnione; w przypadku podmiotu objętego systemem integracji rejestrów nazwę rejestru wpisuje się zgodnie z listą rejestrów udostępnianą w Biuletynie Informacji Publicznej na stronie podmiotowej Ministra Sprawiedliwości,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_61/pkt_6/lit_d/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_61/pkt_6/lit_d/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_61/pkt_6/lit_d/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON,",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON,"
           },
           {
-           "type": "tir",
-           "num": "4",
-           "path": "par_61/pkt_6/lit_d/tir_4",
-           "text": "w polu szóstym – NIP;",
-           "children": []
+           "type": "text",
+           "text": "– w polu szóstym – NIP;"
           }
          ]
         }
@@ -7436,25 +7358,16 @@
            "text": "–[^120] w polu drugim – kraj i nazwę rejestru, w którym podmiot jest zarejestrowany,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_71/pkt_4/lit_c/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_71/pkt_4/lit_c/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_71/pkt_4/lit_c/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON,",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON,"
           }
          ]
         },
@@ -7473,25 +7386,16 @@
            "text": "–[^122] w polu drugim – kraj i nazwę rejestru, w których podmiot jest zarejestrowany; w przypadku podmiotu objętego systemem integracji rejestrów nazwę rejestru wpisuje się zgodnie z listą rejestrów udostępnianą w Biuletynie Informacji Publicznej na stronie podmiotowej Ministra Sprawiedliwości,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_71/pkt_4/lit_d/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_71/pkt_4/lit_d/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_71/pkt_4/lit_d/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON;",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON;"
           }
          ]
         }
@@ -7635,41 +7539,27 @@
          "num": "d",
          "path": "par_71/pkt_6/lit_d",
          "text": "w podrubryce pierwszej – dane nadzorcy sądowego, zarządcy, nadzorcy układu wykonującego uprawnienia nadzorcy sądowego oraz osoby powołanej w toku postępowania restrukturyzacyjnego do reprezentowania dłużnika, a w przypadku przymusowej restrukturyzacji – dane administratora lub zastępcy administratora, lub pełnomocnika:[^125]",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "par_71/pkt_6/lit_d/tir_1",
-           "text": "w polu pierwszym – nazwisko, nazwę lub firmę,",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "2",
-           "path": "par_71/pkt_6/lit_d/tir_2",
-           "text": "w polu drugim – imiona,",
-           "children": [
-            {
-             "type": "text",
-             "text": "–[^18] w polu trzecim – numer PESEL lub datę urodzenia lub numer identyfikacyjny REGON,"
-            }
-           ]
-          },
-          {
-           "type": "tir",
-           "num": "3",
-           "path": "par_71/pkt_6/lit_d/tir_3",
-           "text": "w polu czwartym – numer KRS,",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "4",
-           "path": "par_71/pkt_6/lit_d/tir_4",
-           "text": "w polu piątym – funkcję;",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– w polu pierwszym – nazwisko, nazwę lub firmę,"
+        },
+        {
+         "type": "text",
+         "text": "– w polu drugim – imiona,"
+        },
+        {
+         "type": "text",
+         "text": "–[^18] w polu trzecim – numer PESEL lub datę urodzenia lub numer identyfikacyjny REGON,"
+        },
+        {
+         "type": "text",
+         "text": "– w polu czwartym – numer KRS,"
+        },
+        {
+         "type": "text",
+         "text": "– w polu piątym – funkcję;"
         }
        ]
       },
@@ -7955,32 +7845,20 @@
            "text": "–[^128] w polu pierwszym – nazwę oraz oznaczenie formy prawnej, –[^128] w polu drugim – kraj i nazwę rejestru, w którym podmiot jest zarejestrowany,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_74/pkt_6/lit_d/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_74/pkt_6/lit_d/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_74/pkt_6/lit_d/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON,",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON,"
           },
           {
-           "type": "tir",
-           "num": "4",
-           "path": "par_74/pkt_6/lit_d/tir_4",
-           "text": "w polu szóstym – NIP.",
-           "children": []
+           "type": "text",
+           "text": "– w polu szóstym – NIP."
           }
          ]
         }
@@ -8480,25 +8358,16 @@
            "text": "–[^133] w polu drugim – kraj i nazwę rejestru, w którym podmiot jest zarejestrowany,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_82/pkt_2/lit_c/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_82/pkt_2/lit_c/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_82/pkt_2/lit_c/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON,",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON,"
           }
          ]
         },
@@ -8517,25 +8386,16 @@
            "text": "–[^134] w polu drugim – kraj i nazwę rejestru, w którym podmiot jest zarejestrowany,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_82/pkt_2/lit_d/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_82/pkt_2/lit_d/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_82/pkt_2/lit_d/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON;",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON;"
           }
          ]
         }
@@ -8769,41 +8629,27 @@
          "num": "d",
          "path": "par_82/pkt_6/lit_d",
          "text": "w podrubryce pierwszej – dane nadzorcy sądowego, zarządcy, nadzorcy układu wykonującego uprawnienia nadzorcy sądowego oraz osoby powołanej w toku postępowania restrukturyzacyjnego do reprezentowania dłużnika, a w przypadku przymusowej restrukturyzacji – dane administratora lub zastępcy administratora, lub pełnomocnika:[^137]",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "par_82/pkt_6/lit_d/tir_1",
-           "text": "w polu pierwszym – nazwisko, nazwę lub firmę,",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "2",
-           "path": "par_82/pkt_6/lit_d/tir_2",
-           "text": "w polu drugim – imiona,",
-           "children": [
-            {
-             "type": "text",
-             "text": "–[^18] w polu trzecim – numer PESEL lub datę urodzenia lub numer identyfikacyjny REGON,"
-            }
-           ]
-          },
-          {
-           "type": "tir",
-           "num": "3",
-           "path": "par_82/pkt_6/lit_d/tir_3",
-           "text": "w polu czwartym – numer KRS,",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "4",
-           "path": "par_82/pkt_6/lit_d/tir_4",
-           "text": "w polu piątym – funkcję;",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– w polu pierwszym – nazwisko, nazwę lub firmę,"
+        },
+        {
+         "type": "text",
+         "text": "– w polu drugim – imiona,"
+        },
+        {
+         "type": "text",
+         "text": "–[^18] w polu trzecim – numer PESEL lub datę urodzenia lub numer identyfikacyjny REGON,"
+        },
+        {
+         "type": "text",
+         "text": "– w polu czwartym – numer KRS,"
+        },
+        {
+         "type": "text",
+         "text": "– w polu piątym – funkcję;"
         }
        ]
       },
@@ -9079,32 +8925,20 @@
            "text": "–[^140] w polu drugim – kraj i nazwę rejestru, w którym podmiot jest zarejestrowany,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_85/pkt_6/lit_d/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_85/pkt_6/lit_d/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_85/pkt_6/lit_d/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON,",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON,"
           },
           {
-           "type": "tir",
-           "num": "4",
-           "path": "par_85/pkt_6/lit_d/tir_4",
-           "text": "w polu szóstym – NIP;",
-           "children": []
+           "type": "text",
+           "text": "– w polu szóstym – NIP;"
           }
          ]
         }
@@ -9690,25 +9524,16 @@
            "text": "–[^146] w polu drugim – kraj i nazwę rejestru, w którym podmiot jest zarejestrowany,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_94/pkt_4/lit_c/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_94/pkt_4/lit_c/tir_2",
-           "text": "w polu czwartym – nazwę sądu lub organu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu lub organu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_94/pkt_4/lit_c/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON,",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON,"
           }
          ]
         },
@@ -9727,25 +9552,16 @@
            "text": "–[^147] w polu drugim – kraj i nazwę rejestru, w którym podmiot jest zarejestrowany,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_94/pkt_4/lit_d/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_94/pkt_4/lit_d/tir_2",
-           "text": "w polu czwartym – nazwę sądu lub organu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu lub organu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_94/pkt_4/lit_d/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON;",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON;"
           }
          ]
         }
@@ -9894,41 +9710,27 @@
          "num": "d",
          "path": "par_94/pkt_6/lit_d",
          "text": "w podrubryce pierwszej – dane nadzorcy sądowego, zarządcy, nadzorcy układu wykonującego uprawnienia nadzorcy sądowego oraz osoby powołanej w toku postępowania restrukturyzacyjnego do reprezentowania dłużnika, a w przypadku przymusowej restrukturyzacji – dane administratora lub zastępcy administratora, lub pełnomocnika:[^150]",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "par_94/pkt_6/lit_d/tir_1",
-           "text": "w polu pierwszym – nazwisko, nazwę lub firmę,",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "2",
-           "path": "par_94/pkt_6/lit_d/tir_2",
-           "text": "w polu drugim – imiona,",
-           "children": [
-            {
-             "type": "text",
-             "text": "–[^18] w polu trzecim – numer PESEL lub datę urodzenia lub numer identyfikacyjny REGON,"
-            }
-           ]
-          },
-          {
-           "type": "tir",
-           "num": "3",
-           "path": "par_94/pkt_6/lit_d/tir_3",
-           "text": "w polu czwartym – numer KRS,",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "4",
-           "path": "par_94/pkt_6/lit_d/tir_4",
-           "text": "w polu piątym – funkcję;",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– w polu pierwszym – nazwisko, nazwę lub firmę,"
+        },
+        {
+         "type": "text",
+         "text": "– w polu drugim – imiona,"
+        },
+        {
+         "type": "text",
+         "text": "–[^18] w polu trzecim – numer PESEL lub datę urodzenia lub numer identyfikacyjny REGON,"
+        },
+        {
+         "type": "text",
+         "text": "– w polu czwartym – numer KRS,"
+        },
+        {
+         "type": "text",
+         "text": "– w polu piątym – funkcję;"
         }
        ]
       },
@@ -10196,32 +9998,20 @@
            "text": "–[^155] w polu drugim – kraj i nazwę rejestru, w którym podmiot jest zarejestrowany,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_97/pkt_6/lit_d/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_97/pkt_6/lit_d/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr; pole pozostaje puste, jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr; pole pozostaje puste, jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_97/pkt_6/lit_d/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON,",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON,"
           },
           {
-           "type": "tir",
-           "num": "4",
-           "path": "par_97/pkt_6/lit_d/tir_4",
-           "text": "w polu szóstym – NIP;",
-           "children": []
+           "type": "text",
+           "text": "– w polu szóstym – NIP;"
           }
          ]
         }
@@ -10816,25 +10606,16 @@
            "text": "–[^167] w polu drugim – kraj i nazwę rejestru, w którym podmiot jest zarejestrowany,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_105/pkt_3/lit_c/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_105/pkt_3/lit_c/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_105/pkt_3/lit_c/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON,",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON,"
           }
          ]
         },
@@ -10853,25 +10634,16 @@
            "text": "–[^168] w polu drugim – kraj i nazwę rejestru, w którym podmiot jest zarejestrowany,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_105/pkt_3/lit_d/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_105/pkt_3/lit_d/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_105/pkt_3/lit_d/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON;",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON;"
           }
          ]
         }
@@ -11356,32 +11128,20 @@
            "text": "–[^175] w polu drugim – kraj i nazwę rejestru, w którym podmiot był zarejestrowany,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_117/pkt_6/lit_d/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_117/pkt_6/lit_d/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_117/pkt_6/lit_d/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON,",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON,"
           },
           {
-           "type": "tir",
-           "num": "4",
-           "path": "par_117/pkt_6/lit_d/tir_4",
-           "text": "w polu szóstym – NIP;",
-           "children": []
+           "type": "text",
+           "text": "– w polu szóstym – NIP;"
           }
          ]
         }
@@ -11850,25 +11610,16 @@
            "text": "–[^181] w polu drugim – kraj i nazwę rejestru, w którym podmiot jest zarejestrowany,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_124/pkt_3/lit_c/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_124/pkt_3/lit_c/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_124/pkt_3/lit_c/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON,",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON,"
           }
          ]
         },
@@ -11887,25 +11638,16 @@
            "text": "–[^182] w polu drugim – kraj i nazwę rejestru, w którym podmiot jest zarejestrowany,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_124/pkt_3/lit_d/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_124/pkt_3/lit_d/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_124/pkt_3/lit_d/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON;",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON;"
           }
          ]
         }
@@ -12387,32 +12129,20 @@
            "text": "–[^188] w polu drugim – kraj i nazwę rejestru albo ewidencji, w których podmiot jest zarejestrowany,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_126/pkt_6/lit_d/tir_1",
-           "text": "w polu trzecim – numer w rejestrze albo ewidencji, jeżeli został nadany; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze albo ewidencji, jeżeli został nadany; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_126/pkt_6/lit_d/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr albo organu prowadzącego ewidencję,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr albo organu prowadzącego ewidencję,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_126/pkt_6/lit_d/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON,",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON,"
           },
           {
-           "type": "tir",
-           "num": "4",
-           "path": "par_126/pkt_6/lit_d/tir_4",
-           "text": "w polu szóstym – NIP;",
-           "children": []
+           "type": "text",
+           "text": "– w polu szóstym – NIP;"
           }
          ]
         }
@@ -12976,25 +12706,16 @@
            "text": "–[^195] w polu drugim – kraj i nazwę rejestru, w którym podmiot jest zarejestrowany,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_134/pkt_4/lit_c/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_134/pkt_4/lit_c/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_134/pkt_4/lit_c/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON;",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON;"
           }
          ]
         }
@@ -13808,12 +13529,11 @@
            "num": "2",
            "path": "par_143/pkt_1/lit_b/tir_2",
            "text": "w przypadku otwarcia likwidacji uchwałą: organ podejmujący uchwałę, datę podjęcia uchwały, numer uchwały, a jeżeli uchwała została podjęta w formie aktu notarialnego – datę jego sporządzenia, oznaczenie notariusza i numer repertorium,",
-           "children": [
-            {
-             "type": "text",
-             "text": "albo informację o otwarciu likwidacji oddziału lub głównego oddziału bez likwidacji przedsiębiorcy zagranicznego, zagranicznego zakładu ubezpieczeń lub zagranicznego zakładu reasekuracji:"
-            }
-           ]
+           "children": []
+          },
+          {
+           "type": "text",
+           "text": "albo informację o otwarciu likwidacji oddziału lub głównego oddziału bez likwidacji przedsiębiorcy zagranicznego, zagranicznego zakładu ubezpieczeń lub zagranicznego zakładu reasekuracji:"
           },
           {
            "type": "tir",
@@ -14138,41 +13858,27 @@
          "num": "d",
          "path": "par_143/pkt_7/lit_d",
          "text": "w podrubryce pierwszej – dane nadzorcy sądowego, zarządcy, nadzorcy układu wykonującego uprawnienia nadzorcy sądowego oraz osoby powołanej w toku postępowania restrukturyzacyjnego do reprezentowania dłużnika, a w przypadku przymusowej restrukturyzacji – dane administratora lub zastępcy administratora, lub pełnomocnika:[^212]",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "par_143/pkt_7/lit_d/tir_1",
-           "text": "w polu pierwszym – nazwisko, nazwę lub firmę,",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "2",
-           "path": "par_143/pkt_7/lit_d/tir_2",
-           "text": "w polu drugim – imiona,",
-           "children": [
-            {
-             "type": "text",
-             "text": "–[^18] w polu trzecim – numer PESEL lub datę urodzenia lub numer identyfikacyjny REGON,"
-            }
-           ]
-          },
-          {
-           "type": "tir",
-           "num": "3",
-           "path": "par_143/pkt_7/lit_d/tir_3",
-           "text": "w polu czwartym – numer KRS,",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "4",
-           "path": "par_143/pkt_7/lit_d/tir_4",
-           "text": "w polu piątym – funkcję;",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– w polu pierwszym – nazwisko, nazwę lub firmę,"
+        },
+        {
+         "type": "text",
+         "text": "– w polu drugim – imiona,"
+        },
+        {
+         "type": "text",
+         "text": "–[^18] w polu trzecim – numer PESEL lub datę urodzenia lub numer identyfikacyjny REGON,"
+        },
+        {
+         "type": "text",
+         "text": "– w polu czwartym – numer KRS,"
+        },
+        {
+         "type": "text",
+         "text": "– w polu piątym – funkcję;"
         }
        ]
       },
@@ -14453,32 +14159,20 @@
            "text": "–[^216] w polu drugim – kraj i nazwę rejestru albo ewidencji, w których podmiot jest zarejestrowany,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_147/pkt_6/lit_d/tir_1",
-           "text": "w polu trzecim – numer w rejestrze albo ewidencji, jeżeli został nadany; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze albo ewidencji, jeżeli został nadany; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_147/pkt_6/lit_d/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr albo organu prowadzącego ewidencję,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr albo organu prowadzącego ewidencję,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_147/pkt_6/lit_d/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON,",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON,"
           },
           {
-           "type": "tir",
-           "num": "4",
-           "path": "par_147/pkt_6/lit_d/tir_4",
-           "text": "w polu szóstym – NIP;",
-           "children": []
+           "type": "text",
+           "text": "– w polu szóstym – NIP;"
           }
          ]
         }
@@ -14958,32 +14652,20 @@
            "text": "–[^219] w polu drugim – kraj i nazwę rejestru, w którym podmiot jest zarejestrowany,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_156/pkt_8/lit_c/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_156/pkt_8/lit_c/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_156/pkt_8/lit_c/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON,",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON,"
           },
           {
-           "type": "tir",
-           "num": "4",
-           "path": "par_156/pkt_8/lit_c/tir_4",
-           "text": "w polu szóstym – NIP.",
-           "children": []
+           "type": "text",
+           "text": "– w polu szóstym – NIP."
           }
          ]
         }
@@ -15029,12 +14711,11 @@
          "num": "c",
          "path": "par_158/pkt_1/lit_c",
          "text": "w polu trzecim – imiona kierownika,",
-         "children": [
-          {
-           "type": "text",
-           "text": "d)[^18]w polu czwartym – numer PESEL lub datę urodzenia kierownika,"
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "d)[^18]w polu czwartym – numer PESEL lub datę urodzenia kierownika,"
         },
         {
          "type": "lit",
@@ -15331,25 +15012,16 @@
            "text": "–[^222] w polu drugim – kraj i nazwę rejestru, w którym podmiot jest zarejestrowany,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_164/pkt_2/lit_c/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_164/pkt_2/lit_c/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_164/pkt_2/lit_c/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON,",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON,"
           }
          ]
         },
@@ -15368,25 +15040,16 @@
            "text": "–[^223] w polu drugim – kraj i nazwę rejestru, w którym podmiot jest zarejestrowany,"
           },
           {
-           "type": "tir",
-           "num": "1",
-           "path": "par_164/pkt_2/lit_d/tir_1",
-           "text": "w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,",
-           "children": []
+           "type": "text",
+           "text": "– w polu trzecim – numer w rejestrze; jeżeli podmiot jest zarejestrowany w Krajowym Rejestrze Sądowym, wpisuje się numer KRS,"
           },
           {
-           "type": "tir",
-           "num": "2",
-           "path": "par_164/pkt_2/lit_d/tir_2",
-           "text": "w polu czwartym – nazwę sądu prowadzącego rejestr,",
-           "children": []
+           "type": "text",
+           "text": "– w polu czwartym – nazwę sądu prowadzącego rejestr,"
           },
           {
-           "type": "tir",
-           "num": "3",
-           "path": "par_164/pkt_2/lit_d/tir_3",
-           "text": "w polu piątym – numer identyfikacyjny REGON;",
-           "children": []
+           "type": "text",
+           "text": "– w polu piątym – numer identyfikacyjny REGON;"
           }
          ]
         }

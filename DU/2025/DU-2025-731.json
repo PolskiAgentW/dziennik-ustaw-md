@@ -86,30 +86,27 @@
        "text": "do 500 ml – w przypadku nadtlenków organicznych ciekłych",
        "children": [
         {
+         "type": "text",
+         "text": "– pod warunkiem że ich całkowita ilość w obiektach produkcyjnych lub magazynowych nie jest większa odpowiednio niż:"
+        },
+        {
          "type": "tir",
          "num": "1",
          "path": "par_3/pkt_2/lit_b/tir_1",
-         "text": "pod warunkiem że ich całkowita ilość w obiektach produkcyjnych lub magazynowych nie jest większa odpowiednio niż:",
+         "text": "10 kg – w przypadku nadtlenków organicznych typu B,",
          "children": []
         },
         {
          "type": "tir",
          "num": "2",
          "path": "par_3/pkt_2/lit_b/tir_2",
-         "text": "10 kg – w przypadku nadtlenków organicznych typu B,",
+         "text": "20 kg – w przypadku nadtlenków organicznych typu C lub typu D,",
          "children": []
         },
         {
          "type": "tir",
          "num": "3",
          "path": "par_3/pkt_2/lit_b/tir_3",
-         "text": "20 kg – w przypadku nadtlenków organicznych typu C lub typu D,",
-         "children": []
-        },
-        {
-         "type": "tir",
-         "num": "4",
-         "path": "par_3/pkt_2/lit_b/tir_4",
          "text": "50 kg – w przypadku nadtlenków organicznych typu E lub typu F;",
          "children": []
         }
@@ -967,15 +964,11 @@
        "num": "2",
        "path": "par_21/ust_2/pkt_2",
        "text": "który odbywa się w obiektach produkcyjnych lub magazynowych, w których znajdują się nadtlenki typu A lub B",
-       "children": [
-        {
-         "type": "tir",
-         "num": "1",
-         "path": "par_21/ust_2/pkt_2/tir_1",
-         "text": "nie mogą być używane środki transportu napędzane silnikami spalinowymi oraz środki transportu napędzane elektrycznie nieprzystosowane do pracy w przestrzeniach zagrożonych wybuchem.",
-         "children": []
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– nie mogą być używane środki transportu napędzane silnikami spalinowymi oraz środki transportu napędzane elektrycznie nieprzystosowane do pracy w przestrzeniach zagrożonych wybuchem."
       }
      ]
     },

@@ -533,12 +533,11 @@
            "num": "b",
            "path": "par_12/ust_1/pkt_1/lit_b",
            "text": "2,8 m – dla stacji kontroli pojazdów przeprowadzających badania techniczne pojazdów o dopuszczalnej masie całkowitej powyżej 3,5 t oraz przyczep przeznaczonych do łączenia z tymi pojazdami,",
-           "children": [
-            {
-             "type": "text",
-             "text": "przy czym rozstaw krawędzi wewnętrznych powinien odpowiadać szerokości kanału przeglądowego, o której mowa w § 13 ust. 1 pkt 2;"
-            }
-           ]
+           "children": []
+          },
+          {
+           "type": "text",
+           "text": "przy czym rozstaw krawędzi wewnętrznych powinien odpowiadać szerokości kanału przeglądowego, o której mowa w § 13 ust. 1 pkt 2;"
           }
          ]
         },
@@ -560,12 +559,11 @@
            "num": "b",
            "path": "par_12/ust_1/pkt_2/lit_b",
            "text": "8,0 m – dla stacji kontroli pojazdów przeprowadzających badania techniczne pojazdów o dopuszczalnej masie całkowitej powyżej 3,5 t oraz przyczep przeznaczonych do łączenia z tymi pojazdami,",
-           "children": [
-            {
-             "type": "text",
-             "text": "przy czym powinna zapewniać możliwość ustawienia na nich wszystkimi kołami każdego badanego pojazdu oraz umieszczania przed jego przednimi światłami przyrządu do pomiaru ustawienia i światłości świateł pojazdu."
-            }
-           ]
+           "children": []
+          },
+          {
+           "type": "text",
+           "text": "przy czym powinna zapewniać możliwość ustawienia na nich wszystkimi kołami każdego badanego pojazdu oraz umieszczania przed jego przednimi światłami przyrządu do pomiaru ustawienia i światłości świateł pojazdu."
           }
          ]
         }
@@ -922,15 +920,11 @@
          "num": "4",
          "path": "par_14/ust_2/pkt_4",
          "text": "komplet kluczy dynamometrycznych w zakresie od 20 do 400 Nm",
-         "children": [
-          {
-           "type": "tir",
-           "num": "1",
-           "path": "par_14/ust_2/pkt_4/tir_1",
-           "text": "jeżeli zakres badań technicznych prowadzonych przez daną stację wymaga stosowania tych przyrządów i urządzeń.",
-           "children": []
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– jeżeli zakres badań technicznych prowadzonych przez daną stację wymaga stosowania tych przyrządów i urządzeń."
         }
        ]
       },
@@ -2637,41 +2631,27 @@
        "num": "f",
        "path": "ust_4/lit_f",
        "text": "zapewniać drukowanie protokołu pomiarowego, który powinien zawierać co najmniej:[^5]",
-       "children": [
-        {
-         "type": "tir",
-         "num": "1",
-         "path": "ust_4/lit_f/tir_1",
-         "text": "nazwę i adres stacji kontroli pojazdów,",
-         "children": []
-        },
-        {
-         "type": "tir",
-         "num": "2",
-         "path": "ust_4/lit_f/tir_2",
-         "text": "datę i godzinę badania,",
-         "children": []
-        },
-        {
-         "type": "tir",
-         "num": "3",
-         "path": "ust_4/lit_f/tir_3",
-         "text": "dane pojazdu (rodzaj, markę, typ/model, datę pierwszej rejestracji, nr rejestracyjny),",
-         "children": []
-        },
-        {
-         "type": "tir",
-         "num": "4",
-         "path": "ust_4/lit_f/tir_4",
-         "text": "wyniki pomiarów (jeżeli program automatycznie ocenia prawidłowość geometrii ustawienia kół i osi pojazdu, to ocena ta powinna być zgodna z przepisami rozporządzenia w sprawie zakresu i sposobu przeprowadzania badań technicznych pojazdów oraz wzorów dokumentów stosowanych przy tych badaniach).",
-         "children": [
-          {
-           "type": "text",
-           "text": "4.1.3. Obrotnice i płyty wyrównawcze powinny:"
-          }
-         ]
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– nazwę i adres stacji kontroli pojazdów,"
+      },
+      {
+       "type": "text",
+       "text": "– datę i godzinę badania,"
+      },
+      {
+       "type": "text",
+       "text": "– dane pojazdu (rodzaj, markę, typ/model, datę pierwszej rejestracji, nr rejestracyjny),"
+      },
+      {
+       "type": "text",
+       "text": "– wyniki pomiarów (jeżeli program automatycznie ocenia prawidłowość geometrii ustawienia kół i osi pojazdu, to ocena ta powinna być zgodna z przepisami rozporządzenia w sprawie zakresu i sposobu przeprowadzania badań technicznych pojazdów oraz wzorów dokumentów stosowanych przy tych badaniach)."
+      },
+      {
+       "type": "text",
+       "text": "4.1.3. Obrotnice i płyty wyrównawcze powinny:"
       },
       {
        "type": "lit",

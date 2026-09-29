@@ -756,58 +756,38 @@
        "num": "j",
        "path": "ust_1/lit_j",
        "text": "miejsce urodzenia / place of birth / место рождения",
-       "children": [
-        {
-         "type": "tir",
-         "num": "1",
-         "path": "ust_1/lit_j/tir_1",
-         "text": "kraj / country / страна",
-         "children": []
-        },
-        {
-         "type": "tir",
-         "num": "2",
-         "path": "ust_1/lit_j/tir_2",
-         "text": "region (prowincja) / region (province) / область (провинция)",
-         "children": []
-        },
-        {
-         "type": "tir",
-         "num": "3",
-         "path": "ust_1/lit_j/tir_3",
-         "text": "miejscowość / town(city) / населенный пункт",
-         "children": []
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– kraj / country / страна"
+      },
+      {
+       "type": "text",
+       "text": "– region (prowincja) / region (province) / область (провинция)"
+      },
+      {
+       "type": "text",
+       "text": "– miejscowość / town(city) / населенный пункт"
       },
       {
        "type": "lit",
        "num": "k",
        "path": "ust_1/lit_k",
        "text": "rysopis / description / cловесный портрет",
-       "children": [
-        {
-         "type": "tir",
-         "num": "1",
-         "path": "ust_1/lit_k/tir_1",
-         "text": "wzrost / height / pост cm",
-         "children": []
-        },
-        {
-         "type": "tir",
-         "num": "2",
-         "path": "ust_1/lit_k/tir_2",
-         "text": "kolor oczu / colour of eyes / цвет глаз",
-         "children": []
-        },
-        {
-         "type": "tir",
-         "num": "3",
-         "path": "ust_1/lit_k/tir_3",
-         "text": "znaki szczególne / special marks / особые приметы",
-         "children": []
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– wzrost / height / pост cm"
+      },
+      {
+       "type": "text",
+       "text": "– kolor oczu / colour of eyes / цвет глаз"
+      },
+      {
+       "type": "text",
+       "text": "– znaki szczególne / special marks / особые приметы"
       },
       {
        "type": "lit",
@@ -962,31 +942,23 @@
        "num": "t",
        "path": "ust_1/lit_t",
        "text": "znajomość języków / knowledge of languages / знание языков",
-       "children": [
-        {
-         "type": "tir",
-         "num": "1",
-         "path": "ust_1/lit_t/tir_1",
-         "text": "ojczysty / mother tongue / pодной",
-         "children": []
-        },
-        {
-         "type": "tir",
-         "num": "2",
-         "path": "ust_1/lit_t/tir_2",
-         "text": "inne (dotyczy języków, w których małżonek wnioskodawcy jest w stanie swobodnie się porozumieć) / others (it applies to the languages in which the applicant’s spouse is able to communicate naturally) / другие (касается языков, на которых супруг(а) заявителя может свободно общаться)",
-         "children": [
-          {
-           "type": "text",
-           "text": "............................................................................................................................................................................................................."
-          },
-          {
-           "type": "text",
-           "text": "............................................................................................................................................................................................................."
-          }
-         ]
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– ojczysty / mother tongue / pодной"
+      },
+      {
+       "type": "text",
+       "text": "– inne (dotyczy języków, w których małżonek wnioskodawcy jest w stanie swobodnie się porozumieć) / others (it applies to the languages in which the applicant’s spouse is able to communicate naturally) / другие (касается языков, на которых супруг(а) заявителя может свободно общаться)"
+      },
+      {
+       "type": "text",
+       "text": "............................................................................................................................................................................................................."
+      },
+      {
+       "type": "text",
+       "text": "............................................................................................................................................................................................................."
       }
      ]
     },
@@ -1432,108 +1404,87 @@
        "num": "d",
        "path": "ust_2/lit_d",
        "text": "Aktualne lub deklarowane miejsce pobytu na terytorium Rzeczypospolitej Polskiej / The current or declared place of residence on the territory of the Republic of Poland / Актуальное или декларируемое место жительства на территории Республики Польша",
-       "children": [
-        {
-         "type": "tir",
-         "num": "1",
-         "path": "ust_2/lit_d/tir_1",
-         "text": "ośrodek recepcyjny w ………………………………….…………. / reception centre in …………………………… /",
-         "children": [
-          {
-           "type": "text",
-           "text": "центр приема в …………………………………………………"
-          }
-         ]
-        },
-        {
-         "type": "tir",
-         "num": "2",
-         "path": "ust_2/lit_d/tir_2",
-         "text": "strzeżony ośrodek dla cudzoziemców w …………………………………..…………………….….. / guarded centre for",
-         "children": [
-          {
-           "type": "text",
-           "text": "foreigners in ………….…..…………………………………………………….… / oхраняемый пункт для иностранцев"
-          },
-          {
-           "type": "text",
-           "text": "в ………………………………………………..……."
-          }
-         ]
-        },
-        {
-         "type": "tir",
-         "num": "3",
-         "path": "ust_2/lit_d/tir_3",
-         "text": "areszt dla cudzoziemców w ……………………………………………………………. / detention centre for foreigners",
-         "children": [
-          {
-           "type": "text",
-           "text": "in …….…..……………………………………… / арест для иностранцев в ………...…………………………………"
-          }
-         ]
-        },
-        {
-         "type": "tir",
-         "num": "4",
-         "path": "ust_2/lit_d/tir_4",
-         "text": "inne miejsce pobytu / other place of residence / другое место пребывания",
-         "children": [
-          {
-           "type": "text",
-           "text": "miejscowość / town (city) / населенный пункт"
-          },
-          {
-           "type": "text",
-           "text": "ulica / street / yлица"
-          },
-          {
-           "type": "text",
-           "text": "numer domu / house number / номер дома"
-          },
-          {
-           "type": "text",
-           "text": "numer mieszkania / apartment number / номер квартиры"
-          },
-          {
-           "type": "text",
-           "text": "kod pocztowy / postal code / почтовый индекс –"
-          },
-          {
-           "type": "text",
-           "text": "Określenie miejsca pobytu (mieszkanie prywatne, hotel, dom studencki) / Type of the place of residence (private apartment, hotel, student's hostel) / Определение места проживания (частная квартира, гостиница, студенческое общежитие)"
-          }
-         ]
-        },
-        {
-         "type": "tir",
-         "num": "5",
-         "path": "ust_2/lit_d/tir_5",
-         "text": "adres do korespondencji, jeżeli jest inny niż wyżej wymieniony / mailing address (if other than mentioned above) / aдрес для переписки (если отличается от указанного выше)",
-         "children": [
-          {
-           "type": "text",
-           "text": "miejscowość / town (city) / населенный пункт"
-          },
-          {
-           "type": "text",
-           "text": "ulica / street / улица"
-          },
-          {
-           "type": "text",
-           "text": "numer domu / house number / номер дома"
-          },
-          {
-           "type": "text",
-           "text": "numer mieszkania / apartment number / номер квартиры"
-          },
-          {
-           "type": "text",
-           "text": "kod pocztowy / postal code / почтовый индекс –"
-          }
-         ]
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– ośrodek recepcyjny w ………………………………….…………. / reception centre in …………………………… /"
+      },
+      {
+       "type": "text",
+       "text": "центр приема в …………………………………………………"
+      },
+      {
+       "type": "text",
+       "text": "– strzeżony ośrodek dla cudzoziemców w …………………………………..…………………….….. / guarded centre for"
+      },
+      {
+       "type": "text",
+       "text": "foreigners in ………….…..…………………………………………………….… / oхраняемый пункт для иностранцев"
+      },
+      {
+       "type": "text",
+       "text": "в ………………………………………………..……."
+      },
+      {
+       "type": "text",
+       "text": "– areszt dla cudzoziemców w ……………………………………………………………. / detention centre for foreigners"
+      },
+      {
+       "type": "text",
+       "text": "in …….…..……………………………………… / арест для иностранцев в ………...…………………………………"
+      },
+      {
+       "type": "text",
+       "text": "– inne miejsce pobytu / other place of residence / другое место пребывания"
+      },
+      {
+       "type": "text",
+       "text": "miejscowość / town (city) / населенный пункт"
+      },
+      {
+       "type": "text",
+       "text": "ulica / street / yлица"
+      },
+      {
+       "type": "text",
+       "text": "numer domu / house number / номер дома"
+      },
+      {
+       "type": "text",
+       "text": "numer mieszkania / apartment number / номер квартиры"
+      },
+      {
+       "type": "text",
+       "text": "kod pocztowy / postal code / почтовый индекс –"
+      },
+      {
+       "type": "text",
+       "text": "Określenie miejsca pobytu (mieszkanie prywatne, hotel, dom studencki) / Type of the place of residence (private apartment, hotel, student's hostel) / Определение места проживания (частная квартира, гостиница, студенческое общежитие)"
+      },
+      {
+       "type": "text",
+       "text": "– adres do korespondencji, jeżeli jest inny niż wyżej wymieniony / mailing address (if other than mentioned above) / aдрес для переписки (если отличается от указанного выше)"
+      },
+      {
+       "type": "text",
+       "text": "miejscowość / town (city) / населенный пункт"
+      },
+      {
+       "type": "text",
+       "text": "ulica / street / улица"
+      },
+      {
+       "type": "text",
+       "text": "numer domu / house number / номер дома"
+      },
+      {
+       "type": "text",
+       "text": "numer mieszkania / apartment number / номер квартиры"
+      },
+      {
+       "type": "text",
+       "text": "kod pocztowy / postal code / почтовый индекс –"
       }
      ]
     },
@@ -1548,39 +1499,27 @@
        "num": "a",
        "path": "ust_3/lit_a",
        "text": "karta pobytu / residence card / вид на жительство",
-       "children": [
-        {
-         "type": "tir",
-         "num": "1",
-         "path": "ust_3/lit_a/tir_1",
-         "text": "seria / series / серия",
-         "children": [
-          {
-           "type": "text",
-           "text": "13"
-          }
-         ]
-        },
-        {
-         "type": "tir",
-         "num": "2",
-         "path": "ust_3/lit_a/tir_2",
-         "text": "numer / number / номер",
-         "children": [
-          {
-           "type": "text",
-           "text": "/ / – data wydania / date of issue / дата выдачи rok / year / год miesiąc / month dzień / day / / месяц день / / – data upływu ważności / expiry date / дата rok / year / год miesiąc / month dzień / day / истечения срока действия / месяц день"
-          }
-         ]
-        },
-        {
-         "type": "tir",
-         "num": "3",
-         "path": "ust_3/lit_a/tir_3",
-         "text": "organ wydający / issuing authority / орган выдачи документa",
-         "children": []
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– seria / series / серия"
+      },
+      {
+       "type": "text",
+       "text": "13"
+      },
+      {
+       "type": "text",
+       "text": "– numer / number / номер"
+      },
+      {
+       "type": "text",
+       "text": "/ / – data wydania / date of issue / дата выдачи rok / year / год miesiąc / month dzień / day / / месяц день / / – data upływu ważności / expiry date / дата rok / year / год miesiąc / month dzień / day / истечения срока действия / месяц день"
+      },
+      {
+       "type": "text",
+       "text": "– organ wydający / issuing authority / орган выдачи документa"
       },
       {
        "type": "lit",
@@ -2365,32 +2304,24 @@
        "text": "Czy wniosek został przyjęty / Was the application accepted / Принята ли заявка"
       },
       {
-       "type": "tir",
-       "num": "1",
-       "path": "ust_10/tir_1",
-       "text": "po przekazaniu w trybie określonym w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 604/2013 z dnia 26 czerwca 2013 r. w sprawie ustanowienia kryteriów i mechanizmów ustalania państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej złożonego w jednym z państw członkowskich przez obywatela państwa trzeciego lub bezpaństwowca (wersja przekształcona) / after the transfer according to the regulation (UE) No 604/2013 of the European Parliament and of the Council of 26 June 2013 establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection lodged in one of the Member States by a third-country national or a stateless person (recast) / после передачи в порядке согласно постановлению (EC) № 604/2013 Европейского Парламента и Совета от 26 июня 2013 года по делу установления критерий и механизмов определения государства-члена, ответственного за рассмотрение заявления на предоставление международной защиты, поданного в одном из государств-членов гражданином третьего государства или лицом без гражданства (преработанный текст)",
-       "children": [
-        {
-         "type": "text",
-         "text": "tak / yes / да nie / no / нет"
-        }
-       ]
+       "type": "text",
+       "text": "– po przekazaniu w trybie określonym w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 604/2013 z dnia 26 czerwca 2013 r. w sprawie ustanowienia kryteriów i mechanizmów ustalania państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej złożonego w jednym z państw członkowskich przez obywatela państwa trzeciego lub bezpaństwowca (wersja przekształcona) / after the transfer according to the regulation (UE) No 604/2013 of the European Parliament and of the Council of 26 June 2013 establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection lodged in one of the Member States by a third-country national or a stateless person (recast) / после передачи в порядке согласно постановлению (EC) № 604/2013 Европейского Парламента и Совета от 26 июня 2013 года по делу установления критерий и механизмов определения государства-члена, ответственного за рассмотрение заявления на предоставление международной защиты, поданного в одном из государств-членов гражданином третьего государства или лицом без гражданства (преработанный текст)"
       },
       {
-       "type": "tir",
-       "num": "2",
-       "path": "ust_10/tir_2",
-       "text": "po przekazaniu w trybie readmisji / after the transfer on the basis of readmission / после передачи на основе «readmission»",
-       "children": [
-        {
-         "type": "text",
-         "text": "tak / yes / да nie / no / нет"
-        },
-        {
-         "type": "text",
-         "text": "Czy wnioskodawca lub osoby, w imieniu których wnioskodawca występuje, mogą kwalifikować się jako: / May the applicant or the persons on behalf of whom the applicant is acting be qualified as: / Может ли быть заявитель или лица от имени которых заявитель выступает квалифицированы как:"
-        }
-       ]
+       "type": "text",
+       "text": "tak / yes / да nie / no / нет"
+      },
+      {
+       "type": "text",
+       "text": "– po przekazaniu w trybie readmisji / after the transfer on the basis of readmission / после передачи на основе «readmission»"
+      },
+      {
+       "type": "text",
+       "text": "tak / yes / да nie / no / нет"
+      },
+      {
+       "type": "text",
+       "text": "Czy wnioskodawca lub osoby, w imieniu których wnioskodawca występuje, mogą kwalifikować się jako: / May the applicant or the persons on behalf of whom the applicant is acting be qualified as: / Может ли быть заявитель или лица от имени которых заявитель выступает квалифицированы как:"
       },
       {
        "type": "pkt",
