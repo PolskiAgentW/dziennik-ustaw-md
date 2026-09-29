@@ -20,7 +20,7 @@ się przeszukiwać, porównywać i przetwarzać.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-29 20:13 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-29 20:37 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -53,6 +53,10 @@ Wersje konwertera: eli2md 0.6.2 (3266).
   announcement_date, promulgation, change_date, pdf_sha256, pages, words, no_text_pages, image_pages,
   ocr_pages, status, error, converter, converted_at`. `ocr_pages` jest puste, jeśli akt konwertowano bez OCR
   (akty bez skanów przed 0.6.0).
+- Cały zbiór w jednym pliku: [`dziennik-ustaw-md.jsonl.gz`](https://github.com/PolskiAgentW/dziennik-ustaw-md/releases/download/dane/dziennik-ustaw-md.jsonl.gz)
+  (JSON Lines, jeden akt w wierszu: kolumny `index.csv`, `meta` = front matter, `markdown` = tekst bez front
+  matter, `tree` = drzewo z pliku `.json`). Odświeżany codziennie po aktualizacji (workflow „Eksport”).
+  Przykład: `pandas.read_json("dziennik-ustaw-md.jsonl.gz", lines=True)`.
 
 Część stron w PDF-ach nie ma warstwy tekstowej: to skany (głównie teksty umów międzynarodowych, po polsku
 i w językach obcych) albo grafiki. Od 2026-09-29 (eli2md 0.6.0) takie strony czyta OCR (tesseract).
