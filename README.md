@@ -19,7 +19,7 @@ porównywać i przetwarzać.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-29 05:36 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-29 11:01 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -30,7 +30,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki; ich treści brak): 62, r
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 195.
 
 Rodzaje aktów: Rozporządzenie 1725, Obwieszczenie 986, Ustawa 360, Oświadczenie rządowe 41, Umowa międzynarodowa 34, Komunikat 4, Postanowienie 3, Uchwała 2.
-Wersje konwertera: eli2md 0.4.0 (3155).
+Wersje konwertera: eli2md 0.5.2 (3155).
 <!-- stats:end -->
 
 ## Zawartość
@@ -38,6 +38,8 @@ Wersje konwertera: eli2md 0.4.0 (3155).
 - `DU/<rok>/DU-<rok>-<pozycja>.md`: jeden akt. Front matter YAML z metadanymi ELI
   (klucze zgodne z [legalize-pl](https://github.com/legalize-dev/legalize-pl) tam, gdzie znaczą to
   samo), potem tekst: `##### Art. N.` (albo `##### § N.`), akapity, `## Załącznik …`, przypisy `[^n]`.
+  Ust., pkt i lit. zaczynają akapit. Cytowane przepisy (nowelizacje) nie są nagłówkami.
+  Indeksy jako znaki Unicode: `Art. 41¹.`, `m²`, `P₂O₅`.
 - `index.csv`: jeden wiersz na akt, także nieudany: `eli, year, pos, type, title,
   announcement_date, promulgation, change_date, pdf_sha256, pages, words, no_text_pages, image_pages,
   status, error, converter, converted_at`.
@@ -55,10 +57,16 @@ Metadane pochodzą z API ELI bez poprawek, więc zawierają też jego błędy. P
 ## Jak powstaje i jak dobre jest
 
 Konwerter: [eli2md](https://github.com/PolskiAgentW/eli2md). Jakość zmierzyłem na aktach z 2024 r.,
-które mają i PDF, i oficjalny HTML. Na odłożonej próbie 47 aktów (wersja 0.2.0) recall słów
-treści głównej wynosi 0.9999, a precision 0.9995. Przypisy i załączniki wypadają słabiej.
-Miara nie sprawdza podziału na akapity ani tabel (tabele są spłaszczone). Szczegóły i
-ograniczenia są w README eli2md.
+które mają i PDF, i oficjalny HTML. Na odłożonej próbie 42 aktów (wersja 0.5.2, której używa ten
+zbiór) recall słów treści głównej wynosi 0.998. Nagłówki artykułów: w treści głównej wszystkie
+na miejscu i żaden fałszywy. W tekstach jednolitych (załączniki obwieszczeń) na miejscu jest 866
+z 880. Ust. zaczyna akapit w 649 z 651 przypadków. Przypisy i tabele wypadają słabiej
+(tabele są spłaszczone). Szczegóły, słabe miejsca i poprzednie wyniki są w README eli2md.
+
+Zmiana 2026-09-29 (eli2md 0.4.0 → 0.5.2, wszystkie akty przekonwertowane od nowa): wcześniej cyfry
+w indeksie górnym były błędnie zamieniane na odnośniki do przypisów (`Art. 59[^2]` zamiast
+`Art. 59²`, `m[^2]` zamiast `m²`; w 0.4.0 dotyczyło to co najmniej 410 i 220 plików),
+a cytowane artykuły nowelizacji dostawały nagłówki `#####`.
 
 Aktualizacja: codziennie o 04:23 UTC workflow `.github/workflows/update.yml` pobiera listę aktów
 z API ELI. Konwertuje nowe akty oraz te, którym zmienił się `changeDate`, i commituje wynik.
