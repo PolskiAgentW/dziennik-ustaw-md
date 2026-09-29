@@ -1,0 +1,776 @@
+{
+ "eli": "DU/2026/1265",
+ "title": "Rozporządzenie Ministra Cyfryzacji z dnia 16 września 2026 r. w sprawie szczegółowych wymagań dotyczących adresowania dla właściwego kierowania połączeń, numeracji punktów sygnalizacyjnych oraz tworzenia i udostępniania znaków identyfikujących abonenta",
+ "converter": "eli2md 0.5.3",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1265/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA CYFRYZACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 września 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie szczegółowych wymagań dotyczących adresowania dla właściwego kierowania połączeń, numeracji punktów sygnalizacyjnych oraz tworzenia i udostępniania znaków identyfikujących abonenta"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 162 ust. 4 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221, z 2025 r. poz. 637 i 820 oraz z 2026 r. poz. 252 i 815) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Szczegółowe wymagania dotyczące adresowania dla właściwego kierowania połączeń, numeracji punktów sygnalizacyjnych oraz tworzenia i udostępniania znaków identyfikujących abonenta określa załącznik do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 października 2026 r., z wyjątkiem pkt 4 ppkt 2, pkt 5 ppkt 1 w zakresie, w jakim dotyczy sieci wykorzystujących protokół sygnalizacyjny SIP, oraz pkt 5 ppkt 2 załącznika do rozporządzenia, które wchodzą w życie z dniem 1 września 2027 r.[^2]",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Cyfryzacji: K. Gawkowski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Cyfryzacji z dnia 16 września 2026 r. (Dz. U. poz. 1265)",
+   "body": [
+    {
+     "type": "text",
+     "text": "SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE ADRESOWANIA DLA WŁAŚCIWEGO KIEROWANIA POŁĄCZEŃ, NUMERACJI PUNKTÓW SYGNALIZACYJNYCH ORAZ TWORZENIA I UDOSTĘPNIANIA ZNAKÓW IDENTYFIKUJĄCYCH ABONENTA"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Użyte w załączniku pojęcia i skróty oznaczają:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "abonent A – użytkownik inicjujący połączenie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "AB – wskaźnik strefy numeracyjnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "abonent B – adresat, do którego jest kierowane połączenie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "adresowanie metodą „en–bloc” – sposób adresowania polegający na równoczesnym przekazywaniu wszystkich cyfr numeru abonenta przez umieszczenie ich w jednym bloku wiadomości przesyłanych w procesie zestawiania połączenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "numer AUS – numery abonenckich usług specjalnych, przeznaczone dla usług świadczonych w sieci stacjonarnej, polegających na udzielaniu różnych informacji, przyjmowaniu zleceń oraz całodobowym przyjmowaniu wywołań kierowanych na numery alarmowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "„C hex” – parametr adresacyjny wykorzystywany w procesie kierowania połączeń, którego wartość jest przedstawiana w systemie szesnastkowym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_1/pkt_7",
+       "text": "CLIR (Calling Line Identification Restriction) – mechanizm stosowany w publicznych sieciach telekomunikacyjnych umożliwiający ograniczenie prezentacji informacji adresowej identyfikującej abonenta A; mechanizm ten nie wpływa na przekazywanie informacji adresowej między elementami sieci niezbędnej dla właściwego kierowania połączeń;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_1/pkt_8",
+       "text": "DNS – rozproszony system adresacji wykorzystywany w procesie kierowania połączeń w sieciach IP, służący do odwzorowywania numerów i identyfikatorów logicznych na adresy i parametry sieciowe węzłów publicznych sieci telekomunikacyjnych realizujących zestawianie połączeń;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_1/pkt_9",
+       "text": "FQDN – pełna, jednoznaczna nazwa domenowa, określająca położenie danego węzła publicznej sieci telekomunikacyjnej w systemie DNS;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_1/pkt_10",
+       "text": "HOST – ID – numer centrali albo innego węzła publicznej sieci telekomunikacyjnej, który obsługuje lokalizację abonenta z przeniesionym numerem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_1/pkt_11",
+       "text": "ISPC – numer międzynarodowego punktu sygnalizacyjnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_1/pkt_12",
+       "text": "karta SIM (Subscriber Identity Module) – wielofunkcyjna, inteligentna karta identyfikacyjna;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "ust_1/pkt_13",
+       "text": "KNA – krajowy numer abonenta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "ust_1/pkt_14",
+       "text": "nagłówki P-Asserted-Identity oraz Privacy – informacje adresowe abonenta przenoszone przez sieć SIP z wykorzystaniem mechanizmów zawartych w zaleceniach dotyczących SIP opublikowanych przez IETF (Internet Engineering Task Force) RFC 3325[^1] oraz RFC 3323[^2], wydanych w 2002 r.;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "ust_1/pkt_15",
+       "text": "nagłówek From – informacja adresowa abonenta przenoszona przez sieć SIP z wykorzystaniem mechanizmów zawartych w zaleceniu dotyczącym SIP opublikowanym przez IETF w dokumencie RFC 3261[^3], wydanym w 2002 r.;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "ust_1/pkt_16",
+       "text": "NKA – numer kierowania alarmowego związany z położeniem abonenta w obszarze gminy wykorzystywany do realizowania połączeń do numerów alarmowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "ust_1/pkt_17",
+       "text": "NSPC – numer krajowego punktu sygnalizacyjnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "ust_1/pkt_18",
+       "text": "numer alarmowy – trzycyfrowy numer AUS lub wspólny numer alarmowy 112;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "19",
+       "path": "ust_1/pkt_19",
+       "text": "NR – numer rutingowy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "ust_1/pkt_20",
+       "text": "parametr Called Party Number – parametr stosowany w Systemie Sygnalizacji ITU-T nr 7 (SS7), zawarty w wiadomości IAM, zawierający w szczególności zakodowany numer abonenta wywoływanego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "21",
+       "path": "ust_1/pkt_21",
+       "text": "parametr NoA (Nature of Address) – wskaźnik określający typ adresu (numeru telefonu) przesyłanego w sygnalizacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "22",
+       "path": "ust_1/pkt_22",
+       "text": "pole To – składowa część wiadomości INVITE zawierająca numer abonenta B;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "23",
+       "path": "ust_1/pkt_23",
+       "text": "protokół ISUP (ISDN User Part) – część Systemu Sygnalizacji ITU-T nr 7 (Signaling System 7 – SS7), odpowiadająca za ustalanie, zarządzanie i zwalnianie połączeń w sieci publicznej PSTN oraz w sieciach ISDN;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "24",
+       "path": "ust_1/pkt_24",
+       "text": "Request URI – pole w wiadomości INVITE zawierające numer abonenta B;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "25",
+       "path": "ust_1/pkt_25",
+       "text": "SIP – protokół sygnalizacyjny służący do inicjowania, modyfikowania i kończenia sesji komunikacyjnych w sieciach opartych na protokole internetowym (Internet Protocol);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "26",
+       "path": "ust_1/pkt_26",
+       "text": "SN – strefa numeracyjna dla części obszaru kraju będąca częścią stacjonarnej publicznej sieci telekomunikacyjnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "27",
+       "path": "ust_1/pkt_27",
+       "text": "wiadomość IAM (Initial Address Message) – wiadomość zawarta w ISUP, przesyłana w procesie zestawiania połączenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "28",
+       "path": "ust_1/pkt_28",
+       "text": "wiadomość INVITE – wiadomość zawarta w SIP przesyłana między urządzeniami w celu zestawienia połączenia między nimi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "29",
+       "path": "ust_1/pkt_29",
+       "text": "znak identyfikujący abonenta A – informacja adresowa identyfikująca abonenta inicjującego połączenie, obejmująca KNA;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "30",
+       "path": "ust_1/pkt_30",
+       "text": "znak identyfikujący abonenta B – informacja adresowa identyfikująca abonenta wywoływanego w procesie zestawiania i kierowania połączeń, obejmująca KNA;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "31",
+       "path": "ust_1/pkt_31",
+       "text": "ZT – HOST – ID danej SN (dla danego wskaźnika strefy numeracyjnej AB).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Informacja adresowa o numerze abonenta A jest niezmienna na całej drodze połączeniowej od pierwszej centrali operatorskiej obsługującej abonenta, z wyjątkiem przypadków określonych w pkt 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Numer zastępujący numer abonenta A (numer techniczny) jest wykorzystywany przy realizowaniu połączenia na numery alarmowe:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "z telekomunikacyjnego urządzenia końcowego bez użycia przez użytkownika karty SIM;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "z użyciem przez abonenta A karty SIM zalogowanej w sieci innej niż sieć wykorzystywana przez dostawcę usług, z którym abonent A zawarł umowę o świadczenie usług komunikacji elektronicznej, w przypadku braku zasięgu tej sieci.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Szczegółowe wymagania dotyczące adresowania dla właściwego kierowania połączeń w zakresie użycia NR:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_4/pkt_1",
+       "text": "w sieciach wykorzystujących ISUP:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_4/pkt_1/lit_a",
+         "text": "NR zamieszcza się w parametrze Called Party Number wiadomości IAM przed numerem abonenta B (tryb połączony „concatenated”),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_4/pkt_1/lit_b",
+         "text": "parametr NoA przyjmuje wartość 3,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_4/pkt_1/lit_c",
+         "text": "stosuje się adresowanie metodą „en–bloc”,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_4/pkt_1/lit_d",
+         "text": "NR dołącza się po odpytaniu bazy dla numerów przeniesionych; dopuszcza się dołączenie NR po odpytaniu bazy dla numerów nieprzeniesionych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "w sieciach wykorzystujących SIP:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_4/pkt_2/lit_a",
+         "text": "NR zamieszcza się w wiadomości INVITE w polach To oraz Request URI,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_4/pkt_2/lit_b",
+         "text": "abonent B jest identyfikowany w następujący sposób:",
+         "children": [
+          {
+           "type": "text",
+           "text": "sip:<NR><KNA>;phone-context=+48@hostname;user=phone"
+          },
+          {
+           "type": "text",
+           "text": "lub"
+          },
+          {
+           "type": "text",
+           "text": "sip:<NR><KNA>@domena;user=phone"
+          },
+          {
+           "type": "text",
+           "text": "gdzie:"
+          },
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "ust_4/pkt_2/lit_b/tir_1",
+           "text": "parametr user=phone jest obowiązkowy,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "ust_4/pkt_2/lit_b/tir_2",
+           "text": "hostname może mieć formę nazwy domenowej lub adresu IP, ustalonych na styku systemów przez operatorów tych systemów,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "ust_4/pkt_2/lit_b/tir_3",
+           "text": "domena: FQDN; w przypadku gdy węzeł końcowy nie ma zarejestrowanej nazwy domenowej, dopuszcza się stosowanie adresu IP;",
+           "children": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_4/pkt_3",
+       "text": "ustala się następujący format NR:",
+       "children": [
+        {
+         "type": "text",
+         "text": "NR (5 cyfr) = „C hex” + XYZT, gdzie:"
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_4/pkt_3/lit_a",
+         "text": "dla numerów geograficznych:",
+         "children": [
+          {
+           "type": "text",
+           "text": "XY = AB = wskaźnik SN (X = 1–9),"
+          },
+          {
+           "type": "text",
+           "text": "ZT = HOST – ID w danej SN (dla danego AB); po dojściu ZT do wartości 99 ustala się inny wolny AB dla danej strefy numeracyjnej (SN),"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_4/pkt_3/lit_b",
+         "text": "dla numerów niegeograficznych:",
+         "children": [
+          {
+           "type": "text",
+           "text": "XYZT = numer sieci (X = 0)."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Szczegółowe wymagania dotyczące adresowania dla właściwego kierowania połączeń do numerów alarmowych oraz format NKA:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_5/pkt_1",
+       "text": "w sieciach wykorzystujących ISUP albo SIP:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_5/pkt_1/lit_a",
+         "text": "połączenia do numerów alarmowych mogą być realizowane po odebraniu numeru w formatach:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "ust_5/pkt_1/lit_a/tir_1",
+           "text": "XYZ (3 cyfry) – z łącza abonenckiego,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "ust_5/pkt_1/lit_a/tir_2",
+           "text": "WSNd (2 cyfry) + „C hex” + IDL (3 cyfry) + XYZ (3 cyfry) – z łącza między elementami sieci telekomunikacyjnej, w tym z łącza międzyoperatorskiego,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_5/pkt_1/lit_b",
+         "text": "NKA jest wprowadzany w elemencie sieci telekomunikacyjnej obsługującej zakończenie sieci, z którego nastąpiło wywołanie alarmowe,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_5/pkt_1/lit_c",
+         "text": "w elemencie sieci telekomunikacyjnej obsługującym zakończenie sieci, z którego nastąpiło wywołanie alarmowe, następuje konwersja z numeru alarmowego odebranego od abonenta na numer w formacie WSNd + „C hex” + IDL + XYZ,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_5/pkt_1/lit_d",
+         "text": "NKA jest niezmienny na całej drodze połączeniowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_5/pkt_1/lit_e",
+         "text": "zamiana NKA na KNA (numer podkładowy) może nastąpić w elemencie sieci telekomunikacyjnej bezpośrednio obsługującej jednostkę, do której jest kierowane wywołanie alarmowe na numer alarmowy;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "w sieciach wykorzystujących SIP:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_5/pkt_2/lit_a",
+         "text": "NKA umieszcza się w wiadomości INVITE w polach To oraz Request URI,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_5/pkt_2/lit_b",
+         "text": "abonent B jest identyfikowany w następujący sposób:",
+         "children": [
+          {
+           "type": "text",
+           "text": "sip:<NKA>;phone-context=+48@hostname;user=phone"
+          },
+          {
+           "type": "text",
+           "text": "lub"
+          },
+          {
+           "type": "text",
+           "text": "sip:<NKA>@domena;user=phone"
+          },
+          {
+           "type": "text",
+           "text": "gdzie:"
+          },
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "ust_5/pkt_2/lit_b/tir_1",
+           "text": "parametr user=phone jest obowiązkowy,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "ust_5/pkt_2/lit_b/tir_2",
+           "text": "hostname może mieć formę nazwy domenowej lub adresu IP, ustalonych na styku systemów przez operatorów tych systemów,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "ust_5/pkt_2/lit_b/tir_3",
+           "text": "domena: FQDN; w przypadku, gdy węzeł końcowy nie ma zarejestrowanej nazwy domenowej, dopuszcza się stosowanie adresu IP;",
+           "children": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "ustala się następujący format NKA:",
+       "children": [
+        {
+         "type": "text",
+         "text": "NKA = WSNd (2 cyfry) + „C hex” + IDL (3 cyfry) + XYZ (3 cyfry),"
+        },
+        {
+         "type": "text",
+         "text": "gdzie:"
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_5/pkt_3/lit_a",
+         "text": "WSNd (Wskaźnik Strefy Numeracyjnej docelowej) – oznacza strefę numeracyjną, w jakiej znajduje się jednostka, do której jest kierowane wywołanie alarmowe,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_5/pkt_3/lit_b",
+         "text": "IDL (Identyfikator Docelowej Lokalizacji) – wskazuje jednostkę, do której jest kierowane wywołanie alarmowe, występującą w danej lokalizacji w danej strefie numeracyjnej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_5/pkt_3/lit_c",
+         "text": "XYZ – oznacza wybrany trzycyfrowy numer AUS albo numer alarmowy 112;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_5/pkt_4",
+       "text": "w przypadku wystąpienia awarii:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_5/pkt_4/lit_a",
+         "text": "operator bezpośrednio obsługujący jednostkę służby alarmowej przyjmującą połączenia do numeru alarmowego na czas trwania awarii adresuje połączenia na podstawie aktualnych danych otrzymanych od obsługiwanej jednostki służby alarmowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_5/pkt_4/lit_b",
+         "text": "adresowanie następuje do lokalizacji zastępczej, innej jednostki służby alarmowej lub numeru alternatywnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_5/pkt_4/lit_c",
+         "text": "adresowanie do lokalizacji zastępczej, innej jednostki służby alarmowej lub numeru alternatywnego nie może trwać dłużej niż 7 dni kalendarzowych.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Szczegółowe wymagania dotyczące prezentacji informacji adresowej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_6/pkt_1",
+       "text": "dla sieci wykorzystujących SIP:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_6/pkt_1/lit_a",
+         "text": "informacja adresowa o numerze abonenta A jest przesyłana w nagłówku P-Asserted-Identity z informacją o zastrzeżeniu prezentacji numeru przesłanym w nagłówku Privacy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_6/pkt_1/lit_b",
+         "text": "w przypadku wywołań na numery alarmowe przesyłanie informacji o numerze wywołującym w nagłówku P-Asserted-Identity jest obowiązkowe;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_6/pkt_2",
+       "text": "dla wywołań z numerów zastrzeżonych w sieciach wykorzystujących SIP (nagłówek Privacy) oraz SS7 (CLIR): przy wysyłaniu na łącze abonenckie (nie dotyczy łączy do służb alarmowych) wywołania muszą mieć usunięte pola służące do identyfikacji abonenta A; w przypadku wywołań przychodzących z sieci niezaufanej w sieciach wykorzystujących SIP usuwa się także nagłówek P-Asserted-Identity oraz w nagłówku From wstawia się <sip:Anonymous@anonymous.invalid>.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Szczegółowe wymagania dotyczące numeracji punktów sygnalizacyjnych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_7/pkt_1",
+       "text": "międzynarodowy punkt sygnalizacyjny identyfikowany jest jednym ISPC;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_7/pkt_2",
+       "text": "format ISPC stanowi 14-bitowy kod binarny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_7/pkt_3",
+       "text": "NSPC służy do identyfikacji elementów krajowej sieci sygnalizacyjnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_7/pkt_4",
+       "text": "format NSPC stanowi 14-bitowy kod binarny.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Szczegółowe wymagania dotyczące tworzenia i udostępniania znaków identyfikujących abonenta:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_8/pkt_1",
+       "text": "znak identyfikujący abonenta B stanowi element informacji adresowej wykorzystywanej w procesie zestawiania i kierowania połączeń;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_8/pkt_2",
+       "text": "przedsiębiorcy telekomunikacyjni zapewniają przekazywanie znaków identyfikujących abonenta A i abonenta B między sieciami telekomunikacyjnymi w sposób umożliwiający ich wykorzystanie w procesach:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_8/pkt_2/lit_a",
+         "text": "kierowania połączeń,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_8/pkt_2/lit_b",
+         "text": "identyfikacji punktu zakończenia sieci,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_8/pkt_2/lit_c",
+         "text": "realizacji uprawnień abonenta, w tym związanych z przenoszeniem numeru;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_8/pkt_3",
+       "text": "znak identyfikujący abonenta A jest niezmienny na całej drodze połączeniowej.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zalecenie RFC 3325 jest dostępne na stronie internetowej IETF (Internet Engineering Task Force) – https://datatracker.ietf.org/doc/rfc3325/.",
+  "2": "Zalecenie RFC 3323 jest dostępne na stronie internetowej IETF (Internet Engineering Task Force) – https://datatracker.ietf.org/doc/rfc3323/.",
+  "3": "Zalecenie RFC 3261 jest dostępne na stronie internetowej IETF (Internet Engineering Task Force) – https://datatracker.ietf.org/doc/html/rfc3261."
+ }
+}

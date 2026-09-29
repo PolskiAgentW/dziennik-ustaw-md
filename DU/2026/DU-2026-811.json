@@ -1,0 +1,5546 @@
+{
+ "eli": "DU/2026/811",
+ "title": "Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 16 czerwca 2026 r. w sprawie danych przetwarzanych w Zintegrowanym Systemie Informacji o Szkolnictwie Wyższym i Nauce POL-on",
+ "converter": "eli2md 0.5.3",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/811/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 czerwca 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie danych przetwarzanych w Zintegrowanym Systemie Informacji o Szkolnictwie Wyższym i Nauce POL-on"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 353 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm.[^2]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "szczegółowy zakres danych, o których mowa w:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "art. 343 ust. 1 pkt 3, 8, 9 i 11–21 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, zwanej dalej „ustawą”, zamieszczanych w wykazie nauczycieli akademickich, innych osób prowadzących zajęcia, osób prowadzących działalność naukową oraz osób biorących udział w jej prowadzeniu, zwanym dalej „wykazem pracowników”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "art. 344 ust. 1 pkt 4 i 8–10 ustawy, zamieszczanych w wykazie studentów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_1/lit_c",
+       "text": "art. 345 ust. 1 pkt 3, 6, 7 i 13–16 ustawy, zamieszczanych w wykazie osób ubiegających się o stopień naukowy doktora albo o stopień doktora w zakresie sztuki, zwanym dalej „wykazem osób ubiegających się o stopień doktora”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_1/lit_d",
+       "text": "art. 346 ust. 1 pkt 1, 3, 5–9 i 11–17 ustawy, zamieszczanych w wykazie instytucji systemu szkolnictwa wyższego i nauki, zwanym dalej „wykazem instytucji”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_1/lit_e",
+       "text": "art. 349 ust. 1 pkt 1b–3, 4 i 5 ustawy, zamieszczanych w bazie osób upoważnionych do podpisywania dokumentów, o których mowa w art. 78 ust. 3, art. 163 ust. 4 i art. 180 ust. 1 i 1a ustawy, zwanej dalej „bazą osób upoważnionych”;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "tryb i terminy wprowadzania danych do baz danych Zintegrowanego Systemu Informacji o Szkolnictwie Wyższym i Nauce POL-on, zwanego dalej „Systemem POL-on”, oraz aktualizowania, archiwizowania i usuwania tych danych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "sposób wprowadzania prac dyplomowych do repozytorium pisemnych prac dyplomowych oraz specyfikację formatu tych prac;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "szczegółowe wymagania techniczne dotyczące dyplomów ukończenia studiów, suplementów do dyplomów, dyplomów doktorskich i dyplomów habilitacyjnych oraz odpisów tych dokumentów w językach obcych w postaci elektronicznej, a także sposób ich wydawania i weryfikacji oraz specyfikację formatu tych dokumentów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "zakres dodatkowych elementów:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_5/lit_a",
+       "text": "dyplomu ukończenia studiów, które mogą być wprowadzone do repozytorium dyplomów elektronicznych zgodnie z art. 347a ust. 4 ustawy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_5/lit_b",
+       "text": "dyplomu doktorskiego i dyplomu habilitacyjnego, które mogą być wprowadzone do repozytorium dyplomów elektronicznych zgodnie z art. 347a ust. 6 ustawy;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "zakres danych umożliwiających dostęp do:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_6/lit_a",
+       "text": "repozytorium dyplomów elektronicznych – na podstawie art. 347a ust. 12 pkt 6 ustawy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_6/lit_b",
+       "text": "informacji o dyplomach ukończenia studiów, suplementach do tych dyplomów, dyplomach doktorskich i dyplomach habilitacyjnych, zgromadzonych w repozytorium dyplomów elektronicznych – na podstawie art. 347a ust. 13 pkt 2 ustawy;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "tryb i sposób udostępniania danych zamieszczonych w Systemie POL-on.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "W zakresie danych, o których mowa w art. 343 ust. 1 pkt 3 i 8 ustawy, w wykazie pracowników zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "numer elektronicznego identyfikatora naukowca ORCID (Open Researcher and Contributor ID), zwany dalej „numerem ORCID”, jeżeli został nadany;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "tytuł zawodowy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "w przypadku uzyskania tytułu zawodowego za granicą – dodatkowo:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_3/lit_a",
+         "text": "nazwę państwa, w którym wydano dyplom ukończenia studiów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_3/lit_b",
+         "text": "informację, czy dyplom ukończenia studiów został uznany za równoważny na podstawie umowy międzynarodowej czy w drodze postępowania nostryfikacyjnego;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "stopień naukowy albo stopień w zakresie sztuki, zwany dalej „stopniem”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_1/pkt_5",
+       "text": "w przypadku nadania stopnia za granicą – dodatkowo:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_5/lit_a",
+         "text": "nazwę państwa, w którym nadano stopień,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_5/lit_b",
+         "text": "informację, czy stopień został:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_2/ust_1/pkt_5/lit_b/tir_1",
+           "text": "nadany przez instytucję, o której mowa w art. 328 ust. 1 albo 2 ustawy,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_2/ust_1/pkt_5/lit_b/tir_2",
+           "text": "uznany za równoważny na podstawie umowy międzynarodowej,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "par_2/ust_1/pkt_5/lit_b/tir_3",
+           "text": "uznany za równoważny w drodze postępowania nostryfikacyjnego;",
+           "children": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_1/pkt_6",
+       "text": "nazwę podmiotu krajowego, który nadał tytuł zawodowy albo stopień;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/ust_1/pkt_7",
+       "text": "nazwę instytucji zagranicznej, która nadała tytuł zawodowy albo stopień;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/ust_1/pkt_8",
+       "text": "nazwę podmiotu nostryfikującego dyplom ukończenia studiów albo stopień;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_2/ust_1/pkt_9",
+       "text": "rok uzyskania tytułu zawodowego, stopnia albo tytułu profesora;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_2/ust_1/pkt_10",
+       "text": "nazwę kierunku ukończonych studiów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_2/ust_1/pkt_11",
+       "text": "dziedzinę nauki albo dziedzinę nauki i dyscyplinę naukową, albo dziedzinę sztuki i dyscyplinę artystyczną, w których został nadany stopień;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_2/ust_1/pkt_12",
+       "text": "dziedzinę nauki albo dziedzinę sztuki, zwane dalej „dziedziną”, albo dziedzinę i dyscyplinę naukową albo dyscyplinę artystyczną, zwane dalej „dyscypliną”, lub dyscypliny, w których został nadany tytuł profesora;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_2/ust_1/pkt_13",
+       "text": "informacje o uprawnieniach równoważnych z uprawnieniami wynikającymi z posiadania stopnia doktora habilitowanego, nabytych na podstawie decyzji, o której mowa w art. 226 ust. 2 ustawy:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_13/lit_a",
+         "text": "datę nabycia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_13/lit_b",
+         "text": "dziedzinę i dyscyplinę, w których zostały nabyte,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_13/lit_c",
+         "text": "nazwę podmiotu, w którym zostały nabyte.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "W zakresie danych, o których mowa w art. 343 ust. 1 pkt 9 ustawy, w wykazie pracowników zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "nazwę uczelni;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "nazwę kierunku studiów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_2/pkt_3",
+       "text": "poziom studiów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_2/pkt_4",
+       "text": "profil studiów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "W zakresie danych, o których mowa w art. 343 ust. 1 pkt 11 i 12 ustawy, w wykazie pracowników zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_3/pkt_1",
+       "text": "nazwę podmiotu zatrudniającego albo podmiotu, na którego rzecz jest wykonywana działalność naukowa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_3/pkt_2",
+       "text": "datę złożenia oświadczenia, o którym mowa w art. 343 ust. 7 ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_3/pkt_3",
+       "text": "informacje o oświadczeniu, o którym mowa w art. 265 ust. 5 ustawy:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_3/pkt_3/lit_a",
+         "text": "wskazaną w nim dyscyplinę,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_3/pkt_3/lit_b",
+         "text": "datę jego złożenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_3/pkt_3/lit_c",
+         "text": "datę jego obowiązywania;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_3/pkt_4",
+       "text": "informacje o oświadczeniu, o którym mowa w art. 265 ust. 13 ustawy:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_3/pkt_4/lit_a",
+         "text": "datę jego złożenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_3/pkt_4/lit_b",
+         "text": "osiągnięcia naukowe lub artystyczne przypisane do dyscypliny, która została w nim wskazana.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "W zakresie danych, o których mowa w art. 343 ust. 1 pkt 13 i 14 ustawy, w wykazie pracowników zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_4/pkt_1",
+       "text": "informacje o stosunku pracy:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_4/pkt_1/lit_a",
+         "text": "podstawę nawiązania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_4/pkt_1/lit_b",
+         "text": "datę nawiązania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_4/pkt_1/lit_c",
+         "text": "okres, na jaki został nawiązany,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/ust_4/pkt_1/lit_d",
+         "text": "datę ustania;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_4/pkt_2",
+       "text": "informację, czy uczelnia albo Centrum Medycznego Kształcenia Podyplomowego, zwane dalej „CMKP”, stanowi dla nauczyciela akademickiego podstawowe miejsce pracy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_4/pkt_3",
+       "text": "nazwę podmiotu będącego miejscem dodatkowego zatrudnienia nauczyciela akademickiego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_4/pkt_4",
+       "text": "przynależność pracownika – w przypadku zatrudnienia w:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_4/pkt_4/lit_a",
+         "text": "uczelni albo CMKP – do grupy pracowników:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_2/ust_4/pkt_4/lit_a/tir_1",
+           "text": "dydaktycznych,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_2/ust_4/pkt_4/lit_a/tir_2",
+           "text": "badawczych,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "par_2/ust_4/pkt_4/lit_a/tir_3",
+           "text": "badawczo-dydaktycznych,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_4/pkt_4/lit_b",
+         "text": "instytucie badawczym albo jednostce naukowej Polskiej Akademii Nauk – do grupy pracowników:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_2/ust_4/pkt_4/lit_b/tir_1",
+           "text": "naukowych,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_2/ust_4/pkt_4/lit_b/tir_2",
+           "text": "badawczo-technicznych,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "par_2/ust_4/pkt_4/lit_b/tir_3",
+           "text": "bibliotecznych, pracowników dokumentacji naukowej lub dokumentacji i informacji naukowej,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "4",
+           "path": "par_2/ust_4/pkt_4/lit_b/tir_4",
+           "text": "inżynieryjno-technicznych lub inżynieryjnych i technicznych,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_4/pkt_4/lit_c",
+         "text": "Centrum Łukasiewicz albo instytucie działającym w ramach Sieci Badawczej Łukasiewicz, zwanym dalej „instytutem Sieci Łukasiewicz” – do grupy pracowników pionu badawczego;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_4/pkt_5",
+       "text": "nazwę stanowiska pracy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_4/pkt_6",
+       "text": "informację, czy pracownik prowadzi działalność naukową albo czy bierze udział w jej prowadzeniu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/ust_4/pkt_7",
+       "text": "informację, czy stanowisko pracy w Centrum Łukasiewicz albo w instytucie Sieci Łukasiewicz jest finansowane ze środków finansowych, o których mowa odpowiednio w art. 365 pkt 2a albo 13a ustawy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "W zakresie danych, o których mowa w art. 343 ust. 1 pkt 15 i 16 ustawy, w wykazie pracowników zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_5/pkt_1",
+       "text": "wymiar czasu pracy z dokładnością do dwóch miejsc po przecinku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_5/pkt_2",
+       "text": "roczny wymiar zajęć dydaktycznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_5/pkt_3",
+       "text": "udział czasu pracy związanej z prowadzeniem działalności naukowej w poszczególnych dyscyplinach z dokładnością do 1/4;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_5/pkt_4",
+       "text": "liczbę dni, w których pracownik w danym roku:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_5/pkt_4/lit_a",
+         "text": "przebywał na urlopie bezpłatnym, urlopie macierzyńskim, urlopie na warunkach urlopu macierzyńskiego, urlopie ojcowskim, urlopie wychowawczym, urlopie rodzicielskim lub urlopie dla poratowania zdrowia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_5/pkt_4/lit_b",
+         "text": "pobierał zasiłek chorobowy lub świadczenie rehabilitacyjne",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_2/ust_5/pkt_4/lit_b/tir_1",
+           "text": "według stanu na dzień 31 grudnia.",
+           "children": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_2/ust_6",
+     "text": "W zakresie danych, o których mowa w art. 343 ust. 1 pkt 17 ustawy, w wykazie pracowników zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_6/pkt_1",
+       "text": "nazwę instytucji, w której doświadczenie zostało zdobyte;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_6/pkt_2",
+       "text": "zakres zdobytego doświadczenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_6/pkt_3",
+       "text": "okres zatrudnienia, w ramach którego doświadczenie zostało zdobyte;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_6/pkt_4",
+       "text": "zakres posiadanych kompetencji naukowych, dydaktycznych lub praktycznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_2/ust_7",
+     "text": "W zakresie danych, o których mowa w art. 343 ust. 1 pkt 18 ustawy, w wykazie pracowników zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_7/pkt_1",
+       "text": "nazwę szkoły doktorskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_7/pkt_2",
+       "text": "nazwę albo zakres programu kształcenia w szkole doktorskiej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_2/ust_8",
+     "text": "W zakresie danych, o których mowa w art. 343 ust. 1 pkt 19 ustawy, w wykazie pracowników zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_8/pkt_1",
+       "text": "nazwę uczelni albo CMKP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_8/pkt_2",
+       "text": "nazwę pełnionej funkcji kierowniczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_8/pkt_3",
+       "text": "zakres obowiązków związanych z pełnioną funkcją kierowniczą;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_8/pkt_4",
+       "text": "datę rozpoczęcia pełnienia funkcji kierowniczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_8/pkt_5",
+       "text": "datę zakończenia pełnienia funkcji kierowniczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_8/pkt_6",
+       "text": "dane kontaktowe związane z pełnioną funkcją kierowniczą:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_8/pkt_6/lit_a",
+         "text": "adres służbowej poczty elektronicznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_8/pkt_6/lit_b",
+         "text": "numer telefonu służbowego.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_2/ust_9",
+     "text": "W zakresie danych, o których mowa w art. 343 ust. 1 pkt 20 ustawy, w wykazie pracowników zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_9/pkt_1",
+       "text": "informacje o orzeczonej karze dyscyplinarnej, o której mowa w art. 276 ust. 1 pkt 4–8 ustawy:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_9/pkt_1/lit_a",
+         "text": "datę wydania orzeczenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_9/pkt_1/lit_b",
+         "text": "datę uprawomocnienia się orzeczenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_9/pkt_1/lit_c",
+         "text": "sygnaturę orzeczenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/ust_9/pkt_1/lit_d",
+         "text": "nazwę komisji dyscyplinarnej, przed którą wszczęto postępowanie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_2/ust_9/pkt_1/lit_e",
+         "text": "nazwę komisji dyscyplinarnej, która wydała orzeczenie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_2/ust_9/pkt_1/lit_f",
+         "text": "rodzaj orzeczonej kary dyscyplinarnej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_2/ust_9/pkt_1/lit_g",
+         "text": "wymiar orzeczonej kary dyscyplinarnej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_2/ust_9/pkt_1/lit_h",
+         "text": "datę zakończenia kary dyscyplinarnej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_2/ust_9/pkt_1/lit_i",
+         "text": "datę zatarcia kary dyscyplinarnej;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_9/pkt_2",
+       "text": "informacje o orzeczeniu, o którym mowa w art. 180 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2025 r. poz. 911 i 1423):",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_9/pkt_2/lit_a",
+         "text": "datę wydania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_9/pkt_2/lit_b",
+         "text": "datę uprawomocnienia się,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_9/pkt_2/lit_c",
+         "text": "sygnaturę,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/ust_9/pkt_2/lit_d",
+         "text": "nazwę sądu, który wydał wyrok,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_2/ust_9/pkt_2/lit_e",
+         "text": "rodzaj orzeczonego środka karnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_2/ust_9/pkt_2/lit_f",
+         "text": "wymiar orzeczonego środka karnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_2/ust_9/pkt_2/lit_g",
+         "text": "datę, od której nastąpił zakaz zajmowania stanowiska albo wykonywania zawodu nauczyciela akademickiego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_2/ust_9/pkt_2/lit_h",
+         "text": "datę zatarcia skazania.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "par_2/ust_10",
+     "text": "W zakresie danych, o których mowa w art. 343 ust. 1 pkt 21 ustawy, w wykazie pracowników zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_10/pkt_1",
+       "text": "informacje o udzielonym patencie na wynalazek:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_10/pkt_1/lit_a",
+         "text": "tytuł wynalazku,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_10/pkt_1/lit_b",
+         "text": "nazwę podmiotu albo podmiotów, którym udzielono patentu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_10/pkt_1/lit_c",
+         "text": "numer patentu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/ust_10/pkt_1/lit_d",
+         "text": "nazwę podmiotu udzielającego patentu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_2/ust_10/pkt_1/lit_e",
+         "text": "nazwy państw, na których terytorium uzyskano ochronę,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_2/ust_10/pkt_1/lit_f",
+         "text": "datę ogłoszenia o udzielonym patencie w „Wiadomościach Urzędu Patentowego” lub równoważnym biuletynie za granicą,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_2/ust_10/pkt_1/lit_g",
+         "text": "datę i numer zgłoszenia wynalazku w Urzędzie Patentowym Rzeczypospolitej Polskiej lub we właściwym urzędzie za granicą,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_2/ust_10/pkt_1/lit_h",
+         "text": "datę i nazwę państwa uprzedniego pierwszeństwa oraz numer zgłoszenia lub oznaczenie wystawy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_2/ust_10/pkt_1/lit_i",
+         "text": "streszczenie opisu wynalazku,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_2/ust_10/pkt_1/lit_j",
+         "text": "datę złożenia tłumaczenia na język polski patentu europejskiego, w którym Rzeczpospolita Polska została wyznaczona jako kraj ochrony,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "par_2/ust_10/pkt_1/lit_k",
+         "text": "dyscyplinę, o której mowa w art. 265 ust. 13 ustawy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "par_2/ust_10/pkt_1/lit_l",
+         "text": "nazwę podmiotu upoważnionego w oświadczeniu, o którym mowa w art. 265 ust. 13 ustawy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "m",
+         "path": "par_2/ust_10/pkt_1/lit_m",
+         "text": "imiona i nazwiska pozostałych współtwórców wynalazku oraz – jeżeli są znane – ich numery ORCID;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_10/pkt_2",
+       "text": "informacje o udzielonym prawie ochronnym na wzór użytkowy:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_10/pkt_2/lit_a",
+         "text": "tytuł wzoru użytkowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_10/pkt_2/lit_b",
+         "text": "nazwę podmiotu albo podmiotów, którym udzielono prawa ochronnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_10/pkt_2/lit_c",
+         "text": "numer prawa ochronnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/ust_10/pkt_2/lit_d",
+         "text": "nazwę podmiotu udzielającego prawa ochronnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_2/ust_10/pkt_2/lit_e",
+         "text": "nazwy państw, na których terytorium uzyskano ochronę,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_2/ust_10/pkt_2/lit_f",
+         "text": "datę ogłoszenia o udzielonym prawie ochronnym w „Wiadomościach Urzędu Patentowego” lub równoważnym biuletynie za granicą,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_2/ust_10/pkt_2/lit_g",
+         "text": "datę i numer zgłoszenia wzoru użytkowego w Urzędzie Patentowym Rzeczypospolitej Polskiej lub we właściwym urzędzie za granicą,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_2/ust_10/pkt_2/lit_h",
+         "text": "datę i nazwę państwa uprzedniego pierwszeństwa oraz numer zgłoszenia lub oznaczenie wystawy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_2/ust_10/pkt_2/lit_i",
+         "text": "streszczenie opisu wzoru użytkowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_2/ust_10/pkt_2/lit_j",
+         "text": "dyscyplinę, o której mowa w art. 265 ust. 13 ustawy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "par_2/ust_10/pkt_2/lit_k",
+         "text": "nazwę podmiotu upoważnionego w oświadczeniu, o którym mowa w art. 265 ust. 13 ustawy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "par_2/ust_10/pkt_2/lit_l",
+         "text": "imiona i nazwiska współtwórców wzoru użytkowego oraz – jeżeli są znane – ich numery ORCID;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_10/pkt_3",
+       "text": "informacje o udzielonym wyłącznym prawie hodowcy do odmiany rośliny:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_10/pkt_3/lit_a",
+         "text": "nazwę gatunku, w tym nazwę botaniczną,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_10/pkt_3/lit_b",
+         "text": "nazwę odmiany,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_10/pkt_3/lit_c",
+         "text": "nazwę podmiotu uprawnionego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/ust_10/pkt_3/lit_d",
+         "text": "numer w księdze ochrony wyłącznego prawa prowadzonej przez Centralny Ośrodek Badania Odmian Roślin Uprawnych lub równoważny numer przyznany za granicą, w szczególności przez Wspólnotowy Urząd Ochrony Odmian Roślin (CPVO),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_2/ust_10/pkt_3/lit_e",
+         "text": "nazwę podmiotu udzielającego wyłącznego prawa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_2/ust_10/pkt_3/lit_f",
+         "text": "datę udzielenia wyłącznego prawa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_2/ust_10/pkt_3/lit_g",
+         "text": "nazwy państw, na których terytorium uzyskano ochronę,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_2/ust_10/pkt_3/lit_h",
+         "text": "dyscyplinę, o której mowa w art. 265 ust. 13 ustawy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_2/ust_10/pkt_3/lit_i",
+         "text": "nazwę podmiotu upoważnionego w oświadczeniu, o którym mowa w art. 265 ust. 13 ustawy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_2/ust_10/pkt_3/lit_j",
+         "text": "imiona i nazwiska pozostałych osób, które wyhodowały albo odkryły i wyprowadziły odmianę rośliny, oraz – jeżeli są znane – numery ORCID tych osób;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_10/pkt_4",
+       "text": "informacje o artykule naukowym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_10/pkt_4/lit_a",
+         "text": "DOI (Digital Object Identifier – cyfrowy identyfikator dokumentu elektronicznego), a w przypadku jego braku – adres strony internetowej zawierającej pełny tekst artykułu naukowego, jeżeli znajduje się w otwartym dostępie, albo adres strony internetowej zawierającej informacje o artykule naukowym,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_10/pkt_4/lit_b",
+         "text": "tytuł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_10/pkt_4/lit_c",
+         "text": "dyscyplinę, o której mowa w art. 265 ust. 13 ustawy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/ust_10/pkt_4/lit_d",
+         "text": "nazwę podmiotu upoważnionego w oświadczeniu, o którym mowa w art. 265 ust. 13 ustawy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_2/ust_10/pkt_4/lit_e",
+         "text": "imiona i nazwiska współautorów oraz – jeżeli są znane – ich numery ORCID,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_2/ust_10/pkt_4/lit_f",
+         "text": "informację, czy jest to artykuł recenzyjny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_2/ust_10/pkt_4/lit_g",
+         "text": "informację, czy artykuł naukowy został opublikowany w recenzowanych materiałach z konferencji międzynarodowej, a jeżeli tak – informacje dotyczące konferencji:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_2/ust_10/pkt_4/lit_g/tir_1",
+           "text": "nazwę,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_2/ust_10/pkt_4/lit_g/tir_2",
+           "text": "datę,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "par_2/ust_10/pkt_4/lit_g/tir_3",
+           "text": "miejsce,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_2/ust_10/pkt_4/lit_h",
+         "text": "tytuł czasopisma naukowego, w którym artykuł naukowy został opublikowany, oraz ISSN – Międzynarodowy Znormalizowany Numer Wydawnictw Ciągłych (International Standard Serial Number) lub eISSN – elektroniczny Międzynarodowy Znormalizowany Numer Wydawnictw Ciągłych (electronic International Standard Serial Number),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_2/ust_10/pkt_4/lit_i",
+         "text": "rok opublikowania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_2/ust_10/pkt_4/lit_j",
+         "text": "tom lub zeszyt czasopisma naukowego, jeżeli posiada,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "par_2/ust_10/pkt_4/lit_k",
+         "text": "numery stron, jeżeli posiada,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "par_2/ust_10/pkt_4/lit_l",
+         "text": "informacje dotyczące otwartego dostępu (Open Access), w tym:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_2/ust_10/pkt_4/lit_l/tir_1",
+           "text": "sposobu, w jaki artykuł naukowy został udostępniony (otwarte czasopismo, otwarte repozytorium, inny sposób),",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_2/ust_10/pkt_4/lit_l/tir_2",
+           "text": "wersji tekstu, która jest dostępna w sposób otwarty (oryginalna wersja autorska, ostateczna wersja autorska, ostateczna wersja opublikowana, inna wersja),",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "par_2/ust_10/pkt_4/lit_l/tir_3",
+           "text": "otwartej licencji, na jakiej artykuł naukowy jest dostępny (Creative Commons – Uznanie autorstwa (CC-BY), Creative Commons – Uznanie autorstwa – Na tych samych warunkach (CC-BY-SA), Creative Commons – Uznanie autorstwa – Użycie niekomercyjne (CC-BY-NC), Creative Commons – Uznanie autorstwa – Bez utworów zależnych (CC-BY-ND), Creative Commons – Uznanie autorstwa – Użycie niekomercyjne – Na tych samych warunkach (CC-BY-NC-SA), Creative Commons – Uznanie autorstwa – Użycie niekomercyjne – Bez utworów zależnych (CC-BY-NC-ND), inna otwarta licencja),",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "4",
+           "path": "par_2/ust_10/pkt_4/lit_l/tir_4",
+           "text": "daty udostępnienia artykułu naukowego w sposób otwarty,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "5",
+           "path": "par_2/ust_10/pkt_4/lit_l/tir_5",
+           "text": "tego, czy udostępnienie nastąpiło przed opublikowaniem, w dniu opublikowania czy po opublikowaniu,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "6",
+           "path": "par_2/ust_10/pkt_4/lit_l/tir_6",
+           "text": "liczby miesięcy, jakie upłynęły od dnia opublikowania do dnia udostępnienia artykułu naukowego w sposób otwarty,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "m",
+         "path": "par_2/ust_10/pkt_4/lit_m",
+         "text": "wyrażoną w złotych wysokość opłat za opublikowanie poniesionych przez podmiot, o którym mowa w lit. d, i źródło ich finansowania (środki finansowe, o których mowa w art. 365 pkt 2 ustawy, środki finansowe przyznane na realizację projektu w zakresie badań naukowych lub prac rozwojowych, inne środki);",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_10/pkt_5",
+       "text": "informacje o monografii naukowej i redakcji naukowej monografii naukowej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_10/pkt_5/lit_a",
+         "text": "DOI (Digital Object Identifier – cyfrowy identyfikator dokumentu elektronicznego), a w przypadku jego braku – adres strony internetowej zawierającej pełny tekst monografii naukowej, jeżeli znajduje się w otwartym dostępie, albo adres strony internetowej zawierającej informacje o monografii,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_10/pkt_5/lit_b",
+         "text": "tytuł oraz ISBN – Międzynarodowy Znormalizowany Numer Książki (International Standard Book Number) lub ISMN – Międzynarodowy Znormalizowany Numer Druku Muzycznego (International Standard Music Number),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_10/pkt_5/lit_c",
+         "text": "rolę osoby (autor albo redaktor, a w przypadku przekładu – autor przekładu),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/ust_10/pkt_5/lit_d",
+         "text": "imiona i nazwiska współautorów i redaktorów oraz – jeżeli są znane – ich numery ORCID,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_2/ust_10/pkt_5/lit_e",
+         "text": "wydawcę,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_2/ust_10/pkt_5/lit_f",
+         "text": "rok wydania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_2/ust_10/pkt_5/lit_g",
+         "text": "dyscyplinę, o której mowa w art. 265 ust. 13 ustawy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_2/ust_10/pkt_5/lit_h",
+         "text": "nazwę podmiotu upoważnionego w oświadczeniu, o którym mowa w art. 265 ust. 13 ustawy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_2/ust_10/pkt_5/lit_i",
+         "text": "informację, czy monografia naukowa stanowi przekład:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_2/ust_10/pkt_5/lit_i/tir_1",
+           "text": "na język polski dzieła istotnego dla nauki lub kultury,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_2/ust_10/pkt_5/lit_i/tir_2",
+           "text": "na inny język nowożytny dzieła istotnego dla nauki lub kultury wydanego w języku polskim,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_2/ust_10/pkt_5/lit_j",
+         "text": "informację, czy monografia naukowa stanowi edycję naukową tekstu źródłowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "par_2/ust_10/pkt_5/lit_k",
+         "text": "informację, czy monografia naukowa powstała w wyniku realizacji projektu finansowanego przez Narodowe Centrum Nauki, zwane dalej „NCN”, Fundację na rzecz Nauki Polskiej, w ramach Narodowego Programu Rozwoju Humanistyki, programu ramowego w zakresie wspierania badań i innowacji Unii Europejskiej albo w ramach programu związanego z wdrażaniem takiego programu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "par_2/ust_10/pkt_5/lit_l",
+         "text": "informację, czy monografia naukowa została zgłoszona do oceny eksperckiej dokonywanej przez Komisję Ewaluacji Nauki zgodnie z przepisami wydanymi na podstawie art. 267 ust. 2 pkt 1 ustawy, a jeżeli tak – wynik oceny (pozytywna albo negatywna),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "m",
+         "path": "par_2/ust_10/pkt_5/lit_m",
+         "text": "informacje dotyczące otwartego dostępu (Open Access), w tym:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_2/ust_10/pkt_5/lit_m/tir_1",
+           "text": "sposobu, w jaki monografia naukowa została udostępniona (witryna wydawcy, otwarte repozytorium, inny sposób),",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_2/ust_10/pkt_5/lit_m/tir_2",
+           "text": "wersji tekstu, która jest dostępna w sposób otwarty (oryginalna wersja autorska, ostateczna wersja autorska, ostateczna wersja opublikowana, inna wersja),",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "par_2/ust_10/pkt_5/lit_m/tir_3",
+           "text": "otwartej licencji, na jakiej monografia naukowa jest dostępna (Creative Commons – Uznanie autorstwa (CC-BY), Creative Commons – Uznanie autorstwa – Na tych samych warunkach (CC-BY-SA), Creative Commons – Uznanie autorstwa – Użycie niekomercyjne (CC-BY-NC), Creative Commons – Uznanie autorstwa – Bez utworów zależnych (CC-BY-ND), Creative Commons – Uznanie autorstwa – Użycie niekomercyjne – Na tych samych warunkach (CC-BY-NC-SA), Creative Commons – Uznanie autorstwa – Użycie niekomercyjne – Bez utworów zależnych (CC-BY-NC-ND), inna otwarta licencja),",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "4",
+           "path": "par_2/ust_10/pkt_5/lit_m/tir_4",
+           "text": "daty udostępnienia monografii naukowej w sposób otwarty,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "5",
+           "path": "par_2/ust_10/pkt_5/lit_m/tir_5",
+           "text": "tego, czy udostępnienie nastąpiło przed opublikowaniem, w dniu opublikowania czy po opublikowaniu,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "6",
+           "path": "par_2/ust_10/pkt_5/lit_m/tir_6",
+           "text": "liczby miesięcy, jakie upłynęły od dnia opublikowania do dnia udostępnienia monografii naukowej w sposób otwarty,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "n",
+         "path": "par_2/ust_10/pkt_5/lit_n",
+         "text": "wyrażoną w złotych wysokość opłat za wydanie poniesionych przez podmiot, o którym mowa w lit. h, i źródło ich finansowania (środki finansowe, o których mowa w art. 365 pkt 2 ustawy, środki finansowe przyznane na realizację projektu w zakresie badań naukowych lub prac rozwojowych, inne środki);",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_10/pkt_6",
+       "text": "informacje o rozdziale w monografii naukowej, jeżeli w monografii jest wskazany autor lub są wskazani autorzy rozdziału:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_10/pkt_6/lit_a",
+         "text": "informacje, o których mowa w pkt 5, dotyczące monografii naukowej, której fragment stanowi dany rozdział,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_10/pkt_6/lit_b",
+         "text": "tytuł rozdziału,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_10/pkt_6/lit_c",
+         "text": "imiona i nazwiska współautorów rozdziału oraz – jeżeli są znane – ich numery ORCID,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/ust_10/pkt_6/lit_d",
+         "text": "dyscyplinę, o której mowa w art. 265 ust. 13 ustawy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_2/ust_10/pkt_6/lit_e",
+         "text": "nazwę podmiotu upoważnionego w oświadczeniu, o którym mowa w art. 265 ust. 13 ustawy;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/ust_10/pkt_7",
+       "text": "informacje o osiągnięciu artystycznym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_10/pkt_7/lit_a",
+         "text": "rodzaj określony w przepisach wydanych na podstawie art. 267 ust. 2 pkt 1 ustawy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_10/pkt_7/lit_b",
+         "text": "tytuł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_10/pkt_7/lit_c",
+         "text": "imiona i nazwiska współautorów oraz – jeżeli są znane – ich numery ORCID,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/ust_10/pkt_7/lit_d",
+         "text": "dyscyplinę, o której mowa w art. 265 ust. 13 ustawy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_2/ust_10/pkt_7/lit_e",
+         "text": "nazwę podmiotu upoważnionego w oświadczeniu, o którym mowa w art. 265 ust. 13 ustawy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_2/ust_10/pkt_7/lit_f",
+         "text": "rok i nazwę państwa realizacji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_2/ust_10/pkt_7/lit_g",
+         "text": "charakterystykę (maksymalnie 1200 znaków ze spacjami),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_2/ust_10/pkt_7/lit_h",
+         "text": "rok i nazwę państwa pierwszego upublicznienia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_2/ust_10/pkt_7/lit_i",
+         "text": "zakres rozpowszechnienia (ogólnopolski, międzynarodowy),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_2/ust_10/pkt_7/lit_j",
+         "text": "przyznane nagrody i wyróżnienia krajowe lub zagraniczne:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_2/ust_10/pkt_7/lit_j/tir_1",
+           "text": "nazwę konkursu,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_2/ust_10/pkt_7/lit_j/tir_2",
+           "text": "rok przyznania,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "par_2/ust_10/pkt_7/lit_j/tir_3",
+           "text": "podmiot przyznający,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "4",
+           "path": "par_2/ust_10/pkt_7/lit_j/tir_4",
+           "text": "charakterystykę nagrody lub wyróżnienia (maksymalnie 500 znaków ze spacjami),",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "5",
+           "path": "par_2/ust_10/pkt_7/lit_j/tir_5",
+           "text": "nazwę państwa, w którym przyznano nagrodę albo wyróżnienie,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "par_2/ust_10/pkt_7/lit_k",
+         "text": "informacje o umieszczeniu w prestiżowej kolekcji lub miejscu o szczególnym znaczeniu dla kultury – w przypadku dzieła plastycznego lub projektowego:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_2/ust_10/pkt_7/lit_k/tir_1",
+           "text": "nazwę kolekcji albo miejsca o szczególnym znaczeniu dla kultury,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_2/ust_10/pkt_7/lit_k/tir_2",
+           "text": "nazwę państwa, w którym znajduje się kolekcja albo miejsce o szczególnym znaczeniu dla kultury,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "par_2/ust_10/pkt_7/lit_l",
+         "text": "nazwę wydawnictwa, które wydało publikację z zakresu sztuk filmowych i teatralnych, sztuk muzycznych lub sztuk plastycznych i konserwacji dzieł sztuki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "m",
+         "path": "par_2/ust_10/pkt_7/lit_m",
+         "text": "informację, czy osiągnięcie artystyczne ma być uwzględnione w ewaluacji jakości działalności naukowej, zwanej dalej „ewaluacją”.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W zakresie danych, o których mowa w art. 344 ust. 1 pkt 4 ustawy, w wykazie studentów zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "nazwę państwa urodzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "podstawę przyjęcia na studia i odbywania kształcenia (umowa międzynarodowa, umowa zawarta z podmiotem zagranicznym przez uczelnię, decyzja właściwego ministra, decyzja dyrektora Narodowej Agencji Wymiany Akademickiej, zwanej dalej „NAWA”, w odniesieniu do jej stypendystów, decyzja administracyjna rektora);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "podstawę zwolnienia z opłat, o których mowa w art. 79 ust. 1 pkt 2, 3 i 5 ustawy (umowa międzynarodowa, umowa zawarta między uczelniami, decyzja właściwego ministra, decyzja dyrektora NAWA w odniesieniu do jej stypendystów, decyzja administracyjna rektora, posiadanie statusu cudzoziemca, o którym mowa w art. 324 ust. 2 ustawy, ze wskazaniem, czy jest to cudzoziemiec, o którym mowa w art. 324 ust. 2 pkt 5 ustawy);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "datę ważności i numer Karty Polaka.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W zakresie danych, o których mowa w art. 344 ust. 1 pkt 8 i 9 ustawy, w wykazie studentów zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "nazwę kierunku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "poziom studiów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_2/pkt_3",
+       "text": "profil studiów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_2/pkt_4",
+       "text": "informację, czy student realizuje kształcenie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_2/pkt_4/lit_a",
+         "text": "przygotowujące do wykonywania zawodu nauczyciela,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_2/pkt_4/lit_b",
+         "text": "na studiach wspólnych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_2/pkt_5",
+       "text": "rok i semestr studiów, a w przypadku studiów prowadzonych w rozliczeniu rocznym – rok studiów:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_2/pkt_5/lit_a",
+         "text": "które student zaliczył w danym roku akademickim,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_2/pkt_5/lit_b",
+         "text": "na które student jest wpisany w danym roku akademickim;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_2/pkt_6",
+       "text": "liczbę punktów ECTS:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_2/pkt_6/lit_a",
+         "text": "uzyskanych po zaliczeniu kolejnych lat i semestrów studiów, a w przypadku studiów prowadzonych w rozliczeniu rocznym – lat studiów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_2/pkt_6/lit_b",
+         "text": "zaliczonych w wyniku potwierdzenia efektów uczenia się.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "W zakresie danych, o których mowa w art. 344 ust. 1 pkt 10 ustawy, w wykazie studentów zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_3/pkt_1",
+       "text": "rodzaj przyznanego świadczenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_3/pkt_2",
+       "text": "okres, na który świadczenie zostało przyznane.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "W zakresie danych, o których mowa w art. 345 ust. 1 pkt 3 ustawy, w wykazie osób ubiegających się o stopień doktora zamieszcza się numer ORCID, jeżeli został nadany.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "W zakresie danych, o których mowa w art. 345 ust. 1 pkt 6 i 14 ustawy, w wykazie osób ubiegających się o stopień doktora zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "nazwę szkoły doktorskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "nazwę podmiotu prowadzącego albo podmiotów prowadzących szkołę doktorską;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_2/pkt_3",
+       "text": "nazwę albo zakres programu kształcenia w szkole doktorskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_2/pkt_4",
+       "text": "liczbę semestrów przewidzianą w programie kształcenia w szkole doktorskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_2/pkt_5",
+       "text": "datę rozpoczęcia kształcenia w szkole doktorskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_4/ust_2/pkt_6",
+       "text": "datę zawieszenia kształcenia w szkole doktorskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_4/ust_2/pkt_7",
+       "text": "okres zawieszenia kształcenia w szkole doktorskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_4/ust_2/pkt_8",
+       "text": "datę ukończenia kształcenia w szkole doktorskiej albo datę skreślenia z listy doktorantów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "W zakresie danych, o których mowa w art. 345 ust. 1 pkt 7 ustawy, w wykazie osób ubiegających się o stopień doktora zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_3/pkt_1",
+       "text": "nazwę państwa urodzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_3/pkt_2",
+       "text": "podstawę przyjęcia do szkoły doktorskiej i odbywania kształcenia (umowa międzynarodowa, umowa zawarta z podmiotami zagranicznymi przez podmiot prowadzący szkołę doktorską, decyzja właściwego ministra, decyzja dyrektora NAWA w odniesieniu do jej stypendystów, decyzja dyrektora NCN o przyznaniu środków finansowych na realizację badań podstawowych w formie projektu badawczego, stażu lub stypendium, zakwalifikowanych do finansowania w drodze konkursu, decyzja administracyjna rektora, dyrektora instytutu naukowego Polskiej Akademii Nauk, zwanego dalej „instytutem PAN”, dyrektora instytutu badawczego, dyrektora międzynarodowego instytutu naukowego utworzonego na podstawie odrębnej ustawy działającego na terytorium Rzeczypospolitej Polskiej, zwanego dalej „instytutem międzynarodowym”, albo dyrektora CMKP);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_3/pkt_3",
+       "text": "datę ważności i numer Karty Polaka.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "W zakresie danych, o których mowa w art. 345 ust. 1 pkt 13 ustawy, w wykazie osób ubiegających się o stopień doktora zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_4/pkt_1",
+       "text": "datę wszczęcia postępowania w sprawie nadania stopnia doktora;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_4/pkt_2",
+       "text": "datę wydania i numer prawomocnej decyzji o:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_4/ust_4/pkt_2/lit_a",
+         "text": "nadaniu stopnia doktora,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_4/ust_4/pkt_2/lit_b",
+         "text": "odmowie nadania stopnia doktora,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_4/ust_4/pkt_2/lit_c",
+         "text": "umorzeniu postępowania w sprawie nadania stopnia doktora;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_4/pkt_3",
+       "text": "dziedzinę albo dziedzinę i dyscyplinę, których dotyczy decyzja, o której mowa w pkt 2;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_4/pkt_4",
+       "text": "datę wydania i numer prawomocnej decyzji w sprawie stwierdzenia nieważności decyzji o nadaniu stopnia doktora albo prawomocnej decyzji uchylającej decyzję o nadaniu stopnia doktora i rozstrzygającej sprawę co do istoty;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_4/pkt_5",
+       "text": "nazwę podmiotu, który wydał decyzję, o której mowa w pkt 2 i 4.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "W zakresie danych, o których mowa w art. 345 ust. 1 pkt 15 ustawy, w wykazie osób ubiegających się o stopień doktora zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_5/pkt_1",
+       "text": "datę oceny śródokresowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_5/pkt_2",
+       "text": "wynik oceny śródokresowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_5/pkt_3",
+       "text": "skład komisji dokonującej oceny śródokresowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_4/ust_6",
+     "text": "W zakresie danych, o których mowa w art. 345 ust. 1 pkt 16 ustawy, w wykazie osób ubiegających się o stopień doktora zamieszcza się informacje, o których mowa w § 2 ust. 10.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "W zakresie danych, o których mowa w art. 346 ust. 1 pkt 1 ustawy, w wykazie instytucji zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "nazwę podmiotu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "organ nadzorujący podmiot;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "numer identyfikacyjny REGON podmiotu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_1/pkt_4",
+       "text": "numer identyfikacji podatkowej (NIP) podmiotu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_1/pkt_5",
+       "text": "numer podmiotu z Krajowego Rejestru Sądowego, zwanego dalej „KRS”, rejestru instytutów PAN albo ewidencji uczelni niepublicznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_5/ust_1/pkt_6",
+       "text": "dane adresowe i kontaktowe podmiotu:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_1/pkt_6/lit_a",
+         "text": "ulicę, numer budynku i numer lokalu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_1/pkt_6/lit_b",
+         "text": "kod pocztowy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_1/pkt_6/lit_c",
+         "text": "miejscowość,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_5/ust_1/pkt_6/lit_d",
+         "text": "województwo,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_5/ust_1/pkt_6/lit_e",
+         "text": "jednostkę podziału terytorialnego – nazwę i kod ulicy oraz nazwy miejscowości, gminy i województwa zgodnie z TERYT – krajowym rejestrem urzędowym podziału terytorialnego kraju, o którym mowa w art. 47 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2024 r. poz. 1799, z 2025 r. poz. 1792 oraz z 2026 r. poz. 507 i 548),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_5/ust_1/pkt_6/lit_f",
+         "text": "adres strony internetowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_5/ust_1/pkt_6/lit_g",
+         "text": "numer telefonu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_5/ust_1/pkt_6/lit_h",
+         "text": "adres poczty elektronicznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_5/ust_1/pkt_6/lit_i",
+         "text": "adres elektronicznej skrzynki podawczej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_5/ust_1/pkt_6/lit_j",
+         "text": "adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3 i 507), zwany dalej „adresem do doręczeń elektronicznych”;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_5/ust_1/pkt_7",
+       "text": "rodzaj podmiotu (uczelnia, instytut PAN, instytut badawczy, instytut międzynarodowy, Centrum Łukasiewicz, instytut Sieci Łukasiewicz, CMKP, Polska Akademia Umiejętności, zwana dalej „PAU”, inny podmiot prowadzący głównie działalność naukową w sposób samodzielny i ciągły);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_5/ust_1/pkt_8",
+       "text": "nazwę federacji podmiotów systemu szkolnictwa wyższego i nauki, w której skład wchodzi podmiot;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_5/ust_1/pkt_9",
+       "text": "informację o posiadaniu statusu państwowego instytutu badawczego oraz rok jego nadania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_5/ust_1/pkt_10",
+       "text": "w przypadku uczelni:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_1/pkt_10/lit_a",
+         "text": "rodzaj (publiczna, niepubliczna, prowadzona przez kościół lub inny związek wyznaniowy),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_1/pkt_10/lit_b",
+         "text": "informację o przynależności do grupy uczelni akademickich albo zawodowych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_5/ust_1/pkt_11",
+       "text": "datę utworzenia podmiotu, a w przypadku uczelni niepublicznej – datę wpisania do ewidencji uczelni niepublicznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_5/ust_1/pkt_12",
+       "text": "datę postawienia podmiotu w stan likwidacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_5/ust_1/pkt_13",
+       "text": "datę likwidacji podmiotu, a w przypadku uczelni niepublicznej – datę wykreślenia z ewidencji uczelni niepublicznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_5/ust_1/pkt_14",
+       "text": "w przypadku podmiotu:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_1/pkt_14/lit_a",
+         "text": "który powstał w wyniku podziału innego podmiotu – dodatkowo:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_5/ust_1/pkt_14/lit_a/tir_1",
+           "text": "nazwę podmiotu podzielonego,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_5/ust_1/pkt_14/lit_a/tir_2",
+           "text": "nazwy podmiotów powstałych w wyniku podziału,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "par_5/ust_1/pkt_14/lit_a/tir_3",
+           "text": "datę podziału,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "4",
+           "path": "par_5/ust_1/pkt_14/lit_a/tir_4",
+           "text": "organ nadzorujący podmiot podzielony,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "5",
+           "path": "par_5/ust_1/pkt_14/lit_a/tir_5",
+           "text": "numer identyfikacyjny REGON podmiotu podzielonego,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "6",
+           "path": "par_5/ust_1/pkt_14/lit_a/tir_6",
+           "text": "numery identyfikacyjne REGON podmiotów powstałych w wyniku podziału,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "7",
+           "path": "par_5/ust_1/pkt_14/lit_a/tir_7",
+           "text": "numer identyfikacji podatkowej (NIP) podmiotu podzielonego,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "8",
+           "path": "par_5/ust_1/pkt_14/lit_a/tir_8",
+           "text": "numery identyfikacji podatkowej (NIP) podmiotów powstałych w wyniku podziału,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "9",
+           "path": "par_5/ust_1/pkt_14/lit_a/tir_9",
+           "text": "numer z KRS albo rejestru instytutów PAN, pod którym podmiot podzielony był wpisany,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "10",
+           "path": "par_5/ust_1/pkt_14/lit_a/tir_10",
+           "text": "numery z KRS albo rejestru instytutów PAN, pod którymi podmioty powstałe w wyniku podziału są wpisane,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_1/pkt_14/lit_b",
+         "text": "który powstał w wyniku połączenia innych podmiotów – dodatkowo:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_5/ust_1/pkt_14/lit_b/tir_1",
+           "text": "datę połączenia,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_5/ust_1/pkt_14/lit_b/tir_2",
+           "text": "nazwy podmiotów, które zostały połączone,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "par_5/ust_1/pkt_14/lit_b/tir_3",
+           "text": "organy nadzorujące podmioty połączone,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "4",
+           "path": "par_5/ust_1/pkt_14/lit_b/tir_4",
+           "text": "numery identyfikacyjne REGON podmiotów połączonych,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "5",
+           "path": "par_5/ust_1/pkt_14/lit_b/tir_5",
+           "text": "numery identyfikacji podatkowej (NIP) podmiotów połączonych,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "6",
+           "path": "par_5/ust_1/pkt_14/lit_b/tir_6",
+           "text": "numery z KRS, rejestru instytutów PAN albo ewidencji uczelni niepublicznych, pod którymi podmioty połączone były wpisane,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_1/pkt_14/lit_c",
+         "text": "do którego włączono inny podmiot – dodatkowo:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_5/ust_1/pkt_14/lit_c/tir_1",
+           "text": "datę włączenia,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_5/ust_1/pkt_14/lit_c/tir_2",
+           "text": "nazwę podmiotu włączonego,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "par_5/ust_1/pkt_14/lit_c/tir_3",
+           "text": "organ nadzorujący podmiot włączony,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "4",
+           "path": "par_5/ust_1/pkt_14/lit_c/tir_4",
+           "text": "numer identyfikacyjny REGON podmiotu włączonego,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "5",
+           "path": "par_5/ust_1/pkt_14/lit_c/tir_5",
+           "text": "numer identyfikacji podatkowej (NIP) podmiotu włączonego,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "6",
+           "path": "par_5/ust_1/pkt_14/lit_c/tir_6",
+           "text": "numer z KRS, rejestru instytutów PAN albo ewidencji uczelni niepublicznych, pod którym podmiot włączony był wpisany.",
+           "children": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W zakresie danych, o których mowa w art. 346 ust. 1 pkt 3 i 6–9 ustawy, w wykazie instytucji zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "informacje dotyczące miejsca prowadzenia działalności poza siedzibą:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_2/pkt_1/lit_a",
+         "text": "ulicę, numer budynku i numer lokalu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_2/pkt_1/lit_b",
+         "text": "kod pocztowy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_2/pkt_1/lit_c",
+         "text": "miejscowość,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_5/ust_2/pkt_1/lit_d",
+         "text": "województwo,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_5/ust_2/pkt_1/lit_e",
+         "text": "jednostkę podziału terytorialnego – nazwę i kod ulicy oraz nazwy miejscowości, gminy i województwa zgodnie z TERYT – krajowym rejestrem urzędowym podziału terytorialnego kraju, o którym mowa w art. 47 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_5/ust_2/pkt_1/lit_f",
+         "text": "adres strony internetowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_5/ust_2/pkt_1/lit_g",
+         "text": "numer telefonu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_5/ust_2/pkt_1/lit_h",
+         "text": "adres poczty elektronicznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_5/ust_2/pkt_1/lit_i",
+         "text": "adres elektronicznej skrzynki podawczej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_5/ust_2/pkt_1/lit_j",
+         "text": "adres do doręczeń elektronicznych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "nazwę kierunku studiów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_2/pkt_3",
+       "text": "poziom studiów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_2/pkt_4",
+       "text": "profil studiów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_2/pkt_5",
+       "text": "podstawę prawną utworzenia studiów (decyzja ministra właściwego do spraw szkolnictwa wyższego i nauki, zwanego dalej „ministrem”, albo akt wydany przez rektora – numer i data wydania);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_5/ust_2/pkt_6",
+       "text": "nazwy podmiotów, z którymi są prowadzone studia wspólne albo studia wspólne interdyscyplinarne, ze wskazaniem podmiotu albo podmiotów odpowiedzialnych za wprowadzanie danych do Systemu POL-on;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_5/ust_2/pkt_7",
+       "text": "informację, czy studia są prowadzone w siedzibie czy w filii;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_5/ust_2/pkt_8",
+       "text": "datę rozpoczęcia prowadzenia studiów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_5/ust_2/pkt_9",
+       "text": "datę zakończenia prowadzenia studiów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_5/ust_2/pkt_10",
+       "text": "przyporządkowanie kierunku studiów do dyscyplin, procentowy udział dyscyplin, w których zgodnie z programem studiów są uzyskiwane efekty uczenia się (przy czym suma udziałów musi być równa 100 %), ze wskazaniem dyscypliny wiodącej, jeżeli dotyczy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_5/ust_2/pkt_11",
+       "text": "informację, czy studia są prowadzone:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_2/pkt_11/lit_a",
+         "text": "w ramach indywidualnych studiów międzydziedzinowych, o których mowa w art. 59 ustawy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_2/pkt_11/lit_b",
+         "text": "z podmiotem, o którym mowa w art. 61 ust. 1 ustawy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_2/pkt_11/lit_c",
+         "text": "jako studia:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_5/ust_2/pkt_11/lit_c/tir_1",
+           "text": "o których mowa w art. 53 ust. 8 ustawy,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_5/ust_2/pkt_11/lit_c/tir_2",
+           "text": "wspólne interdyscyplinarne, o których mowa w art. 53 ust. 8a ustawy,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "par_5/ust_2/pkt_11/lit_c/tir_3",
+           "text": "wspólne, o których mowa w art. 60 ust. 1 ustawy,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "4",
+           "path": "par_5/ust_2/pkt_11/lit_c/tir_4",
+           "text": "dualne, o których mowa w art. 62 ustawy;",
+           "children": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_5/ust_2/pkt_12",
+       "text": "nazwę tytułu zawodowego nadawanego absolwentom studiów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_5/ust_2/pkt_13",
+       "text": "liczbę semestrów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_5/ust_2/pkt_14",
+       "text": "język, w jakim odbywa się kształcenie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_5/ust_2/pkt_15",
+       "text": "formę studiów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "par_5/ust_2/pkt_16",
+       "text": "łączną liczbę godzin zajęć określonych w programie studiów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "par_5/ust_2/pkt_17",
+       "text": "liczbę godzin zajęć określonych w programie studiów, które są realizowane przez nauczycieli akademickich zatrudnionych w uczelni jako podstawowym miejscu pracy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "par_5/ust_2/pkt_18",
+       "text": "określoną w dokumentach wewnętrznych uczelni, wyrażoną w złotych, wysokość opłat dla cyklu kształcenia, który rozpoczął się w bieżącym roku akademickim, w podziale na poszczególne lata studiów:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_2/pkt_18/lit_a",
+         "text": "za kształcenie na studiach niestacjonarnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_2/pkt_18/lit_b",
+         "text": "za kształcenie na studiach stacjonarnych – w przypadku uczelni niepublicznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_2/pkt_18/lit_c",
+         "text": "za kształcenie na studiach w języku obcym,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_5/ust_2/pkt_18/lit_d",
+         "text": "za kształcenie cudzoziemców na studiach stacjonarnych w języku polskim,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_5/ust_2/pkt_18/lit_e",
+         "text": "za powtarzanie zajęć na studiach stacjonarnych z powodu niezadowalających wyników w nauce,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_5/ust_2/pkt_18/lit_f",
+         "text": "za prowadzenie zajęć nieobjętych programem studiów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_5/ust_2/pkt_18/lit_g",
+         "text": "rekrutacyjnej;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "19",
+       "path": "par_5/ust_2/pkt_19",
+       "text": "informację, czy na studiach jest realizowane kształcenie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_2/pkt_19/lit_a",
+         "text": "przygotowujące do wykonywania zawodu nauczyciela,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_2/pkt_19/lit_b",
+         "text": "w ramach filologii obcej, ze wskazaniem języka tej filologii;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "par_5/ust_2/pkt_20",
+       "text": "datę i numer decyzji o cofnięciu pozwolenia na utworzenie studiów oraz datę, z jaką nastąpiło cofnięcie tego pozwolenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "21",
+       "path": "par_5/ust_2/pkt_21",
+       "text": "datę i numer decyzji rektora o zaprzestaniu prowadzenia studiów oraz datę, z jaką zaprzestano ich prowadzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "22",
+       "path": "par_5/ust_2/pkt_22",
+       "text": "informacje dotyczące oceny programowej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_2/pkt_22/lit_a",
+         "text": "datę i numer uchwały Polskiej Komisji Akredytacyjnej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_2/pkt_22/lit_b",
+         "text": "wynik oceny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_2/pkt_22/lit_c",
+         "text": "okres, na który wydano ocenę;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "23",
+       "path": "par_5/ust_2/pkt_23",
+       "text": "informacje dotyczące oceny kompleksowej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_2/pkt_23/lit_a",
+         "text": "datę i numer uchwały Polskiej Komisji Akredytacyjnej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_2/pkt_23/lit_b",
+         "text": "wynik oceny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_2/pkt_23/lit_c",
+         "text": "okres, na który wydano ocenę,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_5/ust_2/pkt_23/lit_d",
+         "text": "dziedziny, w których jakość kształcenia jest szczególnie wysoka, jeżeli zostały wskazane;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "24",
+       "path": "par_5/ust_2/pkt_24",
+       "text": "nazwę kształcenia specjalistycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "25",
+       "path": "par_5/ust_2/pkt_25",
+       "text": "nazwę świadectwa wydawanego w wyniku ukończenia kształcenia specjalistycznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "W zakresie danych, o których mowa w art. 346 ust. 1 pkt 5 ustawy, w wykazie instytucji zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_3/pkt_1",
+       "text": "dyscypliny, w ramach których podmiot prowadzi działalność naukową;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_3/pkt_2",
+       "text": "lata, za które ewaluacja jest przeprowadzana;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_3/pkt_3",
+       "text": "dyscypliny, w których ewaluacja została przeprowadzona zgodnie z art. 265 ust. 4 ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_3/pkt_4",
+       "text": "informację, czy podmiot prowadzi badania naukowe lub prace rozwojowe na rzecz obronności i bezpieczeństwa państwa objęte ochroną informacji niejawnych, ze wskazaniem procentowego udziału czasu pracy poświęconego na tę działalność w czasie pracy związanym z działalnością naukową podmiotu ogółem w poszczególnych dyscyplinach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_3/pkt_5",
+       "text": "informacje, o których mowa w § 2 ust. 10;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_5/ust_3/pkt_6",
+       "text": "opisy wpływu działalności naukowej na funkcjonowanie społeczeństwa i gospodarki zawierające informacje na temat związku między wynikami badań naukowych lub prac rozwojowych albo działalności naukowej w zakresie twórczości artystycznej a gospodarką, funkcjonowaniem administracji publicznej, ochroną zdrowia, kulturą i sztuką, ochroną środowiska naturalnego, bezpieczeństwem i obronnością państwa lub innymi czynnikami wpływającymi na rozwój cywilizacyjny społeczeństwa, zwane dalej „opisami wpływu”, w języku polskim i angielskim, w liczbie określonej w przepisach wydanych na podstawie art. 267 ust. 2 pkt 1 ustawy, z uwzględnieniem:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_3/pkt_6/lit_a",
+         "text": "tytułu każdego opisu wpływu (maksymalnie 150 znaków ze spacjami w każdej wersji językowej),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_3/pkt_6/lit_b",
+         "text": "streszczenia każdego opisu wpływu (maksymalnie 1000 znaków ze spacjami w każdej wersji językowej),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_3/pkt_6/lit_c",
+         "text": "wskazania roku, w którym jest przeprowadzana ewaluacja, w ramach której dany opis wpływu jest zgłaszany do oceny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_5/ust_3/pkt_6/lit_d",
+         "text": "dyscypliny, której dotyczy każdy opis wpływu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_5/ust_3/pkt_6/lit_e",
+         "text": "imion i nazwisk osób, które prowadziły działalność naukową objętą każdym opisem wpływu, oraz – jeżeli są znane – ich numerów ORCID,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_5/ust_3/pkt_6/lit_f",
+         "text": "informacji, czy dany opis wpływu został zgłoszony jako:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_5/ust_3/pkt_6/lit_f/tir_1",
+           "text": "wymagany w związku z liczbą osób ustaloną zgodnie z przepisami wydanymi na podstawie art. 267 ust. 2 pkt 1 ustawy w okresie objętym ewaluacją,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_5/ust_3/pkt_6/lit_f/tir_2",
+           "text": "dodatkowy w związku z:",
+           "children": [
+            {
+             "type": "tir",
+             "num": "1",
+             "path": "par_5/ust_3/pkt_6/lit_f/tir_2/tir_1",
+             "text": "prowadzeniem działalności naukowej w ramach dyscypliny należącej do dziedziny nauk humanistycznych, dziedziny nauk społecznych, dziedziny nauk teologicznych albo dziedziny nauk o rodzinie i jest związany z wybitnymi monografiami naukowymi, słownikami biograficznymi, słownikami bibliograficznymi lub bazami danych, które są szczególnie istotne dla rozwoju danej dziedziny,",
+             "children": []
+            },
+            {
+             "type": "tir",
+             "num": "2",
+             "path": "par_5/ust_3/pkt_6/lit_f/tir_2/tir_2",
+             "text": "prowadzeniem działalności naukowej w ramach dziedziny nauk inżynieryjno-technicznych i jest związany z projektami architektonicznymi, urbanistycznymi lub planami zagospodarowania przestrzennego,",
+             "children": []
+            },
+            {
+             "type": "tir",
+             "num": "3",
+             "path": "par_5/ust_3/pkt_6/lit_f/tir_2/tir_3",
+             "text": "utworzeniem innego podmiotu w celu komercjalizacji wyników badań naukowych lub prac rozwojowych lub know-how związanego z tymi wynikami, zwanej dalej „komercjalizacją”, i jest związany z działalnością utworzonego podmiotu – wraz z podaniem nazwy tego podmiotu",
+             "children": []
+            }
+           ]
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "par_5/ust_3/pkt_6/lit_f/tir_3",
+           "text": "przy czym należy wskazać kolejność uwzględniania opisów wpływu w ewaluacji,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_5/ust_3/pkt_6/lit_g",
+         "text": "informacji o efektach działalności naukowej mających znaczenie dla kreowania wpływu, w tym:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_5/ust_3/pkt_6/lit_g/tir_1",
+           "text": "charakterystyki głównych wniosków z badań naukowych lub prac rozwojowych albo efektów działalności naukowej w zakresie twórczości artystycznej (maksymalnie 2500 znaków ze spacjami w każdej wersji językowej),",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_5/ust_3/pkt_6/lit_g/tir_2",
+           "text": "charakterystyki roli podmiotu w osiągnięciu efektów działalności naukowej (maksymalnie 1000 znaków ze spacjami w każdej wersji językowej),",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "par_5/ust_3/pkt_6/lit_g/tir_3",
+           "text": "opisu bibliograficznego i streszczenia niewięcej niż 5 osiągnięć naukowych, o których mowa w § 2 ust. 10 pkt 1 i 4–6, będących wynikiem badań naukowych lub prac rozwojowych, prowadzonych w okresie objętym ewaluacją albo przed tym okresem, ale zakończonych niewcześniej niż w dwudziestym roku poprzedzającym pierwszy rok objęty ewaluacją – ze wskazaniem głównych autorów tych osiągnięć, którzy są albo byli zatrudnieni w podmiocie albo odbywali w nim kształcenie (maksymalnie 1500 znaków ze spacjami na każde osiągnięcie w każdej wersji językowej), albo opisu niewięcej niż 5 osiągnięć artystycznych, o których mowa w § 2 ust. 10 pkt 7 (maksymalnie 1500 znaków ze spacjami na każde osiągnięcie w każdej wersji językowej); opis bibliograficzny i streszczenie osiągnięcia naukowego albo opis osiągnięcia artystycznego mogą uwzględniać adres strony internetowej, pod którym w dniu umieszczenia opisu wpływu w Systemie POL-on dane osiągnięcie jest dostępne,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_5/ust_3/pkt_6/lit_h",
+         "text": "charakterystyki wpływu działalności naukowej, w tym działalności, której wyniki są przedmiotem komercjalizacji, ze wskazaniem związku między działalnością naukową a tym wpływem oraz grupy społecznej będącej beneficjentem tego wpływu i obszaru, na który działalność naukowa ma największy wpływ (maksymalnie 5000 znaków ze spacjami w każdej wersji językowej),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_5/ust_3/pkt_6/lit_i",
+         "text": "szczegółowej charakterystyki niewięcej niż 5 dowodów wpływu działalności naukowej (maksymalnie 1000 znaków ze spacjami na każdy dowód w każdej wersji językowej), a w przypadku opisu, o którym mowa w lit. f tiret drugie podwójne tiret trzecie – niewięcej niż 5 dowodów wpływu działalności naukowej innego podmiotu utworzonego przez podmiot w celu komercjalizacji; charakterystyka może uwzględniać adres strony internetowej, pod którym w dniu umieszczenia opisu wpływu w Systemie POL-on dany dowód wpływu jest dostępny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_5/ust_3/pkt_6/lit_j",
+         "text": "informacji, czy wpływ powstał w wyniku interdyscyplinarnych badań naukowych lub prac rozwojowych, oraz charakterystyki znaczenia interdyscyplinarności badań naukowych lub prac rozwojowych dla powstania tego wpływu (maksymalnie 1500 znaków ze spacjami w każdej wersji językowej);",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_5/ust_3/pkt_7",
+       "text": "informacje o realizowanych projektach w zakresie badań naukowych, prac rozwojowych lub upowszechniania nauki:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_3/pkt_7/lit_a",
+         "text": "tytuł projektu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_3/pkt_7/lit_b",
+         "text": "streszczenie opisu projektu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_3/pkt_7/lit_c",
+         "text": "słowa kluczowe,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_5/ust_3/pkt_7/lit_d",
+         "text": "dyscypliny, w ramach których projekt jest realizowany w danym podmiocie, ze wskazaniem procentowego udziału tych dyscyplin w projekcie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_5/ust_3/pkt_7/lit_e",
+         "text": "informację, czy projekt dotyczy upowszechniania nauki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_5/ust_3/pkt_7/lit_f",
+         "text": "datę rozpoczęcia realizacji projektu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_5/ust_3/pkt_7/lit_g",
+         "text": "datę zakończenia realizacji projektu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_5/ust_3/pkt_7/lit_h",
+         "text": "informację, czy projekt jest realizowany samodzielnie czy w ramach grupy podmiotów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_5/ust_3/pkt_7/lit_i",
+         "text": "nazwy podmiotów współrealizujących projekt, mających siedzibę na terytorium Rzeczypospolitej Polskiej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_5/ust_3/pkt_7/lit_j",
+         "text": "wskazanie podmiotu będącego liderem grupy podmiotów realizującej projekt,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "par_5/ust_3/pkt_7/lit_k",
+         "text": "informację, czy lider grupy podmiotów realizującej projekt jest podmiotem należącym do systemu szkolnictwa wyższego i nauki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "par_5/ust_3/pkt_7/lit_l",
+         "text": "imiona i nazwisko oraz – jeżeli jest znany – numer ORCID:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_5/ust_3/pkt_7/lit_l/tir_1",
+           "text": "kierownika projektu oraz okres kierowania przez niego projektem – w przypadku podmiotu będącego liderem grupy podmiotów realizującej projekt,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_5/ust_3/pkt_7/lit_l/tir_2",
+           "text": "kierownika zespołu badawczego w tym podmiocie – w przypadku podmiotu współrealizującego projekt,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "m",
+         "path": "par_5/ust_3/pkt_7/lit_m",
+         "text": "informację, czy projekt jest finansowany albo współfinansowany w trybie konkursowym,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "n",
+         "path": "par_5/ust_3/pkt_7/lit_n",
+         "text": "nazwę konkursu, programu albo przedsięwzięcia, w ramach którego projekt jest finansowany,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "o",
+         "path": "par_5/ust_3/pkt_7/lit_o",
+         "text": "nazwę działania lub priorytetu, w ramach których projekt jest finansowany,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "p",
+         "path": "par_5/ust_3/pkt_7/lit_p",
+         "text": "informację, czy projekt jest finansowany z udziałem środków, o których mowa w art. 365 pkt 9 ustawy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "q",
+         "path": "par_5/ust_3/pkt_7/lit_q",
+         "text": "informację, czy projekt jest finansowany:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_5/ust_3/pkt_7/lit_q/tir_1",
+           "text": "przez NCN, Narodowe Centrum Badań i Rozwoju, NAWA, Centrum Łukasiewicz, zagraniczną instytucję finansującą (należy podać nazwę), Fundację na rzecz Nauki Polskiej, Agencję Badań Medycznych, ze środków Europejskiej Rady do spraw Badań Naukowych,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_5/ust_3/pkt_7/lit_q/tir_2",
+           "text": "w ramach Narodowego Programu Rozwoju Humanistyki, programu finansowanego ze środków Funduszu Polskiej Nauki, programu ramowego w zakresie wspierania badań i innowacji Unii Europejskiej albo w ramach programu związanego z wdrażaniem takiego programu lub w ramach programu współfinansowanego ze środków europejskich,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "r",
+         "path": "par_5/ust_3/pkt_7/lit_r",
+         "text": "adres instytucji finansującej, a w przypadku instytucji zagranicznej – jeżeli jest znany,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "s",
+         "path": "par_5/ust_3/pkt_7/lit_s",
+         "text": "wyrażoną w złotych wysokość środków finansowych ogółem przyznanych na realizację projektu, w tym przez instytucje zagraniczne,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "t",
+         "path": "par_5/ust_3/pkt_7/lit_t",
+         "text": "wyrażoną w złotych wysokość środków finansowych przyznanych poszczególnym podmiotom współrealizującym projekt, mającym siedzibę na terytorium Rzeczypospolitej Polskiej, w podziale na środki pochodzące od instytucji finansujących krajowych i zagranicznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "u",
+         "path": "par_5/ust_3/pkt_7/lit_u",
+         "text": "wyrażoną w złotych wysokość wkładu własnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "v",
+         "path": "par_5/ust_3/pkt_7/lit_v",
+         "text": "datę zawarcia umowy lub wydania decyzji przez instytucję finansującą,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "w",
+         "path": "par_5/ust_3/pkt_7/lit_w",
+         "text": "datę rozliczenia środków finansowych przyznanych na realizację projektu.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "W zakresie danych, o których mowa w art. 346 ust. 1 pkt 11 i 12 ustawy, w wykazie instytucji zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_4/pkt_1",
+       "text": "informacje o szkole doktorskiej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_4/pkt_1/lit_a",
+         "text": "nazwę,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_4/pkt_1/lit_b",
+         "text": "datę utworzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_4/pkt_1/lit_c",
+         "text": "adres,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_5/ust_4/pkt_1/lit_d",
+         "text": "w przypadku szkoły doktorskiej prowadzonej wspólnie:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_5/ust_4/pkt_1/lit_d/tir_1",
+           "text": "nazwy podmiotów współprowadzących,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_5/ust_4/pkt_1/lit_d/tir_2",
+           "text": "nazwę podmiotu odpowiedzialnego za wprowadzanie danych do Systemu POL-on i uprawnionego do otrzymywania środków finansowych na wspólne kształcenie,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_5/ust_4/pkt_1/lit_e",
+         "text": "nazwę podmiotu, we współpracy z którym jest prowadzone kształcenie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_5/ust_4/pkt_1/lit_f",
+         "text": "dyscypliny, w których jest prowadzone kształcenie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_5/ust_4/pkt_1/lit_g",
+         "text": "nazwę albo zakres programu kształcenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_5/ust_4/pkt_1/lit_h",
+         "text": "liczbę semestrów przewidzianą w programie kształcenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_5/ust_4/pkt_1/lit_i",
+         "text": "datę zaprzestania kształcenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_5/ust_4/pkt_1/lit_j",
+         "text": "informacje dotyczące ewaluacji jakości kształcenia w szkole doktorskiej:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_5/ust_4/pkt_1/lit_j/tir_1",
+           "text": "daty i numery uchwał Komisji Ewaluacji Nauki, o których mowa w art. 262 ust. 2 i 6 ustawy,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_5/ust_4/pkt_1/lit_j/tir_2",
+           "text": "ocenę będącą wynikiem ewaluacji,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "par_5/ust_4/pkt_1/lit_j/tir_3",
+           "text": "informację, czy zostały zgłoszone zastrzeżenia, o których mowa w art. 262 ust. 4 ustawy,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "4",
+           "path": "par_5/ust_4/pkt_1/lit_j/tir_4",
+           "text": "okres objęty oceną;",
+           "children": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_4/pkt_2",
+       "text": "informacje, o których mowa w § 2 ust. 10, dotyczące osiągnięć naukowych i artystycznych doktorantów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_4/pkt_3",
+       "text": "informacje o organie nadającym stopnie w uczelni:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_4/pkt_3/lit_a",
+         "text": "nazwę organu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_4/pkt_3/lit_b",
+         "text": "nadawane stopnie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_4/pkt_3/lit_c",
+         "text": "dziedziny lub dyscypliny, w których stopnie są nadawane,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_5/ust_4/pkt_3/lit_d",
+         "text": "okres posiadania uprawnień do nadawania stopni.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_5/ust_5",
+     "text": "W zakresie danych, o których mowa w art. 346 ust. 1 pkt 13 i 14 ustawy, w wykazie instytucji zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_5/pkt_1",
+       "text": "rodzaj inwestycji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_5/pkt_2",
+       "text": "nazwę inwestycji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_5/pkt_3",
+       "text": "opis inwestycji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_5/pkt_4",
+       "text": "okres realizacji inwestycji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_5/pkt_5",
+       "text": "status inwestycji (w realizacji albo zrealizowana);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_5/ust_5/pkt_6",
+       "text": "wyrażoną w złotych wysokość nakładów inwestycyjnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_5/ust_5/pkt_7",
+       "text": "źródła finansowania inwestycji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_5/ust_5/pkt_8",
+       "text": "okres trwałości inwestycji, w przypadku gdy jest określony w umowie albo w decyzji o przyznaniu środków finansowych na realizację inwestycji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_5/ust_5/pkt_9",
+       "text": "dane techniczne i rok produkcji:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_5/pkt_9/lit_a",
+         "text": "aparatury naukowo-badawczej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_5/pkt_9/lit_b",
+         "text": "infrastruktury informatycznej",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_5/ust_5/pkt_9/lit_b/tir_1",
+           "text": "o wartości przekraczającej 500 000 zł;",
+           "children": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_5/ust_5/pkt_10",
+       "text": "dane osoby wskazanej przez kierownika podmiotu do kontaktu w sprawach związanych z użytkowaniem infrastruktury sfinansowanej w ramach inwestycji, w tym aparatury naukowo-badawczej lub infrastruktury informatycznej, o wartości przekraczającej 500 000 zł:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_5/pkt_10/lit_a",
+         "text": "imiona i nazwisko,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_5/pkt_10/lit_b",
+         "text": "numer telefonu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_5/pkt_10/lit_c",
+         "text": "adres poczty elektronicznej.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_5/ust_6",
+     "text": "W zakresie danych, o których mowa w art. 346 ust. 1 pkt 15 ustawy, w wykazie instytucji zamieszcza się wyrażoną w złotych wysokość nakładów na badania naukowe i prace rozwojowe (bez amortyzacji środków trwałych) poniesionych ogółem w danym roku budżetowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_5/ust_7",
+     "text": "W zakresie danych, o których mowa w art. 346 ust. 1 pkt 16 ustawy, w wykazie instytucji zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_7/pkt_1",
+       "text": "źródła pochodzenia środków, w tym wysokość środków z:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_7/pkt_1/lit_a",
+         "text": "działalności gospodarczej, z komercjalizacji oraz z usług badawczych świadczonych na zlecenie podmiotów nienależących do systemu szkolnictwa wyższego i nauki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_7/pkt_1/lit_b",
+         "text": "budżetu państwa, z budżetów jednostek samorządu terytorialnego oraz z budżetu Unii Europejskiej, w tym z funduszy strukturalnych i z programów ramowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_7/pkt_1/lit_c",
+         "text": "innych źródeł;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_7/pkt_2",
+       "text": "wynik finansowy podmiotu (w przypadku uczelni publicznej – na podstawie informacji zawartych w sprawozdaniu finansowym);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_7/pkt_3",
+       "text": "informacje o przychodach z usług badawczych świadczonych na zlecenie podmiotów nienależących do systemu szkolnictwa wyższego i nauki:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_7/pkt_3/lit_a",
+         "text": "tytuł, z którego przychód został uzyskany,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_7/pkt_3/lit_b",
+         "text": "nazwę podmiotu, na którego rzecz usługa została wykonana,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_7/pkt_3/lit_c",
+         "text": "wyrażoną w złotych wysokość przychodu z danej usługi,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_5/ust_7/pkt_3/lit_d",
+         "text": "informację, czy przychód został uzyskany przez inny podmiot utworzony przez ten podmiot w celu komercjalizacji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_5/ust_7/pkt_3/lit_e",
+         "text": "dyscypliny, w ramach których przychód został uzyskany, ze wskazaniem procentowego udziału każdej dyscypliny w tym przychodzie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_5/ust_7/pkt_3/lit_f",
+         "text": "rok uzyskania przychodu.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_5/ust_8",
+     "text": "W zakresie danych, o których mowa w art. 346 ust. 1 pkt 17 ustawy, w wykazie instytucji zamieszcza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_8/pkt_1",
+       "text": "tytuł, z którego przychód został uzyskany;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_8/pkt_2",
+       "text": "wyrażoną w złotych wysokość przychodu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_8/pkt_3",
+       "text": "informację, czy przychód został uzyskany przez inny podmiot utworzony przez ten podmiot w celu komercjalizacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_8/pkt_4",
+       "text": "dyscypliny, w ramach których przychód został uzyskany, ze wskazaniem procentowego udziału każdej dyscypliny w tym przychodzie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_8/pkt_5",
+       "text": "rok uzyskania przychodu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "W zakresie danych, o których mowa w art. 349 ust. 1 pkt 1b–3, 4 i 5 ustawy, w bazie osób upoważnionych zamieszcza się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "rodzaj dokumentu, który może zostać podpisany przez osobę upoważnioną;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "nazwę funkcji pełnionej przez osobę upoważnioną w uczelni, instytucie PAN, instytucie badawczym, instytucie międzynarodowym lub CMKP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_6/pkt_3",
+     "text": "datę objęcia funkcji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_6/pkt_4",
+     "text": "odwzorowanie cyfrowe:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_6/pkt_4/lit_a",
+       "text": "pieczątki imiennej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_6/pkt_4/lit_b",
+       "text": "wzoru podpisu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_6/pkt_4/lit_c",
+       "text": "wzoru parafy;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_6/pkt_5",
+     "text": "datę zakończenia pełnienia funkcji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_6/pkt_6",
+     "text": "wzór pieczęci urzędowej uczelni, instytutu PAN, instytutu badawczego, instytutu międzynarodowego lub CMKP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_6/pkt_7",
+     "text": "datę wprowadzenia pieczęci urzędowej do użytku;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_6/pkt_8",
+     "text": "datę wycofania pieczęci urzędowej z użytku albo jej zaginięcia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_6/pkt_9",
+     "text": "wzory dokumentów, o których mowa w art. 349 ust. 1 pkt 5 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_6/pkt_10",
+     "text": "datę wprowadzenia wzorów dokumentów, o których mowa w art. 349 ust. 1 pkt 5 ustawy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Wprowadzanie danych do baz danych Systemu POL-on, aktualizowanie danych w tych bazach, oznaczanie danych w tych bazach jako danych archiwalnych i usuwanie danych z tych baz odbywa się za pomocą konta w Systemie POL-on założonego przez ministra dla:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "uczelni;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "uczelni prowadzonej przez kościół lub inny związek wyznaniowy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_1/pkt_3",
+       "text": "instytutu PAN;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_7/ust_1/pkt_4",
+       "text": "instytutu badawczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_7/ust_1/pkt_5",
+       "text": "instytutu międzynarodowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_7/ust_1/pkt_6",
+       "text": "Centrum Łukasiewicz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_7/ust_1/pkt_7",
+       "text": "instytutu Sieci Łukasiewicz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_7/ust_1/pkt_8",
+       "text": "CMKP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_7/ust_1/pkt_9",
+       "text": "PAU;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_7/ust_1/pkt_10",
+       "text": "innego podmiotu prowadzącego głównie działalność naukową w sposób samodzielny i ciągły, posiadającego siedzibę na terytorium Rzeczypospolitej Polskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_7/ust_1/pkt_11",
+       "text": "Rady Doskonałości Naukowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Wniosek o założenie konta w Systemie POL-on składa osoba kierująca podmiotem, o którym mowa w ust. 1:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_2/pkt_1",
+       "text": "pkt 1–5 i 7 – w terminie 7 dni od dnia utworzenia podmiotu, a w przypadku uczelni niepublicznej – od dnia wpisania podmiotu do ewidencji uczelni niepublicznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_2/pkt_2",
+       "text": "pkt 10 – niewcześniej niż po upływie roku od dnia utworzenia podmiotu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Wniosek o założenie konta w Systemie POL-on dla podmiotu, o którym mowa w ust. 1 pkt 1–5 i 7, zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_3/pkt_1",
+       "text": "nazwę;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_3/pkt_2",
+       "text": "dane adresowe:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_7/ust_3/pkt_2/lit_a",
+         "text": "ulicę, numer budynku, numer lokalu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_7/ust_3/pkt_2/lit_b",
+         "text": "kod pocztowy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_7/ust_3/pkt_2/lit_c",
+         "text": "miejscowość,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_7/ust_3/pkt_2/lit_d",
+         "text": "województwo,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_7/ust_3/pkt_2/lit_e",
+         "text": "jednostkę podziału terytorialnego, o której mowa w § 5 ust. 1 pkt 6 lit. e,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_7/ust_3/pkt_2/lit_f",
+         "text": "adres elektronicznej skrzynki podawczej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_7/ust_3/pkt_2/lit_g",
+         "text": "adres do doręczeń elektronicznych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_3/pkt_3",
+       "text": "datę utworzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_7/ust_3/pkt_4",
+       "text": "numer identyfikacyjny REGON, NIP albo numer z KRS, jeżeli został nadany;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_7/ust_3/pkt_5",
+       "text": "imiona i nazwisko oraz adres poczty elektronicznej osoby, która będzie uprawniona do obsługi konta.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Wniosek o założenie konta w Systemie POL-on dla podmiotu, o którym mowa w ust. 1 pkt 10, zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_4/pkt_1",
+       "text": "nazwę;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_4/pkt_2",
+       "text": "dane adresowe:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_7/ust_4/pkt_2/lit_a",
+         "text": "ulicę, numer budynku, numer lokalu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_7/ust_4/pkt_2/lit_b",
+         "text": "kod pocztowy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_7/ust_4/pkt_2/lit_c",
+         "text": "miejscowość,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_7/ust_4/pkt_2/lit_d",
+         "text": "województwo,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_7/ust_4/pkt_2/lit_e",
+         "text": "jednostkę podziału terytorialnego, o której mowa w § 5 ust. 1 pkt 6 lit. e,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_7/ust_4/pkt_2/lit_f",
+         "text": "adres elektronicznej skrzynki podawczej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_7/ust_4/pkt_2/lit_g",
+         "text": "adres do doręczeń elektronicznych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_4/pkt_3",
+       "text": "datę utworzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_7/ust_4/pkt_4",
+       "text": "numer identyfikacyjny REGON, NIP albo numer z KRS, jeżeli został nadany;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_7/ust_4/pkt_5",
+       "text": "imiona i nazwisko oraz adres poczty elektronicznej osoby, która będzie uprawniona do obsługi konta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_7/ust_4/pkt_6",
+       "text": "charakterystykę działalności naukowej podmiotu, w tym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_7/ust_4/pkt_6/lit_a",
+         "text": "dyscypliny, w ramach których podmiot prowadzi działalność naukową,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_7/ust_4/pkt_6/lit_b",
+         "text": "opis prowadzonej działalności naukowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_7/ust_4/pkt_6/lit_c",
+         "text": "informacje potwierdzające prowadzenie przez podmiot głównie działalności naukowej w sposób samodzielny i ciągły;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_7/ust_4/pkt_7",
+       "text": "liczbę osób zatrudnionych w ramach stosunku pracy, w przeliczeniu na pełny wymiar czasu pracy, prowadzących działalność naukową;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_7/ust_4/pkt_8",
+       "text": "wykaz artykułów naukowych lub monografii naukowych autorstwa osób zatrudnionych w podmiocie, które zostały opublikowane w okresie 24 miesięcy poprzedzających miesiąc złożenia wniosku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_7/ust_4/pkt_9",
+       "text": "wykaz patentów na wynalazki, praw ochronnych na wzory użytkowe lub wyłącznych praw hodowców do odmian roślin, które zostały uzyskane w okresie 24 miesięcy poprzedzających miesiąc złożenia wniosku, a których autorami, twórcami lub hodowcami są osoby zatrudnione w podmiocie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_7/ust_4/pkt_10",
+       "text": "informacje o posiadanej aparaturze naukowo-badawczej i infrastrukturze informatycznej o wartości przekraczającej jednostkowo 500 000 zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_7/ust_4/pkt_11",
+       "text": "informacje o projektach w zakresie badań naukowych, prac rozwojowych lub upowszechniania nauki realizowanych w okresie 24 miesięcy poprzedzających miesiąc złożenia wniosku:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_7/ust_4/pkt_11/lit_a",
+         "text": "tytuł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_7/ust_4/pkt_11/lit_b",
+         "text": "okres realizacji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_7/ust_4/pkt_11/lit_c",
+         "text": "źródła finansowania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_7/ust_4/pkt_11/lit_d",
+         "text": "informację, czy projekt jest realizowany samodzielnie czy we współpracy z innymi podmiotami,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_7/ust_4/pkt_11/lit_e",
+         "text": "w przypadku projektu realizowanego we współpracy z innymi podmiotami – nazwy podmiotów biorących udział w realizacji projektu albo tworzących konsorcjum;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_7/ust_4/pkt_12",
+       "text": "informacje o przychodach ogółem uzyskanych w roku poprzedzającym rok złożenia wniosku, ze wskazaniem udziału przychodów z komercjalizacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_7/ust_5",
+     "text": "Do wniosku o założenie konta w Systemie POL-on podmiot, o którym mowa w ust. 1 pkt 10, dołącza informację o realizacji obowiązku sprawozdawczego wynikającego z art. 30 ust. 1 pkt 3 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, dotyczącego działalności badawczej i rozwojowej (B+R) za rok poprzedzający rok złożenia wniosku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_7/ust_6",
+     "text": "Wniosek o założenie konta w Systemie POL-on składa się w formie dokumentu elektronicznego opatrzonego podpisem zaufanym, kwalifikowanym podpisem elektronicznym albo podpisem osobistym za pomocą elektronicznej skrzynki podawczej ministra albo z wykorzystaniem publicznej usługi rejestrowanego doręczenia elektronicznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "W przypadku utworzenia podmiotu, o którym mowa w § 7 ust. 1 pkt 1–5, 7 i 10, dane do baz danych, o których mowa w art. 342 ust. 3 pkt 1–4 i 7 ustawy, wprowadza się w terminie 30 dni od dnia założenia konta w Systemie POL-on.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Rektor, rektor uczelni prowadzonej przez kościół lub inny związek wyznaniowy otrzymującej subwencje, dotacje i inne środki z budżetu państwa, dyrektor instytutu PAN, dyrektor instytutu badawczego, dyrektor instytutu międzynarodowego, prezes Centrum Łukasiewicz, dyrektor instytutu Sieci Łukasiewicz, dyrektor CMKP, prezes PAU i osoba kierująca innym podmiotem prowadzącym głównie działalność naukową w sposób samodzielny i ciągły, posiadającym siedzibę na terytorium Rzeczypospolitej Polskiej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_1/pkt_1",
+       "text": "wprowadzają dane do wykazu pracowników w terminie 30 dni od dnia zatrudnienia nauczyciela akademickiego, innej osoby prowadzącej zajęcia, osoby prowadzącej działalność naukową lub biorącej udział w jej prowadzeniu, zwanych dalej łącznie „pracownikami”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_1/pkt_2",
+       "text": "aktualizują dane w wykazie pracowników w terminie 30 dni od dnia zaistnienia zmiany albo uzyskania informacji o zmianie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_1/pkt_3",
+       "text": "oznaczają dane w wykazie pracowników jako archiwalne w terminie 30 dni od dnia ustania zatrudnienia pracownika.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Do wykazu pracowników dane, o których mowa w art. 343 ust. 1:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_2/pkt_1",
+       "text": "pkt 10 ustawy, wprowadzają rektor, dyrektor instytutu PAN, dyrektor instytutu badawczego, dyrektor instytutu międzynarodowego, dyrektor CMKP i osoba kierująca innym podmiotem prowadzącym głównie działalność naukową w sposób samodzielny i ciągły, posiadającym siedzibę na terytorium Rzeczypospolitej Polskiej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_2/pkt_2",
+       "text": "pkt 11, 12 i 16 ustawy, wprowadzają rektor, rektor uczelni prowadzonej przez kościół lub inny związek wyznaniowy otrzymującej subwencje, dotacje i inne środki z budżetu państwa, dyrektor instytutu PAN, dyrektor instytutu badawczego, dyrektor instytutu międzynarodowego, dyrektor CMKP, prezes PAU i osoba kierująca innym podmiotem prowadzącym głównie działalność naukową w sposób samodzielny i ciągły, posiadającym siedzibę na terytorium Rzeczypospolitej Polskiej",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_9/ust_2/pkt_2/tir_1",
+         "text": "w terminie 30 dni od dnia zatrudnienia pracownika.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Podmiot, o którym mowa w ust. 1, w terminie do dnia 31 grudnia roku następującego po roku zaistnienia zmiany wprowadza do wykazu pracowników dane, o których mowa w art. 343 ust. 1 pkt 21 ustawy. W przypadku osiągnięć naukowych lub artystycznych uzyskanych w roku poprzedzającym rok przeprowadzenia ewaluacji dane dotyczące tych osiągnięć wprowadza się w terminie do dnia 15 stycznia roku, w którym ewaluacja jest przeprowadzana.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_9/ust_4",
+     "text": "Rektor i dyrektor CMKP, a w przypadku, o którym mowa w art. 343 ust. 4 ustawy – minister, niezwłocznie po uzyskaniu informacji o uprawomocnieniu się orzeczenia kary dyscyplinarnej, o której mowa w art. 276 ust. 1 pkt 4–8 ustawy, albo o prawomocnym orzeczeniu, o którym mowa w art. 180 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, wprowadzają do wykazu pracowników dane, o których mowa w art. 343 ust. 1 pkt 20 ustawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_9/ust_5",
+     "text": "Rektor i dyrektor CMKP albo minister usuwają z wykazu pracowników dane, o których mowa w art. 343 ust. 1 pkt 20 ustawy, niezwłocznie po uzyskaniu informacji o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_5/pkt_1",
+       "text": "zatarciu kary dyscyplinarnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_5/pkt_2",
+       "text": "uchyleniu orzeczenia o ukaraniu karą dyscyplinarną;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_5/pkt_3",
+       "text": "zatarciu skazania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_9/ust_5/pkt_4",
+       "text": "uchyleniu wyroku sądu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_9/ust_6",
+     "text": "Dane w wykazie pracowników przechowuje się przez okres 20 lat, liczony od roku następującego po roku, w którym oznaczono te dane jako archiwalne. Po upływie tego okresu podmiot, o którym mowa w ust. 1, usuwa dane archiwalne z wykazu pracowników.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_9/ust_7",
+     "text": "Danych służących upowszechnianiu wyników działalności naukowej, o których mowa w art. 343 ust. 1 pkt 1, 3, 8, 10, 13, 18, 19 i 21 ustawy, nie usuwa się.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_9/ust_8",
+     "text": "Przewodniczący Rady Doskonałości Naukowej wprowadza do wykazu pracowników dane o utracie tytułu profesora w terminie 21 dni od dnia doręczenia prawomocnego orzeczenia sądu, o którym mowa w art. 231 ust. 1 ustawy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Rektor i rektor uczelni prowadzonej przez kościół lub inny związek wyznaniowy otrzymującej subwencje, dotacje i inne środki z budżetu państwa:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_1/pkt_1",
+       "text": "wprowadzają dane do wykazu studentów w terminie 30 dni od dnia rozpoczęcia nowego cyklu kształcenia w danym roku akademickim;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_1/pkt_2",
+       "text": "aktualizują dane w wykazie studentów, o których mowa w art. 344 ust. 1 pkt 8 ustawy, w terminie 30 dni od dnia zakończenia semestru, a w przypadku studiów prowadzonych w rozliczeniu rocznym – od dnia zakończenia roku studiów, a pozostałe dane dotyczące studenta – w terminie 30 dni od dnia uzyskania informacji o zmianie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_1/pkt_3",
+       "text": "oznaczają dane w wykazie studentów jako archiwalne w terminie 30 dni od dnia ukończenia studiów albo od dnia, w którym decyzja o skreśleniu z listy studentów stała się ostateczna.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Dane w wykazie studentów przechowuje się przez okres 20 lat, liczony od roku następującego po roku, w którym oznaczono te dane jako archiwalne. Po upływie tego okresu podmiot, o którym mowa w ust. 1, niezwłocznie usuwa dane archiwalne z wykazu studentów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Rektor, rektor uczelni prowadzonej przez kościół lub inny związek wyznaniowy, dyrektor instytutu PAN, dyrektor instytutu badawczego, dyrektor instytutu międzynarodowego i dyrektor CMKP:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_1/pkt_1",
+       "text": "wprowadzają do wykazu osób ubiegających się o stopień doktora dane:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_11/ust_1/pkt_1/lit_a",
+         "text": "w terminie 30 dni od dnia rozpoczęcia przez doktoranta kształcenia w szkole doktorskiej albo od dnia wszczęcia postępowania w sprawie nadania stopnia doktora w trybie eksternistycznym,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_11/ust_1/pkt_1/lit_b",
+         "text": "o których mowa w art. 345 ust. 1 pkt 16 ustawy, w terminie do dnia 31 grudnia roku następującego po roku zaistnienia zmiany; przepis § 9 ust. 3 zdanie drugie stosuje się;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_1/pkt_2",
+       "text": "aktualizują dane w wykazie osób ubiegających się o stopień doktora w terminie 21 dni od dnia zaistnienia zmiany albo uzyskania informacji o zmianie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_1/pkt_3",
+       "text": "oznaczają dane w wykazie osób ubiegających się o stopień doktora jako archiwalne w terminie 21 dni od dnia, w którym decyzja:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_11/ust_1/pkt_3/lit_a",
+         "text": "o nadaniu stopnia doktora,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_11/ust_1/pkt_3/lit_b",
+         "text": "o odmowie nadania stopnia doktora,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_11/ust_1/pkt_3/lit_c",
+         "text": "o umorzeniu postępowania w sprawie nadania stopnia doktora,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_11/ust_1/pkt_3/lit_d",
+         "text": "w sprawie stwierdzenia nieważności decyzji o nadaniu stopnia doktora,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_11/ust_1/pkt_3/lit_e",
+         "text": "uchylająca decyzję o nadaniu stopnia doktora i rozstrzygająca sprawę co do istoty,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_11/ust_1/pkt_3/lit_f",
+         "text": "o skreśleniu doktoranta z listy doktorantów",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_11/ust_1/pkt_3/lit_f/tir_1",
+           "text": "stała się prawomocna.",
+           "children": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Dane w wykazie osób ubiegających się o stopień doktora przechowuje się przez okres 20 lat, liczony od roku następującego po roku, w którym oznaczono te dane jako archiwalne. Po upływie tego okresu podmiot, o którym mowa w ust. 1, niezwłocznie usuwa dane archiwalne z wykazu osób ubiegających się o stopień doktora.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Danych służących upowszechnianiu wyników działalności naukowej, o których mowa w art. 345 ust. 1 pkt 1, 3, 12, 13 i 16 ustawy, nie usuwa się.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Rektor, dyrektor instytutu PAN, dyrektor instytutu badawczego, dyrektor instytutu międzynarodowego, dyrektor CMKP, prezes PAU i osoba kierująca innym podmiotem prowadzącym głównie działalność naukową w sposób samodzielny i ciągły, posiadającym siedzibę na terytorium Rzeczypospolitej Polskiej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_1/pkt_1",
+       "text": "wprowadzają dane, o których mowa w art. 346 ust. 1 pkt 6 i 7 ustawy, do wykazu instytucji w terminie 21 dni od dnia utworzenia studiów na określonym kierunku, poziomie i profilu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_1/pkt_2",
+       "text": "wprowadzają dane, o których mowa w art. 346 ust. 1 pkt 11 ustawy, do wykazu instytucji w zakresie, o którym mowa w § 5 ust. 4 pkt 1:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_12/ust_1/pkt_2/lit_a",
+         "text": "lit. a–i, w terminie 21 dni od dnia utworzenia szkoły doktorskiej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_12/ust_1/pkt_2/lit_b",
+         "text": "lit. j, w terminie 21 dni od dnia, w którym uchwała w sprawie oceny jakości kształcenia w szkole doktorskiej stała się ostateczna;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_12/ust_1/pkt_3",
+       "text": "aktualizują w wykazie instytucji dane, o których mowa w art. 346 ust. 1:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_12/ust_1/pkt_3/lit_a",
+         "text": "pkt 1–6, 8, 9, 11 i 12 ustawy, w terminie 21 dni od dnia zaistnienia zmiany,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_12/ust_1/pkt_3/lit_b",
+         "text": "pkt 7 ustawy, w terminie 21 dni od dnia rozpoczęcia prowadzenia studiów na określonym kierunku, poziomie i profilu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_12/ust_1/pkt_3/lit_c",
+         "text": "pkt 13–17 ustawy, w terminie do dnia 31 marca następnego roku, według stanu na dzień 31 grudnia, z wyjątkiem danych, o których mowa w art. 346 ust. 1 pkt 16 ustawy w zakresie informacji o przychodach z usług badawczych świadczonych na zlecenie podmiotów nienależących do systemu szkolnictwa wyższego i nauki oraz art. 346 ust. 1 pkt 17 ustawy, dotyczących roku poprzedzającego rok przeprowadzenia ewaluacji – które aktualizują w terminie do dnia 15 stycznia roku, w którym ewaluacja jest przeprowadzana;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_12/ust_1/pkt_4",
+       "text": "oznaczają dane, o których mowa w art. 346 ust. 1 pkt 6 i 7 ustawy, jako archiwalne w terminie 21 dni od dnia zaprzestania prowadzenia studiów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Prezes Centrum Łukasiewicz i dyrektor instytutu Sieci Łukasiewicz aktualizują w wykazie instytucji dane, o których mowa w art. 346 ust. 1:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_2/pkt_1",
+       "text": "pkt 1–3 i 5 ustawy, w terminie 21 dni od dnia zaistnienia zmiany;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_2/pkt_2",
+       "text": "pkt 13–17 ustawy, w terminie do dnia 31 marca następnego roku, według stanu na dzień 31 grudnia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Dane, o których mowa w art. 346 ust. 1 pkt 10 ustawy, minister wprowadza do wykazu instytucji w terminie do dnia 15 lutego roku akademickiego, w którym rozpoczęto prowadzenie studiów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_12/ust_4",
+     "text": "Jeżeli prowadzenie studiów rozpoczęto po dniu 15 lutego, dane, o których mowa w art. 346 ust. 1 pkt 10 ustawy, minister wprowadza do wykazu instytucji do dnia 15 lutego następnego roku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_12/ust_5",
+     "text": "Dane w wykazie instytucji nie są archiwizowane i nie są usuwane, z wyjątkiem danych, o których mowa w art. 346 ust. 1 pkt 6 i 7 ustawy – które są przechowywane przez okres 20 lat, liczony od roku następującego po roku, w którym oznaczono te dane jako archiwalne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Pisemne prace dyplomowe są wprowadzane do repozytorium pisemnych prac dyplomowych przez interfejs użytkownika systemu teleinformatycznego, przy użyciu którego jest zapewniane funkcjonowanie tego repozytorium, lub przez usługę sieciową udostępnioną w systemie teleinformatycznym, przy użyciu której jest zapewniane funkcjonowanie tego repozytorium, w następujących formatach: TXT, RTF, PDF, XPS, ODT, ODS, ODP, DOC, XLS, PPT, DOCX, XLSX, PPTX, CSV.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Do pisemnej pracy dyplomowej mogą być dołączone załączniki w formatach innych niż wymienione w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Rozmiar pisemnej pracy dyplomowej nie może przekroczyć 20 MB.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_13/ust_4",
+     "text": "Danych zamieszczonych w repozytorium pisemnych prac dyplomowych nie aktualizuje się, nie oznacza się jako archiwalnych i nie usuwa się.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Rektor, rektor uczelni prowadzonej przez kościół lub inny związek wyznaniowy, dyrektor instytutu PAN, dyrektor instytutu badawczego, dyrektor instytutu międzynarodowego, dyrektor CMKP i przewodniczący Rady Doskonałości Naukowej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_1/pkt_1",
+       "text": "wprowadzają do bazy dokumentów w postępowaniach awansowych dane osób ubiegających się o:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_14/ust_1/pkt_1/lit_a",
+         "text": "stopień doktora albo o tytuł profesora – w terminie 30 dni od dnia wszczęcia postępowania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_14/ust_1/pkt_1/lit_b",
+         "text": "stopień doktora habilitowanego – w terminie 30 dni od dnia powołania komisji habilitacyjnej;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_1/pkt_2",
+       "text": "aktualizują dane w bazie dokumentów w postępowaniach awansowych niezwłocznie po zaistnieniu zmiany albo po uzyskaniu informacji o zmianie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Danych zamieszczonych w bazie dokumentów w postępowaniach awansowych nie oznacza się jako archiwalnych i nie usuwa się.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Rektor, dyrektor instytutu PAN, dyrektor instytutu badawczego, dyrektor instytutu międzynarodowego i dyrektor CMKP:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_1/pkt_1",
+       "text": "wprowadzają dane do bazy osób upoważnionych niezwłocznie po objęciu funkcji przez osobę upoważnioną do podpisywania dokumentów albo po wprowadzeniu wzoru pieczęci urzędowej lub wzoru dokumentu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_1/pkt_2",
+       "text": "aktualizują dane w bazie osób upoważnionych niezwłocznie po zaistnieniu zmiany;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_15/ust_1/pkt_3",
+       "text": "oznaczają dane w bazie osób upoważnionych jako archiwalne niezwłocznie po zakończeniu sprawowania funkcji przez osobę upoważnioną do podpisywania dokumentów albo po wprowadzeniu nowego wzoru pieczęci urzędowej lub nowego wzoru dokumentu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Danych zamieszczonych w bazie osób upoważnionych nie usuwa się.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Rektor, rektor uczelni prowadzonej przez kościół lub inny związek wyznaniowy otrzymującej subwencje, dotacje i inne środki z budżetu państwa, dyrektor instytutu PAN, dyrektor instytutu badawczego, dyrektor instytutu międzynarodowego, prezes Centrum Łukasiewicz, dyrektor instytutu Sieci Łukasiewicz, dyrektor CMKP, prezes PAU i osoba kierująca innym podmiotem prowadzącym głównie działalność naukową w sposób samodzielny i ciągły, posiadającym siedzibę na terytorium Rzeczypospolitej Polskiej, wprowadzają do bazy dokumentów planistyczno-sprawozdawczych odpowiednio:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_16/ust_1/pkt_1",
+       "text": "w terminie do dnia 30 czerwca danego roku:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_16/ust_1/pkt_1/lit_a",
+         "text": "plany rzeczowo-finansowe uczelni publicznych i CMKP,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_16/ust_1/pkt_1/lit_b",
+         "text": "roczny plan finansowy Centrum Łukasiewicz,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_16/ust_1/pkt_1/lit_c",
+         "text": "roczne plany finansowe instytutów Sieci Łukasiewicz;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_16/ust_1/pkt_2",
+       "text": "w terminie do dnia:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_16/ust_1/pkt_2/lit_a",
+         "text": "30 czerwca roku następującego po roku, za który są składane:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_16/ust_1/pkt_2/lit_a/tir_1",
+           "text": "sprawozdania z wykonania planów rzeczowo-finansowych uczelni publicznych i CMKP,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_16/ust_1/pkt_2/lit_a/tir_2",
+           "text": "roczne sprawozdania finansowe uczelni publicznych i CMKP zbadane przez firmę audytorską,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "par_16/ust_1/pkt_2/lit_a/tir_3",
+           "text": "roczne sprawozdanie finansowe Centrum Łukasiewicz zbadane przez firmę audytorską,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_16/ust_1/pkt_2/lit_b",
+         "text": "30 września roku następującego po roku, za który są składane – roczne sprawozdania finansowe instytutów Sieci Łukasiewicz zbadane przez firmę audytorską, o ile taki obowiązek wynika z przepisów odrębnych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_16/ust_1/pkt_3",
+       "text": "sprawozdania z wykorzystania środków finansowych, o których mowa w art. 365:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_16/ust_1/pkt_3/lit_a",
+         "text": "pkt 1 i 2 ustawy – w terminie do dnia 30 czerwca roku następującego po roku, za który są składane,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_16/ust_1/pkt_3/lit_b",
+         "text": "pkt 3, 6 i 8 ustawy – w terminie do dnia 31 marca roku następującego po roku, za który są składane,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_16/ust_1/pkt_3/lit_c",
+         "text": "składane w trybie art. 427 ust. 1 ustawy – w terminie 21 dni od dnia otrzymania wezwania ministra do złożenia danego sprawozdania;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_16/ust_1/pkt_4",
+       "text": "raporty z wykorzystania środków finansowych, o których mowa w art. 365 pkt 2a, 2b oraz pkt 4 lit. c i d ustawy – w terminie do dnia 30 kwietnia roku następującego po roku, na który środki finansowe zostały przyznane;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_16/ust_1/pkt_5",
+       "text": "raporty z wykorzystania środków finansowych, o których mowa w art. 365 pkt 4 lit. a i b ustawy – w przypadku inwestycji, o których mowa w:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_16/ust_1/pkt_5/lit_a",
+         "text": "art. 373 ust. 1 pkt 1 i 2 oraz ust. 3 pkt 1–3 ustawy – w terminie:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_16/ust_1/pkt_5/lit_a/tir_1",
+           "text": "do dnia 28 lutego roku następującego po roku, na który środki finansowe zostały przyznane, jako raport roczny,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_16/ust_1/pkt_5/lit_a/tir_2",
+           "text": "60 dni od dnia, w którym została uregulowana ostatnia płatność związana z finansowaniem inwestycji, jako raport końcowy,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_16/ust_1/pkt_5/lit_b",
+         "text": "art. 373 ust. 1 pkt 3 i ust. 3 pkt 4 ustawy – w terminie:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_16/ust_1/pkt_5/lit_b/tir_1",
+           "text": "do dnia 31 marca roku następującego po roku, na który środki finansowe zostały przyznane, jako raport roczny,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_16/ust_1/pkt_5/lit_b/tir_2",
+           "text": "90 dni od dnia, w którym została uregulowana ostatnia płatność związana z finansowaniem inwestycji, jako raport końcowy;",
+           "children": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_16/ust_1/pkt_6",
+       "text": "raporty z wykorzystania środków finansowych, o których mowa w art. 365 pkt 5 ustawy – w terminie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_16/ust_1/pkt_6/lit_a",
+         "text": "do dnia 31 marca roku następującego po roku, na który środki finansowe zostały przyznane, jako raport roczny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_16/ust_1/pkt_6/lit_b",
+         "text": "90 dni od daty zakończenia realizacji zadania, na które przyznano środki finansowe, jako raport końcowy;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_16/ust_1/pkt_7",
+       "text": "raporty z wykorzystania środków finansowych, o których mowa w art. 365 pkt 7 ustawy – w terminie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_16/ust_1/pkt_7/lit_a",
+         "text": "do dnia 31 marca roku następującego po roku, na który środki finansowe zostały przyznane, a w przypadku:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_16/ust_1/pkt_7/lit_a/tir_1",
+           "text": "programu lub przedsięwzięcia związanych z kształceniem – w terminie do dnia 5 października roku następującego po roku akademickim, na który środki finansowe zostały przyznane, jako raport roczny,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_16/ust_1/pkt_7/lit_a/tir_2",
+           "text": "projektu międzynarodowego współfinansowanego – w terminie do dnia 31 marca roku następującego po roku, w którym zawarto umowę lub w którym instytucja finansująca wydała decyzję, jako raport roczny,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_16/ust_1/pkt_7/lit_b",
+         "text": "60 dni od dnia zakończenia realizacji projektu lub zadania w ramach programu lub przedsięwzięcia, jako raport końcowy, a w przypadku projektu międzynarodowego współfinansowanego – w terminie:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_16/ust_1/pkt_7/lit_b/tir_1",
+           "text": "60 dni od dnia zakończenia realizacji projektu, jako raport wstępny końcowy,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_16/ust_1/pkt_7/lit_b/tir_2",
+           "text": "30 dni od dnia otrzymania rozliczenia finansowego dokonanego przez instytucję zagraniczną, jako raport końcowy.",
+           "children": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Danych zamieszczonych w bazie dokumentów planistyczno-sprawozdawczych nie aktualizuje się, z wyjątkiem danych, o których mowa w art. 350 ust. 1 pkt 3 ustawy. Dane te aktualizuje się w przypadku wezwania przez ministra, w terminie wskazanym w wezwaniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Dane zamieszczone w bazie dokumentów planistyczno-sprawozdawczych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_16/ust_3/pkt_1",
+       "text": "oznacza się jako archiwalne po upływie roku od dnia ich wprowadzenia do bazy, określonego zgodnie z ust. 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_16/ust_3/pkt_2",
+       "text": "usuwa się po upływie 10 lat, liczonych od roku następującego po roku, w którym oznaczono te dane jako archiwalne.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Dyplom ukończenia studiów, suplement do dyplomu, dyplom doktorski, dyplom habilitacyjny i odpisy tych dokumentów w językach obcych w postaci elektronicznej sporządza się w formacie XML zgodnym ze schematem XSD udostępnionym przez ministra na stronie internetowej Systemu POL-on, kodowanym w standardzie UTF-8.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Integralność danych zawartych w dokumentach, o których mowa w ust. 1, zapewnia się przez opatrzenie danego dokumentu kwalifikowanym podpisem elektronicznym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "W przypadku każdego dokumentu, o którym mowa w § 17 ust. 1, przechowywanego w repozytorium dyplomów elektronicznych zapewnia się jego wizualną prezentację w postaci dokumentu, o którym mowa w art. 347a ust. 10 ustawy, w formacie PDF.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Wizualna prezentacja, o której mowa w ust. 1:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_2/pkt_1",
+       "text": "jest generowana automatycznie na podstawie danych zawartych w dokumencie w formacie XML;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_2/pkt_2",
+       "text": "odpowiada strukturze logicznej oraz zakresowi danych określonym w schemacie XSD właściwym dla danego rodzaju dokumentu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_2/pkt_3",
+       "text": "stanowi wierne i czytelne odwzorowanie treści dokumentu w formacie XML.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "W celu wydania w postaci elektronicznej dyplomu ukończenia studiów uczelnia wprowadza do repozytorium dyplomów elektronicznych numer albumu studenta.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "W celu wydania w postaci elektronicznej:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_20/pkt_1",
+     "text": "dyplomu ukończenia studiów uczelnia może wprowadzić do repozytorium dyplomów elektronicznych następujące dodatkowe elementy tego dyplomu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_20/pkt_1/lit_a",
+       "text": "informację o wyróżnieniu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_20/pkt_1/lit_b",
+       "text": "zakres studiów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_20/pkt_1/lit_c",
+       "text": "jednostkę organizacyjną uczelni, w której jest realizowane kształcenie na studiach,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_20/pkt_1/lit_d",
+       "text": "dane osoby upoważnionej przez rektora innej niż osoba upoważniona do podpisania dyplomu określona w przepisach wydanych na podstawie art. 81 ustawy: imię i nazwisko, tytuł zawodowy, stopień lub tytuł profesora oraz funkcję pełnioną w uczelni;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_20/pkt_2",
+     "text": "dyplomu doktorskiego i dyplomu habilitacyjnego podmiot systemu szkolnictwa wyższego i nauki może wprowadzić do repozytorium dyplomów elektronicznych następujące dodatkowe elementy tych dyplomów:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_20/pkt_2/lit_a",
+       "text": "informację o treści: „Wydany w Rzeczypospolitej Polskiej”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_20/pkt_2/lit_b",
+       "text": "nazwę organu, który podjął uchwałę w sprawie nadania stopnia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_20/pkt_2/lit_c",
+       "text": "numer uchwały w sprawie nadania stopnia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_20/pkt_2/lit_d",
+       "text": "dane osoby upoważnionej przez kierownika podmiotu nadającego stopień innej niż osoba upoważniona do podpisania dyplomu określona w przepisach wydanych na podstawie art. 181 ustawy: imię i nazwisko, tytuł zawodowy, stopień lub tytuł profesora oraz funkcję pełnioną w tym podmiocie.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "W celu wydania odpisu:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_21/pkt_1",
+     "text": "dyplomu ukończenia studiów i suplementu do dyplomu w językach obcych, o których mowa w art. 77 ust. 2a ustawy, uczelnia stosuje przechowywane w repozytorium dyplomów elektronicznych przetłumaczone na te języki:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_21/pkt_1/lit_a",
+       "text": "dane stanowiące niezbędne elementy dyplomu ukończenia studiów i dane wskazane we wzorze suplementu do dyplomu, określone w przepisach wydanych na podstawie art. 81 pkt 9 i 10 ustawy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_21/pkt_1/lit_b",
+       "text": "dodatkowe elementy dyplomu, o których mowa w § 20 pkt 1,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_21/pkt_2",
+     "text": "dyplomu doktorskiego i dyplomu habilitacyjnego w językach obcych, o których mowa w art. 179 ust. 2 ustawy, podmiot systemu szkolnictwa wyższego i nauki stosuje przechowywane w repozytorium dyplomów elektronicznych przetłumaczone na te języki:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_21/pkt_2/lit_a",
+       "text": "dane stanowiące niezbędne elementy dyplomu doktorskiego albo dyplomu habilitacyjnego, określone w przepisach wydanych na podstawie art. 181 pkt 1 ustawy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_21/pkt_2/lit_b",
+       "text": "dodatkowe elementy dyplomu, o których mowa w § 20 pkt 2",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_21/pkt_2/lit_b/tir_1",
+         "text": "oraz nazwy pól, w których te dane są wpisywane.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Danych zamieszczonych w repozytorium dyplomów elektronicznych nie oznacza się jako archiwalnych i nie usuwa się.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_23/ust_1",
+     "text": "Weryfikacja dokumentu, o którym mowa w § 17 ust. 1, jest dokonywana w repozytorium dyplomów elektronicznych przez automatyczną weryfikację danych, o których mowa w art. 347a ust. 3 pkt 2 i ust. 5 pkt 2 ustawy oraz w § 20, pod względem:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_23/ust_1/pkt_1",
+       "text": "zgodności ze schematem XSD udostępnionym zgodnie z § 17 ust. 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_23/ust_1/pkt_2",
+       "text": "spójności logicznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_23/ust_1/pkt_3",
+       "text": "zgodności z danymi zawartymi w bazach danych Systemu POL-on, o których mowa w art. 342 ust. 3 pkt 1–7 ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_23/ust_1/pkt_4",
+       "text": "zgodności z danymi osobowymi zgromadzonymi w rejestrze PESEL.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_23/ust_2",
+     "text": "W przypadku wykrycia błędów repozytorium dyplomów elektronicznych odrzuca dokument, o którym mowa w § 17 ust. 1, i udostępnia informację o wykrytych błędach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_23/ust_3",
+     "text": "W przypadku pozytywnej weryfikacji danych, o których mowa w art. 347a ust. 3 pkt 2 albo ust. 5 pkt 2 ustawy oraz w § 20, dokument, o którym mowa w § 17 ust. 1, zostaje automatycznie opatrzony przez repozytorium dyplomów elektronicznych kwalifikowaną pieczęcią elektroniczną zawierającą znacznik czasu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_23/ust_4",
+     "text": "Dokument, o którym mowa w § 17 ust. 1, zostaje zarejestrowany i otrzymuje identyfikator w repozytorium dyplomów elektronicznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_23/ust_5",
+     "text": "Po zarejestrowaniu dokumentu, o którym mowa w § 17 ust. 1, repozytorium dyplomów elektronicznych udostępnia podmiotowi systemu szkolnictwa wyższego i nauki informację o zakończeniu procesu wydania dokumentu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_23/ust_6",
+     "text": "Podmiot systemu szkolnictwa wyższego i nauki informuje absolwenta albo osobę, której nadano stopień, o możliwości pobrania dokumentu, o którym mowa w § 17 ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_24/ust_1",
+     "text": "Dane zawarte w Systemie POL-on:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_24/ust_1/pkt_1",
+       "text": "są dostępne publicznie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_24/ust_1/pkt_2",
+       "text": "udostępnia się za pośrednictwem kont założonych przez ministra.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "Publicznie dostępne przez stronę internetową Systemu POL-on są dane, o których mowa w:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_24/ust_2/pkt_1",
+       "text": "art. 343 ust. 1 pkt 1, 3, 8, 10, 13, 18, 19, pkt 20 – w zakresie informacji o prawomocnym orzeczeniu kary dyscyplinarnej – i pkt 21 ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_24/ust_2/pkt_2",
+       "text": "art. 346 ust. 1 pkt 1–10, pkt 11 – z wyłączeniem danych osobowych doktorantów – i pkt 12–14 oraz ust. 3 ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_24/ust_2/pkt_3",
+       "text": "art. 348 ust. 1 ustawy, z wyłączeniem numerów PESEL i numerów dokumentów potwierdzających tożsamość osób ubiegających się o stopień albo o tytuł profesora.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_24/ust_3",
+     "text": "Konta w Systemie POL-on założone dla podmiotów, o których mowa w § 7 ust. 1, umożliwiają tym podmiotom dostęp do danych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_24/ust_4",
+     "text": "Uprawnionym podmiotom, o których mowa w art. 343 ust. 5 pkt 1 i 4, art. 343a ust. 3 pkt 1 i 4–7, art. 344 ust. 3 pkt 1 i 3–5, art. 345 ust. 3 pkt 1 i 3–5, art. 346 ust. 7 pkt 1 i 1a, art. 347 ust. 5, art. 347a ust. 12 pkt 1 i 3–6 oraz ust. 13 pkt 1, art. 349 ust. 3 oraz art. 350 ust. 3 pkt 1 i 1a ustawy, dostęp do danych zawartych w Systemie POL-on przysługuje na podstawie konta założonego dla nich w tym systemie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_24/ust_5",
+     "text": "W przypadku uzyskania uprawnień na podstawie przepisów, o których mowa w ust. 4, podmiot składa do ministra wniosek o założenie konta w Systemie POL-on. Przepisy § 7 ust. 3 i 6 stosuje się odpowiednio.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_25/ust_1",
+     "text": "Dostęp do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_25/ust_1/pkt_1",
+       "text": "repozytorium dyplomów elektronicznych w celu realizacji przez powiatowy urząd pracy zadania, o którym mowa w art. 38 ust. 1 pkt 2 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620, 1746 i 1794 oraz z 2026 r. poz. 451, 507 i 734), na podstawie art. 347a ust. 12 pkt 6 ustawy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_25/ust_1/pkt_2",
+       "text": "informacji o dyplomie ukończenia studiów, suplemencie do dyplomu, dyplomie doktorskim i dyplomie habilitacyjnym, na podstawie art. 347a ust. 13 pkt 2 ustawy",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_25/ust_1/pkt_2/tir_1",
+         "text": "odbywa się za pośrednictwem usługi elektronicznej udostępnionej w Systemie POL-on.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "Absolwent albo osoba, której nadano stopień, umożliwia dostęp, o którym mowa w ust. 1, podając zainteresowanej osobie lub podmiotowi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_25/ust_2/pkt_1",
+       "text": "swoje imię albo imiona i nazwisko;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_25/ust_2/pkt_2",
+       "text": "rodzaj dokumentu, do którego umożliwia dostęp;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_25/ust_2/pkt_3",
+       "text": "identyfikator w repozytorium dyplomów elektronicznych albo – w przypadku braku możliwości jego podania – numer dyplomu, nazwę podmiotu, który wydał dokument, oraz – odpowiednio do rodzaju dokumentu – datę uzyskania tytułu zawodowego, datę wydania suplementu albo datę nadania stopnia.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Rozporządzenie wchodzi w życie z dniem 30 czerwca 2026 r.[^3]",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Nauki i Szkolnictwa Wyższego: M. Kulasek"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 stycznia 2025 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 68).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1871 i 1897, z 2025 r. poz. 619, 620, 621, 622, 1162, 1794, 1837 i 1864 oraz z 2026 r. poz. 187, 203, 328, 370, 635 i 637.",
+  "3": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Nauki z dnia 12 września 2024 r. w sprawie danych przetwarzanych w Zintegrowanym Systemie Informacji o Szkolnictwie Wyższym i Nauce POL-on (Dz. U. poz. 1403 oraz z 2025 r. poz. 1337)."
+ }
+}

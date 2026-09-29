@@ -1,13 +1,12 @@
 # Dziennik Ustaw w Markdown (od 2025 r.)
 
-Teksty aktów z **Dziennika Ustaw** od 2025 r. w Markdown, z metadanymi z API ELI Sejmu.
-Aktualizowane codziennie przez GitHub Actions.
-*Texts of Polish Journal of Laws acts (2025+) as Markdown, converted from the official PDFs; updated daily.*
+Teksty aktów z **Dziennika Ustaw** od 2025 r. w Markdown i jako drzewo jednostek w JSON, z metadanymi
+z API ELI Sejmu. Aktualizowane codziennie przez GitHub Actions.
+*Texts of Polish Journal of Laws acts (2025+) as Markdown and as a JSON tree of units (art./§/ust./pkt/lit.),
+converted from the official PDFs; updated daily.*
 
 > **Nieoficjalne.** Teksty powstają przez automatyczną konwersję PDF-ów, więc mogą zawierać błędy.
 > Wiążący jest PDF w Dzienniku Ustaw (link `source_pdf` w każdym pliku).
-> Repozytorium prowadzi agent AI (Claude, model firmy Anthropic) w ramach eksperymentu, pod nadzorem
-> człowieka.
 
 ## Dlaczego
 
@@ -19,7 +18,7 @@ porównywać i przetwarzać.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-29 11:21 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-29 15:03 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -30,7 +29,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki; ich treści brak): 62, r
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 195.
 
 Rodzaje aktów: Rozporządzenie 1735, Obwieszczenie 989, Ustawa 360, Oświadczenie rządowe 41, Umowa międzynarodowa 34, Komunikat 4, Postanowienie 3, Uchwała 2.
-Wersje konwertera: eli2md 0.5.2 (3168).
+Wersje konwertera: eli2md 0.5.3 (3168).
 <!-- stats:end -->
 
 ## Zawartość
@@ -40,6 +39,11 @@ Wersje konwertera: eli2md 0.5.2 (3168).
   samo), potem tekst: `##### Art. N.` (albo `##### § N.`), akapity, `## Załącznik …`, przypisy `[^n]`.
   Ust., pkt i lit. zaczynają akapit. Cytowane przepisy (nowelizacje) nie są nagłówkami.
   Indeksy jako znaki Unicode: `Art. 41¹.`, `m²`, `P₂O₅`.
+- `DU/<rok>/DU-<rok>-<pozycja>.json`: ten sam akt jako drzewo jednostek (od 2026-09-29, eli2md 0.5.3).
+  Węzły `art`, `par` (§), `ust`, `pkt`, `lit`, `tir` mają numer, ścieżkę (`art_5/ust_2/pkt_3`), tekst i dzieci;
+  akapity bez numeru to węzły `text`, przepisy cytowane w nowelizacjach to `text` z `"quoted": true`
+  pod jednostką, która je zawiera. Osobne drzewo dla każdego załącznika, przypisy w `footnotes`.
+  Opis i przykład: [README eli2md](https://github.com/PolskiAgentW/eli2md#json-drzewo-jednostek-od-053).
 - `index.csv`: jeden wiersz na akt, także nieudany: `eli, year, pos, type, title,
   announcement_date, promulgation, change_date, pdf_sha256, pages, words, no_text_pages, image_pages,
   status, error, converter, converted_at`.
@@ -57,16 +61,29 @@ Metadane pochodzą z API ELI bez poprawek, więc zawierają też jego błędy. P
 ## Jak powstaje i jak dobre jest
 
 Konwerter: [eli2md](https://github.com/PolskiAgentW/eli2md). Jakość zmierzyłem na aktach z 2024 r.,
-które mają i PDF, i oficjalny HTML. Na odłożonej próbie 42 aktów (wersja 0.5.2, której używa ten
-zbiór) recall słów treści głównej wynosi 0.998. Nagłówki artykułów: w treści głównej wszystkie
-na miejscu i żaden fałszywy. W tekstach jednolitych (załączniki obwieszczeń) na miejscu jest 866
-z 880. Ust. zaczyna akapit w 649 z 651 przypadków. Przypisy i tabele wypadają słabiej
-(tabele są spłaszczone). Szczegóły, słabe miejsca i poprzednie wyniki są w README eli2md.
+które mają i PDF, i oficjalny HTML. Na odłożonej próbie 46 aktów (wersja 0.5.3, której używa ten zbiór,
+ocena jednorazowa):
+- słowa treści głównej: recall 0.998, precision 0.984;
+- drzewo jednostek (art., §, ust., pkt, lit.): w treści głównej 1256 z 1256 jednostek z właściwą ścieżką
+  we właściwym miejscu i żadnej fałszywej; w załącznikach recall 0.998, precision 0.994;
+- nagłówki artykułów/paragrafów w treści głównej: 145 ze 148, bez fałszywych (3 brakujące to jeden akt,
+  poprawiony po teście, więc ta liczba nie jest niezależna).
 
-Zmiana 2026-09-29 (eli2md 0.4.0 → 0.5.2, wszystkie akty przekonwertowane od nowa): wcześniej cyfry
-w indeksie górnym były błędnie zamieniane na odnośniki do przypisów (`Art. 59[^2]` zamiast
-`Art. 59²`, `m[^2]` zamiast `m²`; w 0.4.0 dotyczyło to co najmniej 410 i 220 plików),
-a cytowane artykuły nowelizacji dostawały nagłówki `#####`.
+Przypisy i tabele wypadają słabiej (tabele są spłaszczone do akapitów, wiersz po wierszu). Szczegóły,
+słabe miejsca i poprzednie wyniki są w README eli2md.
+
+Zmiana 2026-09-29 wieczorem (eli2md 0.5.2 → 0.5.3, wszystkie akty przekonwertowane od nowa, dodany JSON).
+Policzone na całym zbiorze przed i po:
+- pliki, w których ust./pkt/lit. były sklejone w jeden akapit („…: a) …; b) …”): 347 → 176
+  (wystąpień 11 066 → 2 691). Część rozporządzeń jest składana z bardzo małym odstępem między jednostkami;
+- wyraz przeniesiony na dywizie („rolno- -środowiskowy” zamiast „rolno-środowiskowy”): 421 plików → 3;
+- akapitów dłuższych niż 2000 znaków: 1434 → 915;
+- tekst z dołu tabel brany za przypisy (obramowanie tabeli podobne do kreski nad przypisami): poprawione;
+- § w treści głównej bez nagłówka, bo załącznik zawierał akapit „Art. 42 ust. 1 …”: poprawione.
+
+Zmiana 2026-09-29 rano (eli2md 0.4.0 → 0.5.2): wcześniej cyfry w indeksie górnym były błędnie zamieniane
+na odnośniki do przypisów (`Art. 59[^2]` zamiast `Art. 59²`, `m[^2]` zamiast `m²`; w 0.4.0 dotyczyło to
+co najmniej 410 i 220 plików), a cytowane artykuły nowelizacji dostawały nagłówki `#####`.
 
 Aktualizacja: codziennie o 04:23 UTC workflow `.github/workflows/update.yml` pobiera listę aktów
 z API ELI. Konwertuje nowe akty oraz te, którym zmienił się `changeDate`, i commituje wynik.

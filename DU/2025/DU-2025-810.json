@@ -1,0 +1,910 @@
+{
+ "eli": "DU/2025/810",
+ "title": "Rozporządzenie Rady Ministrów z dnia 6 czerwca 2025 r. w sprawie przeprowadzania oceny bezpieczeństwa związanej z zapobieganiem zdarzeniom o charakterze terrorystycznym lub uprawdopodabniającym popełnienie przestępstwa szpiegostwa",
+ "converter": "eli2md 0.5.3",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/810/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 czerwca 2025 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie przeprowadzania oceny bezpieczeństwa związanej z zapobieganiem zdarzeniom o charakterze terrorystycznym lub uprawdopodabniającym popełnienie przestępstwa szpiegostwa"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 32a ust. 14 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2024 r. poz. 812, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "warunki i tryb przeprowadzania oceny bezpieczeństwa, o której mowa w art. 32a ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, zwanej dalej „ustawą”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "czynności niezbędne do przeprowadzania oceny bezpieczeństwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "warunki i tryb dokonywania uzgodnień ramowych warunków przeprowadzania oceny bezpieczeństwa z organami administracji publicznej, właścicielami, posiadaczami samoistnymi i zależnymi obiektów, instalacji lub urządzeń infrastruktury krytycznej, o których mowa w art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122 oraz z 2024 r. poz. 834, 1222, 1473, 1572 i 1907).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "ocena bezpieczeństwa – ocenę, o której mowa w art. 32a ust. 1 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "system – systemy teleinformatyczne i sieci teleinformatyczne, o których mowa w art. 32a ust. 1 ustawy, podlegające ocenie bezpieczeństwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "architektura systemu – opis składników systemu teleinformatycznego lub sieci teleinformatycznej oraz powiązań i relacji między tymi składnikami;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "usługa sieciowa – właściwość systemu teleinformatycznego polegającą na powtarzalnym wykonywaniu przez ten system z góry określonych funkcji po otrzymaniu, za pomocą sieci teleinformatycznej, danych uporządkowanych w określonej strukturze;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "podmiot zarządzający systemem – podmiot, o którym mowa w art. 32a ust. 3 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "roczny plan – roczny plan przeprowadzania oceny bezpieczeństwa, o którym mowa w art. 32a ust. 2 ustawy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W ramach oceny bezpieczeństwa przeprowadza się następujące czynności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "pasywne zbieranie informacji – zbieranie w sieci Internet informacji związanych z funkcjonowaniem systemu, wpływających na jego bezpieczeństwo;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "półpasywne zbieranie informacji – zbieranie w systemie informacji związanych z funkcjonowaniem tego systemu, wpływających na jego bezpieczeństwo, na zasadach właściwych dla użytkownika tego systemu, z wyłączeniem uprawnień wymagających uwierzytelnienia w tym systemie; czynności te mogą być uzupełnione zbieraniem informacji wynikających z analizy architektury systemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "aktywne zbieranie informacji – zbieranie w systemie informacji związanych z funkcjonowaniem tego systemu, wpływających na jego bezpieczeństwo, w sposób przekraczający uprawnienia użytkownika systemu, w tym wymagających uwierzytelnienia w systemie, w szczególności polegających na enumeracji usług, portów, wykrywaniu urządzeń pośredniczących, wykrywaniu systemów IDS/IPS oraz zapór ogniowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "identyfikacja podatności architektury systemu i usług sieciowych – podejmowanie czynności mających na celu identyfikację podatności, o której mowa w art. 32a ust. 4 ustawy, dokonywanych na podstawie informacji uzyskanych w ramach czynności, o których mowa w pkt 1–3, oraz na podstawie informacji na temat architektury systemu udostępnionych przez podmiot zarządzający systemem.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W ramach oceny bezpieczeństwa poza czynnościami, o których mowa w ust. 1, mogą być również przeprowadzane, za zgodą podmiotu zarządzającego systemem, następujące czynności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "wykorzystanie podatności – podejmowanie w systemie czynności nakierowanych na użycie podatności zidentyfikowanych w ramach czynności, o której mowa w ust. 1 pkt 4, w celu ominięcia zabezpieczeń systemu oraz identyfikacji podatności, których identyfikacja jest niemożliwa w ramach czynności, o której mowa w ust. 1 pkt 4;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "analiza wpływu wykorzystania czynników inżynierii społecznej – wykorzystanie ogólnych metod inżynierii społecznej, które mają na celu uzyskanie informacji na temat zachowania użytkowników systemu, w celu weryfikacji procedur bezpieczeństwa badanego systemu realizowanych przez tych użytkowników; czynności mogą być wykonywane z zastosowaniem narzędzi, o których mowa w art. 32a ust. 7 ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_2/pkt_3",
+       "text": "analiza odporności systemu na działania narzędzi, o których mowa w art. 32a ust. 7 ustawy – zaplanowane zastosowanie narzędzi, o których mowa w art. 32a ust. 7 ustawy, w celu zbadania możliwości wykorzystania luk w zabezpieczeniach systemu, polegające na badaniu odporności systemu na możliwość wykorzystania go do popełniania przestępstw, o których mowa w art. 32a ust. 7 ustawy.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Przed przeprowadzeniem oceny bezpieczeństwa Agencja Bezpieczeństwa Wewnętrznego, zwana dalej „ABW”, zwraca się do podmiotu zarządzającego systemem o przekazanie informacji dotyczących systemu, które mogą obejmować:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "architekturę systemu, w tym informacje o urządzeniach wchodzących w skład infrastruktury systemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "adresację sieciowej infrastruktury systemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "informację o posiadaniu aktualnej kopii bezpieczeństwa systemu i zasad jej aktualizacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_1/pkt_4",
+       "text": "określenie czasu wymaganego do przywrócenia systemu z kopii bezpieczeństwa systemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_1/pkt_5",
+       "text": "informację o posiadaniu środowiska testowego i o jego zakresie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_4/ust_1/pkt_6",
+       "text": "zabezpieczenia teleinformatyczne systemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_4/ust_1/pkt_7",
+       "text": "procedury bezpieczeństwa systemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_4/ust_1/pkt_8",
+       "text": "dane osoby wyznaczonej przez kierownika podmiotu zarządzającego systemem do bieżącego kontaktu z ABW w czasie przeprowadzania oceny bezpieczeństwa, zwanej dalej „osobą wyznaczoną”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_4/ust_1/pkt_9",
+       "text": "dane osoby upoważnionej przez kierownika podmiotu zarządzającego systemem do reprezentowania tego podmiotu w ramach oceny bezpieczeństwa, zwanej dalej „osobą upoważnioną”.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Podmiot zarządzający systemem przekazuje informacje, o których mowa w ust. 1, w terminie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "14 dni od dnia otrzymania wystąpienia ABW – w przypadku systemu ujętego w rocznym planie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "7 dni od dnia otrzymania wystąpienia ABW – w przypadku systemu nieujętego w rocznym planie.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "ABW dokonuje analizy informacji, o których mowa w § 4 ust. 1, w celu przygotowania propozycji oceny bezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "ABW w terminie 30 dni od dnia otrzymania informacji, o których mowa w § 4 ust. 1, przekazuje podmiotowi zarządzającemu systemem projekt porozumienia zawierającego ramowe warunki przeprowadzenia oceny bezpieczeństwa, obejmujące w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "datę rozpoczęcia i zakończenia oceny bezpieczeństwa oraz jej harmonogram;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "zakres przeprowadzanych testów, w tym czynności, o których mowa w § 3;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_2/pkt_3",
+       "text": "rodzaj przeprowadzanych testów, o których mowa w przepisach wydanych na podstawie art. 32a ust. 12 ustawy.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Podmiot zarządzający systemem w terminie 14 dni od dnia otrzymania projektu porozumienia zawierającego ramowe warunki przeprowadzenia oceny bezpieczeństwa może wnieść zastrzeżenia do treści tego projektu wraz z uzasadnieniem tych zastrzeżeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Zastrzeżenia do treści projektu porozumienia zawierającego ramowe warunki przeprowadzenia oceny bezpieczeństwa mogą obejmować w szczególności rodzaj i zakres przeprowadzanych testów z uwzględnieniem konieczności minimalizacji zakłócenia pracy systemu lub ograniczenia jego dostępności bądź nieodwracalnego zniszczenia danych przetwarzanych w systemie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "ABW odnosi się do zastrzeżeń do treści projektu porozumienia zawierającego ramowe warunki przeprowadzenia oceny bezpieczeństwa w terminie 14 dni od dnia ich otrzymania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "W przypadku gdy uwzględnienie zastrzeżeń do treści projektu porozumienia zawierającego ramowe warunki przeprowadzenia oceny bezpieczeństwa może spowodować, że ocena bezpieczeństwa stanie się niekompletna lub zwiększy możliwość wystąpienia zakłócenia pracy systemu lub ograniczenia jego dostępności bądź nieodwracalnego zniszczenia danych przetwarzanych w systemie, ABW odstępuje od przeprowadzenia tej oceny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Podmiot zarządzający systemem w terminie 7 dni od dnia otrzymania informacji o odstąpieniu od przeprowadzenia oceny bezpieczeństwa może zwrócić się z pisemnym wnioskiem do ABW o przeprowadzenie tej oceny w przypadkach, o których mowa w ust. 2, akceptując niekompletność oceny bezpieczeństwa lub możliwość wystąpienia negatywnych następstw oceny bezpieczeństwa związanych z zakłóceniem pracy systemu lub ograniczeniem jego dostępności.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "ABW odstępuje od przeprowadzenia oceny bezpieczeństwa, w sytuacji gdy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_1/pkt_1",
+       "text": "podmiot zarządzający systemem przekaże informację o tym, że nie posiada aktualnej kopii bezpieczeństwa systemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_1/pkt_2",
+       "text": "z analizy, o której mowa w § 5 ust. 1, wynika, że:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_8/ust_1/pkt_2/lit_a",
+         "text": "istnieje zagrożenie nieodwracalnego zniszczenia danych przetwarzanych w systemie, który będzie podlegał ocenie bezpieczeństwa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_8/ust_1/pkt_2/lit_b",
+         "text": "czas potrzebny na przywrócenie systemu z kopii bezpieczeństwa może w istotny sposób zakłócić pracę systemu lub ograniczyć jego dostępność,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_8/ust_1/pkt_2/lit_c",
+         "text": "podczas przeprowadzania oceny bezpieczeństwa może dojść do uszkodzenia urządzeń wchodzących w skład infrastruktury tego systemu oraz innych systemów teleinformatycznych podmiotu zarządzającego systemem,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_8/ust_1/pkt_2/lit_d",
+         "text": "istnieje zagrożenie ograniczenia dostępności usług świadczonych drogą elektroniczną przez podmiot zarządzający systemem.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "ABW informuje podmiot zarządzający systemem o odstąpieniu od przeprowadzenia oceny bezpieczeństwa oraz o okolicznościach i przyczynach tego odstąpienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Podmiot zarządzający systemem w terminie 7 dni od dnia otrzymania informacji o odstąpieniu od przeprowadzenia oceny bezpieczeństwa może zwrócić się z pisemnym wnioskiem do ABW o przeprowadzenie tej oceny mimo zaistnienia zagrożeń, o których mowa w ust. 1 pkt 2 lit. b–d, akceptując możliwość wystąpienia tych zagrożeń i ich negatywnych następstw.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "W przypadku gdy z analizy, o której mowa w § 5 ust. 1, wynika konieczność udostępnienia pomieszczeń lub urządzeń wchodzących w skład infrastruktury systemu funkcjonariuszowi ABW lub pracownikowi ABW przeprowadzającemu ocenę bezpieczeństwa, ABW uzgadnia z podmiotem zarządzającym systemem sposób udostępniania tych pomieszczeń lub urządzeń.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Po przeprowadzeniu uzgodnień, o których mowa w § 4–9, Szef ABW i kierownik podmiotu zarządzającego systemem zawierają porozumienie o przeprowadzeniu oceny bezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Porozumienie o przeprowadzeniu oceny bezpieczeństwa zawiera w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_2/pkt_1",
+       "text": "harmonogram oceny bezpieczeństwa, w tym datę jej rozpoczęcia i zakończenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_2/pkt_2",
+       "text": "zakres przeprowadzanych testów, w tym czynności, o których mowa w § 3;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_2/pkt_3",
+       "text": "rodzaj przeprowadzanych testów, o których mowa w przepisach wydanych na podstawie art. 32a ust. 12 ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_10/ust_2/pkt_4",
+       "text": "zgodę podmiotu zarządzającego systemem na przeprowadzenie oceny bezpieczeństwa w sytuacji, o której mowa w § 7 ust. 3 lub § 8 ust. 3;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_10/ust_2/pkt_5",
+       "text": "sposób udostępniania pomieszczeń lub urządzeń wchodzących w skład infrastruktury tego systemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_10/ust_2/pkt_6",
+       "text": "dane osoby wyznaczonej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_10/ust_2/pkt_7",
+       "text": "dane osoby upoważnionej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Wzór porozumienia o przeprowadzeniu oceny bezpieczeństwa jest określony w załączniku do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Podmiot zarządzający systemem utrzymuje za pośrednictwem osoby wyznaczonej stały kontakt z funkcjonariuszem ABW lub pracownikiem ABW przeprowadzającym ocenę bezpieczeństwa, w celu bieżącej konsultacji związanej z przebiegiem przeprowadzanej oceny bezpieczeństwa, w tym przekazywania informacji o zidentyfikowanych w systemie zakłóceniach wywołanych przeprowadzaną oceną bezpieczeństwa.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Funkcjonariusz ABW lub pracownik ABW przeprowadzający ocenę bezpieczeństwa wstrzymuje prowadzenie czynności, jeżeli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_1/pkt_1",
+       "text": "otrzymał od osoby wyznaczonej informację o zakłóceniach w prawidłowym funkcjonowaniu systemu, które mogą skutkować zagrożeniami, o których mowa w § 8 ust. 1 pkt 1 lub pkt 2 lit. a, c lub d;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_1/pkt_2",
+       "text": "pojawiło się jedno z zagrożeń, o których mowa w § 8 ust. 1 pkt 1 lub pkt 2 lit. a, c lub d, albo uzasadnione podejrzenie ich wystąpienia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "ABW informuje podmiot zarządzający systemem o wstrzymaniu prowadzenia czynności w przypadkach, o których mowa w ust. 1, oraz o okolicznościach i przyczynach tego wstrzymania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Podmiot zarządzający systemem w terminie 2 dni roboczych od daty poinformowania o wstrzymaniu prowadzenia czynności w przypadkach, o których mowa w ust. 1, może zwrócić się z pisemnym wnioskiem do ABW o dalsze prowadzenie czynności w ramach oceny bezpieczeństwa mimo zaistnienia zagrożeń, o których mowa w § 8 ust. 1 pkt 2 lit. c lub d, akceptując możliwość wystąpienia tych zagrożeń lub ich negatywnych następstw.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_12/ust_4",
+     "text": "W przypadku nieotrzymania wniosku, o którym mowa w ust. 3, ABW odstępuje od dalszego przeprowadzania oceny bezpieczeństwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Po przeprowadzeniu oceny bezpieczeństwa ABW opracowuje raport z przeprowadzonej oceny bezpieczeństwa w terminie 60 dni od dnia jej zakończenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Raport z przeprowadzonej oceny bezpieczeństwa zawiera w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_2/pkt_1",
+       "text": "datę rozpoczęcia i zakończenia oceny bezpieczeństwa oraz jej harmonogram;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_2/pkt_2",
+       "text": "zakres przeprowadzonych testów, w tym czynności, o których mowa w § 3;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_13/ust_2/pkt_3",
+       "text": "rodzaj przeprowadzonych testów, o których mowa w przepisach wydanych na podstawie art. 32a ust. 12 ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_13/ust_2/pkt_4",
+       "text": "informację o zgodzie podmiotu zarządzającego systemem na przeprowadzenie oceny bezpieczeństwa w sytuacji, o której mowa w § 7 ust. 3 lub § 8 ust. 3, lub o braku tej zgody;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_13/ust_2/pkt_5",
+       "text": "informację o zaistnieniu okoliczności, o których mowa w § 12 ust. 1, oraz informację o otrzymaniu wniosku, o którym mowa w § 12 ust. 3, lub informację o odstąpieniu od przeprowadzania oceny bezpieczeństwa, o którym mowa w § 12 ust. 4;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_13/ust_2/pkt_6",
+       "text": "informację o aktualności wyników przeprowadzonej oceny bezpieczeństwa w odniesieniu do czasu jej przeprowadzenia i zakończenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_13/ust_2/pkt_7",
+       "text": "wyniki przeprowadzonej oceny bezpieczeństwa zawierające wykaz zidentyfikowanych podatności oraz poziom ich zagrożenia dla ocenianego systemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_13/ust_2/pkt_8",
+       "text": "zalecenia i rekomendacje.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.[^2]",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Rady Ministrów z dnia 6 czerwca 2025 r. (Dz. U. poz. 810)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "..................................................... (klauzula tajności – po wypełnieniu)"
+    },
+    {
+     "type": "text",
+     "text": "...................................... Egz. nr ............... (sygnatura literowo-cyfrowa)"
+    },
+    {
+     "type": "text",
+     "text": "POROZUMIENIE"
+    },
+    {
+     "type": "text",
+     "text": "zawarte w dniu ..................................... w Warszawie"
+    },
+    {
+     "type": "text",
+     "text": "o przeprowadzeniu oceny bezpieczeństwa"
+    },
+    {
+     "type": "text",
+     "text": "§ 1"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Przedmiotem porozumienia o przeprowadzeniu oceny bezpieczeństwa, zwanego dalej „porozumieniem”, jest przeprowadzenie przez ABW oceny bezpieczeństwa, w rozumieniu art. 32a ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2024 r. poz. 812, z późn. zm.), zwanej dalej „ustawą”, następujących systemów teleinformatycznych lub sieci teleinformatycznych podmiotu zarządzającego systemem: ................................................................................................................................................ ................................................................................................................................................ ................................................................................................................................................ ............................................................................................................................................... , zwanych dalej „systemem”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Stronami porozumienia są: Szef Agencji Bezpieczeństwa Wewnętrznego: .....................................................................",
+     "children": [
+      {
+       "type": "text",
+       "text": "kierownik podmiotu zarządzającego systemem: ..................................................................."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Ocena bezpieczeństwa rozpocznie się z dniem .................................................................. r.",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 2"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "W celu realizacji przedmiotu porozumienia ABW wykona czynności określone w § 3 ust. 1 rozporządzenia Rady Ministrów z dnia 6 czerwca 2025 r. w sprawie przeprowadzania oceny bezpieczeństwa związanej z zapobieganiem zdarzeniom o charakterze terrorystycznym lub uprawdopodabniającym popełnienie przestępstwa szpiegostwa (Dz. U. poz. 810), zwanego dalej „rozporządzeniem”.",
+     "children": [
+      {
+       "type": "text",
+       "text": "..................................................... (klauzula tajności – po wypełnieniu) ...................................... Egz. nr ............... (sygnatura literowo-cyfrowa)"
+      },
+      {
+       "type": "text",
+       "text": "2.* Podmiot zarządzający systemem, działając w trybie § 3 ust. 2 rozporządzenia, wyraża zgodę na dokonanie przez ABW, w ramach oceny bezpieczeństwa, następujących czynności: ................................................................................................................................................ ................................................................................................................................................ ................................................................................................................................................ ................................................................................................................................................ ................................................................................................................................................ ................................................................................................................................................ ................................................................................................................................................ ................................................................................................................................................ ................................................................................................................................................"
+      },
+      {
+       "type": "text",
+       "text": "3.* Podmiot zarządzający systemem wyraża zgodę na przeprowadzenie przez ABW, w ramach oceny bezpieczeństwa, następujących testów bezpieczeństwa[^1]: ................................................................................................................................................ ................................................................................................................................................ ................................................................................................................................................ ................................................................................................................................................"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "ABW po przeprowadzeniu oceny bezpieczeństwa sporządza i przekazuje w terminie, o którym mowa w § 13 ust. 1 rozporządzenia, podmiotowi zarządzającemu systemem raport, o którym mowa w art. 32a ust. 10 ustawy, spełniający wymagania określone w § 13 ust. 2 rozporządzenia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 3"
+      },
+      {
+       "type": "text",
+       "text": "Podmiot zarządzający systemem oświadcza, że systemy teleinformatyczne wskazane do przeprowadzenia oceny bezpieczeństwa pozostają w jego faktycznej oraz prawnej dyspozycji oraz że posiada on wszelkie prawa do wdrożenia we wskazanych systemach takich testów w zakresie określonym w porozumieniu oraz na zasadach w nim określonych."
+      },
+      {
+       "type": "text",
+       "text": "§ 4"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Podmiot zarządzający systemem przekazuje ABW w terminie, o którym mowa w § 4 ust. 2 pkt 1 / § 4 ust. 2 pkt 2* rozporządzenia, informacje, o których mowa w § 4 ust. 1 rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Podmiot zarządzający systemem może zwrócić się do ABW, w trybie § 7 ust. 3 lub § 8 ust. 3 rozporządzenia, z pisemnym wnioskiem o przeprowadzenie oceny bezpieczeństwa mimo wystąpienia jednej z przesłanek, o których mowa w § 7 ust. 2 lub § 8 ust. 1 pkt 2 lit. b–d rozporządzenia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "..................................................... (klauzula tajności – po wypełnieniu) ...................................... Egz. nr ............... (sygnatura literowo-cyfrowa)"
+      },
+      {
+       "type": "text",
+       "text": "§ 5"
+      },
+      {
+       "type": "text",
+       "text": "W przypadku wyrażenia zgody na przeprowadzenie przez ABW czynności i testów, o których mowa odpowiednio w § 2 ust. 2 i 3 porozumienia, lub w przypadku przeprowadzenia przez ABW oceny bezpieczeństwa, o której mowa w § 4 ust. 2 porozumienia, odpowiedzialność za ewentualne skutki ich przeprowadzenia przez ABW ponosi podmiot zarządzający systemem."
+      },
+      {
+       "type": "text",
+       "text": "§ 6"
+      },
+      {
+       "type": "text",
+       "text": "Ustanawia się następujący harmonogram oceny bezpieczeństwa: ...................................................................................................................................................... ...................................................................................................................................................... ...................................................................................................................................................... ......................................................................................................................................................"
+      },
+      {
+       "type": "text",
+       "text": "§ 7"
+      },
+      {
+       "type": "text",
+       "text": "* Ustanawia się następujący sposób udostępniania pomieszczeń lub urządzeń wchodzących w skład infrastruktury systemu podmiotu zarządzającego systemem: ...................................................................................................................................................... ......................................................................................................................................................"
+      },
+      {
+       "type": "text",
+       "text": "§ 8"
+      },
+      {
+       "type": "text",
+       "text": "W celu zapewnienia sprawnej realizacji porozumienia kierownik podmiotu zarządzającego systemem:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "upoważnia Panią/Pana* ......................................................................................................... , dane kontaktowe: .................................................................................................................. , do reprezentowania go przed ABW w ramach oceny bezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "wyznacza Panią/Pana* .......................................................................................................... , dane kontaktowe: .................................................................................................................. , do bieżącego kontaktu oraz udzielania wyjaśnień i przekazywania ABW informacji dotyczących funkcjonowania systemu.",
+       "children": [
+        {
+         "type": "text",
+         "text": "§ 9"
+        },
+        {
+         "type": "text",
+         "text": "Podmiot zarządzający systemem oświadcza, że jeżeli przeprowadzenie oceny bezpieczeństwa systemów teleinformatycznych przez ABW wymaga podjęcia jakichkolwiek dodatkowych czynności formalnoprawnych lub organizacyjnych, w szczególności uzyskania stosownych zgód właściwych podmiotów czy też poinformowania tych podmiotów o prowadzonych działaniach, podmiot zarządzający systemem ponosi odpowiedzialność za właściwą realizację takich czynności."
+        },
+        {
+         "type": "text",
+         "text": "..................................................... (klauzula tajności – po wypełnieniu) ...................................... Egz. nr ............... (sygnatura literowo-cyfrowa)"
+        },
+        {
+         "type": "text",
+         "text": "§ 10"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Porozumienie zawiera się na czas przeprowadzenia oceny bezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Wszelkie zmiany porozumienia mogą być dokonywane wyłącznie za zgodną wolą stron, z zachowaniem formy pisemnej pod rygorem nieważności.",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 11"
+      },
+      {
+       "type": "text",
+       "text": "Porozumienie sporządzono w dwóch jednobrzmiących egzemplarzach, po jednym dla ABW i podmiotu zarządzającego systemem."
+      },
+      {
+       "type": "text",
+       "text": "§ 12"
+      },
+      {
+       "type": "text",
+       "text": "Porozumienie wchodzi w życie z dniem podpisania."
+      },
+      {
+       "type": "text",
+       "text": "....................................................................... ........................................................................ (podpis Szefa ABW (podpis kierownika podmiotu zarządzającego systemem albo osoby upoważnionej) albo osoby upoważnionej)"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Rodzaje testów bezpieczeństwa przeprowadzanych przez ABW są określone w zarządzeniu Szefa ABW wydanym na podstawie art. 32a ust. 12 ustawy i ogłoszonym przez Szefa ABW w Dzienniku Urzędowym Agencji Bezpieczeństwa Wewnętrznego. numer strony/liczba stron ..................................................... (klauzula tajności – po wypełnieniu) numer strony/liczba stron ..................................................... (klauzula tajności – po wypełnieniu) * Niepotrzebne skreślić. numer strony/liczba stron ..................................................... (klauzula tajności – po wypełnieniu)",
+  "2": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 19 lipca 2016 r. w sprawie przeprowadzania oceny bezpieczeństwa związanej z zapobieganiem zdarzeniom o charakterze terrorystycznym (Dz. U. poz. 1076), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 11 ust. 2 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 1834). (stopień, imię i nazwisko) (stanowisko i nazwa podmiotu) numer strony/liczba stron ..................................................... (klauzula tajności – po wypełnieniu)"
+ }
+}

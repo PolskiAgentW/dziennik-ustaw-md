@@ -1,0 +1,617 @@
+{
+ "eli": "DU/2025/1859",
+ "title": "Rozporządzenie Rady Ministrów z dnia 22 grudnia 2025 r. w sprawie sposobu korzystania z Systemu Bezpiecznej Łączności Państwowej, minimalnych wymagań technicznych i funkcjonalnych oraz minimalnego poziomu bezpieczeństwa usług tego systemu",
+ "converter": "eli2md 0.5.3",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1859/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 grudnia 2025 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie sposobu korzystania z Systemu Bezpiecznej Łączności Państwowej, minimalnych wymagań technicznych i funkcjonalnych oraz minimalnego poziomu bezpieczeństwa usług tego systemu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 78 ust. 2 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907 oraz z 2025 r. poz. 1705) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "sposób korzystania z Systemu Bezpiecznej Łączności Państwowej, zwanego dalej „SBŁP”, przez podmioty, o których mowa w art. 76 ust. 1 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej, zwanej dalej „ustawą”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "minimalne wymagania techniczne i funkcjonalne, jakie musi spełniać SBŁP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "minimalny poziom bezpieczeństwa usług transmisji danych, połączeń głosowych oraz wiadomości tekstowych świadczonych w ramach SBŁP.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "organizator podsystemu – podmiot, któremu operator SBŁP, o którym mowa w art. 74 ust. 2 ustawy, zleca zadania związane z organizacją, budową, utrzymaniem i modernizacją podsystemu SBŁP w określonym zakresie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "użytkownik instytucjonalny – podmiot, o którym mowa w art. 76 ust. 1 ustawy, który faktycznie korzysta z usług SBŁP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "usługa SBŁP – niepubliczna usługa telekomunikacyjna spełniająca wymogi cyberbezpieczeństwa oraz zapewniająca możliwość szyfrowania komunikacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "dokumentacja podsystemu SBŁP – opracowana przez organizatora danego podsystemu SBŁP i zatwierdzona przez operatora SBŁP dokumentacja określająca rozwiązania techniczne i funkcjonalne w zakresie infrastruktury SBŁP, sposób dostępu do danych w ramach podsystemu SBŁP i okres przechowywania tych danych na potrzeby zapewnienia rozliczalności, sposób zapewnienia bezpieczeństwa i odporności komunikacji, zakres odpowiedzialności organizatora podsystemu, administratora i użytkownika instytucjonalnego oraz zakres i sposób sprawowania audytu i kontroli przez operatora SBŁP lub na zlecenie operatora SBŁP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "infrastruktura SBŁP – urządzenia teleinformatyczne SBŁP wraz z urządzeniami zasilającymi i sieciami telekomunikacyjnymi w rozumieniu art. 2 pkt 58 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221 oraz z 2025 r. poz. 637 i 820) oraz, jeżeli dokumentacja podsystemu SBŁP tak stanowi, wraz z urządzeniami końcowymi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Podmioty, o których mowa w art. 76 ust. 1 ustawy, korzystają z poszczególnych usług SBŁP na podstawie zgody operatora SBŁP udzielonej na ich pisemny wniosek.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Korzystanie z usług SBŁP odbywa się w zakresie uprawnień przyznanych w zgodzie operatora SBŁP, o której mowa w ust. 1, zgodnie z ich przeznaczeniem oraz zgodnie z dokumentacją podsystemu SBŁP.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Użytkownik instytucjonalny zgłasza operatorowi SBŁP, za pośrednictwem organizatora podsystemu SBŁP, nieprawidłowości dotyczące świadczonej usługi SBŁP oraz przekazuje organizatorowi podsystemu SBŁP informacje niezbędne do zapewniania ciągłości działania usługi SBŁP.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "W przypadku stwierdzenia zagrożenia naruszenia bezpieczeństwa informacji lub konieczności zachowania ciągłości usługi SBŁP organizator podsystemu SBŁP w uzgodnieniu z operatorem SBŁP może w zakresie niezbędnym i na czas konieczny do usunięcia zagrożenia czasowo ograniczyć lub zawiesić świadczenie usługi wobec danego użytkownika instytucjonalnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Minimalne wymagania techniczne SBŁP obejmują:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "stosowanie obowiązujących i adekwatnych specyfikacji technicznych w procesie doboru komponentów infrastruktury SBŁP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "wykorzystanie narzędzi i urządzeń kryptograficznych, w tym narzędzi i urządzeń certyfikowanych w rozumieniu przepisów o ochronie informacji niejawnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "stosowanie wymogów cyberbezpieczeństwa oraz szyfrowania komunikacji w ramach usług SBŁP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_4/pkt_4",
+     "text": "wykorzystywanie przez użytkownika instytucjonalnego wyłącznie urządzeń akceptowanych lub dostarczanych przez operatora SBŁP lub organizatora podsystemu SBŁP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_4/pkt_5",
+     "text": "określenie w dokumentacji podsystemu SBŁP minimalnej dostępności usług SBŁP oraz ustalenie dopuszczalnych opóźnień w transmisji danych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_4/pkt_6",
+     "text": "określenie w dokumentacji podsystemu SBŁP czasu zestawienia połączeń zapewniających odpowiednią jakość komunikacji oraz minimalizację opóźnień w przypadku połączeń głosowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_4/pkt_7",
+     "text": "priorytetyzację w zakresie realizowanych usług SBŁP, w szczególności związanych z alarmowaniem i ostrzeganiem ludności, działaniami ratowniczymi, również w warunkach przeciążenia sieci telekomunikacyjnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_4/pkt_8",
+     "text": "zapewnienie możliwie najszybszego dostarczenia wiadomości alarmowych, ostrzegawczych i skutecznego mechanizmu potwierdzenia ich doręczenia, o ile jest wymagane, oraz odczytu tych wiadomości.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "W zakresie jawnej łączności stacjonarnej (podsystem SBŁP-J) zapewnia się usługi telekomunikacyjne o minimalnych funkcjonalnościach obejmujących:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "usługę przesyłu danych (transmisja danych) o gwarantowanych parametrach jakości, w tym realizowaną jako wirtualne sieci prywatne (VPN);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "usługę połączeń głosowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "usługę poczty elektronicznej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W zakresie niejawnej łączności stacjonarnej wykorzystującej urządzenia lub narzędzia kryptograficzne (podsystem SBŁP-N) zapewnia się usługi telekomunikacyjne o minimalnych funkcjonalnościach obejmujących:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "usługę przesyłu danych niejawnych (transmisja danych) o gwarantowanych parametrach jakości, w tym realizowaną jako wirtualne sieci prywatne (VPN);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "usługę połączeń głosowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_2/pkt_3",
+       "text": "usługę poczty elektronicznej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "W zakresie wielopunktowej wideokonferencji (podsystem SBŁP-V) zapewnia się usługę telekomunikacyjną o minimalnych funkcjonalnościach obejmujących usługę transmisji audio-wideo, w tym realizowaną z wykorzystaniem urządzeń lub narzędzi kryptograficznych oraz dedykowanych systemów mostków konferencyjnych, odseparowanych od sieci publicznych, gwarantujących przetwarzanie komunikacji wyłącznie na terytorium Rzeczypospolitej Polskiej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "W zakresie bezpiecznej łączności mobilnej (podsystem SBŁP-M) zapewnia się usługi telekomunikacyjne o minimalnych funkcjonalnościach obejmujących:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_4/pkt_1",
+       "text": "w zakresie łączności mobilnej jawnej świadczonej w sposób zapewniający interoperacyjność z bezpieczną radiową łącznością trankingową:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_4/pkt_1/lit_a",
+         "text": "usługę jawnych połączeń głosowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_4/pkt_1/lit_b",
+         "text": "usługę jawnej transmisji danych, w tym na potrzeby przesyłania obrazów, wideo i danych telemetrycznych wykorzystującą urządzenia lub narzędzia kryptograficzne,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_4/pkt_1/lit_c",
+         "text": "usługę wymiany jawnych wiadomości tekstowych (SMS/RCS),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_5/ust_4/pkt_1/lit_d",
+         "text": "usługę dostępu do internetu spełniającą wymogi cyberbezpieczeństwa oraz zapewniającą możliwość szyfrowania komunikacji;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_4/pkt_2",
+       "text": "w zakresie łączności mobilnej niejawnej komórkowej przy wykorzystaniu urządzeń lub narzędzi kryptograficznych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_4/pkt_2/lit_a",
+         "text": "usługę wymiany niejawnych wiadomości tekstowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_4/pkt_2/lit_b",
+         "text": "usługę niejawnych połączeń głosowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_4/pkt_2/lit_c",
+         "text": "usługę niejawnej transmisji danych, w tym na potrzeby przesyłania obrazów i wideo,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_5/ust_4/pkt_2/lit_d",
+         "text": "usługę niejawnej poczty elektronicznej.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_5/ust_5",
+     "text": "W zakresie bezpiecznej radiowej łączności trankingowej (podsystem SBŁP-T) zapewnia się usługi telekomunikacyjne o minimalnych funkcjonalnościach obejmujących:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_5/pkt_1",
+       "text": "usługę połączeń głosowych oraz usługę transmisji danych świadczonych z wykorzystaniem szyfrowania komunikacji oraz w sposób zapewniający interoperacyjność z bezpieczną łącznością mobilną;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_5/pkt_2",
+       "text": "uwierzytelnienie oraz szyfrowaną transmisję głosu i danych oraz odporność transmisji na zakłócenia, a także niezawodność transmisji umożliwiającą dostęp do usług zgodnie z przyjętym scenariuszem operacyjnym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_5/ust_6",
+     "text": "W zakresie bezpiecznej łączności satelitarnej, w tym niejawnej (podsystem SBŁP-S), zapewnia się usługi telekomunikacyjne, które mogą być świadczone z wykorzystaniem dedykowanych urządzeń i rozwiązań kryptograficznych, o minimalnych funkcjonalnościach obejmujących:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_6/pkt_1",
+       "text": "usługę połączeń głosowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_6/pkt_2",
+       "text": "usługę transmisji danych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_6/pkt_3",
+       "text": "usługę transmisji audio-wideo;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_6/pkt_4",
+       "text": "usługę wiadomości tekstowych.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Minimalny poziom bezpieczeństwa usług transmisji danych, połączeń głosowych oraz wiadomości tekstowych przekazywanych w SBŁP obejmuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "powołanie przez operatora SBŁP, dla zapewnienia ciągłości realizacji usług w ramach podsystemów SBŁP, Centrum Zarządzania Siecią, zwanego dalej „NOC”, oraz Operacyjnego Centrum Bezpieczeństwa, zwanego dalej „SOC”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "możliwość zlecania przez operatora SBŁP organizatorowi podsystemu SBŁP powołania NOC oraz SOC dla zapewnienia ciągłości realizacji usług w ramach podsystemów SBŁP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_1/pkt_3",
+       "text": "szacowanie ryzyka naruszenia bezpieczeństwa elementów infrastruktury SBŁP z uwzględnieniem wpływu czynników zewnętrznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_1/pkt_4",
+       "text": "opracowanie procedury obsługi użytkownika instytucjonalnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_6/ust_1/pkt_5",
+       "text": "opracowanie procedury reagowania na incydenty oraz wdrożenie zaawansowanych systemów wykrywania i reagowania na incydenty;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_6/ust_1/pkt_6",
+       "text": "fizyczne lub logiczne wydzielenie infrastruktury SBŁP lub poszczególnych elementów podsystemów SBŁP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_6/ust_1/pkt_7",
+       "text": "zapewnienie odpowiedniej kontroli dostępu do podsystemów SBŁP wraz z uwierzytelnieniem użytkowników urządzeń końcowych SBŁP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_6/ust_1/pkt_8",
+       "text": "zastosowanie rozwiązań kryptograficznych w celu ochrony danych użytkowników instytucjonalnych przetwarzanych z użyciem rozwiązań chmurowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_6/ust_1/pkt_9",
+       "text": "pełną redundancję elementów kluczowych dla działania podsystemu SBŁP w zakresie wykorzystywanego sprzętu i oprogramowania, z uwzględnieniem wymogu rozproszenia elementów kluczowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_6/ust_1/pkt_10",
+       "text": "dywersyfikację przyjętych rozwiązań organizacyjnych i technicznych mających na celu zabezpieczenie przed uzależnieniem świadczenia usług SBŁP od jednego dostawcy lub producenta sprzętu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_6/ust_1/pkt_11",
+       "text": "testy penetracyjne oraz testy interoperacyjności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_6/ust_1/pkt_12",
+       "text": "wdrożenie systemu szkolenia i podnoszenia kwalifikacji kadr.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "W uzasadnionych przypadkach, związanych z zakresem działania i funkcją podsystemu SBŁP, organizator podsystemu za zgodą operatora SBŁP, może, bez uszczerbku dla bezpieczeństwa tego podsystemu SBŁP oraz zgodnie z wynikiem szacowania ryzyka wobec określonego podsystemu SBŁP, zastosować inne rozwiązania niż określone w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Organizator podsystemu, w porozumieniu z operatorem SBŁP, mając na celu utrzymanie minimalnych poziomów dostępności usług SBŁP, zapewnia odpowiednią liczbę wyposażonych zespołów, zdolnych do instalacji, wymiany i usuwania awarii urządzeń, kabli światłowodowych i pozostałej infrastruktury SBŁP.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Do zadań NOC należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "reagowanie, rejestrowanie, analiza i klasyfikacja zdarzeń w obszarze usług SBŁP oraz infrastruktury SBŁP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "koordynacja usuwania awarii infrastruktury SBŁP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_7/pkt_3",
+     "text": "monitoring sieci wchodzących w skład infrastruktury SBŁP, w tym ciągła analiza parametrów sieci, wykrywanie anomalii w ruchu sieciowym, monitorowanie pojemności sieci, analiza trendów i wzorców ruchu oraz wykrywanie potencjalnych zagrożeń;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_7/pkt_4",
+     "text": "wsparcie techniczne przy usuwaniu awarii związanych z konfiguracją urządzeń wchodzących w skład infrastruktury SBŁP.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Do zadań SOC należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "monitorowanie cyberzagrożeń dla podsystemów SBŁP;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "przeprowadzanie wstępnej analizy alarmów, eliminacja fałszywych alarmów oraz pozyskiwanie danych niezbędnych do obsługi incydentu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_8/pkt_3",
+     "text": "obsługa incydentów w ramach zdefiniowanych scenariuszy reakcji oraz przygotowanie rekomendacji i zaleceń dotyczących obsługi incydentów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_8/pkt_4",
+     "text": "przygotowywanie raportów dla operatora SBŁP obejmujących zestawienie obsługiwanych incydentów wraz z zaleceniami zmian w infrastrukturze SBŁP, regułach detekcyjnych i scenariuszach reakcji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_8/pkt_5",
+     "text": "prowadzenie zaawansowanej diagnostyki incydentów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Rozporządzenie wchodzi w życie z dniem 24 grudnia 2025 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

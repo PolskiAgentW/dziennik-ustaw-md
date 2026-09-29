@@ -22,9 +22,9 @@ jobs:
         with:
           python-version: "3.12"
       - name: Instalacja eli2md
-        run: pip install "eli2md @ git+https://github.com/PolskiAgentW/eli2md@v0.5.2"
+        run: pip install "eli2md @ git+https://github.com/PolskiAgentW/eli2md@v0.5.3"
       - name: Nowe i zmienione akty
-        run: python -m eli2md.dataset --root . --jobs 2 --max 400 --time-budget 7200
+        run: python -m eli2md.dataset --root . --jobs 2 --max 400 --time-budget 7200 --json
       - name: Statystyki w README
         run: python .github/stats.py
       - name: Commit

@@ -1,0 +1,586 @@
+{
+ "eli": "DU/2026/222",
+ "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 21 lutego 2026 r. w sprawie trybu i sposobu wnoszenia pism procesowych w postaci elektronicznej za pośrednictwem portalu informacyjnego w postępowaniu cywilnym",
+ "converter": "eli2md 0.5.3",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/222/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA SPRAWIEDLIWOŚCI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 lutego 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie trybu i sposobu wnoszenia pism procesowych w postaci elektronicznej za pośrednictwem portalu informacyjnego w postępowaniu cywilnym"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 125⁴ ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa treść dokumentu w postaci elektronicznej potwierdzającego wniesienie pisma procesowego do sądu, sposób i zakres informowania o ograniczeniu dostępności portalu informacyjnego, sposób wnoszenia do sądu pism procesowych i ich załączników za pośrednictwem portalu informacyjnego oraz ich elektroniczną postać, w tym wymagania dotyczące dokumentów składanych w postaci elektronicznej, jak również sposób poświadczania dokumentów w portalu informacyjnym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "dacie wniesienia pisma – rozumie się przez to czas utrwalenia pisma procesowego w portalu informacyjnym po wywołaniu funkcji „Złóż pismo”, określony przez wskazanie roku, miesiąca, dnia, godziny, minuty i sekundy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "elektronicznym potwierdzeniu wniesienia pisma – rozumie się przez to zestaw danych jednoznacznie wskazujący na wnoszone pismo procesowe, wnoszącego pismo, wysyłającego pismo, adresata, datę wniesienia pisma, metadane, w tym sumy kontrolne oraz dane systemowe;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "koncie – rozumie się przez to konto, o którym mowa w § 2 pkt 6 rozporządzenia Ministra Sprawiedliwości z dnia 20 lutego 2026 r. w sprawie portalu informacyjnego (Dz. U. poz. 216), zwanego dalej „rozporządzeniem w sprawie PI”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "metadanych – rozumie się przez to zestaw logicznie usystematyzowanych informacji powiązanych z pismem procesowym lub załącznikami, służących ich opisowi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "metryce pisma – rozumie się przez to zestaw danych identyfikujących pismo procesowe w portalu informacyjnym, w szczególności rodzaj pisma procesowego, wnoszącego pismo, wysyłającego pismo, adresata i sygnaturę akt;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "sumach kontrolnych – rozumie się przez to rodzaj metadanych służących do weryfikacji integralności danych przesyłanych za pośrednictwem portalu informacyjnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "uwierzytelnieniu – rozumie się przez to uwierzytelnienie, o którym mowa w § 2 pkt 17 rozporządzenia w sprawie PI;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "użytkowniku konta – rozumie się przez to użytkownika konta, o którym mowa w § 2 pkt 18 rozporządzenia w sprawie PI;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "właścicielu konta – rozumie się przez to właściciela konta, o którym mowa w § 2 pkt 19 rozporządzenia w sprawie PI;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "wniesieniu pisma – rozumie się przez to wywołanie funkcji „Złóż pismo” w module „Biuro Podawcze” służącym do wnoszenia pism procesowych wraz z załącznikami, w sposób umożliwiający uzyskanie przez wnoszącego pismo elektronicznego potwierdzenia wniesienia pisma;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "wnoszącym pismo – rozumie się przez to właściciela konta, który na podstawie przepisów szczególnych wnosi pismo procesowe za pośrednictwem portalu informacyjnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_2/pkt_12",
+     "text": "wysyłającym pismo – rozumie się przez to użytkownika konta, który wywołał funkcję „Złóż pismo” w module „Biuro Podawcze” służącym do wnoszenia pism procesowych wraz z załącznikami, w sposób umożliwiający uzyskanie przez wnoszącego pismo elektronicznego potwierdzenia wniesienia pisma.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "W celu wniesienia pisma procesowego za pośrednictwem portalu informacyjnego należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "dokonać uwierzytelnienia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "oznaczyć rodzaj pisma procesowego poprzez dokonanie wyboru z listy rozwijanej w portalu informacyjnym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "wypełnić metrykę pisma procesowego albo zatwierdzić metrykę pisma wygenerowaną automatycznie na podstawie danych pochodzących z portalu informacyjnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "umieścić pismo procesowe w module „Biuro Podawcze”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "dołączyć załączniki, o ile są one wnoszone, z zachowaniem zgodności pomiędzy numeracją i nazewnictwem załączników w piśmie procesowym oraz w portalu informacyjnym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_3/pkt_6",
+     "text": "oznaczyć załączniki, które ze względu na ich właściwość nie mogą zostać skutecznie wniesione wraz z tym pismem procesowym za pośrednictwem portalu informacyjnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_3/pkt_7",
+     "text": "opatrzyć pismo procesowe kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, a w przypadku prokuratora – także zaawansowanym podpisem elektronicznym wydawanym przez właściwe jednostki organizacyjne prokuratury, jeśli nie zostały podpisane takimi podpisami przed ich umieszczeniem w portalu informacyjnym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_3/pkt_8",
+     "text": "poświadczyć wybrane dokumenty kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, jeśli nie zostały poświadczone w ten sposób przed ich umieszczeniem w portalu informacyjnym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_3/pkt_9",
+     "text": "wywołać funkcję „Złóż pismo” w module „Biuro Podawcze”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Pisma procesowe wnoszone za pośrednictwem portalu informacyjnego sporządza się w formacie odpowiadającym formatowi A4.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Rozmiar pojedynczego załącznika wnoszonego za pośrednictwem portalu informacyjnego nie może przekraczać 100 MB.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Dopuszczalne formaty danych dla pism procesowych i załączników składanych za pośrednictwem portalu informacyjnego określa załącznik nr 1 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Wymagania techniczne dla struktury i nazewnictwa plików określa załącznik nr 2 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "Minimalne wymagania techniczne dla załączników stanowiących odwzorowania cyfrowe określa załącznik nr 3 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_4/ust_6",
+     "text": "Pisma procesowe lub załączniki stanowiące odwzorowania cyfrowe dokumentów zawierających wyłącznie tekst wnosi się za pośrednictwem portalu informacyjnego w formatach .txt, .rtf, .pdf, .odt, .doc, .docx, .csv, xml.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Elektroniczne potwierdzenie wniesienia pisma jest generowane automatycznie po wniesieniu pisma procesowego oraz udostępniane w portalu informacyjnym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Po wniesieniu pisma na koncie, na którym umieszczono pismo procesowe, jest automatycznie prezentowana data jego wniesienia oraz generowany jest dokument zawierający wynik weryfikacji podpisów elektronicznych, którymi pismo procesowe lub załączniki zostały opatrzone.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Dokument zawierający wynik weryfikacji podpisu elektronicznego wnoszącego pismo zawiera informację o wyniku weryfikacji podpisu elektronicznego ze wskazaniem daty złożenia podpisu oraz imienia i nazwiska osoby, która go złożyła.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Elektroniczne potwierdzenie wniesienia pisma oraz dokument zawierający wynik weryfikacji podpisu elektronicznego wnoszącego pismo opatrywane są pieczęcią elektroniczną sądu apelacyjnego, którego dyrektorowi powierzono wykonywanie zadań związanych z utrzymaniem i rozwojem portalu informacyjnego zgodnie z art. 175da § 7 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334, z późn. zm.[^2]), zwanej dalej „p.u.s.p.”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Dyrektor sądu apelacyjnego, któremu powierzono wykonywanie zadań związanych z utrzymaniem i rozwojem portalu informacyjnego zgodnie z art. 175da § 7 p.u.s.p., informuje na stronie internetowej portalu informacyjnego w zakładce „Ograniczenia dostępności portalu” o ograniczeniach dostępności portalu informacyjnego trwających ponad 10 minut.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "W zakładce umieszcza się informacje o dacie i godzinie wystąpienia ograniczenia dostępności portalu informacyjnego, w miarę możliwości o dacie i godzinie przywrócenia dostępności portalu informacyjnego, zakresie terytorialnym ze wskazaniem apelacji (o ile dotyczy), zakresie podmiotowym osób objętych ograniczeniem dostępności (o ile dotyczy), zakresie przedmiotowym ograniczenia dostępności ze wskazaniem funkcjonalności portalu, które nie były dostępne (o ile dotyczy), a także informację, czy była to planowana niedostępność oraz z jakim wyprzedzeniem została umieszczona informacja na stronie głównej portalu informacyjnego. Informacje określone w zdaniu pierwszym mogą zostać usunięte niewcześniej niż po upływie roku od daty ich umieszczenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 marca 2026 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Sprawiedliwości: W. Żurek"
+  },
+  {
+   "type": "text",
+   "text": "w i z 1 utego 202 ."
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 21 lutego 2026 r. (Dz. U. poz. 222) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "DOPUSZCZALNE FORMATY DANYCH DLA PISM PROCESOWYCH I ZAŁĄCZNIKÓW SKŁADANYCH ZA POŚREDNICTWEM PORTALU INFORMACYJNEGO"
+    },
+    {
+     "type": "text",
+     "text": "Format danych, rozszerzenie Organizacja określająca Lp. nazwy pliku lub skrócona Oryginalna pełna nazwa standardu Opis standardu format, normę lub nazwa standardu standard"
+    },
+    {
+     "type": "text",
+     "text": "dokumenty w postaci czystego (niesformatowanego) 1 .txt zbioru znaków zapisanych w standardzie Unicode ISO/IEC UTF-8 jako pliki typu .txt"
+    },
+    {
+     "type": "text",
+     "text": "dokumenty w postaci sformatowanego tekstu jako 2 .rtf Rich Text Format Specification Microsoft Corp. pliki typu .rtf"
+    },
+    {
+     "type": "text",
+     "text": "dokumenty tekstowo-graficzne jako pliki typu 3 .pdf Portable Document Format PDF/A zgodne ze standardami ISO 19005-1, ISO/IEC ISO 19005-2, 3, ISO 19005-4 lub nowszym"
+    },
+    {
+     "type": "text",
+     "text": "Microsoft Corp., Ecma 4 .xps XML Paper Specification dokumenty tekstowo-graficzne jako pliki typu .xps International"
+    },
+    {
+     "type": "text",
+     "text": "Open Document Format for Office dokumenty w postaci sformatowanego tekstu jako 5 .odt ISO/IEC Application pliki typu .odt"
+    },
+    {
+     "type": "text",
+     "text": "Open Document Format for Office dokumenty w postaci sformatowanego arkusza 6 .ods ISO/IEC Application kalkulacyjnego jako pliki typu .ods"
+    },
+    {
+     "type": "text",
+     "text": "Open Document Format for Office dokumenty w postaci prezentacji multimedialnych 7 .odp ISO/IEC Application jako pliki typu .odp"
+    },
+    {
+     "type": "text",
+     "text": "dokumenty w postaci sformatowanego tekstu jako 8 .doc Microsoft Office Word Microsoft Corp. pliki typu .doc dokumenty w postaci sformatowanego arkusza 9 .xls Microsoft Office Excel Microsoft Corp. kalkulacyjnego"
+    },
+    {
+     "type": "text",
+     "text": "dokumenty w postaci prezentacji multimedialnych 10 .ppt Microsoft Office PowerPoint Microsoft Corp. jako pliki typu .ppt"
+    },
+    {
+     "type": "text",
+     "text": ".docx 11 .xlsx Office Open XML File Formats otwarta specyfikacja techniczna aplikacji biurowych ISO/IEC .pptx"
+    },
+    {
+     "type": "text",
+     "text": "12 .csv Comma Separated Values wartości rozdzielone przecinkiem IETF"
+    },
+    {
+     "type": "text",
+     "text": "Digital compression and coding of 13 .jpg (jpeg) plik typu .jpg (Joint Photographic Experts Group) ISO/IEC continuous-tone still images"
+    },
+    {
+     "type": "text",
+     "text": "14 .tif (.tiff) Tagged Image File Format plik typu .tif ISO"
+    },
+    {
+     "type": "text",
+     "text": "Geographic Tagged Image File NASA Jet Propulsion 15 .geotiff plik typu .geotiff Format Laboratory"
+    },
+    {
+     "type": "text",
+     "text": "16 .png Portable Network Graphics plik typu .png ISO/IEC"
+    },
+    {
+     "type": "text",
+     "text": "17 .gif Graphics Interchange Format pliku typu .gif –"
+    },
+    {
+     "type": "text",
+     "text": "18 .bmp Bitmap Picture pliki typu .bmp –"
+    },
+    {
+     "type": "text",
+     "text": "19 .wav wave form audio format plik audio –"
+    },
+    {
+     "type": "text",
+     "text": "20 .mp3 MP3 File Format plik audio ISO/IEC"
+    },
+    {
+     "type": "text",
+     "text": "IBM Corporation / 21 .avi Audio Video lnterleave niekompresowany plik audio/wideo Microsoft Corporation"
+    },
+    {
+     "type": "text",
+     "text": ".mpg 22 MPEG-2 Video Encoding plik wizualny z dźwiękiem lub bez ISO/IEC .mpeg"
+    },
+    {
+     "type": "text",
+     "text": ".mp4 23 .m4a MPEG-4 Visual Coding plik wizualny z dźwiękiem lub bez ISO/IEC .mpeg4 24 .ogg/.oga Ogg Vorbis Audio Format plik audio Xiph.Org Foundation"
+    },
+    {
+     "type": "text",
+     "text": "25 .ogv Theora Video Format plik audiowizualny z dźwiękiem lub bez Xiph.Org Foundation"
+    },
+    {
+     "type": "text",
+     "text": "standard uniwersalnego formatu tekstowego 26 .xml Extensible Markup Language W3C służącego do zapisu danych w postaci elektronicznej"
+    },
+    {
+     "type": "text",
+     "text": "27 .gml Geography Markup Language Język Znaczników Geograficznych OGC"
+    },
+    {
+     "type": "text",
+     "text": "XML-Signature Syntax and 28 XMLsig podpis elektroniczny dokumentów w formacie XML W3C Processing"
+    },
+    {
+     "type": "text",
+     "text": "XML Advanced Electronic 29 XAdES podpis elektroniczny dokumentów w formacie XML ETSI Signatures"
+    },
+    {
+     "type": "text",
+     "text": "30 CAdES CMS Advanced Electronic Signatures podpis elektroniczny dokumentów w formacie CMS ETSI"
+    },
+    {
+     "type": "text",
+     "text": "podpis elektroniczny dokumentów wykorzystujący 31 ASIC Associated Signature Containers ETSI kontener ZIP"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYMAGANIA TECHNICZNE DLA STRUKTURY I NAZEWNICTWA PLIKÓW"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "nazwa pliku musi zawierać rozszerzenie odpowiadające formatowi pliku;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "nazwa pliku wraz z rozszerzeniem i kropką rozdzielającą (bez ścieżki) nie może być",
+     "children": [
+      {
+       "type": "text",
+       "text": "dłuższa niż 128 znaków;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "nazwa pliku nie może kończyć się spacją ani kropką;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "nazwa pliku może zawierać małe i wielkie polskie znaki diakrytyczne: ą, ę, ł, ó, ż, ź, ś, ć, ń;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "nazwa pliku może zawierać drukowalne znaki ASCII i spację, z wyjątkiem niżej",
+     "children": [
+      {
+       "type": "text",
+       "text": "wskazanych wykluczeń;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "nazwa pliku nie może zawierać znaków ASCII: \" * / : < > ? \\ | ~;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "nie dopuszcza się stosowania nazw zarezerwowanych przez system operacyjny Windows.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Do nazw tych należą w szczególności: CON, PRN, AUX, NUL, COM1–COM9 oraz"
+      },
+      {
+       "type": "text",
+       "text": "LPT1–LPT9."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "MINIMALNE WYMAGANIA TECHNICZNE DLA ZAŁĄCZNIKÓW STANOWIĄCYCH ODWZOROWANIA CYFROWE Z W"
+    },
+    {
+     "type": "text",
+     "text": "Rodzaj skanowanego Minimalna ilość bitów na Minimalna rozdzielczość Zalecany format Kompresja dokumentu piksel"
+    },
+    {
+     "type": "text",
+     "text": "teksty drukowane czarno-białe lub takie, wielostronicowy TIFF 150 dpi 1 bit (czarno-białe) CCITT G4 lub inna bezstratna w których kolor nie ma wielostronicowy PDF znaczenia* ) , format A4"
+    },
+    {
+     "type": "text",
+     "text": "wielostronicowy TIFF rękopisy, A4 200 dpi 8-bitowa skala szarości LZW lub inna bezstratna wielostronicowy PDF"
+    },
+    {
+     "type": "text",
+     "text": "2500 pikseli na dłuższym 8-bitowa skala szarości lub fotografie czarno-białe JPG ≥ 50 % boku kolor 24-bit"
+    },
+    {
+     "type": "text",
+     "text": "teksty drukowane 1600 pikseli na dłuższym wielostronicowy TIFF czarno-białe, boku lub 200 dpi (wybór 1 bit CCITT G4 lub inna bezstratna wielostronicowy PDF mniejsze niż A4 tego, co da wyższą jakość)"
+    },
+    {
+     "type": "text",
+     "text": "1600 pikseli na dłuższym wielostronicowy TIFF rękopisy mniejsze niż A4 boku lub 200 dpi (wybór 8-bitowa skala szarości LZW lub inna bezstratna wielostronicowy PDF tego, co da wyższą jakość)"
+    },
+    {
+     "type": "text",
+     "text": "teksty drukowane, w których wielostronicowy TIFF 200 dpi 8 bit – kolor LZW lub inna bezstratna kolor ma znaczenie** ) wielostronicowy PDF"
+    },
+    {
+     "type": "text",
+     "text": "2500 pikseli na dłuższym fotografia kolorowa 24 bit – kolor JPG ≥ 50 % boku"
+    },
+    {
+     "type": "text",
+     "text": "* ) To znaczy, że kolor nie ma znaczenia dla zrozumienia treści, na przykład gdy cały tekst jest w jednym kolorze, a jedynie nagłówki, stopki,"
+    },
+    {
+     "type": "text",
+     "text": "pieczątki, podpisy itp. są w innym kolorze."
+    },
+    {
+     "type": "text",
+     "text": "** ) Na przykład fragmenty istotne dla zrozumienia treści są wyróżnione kolorem, tekst zawiera kolorowe rysunki itp."
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1841, z 2025 r. poz. 620, 1172, 1302, 1518 i 1661 oraz z 2026 r. poz. 26.",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1907, z 2025 r. poz. 526, 820, 1172, 1178 i 1609 oraz z 2026 r. poz. 26."
+ }
+}

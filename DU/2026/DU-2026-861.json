@@ -1,0 +1,320 @@
+{
+ "eli": "DU/2026/861",
+ "title": "Rozporządzenie Rady Ministrów z dnia 25 czerwca 2026 r. w sprawie opłat za udostępnianie danych z rejestru mieszkańców oraz rejestru PESEL",
+ "converter": "eli2md 0.5.3",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/861/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 czerwca 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie opłat za udostępnianie danych z rejestru mieszkańców oraz rejestru PESEL"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 56 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2026 r. poz. 384) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "wysokość opłaty za udostępnianie danych jednostkowych z rejestru mieszkańców oraz rejestru PESEL;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "wysokość opłaty za udostępnianie z rejestru PESEL danych za pomocą urządzeń teletransmisji danych, w drodze weryfikacji, o której mowa w art. 49 ust. 1 ustawy z dnia 24 września 2010 r. o ewidencji ludności, zwanej dalej „ustawą”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "wysokość opłaty za udostępnianie z rejestru PESEL danych o seriach, numerach i datach ważności ważnych dowodów osobistych podmiotom, o których mowa w art. 49a ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "sposób obliczania wysokości opłaty za udostępnianie danych podmiotom, o których mowa w art. 46 ust. 2 pkt 2 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "sposób i terminy uiszczania opłat, o których mowa w pkt 1–4;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "sposób dokumentowania uiszczenia opłat, o których mowa w pkt 1–4.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Wysokość opłaty za udostępnianie danych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "jednostkowych z rejestru mieszkańców oraz rejestru PESEL – wynosi 31 zł;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "z rejestru PESEL za pomocą urządzeń teletransmisji danych, w drodze weryfikacji – wynosi 0,30 zł od jednej weryfikacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "z rejestru PESEL o seriach, numerach i datach ważności ważnych dowodów osobistych – wynosi 0,30 zł za każde pobranie tej informacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Wysokość opłaty za udostępnianie danych podmiotom, o których mowa w art. 46 ust. 2 pkt 2 ustawy, oblicza się według następującego wzoru:",
+   "children": [
+    {
+     "type": "text",
+     "text": "O = K × (A + B) + M"
+    },
+    {
+     "type": "text",
+     "text": "gdzie poszczególne symbole oznaczają:"
+    },
+    {
+     "type": "text",
+     "text": "O – łączną kwotę opłaty za udostępnianie danych,"
+    },
+    {
+     "type": "text",
+     "text": "K – współczynnik wynoszący:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_3/lit_a",
+     "text": "1,0 do celów badawczych lub statystycznych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_3/lit_b",
+     "text": "1,5 do celów badania opinii publicznej, A – opłatę za prace informatyczne:",
+     "children": [
+      {
+       "type": "text",
+       "text": "A = 0,5 Ha × Z + 0,5 Hb × Z + 0,75 Hc × Z + 10 Hd × Z + He × Z,"
+      },
+      {
+       "type": "text",
+       "text": "B – opłatę za prace eksploatacyjne:"
+      },
+      {
+       "type": "text",
+       "text": "B = 1,5 Hf × 10 Z + Hg × 10 Z + 1,5 Hh × 10 Z + 0,6 Hi × 10 Z + 0,5 Hj × 10 Z,"
+      },
+      {
+       "type": "text",
+       "text": "M – koszt materiałów eksploatacyjnych doliczany w przypadku, gdy przekroczy 5 % wartości usługi,"
+      },
+      {
+       "type": "text",
+       "text": "H – liczbę godzin przeznaczonych na realizację zadania:"
+      },
+      {
+       "type": "text",
+       "text": "Ha – czas trwania prac projektowych,"
+      },
+      {
+       "type": "text",
+       "text": "Hb – czas opracowania dokumentacji programowej,"
+      },
+      {
+       "type": "text",
+       "text": "Hc – czas trwania prac analitycznych,"
+      },
+      {
+       "type": "text",
+       "text": "Hd – czas opracowania nowego programu,"
+      },
+      {
+       "type": "text",
+       "text": "He – czas opracowania programu z gotowych modułów,"
+      },
+      {
+       "type": "text",
+       "text": "Hf – czas wyboru podzbioru z bazy danych,"
+      },
+      {
+       "type": "text",
+       "text": "Hg – czas przetwarzania wybranych danych,"
+      },
+      {
+       "type": "text",
+       "text": "Hh – czas wykonania tablicy statystycznej,"
+      },
+      {
+       "type": "text",
+       "text": "Hi – czas drukowania wykazów z wybranego podzbioru zawierającego poniżej 300 danych jednostkowych,"
+      },
+      {
+       "type": "text",
+       "text": "Hj – czas drukowania wykazów z wybranego podzbioru zawierającego powyżej 300 danych jednostkowych,"
+      },
+      {
+       "type": "text",
+       "text": "Z – opłatę za udostępnianie danych jednostkowych, o których mowa w § 2 pkt 1."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Opłatę, o której mowa w § 2 pkt 1, uiszcza się przed złożeniem wniosku o udostępnienie danych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Opłatę, o której mowa w § 2 pkt 2 i 3 oraz § 3, uiszcza się w terminie 7 dni od dnia otrzymania pisemnego wezwania organu udostępniającego dane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "W wezwaniu do uiszczenia opłaty, o której mowa odpowiednio w § 2 pkt 2 i 3, wskazuje się liczbę jednostkowych weryfikacji, które zostały wygenerowane z rejestru PESEL w danym okresie, lub liczbę informacji o seriach, numerach i datach ważności dowodów osobistych, które zostały pobrane z rejestru PESEL w danym okresie. Wezwania wysyła się nieczęściej niż raz w miesiącu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "W wezwaniu do uiszczenia opłaty, o której mowa w § 3, wskazuje się wysokość opłaty obliczonej według wzoru określonego w § 3. Wezwanie wysyła się niezwłocznie po obliczeniu wysokości opłaty.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Opłaty wnosi się do kasy organu udostępniającego dane lub na jego rachunek bankowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Opłaty za udostępnianie danych z rejestru PESEL wnosi się na rachunek bankowy organu udostępniającego dane.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Dowód uiszczenia opłaty, o której mowa w:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "§ 2 pkt 1 – dołącza się do wniosku o udostępnienie danych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "§ 2 pkt 2 i 3 oraz § 3 – przekazuje się w terminie 14 dni od dnia otrzymania wezwania, o którym mowa w § 4 ust. 2, do organu udostępniającego dane.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Dowód uiszczenia opłaty może mieć postać wydruku lub pliku potwierdzającego dokonanie operacji bankowej, generowanego elektronicznie z systemu bankowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Rozporządzenie wchodzi w życie z dniem 30 czerwca 2026 r.[^1]",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 22 grudnia 2017 r. w sprawie opłat za udostępnienie danych z rejestrów mieszkańców oraz rejestru PESEL (Dz. U. poz. 2482), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie art. 4 pkt 5 ustawy z dnia 25 czerwca 2025 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 1006)."
+ }
+}

@@ -1,0 +1,262 @@
+{
+ "eli": "DU/2025/411",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 26 marca 2025 r. w sprawie warunków technicznych przetwarzania danych przez Krajowy System Informatyczny do spraw Systemu Wjazdu/Wyjazdu",
+ "converter": "eli2md 0.5.3",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/411/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 marca 2025 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie warunków technicznych przetwarzania danych przez Krajowy System Informatyczny do spraw Systemu Wjazdu/Wyjazdu[^2]"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 13 ustawy z dnia 18 października 2024 r. o udziale Rzeczypospolitej Polskiej w Systemie Wjazdu/ Wyjazdu (Dz. U. poz. 1688) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "sposób wykorzystywania Krajowego Systemu Informatycznego do spraw Systemu Wjazdu/Wyjazdu, zwanego dalej „KSI EES”, jako krajowego interfejsu Systemu Wjazdu/Wyjazdu, zwanego dalej „EES”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "warunki techniczne przetwarzania danych EES przez KSI EES.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "brzegowym urządzeniu sieciowym – należy przez to rozumieć urządzenie typu firewall pełniące funkcję urządzenia dostępowego do KSI EES, terminujące tunel VPN IPsec;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "certyfikacie – należy przez to rozumieć elektroniczne zaświadczenie, zapewniające poufność przesyłanych danych oraz bezpieczeństwo procesu uwierzytelniania użytkownika instytucjonalnego, będące elementem Infrastruktury Klucza Publicznego (PKI), czyli kryptosystemu, w którego skład wchodzą urzędy certyfikacyjne, urzędy rejestracyjne, użytkownicy certyfikatów (subskrybenci), oprogramowanie i sprzęt, wydane zgodnie z obowiązującą w Straży Granicznej Polityką Certyfikacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "TLS (Transport Layer Security) – należy przez to rozumieć protokół służący do szyfrowania transmisji danych w sieci;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "VPN (Virtual Private Network) – należy przez to rozumieć wirtualną sieć prywatną jako sieć przekazu danych korzystającą z publicznej infrastruktury telekomunikacyjnej, która dzięki stosowaniu protokołów tunelowania i procedur bezpieczeństwa zachowuje poufność danych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "wydzielonej sieci teleinformatycznej – należy przez to rozumieć niepubliczną sieć telekomunikacyjną, która dzięki zastosowaniu rozwiązań sprzętowych lub programowych zapewnia możliwość logicznej separacji od powszechnie dostępnej infrastruktury telekomunikacyjnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "certyfikacie X.509 – należy przez to rozumieć standard opisujący sposób użycia asymetrycznych algorytmów kryptograficznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "KSI EES wykorzystuje się jako krajowy interfejs EES przez zapewnienie połączenia:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "w przypadku użytkownika indywidualnego – przez aplikację WWW EES lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "w przypadku użytkownika końcowego – przez system teleinformatyczny użytkownika instytucjonalnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Warunki techniczne przetwarzania danych EES obejmują:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "zapewnienie bezpieczeństwa własnej sieci teleinformatycznej podłączonej do KSI EES;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "zapewnienie połączenia z KSI EES za pośrednictwem wydzielonej sieci teleinformatycznej z wykorzystaniem protokołu https oraz VPN;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "wykorzystanie protokołu TLS i certyfikatu X.509 w celu zabezpieczenia dostępu do KSI EES;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_4/pkt_4",
+     "text": "uzyskanie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_4/pkt_4/lit_a",
+       "text": "certyfikatu dla brzegowego urządzenia sieciowego wydawanego przez Centralny Organ Techniczny KSI EES,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_4/pkt_4/lit_b",
+       "text": "parametrów konfiguracji brzegowego urządzenia sieciowego określanych przez Centralny Organ Techniczny KSI EES.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Warunki techniczne przetwarzania danych EES przez użytkownika indywidualnego obejmują dodatkowo uwierzytelnienie się w KSI EES spersonalizowanym identyfikatorem użytkownika indywidualnego oraz hasłem, wydanymi zgodnie z art. 17 ust. 5 ustawy z dnia 18 października 2024 r. o udziale Rzeczypospolitej Polskiej w Systemie Wjazdu/ Wyjazdu, zwanej dalej „ustawą”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Warunki techniczne przetwarzania danych EES przez użytkownika instytucjonalnego obejmują dodatkowo:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "uzyskanie certyfikatu uwierzytelniającego zgodnie z przepisami wydanymi na podstawie art. 17 ust. 18 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "zapewnienie uwierzytelnienia użytkownika końcowego we własnym systemie teleinformatycznym i przetwarzania przez niego danych EES na podstawie przydzielonych uprawnień;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_6/pkt_3",
+     "text": "zapewnienie odnotowywania przez własny system teleinformatyczny informacji obejmujących:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_6/pkt_3/lit_a",
+       "text": "indywidualny identyfikator użytkownika końcowego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_6/pkt_3/lit_b",
+       "text": "datę i godzinę dokonania czynności,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_6/pkt_3/lit_c",
+       "text": "dane, których dotyczyła czynność,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_6/pkt_3/lit_d",
+       "text": "określenie rodzaju czynności wykonanej za pośrednictwem KSI EES,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_6/pkt_3/lit_e",
+       "text": "w przypadku czynności polegającej na dokonaniu wpisu – niepowtarzalny identyfikator wpisu danych EES nadany przez KSI EES.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Rozporządzenie wchodzi w życie z dniem określonym w decyzji Komisji Europejskiej, zgodnie z art. 66 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/2226 z dnia 30 listopada 2017 r. ustanawiającego system wjazdu/wyjazdu (EES) w celu rejestrowania danych dotyczących wjazdu i wyjazdu obywateli państw trzecich przekraczających granice zewnętrzne państw członkowskich i danych dotyczących odmowy wjazdu w odniesieniu do takich obywateli oraz określającego warunki dostępu do EES na potrzeby ochrony porządku publicznego i zmieniającego konwencję wykonawczą do układu z Schengen i rozporządzenia (WE) nr 767/2008 i (UE) nr 1077/2011 (Dz. Urz. UE L 327 z 09.12.2017, str. 20, z późn. zm.[^3]).",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Spraw Wewnętrznych i Administracji: wz. T. Szymański"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).",
+  "2": "Niniejsze rozporządzenie służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/2226 z dnia 30 listopada 2017 r. ustanawiającego system wjazdu/wyjazdu (EES) w celu rejestrowania danych dotyczących wjazdu i wyjazdu obywateli państw trzecich przekraczających granice zewnętrzne państw członkowskich i danych dotyczących odmowy wjazdu w odniesieniu do takich obywateli oraz określającego warunki dostępu do EES na potrzeby ochrony porządku publicznego i zmieniającego konwencję wykonawczą do układu z Schengen i rozporządzenia (WE) nr 767/2008 i (UE) nr 1077/2011 (Dz. Urz. UE L 327 z 09.12.2017, str. 20, Dz. Urz. UE L 236 z 19.09.2018, str. 1, Dz. Urz. UE L 258 z 15.10.2018, str. 5, Dz. Urz. UE L 117 z 03.05.2019, str. 13, Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11, Dz. Urz. UE L 249 z 14.07.2021, str. 15, Dz. Urz. UE L 2023/2667 z 07.12.2023 oraz Dz. Urz. UE L 2024/1356 z 22.05.2024).",
+  "3": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 19.09.2018, str. 1, Dz. Urz. UE L 258 z 15.10.2018, str. 5, Dz. Urz. UE L 117 z 03.05.2019, str. 13, Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11, Dz. Urz. UE L 249 z 14.07.2021, str. 15, Dz. Urz. UE L 2023/2667 z 07.12.2023 oraz Dz. Urz. UE L 2024/1356 z 22.05.2024."
+ }
+}

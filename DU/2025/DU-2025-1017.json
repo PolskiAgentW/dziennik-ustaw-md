@@ -1,0 +1,2421 @@
+{
+ "eli": "DU/2025/1017",
+ "title": "Ustawa z dnia 25 czerwca 2025 r. o krajowym systemie certyfikacji cyberbezpieczeństwa",
+ "converter": "eli2md 0.5.3",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1017/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "USTAWA"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 czerwca 2025 r."
+  },
+  {
+   "type": "text",
+   "text": "o krajowym systemie certyfikacji cyberbezpieczeństwa[^1],[^2]"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Ustawa określa organizację krajowego systemu certyfikacji cyberbezpieczeństwa oraz zadania i obowiązki podmiotów wchodzących w skład tego systemu, w tym sposób sprawowania nadzoru nad działalnością podmiotów wchodzących w skład tego systemu, kontroli działalności tych podmiotów oraz koordynacji ich działalności.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Użyte w ustawie określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_2/pkt_1",
+     "text": "akredytacja – akredytację, o której mowa w art. 2 pkt 10 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30, z późn. zm.[^3]), zwanego dalej „rozporządzeniem 765/2008”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_2/pkt_2",
+     "text": "certyfikacja – potwierdzenie, że produkt ICT, usługa ICT, proces ICT, usługa zarządzana w zakresie bezpieczeństwa, osoba fizyczna lub system zarządzania cyberbezpieczeństwem spełniają wymogi określone w europejskim programie certyfikacji cyberbezpieczeństwa albo krajowym schemacie certyfikacji cyberbezpieczeństwa, które skutkuje wydaniem certyfikatu potwierdzającego zgodność z tymi wymogami;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_2/pkt_3",
+     "text": "cyberbezpieczeństwo – cyberbezpieczeństwo, o którym mowa w art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/881 z dnia 17 kwietnia 2019 r. w sprawie ENISA (Agencji Unii Europejskiej ds. Cyberbezpieczeństwa) oraz certyfikacji cyberbezpieczeństwa w zakresie technologii informacyjno-komunikacyjnych oraz uchylenia rozporządzenia (UE) nr 526/2013 (akt o cyberbezpieczeństwie) (Dz. Urz. UE L 151 z 07.06.2019, str. 15, z późn. zm.[^4]), zwanego dalej „rozporządzeniem 2019/881”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_2/pkt_4",
+     "text": "cyberzagrożenie – cyberzagrożenie, o którym mowa w art. 2 pkt 8 rozporządzenia 2019/881;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_2/pkt_5",
+     "text": "deklaracja zgodności – unijną deklarację zgodności, o której mowa w art. 53 ust. 2 rozporządzenia 2019/881;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_2/pkt_6",
+     "text": "dokument odzwierciedlający stan wiedzy – dokument, który określa metody, techniki i narzędzia oceny mające zastosowanie do certyfikacji produktów ICT lub wymogi bezpieczeństwa generycznej kategorii produktów ICT lub jakiekolwiek inne wymogi niezbędne do certyfikacji produktów ICT, stosowane w celu harmonizacji oceny, w szczególności w odniesieniu do domen technicznych lub profili zabezpieczeń;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_2/pkt_7",
+     "text": "dostawca – producenta, upoważnionego przedstawiciela, importera lub dystrybutora, o których mowa w art. 2 pkt 3–6 rozporządzenia 765/2008;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_2/pkt_8",
+     "text": "europejski certyfikat – europejski certyfikat cyberbezpieczeństwa, o którym mowa w art. 2 pkt 11 rozporządzenia 2019/881;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "art_2/pkt_9",
+     "text": "europejski program certyfikacji cyberbezpieczeństwa – europejski program certyfikacji cyberbezpieczeństwa, o którym mowa w art. 2 pkt 9 rozporządzenia 2019/881;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "art_2/pkt_10",
+     "text": "instytut badawczy – instytut badawczy, o którym mowa w art. 1 ust. 1 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "art_2/pkt_11",
+     "text": "jednostka oceniająca zgodność – jednostkę prowadzącą ocenę zgodności w zakresie cyberbezpieczeństwa produktów ICT, usług ICT, procesów ICT, usług zarządzanych w zakresie bezpieczeństwa, systemów zarządzania cyberbezpieczeństwem lub wiedzy i umiejętności praktycznych osób fizycznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "art_2/pkt_12",
+     "text": "krajowy certyfikat – dokument poświadczający, że dany produkt ICT, dana usługa ICT, dany proces ICT, dana usługa zarządzana w zakresie bezpieczeństwa, dany system zarządzania cyberbezpieczeństwem lub dana osoba fizyczna zostały ocenione pod względem zgodności ze szczegółowymi wymogami określonymi w krajowym schemacie certyfikacji cyberbezpieczeństwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "art_2/pkt_13",
+     "text": "krajowy schemat certyfikacji cyberbezpieczeństwa – krajowy program certyfikacji cyberbezpieczeństwa, o którym mowa w art. 2 pkt 10 rozporządzenia 2019/881, oraz kompleksowy zbiór regulacji przyjętych przez krajowy organ do spraw certyfikacji cyberbezpieczeństwa, mających zastosowanie do certyfikacji systemów zarządzania cyberbezpieczeństwem albo osób fizycznych w zakresie cyberbezpieczeństwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "art_2/pkt_14",
+     "text": "norma – normę, o której mowa w art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1025/2012 z dnia 25 października 2012 r. w sprawie normalizacji europejskiej, zmieniającego dyrektywy Rady 89/686/EWG i 93/15/EWG oraz dyrektywy Parlamentu Europejskiego i Rady 94/9/WE, 94/25/WE, 95/16/WE, 97/23/WE, 98/34/WE, 2004/22/WE, 2007/23/WE, 2009/23/WE i 2009/105/WE oraz uchylającego decyzję Rady 87/95/EWG i decyzję Parlamentu Europejskiego i Rady nr 1673/2006/WE (Dz. Urz. UE L 316 z 14.11.2012, str. 12, z późn. zm.[^5]);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "art_2/pkt_15",
+     "text": "ocena zgodności – ocenę zgodności, o której mowa w art. 2 pkt 12 rozporządzenia 765/2008;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "art_2/pkt_16",
+     "text": "państwowy instytut badawczy – instytut badawczy, o którym mowa w art. 21 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "art_2/pkt_17",
+     "text": "proces ICT – proces ICT, o którym mowa w art. 2 pkt 14 rozporządzenia 2019/881;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "art_2/pkt_18",
+     "text": "produkt ICT – produkt ICT, o którym mowa w art. 2 pkt 12 rozporządzenia 2019/881;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "art_2/pkt_19",
+     "text": "przeciętne wynagrodzenie – przeciętne wynagrodzenie w gospodarce narodowej, ogłaszane przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718 i 769) za rok poprzedzający rok nałożenia kary pieniężnej, o której mowa w art. 33;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "art_2/pkt_20",
+     "text": "specyfikacja techniczna – specyfikację techniczną, o której mowa w art. 2 pkt 20 rozporządzenia 2019/881;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "art_2/pkt_21",
+     "text": "system zarządzania cyberbezpieczeństwem – przyjęte w danej organizacji procedury oraz wytyczne służące ochronie jej zasobów informacyjnych przed cyberzagrożeniami, polegające na systematycznym ustanawianiu, wdrażaniu, obsłudze, monitorowaniu rozwiązań zapewniających bezpieczeństwo sieci i systemów informatycznych organizacji oraz przeglądach tych sieci i systemów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "22",
+     "path": "art_2/pkt_22",
+     "text": "usługa ICT – usługę ICT, o której mowa w art. 2 pkt 13 rozporządzenia 2019/881;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "23",
+     "path": "art_2/pkt_23",
+     "text": "usługa zarządzana w zakresie bezpieczeństwa – usługę zarządzaną w zakresie bezpieczeństwa, o której mowa w art. 2 pkt 14a rozporządzenia 2019/881.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Krajowy system certyfikacji cyberbezpieczeństwa stanowi zbiór podmiotów, o których mowa w ust. 2, oraz procedur związanych z certyfikacją produktów ICT, usług ICT, procesów ICT lub usług zarządzanych w zakresie bezpieczeństwa, w ramach europejskich programów certyfikacji cyberbezpieczeństwa albo krajowych schematów certyfikacji cyberbezpieczeństwa oraz procedur w zakresie certyfikacji systemów certyfikacji cyberbezpieczeństwa lub osób fizycznych w ramach krajowych schematów certyfikacji cyberbezpieczeństwa, wspierających:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_3/ust_1/pkt_1",
+       "text": "wytwarzanie wysokiej jakości produktów ICT, usług ICT, procesów ICT i usług zarządzanych w zakresie bezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_3/ust_1/pkt_2",
+       "text": "budowę systemów zarządzania cyberbezpieczeństwem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_3/ust_1/pkt_3",
+       "text": "zapewnienie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_3/ust_1/pkt_3/lit_a",
+         "text": "wykwalifikowanych specjalistów w obszarze cyberbezpieczeństwa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_3/ust_1/pkt_3/lit_b",
+         "text": "spełniania przez produkty ICT, usługi ICT, procesy ICT i usługi zarządzane w zakresie bezpieczeństwa wymogów w zakresie ochrony dostępności, autentyczności, integralności i poufności przetwarzanych danych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_3/ust_1/pkt_3/lit_c",
+         "text": "bezpieczeństwa oferowanych lub dostępnych produktów ICT, usług ICT, procesów ICT i usług zarządzanych w zakresie bezpieczeństwa w trakcie ich całego cyklu życia oraz powiązanych z nimi funkcji.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Krajowy system certyfikacji cyberbezpieczeństwa obejmuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_3/ust_2/pkt_1",
+       "text": "ministra właściwego do spraw informatyzacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_3/ust_2/pkt_2",
+       "text": "Polskie Centrum Akredytacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_3/ust_2/pkt_3",
+       "text": "jednostki oceniające zgodność;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_3/ust_2/pkt_4",
+       "text": "dostawców, którzy poddają swoje produkty ICT, usługi ICT, procesy ICT lub usługi zarządzane w zakresie bezpieczeństwa ocenie zgodności w ramach danego europejskiego programu certyfikacji cyberbezpieczeństwa albo danego krajowego schematu certyfikacji cyberbezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_3/ust_2/pkt_5",
+       "text": "osoby fizyczne, które poddają swoją wiedzę i umiejętności praktyczne ocenie zgodności w ramach danego krajowego schematu certyfikacji cyberbezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_3/ust_2/pkt_6",
+       "text": "podmioty, które poddają wykorzystywane przez siebie systemy zarządzania cyberbezpieczeństwem ocenie zgodności w ramach danego krajowego schematu certyfikacji cyberbezpieczeństwa.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Minister właściwy do spraw informatyzacji jest krajowym organem do spraw certyfikacji cyberbezpieczeństwa, o którym mowa w art. 58 rozporządzenia 2019/881.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Do zadań ministra właściwego do spraw informatyzacji należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_4/ust_2/pkt_1",
+       "text": "sprawowanie nadzoru nad podmiotami krajowego systemu certyfikacji cyberbezpieczeństwa, o których mowa w art. 3 ust. 2 pkt 3–6;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_4/ust_2/pkt_2",
+       "text": "przeprowadzanie kontroli podmiotów krajowego systemu certyfikacji cyberbezpieczeństwa, o których mowa w art. 3 ust. 2 pkt 3, 4 i 6;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_4/ust_2/pkt_3",
+       "text": "przeprowadzanie wzajemnego przeglądu, o którym mowa w art. 59 rozporządzenia 2019/881;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_4/ust_2/pkt_4",
+       "text": "współpraca z innymi podmiotami, w szczególności z Polskim Centrum Akredytacji, w zakresie certyfikacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_4/ust_2/pkt_5",
+       "text": "wyrażanie zgody na wydanie europejskich certyfikatów o poziomie uzasadnienia zaufania „wysoki”, o którym mowa w art. 52 ust. 7 rozporządzenia 2019/881;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_4/ust_2/pkt_6",
+       "text": "rozpoznawanie skarg złożonych na jednostki oceniające zgodność w zakresie prowadzonych przez te jednostki działań w ramach europejskich programów certyfikacji cyberbezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_4/ust_2/pkt_7",
+       "text": "prowadzenie postępowań w sprawie zezwoleń, o których mowa w art. 19 ust. 2;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "art_4/ust_2/pkt_8",
+       "text": "przekazywanie Agencji Unii Europejskiej ds. Cyberbezpieczeństwa (ENISA) oraz Europejskiej Grupie do Spraw Certyfikacji Cyberbezpieczeństwa (ECCG) corocznego raportu z działań przeprowadzonych na podstawie art. 58 ust. 7 lit. b–d oraz ust. 8 rozporządzenia 2019/881;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "art_4/ust_2/pkt_9",
+       "text": "uczestniczenie w pracach Europejskiej Grupy do Spraw Certyfikacji Cyberbezpieczeństwa (ECCG) na podstawie art. 58 ust. 6 rozporządzenia 2019/881;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "art_4/ust_2/pkt_10",
+       "text": "wyrażanie zgody na rezygnację z zastosowania odpowiedniego dokumentu odzwierciedlającego stan wiedzy, jeżeli dany europejski program certyfikacji cyberbezpieczeństwa to przewiduje;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "art_4/ust_2/pkt_11",
+       "text": "ustalanie zmian w metodyce oceny, która ma być stosowana, w przypadku gdy dany europejski program certyfikacji cyberbezpieczeństwa to przewiduje;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "art_4/ust_2/pkt_12",
+       "text": "przygotowywanie krajowych schematów certyfikacji cyberbezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "art_4/ust_2/pkt_13",
+       "text": "nadzorowanie stosowania określonych w europejskich programach certyfikacji cyberbezpieczeństwa zasad monitorowania zgodności produktów ICT, usług ICT, procesów ICT lub usług zarządzanych w zakresie bezpieczeństwa z wymogami europejskich certyfikatów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "art_4/ust_2/pkt_14",
+       "text": "monitorowanie spełniania przez jednostki oceniające zgodność wymogów określonych w załączniku do rozporządzenia 2019/881;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "art_4/ust_2/pkt_15",
+       "text": "przeprowadzanie lub zlecanie badań produktu ICT, usługi ICT, procesu ICT lub usługi zarządzanej w zakresie bezpieczeństwa, dla których zostały wydane europejski certyfikat albo krajowy certyfikat albo deklaracja zgodności, lub systemu zarządzania cyberbezpieczeństwem, dla którego został wydany krajowy certyfikat.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_4/ust_3",
+     "text": "Minister właściwy do spraw informatyzacji jest administratorem danych osobowych przetwarzanych w celu realizacji jego zadań, obowiązków lub uprawnień wynikających z ustawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_4/ust_4",
+     "text": "Zadania ministra właściwego do spraw informatyzacji, o których mowa w ust. 2, oraz zadania ministra właściwego do spraw informatyzacji z zakresu nadzoru nad państwowymi instytutami badawczymi nie mogą być realizowane przez tę samą komórkę organizacyjną w urzędzie obsługującym tego ministra.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Produkt ICT, usługa ICT, proces ICT lub usługa zarządzana w zakresie bezpieczeństwa mogą być poddane ocenie zgodności zgodnie z danym europejskim programem certyfikacji cyberbezpieczeństwa na podstawie umowy zawartej przez dostawcę i jednostkę oceniającą zgodność.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Ocena zgodności, o której mowa w ust. 1, odnosi się do jednego z poziomów uzasadnienia zaufania wskazanych w art. 52 rozporządzenia 2019/881.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Umowa, o której mowa w ust. 1, określa w szczególności produkt ICT, usługę ICT, proces ICT lub usługę zarządzaną w zakresie bezpieczeństwa, które mają zostać poddane ocenie zgodności, zakres certyfikacji, europejski program certyfikacji cyberbezpieczeństwa, w ramach którego ma być wydany europejski certyfikat, poziom uzasadnienia zaufania, do którego ma odwoływać się ten certyfikat, obowiązki stron związane z certyfikacją oraz obowiązki związane z ochroną informacji przekazywanych jednostce oceniającej zgodność, a zwłaszcza sposób ochrony tajemnic handlowych i innych informacji poufnych, w tym tajemnic przedsiębiorstwa, a także ochrony praw własności intelektualnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Produkt ICT, usługa ICT, proces ICT, usługa zarządzana w zakresie bezpieczeństwa, system zarządzania cyberbezpieczeństwem lub wiedza i umiejętności praktyczne osoby fizycznej z zakresu cyberbezpieczeństwa mogą być poddane ocenie zgodności zgodnie z danym krajowym schematem certyfikacji cyberbezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Produkt ICT, usługa ICT, proces ICT lub usługa zarządzana w zakresie bezpieczeństwa w ramach oceny zgodności, o której mowa w ust. 1, podlegają ocenie zgodności ze szczegółowymi wymogami określonymi w danym krajowym schemacie certyfikacji cyberbezpieczeństwa na podstawie umowy zawartej przez dostawcę i jednostkę oceniającą zgodność.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "System zarządzania cyberbezpieczeństwem w ramach oceny zgodności, o której mowa w ust. 1, podlega ocenie zgodności ze szczegółowymi wymogami określonymi w danym krajowym schemacie certyfikacji cyberbezpieczeństwa, na podstawie umowy zawartej przez podmiot, o którym mowa w art. 3 ust. 2 pkt 6, i jednostkę oceniającą zgodność.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_6/ust_4",
+     "text": "Wiedza i umiejętności praktyczne osoby fizycznej z zakresu cyberbezpieczeństwa w ramach oceny zgodności, o której mowa w ust. 1, podlegają ocenie zgodności ze szczegółowymi wymogami określonymi w danym krajowym schemacie certyfikacji cyberbezpieczeństwa na podstawie umowy zawartej przez tę osobę i jednostkę oceniającą zgodność.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_6/ust_5",
+     "text": "Umowa, o której mowa w ust. 2–4, określa w szczególności produkt ICT, usługę ICT, proces ICT, usługę zarządzaną w zakresie bezpieczeństwa, system zarządzania cyberbezpieczeństwem lub osobę fizyczną, które mają zostać poddane ocenie zgodności, zakres certyfikacji, krajowy schemat certyfikacji cyberbezpieczeństwa, w ramach którego ma być wydany krajowy certyfikat, obowiązki stron związane z certyfikacją oraz obowiązki związane z ochroną informacji przekazywanych jednostce oceniającej zgodność, a zwłaszcza sposób ochrony tajemnic handlowych i innych informacji poufnych, w tym tajemnic przedsiębiorstwa, a także ochrony praw własności intelektualnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Krajowy certyfikat może zostać wydany dla produktu ICT, usługi ICT, procesu ICT, usługi zarządzanej w zakresie bezpieczeństwa lub systemu zarządzania cyberbezpieczeństwem, które zapewniają dostępność, autentyczność, integralność lub poufność przetwarzanych danych lub udostępnianych funkcji lub usług na poziomie odpowiednim do potencjalnych cyberzagrożeń oraz minimalizują znane ryzyka w zakresie cyberzagrożeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Krajowy certyfikat może zostać wydany osobie fizycznej, która posiada wiedzę i umiejętności praktyczne gwarantujące realizację zadań z zakresu cyberbezpieczeństwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "W celu wykazania, że produkt ICT, usługa ICT, proces ICT, usługa zarządzana w zakresie bezpieczeństwa lub system zarządzania cyberbezpieczeństwem spełniają szczegółowe wymogi określone w danym krajowym schemacie certyfikacji cyberbezpieczeństwa, przeprowadza się ocenę polegającą na badaniu dokumentacji technicznej, audycie, badaniu konkretnych właściwości produktu ICT, usługi ICT, procesu ICT, usługi zarządzanej w zakresie bezpieczeństwa albo systemu zarządzania cyberbezpieczeństwem lub analizie ich funkcjonowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "W celu wykazania, że wiedza i umiejętności praktyczne osoby fizycznej ubiegającej się o uzyskanie krajowego certyfikatu spełniają szczegółowe wymogi określone w danym krajowym schemacie certyfikacji cyberbezpieczeństwa, przeprowadza się test wiedzy i umiejętności praktycznych z zakresu cyberbezpieczeństwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Krajowy certyfikat zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_9/ust_1/pkt_1",
+       "text": "oznaczenie podmiotu, który otrzymał krajowy certyfikat, a w przypadku osoby fizycznej – imię i nazwisko tej osoby;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_9/ust_1/pkt_2",
+       "text": "nazwę jednostki oceniającej zgodność, która wydała krajowy certyfikat, oraz wskazanie adresu jej siedziby;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_9/ust_1/pkt_3",
+       "text": "oznaczenie produktu ICT, usługi ICT, procesu ICT, usługi zarządzanej w zakresie bezpieczeństwa lub systemu zarządzania cyberbezpieczeństwem podlegających certyfikacji, a w przypadku osoby fizycznej – wskazanie zakresu certyfikacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_9/ust_1/pkt_4",
+       "text": "numer lub oznaczenie krajowego certyfikatu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_9/ust_1/pkt_5",
+       "text": "oznaczenie krajowego schematu certyfikacji cyberbezpieczeństwa, w ramach którego został wydany krajowy certyfikat;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_9/ust_1/pkt_6",
+       "text": "okres, na jaki został wydany krajowy certyfikat;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_9/ust_1/pkt_7",
+       "text": "datę wydania krajowego certyfikatu i podpis osoby reprezentującej podmiot dokonujący certyfikacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Krajowy certyfikat wydawany jest według wzoru określonego w przepisach wydanych na podstawie art. 15 ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Krajowy certyfikat jest wydawany na okres nie krótszy niż 2 lata i nie dłuższy niż 5 lat.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Ważność krajowego certyfikatu może zostać przedłużona na wniosek:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_10/ust_2/pkt_1",
+       "text": "dostawcy, któremu wydano certyfikat,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_10/ust_2/pkt_2",
+       "text": "osoby fizycznej, której wydano certyfikat,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_10/ust_2/pkt_3",
+       "text": "podmiotu, któremu wydano certyfikat",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "art_10/ust_2/pkt_3/tir_1",
+         "text": "w przypadku gdy produkt ICT, usługa ICT, proces ICT, usługa zarządzana w zakresie bezpieczeństwa, system zarządzania cyberbezpieczeństwem lub osoba fizyczna nadal spełniają wymogi określone w danym krajowym schemacie certyfikacji cyberbezpieczeństwa.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_10/ust_3",
+     "text": "Podmioty, o których mowa w ust. 2, składają wniosek o przedłużenie ważności krajowego certyfikatu nie później niż w terminie miesiąca przed upływem jego ważności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_10/ust_4",
+     "text": "Do wniosku, o którym mowa w ust. 2, dołącza się dokumentację potwierdzającą spełnianie przez produkt ICT, usługę ICT, proces ICT, usługę zarządzaną w zakresie bezpieczeństwa lub system zarządzania cyberbezpieczeństwem szczegółowych wymogów określonych w danym krajowym schemacie certyfikacji cyberbezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_10/ust_5",
+     "text": "Potwierdzenie spełnienia wymagań przez osobę fizyczną, o której mowa w ust. 2 pkt 2, następuje na podstawie powtórnego sprawdzenia wiedzy i umiejętności praktycznych zgodnie z metodami określonymi w przepisach wydanych na podstawie art. 15 ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Produkt ICT, usługa ICT, proces ICT, usługa zarządzana w zakresie bezpieczeństwa, system zarządzania cyberbezpieczeństwem lub osoba fizyczna, dla których wydano krajowy certyfikat, spełniają szczegółowe wymogi określone w danym krajowym schemacie certyfikacji cyberbezpieczeństwa przez cały okres, na jaki został wydany krajowy certyfikat.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Posiadacz krajowego certyfikatu przekazuje informacje istotne z punktu widzenia spełniania szczegółowych wymogów określonych w danym krajowym schemacie certyfikacji cyberbezpieczeństwa do jednostki oceniającej zgodność, która wydała ten certyfikat, w szczególności informuje jednostkę oceniającą zgodność o wykryciu podatności w produkcie ICT, usłudze ICT, procesie ICT lub usłudze zarządzanej w zakresie bezpieczeństwa, dla których został wydany krajowy certyfikat.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Jednostka oceniająca zgodność może żądać od posiadacza krajowego certyfikatu informacji i dokumentów potwierdzających, że produkt ICT, usługa ICT, proces ICT, usługa zarządzana w zakresie bezpieczeństwa, system zarządzania cyberbezpieczeństwem lub osoba fizyczna nadal spełniają szczegółowe wymogi określone w krajowym schemacie certyfikacji cyberbezpieczeństwa, w ramach którego został wydany krajowy certyfikat.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "Dokumentacja techniczna dotycząca certyfikacji zawierająca opis wytwarzania i działania produktu ICT, usługi ICT, procesu ICT, usługi zarządzanej w zakresie bezpieczeństwa lub systemu zarządzania cyberbezpieczeństwem jest przechowywana przez jednostkę oceniającą zgodność przez okres nie dłuższy niż 10 lat od dnia wygaśnięcia krajowego certyfikatu. Po upływie okresu przechowywania dokumentacja ta podlega zniszczeniu w sposób uniemożliwiający odtworzenie jej treści.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Dokumentacja techniczna, o której mowa w ust. 1, jest przechowywana w sposób zapewniający jej dostępność, autentyczność, integralność i poufność, bezpieczeństwo i ochronę tajemnic handlowych i innych informacji poufnych, w tym tajemnic przedsiębiorstwa, a także ochronę praw własności intelektualnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_13/ust_3",
+     "text": "Zniszczenie dokumentacji, o której mowa w ust. 1, potwierdza się protokołem brakowania zawierającym w szczególności datę sporządzenia protokołu, datę zniszczenia dokumentacji, oznaczenie niszczonej dokumentacji, opis sposobu zniszczenia dokumentacji i dane osoby zatwierdzającej protokół. Protokoły brakowania dokumentacji są przechowywane przez jednostki oceniające zgodność.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "W przypadku stwierdzenia przez jednostkę oceniającą zgodność, że produkt ICT, usługa ICT, proces ICT, usługa zarządzana w zakresie bezpieczeństwa lub system zarządzania cyberbezpieczeństwem, dla których wydany został krajowy certyfikat, przestały spełniać wymogi określone w danym krajowym schemacie certyfikacji cyberbezpieczeństwa, jednostka oceniająca zgodność informuje posiadacza krajowego certyfikatu o stwierdzonej niezgodności i zwraca się do niego o przedstawienie propozycji działań zaradczych. Posiadacz krajowego certyfikatu przedstawia jednostce oceniającej zgodność propozycję działań zaradczych w terminie 14 dni od dnia otrzymania informacji o stwierdzonej niezgodności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "W przypadku akceptacji propozycji działań zaradczych przez jednostkę oceniającą zgodność posiadacz krajowego certyfikatu usuwa niezgodność zgodnie z zaproponowanymi działaniami zaradczymi w terminie 2 miesięcy od akceptacji tych propozycji przez jednostkę oceniającą zgodność.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_14/ust_3",
+     "text": "Jednostka oceniająca zgodność weryfikuje, czy wykonane działania zaradcze doprowadziły do usunięcia niezgodności, o której mowa w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_14/ust_4",
+     "text": "W przypadku gdy posiadacz krajowego certyfikatu nie przedstawi propozycji działań zaradczych, nie usunie niezgodności, o której mowa w ust. 1, w terminie, o którym mowa w ust. 2, lub uniemożliwia weryfikację, o której mowa w ust. 3, jednostka oceniająca zgodność cofa wydany krajowy certyfikat.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_14/ust_5",
+     "text": "Jednostka oceniająca zgodność powiadamia ministra właściwego do spraw informatyzacji o cofnięciu krajowego certyfikatu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "Minister właściwy do spraw informatyzacji może określić, w drodze rozporządzenia, krajowy schemat certyfikacji cyberbezpieczeństwa dla wybranych produktów ICT, usług ICT, procesów ICT, usług zarządzanych w zakresie bezpieczeństwa, systemów zarządzania cyberbezpieczeństwem lub osób fizycznych, zawierający:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_15/ust_1/pkt_1",
+       "text": "szczegółowe wymogi dla produktów ICT, usług ICT, procesów ICT, usług zarządzanych w zakresie bezpieczeństwa, systemów zarządzania cyberbezpieczeństwem podlegających ocenie zgodności lub osób fizycznych, których wiedza i umiejętności praktyczne z zakresu cyberbezpieczeństwa podlegają ocenie zgodności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_15/ust_1/pkt_2",
+       "text": "szczegółowe metody stosowane w celu wykazania, że produkt ICT, usługa ICT, proces ICT, usługa zarządzana w zakresie bezpieczeństwa, system zarządzania cyberbezpieczeństwem lub osoba fizyczna spełniają wymogi, o których mowa w pkt 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_15/ust_1/pkt_3",
+       "text": "szczegółowe warunki wydawania, utrzymywania i przedłużania ważności krajowych certyfikatów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_15/ust_1/pkt_4",
+       "text": "szczegółowy sposób monitorowania zgodności produktów ICT, usług ICT, procesów ICT, usług zarządzanych w zakresie bezpieczeństwa, systemów zarządzania cyberbezpieczeństwem lub osób fizycznych z wymogami, o których mowa w pkt 1, w tym mechanizmy służące wykazaniu zgodności z tymi wymogami;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_15/ust_1/pkt_5",
+       "text": "szczegółowy zakres dokumentacji technicznej dotyczącej certyfikacji oraz sposób przechowywania i niszczenia tej dokumentacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_15/ust_1/pkt_6",
+       "text": "okres przechowywania dokumentacji technicznej dotyczącej certyfikacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_15/ust_1/pkt_7",
+       "text": "okres, na jaki jest wydawany krajowy certyfikat;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "art_15/ust_1/pkt_8",
+       "text": "wzór krajowego certyfikatu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "W przypadku rozporządzenia określającego krajowy schemat certyfikacji cyberbezpieczeństwa dotyczący produktów ICT, usług ICT, procesów ICT lub usług zarządzanych w zakresie bezpieczeństwa minister właściwy do spraw informatyzacji bierze pod uwagę ich funkcje, wpływ na funkcjonowanie systemów teleinformatycznych, cyberzagrożenia, które ich dotyczą, procesy, w jakich mogą być wykorzystywane, rozwój technologii w obszarze cyberbezpieczeństwa, a także konieczność zapewnienia odpowiedniej transparentności certyfikacji, odpowiedniego sposobu dokumentowania, ewidencjonowania i przechowywania dokumentacji, zapewnienia informacji niezbędnych do oceny, czy spełnione są wymogi, oraz zapewnienia odpowiedniej rozpoznawalności krajowych certyfikatów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_15/ust_3",
+     "text": "W przypadku rozporządzenia określającego krajowy schemat certyfikacji cyberbezpieczeństwa dotyczący systemów zarządzania cyberbezpieczeństwem minister właściwy do spraw informatyzacji bierze pod uwagę konieczność zapewnienia odpowiedniego poziomu cyberbezpieczeństwa systemów teleinformatycznych i danych przetwarzanych w tych systemach, zapewnienia przejrzystych i skutecznych procedur zarządzania cyberbezpieczeństwem, rozwój technologii w obszarze cyberbezpieczeństwa, a także konieczność zapewnienia odpowiedniej transparentności certyfikacji, odpowiedniego sposobu dokumentowania, ewidencjonowania i przechowywania dokumentacji, zapewnienia informacji niezbędnych do oceny, czy spełnione są wymogi, oraz zapewnienia odpowiedniej rozpoznawalności krajowych certyfikatów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_15/ust_4",
+     "text": "W przypadku rozporządzenia określającego krajowy schemat certyfikacji cyberbezpieczeństwa dotyczący osób fizycznych minister właściwy do spraw informatyzacji bierze pod uwagę konieczność odpowiedniego przygotowania osób fizycznych do wykonywania zadań z zakresu cyberbezpieczeństwa oraz wskazania zakresu wiedzy niezbędnej do skutecznej realizacji tych zadań, rozwój technologii w obszarze cyberbezpieczeństwa, a także konieczność zapewnienia odpowiedniej transparentności certyfikacji, odpowiedniego sposobu dokumentowania, ewidencjonowania oraz przechowywania dokumentacji, zapewnienia informacji niezbędnych do oceny, czy spełnione są wymogi, oraz zapewnienia odpowiedniej rozpoznawalności krajowych certyfikatów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Oceny zgodności dokonuje jednostka oceniająca zgodność posiadająca akredytację w zakresie odnoszącym się do danego europejskiego programu certyfikacji cyberbezpieczeństwa albo danego krajowego schematu certyfikacji cyberbezpieczeństwa.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "Akredytacji jednostce oceniającej zgodność udziela Polskie Centrum Akredytacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "Do akredytacji jednostki oceniającej zgodność stosuje się odpowiednio przepisy rozdziału 4 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2025 r. poz. 568).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_17/ust_3",
+     "text": "Akredytacji udziela się na okres nie dłuższy niż 5 lat.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_17/ust_4",
+     "text": "Polskie Centrum Akredytacji informuje ministra właściwego do spraw informatyzacji, nie później niż w terminie 14 dni od dnia udzielenia akredytacji, o udzieleniu akredytacji w zakresie odnoszącym się do danego europejskiego programu certyfikacji cyberbezpieczeństwa albo danego krajowego schematu certyfikacji cyberbezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_17/ust_5",
+     "text": "Informacja o udzieleniu akredytacji, o której mowa w ust. 3, zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_17/ust_5/pkt_1",
+       "text": "oznaczenie jednostki oceniającej zgodność, której udzielono akredytacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_17/ust_5/pkt_2",
+       "text": "wskazanie zakresu udzielonej akredytacji, daty udzielenia akredytacji oraz okresu ważności udzielonej akredytacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_17/ust_5/pkt_3",
+       "text": "numer i oznaczenie certyfikatu akredytacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_17/ust_6",
+     "text": "Polskie Centrum Akredytacji informuje ministra właściwego do spraw informatyzacji o odmowie udzielenia, cofnięciu, zawieszeniu lub ograniczeniu zakresu akredytacji jednostce oceniającej zgodność nie później niż w terminie 14 dni od dnia podjęcia danego rozstrzygnięcia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_17/ust_7",
+     "text": "Polskie Centrum Akredytacji sprawuje nadzór w zakresie udzielonej akredytacji nad jednostkami oceniającymi zgodność w obszarze objętym danym europejskim programem certyfikacji cyberbezpieczeństwa albo danym krajowym schematem certyfikacji cyberbezpieczeństwa, z uwzględnieniem wymagań, o których mowa w art. 22 ust. 4 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, oraz wymogów określonych w:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_17/ust_7/pkt_1",
+       "text": "załączniku do rozporządzenia 2019/881;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_17/ust_7/pkt_2",
+       "text": "europejskich programach certyfikacji cyberbezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_17/ust_7/pkt_3",
+       "text": "krajowych schematach certyfikacji cyberbezpieczeństwa.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_18/ust_1",
+     "text": "Państwowe instytuty badawcze nadzorowane przez ministra właściwego do spraw informatyzacji wspierają tego ministra, w zakresie swoich kompetencji, w realizacji zadań, o których mowa w art. 4 ust. 2, przez:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_18/ust_1/pkt_1",
+       "text": "przygotowywanie opinii, ekspertyz i analiz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_18/ust_1/pkt_2",
+       "text": "weryfikację dokumentów pochodzących od podmiotów, o których mowa w art. 3 ust. 2 pkt 3–6, pod kątem zgodności tych dokumentów z wymogami określonymi w rozporządzeniu 2019/881, ustawie oraz danym europejskim programie certyfikacji cyberbezpieczeństwa albo danym krajowym schemacie certyfikacji cyberbezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_18/ust_1/pkt_3",
+       "text": "przeprowadzanie badań produktów ICT, usług ICT, procesów ICT, usług zarządzanych w zakresie bezpieczeństwa lub systemów zarządzania cyberbezpieczeństwem, w tym dokonywanie określonych czynności z zakresu oceny zgodności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_18/ust_1/pkt_4",
+       "text": "publikację wykazów specyfikacji technicznych, norm i standardów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_18/ust_1/pkt_5",
+       "text": "udział w pracach międzynarodowych grup normalizacyjnych z zakresu cyberbezpieczeństwa zgodnie z zasadami normalizacji krajowej i międzynarodowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_18/ust_1/pkt_6",
+       "text": "opracowywanie i walidację procesów badawczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_18/ust_1/pkt_7",
+       "text": "przygotowywanie projektów krajowych schematów certyfikacji cyberbezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "art_18/ust_1/pkt_8",
+       "text": "organizowanie porównań międzylaboratoryjnych lub badań biegłości w danym europejskim programie certyfikacji cyberbezpieczeństwa albo danym krajowym schemacie certyfikacji cyberbezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "art_18/ust_1/pkt_9",
+       "text": "weryfikację, czy dana osoba fizyczna posiada:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_18/ust_1/pkt_9/lit_a",
+         "text": "kwalifikacje techniczne i zawodowe obejmujące wszystkie czynności z zakresu cyberbezpieczeństwa lub oceny zgodności,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_18/ust_1/pkt_9/lit_b",
+         "text": "odpowiednie doświadczenie w realizacji zadań z zakresu oceny zgodności,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_18/ust_1/pkt_9/lit_c",
+         "text": "wiedzę z zakresu cyberbezpieczeństwa, w szczególności w zakresie wymagań wynikających z danego europejskiego programu certyfikacji cyberbezpieczeństwa albo danego krajowego schematu certyfikacji cyberbezpieczeństwa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "art_18/ust_1/pkt_9/lit_d",
+         "text": "uprawnienia do przeprowadzania oceny zgodności w ramach danego europejskiego programu certyfikacji cyberbezpieczeństwa albo danego krajowego schematu certyfikacji cyberbezpieczeństwa.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_18/ust_2",
+     "text": "Państwowe instytuty badawcze, które nie są nadzorowane przez ministra właściwego do spraw informatyzacji, mogą, w zakresie swoich kompetencji, za zgodą organu nadzorującego dany instytut, wspierać tego ministra w realizacji zadań, o których mowa w art. 4 ust. 2, przez prowadzenie działań, o których mowa w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_18/ust_3",
+     "text": "Minister właściwy do spraw informatyzacji może udzielić państwowemu instytutowi badawczemu, o którym mowa w ust. 1 i 2, wspierającemu go w realizacji zadań, o których mowa w art. 4 ust. 2, dotacji celowej z części budżetu państwa, której jest dysponentem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_18/ust_4",
+     "text": "Państwowe instytuty badawcze, o których mowa w ust. 1 i 2, wspierające ministra właściwego do spraw informatyzacji w realizacji zadań, o których mowa w art. 4 ust. 2, rozwijają potencjał badawczo-rozwojowy oraz zdolności w obszarze oceny zgodności i certyfikacji, w szczególności przez:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_18/ust_4/pkt_1",
+       "text": "utrzymywanie stałej sprawności operacyjnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_18/ust_4/pkt_2",
+       "text": "pozyskiwanie i utrzymywanie ekspertów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_18/ust_5",
+     "text": "W uzasadnionych przypadkach minister właściwy do spraw informatyzacji może, na podstawie umowy, zlecić podmiotom innym niż państwowe instytuty badawcze, o których mowa w ust. 1 i 2, dysponującym wiedzą i kompetencjami w zakresie technologii produktów ICT, usług ICT, procesów ICT, usług zarządzanych w zakresie bezpieczeństwa, systemów zarządzania cyberbezpieczeństwem lub określonych zagadnień z zakresu cyberbezpieczeństwa wykonanie określonych usług związanych z realizacją zadań, o których mowa w art. 4 ust. 2, w szczególności zlecić przygotowanie opinii, ekspertyz i analiz, oraz zlecić weryfikację dokumentów pochodzących od podmiotów, o których mowa w art. 3 ust. 2 pkt 3–6.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_18/ust_6",
+     "text": "Państwowy instytut badawczy nie realizuje zadań, o których mowa w ust. 1 i 2, w przypadku gdy uczestniczył w procesie certyfikacji, którego te zadania dotyczą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_18/ust_7",
+     "text": "Jednostki organizacyjne podległe Ministrowi Obrony Narodowej mogą, w zakresie swoich kompetencji, za zgodą tego ministra, wspierać ministra właściwego do spraw informatyzacji w realizacji zadań, o których mowa w art. 4 ust. 2. Przepisy ust. 2, 3 i 6 stosuje się odpowiednio.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_19/ust_1",
+     "text": "W przypadku gdy dany europejski program certyfikacji cyberbezpieczeństwa zawiera szczegółowe lub dodatkowe wymogi, o których mowa w art. 54 ust. 1 lit. f rozporządzenia 2019/881, czynności w ramach oceny zgodności dokonywanej na jego podstawie wykonuje jednostka oceniająca zgodność posiadająca zezwolenie ministra właściwego do spraw informatyzacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_19/ust_2",
+     "text": "Minister właściwy do spraw informatyzacji zezwala, w drodze decyzji, na wykonywanie przez jednostkę oceniającą zgodność czynności w ramach danego europejskiego programu certyfikacji cyberbezpieczeństwa na wniosek jednostki oceniającej zgodność, która spełniła wymogi określone w tym programie oraz posiada akredytację w zakresie odnoszącym się do danego europejskiego programu certyfikacji cyberbezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_19/ust_3",
+     "text": "Wniosek, o którym mowa w ust. 2, zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_19/ust_3/pkt_1",
+       "text": "nazwę (firmę) wnioskodawcy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_19/ust_3/pkt_2",
+       "text": "adres i siedzibę wnioskodawcy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_19/ust_3/pkt_3",
+       "text": "wskazanie europejskiego programu certyfikacji cyberbezpieczeństwa, którego dotyczy wniosek;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_19/ust_3/pkt_4",
+       "text": "oświadczenie o spełnieniu szczegółowych lub dodatkowych wymogów, o których mowa w art. 54 ust. 1 lit. f rozporządzenia 2019/881, określonych w europejskim programie certyfikacji cyberbezpieczeństwa, o którym mowa w pkt 3.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_19/ust_4",
+     "text": "Do wniosku dołącza się dokumenty potwierdzające spełnienie szczegółowych lub dodatkowych wymogów, o których mowa w art. 54 ust. 1 lit. f rozporządzenia 2019/881, określonych w europejskim programie certyfikacji cyberbezpieczeństwa, o którym mowa w ust. 3 pkt 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_19/ust_5",
+     "text": "Minister właściwy do spraw informatyzacji z urzędu, w drodze decyzji, zawiesza albo cofa zezwolenie, o którym mowa w ust. 2, jeżeli jednostka oceniająca zgodność naruszyła przepisy rozporządzenia 2019/881, ustawy lub danego europejskiego programu certyfikacji cyberbezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_19/ust_6",
+     "text": "Decyzję o zawieszeniu zezwolenia, o którym mowa w ust. 2, wydaje się, jeżeli naruszenie, o którym mowa w ust. 5:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_19/ust_6/pkt_1",
+       "text": "nie występowało w ciągu ostatnich 3 lat, nie było związane z popełnieniem przestępstwa ani nie podważa zaufania do krajowego systemu certyfikacji cyberbezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_19/ust_6/pkt_2",
+       "text": "jest odwracalne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_19/ust_7",
+     "text": "Decyzję o zawieszeniu zezwolenia, o którym mowa w ust. 2, wydaje się na okres nie dłuższy niż 2 lata.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "art_19/ust_8",
+     "text": "W przypadku gdy naruszenie, o którym mowa w ust. 5, ustało, minister właściwy do spraw informatyzacji cofa decyzję o zawieszeniu zezwolenia, o którym mowa w ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "art_19/ust_9",
+     "text": "Minister właściwy do spraw informatyzacji cofa decyzję o zezwoleniu, o którym mowa w ust. 2, jeżeli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_19/ust_9/pkt_1",
+       "text": "naruszenie, o którym mowa w ust. 5, występowało w ciągu ostatnich 3 lat, było związane z popełnieniem przestępstwa i podważa zaufanie do krajowego systemu certyfikacji cyberbezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_19/ust_9/pkt_2",
+       "text": "naruszenie, o którym mowa w ust. 5, jest nieodwracalne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_19/ust_9/pkt_3",
+       "text": "upłynął okres, na który wydano decyzję, o której mowa w ust. 6, oraz nie ustało naruszenie, o którym mowa w ust. 5.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "art_19/ust_10",
+     "text": "Minister właściwy do spraw informatyzacji przed wydaniem decyzji o zezwoleniu, o którym mowa w ust. 2, decyzji o jego zawieszeniu albo decyzji o jego cofnięciu może zasięgnąć opinii innych podmiotów, w szczególności instytutów badawczych nadzorowanych przez tego ministra, w zakresie spełnienia wymagań określonych w danym europejskim programie certyfikacji cyberbezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "art_19/ust_11",
+     "text": "Podmiot, do którego wystąpiono o opinię, przekazuje ją w terminie miesiąca od dnia otrzymania wystąpienia o opinię. Okresu od dnia wystąpienia o opinię do dnia jej otrzymania nie wlicza się do terminu załatwienia sprawy. Przepisu art. 106 § 5 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769) nie stosuje się.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "art_19/ust_12",
+     "text": "Decyzja o zezwoleniu, o którym mowa w ust. 2, wygasa w przypadku, gdy jednostce oceniającej zgodność cofnięto akredytację w zakresie odnoszącym się do danego europejskiego programu certyfikacji cyberbezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "art_19/ust_13",
+     "text": "Do postępowań w sprawie wydania decyzji, o których mowa w ust. 2 i 5, stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_20/ust_1",
+     "text": "W przypadku gdy dany europejski program certyfikacji cyberbezpieczeństwa przewiduje możliwość zrezygnowania z zastosowania odpowiedniego dokumentu odzwierciedlającego stan wiedzy w procesie oceny zgodności, jednostka oceniająca zgodność składa do ministra właściwego do spraw informatyzacji wniosek o zgodę na taką rezygnację wraz z uzasadnieniem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_20/ust_2",
+     "text": "Minister właściwy do spraw informatyzacji zezwala, w drodze decyzji, na zrezygnowanie z zastosowania odpowiedniego dokumentu odzwierciedlającego stan wiedzy w przypadku, gdy taka rezygnacja jest uzasadniona charakterem danego produktu ICT, danej usługi ICT, danego procesu ICT lub danej usługi zarządzanej w zakresie bezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_20/ust_3",
+     "text": "Minister właściwy do spraw informatyzacji przed wydaniem decyzji o zezwoleniu, o którym mowa w ust. 2, może zasięgnąć opinii innych podmiotów, w szczególności instytutów badawczych nadzorowanych przez tego ministra, w ramach oceny zgodności z danym europejskim programem certyfikacji cyberbezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_20/ust_4",
+     "text": "Podmiot, do którego wystąpiono o opinię, przekazuje ją w terminie miesiąca od dnia otrzymania wystąpienia o opinię. Okresu od dnia wystąpienia o opinię do dnia jej otrzymania nie wlicza się do terminu załatwienia sprawy. Przepisu art. 106 § 5 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_20/ust_5",
+     "text": "Do postępowań w sprawie wydania decyzji, o której mowa w ust. 2, stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_21/ust_1",
+     "text": "W przypadku gdy dany europejski program certyfikacji cyberbezpieczeństwa przewiduje możliwość wprowadzenia zmian w metodyce oceny, która ma być stosowana przez jednostkę oceniającą zgodność, jednostka ta może wystąpić do ministra właściwego do spraw informatyzacji z wnioskiem o wprowadzenie zmian w tej metodyce. Wniosek zawiera propozycję zmian w metodyce oceny, która ma być stosowana przez jednostkę oceniającą zgodność, wraz z ich uzasadnieniem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_21/ust_2",
+     "text": "Minister właściwy do spraw informatyzacji ustala, w drodze decyzji, jakie zmiany w metodyce oceny, o której mowa w ust. 1, mogą być wprowadzone, aby zapewnić prawidłowy przebieg procesu oceny zgodności. Ustalając zmiany w metodyce oceny, minister właściwy do spraw informatyzacji nie jest związany wnioskiem, o którym mowa w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_21/ust_3",
+     "text": "Minister właściwy do spraw informatyzacji przed wydaniem decyzji, o której mowa w ust. 2, może zasięgnąć opinii innych podmiotów, w szczególności instytutów badawczych nadzorowanych przez tego ministra, w zakresie zgodności z danym europejskim programem certyfikacji cyberbezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_21/ust_4",
+     "text": "Podmiot, do którego wystąpiono o opinię, przekazuje ją w terminie miesiąca od dnia otrzymania wystąpienia o opinię. Okresu od dnia wystąpienia o opinię do dnia jej otrzymania nie wlicza się do terminu załatwienia sprawy. Przepisu art. 106 § 5 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_21/ust_5",
+     "text": "Do postępowań w sprawie wydania decyzji, o której mowa w ust. 2, stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "22",
+   "path": "art_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_22/ust_1",
+     "text": "Po zakończeniu certyfikacji jednostka oceniająca zgodność, nie później niż w terminie 14 dni od dnia zakończenia certyfikacji, przesyła do ministra właściwego do spraw informatyzacji drogą elektroniczną wniosek o zgodę na wydanie europejskiego certyfikatu, jeżeli dany certyfikat odwołuje się do poziomu uzasadnienia zaufania „wysoki”, o którym mowa w art. 52 ust. 7 rozporządzenia 2019/881.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_22/ust_2",
+     "text": "Minister właściwy do spraw informatyzacji:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_22/ust_2/pkt_1",
+       "text": "wydaje, w drodze decyzji, zgodę na wydanie europejskiego certyfikatu, o którym mowa w ust. 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_22/ust_2/pkt_2",
+       "text": "odmawia wydania, w drodze decyzji, zgody na wydanie europejskiego certyfikatu, o którym mowa w ust. 1, jeżeli w ramach certyfikacji zostały naruszone przepisy rozporządzenia 2019/881, ustawy lub danego europejskiego programu certyfikacji cyberbezpieczeństwa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_22/ust_3",
+     "text": "We wniosku o zgodę na wydanie europejskiego certyfikatu, o którym mowa w ust. 1, wskazuje się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_22/ust_3/pkt_1",
+       "text": "produkt ICT, usługę ICT, proces ICT albo usługę zarządzaną w zakresie bezpieczeństwa, które podlegały certyfikacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_22/ust_3/pkt_2",
+       "text": "europejski program certyfikacji cyberbezpieczeństwa, w ramach którego przeprowadzono certyfikację.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_22/ust_4",
+     "text": "Do wniosku o zgodę na wydanie europejskiego certyfikatu, o którym mowa w ust. 1, dołącza się raport z certyfikacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_22/ust_5",
+     "text": "Minister właściwy do spraw informatyzacji cofa, w drodze decyzji, europejski certyfikat, o którym mowa w ust. 1, jeżeli został on wydany niezgodnie z przepisami rozporządzenia 2019/881, ustawy lub danego europejskiego programu certyfikacji cyberbezpieczeństwa lub jeżeli produkt ICT, usługa ICT, proces ICT lub usługa zarządzana w zakresie bezpieczeństwa, dla których wydany został ten certyfikat, nie spełniają wymogów określonych w danym europejskim programie certyfikacji cyberbezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_22/ust_6",
+     "text": "Minister właściwy do spraw informatyzacji przed wydaniem decyzji, o których mowa w ust. 2 i 5, może zasięgnąć opinii innych podmiotów, w szczególności instytutów badawczych nadzorowanych przez tego ministra, w zakresie zgodności certyfikacji z danym europejskim programem certyfikacji cyberbezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_22/ust_7",
+     "text": "Podmiot, do którego wystąpiono o opinię, przekazuje ją w terminie miesiąca od dnia otrzymania wystąpienia o opinię. Okresu od dnia wystąpienia o opinię do dnia jej otrzymania nie wlicza się do terminu załatwienia sprawy. Przepisu art. 106 § 5 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "art_22/ust_8",
+     "text": "Do postępowań w sprawie wydania decyzji, o których mowa w ust. 2 i 5, stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "23",
+   "path": "art_23",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_23/ust_1",
+     "text": "Jednostka oceniająca zgodność nie później niż w terminie 14 dni od dnia podjęcia danego rozstrzygnięcia przekazuje ministrowi właściwemu do spraw informatyzacji dane dostawcy, osoby fizycznej, która poddała swoją wiedzę i umiejętności praktyczne ocenie zgodności, albo podmiotu, który poddał wykorzystywane przez siebie systemy zarządzania cyberbezpieczeństwem ocenie zgodności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_23/ust_1/pkt_1",
+       "text": "którym wydano albo przedłużono europejski certyfikat albo krajowy certyfikat, wraz z kopią tego certyfikatu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_23/ust_1/pkt_2",
+       "text": "którym cofnięto europejski certyfikat albo krajowy certyfikat, wraz ze wskazaniem przyczyny jego cofnięcia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_23/ust_1/pkt_3",
+       "text": "którym odmówiono wydania europejskiego certyfikatu albo krajowego certyfikatu, wraz ze wskazaniem przyczyn odmowy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_23/ust_2",
+     "text": "Dane, o których mowa w ust. 1, obejmują:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_23/ust_2/pkt_1",
+       "text": "w przypadku osoby prawnej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_23/ust_2/pkt_1/lit_a",
+         "text": "nazwę (firmę),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_23/ust_2/pkt_1/lit_b",
+         "text": "adres i siedzibę,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_23/ust_2/pkt_1/lit_c",
+         "text": "numer we właściwym rejestrze, o ile taki numer został nadany, oraz numer identyfikacji podatkowej (NIP);",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_23/ust_2/pkt_2",
+       "text": "w przypadku osoby fizycznej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_23/ust_2/pkt_2/lit_a",
+         "text": "imię i nazwisko,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_23/ust_2/pkt_2/lit_b",
+         "text": "numer PESEL.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_23/ust_3",
+     "text": "Dane, o których mowa w ust. 1, jednostka oceniająca zgodność przekazuje drogą elektroniczną ministrowi właściwemu do spraw informatyzacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_23/ust_4",
+     "text": "Kopie europejskiego certyfikatu albo krajowego certyfikatu są przechowywane przez ministra właściwego do spraw informatyzacji przez cały okres ważności certyfikatu oraz przez 5 lat po jego wygaśnięciu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_23/ust_5",
+     "text": "W przypadku gdy jednostka oceniająca zgodność przekazuje niepełne dane, o których mowa w ust. 1, minister właściwy do spraw informatyzacji wzywa tę jednostkę do ich uzupełnienia w terminie 14 dni od dnia otrzymania wezwania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "24",
+   "path": "art_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_24/ust_1",
+     "text": "Każdy może złożyć do jednostki oceniającej zgodność skargę na działania tej jednostki podjęte podczas oceny zgodności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_24/ust_2",
+     "text": "Jednostka oceniająca zgodność rozpatruje skargę w terminie nie dłuższym niż 2 miesiące od dnia złożenia skargi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_24/ust_3",
+     "text": "Skargę rozpatrują osoby, które nie brały udziału w działaniach, których dotyczy skarga.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_24/ust_4",
+     "text": "Jednostka oceniająca zgodność publikuje na swojej stronie internetowej informacje o postępowaniu ze skargami, o których mowa w art. 63 rozporządzenia 2019/881, w tym termin rozpatrzenia skargi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "25",
+   "path": "art_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_25/ust_1",
+     "text": "Każdy może złożyć do ministra właściwego do spraw informatyzacji skargę na:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_25/ust_1/pkt_1",
+       "text": "dostawcę, który wydał deklarację zgodności, jeżeli produkt ICT, usługa ICT, proces ICT lub usługa zarządzana w zakresie bezpieczeństwa, których deklaracja dotyczy, nie spełniają wymogów określonych w danym europejskim programie certyfikacji cyberbezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_25/ust_1/pkt_2",
+       "text": "jednostkę oceniającą zgodność prowadzącą ocenę produktów ICT, usług ICT, procesów ICT, osób fizycznych, systemów zarządzania cyberbezpieczeństwem lub usług zarządzanych w zakresie bezpieczeństwa w zakresie cyberbezpieczeństwa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_25/ust_2",
+     "text": "Minister właściwy do spraw informatyzacji rozpatruje skargi, o których mowa w ust. 1, w sposób określony w danym europejskim programie certyfikacji cyberbezpieczeństwa i na zasadach w nim określonych, a w przypadku gdy dany europejski program certyfikacji cyberbezpieczeństwa nie określa sposobu ani zasad rozpatrywania skarg, stosuje się odpowiednio przepisy działu VIII ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_25/ust_3",
+     "text": "Rozpatrzenie skargi, o której mowa w ust. 1, następuje nie później niż w terminie 2 miesięcy od dnia jej złożenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "26",
+   "path": "art_26",
+   "text": "Każdemu, czyj interes prawny lub czyje uprawnienie zostały naruszone przez bezczynność w sprawie rozpatrzenia skargi, o której mowa w art. 25 ust. 1, przysługuje prawo wniesienia skargi na bezczynność organu do sądu administracyjnego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "27",
+   "path": "art_27",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_27/ust_1",
+     "text": "Minister właściwy do spraw informatyzacji w ramach nadzoru, o którym mowa w art. 4 ust. 2 pkt 1, może wezwać podmioty, o których mowa w art. 3 ust. 2 pkt 3–6, do przedstawienia informacji dotyczących:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_27/ust_1/pkt_1",
+       "text": "produktu ICT, usługi ICT, procesu ICT lub usługi zarządzanej w zakresie bezpieczeństwa, dla których zostały wydane europejski certyfikat lub deklaracja zgodności – w zakresie objętym danym europejskim programem certyfikacji cyberbezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_27/ust_1/pkt_2",
+       "text": "produktu ICT, usługi ICT, procesu ICT, usługi zarządzanej w zakresie bezpieczeństwa, systemu zarządzania cyberbezpieczeństwem lub osoby fizycznej, dla których został wydany krajowy certyfikat – w zakresie objętym danym krajowym schematem certyfikacji cyberbezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_27/ust_1/pkt_3",
+       "text": "liczby wydanych europejskich certyfikatów albo krajowych certyfikatów wraz ze wskazaniem europejskich programów certyfikacji cyberbezpieczeństwa albo krajowych schematów certyfikacji cyberbezpieczeństwa, w ramach których te certyfikaty zostały wydane, oraz poziomów uzasadnienia zaufania, o których mowa w art. 52 rozporządzenia 2019/881, do których te certyfikaty się odwoływały;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_27/ust_1/pkt_4",
+       "text": "liczby wydanych deklaracji zgodności wraz ze wskazaniem europejskich programów certyfikacji cyberbezpieczeństwa, w ramach których te deklaracje zostały wydane;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_27/ust_1/pkt_5",
+       "text": "innych kwestii istotnych dla funkcjonowania krajowego systemu certyfikacji cyberbezpieczeństwa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_27/ust_2",
+     "text": "Informacje, o których mowa w ust. 1, przekazuje się ministrowi właściwemu do spraw informatyzacji w terminie 21 dni od dnia otrzymania wniosku o przedstawienie informacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "28",
+   "path": "art_28",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_28/ust_1",
+     "text": "Minister właściwy do spraw informatyzacji w ramach nadzoru, o którym mowa w art. 4 ust. 2 pkt 1, prowadzi kontrole jednostek oceniających zgodność, dostawców produktów ICT, usług ICT, procesów ICT lub usług zarządzanych w zakresie bezpieczeństwa oraz podmiotu, który poddał wykorzystywane przez siebie systemy zarządzania cyberbezpieczeństwem ocenie zgodności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_28/ust_2",
+     "text": "Do kontroli, o której mowa w ust. 1, przeprowadzonej wobec dostawców:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_28/ust_2/pkt_1",
+       "text": "będących przedsiębiorcami stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm.[^6]) oraz przepisy art. 55–59 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2024 r. poz. 1077 i 1222);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_28/ust_2/pkt_2",
+       "text": "niebędących przedsiębiorcami stosuje się przepisy ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. z 2020 r. poz. 224).",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "29",
+   "path": "art_29",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_29/ust_1",
+     "text": "Minister właściwy do spraw informatyzacji w ramach przeprowadzanej kontroli, o której mowa w art. 28 ust. 1, może poddać produkt ICT, usługę ICT, proces ICT lub usługę zarządzaną w zakresie bezpieczeństwa, dla których został wydany europejski certyfikat albo krajowy certyfikat albo została wydana deklaracja zgodności, lub system zarządzania cyberbezpieczeństwem, dla którego został wydany krajowy certyfikat, badaniom lub zlecić ich przeprowadzenie w celu ustalenia, czy są spełnione wymogi określone w danym europejskim programie certyfikacji cyberbezpieczeństwa albo danym krajowym schemacie certyfikacji cyberbezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_29/ust_2",
+     "text": "Koszty badań, o których mowa w ust. 1, ponosi dostawca produktu ICT, usługi ICT, procesu ICT lub usługi zarządzanej w zakresie bezpieczeństwa lub podmiot, który poddał wykorzystywany przez siebie system zarządzania cyberbezpieczeństwem ocenie zgodności.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "30",
+   "path": "art_30",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_30/ust_1",
+     "text": "Badanie, o którym mowa w art. 29 ust. 1, może zostać przeprowadzone na próbkach produktu ICT.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_30/ust_2",
+     "text": "Próbką produktu ICT jest pojedynczy produkt ICT danego rodzaju albo jego określony element.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_30/ust_3",
+     "text": "Dostawca produktu ICT na wezwanie ministra właściwego do spraw informatyzacji przekazuje osobom prowadzącym czynności kontrolne wskazaną przez te osoby próbkę produktu ICT. Z przekazania próbki produktu ICT sporządza się protokół.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_30/ust_4",
+     "text": "Protokół, o którym mowa w ust. 3, zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_30/ust_4/pkt_1",
+       "text": "nazwę produktu ICT;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_30/ust_4/pkt_2",
+       "text": "oznaczenie europejskiego certyfikatu albo krajowego certyfikatu wydanego dla produktu ICT lub deklaracji zgodności wydanej dla produktu ICT;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_30/ust_4/pkt_3",
+       "text": "określenie wielkości próbki produktu ICT przekazanej do badania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_30/ust_4/pkt_4",
+       "text": "dane identyfikujące produkt ICT, w szczególności numer seryjny przekazanego jako próbka egzemplarza produktu ICT;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_30/ust_4/pkt_5",
+       "text": "imię i nazwisko osoby przekazującej próbkę produktu ICT;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_30/ust_4/pkt_6",
+       "text": "imię i nazwisko osoby odbierającej próbkę produktu ICT;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_30/ust_4/pkt_7",
+       "text": "datę przekazania próbki produktu ICT;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "art_30/ust_4/pkt_8",
+       "text": "podpis osoby sporządzającej protokół.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "31",
+   "path": "art_31",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_31/ust_1",
+     "text": "Jeżeli badanie, o którym mowa w art. 29 ust. 1, wykaże, że produkt ICT, usługa ICT, proces ICT lub usługa zarządzana w zakresie bezpieczeństwa nie spełniają wymogów określonych w danym europejskim programie certyfikacji cyberbezpieczeństwa albo danym krajowym schemacie certyfikacji cyberbezpieczeństwa, minister właściwy do spraw informatyzacji podaje do publicznej wiadomości na swojej stronie podmiotowej w Biuletynie Informacji Publicznej informację o niespełnianiu przez produkt ICT, usługę ICT, proces ICT lub usługę zarządzaną w zakresie bezpieczeństwa wymogów określonych w danym europejskim programie certyfikacji cyberbezpieczeństwa albo danym krajowym schemacie certyfikacji cyberbezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_31/ust_2",
+     "text": "W przypadku europejskiego certyfikatu, o którym mowa w art. 22 ust. 1, minister właściwy do spraw informatyzacji:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_31/ust_2/pkt_1",
+       "text": "cofa certyfikat, jeżeli wykryte nieprawidłowości:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_31/ust_2/pkt_1/lit_a",
+         "text": "mają znaczący wpływ na dostępność, autentyczność, integralność lub poufność danych, sieci i systemów informatycznych danego podmiotu wykorzystującego system zarządzania cyberbezpieczeństwem lub",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_31/ust_2/pkt_1/lit_b",
+         "text": "mają znaczący wpływ na użytkownika produktu ICT, usługi ICT, procesu ICT lub usługi zarządzanej w zakresie bezpieczeństwa, lub",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_31/ust_2/pkt_1/lit_c",
+         "text": "są nieodwracalne;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_31/ust_2/pkt_2",
+       "text": "zawiesza certyfikat, jeżeli wykryte nieprawidłowości nie mają znaczącego wpływu, o którym mowa w pkt 1 lit. a i b, oraz są odwracalne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_31/ust_3",
+     "text": "Decyzję o zawieszeniu europejskiego certyfikatu, o którym mowa w art. 22 ust. 1, wydaje się na okres nie dłuższy niż 6 miesięcy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_31/ust_4",
+     "text": "W przypadku przywrócenia zgodności z wymogami określonymi w danym europejskim programie certyfikacji cyberbezpieczeństwa minister właściwy do spraw informatyzacji cofa decyzję o zawieszeniu europejskiego certyfikatu, o którym mowa w art. 22 ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_31/ust_5",
+     "text": "Cofnięcie albo zawieszenie europejskiego certyfikatu, o którym mowa w art. 22 ust. 1, następuje w drodze decyzji ministra właściwego do spraw informatyzacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "32",
+   "path": "art_32",
+   "text": "Minister właściwy do spraw informatyzacji w przypadku uzasadnionego podejrzenia, że produkt ICT, usługa ICT, proces ICT, usługa zarządzana w zakresie bezpieczeństwa, dla których wydano europejski certyfikat albo krajowy certyfikat, nie spełniają wymogów określonych w danym europejskim programie certyfikacji cyberbezpieczeństwa albo danym krajowym schemacie certyfikacji cyberbezpieczeństwa, a w przypadku systemu zarządzania cyberbezpieczeństwem lub osób fizycznych – nie spełniają wymogów określonych w danym krajowym schemacie certyfikacji cyberbezpieczeństwa, informuje o tym podejrzeniu jednostkę oceniającą zgodność, która wydała europejski certyfikat albo krajowy certyfikat.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "33",
+   "path": "art_33",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_33/ust_1",
+     "text": "Jednostka oceniająca zgodność, która będąc do tego obowiązaną, nie przekazuje danych, o których mowa w art. 23 ust. 1, lub przekazuje nieprawdziwe lub niepełne dane, podlega karze pieniężnej w wysokości dziesięciokrotności przeciętnego wynagrodzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_33/ust_2",
+     "text": "Jednostka oceniająca zgodność, która wydaje europejski certyfikat albo krajowy certyfikat, działając bez wymaganej akredytacji, podlega karze pieniężnej w wysokości do dwudziestokrotności przeciętnego wynagrodzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_33/ust_3",
+     "text": "Dostawca produktów ICT, usług ICT, procesów ICT lub usług zarządzanych w zakresie bezpieczeństwa, podmiot, który otrzymał krajowy certyfikat dla wykorzystywanego przez siebie systemu zarządzania cyberbezpieczeństwem, albo jednostka oceniająca zgodność produktów ICT, usług ICT, procesów ICT lub usług zarządzanych w zakresie bezpieczeństwa, którzy uniemożliwiają lub utrudniają ministrowi właściwemu do spraw informatyzacji przeprowadzenie kontroli, o której mowa w art. 28, podlegają karze pieniężnej w wysokości do dwudziestokrotności przeciętnego wynagrodzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_33/ust_4",
+     "text": "Dostawca produktów ICT, usług ICT, procesów ICT lub usług zarządzanych w zakresie bezpieczeństwa, który nie wykonuje obowiązku określonego w art. 53 ust. 3 rozporządzenia 2019/881, podlega karze pieniężnej w wysokości do dwudziestokrotności przeciętnego wynagrodzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_33/ust_5",
+     "text": "Dostawca produktów ICT, który nie wykonuje obowiązku, o którym mowa w art. 30 ust. 3, podlega karze pieniężnej w wysokości do dwudziestokrotności przeciętnego wynagrodzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_33/ust_6",
+     "text": "Dostawca certyfikowanych produktów ICT, usług ICT, procesów ICT lub usług zarządzanych w zakresie bezpieczeństwa w ramach europejskich programów certyfikacji cyberbezpieczeństwa lub dostawca produktów ICT, usług ICT, procesów ICT lub usług zarządzanych w zakresie bezpieczeństwa, w przypadku których wydana została deklaracja zgodności, którzy nie realizują obowiązków, o których mowa w art. 55 rozporządzenia 2019/881, podlegają karze pieniężnej w wysokości do dwudziestokrotności przeciętnego wynagrodzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_33/ust_7",
+     "text": "Podmiot, o którym mowa w art. 3 ust. 2 pkt 3–6, który nie przekazuje informacji, o których mowa w art. 27 ust. 1 pkt 1–3, w terminie, o którym mowa w art. 27 ust. 2, podlega karze pieniężnej w wysokości do dwudziestokrotności przeciętnego wynagrodzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "34",
+   "path": "art_34",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_34/ust_1",
+     "text": "Kary pieniężne, o których mowa w art. 33, nakłada, w drodze decyzji, minister właściwy do spraw informatyzacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_34/ust_2",
+     "text": "Ustalając wysokość kar pieniężnych, o których mowa w art. 33, minister właściwy do spraw informatyzacji uwzględnia zakres lub charakter naruszenia oraz dotychczasową działalność kontrolowanego podmiotu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_34/ust_3",
+     "text": "Wpływy z tytułu kar pieniężnych, o których mowa w art. 33, stanowią przychód Funduszu Cyberbezpieczeństwa, o którym mowa w art. 2 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa (Dz. U. z 2024 r. poz. 1662).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_34/ust_4",
+     "text": "Kary pieniężne, o których mowa w art. 33, uiszcza się na rachunek Funduszu Cyberbezpieczeństwa w terminie 14 dni od dnia uprawomocnienia się decyzji ministra właściwego do spraw informatyzacji w sprawie nałożenia kary pieniężnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_34/ust_5",
+     "text": "Od decyzji ministra właściwego do spraw informatyzacji w sprawie nałożenia kary pieniężnej, o której mowa w art. 33, przysługuje skarga do sądu administracyjnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_34/ust_6",
+     "text": "Kary pieniężne, o których mowa w art. 33, podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "35",
+   "path": "art_35",
+   "text": "W ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534) w art. 2 w ust. 2 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„9) wspierać ministra właściwego do spraw informatyzacji w wykonywaniu zadań, o których mowa w art. 4 ust. 2 ustawy z dnia 25 czerwca 2025 r. o krajowym systemie certyfikacji cyberbezpieczeństwa (Dz. U. poz. 1017).”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "36",
+   "path": "art_36",
+   "text": "W ustawie z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2024 r. poz. 1077 i 1222) w art. 93 w ust. 3 pkt 8 i 9 otrzymują brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„8) w 2025 r. – 80 300 tys. zł;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "9) w 2026 r. – 91 400 tys. zł;”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "37",
+   "path": "art_37",
+   "text": "W ustawie z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa (Dz. U. z 2024 r. poz. 1662) w art. 2 w ust. 4 po pkt 1 dodaje się pkt 1a w brzmieniu:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„1a) wpływy z kar pieniężnych, o których mowa w art. 33 ustawy z dnia 25 czerwca 2025 r. o krajowym systemie certyfikacji cyberbezpieczeństwa (Dz. U. poz. 1017);”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "38",
+   "path": "art_38",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_38/ust_1",
+     "text": "Akredytacje udzielone przez Polskie Centrum Akredytacji jednostkom oceniającym zgodność w zakresie cyberbezpieczeństwa do dnia wejścia w życie ustawy stają się akredytacjami w rozumieniu ustawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_38/ust_2",
+     "text": "W terminie 14 dni od dnia wejścia w życie ustawy Polskie Centrum Akredytacji informuje ministra właściwego do spraw informatyzacji o udzielonych akredytacjach, o których mowa w ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "39",
+   "path": "art_39",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_39/ust_1",
+     "text": "Certyfikaty wydane w ramach akredytacji, o której mowa w art. 38, obowiązują do końca terminu ich ważności. Do tych certyfikatów stosuje się przepisy dotychczasowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_39/ust_2",
+     "text": "W terminie 14 dni od dnia wejścia w życie ustawy jednostki oceniające zgodność informują ministra właściwego do spraw informatyzacji o wydanych certyfikatach, o których mowa w ust. 1, zgodnie z zasadami określonymi w art. 23.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "40",
+   "path": "art_40",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_40/ust_1",
+     "text": "Maksymalny limit wydatków z budżetu państwa dla części budżetowej 27 – informatyzacja, będący skutkiem finansowym wejścia w życie ustawy, wynosi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_40/ust_1/pkt_1",
+       "text": "w 2025 r. – 9 720 tys. zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_40/ust_1/pkt_2",
+       "text": "w 2026 r. – 11 600 tys. zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_40/ust_1/pkt_3",
+       "text": "w 2027 r. – 11 880 tys. zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_40/ust_1/pkt_4",
+       "text": "w 2028 r. – 12 190 tys. zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_40/ust_1/pkt_5",
+       "text": "w 2029 r. – 12 500 tys. zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_40/ust_1/pkt_6",
+       "text": "w 2030 r. – 12 820 tys. zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_40/ust_1/pkt_7",
+       "text": "w 2031 r. – 13 150 tys. zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "art_40/ust_1/pkt_8",
+       "text": "w 2032 r. – 13 490 tys. zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "art_40/ust_1/pkt_9",
+       "text": "w 2033 r. – 13 840 tys. zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "art_40/ust_1/pkt_10",
+       "text": "w 2034 r. – 14 200 tys. zł.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_40/ust_2",
+     "text": "Maksymalny limit wydatków Polskiego Centrum Akredytacji, będący skutkiem finansowym wejścia w życie ustawy, wynosi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_40/ust_2/pkt_1",
+       "text": "w 2025 r. – 300 tys. zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_40/ust_2/pkt_2",
+       "text": "w 2026 r. – 310 tys. zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_40/ust_2/pkt_3",
+       "text": "w 2027 r. – 320 tys. zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_40/ust_2/pkt_4",
+       "text": "w 2028 r. – 330 tys. zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_40/ust_2/pkt_5",
+       "text": "w 2029 r. – 340 tys. zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_40/ust_2/pkt_6",
+       "text": "w 2030 r. – 350 tys. zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_40/ust_2/pkt_7",
+       "text": "w 2031 r. – 360 tys. zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "art_40/ust_2/pkt_8",
+       "text": "w 2032 r. – 360 tys. zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "art_40/ust_2/pkt_9",
+       "text": "w 2033 r. – 370 tys. zł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "art_40/ust_2/pkt_10",
+       "text": "w 2034 r. – 380 tys. zł.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_40/ust_3",
+     "text": "W przypadku zagrożenia przekroczeniem lub przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1 i 2, zostanie zastosowany mechanizm korygujący polegający na ograniczeniu wydatków związanych z realizacją zadań określonych w ustawie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_40/ust_4",
+     "text": "Minister właściwy do spraw informatyzacji monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, i przynajmniej dwa razy do roku dokonuje, według stanu na koniec danego kwartału, oceny wykorzystania limitu wydatków na dany rok. Wdrożenia mechanizmów korygujących, o których mowa w ust. 3, dokonuje minister właściwy do spraw informatyzacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_40/ust_5",
+     "text": "Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 2, oraz odpowiedzialnym za wdrożenie mechanizmów korygujących, o których mowa w ust. 3, jest minister właściwy do spraw gospodarki.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "41",
+   "path": "art_41",
+   "text": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej Polskiej: A. Duda"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/881 z dnia 17 kwietnia 2019 r. w sprawie ENISA (Agencji Unii Europejskiej ds. Cyberbezpieczeństwa) oraz certyfikacji cyberbezpieczeństwa w zakresie technologii informacyjno-komunikacyjnych oraz uchylenia rozporządzenia (UE) nr 526/2013 (akt o cyberbezpieczeństwie) (Dz. Urz. UE L 151 z 07.06.2019, str. 15 oraz Dz. Urz. UE L 2025/37 z 15.01.2025).",
+  "2": "Niniejszą ustawą zmienia się ustawę z dnia 30 kwietnia 2010 r. o instytutach badawczych, ustawę z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa oraz ustawę z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa.",
+  "3": "Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 169 z 25.06.2019, str. 1.",
+  "4": "Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2025/37 z 15.01.2025.",
+  "5": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 96 z 29.03.2014, str. 1, 45, 107, 149, 251 i 309, Dz. Urz. UE L 241 z 17.09.2015, str. 1, Dz. Urz. UE L 323 z 19.12.2022, str. 1 oraz Dz. Urz. UE L 135 z 23.05.2023, str. 1.",
+  "6": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1222 i 1871 oraz z 2025 r. poz. 222, 621, 622 i 769."
+ }
+}

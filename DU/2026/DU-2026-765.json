@@ -1,0 +1,398 @@
+{
+ "eli": "DU/2026/765",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 11 czerwca 2026 r. w sprawie trybu oraz warunków technicznych dokonywania wpisów danych i występowania z wnioskami o porównanie danych z danymi Eurodac oraz wymogów technicznych dla systemów teleinformatycznych organów uprawnionych do dokonywania wpisów danych lub do występowania z wnioskami o porównanie danych z danymi Eurodac",
+ "converter": "eli2md 0.5.3",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/765/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 czerwca 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie trybu oraz warunków technicznych dokonywania wpisów danych i występowania z wnioskami o porównanie danych z danymi Eurodac oraz wymogów technicznych dla systemów teleinformatycznych organów uprawnionych do dokonywania wpisów danych lub do występowania z wnioskami o porównanie danych z danymi Eurodac"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 8 ust. 5 ustawy z dnia 15 maja 2026 r. o udziale Rzeczypospolitej Polskiej w systemie Eurodac (Dz. U. poz. 760) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "tryb oraz warunki techniczne dokonywania wpisów przez organy, o których mowa w art. 4 ust. 1 ustawy z dnia 15 maja 2026 r. o udziale Rzeczypospolitej Polskiej w systemie Eurodac, zwanej dalej „ustawą”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "warunki techniczne występowania z wnioskami, o których mowa w art. 5 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "wymogi techniczne dla systemów teleinformatycznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "brzegowym urządzeniu sieciowym – należy przez to rozumieć urządzenie typu firewall pełniące funkcję urządzenia dostępowego oraz terminujące tunel VPN IPsec;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "dostępie bezpośrednim – należy przez to rozumieć dostęp bezpośredni, o którym mowa w art. 2 pkt 6 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "krajowym punkcie dostępu – należy przez to rozumieć system, o którym mowa w art. 2 ust. 1 lit. k rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/1358 z dnia 14 maja 2024 r. w sprawie ustanowienia systemu Eurodac do porównywania danych biometrycznych w celu skutecznego stosowania rozporządzeń Parlamentu Europejskiego i Rady (UE) 2024/1351 i (UE) 2024/1350 i dyrektywy Rady 2001/55/WE oraz w celu identyfikowania nielegalnie przebywających obywateli państw trzecich oraz bezpaństwowców, w sprawie występowania z wnioskami o porównanie z danymi Eurodac przez organy ścigania państw członkowskich i Europol na potrzeby ochrony porządku publicznego, w sprawie zmiany rozporządzeń Parlamentu Europejskiego i Rady (UE) 2018/1240 i (UE) 2019/818 oraz w sprawie uchylenia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 603/2013 (Dz. Urz. UE L 2024/1358 z 22.05.2024, z późn. zm.), zwanego dalej „rozporządzeniem 2024/1358”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "TLS – należy przez to rozumieć protokół służący do szyfrowania transmisji danych w sieci (Transport Layer Security);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "użytkowniku indywidualnym – należy przez to rozumieć użytkownika indywidualnego, o którym mowa w art. 2 pkt 13 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "użytkowniku instytucjonalnym – należy przez to rozumieć organ uprawniony do dostępu bezpośredniego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "użytkowniku końcowym – należy przez to rozumieć użytkownika końcowego, o którym mowa w art. 2 pkt 14 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "VPN – należy przez to rozumieć wirtualną sieć prywatną jako sieć przekazu danych korzystającą z publicznej infrastruktury telekomunikacyjnej, która dzięki stosowaniu protokołów tunelowania i procedur bezpieczeństwa zachowuje poufność danych (Virtual Private Network);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "wpisie – należy przez to rozumieć wpis, o którym mowa w art. 2 pkt 15 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "WUI – należy przez to rozumieć interfejs użytkownika, o którym mowa w art. 2 pkt 16 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "wydzielonej sieci teleinformatycznej – należy przez to rozumieć niepubliczną sieć telekomunikacyjną, która dzięki zastosowaniu rozwiązań sprzętowych lub programowych zapewnia możliwość logicznej separacji od powszechnie dostępnej infrastruktury telekomunikacyjnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Warunkami technicznymi dokonywania wpisów danych przez organy, o których mowa w art. 4 ust. 1 ustawy, są:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "zapewnienie połączenia z krajowym punktem dostępu lub z WUI za pośrednictwem wydzielonej sieci teleinformatycznej z wykorzystaniem protokołu HTTPS oraz VPN;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "wykorzystanie protokołu TLS.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Warunkami technicznymi dokonywania wpisów danych przez organy, o których mowa w art. 4 ust. 1 ustawy, przy użyciu krajowego punktu dostępu są:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "przestrzeganie wymogów określonych w opisie interfejsu, o którym mowa w § 5 ust. 1 pkt 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "odbieranie przez użytkowników indywidualnych i użytkowników końcowych komunikatów dotyczących wpisów oraz komunikatów dotyczących błędów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "uwierzytelnianie użytkowników końcowych w systemie teleinformatycznym organu, o którym mowa w art. 4 ust. 1 ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_4/pkt_4",
+     "text": "dokonywanie wpisów danych wyłącznie przez uwierzytelnionych użytkowników końcowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Organ, o którym mowa w art. 4 ust. 1 ustawy, w celu uzyskania dostępu do krajowego punktu dostępu jako użytkownik instytucjonalny:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "występuje pisemnie do Centralnego Organu Technicznego Eurodac o wydanie certyfikatu uwierzytelniającego jego system teleinformatyczny oraz o przekazanie opisu interfejsu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "zestawia bezpieczne połączenie z krajowym punktem dostępu z wykorzystaniem certyfikatu, o którym mowa w pkt 1, we współpracy z Centralnym Organem Technicznym Eurodac;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "przygotowuje na podstawie opisu interfejsu, o którym mowa w pkt 1, własny system teleinformatyczny do współpracy z krajowym punktem dostępu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_1/pkt_4",
+       "text": "występuje pisemnie do Centralnego Organu Technicznego Eurodac o potwierdzenie poprawności konfiguracji połączenia własnego systemu teleinformatycznego z krajowym punktem dostępu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Po spełnieniu wymagań, o których mowa w ust. 1, Centralny Organ Techniczny Eurodac nadaje organowi, o którym mowa w art. 4 ust. 1 ustawy, uprawnienie do dostępu do krajowego punktu dostępu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "W celu dokonania wpisu użytkownik końcowy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "dokonuje uwierzytelnienia w systemie teleinformatycznym organu, o którym mowa w art. 4 ust. 1 ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "dokonuje wpisu zgodnie z uprawnieniami przydzielonymi przez organ, o którym mowa w art. 4 ust. 1 ustawy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "W celu dokonania wpisu użytkownik indywidualny:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_2/pkt_1",
+       "text": "uzyskuje połączenie z WUI za pośrednictwem wydzielonej sieci teleinformatycznej z wykorzystaniem protokołu HTTPS oraz VPN;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_2/pkt_2",
+       "text": "dokonuje wpisu zgodnie z zakresem uprawnień wynikających z upoważnienia do dostępu do WUI, o którym mowa w art. 19 ust. 4 ustawy.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Warunkami technicznymi występowania z wnioskami, o których mowa w art. 5 ustawy, są:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "zapewnienie połączenia z aplikacją służącą do obsługi wniosków, o których mowa w art. 5 ustawy, za pośrednictwem wydzielonej sieci teleinformatycznej z wykorzystaniem protokołu HTTPS oraz VPN;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "wykorzystanie protokołu TLS;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_7/pkt_3",
+     "text": "uzyskanie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_7/pkt_3/lit_a",
+       "text": "certyfikatów dla brzegowego urządzenia sieciowego wydawanych przez Centralny Organ Techniczny Eurodac,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_7/pkt_3/lit_b",
+       "text": "parametrów konfiguracji brzegowego urządzenia sieciowego określanych przez Centralny Organ Techniczny Eurodac, które umożliwiają bezpieczne nawiązanie połączenia.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Wymogami technicznymi dla systemów teleinformatycznych są:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "posiadanie ważnego certyfikatu uwierzytelniającego wydanego przez Centralny Organ Techniczny Eurodac oraz aktualnego opisu interfejsu, o którym mowa w § 5 ust. 1 pkt 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "zapewnienie bezpiecznego połączenia z krajowym punktem dostępu, z wykorzystaniem ważnego certyfikatu uwierzytelniającego wydanego przez Centralny Organ Techniczny Eurodac;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_8/pkt_3",
+     "text": "zapewnienie możliwości współpracy z krajowym punktem dostępu zgodnie z opisem interfejsu, o którym mowa w § 5 ust. 1 pkt 1;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_8/pkt_4",
+     "text": "uzyskanie od Centralnego Organu Technicznego Eurodac potwierdzenia poprawności konfiguracji połączenia z krajowym punktem dostępu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Rozporządzenie wchodzi w życie z dniem 12 czerwca 2026 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Spraw Wewnętrznych i Administracji: wz. T. Szymański"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 999)."
+ }
+}
