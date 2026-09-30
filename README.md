@@ -20,7 +20,7 @@ się przeszukiwać, porównywać i przetwarzać.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-30 07:51 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-30 11:16 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -28,13 +28,13 @@ Stan na 2026-09-30 07:51 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 2021 | 42 | 42 | 0 |
 | 2023 | 46 | 46 | 0 |
 | 2025 | 1900 | 1900 | 0 |
-| 2026 | 1268 | 1268 | 0 |
+| 2026 | 1278 | 1278 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 81, razem 1837 z 55640 stron. Tekst z OCR (oznaczony) ma 1736 z nich w 70 aktach; treści pozostałych brak.
-Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 197.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 81, razem 1837 z 55726 stron. Tekst z OCR (oznaczony) ma 1736 z nich w 70 aktach; treści pozostałych brak.
+Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 198.
 
-Rodzaje aktów: Rozporządzenie 1814, Obwieszczenie 1004, Ustawa 362, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
-Wersje konwertera: eli2md 0.6.7 (3266).
+Rodzaje aktów: Rozporządzenie 1821, Obwieszczenie 1005, Ustawa 364, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
+Wersje konwertera: eli2md 0.6.7 (3260), eli2md 0.6.13 (16).
 <!-- stats:end -->
 
 ## Zawartość
