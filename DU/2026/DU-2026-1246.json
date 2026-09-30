@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1246",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 21 września 2026 r. w sprawie świadczeń gwarantowanych z zakresu świadczeń opieki zdrowotnej udzielanych w powiatowym centrum zdrowia",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1246/text.pdf",
  "body": [
   {
@@ -1619,7 +1619,21 @@
     },
     {
      "type": "text",
-     "text": "Powiatowe Personel 1. Lekarz: centrum 1) specjalista w dziedzinie chirurgii lub chirurgii ogólnej albo lekarz zdrowia ze specjalizacją I stopnia w dziedzinie chirurgii ogólnej, albo lekarz w trakcie specjalizacji w dziedzinie chirurgii ogólnej oraz 2) specjalista lub w trakcie specjalizacji w dziedzinie chorób wewnętrznych lub alergologii, lub angiologii, lub chorób płuc, lub diabetologii, lub endokrynologii, lub gastroenterologii, lub geriatrii, lub hematologii, lub immunologii klinicznej, lub kardiologii, lub nefrologii, lub onkologii klinicznej, lub reumatologii, lub balneologii i medycyny fizykalnej, lub medycyny lotniczej, lub medycyny morskiej i tropikalnej, lub medycyny paliatywnej, lub toksykologii klinicznej, lub transfuzjologii klinicznej albo 3) specjalista lub w trakcie specjalizacji w dziedzinie pediatrii oraz specjalista lub w trakcie specjalizacji w dziedzinie wskazanej w pkt 2 – w liczbie etatów zapewniających całodobową opiekę lekarską we wszystkie dni tygodnia – w miejscu udzielania świadczeń."
+     "text": "Powiatowe Personel 1. Lekarz: centrum 1) specjalista w dziedzinie chirurgii lub chirurgii ogólnej albo lekarz zdrowia ze specjalizacją I stopnia w dziedzinie chirurgii ogólnej, albo lekarz w trakcie specjalizacji w dziedzinie chirurgii ogólnej oraz"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "specjalista lub w trakcie specjalizacji w dziedzinie chorób wewnętrznych lub alergologii, lub angiologii, lub chorób płuc, lub diabetologii, lub endokrynologii, lub gastroenterologii, lub geriatrii, lub hematologii, lub immunologii klinicznej, lub kardiologii, lub nefrologii, lub onkologii klinicznej, lub reumatologii, lub balneologii i medycyny fizykalnej, lub medycyny lotniczej, lub medycyny morskiej i tropikalnej, lub medycyny paliatywnej, lub toksykologii klinicznej, lub transfuzjologii klinicznej albo",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "specjalista lub w trakcie specjalizacji w dziedzinie pediatrii oraz specjalista lub w trakcie specjalizacji w dziedzinie wskazanej w pkt 2 – w liczbie etatów zapewniających całodobową opiekę lekarską we wszystkie dni tygodnia – w miejscu udzielania świadczeń.",
+     "children": []
     },
     {
      "type": "ust",
@@ -1789,7 +1803,21 @@
        "type": "pkt",
        "num": "23",
        "path": "ust_3/pkt_23",
-       "text": "komputer z dostępem do Internetu, drukarka i telefon; 24) lodówka do przechowywania leków; 25) lampa zabiegowa.",
+       "text": "komputer z dostępem do Internetu, drukarka i telefon;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "24",
+       "path": "ust_3/pkt_24",
+       "text": "lodówka do przechowywania leków;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "25",
+       "path": "ust_3/pkt_25",
+       "text": "lampa zabiegowa.",
        "children": [
         {
          "type": "text",
@@ -1797,8 +1825,30 @@
         },
         {
          "type": "text",
-         "text": "Organizacja udzielania W miejscu udzielania świadczeń: świadczeń 1) punkt rejestracji; 2) pomieszczenie zapewniające przeprowadzenie badań do udzielania doraźnej pomocy ambulatoryjnej; 3) pomieszczenie zapewniające wykonywanie doraźnych zabiegów; 4) punkt pielęgniarski z pokojem przygotowawczym pielęgniarskim; 5) co najmniej jedna łazienka dostępna dla osób niepełnosprawnych; 6) co najmniej jeden ustęp przystosowany dla świadczeniobiorców niepełnosprawnych; 7) pomieszczenia gospodarczo-magazynowe przeznaczone w szczególności do przechowywania: czystej bielizny, brudnej bielizny, sprzętu medycznego i czasowego depozytu; 8) zapewnienie możliwości krótkotrwałej izolacji pacjenta, u którego stwierdzono chorobę zakaźną, lub z podejrzeniem zachorowania na chorobę zakaźną; 9) co najmniej jedno pomieszczenie oraz łazienka wyposażone w sposób dostosowany do przyjmowania dziecka; 10) co najmniej jedna sala, z minimum trzema łóżkami, w celu umożliwienia obserwacji stanu zdrowia świadczeniobiorców; 11) dostęp do sterylizacji (narzędzia endoskopowe)."
-        },
+         "text": "Organizacja udzielania W miejscu udzielania świadczeń: świadczeń 1) punkt rejestracji; 2) pomieszczenie zapewniające przeprowadzenie badań do udzielania doraźnej pomocy ambulatoryjnej; 3) pomieszczenie zapewniające wykonywanie doraźnych zabiegów;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_3/pkt_4",
+       "text": "punkt pielęgniarski z pokojem przygotowawczym pielęgniarskim;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_3/pkt_5",
+       "text": "co najmniej jedna łazienka dostępna dla osób niepełnosprawnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_3/pkt_6",
+       "text": "co najmniej jeden ustęp przystosowany dla świadczeniobiorców niepełnosprawnych; 7) pomieszczenia gospodarczo-magazynowe przeznaczone w szczególności do przechowywania: czystej bielizny, brudnej bielizny, sprzętu medycznego i czasowego depozytu; 8) zapewnienie możliwości krótkotrwałej izolacji pacjenta, u którego stwierdzono chorobę zakaźną, lub z podejrzeniem zachorowania na chorobę zakaźną; 9) co najmniej jedno pomieszczenie oraz łazienka wyposażone w sposób dostosowany do przyjmowania dziecka; 10) co najmniej jedna sala, z minimum trzema łóżkami, w celu umożliwienia obserwacji stanu zdrowia świadczeniobiorców; 11) dostęp do sterylizacji (narzędzia endoskopowe).",
+       "children": [
         {
          "type": "text",
          "text": "Pozostałe wymagania Stosowanie zaleceń Polskiego Towarzystwa Chorób Płuc w przypadku realizacji procedury 89.383 Badanie spirometryczne."

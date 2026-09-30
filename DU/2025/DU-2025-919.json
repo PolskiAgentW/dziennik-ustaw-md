@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/919",
  "title": "Obwieszczenie Ministra Klimatu i Środowiska z dnia 12 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Klimatu i Środowiska w sprawie szczegółowych warunków funkcjonowania systemu elektroenergetycznego",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/919/text.pdf",
  "body": [
   {
@@ -6472,15 +6472,11 @@
        "children": [
         {
          "type": "text",
-         "text": "√∑ h=2² ⁵⁰"
+         "text": "h=2₅₀"
         },
         {
          "type": "text",
-         "text": "√"
-        },
-        {
-         "type": "text",
-         "text": "gdzie poszczególne symbole oznaczają:"
+         "text": "THD= √∑(u h )² gdzie poszczególne symbole oznaczają: h=2"
         },
         {
          "type": "text",
@@ -6508,15 +6504,11 @@
         },
         {
          "type": "text",
-         "text": "ch w o resi₁₂ 2 g"
+         "text": "ch w o₃resi₁₂ 2 g"
         },
         {
          "type": "text",
-         "text": "P sti³ √"
-        },
-        {
-         "type": "text",
-         "text": "gdzie poszczególne symbole oznaczają:"
+         "text": "P sti³ P lt = √∑ i=1 12 gdzie poszczególne symbole oznaczają:"
         },
         {
          "type": "text",
@@ -7323,32 +7315,29 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_2/pkt_2",
-       "text": "w sieci WN: z oraz",
-       "children": []
-      },
-      {
-       "type": "text",
-       "text": "gdzie poszczególne symbole oznaczają:"
-      },
-      {
-       "type": "text",
-       "text": "X₁ – reaktancję dla składowej symetrycznej zgodnej wyznaczoną w miejscu zwarcia,"
-      },
-      {
-       "type": "text",
-       "text": "X₀ – reaktancję dla składowej symetrycznej zerowej wyznaczoną w miejscu zwarcia,"
-      },
-      {
-       "type": "text",
-       "text": "R₀ – rezystancję dla składowej symetrycznej zerowej wyznaczoną w miejscu zwarcia."
-      },
-      {
-       "type": "text",
-       "text": "Spełnienie wskazanych wyżej warunków oznacza, że odpowiednio sieć NN lub sieć WN pracuje ze skutecznie uziemionym punktem neutralnym."
-      },
-      {
-       "type": "text",
-       "text": "2.12. W przypadku gdy właściwości izolacji jednostek transformatorowych uniemożliwiają pracę z nieuziemionymi punktami gwiazdowymi i spełnienie warunku 1 ≤ X / X , operator systemu przesyłowego może zaakceptować fakt, że prąd zwarcia jednofazowego z ziemią jest większy od prądu⁰ zwarcia¹ trójfazowego."
+       "text": "w sieci WN: ≤ ≤ ≤05 z oraz ≤ X ≤3 X ≤1 gdzie poszczególne symbole oznaczają: 1≤ ≤3 ≤1",
+       "children": [
+        {
+         "type": "text",
+         "text": "X₁ – reaktancję dla składowej symetrycznej zgodnej wyznaczoną w miejscu zwarcia,"
+        },
+        {
+         "type": "text",
+         "text": "X₀ – reaktancję dla składowej symetrycznej zerowej wyznaczoną w miejscu zwarcia,"
+        },
+        {
+         "type": "text",
+         "text": "R₀ – rezystancję dla składowej symetrycznej zerowej wyznaczoną w miejscu zwarcia."
+        },
+        {
+         "type": "text",
+         "text": "Spełnienie wskazanych wyżej warunków oznacza, że odpowiednio sieć NN lub sieć WN pracuje ze skutecznie uziemionym punktem neutralnym."
+        },
+        {
+         "type": "text",
+         "text": "2.12. W przypadku gdy właściwości izolacji jednostek transformatorowych uniemożliwiają pracę z nieuziemionymi punktami gwiazdowymi i spełnienie warunku 1 ≤ X / X , operator systemu przesyłowego może zaakceptować fakt, że prąd zwarcia jednofazowego z ziemią jest większy od prądu⁰ zwarcia¹ trójfazowego."
+        }
+       ]
       }
      ]
     },
@@ -9223,7 +9212,7 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_3/pkt_2",
-       "text": "XX⁰ RR⁰ X 0 R 0 X 0 R 0 2 2 x",
+       "text": "1≤ XX XX XX⁰⁰₁ ≤2 RR RR XX⁰₁⁰ ≤0,5 X 0 1 R 0 1 X 1 X 1 2 2 x",
        "children": []
       }
      ]

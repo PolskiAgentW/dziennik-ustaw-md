@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1251",
  "title": "Obwieszczenie Ministra Zdrowia z dnia 20 sierpnia 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie programu pilotażowego w zakresie kompleksowej opieki nad świadczeniobiorcą z wczesnym zapaleniem stawów",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1251/text.pdf",
  "body": [
   {
@@ -1673,14 +1673,42 @@
        "type": "pkt",
        "num": "6",
        "path": "ust_3/pkt_6",
-       "text": "C53 Morfologia krwi 8-parametrowa; 7) C55 Morfologia krwi, z pełnym różnicowaniem granulocytów; 8) C59 Odczyn opadania krwinek czerwonych; 9) C66 Płytki krwi – liczba;",
+       "text": "C53 Morfologia krwi 8-parametrowa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_3/pkt_7",
+       "text": "C55 Morfologia krwi, z pełnym różnicowaniem granulocytów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_3/pkt_8",
+       "text": "C59 Odczyn opadania krwinek czerwonych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_3/pkt_9",
+       "text": "C66 Płytki krwi – liczba;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "10",
        "path": "ust_3/pkt_10",
-       "text": "G11 Czas częściowej tromboplastyny po aktywacji (APTT); 11) G21 Czas protrombinowy (PT);",
+       "text": "G11 Czas częściowej tromboplastyny po aktywacji (APTT);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_3/pkt_11",
+       "text": "G21 Czas protrombinowy (PT);",
        "children": []
       },
       {
@@ -1708,14 +1736,42 @@
        "type": "pkt",
        "num": "15",
        "path": "ust_3/pkt_15",
-       "text": "I17 Aminotransferaza alaninowa (ALT); 16) I19 Aminotransferaza asparaginianowa (AST); 17) I21 Aminotransferaza asparaginianowa mitochondrialna; 18) I77 Białko całkowite;",
+       "text": "I17 Aminotransferaza alaninowa (ALT);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "ust_3/pkt_16",
+       "text": "I19 Aminotransferaza asparaginianowa (AST);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "ust_3/pkt_17",
+       "text": "I21 Aminotransferaza asparaginianowa mitochondrialna;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "ust_3/pkt_18",
+       "text": "I77 Białko całkowite;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "19",
        "path": "ust_3/pkt_19",
-       "text": "I79 Białko całkowite, rozdział elektroforetyczny; 20) I81 Białko C-reaktywne (CRP);",
+       "text": "I79 Białko całkowite, rozdział elektroforetyczny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "ust_3/pkt_20",
+       "text": "I81 Białko C-reaktywne (CRP);",
        "children": []
       },
       {
@@ -1785,7 +1841,14 @@
        "type": "pkt",
        "num": "30",
        "path": "ust_3/pkt_30",
-       "text": "K33 Dehydrogenaza mleczanowa (LDH); 31) L05 Ferrytyna;",
+       "text": "K33 Dehydrogenaza mleczanowa (LDH);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "31",
+       "path": "ust_3/pkt_31",
+       "text": "L05 Ferrytyna;",
        "children": []
       },
       {
@@ -1806,14 +1869,28 @@
        "type": "pkt",
        "num": "34",
        "path": "ust_3/pkt_34",
-       "text": "L31 Gamma glutamylotranspeptydaza (GGTP); 35) L43 Glukoza z krwi żylnej;",
+       "text": "L31 Gamma glutamylotranspeptydaza (GGTP);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "35",
+       "path": "ust_3/pkt_35",
+       "text": "L43 Glukoza z krwi żylnej;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "36",
        "path": "ust_3/pkt_36",
-       "text": "L55 Hemoglobina glikowana (HbA1c); 37) L69 Hormon tyreotropowy (TSH);",
+       "text": "L55 Hemoglobina glikowana (HbA1c);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "37",
+       "path": "ust_3/pkt_37",
+       "text": "L69 Hormon tyreotropowy (TSH);",
        "children": []
       },
       {
@@ -1827,7 +1904,14 @@
        "type": "pkt",
        "num": "39",
        "path": "ust_3/pkt_39",
-       "text": "M21 Kinaza fosfokreatynowa, izoenzymy; 40) M37 Kreatynina;",
+       "text": "M21 Kinaza fosfokreatynowa, izoenzymy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "40",
+       "path": "ust_3/pkt_40",
+       "text": "M37 Kreatynina;",
        "children": []
       },
       {
@@ -1883,14 +1967,98 @@
        "type": "pkt",
        "num": "48",
        "path": "ust_3/pkt_48",
-       "text": "N65 Przeciwciała przeciw antygenom przytarczyc; 49) N66 Przeciwciała przeciw białkom bogatym w cytrulinę (CCP); 50) N75 Przeciwciała przeciw DNA dwuniciowemu (dsDNA); 51) N93 Przeciwciała przeciw komórkom mięśni szkieletowych; 52) O05 Przeciwciała przeciw mitochondriom; 53) O09 Przeciwciała przeciw peroksydazie tarczycowej; 54) O15 Przeciwciała przeciw receptorowi tyreotropiny; 55) O18 Przeciwciała przeciw tyreoglobulinie; 56) O19 Przeciwciała przeciw tyreotropinie; 57) O21 Przeciwciała przeciwjądrowe (ANA); 58) O28 Rozpuszczalny receptor transferyny (sTfR); 59) O35 Sód (Na);",
+       "text": "N65 Przeciwciała przeciw antygenom przytarczyc;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "49",
+       "path": "ust_3/pkt_49",
+       "text": "N66 Przeciwciała przeciw białkom bogatym w cytrulinę (CCP);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "50",
+       "path": "ust_3/pkt_50",
+       "text": "N75 Przeciwciała przeciw DNA dwuniciowemu (dsDNA);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "51",
+       "path": "ust_3/pkt_51",
+       "text": "N93 Przeciwciała przeciw komórkom mięśni szkieletowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "52",
+       "path": "ust_3/pkt_52",
+       "text": "O05 Przeciwciała przeciw mitochondriom;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "53",
+       "path": "ust_3/pkt_53",
+       "text": "O09 Przeciwciała przeciw peroksydazie tarczycowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "54",
+       "path": "ust_3/pkt_54",
+       "text": "O15 Przeciwciała przeciw receptorowi tyreotropiny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "55",
+       "path": "ust_3/pkt_55",
+       "text": "O18 Przeciwciała przeciw tyreoglobulinie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "56",
+       "path": "ust_3/pkt_56",
+       "text": "O19 Przeciwciała przeciw tyreotropinie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "57",
+       "path": "ust_3/pkt_57",
+       "text": "O21 Przeciwciała przeciwjądrowe (ANA);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "58",
+       "path": "ust_3/pkt_58",
+       "text": "O28 Rozpuszczalny receptor transferyny (sTfR);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "59",
+       "path": "ust_3/pkt_59",
+       "text": "O35 Sód (Na);",
        "children": []
       },
       {
        "type": "pkt",
        "num": "60",
        "path": "ust_3/pkt_60",
-       "text": "O45 Transferyna, wskaźnik nasycenia żelazem; 61) O49 Trójglicerydy;",
+       "text": "O45 Transferyna, wskaźnik nasycenia żelazem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "61",
+       "path": "ust_3/pkt_61",
+       "text": "O49 Trójglicerydy;",
        "children": []
       },
       {
@@ -1946,7 +2114,14 @@
        "type": "pkt",
        "num": "69",
        "path": "ust_3/pkt_69",
-       "text": "O93 Żelazo – całkowita zdolność wiązania (TIBC); 70) O95 Żelazo (Fe);",
+       "text": "O93 Żelazo – całkowita zdolność wiązania (TIBC);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "70",
+       "path": "ust_3/pkt_70",
+       "text": "O95 Żelazo (Fe);",
        "children": []
       },
       {
@@ -1960,7 +2135,21 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_3/pkt_1",
-       "text": "87.030 TK głowy bez wzmocnienia kontrastowego; 2) 87.031 TK głowy bez i ze wzmocnieniem kontrastowym; 3) 87.032 TK głowy bez wzmocnienia kontrastowego i co najmniej dwie fazy ze wzmocnieniem kontrastowym;",
+       "text": "87.030 TK głowy bez wzmocnienia kontrastowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "87.031 TK głowy bez i ze wzmocnieniem kontrastowym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "87.032 TK głowy bez wzmocnienia kontrastowego i co najmniej dwie fazy ze wzmocnieniem kontrastowym;",
        "children": []
       },
       {
@@ -1974,28 +2163,77 @@
        "type": "pkt",
        "num": "5",
        "path": "ust_3/pkt_5",
-       "text": "87.034 TK twarzoczaszki bez wzmocnienia kontrastowego; 6) 87.035 TK twarzoczaszki bez i ze wzmocnieniem kontrastowym; 7) 87.049 TK głowy ze wzmocnieniem kontrastowym; 8) 87.221 RTG kręgosłupa odcinka szyjnego;",
+       "text": "87.034 TK twarzoczaszki bez wzmocnienia kontrastowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_3/pkt_6",
+       "text": "87.035 TK twarzoczaszki bez i ze wzmocnieniem kontrastowym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_3/pkt_7",
+       "text": "87.049 TK głowy ze wzmocnieniem kontrastowym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_3/pkt_8",
+       "text": "87.221 RTG kręgosłupa odcinka szyjnego;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "9",
        "path": "ust_3/pkt_9",
-       "text": "87.222 RTG kręgosłupa odcinka szyjnego celowane lub czynnościowe; 10) 87.231 RTG kręgosłupa odcinka piersiowego;",
+       "text": "87.222 RTG kręgosłupa odcinka szyjnego celowane lub czynnościowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_3/pkt_10",
+       "text": "87.231 RTG kręgosłupa odcinka piersiowego;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "11",
        "path": "ust_3/pkt_11",
-       "text": "87.241 RTG kręgosłupa odcinka lędźwiowo-krzyżowego; 12) 87.242 RTG kręgosłupa odcinka lędźwiowo-krzyżowego celowane lub czynnościowe;",
+       "text": "87.241 RTG kręgosłupa odcinka lędźwiowo-krzyżowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_3/pkt_12",
+       "text": "87.242 RTG kręgosłupa odcinka lędźwiowo-krzyżowego celowane lub czynnościowe;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "13",
        "path": "ust_3/pkt_13",
-       "text": "87.410 TK klatki piersiowej bez wzmocnienia kontrastowego; 14) 87.411 TK klatki piersiowej bez i ze wzmocnieniem kontrastowym; 15) 87.412 TK klatki piersiowej bez wzmocnienia kontrastowego i co najmniej dwie fazy ze wzmocnieniem kontrastowym;",
+       "text": "87.410 TK klatki piersiowej bez wzmocnienia kontrastowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "ust_3/pkt_14",
+       "text": "87.411 TK klatki piersiowej bez i ze wzmocnieniem kontrastowym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "ust_3/pkt_15",
+       "text": "87.412 TK klatki piersiowej bez wzmocnienia kontrastowego i co najmniej dwie fazy ze wzmocnieniem kontrastowym;",
        "children": []
       },
       {
@@ -2009,14 +2247,28 @@
        "type": "pkt",
        "num": "17",
        "path": "ust_3/pkt_17",
-       "text": "87.415 TK tętnic klatki piersiowej (w tym aorta); 18) 87.440 RTG klatki piersiowej (AP i boczne);",
+       "text": "87.415 TK tętnic klatki piersiowej (w tym aorta);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "ust_3/pkt_18",
+       "text": "87.440 RTG klatki piersiowej (AP i boczne);",
        "children": []
       },
       {
        "type": "pkt",
        "num": "19",
        "path": "ust_3/pkt_19",
-       "text": "88.010 TK jamy brzusznej lub miednicy małej bez wzmocnienia kontrastowego; 20) 88.011 TK jamy brzusznej lub miednicy małej bez i ze wzmocnieniem kontrastowym;",
+       "text": "88.010 TK jamy brzusznej lub miednicy małej bez wzmocnienia kontrastowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "ust_3/pkt_20",
+       "text": "88.011 TK jamy brzusznej lub miednicy małej bez i ze wzmocnieniem kontrastowym;",
        "children": []
       },
       {
@@ -2037,20 +2289,405 @@
        "type": "pkt",
        "num": "24",
        "path": "ust_3/pkt_24",
-       "text": "88.110 RTG miednicy przeglądowe; 25) 88.111 RTG miednicy celowane; 26) 88.241 RTG kości kończyny górnej celowane lub czynnościowe; 27) 88.291 RTG kości kończyny dolnej celowane lub czynnościowe; 28) 88.380 TK tętnic wieńcowych; 29) 88.381 TK tętnic kończyn; 30) 88.383 TK kręgosłupa szyjnego bez wzmocnienia kontrastowego; 31) 88.384 TK kręgosłupa szyjnego bez i ze wzmocnieniem kontrastowym; 32) 88.385 TK kręgosłupa piersiowego bez wzmocnienia kontrastowego; 33) 88.386 TK kręgosłupa piersiowego bez i ze wzmocnieniem kontrastowym; 34) 88.387 TK kręgosłupa lędźwiowo-krzyżowego bez wzmocnienia kontrastowego; 35) 88.388 TK kręgosłupa lędźwiowo-krzyżowego bez i ze wzmocnieniem kontrastowym; 36) 88.411 Arteriografia tętnicy podstawnej mózgu z kontrastem; 37) 88.412 Arteriografia tętnicy szyjnej wewnętrznej z kontrastem; 38) 88.413 Arteriografia krążenia w tylnej części mózgu z kontrastem; 39) 88.414 Arteriografia tętnicy kręgowej z kontrastem; 40) 88.419 Arteriografia naczyń mózgowych z kontrastem – inne; 41) 88.421 Aortografia (łuk aorty) z kontrastem; 42) 88.429 Aortografia innych odcinków aorty z kontrastem; 43) 88.491 Arteriografia o innej lokalizacji; 44) 88.714 USG naczyń szyi – doppler; 45) 88.717 USG ślinianek; 46) 88.749 USG przewodu pokarmowego – inne; 47) 88.761 USG brzucha i przestrzeni zaotrzewnowej; 48) 88.769 USG brzucha – inne; 49) 88.775 USG naczyń narządów miąższowych – doppler; 50) 88.776 USG naczyń kończyn górnych – doppler; 51) 88.777 USG naczyń kończyn dolnych – doppler; 52) 88.779 USG innych obszarów układu naczyniowego – doppler; 53) 88.779 USG innych obszarów układu naczyniowego – doppler; 54) 88.794 USG stawów barkowych; 55) 88.795 USG stawów łokciowych; 56) 88.796 USG stawów rąk lub stawów stóp; 57) 88.797 USG stawów biodrowych; 58) 88.798 USG stawów kolanowych; 59) 88.900 RM głowy bez wzmocnienia kontrastowego; 60) 88.901 RM głowy bez i ze wzmocnieniem kontrastowym; 61) 88.931 RM kręgosłupa lub kanału kręgowego na poziomie odcinka szyjnego bez wzmocnienia kontrastowego; 62) 88.932 RM kręgosłupa lub kanału kręgowego na poziomie odcinka lędźwiowego (lędźwiowo-krzyżowego) bez wzmocnienia kontrastowego; 63) 88.933 RM kręgosłupa lub kanału kręgowego na poziomie odcinka piersiowego bez wzmocnienia kontrastowego; 64) 88.936 RM kręgosłupa lub kanału kręgowego na poziomie odcinka szyjnego bez i ze wzmocnieniem kontrastowym; 65) 88.937 RM kręgosłupa lub kanału kręgowego na poziomie odcinka lędźwiowego (lędźwiowo-krzyżowego) bez i ze wzmocnieniem kontrastowym; 66) 88.938 RM kręgosłupa lub kanału kręgowego na poziomie odcinka piersiowego bez i ze wzmocnieniem kontrastowym; 67) 88.94 Rezonans magnetyczny układu mięśniowo-szkieletowego; 68) 88.977 Angiografia bez wzmocnienia kontrastowego – RM; 69) 88.978 Angiografia ze wzmocnieniem kontrastowym – RM. 4. Inne badania diagnostyczne: 1) 41.311 Biopsja aspiracyjna szpiku kostnego; 2) 44.13 Gastroskopia – inna; 3) 45.231 Fiberokolonoskopia; 4) 45.239 Kolonoskopia – inne; 5) 45.253 Kolonoskopia z biopsją; 6) 89.141 Elektroencefalografia (EEG);",
+       "text": "88.110 RTG miednicy przeglądowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "25",
+       "path": "ust_3/pkt_25",
+       "text": "88.111 RTG miednicy celowane;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "26",
+       "path": "ust_3/pkt_26",
+       "text": "88.241 RTG kości kończyny górnej celowane lub czynnościowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "27",
+       "path": "ust_3/pkt_27",
+       "text": "88.291 RTG kości kończyny dolnej celowane lub czynnościowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "28",
+       "path": "ust_3/pkt_28",
+       "text": "88.380 TK tętnic wieńcowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "29",
+       "path": "ust_3/pkt_29",
+       "text": "88.381 TK tętnic kończyn;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "30",
+       "path": "ust_3/pkt_30",
+       "text": "88.383 TK kręgosłupa szyjnego bez wzmocnienia kontrastowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "31",
+       "path": "ust_3/pkt_31",
+       "text": "88.384 TK kręgosłupa szyjnego bez i ze wzmocnieniem kontrastowym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "32",
+       "path": "ust_3/pkt_32",
+       "text": "88.385 TK kręgosłupa piersiowego bez wzmocnienia kontrastowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "33",
+       "path": "ust_3/pkt_33",
+       "text": "88.386 TK kręgosłupa piersiowego bez i ze wzmocnieniem kontrastowym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "34",
+       "path": "ust_3/pkt_34",
+       "text": "88.387 TK kręgosłupa lędźwiowo-krzyżowego bez wzmocnienia kontrastowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "35",
+       "path": "ust_3/pkt_35",
+       "text": "88.388 TK kręgosłupa lędźwiowo-krzyżowego bez i ze wzmocnieniem kontrastowym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "36",
+       "path": "ust_3/pkt_36",
+       "text": "88.411 Arteriografia tętnicy podstawnej mózgu z kontrastem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "37",
+       "path": "ust_3/pkt_37",
+       "text": "88.412 Arteriografia tętnicy szyjnej wewnętrznej z kontrastem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "38",
+       "path": "ust_3/pkt_38",
+       "text": "88.413 Arteriografia krążenia w tylnej części mózgu z kontrastem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "39",
+       "path": "ust_3/pkt_39",
+       "text": "88.414 Arteriografia tętnicy kręgowej z kontrastem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "40",
+       "path": "ust_3/pkt_40",
+       "text": "88.419 Arteriografia naczyń mózgowych z kontrastem – inne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "41",
+       "path": "ust_3/pkt_41",
+       "text": "88.421 Aortografia (łuk aorty) z kontrastem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "42",
+       "path": "ust_3/pkt_42",
+       "text": "88.429 Aortografia innych odcinków aorty z kontrastem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "43",
+       "path": "ust_3/pkt_43",
+       "text": "88.491 Arteriografia o innej lokalizacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "44",
+       "path": "ust_3/pkt_44",
+       "text": "88.714 USG naczyń szyi – doppler;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "45",
+       "path": "ust_3/pkt_45",
+       "text": "88.717 USG ślinianek;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "46",
+       "path": "ust_3/pkt_46",
+       "text": "88.749 USG przewodu pokarmowego – inne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "47",
+       "path": "ust_3/pkt_47",
+       "text": "88.761 USG brzucha i przestrzeni zaotrzewnowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "48",
+       "path": "ust_3/pkt_48",
+       "text": "88.769 USG brzucha – inne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "49",
+       "path": "ust_3/pkt_49",
+       "text": "88.775 USG naczyń narządów miąższowych – doppler;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "50",
+       "path": "ust_3/pkt_50",
+       "text": "88.776 USG naczyń kończyn górnych – doppler;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "51",
+       "path": "ust_3/pkt_51",
+       "text": "88.777 USG naczyń kończyn dolnych – doppler;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "52",
+       "path": "ust_3/pkt_52",
+       "text": "88.779 USG innych obszarów układu naczyniowego – doppler;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "53",
+       "path": "ust_3/pkt_53",
+       "text": "88.779 USG innych obszarów układu naczyniowego – doppler;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "54",
+       "path": "ust_3/pkt_54",
+       "text": "88.794 USG stawów barkowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "55",
+       "path": "ust_3/pkt_55",
+       "text": "88.795 USG stawów łokciowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "56",
+       "path": "ust_3/pkt_56",
+       "text": "88.796 USG stawów rąk lub stawów stóp;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "57",
+       "path": "ust_3/pkt_57",
+       "text": "88.797 USG stawów biodrowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "58",
+       "path": "ust_3/pkt_58",
+       "text": "88.798 USG stawów kolanowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "59",
+       "path": "ust_3/pkt_59",
+       "text": "88.900 RM głowy bez wzmocnienia kontrastowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "60",
+       "path": "ust_3/pkt_60",
+       "text": "88.901 RM głowy bez i ze wzmocnieniem kontrastowym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "61",
+       "path": "ust_3/pkt_61",
+       "text": "88.931 RM kręgosłupa lub kanału kręgowego na poziomie odcinka szyjnego bez wzmocnienia kontrastowego; 62) 88.932 RM kręgosłupa lub kanału kręgowego na poziomie odcinka lędźwiowego (lędźwiowo-krzyżowego) bez wzmocnienia kontrastowego; 63) 88.933 RM kręgosłupa lub kanału kręgowego na poziomie odcinka piersiowego bez wzmocnienia kontrastowego; 64) 88.936 RM kręgosłupa lub kanału kręgowego na poziomie odcinka szyjnego bez i ze wzmocnieniem kontrastowym; 65) 88.937 RM kręgosłupa lub kanału kręgowego na poziomie odcinka lędźwiowego (lędźwiowo-krzyżowego) bez i ze wzmocnieniem kontrastowym; 66) 88.938 RM kręgosłupa lub kanału kręgowego na poziomie odcinka piersiowego bez i ze wzmocnieniem kontrastowym; 67) 88.94 Rezonans magnetyczny układu mięśniowo-szkieletowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "68",
+       "path": "ust_3/pkt_68",
+       "text": "88.977 Angiografia bez wzmocnienia kontrastowego – RM;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "69",
+       "path": "ust_3/pkt_69",
+       "text": "88.978 Angiografia ze wzmocnieniem kontrastowym – RM. 4. Inne badania diagnostyczne: 1) 41.311 Biopsja aspiracyjna szpiku kostnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "44.13 Gastroskopia – inna;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "45.231 Fiberokolonoskopia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_3/pkt_4",
+       "text": "45.239 Kolonoskopia – inne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_3/pkt_5",
+       "text": "45.253 Kolonoskopia z biopsją;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_3/pkt_6",
+       "text": "89.141 Elektroencefalografia (EEG);",
        "children": []
       },
       {
        "type": "pkt",
        "num": "7",
        "path": "ust_3/pkt_7",
-       "text": "89.384 Badanie zdolności dyfuzyjnej płuc; 8) 89.394 Elektromiografia; 9) 89.501 Monitorowanie ciśnienia tętniczego krwi za pomocą urządzeń analogowych lub cyfrowych (typu Holter) – Holter RR; 10) 89.502 Monitorowanie czynności serca za pomocą urządzeń analogowych lub cyfrowych (typu Holter) – Holter EKG 6; 11) 89.52 Elektrokardiogram; 12) 89.541 Monitorowanie czynności serca przy pomocy urządzeń analogowych (typu Holter); 13) 89.542 Monitorowanie ciśnienia tętniczego krwi przy pomocy urządzeń analogowych (typu Holter); 14) 95.1915 Test Schirmera; 15) 99.9950 Kapilaroskopia. 5. Porady specjalistyczne lekarskie, dietetyczne, psychologiczne oraz diagnostyka i terapia dla świadczeniobiorców włączonych do programu pilotażowego KOWZS określone w organizacji udzielania świadczeń dla modułu I i II oraz zgodnie z zaleceniami lekarza opieki i IPO WZS. 6. Rehabilitacja lecznicza według indywidualnego programu rehabilitacji psychoruchowej, określonego w IPO WZS oraz zgodnie z organizacją udzielania świadczeń dla modułu II",
+       "text": "89.384 Badanie zdolności dyfuzyjnej płuc;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_3/pkt_8",
+       "text": "89.394 Elektromiografia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_3/pkt_9",
+       "text": "89.501 Monitorowanie ciśnienia tętniczego krwi za pomocą urządzeń analogowych lub cyfrowych (typu Holter) – Holter RR; 10) 89.502 Monitorowanie czynności serca za pomocą urządzeń analogowych lub cyfrowych (typu Holter) – Holter EKG 6; 11) 89.52 Elektrokardiogram;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_3/pkt_12",
+       "text": "89.541 Monitorowanie czynności serca przy pomocy urządzeń analogowych (typu Holter); 13) 89.542 Monitorowanie ciśnienia tętniczego krwi przy pomocy urządzeń analogowych (typu Holter); 14) 95.1915 Test Schirmera;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "ust_3/pkt_15",
+       "text": "99.9950 Kapilaroskopia. 5. Porady specjalistyczne lekarskie, dietetyczne, psychologiczne oraz diagnostyka i terapia dla świadczeniobiorców włączonych do programu pilotażowego KOWZS określone w organizacji udzielania świadczeń dla modułu I i II oraz zgodnie z zaleceniami lekarza opieki i IPO WZS. 6. Rehabilitacja lecznicza według indywidualnego programu rehabilitacji psychoruchowej, określonego w IPO WZS oraz zgodnie z organizacją udzielania świadczeń dla modułu II",
        "children": [
         {
          "type": "text",
-         "text": "4 Organizacja I. Moduł I – etap diagnostyczny realizowany przez lekarza opieki obejmuje 2 porady: udzielania 1. Każda porada zawiera: świadczeń 1) wywiad i badanie fizykalne (wraz z oceną stanu klinicznego świadczeniobiorcy w zależności od rozpoznania RZS, ACR-Eular, ZZSK/SPA: kryteria klasyfikacyjne spodyloartropatii osiowej i obwodowej według ASDAS i kryteria AMORA, ŁZS: kryteria CASPAR, fibromialgia); 2) ocenę stosowanych leków; 3) ocenę wyników badań laboratoryjnych i obrazowych oraz innych badań diagnostycznych; 4) ocenę skuteczności leczenia w zależności od rozpoznania (RZS/ŁZS: DAS 28, SDAI, HAQ, ZZSK/SPA ASDAS, ŁZS: BASDAI, ASDAS); 5) ocenę nasilenia bólu NRS; 6) Kwestionariusz Zdrowia Pacjenta PHQ9; 7) diagnozę w kierunku zapalnych chorób reumatycznych; 8) ocenę zapotrzebowania na środki ortopedyczne i inne wyroby medyczne; 9) ocenę zaleceń lekarzy specjalistów; 10) ocenę aktywności zawodowej. 2.[^29] Porada pierwsza (porada kwalifikacyjna) – kwalifikacja do programu pilotażowego KOWZS, odbywa się w okresie 28 dni od dnia zgłoszenia świadczeniobiorcy do ośrodka WZS i podczas jej trwania świadczeniobiorca zostaje skierowany przez lekarza opieki na badania laboratoryjne, obrazowe i inne badania diagnostyczne w trybie ambulatoryjnym lub w trybie hospitalizacji jednego dnia w zależności od potrzeb świadczeniobiorcy. 3. Porada druga – odbywa się w okresie 56 dni od dnia pierwszej porady i podczas jej trwania lekarz opieki dokonuje: 1) oceny kryteriów diagnostycznych w kierunku co najmniej jednego z rozpoznań według klasyfikacji ICD-10: L40.5 Łuszczyca stawowa, M02 Odczynowe zapalenie stawów (zespół Reitera), M05 Serododatnie reumatoidalne zapalenie stawów, M06 Inne reumatoidalne zapalenia stawów, M07 Artropatie łuszczycowe i towarzyszące chorobom jelit, M13 Inne zapalenia stawów, M45 Zesztywniające zapalenie stawów kręgosłupa, M46 Inne zapalne choroby kręgosłupa; 2) ustalenia IPO WZS i włączenia leczenia modyfikującego przebieg choroby; 3) skierowania na badania laboratoryjne, obrazowe i inne badania diagnostyczne oraz porady specjalistyczne z zakresu dietetyki, endokrynologii, gastroenterologii, kardiologii, okulistyki, ortopedii i traumatologii narządu ruchu, neurologii, psychiatrii, psychologii, pulmonologii, rehabilitacji medycznej – w zależności od potrzeb świadczeniobiorcy; 4) rozpoznania i ewentualnej kwalifikacji do modułu II."
+         "text": "4 Organizacja I. Moduł I – etap diagnostyczny realizowany przez lekarza opieki obejmuje 2 porady: udzielania 1. Każda porada zawiera: świadczeń 1) wywiad i badanie fizykalne (wraz z oceną stanu klinicznego świadczeniobiorcy w zależności od rozpoznania RZS, ACR-Eular, ZZSK/SPA: kryteria klasyfikacyjne spodyloartropatii osiowej i obwodowej według ASDAS i kryteria AMORA, ŁZS: kryteria CASPAR, fibromialgia); 2) ocenę stosowanych leków;"
         }
        ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "ocenę wyników badań laboratoryjnych i obrazowych oraz innych badań diagnostycznych; 4) ocenę skuteczności leczenia w zależności od rozpoznania (RZS/ŁZS: DAS 28, SDAI, HAQ, ZZSK/SPA ASDAS, ŁZS: BASDAI, ASDAS); 5) ocenę nasilenia bólu NRS;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_3/pkt_6",
+       "text": "Kwestionariusz Zdrowia Pacjenta PHQ9;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_3/pkt_7",
+       "text": "diagnozę w kierunku zapalnych chorób reumatycznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_3/pkt_8",
+       "text": "ocenę zapotrzebowania na środki ortopedyczne i inne wyroby medyczne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_3/pkt_9",
+       "text": "ocenę zaleceń lekarzy specjalistów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_3/pkt_10",
+       "text": "ocenę aktywności zawodowej. 2.[^29] Porada pierwsza (porada kwalifikacyjna) – kwalifikacja do programu pilotażowego KOWZS, odbywa się w okresie 28 dni od dnia zgłoszenia świadczeniobiorcy do ośrodka WZS i podczas jej trwania świadczeniobiorca zostaje skierowany przez lekarza opieki na badania laboratoryjne, obrazowe i inne badania diagnostyczne w trybie ambulatoryjnym lub w trybie hospitalizacji jednego dnia w zależności od potrzeb świadczeniobiorcy. 3. Porada druga – odbywa się w okresie 56 dni od dnia pierwszej porady i podczas jej trwania lekarz opieki dokonuje: 1) oceny kryteriów diagnostycznych w kierunku co najmniej jednego z rozpoznań według klasyfikacji ICD-10: L40.5 Łuszczyca stawowa, M02 Odczynowe zapalenie stawów (zespół Reitera), M05 Serododatnie reumatoidalne zapalenie stawów, M06 Inne reumatoidalne zapalenia stawów, M07 Artropatie łuszczycowe i towarzyszące chorobom jelit, M13 Inne zapalenia stawów, M45 Zesztywniające zapalenie stawów kręgosłupa, M46 Inne zapalne choroby kręgosłupa; 2) ustalenia IPO WZS i włączenia leczenia modyfikującego przebieg choroby;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "skierowania na badania laboratoryjne, obrazowe i inne badania diagnostyczne oraz porady specjalistyczne z zakresu dietetyki, endokrynologii, gastroenterologii, kardiologii, okulistyki, ortopedii i traumatologii narządu ruchu, neurologii, psychiatrii, psychologii, pulmonologii, rehabilitacji medycznej – w zależności od potrzeb świadczeniobiorcy; 4) rozpoznania i ewentualnej kwalifikacji do modułu II.",
+       "children": []
       }
      ]
     },
@@ -2227,7 +2864,14 @@
        "type": "pkt",
        "num": "8",
        "path": "ust_4/pkt_8",
-       "text": "ocenę wyników badań laboratoryjnych, obrazowych i innych badań diagnostycznych, 9) ocenę konsultacji specjalistycznych;",
+       "text": "ocenę wyników badań laboratoryjnych, obrazowych i innych badań diagnostycznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_4/pkt_9",
+       "text": "ocenę konsultacji specjalistycznych;",
        "children": []
       },
       {

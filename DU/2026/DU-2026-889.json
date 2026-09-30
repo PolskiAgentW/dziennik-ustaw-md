@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/889",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 czerwca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o spółdzielniach mieszkaniowych",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/889/text.pdf",
  "body": [
   {
@@ -173,12 +173,14 @@
        "num": "1",
        "path": "art_1/ust_1",
        "text": "Celem spółdzielni mieszkaniowej, zwanej dalej „spółdzielnią”, jest zaspokajanie potrzeb mieszkaniowych i innych potrzeb członków oraz ich rodzin, przez dostarczanie członkom samodzielnych lokali mieszkalnych lub domów jednorodzinnych, a także lokali o innym przeznaczeniu.",
-       "children": [
-        {
-         "type": "text",
-         "text": "1 [1] . Spółdzielnia mieszkaniowa nie może odnosić korzyści majątkowych kosztem swoich członków, w szczególności z tytułu przekształceń praw do lokali."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1¹",
+       "path": "art_1/ust_1¹",
+       "text": "Spółdzielnia mieszkaniowa nie może odnosić korzyści majątkowych kosztem swoich członków, w szczególności z tytułu przekształceń praw do lokali.",
+       "children": []
       },
       {
        "type": "ust",
@@ -191,12 +193,14 @@
          "num": "1",
          "path": "art_1/ust_2/pkt_1",
          "text": "budowanie lub nabywanie budynków w celu ustanowienia na rzecz członków spółdzielczych lokatorskich praw do znajdujących się w tych budynkach lokali mieszkalnych;",
-         "children": [
-          {
-           "type": "text",
-           "text": "1 [1] ) (uchylony)"
-          }
-         ]
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "1¹",
+         "path": "art_1/ust_2/pkt_1¹",
+         "text": "(uchylony)",
+         "children": []
         },
         {
          "type": "pkt",
@@ -390,74 +394,85 @@
        "num": "3",
        "path": "art_3/ust_3",
        "text": "Członkiem spółdzielni jest osoba prawna, której przysługuje spółdzielcze własnościowe prawo do lokalu, ekspektatywa własności lub będąca założycielem spółdzielni, z zastrzeżeniem ust. 9. Osobie tej nie przysługuje spółdzielcze lokatorskie prawo do lokalu mieszkalnego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3¹",
+       "path": "art_3/ust_3¹",
+       "text": "Członkiem spółdzielni może być osoba, która nabyła prawo odrębnej własności lokalu. Właścicielowi lokalu, który nie jest członkiem spółdzielni, przysługuje roszczenie o przyjęcie w poczet członków spółdzielni. Przepis art. 16 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze stosuje się odpowiednio. Osoba, która nabyła prawo odrębnej własności lokalu, zachowuje członkostwo w spółdzielni.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3²",
+       "path": "art_3/ust_3²",
+       "text": "Członkostwo w spółdzielni powstaje z chwilą:",
        "children": [
-        {
-         "type": "text",
-         "text": "3 [1] . Członkiem spółdzielni może być osoba, która nabyła prawo odrębnej własności lokalu. Właścicielowi lokalu, który nie jest członkiem spółdzielni, przysługuje roszczenie o przyjęcie w poczet członków spółdzielni. Przepis art. 16 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze stosuje się odpowiednio. Osoba, która nabyła prawo odrębnej własności lokalu, zachowuje członkostwo w spółdzielni."
-        },
-        {
-         "type": "text",
-         "text": "3 [2] . Członkostwo w spółdzielni powstaje z chwilą:"
-        },
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_3/ust_3/pkt_1",
+         "path": "art_3/ust_3²/pkt_1",
          "text": "nabycia roszczenia o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_3/ust_3/pkt_2",
+         "path": "art_3/ust_3²/pkt_2",
          "text": "nabycia ekspektatywy własności;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "3",
-         "path": "art_3/ust_3/pkt_3",
+         "path": "art_3/ust_3²/pkt_3",
          "text": "zawarcia umowy nabycia spółdzielczego własnościowego prawa do lokalu;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "4",
-         "path": "art_3/ust_3/pkt_4",
+         "path": "art_3/ust_3²/pkt_4",
          "text": "zawarcia umowy o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, jeżeli członkostwo nie zostało nabyte wcześniej;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "5",
-         "path": "art_3/ust_3/pkt_5",
+         "path": "art_3/ust_3²/pkt_5",
          "text": "upływu terminu jednego roku, o którym mowa w art. 15 ust. 4, w przypadkach przewidzianych w art. 15 ust. 2 i 3, jeżeli przed upływem tego terminu jedna z osób, o których mowa w art. 15 ust. 2 lub 3, złożyła pisemne zapewnienie o gotowości zawarcia umowy o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, z zastrzeżeniem pkt 6;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "6",
-         "path": "art_3/ust_3/pkt_6",
+         "path": "art_3/ust_3²/pkt_6",
          "text": "prawomocnego rozstrzygnięcia przez sąd w postępowaniu nieprocesowym lub wyboru dokonanego przez spółdzielnię, o których mowa w art. 15 ust. 4, w przypadkach przewidzianych w art. 15 ust. 2 i 3, jeżeli pisemne zapewnienie o gotowości zawarcia umowy o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego zgłosiła więcej niż jedna osoba;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "7",
-         "path": "art_3/ust_3/pkt_7",
+         "path": "art_3/ust_3²/pkt_7",
          "text": "wpisania spółdzielni do Krajowego Rejestru Sądowego w przypadku osób będących założycielami spółdzielni.",
-         "children": [
-          {
-           "type": "text",
-           "text": "3 [3] . Przepisy ust. 1 i 3 stosuje się odpowiednio do osób, którym przysługuje prawo do miejsca postojowego w garażu wielostanowiskowym lub garażu wolnostojącego, o których mowa w art. 17 [19] , lub do ułamkowego udziału we współwłasności garażu wielostanowiskowego, o którym mowa w art. 27 [1] ."
-          },
-          {
-           "type": "text",
-           "text": "3 [4] . Członkiem spółdzielni może być najemca, o którym mowa w art. 48 ust. 1. Przepisy dotyczące członkostwa właścicieli lokali stosuje się odpowiednio."
-          }
-         ]
+         "children": []
         }
        ]
+      },
+      {
+       "type": "ust",
+       "num": "3³",
+       "path": "art_3/ust_3³",
+       "text": "Przepisy ust. 1 i 3 stosuje się odpowiednio do osób, którym przysługuje prawo do miejsca postojowego w garażu wielostanowiskowym lub garażu wolnostojącego, o których mowa w art. 17¹⁹, lub do ułamkowego udziału we współwłasności garażu wielostanowiskowego, o którym mowa w art. 27¹.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3⁴",
+       "path": "art_3/ust_3⁴",
+       "text": "Członkiem spółdzielni może być najemca, o którym mowa w art. 48 ust. 1. Przepisy dotyczące członkostwa właścicieli lokali stosuje się odpowiednio.",
+       "children": []
       },
       {
        "type": "ust",
@@ -527,7 +542,7 @@
        "type": "ust",
        "num": "7",
        "path": "art_3/ust_7",
-       "text": "Członkostwo w spółdzielni ustaje także w przypadkach określonych w art. 24 [1] ust. 1 i art. 26. Do osób, które w następstwie tego utraciły członkostwo w spółdzielni, przepisy art. 108b ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze dotyczące członków spółdzielni stosuje się odpowiednio.",
+       "text": "Członkostwo w spółdzielni ustaje także w przypadkach określonych w art. 24¹ ust. 1 i art. 26. Do osób, które w następstwie tego utraciły członkostwo w spółdzielni, przepisy art. 108b ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze dotyczące członków spółdzielni stosuje się odpowiednio.",
        "children": []
       },
       {
@@ -557,12 +572,14 @@
        "num": "1",
        "path": "art_4/ust_1",
        "text": "Członkowie spółdzielni, którym przysługują spółdzielcze prawa do lokali, są obowiązani uczestniczyć w pokrywaniu kosztów związanych z eksploatacją i utrzymaniem nieruchomości w częściach przypadających na ich lokale, eksploatacją i utrzymaniem nieruchomości stanowiących mienie spółdzielni przez uiszczanie opłat zgodnie z postanowieniami statutu.",
-       "children": [
-        {
-         "type": "text",
-         "text": "1 [1] . Osoby niebędące członkami spółdzielni, którym przysługują spółdzielcze własnościowe prawa do lokali, są obowiązane uczestniczyć w pokrywaniu kosztów związanych z eksploatacją i utrzymaniem nieruchomości w częściach przypadających na ich lokale, eksploatacją i utrzymaniem nieruchomości stanowiących mienie spółdzielni przez uiszczanie opłat na takich samych zasadach, jak członkowie spółdzielni, z zastrzeżeniem art. 5."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1¹",
+       "path": "art_4/ust_1¹",
+       "text": "Osoby niebędące członkami spółdzielni, którym przysługują spółdzielcze własnościowe prawa do lokali, są obowiązane uczestniczyć w pokrywaniu kosztów związanych z eksploatacją i utrzymaniem nieruchomości w częściach przypadających na ich lokale, eksploatacją i utrzymaniem nieruchomości stanowiących mienie spółdzielni przez uiszczanie opłat na takich samych zasadach, jak członkowie spółdzielni, z zastrzeżeniem art. 5.",
+       "children": []
       },
       {
        "type": "ust",
@@ -583,22 +600,25 @@
        "num": "4",
        "path": "art_4/ust_4",
        "text": "Właściciele lokali niebędący członkami spółdzielni są obowiązani uczestniczyć w pokrywaniu kosztów związanych z eksploatacją i utrzymaniem ich lokali, eksploatacją i utrzymaniem nieruchomości wspólnych. Są oni również obowiązani uczestniczyć w wydatkach związanych z eksploatacją i utrzymaniem nieruchomości stanowiących mienie spółdzielni, które są przeznaczone do wspólnego korzystania przez osoby zamieszkujące w określonych budynkach lub osiedlu. Obowiązki te wykonują przez uiszczanie opłat na takich samych zasadach, jak członkowie spółdzielni, z zastrzeżeniem art. 5.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4¹",
+       "path": "art_4/ust_4¹",
+       "text": "Zarząd spółdzielni prowadzi odrębnie dla każdej nieruchomości:",
        "children": [
-        {
-         "type": "text",
-         "text": "4 [1] . Zarząd spółdzielni prowadzi odrębnie dla każdej nieruchomości:"
-        },
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_4/ust_4/pkt_1",
+         "path": "art_4/ust_4¹/pkt_1",
          "text": "ewidencję i rozliczenie przychodów i kosztów, o których mowa w ust. 1–2 i 4;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_4/ust_4/pkt_2",
+         "path": "art_4/ust_4¹/pkt_2",
          "text": "ewidencję i rozliczenie wpływów i wydatków funduszu remontowego, o którym mowa w art. 6 ust. 3; ewidencja i rozliczenie wpływów i wydatków funduszu remontowego na poszczególne nieruchomości powinny uwzględniać wszystkie wpływy i wydatki funduszu remontowego tych nieruchomości.",
          "children": []
         }
@@ -616,36 +636,49 @@
        "num": "6",
        "path": "art_4/ust_6",
        "text": "Za opłaty, o których mowa w ust. 1–2 i 4, odpowiadają solidarnie z członkami spółdzielni, właścicielami lokali niebędącymi członkami spółdzielni lub osobami niebędącymi członkami spółdzielni, którym przysługują spółdzielcze własnościowe prawa do lokali, osoby pełnoletnie stale z nimi zamieszkujące w lokalu, z wyjątkiem pełnoletnich zstępnych pozostających na ich utrzymaniu, a także osoby faktycznie korzystające z lokalu.",
-       "children": [
-        {
-         "type": "text",
-         "text": "6 [1] . Odpowiedzialność osób, o których mowa w ust. 6, ogranicza się do wysokości opłat należnych za okres ich stałego zamieszkiwania lub faktycznego korzystania z lokalu."
-        },
-        {
-         "type": "text",
-         "text": "6 [2] . Opłaty, o których mowa w ust. 1–2 i 4, wnosi się co miesiąc z góry do 10 dnia miesiąca. Statut spółdzielni może określić inny termin wnoszenia opłat, niewcześniejszy jednak niż ustawowy."
-        },
-        {
-         "type": "text",
-         "text": "6 [3] . Opłaty, o których mowa w ust. 1–2 i 4, przeznacza się wyłącznie na cele określone w tych przepisach."
-        },
-        {
-         "type": "text",
-         "text": "6 [4] . Spółdzielnia jest obowiązana, na żądanie członka spółdzielni, właściciela lokalu niebędącego członkiem spółdzielni lub osoby niebędącej członkiem spółdzielni, której przysługuje spółdzielcze własnościowe prawo do lokalu, przedstawić kalkulację wysokości opłat."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6¹",
+       "path": "art_4/ust_6¹",
+       "text": "Odpowiedzialność osób, o których mowa w ust. 6, ogranicza się do wysokości opłat należnych za okres ich stałego zamieszkiwania lub faktycznego korzystania z lokalu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6²",
+       "path": "art_4/ust_6²",
+       "text": "Opłaty, o których mowa w ust. 1–2 i 4, wnosi się co miesiąc z góry do 10 dnia miesiąca. Statut spółdzielni może określić inny termin wnoszenia opłat, niewcześniejszy jednak niż ustawowy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6³",
+       "path": "art_4/ust_6³",
+       "text": "Opłaty, o których mowa w ust. 1–2 i 4, przeznacza się wyłącznie na cele określone w tych przepisach.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6⁴",
+       "path": "art_4/ust_6⁴",
+       "text": "Spółdzielnia jest obowiązana, na żądanie członka spółdzielni, właściciela lokalu niebędącego członkiem spółdzielni lub osoby niebędącej członkiem spółdzielni, której przysługuje spółdzielcze własnościowe prawo do lokalu, przedstawić kalkulację wysokości opłat.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "7",
        "path": "art_4/ust_7",
        "text": "O zmianie wysokości opłat spółdzielnia jest obowiązana zawiadomić osoby, o których mowa w ust. 1–2 i 4, co najmniej na 3 miesiące naprzód na koniec miesiąca kalendarzowego. Zmiana wysokości opłat wymaga uzasadnienia na piśmie.",
-       "children": [
-        {
-         "type": "text",
-         "text": "7 [1] . W przypadku zmiany wysokości opłat na pokrycie kosztów niezależnych od spółdzielni, w szczególności energii, gazu, wody oraz odbioru ścieków, odpadów i nieczystości ciekłych, spółdzielnia jest obowiązana zawiadomić osoby, o których mowa w ust. 1–2 i 4, co najmniej na 14 dni przed upływem terminu do wnoszenia opłat, ale niepóźniej niż ostatniego dnia miesiąca poprzedzającego ten termin. Przepis ust. 7 zdanie drugie stosuje się."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "7¹",
+       "path": "art_4/ust_7¹",
+       "text": "W przypadku zmiany wysokości opłat na pokrycie kosztów niezależnych od spółdzielni, w szczególności energii, gazu, wody oraz odbioru ścieków, odpadów i nieczystości ciekłych, spółdzielnia jest obowiązana zawiadomić osoby, o których mowa w ust. 1–2 i 4, co najmniej na 14 dni przed upływem terminu do wnoszenia opłat, ale niepóźniej niż ostatniego dnia miesiąca poprzedzającego ten termin. Przepis ust. 7 zdanie drugie stosuje się.",
+       "children": []
       },
       {
        "type": "ust",
@@ -717,37 +750,47 @@
        "num": "5",
        "path": "art_6/ust_5",
        "text": "Przepis ust. 4 stosuje się odpowiednio w przypadku, gdy spółdzielnia zaciąga kredyt, który ma być zabezpieczony hipoteką ustanowioną na użytkowaniu wieczystym lub części ułamkowej nieruchomości stanowiącej udział spółdzielni we współwłasności tej nieruchomości, a osoby niebędące członkami spółdzielni lub członkowie spółdzielni są uprawnieni z tytułu spółdzielczych praw do lokali w budynku na użytkowanym gruncie lub w budynku stanowiącym współwłasność spółdzielni lub zawarto z tymi członkami umowy o budowę lokali na tym gruncie albo nieruchomości stanowiącej współwłasność spółdzielni.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 6 [1] . 1. W razie awarii wywołującej szkodę lub zagrażającej bezpośrednio powstaniem szkody osoba korzystająca z lokalu jest obowiązana niezwłocznie udostępnić lokal w celu usunięcia awarii. Jeżeli osoba ta jest nieobecna lub odmawia udostępnienia lokalu, spółdzielnia ma prawo wejść do lokalu w obecności funkcjonariusza Policji, a gdy wymaga to pomocy straży pożarnej – także przy jej udziale."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "6¹",
+     "path": "art_6¹",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_6¹/ust_1",
+       "text": "W razie awarii wywołującej szkodę lub zagrażającej bezpośrednio powstaniem szkody osoba korzystająca z lokalu jest obowiązana niezwłocznie udostępnić lokal w celu usunięcia awarii. Jeżeli osoba ta jest nieobecna lub odmawia udostępnienia lokalu, spółdzielnia ma prawo wejść do lokalu w obecności funkcjonariusza Policji, a gdy wymaga to pomocy straży pożarnej – także przy jej udziale.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_6/ust_2",
+       "path": "art_6¹/ust_2",
        "text": "Jeżeli otwarcie lokalu nastąpiło pod nieobecność pełnoletniej osoby z niego korzystającej, spółdzielnia jest obowiązana zabezpieczyć lokal i znajdujące się w nim rzeczy, do czasu przybycia tej osoby; z czynności tych sporządza się protokół.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
-       "path": "art_6/ust_3",
+       "path": "art_6¹/ust_3",
        "text": "Po wcześniejszym uzgodnieniu terminu osoba korzystająca z lokalu powinna także udostępnić spółdzielni lokal w celu:",
        "children": [
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_6/ust_3/pkt_1",
+         "path": "art_6¹/ust_3/pkt_1",
          "text": "dokonania okresowego, a w szczególnie uzasadnionych wypadkach również doraźnego przeglądu stanu wyposażenia technicznego lokalu oraz ustalenia zakresu niezbędnych prac i ich wykonania;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_6/ust_3/pkt_2",
+         "path": "art_6¹/ust_3/pkt_2",
          "text": "zastępczego wykonania przez spółdzielnię prac obciążających członka spółdzielni albo osobę niebędącą członkiem spółdzielni, której przysługuje spółdzielcze własnościowe prawo do lokalu, albo właściciela lokalu niebędącego członkiem spółdzielni.",
          "children": []
         }
@@ -756,35 +799,35 @@
       {
        "type": "ust",
        "num": "4",
-       "path": "art_6/ust_4",
+       "path": "art_6¹/ust_4",
        "text": "Jeżeli lokal lub budynek wymaga remontu obciążającego spółdzielnię lub przebudowy, spółdzielnia może żądać od osób korzystających z tego lokalu lub budynku jego udostępnienia w celu wykonania koniecznych robót po wcześniejszym uzgodnieniu terminu.",
        "children": []
       },
       {
        "type": "ust",
        "num": "5",
-       "path": "art_6/ust_5",
+       "path": "art_6¹/ust_5",
        "text": "(uchylony)",
        "children": []
       },
       {
        "type": "ust",
        "num": "6",
-       "path": "art_6/ust_6",
+       "path": "art_6¹/ust_6",
        "text": "Jeżeli rodzaj remontu budynku tego wymaga, osoby korzystające z lokalu lub budynku obowiązane są na żądanie i koszt spółdzielni w uzgodnionym terminie przenieść się do lokalu zamiennego na okres wykonywania remontu, ściśle oznaczony i podany do wiadomości zainteresowanych. Okres ten nie może być dłuższy niż 12 miesięcy.",
        "children": []
       },
       {
        "type": "ust",
        "num": "7",
-       "path": "art_6/ust_7",
+       "path": "art_6¹/ust_7",
        "text": "W okresie używania lokalu zamiennego członek spółdzielni bądź osoba niebędąca członkiem spółdzielni, której przysługuje spółdzielcze własnościowe prawo do lokalu, albo właściciel lokalu niebędący członkiem spółdzielni wnosi opłaty jedynie za używanie tego lokalu. Opłaty za używanie lokalu zamiennego, bez względu na jego wyposażenie techniczne, nie mogą być wyższe niż opłaty za używanie lokalu dotychczasowego.",
        "children": []
       },
       {
        "type": "ust",
        "num": "8",
-       "path": "art_6/ust_8",
+       "path": "art_6¹/ust_8",
        "text": "Lokalem zamiennym, o którym mowa w ust. 6 i 7, jest lokal zamienny w rozumieniu ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725).",
        "children": []
       }
@@ -837,12 +880,14 @@
        "num": "1",
        "path": "art_8/pkt_1",
        "text": "zawierania umów w sprawie budowy lokali,",
-       "children": [
-        {
-         "type": "text",
-         "text": "1 [1] ) (uchylony)"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "1¹",
+       "path": "art_8/pkt_1¹",
+       "text": "(uchylony)",
+       "children": []
       },
       {
        "type": "pkt",
@@ -873,206 +918,251 @@
     },
     {
      "type": "heading",
-     "label": "Rozdział 1",
-     "text": "[1]"
-    },
-    {
-     "type": "text",
+     "label": "Rozdział 1¹",
      "text": "Prawa członków spółdzielni mieszkaniowej"
     },
     {
-     "type": "text",
-     "text": "Art. 8 [1] . 1. Członek spółdzielni mieszkaniowej ma prawo otrzymania odpisu statutu i regulaminów oraz kopii uchwał organów spółdzielni i protokołów obrad organów spółdzielni, protokołów lustracji, rocznych sprawozdań finansowych oraz faktur i umów zawieranych przez spółdzielnię z osobami trzecimi."
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Koszty sporządzania odpisów i kopii tych dokumentów, z wyjątkiem statutu i regulaminów uchwalonych na podstawie statutu, pokrywa członek spółdzielni wnioskujący o ich otrzymanie.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Statut spółdzielni mieszkaniowej, regulaminy, uchwały i protokoły obrad organów spółdzielni, a także protokoły lustracji i roczne sprawozdanie finansowe powinny być udostępnione na stronie internetowej spółdzielni.",
+     "type": "art",
+     "num": "8¹",
+     "path": "art_8¹",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "Art. 8 [2] . 1. Członkowie innych niż zarząd organów spółdzielni mieszkaniowej pełnią swoje funkcje społecznie, z tym że statut może przewidywać wynagrodzenie za udział w posiedzeniach, które jest wypłacane w formie miesięcznego ryczałtu bez względu na ilość posiedzeń i nie może być większe niż minimalne wynagrodzenie za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę."
+       "type": "ust",
+       "num": "1",
+       "path": "art_8¹/ust_1",
+       "text": "Członek spółdzielni mieszkaniowej ma prawo otrzymania odpisu statutu i regulaminów oraz kopii uchwał organów spółdzielni i protokołów obrad organów spółdzielni, protokołów lustracji, rocznych sprawozdań finansowych oraz faktur i umów zawieranych przez spółdzielnię z osobami trzecimi.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_8¹/ust_2",
+       "text": "Koszty sporządzania odpisów i kopii tych dokumentów, z wyjątkiem statutu i regulaminów uchwalonych na podstawie statutu, pokrywa członek spółdzielni wnioskujący o ich otrzymanie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_8¹/ust_3",
+       "text": "Statut spółdzielni mieszkaniowej, regulaminy, uchwały i protokoły obrad organów spółdzielni, a także protokoły lustracji i roczne sprawozdanie finansowe powinny być udostępnione na stronie internetowej spółdzielni.",
+       "children": []
       }
      ]
     },
     {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "W skład rady nadzorczej spółdzielni mieszkaniowej nie mogą wchodzić osoby, będące pracownikami spółdzielni. Uchwała w sprawie wyboru takiej osoby do rady nadzorczej jest nieważna. Z chwilą nawiązania stosunku pracy przez członka rady nadzorczej ustaje jego członkostwo w radzie nadzorczej tej samej spółdzielni.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Nie można być członkiem rady nadzorczej dłużej niż przez 2 kolejne kadencje rady nadzorczej.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "Kadencja rady nadzorczej nie może trwać dłużej niż 3 lata.",
+     "type": "art",
+     "num": "8²",
+     "path": "art_8²",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "Art. 8 [3] . 1. Walne zgromadzenie spółdzielni mieszkaniowej nie może być zastąpione przez zebranie przedstawicieli, jednakże, jeżeli statut tak stanowi, w przypadku gdy liczba członków spółdzielni mieszkaniowej przekroczy 500, walne zgromadzenie może być podzielone na części. Rada nadzorcza ustala zasady zaliczania członków do poszczególnych części walnego zgromadzenia z tym, że nie można zaliczyć członków uprawnionych do lokali znajdujących się w obrębie jednej nieruchomości do różnych części walnego zgromadzenia."
-      },
-      {
-       "type": "text",
-       "text": "1 [1] . Członek spółdzielni może uczestniczyć w walnym zgromadzeniu osobiście albo przez pełnomocnika. Pełnomocnik nie może zastępować więcej niż jednego członka. Pełnomocnictwo powinno być udzielone na piśmie pod rygorem nieważności i dołączone do protokołu walnego zgromadzenia. Lista pełnomocnictw podlega odczytaniu po rozpoczęciu walnego zgromadzenia. Przepisu art. 36 § 3 zdanie pierwsze ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze nie stosuje się."
-      },
-      {
-       "type": "text",
-       "text": "1 [2] .[^3] Pełnomocnikiem członka spółdzielni będącego osobą fizyczną może być:"
-      },
-      {
-       "type": "pkt",
+       "type": "ust",
        "num": "1",
-       "path": "ust_4/pkt_1",
-       "text": "osoba bliska członka z wyłączeniem osób pozostających faktycznie we wspólnym pożyciu;",
+       "path": "art_8²/ust_1",
+       "text": "Członkowie innych niż zarząd organów spółdzielni mieszkaniowej pełnią swoje funkcje społecznie, z tym że statut może przewidywać wynagrodzenie za udział w posiedzeniach, które jest wypłacane w formie miesięcznego ryczałtu bez względu na ilość posiedzeń i nie może być większe niż minimalne wynagrodzenie za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.",
        "children": []
       },
       {
-       "type": "pkt",
+       "type": "ust",
        "num": "2",
-       "path": "ust_4/pkt_2",
-       "text": "adwokat lub radca prawny;",
+       "path": "art_8²/ust_2",
+       "text": "W skład rady nadzorczej spółdzielni mieszkaniowej nie mogą wchodzić osoby, będące pracownikami spółdzielni. Uchwała w sprawie wyboru takiej osoby do rady nadzorczej jest nieważna. Z chwilą nawiązania stosunku pracy przez członka rady nadzorczej ustaje jego członkostwo w radzie nadzorczej tej samej spółdzielni.",
        "children": []
       },
       {
-       "type": "pkt",
+       "type": "ust",
        "num": "3",
-       "path": "ust_4/pkt_3",
-       "text": "inny członek tej samej spółdzielni.",
+       "path": "art_8²/ust_3",
+       "text": "Nie można być członkiem rady nadzorczej dłużej niż przez 2 kolejne kadencje rady nadzorczej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_8²/ust_4",
+       "text": "Kadencja rady nadzorczej nie może trwać dłużej niż 3 lata.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "8³",
+     "path": "art_8³",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_8³/ust_1",
+       "text": "Walne zgromadzenie spółdzielni mieszkaniowej nie może być zastąpione przez zebranie przedstawicieli, jednakże, jeżeli statut tak stanowi, w przypadku gdy liczba członków spółdzielni mieszkaniowej przekroczy 500, walne zgromadzenie może być podzielone na części. Rada nadzorcza ustala zasady zaliczania członków do poszczególnych części walnego zgromadzenia z tym, że nie można zaliczyć członków uprawnionych do lokali znajdujących się w obrębie jednej nieruchomości do różnych części walnego zgromadzenia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1¹",
+       "path": "art_8³/ust_1¹",
+       "text": "Członek spółdzielni może uczestniczyć w walnym zgromadzeniu osobiście albo przez pełnomocnika. Pełnomocnik nie może zastępować więcej niż jednego członka. Pełnomocnictwo powinno być udzielone na piśmie pod rygorem nieważności i dołączone do protokołu walnego zgromadzenia. Lista pełnomocnictw podlega odczytaniu po rozpoczęciu walnego zgromadzenia. Przepisu art. 36 § 3 zdanie pierwsze ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze nie stosuje się.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1²",
+       "path": "art_8³/ust_1²",
+       "text": "[^3] Pełnomocnikiem członka spółdzielni będącego osobą fizyczną może być:",
        "children": [
         {
-         "type": "text",
-         "text": "1 [3] .[^3] Do pełnomocnictwa udzielonego osobie bliskiej dołącza się oświadczenie, w którym pełnomocnik potwierdza pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, wynikającej z art. 27 [3a] , że spełnia wymóg, o którym mowa w ust. 1 [2] pkt 1. W oświadczeniu zamieszcza się klauzulę w brzmieniu: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”."
+         "type": "pkt",
+         "num": "1",
+         "path": "art_8³/ust_1²/pkt_1",
+         "text": "osoba bliska członka z wyłączeniem osób pozostających faktycznie we wspólnym pożyciu;",
+         "children": []
         },
         {
-         "type": "text",
-         "text": "[4] 3) [3] 1 . Pełnomocnictwo udzielone osobie bliskiej bez dołączonego oświadczenia, o którym mowa w ust. 1 zdanie pierwsze, jest nieważne."
+         "type": "pkt",
+         "num": "2",
+         "path": "art_8³/ust_1²/pkt_2",
+         "text": "adwokat lub radca prawny;",
+         "children": []
         },
         {
-         "type": "text",
-         "text": "1 [5] .[^3] Członek spółdzielni lub pełnomocnik jest obowiązany do doręczenia spółdzielni pełnomocnictwa, a w przypadku gdy pełnomocnikiem jest osoba bliska członka – również oświadczenia, o którym mowa w ust. 1 [3] zdanie pierwsze, niepóźniej niż 3 dni przed terminem posiedzenia walnego zgromadzenia lub jego pierwszej części."
-        },
-        {
-         "type": "text",
-         "text": "1 [6]3) . Pełnomocnik nie może brać udziału w głosowaniu, którego przedmiotem jest wybór i odwołanie członków rady nadzorczej lub członków zarządu spółdzielni."
+         "type": "pkt",
+         "num": "3",
+         "path": "art_8³/ust_1²/pkt_3",
+         "text": "inny członek tej samej spółdzielni.",
+         "children": []
         }
        ]
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Zarząd zwołuje walne zgromadzenie przynajmniej raz w roku w ciągu 6 miesięcy po upływie roku obrachunkowego.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Zarząd zwołuje walne zgromadzenie także na żądanie:",
-     "children": [
+      },
       {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_3/pkt_1",
-       "text": "rady nadzorczej;",
+       "type": "ust",
+       "num": "1³",
+       "path": "art_8³/ust_1³",
+       "text": "[^3] Do pełnomocnictwa udzielonego osobie bliskiej dołącza się oświadczenie, w którym pełnomocnik potwierdza pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, wynikającej z art. 27³ᵃ, że spełnia wymóg, o którym mowa w ust. 1² pkt 1. W oświadczeniu zamieszcza się klauzulę w brzmieniu: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”.",
        "children": []
       },
       {
-       "type": "pkt",
+       "type": "ust",
+       "num": "1⁴",
+       "path": "art_8³/ust_1⁴",
+       "text": "[^3] Pełnomocnictwo udzielone osobie bliskiej bez dołączonego oświadczenia, o którym mowa w ust. 1³ zdanie pierwsze, jest nieważne.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1⁵",
+       "path": "art_8³/ust_1⁵",
+       "text": "[^3] Członek spółdzielni lub pełnomocnik jest obowiązany do doręczenia spółdzielni pełnomocnictwa, a w przypadku gdy pełnomocnikiem jest osoba bliska członka – również oświadczenia, o którym mowa w ust. 1³ zdanie pierwsze, niepóźniej niż 3 dni przed terminem posiedzenia walnego zgromadzenia lub jego pierwszej części.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1⁶",
+       "path": "art_8³/ust_1⁶",
+       "text": "[^3] Pełnomocnik nie może brać udziału w głosowaniu, którego przedmiotem jest wybór i odwołanie członków rady nadzorczej lub członków zarządu spółdzielni.",
+       "children": []
+      },
+      {
+       "type": "ust",
        "num": "2",
-       "path": "ust_3/pkt_2",
-       "text": "przynajmniej jednej dziesiątej, niemniej jednak niż trzech członków, jeżeli uprawnienia tego nie zastrzeżono w statucie dla większej liczby członków.",
+       "path": "art_8³/ust_2",
+       "text": "Zarząd zwołuje walne zgromadzenie przynajmniej raz w roku w ciągu 6 miesięcy po upływie roku obrachunkowego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_8³/ust_3",
+       "text": "Zarząd zwołuje walne zgromadzenie także na żądanie:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_8³/ust_3/pkt_1",
+         "text": "rady nadzorczej;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_8³/ust_3/pkt_2",
+         "text": "przynajmniej jednej dziesiątej, niemniej jednak niż trzech członków, jeżeli uprawnienia tego nie zastrzeżono w statucie dla większej liczby członków.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_8³/ust_4",
+       "text": "Żądanie zwołania walnego zgromadzenia powinno być złożone pisemnie z podaniem celu jego zwołania.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_8³/ust_5",
+       "text": "W przypadku wskazanym w ust. 3 walne zgromadzenie zwołuje się w takim terminie, aby mogło się ono odbyć w ciągu czterech tygodni od dnia wniesienia żądania. Jeżeli to nie nastąpi, zwołuje je rada nadzorcza, związek rewizyjny, w którym spółdzielnia jest zrzeszona, lub Krajowa Rada Spółdzielcza, na koszt spółdzielni.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "art_8³/ust_6",
+       "text": "O czasie, miejscu i porządku obrad walnego zgromadzenia lub jego części zawiadamia się wszystkich członków na piśmie co najmniej 21 dni przed terminem posiedzenia walnego zgromadzenia lub jego pierwszej części. Zawiadomienie powinno zawierać czas, miejsce, porządek obrad oraz informację o miejscu wyłożenia wszystkich sprawozdań i projektów uchwał, które będą przedmiotem obrad oraz informację o prawie członka do zapoznania się z tymi dokumentami.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "7",
+       "path": "art_8³/ust_7",
+       "text": "Walne zgromadzenie może podejmować uchwały jedynie w sprawach objętych porządkiem obrad podanym do wiadomości członków w terminach i w sposób określony w ustawie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "8",
+       "path": "art_8³/ust_8",
+       "text": "Walne zgromadzenie jest ważne niezależnie od liczby obecnych na nim członków.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "9",
+       "path": "art_8³/ust_9",
+       "text": "Uchwałę uważa się za podjętą, jeżeli była poddana pod głosowanie wszystkich części walnego zgromadzenia, a za uchwałą opowiedziała się wymagana w ustawie lub statucie większość ogólnej liczby członków uczestniczących w walnym zgromadzeniu. Jednakże w sprawach likwidacji spółdzielni, przeznaczenia majątku pozostałego po zaspokojeniu zobowiązań likwidowanej spółdzielni, zbycia nieruchomości, zbycia zakładu lub innej wyodrębnionej jednostki organizacyjnej do podjęcia uchwały konieczne jest aby w posiedzeniach wszystkich części walnego zgromadzenia, na których uchwała była poddana pod głosowanie, uczestniczyła łącznie co najmniej połowa ogólnej liczby uprawnionych do głosowania, chyba, że statut stanowi inaczej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "10",
+       "path": "art_8³/ust_10",
+       "text": "Projekty uchwał i żądania zamieszczenia oznaczonych spraw w porządku obrad walnego zgromadzenia lub jego wszystkich części mają prawo zgłaszać: zarząd, rada nadzorcza i członkowie. Projekty uchwał, w tym uchwał przygotowanych w wyniku tych żądań, powinny być wykładane na co najmniej 14 dni przed terminem walnego zgromadzenia lub jego pierwszej części.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "11",
+       "path": "art_8³/ust_11",
+       "text": "Członkowie mają prawo zgłaszać projekty uchwał i żądania, o których mowa w ust. 10, w terminie do 15 dni przed dniem posiedzenia walnego zgromadzenia lub jego pierwszej części. Projekt uchwały zgłaszanej przez członków spółdzielni musi być poparty przez co najmniej 10 członków.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "12",
+       "path": "art_8³/ust_12",
+       "text": "Członek ma prawo zgłaszania poprawek do projektów uchwał niepóźniej niż na 3 dni przed posiedzeniem walnego zgromadzenia lub jego pierwszej części.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "13",
+       "path": "art_8³/ust_13",
+       "text": "Zarząd jest zobowiązany do przygotowania pod względem formalnym i przedłożenia pod głosowanie na walnym zgromadzeniu projektów uchwał i poprawek zgłoszonych przez członków spółdzielni.",
        "children": []
       }
      ]
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "Żądanie zwołania walnego zgromadzenia powinno być złożone pisemnie z podaniem celu jego zwołania.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "5",
-     "path": "ust_5",
-     "text": "W przypadku wskazanym w ust. 3 walne zgromadzenie zwołuje się w takim terminie, aby mogło się ono odbyć w ciągu czterech tygodni od dnia wniesienia żądania. Jeżeli to nie nastąpi, zwołuje je rada nadzorcza, związek rewizyjny, w którym spółdzielnia jest zrzeszona, lub Krajowa Rada Spółdzielcza, na koszt spółdzielni.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "6",
-     "path": "ust_6",
-     "text": "O czasie, miejscu i porządku obrad walnego zgromadzenia lub jego części zawiadamia się wszystkich członków na piśmie co najmniej 21 dni przed terminem posiedzenia walnego zgromadzenia lub jego pierwszej części. Zawiadomienie powinno zawierać czas, miejsce, porządek obrad oraz informację o miejscu wyłożenia wszystkich sprawozdań i projektów uchwał, które będą przedmiotem obrad oraz informację o prawie członka do zapoznania się z tymi dokumentami.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "7",
-     "path": "ust_7",
-     "text": "Walne zgromadzenie może podejmować uchwały jedynie w sprawach objętych porządkiem obrad podanym do wiadomości członków w terminach i w sposób określony w ustawie.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "8",
-     "path": "ust_8",
-     "text": "Walne zgromadzenie jest ważne niezależnie od liczby obecnych na nim członków.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "9",
-     "path": "ust_9",
-     "text": "Uchwałę uważa się za podjętą, jeżeli była poddana pod głosowanie wszystkich części walnego zgromadzenia, a za uchwałą opowiedziała się wymagana w ustawie lub statucie większość ogólnej liczby członków uczestniczących w walnym zgromadzeniu. Jednakże w sprawach likwidacji spółdzielni, przeznaczenia majątku pozostałego po zaspokojeniu zobowiązań likwidowanej spółdzielni, zbycia nieruchomości, zbycia zakładu lub innej wyodrębnionej jednostki organizacyjnej do podjęcia uchwały konieczne jest aby w posiedzeniach wszystkich części walnego zgromadzenia, na których uchwała była poddana pod głosowanie, uczestniczyła łącznie co najmniej połowa ogólnej liczby uprawnionych do głosowania, chyba, że statut stanowi inaczej.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "10",
-     "path": "ust_10",
-     "text": "Projekty uchwał i żądania zamieszczenia oznaczonych spraw w porządku obrad walnego zgromadzenia lub jego wszystkich części mają prawo zgłaszać: zarząd, rada nadzorcza i członkowie. Projekty uchwał, w tym uchwał przygotowanych w wyniku tych żądań, powinny być wykładane na co najmniej 14 dni przed terminem walnego zgromadzenia lub jego pierwszej części.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "11",
-     "path": "ust_11",
-     "text": "Członkowie mają prawo zgłaszać projekty uchwał i żądania, o których mowa w ust. 10, w terminie do 15 dni przed dniem posiedzenia walnego zgromadzenia lub jego pierwszej części. Projekt uchwały zgłaszanej przez członków spółdzielni musi być poparty przez co najmniej 10 członków.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "12",
-     "path": "ust_12",
-     "text": "Członek ma prawo zgłaszania poprawek do projektów uchwał niepóźniej niż na 3 dni przed posiedzeniem walnego zgromadzenia lub jego pierwszej części.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "13",
-     "path": "ust_13",
-     "text": "Zarząd jest zobowiązany do przygotowania pod względem formalnym i przedłożenia pod głosowanie na walnym zgromadzeniu projektów uchwał i poprawek zgłoszonych przez członków spółdzielni.",
-     "children": []
     },
     {
      "type": "heading",
@@ -1132,40 +1222,55 @@
        "num": "7",
        "path": "art_9/ust_7",
        "text": "Wynajmowanie lub oddawanie w bezpłatne używanie przez członka całego lub części lokalu mieszkalnego nie wymaga zgody spółdzielni, chyba że byłoby to związane ze zmianą sposobu korzystania z lokalu lub przeznaczenia lokalu bądź jego części. Jeżeli wynajęcie lub oddanie w bezpłatne używanie miałoby wpływ na wysokość opłat na rzecz spółdzielni, członek obowiązany jest do pisemnego powiadomienia spółdzielni o tej czynności.",
-       "children": [
-        {
-         "type": "text",
-         "text": "7 [1] . Umowy zawarte przez członka w sprawie korzystania z lokalu mieszkalnego lub jego części wygasają najpóźniej z chwilą wygaśnięcia spółdzielczego lokatorskiego prawa do tego lokalu."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "7¹",
+       "path": "art_9/ust_7¹",
+       "text": "Umowy zawarte przez członka w sprawie korzystania z lokalu mieszkalnego lub jego części wygasają najpóźniej z chwilą wygaśnięcia spółdzielczego lokatorskiego prawa do tego lokalu.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "8",
        "path": "art_9/ust_8",
        "text": "Jeżeli spółdzielnia, na mocy jednostronnej czynności prawnej, ustanowiła dla siebie odrębną własność lokalu mieszkalnego, przeniesienie własności lokalu mieszkalnego może nastąpić wyłącznie na rzecz członka, któremu przysługuje spółdzielcze prawo do tego lokalu.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 9 [1] . Spółdzielcze lokatorskie prawo do lokalu mieszkalnego dla lokalu mieszkalnego wybudowanego w ramach przedsięwzięcia inwestycyjno-budowlanego realizowanego przy wykorzystaniu finansowania zwrotnego, o którym mowa w przepisach ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2025 r. poz. 1273 oraz z 2026 r. poz. 39), może być ustanowione wyłącznie na rzecz osób spełniających warunki, o których mowa w art. 30 ust. 1 tej ustawy."
-        },
-        {
-         "type": "text",
-         "text": "[2] 4) [1] Art. 9 . 1. Lokale, o których mowa w art. 9 , nie mogą być wyodrębniane na własność."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "9¹",
+     "path": "art_9¹",
+     "text": "Spółdzielcze lokatorskie prawo do lokalu mieszkalnego dla lokalu mieszkalnego wybudowanego w ramach przedsięwzięcia inwestycyjno-budowlanego realizowanego przy wykorzystaniu finansowania zwrotnego, o którym mowa w przepisach ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2025 r. poz. 1273 oraz z 2026 r. poz. 39), może być ustanowione wyłącznie na rzecz osób spełniających warunki, o których mowa w art. 30 ust. 1 tej ustawy.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "9²",
+     "path": "art_9²",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_9²/ust_1",
+       "text": "[^4] Lokale, o których mowa w art. 9¹, nie mogą być wyodrębniane na własność.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_9/ust_2",
+       "path": "art_9²/ust_2",
        "text": "(uchylony)[^5]",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
-       "path": "art_9/ust_3",
+       "path": "art_9²/ust_3",
        "text": "(uchylony)[^5]",
        "children": []
       }
@@ -1254,30 +1359,41 @@
        "num": "1",
        "path": "art_11/ust_1",
        "text": "Spółdzielcze lokatorskie prawo do lokalu mieszkalnego wygasa z chwilą ustania członkostwa oraz w innych wypadkach określonych w niniejszym rozdziale.",
-       "children": [
-        {
-         "type": "text",
-         "text": "1 [1] . W przypadku zaległości z zapłatą opłat, o których mowa w art. 4 ust. 1, za okres co najmniej 6 miesięcy, rażącego lub uporczywego wykraczania osoby korzystającej z lokalu przeciwko obowiązującemu porządkowi domowemu albo niewłaściwego zachowania tej osoby czyniącego korzystanie z innych lokali lub nieruchomości wspólnej uciążliwym, spółdzielnia może w trybie procesu żądać orzeczenia przez sąd o wygaśnięciu spółdzielczego lokatorskiego prawa do lokalu mieszkalnego. Jeżeli podstawą żądania orzeczenia o wygaśnięciu spółdzielczego lokatorskiego prawa do lokalu mieszkalnego jest zaleganie z zapłatą opłat, o których mowa w art. 4 ust. 1, nie można orzec o wygaśnięciu spółdzielczego lokatorskiego prawa do tego lokalu, jeżeli najpóźniej przed zamknięciem rozprawy przed sądem pierwszej instancji, a jeżeli wniesiono apelację – przed sądem drugiej instancji członek spółdzielni uiści wszystkie zaległe opłaty."
-        },
-        {
-         "type": "text",
-         "text": "1 [2] . W przypadku gdy spółdzielcze lokatorskie prawo do lokalu mieszkalnego przysługuje małżonkom wspólnie, sąd może orzec o wygaśnięciu spółdzielczego lokatorskiego prawa do lokalu mieszkalnego wobec jednego z małżonków albo wobec obojga małżonków."
-        },
-        {
-         "type": "text",
-         "text": "1 [3] . (uchylony)"
-        },
-        {
-         "type": "text",
-         "text": "[4] [1] [2] 1 . Z chwilą gdy orzeczenie sądu, o którym mowa w ust. 1 i 1 , stanie się prawomocne, spółdzielcze lokatorskie prawo do lokalu mieszkalnego wygasa. W przypadku, o którym mowa w ust. 1 [2] , spółdzielcze lokatorskie prawo do lokalu mieszkalnego wygasa wobec jednego z małżonków albo wobec obojga małżonków."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1¹",
+       "path": "art_11/ust_1¹",
+       "text": "W przypadku zaległości z zapłatą opłat, o których mowa w art. 4 ust. 1, za okres co najmniej 6 miesięcy, rażącego lub uporczywego wykraczania osoby korzystającej z lokalu przeciwko obowiązującemu porządkowi domowemu albo niewłaściwego zachowania tej osoby czyniącego korzystanie z innych lokali lub nieruchomości wspólnej uciążliwym, spółdzielnia może w trybie procesu żądać orzeczenia przez sąd o wygaśnięciu spółdzielczego lokatorskiego prawa do lokalu mieszkalnego. Jeżeli podstawą żądania orzeczenia o wygaśnięciu spółdzielczego lokatorskiego prawa do lokalu mieszkalnego jest zaleganie z zapłatą opłat, o których mowa w art. 4 ust. 1, nie można orzec o wygaśnięciu spółdzielczego lokatorskiego prawa do tego lokalu, jeżeli najpóźniej przed zamknięciem rozprawy przed sądem pierwszej instancji, a jeżeli wniesiono apelację – przed sądem drugiej instancji członek spółdzielni uiści wszystkie zaległe opłaty.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1²",
+       "path": "art_11/ust_1²",
+       "text": "W przypadku gdy spółdzielcze lokatorskie prawo do lokalu mieszkalnego przysługuje małżonkom wspólnie, sąd może orzec o wygaśnięciu spółdzielczego lokatorskiego prawa do lokalu mieszkalnego wobec jednego z małżonków albo wobec obojga małżonków.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1³",
+       "path": "art_11/ust_1³",
+       "text": "(uchylony)",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1⁴",
+       "path": "art_11/ust_1⁴",
+       "text": "Z chwilą gdy orzeczenie sądu, o którym mowa w ust. 1¹ i 1², stanie się prawomocne, spółdzielcze lokatorskie prawo do lokalu mieszkalnego wygasa. W przypadku, o którym mowa w ust. 1², spółdzielcze lokatorskie prawo do lokalu mieszkalnego wygasa wobec jednego z małżonków albo wobec obojga małżonków.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
        "path": "art_11/ust_2",
-       "text": "W przypadku wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu mieszkalnego spółdzielnia, z zastrzeżeniem art. 15 i art. 16 [1] , ogłasza niepóźniej niż w ciągu 3 miesięcy od dnia opróżnienia lokalu, zgodnie z postanowieniami statutu, przetarg na ustanowienie odrębnej własności tego lokalu, zawiadamiając o przetargu w sposób określony w statucie oraz przez publikację ogłoszenia w prasie lokalnej. Warunkiem przeniesienia odrębnej własności lokalu jest wpłata wartości rynkowej lokalu.",
+       "text": "W przypadku wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu mieszkalnego spółdzielnia, z zastrzeżeniem art. 15 i art. 16¹, ogłasza niepóźniej niż w ciągu 3 miesięcy od dnia opróżnienia lokalu, zgodnie z postanowieniami statutu, przetarg na ustanowienie odrębnej własności tego lokalu, zawiadamiając o przetargu w sposób określony w statucie oraz przez publikację ogłoszenia w prasie lokalnej. Warunkiem przeniesienia odrębnej własności lokalu jest wpłata wartości rynkowej lokalu.",
        "children": []
       },
       {
@@ -1290,7 +1406,7 @@
          "type": "pkt",
          "num": "1",
          "path": "art_11/ust_2a/pkt_1",
-         "text": "osoba, której przysługiwało spółdzielcze lokatorskie prawo do lokalu mieszkalnego, a której prawo wygasło, zgłosi roszczenie o ponowne ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego w przypadku, o którym mowa w art. 16 [1] ;",
+         "text": "osoba, której przysługiwało spółdzielcze lokatorskie prawo do lokalu mieszkalnego, a której prawo wygasło, zgłosi roszczenie o ponowne ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego w przypadku, o którym mowa w art. 16¹;",
          "children": []
         },
         {
@@ -1298,75 +1414,103 @@
          "num": "2",
          "path": "art_11/ust_2a/pkt_2",
          "text": "osoba, o której mowa w art. 15 ust. 2, zgłosi roszczenie o ustanowienie spółdzielczego lokatorskiego prawa do tego lokalu.",
-         "children": [
-          {
-           "type": "text",
-           "text": "2 [1] . W wypadku wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu mieszkalnego spółdzielnia wypłaca osobie uprawnionej wartość rynkową tego lokalu. Przysługująca osobie uprawnionej wartość rynkowa nie może być wyższa od kwoty, jaką spółdzielnia uzyska od osoby obejmującej lokal w wyniku przetargu przeprowadzonego przez spółdzielnię zgodnie z postanowieniami statutu."
-          },
-          {
-           "type": "text",
-           "text": "2 [2] . Z wartości rynkowej lokalu potrąca się przypadającą na dany lokal część zobowiązań spółdzielni związanych z budową, o których mowa w art. 10 ust. 1 pkt 1, w tym w szczególności niewniesiony wkład mieszkaniowy. Jeżeli spółdzielnia skorzystała z pomocy uzyskanej ze środków publicznych lub z innych środków, potrąca się również nominalną kwotę umorzenia kredytu lub dotacji, w części przypadającej na ten lokal oraz kwoty zaległych opłat, o których mowa w art. 4 ust. 1, a także koszty określenia wartości rynkowej lokalu."
-          },
-          {
-           "type": "text",
-           "text": "2 [3] . Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy oraz koszty sądowe w postępowaniu wieczystoksięgowym obciążają osobę, na rzecz której spółdzielnia dokonuje przeniesienia własności lokalu."
-          },
-          {
-           "type": "text",
-           "text": "[4] 6) [1] 2 . Warunkiem wypłaty, o której mowa w ust. 2 , jest opróżnienie lokalu."
-          },
-          {
-           "type": "text",
-           "text": "2 [5] . Przepisów ust. 2 nie stosuje się do lokali mieszkalnych wybudowanych przy wykorzystaniu finansowania zwrotnego, o którym mowa w przepisach ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa. Dla takich lokali, w przypadku wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, spółdzielnia mieszkaniowa może ustanowić spółdzielcze lokatorskie prawo do lokalu mieszkalnego wyłącznie na rzecz osób spełniających warunki, o których mowa w art. 30 ust. 1 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa."
-          },
-          {
-           "type": "text",
-           "text": "2 [6] . W przypadku wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, gdy ten lokal nie podlega zbyciu w drodze przetargu na podstawie ust. 2, spółdzielnia zwraca osobie uprawnionej wniesiony wkład mieszkaniowy albo jego wniesioną część, zwaloryzowane według wartości rynkowej lokalu. W rozliczeniu tym nie uwzględnia się długu obciążającego członka spółdzielni z tytułu przypadającej na niego części zaciągniętego przez spółdzielnię kredytu na sfinansowanie kosztów budowy danego lokalu wraz z odsetkami, o którym mowa w art. 10 ust. 2."
-          },
-          {
-           "type": "text",
-           "text": "2 [7] . W przypadku, o którym mowa w ust. 2 [6] , warunkiem zwrotu wartości wkładu mieszkaniowego albo jego części jest:"
-          }
-         ]
-        },
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2¹",
+       "path": "art_11/ust_2¹",
+       "text": "W wypadku wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu mieszkalnego spółdzielnia wypłaca osobie uprawnionej wartość rynkową tego lokalu. Przysługująca osobie uprawnionej wartość rynkowa nie może być wyższa od kwoty, jaką spółdzielnia uzyska od osoby obejmującej lokal w wyniku przetargu przeprowadzonego przez spółdzielnię zgodnie z postanowieniami statutu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2²",
+       "path": "art_11/ust_2²",
+       "text": "Z wartości rynkowej lokalu potrąca się przypadającą na dany lokal część zobowiązań spółdzielni związanych z budową, o których mowa w art. 10 ust. 1 pkt 1, w tym w szczególności niewniesiony wkład mieszkaniowy. Jeżeli spółdzielnia skorzystała z pomocy uzyskanej ze środków publicznych lub z innych środków, potrąca się również nominalną kwotę umorzenia kredytu lub dotacji, w części przypadającej na ten lokal oraz kwoty zaległych opłat, o których mowa w art. 4 ust. 1, a także koszty określenia wartości rynkowej lokalu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2³",
+       "path": "art_11/ust_2³",
+       "text": "Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy oraz koszty sądowe w postępowaniu wieczystoksięgowym obciążają osobę, na rzecz której spółdzielnia dokonuje przeniesienia własności lokalu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2⁴",
+       "path": "art_11/ust_2⁴",
+       "text": "[^6] Warunkiem wypłaty, o której mowa w ust. 2¹, jest opróżnienie lokalu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2⁵",
+       "path": "art_11/ust_2⁵",
+       "text": "Przepisów ust. 2 nie stosuje się do lokali mieszkalnych wybudowanych przy wykorzystaniu finansowania zwrotnego, o którym mowa w przepisach ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa. Dla takich lokali, w przypadku wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, spółdzielnia mieszkaniowa może ustanowić spółdzielcze lokatorskie prawo do lokalu mieszkalnego wyłącznie na rzecz osób spełniających warunki, o których mowa w art. 30 ust. 1 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2⁶",
+       "path": "art_11/ust_2⁶",
+       "text": "W przypadku wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, gdy ten lokal nie podlega zbyciu w drodze przetargu na podstawie ust. 2, spółdzielnia zwraca osobie uprawnionej wniesiony wkład mieszkaniowy albo jego wniesioną część, zwaloryzowane według wartości rynkowej lokalu. W rozliczeniu tym nie uwzględnia się długu obciążającego członka spółdzielni z tytułu przypadającej na niego części zaciągniętego przez spółdzielnię kredytu na sfinansowanie kosztów budowy danego lokalu wraz z odsetkami, o którym mowa w art. 10 ust. 2.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2⁷",
+       "path": "art_11/ust_2⁷",
+       "text": "W przypadku, o którym mowa w ust. 2⁶, warunkiem zwrotu wartości wkładu mieszkaniowego albo jego części jest:",
+       "children": [
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_11/ust_2a/pkt_1",
+         "path": "art_11/ust_2⁷/pkt_1",
          "text": "wniesienie wkładu mieszkaniowego przez członka spółdzielni i zawarcie umowy o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, do którego wygasło prawo przysługujące innej osobie;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_11/ust_2a/pkt_2",
+         "path": "art_11/ust_2⁷/pkt_2",
          "text": "opróżnienie lokalu, chyba że członek spółdzielni zawierający umowę o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, do którego wygasło prawo przysługujące innej osobie, wyrazi pisemną zgodę na dokonanie wypłaty pomimo nieopróżnienia lokalu.",
-         "children": [
-          {
-           "type": "text",
-           "text": "2 [8] . W przypadku, o którym mowa w ust. 2 [7] pkt 1, z wkładu mieszkaniowego potrąca się kwoty zaległych opłat, o których mowa w art. 4 ust. 1, a także koszty określenia wartości rynkowej lokalu."
-          },
-          {
-           "type": "text",
-           "text": "2 [9] . Członek spółdzielni zawierający umowę o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, do którego wygasło prawo przysługujące innej osobie, wnosi wkład mieszkaniowy w wysokości, o której mowa w ust. 2 [6] , oraz zobowiązuje się do spłaty długu obciążającego tę osobę z tytułu przypadającej na nią części zaciągniętego przez spółdzielnię kredytu na sfinansowanie kosztów budowy danego lokalu wraz z odsetkami."
-          }
-         ]
+         "children": []
         }
        ]
+      },
+      {
+       "type": "ust",
+       "num": "2⁸",
+       "path": "art_11/ust_2⁸",
+       "text": "W przypadku, o którym mowa w ust. 2⁷ pkt 1, z wkładu mieszkaniowego potrąca się kwoty zaległych opłat, o których mowa w art. 4 ust. 1, a także koszty określenia wartości rynkowej lokalu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2⁹",
+       "path": "art_11/ust_2⁹",
+       "text": "Członek spółdzielni zawierający umowę o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, do którego wygasło prawo przysługujące innej osobie, wnosi wkład mieszkaniowy w wysokości, o której mowa w ust. 2⁶, oraz zobowiązuje się do spłaty długu obciążającego tę osobę z tytułu przypadającej na nią części zaciągniętego przez spółdzielnię kredytu na sfinansowanie kosztów budowy danego lokalu wraz z odsetkami.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "3",
        "path": "art_11/ust_3",
        "text": "Umowa o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, zawarta z inną osobą przed wygaśnięciem prawa do tego lokalu, jest nieważna.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 11 [1] . (uchylony)"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "11¹",
+     "path": "art_11¹",
+     "text": "(uchylony)",
+     "children": []
     },
     {
      "type": "art",
@@ -1392,22 +1536,30 @@
          "num": "2",
          "path": "art_12/ust_1/pkt_2",
          "text": "spłaty zadłużenia z tytułu opłat, o których mowa w art. 4 ust. 1.",
-         "children": [
-          {
-           "type": "text",
-           "text": "1 [1] . (utracił moc)[^8]"
-          },
-          {
-           "type": "text",
-           "text": "1 [2] . Spółdzielnia mieszkaniowa zawiera umowę, o której mowa w ust. 1, w terminie 6 miesięcy od dnia złożenia wniosku przez osobę uprawnioną, chyba że nieruchomość posiada nieuregulowany stan prawny w rozumieniu art. 113 ust. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami lub spółdzielni nie przysługuje prawo własności lub użytkowania wieczystego gruntu, na którym wybudowała sama budynek lub wybudowali go jej poprzednicy prawni."
-          },
-          {
-           "type": "text",
-           "text": "1 [3] . W przypadku lokalu mieszkalnego wybudowanego z udziałem kredytu udzielonego przez Bank Gospodarstwa Krajowego ze środków Krajowego Funduszu Mieszkaniowego, spłata przypadającej na ten lokal części umorzenia kredytu, o której mowa w ust. 1 pkt 1, podlega odprowadzeniu przez spółdzielnię mieszkaniową do Funduszu Dopłat, o którym mowa w ustawie z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej (Dz. U. z 2025 r. poz. 1224 oraz z 2026 r. poz. 635)."
-          }
-         ]
+         "children": []
         }
        ]
+      },
+      {
+       "type": "ust",
+       "num": "1¹",
+       "path": "art_12/ust_1¹",
+       "text": "(utracił moc)[^8]",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1²",
+       "path": "art_12/ust_1²",
+       "text": "Spółdzielnia mieszkaniowa zawiera umowę, o której mowa w ust. 1, w terminie 6 miesięcy od dnia złożenia wniosku przez osobę uprawnioną, chyba że nieruchomość posiada nieuregulowany stan prawny w rozumieniu art. 113 ust. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami lub spółdzielni nie przysługuje prawo własności lub użytkowania wieczystego gruntu, na którym wybudowała sama budynek lub wybudowali go jej poprzednicy prawni.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1³",
+       "path": "art_12/ust_1³",
+       "text": "W przypadku lokalu mieszkalnego wybudowanego z udziałem kredytu udzielonego przez Bank Gospodarstwa Krajowego ze środków Krajowego Funduszu Mieszkaniowego, spłata przypadającej na ten lokal części umorzenia kredytu, o której mowa w ust. 1 pkt 1, podlega odprowadzeniu przez spółdzielnię mieszkaniową do Funduszu Dopłat, o którym mowa w ustawie z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej (Dz. U. z 2025 r. poz. 1224 oraz z 2026 r. poz. 635).",
+       "children": []
       },
       {
        "type": "ust",
@@ -1435,30 +1587,45 @@
        "num": "5",
        "path": "art_12/ust_5",
        "text": "Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy, o której mowa w ust. 1, wynosi 1/4 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 12 [1] . 1. Statut spółdzielni może przewidywać ograniczenie możliwości przeniesienia przez spółdzielnię na inne osoby własności lokali mieszkalnych w domach dla inwalidów, osób samotnych i innych domach o specjalnym przeznaczeniu."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "12¹",
+     "path": "art_12¹",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_12¹/ust_1",
+       "text": "Statut spółdzielni może przewidywać ograniczenie możliwości przeniesienia przez spółdzielnię na inne osoby własności lokali mieszkalnych w domach dla inwalidów, osób samotnych i innych domach o specjalnym przeznaczeniu.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_12/ust_2",
+       "path": "art_12¹/ust_2",
        "text": "(uchylony)",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 12 [2] . (uchylony)"
-        },
-        {
-         "type": "text",
-         "text": "Art. 12 [3] . (uchylony)"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "12²",
+     "path": "art_12²",
+     "text": "(uchylony)",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "12³",
+     "path": "art_12³",
+     "text": "(uchylony)",
+     "children": []
     },
     {
      "type": "art",
@@ -1507,12 +1674,14 @@
        "num": "2",
        "path": "art_15/ust_2",
        "text": "W przypadku wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu mieszkalnego w następstwie śmierci uprawnionego lub w przypadkach, o których mowa w art. 11, roszczenia o zawarcie umowy o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego przysługują jego osobom bliskim.",
-       "children": [
-        {
-         "type": "text",
-         "text": "2 [1] . Umowy, o których mowa w ust. 2, zawiera się na warunkach określonych w dotychczasowej umowie o ustanowieniu spółdzielczego lokatorskiego prawa do lokalu mieszkalnego."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2¹",
+       "path": "art_15/ust_2¹",
+       "text": "Umowy, o których mowa w ust. 2, zawiera się na warunkach określonych w dotychczasowej umowie o ustanowieniu spółdzielczego lokatorskiego prawa do lokalu mieszkalnego.",
+       "children": []
       },
       {
        "type": "ust",
@@ -1539,7 +1708,7 @@
        "type": "ust",
        "num": "6",
        "path": "art_15/ust_6",
-       "text": "W wypadku wygaśnięcia roszczeń lub braku uprawnionych osób, o których mowa w ust. 3, spółdzielnia wypłaca osobie uprawnionej wartość rynkową tego lokalu ustaloną zgodnie z art. 11 ust. 2 [1] i 2 [2] .",
+       "text": "W wypadku wygaśnięcia roszczeń lub braku uprawnionych osób, o których mowa w ust. 3, spółdzielnia wypłaca osobie uprawnionej wartość rynkową tego lokalu ustaloną zgodnie z art. 11 ust. 2¹ i 2².",
        "children": []
       },
       {
@@ -1576,17 +1745,27 @@
        "num": "3",
        "path": "art_16/ust_3",
        "text": "(uchylony)",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 16 [1] . 1. Osobie, której przysługiwało spółdzielcze lokatorskie prawo do lokalu mieszkalnego, a której prawo wygasło z powodu nieuiszczania opłat związanych z eksploatacją i utrzymaniem jej lokalu lub eksploatacją i utrzymaniem nieruchomości stanowiących mienie spółdzielni, przysługuje roszczenie do spółdzielni o ponowne ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, jeżeli spłaci spółdzielni całe zadłużenie wynikające z nieuiszczania tych opłat wraz z odsetkami."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "16¹",
+     "path": "art_16¹",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_16¹/ust_1",
+       "text": "Osobie, której przysługiwało spółdzielcze lokatorskie prawo do lokalu mieszkalnego, a której prawo wygasło z powodu nieuiszczania opłat związanych z eksploatacją i utrzymaniem jej lokalu lub eksploatacją i utrzymaniem nieruchomości stanowiących mienie spółdzielni, przysługuje roszczenie do spółdzielni o ponowne ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, jeżeli spłaci spółdzielni całe zadłużenie wynikające z nieuiszczania tych opłat wraz z odsetkami.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_16/ust_2",
+       "path": "art_16¹/ust_2",
        "text": "Roszczenie, o którym mowa w ust. 1, przysługuje tylko wtedy, jeżeli wcześniej nie został ustanowiony tytuł prawny do lokalu na rzecz innej osoby. Warunkiem ustanowienia przez spółdzielnię tytułu prawnego do lokalu na rzecz innej osoby jest opróżnienie lokalu przez osobę, której spółdzielcze lokatorskie prawo do lokalu mieszkalnego wygasło.",
        "children": []
       }
@@ -1601,266 +1780,388 @@
     },
     {
      "type": "heading",
-     "label": "Rozdział 2",
-     "text": "[1] Spółdzielcze własnościowe prawo do lokalu"
+     "label": "Rozdział 2¹",
+     "text": "Spółdzielcze własnościowe prawo do lokalu"
     },
     {
-     "type": "text",
-     "text": "Art. 17 [1] . 1. (uchylony)"
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "(uchylony)",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "(uchylony)",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "(uchylony)",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "5",
-     "path": "ust_5",
-     "text": "(uchylony)",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "6",
-     "path": "ust_6",
-     "text": "Nabywca spółdzielczego własnościowego prawa do lokalu staje się członkiem spółdzielni, z zastrzeżeniem art. 3. Dotyczy to również spadkobiercy, zapisobiorcy i licytanta. Nabywca zawiadamia niezwłocznie spółdzielnię o nabyciu prawa.",
+     "type": "art",
+     "num": "17¹",
+     "path": "art_17¹",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "Art. 17 [2] . 1. Spółdzielcze własnościowe prawo do lokalu jest prawem zbywalnym, przechodzi na spadkobierców i podlega egzekucji. Jest ono ograniczonym prawem rzeczowym."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "(utracił moc)[^9]",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Zbycie spółdzielczego własnościowego prawa do lokalu obejmuje także wkład budowlany. Dopóki prawo to nie wygaśnie, zbycie samego wkładu jest nieważne.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "Umowa zbycia spółdzielczego własnościowego prawa do lokalu powinna być zawarta w formie aktu notarialnego. Wypis tego aktu notariusz przesyła niezwłocznie spółdzielni.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "5",
-     "path": "ust_5",
-     "text": "(uchylony)",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "6",
-     "path": "ust_6",
-     "text": "Przedmiotem zbycia może być ułamkowa część spółdzielczego własnościowego prawa do lokalu. Pozostałym współuprawnionym z tytułu własnościowego prawa do lokalu przysługuje prawo pierwokupu. Umowa zbycia ułamkowej części własnościowego prawa do lokalu zawarta bezwarunkowo albo bez zawiadomienia uprawnionych o zbyciu lub z podaniem im do wiadomości istotnych postanowień umowy niezgodnie z rzeczywistością jest nieważna.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 17 [3] –17 [5] . (uchylone)"
-      },
-      {
-       "type": "text",
-       "text": "Art. 17 [6] . Spółdzielnie mieszkaniowe są obowiązane prowadzić rejestr lokali, dla których zostały założone oddzielne księgi wieczyste."
-      },
-      {
-       "type": "text",
-       "text": "Art. 17 [7] . Jeżeli w wyniku ostatecznego rozliczenia kosztów budowy powstała różnica pomiędzy wysokością wstępnie ustalonego wkładu budowlanego a kosztami budowy lokalu, uprawniony albo zobowiązany z tego tytułu jest członek albo osoba niebędąca członkiem spółdzielni, którym w chwili dokonania tego rozliczenia przysługuje spółdzielcze własnościowe prawo do lokalu."
-      },
-      {
-       "type": "text",
-       "text": "Art. 17 [8] . 1. (uchylony)"
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "(uchylony)",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "(uchylony)",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 17 [9] . 1. Jeżeli spółdzielcze własnościowe prawo do lokalu przeszło na kilku spadkobierców, powinni oni, w terminie jednego roku od dnia otwarcia spadku, wyznaczyć spośród siebie pełnomocnika w celu dokonywania czynności prawnych związanych z wykonywaniem tego prawa, włącznie z zawarciem w ich imieniu umowy o przeniesienie własności lokalu. W razie bezskutecznego upływu tego terminu, na wniosek spadkobierców lub spółdzielni, sąd w postępowaniu nieprocesowym wyznaczy przedstawiciela."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "W razie śmierci jednego z małżonków, którym spółdzielcze własnościowe prawo do lokalu przysługiwało wspólnie, przepis ust. 1 stosuje się odpowiednio.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 17 [10] . W przypadku długotrwałych zaległości z zapłatą opłat, o których mowa w art. 4 ust. 1, 1 [1] i 5, rażącego lub uporczywego wykraczania osoby korzystającej z lokalu przeciwko obowiązującemu porządkowi domowemu albo niewłaściwego zachowania tej osoby czyniącego korzystanie z innych lokali lub nieruchomości wspólnej uciążliwym, przepis art. 16 ustawy z dnia 24 czerwca 1994 r. o własności lokali stosuje się odpowiednio. Z żądaniem, o którym mowa w tym przepisie, występuje zarząd spółdzielni na wniosek rady nadzorczej."
-      },
-      {
-       "type": "text",
-       "text": "Art. 17 [11] . 1. W wypadku wygaśnięcia spółdzielczego własnościowego prawa do lokalu spółdzielnia wypłaca osobie uprawnionej wartość rynkową lokalu. Przysługująca osobie uprawnionej wartość rynkowa, ustalona w sposób przewidziany w ust. 2, nie może być wyższa od kwoty, jaką spółdzielnia uzyska od osoby obejmującej lokal w wyniku przetargu przeprowadzonego przez spółdzielnię, zgodnie z postanowieniami statutu."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Z wartości rynkowej lokalu potrąca się niewniesioną przez osobę, której przysługiwało spółdzielcze własnościowe prawo do lokalu, część wkładu budowlanego, a w wypadku gdy nie został spłacony kredyt zaciągnięty przez spółdzielnię na sfinansowanie kosztów budowy danego lokalu – potrąca się kwotę niespłaconego kredytu wraz z odsetkami.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Warunkiem wypłaty wartości spółdzielczego własnościowego prawa do lokalu jest opróżnienie lokalu, o którym mowa w art. 7 ust. 1.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 17 [12] . 1. W wypadkach gdy ustawa przewiduje wygaśnięcie spółdzielczego własnościowego prawa do lokalu, prawo to, jeżeli jest obciążone hipoteką, nie wygasa, lecz przechodzi z mocy prawa na spółdzielnię."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Prawo do lokalu, nabyte w sposób określony w ust. 1, spółdzielnia powinna zbyć w drodze przetargu w terminie 6 miesięcy.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Spółdzielnia jest obowiązana uiścić osobie uprawnionej wartość nabytego prawa po potrąceniu należności wymienionych w art. 17 [11] ust. 2 oraz z tytułu obciążenia hipoteką. Obowiązek spółdzielni powstaje dopiero z chwilą zbycia prawa w drodze przetargu.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 17 [13] . Do egzekucji ze spółdzielczego własnościowego prawa do lokalu stosuje się odpowiednio przepisy o egzekucji z nieruchomości."
-      },
-      {
-       "type": "text",
-       "text": "Art. 17 [14] . 1. Na pisemne żądanie członka lub osoby niebędącej członkiem spółdzielni, którym przysługuje spółdzielcze własnościowe prawo do lokalu, spółdzielnia mieszkaniowa jest obowiązana zawrzeć umowę przeniesienia własności lokalu po dokonaniu przez niego:"
-      },
-      {
-       "type": "pkt",
+       "type": "ust",
        "num": "1",
-       "path": "ust_3/pkt_1",
-       "text": "spłaty przypadających na ten lokal części zobowiązań spółdzielni związanych z budową, w tym w szczególności odpowiedniej części zadłużenia kredytowego spółdzielni wraz z odsetkami;",
+       "path": "art_17¹/ust_1",
+       "text": "(uchylony)",
        "children": []
       },
       {
-       "type": "pkt",
+       "type": "ust",
        "num": "2",
-       "path": "ust_3/pkt_2",
-       "text": "spłaty zadłużenia z tytułu opłat, o których mowa w art. 4 ust. 1.",
+       "path": "art_17¹/ust_2",
+       "text": "(uchylony)",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_17¹/ust_3",
+       "text": "(uchylony)",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_17¹/ust_4",
+       "text": "(uchylony)",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_17¹/ust_5",
+       "text": "(uchylony)",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "art_17¹/ust_6",
+       "text": "Nabywca spółdzielczego własnościowego prawa do lokalu staje się członkiem spółdzielni, z zastrzeżeniem art. 3. Dotyczy to również spadkobiercy, zapisobiorcy i licytanta. Nabywca zawiadamia niezwłocznie spółdzielnię o nabyciu prawa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "17²",
+     "path": "art_17²",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_17²/ust_1",
+       "text": "Spółdzielcze własnościowe prawo do lokalu jest prawem zbywalnym, przechodzi na spadkobierców i podlega egzekucji. Jest ono ograniczonym prawem rzeczowym.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_17²/ust_2",
+       "text": "(utracił moc)[^9]",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_17²/ust_3",
+       "text": "Zbycie spółdzielczego własnościowego prawa do lokalu obejmuje także wkład budowlany. Dopóki prawo to nie wygaśnie, zbycie samego wkładu jest nieważne.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_17²/ust_4",
+       "text": "Umowa zbycia spółdzielczego własnościowego prawa do lokalu powinna być zawarta w formie aktu notarialnego. Wypis tego aktu notariusz przesyła niezwłocznie spółdzielni.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_17²/ust_5",
+       "text": "(uchylony)",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "art_17²/ust_6",
+       "text": "Przedmiotem zbycia może być ułamkowa część spółdzielczego własnościowego prawa do lokalu. Pozostałym współuprawnionym z tytułu własnościowego prawa do lokalu przysługuje prawo pierwokupu. Umowa zbycia ułamkowej części własnościowego prawa do lokalu zawarta bezwarunkowo albo bez zawiadomienia uprawnionych o zbyciu lub z podaniem im do wiadomości istotnych postanowień umowy niezgodnie z rzeczywistością jest nieważna.",
        "children": [
         {
          "type": "text",
-         "text": "1 [1] . Spółdzielnia mieszkaniowa zawiera umowę, o której mowa w ust. 1, w terminie 6 miesięcy od dnia złożenia wniosku przez osobę uprawnioną, chyba że nieruchomość posiada nieuregulowany stan prawny w rozumieniu art. 113 ust. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami lub spółdzielni nie przysługuje prawo własności lub użytkowania wieczystego gruntu, na którym wybudowała budynek lub wybudowali go jej poprzednicy prawni."
+         "text": "Art. 17³–17⁵. (uchylone)"
         }
        ]
       }
      ]
     },
     {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy, o której mowa w ust. 1, oraz koszty sądowe w postępowaniu wieczystoksięgowym obciążają osobę, na rzecz której spółdzielnia dokonuje przeniesienia własności lokalu.",
+     "type": "art",
+     "num": "17⁶",
+     "path": "art_17⁶",
+     "text": "Spółdzielnie mieszkaniowe są obowiązane prowadzić rejestr lokali, dla których zostały założone oddzielne księgi wieczyste.",
      "children": []
     },
     {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy, o której mowa w ust. 1, wynosi 1/4 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 17 [15] . 1. Na pisemne żądanie członka spółdzielni mieszkaniowej albo osoby niebędącej członkiem spółdzielni, którym przysługuje prawo do miejsca postojowego w wielostanowiskowym garażu, spółdzielnia jest obowiązana przenieść na te osoby ułamkowy udział we współwłasności tego garażu, przy zachowaniu zasady, jeżeli statut spółdzielni nie stanowi inaczej, że udziały przypadające na każde miejsce postojowe są równe, po dokonaniu przez nich spłat, o których mowa w art. 17 [14] ust. 1."
-      }
-     ]
+     "type": "art",
+     "num": "17⁷",
+     "path": "art_17⁷",
+     "text": "Jeżeli w wyniku ostatecznego rozliczenia kosztów budowy powstała różnica pomiędzy wysokością wstępnie ustalonego wkładu budowlanego a kosztami budowy lokalu, uprawniony albo zobowiązany z tego tytułu jest członek albo osoba niebędąca członkiem spółdzielni, którym w chwili dokonania tego rozliczenia przysługuje spółdzielcze własnościowe prawo do lokalu.",
+     "children": []
     },
     {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Koszty ustanowienia odrębnej własności wielostanowiskowego garażu stanowiącego współwłasność osób, o których mowa w ust. 1, pokrywają w odpowiednich ułamkowych częściach te osoby, zgodnie z przepisami art. 17 [14] ust. 2 i 3.",
+     "type": "art",
+     "num": "17⁸",
+     "path": "art_17⁸",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "Art. 17 [16] . 1. Wynajmowanie lub oddawanie w bezpłatne używanie przez członka albo osobę niebędącą członkiem spółdzielni, której przysługuje spółdzielcze własnościowe prawo do lokalu, całego lub części lokalu nie wymaga zgody spółdzielni, chyba że byłoby to związane ze zmianą sposobu korzystania z lokalu lub przeznaczenia lokalu bądź jego części. Jeżeli wynajęcie lub oddanie w bezpłatne używanie miałoby wpływ na wysokość opłat na rzecz spółdzielni, osoby te obowiązane są do pisemnego powiadomienia spółdzielni o tej czynności."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Umowy zawarte przez członka albo osobę niebędącą członkiem spółdzielni, której przysługuje spółdzielcze własnościowe prawo do lokalu, w sprawie korzystania z lokalu lub jego części wygasają najpóźniej z chwilą wygaśnięcia spółdzielczego prawa do tego lokalu.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 17 [17] . Jeżeli spółdzielnia, na mocy jednostronnej czynności prawnej, ustanowiła dla siebie odrębną własność lokalu, przeniesienie własności lokalu może nastąpić wyłącznie na rzecz członka, któremu przysługuje spółdzielcze własnościowe prawo do tego lokalu, albo osoby niebędącej członkiem spółdzielni, której przysługuje spółdzielcze własnościowe prawo do tego lokalu."
+       "type": "ust",
+       "num": "1",
+       "path": "art_17⁸/ust_1",
+       "text": "(uchylony)",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Art. 17 [18] . 1. Jeżeli w toku likwidacji, postępowania upadłościowego albo postępowania egzekucyjnego z nieruchomości spółdzielni, nabywcą budynku albo udziału w budynku nie będzie spółdzielnia mieszkaniowa, spółdzielcze własnościowe prawo do lokalu przekształca się w prawo odrębnej własności lokalu lub we własność domu jednorodzinnego."
+       "type": "ust",
+       "num": "2",
+       "path": "art_17⁸/ust_2",
+       "text": "(uchylony)",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_17⁸/ust_3",
+       "text": "(uchylony)",
+       "children": []
       }
      ]
     },
     {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "W wypadku nabycia budynku lub udziału w budynku przez inną spółdzielnię mieszkaniową byłemu członkowi przysługuje roszczenie o przyjęcie do tej spółdzielni.",
+     "type": "art",
+     "num": "17⁹",
+     "path": "art_17⁹",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_17⁹/ust_1",
+       "text": "Jeżeli spółdzielcze własnościowe prawo do lokalu przeszło na kilku spadkobierców, powinni oni, w terminie jednego roku od dnia otwarcia spadku, wyznaczyć spośród siebie pełnomocnika w celu dokonywania czynności prawnych związanych z wykonywaniem tego prawa, włącznie z zawarciem w ich imieniu umowy o przeniesienie własności lokalu. W razie bezskutecznego upływu tego terminu, na wniosek spadkobierców lub spółdzielni, sąd w postępowaniu nieprocesowym wyznaczy przedstawiciela.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_17⁹/ust_2",
+       "text": "W razie śmierci jednego z małżonków, którym spółdzielcze własnościowe prawo do lokalu przysługiwało wspólnie, przepis ust. 1 stosuje się odpowiednio.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "17¹⁰",
+     "path": "art_17¹⁰",
+     "text": "W przypadku długotrwałych zaległości z zapłatą opłat, o których mowa w art. 4 ust. 1, 1¹ i 5, rażącego lub uporczywego wykraczania osoby korzystającej z lokalu przeciwko obowiązującemu porządkowi domowemu albo niewłaściwego zachowania tej osoby czyniącego korzystanie z innych lokali lub nieruchomości wspólnej uciążliwym, przepis art. 16 ustawy z dnia 24 czerwca 1994 r. o własności lokali stosuje się odpowiednio. Z żądaniem, o którym mowa w tym przepisie, występuje zarząd spółdzielni na wniosek rady nadzorczej.",
      "children": []
     },
     {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Przez byłego członka, o którym mowa w ust. 2, należy rozumieć członka, którego członkostwo ustało na skutek wykreślenia spółdzielni z rejestru w związku z zakończeniem postępowania likwidacyjnego lub upadłościowego i któremu przysługiwało spółdzielcze własnościowe prawo do lokalu.",
+     "type": "art",
+     "num": "17¹¹",
+     "path": "art_17¹¹",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "[19] [1] [2] [6] [7] [9] [13] [16] [18] Art. 17 . Przepisy art. 17 ust. 6, art. 17 ust. 1, 3, 4 i 6, art. 17 , art. 17 , art. 17 –17 i art. 17 –17 stosuje się odpowiednio do miejsc postojowych w garażach wielostanowiskowych i garaży wolno stojących."
+       "type": "ust",
+       "num": "1",
+       "path": "art_17¹¹/ust_1",
+       "text": "W wypadku wygaśnięcia spółdzielczego własnościowego prawa do lokalu spółdzielnia wypłaca osobie uprawnionej wartość rynkową lokalu. Przysługująca osobie uprawnionej wartość rynkowa, ustalona w sposób przewidziany w ust. 2, nie może być wyższa od kwoty, jaką spółdzielnia uzyska od osoby obejmującej lokal w wyniku przetargu przeprowadzonego przez spółdzielnię, zgodnie z postanowieniami statutu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_17¹¹/ust_2",
+       "text": "Z wartości rynkowej lokalu potrąca się niewniesioną przez osobę, której przysługiwało spółdzielcze własnościowe prawo do lokalu, część wkładu budowlanego, a w wypadku gdy nie został spłacony kredyt zaciągnięty przez spółdzielnię na sfinansowanie kosztów budowy danego lokalu – potrąca się kwotę niespłaconego kredytu wraz z odsetkami.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_17¹¹/ust_3",
+       "text": "Warunkiem wypłaty wartości spółdzielczego własnościowego prawa do lokalu jest opróżnienie lokalu, o którym mowa w art. 7 ust. 1.",
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "17¹²",
+     "path": "art_17¹²",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_17¹²/ust_1",
+       "text": "W wypadkach gdy ustawa przewiduje wygaśnięcie spółdzielczego własnościowego prawa do lokalu, prawo to, jeżeli jest obciążone hipoteką, nie wygasa, lecz przechodzi z mocy prawa na spółdzielnię.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_17¹²/ust_2",
+       "text": "Prawo do lokalu, nabyte w sposób określony w ust. 1, spółdzielnia powinna zbyć w drodze przetargu w terminie 6 miesięcy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_17¹²/ust_3",
+       "text": "Spółdzielnia jest obowiązana uiścić osobie uprawnionej wartość nabytego prawa po potrąceniu należności wymienionych w art. 17¹¹ ust. 2 oraz z tytułu obciążenia hipoteką. Obowiązek spółdzielni powstaje dopiero z chwilą zbycia prawa w drodze przetargu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "17¹³",
+     "path": "art_17¹³",
+     "text": "Do egzekucji ze spółdzielczego własnościowego prawa do lokalu stosuje się odpowiednio przepisy o egzekucji z nieruchomości.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "17¹⁴",
+     "path": "art_17¹⁴",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_17¹⁴/ust_1",
+       "text": "Na pisemne żądanie członka lub osoby niebędącej członkiem spółdzielni, którym przysługuje spółdzielcze własnościowe prawo do lokalu, spółdzielnia mieszkaniowa jest obowiązana zawrzeć umowę przeniesienia własności lokalu po dokonaniu przez niego:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_17¹⁴/ust_1/pkt_1",
+         "text": "spłaty przypadających na ten lokal części zobowiązań spółdzielni związanych z budową, w tym w szczególności odpowiedniej części zadłużenia kredytowego spółdzielni wraz z odsetkami;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_17¹⁴/ust_1/pkt_2",
+         "text": "spłaty zadłużenia z tytułu opłat, o których mowa w art. 4 ust. 1.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "1¹",
+       "path": "art_17¹⁴/ust_1¹",
+       "text": "Spółdzielnia mieszkaniowa zawiera umowę, o której mowa w ust. 1, w terminie 6 miesięcy od dnia złożenia wniosku przez osobę uprawnioną, chyba że nieruchomość posiada nieuregulowany stan prawny w rozumieniu art. 113 ust. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami lub spółdzielni nie przysługuje prawo własności lub użytkowania wieczystego gruntu, na którym wybudowała budynek lub wybudowali go jej poprzednicy prawni.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_17¹⁴/ust_2",
+       "text": "Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy, o której mowa w ust. 1, oraz koszty sądowe w postępowaniu wieczystoksięgowym obciążają osobę, na rzecz której spółdzielnia dokonuje przeniesienia własności lokalu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_17¹⁴/ust_3",
+       "text": "Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy, o której mowa w ust. 1, wynosi 1/4 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "17¹⁵",
+     "path": "art_17¹⁵",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_17¹⁵/ust_1",
+       "text": "Na pisemne żądanie członka spółdzielni mieszkaniowej albo osoby niebędącej członkiem spółdzielni, którym przysługuje prawo do miejsca postojowego w wielostanowiskowym garażu, spółdzielnia jest obowiązana przenieść na te osoby ułamkowy udział we współwłasności tego garażu, przy zachowaniu zasady, jeżeli statut spółdzielni nie stanowi inaczej, że udziały przypadające na każde miejsce postojowe są równe, po dokonaniu przez nich spłat, o których mowa w art. 17¹⁴ ust. 1.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_17¹⁵/ust_2",
+       "text": "Koszty ustanowienia odrębnej własności wielostanowiskowego garażu stanowiącego współwłasność osób, o których mowa w ust. 1, pokrywają w odpowiednich ułamkowych częściach te osoby, zgodnie z przepisami art. 17¹⁴ ust. 2 i 3.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "17¹⁶",
+     "path": "art_17¹⁶",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_17¹⁶/ust_1",
+       "text": "Wynajmowanie lub oddawanie w bezpłatne używanie przez członka albo osobę niebędącą członkiem spółdzielni, której przysługuje spółdzielcze własnościowe prawo do lokalu, całego lub części lokalu nie wymaga zgody spółdzielni, chyba że byłoby to związane ze zmianą sposobu korzystania z lokalu lub przeznaczenia lokalu bądź jego części. Jeżeli wynajęcie lub oddanie w bezpłatne używanie miałoby wpływ na wysokość opłat na rzecz spółdzielni, osoby te obowiązane są do pisemnego powiadomienia spółdzielni o tej czynności.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_17¹⁶/ust_2",
+       "text": "Umowy zawarte przez członka albo osobę niebędącą członkiem spółdzielni, której przysługuje spółdzielcze własnościowe prawo do lokalu, w sprawie korzystania z lokalu lub jego części wygasają najpóźniej z chwilą wygaśnięcia spółdzielczego prawa do tego lokalu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "17¹⁷",
+     "path": "art_17¹⁷",
+     "text": "Jeżeli spółdzielnia, na mocy jednostronnej czynności prawnej, ustanowiła dla siebie odrębną własność lokalu, przeniesienie własności lokalu może nastąpić wyłącznie na rzecz członka, któremu przysługuje spółdzielcze własnościowe prawo do tego lokalu, albo osoby niebędącej członkiem spółdzielni, której przysługuje spółdzielcze własnościowe prawo do tego lokalu.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "17¹⁸",
+     "path": "art_17¹⁸",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_17¹⁸/ust_1",
+       "text": "Jeżeli w toku likwidacji, postępowania upadłościowego albo postępowania egzekucyjnego z nieruchomości spółdzielni, nabywcą budynku albo udziału w budynku nie będzie spółdzielnia mieszkaniowa, spółdzielcze własnościowe prawo do lokalu przekształca się w prawo odrębnej własności lokalu lub we własność domu jednorodzinnego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_17¹⁸/ust_2",
+       "text": "W wypadku nabycia budynku lub udziału w budynku przez inną spółdzielnię mieszkaniową byłemu członkowi przysługuje roszczenie o przyjęcie do tej spółdzielni.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_17¹⁸/ust_3",
+       "text": "Przez byłego członka, o którym mowa w ust. 2, należy rozumieć członka, którego członkostwo ustało na skutek wykreślenia spółdzielni z rejestru w związku z zakończeniem postępowania likwidacyjnego lub upadłościowego i któremu przysługiwało spółdzielcze własnościowe prawo do lokalu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "17¹⁹",
+     "path": "art_17¹⁹",
+     "text": "Przepisy art. 17¹ ust. 6, art. 17² ust. 1, 3, 4 i 6, art. 17⁶, art. 17⁷, art. 17⁹–17¹³ i art. 17¹⁶–17¹⁸ stosuje się odpowiednio do miejsc postojowych w garażach wielostanowiskowych i garaży wolno stojących.",
+     "children": []
     },
     {
      "type": "heading",
@@ -2068,43 +2369,53 @@
      "num": "24",
      "path": "art_24",
      "text": "Właściciel lokalu niebędący członkiem spółdzielni może zaskarżyć do sądu uchwałę walnego zgromadzenia spółdzielni w takim zakresie, w jakim dotyczy ona jego prawa odrębnej własności lokalu. Przepisy art. 42 ustawy – Prawo spółdzielcze stosuje się odpowiednio.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "24¹",
+     "path": "art_24¹",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "Art. 24 [1] . 1. Większość właścicieli lokali w budynku lub budynkach położonych w obrębie danej nieruchomości, obliczana według wielkości udziałów w nieruchomości wspólnej, może podjąć uchwałę, że w zakresie ich praw i obowiązków oraz zarządu nieruchomością wspólną będą miały zastosowanie przepisy ustawy z dnia 24 czerwca 1994 r. o własności lokali. Do podjęcia uchwały stosuje się odpowiednio przepisy tej ustawy."
+       "type": "ust",
+       "num": "1",
+       "path": "art_24¹/ust_1",
+       "text": "Większość właścicieli lokali w budynku lub budynkach położonych w obrębie danej nieruchomości, obliczana według wielkości udziałów w nieruchomości wspólnej, może podjąć uchwałę, że w zakresie ich praw i obowiązków oraz zarządu nieruchomością wspólną będą miały zastosowanie przepisy ustawy z dnia 24 czerwca 1994 r. o własności lokali. Do podjęcia uchwały stosuje się odpowiednio przepisy tej ustawy.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_24/ust_2",
+       "path": "art_24¹/ust_2",
        "text": "Uchwała, o której mowa w ust. 1, nie narusza przysługujących członkom spółdzielni spółdzielczych praw do lokali.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
-       "path": "art_24/ust_3",
-       "text": "Z chwilą ustania członkostwa właściciel lokalu staje się współwłaścicielem środków zgromadzonych na funduszu remontowym, o którym mowa w art. 6 ust. 3, w wysokości odpowiadającej przypadającemu na ten lokal udziałowi we współwłasności nieruchomości wspólnej. Wysokość tego udziału ustala się na podstawie ewidencji i rozliczenia wpływów i wydatków funduszu remontowego, o których mowa w art. 4 ust. 4 [1] pkt 2, według stanu na dzień ustania członkostwa.",
+       "path": "art_24¹/ust_3",
+       "text": "Z chwilą ustania członkostwa właściciel lokalu staje się współwłaścicielem środków zgromadzonych na funduszu remontowym, o którym mowa w art. 6 ust. 3, w wysokości odpowiadającej przypadającemu na ten lokal udziałowi we współwłasności nieruchomości wspólnej. Wysokość tego udziału ustala się na podstawie ewidencji i rozliczenia wpływów i wydatków funduszu remontowego, o których mowa w art. 4 ust. 4¹ pkt 2, według stanu na dzień ustania członkostwa.",
        "children": []
       },
       {
        "type": "ust",
        "num": "4",
-       "path": "art_24/ust_4",
+       "path": "art_24¹/ust_4",
        "text": "Przepis ust. 3 stosuje się odpowiednio do właściciela lokalu, który nie był członkiem spółdzielni.",
        "children": []
       },
       {
        "type": "ust",
        "num": "5",
-       "path": "art_24/ust_5",
+       "path": "art_24¹/ust_5",
        "text": "Spółdzielnia mieszkaniowa w przypadkach, o których mowa w ust. 1 lub w art. 26, niezwłocznie rozlicza z właścicielami lokali zaewidencjonowane wpływy i wydatki funduszu remontowego oraz pozostałe nakłady na remonty nieruchomości.",
        "children": []
       },
       {
        "type": "ust",
        "num": "6",
-       "path": "art_24/ust_6",
+       "path": "art_24¹/ust_6",
        "text": "Od dnia powstania wspólnoty mieszkaniowej właściciele lokali są obowiązani uczestniczyć w wydatkach związanych z eksploatacją i utrzymaniem nieruchomości stanowiących mienie spółdzielni, które są przeznaczone do wspólnego korzystania przez osoby zamieszkujące w określonym budynku lub osiedlu na podstawie zawartej ze spółdzielnią umowy.",
        "children": []
       }
@@ -2148,7 +2459,7 @@
        "type": "ust",
        "num": "4",
        "path": "art_26/ust_4",
-       "text": "W przypadku, o którym mowa w ust. 1, stosuje się przepisy art. 24 [1] ust. 3 i 4.",
+       "text": "W przypadku, o którym mowa w ust. 1, stosuje się przepisy art. 24¹ ust. 3 i 4.",
        "children": []
       }
      ]
@@ -2170,14 +2481,14 @@
        "type": "ust",
        "num": "2",
        "path": "art_27/ust_2",
-       "text": "Zarząd nieruchomościami wspólnymi stanowiącymi współwłasność spółdzielni jest wykonywany przez spółdzielnię jak zarząd powierzony, o którym mowa w art. 18 ust. 1 ustawy z dnia 24 czerwca 1994 r. o własności lokali, z zastrzeżeniem art. 24 [1] i art. 26. Przepisów ustawy z dnia 24 czerwca 1994 r. o własności lokali o zarządzie nieruchomością wspólną nie stosuje się, z wyjątkiem art. 22 oraz art. 29 ust. 1 i 1a, które stosuje się odpowiednio.",
+       "text": "Zarząd nieruchomościami wspólnymi stanowiącymi współwłasność spółdzielni jest wykonywany przez spółdzielnię jak zarząd powierzony, o którym mowa w art. 18 ust. 1 ustawy z dnia 24 czerwca 1994 r. o własności lokali, z zastrzeżeniem art. 24¹ i art. 26. Przepisów ustawy z dnia 24 czerwca 1994 r. o własności lokali o zarządzie nieruchomością wspólną nie stosuje się, z wyjątkiem art. 22 oraz art. 29 ust. 1 i 1a, które stosuje się odpowiednio.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
        "path": "art_27/ust_3",
-       "text": "Przepisów ustawy, o której mowa w ust. 2, o wspólnocie mieszkaniowej i zebraniu właścicieli nie stosuje się, z zastrzeżeniem ust. 2, art. 24 [1] i art. 26. Do podjęcia uchwały, o której mowa w art. 22 ust. 2 i 4 ustawy, o której mowa w ust. 2, stosuje się odpowiednio przepisy tej ustawy.",
+       "text": "Przepisów ustawy, o której mowa w ust. 2, o wspólnocie mieszkaniowej i zebraniu właścicieli nie stosuje się, z zastrzeżeniem ust. 2, art. 24¹ i art. 26. Do podjęcia uchwały, o której mowa w art. 22 ust. 2 i 4 ustawy, o której mowa w ust. 2, stosuje się odpowiednio przepisy tej ustawy.",
        "children": []
       },
       {
@@ -2192,57 +2503,68 @@
        "num": "5",
        "path": "art_27/ust_5",
        "text": "Z żądaniem, o którym mowa w art. 16 ust. 1 ustawy o własności lokali, występuje zarząd spółdzielni na wniosek większości właścicieli lokali w budynku lub budynkach położonych w obrębie danej nieruchomości.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 27 [1] . Przepisy art. 18–22, art. 23 ust. 2, art. 24, art. 24 [1] , art. 26 i art. 27 stosuje się odpowiednio do ułamkowego udziału we współwłasności garażu wielostanowiskowego."
-        }
-       ]
+       "children": []
       }
      ]
     },
     {
-     "type": "heading",
-     "label": "Rozdział 3",
-     "text": "[1]"
+     "type": "art",
+     "num": "27¹",
+     "path": "art_27¹",
+     "text": "Przepisy art. 18–22, art. 23 ust. 2, art. 24, art. 24¹, art. 26 i art. 27 stosuje się odpowiednio do ułamkowego udziału we współwłasności garażu wielostanowiskowego.",
+     "children": []
     },
     {
-     "type": "text",
+     "type": "heading",
+     "label": "Rozdział 3¹",
      "text": "Przepisy karne"
     },
     {
-     "type": "text",
-     "text": "Art. 27 [2] . (utracił moc)[^10]"
-    },
-    {
-     "type": "text",
-     "text": "Art. 27 [3] . Kto, będąc członkiem zarządu spółdzielni mieszkaniowej, pełnomocnikiem, albo likwidatorem, wbrew obowiązkowi dopuszcza do tego, że spółdzielnia:"
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "pkt_1",
-     "text": "nie udostępnia członkowi spółdzielni mieszkaniowej odpisów oraz kopii dokumentów, o których mowa w art. 8 [1] ,",
+     "type": "art",
+     "num": "27²",
+     "path": "art_27²",
+     "text": "(utracił moc)[^10]",
      "children": []
     },
     {
-     "type": "pkt",
-     "num": "2",
-     "path": "pkt_2",
-     "text": "nie rozlicza kosztów budowy lokalu w terminach, o których mowa w art. 10 ust. 3 albo art. 18 ust. 4",
+     "type": "art",
+     "num": "27³",
+     "path": "art_27³",
+     "text": "Kto, będąc członkiem zarządu spółdzielni mieszkaniowej, pełnomocnikiem, albo likwidatorem, wbrew obowiązkowi dopuszcza do tego, że spółdzielnia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_27³/pkt_1",
+       "text": "nie udostępnia członkowi spółdzielni mieszkaniowej odpisów oraz kopii dokumentów, o których mowa w art. 8¹,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_27³/pkt_2",
+       "text": "nie rozlicza kosztów budowy lokalu w terminach, o których mowa w art. 10 ust. 3 albo art. 18 ust. 4",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– podlega karze grzywny."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "27³ᵃ",
+     "path": "art_27³ᵃ",
+     "text": "[^11] Kto składa fałszywe oświadczenie, o którym mowa w art. 8³ ust. 1³ zdanie pierwsze, podlega karze grzywny.",
      "children": []
     },
     {
-     "type": "text",
-     "text": "– podlega karze grzywny."
-    },
-    {
-     "type": "text",
-     "text": "[3a] 11) [3] [3] Art. 27 . Kto składa fałszywe oświadczenie, o którym mowa w art. 8 ust. 1 zdanie pierwsze, podlega karze grzywny."
-    },
-    {
-     "type": "text",
-     "text": "[4] 12) [3] [3a] Art. 27 . W sprawach o czyny, o których mowa w art. 27 i art. 27 , orzekanie następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia."
+     "type": "art",
+     "num": "27⁴",
+     "path": "art_27⁴",
+     "text": "[^12] W sprawach o czyny, o których mowa w art. 27³ i art. 27³ᵃ, orzekanie następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.",
+     "children": []
     },
     {
      "type": "heading",
@@ -2269,38 +2591,48 @@
        "num": "1",
        "path": "art_35/ust_1",
        "text": "Spółdzielnia mieszkaniowa, która w dniu 5 grudnia 1990 r. była posiadaczem gruntów stanowiących własność Skarbu Państwa, gminy, osoby prawnej innej niż Skarb Państwa, gmina albo związek międzygminny lub osoby fizycznej oraz przed tym dniem wybudowała sama lub wybudowali jej poprzednicy prawni, budynki lub inne urządzenia trwale związane z gruntem, może żądać, aby właściciel zajętej na ten cel działki budowlanej przeniósł na nią jej własność za wynagrodzeniem. Przepis stosuje się, jeżeli przed dniem złożenia wniosku przez spółdzielnię nie została wydana decyzja o nakazie rozbiórki budynków. Przepis art. 4 pkt 3a ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami stosuje się odpowiednio.",
-       "children": [
-        {
-         "type": "text",
-         "text": "1 [1] . Jeżeli budynki spełniające warunki określone w ust. 1 położone są na kilku nieruchomościach, z których część stanowi własność spółdzielni, a część przedmiot użytkowania wieczystego, spółdzielnia może żądać nabycia własności działek znajdujących się w jej użytkowaniu wieczystym. Przepisy art. 69 i art. 69a ustawy o gospodarce nieruchomościami stosuje się odpowiednio."
-        },
-        {
-         "type": "text",
-         "text": "1 [2] . Jeżeli budynki spełniające warunki określone w ust. 1 położone są na gruncie oddanym w użytkowanie wieczyste innej osobie niż spółdzielnia mieszkaniowa będąca posiadaczem tych budynków, spółdzielnia może żądać, aby osoba ta przeniosła na nią prawo użytkowania wieczystego za wynagrodzeniem."
-        },
-        {
-         "type": "text",
-         "text": "1 [3] . Jeżeli budynki stanowiące własność spółdzielni położone są na kilku działkach gruntu, do których spółdzielni przysługuje prawo użytkowania wieczystego, a w umowach o oddanie gruntu w użytkowanie wieczyste ustalono różne terminy użytkowania wieczystego, spółdzielnia może żądać od właściciela gruntu zmiany postanowień umownych w celu ujednolicenia terminów użytkowania wieczystego poprzez przyjęcie terminu uśrednionego."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1¹",
+       "path": "art_35/ust_1¹",
+       "text": "Jeżeli budynki spełniające warunki określone w ust. 1 położone są na kilku nieruchomościach, z których część stanowi własność spółdzielni, a część przedmiot użytkowania wieczystego, spółdzielnia może żądać nabycia własności działek znajdujących się w jej użytkowaniu wieczystym. Przepisy art. 69 i art. 69a ustawy o gospodarce nieruchomościami stosuje się odpowiednio.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1²",
+       "path": "art_35/ust_1²",
+       "text": "Jeżeli budynki spełniające warunki określone w ust. 1 położone są na gruncie oddanym w użytkowanie wieczyste innej osobie niż spółdzielnia mieszkaniowa będąca posiadaczem tych budynków, spółdzielnia może żądać, aby osoba ta przeniosła na nią prawo użytkowania wieczystego za wynagrodzeniem.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1³",
+       "path": "art_35/ust_1³",
+       "text": "Jeżeli budynki stanowiące własność spółdzielni położone są na kilku działkach gruntu, do których spółdzielni przysługuje prawo użytkowania wieczystego, a w umowach o oddanie gruntu w użytkowanie wieczyste ustalono różne terminy użytkowania wieczystego, spółdzielnia może żądać od właściciela gruntu zmiany postanowień umownych w celu ujednolicenia terminów użytkowania wieczystego poprzez przyjęcie terminu uśrednionego.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
        "path": "art_35/ust_2",
        "text": "Jeżeli właścicielem działek budowlanych, o których mowa w ust. 1, jest Skarb Państwa albo jednostki samorządu terytorialnego lub ich związki, zamiast przeniesienia własności tych działek na rzecz spółdzielni działki te na wniosek spółdzielni mieszkaniowej zostają jej oddane w użytkowanie wieczyste.",
-       "children": [
-        {
-         "type": "text",
-         "text": "2 [1] . (utracił moc)[^13]"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2¹",
+       "path": "art_35/ust_2¹",
+       "text": "(utracił moc)[^13]",
+       "children": []
       },
       {
        "type": "ust",
        "num": "3",
        "path": "art_35/ust_3",
-       "text": "Wynagrodzenie z tytułu nabycia praw do działek gruntu, o których mowa w ust. 1–1 [2] , ustala się w wysokości równej wartości rynkowej tych działek, przy czym nie uwzględnia się wartości budynków i innych urządzeń, o ile zostały wybudowane lub nabyte przez spółdzielnię lub jej poprzedników prawnych. Jeżeli właścicielem zbywanych działek jest Skarb Państwa lub jednostka samorządu terytorialnego, właściwy organ może udzielić bonifikaty na zasadach określonych w przepisach o gospodarce nieruchomościami.",
+       "text": "Wynagrodzenie z tytułu nabycia praw do działek gruntu, o których mowa w ust. 1–1², ustala się w wysokości równej wartości rynkowej tych działek, przy czym nie uwzględnia się wartości budynków i innych urządzeń, o ile zostały wybudowane lub nabyte przez spółdzielnię lub jej poprzedników prawnych. Jeżeli właścicielem zbywanych działek jest Skarb Państwa lub jednostka samorządu terytorialnego, właściwy organ może udzielić bonifikaty na zasadach określonych w przepisach o gospodarce nieruchomościami.",
        "children": []
       },
       {
@@ -2308,16 +2640,21 @@
        "num": "4",
        "path": "art_35/ust_4",
        "text": "(uchylony)",
-       "children": [
-        {
-         "type": "text",
-         "text": "4 [1] . (utracił moc)[^14]"
-        },
-        {
-         "type": "text",
-         "text": "4 [2] . (uchylony)"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4¹",
+       "path": "art_35/ust_4¹",
+       "text": "(utracił moc)[^14]",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4²",
+       "path": "art_35/ust_4²",
+       "text": "(uchylony)",
+       "children": []
       },
       {
        "type": "ust",
@@ -2660,18 +2997,27 @@
        "num": "1",
        "path": "art_44/ust_1",
        "text": "(utracił moc)[^16]",
-       "children": [
-        {
-         "type": "text",
-         "text": "1 [1] . (uchylony)"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1¹",
+       "path": "art_44/ust_1¹",
+       "text": "(uchylony)",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
        "path": "art_44/ust_2",
-       "text": "(utracił moc)[^16] 2 [1] . (uchylony)",
+       "text": "(utracił moc)[^16]",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2¹",
+       "path": "art_44/ust_2¹",
+       "text": "(uchylony)",
        "children": []
       },
       {
@@ -2714,7 +3060,7 @@
        "type": "ust",
        "num": "3",
        "path": "art_45/ust_3",
-       "text": "Do księgi wieczystej prowadzonej dla ograniczonego prawa rzeczowego stosuje się art. 24 [1] ust. 2 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2025 r. poz. 341, 1669, 1792 i 1793 oraz z 2026 r. poz. 119).",
+       "text": "Do księgi wieczystej prowadzonej dla ograniczonego prawa rzeczowego stosuje się art. 24¹ ust. 2 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2025 r. poz. 341, 1669, 1792 i 1793 oraz z 2026 r. poz. 119).",
        "children": []
       }
      ]
@@ -2724,12 +3070,14 @@
      "num": "46",
      "path": "art_46",
      "text": "(uchylony)",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 46 [1] . Wpływy ze spłat przypadającej na lokal części umorzenia kredytu, o ile spółdzielnia skorzystała ze środków publicznych lub innych środków, przeznacza się na spłatę podlegającego odprowadzeniu do budżetu państwa umorzenia kredytu obciążającego ten lokal."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "46¹",
+     "path": "art_46¹",
+     "text": "Wpływy ze spłat przypadającej na lokal części umorzenia kredytu, o ile spółdzielnia skorzystała ze środków publicznych lub innych środków, przeznacza się na spłatę podlegającego odprowadzeniu do budżetu państwa umorzenia kredytu obciążającego ten lokal.",
+     "children": []
     },
     {
      "type": "art",
@@ -2779,24 +3127,33 @@
             {
              "type": "text",
              "text": "Wysokość ustalonego przez spółdzielnię wkładu budowlanego wnoszonego przez najemców nie może przekraczać 5 % aktualnej wartości rynkowej prawa odrębnej własności lokali zajmowanych przez tych najemców, jeżeli spółdzielnia nabyła budynek nieodpłatnie."
-            },
-            {
-             "type": "text",
-             "text": "1 [1] . Najemca nie jest obowiązany do spłaty kosztów poniesionych przez spółdzielnię tytułem nakładów przeznaczonych na utrzymanie budynku w takiej części, w jakiej znalazły pokrycie w otrzymanej przez spółdzielnię premii termomodernizacyjnej lub premii remontowej, o których mowa w ustawie z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2025 r. poz. 1419 i 1847 oraz z 2026 r. poz. 635)."
-            },
-            {
-             "type": "text",
-             "text": "1 [2] . Rada nadzorcza może podjąć uchwałę określającą zasady udzielania bonifikaty od kwoty, o której mowa w ust. 1 pkt 2."
-            },
-            {
-             "type": "text",
-             "text": "1 [3] . Najemca nie jest obowiązany do spłaty kosztów w takiej części, w jakiej koszty te zostały pokryte w związku z wnoszeniem świadczeń wynikających z umowy najmu."
             }
            ]
           }
          ]
         }
        ]
+      },
+      {
+       "type": "ust",
+       "num": "1¹",
+       "path": "art_48/ust_1¹",
+       "text": "Najemca nie jest obowiązany do spłaty kosztów poniesionych przez spółdzielnię tytułem nakładów przeznaczonych na utrzymanie budynku w takiej części, w jakiej znalazły pokrycie w otrzymanej przez spółdzielnię premii termomodernizacyjnej lub premii remontowej, o których mowa w ustawie z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2025 r. poz. 1419 i 1847 oraz z 2026 r. poz. 635).",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1²",
+       "path": "art_48/ust_1²",
+       "text": "Rada nadzorcza może podjąć uchwałę określającą zasady udzielania bonifikaty od kwoty, o której mowa w ust. 1 pkt 2.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1³",
+       "path": "art_48/ust_1³",
+       "text": "Najemca nie jest obowiązany do spłaty kosztów w takiej części, w jakiej koszty te zostały pokryte w związku z wnoszeniem świadczeń wynikających z umowy najmu.",
+       "children": []
       },
       {
        "type": "ust",
@@ -2838,24 +3195,34 @@
        "num": "7",
        "path": "art_48/ust_7",
        "text": "Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy, o której mowa w ust. 1, wynosi 1/4 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 48 [1] . 1. Po śmierci członka spółdzielni, który wystąpił z żądaniem przeniesienia własności lokalu określonym w art. 12, jeżeli brak jest osób uprawnionych, o których mowa w art. 15 ust. 2, jego spadkobiercy mogą żądać przeniesienia na nich własności lokalu, nawet jeżeli żaden z nich nie jest członkiem spółdzielni. W tym wypadku nie stosuje się art. 15 ust. 6 oraz uznaje się, iż wniosek o przeniesienie własności lokalu został złożony w dniu pierwszego wystąpienia z żądaniem przez członka spółdzielni."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "48¹",
+     "path": "art_48¹",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_48¹/ust_1",
+       "text": "Po śmierci członka spółdzielni, który wystąpił z żądaniem przeniesienia własności lokalu określonym w art. 12, jeżeli brak jest osób uprawnionych, o których mowa w art. 15 ust. 2, jego spadkobiercy mogą żądać przeniesienia na nich własności lokalu, nawet jeżeli żaden z nich nie jest członkiem spółdzielni. W tym wypadku nie stosuje się art. 15 ust. 6 oraz uznaje się, iż wniosek o przeniesienie własności lokalu został złożony w dniu pierwszego wystąpienia z żądaniem przez członka spółdzielni.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_48/ust_2",
-       "text": "Po śmierci członka spółdzielni albo osoby niebędącej członkiem spółdzielni, której przysługiwało spółdzielcze własnościowe prawo do lokalu, a które to osoby wystąpiły z żądaniem przeniesienia własności określonym w art. 17 [14] lub 17 [15] , ich spadkobiercy mogą żądać przeniesienia na nich własności lokalu lub udziału we współwłasności garażu. W tym przypadku uznaje się, iż wniosek o przeniesienie własności lokalu został złożony w dniu pierwszego wystąpienia z żądaniem przez członka spółdzielni lub osobę niebędącą członkiem spółdzielni, której przysługiwało spółdzielcze własnościowe prawo do lokalu.",
+       "path": "art_48¹/ust_2",
+       "text": "Po śmierci członka spółdzielni albo osoby niebędącej członkiem spółdzielni, której przysługiwało spółdzielcze własnościowe prawo do lokalu, a które to osoby wystąpiły z żądaniem przeniesienia własności określonym w art. 17¹⁴ lub 17¹⁵, ich spadkobiercy mogą żądać przeniesienia na nich własności lokalu lub udziału we współwłasności garażu. W tym przypadku uznaje się, iż wniosek o przeniesienie własności lokalu został złożony w dniu pierwszego wystąpienia z żądaniem przez członka spółdzielni lub osobę niebędącą członkiem spółdzielni, której przysługiwało spółdzielcze własnościowe prawo do lokalu.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
-       "path": "art_48/ust_3",
+       "path": "art_48¹/ust_3",
        "text": "Po śmierci najemcy, który wystąpił z żądaniem przeniesienia własności określonym w art. 39 i 48, jeżeli brak jest osób, które wstępują w stosunek najmu na podstawie art. 691 Kodeksu cywilnego, jego spadkobiercy mogą żądać przeniesienia na nich własności lokalu, nawet jeżeli żaden z nich nie jest członkiem spółdzielni. W tym przypadku uznaje się, iż wniosek o przeniesienie własności lokalu został złożony w dniu pierwszego wystąpienia z żądaniem przez najemcę.",
        "children": []
       }
@@ -2879,16 +3246,19 @@
        "num": "2",
        "path": "art_49/ust_2",
        "text": "Postępowanie toczy się według przepisów Kodeksu postępowania cywilnego o zniesieniu współwłasności, z wyjątkiem art. 625. Koszty sądowe postępowania ponosi spółdzielnia.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 49 [1] .[^19] Jeżeli spółdzielnia uchyla się jedynie od złożenia oświadczenia woli o ustanowieniu albo przeniesieniu odrębnej własności lokalu na rzecz osoby, o której mowa w art. 49 ust. 1, osoba ta może wystąpić do sądu z powództwem o zobowiązanie spółdzielni do złożenia odpowiedniego oświadczenia woli."
-        },
-        {
-         "type": "text",
-         "text": "Art. 50–51. (uchylone)"
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "49¹",
+     "path": "art_49¹",
+     "text": "[^19] Jeżeli spółdzielnia uchyla się jedynie od złożenia oświadczenia woli o ustanowieniu albo przeniesieniu odrębnej własności lokalu na rzecz osoby, o której mowa w art. 49 ust. 1, osoba ta może wystąpić do sądu z powództwem o zobowiązanie spółdzielni do złożenia odpowiedniego oświadczenia woli.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 50–51. (uchylone)"
       }
      ]
     },
@@ -2896,7 +3266,7 @@
      "type": "art",
      "num": "52",
      "path": "art_52",
-     "text": "Do istniejących w dniu wejścia ustawy w życie praw do domów jednorodzinnych i lokali mieszkalnych budowanych w celu przeniesienia ich własności na rzecz członków stosuje się odpowiednio przepisy rozdziału 2 [1] ustawy. Do czasu przeniesienia własności na rzecz członka spółdzielni mają zastosowanie zasady:",
+     "text": "Do istniejących w dniu wejścia ustawy w życie praw do domów jednorodzinnych i lokali mieszkalnych budowanych w celu przeniesienia ich własności na rzecz członków stosuje się odpowiednio przepisy rozdziału 2¹ ustawy. Do czasu przeniesienia własności na rzecz członka spółdzielni mają zastosowanie zasady:",
      "children": [
       {
        "type": "pkt",
@@ -2975,22 +3345,38 @@
        "num": "2",
        "path": "art_54/ust_2",
        "text": "Do czasu zarejestrowania zmian statutów postanowienia dotychczasowych statutów pozostają w mocy. Jednakże w razie sprzeczności między nimi a przepisami niniejszej ustawy stosuje się przepisy tej ustawy.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 54 [1] . 1. Przepisy ustawy stosuje się odpowiednio do spółdzielni mieszkaniowych będących w likwidacji lub w upadłości."
-        },
-        {
-         "type": "text",
-         "text": "[14] [15] [1] 2. Pisemne żądania, o których mowa w art. 12, 17 , 17 , 39, 48 i 48 , składane są w wypadkach, o których mowa w ust. 1, do likwidatora lub syndyka masy upadłościowej spółdzielni."
-        },
-        {
-         "type": "text",
-         "text": "Art. 54 [2] .[^20] Przepisu art. 38 § 1 pkt 5 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze nie stosuje się do ustanawiania prawa odrębnej własności lokali i przeniesienia własności lokali, domów jednorodzinnych oraz miejsc postojowych w garażach wielostanowiskowych."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "54¹",
+     "path": "art_54¹",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_54¹/ust_1",
+       "text": "Przepisy ustawy stosuje się odpowiednio do spółdzielni mieszkaniowych będących w likwidacji lub w upadłości.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_54¹/ust_2",
+       "text": "Pisemne żądania, o których mowa w art. 12, 17¹⁴, 17¹⁵, 39, 48 i 48¹, składane są w wypadkach, o których mowa w ust. 1, do likwidatora lub syndyka masy upadłościowej spółdzielni.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "54²",
+     "path": "art_54²",
+     "text": "[^20] Przepisu art. 38 § 1 pkt 5 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze nie stosuje się do ustanawiania prawa odrębnej własności lokali i przeniesienia własności lokali, domów jednorodzinnych oraz miejsc postojowych w garażach wielostanowiskowych.",
+     "children": []
     },
     {
      "type": "art",

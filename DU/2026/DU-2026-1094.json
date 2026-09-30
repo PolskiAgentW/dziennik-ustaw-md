@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1094",
  "title": "Rozporządzenie Ministra Finansów i Gospodarki z dnia 6 sierpnia 2026 r. zmieniające rozporządzenie w sprawie ewidencji gruntów i budynków",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1094/text.pdf",
  "body": [
   {
@@ -391,8 +391,16 @@
      "type": "ust",
      "num": "11",
      "path": "ust_11",
-     "text": "Zasady zapisu przeznaczenia w MPZP w odpowiedzi GetFeatureInfo. 1) W odpowiedzi GetFeatureInfo element DZI_PRZEZN_WMPZP występuje co najwyżej raz (0..1). 2) Jeżeli dla działki występuje więcej niż jedno przeznaczenie w MPZP, wartości są przekazywane w jednej wartości elementu DZI_PRZEZN_WMPZP rozdzielone średnikiem. 3) Wzorzec zapisu wartości elementu DZI_PRZEZN_WMPZP: ^[A-Za-z]+(?:;[A-Za-z]+)*$",
-     "children": []
+     "text": "Zasady zapisu przeznaczenia w MPZP w odpowiedzi GetFeatureInfo. 1) W odpowiedzi GetFeatureInfo element DZI_PRZEZN_WMPZP występuje co najwyżej raz (0..1).",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_11/pkt_2",
+       "text": "Jeżeli dla działki występuje więcej niż jedno przeznaczenie w MPZP, wartości są przekazywane w jednej wartości elementu DZI_PRZEZN_WMPZP rozdzielone średnikiem. 3) Wzorzec zapisu wartości elementu DZI_PRZEZN_WMPZP: ^[A-Za-z]+(?:;[A-Za-z]+)*$",
+       "children": []
+      }
+     ]
     },
     {
      "type": "ust",

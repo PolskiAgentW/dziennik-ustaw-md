@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/451",
  "title": "Obwieszczenie Ministra Zdrowia z dnia 21 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie świadczeń gwarantowanych z zakresu świadczeń wysokospecjalistycznych oraz warunków ich realizacji",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/451/text.pdf",
  "body": [
   {
@@ -626,7 +626,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_3/pkt_3/lit_a",
-         "text": "ciężka dysfunkcja prawej komory łącznie z ciężką niedomykalnością zastawki trójdzielnej, b) istotna nieodwracalna niewydolność wątroby lub nerek,",
+         "text": "ciężka dysfunkcja prawej komory łącznie z ciężką niedomykalnością zastawki trójdzielnej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_3/lit_b",
+         "text": "istotna nieodwracalna niewydolność wątroby lub nerek,",
          "children": []
         },
         {
@@ -647,7 +654,14 @@
          "type": "lit",
          "num": "e",
          "path": "ust_3/pkt_3/lit_e",
-         "text": "przewidywane przeżycie z powodu innych chorób niż niewydolność serca poniżej 3 lat, f) istotna przewlekła obturacyjna choroba płuc,",
+         "text": "przewidywane przeżycie z powodu innych chorób niż niewydolność serca poniżej 3 lat,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_3/pkt_3/lit_f",
+         "text": "istotna przewlekła obturacyjna choroba płuc,",
          "children": []
         },
         {
@@ -754,7 +768,14 @@
          "type": "lit",
          "num": "e",
          "path": "ust_4/pkt_1/lit_e",
-         "text": "biochemia: kreatynina, bilirubina, mocznik, białko, Na, K, Mg, ALB, Aspat, Alat, GGT, f) inne badania: CRP, NT-proBNP, GFR-K, GFR-C,",
+         "text": "biochemia: kreatynina, bilirubina, mocznik, białko, Na, K, Mg, ALB, Aspat, Alat, GGT,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_4/pkt_1/lit_f",
+         "text": "inne badania: CRP, NT-proBNP, GFR-K, GFR-C,",
          "children": []
         },
         {

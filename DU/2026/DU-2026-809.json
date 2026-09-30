@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/809",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 czerwca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o komercjalizacji i niektórych uprawnieniach pracowników",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/809/text.pdf",
  "body": [
   {
@@ -133,7 +133,7 @@
        "type": "pkt",
        "num": "3",
        "path": "art_2/pkt_3",
-       "text": "przedsiębiorstwie – rozumie się przez to przedsiębiorstwo w znaczeniu określonym w art. 55 [1] Kodeksu cywilnego;",
+       "text": "przedsiębiorstwie – rozumie się przez to przedsiębiorstwo w znaczeniu określonym w art. 55¹ Kodeksu cywilnego;",
        "children": []
       },
       {
@@ -181,7 +181,7 @@
          "type": "lit",
          "num": "d",
          "path": "art_2/pkt_5/lit_d",
-         "text": "osoby, które po przepracowaniu dziesięciu lat w przedsiębiorstwie państwowym podlegającym prywatyzacji oraz jego poprzedniku, zostały przejęte przez inne zakłady pracy w trybie art. 23 [1] Kodeksu pracy;",
+         "text": "osoby, które po przepracowaniu dziesięciu lat w przedsiębiorstwie państwowym podlegającym prywatyzacji oraz jego poprzedniku, zostały przejęte przez inne zakłady pracy w trybie art. 23¹ Kodeksu pracy;",
          "children": []
         }
        ]
@@ -572,7 +572,7 @@
        "type": "ust",
        "num": "2",
        "path": "art_5/ust_2",
-       "text": "Do akcji Skarbu Państwa nie stosuje się przepisów art. 21 [11] , art. 199 i art. 359 w zakresie dotyczącym umorzenia przymusowego oraz art. 418 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96 oraz z 2026 r. poz. 176, 187 i 644).",
+       "text": "Do akcji Skarbu Państwa nie stosuje się przepisów art. 21¹¹, art. 199 i art. 359 w zakresie dotyczącym umorzenia przymusowego oraz art. 418 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96 oraz z 2026 r. poz. 176, 187 i 644).",
        "children": []
       },
       {
@@ -1484,20 +1484,28 @@
        "num": "1a",
        "path": "art_56/ust_1a",
        "text": "(uchylony)",
-       "children": [
-        {
-         "type": "text",
-         "text": "1a [1] . (uchylony)"
-        },
-        {
-         "type": "text",
-         "text": "1a [2] . (uchylony)"
-        },
-        {
-         "type": "text",
-         "text": "1a [3] . (uchylony)"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1a¹",
+       "path": "art_56/ust_1a¹",
+       "text": "(uchylony)",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1a²",
+       "path": "art_56/ust_1a²",
+       "text": "(uchylony)",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1a³",
+       "path": "art_56/ust_1a³",
+       "text": "(uchylony)",
+       "children": []
       },
       {
        "type": "ust",
@@ -1575,35 +1583,43 @@
        "num": "4d",
        "path": "art_56/ust_4d",
        "text": "(uchylony)",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4d¹",
+       "path": "art_56/ust_4d¹",
+       "text": "Środki Funduszu, o którym mowa w ust. 1, mogą być przeznaczone na udzielanie przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw aktywów państwowych pożyczek na rzecz:",
        "children": [
-        {
-         "type": "text",
-         "text": "4d [1] . Środki Funduszu, o którym mowa w ust. 1, mogą być przeznaczone na udzielanie przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw aktywów państwowych pożyczek na rzecz:"
-        },
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_56/ust_4d/pkt_1",
+         "path": "art_56/ust_4d¹/pkt_1",
          "text": "spółek z udziałem Skarbu Państwa lub państwowej osoby prawnej, w których ponad połowa akcji albo udziałów należy do Skarbu Państwa lub innych państwowych osób prawnych;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_56/ust_4d/pkt_2",
+         "path": "art_56/ust_4d¹/pkt_2",
          "text": "przedsiębiorców, w stosunku do których osoby, o których mowa w pkt 1, są przedsiębiorcami dominującymi, w rozumieniu art. 4 pkt 3 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów.",
-         "children": [
-          {
-           "type": "text",
-           "text": "4d [2] . Oprocentowanie pożyczek nie może być niższe niż maksymalna stawka oprocentowania środków przyjętych w depozyt przez Ministra Finansów określona według przepisów wydanych na podstawie art. 78g ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426, 635 i 680) powiększona o jeden punkt procentowy."
-          },
-          {
-           "type": "text",
-           "text": "[3] [1] [2] 4d . W przypadku udzielenia pożyczki zgodnie z ust. 4d i 4d , na rachunku Funduszu, o którym mowa w ust. 1, gromadzi się całość dochodów z tytułu odsetek oraz przychodów z tytułu spłaty pożyczek."
-          }
-         ]
+         "children": []
         }
        ]
+      },
+      {
+       "type": "ust",
+       "num": "4d²",
+       "path": "art_56/ust_4d²",
+       "text": "Oprocentowanie pożyczek nie może być niższe niż maksymalna stawka oprocentowania środków przyjętych w depozyt przez Ministra Finansów określona według przepisów wydanych na podstawie art. 78g ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426, 635 i 680) powiększona o jeden punkt procentowy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4d³",
+       "path": "art_56/ust_4d³",
+       "text": "W przypadku udzielenia pożyczki zgodnie z ust. 4d¹ i 4d², na rachunku Funduszu, o którym mowa w ust. 1, gromadzi się całość dochodów z tytułu odsetek oraz przychodów z tytułu spłaty pożyczek.",
+       "children": []
       },
       {
        "type": "ust",
@@ -1664,7 +1680,7 @@
          "type": "pkt",
          "num": "3",
          "path": "art_56/ust_6/pkt_3",
-         "text": "udzielania pożyczek, o których mowa w ust. 4d [1]",
+         "text": "udzielania pożyczek, o których mowa w ust. 4d¹",
          "children": []
         },
         {
@@ -2081,7 +2097,7 @@
        "type": "ust",
        "num": "1a",
        "path": "art_69h/ust_1a",
-       "text": "W roku 2025 obejmowanie akcji przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw aktywów państwowych, może być dokonywane poprzez konwersję wierzytelności Funduszu, o którym mowa w art. 56 ust. 1, z tytułu udzielonych pożyczek, o których mowa w art. 56 ust. 4d [1] .",
+       "text": "W roku 2025 obejmowanie akcji przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw aktywów państwowych, może być dokonywane poprzez konwersję wierzytelności Funduszu, o którym mowa w art. 56 ust. 1, z tytułu udzielonych pożyczek, o których mowa w art. 56 ust. 4d¹.",
        "children": []
       },
       {

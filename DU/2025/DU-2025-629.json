@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/629",
  "title": "Obwieszczenie Ministra Zdrowia z dnia 5 maja 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie programu pilotażowego w zakresie kompleksowej opieki specjalistycznej nad świadczeniobiorcami leczonymi z powodu otyłości olbrzymiej KOS-BAR",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/629/text.pdf",
  "body": [
   {
@@ -1648,8 +1648,37 @@
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "ocena przedoperacyjna: a) chirurg, anestezjolog, pielęgniarka, dietetyk, b) porady dietetyczne, c) badania krwi, EKG, nieinwazyjna ocena EtCO₂ (mierzenie końcowo-wydechowego CO₂), gastroskopia lub badanie radiologiczne górnego odcinka przewodu pokarmowego, d) multidyscyplinarna ocena końcowa (anestezjolog, chirurg i pielęgniarka), e) wyrażenie przez świadczeniobiorcę zgody na operację, f) przedoperacyjna terapia z zastosowaniem CPAP, co najmniej przez okres jednego miesiąca przed operacją u chorych z ciężkimi postaciami bezdechu sennego",
-     "children": []
+     "text": "ocena przedoperacyjna: a) chirurg, anestezjolog, pielęgniarka, dietetyk,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_3/lit_b",
+       "text": "porady dietetyczne,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_3/lit_c",
+       "text": "badania krwi, EKG, nieinwazyjna ocena EtCO₂ (mierzenie końcowo-wydechowego CO₂), gastroskopia lub badanie radiologiczne górnego odcinka przewodu pokarmowego, d) multidyscyplinarna ocena końcowa (anestezjolog, chirurg i pielęgniarka),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "pkt_3/lit_e",
+       "text": "wyrażenie przez świadczeniobiorcę zgody na operację,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "pkt_3/lit_f",
+       "text": "przedoperacyjna terapia z zastosowaniem CPAP, co najmniej przez okres jednego miesiąca przed operacją u chorych z ciężkimi postaciami bezdechu sennego",
+       "children": []
+      }
+     ]
     },
     {
      "type": "pkt",
@@ -2596,7 +2625,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_3/pkt_1/lit_a",
-         "text": "odsetek śmiertelności świadczeniobiorców podczas trwania programu pilotażowego [%], b) śmiertelność w ciągu 30 dni od daty zabiegu [%],",
+         "text": "odsetek śmiertelności świadczeniobiorców podczas trwania programu pilotażowego [%],",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_1/lit_b",
+         "text": "śmiertelność w ciągu 30 dni od daty zabiegu [%],",
          "children": []
         },
         {

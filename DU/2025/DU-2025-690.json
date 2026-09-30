@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/690",
  "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 maja 2025 r. zmieniające rozporządzenie w sprawie liczby punktów, jaką przypisuje się stwierdzonej niezgodności, oraz procentowej wielkości kary administracyjnej w zależności od liczby punktów przypisanych stwierdzonym niezgodnościom",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/690/text.pdf",
  "body": [
   {
@@ -48,18 +48,76 @@
         },
         {
          "type": "text",
-         "text": "Nie przestrzega się na 2a.1. Stwierdzono, że rolnik na 1 pkt 1 pkt torfowiskach i obszarach torfowisku lub obszarze 3 pkt 3 pkt 3 pkt podmokłych określonych podmokłym określonych 5 pkt w przepisach wydanych na w przepisach wydanych na podstawie art. 56 ust. 8 pkt 2 podstawie art. 56 ust. 8 pkt 2 ustawy, w przypadku gdy ustawy, w przypadku gdy to stanowią one: torfowisko lub ten obszar 1) trwałe użytki zielone, stanowią: zakazu: 1) trwały użytek zielony – a) ich przekształcania dokonał jego przekształcenia i zaorywania, z wyłączeniem lub zaorania, z wyjątkiem możliwości wykonania zabiegu wykonania zabiegu renowacji renowacji z zastosowaniem z zastosowaniem płytkiej płytkiej uprawy gleby uprawy gleby i podsiewu nie i podsiewu nie częściej niż raz częściej niż raz na 4 lata; na 4 lata, 2) grunt orny – dokonał jego b) wydobywania z nich torfu, zaorania, z wyłączeniem c) budowy na nich płytkiej uprawy gleby do i odnawiania rowów i instalacji głębokości 15 cm."
-        },
-        {
-         "type": "text",
-         "text": "drenujących do odwadniania 2a.2. Stwierdzono, że rolnik na 1 pkt lub odprowadzania wody torfowisku lub obszarze 3 pkt 3 pkt 3 pkt z terenu; podmokłym określonych 5 pkt 5 pkt 2) grunty orne, zakazu: w przepisach wydanych na a) ich zaorywania, podstawie art. 56 ust. 8 pkt 2 z wyłączeniem możliwości ustawy, w przypadku gdy to płytkiej uprawy gleby do torfowisko lub ten obszar głębokości 15 cm, stanowią trwały użytek zielony b) wydobywania z nich torfu, albo grunt orny – wydobywał c) budowy na nich z niego torf. i odnawiania rowów i instalacji drenujących do odwadniania 2a.3. Stwierdzono, że rolnik na 1 pkt 1 pkt 1 pkt lub odprowadzania wody torfowisku lub obszarze 3 pkt 3 pkt z terenu. podmokłym określonych w przepisach wydanych na podstawie art. 56 ust. 8 pkt 2 ustawy, w przypadku gdy to torfowisko lub ten obszar stanowią grunt orny albo trwały użytek zielony – wybudował na nim lub odnowił rów lub instalację drenującą do odwadniania lub odprowadzania wody z terenu."
+         "text": "Nie przestrzega się na 2a.1. Stwierdzono, że rolnik na 1 pkt 1 pkt torfowiskach i obszarach torfowisku lub obszarze 3 pkt 3 pkt 3 pkt podmokłych określonych podmokłym określonych 5 pkt w przepisach wydanych na w przepisach wydanych na podstawie art. 56 ust. 8 pkt 2 podstawie art. 56 ust. 8 pkt 2 ustawy, w przypadku gdy ustawy, w przypadku gdy to stanowią one: torfowisko lub ten obszar"
         }
        ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "trwałe użytki zielone, stanowią: zakazu: 1) trwały użytek zielony –",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "ich przekształcania dokonał jego przekształcenia i zaorywania, z wyłączeniem lub zaorania, z wyjątkiem możliwości wykonania zabiegu wykonania zabiegu renowacji renowacji z zastosowaniem z zastosowaniem płytkiej płytkiej uprawy gleby uprawy gleby i podsiewu nie i podsiewu nie częściej niż raz częściej niż raz na 4 lata; na 4 lata, 2) grunt orny – dokonał jego",
+       "children": []
       },
       {
        "type": "lit",
        "num": "b",
        "path": "par_1/pkt_1/lit_b",
+       "text": "wydobywania z nich torfu, zaorania, z wyłączeniem",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_1/lit_c",
+       "text": "budowy na nich płytkiej uprawy gleby do i odnawiania rowów i instalacji głębokości 15 cm.",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "drenujących do odwadniania 2a.2. Stwierdzono, że rolnik na 1 pkt lub odprowadzania wody torfowisku lub obszarze 3 pkt 3 pkt 3 pkt z terenu; podmokłym określonych 5 pkt 5 pkt"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "grunty orne, zakazu: w przepisach wydanych na",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "ich zaorywania, podstawie art. 56 ust. 8 pkt 2 z wyłączeniem możliwości ustawy, w przypadku gdy to płytkiej uprawy gleby do torfowisko lub ten obszar głębokości 15 cm, stanowią trwały użytek zielony",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "wydobywania z nich torfu, albo grunt orny – wydobywał",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_2/lit_c",
+       "text": "budowy na nich z niego torf. i odnawiania rowów i instalacji drenujących do odwadniania 2a.3. Stwierdzono, że rolnik na 1 pkt 1 pkt 1 pkt lub odprowadzania wody torfowisku lub obszarze 3 pkt 3 pkt z terenu. podmokłym określonych w przepisach wydanych na podstawie art. 56 ust. 8 pkt 2 ustawy, w przypadku gdy to torfowisko lub ten obszar stanowią grunt orny albo trwały użytek zielony – wybudował na nim lub odnowił rów lub instalację drenującą do odwadniania lub odprowadzania wody z terenu.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
        "text": "w odnośniku nr 1 po pkt 2 dodaje się pkt 2a–2c w brzmieniu:",
        "children": [
         {
@@ -92,7 +150,7 @@
       {
        "type": "lit",
        "num": "c",
-       "path": "par_1/pkt_1/lit_c",
+       "path": "par_1/pkt_2/lit_c",
        "text": "w odnośniku nr 2 po pkt 2 dodaje się pkt 2a–2c w brzmieniu:",
        "children": [
         {
@@ -155,7 +213,7 @@
       {
        "type": "lit",
        "num": "d",
-       "path": "par_1/pkt_1/lit_d",
+       "path": "par_1/pkt_2/lit_d",
        "text": "w odnośniku nr 3 po pkt 2 dodaje się pkt 2a–2c w brzmieniu:",
        "children": [
         {

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/228",
  "title": "Obwieszczenie Ministra Zdrowia z dnia 16 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie standardu organizacyjnego opieki zdrowotnej w dziedzinie anestezjologii i intensywnej terapii",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/228/text.pdf",
  "body": [
   {
@@ -1108,7 +1108,36 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "aparat do znieczulenia ogólnego z respiratorem anestetycznym; aparaturę anestezjologiczną stanowiska znieczulenia ogólnego z zastosowaniem sztucznej wentylacji płuc wyposaża się także w: a) alarm nadmiernego ciśnienia w układzie oddechowym, b) alarm rozłączenia w układzie oddechowym, c) urządzenie ciągłego pomiaru częstości oddychania, d) urządzenie ciągłego pomiaru objętości oddechowych; 2) worek samorozprężalny i rurki ustno-gardłowe; 3) źródło tlenu, powietrza i próżni;",
+     "text": "aparat do znieczulenia ogólnego z respiratorem anestetycznym; aparaturę anestezjologiczną stanowiska znieczulenia ogólnego z zastosowaniem sztucznej wentylacji płuc wyposaża się także w: a) alarm nadmiernego ciśnienia w układzie oddechowym,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_1/lit_b",
+       "text": "alarm rozłączenia w układzie oddechowym,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_1/lit_c",
+       "text": "urządzenie ciągłego pomiaru częstości oddychania,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "pkt_1/lit_d",
+       "text": "urządzenie ciągłego pomiaru objętości oddechowych; 2) worek samorozprężalny i rurki ustno-gardłowe;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "źródło tlenu, powietrza i próżni;",
      "children": []
     },
     {
@@ -1122,14 +1151,35 @@
      "type": "pkt",
      "num": "5",
      "path": "pkt_5",
-     "text": "zestaw do intubacji dotchawicznej z rurkami intubacyjnymi i dwoma laryngoskopami; 6) defibrylator z możliwością wykonania kardiowersji i elektrostymulacji – co najmniej 1 na zespół połączonych ze sobą stanowisk znieczulenia lub wyodrębnioną salę operacyjną; 7) wyciąg gazów anestetycznych;",
+     "text": "zestaw do intubacji dotchawicznej z rurkami intubacyjnymi i dwoma laryngoskopami;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "defibrylator z możliwością wykonania kardiowersji i elektrostymulacji – co najmniej 1 na zespół połączonych ze sobą stanowisk znieczulenia lub wyodrębnioną salę operacyjną; 7) wyciąg gazów anestetycznych;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "8",
      "path": "pkt_8",
-     "text": "zasilanie elektryczne z systemem awaryjnym; 9) znormalizowany stolik (wózek) anestezjologiczny; 10) źródło światła;",
+     "text": "zasilanie elektryczne z systemem awaryjnym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "znormalizowany stolik (wózek) anestezjologiczny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "źródło światła;",
      "children": []
     },
     {
@@ -1143,7 +1193,14 @@
      "type": "pkt",
      "num": "12",
      "path": "pkt_12",
-     "text": "fonendoskop lub dla dzieci stetoskop przedsercowy; 13) aparat do pomiaru ciśnienia krwi;",
+     "text": "fonendoskop lub dla dzieci stetoskop przedsercowy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "pkt_13",
+     "text": "aparat do pomiaru ciśnienia krwi;",
      "children": []
     },
     {
@@ -1164,7 +1221,14 @@
      "type": "pkt",
      "num": "16",
      "path": "pkt_16",
-     "text": "monitor stężenia tlenu w układzie anestetycznym z alarmem wartości granicznych; 17) kardiomonitor;",
+     "text": "monitor stężenia tlenu w układzie anestetycznym z alarmem wartości granicznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "pkt_17",
+     "text": "kardiomonitor;",
      "children": []
     },
     {
@@ -1178,14 +1242,56 @@
      "type": "pkt",
      "num": "19",
      "path": "pkt_19",
-     "text": "monitor zwiotczenia mięśniowego – 1 na stanowisko znieczulenia; 20) monitor gazów anestetycznych – 1 na stanowisko znieczulenia; 21) sprzęt do inwazyjnego pomiaru ciśnienia krwi; 22) urządzenie do ogrzewania płynów infuzyjnych; 23) urządzenie do ogrzewania pacjenta – co najmniej 1 na 3 stanowiska znieczulenia; 24) sprzęt do szybkich przetoczeń płynów;",
+     "text": "monitor zwiotczenia mięśniowego – 1 na stanowisko znieczulenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "pkt_20",
+     "text": "monitor gazów anestetycznych – 1 na stanowisko znieczulenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "pkt_21",
+     "text": "sprzęt do inwazyjnego pomiaru ciśnienia krwi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "22",
+     "path": "pkt_22",
+     "text": "urządzenie do ogrzewania płynów infuzyjnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "23",
+     "path": "pkt_23",
+     "text": "urządzenie do ogrzewania pacjenta – co najmniej 1 na 3 stanowiska znieczulenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "24",
+     "path": "pkt_24",
+     "text": "sprzęt do szybkich przetoczeń płynów;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "25",
      "path": "pkt_25",
-     "text": "sprzęt do regulowanych przetoczeń płynów; 26) co najmniej 3 pompy infuzyjne.",
+     "text": "sprzęt do regulowanych przetoczeń płynów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "26",
+     "path": "pkt_26",
+     "text": "co najmniej 3 pompy infuzyjne.",
      "children": [
       {
        "type": "text",
@@ -1261,7 +1367,14 @@
      "type": "pkt",
      "num": "5",
      "path": "pkt_5",
-     "text": "elektryczne urządzenia do ssania – co najmniej 1 na 3 stanowiska nadzoru poznieczuleniowego; 6) zapewnienie możliwości obserwacji bezpośredniej lub przy użyciu kamer wyposażonych w funkcje autostartu, w szczególności możliwości obserwacji twarzy. Pozostałe W oddziale anestezjologii i intensywnej terapii zapewnia się dodatkowo przyłóżkowy aparat usg, wymagania aparat do pomiaru laboratoryjnych parametrów krytycznych oraz zestaw do zabezpieczenia drożności dróg oddechowych w przypadku wystąpienia zdarzenia, jakim są „trudne drogi oddechowe”; w skład zestawu wchodzą co najmniej:",
+     "text": "elektryczne urządzenia do ssania – co najmniej 1 na 3 stanowiska nadzoru poznieczuleniowego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "zapewnienie możliwości obserwacji bezpośredniej lub przy użyciu kamer wyposażonych w funkcje autostartu, w szczególności możliwości obserwacji twarzy. Pozostałe W oddziale anestezjologii i intensywnej terapii zapewnia się dodatkowo przyłóżkowy aparat usg, wymagania aparat do pomiaru laboratoryjnych parametrów krytycznych oraz zestaw do zabezpieczenia drożności dróg oddechowych w przypadku wystąpienia zdarzenia, jakim są „trudne drogi oddechowe”; w skład zestawu wchodzą co najmniej:",
      "children": []
     },
     {

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/615",
  "title": "Obwieszczenie Ministra Zdrowia z dnia 13 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie świadczeń gwarantowanych z zakresu leczenia stomatologicznego",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/615/text.pdf",
  "body": [
   {
@@ -947,7 +947,14 @@
     },
     {
      "type": "text",
-     "text": "61 Leczenie endodontyczne 23.1314 Świadczenie jest udzielane przez zęba z nieuformowanym lekarza dentystę specjalistę w korzeniem z dziedzinie stomatologii dziecięcej lub zastosowaniem lekarza specjalistę w dziedzinie materiału typu MTA: stomatologii zachowawczej z 1) leczenie endodoncją, lub lekarza dentystę w endodontyczne zęba z 23.13141 trakcie specjalizacji w dziedzinie nieuformowanym stomatologii dziecięcej lub stomatologii korzeniem z zachowawczej z endodoncją. zastosowaniem Wyposażenie niezbędne do realizacji materiału typu MTA 1 świadczenia: kanału; 1) endometr w miejscu;"
+     "text": "61 Leczenie endodontyczne 23.1314 Świadczenie jest udzielane przez zęba z nieuformowanym lekarza dentystę specjalistę w korzeniem z dziedzinie stomatologii dziecięcej lub zastosowaniem lekarza specjalistę w dziedzinie materiału typu MTA: stomatologii zachowawczej z"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "leczenie endodoncją, lub lekarza dentystę w endodontyczne zęba z 23.13141 trakcie specjalizacji w dziedzinie nieuformowanym stomatologii dziecięcej lub stomatologii korzeniem z zachowawczej z endodoncją. zastosowaniem Wyposażenie niezbędne do realizacji materiału typu MTA 1 świadczenia: kanału; 1) endometr w miejscu;",
+     "children": []
     },
     {
      "type": "pkt",
@@ -1295,27 +1302,35 @@
     },
     {
      "type": "text",
-     "text": "1.1 1) lekarz dentysta lub 2) lekarz dentysta w trakcie specjalizacji w dziedzinie stomatologii dziecięcej, lub 3) lekarz dentysta specjalista w dziedzinie stomatologii dziecięcej"
+     "text": "1.1 1) lekarz dentysta lub 2) lekarz dentysta w trakcie specjalizacji w dziedzinie stomatologii dziecięcej, lub"
     },
     {
-     "type": "text",
-     "text": "2 Sprzęt i wyposażenie"
-    },
-    {
-     "type": "text",
-     "text": "2.1 Stanowisko stomatologiczne (fotel, przystawka turbinowa, mikrosilnik, lampa bezcieniowa) lub unit stomatologiczny – w miejscu udzielania świadczeń"
-    },
-    {
-     "type": "text",
-     "text": "2.2 Lampa polimeryzacyjna – w miejscu udzielania świadczeń"
-    },
-    {
-     "type": "text",
-     "text": "2.3 Skaler – w miejscu udzielania świadczeń"
-    },
-    {
-     "type": "text",
-     "text": "2.4[^15] Wstrząsarka do materiałów kapsułkowanych stosowanych do wypełniania ubytków – w miejscu udzielania świadczeń"
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "lekarz dentysta specjalista w dziedzinie stomatologii dziecięcej",
+     "children": [
+      {
+       "type": "text",
+       "text": "2 Sprzęt i wyposażenie"
+      },
+      {
+       "type": "text",
+       "text": "2.1 Stanowisko stomatologiczne (fotel, przystawka turbinowa, mikrosilnik, lampa bezcieniowa) lub unit stomatologiczny – w miejscu udzielania świadczeń"
+      },
+      {
+       "type": "text",
+       "text": "2.2 Lampa polimeryzacyjna – w miejscu udzielania świadczeń"
+      },
+      {
+       "type": "text",
+       "text": "2.3 Skaler – w miejscu udzielania świadczeń"
+      },
+      {
+       "type": "text",
+       "text": "2.4[^15] Wstrząsarka do materiałów kapsułkowanych stosowanych do wypełniania ubytków – w miejscu udzielania świadczeń"
+      }
+     ]
     }
    ]
   },
@@ -1578,8 +1593,23 @@
       },
       {
        "type": "text",
-       "text": "1.1 1) lekarz dentysta lub 2) lekarz dentysta w trakcie specjalizacji w dziedzinie stomatologii dziecięcej, lub 3) lekarz dentysta ze specjalizacją w dziedzinie stomatologii dziecięcej"
-      },
+       "text": "1.1 1) lekarz dentysta lub"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "lekarz dentysta w trakcie specjalizacji w dziedzinie stomatologii dziecięcej, lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "lekarz dentysta ze specjalizacją w dziedzinie stomatologii dziecięcej",
+     "children": [
       {
        "type": "text",
        "text": "2 Miejsce udzielania świadczeń"
@@ -3546,11 +3576,40 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Ocena stanu morfologicznego i funkcji żucia oraz wyrzynania zębów obejmuje: 1) sprawdzenie liczby jednoimiennych górnych i dolnych siekaczy po prawej i lewej stronie łuku oraz przebiegu linii pośrodkowej; 2) sposób zwierania się siekaczy; 3) sprawdzenie toru oddychania; 4) sposób układania dziecka do snu; 5) sposób karmienia; 6) sprawdzenie występowania nawyków w postaci ssania smoczków lub palców. 5. Zastosowanie działań zapobiegających wadom zgryzu – profilaktyka ortodontyczna. Pouczenie o dbałości oddychania przez nos, o odpowiednich sposobach układania dziecka do snu, konieczności odzwyczajenia od nawyków. 6. Profilaktyka profesjonalna próchnicy, w tym profilaktyka fluorkowa przy braku przeciwwskazań.",
+     "text": "Ocena stanu morfologicznego i funkcji żucia oraz wyrzynania zębów obejmuje: 1) sprawdzenie liczby jednoimiennych górnych i dolnych siekaczy po prawej i lewej stronie łuku oraz przebiegu linii pośrodkowej; 2) sposób zwierania się siekaczy;",
      "children": [
       {
-       "type": "text",
-       "text": "4a[^34] 3. rok życia Profilaktyczne 23.1012a 1. Wizyta adaptacyjna przysługuje świadczenie w przypadku pierwszej wizyty stomatologiczne dziecka (jeżeli nie wykorzystano dla dziecka w 3. świadczenia wcześniej) albo w roku życia przypadku dzieci odczuwających lęk związany z zabiegiem stomatologicznym (co najmniej 2 wizyty adaptacyjne mające na celu zmniejszenie odczuwania lęku przez dzieci oraz ocenę stanu zdrowia uzębienia). 2. Kontrola higieny jamy ustnej (badanie kontrolne wraz z instruktażem higieny jamy ustnej i oceną stanu uzębienia za pomocą wskaźnika intensywności próchnicy puw* dla zębów mlecznych). 3. Ocena stanu morfologicznego i funkcji żucia oraz wyrzynania zębów obejmuje: 1) sprawdzenie liczby zębów oraz przebiegu linii pośrodkowej; 2) sprawdzenie sposobu zwierania siekaczy; 3) sprawdzenie toru oddychania;"
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_4/pkt_3",
+       "text": "sprawdzenie toru oddychania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_4/pkt_4",
+       "text": "sposób układania dziecka do snu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_4/pkt_5",
+       "text": "sposób karmienia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_4/pkt_6",
+       "text": "sprawdzenie występowania nawyków w postaci ssania smoczków lub palców. 5. Zastosowanie działań zapobiegających wadom zgryzu – profilaktyka ortodontyczna. Pouczenie o dbałości oddychania przez nos, o odpowiednich sposobach układania dziecka do snu, konieczności odzwyczajenia od nawyków. 6. Profilaktyka profesjonalna próchnicy, w tym profilaktyka fluorkowa przy braku przeciwwskazań.",
+       "children": [
+        {
+         "type": "text",
+         "text": "4a[^34] 3. rok życia Profilaktyczne 23.1012a 1. Wizyta adaptacyjna przysługuje świadczenie w przypadku pierwszej wizyty stomatologiczne dziecka (jeżeli nie wykorzystano dla dziecka w 3. świadczenia wcześniej) albo w roku życia przypadku dzieci odczuwających lęk związany z zabiegiem stomatologicznym (co najmniej 2 wizyty adaptacyjne mające na celu zmniejszenie odczuwania lęku przez dzieci oraz ocenę stanu zdrowia uzębienia). 2. Kontrola higieny jamy ustnej (badanie kontrolne wraz z instruktażem higieny jamy ustnej i oceną stanu uzębienia za pomocą wskaźnika intensywności próchnicy puw* dla zębów mlecznych). 3. Ocena stanu morfologicznego i funkcji żucia oraz wyrzynania zębów obejmuje: 1) sprawdzenie liczby zębów oraz przebiegu linii pośrodkowej; 2) sprawdzenie sposobu zwierania siekaczy; 3) sprawdzenie toru oddychania;"
+        }
+       ]
       },
       {
        "type": "pkt",
@@ -3560,8 +3619,23 @@
        "children": [
         {
          "type": "text",
-         "text": "5 4. rok życia Profilaktyczne 23.1013 1. Wizyta adaptacyjna – świadczenie przysługuje w przypadku pierwszej stomatologiczne wizyty dziecka (jeżeli nie dla dziecka w 4. wykorzystało świadczenia roku życia wcześniej). 2. Kontrola higieny jamy ustnej (badanie kontrolne wraz z instruktażem higieny jamy ustnej i oceną stanu uzębienia za pomocą wskaźnika intensywności próchnicy puw* dla zębów mlecznych). 3. Ocena stanu morfologicznego i funkcji żucia oraz wyrzynania zębów obejmuje: 1) sprawdzenie liczby zębów oraz przebiegu linii pośrodkowej; 2) sposób zwierania siekaczy; 3) sprawdzenie toru oddychania; 4) sprawdzenie występowania nawyków. 4. Zastosowanie działań zapobiegających wadom zgryzu – profilaktyka ortodontyczna. Pouczenie o dbałości oddychania przez nos, o wprowadzaniu pokarmów o stałej konsystencji, odzwyczajaniu od nawyków. 5. Profilaktyka profesjonalna próchnicy, w tym profilaktyka fluorkowa przy braku przeciwwskazań."
-        },
+         "text": "5 4. rok życia Profilaktyczne 23.1013 1. Wizyta adaptacyjna – świadczenie przysługuje w przypadku pierwszej stomatologiczne wizyty dziecka (jeżeli nie dla dziecka w 4. wykorzystało świadczenia roku życia wcześniej). 2. Kontrola higieny jamy ustnej (badanie kontrolne wraz z instruktażem higieny jamy ustnej i oceną stanu uzębienia za pomocą wskaźnika intensywności próchnicy puw* dla zębów mlecznych). 3. Ocena stanu morfologicznego i funkcji żucia oraz wyrzynania zębów obejmuje: 1) sprawdzenie liczby zębów oraz przebiegu linii pośrodkowej; 2) sposób zwierania siekaczy;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_4/pkt_3",
+       "text": "sprawdzenie toru oddychania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_4/pkt_4",
+       "text": "sprawdzenie występowania nawyków. 4. Zastosowanie działań zapobiegających wadom zgryzu – profilaktyka ortodontyczna. Pouczenie o dbałości oddychania przez nos, o wprowadzaniu pokarmów o stałej konsystencji, odzwyczajaniu od nawyków. 5. Profilaktyka profesjonalna próchnicy, w tym profilaktyka fluorkowa przy braku przeciwwskazań.",
+       "children": [
         {
          "type": "text",
          "text": "6 5. rok życia Profilaktyczne 23.1014 1. Wizyta adaptacyjna – świadczenie przysługuje w przypadku pierwszej stomatologiczne wizyty dziecka (jeżeli nie dla dziecka w 5. wykorzystało świadczenia roku życia wcześniej)."
@@ -3574,11 +3648,26 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Kontrola higieny jamy ustnej (badanie kontrolne wraz z instruktażem higieny jamy ustnej i oceną stanu uzębienia za pomocą wskaźnika intensywności próchnicy puw* dla zębów mlecznych). 3. Ocena stanu morfologicznego i funkcji żucia oraz wyrzynania zębów obejmuje: 1) sprawdzenie liczby zębów; 2) sposób zwierania się siekaczy oraz przebieg linii pośrodkowej i linii za tylnymi powierzchniami drugich zębów trzonowych mlecznych; 3) występowanie nawyków; 4) starcie powierzchni żujących mlecznych trzonowców; 5) sposób kontaktu kłów. 4. Zastosowanie działań zapobiegających wadom zgryzu – profilaktyka ortodontyczna. Nauczenie sposobów działań prowadzących do eliminacji nawyków ssania smoczków i oddychania z otwartymi ustami. Zalecenie podawania pokarmów o stałej konsystencji. 5. Profilaktyka profesjonalna próchnicy, w tym profilaktyka fluorkowa przy braku przeciwwskazań. Dotyczy zębów mlecznych i stałych.",
+     "text": "Kontrola higieny jamy ustnej (badanie kontrolne wraz z instruktażem higieny jamy ustnej i oceną stanu uzębienia za pomocą wskaźnika intensywności próchnicy puw* dla zębów mlecznych). 3. Ocena stanu morfologicznego i funkcji żucia oraz wyrzynania zębów obejmuje: 1) sprawdzenie liczby zębów;",
      "children": [
       {
-       "type": "text",
-       "text": "7 6. rok życia Profilaktyczne 23.1015 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy puw* dla zębów dla dziecka w 6. mlecznych i PUW* dla zębów roku życia stałych. 2. Kontrola higieny jamy ustnej (badanie kontrolne wraz z instruktażem higieny jamy ustnej). 3. Ocena stanu morfologicznego i funkcji żucia oraz wyrzynania zębów obejmuje: 1) sprawdzenie typu wyrzynania zębów stałych (siekaczowy lub trzonowcowy); 2) sposób zwierania się pierwszych stałych zębów trzonowych według zasad Angle'a; 3) występowanie nawyków ustnych; 4) starcie powierzchni żujących zębów mlecznych."
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "sposób zwierania się siekaczy oraz przebieg linii pośrodkowej i linii za tylnymi powierzchniami drugich zębów trzonowych mlecznych; 3) występowanie nawyków;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "starcie powierzchni żujących mlecznych trzonowców; 5) sposób kontaktu kłów. 4. Zastosowanie działań zapobiegających wadom zgryzu – profilaktyka ortodontyczna. Nauczenie sposobów działań prowadzących do eliminacji nawyków ssania smoczków i oddychania z otwartymi ustami. Zalecenie podawania pokarmów o stałej konsystencji. 5. Profilaktyka profesjonalna próchnicy, w tym profilaktyka fluorkowa przy braku przeciwwskazań. Dotyczy zębów mlecznych i stałych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "7 6. rok życia Profilaktyczne 23.1015 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy puw* dla zębów dla dziecka w 6. mlecznych i PUW* dla zębów roku życia stałych. 2. Kontrola higieny jamy ustnej (badanie kontrolne wraz z instruktażem higieny jamy ustnej). 3. Ocena stanu morfologicznego i funkcji żucia oraz wyrzynania zębów obejmuje: 1) sprawdzenie typu wyrzynania zębów stałych (siekaczowy lub trzonowcowy); 2) sposób zwierania się pierwszych stałych zębów trzonowych według zasad Angle'a; 3) występowanie nawyków ustnych; 4) starcie powierzchni żujących zębów mlecznych."
+        }
+       ]
       }
      ]
     },
@@ -3590,11 +3679,19 @@
      "children": [
       {
        "type": "text",
-       "text": "8 7. rok życia Profilaktyczne 23.1016 1. Ocena stanu uzębienia za pomocą świadczenie wskaźnika intensywności próchnicy stomatologiczne puw* dla zębów mlecznych i PUW* dla dziecka w 7. dla zębów stałych. roku życia 2. Oddzielne podanie poszczególnych składowych wskaźnika PUW* dla zębów stałych i wskaźnika puw* dla zębów mlecznych. 3. Kwalifikacja do szczególnej opieki stomatologicznej w zakresie podstawowego leczenia stomatologicznego lub specjalistycznego leczenia stomatologicznego. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN: 1) wyraźnego zniekształcenia lub 2) wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów. 5. Profesjonalna profilaktyka fluorkowa. Dotyczy zębów mlecznych i stałych."
+       "text": "8 7. rok życia Profilaktyczne 23.1016 1. Ocena stanu uzębienia za pomocą świadczenie wskaźnika intensywności próchnicy stomatologiczne puw* dla zębów mlecznych i PUW* dla dziecka w 7. dla zębów stałych. roku życia 2. Oddzielne podanie poszczególnych składowych wskaźnika PUW* dla zębów stałych i wskaźnika puw* dla zębów mlecznych. 3. Kwalifikacja do szczególnej opieki stomatologicznej w zakresie podstawowego leczenia stomatologicznego lub specjalistycznego leczenia stomatologicznego. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN: 1) wyraźnego zniekształcenia lub"
       },
       {
-       "type": "text",
-       "text": "9 10. rok życia Profilaktyczne 23.1017 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy PUW* dla zębów stałych dla dziecka w 10. i puw* dla zębów mlecznych oraz roku życia ocena stanu tkanek przyzębia przez oznaczenie głębokości kieszonek dziąsłowych (PD), utraty przyczepu łącznotkankowego (CAL) oraz wskaźnika krwawienia (BOP)."
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów. 5. Profesjonalna profilaktyka fluorkowa. Dotyczy zębów mlecznych i stałych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "9 10. rok życia Profilaktyczne 23.1017 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy PUW* dla zębów stałych dla dziecka w 10. i puw* dla zębów mlecznych oraz roku życia ocena stanu tkanek przyzębia przez oznaczenie głębokości kieszonek dziąsłowych (PD), utraty przyczepu łącznotkankowego (CAL) oraz wskaźnika krwawienia (BOP)."
+        }
+       ]
       }
      ]
     },
@@ -3602,51 +3699,91 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Oddzielne podanie poszczególnych składowych wskaźnika PUW* dla zębów stałych i wskaźnika puw* dla zębów mlecznych. 3. Kwalifikacja do szczególnej opieki stomatologicznej w zakresie podstawowego leczenia stomatologicznego lub specjalistycznego leczenia stomatologicznego. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN: 1) wyraźnego zniekształcenia lub 2) wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów. 5. Profesjonalna profilaktyka fluorkowa. Dotyczy zębów mlecznych i stałych.",
+     "text": "Oddzielne podanie poszczególnych składowych wskaźnika PUW* dla zębów stałych i wskaźnika puw* dla zębów mlecznych. 3. Kwalifikacja do szczególnej opieki stomatologicznej w zakresie podstawowego leczenia stomatologicznego lub specjalistycznego leczenia stomatologicznego. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN: 1) wyraźnego zniekształcenia lub",
      "children": [
       {
-       "type": "text",
-       "text": "10 12. rok życia Profilaktyczne 23.1018 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy PUW* dla zębów stałych dla dziecka w 12. i ocena stanu tkanek przyzębia roku życia przez oznaczenie głębokości kieszonek dziąsłowych (PD), utraty przyczepu łącznotkankowego (CAL) oraz wskaźnika krwawienia (BOP). 2. Oddzielne podanie poszczególnych składowych wskaźnika PUW* dla zębów stałych. 3. Kwalifikacja do szczególnej opieki stomatologicznej w zakresie podstawowego leczenia stomatologicznego lub specjalistycznego leczenia stomatologicznego. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN: 1) wyraźnego zniekształcenia lub 2) wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów. 5. Profesjonalna profilaktyka fluorkowa. Dotyczy zębów mlecznych i stałych."
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów. 5. Profesjonalna profilaktyka fluorkowa. Dotyczy zębów mlecznych i stałych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "10 12. rok życia Profilaktyczne 23.1018 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy PUW* dla zębów stałych dla dziecka w 12. i ocena stanu tkanek przyzębia roku życia przez oznaczenie głębokości kieszonek dziąsłowych (PD), utraty przyczepu łącznotkankowego (CAL) oraz wskaźnika krwawienia (BOP). 2. Oddzielne podanie poszczególnych składowych wskaźnika PUW* dla zębów stałych. 3. Kwalifikacja do szczególnej opieki stomatologicznej w zakresie podstawowego leczenia stomatologicznego lub specjalistycznego leczenia stomatologicznego. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN: 1) wyraźnego zniekształcenia lub"
+        }
+       ]
       },
       {
-       "type": "text",
-       "text": "11 13. rok życia Profilaktyczne 23.1019 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy PUW* dla zębów stałych dla dziecka w 13. i ocena stanu tkanek przyzębia roku życia przez oznaczenie głębokości kieszonek dziąsłowych (PD), utraty przyczepu łącznotkankowego (CAL) oraz wskaźnika krwawienia (BOP). 2. Oddzielne podanie poszczególnych składowych wskaźnika PUW* dla zębów stałych. 3. Kwalifikacja do szczególnej opieki stomatologicznej w zakresie podstawowego leczenia stomatologicznego lub specjalistycznego leczenia stomatologicznego. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN: 1) wyraźnego zniekształcenia lub 2) wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów. 5. Profesjonalna profilaktyka fluorkowa. Dotyczy zębów mlecznych i stałych."
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów. 5. Profesjonalna profilaktyka fluorkowa. Dotyczy zębów mlecznych i stałych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "11 13. rok życia Profilaktyczne 23.1019 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy PUW* dla zębów stałych dla dziecka w 13. i ocena stanu tkanek przyzębia roku życia przez oznaczenie głębokości kieszonek dziąsłowych (PD), utraty przyczepu łącznotkankowego (CAL) oraz wskaźnika krwawienia (BOP). 2. Oddzielne podanie poszczególnych składowych wskaźnika PUW* dla zębów stałych. 3. Kwalifikacja do szczególnej opieki stomatologicznej w zakresie podstawowego leczenia stomatologicznego lub specjalistycznego leczenia stomatologicznego. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN: 1) wyraźnego zniekształcenia lub"
+        }
+       ]
       },
       {
-       "type": "text",
-       "text": "12 16. rok życia Profilaktyczne 23.1020 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy PUW* dla zębów stałych dla dziecka w 16. i ocena stanu tkanek przyzębia roku życia przez oznaczenie głębokości kieszonek dziąsłowych (PD), utraty przyczepu łącznotkankowego (CAL) oraz wskaźnika krwawienia (BOP). 2. Oddzielne podanie poszczególnych składowych wskaźnika PUW* dla zębów stałych. 3. Kwalifikacja do szczególnej opieki stomatologicznej w zakresie podstawowego leczenia stomatologicznego lub specjalistycznego leczenia stomatologicznego. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN: 1) wyraźnego zniekształcenia lub 2) wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów. 5. Profesjonalna profilaktyka fluorkowa. Dotyczy zębów mlecznych i stałych."
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów. 5. Profesjonalna profilaktyka fluorkowa. Dotyczy zębów mlecznych i stałych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "12 16. rok życia Profilaktyczne 23.1020 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy PUW* dla zębów stałych dla dziecka w 16. i ocena stanu tkanek przyzębia roku życia przez oznaczenie głębokości kieszonek dziąsłowych (PD), utraty przyczepu łącznotkankowego (CAL) oraz wskaźnika krwawienia (BOP). 2. Oddzielne podanie poszczególnych składowych wskaźnika PUW* dla zębów stałych. 3. Kwalifikacja do szczególnej opieki stomatologicznej w zakresie podstawowego leczenia stomatologicznego lub specjalistycznego leczenia stomatologicznego. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN: 1) wyraźnego zniekształcenia lub"
+        }
+       ]
       },
       {
-       "type": "text",
-       "text": "13 19. rok życia Profilaktyczne 23.1021 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy PUW* dla zębów stałych. dla dziecka w 19. 2. Oddzielne podanie roku życia poszczególnych składowych wskaźnika PUW*. 3. Ocena stanu zdrowia jamy ustnej z uwzględnieniem stanu uzębienia, przyzębia i błony śluzowej jamy ustnej. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN: 1) wyraźnego zniekształcenia lub 2) wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów."
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów. 5. Profesjonalna profilaktyka fluorkowa. Dotyczy zębów mlecznych i stałych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "13 19. rok życia Profilaktyczne 23.1021 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy PUW* dla zębów stałych. dla dziecka w 19. 2. Oddzielne podanie roku życia poszczególnych składowych wskaźnika PUW*. 3. Ocena stanu zdrowia jamy ustnej z uwzględnieniem stanu uzębienia, przyzębia i błony śluzowej jamy ustnej. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN: 1) wyraźnego zniekształcenia lub"
+        }
+       ]
       },
       {
-       "type": "text",
-       "text": "Objaśnienie: * Wskaźnik intensywności próchnicy puw/PUW – suma zębów z próchnicą usuniętych z powodu próchnicy, wypełnionych z powodu próchnicy."
-      },
-      {
-       "type": "text",
-       "text": "Tabela nr 2"
-      },
-      {
-       "type": "text",
-       "text": "Warunki realizacji profilaktycznych świadczeń stomatologicznych dla dzieci i młodzieży do ukończenia 19. roku życia"
-      },
-      {
-       "type": "text",
-       "text": "1 Personel"
-      },
-      {
-       "type": "text",
-       "text": "1.1 lekarz dentysta"
-      },
-      {
-       "type": "text",
-       "text": "2 Sprzęt i wyposażenie"
-      },
-      {
-       "type": "text",
-       "text": "2.1 Stanowisko stomatologiczne (fotel, przystawka turbinowa, mikrosilnik, lampa bezcieniowa) lub unit stomatologiczny – w miejscu udzielania świadczeń"
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Objaśnienie: * Wskaźnik intensywności próchnicy puw/PUW – suma zębów z próchnicą usuniętych z powodu próchnicy, wypełnionych z powodu próchnicy."
+        },
+        {
+         "type": "text",
+         "text": "Tabela nr 2"
+        },
+        {
+         "type": "text",
+         "text": "Warunki realizacji profilaktycznych świadczeń stomatologicznych dla dzieci i młodzieży do ukończenia 19. roku życia"
+        },
+        {
+         "type": "text",
+         "text": "1 Personel"
+        },
+        {
+         "type": "text",
+         "text": "1.1 lekarz dentysta"
+        },
+        {
+         "type": "text",
+         "text": "2 Sprzęt i wyposażenie"
+        },
+        {
+         "type": "text",
+         "text": "2.1 Stanowisko stomatologiczne (fotel, przystawka turbinowa, mikrosilnik, lampa bezcieniowa) lub unit stomatologiczny – w miejscu udzielania świadczeń"
+        }
+       ]
       }
      ]
     }
@@ -3685,19 +3822,40 @@
     },
     {
      "type": "text",
-     "text": "4 2. rok życia Profilaktyczne 23.1012 1. Wizyta adaptacyjna. świadczenie 2. Ocena stanu uzębienia za pomocą stomatologiczne wskaźnika intensywności próchnicy dla dziecka w 2. puw* dla zębów mlecznych. roku życia 3. Kontrola higieny jamy ustnej (badanie kontrolne wraz z instruktażem w zakresie higieny jamy ustnej). 4. Ocena stanu morfologicznego i funkcji żucia oraz wyrzynania zębów obejmująca sprawdzenie: 1) liczby jednoimiennych górnych i dolnych siekaczy po prawej i lewej stronie łuku oraz przebiegu linii pośrodkowej; 2) sposobu zwierania się siekaczy; 3) toru oddychania;"
+     "text": "4 2. rok życia Profilaktyczne 23.1012 1. Wizyta adaptacyjna. świadczenie 2. Ocena stanu uzębienia za pomocą stomatologiczne wskaźnika intensywności próchnicy dla dziecka w 2. puw* dla zębów mlecznych. roku życia 3. Kontrola higieny jamy ustnej (badanie kontrolne wraz z instruktażem w zakresie higieny jamy ustnej). 4. Ocena stanu morfologicznego i funkcji żucia oraz wyrzynania zębów obejmująca sprawdzenie: 1) liczby jednoimiennych górnych i dolnych siekaczy po prawej i lewej stronie łuku oraz przebiegu linii pośrodkowej; 2) sposobu zwierania się siekaczy;"
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "toru oddychania;",
+     "children": []
     },
     {
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "sposobu układania dziecka do snu; 5) sposobu karmienia; 6) występowania nawyków w postaci ssania smoczków lub palców. 5. Zastosowanie działań zapobiegających wadom zgryzu ‒ profilaktyka ortodontyczna. Pouczenie o dbałości oddychania przez nos, o odpowiednich sposobach układania dziecka do snu, konieczności odzwyczajenia od nawyków. 6. Profilaktyka profesjonalna próchnicy, w tym profilaktyka fluorkowa przy braku przeciwwskazań.",
+     "text": "sposobu układania dziecka do snu; 5) sposobu karmienia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "występowania nawyków w postaci ssania smoczków lub palców. 5. Zastosowanie działań zapobiegających wadom zgryzu ‒ profilaktyka ortodontyczna. Pouczenie o dbałości oddychania przez nos, o odpowiednich sposobach układania dziecka do snu, konieczności odzwyczajenia od nawyków. 6. Profilaktyka profesjonalna próchnicy, w tym profilaktyka fluorkowa przy braku przeciwwskazań.",
      "children": [
       {
        "type": "text",
-       "text": "4a[^35] 3. rok życia Profilaktyczne 23.1012a 1. Wizyta adaptacyjna przysługuje świadczenie w przypadku pierwszej wizyty stomatologiczne dziecka (jeżeli nie wykorzystano dla dziecka w 3. świadczenia wcześniej) albo w roku życia przypadku dzieci odczuwających lęk związany z zabiegiem stomatologicznym (co najmniej 2 wizyty adaptacyjne mające na celu zmniejszenie odczuwania lęku przez dzieci oraz ocenę stanu zdrowia uzębienia). 2. Kontrola higieny jamy ustnej (badanie kontrolne wraz z instruktażem higieny jamy ustnej i oceną stanu uzębienia za pomocą wskaźnika intensywności próchnicy puw* dla zębów mlecznych). 3. Ocena stanu morfologicznego i funkcji żucia oraz wyrzynania zębów obejmuje: 1) sprawdzenie liczby zębów oraz przebiegu linii pośrodkowej; 2) sprawdzenie sposobu zwierania siekaczy; 3) sprawdzenie toru oddychania; 4) sprawdzenie występowania nawyków w postaci ssania smoczków lub palców. 4. Zastosowanie działań zapobiegających wadom zgryzu – profilaktyka ortodontyczna. Pouczenie dotyczące: 1) dbałości o to, by dziecko oddychało przez nos; 2) wprowadzania pokarmów o stałej konsystencji;"
+       "text": "4a[^35] 3. rok życia Profilaktyczne 23.1012a 1. Wizyta adaptacyjna przysługuje świadczenie w przypadku pierwszej wizyty stomatologiczne dziecka (jeżeli nie wykorzystano dla dziecka w 3. świadczenia wcześniej) albo w roku życia przypadku dzieci odczuwających lęk związany z zabiegiem stomatologicznym (co najmniej 2 wizyty adaptacyjne mające na celu zmniejszenie odczuwania lęku przez dzieci oraz ocenę stanu zdrowia uzębienia). 2. Kontrola higieny jamy ustnej (badanie kontrolne wraz z instruktażem higieny jamy ustnej i oceną stanu uzębienia za pomocą wskaźnika intensywności próchnicy puw* dla zębów mlecznych). 3. Ocena stanu morfologicznego i funkcji żucia oraz wyrzynania zębów obejmuje: 1) sprawdzenie liczby zębów oraz przebiegu linii pośrodkowej; 2) sprawdzenie sposobu zwierania siekaczy; 3) sprawdzenie toru oddychania;"
       }
      ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "sprawdzenie występowania nawyków w postaci ssania smoczków lub palców. 4. Zastosowanie działań zapobiegających wadom zgryzu – profilaktyka ortodontyczna. Pouczenie dotyczące: 1) dbałości o to, by dziecko oddychało przez nos; 2) wprowadzania pokarmów o stałej konsystencji;",
+     "children": []
     },
     {
      "type": "pkt",
@@ -3720,7 +3878,14 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_5/pkt_2",
-       "text": "sposobu zwierania siekaczy; 3) toru oddychania;",
+       "text": "sposobu zwierania siekaczy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "toru oddychania;",
        "children": []
       },
       {
@@ -3761,121 +3926,182 @@
         },
         {
          "type": "text",
-         "text": "8 7. rok życia Profilaktyczne 23.1016 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy puw* dla zębów dla dziecka w 7. mlecznych i PUW* dla zębów roku życia stałych. 2. Oddzielne podanie poszczególnych składowych wskaźnika PUW* dla zębów stałych i wskaźnika puw* dla zębów mlecznych. 3. Kwalifikacja do szczególnej opieki stomatologicznej w zakresie podstawowego leczenia stomatologicznego lub specjalistycznego leczenia stomatologicznego. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN**: 1) wyraźnego zniekształcenia lub 2) wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów. 5. Profesjonalna profilaktyka fluorkowa. Dotyczy zębów mlecznych i stałych."
+         "text": "8 7. rok życia Profilaktyczne 23.1016 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy puw* dla zębów dla dziecka w 7. mlecznych i PUW* dla zębów roku życia stałych. 2. Oddzielne podanie poszczególnych składowych wskaźnika PUW* dla zębów stałych i wskaźnika puw* dla zębów mlecznych. 3. Kwalifikacja do szczególnej opieki stomatologicznej w zakresie podstawowego leczenia stomatologicznego lub specjalistycznego leczenia stomatologicznego. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN**: 1) wyraźnego zniekształcenia lub"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów. 5. Profesjonalna profilaktyka fluorkowa. Dotyczy zębów mlecznych i stałych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "9 10. rok życia Profilaktyczne 23.1017 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy PUW* dla zębów stałych dla dziecka w 10. i puw* dla zębów mlecznych oraz roku życia ocena stanu tkanek przyzębia przez oznaczenie głębokości kieszonek dziąsłowych (PD), utraty przyczepu łącznotkankowego (CAL) oraz wskaźnika krwawienia (BOP). 2. Oddzielne podanie poszczególnych składowych wskaźnika PUW* dla zębów stałych i wskaźnika puw* dla zębów mlecznych. 3. Kwalifikacja do szczególnej opieki stomatologicznej w zakresie podstawowego leczenia stomatologicznego lub specjalistycznego leczenia stomatologicznego. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN**: 1) wyraźnego zniekształcenia lub"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Profesjonalna profilaktyka fluorkowa. Dotyczy zębów mlecznych i stałych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "10 12. rok życia Profilaktyczne 23.1018 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy PUW* dla zębów stałych dla dziecka w 12. i ocena stanu tkanek przyzębia roku życia przez oznaczenie głębokości kieszonek dziąsłowych (PD), utraty przyczepu łącznotkankowego (CAL) oraz wskaźnika krwawienia (BOP). 2. Oddzielne podanie poszczególnych składowych wskaźnika PUW* dla zębów stałych. 3. Kwalifikacja do szczególnej opieki stomatologicznej w zakresie podstawowego leczenia stomatologicznego lub specjalistycznego leczenia stomatologicznego. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN**: 1) wyraźnego zniekształcenia lub"
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów. 5. Profesjonalna profilaktyka fluorkowa. Dotyczy zębów mlecznych i stałych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "11 13. rok życia Profilaktyczne 23.1019 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy PUW* dla zębów stałych dla dziecka w 13. i ocena stanu tkanek przyzębia roku życia przez oznaczenie głębokości kieszonek dziąsłowych (PD), utraty przyczepu łącznotkankowego (CAL) oraz wskaźnika krwawienia (BOP). 2. Oddzielne podanie poszczególnych składowych wskaźnika PUW* dla zębów stałych. 3. Kwalifikacja do szczególnej opieki stomatologicznej w zakresie podstawowego leczenia stomatologicznego lub specjalistycznego leczenia stomatologicznego. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN**: 1) wyraźnego zniekształcenia lub"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Profesjonalna profilaktyka fluorkowa. Dotyczy zębów mlecznych i stałych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "12 16. rok życia Profilaktyczne 23.1020 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy PUW* dla zębów stałych dla dziecka w 16. i ocena stanu tkanek przyzębia roku życia przez oznaczenie głębokości kieszonek dziąsłowych (PD), utraty przyczepu łącznotkankowego (CAL) oraz wskaźnika krwawienia (BOP). 2. Oddzielne podanie poszczególnych składowych wskaźnika PUW* dla zębów stałych. 3. Kwalifikacja do szczególnej opieki stomatologicznej w zakresie podstawowego leczenia stomatologicznego lub specjalistycznego leczenia stomatologicznego. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN**: 1) wyraźnego zniekształcenia lub"
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów. 5. Profesjonalna profilaktyka fluorkowa. Dotyczy zębów mlecznych i stałych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "13 19. rok życia Profilaktyczne 23.1021 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy PUW* dla zębów stałych. dla dziecka w 19. 2. Oddzielne podanie roku życia poszczególnych składowych wskaźnika PUW*. 3. Ocena stanu zdrowia jamy ustnej z uwzględnieniem stanu uzębienia, przyzębia i błony śluzowej jamy ustnej. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN**: 1) wyraźnego zniekształcenia lub"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Objaśnienia: * Wskaźnik intensywności próchnicy puw/PUW ‒ suma zębów z próchnicą usuniętych z powodu próchnicy, wypełnionych z powodu próchnicy. ** Wskaźnik ortodontycznych potrzeb leczniczych (index of orthodontic treatment needs)."
         },
         {
          "type": "text",
-         "text": "9 10. rok życia Profilaktyczne 23.1017 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy PUW* dla zębów stałych dla dziecka w 10. i puw* dla zębów mlecznych oraz roku życia ocena stanu tkanek przyzębia przez oznaczenie głębokości kieszonek dziąsłowych (PD), utraty przyczepu łącznotkankowego (CAL) oraz wskaźnika krwawienia (BOP). 2. Oddzielne podanie poszczególnych składowych wskaźnika PUW* dla zębów stałych i wskaźnika puw* dla zębów mlecznych. 3. Kwalifikacja do szczególnej opieki stomatologicznej w zakresie podstawowego leczenia stomatologicznego lub specjalistycznego leczenia stomatologicznego. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN**: 1) wyraźnego zniekształcenia lub 2) wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów."
+         "text": "Tabela nr 2"
+        },
+        {
+         "type": "text",
+         "text": "Warunki realizacji profilaktycznych świadczeń stomatologicznych dla dzieci i młodzieży do ukończenia 19. roku życia udzielanych w dentobusie"
+        },
+        {
+         "type": "text",
+         "text": "1 Personel"
+        },
+        {
+         "type": "text",
+         "text": "1.1 1) lekarz dentysta lub"
         }
        ]
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "5",
-     "path": "ust_5",
-     "text": "Profesjonalna profilaktyka fluorkowa. Dotyczy zębów mlecznych i stałych.",
-     "children": [
-      {
-       "type": "text",
-       "text": "10 12. rok życia Profilaktyczne 23.1018 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy PUW* dla zębów stałych dla dziecka w 12. i ocena stanu tkanek przyzębia roku życia przez oznaczenie głębokości kieszonek dziąsłowych (PD), utraty przyczepu łącznotkankowego (CAL) oraz wskaźnika krwawienia (BOP). 2. Oddzielne podanie poszczególnych składowych wskaźnika PUW* dla zębów stałych. 3. Kwalifikacja do szczególnej opieki stomatologicznej w zakresie podstawowego leczenia stomatologicznego lub specjalistycznego leczenia stomatologicznego. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN**: 1) wyraźnego zniekształcenia lub 2) wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów. 5. Profesjonalna profilaktyka fluorkowa. Dotyczy zębów mlecznych i stałych."
       },
       {
-       "type": "text",
-       "text": "11 13. rok życia Profilaktyczne 23.1019 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy PUW* dla zębów stałych dla dziecka w 13. i ocena stanu tkanek przyzębia roku życia przez oznaczenie głębokości kieszonek dziąsłowych (PD), utraty przyczepu łącznotkankowego (CAL) oraz wskaźnika krwawienia (BOP). 2. Oddzielne podanie poszczególnych składowych wskaźnika PUW* dla zębów stałych. 3. Kwalifikacja do szczególnej opieki stomatologicznej w zakresie podstawowego leczenia stomatologicznego lub specjalistycznego leczenia stomatologicznego. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN**: 1) wyraźnego zniekształcenia lub 2) wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "5",
-     "path": "ust_5",
-     "text": "Profesjonalna profilaktyka fluorkowa. Dotyczy zębów mlecznych i stałych.",
-     "children": [
-      {
-       "type": "text",
-       "text": "12 16. rok życia Profilaktyczne 23.1020 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy PUW* dla zębów stałych dla dziecka w 16. i ocena stanu tkanek przyzębia roku życia przez oznaczenie głębokości kieszonek dziąsłowych (PD), utraty przyczepu łącznotkankowego (CAL) oraz wskaźnika krwawienia (BOP). 2. Oddzielne podanie poszczególnych składowych wskaźnika PUW* dla zębów stałych. 3. Kwalifikacja do szczególnej opieki stomatologicznej w zakresie podstawowego leczenia stomatologicznego lub specjalistycznego leczenia stomatologicznego. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN**: 1) wyraźnego zniekształcenia lub 2) wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów. 5. Profesjonalna profilaktyka fluorkowa. Dotyczy zębów mlecznych i stałych."
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "lekarz dentysta w trakcie specjalizacji w dziedzinie stomatologii dziecięcej, lub",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "13 19. rok życia Profilaktyczne 23.1021 1. Ocena stanu uzębienia za świadczenie pomocą wskaźnika intensywności stomatologiczne próchnicy PUW* dla zębów stałych. dla dziecka w 19. 2. Oddzielne podanie roku życia poszczególnych składowych wskaźnika PUW*. 3. Ocena stanu zdrowia jamy ustnej z uwzględnieniem stanu uzębienia, przyzębia i błony śluzowej jamy ustnej. 4. Wykrywanie nieprawidłowości (wad) zgryzu według wskaźnika IOTN**: 1) wyraźnego zniekształcenia lub 2) wyraźnego ograniczenia funkcji żucia lub gryzienia oraz wyrzynania zębów."
-      },
-      {
-       "type": "text",
-       "text": "Objaśnienia: * Wskaźnik intensywności próchnicy puw/PUW ‒ suma zębów z próchnicą usuniętych z powodu próchnicy, wypełnionych z powodu próchnicy. ** Wskaźnik ortodontycznych potrzeb leczniczych (index of orthodontic treatment needs)."
-      },
-      {
-       "type": "text",
-       "text": "Tabela nr 2"
-      },
-      {
-       "type": "text",
-       "text": "Warunki realizacji profilaktycznych świadczeń stomatologicznych dla dzieci i młodzieży do ukończenia 19. roku życia udzielanych w dentobusie"
-      },
-      {
-       "type": "text",
-       "text": "1 Personel"
-      },
-      {
-       "type": "text",
-       "text": "1.1 1) lekarz dentysta lub 2) lekarz dentysta w trakcie specjalizacji w dziedzinie stomatologii dziecięcej, lub 3) lekarz dentysta ze specjalizacją w dziedzinie stomatologii dziecięcej"
-      },
-      {
-       "type": "text",
-       "text": "2 Miejsce udzielania świadczeń"
-      },
-      {
-       "type": "text",
-       "text": "2.1 Dentobus"
-      },
-      {
-       "type": "text",
-       "text": "3 Sprzęt i wyposażenie"
-      },
-      {
-       "type": "text",
-       "text": "3.1 Unit dentystyczny ‒ w miejscu udzielania świadczeń"
-      },
-      {
-       "type": "text",
-       "text": "3.2 Lampa polimeryzacyjna ‒ w miejscu udzielania świadczeń"
-      },
-      {
-       "type": "text",
-       "text": "3.3 Skaler ‒ w miejscu udzielania świadczeń"
-      },
-      {
-       "type": "text",
-       "text": "3.4[^36] Wstrząsarka do materiałów kapsułkowanych stosowanych do wypełniania ubytków − w miejscu udzielania świadczeń"
-      },
-      {
-       "type": "text",
-       "text": "3.5. Aparat RTG ‒ w miejscu udzielania świadczeń"
-      },
-      {
-       "type": "text",
-       "text": "3.6 Zestaw przeciwwstrząsowy oraz zestaw do udzielania pierwszej pomocy lekarskiej"
-      },
-      {
-       "type": "text",
-       "text": "4 Organizacja udzielania świadczeń"
-      },
-      {
-       "type": "text",
-       "text": "4.1 Świadczeniodawca udziela świadczeń gwarantowanych zgodnie z potrzebami zdrowotnymi świadczeniobiorców i z uwzględnieniem możliwości ich realizacji w dentobusie. W przypadku konieczności kontynuacji leczenia stomatologicznego poza dentobusem lekarz udzielający świadczenia przedstawia świadczeniobiorcy plan dalszego leczenia oraz informuje świadczeniobiorcę o możliwościach kontynuacji leczenia stomatologicznego w ramach świadczeń gwarantowanych najbliżej miejsca zamieszkania lub edukacji"
-      },
-      {
-       "type": "text",
-       "text": "4.2 Świadczeniodawca ustala i zgłasza plan i harmonogram realizacji świadczeń w ujęciu miesięcznym do Narodowego Funduszu Zdrowia przy uwzględnieniu potrzeb zdrowotnych świadczeniobiorców w danym województwie"
-      },
-      {
-       "type": "text",
-       "text": "5 Pozostałe wymagania"
-      },
-      {
-       "type": "text",
-       "text": "5.1 Prezes Narodowego Funduszu Zdrowia monitoruje i analizuje realizację świadczeń na podstawie zgłoszonego planu i harmonogramu realizacji świadczeń w poszczególnych oddziałach wojewódzkich względem potrzeb zdrowotnych świadczeniobiorców"
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "lekarz dentysta ze specjalizacją w dziedzinie stomatologii dziecięcej",
+       "children": [
+        {
+         "type": "text",
+         "text": "2 Miejsce udzielania świadczeń"
+        },
+        {
+         "type": "text",
+         "text": "2.1 Dentobus"
+        },
+        {
+         "type": "text",
+         "text": "3 Sprzęt i wyposażenie"
+        },
+        {
+         "type": "text",
+         "text": "3.1 Unit dentystyczny ‒ w miejscu udzielania świadczeń"
+        },
+        {
+         "type": "text",
+         "text": "3.2 Lampa polimeryzacyjna ‒ w miejscu udzielania świadczeń"
+        },
+        {
+         "type": "text",
+         "text": "3.3 Skaler ‒ w miejscu udzielania świadczeń"
+        },
+        {
+         "type": "text",
+         "text": "3.4[^36] Wstrząsarka do materiałów kapsułkowanych stosowanych do wypełniania ubytków − w miejscu udzielania świadczeń"
+        },
+        {
+         "type": "text",
+         "text": "3.5. Aparat RTG ‒ w miejscu udzielania świadczeń"
+        },
+        {
+         "type": "text",
+         "text": "3.6 Zestaw przeciwwstrząsowy oraz zestaw do udzielania pierwszej pomocy lekarskiej"
+        },
+        {
+         "type": "text",
+         "text": "4 Organizacja udzielania świadczeń"
+        },
+        {
+         "type": "text",
+         "text": "4.1 Świadczeniodawca udziela świadczeń gwarantowanych zgodnie z potrzebami zdrowotnymi świadczeniobiorców i z uwzględnieniem możliwości ich realizacji w dentobusie. W przypadku konieczności kontynuacji leczenia stomatologicznego poza dentobusem lekarz udzielający świadczenia przedstawia świadczeniobiorcy plan dalszego leczenia oraz informuje świadczeniobiorcę o możliwościach kontynuacji leczenia stomatologicznego w ramach świadczeń gwarantowanych najbliżej miejsca zamieszkania lub edukacji"
+        },
+        {
+         "type": "text",
+         "text": "4.2 Świadczeniodawca ustala i zgłasza plan i harmonogram realizacji świadczeń w ujęciu miesięcznym do Narodowego Funduszu Zdrowia przy uwzględnieniu potrzeb zdrowotnych świadczeniobiorców w danym województwie"
+        },
+        {
+         "type": "text",
+         "text": "5 Pozostałe wymagania"
+        },
+        {
+         "type": "text",
+         "text": "5.1 Prezes Narodowego Funduszu Zdrowia monitoruje i analizuje realizację świadczeń na podstawie zgłoszonego planu i harmonogramu realizacji świadczeń w poszczególnych oddziałach wojewódzkich względem potrzeb zdrowotnych świadczeniobiorców"
+        }
+       ]
       }
      ]
     }
@@ -4611,19 +4837,55 @@
     },
     {
      "type": "text",
-     "text": "1.1 1) lekarz dentysta lub 2) lekarz dentysta specjalista w dziedzinie stomatologii ogólnej, lub 3) lekarz dentysta specjalista w dziedzinie stomatologii dziecięcej, lub 4) lekarz dentysta specjalista w dziedzinie stomatologii zachowawczej z endodoncją, lub 5) lekarz dentysta w trakcie specjalizacji w dziedzinie stomatologii ogólnej, lub 6) lekarz dentysta w trakcie specjalizacji w dziedzinie stomatologii dziecięcej, lub 7) lekarz dentysta w trakcie specjalizacji w dziedzinie stomatologii zachowawczej z endodoncją"
+     "text": "1.1 1) lekarz dentysta lub 2) lekarz dentysta specjalista w dziedzinie stomatologii ogólnej, lub"
     },
     {
-     "type": "text",
-     "text": "2 Sprzęt i wyposażenie"
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "lekarz dentysta specjalista w dziedzinie stomatologii dziecięcej, lub",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "2.1[^40] Stanowisko stomatologiczne (fotel, przystawka turbinowa, mikrosilnik, lampa bezcieniowa) lub unit stomatologiczny wyposażone w separator amalgamatu – w miejscu udzielania świadczeń"
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "lekarz dentysta specjalista w dziedzinie stomatologii zachowawczej z endodoncją, lub",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "2.2 (uchylony)[^41]"
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "lekarz dentysta w trakcie specjalizacji w dziedzinie stomatologii ogólnej, lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "lekarz dentysta w trakcie specjalizacji w dziedzinie stomatologii dziecięcej, lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "lekarz dentysta w trakcie specjalizacji w dziedzinie stomatologii zachowawczej z endodoncją",
+     "children": [
+      {
+       "type": "text",
+       "text": "2 Sprzęt i wyposażenie"
+      },
+      {
+       "type": "text",
+       "text": "2.1[^40] Stanowisko stomatologiczne (fotel, przystawka turbinowa, mikrosilnik, lampa bezcieniowa) lub unit stomatologiczny wyposażone w separator amalgamatu – w miejscu udzielania świadczeń"
+      },
+      {
+       "type": "text",
+       "text": "2.2 (uchylony)[^41]"
+      }
+     ]
     }
    ]
   },

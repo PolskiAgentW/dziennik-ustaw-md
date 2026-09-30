@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1118",
  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 4 sierpnia 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie określenia stawek wynagrodzenia biegłych, taryf zryczałtowanych oraz sposobu dokumentowania wydatków niezbędnych dla wydania opinii w postępowaniu karnym",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1118/text.pdf",
  "body": [
   {
@@ -747,7 +747,14 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "za pierwszą działkę działka 1,53 2) za każdą następną działkę działka 0,14",
+     "text": "za pierwszą działkę działka 1,53",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "za każdą następną działkę działka 0,14",
      "children": []
     },
     {
@@ -913,14 +920,35 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "do 4 punktów granicznych ryczałt 12,74 2) za każdy następny punkt graniczny punkt 1,94 – skartowanie i opisanie na mapie projektu podziału nieruchomości:",
+     "text": "do 4 punktów granicznych ryczałt 12,74",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "za każdy następny punkt graniczny punkt 1,94 – skartowanie i opisanie na mapie projektu podziału nieruchomości:",
      "children": []
     },
     {
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "podział na dwie działki ryczałt 31,84 4) za każdą następną działkę działka 2,91 5) za pomiar i sporządzenie szkicu sytuacyjnego do różnych celów stosuje się stawki określone w lp. 5 z zastosowaniem współczynnika 0,5 – –",
+     "text": "podział na dwie działki ryczałt 31,84",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "za każdą następną działkę działka 2,91",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "za pomiar i sporządzenie szkicu sytuacyjnego do różnych celów stosuje się stawki określone w lp. 5 z zastosowaniem współczynnika 0,5 – –",
      "children": []
     }
    ]

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/399",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o gospodarce nieruchomościami",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/399/text.pdf",
  "body": [
   {
@@ -600,12 +600,14 @@
        "num": "9b",
        "path": "art_4/pkt_9b",
        "text": "jednostce samorządu terytorialnego – należy przez to rozumieć gminę, powiat lub województwo;",
-       "children": [
-        {
-         "type": "text",
-         "text": "9b [1] ) staroście – należy przez to rozumieć również prezydenta miasta na prawach powiatu;"
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9b¹",
+       "path": "art_4/pkt_9b¹",
+       "text": "staroście – należy przez to rozumieć również prezydenta miasta na prawach powiatu;",
+       "children": []
       },
       {
        "type": "pkt",

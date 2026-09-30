@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1137",
  "title": "Obwieszczenie Ministra Infrastruktury z dnia 6 sierpnia 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury w sprawie klasyfikacji statków powietrznych",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1137/text.pdf",
  "body": [
   {
@@ -1079,10 +1079,17 @@
            "type": "tir",
            "num": "1",
            "path": "ust_4/pkt_4/lit_a/tir_1",
-           "text": "zbudowany według nowego, niewypróbowanego uprzednio projektu w celu badania nowatorskich lub niekonwencjonalnych cech tego projektu lub – zmodyfikowany w taki sposób, że podczas lotu należy się spodziewać właściwości lotnych znacząco różniących się od znanych dotychczas, w celu wyznaczenia wymaganych osiągów, właściwości lotnych i sterowania, albo b) spełnia mające zastosowanie wymagania dla potwierdzenia zdatności, o których mowa w przepisach wydanych na podstawie art. 33 ust. 2 i 4 ustawy – Prawo lotnicze, i który: – utracił ważność certyfikatu albo zatwierdzenia typu lub dla którego nie istnieje posiadacz certyfikatu albo zatwierdzenia typu, w przypadku typu, dla którego certyfikat albo zatwierdzenie typu zostały wydane przez właściwy organ albo przez inny uprawniony podmiot państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, albo – nie jest zgodny, w wyniku wykonanych modyfikacji, z wydanym certyfikatem albo z zatwierdzeniem typu, o którym mowa w tiret pierwszym, lub z zatwierdzeniem zmiany w projekcie typu wydanym przez podmiot uprawniony do przeprowadzenia oceny technicznej projektu typu i wydania zatwierdzenia zgodnie z przepisami wydanymi na podstawie art. 33 ust. 2 i 4 ustawy – Prawo lotnicze;",
+           "text": "zbudowany według nowego, niewypróbowanego uprzednio projektu w celu badania nowatorskich lub niekonwencjonalnych cech tego projektu lub – zmodyfikowany w taki sposób, że podczas lotu należy się spodziewać właściwości lotnych znacząco różniących się od znanych dotychczas, w celu wyznaczenia wymaganych osiągów, właściwości lotnych i sterowania, albo",
            "children": []
           }
          ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_4/pkt_4/lit_b",
+         "text": "spełnia mające zastosowanie wymagania dla potwierdzenia zdatności, o których mowa w przepisach wydanych na podstawie art. 33 ust. 2 i 4 ustawy – Prawo lotnicze, i który: – utracił ważność certyfikatu albo zatwierdzenia typu lub dla którego nie istnieje posiadacz certyfikatu albo zatwierdzenia typu, w przypadku typu, dla którego certyfikat albo zatwierdzenie typu zostały wydane przez właściwy organ albo przez inny uprawniony podmiot państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, albo – nie jest zgodny, w wyniku wykonanych modyfikacji, z wydanym certyfikatem albo z zatwierdzeniem typu, o którym mowa w tiret pierwszym, lub z zatwierdzeniem zmiany w projekcie typu wydanym przez podmiot uprawniony do przeprowadzenia oceny technicznej projektu typu i wydania zatwierdzenia zgodnie z przepisami wydanymi na podstawie art. 33 ust. 2 i 4 ustawy – Prawo lotnicze;",
+         "children": []
         }
        ]
       },
@@ -1094,21 +1101,29 @@
        "children": [
         {
          "type": "text",
-         "text": "z możliwością wprowadzania zmian w tym projekcie, który prowadzi działalność w zakresie projektowania i produkcji albo jest podmiotem wyspecjalizowanym w prowadzeniu badań wyrobów – w przypadku statku powietrznego, o którym mowa w pkt 4 lit. a, albo b) przez jego właściciela lub użytkownika na własny użytek, a nie w jakichkolwiek celach zarobkowych, zgodnie z mającymi zastosowanie ograniczeniami użytkowania – w przypadku statku powietrznego, o którym mowa w:"
+         "text": "z możliwością wprowadzania zmian w tym projekcie, który prowadzi działalność w zakresie projektowania i produkcji albo jest podmiotem wyspecjalizowanym w prowadzeniu badań wyrobów – w przypadku statku powietrznego, o którym mowa w pkt 4 lit. a, albo"
         },
         {
-         "type": "tir",
-         "num": "1",
-         "path": "ust_4/pkt_5/tir_1",
-         "text": "pkt 4 lit. a, który nie spełnia wymagań do sklasyfikowania go jako spełniającego warunki i wymagania dla statków powietrznych kategorii K4, albo – pkt 4 lit. b",
+         "type": "lit",
+         "num": "b",
+         "path": "ust_4/pkt_5/lit_b",
+         "text": "przez jego właściciela lub użytkownika na własny użytek, a nie w jakichkolwiek celach zarobkowych, zgodnie z mającymi zastosowanie ograniczeniami użytkowania – w przypadku statku powietrznego, o którym mowa w:",
          "children": [
           {
-           "type": "text",
-           "text": "K6H. Załogowy statek powietrzny:"
-          },
-          {
-           "type": "text",
-           "text": "Historyczna 1) do którego nie mają zastosowania przepisy rozporządzenia 2018/1139/UE;"
+           "type": "tir",
+           "num": "1",
+           "path": "ust_4/pkt_5/lit_b/tir_1",
+           "text": "pkt 4 lit. a, który nie spełnia wymagań do sklasyfikowania go jako spełniającego warunki i wymagania dla statków powietrznych kategorii K4, albo – pkt 4 lit. b",
+           "children": [
+            {
+             "type": "text",
+             "text": "K6H. Załogowy statek powietrzny:"
+            },
+            {
+             "type": "text",
+             "text": "Historyczna 1) do którego nie mają zastosowania przepisy rozporządzenia 2018/1139/UE;"
+            }
+           ]
           }
          ]
         }

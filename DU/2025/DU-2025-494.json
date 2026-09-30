@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/494",
  "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 marca 2025 r. w sprawie wprowadzenia \"Krajowego programu zwalczania niektórych serotypów Salmonella w stadach kur hodowlanych gatunku Gallus gallus\" na lata 2025-2027",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/494/text.pdf",
  "body": [
   {
@@ -235,7 +235,14 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "numeru lub oznaczenia stada oraz weterynaryjnego numeru identyfikacyjnego gospodarstwa; 3) liczby próbek oraz rodzaju materiału pobranego;",
+     "text": "numeru lub oznaczenia stada oraz weterynaryjnego numeru identyfikacyjnego gospodarstwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "liczby próbek oraz rodzaju materiału pobranego;",
      "children": []
     },
     {
@@ -332,7 +339,21 @@
        "type": "lit",
        "num": "a",
        "path": "pkt_3/lit_a",
-       "text": "próbek wyściółki wraz z mekonium z 10 pojemników transportowych z każdej dostawy (po 25 g z pojemnika) lub b) wymazów powierzchniowych z dna 10 pojemników (pulowanych w laboratorium w jedną próbkę) – w przypadku pojemników bez wyściółki, lub c) piskląt padłych (w tym również w czasie transportu), nie więcej niż 20 sztuk – pulowanych w laboratorium w jedną próbkę;",
+       "text": "próbek wyściółki wraz z mekonium z 10 pojemników transportowych z każdej dostawy (po 25 g z pojemnika) lub",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_3/lit_b",
+       "text": "wymazów powierzchniowych z dna 10 pojemników (pulowanych w laboratorium w jedną próbkę) – w przypadku pojemników bez wyściółki, lub",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_3/lit_c",
+       "text": "piskląt padłych (w tym również w czasie transportu), nie więcej niż 20 sztuk – pulowanych w laboratorium w jedną próbkę;",
        "children": []
       }
      ]
@@ -426,7 +447,14 @@
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "wyniki badań poubojowych brojlerów z wcześniej ubitych stad pochodzących z gospodarstwa; 5) wyniki poprzednich kontroli urzędowych;",
+     "text": "wyniki badań poubojowych brojlerów z wcześniej ubitych stad pochodzących z gospodarstwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "wyniki poprzednich kontroli urzędowych;",
      "children": []
     },
     {
@@ -540,7 +568,14 @@
        "type": "pkt",
        "num": "6",
        "path": "ust_2/pkt_6",
-       "text": "utrzymywania w jednym kurniku, w obrębie jednego stada, drobiu w jednakowym wieku; 7) izolacji poszczególnych kurników przez zapewnienie osobnej obsługi, osobnego żywienia i osobnych narzędzi;",
+       "text": "utrzymywania w jednym kurniku, w obrębie jednego stada, drobiu w jednakowym wieku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_2/pkt_7",
+       "text": "izolacji poszczególnych kurników przez zapewnienie osobnej obsługi, osobnego żywienia i osobnych narzędzi;",
        "children": []
       },
       {
@@ -863,7 +898,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_3/pkt_1",
-       "text": "ocenę możliwości wzajemnego zanieczyszczenia podczas pobierania próbek przez hodowcę, 2) ocenę możliwości zanieczyszczenia krzyżowego w laboratorium w trakcie badania,",
+       "text": "ocenę możliwości wzajemnego zanieczyszczenia podczas pobierania próbek przez hodowcę,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "ocenę możliwości zanieczyszczenia krzyżowego w laboratorium w trakcie badania,",
        "children": []
       },
       {
@@ -890,7 +932,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_3/pkt_1/lit_a",
-         "text": "izolację drobiu znajdującego się w zakładzie drobiu w poszczególnych kurnikach, b) zastosowanie produktów biobójczych w celu odkażania jaj wylęgowych bezpośrednio po zbiorze oraz przed wejściami do kurników i wyjściami z nich, jak również przed wjazdami na teren zakładu drobiu i wyjazdami z niego,",
+         "text": "izolację drobiu znajdującego się w zakładzie drobiu w poszczególnych kurnikach,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_1/lit_b",
+         "text": "zastosowanie produktów biobójczych w celu odkażania jaj wylęgowych bezpośrednio po zbiorze oraz przed wejściami do kurników i wyjściami z nich, jak również przed wjazdami na teren zakładu drobiu i wyjazdami z niego,",
          "children": []
         },
         {
@@ -948,7 +997,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_3/pkt_1/lit_a",
-         "text": "niezwłoczny ubój wszystkich sztuk drobiu ze stada lub b) niezwłoczne zabicie wszystkich sztuk drobiu ze stada zakażonego, z tym że sztuki wykazujące objawy kliniczne choroby zawsze podlegają zabiciu,",
+         "text": "niezwłoczny ubój wszystkich sztuk drobiu ze stada lub",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_1/lit_b",
+         "text": "niezwłoczne zabicie wszystkich sztuk drobiu ze stada zakażonego, z tym że sztuki wykazujące objawy kliniczne choroby zawsze podlegają zabiciu,",
          "children": []
         },
         {
@@ -983,7 +1039,14 @@
          "type": "lit",
          "num": "g",
          "path": "ust_3/pkt_1/lit_g",
-         "text": "zniszczenie lub poddanie odkażeniu innych przedmiotów, które mogły ulec skażeniu, h) dokładne oczyszczenie i odkażenie kurników, w których były utrzymywane kury hodowlane gatunku Gallus gallus zakażone serotypem Salmonella objętym programem, ich otoczenia, środków transportu oraz przedmiotów, które mogły ulec skażeniu, pod nadzorem powiatowego lekarza weterynarii, po wykonaniu czynności, o których mowa w lit. a–g,",
+         "text": "zniszczenie lub poddanie odkażeniu innych przedmiotów, które mogły ulec skażeniu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "ust_3/pkt_1/lit_h",
+         "text": "dokładne oczyszczenie i odkażenie kurników, w których były utrzymywane kury hodowlane gatunku Gallus gallus zakażone serotypem Salmonella objętym programem, ich otoczenia, środków transportu oraz przedmiotów, które mogły ulec skażeniu, pod nadzorem powiatowego lekarza weterynarii, po wykonaniu czynności, o których mowa w lit. a–g,",
          "children": []
         },
         {
@@ -1066,7 +1129,21 @@
          "type": "lit",
          "num": "a",
          "path": "ust_3/pkt_3/lit_a",
-         "text": "badanie dało wynik ujemny lub b) nie stwierdzono efektu hamującego wzrost bakterii, lub c) stwierdzono efekt hamujący wzrost bakterii.",
+         "text": "badanie dało wynik ujemny lub",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_3/lit_b",
+         "text": "nie stwierdzono efektu hamującego wzrost bakterii, lub",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_3/pkt_3/lit_c",
+         "text": "stwierdzono efekt hamujący wzrost bakterii.",
          "children": [
           {
            "type": "text",
@@ -1115,7 +1192,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_3/pkt_4/lit_a",
-         "text": "zakładu przetwórstwa zlokalizowanego na terenie Polski w celu poddania tego mięsa przemysłowej obróbce cieplnej lub innej obróbce mającej na celu wyeliminowanie Salmonella lub b) chłodni składowej zlokalizowanej na terenie Polski w celu czasowego składowania go przed poddaniem przemysłowej obróbce cieplnej lub innej obróbce mającej na celu wyeliminowanie Salmonella w zakładzie, o którym mowa w lit. a;",
+         "text": "zakładu przetwórstwa zlokalizowanego na terenie Polski w celu poddania tego mięsa przemysłowej obróbce cieplnej lub innej obróbce mającej na celu wyeliminowanie Salmonella lub",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_4/lit_b",
+         "text": "chłodni składowej zlokalizowanej na terenie Polski w celu czasowego składowania go przed poddaniem przemysłowej obróbce cieplnej lub innej obróbce mającej na celu wyeliminowanie Salmonella w zakładzie, o którym mowa w lit. a;",
          "children": []
         }
        ]
@@ -1152,7 +1236,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_3/pkt_7/lit_a",
-         "text": "zakazuje wprowadzania takiego mięsa do obrotu, z wyłączeniem przewiezienia go do zlokalizowanego na terenie Polski zakładu dokonującego przemysłowej obróbki cieplnej lub innej obróbki tego mięsa mającej na celu wyeliminowanie Salmonella, b) nakazuje, by informować go o zamiarze wysyłki tego mięsa do zakładu przetwórstwa, c) określa warunki składowania takiego mięsa;",
+         "text": "zakazuje wprowadzania takiego mięsa do obrotu, z wyłączeniem przewiezienia go do zlokalizowanego na terenie Polski zakładu dokonującego przemysłowej obróbki cieplnej lub innej obróbki tego mięsa mającej na celu wyeliminowanie Salmonella, b) nakazuje, by informować go o zamiarze wysyłki tego mięsa do zakładu przetwórstwa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_3/pkt_7/lit_c",
+         "text": "określa warunki składowania takiego mięsa;",
          "children": []
         }
        ]
@@ -1174,7 +1265,14 @@
          "type": "lit",
          "num": "b",
          "path": "ust_3/pkt_8/lit_b",
-         "text": "parametry zastosowanej obróbki cieplnej pod kątem jej skuteczności dla wyeliminowania Salmonella oraz c) zgodność ilości mięsa wprowadzonego do tego zakładu przetwórstwa oraz ilości mięsa poddanego ww. obróbce.",
+         "text": "parametry zastosowanej obróbki cieplnej pod kątem jej skuteczności dla wyeliminowania Salmonella oraz",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_3/pkt_8/lit_c",
+         "text": "zgodność ilości mięsa wprowadzonego do tego zakładu przetwórstwa oraz ilości mięsa poddanego ww. obróbce.",
          "children": [
           {
            "type": "text",
@@ -1188,7 +1286,28 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_3/pkt_1",
-       "text": "4 wymazy powierzchniowe z podłoża, w szczególności z miejsc popękanych, zagłębień lub połączeń konstrukcyjnych – w laboratorium łączone w jedną próbkę zbiorczą oraz 2) 4 wymazy powierzchniowe z kątów narożnych badanego pomieszczenia pobrane od poziomu podłogi do wysokości 1 m – w laboratorium łączone w jedną próbkę zbiorczą, oraz 3) 4 wymazy powierzchniowe z urządzenia służącego do karmienia – każdy wymaz pobrany z 5 metrów taśmy lub rynienki paszowej lub z 6 wybranych losowo karmideł – w laboratorium łączone w jedną próbkę zbiorczą, oraz 4) 4 wymazy powierzchniowe z systemu wentylacyjnego (każdy wymaz może być użyty do 3 wlotów lub wylotów tego systemu) – w laboratorium łączone w jedną próbkę zbiorczą, oraz 5) 4 wymazy powierzchniowe z magazynu jaj (z powierzchni sortownic, stołów) lub z końcowych 5 metrów systemu przeznaczonego do zbierania zniesionych jaj (taśmy) – w laboratorium łączone w jedną próbkę zbiorczą. W przypadku uzyskania dodatniego wyniku badania laboratoryjnego w kierunku Salmonella koszty pobrania kolejnych próbek do badania skuteczności wykonanego oczyszczania i odkażania, koszty dojazdu do zakładu drobiu oraz do laboratorium, jak również koszty badania laboratoryjnego próbek ponosi hodowca. Opłata obejmuje koszty:",
+       "text": "4 wymazy powierzchniowe z podłoża, w szczególności z miejsc popękanych, zagłębień lub połączeń konstrukcyjnych – w laboratorium łączone w jedną próbkę zbiorczą oraz",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "4 wymazy powierzchniowe z kątów narożnych badanego pomieszczenia pobrane od poziomu podłogi do wysokości 1 m – w laboratorium łączone w jedną próbkę zbiorczą, oraz",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "4 wymazy powierzchniowe z urządzenia służącego do karmienia – każdy wymaz pobrany z 5 metrów taśmy lub rynienki paszowej lub z 6 wybranych losowo karmideł – w laboratorium łączone w jedną próbkę zbiorczą, oraz",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_3/pkt_4",
+       "text": "4 wymazy powierzchniowe z systemu wentylacyjnego (każdy wymaz może być użyty do 3 wlotów lub wylotów tego systemu) – w laboratorium łączone w jedną próbkę zbiorczą, oraz 5) 4 wymazy powierzchniowe z magazynu jaj (z powierzchni sortownic, stołów) lub z końcowych 5 metrów systemu przeznaczonego do zbierania zniesionych jaj (taśmy) – w laboratorium łączone w jedną próbkę zbiorczą. W przypadku uzyskania dodatniego wyniku badania laboratoryjnego w kierunku Salmonella koszty pobrania kolejnych próbek do badania skuteczności wykonanego oczyszczania i odkażania, koszty dojazdu do zakładu drobiu oraz do laboratorium, jak również koszty badania laboratoryjnego próbek ponosi hodowca. Opłata obejmuje koszty:",
        "children": []
       },
       {
@@ -1221,7 +1340,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_3/pkt_1",
-       "text": "stada te są utrzymywane w kurnikach, których pomieszczenia nie są całkowicie odizolowane od pomieszczeń, w których znajduje się zakażony drób, lub 2) czynności związane z utrzymywaniem drobiu, w tym karmienie drobiu, nie odbywają się w sposób uniemożliwiający szerzenie się pałeczek Salmonella.",
+       "text": "stada te są utrzymywane w kurnikach, których pomieszczenia nie są całkowicie odizolowane od pomieszczeń, w których znajduje się zakażony drób, lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "czynności związane z utrzymywaniem drobiu, w tym karmienie drobiu, nie odbywają się w sposób uniemożliwiający szerzenie się pałeczek Salmonella.",
        "children": [
         {
          "type": "text",
@@ -1520,7 +1646,35 @@
        "type": "lit",
        "num": "a",
        "path": "ust_7/lit_a",
-       "text": "Region określony w programie danego państwa członkowskiego. b) Opis badania. c) Wyszczególnienie gatunków i kategorii zwierząt objętych programem – w razie potrzeby. d) Opis próbki (np. odchody). e) Opis celu (np. nadzór, monitorowanie, kontrola szczepień).",
+       "text": "Region określony w programie danego państwa członkowskiego.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_7/lit_b",
+       "text": "Opis badania.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_7/lit_c",
+       "text": "Wyszczególnienie gatunków i kategorii zwierząt objętych programem – w razie potrzeby.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_7/lit_d",
+       "text": "Opis próbki (np. odchody).",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_7/lit_e",
+       "text": "Opis celu (np. nadzór, monitorowanie, kontrola szczepień).",
        "children": [
         {
          "type": "text",

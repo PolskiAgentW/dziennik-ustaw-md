@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/78",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 stycznia 2025 r. w sprawie postępowania kwalifikacyjnego w stosunku do kandydatów ubiegających się o przyjęcie do służby w Straży Granicznej",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/78/text.pdf",
  "body": [
   {
@@ -2282,7 +2282,21 @@
      "children": [
       {
        "type": "text",
-       "text": "Kryteria oceny: a) umiejętność szybkiego i trafnego analizowania faktów i informacji, b) umiejętność tworzenia jasnych i precyzyjnych komunikatów, c) umiejętność udzielania pełnych, logicznych i wyczerpujących odpowiedzi."
+       "text": "Kryteria oceny: a) umiejętność szybkiego i trafnego analizowania faktów i informacji,"
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "umiejętność tworzenia jasnych i precyzyjnych komunikatów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_1/lit_c",
+       "text": "umiejętność udzielania pełnych, logicznych i wyczerpujących odpowiedzi.",
+       "children": []
       }
      ]
     },
@@ -2294,7 +2308,28 @@
      "children": [
       {
        "type": "text",
-       "text": "Kryteria oceny: a) umiejętność zaprezentowania siebie, b) umiejętność zachowania się w sposób taktowny i uprzejmy, c) umiejętność dostosowania własnego wyglądu i zachowania do miejsca i sytuacji, d) łatwość w nawiązywaniu kontaktów z innymi osobami oraz umiejętność budowania jakościowej relacji z drugą osobą."
+       "text": "Kryteria oceny: a) umiejętność zaprezentowania siebie,"
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/lit_b",
+       "text": "umiejętność zachowania się w sposób taktowny i uprzejmy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/lit_c",
+       "text": "umiejętność dostosowania własnego wyglądu i zachowania do miejsca i sytuacji,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_2/lit_d",
+       "text": "łatwość w nawiązywaniu kontaktów z innymi osobami oraz umiejętność budowania jakościowej relacji z drugą osobą.",
+       "children": []
       }
      ]
     },
@@ -2306,7 +2341,21 @@
      "children": [
       {
        "type": "text",
-       "text": "Kryteria oceny: a) umiejętność przystosowania się do zmieniających się warunków i sytuacji, b) określenie własnych predyspozycji do służby w Straży Granicznej, c) umiejętność wskazania zagrożeń, jakie niesie za sobą służba w Straży Granicznej."
+       "text": "Kryteria oceny: a) umiejętność przystosowania się do zmieniających się warunków i sytuacji,"
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_3/lit_b",
+       "text": "określenie własnych predyspozycji do służby w Straży Granicznej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_3/lit_c",
+       "text": "umiejętność wskazania zagrożeń, jakie niesie za sobą służba w Straży Granicznej.",
+       "children": []
       }
      ]
     },
@@ -2318,19 +2367,27 @@
      "children": [
       {
        "type": "text",
-       "text": "Kryteria oceny: a) deklarowanie chęci współpracy z innymi osobami oraz przejawianie inicjatywy w kontaktach międzyludzkich, b) umiejętność poszanowania wartości i godności innych osób, c) otwartość na różnorodność kulturową, poglądy, religię i obyczaje innych osób."
+       "text": "Kryteria oceny: a) deklarowanie chęci współpracy z innymi osobami oraz przejawianie inicjatywy w kontaktach międzyludzkich, b) umiejętność poszanowania wartości i godności innych osób,"
       },
       {
-       "type": "text",
-       "text": "Skala oceny:"
-      },
-      {
-       "type": "text",
-       "text": "0 pkt – nie spełnia 1 pkt – spełnia minimalnie 2 pkt – spełnia słabo 3 pkt – spełnia przeciętnie 4 pkt – spełnia dobrze 5 pkt – spełnia wysoko 6 pkt – spełnia bardzo wysoko"
-      },
-      {
-       "type": "text",
-       "text": "Zespół ocenia każdy z obszarów wymienionych w ust. 1–4 odrębnie w skali od 0 do 6 punktów, biorąc pod uwagę kryteria oceny wymienione w ramach danego obszaru."
+       "type": "lit",
+       "num": "c",
+       "path": "ust_4/lit_c",
+       "text": "otwartość na różnorodność kulturową, poglądy, religię i obyczaje innych osób.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Skala oceny:"
+        },
+        {
+         "type": "text",
+         "text": "0 pkt – nie spełnia 1 pkt – spełnia minimalnie 2 pkt – spełnia słabo 3 pkt – spełnia przeciętnie 4 pkt – spełnia dobrze 5 pkt – spełnia wysoko 6 pkt – spełnia bardzo wysoko"
+        },
+        {
+         "type": "text",
+         "text": "Zespół ocenia każdy z obszarów wymienionych w ust. 1–4 odrębnie w skali od 0 do 6 punktów, biorąc pod uwagę kryteria oceny wymienione w ramach danego obszaru."
+        }
+       ]
       }
      ]
     }

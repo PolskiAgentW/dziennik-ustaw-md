@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/852",
  "title": "Rozporządzenie Rady Ministrów z dnia 23 czerwca 2026 r. zmieniające rozporządzenie w sprawie zakresu danych i wykazu rejestrów publicznych oraz systemów teleinformatycznych podmiotów publicznych, z których użytkownik aplikacji mObywatel może pobrać dane",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/852/text.pdf",
  "body": [
   {
@@ -248,33 +248,40 @@
        "type": "lit",
        "num": "j",
        "path": "par_1/pkt_3/lit_j",
-       "text": "nazwa miejscowości i data wydania dyplomu, k) elementy dodatkowe dyplomu wprowadzone przez uczelnię:",
+       "text": "nazwa miejscowości i data wydania dyplomu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "par_1/pkt_3/lit_k",
+       "text": "elementy dodatkowe dyplomu wprowadzone przez uczelnię:",
        "children": [
         {
          "type": "tir",
          "num": "1",
-         "path": "par_1/pkt_3/lit_j/tir_1",
+         "path": "par_1/pkt_3/lit_k/tir_1",
          "text": "informacja o wyróżnieniu,",
          "children": []
         },
         {
          "type": "tir",
          "num": "2",
-         "path": "par_1/pkt_3/lit_j/tir_2",
+         "path": "par_1/pkt_3/lit_k/tir_2",
          "text": "zakres studiów,",
          "children": []
         },
         {
          "type": "tir",
          "num": "3",
-         "path": "par_1/pkt_3/lit_j/tir_3",
+         "path": "par_1/pkt_3/lit_k/tir_3",
          "text": "jednostka organizacyjna uczelni, w której jest realizowane kształcenie na studiach,",
          "children": []
         },
         {
          "type": "tir",
          "num": "4",
-         "path": "par_1/pkt_3/lit_j/tir_4",
+         "path": "par_1/pkt_3/lit_k/tir_4",
          "text": "dane osoby upoważnionej przez rektora innej niż osoba upoważniona do podpisania dyplomu określona w przepisach wydanych na podstawie art. 81 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce: imię i nazwisko, tytuł zawodowy, stopień lub tytuł profesora oraz funkcja pełniona w uczelni;",
          "children": []
         }

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/418",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo budowlane",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/418/text.pdf",
  "body": [
   {
@@ -1968,7 +1968,21 @@
          "type": "lit",
          "num": "a",
          "path": "art_14/ust_3/lit_a",
-         "text": "ukończenia studiów drugiego stopnia na kierunku odpowiednim dla danej specjalności, b) odbycia rocznej praktyki przy sporządzaniu projektów, c) odbycia rocznej praktyki na budowie;",
+         "text": "ukończenia studiów drugiego stopnia na kierunku odpowiednim dla danej specjalności,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_14/ust_3/lit_b",
+         "text": "odbycia rocznej praktyki przy sporządzaniu projektów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_14/ust_3/lit_c",
+         "text": "odbycia rocznej praktyki na budowie;",
          "children": []
         },
         {
@@ -1987,10 +2001,17 @@
              "type": "tir",
              "num": "1",
              "path": "art_14/ust_3/pkt_2/lit_a/tir_1",
-             "text": "studiów pierwszego stopnia na kierunku odpowiednim dla danej specjalności lub – studiów drugiego stopnia na kierunku pokrewnym dla danej specjalności, b) odbycia rocznej praktyki przy sporządzaniu projektów, c) odbycia rocznej praktyki na budowie;",
+             "text": "studiów pierwszego stopnia na kierunku odpowiednim dla danej specjalności lub – studiów drugiego stopnia na kierunku pokrewnym dla danej specjalności, b) odbycia rocznej praktyki przy sporządzaniu projektów,",
              "children": []
             }
            ]
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "art_14/ust_3/pkt_2/lit_c",
+           "text": "odbycia rocznej praktyki na budowie;",
+           "children": []
           }
          ]
         },
@@ -1998,28 +2019,36 @@
          "type": "pkt",
          "num": "3",
          "path": "art_14/ust_3/pkt_3",
-         "text": "do kierowania robotami budowlanymi bez ograniczeń: a) ukończenia studiów drugiego lub pierwszego stopnia na kierunku odpowiednim dla danej specjalności, b) odbycia odpowiednio półtorarocznej lub trzyletniej praktyki na budowie; 4) do kierowania robotami budowlanymi w ograniczonym zakresie: a) ukończenia:",
+         "text": "do kierowania robotami budowlanymi bez ograniczeń: a) ukończenia studiów drugiego lub pierwszego stopnia na kierunku odpowiednim dla danej specjalności,",
          "children": [
           {
-           "type": "tir",
-           "num": "1",
-           "path": "art_14/ust_3/pkt_3/tir_1",
-           "text": "studiów drugiego stopnia na kierunku pokrewnym dla danej specjalności lub – studiów pierwszego stopnia na kierunku odpowiednim dla danej specjalności, lub – studiów pierwszego stopnia na kierunku pokrewnym dla danej specjalności, lub b) posiadania:",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "2",
-           "path": "art_14/ust_3/pkt_3/tir_2",
-           "text": "tytułu zawodowego technika lub mistrza, albo – dyplomu zawodowego albo dyplomu potwierdzającego kwalifikacje zawodowe, w zawodzie nauczanym na poziomie technika",
-           "children": []
-          },
-          {
-           "type": "tir",
-           "num": "3",
-           "path": "art_14/ust_3/pkt_3/tir_3",
-           "text": "w zawodach związanych z budownictwem określonych w przepisach wydanych na podstawie art. 16, w zakresie odpowiednim dla danej specjalności,",
-           "children": []
+           "type": "lit",
+           "num": "b",
+           "path": "art_14/ust_3/pkt_3/lit_b",
+           "text": "odbycia odpowiednio półtorarocznej lub trzyletniej praktyki na budowie; 4) do kierowania robotami budowlanymi w ograniczonym zakresie: a) ukończenia:",
+           "children": [
+            {
+             "type": "tir",
+             "num": "1",
+             "path": "art_14/ust_3/pkt_3/lit_b/tir_1",
+             "text": "studiów drugiego stopnia na kierunku pokrewnym dla danej specjalności lub – studiów pierwszego stopnia na kierunku odpowiednim dla danej specjalności, lub – studiów pierwszego stopnia na kierunku pokrewnym dla danej specjalności, lub b) posiadania:",
+             "children": []
+            },
+            {
+             "type": "tir",
+             "num": "2",
+             "path": "art_14/ust_3/pkt_3/lit_b/tir_2",
+             "text": "tytułu zawodowego technika lub mistrza, albo – dyplomu zawodowego albo dyplomu potwierdzającego kwalifikacje zawodowe, w zawodzie nauczanym na poziomie technika",
+             "children": []
+            },
+            {
+             "type": "tir",
+             "num": "3",
+             "path": "art_14/ust_3/pkt_3/lit_b/tir_3",
+             "text": "w zawodach związanych z budownictwem określonych w przepisach wydanych na podstawie art. 16, w zakresie odpowiednim dla danej specjalności,",
+             "children": []
+            }
+           ]
           },
           {
            "type": "lit",

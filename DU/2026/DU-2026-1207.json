@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1207",
  "title": "Obwieszczenie Ministra Nauki i Szkolnictwa Wyższego z dnia 25 sierpnia 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkolnictwa Wyższego w sprawie studiów",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1207/text.pdf",
  "body": [
   {
@@ -3952,7 +3952,28 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_8/pkt_1",
-       "text": "format po obcięciu A4 (210 x 297 mm); 2) papier offsetowy biały, gramatura 80 g/m²; 3) druk dwustronny w kolorze czarnym; 4) suplement oraz odpis suplementu przeznaczony do akt w lewym górnym rogu zszyty i opatrzony pieczęcią urzędową uczelni; 5) tekst: czcionka Times New Roman CE 11 pkt, napis „SUPLEMENT DO DYPLOMU” – wersaliki 14 pkt, w punkcie 8 – czcionka Times New Roman CE 10 pkt, oznaczenie stron – czcionka Times New Roman CE 8 pkt; 6) podczas wypełniania suplementu kropki oznaczające wiersze mogą być zastąpione wpisanym tekstem.",
+       "text": "format po obcięciu A4 (210 x 297 mm);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_8/pkt_2",
+       "text": "papier offsetowy biały, gramatura 80 g/m²;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_8/pkt_3",
+       "text": "druk dwustronny w kolorze czarnym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_8/pkt_4",
+       "text": "suplement oraz odpis suplementu przeznaczony do akt w lewym górnym rogu zszyty i opatrzony pieczęcią urzędową uczelni; 5) tekst: czcionka Times New Roman CE 11 pkt, napis „SUPLEMENT DO DYPLOMU” – wersaliki 14 pkt, w punkcie 8 – czcionka Times New Roman CE 10 pkt, oznaczenie stron – czcionka Times New Roman CE 8 pkt; 6) podczas wypełniania suplementu kropki oznaczające wiersze mogą być zastąpione wpisanym tekstem.",
        "children": []
       }
      ]
@@ -4155,7 +4176,14 @@
      "type": "pkt",
      "num": "9",
      "path": "pkt_9",
-     "text": "dokument zawiera identyfikator umożliwiający jego weryfikację w repozytorium dyplomów elektronicznych; 10) podczas generowania dokumentu w repozytorium dyplomów elektronicznych kropki umieszczone we wzorze oznaczające wiersze są zastępowane danymi.",
+     "text": "dokument zawiera identyfikator umożliwiający jego weryfikację w repozytorium dyplomów elektronicznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "podczas generowania dokumentu w repozytorium dyplomów elektronicznych kropki umieszczone we wzorze oznaczające wiersze są zastępowane danymi.",
      "children": []
     }
    ]

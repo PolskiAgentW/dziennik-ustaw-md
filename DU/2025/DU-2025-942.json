@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/942",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 11 lipca 2025 r. w sprawie rodzajów Centrów Doskonałości Kardiologicznej oraz szczegółowych warunków przyznania ośrodkowi kardiologicznemu statusu Centrum Doskonałości Kardiologicznej",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/942/text.pdf",
  "body": [
   {
@@ -150,36 +150,327 @@
       },
       {
        "type": "text",
-       "text": "1 Komórki organizacyjne Ośrodek kardiologiczny ma w strukturze organizacyjnej w lokalizacji zakładu leczniczego następujące komórki organizacyjne, posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, z późn. zm.): 1) 1100 Poradnia kardiologiczna; 2) 4100 Oddział kardiologiczny; 3) 4106 Oddział lub pododdział intensywnego nadzoru kardiologicznego; 4) 4260 Oddział anestezjologii i intensywnej terapii; 5) 4560 Oddział kardiochirurgiczny; 6) 4900 Izba przyjęć szpitala lub 4902 Szpitalny oddział ratunkowy; 7) 7210 Pracownia USG lub 7998 Inne pracownie diagnostyczne lub zabiegowe; 8) 7220 Pracownia tomografii komputerowej; 9) 7230 Pracownia radiologii zabiegowej lub 7232 Pracownia hemodynamiki; 10) 7234 Pracownia elektrofizjologii; 11) 7240 Pracownia rentgenodiagnostyki ogólnej; 12) 7250 Pracownia rezonansu magnetycznego."
-      },
-      {
-       "type": "text",
-       "text": "2 Organizacja udzielania Ośrodek kardiologiczny: świadczeń 1) zapewnia realizację świadczeń opieki zdrowotnej zgodnie z warunkami szczegółowymi określonymi w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm.), w zakresach, o których mowa w art. 15 ust. 2 pkt 2 i 3 tej ustawy; 2) współpracuje na podstawie umowy albo porozumienia z podmiotem leczniczym realizującym świadczenia z zakresu kardiologii dziecięcej w celu kontynuacji opieki nad pacjentem po ukończeniu przez niego 18. roku życia; 3) współpracuje na podstawie umowy albo porozumienia z innymi podmiotami leczniczymi, zapewniając dostęp do lekarzy specjalistów w dziedzinach: a) chirurgii ogólnej, b) chorób wewnętrznych, c) gastrologii, d) nefrologii, e) pulmonologii, f) ginekologii i położnictwa, g) kardiologii dziecięcej z doświadczeniem z zakresu echokardiografii płodowej potwierdzonym przez konsultanta krajowego w dziedzinie kardiologii albo konsultanta wojewódzkiego w dziedzinie kardiologii za zgodą konsultanta krajowego w dziedzinie kardiologii – w przypadku braku zapewnienia dostępu do tych lekarzy w tym ośrodku; 4) zapewnia możliwość prowadzenia konsultacji, w tym za pośrednictwem systemów teleinformatycznych, z podmiotami leczniczymi realizującymi świadczenia z zakresu kardiologii dziecięcej; 5) posiada blok operacyjny wyposażony w salę hybrydową."
-      },
-      {
-       "type": "text",
-       "text": "C RODZAJ LUB LICZBA PROCEDUR LUB LICZBA ŚWIADCZENIOBIORCÓW"
-      },
-      {
-       "type": "text",
-       "text": "1 Rodzaj procedur Ośrodek kardiologiczny w ramach zawartej z Narodowym Funduszem Zdrowia umowy o udzielanie świadczeń opieki zdrowotnej zapewnia możliwość realizacji w lokalizacji zakładu leczniczego co najmniej następujących procedur medycznych dotyczących świadczeniobiorców z wrodzoną wadą serca, zgodnie z Międzynarodową Klasyfikacją Procedur Medycznych ICD-9: 1) 00.50 Wszczepienie układu resynchronizującego serce bez funkcji defibrylacji [CRT-P]; 2) 00.51 Wszczepienie układu resynchronizującego serce z funkcją defibrylacji [CRT-D]; 3) 35.2 Wymiana zastawki serca (zakres 35.21–35.29);"
+       "text": "1 Komórki organizacyjne Ośrodek kardiologiczny ma w strukturze organizacyjnej w lokalizacji zakładu leczniczego następujące komórki organizacyjne, posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, z późn. zm.): 1) 1100 Poradnia kardiologiczna;"
       }
      ]
     },
     {
      "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "4100 Oddział kardiologiczny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "4106 Oddział lub pododdział intensywnego nadzoru kardiologicznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "35.521 Wprowadzenie parasola przedsionkowego (metoda King Mills); 5) 37.21 Cewnikowanie prawego serca lub 37.22 Cewnikowanie lewego serca, lub 37.23 Cewnikowanie lewego i prawego serca; 6) 37.261 Badania elektrofizjologiczne [EPS]; 7) 37.82 Wszczepienie rozrusznika jednojamowego; 8) 37.83 Wszczepienie rozrusznika dwujamowego; 9) 87.440 RTG klatki piersiowej; 10) 88.721 Echokardiografia lub 88.722 Echokardiografia przezprzełykowa, lub 88.723 Echokardiografia obciążeniowa; 11) 88.926 Rezonans magnetyczny serca – badanie czynnościowe i morfologiczne bez i ze wzmocnieniem kontrastowym; 12) 89.002 Konsultacja kardiologiczna; 13) 89.41 Badanie wysiłkowe serca na bieżni ruchomej lub 89.43 Badanie wysiłkowe serca na ergometrze rowerowym; 14) 89.442 Sześciominutowy test marszu; 15) 89.501 Monitorowanie ciśnienia tętniczego krwi za pomocą urządzeń analogowych lub cyfrowych (typu Holter) – Holter RR; 16) 89.502 Monitorowanie czynności serca za pomocą urządzeń analogowych lub cyfrowych (typu Holter) – Holter EKG; 17) 89.521 Elektrokardiografia nieokreślona; 18) 89.522 Elektrokardiografia z 12 lub więcej odprowadzeniami (z opisem).",
+     "text": "4260 Oddział anestezjologii i intensywnej terapii;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "4560 Oddział kardiochirurgiczny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "4900 Izba przyjęć szpitala lub 4902 Szpitalny oddział ratunkowy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "7210 Pracownia USG lub 7998 Inne pracownie diagnostyczne lub zabiegowe;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "7220 Pracownia tomografii komputerowej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "7230 Pracownia radiologii zabiegowej lub 7232 Pracownia hemodynamiki;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "7234 Pracownia elektrofizjologii;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "pkt_11",
+     "text": "7240 Pracownia rentgenodiagnostyki ogólnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "pkt_12",
+     "text": "7250 Pracownia rezonansu magnetycznego.",
      "children": [
       {
        "type": "text",
-       "text": "2 Liczba procedur Dla ośrodka kardiologicznego w lokalizacji zakładu leczniczego w ramach zawartej z Narodowym Funduszem Zdrowia umowy o udzielanie świadczeń opieki zdrowotnej minimalna średnioroczna liczba procedur medycznych dotyczących świadczeniobiorców z wrodzoną wadą serca, zgodnie z Międzynarodową Klasyfikacją Procedur Medycznych ICD-9: 1) 35.2 Wymiana zastawki serca (zakres 35.21–35.29), 2) 35.521 Wprowadzenie parasola przedsionkowego (metoda King Mills) – wynosi łącznie co najmniej 40 procedur średniorocznie w okresie ostatnich trzech lat kalendarzowych poprzedzających kwalifikację, o której mowa w art. 13 ust. 1 pkt 1 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej, zwanej dalej „ustawą”; 3) 37.261 Badania elektrofizjologiczne [EPS], 4) 37.82 Wszczepienie rozrusznika jednojamowego, 5) 37.83 Wszczepienie rozrusznika dwujamowego – wynosi łącznie co najmniej 80 procedur średniorocznie w okresie ostatnich trzech lat kalendarzowych poprzedzających kwalifikację, o której mowa w art. 13 ust. 1 pkt 1 ustawy."
+       "text": "2 Organizacja udzielania Ośrodek kardiologiczny: świadczeń 1) zapewnia realizację świadczeń opieki zdrowotnej zgodnie z warunkami szczegółowymi określonymi w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm.), w zakresach, o których mowa w art. 15 ust. 2 pkt 2 i 3 tej ustawy; 2) współpracuje na podstawie umowy albo porozumienia z podmiotem leczniczym realizującym świadczenia z zakresu kardiologii dziecięcej w celu kontynuacji opieki nad pacjentem po ukończeniu przez niego 18. roku życia; 3) współpracuje na podstawie umowy albo porozumienia z innymi podmiotami leczniczymi, zapewniając dostęp do lekarzy specjalistów w dziedzinach: a) chirurgii ogólnej,"
       },
       {
-       "type": "text",
-       "text": "3 Liczba Ośrodek kardiologiczny w okresie ostatnich trzech lat kalendarzowych poprzedzających kwalifikację, o której mowa świadczeniobiorców w art. 13 ust. 1 pkt 1 ustawy, w ramach zawartej z Narodowym Funduszem Zdrowia umowy o udzielanie świadczeń opieki zdrowotnej realizował opiekę kardiologiczną dla co najmniej 50 świadczeniobiorców pełnoletnich (unikalnych numerów PESEL) średniorocznie z rozpoznaniem zasadniczym lub współistniejącym: 1) Q20 – Wrodzone wady rozwojowe jam i połączeń sercowych, 2) Q21 – Wrodzone wady rozwojowe przegród serca, 3) Q22 – Wrodzone wady rozwojowe zastawki tętnicy płucnej, 4) Q23 – Wrodzone wady rozwojowe zastawki aortalnej, 5) Q24 – Inne wrodzone wady rozwojowe serca, 6) Q25 – Wrodzone wady rozwojowe tętnic, 7) Q26 – Wrodzone wady rozwojowe żył, 8) Q27 – Inne wrodzone wady rozwojowe naczyń krwionośnych, 9) Q28 – Inne wrodzone wady rozwojowe układu krążenia – zgodnie z Międzynarodową Klasyfikacją Chorób i Problemów Zdrowotnych ICD-10."
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_12/lit_b",
+       "text": "chorób wewnętrznych,",
+       "children": []
       },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_12/lit_c",
+       "text": "gastrologii,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "pkt_12/lit_d",
+       "text": "nefrologii,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "pkt_12/lit_e",
+       "text": "pulmonologii,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "pkt_12/lit_f",
+       "text": "ginekologii i położnictwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "pkt_12/lit_g",
+       "text": "kardiologii dziecięcej z doświadczeniem z zakresu echokardiografii płodowej potwierdzonym przez konsultanta krajowego w dziedzinie kardiologii albo konsultanta wojewódzkiego w dziedzinie kardiologii za zgodą konsultanta krajowego w dziedzinie kardiologii – w przypadku braku zapewnienia dostępu do tych lekarzy w tym ośrodku; 4) zapewnia możliwość prowadzenia konsultacji, w tym za pośrednictwem systemów teleinformatycznych, z podmiotami leczniczymi realizującymi świadczenia z zakresu kardiologii dziecięcej; 5) posiada blok operacyjny wyposażony w salę hybrydową.",
+       "children": [
+        {
+         "type": "text",
+         "text": "C RODZAJ LUB LICZBA PROCEDUR LUB LICZBA ŚWIADCZENIOBIORCÓW"
+        },
+        {
+         "type": "text",
+         "text": "1 Rodzaj procedur Ośrodek kardiologiczny w ramach zawartej z Narodowym Funduszem Zdrowia umowy o udzielanie świadczeń opieki zdrowotnej zapewnia możliwość realizacji w lokalizacji zakładu leczniczego co najmniej następujących procedur medycznych dotyczących świadczeniobiorców z wrodzoną wadą serca, zgodnie z Międzynarodową Klasyfikacją Procedur Medycznych ICD-9: 1) 00.50 Wszczepienie układu resynchronizującego serce bez funkcji defibrylacji [CRT-P];"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "00.51 Wszczepienie układu resynchronizującego serce z funkcją defibrylacji [CRT-D];",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "35.2 Wymiana zastawki serca (zakres 35.21–35.29);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "35.521 Wprowadzenie parasola przedsionkowego (metoda King Mills);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "37.21 Cewnikowanie prawego serca lub 37.22 Cewnikowanie lewego serca, lub 37.23 Cewnikowanie lewego i prawego serca; 6) 37.261 Badania elektrofizjologiczne [EPS];",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "37.82 Wszczepienie rozrusznika jednojamowego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "37.83 Wszczepienie rozrusznika dwujamowego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "87.440 RTG klatki piersiowej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "88.721 Echokardiografia lub 88.722 Echokardiografia przezprzełykowa, lub 88.723 Echokardiografia obciążeniowa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "pkt_11",
+     "text": "88.926 Rezonans magnetyczny serca – badanie czynnościowe i morfologiczne bez i ze wzmocnieniem kontrastowym; 12) 89.002 Konsultacja kardiologiczna;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "pkt_13",
+     "text": "89.41 Badanie wysiłkowe serca na bieżni ruchomej lub 89.43 Badanie wysiłkowe serca na ergometrze rowerowym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "pkt_14",
+     "text": "89.442 Sześciominutowy test marszu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "pkt_15",
+     "text": "89.501 Monitorowanie ciśnienia tętniczego krwi za pomocą urządzeń analogowych lub cyfrowych (typu Holter) – Holter RR; 16) 89.502 Monitorowanie czynności serca za pomocą urządzeń analogowych lub cyfrowych (typu Holter) – Holter EKG;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "pkt_17",
+     "text": "89.521 Elektrokardiografia nieokreślona;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "pkt_18",
+     "text": "89.522 Elektrokardiografia z 12 lub więcej odprowadzeniami (z opisem).",
+     "children": [
+      {
+       "type": "text",
+       "text": "2 Liczba procedur Dla ośrodka kardiologicznego w lokalizacji zakładu leczniczego w ramach zawartej z Narodowym Funduszem Zdrowia umowy o udzielanie świadczeń opieki zdrowotnej minimalna średnioroczna liczba procedur medycznych dotyczących świadczeniobiorców z wrodzoną wadą serca, zgodnie z Międzynarodową Klasyfikacją Procedur Medycznych ICD-9: 1) 35.2 Wymiana zastawki serca (zakres 35.21–35.29),"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "35.521 Wprowadzenie parasola przedsionkowego (metoda King Mills) – wynosi łącznie co najmniej 40 procedur średniorocznie w okresie ostatnich trzech lat kalendarzowych poprzedzających kwalifikację, o której mowa w art. 13 ust. 1 pkt 1 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej, zwanej dalej „ustawą”; 3) 37.261 Badania elektrofizjologiczne [EPS],",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "37.82 Wszczepienie rozrusznika jednojamowego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "37.83 Wszczepienie rozrusznika dwujamowego – wynosi łącznie co najmniej 80 procedur średniorocznie w okresie ostatnich trzech lat kalendarzowych poprzedzających kwalifikację, o której mowa w art. 13 ust. 1 pkt 1 ustawy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "3 Liczba Ośrodek kardiologiczny w okresie ostatnich trzech lat kalendarzowych poprzedzających kwalifikację, o której mowa świadczeniobiorców w art. 13 ust. 1 pkt 1 ustawy, w ramach zawartej z Narodowym Funduszem Zdrowia umowy o udzielanie świadczeń opieki zdrowotnej realizował opiekę kardiologiczną dla co najmniej 50 świadczeniobiorców pełnoletnich (unikalnych numerów PESEL) średniorocznie z rozpoznaniem zasadniczym lub współistniejącym: 1) Q20 – Wrodzone wady rozwojowe jam i połączeń sercowych,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Q21 – Wrodzone wady rozwojowe przegród serca,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Q22 – Wrodzone wady rozwojowe zastawki tętnicy płucnej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Q23 – Wrodzone wady rozwojowe zastawki aortalnej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "Q24 – Inne wrodzone wady rozwojowe serca,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "Q25 – Wrodzone wady rozwojowe tętnic,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "Q26 – Wrodzone wady rozwojowe żył,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "Q27 – Inne wrodzone wady rozwojowe naczyń krwionośnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "Q28 – Inne wrodzone wady rozwojowe układu krążenia – zgodnie z Międzynarodową Klasyfikacją Chorób i Problemów Zdrowotnych ICD-10.",
+     "children": [
       {
        "type": "text",
        "text": "CENTRUM DOSKONAŁOŚCI KARDIOLOGICZNEJ CHORÓB NACZYŃ PŁUCNYCH"
@@ -206,8 +497,37 @@
       },
       {
        "type": "text",
-       "text": "1 Komórki organizacyjne Ośrodek kardiologiczny ma w strukturze organizacyjnej w lokalizacji zakładu leczniczego następujące komórki organizacyjne posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej: 1) 4100 Oddział kardiologiczny; 2) 4106 Oddział lub pododdział intensywnego nadzoru kardiologicznego; 3) 4260 Oddział anestezjologii i intensywnej terapii; 4) 4910 Blok operacyjny; 5) 7230 Pracownia radiologii zabiegowej lub 7232 Pracownia hemodynamiki."
-      },
+       "text": "1 Komórki organizacyjne Ośrodek kardiologiczny ma w strukturze organizacyjnej w lokalizacji zakładu leczniczego następujące komórki organizacyjne posiadające resortowy kod identyfikacyjny, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej: 1) 4100 Oddział kardiologiczny;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "4106 Oddział lub pododdział intensywnego nadzoru kardiologicznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "4260 Oddział anestezjologii i intensywnej terapii;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "4910 Blok operacyjny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "7230 Pracownia radiologii zabiegowej lub 7232 Pracownia hemodynamiki.",
+     "children": [
       {
        "type": "text",
        "text": "2 Organizacja udzielania Ośrodek kardiologiczny: świadczeń 1) zapewnia realizację świadczeń opieki zdrowotnej zgodnie z warunkami szczegółowymi określonymi w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresach, o których mowa w art. 15 ust. 2 pkt 2 i 3 tej ustawy; 2) współpracuje na podstawie umowy albo porozumienia z podmiotem leczniczym wykonującym przeszczepianie płuc – w przypadku gdy ośrodek nie wykonuje przeszczepiania płuc; 3) posiada co najmniej 2-letnie doświadczenie w prowadzeniu interdyscyplinarnego zespołu szybkiego reagowania w ostrej zatorowości płucnej (ang. Pulmonary Embolism Response Team) potwierdzone przez krajowego konsultanta w dziedzinie kardiologii albo konsultanta wojewódzkiego w dziedzinie kardiologii za zgodą konsultanta krajowego w dziedzinie kardiologii."
@@ -218,15 +538,44 @@
       },
       {
        "type": "text",
-       "text": "1 Rodzaj procedur Ośrodek kardiologiczny w ramach zawartej z Narodowym Funduszem Zdrowia umowy o udzielanie świadczeń opieki zdrowotnej zapewnia możliwość realizacji w lokalizacji zakładu leczniczego co najmniej następujących procedur medycznych dotyczących świadczeniobiorców z chorobą naczyń płucnych, zgodnie z Międzynarodową Klasyfikacją Procedur Medycznych ICD-9: 1) 37.21 Cewnikowanie prawego serca lub 37.23 Cewnikowanie prawego i lewego serca; 2) 38.711 Wprowadzenie filtra stałego do żyły głównej lub 38.712 Wprowadzenie filtra czasowego do żyły głównej, lub 38.713 Usunięcie filtra z żyły głównej; 3) 39.500 Przezskórna angioplastyka (PTA) żylna; 4) 87.411 TK klatki piersiowej bez i ze wzmocnieniem kontrastowym; 5) 89.385 Ergospirometria."
-      },
+       "text": "1 Rodzaj procedur Ośrodek kardiologiczny w ramach zawartej z Narodowym Funduszem Zdrowia umowy o udzielanie świadczeń opieki zdrowotnej zapewnia możliwość realizacji w lokalizacji zakładu leczniczego co najmniej następujących procedur medycznych dotyczących świadczeniobiorców z chorobą naczyń płucnych, zgodnie z Międzynarodową Klasyfikacją Procedur Medycznych ICD-9: 1) 37.21 Cewnikowanie prawego serca lub 37.23 Cewnikowanie prawego i lewego serca;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "38.711 Wprowadzenie filtra stałego do żyły głównej lub 38.712 Wprowadzenie filtra czasowego do żyły głównej, lub 38.713 Usunięcie filtra z żyły głównej; 3) 39.500 Przezskórna angioplastyka (PTA) żylna;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "87.411 TK klatki piersiowej bez i ze wzmocnieniem kontrastowym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "89.385 Ergospirometria.",
+     "children": [
       {
        "type": "text",
        "text": "2 Liczba procedur Dla ośrodka kardiologicznego w lokalizacji zakładu leczniczego w ramach zawartej z Narodowym Funduszem Zdrowia umowy o udzielanie świadczeń opieki zdrowotnej minimalna liczba wykonanych procedur medycznych, zgodnie z Międzynarodową Klasyfikacją Procedur Medycznych ICD-9, o kodach 37.21 Cewnikowanie prawego serca lub 37.23 Cewnikowanie prawego i lewego serca − wynosi co najmniej 100 zabiegów w okresie roku poprzedzającego kwalifikację, o której mowa w art. 13 ust. 1 pkt 1 ustawy."
       },
       {
        "type": "text",
-       "text": "3 Liczba Ośrodek kardiologiczny w okresie trzech lat kalendarzowych poprzedzających kwalifikację, o której mowa w art. 13 ust. 1 świadczeniobiorców pkt 1 ustawy, w ramach zawartej z Narodowym Funduszem Zdrowia umowy o udzielanie świadczeń opieki zdrowotnej: 1) zapewniał opiekę kardiologiczną w ramach hospitalizacji dla następującej liczby świadczeniobiorców z rozpoznaniem zasadniczym lub współistniejącym, zgodnie z Międzynarodową Klasyfikacją Chorób i Problemów Zdrowotnych ICD-10: a) I26 Zator płucny – dla co najmniej 100 świadczeniobiorców (unikalnych numerów PESEL) średniorocznie, b) I27 Inne zespoły sercowo-płucne – dla co najmniej 35 świadczeniobiorców (unikalnych numerów PESEL) średniorocznie; 2) prowadził łącznie programy lekowe, o których mowa w art. 2 pkt 18 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, w zakresie leczenia tętniczego nadciśnienia płucnego (ICD-10: I27, I27.0) oraz leczenia przewlekłego zakrzepowo-zatorowego nadciśnienia płucnego (ICD-10: I27, I27.0 albo I26) dla co najmniej 30 świadczeniobiorców (unikalnych numerów PESEL) średniorocznie."
+       "text": "3 Liczba Ośrodek kardiologiczny w okresie trzech lat kalendarzowych poprzedzających kwalifikację, o której mowa w art. 13 ust. 1 świadczeniobiorców pkt 1 ustawy, w ramach zawartej z Narodowym Funduszem Zdrowia umowy o udzielanie świadczeń opieki zdrowotnej: 1) zapewniał opiekę kardiologiczną w ramach hospitalizacji dla następującej liczby świadczeniobiorców z rozpoznaniem zasadniczym lub współistniejącym, zgodnie z Międzynarodową Klasyfikacją Chorób i Problemów Zdrowotnych ICD-10: a) I26 Zator płucny – dla co najmniej 100 świadczeniobiorców (unikalnych numerów PESEL) średniorocznie,"
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_5/lit_b",
+       "text": "I27 Inne zespoły sercowo-płucne – dla co najmniej 35 świadczeniobiorców (unikalnych numerów PESEL) średniorocznie; 2) prowadził łącznie programy lekowe, o których mowa w art. 2 pkt 18 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, w zakresie leczenia tętniczego nadciśnienia płucnego (ICD-10: I27, I27.0) oraz leczenia przewlekłego zakrzepowo-zatorowego nadciśnienia płucnego (ICD-10: I27, I27.0 albo I26) dla co najmniej 30 świadczeniobiorców (unikalnych numerów PESEL) średniorocznie.",
+       "children": []
       }
      ]
     }

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/437",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rozwiązywaniu sporów zbiorowych",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/437/text.pdf",
  "body": [
   {
@@ -192,14 +192,14 @@
      "type": "art",
      "num": "5",
      "path": "art_5",
-     "text": "Pracodawcą w rozumieniu ustawy jest podmiot, o którym mowa w art. 1 [1] pkt 2 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2025 r. poz. 440 i 1661).",
+     "text": "Pracodawcą w rozumieniu ustawy jest podmiot, o którym mowa w art. 1¹ pkt 2 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2025 r. poz. 440 i 1661).",
      "children": []
     },
     {
      "type": "art",
      "num": "6",
      "path": "art_6",
-     "text": "Przepisy ustawy, w których jest mowa o pracownikach, mają odpowiednie zastosowanie do innych niż pracownicy osób wykonujących pracę zarobkową, o których mowa w art. 1 [1] pkt 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych, oraz osób, o których mowa w art. 2 ust. 5 i 6 ustawy z dnia 23 maja 1991 r. o związkach zawodowych.",
+     "text": "Przepisy ustawy, w których jest mowa o pracownikach, mają odpowiednie zastosowanie do innych niż pracownicy osób wykonujących pracę zarobkową, o których mowa w art. 1¹ pkt 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych, oraz osób, o których mowa w art. 2 ust. 5 i 6 ustawy z dnia 23 maja 1991 r. o związkach zawodowych.",
      "children": []
     },
     {
@@ -266,31 +266,36 @@
        "num": "1",
        "path": "art_11/ust_1",
        "text": "Mediatora ustalają wspólnie strony sporu zbiorowego. Mediatorem może być osoba z listy ustalonej przez ministra właściwego do spraw pracy w uzgodnieniu z organizacjami związkowymi oraz organizacjami pracodawców, reprezentatywnymi w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm.[^2]).",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1¹",
+       "path": "art_11/ust_1¹",
+       "text": "Wpis na listę, o której mowa w ust. 1, obejmuje co najmniej:",
        "children": [
-        {
-         "type": "text",
-         "text": "1 [1] . Wpis na listę, o której mowa w ust. 1, obejmuje co najmniej:"
-        },
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_11/ust_1/pkt_1",
+         "path": "art_11/ust_1¹/pkt_1",
          "text": "imię (imiona) i nazwisko;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_11/ust_1/pkt_2",
+         "path": "art_11/ust_1¹/pkt_2",
          "text": "dane kontaktowe wskazane przez osobę ubiegającą się o wpis na listę.",
-         "children": [
-          {
-           "type": "text",
-           "text": "1 [2] . Przetwarzanie danych osobowych innych niż wymienione w ust. 1 [1] jest dopuszczalne za zgodą osoby ubiegającej się o uzyskanie wpisu na listę, o której mowa w ust. 1."
-          }
-         ]
+         "children": []
         }
        ]
+      },
+      {
+       "type": "ust",
+       "num": "1²",
+       "path": "art_11/ust_1²",
+       "text": "Przetwarzanie danych osobowych innych niż wymienione w ust. 1¹ jest dopuszczalne za zgodą osoby ubiegającej się o uzyskanie wpisu na listę, o której mowa w ust. 1.",
+       "children": []
       },
       {
        "type": "ust",
@@ -304,38 +309,48 @@
        "num": "3",
        "path": "art_11/ust_3",
        "text": "Minister właściwy do spraw pracy określi, w drodze rozporządzenia, warunki wynagradzania mediatorów z listy, o której mowa w ust. 1, uwzględniając czas trwania mediacji.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 11 [1] . 1. Mediatorom na czas prowadzenia mediacji przysługuje zwolnienie od pracy. Łączny wymiar tego zwolnienia w roku kalendarzowym nie może przekraczać 30 dni."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "11¹",
+     "path": "art_11¹",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_11¹/ust_1",
+       "text": "Mediatorom na czas prowadzenia mediacji przysługuje zwolnienie od pracy. Łączny wymiar tego zwolnienia w roku kalendarzowym nie może przekraczać 30 dni.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_11/ust_2",
+       "path": "art_11¹/ust_2",
        "text": "Wynagrodzenie należne mediatorowi oraz zwrot poniesionych kosztów przejazdu i zakwaterowania określa umowa zawarta przez mediatora ze stronami sporu zbiorowego.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
-       "path": "art_11/ust_3",
+       "path": "art_11¹/ust_3",
        "text": "Wynagrodzenie mediatora nie może być niższe od ustalonego w drodze rozporządzenia, o którym mowa w art. 11 ust. 3.",
        "children": []
       },
       {
        "type": "ust",
        "num": "4",
-       "path": "art_11/ust_4",
+       "path": "art_11¹/ust_4",
        "text": "Koszty postępowania mediacyjnego, o których mowa w ust. 2, ponoszą strony sporu zbiorowego w równych częściach, chyba że uzgodnią inny ich podział.",
        "children": []
       },
       {
        "type": "ust",
        "num": "5",
-       "path": "art_11/ust_5",
+       "path": "art_11¹/ust_5",
        "text": "W razie udokumentowanego braku środków na pokrycie kosztów, o których mowa w ust. 2 i 4, na wniosek strony sporu zbiorowego, minister właściwy do spraw pracy pokrywa koszty mediacji, z tym że wynagrodzenie mediatora jest pokrywane do wysokości określonej w rozporządzeniu, o którym mowa w art. 11 ust. 3.",
        "children": []
       }

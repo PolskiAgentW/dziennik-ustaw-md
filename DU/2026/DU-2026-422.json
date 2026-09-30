@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/422",
  "title": "Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 24 marca 2026 r. w sprawie dotacji celowej na wyposażenie publicznych szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły podstawowej, prowadzonych przez osoby prawne niebędące jednostkami samorządu terytorialnego oraz osoby fizyczne, w podręczniki, materiały edukacyjne lub materiały ćwiczeniowe, udzielanej w 2026 r.",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/422/text.pdf",
  "body": [
   {
@@ -354,13 +354,27 @@
     },
     {
      "type": "text",
-     "text": "[^1_2] Poz. 2 należy wypełnić w przypadku, gdy w roku szkolnym 2026/2027 liczba uczniów: 1) klas publicznej szkoły artystycznej realizujących kształcenie ogólne w zakresie klas II, V i VIII szkoły podstawowej zwiększy się w stosunku do liczby uczniów tych klas w roku szkolnym 2024/2025 i 2025/2026 lub 2) klas publicznej szkoły artystycznej realizujących kształcenie ogólne w zakresie klas III i VI szkoły podstawowej zwiększy się w stosunku do liczby uczniów tych klas w roku szkolnym 2025/2026. [^2] Poz. 3 należy wypełnić w przypadku, gdy w roku szkolnym:"
+     "text": "[^1_2] Poz. 2 należy wypełnić w przypadku, gdy w roku szkolnym 2026/2027 liczba uczniów: 1) klas publicznej szkoły artystycznej realizujących kształcenie ogólne w zakresie klas II, V i VIII szkoły podstawowej zwiększy się w stosunku do liczby uczniów tych klas w roku szkolnym 2024/2025 i 2025/2026 lub"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "klas publicznej szkoły artystycznej realizujących kształcenie ogólne w zakresie klas III i VI szkoły podstawowej zwiększy się w stosunku do liczby uczniów tych klas w roku szkolnym 2025/2026. [^2] Poz. 3 należy wypełnić w przypadku, gdy w roku szkolnym:",
+     "children": []
     },
     {
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "2024/2025 nie funkcjonowały klasy publicznej szkoły artystycznej realizujące kształcenie ogólne w zakresie klas II, V i VIII szkoły podstawowej lub nie uczęszczali do tych klas uczniowie lub 2) 2025/2026 nie funkcjonowały klasy publicznej szkoły artystycznej realizujące kształcenie ogólne w zakresie klas II, III, V, VI i VIII szkoły podstawowej lub nie uczęszczali do tych klas uczniowie. klasa I",
+     "text": "2024/2025 nie funkcjonowały klasy publicznej szkoły artystycznej realizujące kształcenie ogólne w zakresie klas II, V i VIII szkoły podstawowej lub nie uczęszczali do tych klas uczniowie lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "2025/2026 nie funkcjonowały klasy publicznej szkoły artystycznej realizujące kształcenie ogólne w zakresie klas II, III, V, VI i VIII szkoły podstawowej lub nie uczęszczali do tych klas uczniowie. klasa I",
      "children": []
     },
     {
@@ -826,7 +840,14 @@
     },
     {
      "type": "text",
-     "text": "[^1_2] Ilekroć w wyszczególnieniu jest mowa o wskaźniku, należy przez to rozumieć wskaźniki określone w przepisach wydanych na podstawie art. 61 ustawy. [^2] W przypadku gdy dla uczniów z danym rodzajem niepełnosprawności publiczna szkoła artystyczna realizująca kształcenie ogólne w zakresie szkoły podstawowej planuje zakupić dodatkowe podręczniki lub materiały edukacyjne ze środków dotacji celowej na oddział danej klasy, w poz. 1 i 3 należy zwiększyć prognozowaną liczbę uczniów o liczbę uczniów równą liczbie tych oddziałów, zgodnie z art. 56 ust. 2 ustawy, z tym że w przypadku oddziału obejmującego uczniów pełnosprawnych lub uczniów z różnymi rodzajami niepełnosprawności przyjmuje się, że dodatkowe podręczniki lub materiały edukacyjne na dany oddział są przeznaczone dla jednego ucznia pełnosprawnego albo jednego ucznia z danym rodzajem niepełnosprawności. [^3] Poz 2 należy wypełnić w przypadku, gdy w roku szkolnym 2026/2027 liczba uczniów: 1) klas publicznej szkoły artystycznej realizujących kształcenie ogólne w zakresie klas II, V i VIII szkoły podstawowej zwiększy się w stosunku do liczby uczniów tych klas w roku szkolnym 2024/2025 i 2025/2026 lub 2) klas publicznej szkoły artystycznej realizujących kształcenie ogólne w zakresie klas III i VI szkoły podstawowej zwiększy się w stosunku do liczby uczniów tych klas w roku szkolnym 2025/2026. klasa I"
+     "text": "[^1_2] Ilekroć w wyszczególnieniu jest mowa o wskaźniku, należy przez to rozumieć wskaźniki określone w przepisach wydanych na podstawie art. 61 ustawy. [^2] W przypadku gdy dla uczniów z danym rodzajem niepełnosprawności publiczna szkoła artystyczna realizująca kształcenie ogólne w zakresie szkoły podstawowej planuje zakupić dodatkowe podręczniki lub materiały edukacyjne ze środków dotacji celowej na oddział danej klasy, w poz. 1 i 3 należy zwiększyć prognozowaną liczbę uczniów o liczbę uczniów równą liczbie tych oddziałów, zgodnie z art. 56 ust. 2 ustawy, z tym że w przypadku oddziału obejmującego uczniów pełnosprawnych lub uczniów z różnymi rodzajami niepełnosprawności przyjmuje się, że dodatkowe podręczniki lub materiały edukacyjne na dany oddział są przeznaczone dla jednego ucznia pełnosprawnego albo jednego ucznia z danym rodzajem niepełnosprawności. [^3] Poz 2 należy wypełnić w przypadku, gdy w roku szkolnym 2026/2027 liczba uczniów: 1) klas publicznej szkoły artystycznej realizujących kształcenie ogólne w zakresie klas II, V i VIII szkoły podstawowej zwiększy się w stosunku do liczby uczniów tych klas w roku szkolnym 2024/2025 i 2025/2026 lub"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "klas publicznej szkoły artystycznej realizujących kształcenie ogólne w zakresie klas III i VI szkoły podstawowej zwiększy się w stosunku do liczby uczniów tych klas w roku szkolnym 2025/2026. klasa I",
+     "children": []
     },
     {
      "type": "text",
@@ -870,7 +891,7 @@
     },
     {
      "type": "text",
-     "text": "4 Liczba uczniów danych klas w roku szkolnym 2026/2027, dla których istnieje konieczność zapewnienia przez publiczną szkołę artystyczną: − podręczników do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej, podręczników do zajęć z zakresu danego języka obcego nowożytnego lub materiałów edukacyjnych – w przypadku uczniów publicznej szkoły artystycznej realizującej kształcenie ogólne w zakresie klas II i III szkoły podstawowej, − podręczników lub materiałów edukacyjnych – w przypadku uczniów publicznej szkoły artystycznej realizującej kształcenie ogólne w zakresie klas V, VIi VIII[^5] szkoły podstawowej 5 Liczba uczniów publicznej szkoły artystycznej realizującej kształcenie ogólne w zakresie klas II, III, V, VI i VIII szkoły podstawowej, dla których istnieje konieczność zapewnienia podręczników lub materiałów edukacyjnych, dostosowanych do potrzeb edukacyjnychi możliwości psychofizycznych uczniów niepełnosprawnych, w związku z przekazaniem takich podręczników lub materiałów edukacyjnych wcześniej innej szkole"
+     "text": "4 Liczba uczniów danych klas w roku szkolnym 2026/2027, dla których istnieje konieczność zapewnienia przez publiczną szkołę artystyczną: − podręczników do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej, podręczników do zajęć z zakresu danego języka obcego nowożytnego lub materiałów edukacyjnych – w przypadku uczniów publicznej szkoły artystycznej realizującej kształcenie ogólne w zakresie klas II i III szkoły podstawowej, − podręczników lub materiałów edukacyjnych – w przypadku uczniów publicznej szkoły artystycznej realizującej kształcenie ogólne w zakresie klas V, VI i VIII[^5] szkoły podstawowej 5 Liczba uczniów publicznej szkoły artystycznej realizującej kształcenie ogólne w zakresie klas II, III, V, VI i VIII szkoły podstawowej, dla których istnieje konieczność zapewnienia podręczników lub materiałów edukacyjnych, dostosowanych do potrzeb edukacyjnych i możliwości psychofizycznych uczniów niepełnosprawnych, w związku z przekazaniem takich podręczników lub materiałów edukacyjnych wcześniej innej szkole"
     },
     {
      "type": "text",
@@ -888,7 +909,14 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "2024/2025 nie funkcjonowały klasy publicznej szkoły artystycznej realizującej kształcenie ogólne w zakresie klas II, V i VIII szkoły podstawowej lub nie uczęszczali do tych klas uczniowie lub 2) 2025/2026 nie funkcjonowały klasy publicznej szkoły artystycznej realizującej kształcenie ogólne w zakresie klas II, III, V, VI i VIII szkoły podstawowej lub nie uczęszczali do tych klas uczniowie. [^5] Poz. 4 należy wypełnić w przypadku, gdy liczba uczniów danych klas w roku szkolnym 2026/2027 nie zwiększy się w stosunku do liczby uczniów danych klas w roku szkolnym 2024/2025 lub 2025/2026, a istnieje konieczność zakupu podręczników lub materiałów edukacyjnych z powodu niedokonania takiego zakupu ze środków ostatniej dotacji celowej na wszystkich uczniów tej klasy udzielonej odpowiednio w 2024 r. lub 2025 r. klasa I",
+     "text": "2024/2025 nie funkcjonowały klasy publicznej szkoły artystycznej realizującej kształcenie ogólne w zakresie klas II, V i VIII szkoły podstawowej lub nie uczęszczali do tych klas uczniowie lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "2025/2026 nie funkcjonowały klasy publicznej szkoły artystycznej realizującej kształcenie ogólne w zakresie klas II, III, V, VI i VIII szkoły podstawowej lub nie uczęszczali do tych klas uczniowie. [^5] Poz. 4 należy wypełnić w przypadku, gdy liczba uczniów danych klas w roku szkolnym 2026/2027 nie zwiększy się w stosunku do liczby uczniów danych klas w roku szkolnym 2024/2025 lub 2025/2026, a istnieje konieczność zakupu podręczników lub materiałów edukacyjnych z powodu niedokonania takiego zakupu ze środków ostatniej dotacji celowej na wszystkich uczniów tej klasy udzielonej odpowiednio w 2024 r. lub 2025 r. klasa I",
      "children": []
     },
     {

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/672",
  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 12 maja 2026 r. zmieniające rozporządzenie w sprawie nauki żołnierzy zawodowych",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/672/text.pdf",
  "body": [
   {
@@ -406,7 +406,21 @@
       },
       {
        "type": "text",
-       "text": "Przekazano: 1) żołnierzowi zawodowemu; 2) organowi kierującemu; 3) do teczki akt personalnych żołnierza zawodowego."
+       "text": "Przekazano: 1) żołnierzowi zawodowemu;"
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "organowi kierującemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "do teczki akt personalnych żołnierza zawodowego.",
+       "children": []
       }
      ]
     }
@@ -706,8 +720,30 @@
         },
         {
          "type": "text",
-         "text": "Przekazano: 1) żołnierzowi zawodowemu; 2) organowi kierującemu; 3) właściwemu organowi finansowemu (płatnikowi); 4) do teczki akt personalnych żołnierza zawodowego."
-        },
+         "text": "Przekazano: 1) żołnierzowi zawodowemu;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "organowi kierującemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "właściwemu organowi finansowemu (płatnikowi);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "do teczki akt personalnych żołnierza zawodowego.",
+       "children": [
         {
          "type": "text",
          "text": "(rodzaj i kierunek nauki (nazwa kursu)) (nazwa podmiotu prowadzącego naukę) (termin nauki) (nazwa podmiotu prowadzącego naukę) (termin nauki) (nazwa płatnika) (nazwa płatnika)"

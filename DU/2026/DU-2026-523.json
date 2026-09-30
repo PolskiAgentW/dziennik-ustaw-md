@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/523",
  "title": "Rozporządzenie Rady Ministrów z dnia 8 kwietnia 2026 r. zmieniające rozporządzenie w sprawie zakresu informacji przedstawianych przez podmiot ubiegający się o pomoc inną niż pomoc de minimis lub pomoc de minimis w rolnictwie lub rybołówstwie",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/523/text.pdf",
  "body": [
   {
@@ -243,7 +243,28 @@
        "type": "lit",
        "num": "a",
        "path": "ust_8/lit_a",
-       "text": "jeden przedsiębiorca posiada w drugim większość praw głosu? tak nie ☐ ☐ b) jeden przedsiębiorca ma prawo powołać lub odwołać większość członków organu zarządzającego lub nadzorującego innego tak nie ☐ ☐ przedsiębiorcy? c) jeden przedsiębiorca ma prawo wywierać dominujący wpływ na innego przedsiębiorcę zgodnie z umową zawartą z tym tak nie ☐ ☐ przedsiębiorcą lub jego dokumentami założycielskimi? d) jeden przedsiębiorca, który jest akcjonariuszem lub wspólnikiem innego przedsiębiorcy lub jego członkiem, zgodnie ☐ ☐ z porozumieniem z innymi akcjonariuszami, tak nie wspólnikami lub członkami tego przedsiębiorcy, samodzielnie kontroluje większość praw głosu u tego przedsiębiorcy? e) przedsiębiorca pozostaje w jakimkolwiek ze stosunków opisanych w lit. a–d przez jednego innego przedsiębiorcę lub kilku tak nie ☐ ☐ innych przedsiębiorców?",
+       "text": "jeden przedsiębiorca posiada w drugim większość praw głosu? tak nie ☐ ☐ b) jeden przedsiębiorca ma prawo powołać lub odwołać większość członków organu zarządzającego lub nadzorującego innego tak nie ☐ ☐ przedsiębiorcy?",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_8/lit_c",
+       "text": "jeden przedsiębiorca ma prawo wywierać dominujący wpływ na innego przedsiębiorcę zgodnie z umową zawartą z tym tak nie ☐ ☐ przedsiębiorcą lub jego dokumentami założycielskimi?",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_8/lit_d",
+       "text": "jeden przedsiębiorca, który jest akcjonariuszem lub wspólnikiem innego przedsiębiorcy lub jego członkiem, zgodnie ☐ ☐ z porozumieniem z innymi akcjonariuszami, tak nie wspólnikami lub członkami tego przedsiębiorcy, samodzielnie kontroluje większość praw głosu u tego przedsiębiorcy?",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_8/lit_e",
+       "text": "przedsiębiorca pozostaje w jakimkolwiek ze stosunków opisanych w lit. a–d przez jednego innego przedsiębiorcę lub kilku tak nie ☐ ☐ innych przedsiębiorców?",
        "children": []
       },
       {
@@ -282,7 +303,14 @@
        "type": "lit",
        "num": "a",
        "path": "ust_8/lit_a",
-       "text": "podmiot odnotowuje rosnące straty? tak nie ☐ ☐ b) obroty podmiotu maleją? ☐ tak nie ☐ c) zwiększeniu ulegają zapasy podmiotu lub niewykorzystany potencjał do świadczenia tak nie ☐ ☐ usług? d) podmiot ma nadwyżki produkcji?[^12] tak nie ☐ ☐ e) zmniejsza się przepływ środków finansowych? tak nie ☐ ☐ f) zwiększa się suma zadłużenia podmiotu? tak nie ☐ ☐ g) rosną kwoty odsetek od zobowiązań podmiotu? tak nie ☐ ☐",
+       "text": "podmiot odnotowuje rosnące straty? tak nie ☐ ☐ b) obroty podmiotu maleją? ☐ tak nie ☐ c) zwiększeniu ulegają zapasy podmiotu lub niewykorzystany potencjał do świadczenia tak nie ☐ ☐ usług?",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_8/lit_d",
+       "text": "podmiot ma nadwyżki produkcji?[^12] tak nie ☐ ☐ e) zmniejsza się przepływ środków finansowych? tak nie ☐ ☐ f) zwiększa się suma zadłużenia podmiotu? tak nie ☐ ☐ g) rosną kwoty odsetek od zobowiązań podmiotu? tak nie ☐ ☐",
        "children": []
       },
       {
@@ -317,7 +345,21 @@
        "type": "lit",
        "num": "a",
        "path": "ust_7/lit_a",
-       "text": "w sektorze rybołówstwa i akwakultury?[^13] tak nie ☐ ☐ b) w zakresie produkcji podstawowej produktów rolnych wymienionych w załączniku I do Traktatu o funkcjonowaniu tak nie ☐ ☐ Unii Europejskiej? c) w sektorze hutnictwa żelaza i stali?[^14] tak nie ☐ ☐ d) w sektorze transportu[^15] lub związanej z tym infrastruktury? tak nie ☐ ☐ e) w sektorze wytwarzania, magazynowania, przesyłu lub dystrybucji energii lub tak nie ☐ ☐ związanej z tym infrastruktury?[^16] f) w sektorze węgla brunatnego i sektorze węgla kamiennego? tak nie [^17] ☐ ☐ g) w sektorze finansowym?[^18] tak nie ☐ ☐ h) w sektorze łączności szerokopasmowej tak nie ☐ ☐ 2. Czy pomoc, o którą podmiot wnioskuje, zostanie przeznaczona na działalność wskazaną w pkt 1 lit. a–h?",
+       "text": "w sektorze rybołówstwa i akwakultury?[^13] tak nie ☐ ☐ b) w zakresie produkcji podstawowej produktów rolnych wymienionych w załączniku I do Traktatu o funkcjonowaniu tak nie ☐ ☐ Unii Europejskiej?",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_7/lit_c",
+       "text": "w sektorze hutnictwa żelaza i stali?[^14] tak nie ☐ ☐ d) w sektorze transportu[^15] lub związanej z tym infrastruktury? tak nie ☐ ☐ e) w sektorze wytwarzania, magazynowania, przesyłu lub dystrybucji energii lub tak nie ☐ ☐ związanej z tym infrastruktury?[^16]",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_7/lit_f",
+       "text": "w sektorze węgla brunatnego i sektorze węgla kamiennego? tak nie [^17] ☐ ☐ g) w sektorze finansowym?[^18] tak nie ☐ ☐ h) w sektorze łączności szerokopasmowej tak nie ☐ ☐ 2. Czy pomoc, o którą podmiot wnioskuje, zostanie przeznaczona na działalność wskazaną w pkt 1 lit. a–h?",
        "children": []
       },
       {

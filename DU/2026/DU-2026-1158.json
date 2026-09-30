@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1158",
  "title": "Obwieszczenie Ministra Finansów i Gospodarki z dnia 31 lipca 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie przekazywania Komisji Nadzoru Finansowego informacji przez firmy inwestycyjne, banki państwowe prowadzące działalność maklerską, banki, o których mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, i banki powiernicze",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1158/text.pdf",
  "body": [
   {
@@ -334,7 +334,7 @@
          "type": "pkt",
          "num": "8",
          "path": "par_3/ust_1/pkt_8",
-         "text": "rozpoczęciu lub zakończeniu świadczenia usług w zakresie prowadzenia rejestru akcjonariuszy, o którym mowa w art. 300 [31] lub art. 328 [1] Kodeksu spółek handlowych;",
+         "text": "rozpoczęciu lub zakończeniu świadczenia usług w zakresie prowadzenia rejestru akcjonariuszy, o którym mowa w art. 300³¹ lub art. 328¹ Kodeksu spółek handlowych;",
          "children": []
         },
         {
@@ -3199,7 +3199,7 @@
        "type": "pkt",
        "num": "6",
        "path": "par_5/pkt_6",
-       "text": "rozpoczęciu lub zakończeniu świadczenia usług w zakresie prowadzenia rejestru akcjonariuszy, o którym mowa w art. 300 [31] lub art. 328 [1] Kodeksu spółek handlowych;",
+       "text": "rozpoczęciu lub zakończeniu świadczenia usług w zakresie prowadzenia rejestru akcjonariuszy, o którym mowa w art. 300³¹ lub art. 328¹ Kodeksu spółek handlowych;",
        "children": []
       },
       {
@@ -3953,7 +3953,7 @@
        "type": "pkt",
        "num": "4",
        "path": "par_7/pkt_4",
-       "text": "rozpoczęciu lub zakończeniu świadczenia usług w zakresie prowadzenia rejestru akcjonariuszy, o którym mowa w art. 300 [31] lub art. 328 [1] Kodeksu spółek handlowych;",
+       "text": "rozpoczęciu lub zakończeniu świadczenia usług w zakresie prowadzenia rejestru akcjonariuszy, o którym mowa w art. 300³¹ lub art. 328¹ Kodeksu spółek handlowych;",
        "children": []
       },
       {
@@ -4374,7 +4374,7 @@
        "type": "pkt",
        "num": "6",
        "path": "par_9/pkt_6",
-       "text": "rozpoczęciu lub zakończeniu świadczenia usług w zakresie prowadzenia rejestru akcjonariuszy, o którym mowa w art. 300 [31] lub art. 328 [1] Kodeksu spółek handlowych;",
+       "text": "rozpoczęciu lub zakończeniu świadczenia usług w zakresie prowadzenia rejestru akcjonariuszy, o którym mowa w art. 300³¹ lub art. 328¹ Kodeksu spółek handlowych;",
        "children": []
       },
       {
@@ -4709,7 +4709,7 @@
        "type": "pkt",
        "num": "5",
        "path": "par_11/pkt_5",
-       "text": "rozpoczęciu lub zakończeniu świadczenia usług w zakresie prowadzenia rejestru akcjonariuszy, o którym mowa w art. 300 [31] lub art. 328 [1] Kodeksu spółek handlowych;",
+       "text": "rozpoczęciu lub zakończeniu świadczenia usług w zakresie prowadzenia rejestru akcjonariuszy, o którym mowa w art. 300³¹ lub art. 328¹ Kodeksu spółek handlowych;",
        "children": []
       },
       {
@@ -5545,7 +5545,7 @@
      "type": "par",
      "num": "35",
      "path": "par_35",
-     "text": "Dom maklerski, biuro maklerskie, bank, o którym mowa w art. 70 ust. 2 ustawy, bank powierniczy, zagraniczna firma inwestycyjna prowadząca na terytorium Rzeczypospolitej Polskiej działalność maklerską w formie oddziału oraz zagraniczna osoba prawna w zakresie działalności oddziału przekazują Komisji, za rok kalendarzowy, zestawienie spółek, dla których w okresie sprawozdawczym był prowadzony rejestr akcjonariuszy, o którym mowa w art. 300 [31] lub art. 328 [1] Kodeksu spółek handlowych, lub były świadczone usługi w zakresie przechowywania dokumentów obligacji kapitałowych, o których mowa w art. 27g ustawy o obligacjach, oraz prowadzenia rejestru osób uprawnionych z obligacji kapitałowych, zawierające informacje, których zakres określa załącznik nr 13 do rozporządzenia.",
+     "text": "Dom maklerski, biuro maklerskie, bank, o którym mowa w art. 70 ust. 2 ustawy, bank powierniczy, zagraniczna firma inwestycyjna prowadząca na terytorium Rzeczypospolitej Polskiej działalność maklerską w formie oddziału oraz zagraniczna osoba prawna w zakresie działalności oddziału przekazują Komisji, za rok kalendarzowy, zestawienie spółek, dla których w okresie sprawozdawczym był prowadzony rejestr akcjonariuszy, o którym mowa w art. 300³¹ lub art. 328¹ Kodeksu spółek handlowych, lub były świadczone usługi w zakresie przechowywania dokumentów obligacji kapitałowych, o których mowa w art. 27g ustawy o obligacjach, oraz prowadzenia rejestru osób uprawnionych z obligacji kapitałowych, zawierające informacje, których zakres określa załącznik nr 13 do rozporządzenia.",
      "children": []
     },
     {
@@ -7748,7 +7748,14 @@
        "type": "pkt",
        "num": "6",
        "path": "ust_2/pkt_6",
-       "text": "przechowywanie lub rejestrowanie instrumentów finansowych; 7) inne usługi;",
+       "text": "przechowywanie lub rejestrowanie instrumentów finansowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_2/pkt_7",
+       "text": "inne usługi;",
        "children": []
       }
      ]
@@ -7784,7 +7791,14 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_3/pkt_4",
-       "text": "tytuły uczestnictwa w instytucjach wspólnego inwestowania; 5) instrumenty pochodne;",
+       "text": "tytuły uczestnictwa w instytucjach wspólnego inwestowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_3/pkt_5",
+       "text": "instrumenty pochodne;",
        "children": []
       },
       {
@@ -8944,7 +8958,14 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_2/pkt_3",
-       "text": "jednostki organizacyjnej lub agenta firmy inwestycyjnej objętych kontrolą, 4) daty przeprowadzenia kontroli,",
+       "text": "jednostki organizacyjnej lub agenta firmy inwestycyjnej objętych kontrolą,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "daty przeprowadzenia kontroli,",
        "children": []
       },
       {
@@ -8994,7 +9015,14 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_3/pkt_2",
-       "text": "jednostki organizacyjnej lub agenta firmy inwestycyjnej objętych kontrolą, 3) daty przeprowadzenia kontroli,",
+       "text": "jednostki organizacyjnej lub agenta firmy inwestycyjnej objętych kontrolą,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "daty przeprowadzenia kontroli,",
        "children": []
       },
       {
@@ -9257,7 +9285,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_5/pkt_1",
-       "text": "danych osobowych osób wchodzących w skład komórki audytu wewnętrznego, 2) czy osoba wchodząca w skład komórki audytu wewnętrznego wykonuje funkcję kierownika komórki audytu wewnętrznego, czy wchodzi w skład tej komórki, 3) numeru telefonu osoby wykonującej funkcję kierownika komórki audytu wewnętrznego,",
+       "text": "danych osobowych osób wchodzących w skład komórki audytu wewnętrznego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "czy osoba wchodząca w skład komórki audytu wewnętrznego wykonuje funkcję kierownika komórki audytu wewnętrznego, czy wchodzi w skład tej komórki, 3) numeru telefonu osoby wykonującej funkcję kierownika komórki audytu wewnętrznego,",
        "children": []
       },
       {
@@ -9408,7 +9443,14 @@
        "type": "pkt",
        "num": "6",
        "path": "ust_2/pkt_6",
-       "text": "przechowywanie lub rejestrowanie instrumentów finansowych; 7) inne usługi;",
+       "text": "przechowywanie lub rejestrowanie instrumentów finansowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_2/pkt_7",
+       "text": "inne usługi;",
        "children": []
       }
      ]
@@ -9444,7 +9486,14 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_3/pkt_4",
-       "text": "tytuły uczestnictwa w instytucjach wspólnego inwestowania; 5) instrumenty pochodne;",
+       "text": "tytuły uczestnictwa w instytucjach wspólnego inwestowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_3/pkt_5",
+       "text": "instrumenty pochodne;",
        "children": []
       },
       {
@@ -10161,7 +10210,14 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_2/pkt_4",
-       "text": "produkty strukturyzowane niebędące papierami wartościowymi; 5) inne instrumenty finansowe niebędące papierami wartościowymi ani instrumentami pochodnymi. CZĘŚĆ B – wartość nabytych i zbytych instrumentów finansowych – wyłącznie instrumenty zagraniczne (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).",
+       "text": "produkty strukturyzowane niebędące papierami wartościowymi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_2/pkt_5",
+       "text": "inne instrumenty finansowe niebędące papierami wartościowymi ani instrumentami pochodnymi. CZĘŚĆ B – wartość nabytych i zbytych instrumentów finansowych – wyłącznie instrumenty zagraniczne (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).",
        "children": []
       }
      ]
@@ -10461,7 +10517,14 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_2/pkt_4",
-       "text": "produkty strukturyzowane niebędące papierami wartościowymi; 5) inne instrumenty finansowe niebędące papierami wartościowymi ani instrumentami pochodnymi.",
+       "text": "produkty strukturyzowane niebędące papierami wartościowymi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_2/pkt_5",
+       "text": "inne instrumenty finansowe niebędące papierami wartościowymi ani instrumentami pochodnymi.",
        "children": [
         {
          "type": "text",
@@ -10745,7 +10808,14 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_2/pkt_4",
-       "text": "produkty strukturyzowane niebędące papierami wartościowymi; 5) inne instrumenty finansowe niebędące papierami wartościowymi ani instrumentami pochodnymi.",
+       "text": "produkty strukturyzowane niebędące papierami wartościowymi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_2/pkt_5",
+       "text": "inne instrumenty finansowe niebędące papierami wartościowymi ani instrumentami pochodnymi.",
        "children": [
         {
          "type": "text",
@@ -11029,7 +11099,14 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_2/pkt_4",
-       "text": "produkty strukturyzowane niebędące papierami wartościowymi; 5) inne instrumenty finansowe niebędące papierami wartościowymi ani instrumentami pochodnymi.",
+       "text": "produkty strukturyzowane niebędące papierami wartościowymi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_2/pkt_5",
+       "text": "inne instrumenty finansowe niebędące papierami wartościowymi ani instrumentami pochodnymi.",
        "children": []
       }
      ]
@@ -12709,7 +12786,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_21/pkt_1",
-       "text": "w przypadku wykazywania wartości transakcji – w dniu zawarcia transakcji; 2) w przypadku wykazywania wartości na koniec okresu sprawozdawczego – w tym dniu.",
+       "text": "w przypadku wykazywania wartości transakcji – w dniu zawarcia transakcji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_21/pkt_2",
+       "text": "w przypadku wykazywania wartości na koniec okresu sprawozdawczego – w tym dniu.",
        "children": []
       }
      ]
@@ -13526,7 +13610,7 @@
    "body": [
     {
      "type": "text",
-     "text": "ZAKRES INFORMACJI ZAWARTYCH W ZESTAWIENIU SPÓŁEK, DLA KTÓRYCH BYŁ PROWADZONY REJESTR AKCJONARIUSZY, O KTÓRYM MOWA W ART. 300 [31] LUB ART. 328 [1] KODEKSU SPÓŁEK HANDLOWYCH, LUB BYŁY ŚWIADCZONE USŁUGI PRZECHOWYWANIA DOKUMENTÓW OBLIGACJI KAPITAŁOWYCH, O KTÓRYCH MOWA W ART. 27G USTAWY O OBLIGACJACH, ORAZ PROWADZENIA REJESTRU OSÓB UPRAWNIONYCH Z OBLIGACJI KAPITAŁOWYCH"
+     "text": "ZAKRES INFORMACJI ZAWARTYCH W ZESTAWIENIU SPÓŁEK, DLA KTÓRYCH BYŁ PROWADZONY REJESTR AKCJONARIUSZY, O KTÓRYM MOWA W ART. 300³¹ LUB ART. 328¹ KODEKSU SPÓŁEK HANDLOWYCH, LUB BYŁY ŚWIADCZONE USŁUGI PRZECHOWYWANIA DOKUMENTÓW OBLIGACJI KAPITAŁOWYCH, O KTÓRYCH MOWA W ART. 27G USTAWY O OBLIGACJACH, ORAZ PROWADZENIA REJESTRU OSÓB UPRAWNIONYCH Z OBLIGACJI KAPITAŁOWYCH"
     },
     {
      "type": "text",
@@ -13540,7 +13624,7 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Zestawienie spółek, dla których był prowadzony rejestr akcjonariuszy, o którym mowa [31] [ 1] w art. 300 lub art. 328 Kodeksu spółek handlowych:",
+     "text": "Zestawienie spółek, dla których był prowadzony rejestr akcjonariuszy, o którym mowa w art. 300³¹ lub art. 328 [ 1] Kodeksu spółek handlowych:",
      "children": [
       {
        "type": "pkt",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1727",
  "title": "Obwieszczenie Ministra Infrastruktury z dnia 7 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury w sprawie świadectw zdolności żeglugowej",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1727/text.pdf",
  "body": [
   {
@@ -930,75 +930,90 @@
       },
       {
        "type": "text",
-       "text": "1 HOLOWAĆ / Schleppen / to tow 11) W GÓRĘ I W DÓŁ / zu Berg und zu Tal / upstream and downstream 12) TYLKO W GÓRĘ / zu Berg und zu Tal nur zu Berg / upstream only 1.3) JAKO HOLOWNIK POMOCNICZY / nur als Hilfsschlepper / as an auxiliary tug only"
+       "text": "1 HOLOWAĆ / Schleppen / to tow"
       },
       {
-       "type": "text",
-       "text": "2 HOLOWAĆ PRZY BURCIE / Fortbewegen im Koppolverband / to tow alongside"
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_4/pkt_11",
+       "text": "W GÓRĘ I W DÓŁ / zu Berg und zu Tal / upstream and downstream",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "3 PCHAĆ / Schieben / to push"
-      },
-      {
-       "type": "text",
-       "text": "4 BYĆ HOLOWANY / Geschleppt werden / to be towed"
-      },
-      {
-       "type": "text",
-       "text": "5 BYĆ HOLOWANY PRZY BURCIE / Fortbewegt werden im Koppolvervand / to be towed alongside"
-      },
-      {
-       "type": "text",
-       "text": "6 BYĆ PCHANY / Geschoben werden / to be pushed"
-      },
-      {
-       "type": "text",
-       "text": "4.2 OGRANICZENIA I DODATKOWE ZEZWOLENIA W ZAKRESIE SPOSOBÓW EKSPLOATACJI PRZY PRZEWOZIE TOWARÓW I PASAŻERÓW Einchränkungen und zusätzliche Zulassung betr. Betriebsform bei Beförderung vor Güten und Personen Restrictions or special authorizations relating to the operation of the vessel or the carriage of cargo and passengers"
-      },
-      {
-       "type": "text",
-       "text": "........................................................................................................................................................................................................................"
-      },
-      {
-       "type": "text",
-       "text": "........................................................................................................................................................................................................................"
-      },
-      {
-       "type": "text",
-       "text": "........................................................................................................................................................................................................................"
-      },
-      {
-       "type": "text",
-       "text": "4.3 STWIERDZA SIĘ, ŻE STATEK ZOSTAŁ DOPUSZCZONY DO ŻEGLUGI W REJONIE(-NACH) OKREŚLONYM(-YCH) W PKT 18 Es wird festgestellt, dass das vorstehend beschriebene Schiff zur Fahrt auf dem(-n) im Punkt 1.8 genannten Gebiet(-en) zugelassen worden ist. The vessel is hereby certified to be fit for operation in the zone or zones indicated in paragraph 1.8"
-      },
-      {
-       "type": "text",
-       "text": "ŚWIADECTWO ZDOLNOŚCI ŻEGLUGOWEJ WAŻNE JEST DO DNIA Die Gültigkeit dieses Schiffsattestes erlischt am The navigation certificate is valid until"
-      },
-      {
-       "type": "text",
-       "text": "DATA Datum Date"
-      },
-      {
-       "type": "text",
-       "text": "PODPIS / Unterschrift / Signature"
-      },
-      {
-       "type": "text",
-       "text": "PIECZĘĆ / Siegel / Stamp"
-      },
-      {
-       "type": "text",
-       "text": "** NIEPOTRZEBNE SKREŚLIĆ Nichtzutreffendes streichen. Delete as appropriate"
-      },
-      {
-       "type": "note",
-       "text": "[Na stronie 10 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "ŚWIADECTWO Nr Schiffsattest Nr. Certificate No"
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_4/pkt_12",
+       "text": "TYLKO W GÓRĘ / zu Berg und zu Tal nur zu Berg / upstream only 1.3) JAKO HOLOWNIK POMOCNICZY / nur als Hilfsschlepper / as an auxiliary tug only",
+       "children": [
+        {
+         "type": "text",
+         "text": "2 HOLOWAĆ PRZY BURCIE / Fortbewegen im Koppolverband / to tow alongside"
+        },
+        {
+         "type": "text",
+         "text": "3 PCHAĆ / Schieben / to push"
+        },
+        {
+         "type": "text",
+         "text": "4 BYĆ HOLOWANY / Geschleppt werden / to be towed"
+        },
+        {
+         "type": "text",
+         "text": "5 BYĆ HOLOWANY PRZY BURCIE / Fortbewegt werden im Koppolvervand / to be towed alongside"
+        },
+        {
+         "type": "text",
+         "text": "6 BYĆ PCHANY / Geschoben werden / to be pushed"
+        },
+        {
+         "type": "text",
+         "text": "4.2 OGRANICZENIA I DODATKOWE ZEZWOLENIA W ZAKRESIE SPOSOBÓW EKSPLOATACJI PRZY PRZEWOZIE TOWARÓW I PASAŻERÓW Einchränkungen und zusätzliche Zulassung betr. Betriebsform bei Beförderung vor Güten und Personen Restrictions or special authorizations relating to the operation of the vessel or the carriage of cargo and passengers"
+        },
+        {
+         "type": "text",
+         "text": "........................................................................................................................................................................................................................"
+        },
+        {
+         "type": "text",
+         "text": "........................................................................................................................................................................................................................"
+        },
+        {
+         "type": "text",
+         "text": "........................................................................................................................................................................................................................"
+        },
+        {
+         "type": "text",
+         "text": "4.3 STWIERDZA SIĘ, ŻE STATEK ZOSTAŁ DOPUSZCZONY DO ŻEGLUGI W REJONIE(-NACH) OKREŚLONYM(-YCH) W PKT 18 Es wird festgestellt, dass das vorstehend beschriebene Schiff zur Fahrt auf dem(-n) im Punkt 1.8 genannten Gebiet(-en) zugelassen worden ist. The vessel is hereby certified to be fit for operation in the zone or zones indicated in paragraph 1.8"
+        },
+        {
+         "type": "text",
+         "text": "ŚWIADECTWO ZDOLNOŚCI ŻEGLUGOWEJ WAŻNE JEST DO DNIA Die Gültigkeit dieses Schiffsattestes erlischt am The navigation certificate is valid until"
+        },
+        {
+         "type": "text",
+         "text": "DATA Datum Date"
+        },
+        {
+         "type": "text",
+         "text": "PODPIS / Unterschrift / Signature"
+        },
+        {
+         "type": "text",
+         "text": "PIECZĘĆ / Siegel / Stamp"
+        },
+        {
+         "type": "text",
+         "text": "** NIEPOTRZEBNE SKREŚLIĆ Nichtzutreffendes streichen. Delete as appropriate"
+        },
+        {
+         "type": "note",
+         "text": "[Na stronie 10 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "ŚWIADECTWO Nr Schiffsattest Nr. Certificate No"
+        }
+       ]
       }
      ]
     },

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1231",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 września 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o publicznym transporcie zbiorowym",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1231/text.pdf",
  "body": [
   {
@@ -1855,24 +1855,34 @@
        "num": "2",
        "path": "art_15/ust_2",
        "text": "Określenie przystanków komunikacyjnych i dworców oraz warunków i zasad korzystania, o których mowa w ust. 1 pkt 6, następuje w drodze uchwały podjętej przez właściwy organ danej jednostki samorządu terytorialnego.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 15 [1] . 1. Organizator inny niż związek metropolitalny i minister właściwy do spraw transportu, samodzielnie lub w porozumieniu z innymi organizatorami, może ustanowić, na obszarze swojej właściwości w ramach danego województwa, zintegrowany system taryfowo-biletowy obowiązujący w jego granicach."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "15¹",
+     "path": "art_15¹",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_15¹/ust_1",
+       "text": "Organizator inny niż związek metropolitalny i minister właściwy do spraw transportu, samodzielnie lub w porozumieniu z innymi organizatorami, może ustanowić, na obszarze swojej właściwości w ramach danego województwa, zintegrowany system taryfowo-biletowy obowiązujący w jego granicach.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_15/ust_2",
+       "path": "art_15¹/ust_2",
        "text": "Organizator działający w ramach jednego województwa, w tym związek metropolitalny, może przystąpić do uczestnictwa w systemie taryfowo-biletowym, jeżeli system ten ustanawia województwo.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
-       "path": "art_15/ust_3",
+       "path": "art_15¹/ust_3",
        "text": "Wzajemne rozliczenia z tytułu uczestnictwa organizatora w zintegrowanym systemie taryfowo-biletowym określa porozumienie zawarte przez województwo z pozostałymi organizatorami.",
        "children": []
       }

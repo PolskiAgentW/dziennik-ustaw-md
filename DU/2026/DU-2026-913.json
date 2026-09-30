@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/913",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 czerwca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo upadłościowe",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/913/text.pdf",
  "body": [
   {
@@ -1360,31 +1360,41 @@
        "num": "2",
        "path": "art_26/ust_2",
        "text": "O złożeniu wniosku o ogłoszenie upadłości przedsiębiorstwa państwowego albo jednoosobowej spółki Skarbu Państwa sąd niezwłocznie zawiadamia odpowiednio organ założycielski albo pełnomocnika Rządu, państwową osobę prawną, organ lub inną jednostkę uprawnioną do wykonywania praw z akcji lub udziałów należących do Skarbu Państwa, które w terminie dwóch tygodni mogą złożyć sądowi opinię w sprawie.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 26 [1] . 1. Jeżeli dłużnik nie ma zdolności procesowej i nie działa za niego przedstawiciel ustawowy, a także gdy w składzie organów dłużnika będącego osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną, zachodzą braki uniemożliwiające ich działanie, sąd upadłościowy ustanawia dla niego kuratora. Kuratora ustanowionego na podstawie art. 42 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny powołuje się na kuratora, o którym mowa w niniejszym przepisie."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "26¹",
+     "path": "art_26¹",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_26¹/ust_1",
+       "text": "Jeżeli dłużnik nie ma zdolności procesowej i nie działa za niego przedstawiciel ustawowy, a także gdy w składzie organów dłużnika będącego osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną, zachodzą braki uniemożliwiające ich działanie, sąd upadłościowy ustanawia dla niego kuratora. Kuratora ustanowionego na podstawie art. 42 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny powołuje się na kuratora, o którym mowa w niniejszym przepisie.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_26/ust_2",
+       "path": "art_26¹/ust_2",
        "text": "Ustanowienie kuratora nie stanowi przeszkody do usunięcia, na podstawie zasad ogólnych, braku zdolności procesowej albo braków w składzie organów uniemożliwiających ich działanie.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
-       "path": "art_26/ust_3",
+       "path": "art_26¹/ust_3",
        "text": "Wynagrodzenie kuratora ustanowionego na podstawie ust. 1 ustala sędzia-komisarz w wysokości stosownej do nakładu pracy kuratora, stosując odpowiednio przepisy wykonawcze wydane na podstawie art. 9 pkt 3 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2025 r. poz. 1228 oraz z 2026 r. poz. 346 i 473). Wynagrodzenie kuratora obowiązanego do rozliczenia podatku od towarów i usług podwyższa się o kwotę podatku od towarów i usług. Na postanowienie w przedmiocie wynagrodzenia oraz zwrotu wydatków przysługuje zażalenie. Zażalenie przysługuje również kuratorowi.",
        "children": []
       },
       {
        "type": "ust",
        "num": "4",
-       "path": "art_26/ust_4",
+       "path": "art_26¹/ust_4",
        "text": "Przepisy ust. 1 i 3 stosuje się odpowiednio w przypadku śmierci dłużnika po złożeniu wniosku o ogłoszenie upadłości, jeżeli nie działa zarządca sukcesyjny, oraz w przypadku wygaśnięcia zarządu sukcesyjnego po złożeniu wniosku o ogłoszenie upadłości.",
        "children": []
       }
@@ -1657,7 +1667,7 @@
      "type": "art",
      "num": "35",
      "path": "art_35",
-     "text": "[^5] Do postępowania w przedmiocie ogłoszenia upadłości stosuje się odpowiednio przepisy art. 216a–216ab, art. 219, art. 220, art. 221, art. 224, art. 228 ust. 1, 2 i 3 i art. 229 ust. 2 oraz przepisy części pierwszej księgi pierwszej Kodeksu [2] [1] [1] [2] [4] [12] postępowania cywilnego, z wyjątkiem art. 130 , art. 139 , art. 205 , art. 205 i art. 205 –205 oraz przepisów o zawieszeniu i wznowieniu postępowania oraz postępowaniu w sprawach gospodarczych.",
+     "text": "[^5] Do postępowania w przedmiocie ogłoszenia upadłości stosuje się odpowiednio przepisy art. 216a–216ab, art. 219, art. 220, art. 221, art. 224, art. 228 ust. 1, 2 i 3 i art. 229 ust. 2 oraz przepisy części pierwszej księgi pierwszej Kodeksu postępowania cywilnego, z wyjątkiem art. 130², art. 139¹, art. 205¹, art. 205² i art. 205⁴–205¹² oraz przepisów o zawieszeniu i wznowieniu postępowania oraz postępowaniu w sprawach gospodarczych.",
      "children": []
     },
     {
@@ -2587,12 +2597,14 @@
      "num": "60",
      "path": "art_60",
      "text": "(uchylony)",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 60 [1] . Po ogłoszeniu upadłości przedsiębiorca występuje w obrocie pod dotychczasową firmą z dodaniem oznaczenia „w upadłości”."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "60¹",
+     "path": "art_60¹",
+     "text": "Po ogłoszeniu upadłości przedsiębiorca występuje w obrocie pod dotychczasową firmą z dodaniem oznaczenia „w upadłości”.",
+     "children": []
     },
     {
      "type": "heading",
@@ -3023,12 +3035,14 @@
      "num": "70",
      "path": "art_70",
      "text": "Składniki mienia nienależące do majątku upadłego podlegają wyłączeniu z masy upadłości.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 70 [1] . Przepisów o wyłączeniu z masy upadłości nie stosuje się do rzeczy, wierzytelności i innych praw majątkowych przeniesionych przez upadłego na wierzyciela w celu zabezpieczenia wierzytelności. Do przedmiotów tych oraz do zabezpieczonych w ten sposób wierzytelności stosuje się odpowiednio przepisy ustawy dotyczące zastawu i wierzytelności zabezpieczonych zastawem."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "70¹",
+     "path": "art_70¹",
+     "text": "Przepisów o wyłączeniu z masy upadłości nie stosuje się do rzeczy, wierzytelności i innych praw majątkowych przeniesionych przez upadłego na wierzyciela w celu zabezpieczenia wierzytelności. Do przedmiotów tych oraz do zabezpieczonych w ten sposób wierzytelności stosuje się odpowiednio przepisy ustawy dotyczące zastawu i wierzytelności zabezpieczonych zastawem.",
+     "children": []
     },
     {
      "type": "art",
@@ -3481,7 +3495,7 @@
        "type": "ust",
        "num": "2",
        "path": "art_86/ust_2",
-       "text": "Na syndyku ciąży obowiązek zawarcia umowy, o której mowa w art. 12, art. 17 [14] , art. 17 [15] , art. 39 i art. 48 ustawy wskazanej w ust. 1, jeżeli żądanie zostało złożone spółdzielni przed ogłoszeniem upadłości albo po ogłoszeniu upadłości na podstawie art. 54 [1] ust. 2 tej ustawy.",
+       "text": "Na syndyku ciąży obowiązek zawarcia umowy, o której mowa w art. 12, art. 17¹⁴, art. 17¹⁵, art. 39 i art. 48 ustawy wskazanej w ust. 1, jeżeli żądanie zostało złożone spółdzielni przed ogłoszeniem upadłości albo po ogłoszeniu upadłości na podstawie art. 54¹ ust. 2 tej ustawy.",
        "children": [
         {
          "type": "text",
@@ -3941,14 +3955,14 @@
        "type": "ust",
        "num": "1",
        "path": "art_110a/ust_1",
-       "text": "Syndyk może odstąpić z dniem ogłoszenia upadłości od umowy o zakazie konkurencji, o której mowa w art. 101 [2] ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25 i 473), bez prawa do odszkodowania.",
+       "text": "Syndyk może odstąpić z dniem ogłoszenia upadłości od umowy o zakazie konkurencji, o której mowa w art. 101² ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25 i 473), bez prawa do odszkodowania.",
        "children": []
       },
       {
        "type": "ust",
        "num": "2",
        "path": "art_110a/ust_2",
-       "text": "W przypadku sprzedaży przedsiębiorstwa upadłego w całości odpowiedzialność za zobowiązania upadłego z umowy o zakazie konkurencji, o której mowa w art. 101 [2] ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, przechodzi na nabywcę przedsiębiorstwa, chyba że syndyk wcześniej odstąpił od umowy.",
+       "text": "W przypadku sprzedaży przedsiębiorstwa upadłego w całości odpowiedzialność za zobowiązania upadłego z umowy o zakazie konkurencji, o której mowa w art. 101² ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, przechodzi na nabywcę przedsiębiorstwa, chyba że syndyk wcześniej odstąpił od umowy.",
        "children": []
       }
      ]
@@ -5048,14 +5062,16 @@
        "num": "5",
        "path": "art_156/ust_5",
        "text": "(uchylony)",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 156 [1] . (uchylony)"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "156¹",
+     "path": "art_156¹",
+     "text": "(uchylony)",
+     "children": []
     },
     {
      "type": "art",
@@ -5110,50 +5126,60 @@
        "num": "6",
        "path": "art_157/ust_6",
        "text": "Jeżeli ustawa wymaga, aby osoba wyznaczona do pełnienia funkcji syndyka posiadała także tytuł kwalifikowanego doradcy restrukturyzacyjnego, funkcję syndyka może również pełnić spółka handlowa, której wspólnicy ponoszący odpowiedzialność za zobowiązania spółki bez ograniczenia całym swoim majątkiem albo członkowie zarządu reprezentujący spółkę posiadają także tytuł kwalifikowanego doradcy restrukturyzacyjnego.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 157 [1] . 1. Sąd wyznacza syndyka, biorąc pod uwagę liczbę spraw, w których osoba posiadająca licencję doradcy restrukturyzacyjnego pełni funkcję nadzorcy sądowego lub zarządcy w postępowaniach restrukturyzacyjnych lub syndyka w innych postępowaniach upadłościowych, a także jej doświadczenie i dodatkowe kwalifikacje."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "157¹",
+     "path": "art_157¹",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_157¹/ust_1",
+       "text": "Sąd wyznacza syndyka, biorąc pod uwagę liczbę spraw, w których osoba posiadająca licencję doradcy restrukturyzacyjnego pełni funkcję nadzorcy sądowego lub zarządcy w postępowaniach restrukturyzacyjnych lub syndyka w innych postępowaniach upadłościowych, a także jej doświadczenie i dodatkowe kwalifikacje.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_157/ust_2",
+       "path": "art_157¹/ust_2",
        "text": "Przepis ust. 1 stosuje się odpowiednio w przypadku wyznaczania syndyka będącego spółką handlową.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
-       "path": "art_157/ust_3",
+       "path": "art_157¹/ust_3",
        "text": "W przypadku:",
        "children": [
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_157/ust_3/pkt_1",
+         "path": "art_157¹/ust_3/pkt_1",
          "text": "przedsiębiorcy, który w co najmniej jednym z dwóch ostatnich lat obrotowych:",
          "children": [
           {
            "type": "lit",
            "num": "a",
-           "path": "art_157/ust_3/pkt_1/lit_a",
+           "path": "art_157¹/ust_3/pkt_1/lit_a",
            "text": "zatrudniał średniorocznie 250 lub więcej pracowników lub",
            "children": []
           },
           {
            "type": "lit",
            "num": "b",
-           "path": "art_157/ust_3/pkt_1/lit_b",
+           "path": "art_157¹/ust_3/pkt_1/lit_b",
            "text": "osiągnął roczny obrót netto ze sprzedaży towarów, wyrobów i usług oraz operacji finansowych przekraczający równowartość w złotych 50 milionów euro, lub",
            "children": []
           },
           {
            "type": "lit",
            "num": "c",
-           "path": "art_157/ust_3/pkt_1/lit_c",
+           "path": "art_157¹/ust_3/pkt_1/lit_c",
            "text": "osiągnął sumy aktywów bilansu sporządzonego na koniec jednego z tych lat, które przekroczyły równowartość w złotych 43 milionów euro,",
            "children": []
           }
@@ -5162,14 +5188,14 @@
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_157/ust_3/pkt_2",
+         "path": "art_157¹/ust_3/pkt_2",
          "text": "spółki o istotnym znaczeniu dla gospodarki państwa, umieszczonej w wykazie określonym w przepisach wykonawczych wydanych na podstawie art. 31 ust. 2 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2026 r. poz. 373),",
          "children": []
         },
         {
          "type": "pkt",
          "num": "3",
-         "path": "art_157/ust_3/pkt_3",
+         "path": "art_157¹/ust_3/pkt_3",
          "text": "przedsiębiorcy realizujący zadania na rzecz Sił Zbrojnych, o których mowa w art. 648 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26, 426 i 635)",
          "children": []
         },
@@ -6334,7 +6360,7 @@
        "type": "ust",
        "num": "2",
        "path": "art_178/ust_2",
-       "text": "Syndyk składa wniosek o poszukiwanie majątku upadłego przez komornika z ograniczeniem do poszukiwania w bazach danych, do których komornik ma dostęp. Przepisów art. 801 i art. 801 [1] Kodeksu postępowania cywilnego nie stosuje się.",
+       "text": "Syndyk składa wniosek o poszukiwanie majątku upadłego przez komornika z ograniczeniem do poszukiwania w bazach danych, do których komornik ma dostęp. Przepisów art. 801 i art. 801¹ Kodeksu postępowania cywilnego nie stosuje się.",
        "children": []
       },
       {
@@ -7037,20 +7063,22 @@
          "num": "6",
          "path": "art_206/ust_1/pkt_6",
          "text": "uznanie, zrzeczenie się i zawarcie ugody co do roszczeń spornych oraz poddanie sporu rozstrzygnięciu sądu polubownego.",
-         "children": [
-          {
-           "type": "text",
-           "text": "1 [1] . (uchylony)"
-          }
-         ]
+         "children": []
         }
        ]
       },
       {
        "type": "ust",
+       "num": "1¹",
+       "path": "art_206/ust_1¹",
+       "text": "(uchylony)",
+       "children": []
+      },
+      {
+       "type": "ust",
        "num": "2",
        "path": "art_206/ust_2",
-       "text": "Jeżeli czynność, o której mowa w ust. 1 i 1 [1]10) , musi być dokonana niezwłocznie i dotyczy wartości nieprzewyższającej dziesięciu tysięcy złotych, syndyk, nadzorca sądowy albo zarządca może ją wykonać bez zezwolenia rady.",
+       "text": "Jeżeli czynność, o której mowa w ust. 1 i 1¹[^10], musi być dokonana niezwłocznie i dotyczy wartości nieprzewyższającej dziesięciu tysięcy złotych, syndyk, nadzorca sądowy albo zarządca może ją wykonać bez zezwolenia rady.",
        "children": []
       },
       {
@@ -7730,7 +7758,7 @@
        "type": "ust",
        "num": "2",
        "path": "art_220/ust_2",
-       "text": "Pisma oraz postanowienia, o których mowa w ust. 1, doręcza się za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe. Przepis art. 131 [1] § 2 Kodeksu postępowania cywilnego stosuje się.",
+       "text": "Pisma oraz postanowienia, o których mowa w ust. 1, doręcza się za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe. Przepis art. 131¹ § 2 Kodeksu postępowania cywilnego stosuje się.",
        "children": []
       },
       {
@@ -7844,7 +7872,7 @@
        "type": "ust",
        "num": "1a",
        "path": "art_222/ust_1a",
-       "text": "Zażalenia na postanowienia sądu upadłościowego rozpoznaje sąd upadłościowy w innym składzie z wyjątkiem zażaleń na postanowienia, o których mowa w art. 163 ust. 4, art. 166 ust. 6, art. 172 ust. 1, art. 362 ust. 1, art. 365 ust. 3, art. 366 ust. 3, art. 368, art. 370a ust. 10, art. 370d ust. 1–2, art. 370e ust. 1, art. 370f ust. 3, art. 371 ust. 3, art. 491 [1] ust. 2, art. 491 [5] ust. 2, art. 491 ust. 8, art. 491 ust. 7, art. 491 ust. 1–3, art. 491 ust. 1, art. 491 ust. 1 i art. 491 ust. 1 i 2, które rozpoznaje sąd drugiej instancji w składzie trzech sędziów zawodowych.",
+       "text": "Zażalenia na postanowienia sądu upadłościowego rozpoznaje sąd upadłościowy w innym składzie z wyjątkiem zażaleń na postanowienia, o których mowa w art. 163 ust. 4, art. 166 ust. 6, art. 172 ust. 1, art. 362 ust. 1, art. 365 ust. 3, art. 366 ust. 3, art. 368, art. 370a ust. 10, art. 370d ust. 1–2, art. 370e ust. 1, art. 370f ust. 3, art. 371 ust. 3, art. 491¹ ust. 2, art. 491⁵ ust. 2, art. 491¹²ᵃ ust. 8, art. 491¹⁴ ust. 7, art. 491¹⁹ ust. 1–3, art. 491²⁰ ust. 1, art. 491²¹ ust. 1 i art. 491²² ust. 1 i 2, które rozpoznaje sąd drugiej instancji w składzie trzech sędziów zawodowych.",
        "children": []
       },
       {
@@ -8102,7 +8130,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_229/ust_1",
-       "text": "[^11] W sprawach nieuregulowanych ustawą do postępowania upadłościowego stosuje się odpowiednio prze- [2] [1] [1] [2] pisy księgi pierwszej części pierwszej Kodeksu postępowania cywilnego, z wyjątkiem art. 130 , art. 139 , art. 205 , art. 205 i art. 205 [4] –205 [12] oraz przepisów o zawieszeniu i wznowieniu postępowania oraz postępowaniu w sprawach gospodarczych, chyba że ustawa stanowi inaczej.",
+       "text": "[^11] W sprawach nieuregulowanych ustawą do postępowania upadłościowego stosuje się odpowiednio przepisy księgi pierwszej części pierwszej Kodeksu postępowania cywilnego, z wyjątkiem art. 130², art. 139¹, art. 205¹, art. 205² i art. 205⁴–205¹² oraz przepisów o zawieszeniu i wznowieniu postępowania oraz postępowaniu w sprawach gospodarczych, chyba że ustawa stanowi inaczej.",
        "children": []
       },
       {
@@ -9694,7 +9722,7 @@
        "type": "ust",
        "num": "2a",
        "path": "art_317/ust_2a",
-       "text": "Przepis art. 23 [1] ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio.",
+       "text": "Przepis art. 23¹ ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio.",
        "children": []
       },
       {
@@ -10879,7 +10907,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_359/ust_1",
-       "text": "W sprawach o złożenie do depozytu sądowego orzeka sędzia-komisarz. Przepisów art. 693 [3] § 1 i 3 Kodeksu postępowania cywilnego nie stosuje się.",
+       "text": "W sprawach o złożenie do depozytu sądowego orzeka sędzia-komisarz. Przepisów art. 693³ § 1 i 3 Kodeksu postępowania cywilnego nie stosuje się.",
        "children": []
       },
       {
@@ -10908,7 +10936,7 @@
        "type": "ust",
        "num": "2",
        "path": "art_360/ust_2",
-       "text": "Termin do odbioru depozytu sądowego wynosi trzy lata od dnia uprawomocnienia się postanowienia o zakończeniu albo umorzeniu postępowania upadłościowego, ale niemniej niż trzy lata od daty ziszczenia się warunku, o którym mowa w art. 356 ust. 1 lub 2, albo od daty wymagalności. Po upływie terminu prawa do niepodjętego depozytu przechodzą na Skarb Państwa. Do likwidacji niepodjętego depozytu zastosowanie mają przepisy art. 693 [18] –693 [22] Kodeksu postępowania cywilnego.",
+       "text": "Termin do odbioru depozytu sądowego wynosi trzy lata od dnia uprawomocnienia się postanowienia o zakończeniu albo umorzeniu postępowania upadłościowego, ale niemniej niż trzy lata od daty ziszczenia się warunku, o którym mowa w art. 356 ust. 1 lub 2, albo od daty wymagalności. Po upływie terminu prawa do niepodjętego depozytu przechodzą na Skarb Państwa. Do likwidacji niepodjętego depozytu zastosowanie mają przepisy art. 693¹⁸–693²² Kodeksu postępowania cywilnego.",
        "children": []
       }
      ]
@@ -15006,14 +15034,16 @@
        "num": "3",
        "path": "art_459/ust_3",
        "text": "Zarządca zagraniczny obowiązany jest wystąpić z wnioskiem o ujawnienie ogłoszenia upadłości, otwarcia postępowania układowego lub innego podobnego postępowania w księgach wieczystych, Krajowym Rejestrze Sądowym i innych rejestrach prowadzonych w Rzeczypospolitej Polskiej. Z żądaniem takim wystąpić mogą właściwe organy sądowe lub administracyjne państwa, w którym ogłoszono upadłość, otwarto postępowanie układowe lub wszczęto inne podobne postępowanie. Koszty poniesione w związku z tym ujawnieniem wchodzą w skład kosztów postępowania.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 459 [1] . Syndyk obowiązany jest regularnie, nierzadziej niż co sześć miesięcy, informować wierzycieli, których miejsce zwykłego pobytu, miejsce zamieszkania lub siedziba znajdują się w innych państwach członkowskich Unii Europejskiej lub w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym o czynnościach podjętych w postępowaniu upadłościowym w okresie objętym informacją."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "459¹",
+     "path": "art_459¹",
+     "text": "Syndyk obowiązany jest regularnie, nierzadziej niż co sześć miesięcy, informować wierzycieli, których miejsce zwykłego pobytu, miejsce zamieszkania lub siedziba znajdują się w innych państwach członkowskich Unii Europejskiej lub w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym o czynnościach podjętych w postępowaniu upadłościowym w okresie objętym informacją.",
+     "children": []
     },
     {
      "type": "heading",
@@ -15147,12 +15177,14 @@
      "num": "467",
      "path": "art_467",
      "text": "Czynność kompensowania podlega prawu właściwemu dla zobowiązań umownych, mającemu zastosowanie do umowy o kompensowanie.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 467 [1] . Ogłoszenie upadłości nie narusza prawa wierzyciela do potrącenia swej wierzytelności z wierzytelnością upadłego, jeżeli takie potrącenie jest dopuszczalne według prawa właściwego dla wierzytelności upadłego."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "467¹",
+     "path": "art_467¹",
+     "text": "Ogłoszenie upadłości nie narusza prawa wierzyciela do potrącenia swej wierzytelności z wierzytelnością upadłego, jeżeli takie potrącenie jest dopuszczalne według prawa właściwego dla wierzytelności upadłego.",
+     "children": []
     },
     {
      "type": "art",
@@ -15355,17 +15387,27 @@
        "num": "3",
        "path": "art_477/ust_3",
        "text": "W razie wyrażenia zgody przez radę wierzycieli lub sędziego-komisarza na sprzedaż z wolnej ręki mienia wchodzącego w skład osobnej masy upadłości sprzedaż wymaga zgody kuratora.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 477 [1] . 1. Z dniem ogłoszenia upadłości aktywa stanowiące pokrycie rezerw techniczno-ubezpieczeniowych dla celów wypłacalności upadłego zakładu reasekuracji tworzą osobną masę upadłości przeznaczoną na zaspokojenie roszczeń z tytułu umów reasekuracji oraz kosztów likwidacji tej masy."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "477¹",
+     "path": "art_477¹",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_477¹/ust_1",
+       "text": "Z dniem ogłoszenia upadłości aktywa stanowiące pokrycie rezerw techniczno-ubezpieczeniowych dla celów wypłacalności upadłego zakładu reasekuracji tworzą osobną masę upadłości przeznaczoną na zaspokojenie roszczeń z tytułu umów reasekuracji oraz kosztów likwidacji tej masy.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_477/ust_2",
+       "path": "art_477¹/ust_2",
        "text": "Likwidację osobnej masy upadłości przeprowadza syndyk.",
        "children": []
       }
@@ -15418,26 +15460,29 @@
        "num": "3",
        "path": "art_478/ust_3",
        "text": "Wierzytelności osób poszkodowanych i uprawnionych z tytułu ubezpieczeń obowiązkowych oraz wierzytelności ubezpieczonych, uprawnionych i uposażonych z umów ubezpieczeń na życie, zaspokaja Ubezpieczeniowy Fundusz Gwarancyjny i Polskie Biuro Ubezpieczycieli Komunikacyjnych według odrębnych przepisów, w granicach określonych w tych przepisach.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 478 [1] . Z osobnej masy upadłości zakładu reasekuracji zaspokaja się kolejno:"
-        },
-        {
-         "type": "pkt",
-         "num": "1",
-         "path": "art_478/ust_3/pkt_1",
-         "text": "koszty likwidacji osobnej masy upadłości;",
-         "children": []
-        },
-        {
-         "type": "pkt",
-         "num": "2",
-         "path": "art_478/ust_3/pkt_2",
-         "text": "wierzytelności z umów reasekuracji.",
-         "children": []
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "478¹",
+     "path": "art_478¹",
+     "text": "Z osobnej masy upadłości zakładu reasekuracji zaspokaja się kolejno:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_478¹/pkt_1",
+       "text": "koszty likwidacji osobnej masy upadłości;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_478¹/pkt_2",
+       "text": "wierzytelności z umów reasekuracji.",
+       "children": []
       }
      ]
     },
@@ -15464,7 +15509,7 @@
      "type": "art",
      "num": "481",
      "path": "art_481",
-     "text": "Przepisy art. 452 ust. 2, art. 453–466 i art. 467 [1] –470 stosuje się odpowiednio w przypadku:",
+     "text": "Przepisy art. 452 ust. 2, art. 453–466 i art. 467¹–470 stosuje się odpowiednio w przypadku:",
      "children": [
       {
        "type": "pkt",
@@ -15769,1096 +15814,1343 @@
      "text": "Postępowanie upadłościowe wobec osób fizycznych nieprowadzących działalności gospodarczej"
     },
     {
-     "type": "text",
-     "text": "Art. 491 [1] . 1. Przepisy niniejszego tytułu stosuje się wobec osób fizycznych, których upadłości nie można ogłosić zgodnie z przepisami działu II tytułu I części pierwszej."
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "W postanowieniu o ogłoszeniu upadłości sąd może postanowić, że postępowanie upadłościowe wobec osób, o których mowa w ust. 1, będzie prowadzone zgodnie z przepisami części pierwszej, jeżeli jest to uzasadnione znacznym rozmiarem majątku dłużnika, znaczną liczbą wierzycieli lub innymi uzasadnionymi przewidywaniami co do zwiększonego stopnia skomplikowania postępowania. Na postanowienie o prowadzeniu postępowania upadłościowego zgodnie z przepisami części pierwszej przysługuje zażalenie.",
+     "type": "art",
+     "num": "491¹",
+     "path": "art_491¹",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "[7] [8] [10] 3. W postępowaniu, o którym mowa w ust. 2, stosuje się przepisy art. 491 , art. 491 i art. 491 ."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "W postępowaniu, o którym mowa w ust. 2, przepis art. 361 stosuje się odpowiednio jedynie wówczas, gdy upadłość została ogłoszona wyłącznie na skutek uwzględnienia wniosku wierzyciela. Jeżeli upadłość nie została ogłoszona wyłącznie na skutek uwzględnienia wniosku wierzyciela, sąd stwierdza zakończenie postępowania upadłościowego również w przypadku braku masy upadłości lub gdy po całkowitym zlikwidowaniu masy upadłości z uwagi na brak funduszów masy upadłości, które mogłyby podlegać podziałowi, nie został sporządzony ostateczny plan podziału.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [2] . 1. W sprawach nieuregulowanych w niniejszym tytule przepisy o postępowaniu upadłościowym stosuje się odpowiednio, z tym że przepisów art. 21, art. 25, art. 145, art. 151–155, art. 163, art. 164, art. 168 ust. 1–3[^17] i 5, art. 176 ust. 2, art. 244, art. 245, art. 253–264, art. 307 ust. 1, art. 337–339, art. 343 ust. 1a, art. 346 ust. 2 i art. 347–356 oraz art. 358–366 nie stosuje się. Przepisy art. 13, art. 22a, art. 32 ust. 5, art. 36–40 i art. 43 stosuje się odpowiednio jedynie wówczas, gdy wniosek o ogłoszenie upadłości złożył wyłącznie wierzyciel. Przepis art. 361 stosuje się odpowiednio jedynie wówczas, gdy upadłość została ogłoszona wyłącznie na skutek uwzględnienia wniosku wierzyciela."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "1a",
-     "path": "ust_1a",
-     "text": "W postępowaniu o ogłoszenie upadłości uczestnik postępowania może złożyć wniosek o zatwierdzenie warunków sprzedaży składników majątku o znacznej wartości. Przepisy art. 56a–56h stosuje się odpowiednio.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Postępowanie upadłościowe w sprawach objętych przepisami niniejszego tytułu prowadzi się także wtedy, gdy dłużnik ma tylko jednego wierzyciela.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Wniosek o ogłoszenie upadłości może zgłosić dłużnik, z uwzględnieniem przepisów art. 8 i art. 9. Do wniosku o ogłoszenie upadłości i innych pism procesowych oraz dokumentów składanych przez dłużnika stosuje się odpowiednio przepis art. 216aa. W przypadku, o którym mowa w art. 216aa ust. 1, wniosek o ogłoszenie upadłości składa się na formularzu.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3a",
-     "path": "ust_3a",
-     "text": "Do doręczeń dokonywanych dłużnikowi przepisy art. 220 ust. 3, 4 i 6 stosuje się odpowiednio.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "Wniosek o ogłoszenie upadłości powinien zawierać:",
-     "children": [
-      {
-       "type": "pkt",
+       "type": "ust",
        "num": "1",
-       "path": "ust_4/pkt_1",
-       "text": "imię i nazwisko, miejsce zamieszkania, adres oraz numer PESEL dłużnika, a jeżeli dłużnik nie posiada numeru PESEL – inne dane umożliwiające jego jednoznaczną identyfikację;",
+       "path": "art_491¹/ust_1",
+       "text": "Przepisy niniejszego tytułu stosuje się wobec osób fizycznych, których upadłości nie można ogłosić zgodnie z przepisami działu II tytułu I części pierwszej.",
        "children": []
       },
       {
-       "type": "pkt",
-       "num": "1a",
-       "path": "ust_4/pkt_1a",
-       "text": "NIP dłużnika, jeżeli dłużnik miał taki numer w ciągu ostatnich dziesięciu lat przed dniem złożenia wniosku;",
-       "children": []
-      },
-      {
-       "type": "pkt",
+       "type": "ust",
        "num": "2",
-       "path": "ust_4/pkt_2",
-       "text": "wskazanie miejsc, w których znajduje się majątek dłużnika;",
+       "path": "art_491¹/ust_2",
+       "text": "W postanowieniu o ogłoszeniu upadłości sąd może postanowić, że postępowanie upadłościowe wobec osób, o których mowa w ust. 1, będzie prowadzone zgodnie z przepisami części pierwszej, jeżeli jest to uzasadnione znacznym rozmiarem majątku dłużnika, znaczną liczbą wierzycieli lub innymi uzasadnionymi przewidywaniami co do zwiększonego stopnia skomplikowania postępowania. Na postanowienie o prowadzeniu postępowania upadłościowego zgodnie z przepisami części pierwszej przysługuje zażalenie.",
        "children": []
       },
       {
-       "type": "pkt",
+       "type": "ust",
        "num": "3",
-       "path": "ust_4/pkt_3",
-       "text": "wskazanie okoliczności, które uzasadniają wniosek i ich uprawdopodobnienie;",
+       "path": "art_491¹/ust_3",
+       "text": "W postępowaniu, o którym mowa w ust. 2, stosuje się przepisy art. 491⁷, art. 491⁸ i art. 491¹⁰.",
        "children": []
       },
       {
-       "type": "pkt",
+       "type": "ust",
        "num": "4",
-       "path": "ust_4/pkt_4",
-       "text": "aktualny i zupełny wykaz majątku z szacunkową wyceną jego składników;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "5",
-       "path": "ust_4/pkt_5",
-       "text": "spis wierzycieli z podaniem ich adresów i wysokości wierzytelności każdego z nich oraz terminów zapłaty;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "6",
-       "path": "ust_4/pkt_6",
-       "text": "spis wierzytelności spornych z zaznaczeniem zakresu w jakim dłużnik kwestionuje istnienie wierzytelności; wskazanie wierzytelności w spisie wierzytelności spornych nie stanowi jej uznania;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "7",
-       "path": "ust_4/pkt_7",
-       "text": "listę zabezpieczeń ustanowionych na majątku dłużnika wraz z datami ich ustanowienia, w szczególności hipotek, zastawów i zastawów rejestrowych;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "8",
-       "path": "ust_4/pkt_8",
-       "text": "informację o osiągniętych przychodach oraz o kosztach poniesionych na swoje utrzymanie oraz osób pozostających na utrzymaniu dłużnika, w ostatnich sześciu miesiącach przed dniem złożenia wniosku;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "9",
-       "path": "ust_4/pkt_9",
-       "text": "informację o czynnościach prawnych dokonanych przez dłużnika w ostatnich dwunastu miesiącach przed dniem złożenia wniosku, których przedmiotem były nieruchomości, akcje lub udziały w spółkach;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "10",
-       "path": "ust_4/pkt_10",
-       "text": "informację o czynnościach prawnych dokonanych przez dłużnika w ostatnich dwunastu miesiącach przed dniem złożenia wniosku, których przedmiotem były ruchomości, wierzytelności lub inne prawa, których wartość przekracza 10 000 zł;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "11",
-       "path": "ust_4/pkt_11",
-       "text": "oświadczenie o prawdziwości danych zawartych we wniosku.",
+       "path": "art_491¹/ust_4",
+       "text": "W postępowaniu, o którym mowa w ust. 2, przepis art. 361 stosuje się odpowiednio jedynie wówczas, gdy upadłość została ogłoszona wyłącznie na skutek uwzględnienia wniosku wierzyciela. Jeżeli upadłość nie została ogłoszona wyłącznie na skutek uwzględnienia wniosku wierzyciela, sąd stwierdza zakończenie postępowania upadłościowego również w przypadku braku masy upadłości lub gdy po całkowitym zlikwidowaniu masy upadłości z uwagi na brak funduszów masy upadłości, które mogłyby podlegać podziałowi, nie został sporządzony ostateczny plan podziału.",
        "children": []
       }
      ]
     },
     {
-     "type": "ust",
-     "num": "5",
-     "path": "ust_5",
-     "text": "Jeżeli wniosek o ogłoszenie upadłości zgłasza wierzyciel, przepisów ust. 4 pkt 2 i 4–11 nie stosuje się. Przed wydaniem orzeczenia w przedmiocie ogłoszenia upadłości sąd może zobowiązać dłużnika do przedstawienia informacji, o których mowa w ust. 4, w terminie dwóch tygodni.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "5a",
-     "path": "ust_5a",
-     "text": "Wartość, o której mowa w ust. 4 pkt 10, ustala się dla wszystkich czynności dotyczących tego samego prawa lub wierzytelności, dokonanych przez dłużnika w ostatnich dwunastu miesiącach przed dniem złożenia wniosku.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "5b",
-     "path": "ust_5b",
-     "text": "Jeżeli oświadczenie, o którym mowa w ust. 4 pkt 11, nie jest zgodne z prawdą, dłużnik ponosi odpowiedzialność za szkodę wyrządzoną na skutek podania nieprawdziwych danych we wniosku o ogłoszenie upadłości.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "5c",
-     "path": "ust_5c",
-     "text": "Przez inne dane umożliwiające jednoznaczną identyfikację, o których mowa w ust. 4 pkt 1, rozumie się w szczególności numer paszportu i oznaczenie państwa wystawiającego paszport albo numer karty pobytu w Rzeczypospolitej Polskiej, albo numer w zagranicznym rejestrze, albo zagraniczny numer identyfikacji lub identyfikacji podatkowej.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "6",
-     "path": "ust_6",
-     "text": "Minister Sprawiedliwości określi, w drodze rozporządzenia, wzory formularzy wniosku o ogłoszenie upadłości, mając na uwadze podmiot, który składa wniosek, oraz zakres informacji, których umieszczenie we wniosku jest niezbędne.",
+     "type": "art",
+     "num": "491²",
+     "path": "art_491²",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "Art. 491 [3] . Sprawy o ogłoszenie upadłości objęte przepisami niniejszego tytułu rozpoznaje sąd upadłościowy w składzie jednego sędziego zawodowego."
-      },
-      {
-       "type": "text",
-       "text": "Art. 491 [4] . (uchylony)"
-      },
-      {
-       "type": "text",
-       "text": "Art. 491 [5] . 1. Uwzględniając wniosek o ogłoszenie upadłości, sąd wydaje postanowienie o ogłoszeniu upadłości, w którym:"
-      },
-      {
-       "type": "pkt",
+       "type": "ust",
        "num": "1",
-       "path": "ust_6/pkt_1",
-       "text": "wymienia imię i nazwisko, miejsce zamieszkania, adres oraz numer PESEL dłużnika (upadłego), a jeżeli upadły nie posiada numeru PESEL – inne dane umożliwiające jego jednoznaczną identyfikację;",
+       "path": "art_491²/ust_1",
+       "text": "W sprawach nieuregulowanych w niniejszym tytule przepisy o postępowaniu upadłościowym stosuje się odpowiednio, z tym że przepisów art. 21, art. 25, art. 145, art. 151–155, art. 163, art. 164, art. 168 ust. 1–3[^17] i 5, art. 176 ust. 2, art. 244, art. 245, art. 253–264, art. 307 ust. 1, art. 337–339, art. 343 ust. 1a, art. 346 ust. 2 i art. 347–356 oraz art. 358–366 nie stosuje się. Przepisy art. 13, art. 22a, art. 32 ust. 5, art. 36–40 i art. 43 stosuje się odpowiednio jedynie wówczas, gdy wniosek o ogłoszenie upadłości złożył wyłącznie wierzyciel. Przepis art. 361 stosuje się odpowiednio jedynie wówczas, gdy upadłość została ogłoszona wyłącznie na skutek uwzględnienia wniosku wierzyciela.",
        "children": []
       },
       {
-       "type": "pkt",
+       "type": "ust",
        "num": "1a",
-       "path": "ust_6/pkt_1a",
-       "text": "wymienia NIP, jeżeli upadły miał taki numer w ciągu ostatnich dziesięciu lat przed dniem złożenia wniosku;",
+       "path": "art_491²/ust_1a",
+       "text": "W postępowaniu o ogłoszenie upadłości uczestnik postępowania może złożyć wniosek o zatwierdzenie warunków sprzedaży składników majątku o znacznej wartości. Przepisy art. 56a–56h stosuje się odpowiednio.",
        "children": []
       },
       {
-       "type": "pkt",
+       "type": "ust",
        "num": "2",
-       "path": "ust_6/pkt_2",
-       "text": "określa, że upadły jest osobą nieprowadzącą działalności gospodarczej;",
+       "path": "art_491²/ust_2",
+       "text": "Postępowanie upadłościowe w sprawach objętych przepisami niniejszego tytułu prowadzi się także wtedy, gdy dłużnik ma tylko jednego wierzyciela.",
        "children": []
       },
       {
-       "type": "pkt",
+       "type": "ust",
        "num": "3",
-       "path": "ust_6/pkt_3",
-       "text": "wzywa wierzycieli upadłego do zgłoszenia wierzytelności syndykowi za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, w terminie trzydziestu dni od dnia obwieszczenia postanowienia o ogłoszeniu upadłości w Rejestrze; dla wierzycieli, o których mowa w art. 216aa ust. 1, wskazuje adres do zgłoszenia wierzytelności syndykowi;",
+       "path": "art_491²/ust_3",
+       "text": "Wniosek o ogłoszenie upadłości może zgłosić dłużnik, z uwzględnieniem przepisów art. 8 i art. 9. Do wniosku o ogłoszenie upadłości i innych pism procesowych oraz dokumentów składanych przez dłużnika stosuje się odpowiednio przepis art. 216aa. W przypadku, o którym mowa w art. 216aa ust. 1, wniosek o ogłoszenie upadłości składa się na formularzu.",
        "children": []
       },
       {
-       "type": "pkt",
+       "type": "ust",
+       "num": "3a",
+       "path": "art_491²/ust_3a",
+       "text": "Do doręczeń dokonywanych dłużnikowi przepisy art. 220 ust. 3, 4 i 6 stosuje się odpowiednio.",
+       "children": []
+      },
+      {
+       "type": "ust",
        "num": "4",
-       "path": "ust_6/pkt_4",
-       "text": "wzywa osoby, którym przysługują prawa oraz prawa i roszczenia osobiste ciążące na nieruchomości należącej do upadłego, jeżeli nie zostały ujawnione przez wpis w księdze wieczystej, do ich zgłaszania syndykowi za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe w terminie trzydziestu dni od dnia obwieszczenia postanowienia o ogłoszeniu upadłości w Rejestrze pod rygorem utraty prawa powoływania się na nie w postępowaniu upadłościowym; dla wierzycieli, o których mowa w art. 216aa ust. 1, wskazuje adres do zgłoszenia praw oraz praw osobistych i roszczeń ciążących na nieruchomości syndykowi;",
-       "children": []
+       "path": "art_491²/ust_4",
+       "text": "Wniosek o ogłoszenie upadłości powinien zawierać:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_491²/ust_4/pkt_1",
+         "text": "imię i nazwisko, miejsce zamieszkania, adres oraz numer PESEL dłużnika, a jeżeli dłużnik nie posiada numeru PESEL – inne dane umożliwiające jego jednoznaczną identyfikację;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "1a",
+         "path": "art_491²/ust_4/pkt_1a",
+         "text": "NIP dłużnika, jeżeli dłużnik miał taki numer w ciągu ostatnich dziesięciu lat przed dniem złożenia wniosku;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_491²/ust_4/pkt_2",
+         "text": "wskazanie miejsc, w których znajduje się majątek dłużnika;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_491²/ust_4/pkt_3",
+         "text": "wskazanie okoliczności, które uzasadniają wniosek i ich uprawdopodobnienie;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "art_491²/ust_4/pkt_4",
+         "text": "aktualny i zupełny wykaz majątku z szacunkową wyceną jego składników;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "art_491²/ust_4/pkt_5",
+         "text": "spis wierzycieli z podaniem ich adresów i wysokości wierzytelności każdego z nich oraz terminów zapłaty;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "art_491²/ust_4/pkt_6",
+         "text": "spis wierzytelności spornych z zaznaczeniem zakresu w jakim dłużnik kwestionuje istnienie wierzytelności; wskazanie wierzytelności w spisie wierzytelności spornych nie stanowi jej uznania;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "art_491²/ust_4/pkt_7",
+         "text": "listę zabezpieczeń ustanowionych na majątku dłużnika wraz z datami ich ustanowienia, w szczególności hipotek, zastawów i zastawów rejestrowych;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "8",
+         "path": "art_491²/ust_4/pkt_8",
+         "text": "informację o osiągniętych przychodach oraz o kosztach poniesionych na swoje utrzymanie oraz osób pozostających na utrzymaniu dłużnika, w ostatnich sześciu miesiącach przed dniem złożenia wniosku;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "9",
+         "path": "art_491²/ust_4/pkt_9",
+         "text": "informację o czynnościach prawnych dokonanych przez dłużnika w ostatnich dwunastu miesiącach przed dniem złożenia wniosku, których przedmiotem były nieruchomości, akcje lub udziały w spółkach;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "10",
+         "path": "art_491²/ust_4/pkt_10",
+         "text": "informację o czynnościach prawnych dokonanych przez dłużnika w ostatnich dwunastu miesiącach przed dniem złożenia wniosku, których przedmiotem były ruchomości, wierzytelności lub inne prawa, których wartość przekracza 10 000 zł;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "11",
+         "path": "art_491²/ust_4/pkt_11",
+         "text": "oświadczenie o prawdziwości danych zawartych we wniosku.",
+         "children": []
+        }
+       ]
       },
       {
-       "type": "pkt",
+       "type": "ust",
        "num": "5",
-       "path": "ust_6/pkt_5",
-       "text": "wyznacza syndyka;",
+       "path": "art_491²/ust_5",
+       "text": "Jeżeli wniosek o ogłoszenie upadłości zgłasza wierzyciel, przepisów ust. 4 pkt 2 i 4–11 nie stosuje się. Przed wydaniem orzeczenia w przedmiocie ogłoszenia upadłości sąd może zobowiązać dłużnika do przedstawienia informacji, o których mowa w ust. 4, w terminie dwóch tygodni.",
        "children": []
       },
       {
-       "type": "pkt",
+       "type": "ust",
+       "num": "5a",
+       "path": "art_491²/ust_5a",
+       "text": "Wartość, o której mowa w ust. 4 pkt 10, ustala się dla wszystkich czynności dotyczących tego samego prawa lub wierzytelności, dokonanych przez dłużnika w ostatnich dwunastu miesiącach przed dniem złożenia wniosku.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5b",
+       "path": "art_491²/ust_5b",
+       "text": "Jeżeli oświadczenie, o którym mowa w ust. 4 pkt 11, nie jest zgodne z prawdą, dłużnik ponosi odpowiedzialność za szkodę wyrządzoną na skutek podania nieprawdziwych danych we wniosku o ogłoszenie upadłości.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5c",
+       "path": "art_491²/ust_5c",
+       "text": "Przez inne dane umożliwiające jednoznaczną identyfikację, o których mowa w ust. 4 pkt 1, rozumie się w szczególności numer paszportu i oznaczenie państwa wystawiającego paszport albo numer karty pobytu w Rzeczypospolitej Polskiej, albo numer w zagranicznym rejestrze, albo zagraniczny numer identyfikacji lub identyfikacji podatkowej.",
+       "children": []
+      },
+      {
+       "type": "ust",
        "num": "6",
-       "path": "ust_6/pkt_6",
-       "text": "określa, czy postępowanie upadłościowe będzie prowadzone w trybie określonym w art. 491 [1] ust. 1 czy 2;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "7",
-       "path": "ust_6/pkt_7",
-       "text": "jeżeli postępowanie upadłościowe będzie prowadzone w trybie określonym w art. 491 [1] ust. 2, w postanowieniu o ogłoszeniu upadłości sąd określa również, czy funkcje sędziego-komisarza oraz zastępcy sędziego-komisarza będzie pełnił sędzia czy referendarz sądowy.",
+       "path": "art_491²/ust_6",
+       "text": "Minister Sprawiedliwości określi, w drodze rozporządzenia, wzory formularzy wniosku o ogłoszenie upadłości, mając na uwadze podmiot, który składa wniosek, oraz zakres informacji, których umieszczenie we wniosku jest niezbędne.",
        "children": []
       }
      ]
     },
     {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "O prowadzeniu postępowania upadłościowego w trybie określonym w art. 491 [1] ust. 2 sąd może postanowić również po ogłoszeniu upadłości. Na postanowienie o prowadzeniu postępowania upadłościowego w trybie określonym w art. 491 [1] ust. 2 przysługuje zażalenie. Postanowienie w przedmiocie trybu prowadzenia postępowania upadłościowego obwieszcza się.",
+     "type": "art",
+     "num": "491³",
+     "path": "art_491³",
+     "text": "Sprawy o ogłoszenie upadłości objęte przepisami niniejszego tytułu rozpoznaje sąd upadłościowy w składzie jednego sędziego zawodowego.",
      "children": []
     },
     {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Jeżeli postępowanie jest prowadzone w trybie określonym w art. 491 [1] ust. 1, a do wykonania określonej czynności właściwy jest sędzia-komisarz, to czynność tę wykonuje jako sędzia-komisarz wyznaczony sędzia, do którego przepisy o czynnościach sędziego-komisarza stosuje się odpowiednio.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "Przez inne dane umożliwiające jednoznaczną identyfikację, o których mowa w ust. 1 pkt 1, rozumie się dane, o których mowa w art. 491 [2] ust. 5c.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [6] . 1. Postanowienie o ogłoszeniu upadłości doręcza się również syndykowi."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "O ogłoszeniu upadłości powiadamia się właściwą izbę administracji skarbowej oraz właściwy oddział Zakładu Ubezpieczeń Społecznych lub Kasy Rolniczego Ubezpieczenia Społecznego.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [6a] . 1. W zawiadomieniu skierowanym do wierzycieli syndyk poucza ich o treści art. 54a, art. 216a–216ab, [12a] [14] [14a] [16] art. 235–237, art. 239a–241, art. 491 , art. 491 ust. 5, 6 i 8, art. 491 i art. 491 , wskazuje sąd, do którego można zaskarżyć postanowienie o ogłoszeniu upadłości zgodnie z art. 54a ust. 1, imię i nazwisko albo nazwę syndyka, adres, na który należy dokonać zgłoszenia wierzytelności, o której mowa w art. 216aa ust. 1, termin, w którym należy dokonać zgłoszenia wierzytelności, albo sposób obliczenia tego terminu oraz podaje numer rachunku bankowego, na który należy wpłacić zryczałtowane koszty, o których mowa w art. 235 ust. 1."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "W zawiadomieniu skierowanym do małżonka dłużnika syndyk poucza go o treści art. 124–126, art. 491 [14] ust. 5, 6 i 8, art. 491 [14a] i art. 491 [16] .",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [7] . 1. W przypadku, gdy majątek niewypłacalnego dłużnika nie wystarcza na pokrycie kosztów postępowania albo w masie upadłości brak jest płynnych funduszów na ich pokrycie, koszty te pokrywa tymczasowo Skarb Państwa."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
+     "type": "art",
+     "num": "491⁴",
+     "path": "art_491⁴",
      "text": "(uchylony)",
      "children": []
     },
     {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Jednocześnie z ogłoszeniem upadłości sąd przyznaje syndykowi zaliczkę na pokrycie kosztów postępowania oraz zarządza jej niezwłoczną wypłatę tymczasowo ze środków Skarbu Państwa, chyba że majątek upadłego pozwala na bieżące pokrywanie kosztów postępowania. W dalszym toku postępowania, w razie potrzeby, sąd przyznaje syndykowi zaliczkę na pokrycie kosztów postępowania oraz zarządza jej niezwłoczną wypłatę tymczasowo ze środków Skarbu Państwa.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "Syndyk zwraca Skarbowi Państwa wypłacone kwoty niezwłocznie po wpływie do masy upadłości funduszów wystarczających na pokrycie kosztów postępowania.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "5",
-     "path": "ust_5",
-     "text": "W przypadku postępowania wszczętego wyłącznie na wniosek wierzyciela przepisów ust. 1 i 3 nie stosuje się, jeżeli dłużnik nie sprzeciwia się umorzeniu postępowania. Przed umorzeniem postępowania sąd wysłuchuje dłużnika.",
+     "type": "art",
+     "num": "491⁵",
+     "path": "art_491⁵",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "Art. 491 [8] . 1. Po ogłoszeniu upadłości syndyk zwraca się do naczelnika urzędu skarbowego właściwego dla upadłego z wnioskiem o udzielenie informacji dotyczących upadłego, mających wpływ na ocenę jego sytuacji majątkowej, w szczególności dotyczących okoliczności powodujących powstanie po stronie upadłego obowiązku podatkowego w okresie pięciu lat przed dniem zgłoszenia wniosku o ogłoszenie upadłości, oraz zasięga informacji w Krajowym Rejestrze Sądowym, czy upadły jest wspólnikiem spółek handlowych, jak również czy w okresie dziesięciu lat przed dniem zgłoszenia wniosku o ogłoszenie upadłości sprawował funkcję członka organu spółek handlowych i czy w stosunku do tych spółek ogłoszono upadłość."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Syndyk informuje sędziego-komisarza o niezgodności informacji uzyskanych w sposób, o którym mowa w ust. 1, z danymi podanymi przez upadłego we wniosku o ogłoszenie upadłości.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [9] . 1. Sąd ustala wynagrodzenie syndyka w postępowaniu prowadzonym według przepisów niniejszego tytułu biorąc pod uwagę wysokość funduszów masy upadłości, stopień zaspokojenia wierzycieli, nakład pracy, zakres czynności podejmowanych w postępowaniu, stopień ich trudności oraz czas trwania postępowania."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Wynagrodzenie syndyka ustala się w wysokości od jednej czwartej przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego do jego dwukrotności.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "W szczególnie uzasadnionych przypadkach sąd może ustalić wynagrodzenie syndyka w wysokości do czterokrotności przeciętnego miesięcznego wynagrodzenia, o którym mowa w ust. 2, jeżeli jest to uzasadnione zwiększonym nakładem pracy syndyka wynikającym w szczególności ze stopnia skomplikowania postępowania oraz liczby wierzycieli.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "W przedmiocie wynagrodzenia syndyka oraz zwrotu jego wydatków orzeka sąd upadłościowy w składzie jednego sędziego zawodowego.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [10] . 1. Sąd umarza postępowanie na wniosek upadłego."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Jeżeli upadły nie wskaże lub nie wyda syndykowi całego majątku, niezbędnych dokumentów lub w inny sposób nie wykonuje ciążących na nim obowiązków, sąd, z urzędu albo na wniosek syndyka lub wierzyciela, po wysłuchaniu upadłego, syndyka, a w razie potrzeby także wierzycieli, umarza postępowanie, chyba że uchybienie przez upadłego ciążącym na nim obowiązkom nie jest istotne lub przeprowadzenie postępowania jest uzasadnione względami słuszności lub względami humanitarnymi.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2a",
-     "path": "ust_2a",
-     "text": "Sąd umarza postępowanie, jeżeli zostanie ujawnione, że dane podane przez dłużnika we wniosku o ogłoszenie upadłości są niezgodne z prawdą lub niezupełne, chyba że niezgodność lub niezupełność nie są istotne lub przeprowadzenie postępowania jest uzasadnione względami słuszności lub względami humanitarnymi.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Sąd nie umarza postępowania, jeżeli umorzenie postępowania mogłoby skutkować pokrzywdzeniem wierzycieli.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "Na postanowienie w przedmiocie umorzenia postępowania przysługuje zażalenie.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "5",
-     "path": "ust_5",
-     "text": "Do postępowania wszczętego na wniosek wierzyciela przepisów ust. 1 i 2 nie stosuje się.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [11] . (uchylony)"
-      },
-      {
-       "type": "text",
-       "text": "Art. 491 [11a] . 1. Wyboru sposobu likwidacji masy upadłości dokonuje samodzielnie syndyk w sposób, który umożliwia zaspokojenie wierzycieli w jak największym stopniu, z uwzględnieniem kosztów likwidacji."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "O wyborze sposobu likwidacji nieruchomości oraz wyborze sposobu likwidacji składników masy upadłości, których wartość oszacowania wskazana w spisie inwentarza przekracza pięciokrotność przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w trzecim kwartale roku poprzedzającego złożenie spisu inwentarza, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego, syndyk zawiadamia wierzycieli oraz sąd za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe z wykorzystaniem udostępnianych w tym systemie formularzy. W zawiadomieniu syndyk wskazuje sposób likwidacji oraz minimalną cenę.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Na skutek skargi na czynności syndyka, o której mowa w art. 491 [12a] , lub z urzędu sąd, w drodze postanowienia, zakazuje syndykowi dokonania likwidacji składnika masy upadłości w wybrany przez syndyka sposób lub za wskazaną minimalną cenę, jeżeli likwidacja byłaby niezgodna z prawem albo prowadziłaby do pokrzywdzenia upadłego lub wierzycieli.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "Przed wydaniem postanowienia, o którym mowa w ust. 3, sąd może wstrzymać dokonanie likwidacji składnika masy upadłości. O wstrzymaniu likwidacji składnika masy upadłości sąd zawiadamia syndyka w dniu wydania postanowienia o wstrzymaniu likwidacji.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "5",
-     "path": "ust_5",
-     "text": "W przypadku braku wstrzymania lub zakazu likwidacji składnika masy upadłości likwidacja może nastąpić po upływie czternastu dni od dnia zawiadomienia, o którym mowa w ust. 2.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [12] . Syndyk może pisemnie upoważnić upadłego do sprzedaży ruchomości należących do masy upadłości. Do upoważnienia stosuje się odpowiednio przepisy o pełnomocnictwie."
-      },
-      {
-       "type": "text",
-       "text": "Art. 491 [12a] . 1. Na czynności syndyka przysługuje skarga do sądu upadłościowego. Dotyczy to także zaniechania przez syndyka dokonania czynności."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Skargę może złożyć upadły, wierzyciel lub inna osoba, której prawo zostało przez czynności lub zaniechanie syndyka naruszone albo zagrożone.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Skarga powinna czynić zadość wymaganiom pisma procesowego oraz określać zaskarżoną czynność lub czynność, której zaniechano, jak również wniosek o zmianę, uchylenie lub dokonanie czynności, wraz z uzasadnieniem.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "Skargę wnosi się w terminie siedmiu dni od dnia dokonania czynności, gdy upadły, wierzyciel lub osoba, której prawo zostało przez czynność syndyka naruszone albo zagrożone, była przy czynności obecna lub była o jej terminie zawiadomiona; w innych przypadkach – od dnia zawiadomienia o dokonaniu czynności upadłego, wierzyciela lub osoby, której prawo zostało przez czynność syndyka naruszone albo zagrożone, a w braku zawiadomienia – od dnia powzięcia wiadomości przez skarżącego o dokonanej czynności. Skargę na zaniechanie przez syndyka dokonania czynności wnosi się w terminie siedmiu dni od dnia, w którym skarżący dowiedział się, że czynność miała być dokonana.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "5",
-     "path": "ust_5",
-     "text": "Skargę wnosi się do syndyka, który dokonał zaskarżonej czynności lub zaniechał jej dokonania. Syndyk w terminie trzech dni od dnia otrzymania skargi sporządza uzasadnienie zaskarżonej czynności, o ile nie zostało ono sporządzone wcześniej, albo przyczyn jej zaniechania i przekazuje je wraz ze skargą do właściwego sądu upadłościowego, chyba że skargę w całości uwzględnia. O uwzględnieniu skargi syndyk zawiadamia skarżącego oraz zainteresowanych, których uwzględnienie skargi dotyczy, za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe z wykorzystaniem udostępnianych w tym systemie formularzy.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "6",
-     "path": "ust_6",
-     "text": "Sąd rozpoznaje skargę w terminie siedmiu dni od dnia jej wpływu do sądu, a gdy skarga zawiera braki formalne, które podlegają uzupełnieniu – od dnia jej uzupełnienia.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "7",
-     "path": "ust_7",
-     "text": "Wniesienie skargi nie wstrzymuje postępowania upadłościowego ani dokonania zaskarżonej czynności, chyba że sąd wstrzyma dokonanie czynności.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "8",
-     "path": "ust_8",
-     "text": "Sąd odrzuca skargę wniesioną po upływie przepisanego terminu, nieopłaconą lub z innych przyczyn niedopuszczalną, jak również skargę, której braków nie uzupełniono w terminie. Na postanowienie sądu o odrzuceniu skargi służy zażalenie.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "9",
-     "path": "ust_9",
-     "text": "W razie odrzucenia skargi sąd z urzędu bierze pod uwagę okoliczności wskazane w skardze i w razie potrzeby wydaje syndykowi polecenie dokonania odpowiednich czynności lub zakazuje syndykowi dokonania określonych czynności.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [13] . (uchylony)"
-      },
-      {
-       "type": "text",
-       "text": "Art. 491 [14] . 1. Po upływie terminu do zgłaszania wierzytelności i przeprowadzeniu likwidacji majątku wchodzącego w skład masy upadłości syndyk składa sądowi projekt planu spłaty wierzycieli z uzasadnieniem albo informację, że zachodzą przesłanki, o których mowa w art. 491 [14a] ust. 1 lub art. 491 [16] ust. 1 lub 2a."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "W przypadku postępowania wszczętego wyłącznie na wniosek wierzyciela syndyk składa sądowi projekt planu spłaty wierzycieli z uzasadnieniem albo informację, że zachodzą przesłanki, o których mowa w art. 491 [14a] ust. 1 lub art. 491 [16] ust. 1 lub 2a, chyba że dłużnik na wezwanie syndyka oświadczy, że nie wnosi o sporządzenie planu spłaty wierzycieli ani o umorzenie zobowiązań bez ustalenia planu spłaty wierzycieli lub o warunkowe umorzenie zobowiązań upadłego bez ustalenia planu spłaty wierzycieli. Jeżeli dłużnik na wezwanie syndyka oświadczy, że nie wnosi o sporządzenie planu spłaty wierzycieli ani o umorzenie zobowiązań bez ustalenia planu spłaty wierzycieli lub o warunkowe umorzenie zobowiązań upadłego bez ustalenia planu spłaty wierzycieli, sąd wydaje postanowienie o zakończeniu postępowania.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Do projektu planu spłaty wierzycieli z uzasadnieniem albo informacji, że zachodzą przesłanki, o których mowa w art. 491 [14a] ust. 1 lub art. 491 [16] ust. 1 lub 2a, syndyk załącza:",
-     "children": [
-      {
-       "type": "pkt",
+       "type": "ust",
        "num": "1",
-       "path": "ust_3/pkt_1",
-       "text": "dowody doręczenia upadłemu oraz wierzycielom projektu planu spłaty wierzycieli z uzasadnieniem albo informacji, że zachodzą przesłanki, o których mowa w art. 491 [14a] ust. 1 lub art. 491 [16] ust. 1 lub 2a, wraz z pouczeniem o treści ust. 4 i zobowiązaniem do złożenia stanowiska, o którym mowa w pkt 2, w terminie czternastu dni;",
-       "children": []
+       "path": "art_491⁵/ust_1",
+       "text": "Uwzględniając wniosek o ogłoszenie upadłości, sąd wydaje postanowienie o ogłoszeniu upadłości, w którym:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_491⁵/ust_1/pkt_1",
+         "text": "wymienia imię i nazwisko, miejsce zamieszkania, adres oraz numer PESEL dłużnika (upadłego), a jeżeli upadły nie posiada numeru PESEL – inne dane umożliwiające jego jednoznaczną identyfikację;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "1a",
+         "path": "art_491⁵/ust_1/pkt_1a",
+         "text": "wymienia NIP, jeżeli upadły miał taki numer w ciągu ostatnich dziesięciu lat przed dniem złożenia wniosku;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_491⁵/ust_1/pkt_2",
+         "text": "określa, że upadły jest osobą nieprowadzącą działalności gospodarczej;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_491⁵/ust_1/pkt_3",
+         "text": "wzywa wierzycieli upadłego do zgłoszenia wierzytelności syndykowi za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, w terminie trzydziestu dni od dnia obwieszczenia postanowienia o ogłoszeniu upadłości w Rejestrze; dla wierzycieli, o których mowa w art. 216aa ust. 1, wskazuje adres do zgłoszenia wierzytelności syndykowi;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "art_491⁵/ust_1/pkt_4",
+         "text": "wzywa osoby, którym przysługują prawa oraz prawa i roszczenia osobiste ciążące na nieruchomości należącej do upadłego, jeżeli nie zostały ujawnione przez wpis w księdze wieczystej, do ich zgłaszania syndykowi za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe w terminie trzydziestu dni od dnia obwieszczenia postanowienia o ogłoszeniu upadłości w Rejestrze pod rygorem utraty prawa powoływania się na nie w postępowaniu upadłościowym; dla wierzycieli, o których mowa w art. 216aa ust. 1, wskazuje adres do zgłoszenia praw oraz praw osobistych i roszczeń ciążących na nieruchomości syndykowi;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "art_491⁵/ust_1/pkt_5",
+         "text": "wyznacza syndyka;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "art_491⁵/ust_1/pkt_6",
+         "text": "określa, czy postępowanie upadłościowe będzie prowadzone w trybie określonym w art. 491¹ ust. 1 czy 2;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "art_491⁵/ust_1/pkt_7",
+         "text": "jeżeli postępowanie upadłościowe będzie prowadzone w trybie określonym w art. 491¹ ust. 2, w postanowieniu o ogłoszeniu upadłości sąd określa również, czy funkcje sędziego-komisarza oraz zastępcy sędziego-komisarza będzie pełnił sędzia czy referendarz sądowy.",
+         "children": []
+        }
+       ]
       },
       {
-       "type": "pkt",
+       "type": "ust",
        "num": "2",
-       "path": "ust_3/pkt_2",
-       "text": "stanowiska upadłego oraz wierzycieli albo informację, że upadły lub wierzyciele nie złożyli stanowiska wraz z podaniem przyczyny jego niezłożenia.",
-       "children": []
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "Sąd ustala plan spłaty wierzycieli albo w przypadku, o którym mowa w art. 491 [16] ust. 1 lub 2a, umarza zobowiązania upadłego bez ustalenia planu spłaty wierzycieli lub warunkowo umarza zobowiązania upadłego bez ustalenia planu spłaty wierzycieli albo wydaje postanowienie, o którym mowa w art. 491 [14a] ust. 1, po przeprowadzeniu rozprawy, jeżeli upadły, syndyk lub wierzyciel złożył wniosek o przeprowadzenie rozprawy. O terminie rozprawy zawiadamia się upadłego i syndyka oraz wierzyciela, który złożył wniosek o przeprowadzenie rozprawy.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "5",
-     "path": "ust_5",
-     "text": "W przypadku braku zgłoszeń wierzytelności i braku wierzytelności, które w postępowaniu upadłościowym prowadzonym zgodnie z przepisami części pierwszej podlegałyby z urzędu umieszczeniu na liście wierzytelności, sąd, po upływie terminu do zgłoszenia wierzytelności, wydaje postanowienie o umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli, chyba że w toku postępowania nie zostały zaspokojone koszty tego postępowania tymczasowo pokryte przez Skarb Państwa lub inne zobowiązania masy upadłości.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "6",
-     "path": "ust_6",
-     "text": "Zgłoszenie wierzytelności dokonane po złożeniu przez syndyka projektu planu spłaty wierzycieli z uzasadnieniem albo informacji, że zachodzą przesłanki, o których mowa w art. 491 [14a] ust. 1 lub art. 491 [16] ust. 1 lub 2a, pozostawia się bez rozpoznania.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "7",
-     "path": "ust_7",
-     "text": "Postanowienie w przedmiocie ustalenia planu spłaty wierzycieli albo w przedmiocie umorzenia zobowiązań upadłego bez ustalenia planu spłaty wierzycieli lub w przedmiocie warunkowego umorzenia zobowiązań upadłego bez ustalenia planu spłaty wierzycieli oraz informację o prawomocności tych postanowień obwieszcza się. Na postanowienie sądu w przedmiocie ustalenia planu spłaty wierzycieli albo w przedmiocie umorzenia zobowiązań upadłego bez ustalenia planu spłaty wierzycieli lub w przedmiocie warunkowego umorzenia zobowiązań upadłego bez ustalenia planu spłaty wierzycieli przysługuje zażalenie. Postanowienie sądu drugiej instancji w przedmiocie rozpoznania zażalenia oraz informację o prawomocności tego postanowienia obwieszcza się.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "8",
-     "path": "ust_8",
-     "text": "Wydanie postanowienia o ustaleniu planu spłaty wierzycieli albo umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli lub warunkowym umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli oznacza zakończenie postępowania.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [14a] . 1. Sąd wydaje postanowienie o odmowie ustalenia planu spłaty wierzycieli albo umorzenia zobowiązań upadłego bez ustalenia planu spłaty wierzycieli lub warunkowego umorzenia zobowiązań upadłego bez ustalenia planu spłaty wierzycieli, jeżeli:"
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_8/pkt_1",
-       "text": "upadły doprowadził do swojej niewypłacalności lub istotnie zwiększył jej stopień w sposób celowy, w szczególności przez trwonienie części składowych majątku oraz celowe nieregulowanie wymagalnych zobowiązań,",
+       "path": "art_491⁵/ust_2",
+       "text": "O prowadzeniu postępowania upadłościowego w trybie określonym w art. 491¹ ust. 2 sąd może postanowić również po ogłoszeniu upadłości. Na postanowienie o prowadzeniu postępowania upadłościowego w trybie określonym w art. 491¹ ust. 2 przysługuje zażalenie. Postanowienie w przedmiocie trybu prowadzenia postępowania upadłościowego obwieszcza się.",
        "children": []
       },
       {
-       "type": "pkt",
-       "num": "2",
-       "path": "ust_8/pkt_2",
-       "text": "w okresie dziesięciu lat przed dniem zgłoszenia wniosku o ogłoszenie upadłości w stosunku do upadłego prowadzono postępowanie upadłościowe, w którym umorzono całość lub część jego zobowiązań",
-       "children": []
-      },
-      {
-       "type": "text",
-       "text": "– chyba że ustalenie planu spłaty wierzycieli lub umorzenie zobowiązań upadłego bez ustalenia planu spłaty wierzycieli lub warunkowe umorzenie zobowiązań upadłego bez ustalenia planu spłaty wierzycieli jest uzasadnione względami słuszności lub względami humanitarnymi."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Jeżeli w przypadku, o którym mowa w ust. 1, w postępowaniu zgromadzono fundusze masy upadłości, sąd wydaje postanowienie o ustaleniu planu spłaty wierzycieli, w którym wymienia wierzycieli uczestniczących w planie spłaty, oraz dokonuje podziału funduszy masy upadłości między wierzycieli uczestniczących w planie spłaty. Przepisu art. 491 [21] nie stosuje się.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Wydanie postanowienia o odmowie ustalenia planu spłaty wierzycieli oznacza zakończenie postępowania.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [15] . 1. W postanowieniu o ustaleniu planu spłaty wierzycieli sąd:"
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_3/pkt_1",
-       "text": "wymienia wierzycieli uczestniczących w planie spłaty;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "ust_3/pkt_2",
-       "text": "dokonuje podziału funduszy masy upadłości pomiędzy wierzycieli uczestniczących w planie spłaty, jeżeli w postępowaniu zgromadzono fundusze masy upadłości;",
-       "children": []
-      },
-      {
-       "type": "pkt",
+       "type": "ust",
        "num": "3",
-       "path": "ust_3/pkt_3",
-       "text": "ustala, czy upadły doprowadził do swojej niewypłacalności lub istotnie zwiększył jej stopień umyślnie lub wskutek rażącego niedbalstwa;",
+       "path": "art_491⁵/ust_3",
+       "text": "Jeżeli postępowanie jest prowadzone w trybie określonym w art. 491¹ ust. 1, a do wykonania określonej czynności właściwy jest sędzia-komisarz, to czynność tę wykonuje jako sędzia-komisarz wyznaczony sędzia, do którego przepisy o czynnościach sędziego-komisarza stosuje się odpowiednio.",
        "children": []
       },
       {
-       "type": "pkt",
+       "type": "ust",
        "num": "4",
-       "path": "ust_3/pkt_4",
-       "text": "określa, w jakim zakresie i okresie, niedłuższym niż trzydzieści sześć miesięcy, upadły jest obowiązany spłacać zobowiązania, które w postępowaniu upadłościowym prowadzonym zgodnie z przepisami części pierwszej zostałyby uznane na liście wierzytelności, oraz jaka część zobowiązań upadłego powstałych przed dniem ogłoszenia upadłości zostanie umorzona po wykonaniu planu spłaty wierzycieli.",
+       "path": "art_491⁵/ust_4",
+       "text": "Przez inne dane umożliwiające jednoznaczną identyfikację, o których mowa w ust. 1 pkt 1, rozumie się dane, o których mowa w art. 491² ust. 5c.",
        "children": []
       }
      ]
     },
     {
-     "type": "ust",
-     "num": "1a",
-     "path": "ust_1a",
-     "text": "W przypadku ustalenia, że upadły doprowadził do swojej niewypłacalności lub istotnie zwiększył jej stopień umyślnie lub wskutek rażącego niedbalstwa, plan spłaty wierzycieli nie może być ustalony na okres krótszy niż trzydzieści sześć miesięcy ani dłuższy niż osiemdziesiąt cztery miesiące.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "1b",
-     "path": "ust_1b",
-     "text": "W przypadku gdy w drodze wykonania planu spłaty wierzycieli dłużnik spłaci co najmniej 70 % zobowiązań objętych planem spłaty wierzycieli, które w postępowaniu upadłościowym prowadzonym zgodnie z przepisami części pierwszej zostałyby uznane na liście wierzytelności, plan spłaty wierzycieli nie może zostać ustalony na okres dłuższy niż rok.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "1c",
-     "path": "ust_1c",
-     "text": "W przypadku gdy w drodze wykonania planu spłaty wierzycieli dłużnik spłaci co najmniej 50 % zobowiązań objętych planem spłaty wierzycieli, które w postępowaniu upadłościowym prowadzonym zgodnie z przepisami części pierwszej zostałyby uznane na liście wierzytelności, plan spłaty wierzycieli nie może zostać ustalony na okres dłuższy niż dwa lata.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "1d",
-     "path": "ust_1d",
-     "text": "Do okresów spłaty, o których mowa w ust. 1 pkt 4 oraz ust. 1a–1c, zalicza się okres od upływu sześciu miesięcy od dnia ogłoszenia upadłości do dnia ustalenia planu spłaty wierzycieli, chyba że dłużnik nie pokryłby w całości kosztów postępowania tymczasowo poniesionych przez Skarb Państwa. Do okresu spłaty nie zalicza się okresu warunkowego umorzenia zobowiązań upadłego bez ustalenia planu spłaty wierzycieli.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Koszty postępowania tymczasowo pokryte przez Skarb Państwa oraz inne zobowiązania masy upadłości niezaspokojone w toku postępowania uwzględnia się w planie spłaty wierzycieli w pełnej wysokości, chyba że możliwości zarobkowe upadłego, konieczność utrzymania upadłego i osób pozostających na jego utrzymaniu oraz ich potrzeby mieszkaniowe nie pozwalają na zaspokojenie kosztów postępowania tymczasowo pokrytych przez Skarb Państwa oraz innych zobowiązań masy upadłości w pełnej wysokości. W przypadku braku zgłoszeń wierzytelności i braku wierzytelności, które w postępowaniu upadłościowym prowadzonym zgodnie z przepisami części pierwszej podlegałyby z urzędu umieszczeniu na liście wierzytelności, w planie spłaty wierzycieli uwzględnia się wyłącznie zobowiązania, o których mowa w zdaniu poprzednim, a w przypadku braku takich zobowiązań umarza się zobowiązania upadłego bez ustalenia planu spłaty wierzycieli.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Koszty postępowania tymczasowo pokryte przez Skarb Państwa nieuwzględnione w planie spłaty wierzycieli albo niezaspokojone w ramach wykonania planu spłaty wierzycieli ponosi Skarb Państwa.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "Sąd nie jest związany stanowiskiem upadłego oraz wierzycieli co do treści planu spłaty wierzycieli. Ustalając plan spłaty wierzycieli, sąd bierze pod uwagę możliwości zarobkowe upadłego, konieczność utrzymania upadłego i osób pozostających na jego utrzymaniu oraz ich potrzeby mieszkaniowe, wysokość niezaspokojonych wierzytelności oraz stopień zaspokojenia wierzytelności w postępowaniu upadłościowym.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "5",
-     "path": "ust_5",
-     "text": "Ustalenie planu spłaty wierzycieli nie narusza praw wierzyciela wobec poręczyciela upadłego oraz współdłużnika upadłego ani praw wynikających z hipoteki, zastawu, zastawu rejestrowego, zastawu skarbowego oraz hipoteki morskiej, jeśli były one ustanowione na mieniu osoby trzeciej. Ustalenie planu spłaty wierzycieli i umorzenie zobowiązań upadłego jest skuteczne również w stosunkach pomiędzy upadłym, a poręczycielem, gwarantem i współdłużnikiem upadłego.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "6",
-     "path": "ust_6",
-     "text": "W okresie wykonywania planu spłaty wierzycieli niedopuszczalne jest wszczęcie postępowania egzekucyjnego dotyczącego wierzytelności powstałych przed ustaleniem planu spłaty wierzycieli, z wyjątkiem wierzytelności wynikających z zobowiązań, o których mowa w art. 491 [21] ust. 2.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "7",
-     "path": "ust_7",
-     "text": "Do planu spłaty wierzycieli oraz wykonania określonego w planie spłaty wierzycieli podziału funduszy masy upadłości stosuje się odpowiednio przepisy art. 313 ust. 2, art. 335, art. 336, art. 340–348 i art. 352–356 oraz art. 358–360. W zakresie, w jakim plan spłaty wierzycieli obejmuje podział funduszy masy upadłości zgromadzonych w postępowaniu upadłościowym, plan spłaty wierzycieli wykonuje syndyk niezwłocznie po uprawomocnieniu się postanowienia o ustaleniu planu spłaty wierzycieli.",
+     "type": "art",
+     "num": "491⁶",
+     "path": "art_491⁶",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "Art. 491 [16] . 1. Sąd umarza zobowiązania upadłego bez ustalenia planu spłaty wierzycieli, jeśli osobista sytuacja upadłego w oczywisty sposób wskazuje, że jest on trwale niezdolny do dokonywania jakichkolwiek spłat w ramach planu spłaty wierzycieli."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "1a",
-     "path": "ust_1a",
-     "text": "Jeżeli w przypadku, o którym mowa w ust. 1, w postępowaniu zgromadzono fundusze masy upadłości, sąd wydaje postanowienie o ustaleniu planu spłaty wierzycieli, w którym wymienia wierzycieli uczestniczących w planie spłaty, oraz dokonuje podziału funduszy masy upadłości między wierzycieli uczestniczących w planie spłaty i umarza zobowiązania upadłego niewykonane w wyniku wykonania planu spłaty wierzycieli. Plan spłaty wierzycieli obejmujący podział funduszy masy upadłości wykonuje syndyk.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Umarzając zobowiązania upadłego bez ustalenia planu spłaty wierzycieli sąd obciąża Skarb Państwa tymczasowo pokrytymi kosztami postępowania.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2a",
-     "path": "ust_2a",
-     "text": "Jeżeli niezdolność do dokonywania jakichkolwiek spłat w ramach planu spłaty wierzycieli wynikająca z osobistej sytuacji upadłego nie ma charakteru trwałego, sąd umarza zobowiązania upadłego bez ustalenia planu spłaty wierzycieli pod warunkiem, że w terminie pięciu lat od dnia uprawomocnienia się postanowienia o warunkowym umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli upadły ani żaden z wierzycieli nie złoży wniosku o ustalenie planu spłaty wierzycieli, na skutek którego sąd, uznając, że ustała niezdolność upadłego do dokonywania jakichkolwiek spłat w ramach planu spłaty wierzycieli, uchyli postanowienie o warunkowym umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli i ustali plan spłaty wierzycieli. Przepisy art. 491 [14] ust. 7 i art. 491 [21] ust. 2 stosuje się. Przepis ust. 1a stosuje się odpowiednio.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2b",
-     "path": "ust_2b",
-     "text": "Na podstawie złożonego w terminie, o którym mowa w ust. 2a, wniosku upadłego lub wierzyciela, o którym mowa w ust. 2a, sąd może uchylić postanowienie o warunkowym umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli i ustalić plan spłaty wierzycieli również po upływie pięciu lat od dnia uprawomocnienia się postanowienia o warunkowym umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2c",
-     "path": "ust_2c",
-     "text": "W okresie pięciu lat od dnia uprawomocnienia się postanowienia o warunkowym umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli upadły nie może dokonywać czynności prawnych, dotyczących jego majątku, które mogłyby pogorszyć jego sytuację majątkową.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2d",
-     "path": "ust_2d",
-     "text": "W szczególnie uzasadnionych przypadkach sąd, na wniosek upadłego, może wyrazić zgodę na dokonanie czynności prawnej, o której mowa w ust. 2c, albo zatwierdzić jej dokonanie.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2e",
-     "path": "ust_2e",
-     "text": "W okresie, o którym mowa w ust. 2c, upadły jest obowiązany składać sądowi corocznie, do końca kwietnia, sprawozdanie ze swojej sytuacji majątkowej i zawodowej za poprzedni rok kalendarzowy, w którym wykazuje osiągnięte przychody oraz nabyte składniki majątkowe o wartości przekraczającej przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku za ostatni kwartał okresu sprawozdawczego, ogłoszone przez Prezesa Głównego Urzędu Statystycznego, jak również swoje możliwości zarobkowe, wydatki potrzebne na swoje utrzymanie i osób pozostających na jego utrzymaniu, w tym potrzeby mieszkaniowe. Do sprawozdania upadły dołącza kopię złożonego rocznego zeznania podatkowego.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2f",
-     "path": "ust_2f",
-     "text": "W okresie, o którym mowa w ust. 2c, przepis art. 491 [15] ust. 6 stosuje się odpowiednio.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2g",
-     "path": "ust_2g",
-     "text": "Sąd uchyla postanowienie o warunkowym umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli, gdy w okresie, o którym mowa w ust. 2c, upadły:",
-     "children": [
-      {
-       "type": "pkt",
+       "type": "ust",
        "num": "1",
-       "path": "ust_2g/pkt_1",
-       "text": "nie złożył w terminie sprawozdania, o którym mowa w ust. 2e,",
+       "path": "art_491⁶/ust_1",
+       "text": "Postanowienie o ogłoszeniu upadłości doręcza się również syndykowi.",
        "children": []
       },
       {
-       "type": "pkt",
+       "type": "ust",
        "num": "2",
-       "path": "ust_2g/pkt_2",
-       "text": "w sprawozdaniu, o którym mowa w ust. 2e, podał nieprawdziwe informacje, w szczególności zataił osiągnięte przychody lub nabyte składniki majątkowe,",
+       "path": "art_491⁶/ust_2",
+       "text": "O ogłoszeniu upadłości powiadamia się właściwą izbę administracji skarbowej oraz właściwy oddział Zakładu Ubezpieczeń Społecznych lub Kasy Rolniczego Ubezpieczenia Społecznego.",
        "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "ust_2g/pkt_3",
-       "text": "dokonał czynności prawnej, o której mowa w ust. 2c, bez uzyskania zgody sądu albo czynność ta nie została przez sąd zatwierdzona,",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "4",
-       "path": "ust_2g/pkt_4",
-       "text": "ukrywał majątek lub czynność prawna upadłego została prawomocnie uznana za dokonaną z pokrzywdzeniem wierzycieli",
-       "children": []
-      },
-      {
-       "type": "text",
-       "text": "– chyba że uchybienie obowiązkom jest nieznaczne lub zaniechanie uchylenia postanowienia o warunkowym umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli jest uzasadnione względami słuszności lub względami humanitarnymi; przepis art. 491 [14] ust. 7 stosuje się."
       }
      ]
     },
     {
-     "type": "ust",
-     "num": "2h",
-     "path": "ust_2h",
-     "text": "W razie uchylenia postanowienia o warunkowym umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli zobowiązania upadłego nie podlegają umorzeniu.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2i",
-     "path": "ust_2i",
-     "text": "Jeżeli upadły ani żaden z wierzycieli nie złoży wniosku, o którym mowa w ust. 2a, zobowiązania upadłego ulegają umorzeniu z upływem pięciu lat od dnia uprawomocnienia się postanowienia o warunkowym umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli. Na wniosek upadłego lub wierzyciela sąd wydaje postanowienie stwierdzające umorzenie zobowiązań upadłego bez ustalenia planu spłaty wierzycieli. W postanowieniu sąd wskazuje datę umorzenia zobowiązań upadłego.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Przepisy art. 491 [21] ust. 2 i 3 stosuje się odpowiednio.",
+     "type": "art",
+     "num": "491⁶ᵃ",
+     "path": "art_491⁶ᵃ",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "Art. 491 [17] . 1. Od postanowienia sądu drugiej instancji w przedmiocie ustalenia planu spłaty wierzycieli albo w przedmiocie umorzenia zobowiązań upadłego bez ustalenia planu spłaty wierzycieli lub w przedmiocie warunkowego umorzenia zobowiązań upadłego bez ustalenia planu spłaty wierzycieli przysługuje skarga kasacyjna."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "W przypadku wniesienia skargi kasacyjnej, na wniosek skarżącego sąd może wstrzymać wydanie postanowienia, o którym mowa w art. 491 [21] ust. 1.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Jeżeli w wyniku rozpoznania skargi kasacyjnej postanowienie o ustaleniu planu spłaty wierzycieli zostanie uchylone, sąd uchyla postanowienie, o którym mowa w art. 491 [21] ust. 1.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "Postanowienie Sądu Najwyższego w przedmiocie rozpoznania skargi kasacyjnej obwieszcza się.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [18] . 1. W okresie wykonywania planu spłaty wierzycieli upadły nie może dokonywać czynności prawnych, dotyczących jego majątku, które mogłyby pogorszyć jego zdolność do wykonania planu spłaty wierzycieli."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "W szczególnie uzasadnionych przypadkach sąd, na wniosek upadłego, może wyrazić zgodę na dokonanie albo zatwierdzić dokonanie czynności prawnej, o której mowa w ust. 1.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Upadły jest obowiązany składać sądowi corocznie, do końca kwietnia, sprawozdanie z wykonania planu spłaty wierzycieli za poprzedni rok kalendarzowy, w którym wykazuje osiągnięte przychody, spłacone kwoty oraz nabyte składniki majątkowe o wartości przekraczającej przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku za ostatni kwartał okresu sprawozdawczego, ogłoszone przez Prezesa Głównego Urzędu Statystycznego. Do sprawozdania upadły dołącza kopię złożonego rocznego zeznania podatkowego.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [19] . 1. Jeżeli upadły nie może wywiązać się z obowiązków określonych w planie spłaty wierzycieli, sąd na jego wniosek, po wysłuchaniu wierzycieli, może zmienić plan spłaty wierzycieli. Sąd może przedłużyć termin spłaty wierzytelności na dalszy okres nieprzekraczający osiemnastu miesięcy. Na postanowienie sądu przysługuje zażalenie, a od postanowienia sądu drugiej instancji skarga kasacyjna."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Jeżeli brak możliwości wywiązania się z obowiązków określonych w planie spłaty wierzycieli ma charakter trwały i wynika z okoliczności niezależnych od upadłego, sąd na wniosek upadłego, po wysłuchaniu wierzycieli, może uchylić plan spłaty wierzycieli i umorzyć niewykonane zobowiązania upadłego, o których mowa w art. 491 [15] ust. 1–3. Na postanowienie sądu przysługuje zażalenie, a od postanowienia sądu drugiej instancji skarga kasacyjna.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "W razie istotnej poprawy sytuacji majątkowej upadłego w okresie wykonywania planu spłaty wierzycieli, wynikającej z innych przyczyn niż zwiększenie się wynagrodzenia za pracę lub dochodów uzyskiwanych z osobiście wykonywanej przez upadłego działalności zarobkowej, każdy z wierzycieli oraz upadły może wystąpić z wnioskiem o zmianę planu spłaty wierzycieli. O zmianie planu spłaty wierzycieli sąd orzeka po wysłuchaniu upadłego i wierzycieli objętych planem spłaty wierzycieli. Na postanowienie przysługuje zażalenie.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "Przepis ust. 3 stosuje się odpowiednio do wierzycieli, których wierzytelności powstałe przed ustaleniem planu spłaty wierzycieli zostały po jego ustaleniu stwierdzone prawomocnym orzeczeniem, ugodą zawartą przed sądem lub ostateczną decyzją.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "5",
-     "path": "ust_5",
-     "text": "Postanowienie o zmianie planu spłaty wierzycieli obwieszcza się. Postanowienie sądu drugiej instancji w przedmiocie rozpoznania zażalenia na postanowienie o zmianie planu spłaty wierzycieli, postanowienie Sądu Najwyższego w przedmiocie rozpoznania skargi kasacyjnej oraz informację o prawomocności postanowienia o zmianie planu spłaty wierzycieli obwieszcza się.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [20] . 1. W razie niewykonywania przez upadłego obowiązków określonych w planie spłaty wierzycieli sąd z urzędu albo na wniosek wierzyciela, po wysłuchaniu upadłego i wierzycieli objętych planem spłaty wierzycieli, uchyla plan spłaty wierzycieli, chyba że uchybienie obowiązkom jest nieznaczne lub dalsze wykonywanie planu spłaty wierzycieli jest uzasadnione względami słuszności lub względami humanitarnymi. Na postanowienie przysługuje zażalenie."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Przepis ust. 1 stosuje się odpowiednio, gdy upadły:",
-     "children": [
-      {
-       "type": "pkt",
+       "type": "ust",
        "num": "1",
-       "path": "ust_2/pkt_1",
-       "text": "nie złożył w terminie sprawozdania z wykonania planu spłaty wierzycieli zgodnie z art. 491 [18] ust. 3;",
+       "path": "art_491⁶ᵃ/ust_1",
+       "text": "W zawiadomieniu skierowanym do wierzycieli syndyk poucza ich o treści art. 54a, art. 216a–216ab, art. 235–237, art. 239a–241, art. 491¹²ᵃ, art. 491¹⁴ ust. 5, 6 i 8, art. 491¹⁴ᵃ i art. 491¹⁶, wskazuje sąd, do którego można zaskarżyć postanowienie o ogłoszeniu upadłości zgodnie z art. 54a ust. 1, imię i nazwisko albo nazwę syndyka, adres, na który należy dokonać zgłoszenia wierzytelności, o której mowa w art. 216aa ust. 1, termin, w którym należy dokonać zgłoszenia wierzytelności, albo sposób obliczenia tego terminu oraz podaje numer rachunku bankowego, na który należy wpłacić zryczałtowane koszty, o których mowa w art. 235 ust. 1.",
        "children": []
       },
       {
-       "type": "pkt",
+       "type": "ust",
        "num": "2",
-       "path": "ust_2/pkt_2",
-       "text": "w sprawozdaniu z wykonania planu spłaty wierzycieli zataił osiągnięte przychody lub nabyte składniki majątkowe, o których mowa w art. 491 [18] ust. 3;",
+       "path": "art_491⁶ᵃ/ust_2",
+       "text": "W zawiadomieniu skierowanym do małżonka dłużnika syndyk poucza go o treści art. 124–126, art. 491¹⁴ ust. 5, 6 i 8, art. 491¹⁴ᵃ i art. 491¹⁶.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "491⁷",
+     "path": "art_491⁷",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491⁷/ust_1",
+       "text": "W przypadku, gdy majątek niewypłacalnego dłużnika nie wystarcza na pokrycie kosztów postępowania albo w masie upadłości brak jest płynnych funduszów na ich pokrycie, koszty te pokrywa tymczasowo Skarb Państwa.",
        "children": []
       },
       {
-       "type": "pkt",
+       "type": "ust",
+       "num": "2",
+       "path": "art_491⁷/ust_2",
+       "text": "(uchylony)",
+       "children": []
+      },
+      {
+       "type": "ust",
        "num": "3",
-       "path": "ust_2/pkt_3",
-       "text": "dokonał czynności prawnej, o której mowa w art. 491 [18] ust. 1, bez uzyskania zgody sądu albo czynność ta nie została przez sąd zatwierdzona;",
+       "path": "art_491⁷/ust_3",
+       "text": "Jednocześnie z ogłoszeniem upadłości sąd przyznaje syndykowi zaliczkę na pokrycie kosztów postępowania oraz zarządza jej niezwłoczną wypłatę tymczasowo ze środków Skarbu Państwa, chyba że majątek upadłego pozwala na bieżące pokrywanie kosztów postępowania. W dalszym toku postępowania, w razie potrzeby, sąd przyznaje syndykowi zaliczkę na pokrycie kosztów postępowania oraz zarządza jej niezwłoczną wypłatę tymczasowo ze środków Skarbu Państwa.",
        "children": []
       },
       {
-       "type": "pkt",
+       "type": "ust",
        "num": "4",
-       "path": "ust_2/pkt_4",
-       "text": "ukrywał majątek lub czynność prawna upadłego została prawomocnie uznana za dokonaną z pokrzywdzeniem wierzycieli.",
+       "path": "art_491⁷/ust_4",
+       "text": "Syndyk zwraca Skarbowi Państwa wypłacone kwoty niezwłocznie po wpływie do masy upadłości funduszów wystarczających na pokrycie kosztów postępowania.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_491⁷/ust_5",
+       "text": "W przypadku postępowania wszczętego wyłącznie na wniosek wierzyciela przepisów ust. 1 i 3 nie stosuje się, jeżeli dłużnik nie sprzeciwia się umorzeniu postępowania. Przed umorzeniem postępowania sąd wysłuchuje dłużnika.",
        "children": []
       }
      ]
     },
     {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "W razie uchylenia planu spłaty wierzycieli zobowiązania upadłego nie podlegają umorzeniu.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "Przepis art. 491 [19] ust. 5 stosuje się odpowiednio.",
+     "type": "art",
+     "num": "491⁸",
+     "path": "art_491⁸",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "Art. 491 . W sprawach, o których mowa w art. 491 i art. 491 , sąd orzeka na rozprawie. O terminie rozprawy zawiadamia się wierzycieli przez obwieszczenie."
+       "type": "ust",
+       "num": "1",
+       "path": "art_491⁸/ust_1",
+       "text": "Po ogłoszeniu upadłości syndyk zwraca się do naczelnika urzędu skarbowego właściwego dla upadłego z wnioskiem o udzielenie informacji dotyczących upadłego, mających wpływ na ocenę jego sytuacji majątkowej, w szczególności dotyczących okoliczności powodujących powstanie po stronie upadłego obowiązku podatkowego w okresie pięciu lat przed dniem zgłoszenia wniosku o ogłoszenie upadłości, oraz zasięga informacji w Krajowym Rejestrze Sądowym, czy upadły jest wspólnikiem spółek handlowych, jak również czy w okresie dziesięciu lat przed dniem zgłoszenia wniosku o ogłoszenie upadłości sprawował funkcję członka organu spółek handlowych i czy w stosunku do tych spółek ogłoszono upadłość.",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Art. 491 [21] . 1. Po wykonaniu przez upadłego obowiązków określonych w planie spłaty wierzycieli sąd wydaje postanowienie o stwierdzeniu wykonania planu spłaty wierzycieli i umorzeniu zobowiązań upadłego powstałych przed dniem ogłoszenia upadłości i niewykonanych w wyniku wykonania planu spłaty wierzycieli. Na postanowienie przysługuje zażalenie."
+       "type": "ust",
+       "num": "2",
+       "path": "art_491⁸/ust_2",
+       "text": "Syndyk informuje sędziego-komisarza o niezgodności informacji uzyskanych w sposób, o którym mowa w ust. 1, z danymi podanymi przez upadłego we wniosku o ogłoszenie upadłości.",
+       "children": []
       }
      ]
     },
     {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Nie podlegają umorzeniu zobowiązania o charakterze alimentacyjnym, zobowiązania wynikające z rent z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa lub śmierci, zobowiązania do zapłaty orzeczonych przez sąd kar grzywny, a także do wykonania obowiązku naprawienia szkody oraz zadośćuczynienia za doznaną krzywdę, zobowiązania do zapłaty nawiązki lub świadczenia pieniężnego orzeczonych przez sąd jako środek karny lub środek związany z poddaniem sprawcy próbie, jak również zobowiązania do naprawienia szkody wynikającej z przestępstwa lub wykroczenia stwierdzonego prawomocnym orzeczeniem oraz zobowiązania, których upadły umyślnie nie ujawnił, jeżeli wierzyciel nie brał udziału w postępowaniu.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2a",
-     "path": "ust_2a",
-     "text": "Przepis art. 491 [19] ust. 5 stosuje się odpowiednio.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Po wydaniu postanowienia, o którym mowa w ust. 1, niedopuszczalne jest wszczęcie postępowania egzekucyjnego dotyczącego wierzytelności powstałej przed dniem ustalenia planu spłaty wierzycieli z wyjątkiem wierzytelności wynikających z zobowiązań, o których mowa w ust. 2.",
+     "type": "art",
+     "num": "491⁹",
+     "path": "art_491⁹",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "Art. 491 [22] . 1. Jeżeli zostanie uprawdopodobnione, że w drodze układu zostaną osiągnięte cele postępowania, sędzia-komisarz, na wniosek upadłego, postanowieniem zwołuje zgromadzenie wierzycieli w celu zawarcia układu. Na postanowienie o odmowie zwołania zgromadzenia wierzycieli przysługuje zażalenie."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Zwołując zgromadzenie wierzycieli sędzia-komisarz może wstrzymać likwidację majątku upadłego, w szczególności lokalu mieszkalnego albo domu jednorodzinnego, w którym zamieszkuje upadły. Na postanowienie w przedmiocie wstrzymania likwidacji przysługuje zażalenie.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Wniosek o zwołanie zgromadzenia wierzycieli złożony po zakończeniu likwidacji masy upadłości pozostawia się bez rozpoznania.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "Układ może zostać przyjęty wyłącznie za zgodą upadłego.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "5",
-     "path": "ust_5",
-     "text": "W przypadku postępowania wszczętego na wniosek wierzyciela wniosek, o którym mowa w ust. 1, może złożyć również każdy z wierzycieli. Przepisu ust. 4 nie stosuje się.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [23] . Do zawarcia układu w postępowaniu prowadzonym na podstawie przepisów niniejszego tytułu, do jego skutków, zmiany oraz uchylenia przepisy o układzie w postępowaniu upadłościowym prowadzonym wobec przedsiębiorców stosuje się odpowiednio, z wyjątkiem przepisów art. 192 ust. 1 i 2."
+       "type": "ust",
+       "num": "1",
+       "path": "art_491⁹/ust_1",
+       "text": "Sąd ustala wynagrodzenie syndyka w postępowaniu prowadzonym według przepisów niniejszego tytułu biorąc pod uwagę wysokość funduszów masy upadłości, stopień zaspokojenia wierzycieli, nakład pracy, zakres czynności podejmowanych w postępowaniu, stopień ich trudności oraz czas trwania postępowania.",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Art. 491 [24] . 1. Po ogłoszeniu upadłości syndyk zakłada i prowadzi akta, w tym akta do zgłoszeń wierzytelności, w systemie teleinformatycznym obsługującym postępowanie sądowe."
+       "type": "ust",
+       "num": "2",
+       "path": "art_491⁹/ust_2",
+       "text": "Wynagrodzenie syndyka ustala się w wysokości od jednej czwartej przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego do jego dwukrotności.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_491⁹/ust_3",
+       "text": "W szczególnie uzasadnionych przypadkach sąd może ustalić wynagrodzenie syndyka w wysokości do czterokrotności przeciętnego miesięcznego wynagrodzenia, o którym mowa w ust. 2, jeżeli jest to uzasadnione zwiększonym nakładem pracy syndyka wynikającym w szczególności ze stopnia skomplikowania postępowania oraz liczby wierzycieli.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_491⁹/ust_4",
+       "text": "W przedmiocie wynagrodzenia syndyka oraz zwrotu jego wydatków orzeka sąd upadłościowy w składzie jednego sędziego zawodowego.",
+       "children": []
       }
      ]
     },
     {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Treść pism procesowych oraz dokumentów, o których mowa w art. 216aa ust. 1, wniesionych z pominięciem systemu teleinformatycznego obsługującego postępowanie sądowe, syndyk wprowadza do akt. Pisma procesowe oraz dokumenty składa się do zbioru dokumentów. Przepisy art. 216aa ust. 2 i 3 stosuje się odpowiednio.",
+     "type": "art",
+     "num": "491¹⁰",
+     "path": "art_491¹⁰",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491¹⁰/ust_1",
+       "text": "Sąd umarza postępowanie na wniosek upadłego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_491¹⁰/ust_2",
+       "text": "Jeżeli upadły nie wskaże lub nie wyda syndykowi całego majątku, niezbędnych dokumentów lub w inny sposób nie wykonuje ciążących na nim obowiązków, sąd, z urzędu albo na wniosek syndyka lub wierzyciela, po wysłuchaniu upadłego, syndyka, a w razie potrzeby także wierzycieli, umarza postępowanie, chyba że uchybienie przez upadłego ciążącym na nim obowiązkom nie jest istotne lub przeprowadzenie postępowania jest uzasadnione względami słuszności lub względami humanitarnymi.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2a",
+       "path": "art_491¹⁰/ust_2a",
+       "text": "Sąd umarza postępowanie, jeżeli zostanie ujawnione, że dane podane przez dłużnika we wniosku o ogłoszenie upadłości są niezgodne z prawdą lub niezupełne, chyba że niezgodność lub niezupełność nie są istotne lub przeprowadzenie postępowania jest uzasadnione względami słuszności lub względami humanitarnymi.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_491¹⁰/ust_3",
+       "text": "Sąd nie umarza postępowania, jeżeli umorzenie postępowania mogłoby skutkować pokrzywdzeniem wierzycieli.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_491¹⁰/ust_4",
+       "text": "Na postanowienie w przedmiocie umorzenia postępowania przysługuje zażalenie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_491¹⁰/ust_5",
+       "text": "Do postępowania wszczętego na wniosek wierzyciela przepisów ust. 1 i 2 nie stosuje się.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "491¹¹",
+     "path": "art_491¹¹",
+     "text": "(uchylony)",
      "children": []
     },
     {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Akta udostępnia się w biurze syndyka, za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, uczestnikom postępowania oraz każdemu, kto potrzebę ich przejrzenia dostatecznie usprawiedliwi. W tym celu biuro syndyka jest czynne w dni powszednie co najmniej cztery następujące po sobie godziny dziennie między godziną 8.00 a 20.00.",
+     "type": "art",
+     "num": "491¹¹ᵃ",
+     "path": "art_491¹¹ᵃ",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491¹¹ᵃ/ust_1",
+       "text": "Wyboru sposobu likwidacji masy upadłości dokonuje samodzielnie syndyk w sposób, który umożliwia zaspokojenie wierzycieli w jak największym stopniu, z uwzględnieniem kosztów likwidacji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_491¹¹ᵃ/ust_2",
+       "text": "O wyborze sposobu likwidacji nieruchomości oraz wyborze sposobu likwidacji składników masy upadłości, których wartość oszacowania wskazana w spisie inwentarza przekracza pięciokrotność przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w trzecim kwartale roku poprzedzającego złożenie spisu inwentarza, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego, syndyk zawiadamia wierzycieli oraz sąd za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe z wykorzystaniem udostępnianych w tym systemie formularzy. W zawiadomieniu syndyk wskazuje sposób likwidacji oraz minimalną cenę.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_491¹¹ᵃ/ust_3",
+       "text": "Na skutek skargi na czynności syndyka, o której mowa w art. 491¹²ᵃ, lub z urzędu sąd, w drodze postanowienia, zakazuje syndykowi dokonania likwidacji składnika masy upadłości w wybrany przez syndyka sposób lub za wskazaną minimalną cenę, jeżeli likwidacja byłaby niezgodna z prawem albo prowadziłaby do pokrzywdzenia upadłego lub wierzycieli.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_491¹¹ᵃ/ust_4",
+       "text": "Przed wydaniem postanowienia, o którym mowa w ust. 3, sąd może wstrzymać dokonanie likwidacji składnika masy upadłości. O wstrzymaniu likwidacji składnika masy upadłości sąd zawiadamia syndyka w dniu wydania postanowienia o wstrzymaniu likwidacji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_491¹¹ᵃ/ust_5",
+       "text": "W przypadku braku wstrzymania lub zakazu likwidacji składnika masy upadłości likwidacja może nastąpić po upływie czternastu dni od dnia zawiadomienia, o którym mowa w ust. 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "491¹²",
+     "path": "art_491¹²",
+     "text": "Syndyk może pisemnie upoważnić upadłego do sprzedaży ruchomości należących do masy upadłości. Do upoważnienia stosuje się odpowiednio przepisy o pełnomocnictwie.",
      "children": []
     },
     {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "Akta stanowią część akt sądowych. Po prawomocnym zakończeniu postępowania zbiór dokumentów jest przekazywany do sądu upadłościowego, który wydał postanowienie kończące postępowanie, i dołączany do akt sądowych.",
+     "type": "art",
+     "num": "491¹²ᵃ",
+     "path": "art_491¹²ᵃ",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491¹²ᵃ/ust_1",
+       "text": "Na czynności syndyka przysługuje skarga do sądu upadłościowego. Dotyczy to także zaniechania przez syndyka dokonania czynności.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_491¹²ᵃ/ust_2",
+       "text": "Skargę może złożyć upadły, wierzyciel lub inna osoba, której prawo zostało przez czynności lub zaniechanie syndyka naruszone albo zagrożone.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_491¹²ᵃ/ust_3",
+       "text": "Skarga powinna czynić zadość wymaganiom pisma procesowego oraz określać zaskarżoną czynność lub czynność, której zaniechano, jak również wniosek o zmianę, uchylenie lub dokonanie czynności, wraz z uzasadnieniem.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_491¹²ᵃ/ust_4",
+       "text": "Skargę wnosi się w terminie siedmiu dni od dnia dokonania czynności, gdy upadły, wierzyciel lub osoba, której prawo zostało przez czynność syndyka naruszone albo zagrożone, była przy czynności obecna lub była o jej terminie zawiadomiona; w innych przypadkach – od dnia zawiadomienia o dokonaniu czynności upadłego, wierzyciela lub osoby, której prawo zostało przez czynność syndyka naruszone albo zagrożone, a w braku zawiadomienia – od dnia powzięcia wiadomości przez skarżącego o dokonanej czynności. Skargę na zaniechanie przez syndyka dokonania czynności wnosi się w terminie siedmiu dni od dnia, w którym skarżący dowiedział się, że czynność miała być dokonana.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_491¹²ᵃ/ust_5",
+       "text": "Skargę wnosi się do syndyka, który dokonał zaskarżonej czynności lub zaniechał jej dokonania. Syndyk w terminie trzech dni od dnia otrzymania skargi sporządza uzasadnienie zaskarżonej czynności, o ile nie zostało ono sporządzone wcześniej, albo przyczyn jej zaniechania i przekazuje je wraz ze skargą do właściwego sądu upadłościowego, chyba że skargę w całości uwzględnia. O uwzględnieniu skargi syndyk zawiadamia skarżącego oraz zainteresowanych, których uwzględnienie skargi dotyczy, za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe z wykorzystaniem udostępnianych w tym systemie formularzy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "art_491¹²ᵃ/ust_6",
+       "text": "Sąd rozpoznaje skargę w terminie siedmiu dni od dnia jej wpływu do sądu, a gdy skarga zawiera braki formalne, które podlegają uzupełnieniu – od dnia jej uzupełnienia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "7",
+       "path": "art_491¹²ᵃ/ust_7",
+       "text": "Wniesienie skargi nie wstrzymuje postępowania upadłościowego ani dokonania zaskarżonej czynności, chyba że sąd wstrzyma dokonanie czynności.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "8",
+       "path": "art_491¹²ᵃ/ust_8",
+       "text": "Sąd odrzuca skargę wniesioną po upływie przepisanego terminu, nieopłaconą lub z innych przyczyn niedopuszczalną, jak również skargę, której braków nie uzupełniono w terminie. Na postanowienie sądu o odrzuceniu skargi służy zażalenie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "9",
+       "path": "art_491¹²ᵃ/ust_9",
+       "text": "W razie odrzucenia skargi sąd z urzędu bierze pod uwagę okoliczności wskazane w skardze i w razie potrzeby wydaje syndykowi polecenie dokonania odpowiednich czynności lub zakazuje syndykowi dokonania określonych czynności.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "491¹³",
+     "path": "art_491¹³",
+     "text": "(uchylony)",
      "children": []
     },
     {
-     "type": "ust",
-     "num": "5",
-     "path": "ust_5",
-     "text": "Akta oraz zbiór dokumentów mogą być udostępniane służbie nadzoru Ministra Sprawiedliwości.",
+     "type": "art",
+     "num": "491¹⁴",
+     "path": "art_491¹⁴",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491¹⁴/ust_1",
+       "text": "Po upływie terminu do zgłaszania wierzytelności i przeprowadzeniu likwidacji majątku wchodzącego w skład masy upadłości syndyk składa sądowi projekt planu spłaty wierzycieli z uzasadnieniem albo informację, że zachodzą przesłanki, o których mowa w art. 491¹⁴ᵃ ust. 1 lub art. 491¹⁶ ust. 1 lub 2a.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_491¹⁴/ust_2",
+       "text": "W przypadku postępowania wszczętego wyłącznie na wniosek wierzyciela syndyk składa sądowi projekt planu spłaty wierzycieli z uzasadnieniem albo informację, że zachodzą przesłanki, o których mowa w art. 491¹⁴ᵃ ust. 1 lub art. 491¹⁶ ust. 1 lub 2a, chyba że dłużnik na wezwanie syndyka oświadczy, że nie wnosi o sporządzenie planu spłaty wierzycieli ani o umorzenie zobowiązań bez ustalenia planu spłaty wierzycieli lub o warunkowe umorzenie zobowiązań upadłego bez ustalenia planu spłaty wierzycieli. Jeżeli dłużnik na wezwanie syndyka oświadczy, że nie wnosi o sporządzenie planu spłaty wierzycieli ani o umorzenie zobowiązań bez ustalenia planu spłaty wierzycieli lub o warunkowe umorzenie zobowiązań upadłego bez ustalenia planu spłaty wierzycieli, sąd wydaje postanowienie o zakończeniu postępowania.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_491¹⁴/ust_3",
+       "text": "Do projektu planu spłaty wierzycieli z uzasadnieniem albo informacji, że zachodzą przesłanki, o których mowa w art. 491¹⁴ᵃ ust. 1 lub art. 491¹⁶ ust. 1 lub 2a, syndyk załącza:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_491¹⁴/ust_3/pkt_1",
+         "text": "dowody doręczenia upadłemu oraz wierzycielom projektu planu spłaty wierzycieli z uzasadnieniem albo informacji, że zachodzą przesłanki, o których mowa w art. 491¹⁴ᵃ ust. 1 lub art. 491¹⁶ ust. 1 lub 2a, wraz z pouczeniem o treści ust. 4 i zobowiązaniem do złożenia stanowiska, o którym mowa w pkt 2, w terminie czternastu dni;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_491¹⁴/ust_3/pkt_2",
+         "text": "stanowiska upadłego oraz wierzycieli albo informację, że upadły lub wierzyciele nie złożyli stanowiska wraz z podaniem przyczyny jego niezłożenia.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_491¹⁴/ust_4",
+       "text": "Sąd ustala plan spłaty wierzycieli albo w przypadku, o którym mowa w art. 491¹⁶ ust. 1 lub 2a, umarza zobowiązania upadłego bez ustalenia planu spłaty wierzycieli lub warunkowo umarza zobowiązania upadłego bez ustalenia planu spłaty wierzycieli albo wydaje postanowienie, o którym mowa w art. 491¹⁴ᵃ ust. 1, po przeprowadzeniu rozprawy, jeżeli upadły, syndyk lub wierzyciel złożył wniosek o przeprowadzenie rozprawy. O terminie rozprawy zawiadamia się upadłego i syndyka oraz wierzyciela, który złożył wniosek o przeprowadzenie rozprawy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_491¹⁴/ust_5",
+       "text": "W przypadku braku zgłoszeń wierzytelności i braku wierzytelności, które w postępowaniu upadłościowym prowadzonym zgodnie z przepisami części pierwszej podlegałyby z urzędu umieszczeniu na liście wierzytelności, sąd, po upływie terminu do zgłoszenia wierzytelności, wydaje postanowienie o umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli, chyba że w toku postępowania nie zostały zaspokojone koszty tego postępowania tymczasowo pokryte przez Skarb Państwa lub inne zobowiązania masy upadłości.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "art_491¹⁴/ust_6",
+       "text": "Zgłoszenie wierzytelności dokonane po złożeniu przez syndyka projektu planu spłaty wierzycieli z uzasadnieniem albo informacji, że zachodzą przesłanki, o których mowa w art. 491¹⁴ᵃ ust. 1 lub art. 491¹⁶ ust. 1 lub 2a, pozostawia się bez rozpoznania.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "7",
+       "path": "art_491¹⁴/ust_7",
+       "text": "Postanowienie w przedmiocie ustalenia planu spłaty wierzycieli albo w przedmiocie umorzenia zobowiązań upadłego bez ustalenia planu spłaty wierzycieli lub w przedmiocie warunkowego umorzenia zobowiązań upadłego bez ustalenia planu spłaty wierzycieli oraz informację o prawomocności tych postanowień obwieszcza się. Na postanowienie sądu w przedmiocie ustalenia planu spłaty wierzycieli albo w przedmiocie umorzenia zobowiązań upadłego bez ustalenia planu spłaty wierzycieli lub w przedmiocie warunkowego umorzenia zobowiązań upadłego bez ustalenia planu spłaty wierzycieli przysługuje zażalenie. Postanowienie sądu drugiej instancji w przedmiocie rozpoznania zażalenia oraz informację o prawomocności tego postanowienia obwieszcza się.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "8",
+       "path": "art_491¹⁴/ust_8",
+       "text": "Wydanie postanowienia o ustaleniu planu spłaty wierzycieli albo umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli lub warunkowym umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli oznacza zakończenie postępowania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "491¹⁴ᵃ",
+     "path": "art_491¹⁴ᵃ",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491¹⁴ᵃ/ust_1",
+       "text": "Sąd wydaje postanowienie o odmowie ustalenia planu spłaty wierzycieli albo umorzenia zobowiązań upadłego bez ustalenia planu spłaty wierzycieli lub warunkowego umorzenia zobowiązań upadłego bez ustalenia planu spłaty wierzycieli, jeżeli:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_491¹⁴ᵃ/ust_1/pkt_1",
+         "text": "upadły doprowadził do swojej niewypłacalności lub istotnie zwiększył jej stopień w sposób celowy, w szczególności przez trwonienie części składowych majątku oraz celowe nieregulowanie wymagalnych zobowiązań,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_491¹⁴ᵃ/ust_1/pkt_2",
+         "text": "w okresie dziesięciu lat przed dniem zgłoszenia wniosku o ogłoszenie upadłości w stosunku do upadłego prowadzono postępowanie upadłościowe, w którym umorzono całość lub część jego zobowiązań",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– chyba że ustalenie planu spłaty wierzycieli lub umorzenie zobowiązań upadłego bez ustalenia planu spłaty wierzycieli lub warunkowe umorzenie zobowiązań upadłego bez ustalenia planu spłaty wierzycieli jest uzasadnione względami słuszności lub względami humanitarnymi."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_491¹⁴ᵃ/ust_2",
+       "text": "Jeżeli w przypadku, o którym mowa w ust. 1, w postępowaniu zgromadzono fundusze masy upadłości, sąd wydaje postanowienie o ustaleniu planu spłaty wierzycieli, w którym wymienia wierzycieli uczestniczących w planie spłaty, oraz dokonuje podziału funduszy masy upadłości między wierzycieli uczestniczących w planie spłaty. Przepisu art. 491²¹ nie stosuje się.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_491¹⁴ᵃ/ust_3",
+       "text": "Wydanie postanowienia o odmowie ustalenia planu spłaty wierzycieli oznacza zakończenie postępowania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "491¹⁵",
+     "path": "art_491¹⁵",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491¹⁵/ust_1",
+       "text": "W postanowieniu o ustaleniu planu spłaty wierzycieli sąd:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_491¹⁵/ust_1/pkt_1",
+         "text": "wymienia wierzycieli uczestniczących w planie spłaty;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_491¹⁵/ust_1/pkt_2",
+         "text": "dokonuje podziału funduszy masy upadłości pomiędzy wierzycieli uczestniczących w planie spłaty, jeżeli w postępowaniu zgromadzono fundusze masy upadłości;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_491¹⁵/ust_1/pkt_3",
+         "text": "ustala, czy upadły doprowadził do swojej niewypłacalności lub istotnie zwiększył jej stopień umyślnie lub wskutek rażącego niedbalstwa;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "art_491¹⁵/ust_1/pkt_4",
+         "text": "określa, w jakim zakresie i okresie, niedłuższym niż trzydzieści sześć miesięcy, upadły jest obowiązany spłacać zobowiązania, które w postępowaniu upadłościowym prowadzonym zgodnie z przepisami części pierwszej zostałyby uznane na liście wierzytelności, oraz jaka część zobowiązań upadłego powstałych przed dniem ogłoszenia upadłości zostanie umorzona po wykonaniu planu spłaty wierzycieli.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "1a",
+       "path": "art_491¹⁵/ust_1a",
+       "text": "W przypadku ustalenia, że upadły doprowadził do swojej niewypłacalności lub istotnie zwiększył jej stopień umyślnie lub wskutek rażącego niedbalstwa, plan spłaty wierzycieli nie może być ustalony na okres krótszy niż trzydzieści sześć miesięcy ani dłuższy niż osiemdziesiąt cztery miesiące.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1b",
+       "path": "art_491¹⁵/ust_1b",
+       "text": "W przypadku gdy w drodze wykonania planu spłaty wierzycieli dłużnik spłaci co najmniej 70 % zobowiązań objętych planem spłaty wierzycieli, które w postępowaniu upadłościowym prowadzonym zgodnie z przepisami części pierwszej zostałyby uznane na liście wierzytelności, plan spłaty wierzycieli nie może zostać ustalony na okres dłuższy niż rok.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1c",
+       "path": "art_491¹⁵/ust_1c",
+       "text": "W przypadku gdy w drodze wykonania planu spłaty wierzycieli dłużnik spłaci co najmniej 50 % zobowiązań objętych planem spłaty wierzycieli, które w postępowaniu upadłościowym prowadzonym zgodnie z przepisami części pierwszej zostałyby uznane na liście wierzytelności, plan spłaty wierzycieli nie może zostać ustalony na okres dłuższy niż dwa lata.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1d",
+       "path": "art_491¹⁵/ust_1d",
+       "text": "Do okresów spłaty, o których mowa w ust. 1 pkt 4 oraz ust. 1a–1c, zalicza się okres od upływu sześciu miesięcy od dnia ogłoszenia upadłości do dnia ustalenia planu spłaty wierzycieli, chyba że dłużnik nie pokryłby w całości kosztów postępowania tymczasowo poniesionych przez Skarb Państwa. Do okresu spłaty nie zalicza się okresu warunkowego umorzenia zobowiązań upadłego bez ustalenia planu spłaty wierzycieli.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_491¹⁵/ust_2",
+       "text": "Koszty postępowania tymczasowo pokryte przez Skarb Państwa oraz inne zobowiązania masy upadłości niezaspokojone w toku postępowania uwzględnia się w planie spłaty wierzycieli w pełnej wysokości, chyba że możliwości zarobkowe upadłego, konieczność utrzymania upadłego i osób pozostających na jego utrzymaniu oraz ich potrzeby mieszkaniowe nie pozwalają na zaspokojenie kosztów postępowania tymczasowo pokrytych przez Skarb Państwa oraz innych zobowiązań masy upadłości w pełnej wysokości. W przypadku braku zgłoszeń wierzytelności i braku wierzytelności, które w postępowaniu upadłościowym prowadzonym zgodnie z przepisami części pierwszej podlegałyby z urzędu umieszczeniu na liście wierzytelności, w planie spłaty wierzycieli uwzględnia się wyłącznie zobowiązania, o których mowa w zdaniu poprzednim, a w przypadku braku takich zobowiązań umarza się zobowiązania upadłego bez ustalenia planu spłaty wierzycieli.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_491¹⁵/ust_3",
+       "text": "Koszty postępowania tymczasowo pokryte przez Skarb Państwa nieuwzględnione w planie spłaty wierzycieli albo niezaspokojone w ramach wykonania planu spłaty wierzycieli ponosi Skarb Państwa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_491¹⁵/ust_4",
+       "text": "Sąd nie jest związany stanowiskiem upadłego oraz wierzycieli co do treści planu spłaty wierzycieli. Ustalając plan spłaty wierzycieli, sąd bierze pod uwagę możliwości zarobkowe upadłego, konieczność utrzymania upadłego i osób pozostających na jego utrzymaniu oraz ich potrzeby mieszkaniowe, wysokość niezaspokojonych wierzytelności oraz stopień zaspokojenia wierzytelności w postępowaniu upadłościowym.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_491¹⁵/ust_5",
+       "text": "Ustalenie planu spłaty wierzycieli nie narusza praw wierzyciela wobec poręczyciela upadłego oraz współdłużnika upadłego ani praw wynikających z hipoteki, zastawu, zastawu rejestrowego, zastawu skarbowego oraz hipoteki morskiej, jeśli były one ustanowione na mieniu osoby trzeciej. Ustalenie planu spłaty wierzycieli i umorzenie zobowiązań upadłego jest skuteczne również w stosunkach pomiędzy upadłym, a poręczycielem, gwarantem i współdłużnikiem upadłego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "art_491¹⁵/ust_6",
+       "text": "W okresie wykonywania planu spłaty wierzycieli niedopuszczalne jest wszczęcie postępowania egzekucyjnego dotyczącego wierzytelności powstałych przed ustaleniem planu spłaty wierzycieli, z wyjątkiem wierzytelności wynikających z zobowiązań, o których mowa w art. 491²¹ ust. 2.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "7",
+       "path": "art_491¹⁵/ust_7",
+       "text": "Do planu spłaty wierzycieli oraz wykonania określonego w planie spłaty wierzycieli podziału funduszy masy upadłości stosuje się odpowiednio przepisy art. 313 ust. 2, art. 335, art. 336, art. 340–348 i art. 352–356 oraz art. 358–360. W zakresie, w jakim plan spłaty wierzycieli obejmuje podział funduszy masy upadłości zgromadzonych w postępowaniu upadłościowym, plan spłaty wierzycieli wykonuje syndyk niezwłocznie po uprawomocnieniu się postanowienia o ustaleniu planu spłaty wierzycieli.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "491¹⁶",
+     "path": "art_491¹⁶",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491¹⁶/ust_1",
+       "text": "Sąd umarza zobowiązania upadłego bez ustalenia planu spłaty wierzycieli, jeśli osobista sytuacja upadłego w oczywisty sposób wskazuje, że jest on trwale niezdolny do dokonywania jakichkolwiek spłat w ramach planu spłaty wierzycieli.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1a",
+       "path": "art_491¹⁶/ust_1a",
+       "text": "Jeżeli w przypadku, o którym mowa w ust. 1, w postępowaniu zgromadzono fundusze masy upadłości, sąd wydaje postanowienie o ustaleniu planu spłaty wierzycieli, w którym wymienia wierzycieli uczestniczących w planie spłaty, oraz dokonuje podziału funduszy masy upadłości między wierzycieli uczestniczących w planie spłaty i umarza zobowiązania upadłego niewykonane w wyniku wykonania planu spłaty wierzycieli. Plan spłaty wierzycieli obejmujący podział funduszy masy upadłości wykonuje syndyk.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_491¹⁶/ust_2",
+       "text": "Umarzając zobowiązania upadłego bez ustalenia planu spłaty wierzycieli sąd obciąża Skarb Państwa tymczasowo pokrytymi kosztami postępowania.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2a",
+       "path": "art_491¹⁶/ust_2a",
+       "text": "Jeżeli niezdolność do dokonywania jakichkolwiek spłat w ramach planu spłaty wierzycieli wynikająca z osobistej sytuacji upadłego nie ma charakteru trwałego, sąd umarza zobowiązania upadłego bez ustalenia planu spłaty wierzycieli pod warunkiem, że w terminie pięciu lat od dnia uprawomocnienia się postanowienia o warunkowym umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli upadły ani żaden z wierzycieli nie złoży wniosku o ustalenie planu spłaty wierzycieli, na skutek którego sąd, uznając, że ustała niezdolność upadłego do dokonywania jakichkolwiek spłat w ramach planu spłaty wierzycieli, uchyli postanowienie o warunkowym umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli i ustali plan spłaty wierzycieli. Przepisy art. 491¹⁴ ust. 7 i art. 491²¹ ust. 2 stosuje się. Przepis ust. 1a stosuje się odpowiednio.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2b",
+       "path": "art_491¹⁶/ust_2b",
+       "text": "Na podstawie złożonego w terminie, o którym mowa w ust. 2a, wniosku upadłego lub wierzyciela, o którym mowa w ust. 2a, sąd może uchylić postanowienie o warunkowym umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli i ustalić plan spłaty wierzycieli również po upływie pięciu lat od dnia uprawomocnienia się postanowienia o warunkowym umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2c",
+       "path": "art_491¹⁶/ust_2c",
+       "text": "W okresie pięciu lat od dnia uprawomocnienia się postanowienia o warunkowym umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli upadły nie może dokonywać czynności prawnych, dotyczących jego majątku, które mogłyby pogorszyć jego sytuację majątkową.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2d",
+       "path": "art_491¹⁶/ust_2d",
+       "text": "W szczególnie uzasadnionych przypadkach sąd, na wniosek upadłego, może wyrazić zgodę na dokonanie czynności prawnej, o której mowa w ust. 2c, albo zatwierdzić jej dokonanie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2e",
+       "path": "art_491¹⁶/ust_2e",
+       "text": "W okresie, o którym mowa w ust. 2c, upadły jest obowiązany składać sądowi corocznie, do końca kwietnia, sprawozdanie ze swojej sytuacji majątkowej i zawodowej za poprzedni rok kalendarzowy, w którym wykazuje osiągnięte przychody oraz nabyte składniki majątkowe o wartości przekraczającej przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku za ostatni kwartał okresu sprawozdawczego, ogłoszone przez Prezesa Głównego Urzędu Statystycznego, jak również swoje możliwości zarobkowe, wydatki potrzebne na swoje utrzymanie i osób pozostających na jego utrzymaniu, w tym potrzeby mieszkaniowe. Do sprawozdania upadły dołącza kopię złożonego rocznego zeznania podatkowego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2f",
+       "path": "art_491¹⁶/ust_2f",
+       "text": "W okresie, o którym mowa w ust. 2c, przepis art. 491¹⁵ ust. 6 stosuje się odpowiednio.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2g",
+       "path": "art_491¹⁶/ust_2g",
+       "text": "Sąd uchyla postanowienie o warunkowym umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli, gdy w okresie, o którym mowa w ust. 2c, upadły:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_491¹⁶/ust_2g/pkt_1",
+         "text": "nie złożył w terminie sprawozdania, o którym mowa w ust. 2e,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_491¹⁶/ust_2g/pkt_2",
+         "text": "w sprawozdaniu, o którym mowa w ust. 2e, podał nieprawdziwe informacje, w szczególności zataił osiągnięte przychody lub nabyte składniki majątkowe,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_491¹⁶/ust_2g/pkt_3",
+         "text": "dokonał czynności prawnej, o której mowa w ust. 2c, bez uzyskania zgody sądu albo czynność ta nie została przez sąd zatwierdzona,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "art_491¹⁶/ust_2g/pkt_4",
+         "text": "ukrywał majątek lub czynność prawna upadłego została prawomocnie uznana za dokonaną z pokrzywdzeniem wierzycieli",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– chyba że uchybienie obowiązkom jest nieznaczne lub zaniechanie uchylenia postanowienia o warunkowym umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli jest uzasadnione względami słuszności lub względami humanitarnymi; przepis art. 491¹⁴ ust. 7 stosuje się."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2h",
+       "path": "art_491¹⁶/ust_2h",
+       "text": "W razie uchylenia postanowienia o warunkowym umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli zobowiązania upadłego nie podlegają umorzeniu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2i",
+       "path": "art_491¹⁶/ust_2i",
+       "text": "Jeżeli upadły ani żaden z wierzycieli nie złoży wniosku, o którym mowa w ust. 2a, zobowiązania upadłego ulegają umorzeniu z upływem pięciu lat od dnia uprawomocnienia się postanowienia o warunkowym umorzeniu zobowiązań upadłego bez ustalenia planu spłaty wierzycieli. Na wniosek upadłego lub wierzyciela sąd wydaje postanowienie stwierdzające umorzenie zobowiązań upadłego bez ustalenia planu spłaty wierzycieli. W postanowieniu sąd wskazuje datę umorzenia zobowiązań upadłego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_491¹⁶/ust_3",
+       "text": "Przepisy art. 491²¹ ust. 2 i 3 stosuje się odpowiednio.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "491¹⁷",
+     "path": "art_491¹⁷",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491¹⁷/ust_1",
+       "text": "Od postanowienia sądu drugiej instancji w przedmiocie ustalenia planu spłaty wierzycieli albo w przedmiocie umorzenia zobowiązań upadłego bez ustalenia planu spłaty wierzycieli lub w przedmiocie warunkowego umorzenia zobowiązań upadłego bez ustalenia planu spłaty wierzycieli przysługuje skarga kasacyjna.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_491¹⁷/ust_2",
+       "text": "W przypadku wniesienia skargi kasacyjnej, na wniosek skarżącego sąd może wstrzymać wydanie postanowienia, o którym mowa w art. 491²¹ ust. 1.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_491¹⁷/ust_3",
+       "text": "Jeżeli w wyniku rozpoznania skargi kasacyjnej postanowienie o ustaleniu planu spłaty wierzycieli zostanie uchylone, sąd uchyla postanowienie, o którym mowa w art. 491²¹ ust. 1.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_491¹⁷/ust_4",
+       "text": "Postanowienie Sądu Najwyższego w przedmiocie rozpoznania skargi kasacyjnej obwieszcza się.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "491¹⁸",
+     "path": "art_491¹⁸",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491¹⁸/ust_1",
+       "text": "W okresie wykonywania planu spłaty wierzycieli upadły nie może dokonywać czynności prawnych, dotyczących jego majątku, które mogłyby pogorszyć jego zdolność do wykonania planu spłaty wierzycieli.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_491¹⁸/ust_2",
+       "text": "W szczególnie uzasadnionych przypadkach sąd, na wniosek upadłego, może wyrazić zgodę na dokonanie albo zatwierdzić dokonanie czynności prawnej, o której mowa w ust. 1.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_491¹⁸/ust_3",
+       "text": "Upadły jest obowiązany składać sądowi corocznie, do końca kwietnia, sprawozdanie z wykonania planu spłaty wierzycieli za poprzedni rok kalendarzowy, w którym wykazuje osiągnięte przychody, spłacone kwoty oraz nabyte składniki majątkowe o wartości przekraczającej przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku za ostatni kwartał okresu sprawozdawczego, ogłoszone przez Prezesa Głównego Urzędu Statystycznego. Do sprawozdania upadły dołącza kopię złożonego rocznego zeznania podatkowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "491¹⁹",
+     "path": "art_491¹⁹",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491¹⁹/ust_1",
+       "text": "Jeżeli upadły nie może wywiązać się z obowiązków określonych w planie spłaty wierzycieli, sąd na jego wniosek, po wysłuchaniu wierzycieli, może zmienić plan spłaty wierzycieli. Sąd może przedłużyć termin spłaty wierzytelności na dalszy okres nieprzekraczający osiemnastu miesięcy. Na postanowienie sądu przysługuje zażalenie, a od postanowienia sądu drugiej instancji skarga kasacyjna.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_491¹⁹/ust_2",
+       "text": "Jeżeli brak możliwości wywiązania się z obowiązków określonych w planie spłaty wierzycieli ma charakter trwały i wynika z okoliczności niezależnych od upadłego, sąd na wniosek upadłego, po wysłuchaniu wierzycieli, może uchylić plan spłaty wierzycieli i umorzyć niewykonane zobowiązania upadłego, o których mowa w art. 491¹⁵ ust. 1–3. Na postanowienie sądu przysługuje zażalenie, a od postanowienia sądu drugiej instancji skarga kasacyjna.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_491¹⁹/ust_3",
+       "text": "W razie istotnej poprawy sytuacji majątkowej upadłego w okresie wykonywania planu spłaty wierzycieli, wynikającej z innych przyczyn niż zwiększenie się wynagrodzenia za pracę lub dochodów uzyskiwanych z osobiście wykonywanej przez upadłego działalności zarobkowej, każdy z wierzycieli oraz upadły może wystąpić z wnioskiem o zmianę planu spłaty wierzycieli. O zmianie planu spłaty wierzycieli sąd orzeka po wysłuchaniu upadłego i wierzycieli objętych planem spłaty wierzycieli. Na postanowienie przysługuje zażalenie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_491¹⁹/ust_4",
+       "text": "Przepis ust. 3 stosuje się odpowiednio do wierzycieli, których wierzytelności powstałe przed ustaleniem planu spłaty wierzycieli zostały po jego ustaleniu stwierdzone prawomocnym orzeczeniem, ugodą zawartą przed sądem lub ostateczną decyzją.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_491¹⁹/ust_5",
+       "text": "Postanowienie o zmianie planu spłaty wierzycieli obwieszcza się. Postanowienie sądu drugiej instancji w przedmiocie rozpoznania zażalenia na postanowienie o zmianie planu spłaty wierzycieli, postanowienie Sądu Najwyższego w przedmiocie rozpoznania skargi kasacyjnej oraz informację o prawomocności postanowienia o zmianie planu spłaty wierzycieli obwieszcza się.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "491²⁰",
+     "path": "art_491²⁰",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491²⁰/ust_1",
+       "text": "W razie niewykonywania przez upadłego obowiązków określonych w planie spłaty wierzycieli sąd z urzędu albo na wniosek wierzyciela, po wysłuchaniu upadłego i wierzycieli objętych planem spłaty wierzycieli, uchyla plan spłaty wierzycieli, chyba że uchybienie obowiązkom jest nieznaczne lub dalsze wykonywanie planu spłaty wierzycieli jest uzasadnione względami słuszności lub względami humanitarnymi. Na postanowienie przysługuje zażalenie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_491²⁰/ust_2",
+       "text": "Przepis ust. 1 stosuje się odpowiednio, gdy upadły:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_491²⁰/ust_2/pkt_1",
+         "text": "nie złożył w terminie sprawozdania z wykonania planu spłaty wierzycieli zgodnie z art. 491¹⁸ ust. 3;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_491²⁰/ust_2/pkt_2",
+         "text": "w sprawozdaniu z wykonania planu spłaty wierzycieli zataił osiągnięte przychody lub nabyte składniki majątkowe, o których mowa w art. 491¹⁸ ust. 3;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_491²⁰/ust_2/pkt_3",
+         "text": "dokonał czynności prawnej, o której mowa w art. 491¹⁸ ust. 1, bez uzyskania zgody sądu albo czynność ta nie została przez sąd zatwierdzona;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "art_491²⁰/ust_2/pkt_4",
+         "text": "ukrywał majątek lub czynność prawna upadłego została prawomocnie uznana za dokonaną z pokrzywdzeniem wierzycieli.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_491²⁰/ust_3",
+       "text": "W razie uchylenia planu spłaty wierzycieli zobowiązania upadłego nie podlegają umorzeniu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_491²⁰/ust_4",
+       "text": "Przepis art. 491¹⁹ ust. 5 stosuje się odpowiednio.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "491²⁰ᵃ",
+     "path": "art_491²⁰ᵃ",
+     "text": "W sprawach, o których mowa w art. 491¹⁹ i art. 491²⁰, sąd orzeka na rozprawie. O terminie rozprawy zawiadamia się wierzycieli przez obwieszczenie.",
      "children": []
     },
     {
-     "type": "ust",
-     "num": "6",
-     "path": "ust_6",
-     "text": "W przypadku odwołania, zmiany, zawieszenia oraz wygaśnięcia funkcji syndyka akta są przejmowane przez nowo wyznaczonego syndyka wraz ze zbiorem dokumentów.",
+     "type": "art",
+     "num": "491²¹",
+     "path": "art_491²¹",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491²¹/ust_1",
+       "text": "Po wykonaniu przez upadłego obowiązków określonych w planie spłaty wierzycieli sąd wydaje postanowienie o stwierdzeniu wykonania planu spłaty wierzycieli i umorzeniu zobowiązań upadłego powstałych przed dniem ogłoszenia upadłości i niewykonanych w wyniku wykonania planu spłaty wierzycieli. Na postanowienie przysługuje zażalenie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_491²¹/ust_2",
+       "text": "Nie podlegają umorzeniu zobowiązania o charakterze alimentacyjnym, zobowiązania wynikające z rent z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa lub śmierci, zobowiązania do zapłaty orzeczonych przez sąd kar grzywny, a także do wykonania obowiązku naprawienia szkody oraz zadośćuczynienia za doznaną krzywdę, zobowiązania do zapłaty nawiązki lub świadczenia pieniężnego orzeczonych przez sąd jako środek karny lub środek związany z poddaniem sprawcy próbie, jak również zobowiązania do naprawienia szkody wynikającej z przestępstwa lub wykroczenia stwierdzonego prawomocnym orzeczeniem oraz zobowiązania, których upadły umyślnie nie ujawnił, jeżeli wierzyciel nie brał udziału w postępowaniu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2a",
+       "path": "art_491²¹/ust_2a",
+       "text": "Przepis art. 491¹⁹ ust. 5 stosuje się odpowiednio.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_491²¹/ust_3",
+       "text": "Po wydaniu postanowienia, o którym mowa w ust. 1, niedopuszczalne jest wszczęcie postępowania egzekucyjnego dotyczącego wierzytelności powstałej przed dniem ustalenia planu spłaty wierzycieli z wyjątkiem wierzytelności wynikających z zobowiązań, o których mowa w ust. 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "491²²",
+     "path": "art_491²²",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491²²/ust_1",
+       "text": "Jeżeli zostanie uprawdopodobnione, że w drodze układu zostaną osiągnięte cele postępowania, sędzia-komisarz, na wniosek upadłego, postanowieniem zwołuje zgromadzenie wierzycieli w celu zawarcia układu. Na postanowienie o odmowie zwołania zgromadzenia wierzycieli przysługuje zażalenie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_491²²/ust_2",
+       "text": "Zwołując zgromadzenie wierzycieli sędzia-komisarz może wstrzymać likwidację majątku upadłego, w szczególności lokalu mieszkalnego albo domu jednorodzinnego, w którym zamieszkuje upadły. Na postanowienie w przedmiocie wstrzymania likwidacji przysługuje zażalenie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_491²²/ust_3",
+       "text": "Wniosek o zwołanie zgromadzenia wierzycieli złożony po zakończeniu likwidacji masy upadłości pozostawia się bez rozpoznania.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_491²²/ust_4",
+       "text": "Układ może zostać przyjęty wyłącznie za zgodą upadłego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_491²²/ust_5",
+       "text": "W przypadku postępowania wszczętego na wniosek wierzyciela wniosek, o którym mowa w ust. 1, może złożyć również każdy z wierzycieli. Przepisu ust. 4 nie stosuje się.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "491²³",
+     "path": "art_491²³",
+     "text": "Do zawarcia układu w postępowaniu prowadzonym na podstawie przepisów niniejszego tytułu, do jego skutków, zmiany oraz uchylenia przepisy o układzie w postępowaniu upadłościowym prowadzonym wobec przedsiębiorców stosuje się odpowiednio, z wyjątkiem przepisów art. 192 ust. 1 i 2.",
      "children": []
     },
     {
-     "type": "ust",
-     "num": "7",
-     "path": "ust_7",
-     "text": "Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób i tryb prowadzenia akt oraz zbioru dokumentów, w tym stosowane urządzenia ewidencyjne, a także udostępniania tych akt oraz zbioru dokumentów, mając na względzie zapewnienie bezpieczeństwa i ochrony danych w nich zawartych.",
-     "children": []
+     "type": "art",
+     "num": "491²⁴",
+     "path": "art_491²⁴",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491²⁴/ust_1",
+       "text": "Po ogłoszeniu upadłości syndyk zakłada i prowadzi akta, w tym akta do zgłoszeń wierzytelności, w systemie teleinformatycznym obsługującym postępowanie sądowe.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_491²⁴/ust_2",
+       "text": "Treść pism procesowych oraz dokumentów, o których mowa w art. 216aa ust. 1, wniesionych z pominięciem systemu teleinformatycznego obsługującego postępowanie sądowe, syndyk wprowadza do akt. Pisma procesowe oraz dokumenty składa się do zbioru dokumentów. Przepisy art. 216aa ust. 2 i 3 stosuje się odpowiednio.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_491²⁴/ust_3",
+       "text": "Akta udostępnia się w biurze syndyka, za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, uczestnikom postępowania oraz każdemu, kto potrzebę ich przejrzenia dostatecznie usprawiedliwi. W tym celu biuro syndyka jest czynne w dni powszednie co najmniej cztery następujące po sobie godziny dziennie między godziną 8.00 a 20.00.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_491²⁴/ust_4",
+       "text": "Akta stanowią część akt sądowych. Po prawomocnym zakończeniu postępowania zbiór dokumentów jest przekazywany do sądu upadłościowego, który wydał postanowienie kończące postępowanie, i dołączany do akt sądowych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_491²⁴/ust_5",
+       "text": "Akta oraz zbiór dokumentów mogą być udostępniane służbie nadzoru Ministra Sprawiedliwości.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "art_491²⁴/ust_6",
+       "text": "W przypadku odwołania, zmiany, zawieszenia oraz wygaśnięcia funkcji syndyka akta są przejmowane przez nowo wyznaczonego syndyka wraz ze zbiorem dokumentów.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "7",
+       "path": "art_491²⁴/ust_7",
+       "text": "Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób i tryb prowadzenia akt oraz zbioru dokumentów, w tym stosowane urządzenia ewidencyjne, a także udostępniania tych akt oraz zbioru dokumentów, mając na względzie zapewnienie bezpieczeństwa i ochrony danych w nich zawartych.",
+       "children": []
+      }
+     ]
     },
     {
      "type": "heading",
@@ -16866,315 +17158,430 @@
      "text": "Postępowanie o zawarcie układu na zgromadzeniu wierzycieli przez osobę fizyczną nieprowadzącą działalności gospodarczej"
     },
     {
-     "type": "text",
-     "text": "Art. 491 [25] . 1. Dłużnik będący osobą fizyczną nieprowadzącą działalności gospodarczej, który stał się niewypłacalny, może wystąpić do sądu upadłościowego o otwarcie postępowania o zawarcie układu na zgromadzeniu wierzycieli."
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Sąd może skierować dłużnika, który złożył wniosek o ogłoszenie upadłości, do postępowania o zawarcie układu na zgromadzeniu wierzycieli, chyba że dłużnik we wniosku o ogłoszenie upadłości złożył oświadczenie, że nie wyraża zgody na udział w postępowaniu o zawarcie układu na zgromadzeniu wierzycieli.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Sąd uwzględnia wniosek dłużnika o otwarcie postępowania o zawarcie układu na zgromadzeniu wierzycieli albo może skierować go do tego postępowania, jeżeli możliwości zarobkowe dłużnika oraz jego sytuacja zawodowa wskazują na zdolność do pokrycia kosztów postępowania o zawarcie układu oraz możliwość zawarcia i wykonania układu z wierzycielami.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "Do wniosku o otwarcie postępowania o zawarcie układu na zgromadzeniu wierzycieli stosuje się odpowiednio przepis art. 216aa. W przypadku, o którym mowa w art. 216aa ust. 1, wniosek o otwarcie postępowania o zawarcie układu na zgromadzeniu wierzycieli składa się na formularzu.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "5",
-     "path": "ust_5",
-     "text": "Wniosek, o którym mowa w ust. 4, powinien odpowiadać warunkom formalnym, o których mowa w art. 491 [2] ust. 4, oraz zawierać wstępne propozycje układowe.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "6",
-     "path": "ust_6",
-     "text": "Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór formularza wniosku dłużnika o otwarcie postępowania o zawarcie układu na zgromadzeniu wierzycieli, mając na uwadze zakres informacji, których umieszczenie we wniosku jest niezbędne.",
+     "type": "art",
+     "num": "491²⁵",
+     "path": "art_491²⁵",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "Art. 491 [26] . 1. Dłużnik wraz z wnioskiem o otwarcie postępowania o zawarcie układu na zgromadzeniu wierzycieli uiszcza zaliczkę na wydatki postępowania w wysokości przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w trzecim kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego, pod rygorem zwrotu wniosku."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "W przypadku, o którym mowa w art. 491 [25] ust. 2, dłużnik uiszcza zaliczkę na wydatki, o której mowa w ust. 1, nadzorcy sądowemu w terminie trzydziestu dni od dnia otwarcia postępowania o zawarcie układu na zgromadzeniu wierzycieli pod rygorem umorzenia postępowania i rozpoznania wniosku o ogłoszenie upadłości.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [27] . 1. Uwzględniając wniosek o otwarcie postępowania o zawarcie układu na zgromadzeniu wierzycieli lub kierując dłużnika do tego postępowania, sąd wydaje postanowienie o otwarciu postępowania o zawarcie układu na zgromadzeniu wierzycieli, w którym:"
-      },
-      {
-       "type": "pkt",
+       "type": "ust",
        "num": "1",
-       "path": "ust_2/pkt_1",
-       "text": "wymienia imię i nazwisko, miejsce zamieszkania, adres oraz numer PESEL dłużnika, a jeżeli dłużnik nie posiada numeru PESEL – inne dane umożliwiające jego jednoznaczną identyfikację;",
+       "path": "art_491²⁵/ust_1",
+       "text": "Dłużnik będący osobą fizyczną nieprowadzącą działalności gospodarczej, który stał się niewypłacalny, może wystąpić do sądu upadłościowego o otwarcie postępowania o zawarcie układu na zgromadzeniu wierzycieli.",
        "children": []
       },
       {
-       "type": "pkt",
+       "type": "ust",
        "num": "2",
-       "path": "ust_2/pkt_2",
-       "text": "wyznacza nadzorcę sądowego.",
+       "path": "art_491²⁵/ust_2",
+       "text": "Sąd może skierować dłużnika, który złożył wniosek o ogłoszenie upadłości, do postępowania o zawarcie układu na zgromadzeniu wierzycieli, chyba że dłużnik we wniosku o ogłoszenie upadłości złożył oświadczenie, że nie wyraża zgody na udział w postępowaniu o zawarcie układu na zgromadzeniu wierzycieli.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_491²⁵/ust_3",
+       "text": "Sąd uwzględnia wniosek dłużnika o otwarcie postępowania o zawarcie układu na zgromadzeniu wierzycieli albo może skierować go do tego postępowania, jeżeli możliwości zarobkowe dłużnika oraz jego sytuacja zawodowa wskazują na zdolność do pokrycia kosztów postępowania o zawarcie układu oraz możliwość zawarcia i wykonania układu z wierzycielami.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_491²⁵/ust_4",
+       "text": "Do wniosku o otwarcie postępowania o zawarcie układu na zgromadzeniu wierzycieli stosuje się odpowiednio przepis art. 216aa. W przypadku, o którym mowa w art. 216aa ust. 1, wniosek o otwarcie postępowania o zawarcie układu na zgromadzeniu wierzycieli składa się na formularzu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_491²⁵/ust_5",
+       "text": "Wniosek, o którym mowa w ust. 4, powinien odpowiadać warunkom formalnym, o których mowa w art. 491² ust. 4, oraz zawierać wstępne propozycje układowe.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "art_491²⁵/ust_6",
+       "text": "Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór formularza wniosku dłużnika o otwarcie postępowania o zawarcie układu na zgromadzeniu wierzycieli, mając na uwadze zakres informacji, których umieszczenie we wniosku jest niezbędne.",
        "children": []
       }
      ]
     },
     {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Przez inne dane umożliwiające jednoznaczną identyfikację, o których mowa w ust. 1 pkt 1, rozumie się dane, o których mowa w art. 491 [2] ust. 5c.",
+     "type": "art",
+     "num": "491²⁶",
+     "path": "art_491²⁶",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "Art. 491 [28] . 1. Postanowienie o otwarciu postępowania o zawarcie układu na zgromadzeniu wierzycieli obwieszcza się."
+       "type": "ust",
+       "num": "1",
+       "path": "art_491²⁶/ust_1",
+       "text": "Dłużnik wraz z wnioskiem o otwarcie postępowania o zawarcie układu na zgromadzeniu wierzycieli uiszcza zaliczkę na wydatki postępowania w wysokości przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w trzecim kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego, pod rygorem zwrotu wniosku.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_491²⁶/ust_2",
+       "text": "W przypadku, o którym mowa w art. 491²⁵ ust. 2, dłużnik uiszcza zaliczkę na wydatki, o której mowa w ust. 1, nadzorcy sądowemu w terminie trzydziestu dni od dnia otwarcia postępowania o zawarcie układu na zgromadzeniu wierzycieli pod rygorem umorzenia postępowania i rozpoznania wniosku o ogłoszenie upadłości.",
+       "children": []
       }
      ]
     },
     {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Postanowienie w przedmiocie otwarcia postępowania o zawarcie układu na zgromadzeniu wierzycieli doręcza się dłużnikowi, a postanowienie o otwarciu postępowania o zawarcie układu na zgromadzeniu wierzycieli doręcza się także nadzorcy sądowemu.",
+     "type": "art",
+     "num": "491²⁷",
+     "path": "art_491²⁷",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491²⁷/ust_1",
+       "text": "Uwzględniając wniosek o otwarcie postępowania o zawarcie układu na zgromadzeniu wierzycieli lub kierując dłużnika do tego postępowania, sąd wydaje postanowienie o otwarciu postępowania o zawarcie układu na zgromadzeniu wierzycieli, w którym:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_491²⁷/ust_1/pkt_1",
+         "text": "wymienia imię i nazwisko, miejsce zamieszkania, adres oraz numer PESEL dłużnika, a jeżeli dłużnik nie posiada numeru PESEL – inne dane umożliwiające jego jednoznaczną identyfikację;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_491²⁷/ust_1/pkt_2",
+         "text": "wyznacza nadzorcę sądowego.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_491²⁷/ust_2",
+       "text": "Przez inne dane umożliwiające jednoznaczną identyfikację, o których mowa w ust. 1 pkt 1, rozumie się dane, o których mowa w art. 491² ust. 5c.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "491²⁸",
+     "path": "art_491²⁸",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491²⁸/ust_1",
+       "text": "Postanowienie o otwarciu postępowania o zawarcie układu na zgromadzeniu wierzycieli obwieszcza się.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_491²⁸/ust_2",
+       "text": "Postanowienie w przedmiocie otwarcia postępowania o zawarcie układu na zgromadzeniu wierzycieli doręcza się dłużnikowi, a postanowienie o otwarciu postępowania o zawarcie układu na zgromadzeniu wierzycieli doręcza się także nadzorcy sądowemu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_491²⁸/ust_3",
+       "text": "O otwarciu postępowania o zawarcie układu na zgromadzeniu wierzycieli zawiadamia się właściwą izbę administracji skarbowej oraz właściwy oddział Zakładu Ubezpieczeń Społecznych lub Kasy Rolniczego Ubezpieczenia Społecznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "491²⁹",
+     "path": "art_491²⁹",
+     "text": "Jednocześnie z otwarciem postępowania o zawarcie układu na zgromadzeniu wierzycieli sąd przyznaje nadzorcy sądowemu zaliczkę na pokrycie kosztów postępowania o zawarcie układu oraz zarządza jej niezwłoczną wypłatę z zaliczki uiszczonej przez dłużnika.",
      "children": []
     },
     {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "O otwarciu postępowania o zawarcie układu na zgromadzeniu wierzycieli zawiadamia się właściwą izbę administracji skarbowej oraz właściwy oddział Zakładu Ubezpieczeń Społecznych lub Kasy Rolniczego Ubezpieczenia Społecznego.",
+     "type": "art",
+     "num": "491³⁰",
+     "path": "art_491³⁰",
+     "text": "Nadzorca sądowy w terminie trzydziestu dni od dnia doręczenia postanowienia o otwarciu postępowania o zawarcie układu na zgromadzeniu wierzycieli:",
      "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [29] . Jednocześnie z otwarciem postępowania o zawarcie układu na zgromadzeniu wierzycieli sąd przyznaje nadzorcy sądowemu zaliczkę na pokrycie kosztów postępowania o zawarcie układu oraz zarządza jej niezwłoczną wypłatę z zaliczki uiszczonej przez dłużnika."
-      },
-      {
-       "type": "text",
-       "text": "Art. 491 [30] . Nadzorca sądowy w terminie trzydziestu dni od dnia doręczenia postanowienia o otwarciu postępowania o zawarcie układu na zgromadzeniu wierzycieli:"
-      },
       {
        "type": "pkt",
        "num": "1",
-       "path": "ust_3/pkt_1",
+       "path": "art_491³⁰/pkt_1",
        "text": "sporządza w porozumieniu z dłużnikiem propozycje układowe;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "2",
-       "path": "ust_3/pkt_2",
+       "path": "art_491³⁰/pkt_2",
        "text": "sporządza spis wierzytelności;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "3",
-       "path": "ust_3/pkt_3",
+       "path": "art_491³⁰/pkt_3",
        "text": "sporządza spis wierzytelności spornych;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "4",
-       "path": "ust_3/pkt_4",
+       "path": "art_491³⁰/pkt_4",
        "text": "zwołuje zgromadzenie wierzycieli w celu głosowania nad układem.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "491³¹",
+     "path": "art_491³¹",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491³¹/ust_1",
+       "text": "Termin zgromadzenia wierzycieli ustala nadzorca sądowy w porozumieniu z dłużnikiem.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_491³¹/ust_2",
+       "text": "Zgromadzenie wierzycieli nie może odbyć się później niż trzy miesiące od dnia otwarcia postępowania o zawarcie układu na zgromadzeniu wierzycieli, a w przypadku, o którym mowa w art. 491²⁵ ust. 2 – cztery miesiące od dnia otwarcia tego postępowania pod rygorem jego umorzenia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_491³¹/ust_3",
+       "text": "Nadzorca sądowy zawiadamia wierzycieli o terminie i miejscu zgromadzenia za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe przesyłką poleconą, odpowiednio za potwierdzeniem odbioru albo za zwrotnym pokwitowaniem odbioru co najmniej dwa tygodnie przed dniem zgromadzenia. Wraz z zawiadomieniem należy doręczyć wierzycielowi propozycje układowe.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "491³²",
+     "path": "art_491³²",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491³²/ust_1",
+       "text": "Zgromadzeniu wierzycieli przewodniczy nadzorca sądowy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_491³²/ust_2",
+       "text": "Z przebiegu zgromadzenia wierzycieli sporządza się protokół, który powinien zawierać treść układu oraz wymieniać wierzycieli głosujących za układem i przeciwko układowi.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_491³²/ust_3",
+       "text": "Nadzorca sądowy przedstawia sądowi wniosek o zatwierdzenie układu albo o umorzenie postępowania w terminie dwudziestu jeden dni od dnia zgromadzenia wierzycieli.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "491³³",
+     "path": "art_491³³",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491³³/ust_1",
+       "text": "Układ jest zawierany na okres nieprzekraczający pięciu lat.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_491³³/ust_2",
+       "text": "W przypadku, gdy układ obejmuje wierzytelności, o których mowa w art. 151 ust. 2 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, układ, w części dotyczącej tych wierzytelności, może być zawarty na okres przekraczający pięć lat.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_491³³/ust_3",
+       "text": "W przypadku gdy w skład masy upadłości wchodzi nieruchomość służąca zaspokojeniu potrzeb mieszkaniowych dłużnika lub osób znajdujących się na jego utrzymaniu, układ może być zawarty na okres przekraczający pięć lat, jeżeli przewiduje zachowanie nieruchomości przez dłużnika.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "491³⁴",
+     "path": "art_491³⁴",
+     "text": "Dłużnik wykonuje układ za pośrednictwem nadzorcy wykonania układu.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "491³⁵",
+     "path": "art_491³⁵",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491³⁵/ust_1",
+       "text": "Wynagrodzenie nadzorcy sądowego wynosi równowartość 15 % poziomu zaspokojenia wierzycieli zgodnie z postanowieniami układu i składa się z opłaty wstępnej, wynoszącej połowę przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w trzecim kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego, oraz kwot wypłacanych nadzorcy sądowemu wraz z przekazaniem wynikających z układu świadczeń dla wierzycieli, w wysokości nieprzekraczającej równowartości 15 % każdorazowego świadczenia dla wierzycieli.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_491³⁵/ust_2",
+       "text": "W przypadku gdy poziom zaspokojenia wierzycieli zgodnie z postanowieniami układu przekracza 100 000 złotych, wynagrodzenie od poziomu przewyższającego 100 000 złotych wynosi równowartość 3 % zaspokojenia wierzycieli.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_491³⁵/ust_3",
+       "text": "W przypadku gdy poziom zaspokojenia wierzycieli zgodnie z postanowieniami układu przekracza 500 000 złotych, wynagrodzenie od poziomu przewyższającego 500 000 złotych wynosi równowartość 1 % zaspokojenia wierzycieli.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_491³⁵/ust_4",
+       "text": "Opłatę wstępną nadzorca sądowy pobiera po doręczeniu postanowienia o otwarciu postępowania o zawarcie układu na zgromadzeniu wierzycieli, a pozostałą część wynagrodzenia – równocześnie z dokonaniem wypłat dla wierzycieli w wykonaniu układu zatwierdzonego przez sąd.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_491³⁵/ust_5",
+       "text": "Wynagrodzenie nadzorcy sądowego nie może być niższe od opłaty wstępnej, o której mowa w ust. 1.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "491³⁶",
+     "path": "art_491³⁶",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491³⁶/ust_1",
+       "text": "Sąd umarza postępowanie o zawarcie układu na zgromadzeniu wierzycieli, jeżeli:",
        "children": [
         {
-         "type": "text",
-         "text": "Art. 491 [31] . 1. Termin zgromadzenia wierzycieli ustala nadzorca sądowy w porozumieniu z dłużnikiem."
+         "type": "pkt",
+         "num": "1",
+         "path": "art_491³⁶/ust_1/pkt_1",
+         "text": "dłużnik nie realizuje ciążących na nim obowiązków;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_491³⁶/ust_1/pkt_2",
+         "text": "aktualne możliwości zarobkowe dłużnika oraz jego sytuacja zawodowa nie uprawdopodobniają zdolności do pokrycia kosztów postępowania o zawarcie układu na zgromadzeniu wierzycieli oraz możliwości zawarcia i wykonania układu z wierzycielami;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_491³⁶/ust_1/pkt_3",
+         "text": "w terminie sześciu miesięcy od dnia wydania postanowienia o otwarciu postępowania o zawarcie układu na zgromadzeniu wierzycieli nadzorca sądowy nie przedstawi wniosku o zatwierdzenie układu.",
+         "children": []
         }
        ]
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Zgromadzenie wierzycieli nie może odbyć się później niż trzy miesiące od dnia otwarcia postępowania o zawarcie układu na zgromadzeniu wierzycieli, a w przypadku, o którym mowa w art. 491 [25] ust. 2 – cztery miesiące od dnia otwarcia tego postępowania pod rygorem jego umorzenia.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Nadzorca sądowy zawiadamia wierzycieli o terminie i miejscu zgromadzenia za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe przesyłką poleconą, odpowiednio za potwierdzeniem odbioru albo za zwrotnym pokwitowaniem odbioru co najmniej dwa tygodnie przed dniem zgromadzenia. Wraz z zawiadomieniem należy doręczyć wierzycielowi propozycje układowe.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [32] . 1. Zgromadzeniu wierzycieli przewodniczy nadzorca sądowy."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Z przebiegu zgromadzenia wierzycieli sporządza się protokół, który powinien zawierać treść układu oraz wymieniać wierzycieli głosujących za układem i przeciwko układowi.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Nadzorca sądowy przedstawia sądowi wniosek o zatwierdzenie układu albo o umorzenie postępowania w terminie dwudziestu jeden dni od dnia zgromadzenia wierzycieli.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [33] . 1. Układ jest zawierany na okres nieprzekraczający pięciu lat."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "W przypadku, gdy układ obejmuje wierzytelności, o których mowa w art. 151 ust. 2 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, układ, w części dotyczącej tych wierzytelności, może być zawarty na okres przekraczający pięć lat.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "W przypadku gdy w skład masy upadłości wchodzi nieruchomość służąca zaspokojeniu potrzeb mieszkaniowych dłużnika lub osób znajdujących się na jego utrzymaniu, układ może być zawarty na okres przekraczający pięć lat, jeżeli przewiduje zachowanie nieruchomości przez dłużnika.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [34] . Dłużnik wykonuje układ za pośrednictwem nadzorcy wykonania układu."
       },
       {
-       "type": "text",
-       "text": "Art. 491 [35] . 1. Wynagrodzenie nadzorcy sądowego wynosi równowartość 15 % poziomu zaspokojenia wierzycieli zgodnie z postanowieniami układu i składa się z opłaty wstępnej, wynoszącej połowę przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w trzecim kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego, oraz kwot wypłacanych nadzorcy sądowemu wraz z przekazaniem wynikających z układu świadczeń dla wierzycieli, w wysokości nieprzekraczającej równowartości 15 % każdorazowego świadczenia dla wierzycieli."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "W przypadku gdy poziom zaspokojenia wierzycieli zgodnie z postanowieniami układu przekracza 100 000 złotych, wynagrodzenie od poziomu przewyższającego 100 000 złotych wynosi równowartość 3 % zaspokojenia wierzycieli.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "W przypadku gdy poziom zaspokojenia wierzycieli zgodnie z postanowieniami układu przekracza 500 000 złotych, wynagrodzenie od poziomu przewyższającego 500 000 złotych wynosi równowartość 1 % zaspokojenia wierzycieli.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "Opłatę wstępną nadzorca sądowy pobiera po doręczeniu postanowienia o otwarciu postępowania o zawarcie układu na zgromadzeniu wierzycieli, a pozostałą część wynagrodzenia – równocześnie z dokonaniem wypłat dla wierzycieli w wykonaniu układu zatwierdzonego przez sąd.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "5",
-     "path": "ust_5",
-     "text": "Wynagrodzenie nadzorcy sądowego nie może być niższe od opłaty wstępnej, o której mowa w ust. 1.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [36] . 1. Sąd umarza postępowanie o zawarcie układu na zgromadzeniu wierzycieli, jeżeli:"
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_5/pkt_1",
-       "text": "dłużnik nie realizuje ciążących na nim obowiązków;",
-       "children": []
-      },
-      {
-       "type": "pkt",
+       "type": "ust",
        "num": "2",
-       "path": "ust_5/pkt_2",
-       "text": "aktualne możliwości zarobkowe dłużnika oraz jego sytuacja zawodowa nie uprawdopodobniają zdolności do pokrycia kosztów postępowania o zawarcie układu na zgromadzeniu wierzycieli oraz możliwości zawarcia i wykonania układu z wierzycielami;",
+       "path": "art_491³⁶/ust_2",
+       "text": "W przypadku, o którym mowa w art. 491²⁵ ust. 2, po prawomocnym umorzeniu postępowania sąd rozpoznaje wniosek dłużnika o ogłoszenie upadłości.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "491³⁷",
+     "path": "art_491³⁷",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_491³⁷/ust_1",
+       "text": "Po wydaniu postanowienia, o którym mowa w art. 491²⁷ ust. 1, nadzorca sądowy zakłada i prowadzi akta w systemie teleinformatycznym obsługującym postępowanie sądowe.",
        "children": []
       },
       {
-       "type": "pkt",
+       "type": "ust",
+       "num": "2",
+       "path": "art_491³⁷/ust_2",
+       "text": "Treść pism procesowych oraz dokumentów, o których mowa w art. 216aa ust. 1, wniesionych z pominięciem systemu teleinformatycznego obsługującego postępowanie sądowe, nadzorca sądowy wprowadza do akt. Pisma procesowe oraz dokumenty składa się do zbioru dokumentów. Przepisy art. 216aa ust. 2 i 3 stosuje się odpowiednio.",
+       "children": []
+      },
+      {
+       "type": "ust",
        "num": "3",
-       "path": "ust_5/pkt_3",
-       "text": "w terminie sześciu miesięcy od dnia wydania postanowienia o otwarciu postępowania o zawarcie układu na zgromadzeniu wierzycieli nadzorca sądowy nie przedstawi wniosku o zatwierdzenie układu.",
+       "path": "art_491³⁷/ust_3",
+       "text": "Akta udostępnia się w biurze nadzorcy sądowego, za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, uczestnikom postępowania oraz każdemu, kto potrzebę ich przejrzenia dostatecznie usprawiedliwi. W tym celu biuro nadzorcy sądowego jest czynne w dni powszednie co najmniej cztery następujące po sobie godziny dziennie między godziną 8.00 a 20.00.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_491³⁷/ust_4",
+       "text": "Akta stanowią część akt sądowych. Po prawomocnym zakończeniu postępowania zbiór dokumentów jest przekazywany do sądu upadłościowego, który wydał postanowienie kończące postępowanie, i dołączany do akt sądowych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_491³⁷/ust_5",
+       "text": "Akta oraz zbiór dokumentów mogą być udostępniane służbie nadzoru Ministra Sprawiedliwości.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "art_491³⁷/ust_6",
+       "text": "W przypadku odwołania, zmiany, zawieszenia oraz wygaśnięcia funkcji nadzorcy sądowego akta są przejmowane przez nowo wyznaczonego nadzorcę sądowego wraz ze zbiorem dokumentów.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "7",
+       "path": "art_491³⁷/ust_7",
+       "text": "Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób i tryb prowadzenia akt oraz zbioru dokumentów, w tym stosowane urządzenia ewidencyjne, a także udostępniania tych akt oraz zbioru dokumentów, mając na względzie zapewnienie bezpieczeństwa i ochrony danych w nich zawartych.",
        "children": []
       }
      ]
     },
     {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "W przypadku, o którym mowa w art. 491 [25] ust. 2, po prawomocnym umorzeniu postępowania sąd rozpoznaje wniosek dłużnika o ogłoszenie upadłości.",
+     "type": "art",
+     "num": "491³⁸",
+     "path": "art_491³⁸",
+     "text": "W zakresie nieuregulowanym w niniejszym tytule do postępowania o zawarcie układu na zgromadzeniu wierzycieli stosuje się odpowiednio przepisy ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne dotyczące przyspieszonego postępowania układowego, z tym że nie wyznacza się sędziego-komisarza i nie stosuje się przepisów o czynnościach sędziego-komisarza.",
      "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [37] . 1. Po wydaniu postanowienia, o którym mowa w art. 491 [27] ust. 1, nadzorca sądowy zakłada i prowadzi akta w systemie teleinformatycznym obsługującym postępowanie sądowe."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Treść pism procesowych oraz dokumentów, o których mowa w art. 216aa ust. 1, wniesionych z pominięciem systemu teleinformatycznego obsługującego postępowanie sądowe, nadzorca sądowy wprowadza do akt. Pisma procesowe oraz dokumenty składa się do zbioru dokumentów. Przepisy art. 216aa ust. 2 i 3 stosuje się odpowiednio.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Akta udostępnia się w biurze nadzorcy sądowego, za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, uczestnikom postępowania oraz każdemu, kto potrzebę ich przejrzenia dostatecznie usprawiedliwi. W tym celu biuro nadzorcy sądowego jest czynne w dni powszednie co najmniej cztery następujące po sobie godziny dziennie między godziną 8.00 a 20.00.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "Akta stanowią część akt sądowych. Po prawomocnym zakończeniu postępowania zbiór dokumentów jest przekazywany do sądu upadłościowego, który wydał postanowienie kończące postępowanie, i dołączany do akt sądowych.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "5",
-     "path": "ust_5",
-     "text": "Akta oraz zbiór dokumentów mogą być udostępniane służbie nadzoru Ministra Sprawiedliwości.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "6",
-     "path": "ust_6",
-     "text": "W przypadku odwołania, zmiany, zawieszenia oraz wygaśnięcia funkcji nadzorcy sądowego akta są przejmowane przez nowo wyznaczonego nadzorcę sądowego wraz ze zbiorem dokumentów.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "7",
-     "path": "ust_7",
-     "text": "Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób i tryb prowadzenia akt oraz zbioru dokumentów, w tym stosowane urządzenia ewidencyjne, a także udostępniania tych akt oraz zbioru dokumentów, mając na względzie zapewnienie bezpieczeństwa i ochrony danych w nich zawartych.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 491 [38] . W zakresie nieuregulowanym w niniejszym tytule do postępowania o zawarcie układu na zgromadzeniu wierzycieli stosuje się odpowiednio przepisy ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne dotyczące przyspieszonego postępowania układowego, z tym że nie wyznacza się sędziego-komisarza i nie stosuje się przepisów o czynnościach sędziego-komisarza."
-      },
       {
        "type": "text",
        "text": "CZĘŚĆ CZWARTA"
@@ -17309,7 +17716,7 @@
      "type": "art",
      "num": "540",
      "path": "art_540",
-     "text": "Do postępowań wszczętych przed dniem wejścia w życie ustawy, na podstawie art. 17 [2] rozporządzenia, o którym mowa w art. 545 pkt 1, stosuje się przepisy dotychczasowe.",
+     "text": "Do postępowań wszczętych przed dniem wejścia w życie ustawy, na podstawie art. 17² rozporządzenia, o którym mowa w art. 545 pkt 1, stosuje się przepisy dotychczasowe.",
      "children": []
     },
     {
@@ -17441,14 +17848,14 @@
   "7": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1863, z 2025 r. poz. 146, 820, 923, 1014, 1069, 1216 i 1556 oraz z 2026 r. poz. 176, 340, 484 i 644.",
   "8": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 171 z 29.06.2016, str. 1, Dz. Urz. UE L 175 z 30.06.2016, str. 1 oraz Dz. Urz. UE L 287 z 21.10.2016, str. 320.",
   "9": "Ze zmianą wprowadzoną przez art. 2 ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 1170), która weszła w życie z dniem 9 września 2025 r.",
-  "10": "Uchylony przez art. 428 pkt 120 lit. b ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2026 r. poz. 533), która weszła w życie z dniem 1 stycznia 2016 r. [12a] [14] [19] [20] [21] [22]",
+  "10": "Uchylony przez art. 428 pkt 120 lit. b ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2026 r. poz. 533), która weszła w życie z dniem 1 stycznia 2016 r.",
   "11": "Ze zmianą wprowadzoną przez art. 7 pkt 2 ustawy, o której mowa w odnośniku 5; wszedł w życie z dniem 10 września 2025 r.",
   "12": "Uchylony przez art. 19 pkt 35 ustawy z dnia 6 grudnia 2018 r. o Krajowym Rejestrze Zadłużonych (Dz. U. z 2025 r. poz. 1584 i 1792), która weszła w życie z dniem 1 grudnia 2021 r.",
   "13": "Uchylony przez art. 428 pkt 163 ustawy, o której mowa w odnośniku 10.",
   "14": "Ze zmianą wprowadzoną przez art. 4 pkt 2 ustawy z dnia 23 stycznia 2026 r. o zmianie niektórych ustaw związanych z funkcjonowaniem rynku finansowego oraz ochroną uczestników tego rynku (Dz. U. poz. 340), która weszła w życie z dniem 31 marca 2026 r.",
   "15": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 284 z 30.10.2009, str. 43, Dz. Urz. UE L 338 z 22.12.2010, str. 35, Dz. Urz. UE L 149 z 08.06.2012, str. 4, Dz. Urz. UE L 349 z 19.12.2012, str. 45, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 188 z 09.07.2013, str. 10, Dz. Urz. UE L 346 z 20.12.2013, str. 27, Dz. Urz. UE L 366 z 20.12.2014, str. 15, Dz. Urz. UE L 76 z 22.03.2017, str. 13, Dz. Urz. UE L 186 z 11.07.2019, str. 21 oraz Dz. Urz. UE L 338 z 15.10.2020, str. 18.",
   "16": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 4 oraz Dz. Urz. UE L 175 z 30.06.2016, str. 1.",
-  "17": "Uchylony przez art. 19 pkt 20 lit. b ustawy, o której mowa w odnośniku 12. [20a] [19] [20]",
+  "17": "Uchylony przez art. 19 pkt 20 lit. b ustawy, o której mowa w odnośniku 12.",
   "18": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1950 r. poz. 349, z 1990 r. poz. 320, z 1996 r. poz. 43 i 189 oraz z 1997 r. poz. 592, 770 i 885.",
   "19": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1994 r. poz. 1, z 1995 r. poz. 426, z 1996 r. poz. 43, 189, 496 i 703, z 1997 r. poz. 153, 349, 751, 770 i 940, z 1998 r. poz. 756, z 2000 r. poz. 306, 948, 1037 i 1193 oraz z 2001 r. poz. 18.",
   "20": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. poz. 844 i 2271, z 2004 r. poz. 1291, z 2006 r. poz. 1121 oraz z 2009 r. poz. 1664 i 1707.",

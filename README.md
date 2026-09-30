@@ -20,7 +20,7 @@ się przeszukiwać, porównywać i przetwarzać.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-29 21:07 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-30 00:59 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -34,7 +34,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 81, razem 1837 z 55640 
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 197.
 
 Rodzaje aktów: Rozporządzenie 1814, Obwieszczenie 1004, Ustawa 362, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
-Wersje konwertera: eli2md 0.6.2 (3266).
+Wersje konwertera: eli2md 0.6.3 (3266).
 <!-- stats:end -->
 
 ## Zawartość
@@ -97,13 +97,24 @@ i 2 drobne; na 1 stronie tylko błędna data przepisana z API. Na żadnej stroni
 (przedział 95% dla odsetka stron z błędem: 7–34%) i nadreprezentuje strony tytułowe; tabel były w niej tylko
 2 strony. Raport: [eval/visual_audit_2025_2026_v0.6.2.md](https://github.com/PolskiAgentW/eli2md/blob/main/eval/visual_audit_2025_2026_v0.6.2.md).
 
-**Znane błędy** (poprawki w toku):
-- część PDF-ów z 2026 r. drukuje indeksy górne w nawiasach („Art. 479[30f].”). Konwerter przenosi je na początek
-  akapitu („[30f] [30] [30a] [30e] Art. 479 . …”), a takie artykuły nie są nagłówkami ani jednostkami w JSON.
-  Dotyczy m.in. tekstów jednolitych k.p.c. (DU/2026/468), k.c. (DU/2026/795) i k.p. (DU/2026/1245): łącznie
-  do 1393 akapitów w 17 plikach (górna granica, część to cytaty w nowelizacjach);
+**Znane błędy**:
+- wzory zapisane w Wordzie czcionką Cambria Math: litery bywają podwojone („kk” zamiast „k”), bo tak są zapisane
+  w warstwie tekstowej PDF (jeden znak na stronie, dwa w tekście), np. DU/2026/1236, DU/2026/40. Wzory są
+  spłaszczone do jednej linii, więc i tak trzeba je czytać z PDF;
 - w tabelach z komórkami wieloliniowymi linie sąsiednich kolumn bywają przeplecione (DU/2025/205, lp. 9);
 - przypis z wyliczeniem: do przypisu trafia tylko pierwszy akapit, dalsze punkty są w treści (DU/2026/421).
+
+Zmiana 2026-09-30 w nocy (eli2md 0.6.3, wszystkie akty od nowa). Tekst zmienił się w 352 z 3266 plików
+(w pozostałych tylko pole `converter`):
+- indeksy przy numerach jednostek, drukowane w części PDF-ów z 2026 r. w nawiasach („Art. 479[30f].”), a wcześniej
+  jako małe „1a” (Art. 22 1a), są teraz znakami górnymi: `Art. 479³⁰ᶠ.`, `Art. 22¹ᵃ.` (tak samo `num` i `path`
+  w JSON). Wcześniej takie artykuły nie były nagłówkami ani jednostkami w JSON. Nagłówków art./§ w całym zbiorze
+  jest 92 626 (było 91 151); w k.p.c. (DU/2026/468) 2015 nagłówków artykułów (było 1169);
+- wzory i tekst w czcionkach z błędnymi metrykami (Cambria) nie są już brane za tekst ukryty (np. DU/2026/1236);
+- na stronach obróconych (tabele w poziomie) nie giną litery drobnego druku; w ciasnych tabelach pozycje
+  „2)”, „b)” zaczynają nowy akapit.
+Sprawdzenie (eval/selfcheck.py z eli2md, ta sama miara dla obu wersji, na 352 zmienionych plikach): odsetek słów
+PDF obecnych w wyniku wzrósł w 154 plikach i spadł w 14 (najwięcej o 0,0002). Szczegóły w README eli2md.
 
 Zmiana 2026-09-29 późnym wieczorem (eli2md 0.6.2, wszystkie akty od nowa):
 - akapity: część aktów jest składana z większym odstępem między liniami (ok. 0,6 rozmiaru czcionki), a konwerter

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1150",
  "title": "Rozporządzenie Ministra Sportu i Turystyki z dnia 19 sierpnia 2026 r. zmieniające rozporządzenie w sprawie obiektów hotelarskich i innych obiektów, w których są świadczone usługi hotelarskie",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1150/text.pdf",
  "body": [
   {
@@ -628,7 +628,14 @@
      "type": "pkt",
      "num": "11",
      "path": "pkt_11",
-     "text": "minibar lub lodówka – dla kategorii **** o o o o zamiast minibaru lub lodówki możliwe jest zapewnienie całodobowego sklepu samoobsługowego 12) woda butelkowana lub filtrowana – w j.m. o o o o o o lub w ogólnodostępnym miejscu na każdym piętrze obiektu",
+     "text": "minibar lub lodówka – dla kategorii **** o o o o zamiast minibaru lub lodówki możliwe jest zapewnienie całodobowego sklepu samoobsługowego",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "pkt_12",
+     "text": "woda butelkowana lub filtrowana – w j.m. o o o o o o lub w ogólnodostępnym miejscu na każdym piętrze obiektu",
      "children": []
     },
     {
@@ -761,7 +768,14 @@
          "type": "lit",
          "num": "e",
          "path": "ust_2/pkt_8/lit_e",
-         "text": "szklanka lub kubek jednorazowy o o o o o o o o o o konfekcjonowany f) torba higieniczna o o o o o o o o o o",
+         "text": "szklanka lub kubek jednorazowy o o o o o o o o o o konfekcjonowany",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_2/pkt_8/lit_f",
+         "text": "torba higieniczna o o o o o o o o o o",
          "children": [
           {
            "type": "text",

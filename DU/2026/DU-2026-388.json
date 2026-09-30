@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/388",
  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 11 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodowej w sprawie legitymacji służbowej oraz innych dokumentów Służby Wywiadu Wojskowego",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/388/text.pdf",
  "body": [
   {
@@ -763,7 +763,14 @@
        "type": "lit",
        "num": "b",
        "path": "ust_5/lit_b",
-       "text": "„SŁUŻBA WYWIADU WOJSKOWEGO”, c) „LEGITYMACJA SŁUŻBOWA”,",
+       "text": "„SŁUŻBA WYWIADU WOJSKOWEGO”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_5/lit_c",
+       "text": "„LEGITYMACJA SŁUŻBOWA”,",
        "children": []
       },
       {

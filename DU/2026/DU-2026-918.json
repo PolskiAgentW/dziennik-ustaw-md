@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/918",
  "title": "Rozporządzenie Ministra Infrastruktury z dnia 24 czerwca 2026 r. w sprawie pilotażu morskiego",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/918/text.pdf",
  "body": [
   {
@@ -3703,7 +3703,14 @@
        "type": "lit",
        "num": "b",
        "path": "ust_4/lit_b",
-       "text": "Koordynator SafeSeaNet – służba Koordynatora SafeSeaNet, c) krajowi użytkownicy SafeSeaNet.",
+       "text": "Koordynator SafeSeaNet – służba Koordynatora SafeSeaNet,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_4/lit_c",
+       "text": "krajowi użytkownicy SafeSeaNet.",
        "children": []
       }
      ]
@@ -3940,11 +3947,68 @@
      "type": "ust",
      "num": "14",
      "path": "ust_14",
-     "text": "Sterowność statku i czynniki ją determinujące: a) kształt kadłuba i powierzchnia steru, b) rodzaj napędu, c) stan załadowania, d) kąt i kierunek wychylenia steru, e) prędkość początkowa i jej zmiany. 15. Pogorszenie sterowności statku na akwenie ograniczonym: a) efekt brzegowy, b) efekt kanałowy, kryteria zachowania dostatecznej stateczności kursowej podczas żeglugi kanałem, c) pokonywanie zakrętów w kanałach, d) oddziaływania statek-statek podczas żeglugi w kanale i na torach wodnych ograniczonych głębokością, e) manewr mijania, wyprzedzania i przemieszczania się względem jednostki zatrzymanej lub zacumowanej. 16. Zależność między długością statku a średnicą jego cyrkulacji taktycznej. 17. Standardy manewrowe i informacyjne. Ocena właściwości manewrowych statku na podstawie informacji i danych źródłowych: a) Pilot Card, b) Wheelhouse Poster, c) Manoeuvring Booklet. 18. Charakterystyka właściwości manewrowych różnych typów statków w zależności od tonażu, wymiarów, rodzaju napędu i systemu sterowania.",
+     "text": "Sterowność statku i czynniki ją determinujące: a) kształt kadłuba i powierzchnia steru,",
      "children": [
       {
-       "type": "text",
-       "text": "3.3. Wpływ wiatru i innych sił zewnętrznych na manewrowanie x x w żegludze pilotowej"
+       "type": "lit",
+       "num": "b",
+       "path": "ust_14/lit_b",
+       "text": "rodzaj napędu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_14/lit_c",
+       "text": "stan załadowania,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_14/lit_d",
+       "text": "kąt i kierunek wychylenia steru,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_14/lit_e",
+       "text": "prędkość początkowa i jej zmiany. 15. Pogorszenie sterowności statku na akwenie ograniczonym: a) efekt brzegowy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_14/lit_b",
+       "text": "efekt kanałowy, kryteria zachowania dostatecznej stateczności kursowej podczas żeglugi kanałem, c) pokonywanie zakrętów w kanałach,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_14/lit_d",
+       "text": "oddziaływania statek-statek podczas żeglugi w kanale i na torach wodnych ograniczonych głębokością, e) manewr mijania, wyprzedzania i przemieszczania się względem jednostki zatrzymanej lub zacumowanej. 16. Zależność między długością statku a średnicą jego cyrkulacji taktycznej. 17. Standardy manewrowe i informacyjne. Ocena właściwości manewrowych statku na podstawie informacji i danych źródłowych: a) Pilot Card,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_14/lit_b",
+       "text": "Wheelhouse Poster,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_14/lit_c",
+       "text": "Manoeuvring Booklet. 18. Charakterystyka właściwości manewrowych różnych typów statków w zależności od tonażu, wymiarów, rodzaju napędu i systemu sterowania.",
+       "children": [
+        {
+         "type": "text",
+         "text": "3.3. Wpływ wiatru i innych sił zewnętrznych na manewrowanie x x w żegludze pilotowej"
+        }
+       ]
       }
      ]
     },
@@ -4238,7 +4302,14 @@
        "type": "lit",
        "num": "c",
        "path": "ust_16/lit_c",
-       "text": "zasady użycia holu zapasowego na obiektach holowanych, d) komunikacja holowników portowych z morskim zestawem holowniczym,",
+       "text": "zasady użycia holu zapasowego na obiektach holowanych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_16/lit_d",
+       "text": "komunikacja holowników portowych z morskim zestawem holowniczym,",
        "children": []
       },
       {
@@ -4503,8 +4574,120 @@
      "type": "ust",
      "num": "5",
      "path": "ust_5",
-     "text": "Holowanie eskortowe: a) próba wężowa z holownikiem zamocowanym na rufie przy awarii steru, b) przejście kanałem portowym z holownikiem zamocowanym na rufie przy awarii steru. 6. Awarie podczas współpracy z holownikiem na akwenie ograniczonym: a) błędne zrozumienie instrukcji przez holownik, b) błędne wykonanie instrukcji przez holownik: − opóźnione podanie holu, − zerwanie holu, c) błędny dobór parametrów holowników: − niedostateczna moc, − za długi/krótki hol. 7. Awaria wyposażenia nawigacyjnego – radaru. 4.2. Współpraca pilota morskiego z kapitanem i obsadą mostka – BRM x 2 x 1. Wzajemne relacje pilot morski – kapitan. 2. Uzgodnienia między kapitanem i pilotem morskim dotyczące planu przejścia pilotowego i jego ewentualnych modyfikacji: a) planowana trasa i punkty zwrotu, b) prędkości na poszczególnych odcinkach trasy, c) plan awaryjny. 3. Przekazanie przez pilota morskiego kapitanowi i obsadzie mostka ważnej informacji lokalnej: a) informacje dotyczące ruchu statków, b) ostrzeżenia nawigacyjne dla danego rejonu, c) newralgiczne miejsca przejścia pilotowego, d) operacje portowe i informacja o nabrzeżu, e) inne. 4. Przekazanie pilotowi morskiemu przez kapitana wszelkiej niezbędnej informacji dotyczącej statku i ładunku: a) karta pilotowa, b) informacja o właściwościach manewrowych statku, c) ograniczenia wynikające z ewentualnych niesprawności systemów i urządzeń, d) oczekiwania dotyczące nabrzeża i metody cumowania, e) informacja o ładunkach niebezpiecznych na statku. 5. Uzgodnienie zasad wspomagania pilota morskiego przez obsadę mostka i załogę: a) obserwacja ruchu statków, b) ciągła kontrola i zapis pozycji statku, c) obsługa urządzeń nawigacyjnych, d) prowadzenie zapisów w dzienniku okrętowym, e) utrzymywanie łączności z siłownią i łączności wewnętrznej, f) zapewnienie obsady kotwicznej i manewrowej. 6. Zasada bieżącego informowania kapitana lub obsady mostka o podejmowanych przez pilota morskiego działaniach i istotnych manewrach. 7. Ocena stopnia wsparcia pilota morskiego ze strony kapitana i obsady mostka: a) ilościowa obsada mostka i sposób przydziału obowiązków, b) poziom znajomości statku i jego wyposażenia,",
+     "text": "Holowanie eskortowe: a) próba wężowa z holownikiem zamocowanym na rufie przy awarii steru, b) przejście kanałem portowym z holownikiem zamocowanym na rufie przy awarii steru. 6. Awarie podczas współpracy z holownikiem na akwenie ograniczonym: a) błędne zrozumienie instrukcji przez holownik,",
      "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_5/lit_b",
+       "text": "błędne wykonanie instrukcji przez holownik: − opóźnione podanie holu, − zerwanie holu, c) błędny dobór parametrów holowników: − niedostateczna moc, − za długi/krótki hol. 7. Awaria wyposażenia nawigacyjnego – radaru. 4.2. Współpraca pilota morskiego z kapitanem i obsadą mostka – BRM x 2 x 1. Wzajemne relacje pilot morski – kapitan. 2. Uzgodnienia między kapitanem i pilotem morskim dotyczące planu przejścia pilotowego i jego ewentualnych modyfikacji: a) planowana trasa i punkty zwrotu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_5/lit_b",
+       "text": "prędkości na poszczególnych odcinkach trasy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_5/lit_c",
+       "text": "plan awaryjny. 3. Przekazanie przez pilota morskiego kapitanowi i obsadzie mostka ważnej informacji lokalnej: a) informacje dotyczące ruchu statków,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_5/lit_b",
+       "text": "ostrzeżenia nawigacyjne dla danego rejonu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_5/lit_c",
+       "text": "newralgiczne miejsca przejścia pilotowego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_5/lit_d",
+       "text": "operacje portowe i informacja o nabrzeżu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_5/lit_e",
+       "text": "inne. 4. Przekazanie pilotowi morskiemu przez kapitana wszelkiej niezbędnej informacji dotyczącej statku i ładunku: a) karta pilotowa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_5/lit_b",
+       "text": "informacja o właściwościach manewrowych statku,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_5/lit_c",
+       "text": "ograniczenia wynikające z ewentualnych niesprawności systemów i urządzeń, d) oczekiwania dotyczące nabrzeża i metody cumowania,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_5/lit_e",
+       "text": "informacja o ładunkach niebezpiecznych na statku. 5. Uzgodnienie zasad wspomagania pilota morskiego przez obsadę mostka i załogę: a) obserwacja ruchu statków,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_5/lit_b",
+       "text": "ciągła kontrola i zapis pozycji statku,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_5/lit_c",
+       "text": "obsługa urządzeń nawigacyjnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_5/lit_d",
+       "text": "prowadzenie zapisów w dzienniku okrętowym,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_5/lit_e",
+       "text": "utrzymywanie łączności z siłownią i łączności wewnętrznej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_5/lit_f",
+       "text": "zapewnienie obsady kotwicznej i manewrowej. 6. Zasada bieżącego informowania kapitana lub obsady mostka o podejmowanych przez pilota morskiego działaniach i istotnych manewrach. 7. Ocena stopnia wsparcia pilota morskiego ze strony kapitana i obsady mostka: a) ilościowa obsada mostka i sposób przydziału obowiązków,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_5/lit_b",
+       "text": "poziom znajomości statku i jego wyposażenia,",
+       "children": []
+      },
       {
        "type": "lit",
        "num": "c",
@@ -4801,7 +4984,28 @@
       },
       {
        "type": "text",
-       "text": "Umiejętność oceny charakterystyki statku: 1) posiada wiedzę i umiejętność dokładnego zebrania i interpretacji danych niezbędnych do bezpiecznego pilotowania statku, wykorzystując: − diagram manewrowy i charakterystykę statku, − efektywną wymianę informacji z kapitanem i obsadą mostka nawigacyjnego, w tym przekazanie informacji o wadach czy niesprawności urządzeń statkowych i sprzętu nawigacyjnego, mających istotne znaczenie dla bezpieczeństwa pilotażu - Pilot Card, − komunikację radiową; 2) zna, rozumie, przewiduje zachowanie statku w zależności od jego charakterystyki manewrowej; 3) zgłasza istotne wady i niesprawności urządzeń do odpowiednich służb. Umiejętność oceny warunków nawigacyjnych: 1) zna i weryfikuje: − aktualność map i wydawnictw nawigacyjnych dla rejonu pilotowego, − aktualność ostrzeżeń nawigacyjnych, − aktualność komunikatów pogodowych, w tym informacji o stanie wód w rejonie pilotowym, − dokładność i wiarygodność urządzeń nawigacyjnych (optycznych i elektronicznych), − informacje o ruchu innych jednostek; 2) ma wiedzę i potrafi odpowiednio dostosować plan przejścia do aktualnych warunków nawigacyjnych. Umiejętność określania pozycji statku z wykorzystaniem metod terrestrycznych i nawigacji elektronicznej: − w drodze − podczas zmiany kursu 1) wykorzystuje na akwenie nabieżniki i inne stawy dla kontroli ruchu i pozycji statku. Posiada wiedzę o zastosowanym w rejonie pilotowym pływającym oznakowaniu nawigacyjnym, potrafi ocenić dokładność wystawienia pław oraz wykryć przypadki przemieszczenia poza ustaloną pozycję; 2) właściwie wykorzystuje techniki radarowe do kontroli pozycji i ruchu statku; 3) identyfikuje i zna położenie głównych obiektów lądowych; 4) kontroluje pozycję statku z wykorzystaniem wszystkich dostępnych urządzeń nawigacyjnych. Umiejętność opracowania strategii nawigacyjnych: 1) wykazuje zdolność do szybkiej analizy informacji uzyskanych z ostrzeżeń nawigacyjnych, informacji przekazywanej przez załogę statku (obsadę wachtową) informacji z pomocy i urządzeń nawigacyjnych; 2) wykazuje znajomość analizy i umiejętność oceny przewidywalnego zachowania się statku; 3) ma wiedzę i potrafi oszacować osiadanie statku i zaplanować jego prędkość tak, by zachować bezpieczną rezerwę wody pod stępką; 4) wykazuje dużą rozwagę w podejmowaniu decyzji w ekstremalnych warunkach pogodowych; 5) wykazuje znajomość i umiejętność prowadzenia statku zgodnie z przepisami COLREG. Umiejętność zapewnienia bezpieczeństwa nawigacji przez właściwe zaplanowanie przejścia, znajomość odległości, wyznaczanie czasów na odcinkach, mijanki, redukcje prędkości itd. 1) potrafi wskazać w rejonie pilotowym najtrudniejsze odcinki przejścia; 2) zna i rozumie zasady wzajemnego oddziaływania statków na torze wodnym i przez właściwe decyzje manewrowe odpowiednio wcześnie na nie reaguje;"
+       "text": "Umiejętność oceny charakterystyki statku: 1) posiada wiedzę i umiejętność dokładnego zebrania i interpretacji danych niezbędnych do bezpiecznego pilotowania statku, wykorzystując: − diagram manewrowy i charakterystykę statku, − efektywną wymianę informacji z kapitanem i obsadą mostka nawigacyjnego, w tym przekazanie informacji o wadach czy niesprawności urządzeń statkowych i sprzętu nawigacyjnego, mających istotne znaczenie dla bezpieczeństwa pilotażu - Pilot Card, − komunikację radiową; 2) zna, rozumie, przewiduje zachowanie statku w zależności od jego charakterystyki manewrowej; 3) zgłasza istotne wady i niesprawności urządzeń do odpowiednich służb. Umiejętność oceny warunków nawigacyjnych: 1) zna i weryfikuje: − aktualność map i wydawnictw nawigacyjnych dla rejonu pilotowego, − aktualność ostrzeżeń nawigacyjnych, − aktualność komunikatów pogodowych, w tym informacji o stanie wód w rejonie pilotowym, − dokładność i wiarygodność urządzeń nawigacyjnych (optycznych i elektronicznych), − informacje o ruchu innych jednostek; 2) ma wiedzę i potrafi odpowiednio dostosować plan przejścia do aktualnych warunków nawigacyjnych. Umiejętność określania pozycji statku z wykorzystaniem metod terrestrycznych i nawigacji elektronicznej: − w drodze − podczas zmiany kursu 1) wykorzystuje na akwenie nabieżniki i inne stawy dla kontroli ruchu i pozycji statku. Posiada wiedzę o zastosowanym w rejonie pilotowym pływającym oznakowaniu nawigacyjnym, potrafi ocenić dokładność wystawienia pław oraz wykryć przypadki przemieszczenia poza ustaloną pozycję; 2) właściwie wykorzystuje techniki radarowe do kontroli pozycji i ruchu statku;"
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "identyfikuje i zna położenie głównych obiektów lądowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "kontroluje pozycję statku z wykorzystaniem wszystkich dostępnych urządzeń nawigacyjnych. Umiejętność opracowania strategii nawigacyjnych: 1) wykazuje zdolność do szybkiej analizy informacji uzyskanych z ostrzeżeń nawigacyjnych, informacji przekazywanej przez załogę statku (obsadę wachtową) informacji z pomocy i urządzeń nawigacyjnych; 2) wykazuje znajomość analizy i umiejętność oceny przewidywalnego zachowania się statku; 3) ma wiedzę i potrafi oszacować osiadanie statku i zaplanować jego prędkość tak, by zachować bezpieczną rezerwę wody pod stępką; 4) wykazuje dużą rozwagę w podejmowaniu decyzji w ekstremalnych warunkach pogodowych; 5) wykazuje znajomość i umiejętność prowadzenia statku zgodnie z przepisami COLREG. Umiejętność zapewnienia bezpieczeństwa nawigacji przez właściwe zaplanowanie przejścia, znajomość odległości, wyznaczanie czasów na odcinkach, mijanki, redukcje prędkości itd. 1) potrafi wskazać w rejonie pilotowym najtrudniejsze odcinki przejścia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "zna i rozumie zasady wzajemnego oddziaływania statków na torze wodnym i przez właściwe decyzje manewrowe odpowiednio wcześnie na nie reaguje;",
+       "children": []
       },
       {
        "type": "pkt",
@@ -4973,7 +5177,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_3/pkt_1",
-       "text": "posiada wiedzę i umiejętność właściwej oceny charakterystyki manewrowej statku; 2) wykazuje znajomość akwenów portowych, nabrzeży, szerokości kanałów, parametrów obrotnic i zakrętów oraz infrastruktury portowej i usług;",
+       "text": "posiada wiedzę i umiejętność właściwej oceny charakterystyki manewrowej statku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "wykazuje znajomość akwenów portowych, nabrzeży, szerokości kanałów, parametrów obrotnic i zakrętów oraz infrastruktury portowej i usług;",
        "children": []
       },
       {
@@ -4994,7 +5205,56 @@
        "type": "pkt",
        "num": "5",
        "path": "ust_3/pkt_5",
-       "text": "rozumie ograniczenia i dokładności wskazań urządzeń nawigacyjnych oraz potrafi ocenić i uwzględnić ich błędy; 6) posiada wiedzę i uwzględnia: − głębokości wód portowych, limity zanurzeń przy nabrzeżach, zalecany zapas wody pod stępką oraz ograniczenia wysokości nadwodnej statków, − rodzaj dna na akwenie manewrowym, podwodne niebezpieczeństwa, miejsca występowania podwodnych rurociągów i kabli, umocnień dna i wynikające z tego ograniczenia, − aktualne warunki hydrometeorologiczne, − informację o sprawności technicznej statkowych urządzeń pokładowych, w tym dziobowego/rufowego steru strumieniowego, − obecność innych statków na akwenie manewrowym, − informacje z VTS lub od innych statków. Umiejętność oceny zapotrzebowania na holownik/holowniki: 1) zna sposoby wykorzystania różnych typów holowników dostępnych w porcie i ich ograniczenia; 2) uwzględnia wymagania przepisów portowych w kwestii użycia holowników; 3) uwzględnia warunki hydrometeorologiczne przy podejmowaniu decyzji o użyciu holowników; 4) uwzględnia parametry statku przy podejmowaniu decyzji o użyciu holowników; 5) potrafi dobrać miejsce rozpoczęcia/zakończenia asysty holowników; 6) potrafi dobrać rodzaj i długość holu oraz sposób mocowania. Umiejętność rozpoczęcia ruchu statku i manewrów cumowania: 1) wykazuje biegłość w planowaniu i przeprowadzaniu bezpiecznych procedur manewrowych, z uwzględnieniem typów statków, warunków nawigacyjnych, charakterystyki nabrzeży; 2) przestrzega przepisów portowych; 3) zna i stosuje zasady współpracy z obsadą mostka; 4) stosuje skuteczną komunikację i stosowne sygnały dźwiękowe; 5) w przypadku użycia holowników prowadzi skuteczną łączność, zabezpiecza prawidłową współpracę i kontroluje prawidłowość wykonania instrukcji przez holowniki; 6) rozważa użycie kotwicy i steru strumieniowego, jeśli występuje; 7) w przypadku wystąpienia trudności rozumie potrzebę wykonania manewrów alternatywnych i umie je zaplanować.",
+       "text": "rozumie ograniczenia i dokładności wskazań urządzeń nawigacyjnych oraz potrafi ocenić i uwzględnić ich błędy; 6) posiada wiedzę i uwzględnia: − głębokości wód portowych, limity zanurzeń przy nabrzeżach, zalecany zapas wody pod stępką oraz ograniczenia wysokości nadwodnej statków, − rodzaj dna na akwenie manewrowym, podwodne niebezpieczeństwa, miejsca występowania podwodnych rurociągów i kabli, umocnień dna i wynikające z tego ograniczenia, − aktualne warunki hydrometeorologiczne, − informację o sprawności technicznej statkowych urządzeń pokładowych, w tym dziobowego/rufowego steru strumieniowego, − obecność innych statków na akwenie manewrowym, − informacje z VTS lub od innych statków. Umiejętność oceny zapotrzebowania na holownik/holowniki: 1) zna sposoby wykorzystania różnych typów holowników dostępnych w porcie i ich ograniczenia; 2) uwzględnia wymagania przepisów portowych w kwestii użycia holowników;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "uwzględnia warunki hydrometeorologiczne przy podejmowaniu decyzji o użyciu holowników; 4) uwzględnia parametry statku przy podejmowaniu decyzji o użyciu holowników;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_3/pkt_5",
+       "text": "potrafi dobrać miejsce rozpoczęcia/zakończenia asysty holowników;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_3/pkt_6",
+       "text": "potrafi dobrać rodzaj i długość holu oraz sposób mocowania. Umiejętność rozpoczęcia ruchu statku i manewrów cumowania: 1) wykazuje biegłość w planowaniu i przeprowadzaniu bezpiecznych procedur manewrowych, z uwzględnieniem typów statków, warunków nawigacyjnych, charakterystyki nabrzeży; 2) przestrzega przepisów portowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "zna i stosuje zasady współpracy z obsadą mostka;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_3/pkt_4",
+       "text": "stosuje skuteczną komunikację i stosowne sygnały dźwiękowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_3/pkt_5",
+       "text": "w przypadku użycia holowników prowadzi skuteczną łączność, zabezpiecza prawidłową współpracę i kontroluje prawidłowość wykonania instrukcji przez holowniki; 6) rozważa użycie kotwicy i steru strumieniowego, jeśli występuje;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_3/pkt_7",
+       "text": "w przypadku wystąpienia trudności rozumie potrzebę wykonania manewrów alternatywnych i umie je zaplanować.",
        "children": []
       }
      ]
@@ -5007,13 +5267,34 @@
      "children": [
       {
        "type": "text",
-       "text": "Umiejętność przeprowadzenia manewrów dokowania i śluzowania: 1) zna zasady, rozumie procedury i fazy dokowania i śluzowania statków o różnej konstrukcji kilowej; 2) rozumie zagrożenia związane z operacją dokowania i śluzowania; 3) zna warunki dokowań i śluzowań standardowych i ewentualne odstępstwa dla dokowań i śluzowań specjalnych; 4) ustala liczbę i rodzaj holowników dla wprowadzenia statku na dok i śluzę i wyprowadzania statku z doku i śluzy; 5) potrafi prowadzić właściwą komunikację z obsługą doku i śluzy – kierownikiem doku/śluzy / mistrzem lub brygadzistą zmianowym dokowań i śluzowań; 6) ustala plan manewrów z kapitanem, obsługą doku i śluzy i kapitanami holowników; 7) potrafi właściwie wybrać technikę i wykonać podejście do doku i śluzy i wprowadzić statek w dok i śluzę; 8) podczas wprowadzania statku na dok ustala kolejność podawania na statek dokowych lin stalowych, jak również naprężania bądź luzowania tych lin; 9) daje polecenie rozpoczęcia wyprowadzania statku z doku lub śluzy;"
+       "text": "Umiejętność przeprowadzenia manewrów dokowania i śluzowania: 1) zna zasady, rozumie procedury i fazy dokowania i śluzowania statków o różnej konstrukcji kilowej; 2) rozumie zagrożenia związane z operacją dokowania i śluzowania;"
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_4/pkt_3",
+       "text": "zna warunki dokowań i śluzowań standardowych i ewentualne odstępstwa dla dokowań i śluzowań specjalnych; 4) ustala liczbę i rodzaj holowników dla wprowadzenia statku na dok i śluzę i wyprowadzania statku z doku i śluzy; 5) potrafi prowadzić właściwą komunikację z obsługą doku i śluzy – kierownikiem doku/śluzy / mistrzem lub brygadzistą zmianowym dokowań i śluzowań; 6) ustala plan manewrów z kapitanem, obsługą doku i śluzy i kapitanami holowników;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_4/pkt_7",
+       "text": "potrafi właściwie wybrać technikę i wykonać podejście do doku i śluzy i wprowadzić statek w dok i śluzę; 8) podczas wprowadzania statku na dok ustala kolejność podawania na statek dokowych lin stalowych, jak również naprężania bądź luzowania tych lin; 9) daje polecenie rozpoczęcia wyprowadzania statku z doku lub śluzy;",
+       "children": []
       },
       {
        "type": "pkt",
        "num": "10",
        "path": "ust_4/pkt_10",
-       "text": "decyduje o kolejności podawania holi i zwalniania lin dokowych; 11) rozpoznaje sytuacje zagrożenia wymagające natychmiastowego wstrzymania dokowania i śluzowania.",
+       "text": "decyduje o kolejności podawania holi i zwalniania lin dokowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_4/pkt_11",
+       "text": "rozpoznaje sytuacje zagrożenia wymagające natychmiastowego wstrzymania dokowania i śluzowania.",
        "children": []
       }
      ]
@@ -5030,7 +5311,63 @@
       },
       {
        "type": "text",
-       "text": "Umiejętność rozpoznawania zagrożeń specyficznych dla rejonu pilotowego: 1) zna i rozumie komunikaty lodowe dla rejonu pilotowego, w tym: − lokalizację i czas obserwowanych formacji lodowych, − przyczyny i lokalizację zatorów lodowych, − odcinki lodu stałego, lodu dryfującego, − wpływ wiatru i temperatury na oblodzenie; 2) w przypadku zlodzenia akwenu identyfikuje krytyczne odcinki toru wodnego; 3) zna czynniki wpływające na ruch lodu i rozumie ich znaczenie (topografia akwenu, prądy, wiatr, ruch statków, działanie lodołamaczy/holowników, zatory, zmiany temperatury); 4) rozumie i potrafi przewidzieć ruch lodu/kry lodowej; 5) rozumie i identyfikuje potencjalne niebezpieczeństwo: luźnego lodu, lodu pod naporem, kleszczenia statku. Umiejętność analizy wpływu poszczególnych czynników na żeglugę w lodach: 1) rozumie i bierze pod uwagę charakterystykę statku, wymagania systemu chłodzenia – zawór denny, burtowy oraz urządzenia pokładowe – windy kotwiczne i cumownicze; 2) rozumie i bierze pod uwagę wzajemne oddziaływanie kadłub – lód; 3) analizuje aktualne warunki nawigacyjne, w tym komunikaty lodowe; 4) rozumie ograniczenia pracy radaru na akwenie zlodzonym. Posiada wiedzę i wykazuje znajomość technik prowadzenia statku w lodach: 1) zna i rozumie podstawowe zasady manewrowania statkiem w lodach; 2) rozumie i ocenia potrzebę asysty lodołamacza/holownika; 3) zna zasady współpracy z holownikiem w warunkach zlodzenia akwenu, rozumie manewry i utrzymywanie ciągłej komunikacji; 4) zna i rozumie procedury związane z prowadzeniem statku w konwoju, z eskortą holownika; 5) rozumie bezwzględną konieczność utrzymywania żądanych odległości między statkami w konwoju, rozumie konieczność prowadzenia ciągłej obserwacji. Umiejętność określenia strategii nawigacyjnych w lodach bez eskorty: 1) wybór kursu, dobór właściwej prędkości przy wejściu w akwen zlodzony; 2) umiejętność doboru prędkości, tak aby zapewnić ciągłą kontrolę ruchu statku; 3) uwzględnianie ruchu innych jednostek, szacowanie czasu przejścia, uzgadnianie przejścia/mijania na niebezpiecznych odcinkach."
+       "text": "Umiejętność rozpoznawania zagrożeń specyficznych dla rejonu pilotowego: 1) zna i rozumie komunikaty lodowe dla rejonu pilotowego, w tym: − lokalizację i czas obserwowanych formacji lodowych, − przyczyny i lokalizację zatorów lodowych, − odcinki lodu stałego, lodu dryfującego, − wpływ wiatru i temperatury na oblodzenie; 2) w przypadku zlodzenia akwenu identyfikuje krytyczne odcinki toru wodnego;"
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "zna czynniki wpływające na ruch lodu i rozumie ich znaczenie (topografia akwenu, prądy, wiatr, ruch statków, działanie lodołamaczy/holowników, zatory, zmiany temperatury); 4) rozumie i potrafi przewidzieć ruch lodu/kry lodowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_5/pkt_5",
+       "text": "rozumie i identyfikuje potencjalne niebezpieczeństwo: luźnego lodu, lodu pod naporem, kleszczenia statku. Umiejętność analizy wpływu poszczególnych czynników na żeglugę w lodach: 1) rozumie i bierze pod uwagę charakterystykę statku, wymagania systemu chłodzenia – zawór denny, burtowy oraz urządzenia pokładowe – windy kotwiczne i cumownicze; 2) rozumie i bierze pod uwagę wzajemne oddziaływanie kadłub – lód;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "analizuje aktualne warunki nawigacyjne, w tym komunikaty lodowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_5/pkt_4",
+       "text": "rozumie ograniczenia pracy radaru na akwenie zlodzonym. Posiada wiedzę i wykazuje znajomość technik prowadzenia statku w lodach: 1) zna i rozumie podstawowe zasady manewrowania statkiem w lodach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "rozumie i ocenia potrzebę asysty lodołamacza/holownika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "zna zasady współpracy z holownikiem w warunkach zlodzenia akwenu, rozumie manewry i utrzymywanie ciągłej komunikacji; 4) zna i rozumie procedury związane z prowadzeniem statku w konwoju, z eskortą holownika; 5) rozumie bezwzględną konieczność utrzymywania żądanych odległości między statkami w konwoju, rozumie konieczność prowadzenia ciągłej obserwacji. Umiejętność określenia strategii nawigacyjnych w lodach bez eskorty: 1) wybór kursu, dobór właściwej prędkości przy wejściu w akwen zlodzony;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "umiejętność doboru prędkości, tak aby zapewnić ciągłą kontrolę ruchu statku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "uwzględnianie ruchu innych jednostek, szacowanie czasu przejścia, uzgadnianie przejścia/mijania na niebezpiecznych odcinkach.",
+       "children": []
       }
      ]
     },
@@ -5042,19 +5379,35 @@
      "children": [
       {
        "type": "text",
-       "text": "Umiejętność wykonania procedur awaryjnych: 1) zna i rozumie standardowe procedury awaryjne; 2) w ćwiczeniach symulatorowych wykonywał scenariusze sytuacji awaryjnych, uczestniczył w analizie i omówieniu podjętych i zaniechanych działań; 3) przeprowadzał ćwiczenia właściwej, zrozumiałej i precyzyjnej komunikacji w sytuacji zagrożenia; 4) zna procedury komunikacji z VTS w sytuacjach awaryjnych."
+       "text": "Umiejętność wykonania procedur awaryjnych: 1) zna i rozumie standardowe procedury awaryjne;"
       },
       {
-       "type": "text",
-       "text": "Umiejętność zaplanowania manewrów awaryjnych/ratowniczych w sytuacji zagrożenia: 1) posiada wiedzę o zasadach i przepisach obowiązujących w rejonie pilotowym w zakresie sytuacji awaryjnych; 2) zna i rozumie możliwość wykorzystania standardowych manewrów i/lub procedur, uzależniając działania od pozycji statku i rodzaju sytuacji awaryjnej; 3) potrafi podjąć decyzje dotyczące sytuacji awaryjnych, oparte na właściwej ocenie sytuacji i uwzględniające zasady zarządzania obsadą i zasobami mostka nawigacyjnego; 4) ma wiedzę i potrafi zidentyfikować sytuację zagrożenia w zakresie: − wejścia na mieliznę, otarcia na płyciźnie, − pożaru, − poważnego zranienia członka załogi, − ciężkich warunków pogodowych, − kolizji, − uszkodzenia kadłuba, − zanieczyszczenia środowiska z powodu uszkodzenia kadłuba, − utraty stateczności, − awarii napędu, w tym zasilania, − niesprawności urządzeń nawigacyjnych, − alarmu „człowiek za burtą”, − zablokowania toru wodnego/kanału, − niedyspozycji załogi statku. Zdolność do podejmowania decyzji w sprawie manewrów awaryjnych/ratowniczych: 1) umiejętność szybkiej, obiektywnej oceny dostępnych faktów i możliwych dla danego zagrożenia konsekwencji; 2) rozważenie sytuacji awaryjnej w aspekcie zagrożenia życia, środowiska i strat materialnych; 3) umiejętność podjęcia właściwych działań dla danej (rzeczywistej) sytuacji awaryjnej. rozważenie działań alternatywnych; 4) umiejętność formułowania jasnych i precyzyjnych poleceń, wykazanie opanowania; 5) umiejętność oceny podjętych działań i ich konsekwencji. Znajomość manewrów holowniczych: 1) identyfikuje wskazania do holowania lub wezwania asysty holowników. Uwzględnia czynniki warunkujące użycie lub nieużycie holownika: − przepisy, − pozycja statku, − warunki operacyjne holowania, − warunki pogodowe; 2) posiada umiejętność prowadzenia statku w zespole holowniczym oraz holowania na wąskim torze wodnym; 3) określa długość holu w zależności od charakterystyki akwenu i pozycji statku oraz czynniki warunkujące długość holu: − warunki holowania, − pozycja statku, − typ statku, − boczna powierzchnia nawiewu statku, − kierunek wiatru, − prądy, − odchylenie, myszkowanie statku, − dostępny hol (elastyczność, wytrzymałość na rozciąganie); 4) stosuje zasady BRM (nautycznego dowodzenia statkiem)."
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_6/pkt_2",
+       "text": "w ćwiczeniach symulatorowych wykonywał scenariusze sytuacji awaryjnych, uczestniczył w analizie i omówieniu podjętych i zaniechanych działań; 3) przeprowadzał ćwiczenia właściwej, zrozumiałej i precyzyjnej komunikacji w sytuacji zagrożenia; 4) zna procedury komunikacji z VTS w sytuacjach awaryjnych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Umiejętność zaplanowania manewrów awaryjnych/ratowniczych w sytuacji zagrożenia: 1) posiada wiedzę o zasadach i przepisach obowiązujących w rejonie pilotowym w zakresie sytuacji awaryjnych; 2) zna i rozumie możliwość wykorzystania standardowych manewrów i/lub procedur, uzależniając działania od pozycji statku i rodzaju sytuacji awaryjnej; 3) potrafi podjąć decyzje dotyczące sytuacji awaryjnych, oparte na właściwej ocenie sytuacji i uwzględniające zasady zarządzania obsadą i zasobami mostka nawigacyjnego; 4) ma wiedzę i potrafi zidentyfikować sytuację zagrożenia w zakresie: − wejścia na mieliznę, otarcia na płyciźnie, − pożaru, − poważnego zranienia członka załogi, − ciężkich warunków pogodowych, − kolizji, − uszkodzenia kadłuba, − zanieczyszczenia środowiska z powodu uszkodzenia kadłuba, − utraty stateczności, − awarii napędu, w tym zasilania, − niesprawności urządzeń nawigacyjnych, − alarmu „człowiek za burtą”, − zablokowania toru wodnego/kanału, − niedyspozycji załogi statku. Zdolność do podejmowania decyzji w sprawie manewrów awaryjnych/ratowniczych: 1) umiejętność szybkiej, obiektywnej oceny dostępnych faktów i możliwych dla danego zagrożenia konsekwencji; 2) rozważenie sytuacji awaryjnej w aspekcie zagrożenia życia, środowiska i strat materialnych; 3) umiejętność podjęcia właściwych działań dla danej (rzeczywistej) sytuacji awaryjnej. rozważenie działań alternatywnych; 4) umiejętność formułowania jasnych i precyzyjnych poleceń, wykazanie opanowania;"
+        }
+       ]
       },
       {
-       "type": "text",
-       "text": "* Kandydat na pilota morskiego sukcesywnie potwierdza nabycie wskazanych w programie kompetencji w zakresie wiedzy i umiejętności, jeżeli jest przekonany o osiągnięciu ich właściwego, zadowalającego poziomu."
-      },
-      {
-       "type": "text",
-       "text": "** Śluzowanie dotyczy tylko rejonu pilotowego Elbląg."
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_6/pkt_5",
+       "text": "umiejętność oceny podjętych działań i ich konsekwencji. Znajomość manewrów holowniczych: 1) identyfikuje wskazania do holowania lub wezwania asysty holowników. Uwzględnia czynniki warunkujące użycie lub nieużycie holownika: − przepisy, − pozycja statku, − warunki operacyjne holowania, − warunki pogodowe; 2) posiada umiejętność prowadzenia statku w zespole holowniczym oraz holowania na wąskim torze wodnym; 3) określa długość holu w zależności od charakterystyki akwenu i pozycji statku oraz czynniki warunkujące długość holu: − warunki holowania, − pozycja statku, − typ statku, − boczna powierzchnia nawiewu statku, − kierunek wiatru, − prądy, − odchylenie, myszkowanie statku, − dostępny hol (elastyczność, wytrzymałość na rozciąganie); 4) stosuje zasady BRM (nautycznego dowodzenia statkiem).",
+       "children": [
+        {
+         "type": "text",
+         "text": "* Kandydat na pilota morskiego sukcesywnie potwierdza nabycie wskazanych w programie kompetencji w zakresie wiedzy i umiejętności, jeżeli jest przekonany o osiągnięciu ich właściwego, zadowalającego poziomu."
+        },
+        {
+         "type": "text",
+         "text": "** Śluzowanie dotyczy tylko rejonu pilotowego Elbląg."
+        }
+       ]
       }
      ]
     },
@@ -5841,11 +6194,26 @@
     },
     {
      "type": "text",
-     "text": "Egzamin pisemny: Przedmiot „Nawigacja w rejonie pilotowym (akwenie pilotowym)”: Kompleksowe zadanie na „ślepej” mapie nawigacyjnej w rejonie pilotowym obejmujące: 1) znajomość znaków nawigacyjnych akwenu w danym rejonie pilotowym; 2) topografię akwenu w danym rejonie pilotowym; 3) techniczne wyposażenie akwenu w danym rejonie pilotowym."
+     "text": "Egzamin pisemny: Przedmiot „Nawigacja w rejonie pilotowym (akwenie pilotowym)”: Kompleksowe zadanie na „ślepej” mapie nawigacyjnej w rejonie pilotowym obejmujące: 1) znajomość znaków nawigacyjnych akwenu w danym rejonie pilotowym;"
     },
     {
-     "type": "text",
-     "text": "Przedmiot „Regulacje prawne dotyczące pilotażu”: Zadanie pisemne obejmujące zagadnienia składające się na ten przedmiot."
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "topografię akwenu w danym rejonie pilotowym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "techniczne wyposażenie akwenu w danym rejonie pilotowym.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Przedmiot „Regulacje prawne dotyczące pilotażu”: Zadanie pisemne obejmujące zagadnienia składające się na ten przedmiot."
+      }
+     ]
     }
    ]
   },
@@ -5894,11 +6262,26 @@
     },
     {
      "type": "text",
-     "text": "Egzamin pisemny: Przedmiot „Nawigacja w akwenie Morza Bałtyckiego”: Kompleksowe zadanie na „ślepej” mapie nawigacyjnej dotyczące obszaru, którego dotyczą uprawnienia, obejmujące: 1) znajomość znaków nawigacyjnych akwenu; 2) topografię akwenu; 3) techniczne wyposażenie akwenu."
+     "text": "Egzamin pisemny: Przedmiot „Nawigacja w akwenie Morza Bałtyckiego”: Kompleksowe zadanie na „ślepej” mapie nawigacyjnej dotyczące obszaru, którego dotyczą uprawnienia, obejmujące: 1) znajomość znaków nawigacyjnych akwenu;"
     },
     {
-     "type": "text",
-     "text": "Przedmiot „Regulacje prawne dotyczące pilotażu”: Zadanie pisemne obejmujące zagadnienia składające się na ten przedmiot."
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "topografię akwenu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "techniczne wyposażenie akwenu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Przedmiot „Regulacje prawne dotyczące pilotażu”: Zadanie pisemne obejmujące zagadnienia składające się na ten przedmiot."
+      }
+     ]
     }
    ]
   },
@@ -5964,7 +6347,84 @@
     },
     {
      "type": "text",
-     "text": "SYMULATOR SZ NW S PP Procedury awaryjne podczas pilotażu morskiego 1 x 6 1. Zapoznanie się z symulatorem nawigacyjno-manewrowym. 2. Podstawowe zasady mechaniki ruchu statku wykorzystywane przy manewrowaniu: a) siły od działania pędników, sterów, urządzeń napędowo-sterujących, b) siła poprzeczna od działania śruby, c) Pivot Point, d) oddziaływanie wiatru, e) osiadanie i efekt brzegowy. 3. Awarie urządzeń napędowych i sterujących na torze podejściowym, torze wodnym, w kanale portowym: a) awaria napędu, b) awaria steru/sterów – zatrzymanie i utrzymanie statku na pozycji za pomocą manewrów napędem naprzód i wstecz, c) awaria steru strumieniowego. 4. Awaria zasilania: a) chwilowy zanik zasilania – blackout, b) awaria agregatu – ograniczenie dostępnej mocy. 5. Holowanie eskortowe: a) próba wężowa z holownikiem zamocowanym na rufie przy awarii steru, b) przejście kanałem portowym z holownikiem zamocowanym na rufie przy awarii steru. 6. Awarie podczas współpracy z holownikiem na akwenie ograniczonym: a) błędne zrozumienie instrukcji przez holownik, b) błędne wykonanie instrukcji przez holownik: − opóźnione podanie holu, − zerwanie holu, c) błędny dobór parametrów holowników: − niedostateczna moc, − za długi/krótki hol. 7. Awaria wyposażenia nawigacyjnego – radaru. Współpraca pilota morskiego z kapitanem i obsadą mostka – BRM x 2 x 1. Wzajemne relacje pilot morski – kapitan. 2. Uzgodnienia między kapitanem i pilotem morskim dotyczące planu przejścia pilotowego i jego ewentualnych modyfikacji: a) planowana trasa i punkty zwrotu, b) prędkości na poszczególnych odcinkach trasy, c) plan awaryjny. 3. Przekazanie przez pilota morskiego kapitanowi i obsadzie mostka ważnej informacji lokalnej: a) informacje dotyczące ruchu statków, b) ostrzeżenia nawigacyjne dla danego rejonu, c) newralgiczne miejsca przejścia pilotowego, d) operacje portowe i informacja o nabrzeżu,"
+     "text": "SYMULATOR SZ NW S PP Procedury awaryjne podczas pilotażu morskiego 1 x 6 1. Zapoznanie się z symulatorem nawigacyjno-manewrowym. 2. Podstawowe zasady mechaniki ruchu statku wykorzystywane przy manewrowaniu: a) siły od działania pędników, sterów, urządzeń napędowo-sterujących, b) siła poprzeczna od działania śruby,"
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "Pivot Point,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "lit_d",
+     "text": "oddziaływanie wiatru,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "lit_e",
+     "text": "osiadanie i efekt brzegowy. 3. Awarie urządzeń napędowych i sterujących na torze podejściowym, torze wodnym, w kanale portowym: a) awaria napędu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "awaria steru/sterów – zatrzymanie i utrzymanie statku na pozycji za pomocą manewrów napędem naprzód i wstecz, c) awaria steru strumieniowego. 4. Awaria zasilania: a) chwilowy zanik zasilania – blackout,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "awaria agregatu – ograniczenie dostępnej mocy. 5. Holowanie eskortowe: a) próba wężowa z holownikiem zamocowanym na rufie przy awarii steru, b) przejście kanałem portowym z holownikiem zamocowanym na rufie przy awarii steru. 6. Awarie podczas współpracy z holownikiem na akwenie ograniczonym: a) błędne zrozumienie instrukcji przez holownik,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "błędne wykonanie instrukcji przez holownik: − opóźnione podanie holu, − zerwanie holu, c) błędny dobór parametrów holowników: − niedostateczna moc, − za długi/krótki hol. 7. Awaria wyposażenia nawigacyjnego – radaru. Współpraca pilota morskiego z kapitanem i obsadą mostka – BRM x 2 x 1. Wzajemne relacje pilot morski – kapitan. 2. Uzgodnienia między kapitanem i pilotem morskim dotyczące planu przejścia pilotowego i jego ewentualnych modyfikacji: a) planowana trasa i punkty zwrotu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "prędkości na poszczególnych odcinkach trasy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "plan awaryjny. 3. Przekazanie przez pilota morskiego kapitanowi i obsadzie mostka ważnej informacji lokalnej: a) informacje dotyczące ruchu statków,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "ostrzeżenia nawigacyjne dla danego rejonu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "newralgiczne miejsca przejścia pilotowego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "lit_d",
+     "text": "operacje portowe i informacja o nabrzeżu,",
+     "children": []
     },
     {
      "type": "lit",
@@ -6145,7 +6605,70 @@
     },
     {
      "type": "text",
-     "text": "SYMULATOR SZ NW S PP Procedury awaryjne podczas pilotażu 2 x 6 1. Zapoznanie się z symulatorem manewrowym. 2. Podstawowe zasady mechaniki ruchu statku wykorzystywane przy manewrowaniu: a) siły od działania pędników, sterów, urządzeń napędowo-sterujących, b) siła poprzeczna od działania śruby, c) Pivot Point, d) oddziaływanie wiatru, e) osiadanie i efekt brzegowy. 3. Awarie urządzeń napędowych i sterujących na torze podejściowym, torze wodnym, w kanale portowym: a) awaria napędu, b) awaria steru/sterów – zatrzymanie i utrzymanie statku na pozycji za pomocą manewrów napędem naprzód i wstecz, c) awaria steru strumieniowego. 4. Awaria zasilania: a) chwilowy zanik zasilania – blackout, b) awaria agregatu – ograniczenie dostępnej mocy. 5. Holowanie eskortowe: a) próba wężowa z holownikiem zamocowanym na rufie przy awarii steru, b) przejście kanałem portowym z holownikiem zamocowanym na rufie przy awarii steru. 6. Awarie podczas współpracy z holownikiem na akwenie ograniczonym: a) błędne zrozumienie instrukcji przez holownik, b) błędne wykonanie instrukcji przez holownik: − opóźnione podanie holu, − zerwanie holu, c) błędny dobór parametrów holowników: − niedostateczna moc, − za długi/krótki hol. 7. Awaria wyposażenia nawigacyjnego – radaru. Współpraca pilota morskiego z kapitanem i obsadą mostka – BRM x 2 x 1. Wzajemne relacje pilot morski – kapitan. 2. Uzgodnienia między kapitanem i pilotem morskim dotyczące planu przejścia pilotowego i jego ewentualnych modyfikacji: a) planowana trasa i punkty zwrotu, b) prędkości na poszczególnych odcinkach trasy, c) plan awaryjny. 3. Przekazanie przez pilota morskiego kapitanowi i obsadzie mostka ważnej informacji lokalnej: a) informacje dotyczące ruchu statków, b) ostrzeżenia nawigacyjne dla danego rejonu,"
+     "text": "SYMULATOR SZ NW S PP Procedury awaryjne podczas pilotażu 2 x 6 1. Zapoznanie się z symulatorem manewrowym. 2. Podstawowe zasady mechaniki ruchu statku wykorzystywane przy manewrowaniu: a) siły od działania pędników, sterów, urządzeń napędowo-sterujących, b) siła poprzeczna od działania śruby,"
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "Pivot Point,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "lit_d",
+     "text": "oddziaływanie wiatru,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "lit_e",
+     "text": "osiadanie i efekt brzegowy. 3. Awarie urządzeń napędowych i sterujących na torze podejściowym, torze wodnym, w kanale portowym: a) awaria napędu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "awaria steru/sterów – zatrzymanie i utrzymanie statku na pozycji za pomocą manewrów napędem naprzód i wstecz, c) awaria steru strumieniowego. 4. Awaria zasilania: a) chwilowy zanik zasilania – blackout,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "awaria agregatu – ograniczenie dostępnej mocy. 5. Holowanie eskortowe: a) próba wężowa z holownikiem zamocowanym na rufie przy awarii steru, b) przejście kanałem portowym z holownikiem zamocowanym na rufie przy awarii steru. 6. Awarie podczas współpracy z holownikiem na akwenie ograniczonym: a) błędne zrozumienie instrukcji przez holownik,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "błędne wykonanie instrukcji przez holownik: − opóźnione podanie holu, − zerwanie holu, c) błędny dobór parametrów holowników: − niedostateczna moc, − za długi/krótki hol. 7. Awaria wyposażenia nawigacyjnego – radaru. Współpraca pilota morskiego z kapitanem i obsadą mostka – BRM x 2 x 1. Wzajemne relacje pilot morski – kapitan. 2. Uzgodnienia między kapitanem i pilotem morskim dotyczące planu przejścia pilotowego i jego ewentualnych modyfikacji: a) planowana trasa i punkty zwrotu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "prędkości na poszczególnych odcinkach trasy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "plan awaryjny. 3. Przekazanie przez pilota morskiego kapitanowi i obsadzie mostka ważnej informacji lokalnej: a) informacje dotyczące ruchu statków,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "ostrzeżenia nawigacyjne dla danego rejonu,",
+     "children": []
     },
     {
      "type": "lit",
@@ -6455,7 +6978,21 @@
     },
     {
      "type": "text",
-     "text": "Egzamin pisemny: Przedmiot „Nawigacja”: Zadanie na „ślepej” mapie nawigacyjnej w rejonie pilotowym obejmujące: 1) znajomość znaków nawigacyjnych akwenu w danym rejonie pilotowym; 2) topografię akwenu w danym rejonie pilotowym; 3) techniczne wyposażenie akwenu w danym rejonie pilotowym."
+     "text": "Egzamin pisemny: Przedmiot „Nawigacja”: Zadanie na „ślepej” mapie nawigacyjnej w rejonie pilotowym obejmujące: 1) znajomość znaków nawigacyjnych akwenu w danym rejonie pilotowym;"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "topografię akwenu w danym rejonie pilotowym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "techniczne wyposażenie akwenu w danym rejonie pilotowym.",
+     "children": []
     }
    ]
   },
@@ -6508,7 +7045,21 @@
     },
     {
      "type": "text",
-     "text": "Egzamin pisemny: Przedmiot „Nawigacja”: Zadanie na „ślepej” mapie nawigacyjnej w rejonie pilotowym obejmujące: 1) znajomość znaków nawigacyjnych akwenu w danym rejonie pilotowym; 2) topografię akwenu w danym rejonie pilotowym; 3) techniczne wyposażenie akwenu w danym rejonie pilotowym."
+     "text": "Egzamin pisemny: Przedmiot „Nawigacja”: Zadanie na „ślepej” mapie nawigacyjnej w rejonie pilotowym obejmujące: 1) znajomość znaków nawigacyjnych akwenu w danym rejonie pilotowym;"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "topografię akwenu w danym rejonie pilotowym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "techniczne wyposażenie akwenu w danym rejonie pilotowym.",
+     "children": []
     }
    ]
   },
@@ -6620,7 +7171,21 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "znajomość znaków nawigacyjnych akwenu; 2) topografię akwenu; 3) techniczne wyposażenie akwenu.",
+     "text": "znajomość znaków nawigacyjnych akwenu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "topografię akwenu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "techniczne wyposażenie akwenu.",
      "children": [
       {
        "type": "text",
@@ -6779,63 +7344,106 @@
       },
       {
        "type": "text",
-       "text": "Wpisz znak „X” Lp. Programy szkoleń pilotów morskich we właściwej pozycji 1 Szkolenie kwalifikacyjne na dyplom pilota morskiego dla rejonu pilotowego: a) Gdańsk b) Elbląg c) Gdynia – Hel – Władysławowo d) Świnoujście – Szczecin e) Darłowo f) Kołobrzeg g) Ustka 2 Szkolenie na symulatorze dla pilotów morskich w zakresie manewrowania zbiornikowcami LNG w celu uzyskania uprawnienia pilotowego 3 Szkolenie na symulatorze dla pilotów morskich nieposiadających uprawnienia pilotowego na zbiornikowce LNG przeprowadzane w celu odnowienia dyplomu pilota morskiego 4 Szkolenie na symulatorze dla pilotów morskich posiadających uprawnienie pilotowe na zbiornikowce LNG przeprowadzane w celu odnowienia dyplomu pilota morskiego"
+       "text": "Wpisz znak „X” Lp. Programy szkoleń pilotów morskich we właściwej pozycji 1 Szkolenie kwalifikacyjne na dyplom pilota morskiego dla rejonu pilotowego: a) Gdańsk"
       },
       {
-       "type": "text",
-       "text": "II. Dokumenty stacji pilotowej / ośrodka szkolenia pilotów morskich *"
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_3/lit_b",
+       "text": "Elbląg",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Tak / nie / Lp. Zagadnienia Uwagi nie dotyczy 1 Akt o utworzeniu stacji pilotowej / akt założycielski ośrodka szkolenia pilotów morskich * 2 Regulamin funkcjonowania stacji pilotowej / statut ośrodka szkolenia pilotów morskich * 3 Zaświadczenie o wpisie ośrodka szkolenia pilotów morskich do ewidencji szkół i placówek niepublicznych (dotyczy placówek niepublicznych zakładanych przez osoby prawne lub fizyczne) 4 Dokumentacja dotycząca posiadanego systemu zarządzania jakością w zakresie działalności szkoleniowej Uwagi:"
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_3/lit_c",
+       "text": "Gdynia – Hel – Władysławowo",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "III. Sprawdzenie prawidłowości realizowanych programów szkolenia pilotów morskich, a także ich zgodności z wymaganiami określonymi w przepisach rozporządzenia"
+       "type": "lit",
+       "num": "d",
+       "path": "pkt_3/lit_d",
+       "text": "Świnoujście – Szczecin",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Tak /nie / Lp. Zagadnienia Uwagi nie dotyczy 1 Zgodność realizowanych programów szkolenia z wymaganiami w zakresie programów szkoleń i wymagań egzaminacyjnych 2 Zgodność realizowanych programów praktyk pilotowych z wymaganiami w zakresie praktyk pilotowych w zależności od rejonu pilotowego 3 Wewnętrzny system zapewniania jakości szkolenia 4 System archiwizacji i przechowywania dokumentów Uwagi:"
+       "type": "lit",
+       "num": "e",
+       "path": "pkt_3/lit_e",
+       "text": "Darłowo",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "IV. Sprawdzenie prawidłowości prowadzenia dokumentacji procesu szkolenia pilotów morskich"
+       "type": "lit",
+       "num": "f",
+       "path": "pkt_3/lit_f",
+       "text": "Kołobrzeg",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Tak / nie / Lp. Zagadnienia Uwagi nie dotyczy 1 Lista uczestników szkolenia 2 Dokumentacja potwierdzająca udział w zajęciach objętych szkoleniem (dzienniki zajęć) 3 Rejestr wydanych zaświadczeń o ukończeniu szkolenia i zaświadczeń o ukończeniu szkolenia na symulatorze oraz jego zgodność z listami uczestników szkolenia 4 Nadzór nad realizacją programu praktyk pilotowych Uwagi:"
-      },
-      {
-       "type": "text",
-       "text": "V. Sprawdzenie kwalifikacji kadry oraz sprawdzanie, czy jest prowadzona stosowna dokumentacja"
-      },
-      {
-       "type": "text",
-       "text": "Tak / nie / Lp. Zagadnienia Uwagi nie dotyczy 1 Informacje dotyczące kadry, w tym kwalifikacji oraz zgodności z minimalnymi wymaganiami niezbędnymi do realizacji programów szkoleń pilotów morskich 2 Teczki akt osobowych Uwagi:"
-      },
-      {
-       "type": "text",
-       "text": "VI. Sprawdzenie wyposażenia bazy szkoleniowej"
-      },
-      {
-       "type": "text",
-       "text": "Tak / nie / Lp. Zagadnienia Uwagi nie dotyczy 1 Opis bazy szkoleniowej 2 Zasoby biblioteczne (literatura fachowa, zbiór map i publikacji) 3 Wyposażenie pomieszczeń przeznaczonych do szkolenia 4 Symulator i scenariusze ćwiczeń Uwagi:"
-      },
-      {
-       "type": "text",
-       "text": "VII. Sprawdzenie prawidłowości procesu szkolenia"
-      },
-      {
-       "type": "text",
-       "text": "Tak / nie / Lp. Zagadnienia Uwagi nie dotyczy 1 Zgodność prowadzonych szkoleń z programami i formą szkolenia 2 Realizacja programu praktyk pilotowych i ich integralność z programem szkolenia 3 Ocena i zaliczanie osiąganych efektów szkolenia zgodnych z programami szkoleń realizowanymi w ramach szkolenia i nauki własnej 4 Zaliczanie programu praktyk pilotowych 5 Prowadzenie dokumentacji związanej z procesem szkolenia 6 Realizowanie wewnętrznej kontroli systemu zapewnienia jakości szkolenia Uwagi:"
-      },
-      {
-       "type": "text",
-       "text": "VIII. Wnioski końcowe"
-      },
-      {
-       "type": "text",
-       "text": "Zespół audytujący w składzie:"
+       "type": "lit",
+       "num": "g",
+       "path": "pkt_3/lit_g",
+       "text": "Ustka 2 Szkolenie na symulatorze dla pilotów morskich w zakresie manewrowania zbiornikowcami LNG w celu uzyskania uprawnienia pilotowego 3 Szkolenie na symulatorze dla pilotów morskich nieposiadających uprawnienia pilotowego na zbiornikowce LNG przeprowadzane w celu odnowienia dyplomu pilota morskiego 4 Szkolenie na symulatorze dla pilotów morskich posiadających uprawnienie pilotowe na zbiornikowce LNG przeprowadzane w celu odnowienia dyplomu pilota morskiego",
+       "children": [
+        {
+         "type": "text",
+         "text": "II. Dokumenty stacji pilotowej / ośrodka szkolenia pilotów morskich *"
+        },
+        {
+         "type": "text",
+         "text": "Tak / nie / Lp. Zagadnienia Uwagi nie dotyczy 1 Akt o utworzeniu stacji pilotowej / akt założycielski ośrodka szkolenia pilotów morskich * 2 Regulamin funkcjonowania stacji pilotowej / statut ośrodka szkolenia pilotów morskich * 3 Zaświadczenie o wpisie ośrodka szkolenia pilotów morskich do ewidencji szkół i placówek niepublicznych (dotyczy placówek niepublicznych zakładanych przez osoby prawne lub fizyczne) 4 Dokumentacja dotycząca posiadanego systemu zarządzania jakością w zakresie działalności szkoleniowej Uwagi:"
+        },
+        {
+         "type": "text",
+         "text": "III. Sprawdzenie prawidłowości realizowanych programów szkolenia pilotów morskich, a także ich zgodności z wymaganiami określonymi w przepisach rozporządzenia"
+        },
+        {
+         "type": "text",
+         "text": "Tak /nie / Lp. Zagadnienia Uwagi nie dotyczy 1 Zgodność realizowanych programów szkolenia z wymaganiami w zakresie programów szkoleń i wymagań egzaminacyjnych 2 Zgodność realizowanych programów praktyk pilotowych z wymaganiami w zakresie praktyk pilotowych w zależności od rejonu pilotowego 3 Wewnętrzny system zapewniania jakości szkolenia 4 System archiwizacji i przechowywania dokumentów Uwagi:"
+        },
+        {
+         "type": "text",
+         "text": "IV. Sprawdzenie prawidłowości prowadzenia dokumentacji procesu szkolenia pilotów morskich"
+        },
+        {
+         "type": "text",
+         "text": "Tak / nie / Lp. Zagadnienia Uwagi nie dotyczy 1 Lista uczestników szkolenia 2 Dokumentacja potwierdzająca udział w zajęciach objętych szkoleniem (dzienniki zajęć) 3 Rejestr wydanych zaświadczeń o ukończeniu szkolenia i zaświadczeń o ukończeniu szkolenia na symulatorze oraz jego zgodność z listami uczestników szkolenia 4 Nadzór nad realizacją programu praktyk pilotowych Uwagi:"
+        },
+        {
+         "type": "text",
+         "text": "V. Sprawdzenie kwalifikacji kadry oraz sprawdzanie, czy jest prowadzona stosowna dokumentacja"
+        },
+        {
+         "type": "text",
+         "text": "Tak / nie / Lp. Zagadnienia Uwagi nie dotyczy 1 Informacje dotyczące kadry, w tym kwalifikacji oraz zgodności z minimalnymi wymaganiami niezbędnymi do realizacji programów szkoleń pilotów morskich 2 Teczki akt osobowych Uwagi:"
+        },
+        {
+         "type": "text",
+         "text": "VI. Sprawdzenie wyposażenia bazy szkoleniowej"
+        },
+        {
+         "type": "text",
+         "text": "Tak / nie / Lp. Zagadnienia Uwagi nie dotyczy 1 Opis bazy szkoleniowej 2 Zasoby biblioteczne (literatura fachowa, zbiór map i publikacji) 3 Wyposażenie pomieszczeń przeznaczonych do szkolenia 4 Symulator i scenariusze ćwiczeń Uwagi:"
+        },
+        {
+         "type": "text",
+         "text": "VII. Sprawdzenie prawidłowości procesu szkolenia"
+        },
+        {
+         "type": "text",
+         "text": "Tak / nie / Lp. Zagadnienia Uwagi nie dotyczy 1 Zgodność prowadzonych szkoleń z programami i formą szkolenia 2 Realizacja programu praktyk pilotowych i ich integralność z programem szkolenia 3 Ocena i zaliczanie osiąganych efektów szkolenia zgodnych z programami szkoleń realizowanymi w ramach szkolenia i nauki własnej 4 Zaliczanie programu praktyk pilotowych 5 Prowadzenie dokumentacji związanej z procesem szkolenia 6 Realizowanie wewnętrznej kontroli systemu zapewnienia jakości szkolenia Uwagi:"
+        },
+        {
+         "type": "text",
+         "text": "VIII. Wnioski końcowe"
+        },
+        {
+         "type": "text",
+         "text": "Zespół audytujący w składzie:"
+        }
+       ]
       }
      ]
     },

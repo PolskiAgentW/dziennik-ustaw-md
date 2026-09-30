@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1555",
  "title": "Obwieszczenie Ministra Infrastruktury z dnia 17 października 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury w sprawie lotniczych urządzeń naziemnych i powierzchni ograniczających zabudowę",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1555/text.pdf",
  "body": [
   {
@@ -2189,7 +2189,14 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_1/pkt_3",
-       "text": "wspólną sieć wymiany danych ICAO CIDIN (Common ICAO Data Interchange Network); 4) system wymiany depesz służb ruchu lotniczego ATSMHS (Air Traffic Services Message Handling System);",
+       "text": "wspólną sieć wymiany danych ICAO CIDIN (Common ICAO Data Interchange Network);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "system wymiany depesz służb ruchu lotniczego ATSMHS (Air Traffic Services Message Handling System);",
        "children": []
       },
       {
@@ -2484,7 +2491,14 @@
        "type": "pkt",
        "num": "12",
        "path": "ust_4/pkt_12",
-       "text": "APW (Area Proximity Warning) – ostrzeżenie o bliskości strefy, jeżeli ma zastosowanie; 13) obsługę standardowych formatów danych z urządzeń dozorowania i planów lotu;",
+       "text": "APW (Area Proximity Warning) – ostrzeżenie o bliskości strefy, jeżeli ma zastosowanie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "ust_4/pkt_13",
+       "text": "obsługę standardowych formatów danych z urządzeń dozorowania i planów lotu;",
        "children": []
       },
       {
@@ -2682,7 +2696,14 @@
      "type": "lit",
      "num": "a",
      "path": "lit_a",
-     "text": "0,12 θ poniżej ścieżki, z tolerancją +0,02 θ b) 0,12θ powyżej ścieżki, z tolerancją +0,02 θ i -0,05 θ Kategoria III: 0.12 θ powyżej i poniżej ścieżki, z tolerancją ±0,02 θ Wyrazistość: Na kącie pomiędzy płaszczyzną horyzontu, - pod ścieżką 3.1.5.6.5 DDM, kąt a 0,3 Θ, nie mniej niż 190 µA. Jeżeli 190 µA jest na kącie większym niż 0,45 Θ, musi być utrzymane do ≤ 0,45 Θ ±6 µA przy I =190 µA √ √ Musi osiągnąć co najmniej 150 µA i nie wej - nad ścieżką 3.1.5.3.1 spaść poniżej 150 µA, póki nie zostanie osiągnięte 1,75 Θ",
+     "text": "0,12 θ poniżej ścieżki, z tolerancją +0,02 θ",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "0,12θ powyżej ścieżki, z tolerancją +0,02 θ i -0,05 θ Kategoria III: 0.12 θ powyżej i poniżej ścieżki, z tolerancją ±0,02 θ Wyrazistość: Na kącie pomiędzy płaszczyzną horyzontu, - pod ścieżką 3.1.5.6.5 DDM, kąt a 0,3 Θ, nie mniej niż 190 µA. Jeżeli 190 µA jest na kącie większym niż 0,45 Θ, musi być utrzymane do ≤ 0,45 Θ ±6 µA przy I =190 µA √ √ Musi osiągnąć co najmniej 150 µA i nie wej - nad ścieżką 3.1.5.3.1 spaść poniżej 150 µA, póki nie zostanie osiągnięte 1,75 Θ",
      "children": [
       {
        "type": "text",
@@ -2921,11 +2942,11 @@
     },
     {
      "type": "text",
-     "text": " gdzie: 0 "
+     "text": " gdzie: 1 ℎ = HH + 8 493 000 ∙( −1)  cos"
     },
     {
      "type": "text",
-     "text": "=  − współczynnik, wyrażony w radianach d − odległość od lotniczych urządzeń naziemnych, wyrażona w kilometrach h − wysokość powierzchni ograniczającej zabudowę w odległości d od radaru, wyrażona w metrach nad średnim poziomem morza H − wzniesienie anteny lotniczych urządzeń naziemnych, wyrażone w metrach nad średnim poziomem morza"
+     "text": "dd =  − współczynnik, wyrażony w radianach 8 493 d − odległość od lotniczych urządzeń naziemnych, wyrażona w kilometrach h − wysokość powierzchni ograniczającej zabudowę w odległości d od radaru, wyrażona w metrach nad średnim poziomem morza H − wzniesienie anteny lotniczych urządzeń naziemnych, wyrażone w metrach nad średnim poziomem morza"
     },
     {
      "type": "text",

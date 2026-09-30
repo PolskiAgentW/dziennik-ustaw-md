@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/655",
  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 14 maja 2025 r. w sprawie określenia wzoru identyfikatora komornika sądowego",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/655/text.pdf",
  "body": [
   {
@@ -101,11 +101,26 @@
     },
     {
      "type": "text",
-     "text": "Opis wzoru identyfikatora: 1) format dokumentu: dwustronna karta w formacie ID-1; 2) podłoże: tworzywo sztuczne – poliwęglan; 3) awers: a) napisy w kolorze czarnym naniesione techniką grawerowania laserowego: – „KRAJOWA RADA KOMORNICZA W WARSZAWIE”, – „RZECZPOSPOLITA POLSKA”, – „Pełniona funkcja”, – „Nazwisko”, – „Imię (imiona)”, – „przy Sądzie Rejonowym”, – „Kancelaria Komornicza nr”, – „nr”, b) z lewej strony pole do umieszczenia zdjęcia posiadacza identyfikatora, które: – nanosi się techniką grawerowania laserowego, – jest zgodne z wymogami dla fotografii dołączanej do wniosku o wydanie dowodu osobistego, które są określone w ustawie z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. z 2022 r. poz. 671, z późn. zm.), – zajmuje 70–80 % pola zdjęciowego."
+     "text": "Opis wzoru identyfikatora: 1) format dokumentu: dwustronna karta w formacie ID-1;"
     },
     {
-     "type": "text",
-     "text": "Szczegółowy opis zabezpieczeń przed fałszerstwem:"
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "podłoże: tworzywo sztuczne – poliwęglan;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "awers: a) napisy w kolorze czarnym naniesione techniką grawerowania laserowego: – „KRAJOWA RADA KOMORNICZA W WARSZAWIE”, – „RZECZPOSPOLITA POLSKA”, – „Pełniona funkcja”, – „Nazwisko”, – „Imię (imiona)”, – „przy Sądzie Rejonowym”, – „Kancelaria Komornicza nr”, – „nr”, b) z lewej strony pole do umieszczenia zdjęcia posiadacza identyfikatora, które: – nanosi się techniką grawerowania laserowego, – jest zgodne z wymogami dla fotografii dołączanej do wniosku o wydanie dowodu osobistego, które są określone w ustawie z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. z 2022 r. poz. 671, z późn. zm.), – zajmuje 70–80 % pola zdjęciowego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Szczegółowy opis zabezpieczeń przed fałszerstwem:"
+      }
+     ]
     },
     {
      "type": "pkt",
@@ -236,7 +251,14 @@
     },
     {
      "type": "text",
-     "text": "Wizualizacja identyfikatora na ekranie urządzenia mobilnego zawiera następujące elementy: 1) napisy: a) w kolorze czarnym – „Krajowa Rada Komornicza w Warszawie”, b) w kolorze białym: – „Imię (imiona)”, – „Nazwisko”,"
+     "text": "Wizualizacja identyfikatora na ekranie urządzenia mobilnego zawiera następujące elementy: 1) napisy: a) w kolorze czarnym – „Krajowa Rada Komornicza w Warszawie”,"
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "w kolorze białym: – „Imię (imiona)”, – „Nazwisko”,",
+     "children": []
     },
     {
      "type": "text",
@@ -244,7 +266,14 @@
     },
     {
      "type": "text",
-     "text": "Szczegółowy opis zabezpieczeń przed fałszerstwem: 1) element dynamiczny (animowana flaga) – ruchomy element graficzny prezentujący biało-czerwoną flagę; 2) hologram – element graficzny o zmiennej kolorystyce, uzależnionej od kąta pochylenia urządzenia mobilnego, w kształcie odpowiadającym godłu Rzeczypospolitej Polskiej wraz z napisem „Rzeczpospolita Polska”."
+     "text": "Szczegółowy opis zabezpieczeń przed fałszerstwem: 1) element dynamiczny (animowana flaga) – ruchomy element graficzny prezentujący biało-czerwoną flagę;"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "hologram – element graficzny o zmiennej kolorystyce, uzależnionej od kąta pochylenia urządzenia mobilnego, w kształcie odpowiadającym godłu Rzeczypospolitej Polskiej wraz z napisem „Rzeczpospolita Polska”.",
+     "children": []
     }
    ]
   }

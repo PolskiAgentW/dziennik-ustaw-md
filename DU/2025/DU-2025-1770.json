@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1770",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ubezpieczeniu społecznym rolników",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1770/text.pdf",
  "body": [
   {
@@ -7483,27 +7483,157 @@
     },
     {
      "type": "text",
-     "text": "5 Drób rzeźny: a) kurczęta – powyżej 1000 szt. (w skali roku) b) gęsi – powyżej 500 szt. (w skali roku) c) kaczki – powyżej 500 szt. (w skali roku) d) indyki – powyżej 500 szt. (w skali roku) e) strusie – powyżej 20 szt. (w skali roku)"
+     "text": "5 Drób rzeźny: a) kurczęta – powyżej 1000 szt. (w skali roku)"
     },
     {
-     "type": "text",
-     "text": "6 Drób nieśny: a) kury nieśne (w stadzie reprodukcyjnym) – powyżej 2000 szt. (w skali roku) b) gęsi (w stadzie reprodukcyjnym) – powyżej 200 szt. (w skali roku) c) kaczki (w stadzie reprodukcyjnym) – powyżej 500 szt. (w skali roku) d) indyki (w stadzie reprodukcyjnym) – powyżej 500 szt. (w skali roku) e) kury (produkcja jaj konsumpcyjnych) – powyżej 1000 szt. (w skali roku) f) strusie (w stadzie reprodukcyjnym) – powyżej 6 szt. (w skali roku)"
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "gęsi – powyżej 500 szt. (w skali roku)",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "7 Zakłady wylęgu drobiu (zdolność produkcyjna – liczba jaj): a) kurczęta – powyżej 3000 szt. b) gęsi – powyżej 3000 szt. c) kaczki – powyżej 3000 szt. d) indyki – powyżej 3000 szt. e) strusie – powyżej 50 szt."
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "kaczki – powyżej 500 szt. (w skali roku)",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "8 Zwierzęta futerkowe – powyżej 50 szt. samic stada podstawowego: a) lisy i jenoty b) norki c) tchórzofretki d) szynszyle e) nutrie f) króliki"
+     "type": "lit",
+     "num": "d",
+     "path": "lit_d",
+     "text": "indyki – powyżej 500 szt. (w skali roku)",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "9 Pasieki powyżej 80 rodzin"
+     "type": "lit",
+     "num": "e",
+     "path": "lit_e",
+     "text": "strusie – powyżej 20 szt. (w skali roku)",
+     "children": [
+      {
+       "type": "text",
+       "text": "6 Drób nieśny: a) kury nieśne (w stadzie reprodukcyjnym) – powyżej 2000 szt. (w skali roku)"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "10 Hodowla i chów świń poza gospodarstwem rolnym powyżej 100 szt."
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "gęsi (w stadzie reprodukcyjnym) – powyżej 200 szt. (w skali roku)",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "kaczki (w stadzie reprodukcyjnym) – powyżej 500 szt. (w skali roku)",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "lit_d",
+     "text": "indyki (w stadzie reprodukcyjnym) – powyżej 500 szt. (w skali roku)",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "lit_e",
+     "text": "kury (produkcja jaj konsumpcyjnych) – powyżej 1000 szt. (w skali roku)",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "lit_f",
+     "text": "strusie (w stadzie reprodukcyjnym) – powyżej 6 szt. (w skali roku)",
+     "children": [
+      {
+       "type": "text",
+       "text": "7 Zakłady wylęgu drobiu (zdolność produkcyjna – liczba jaj): a) kurczęta – powyżej 3000 szt."
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "gęsi – powyżej 3000 szt.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "kaczki – powyżej 3000 szt.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "lit_d",
+     "text": "indyki – powyżej 3000 szt.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "lit_e",
+     "text": "strusie – powyżej 50 szt.",
+     "children": [
+      {
+       "type": "text",
+       "text": "8 Zwierzęta futerkowe – powyżej 50 szt. samic stada podstawowego: a) lisy i jenoty"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "norki",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "tchórzofretki",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "lit_d",
+     "text": "szynszyle",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "lit_e",
+     "text": "nutrie",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "lit_f",
+     "text": "króliki",
+     "children": [
+      {
+       "type": "text",
+       "text": "9 Pasieki powyżej 80 rodzin"
+      },
+      {
+       "type": "text",
+       "text": "10 Hodowla i chów świń poza gospodarstwem rolnym powyżej 100 szt."
+      }
+     ]
     }
    ]
   }

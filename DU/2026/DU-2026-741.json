@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/741",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 maja 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o instytutach badawczych",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/741/text.pdf",
  "body": [
   {
@@ -895,7 +895,7 @@
        "type": "ust",
        "num": "6",
        "path": "art_12/ust_6",
-       "text": "Do pracowników instytutu przekształconego w spółkę handlową stosuje się art. 23 [1] Kodeksu pracy.",
+       "text": "Do pracowników instytutu przekształconego w spółkę handlową stosuje się art. 23¹ Kodeksu pracy.",
        "children": []
       }
      ]
@@ -2048,12 +2048,14 @@
        "num": "3",
        "path": "art_28/ust_3",
        "text": "Dyrektora, jego zastępców oraz głównego księgowego w okresie trwania stosunku pracy obowiązuje zakaz prowadzenia działalności konkurencyjnej określony w odrębnej umowie.",
-       "children": [
-        {
-         "type": "text",
-         "text": "[1] [3] [4] 4. Do zakazu, o którym mowa w ust. 3, stosuje się przepisy art. 101 , 101 i 101 Kodeksu pracy."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_28/ust_4",
+       "text": "Do zakazu, o którym mowa w ust. 3, stosuje się przepisy art. 101¹, 101³ i 101⁴ Kodeksu pracy.",
+       "children": []
       },
       {
        "type": "ust",
@@ -2484,7 +2486,7 @@
        "type": "ust",
        "num": "2",
        "path": "art_32/ust_2",
-       "text": "Członkom rady naukowej mającym inne miejsce zamieszkania niż miejsce posiedzeń rady przysługują diety, zwrot kosztów podróży i noclegów związanych z uczestnictwem w tych posiedzeniach, na podstawie przepisów wydanych na podstawie art. 77 [5] § 2 Kodeksu pracy.",
+       "text": "Członkom rady naukowej mającym inne miejsce zamieszkania niż miejsce posiedzeń rady przysługują diety, zwrot kosztów podróży i noclegów związanych z uczestnictwem w tych posiedzeniach, na podstawie przepisów wydanych na podstawie art. 77⁵ § 2 Kodeksu pracy.",
        "children": []
       }
      ]
@@ -4432,7 +4434,7 @@
        "type": "ust",
        "num": "5",
        "path": "art_66/ust_5",
-       "text": "Do zakazu, o którym mowa w ust. 4, stosuje się przepisy art. 101 , art. 101 i art. 101 Kodeksu pracy.",
+       "text": "Do zakazu, o którym mowa w ust. 4, stosuje się przepisy art. 101¹, art. 101³ i art. 101⁴ Kodeksu pracy.",
        "children": []
       }
      ]
@@ -4458,7 +4460,7 @@
   "3": "W brzmieniu ustalonym przez art. 44 ustawy z dnia 25 lipca 2025 r. o szczególnych zasadach przygotowania i realizacji strategicznych inwestycji w zakresie potrzeb obronności państwa lub kluczowych inwestycji w zakresie potrzeb obronności państwa lub bezpieczeństwa publicznego oraz ustanawiania stref ochronnych terenów zamkniętych (Dz. U. poz. 1080), która weszła w życie z dniem 7 września 2025 r.",
   "4": "Uchylony przez art. 2 pkt 3 ustawy z dnia 9 stycznia 2026 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 160), która weszła w życie z dniem 27 lutego 2026 r.",
   "5": "Przez art. 11 pkt 1 ustawy z dnia 9 stycznia 2026 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 160), która weszła w życie z dniem 27 lutego 2026 r.",
-  "6": "Przez art. 11 pkt 2 ustawy, o której mowa w odnośniku 5. [1] [3] [4]",
+  "6": "Przez art. 11 pkt 2 ustawy, o której mowa w odnośniku 5.",
   "7": "Ustawa weszła w życie z dniem 1 października 2010 r., z wyjątkiem art. 39 ust. 2, który wszedł w życie z dniem 5 czerwca 2011 r. na podstawie art. 4 ustawy z dnia 30 kwietnia 2010 r. – Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. poz. 620 i 1036 oraz z 2012 r. poz. 756), która weszła w życie z dniem 1 października 2010 r."
  }
 }

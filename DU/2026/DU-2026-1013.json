@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1013",
  "title": "Rozporządzenie Ministra Edukacji z dnia 27 lipca 2026 r. w sprawie sposobu podziału łącznej kwoty potrzeb oświatowych między jednostki samorządu terytorialnego w roku 2027",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1013/text.pdf",
  "body": [
   {
@@ -214,7 +214,19 @@
      "children": [
       {
        "type": "text",
-       "text": "L"
+       "text": "L s"
+      },
+      {
+       "type": "text",
+       "text": "p p,i"
+      },
+      {
+       "type": "text",
+       "text": "U = ∑ U"
+      },
+      {
+       "type": "text",
+       "text": "1"
       },
       {
        "type": "text",
@@ -1001,19 +1013,23 @@
          "children": [
           {
            "type": "text",
-           "text": "kp p,i km m,i kd d,i w"
+           "text": "kp p,i km m,i kd d,i w,i"
           },
           {
            "type": "text",
-           "text": "P ∙W + P W + P W"
+           "text": "P ∙W + P ⋅W + P ⋅W L"
           },
           {
            "type": "text",
-           "text": "P ∙W + P ⋅W +P W L"
+           "text": "W a,i = ⋅(1+R⋅ )"
           },
           {
            "type": "text",
-           "text": "p k k d,"
+           "text": "kp p,k km m,k kd d,k i"
+          },
+          {
+           "type": "text",
+           "text": "P ∙W + P ⋅W +P ⋅W L"
           },
           {
            "type": "text",
@@ -1184,7 +1200,15 @@
      "children": [
       {
        "type": "text",
-       "text": "BCU"
+       "text": "KP−K BCU ∙L BCU"
+      },
+      {
+       "type": "text",
+       "text": "A ="
+      },
+      {
+       "type": "text",
+       "text": "U p"
       },
       {
        "type": "text",
@@ -1218,7 +1242,11 @@
       },
       {
        "type": "text",
-       "text": "gdzie:"
+       "text": "i p,i BCU,i BCU L 1 s i"
+      },
+      {
+       "type": "text",
+       "text": "gdzie: KP = A∙U +L ∙K KP = ∑ KP"
       },
       {
        "type": "pkt",
@@ -1717,7 +1745,11 @@
        "children": [
         {
          "type": "text",
-         "text": "S"
+         "text": "S a"
+        },
+        {
+         "type": "text",
+         "text": "< 30 %"
         }
        ]
       },
@@ -1725,11 +1757,19 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_47/pkt_2",
-       "text": "0,4 – w przypadku gdy w danej (S szkole: + S",
+       "text": "0,4 – w przypadku gdy w danej (S szkole: f + S a )",
        "children": [
         {
          "type": "text",
-         "text": "S"
+         "text": "S a"
+        },
+        {
+         "type": "text",
+         "text": "≥ 30 %"
+        },
+        {
+         "type": "text",
+         "text": "(S f + S a )"
         },
         {
          "type": "text",

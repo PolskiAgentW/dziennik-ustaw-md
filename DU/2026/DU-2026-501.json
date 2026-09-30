@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/501",
  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 10 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodowej w sprawie umundurowania funkcjonariuszy Służby Kontrwywiadu Wojskowego",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/501/text.pdf",
  "body": [
   {
@@ -2405,35 +2405,107 @@
     },
     {
      "type": "text",
-     "text": "Rys. 1. Sposób rozmieszczenia orłów i oznak stopni służbowych na czapkach rogatywkach oraz orła na berecie: a) szeregowy b) starszy szeregowy c) kapral d) starszy kapral"
+     "text": "Rys. 1. Sposób rozmieszczenia orłów i oznak stopni służbowych na czapkach rogatywkach oraz orła na berecie: a) szeregowy"
     },
     {
-     "type": "text",
-     "text": "[^14] W brzmieniu ustalonym przez § 1 z z eni mowa w od [^14] W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 1."
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "starszy szeregowy",
+     "children": []
     },
     {
-     "type": "note",
-     "text": "[Na stronie 34 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "kapral",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Rys. 2. Sposób rozmieszczenia orłów i oznak stopni służbowych na czapkach rogatywkach i furażerkach: a), d) podporucznik b), e) porucznik c), f) kapitan"
+     "type": "lit",
+     "num": "d",
+     "path": "lit_d",
+     "text": "starszy kapral",
+     "children": [
+      {
+       "type": "text",
+       "text": "[^14] W brzmieniu ustalonym przez § 1 z z eni mowa w od [^14] W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 1."
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 34 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Rys. 2. Sposób rozmieszczenia orłów i oznak stopni służbowych na czapkach rogatywkach i furażerkach: a), d) podporucznik b), e) porucznik c), f) kapitan"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 35 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Rys. 3. Wzór rozmieszczenia oznak stopni służbowych: a) starszy kapral"
+      }
+     ]
     },
     {
-     "type": "note",
-     "text": "[Na stronie 35 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "starszy plutonowy",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Rys. 3. Wzór rozmieszczenia oznak stopni służbowych: a) starszy kapral b) starszy plutonowy c) starszy sierżant d) starszy sierżant sztabowy e) młodszy chorąży sztabowy f) młodszy chorąży g), h) rozmieszczenie gwiazdek na otoku"
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "starszy sierżant",
+     "children": []
     },
     {
-     "type": "note",
-     "text": "[Na stronie 36 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+     "type": "lit",
+     "num": "d",
+     "path": "lit_d",
+     "text": "starszy sierżant sztabowy",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Rys. 4. Wzór rozmieszczenia oznak stopni służbowych: a) starszy kapral b) pułkownik c) generał brygady"
+     "type": "lit",
+     "num": "e",
+     "path": "lit_e",
+     "text": "młodszy chorąży sztabowy",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "lit_f",
+     "text": "młodszy chorąży g), h) rozmieszczenie gwiazdek na otoku",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Na stronie 36 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Rys. 4. Wzór rozmieszczenia oznak stopni służbowych: a) starszy kapral"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "pułkownik",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "generał brygady",
+     "children": []
     }
    ]
   },
@@ -2735,7 +2807,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_7/pkt_1",
-       "text": "funkcjonariusz w służbie stałej i przygotowawczej 4–5 2) funkcjonariusz wykonujący zadania poza granicami państwa 6–7",
+       "text": "funkcjonariusz w służbie stałej i przygotowawczej 4–5",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_7/pkt_2",
+       "text": "funkcjonariusz wykonujący zadania poza granicami państwa 6–7",
        "children": [
         {
          "type": "text",
@@ -3072,7 +3151,14 @@
     },
     {
      "type": "text",
-     "text": "Uwagi: 1. Do spodni generalskich przysługuje 20 cm sukna wyłogowego (jeżeli szerokość tkaniny wynosi 1,42 m) bez względu na rozmiar spodni. 2. W przypadku stwierdzenia, że obwód klatki piersiowej, pasa użytkownika lub jego wzrost przekracza o 2 cm rozmiar podany w jednej z grup, materiał wydaje się według należności przewidzianej dla najbliższej większej grupy rozmiarów. 3. Na spódnicę przysługuje (jeżeli szerokość tkaniny wynosi 1,42 m): 1) na wzrost do 165 cm – 1,20 m; 2) na wzrost powyżej 165 cm – 1,30 m."
+     "text": "Uwagi: 1. Do spodni generalskich przysługuje 20 cm sukna wyłogowego (jeżeli szerokość tkaniny wynosi 1,42 m) bez względu na rozmiar spodni. 2. W przypadku stwierdzenia, że obwód klatki piersiowej, pasa użytkownika lub jego wzrost przekracza o 2 cm rozmiar podany w jednej z grup, materiał wydaje się według należności przewidzianej dla najbliższej większej grupy rozmiarów. 3. Na spódnicę przysługuje (jeżeli szerokość tkaniny wynosi 1,42 m): 1) na wzrost do 165 cm – 1,20 m;"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "na wzrost powyżej 165 cm – 1,30 m.",
+     "children": []
     }
    ]
   },
@@ -3089,35 +3175,88 @@
     },
     {
      "type": "text",
-     "text": "Rys. 1. Sposób rozmieszczenia oznak stopni służbowych na naramiennikach: a) szeregowy c) kapral b) starszy szeregowy d) starszy kapral"
+     "text": "Rys. 1. Sposób rozmieszczenia oznak stopni służbowych na naramiennikach: a) szeregowy c) kapral"
     },
     {
-     "type": "note",
-     "text": "[Na stronie 47 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "starszy szeregowy d) starszy kapral",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Na stronie 47 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Rys. 2. Sposób rozmieszczenia oznak stopni służbowych na naramiennikach: a) plutonowy d) starszy sierżant"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Rys. 2. Sposób rozmieszczenia oznak stopni służbowych na naramiennikach: a) plutonowy d) starszy sierżant b) starszy plutonowy e) sierżant sztabowy c) sierżant f) starszy sierżant sztabowy"
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "starszy plutonowy e) sierżant sztabowy",
+     "children": []
     },
     {
-     "type": "note",
-     "text": "[Na stronie 48 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "sierżant f) starszy sierżant sztabowy",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Na stronie 48 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Rys. 3. Sposób rozmieszczenia oznak stopni służbowych na naramiennikach: a) młodszy chorąży d) młodszy chorąży sztabowy"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Rys. 3. Sposób rozmieszczenia oznak stopni służbowych na naramiennikach: a) młodszy chorąży d) młodszy chorąży sztabowy b) chorąży e) chorąży sztabowy c) starszy chorąży f) starszy chorąży sztabowy"
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "chorąży e) chorąży sztabowy",
+     "children": []
     },
     {
-     "type": "note",
-     "text": "[Na stronie 49 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "starszy chorąży f) starszy chorąży sztabowy",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Na stronie 49 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Rys. 4. Sposób rozmieszczenia oznak stopni służbowych na naramiennikach: a) podporucznik d) major"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Rys. 4. Sposób rozmieszczenia oznak stopni służbowych na naramiennikach: a) podporucznik d) major b) porucznik e) podpułkownik c) kapitan f) pułkownik"
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "porucznik e) podpułkownik",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Rys. 5. Sposób rozmieszczenia oznak stopni generała brygady na naramiennikach"
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "kapitan f) pułkownik",
+     "children": [
+      {
+       "type": "text",
+       "text": "Rys. 5. Sposób rozmieszczenia oznak stopni generała brygady na naramiennikach"
+      }
+     ]
     }
    ]
   }

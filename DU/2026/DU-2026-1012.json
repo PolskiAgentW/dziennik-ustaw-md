@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1012",
  "title": "Rozporządzenie Ministra Edukacji z dnia 14 lipca 2026 r. w sprawie podstawy programowej kształcenia ogólnego dla branżowej szkoły I stopnia, szkoły specjalnej przysposabiającej do pracy oraz szkoły policealnej",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1012/text.pdf",
  "body": [
   {
@@ -10878,7 +10878,7 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_4/pkt_2",
-       "text": "dodaje, odejmuje i mnoży wyrażenia algebraiczne; (aa+bb)²",
+       "text": "dodaje, odejmuje i mnoży wyrażenia algebraiczne; (aa+bb)² (aa−bb)² aa² −bb²",
        "children": []
       },
       {
@@ -11038,7 +11038,7 @@
        "type": "pkt",
        "num": "12",
        "path": "ust_4/pkt_12",
-       "text": "na podstawie wykresu funkcji szkicuje wykresy funkcji , .",
+       "text": "na podstawie wykresu funkcji szkicuje wykresy funkcji , . yy = ff(xx) yy = ff(xx−aa) yy = ff(xx)+bb",
        "children": [
         {
          "type": "text",
@@ -11064,7 +11064,7 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_4/pkt_3",
-       "text": "oblicza kąty trójkąta sin prostokątnego αα+cos αα i = długości 1 tgαα = jego cosαα sinαα boków przy odpowiednich danych (rozwiązuje trójkąty prostokątne, w tym z wykorzystaniem funkcji trygonometrycznych).",
+       "text": "oblicza kąty trójkąta sin prostokątnego² αα+cos² αα i = długości 1 tgαα = jego cosαα sinαα boków przy odpowiednich danych (rozwiązuje trójkąty prostokątne, w tym z wykorzystaniem funkcji trygonometrycznych).",
        "children": [
         {
          "type": "text",
@@ -11244,7 +11244,7 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_2/pkt_1",
-       "text": "xx² rozwiązaniem 9xx +20 > 0 nierówności może być każda liczba x, która jest mniejsza od 4 lub większa od 5;",
+       "text": "xx² −9xx rozwiązaniem +20 > 0 nierówności może być każda liczba x, która jest mniejsza od 4 lub większa od 5;",
        "children": []
       },
       {
@@ -11272,8 +11272,12 @@
        "type": "pkt",
        "num": "5",
        "path": "ust_2/pkt_5",
-       "text": "xx ∈ (−∞,4) xx ∈ ( .",
+       "text": "xx ∈ (−∞,4) xx ∈ (5,∞) .",
        "children": []
+      },
+      {
+       "type": "text",
+       "text": "xx ∈ (−∞,4)∪(5,∞)"
       }
      ]
     },

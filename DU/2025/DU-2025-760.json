@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/760",
  "title": "Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 4 czerwca 2025 r. zmieniające rozporządzenie w sprawie świadectw, dyplomów państwowych i innych druków publicznych szkół i placówek artystycznych",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/760/text.pdf",
  "body": [
   {
@@ -1171,31 +1171,39 @@
     },
     {
      "type": "text",
-     "text": "Informacja o egzaminach: 1) klasyfikacyjnych 2) poprawkowych 40 Wyniki sprawdzianu wiadomości i umiejętności (zajęcia edukacyjne, ocena, data) Uchwałą Rady Pedagogicznej z dnia[^3]: □ □ 41 promowan… z wyróżnieniem □ niepromowan… □ uzyskał… zgodę na powtarzanie klasy"
+     "text": "Informacja o egzaminach: 1) klasyfikacyjnych"
     },
     {
-     "type": "text",
-     "text": "Data i czytelny podpis osoby 42 wypełniającej arkusz Nr 43 str. 7 i 12 do 13"
-    },
-    {
-     "type": "text",
-     "text": "Rok szkolny L.p. Klasa Wyniki klasyfikacji końcowej kształcenia ogólnego w zakresie ………………………………………………….[^4] Oceny Liczba godzin[^2] 1 Zachowanie 2 Religia / etyka Zajęcia edukacyjne ogólnokształcące 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Obowiązkowe zajęcia edukacyjne ogólnokształcące realizowane w zakresie rozszerzonym 18 19 20 Przedmioty uzupełniające 21 22 23 Inne zajęcia 24 25 26 27 Wyniki klasyfikacji …………………[^5] kształcenia artystycznego Zajęcia edukacyjne artystyczne"
-    },
-    {
-     "type": "text",
-     "text": "28 Przedmiot główny – .................................. stopień punkty 29 30 31 32"
-    },
-    {
-     "type": "text",
-     "text": "33 34 35 36"
-    },
-    {
-     "type": "text",
-     "text": "37 38 39 40 Szczególne osiągnięcia"
-    },
-    {
-     "type": "text",
-     "text": "Informacja o egzaminach: 1) klasyfikacyjnych 41 2) poprawkowych Wyniki sprawdzianu wiadomości i umiejętności (zajęcia edukacyjne, ocena, data) Uchwałą Rady Pedagogicznej z dnia[^3]: □ □ promowan… z wyróżnieniem □ niepromowan… □ 42 został… dopuszczon… do egzaminu dyplomowego □ uzyskał… zgodę na powtarzanie klasy □ □ ukończył… szkołę z wyróżnieniem □ nie ukończył… szkoły 43 Data i czytelny podpis osoby wypełniającej arkusz"
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "poprawkowych 40 Wyniki sprawdzianu wiadomości i umiejętności (zajęcia edukacyjne, ocena, data) Uchwałą Rady Pedagogicznej z dnia[^3]: □ □ 41 promowan… z wyróżnieniem □ niepromowan… □ uzyskał… zgodę na powtarzanie klasy",
+     "children": [
+      {
+       "type": "text",
+       "text": "Data i czytelny podpis osoby 42 wypełniającej arkusz Nr 43 str. 7 i 12 do 13"
+      },
+      {
+       "type": "text",
+       "text": "Rok szkolny L.p. Klasa Wyniki klasyfikacji końcowej kształcenia ogólnego w zakresie ………………………………………………….[^4] Oceny Liczba godzin[^2] 1 Zachowanie 2 Religia / etyka Zajęcia edukacyjne ogólnokształcące 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Obowiązkowe zajęcia edukacyjne ogólnokształcące realizowane w zakresie rozszerzonym 18 19 20 Przedmioty uzupełniające 21 22 23 Inne zajęcia 24 25 26 27 Wyniki klasyfikacji …………………[^5] kształcenia artystycznego Zajęcia edukacyjne artystyczne"
+      },
+      {
+       "type": "text",
+       "text": "28 Przedmiot główny – .................................. stopień punkty 29 30 31 32"
+      },
+      {
+       "type": "text",
+       "text": "33 34 35 36"
+      },
+      {
+       "type": "text",
+       "text": "37 38 39 40 Szczególne osiągnięcia"
+      },
+      {
+       "type": "text",
+       "text": "Informacja o egzaminach: 1) klasyfikacyjnych 41 2) poprawkowych Wyniki sprawdzianu wiadomości i umiejętności (zajęcia edukacyjne, ocena, data) Uchwałą Rady Pedagogicznej z dnia[^3]: □ □ promowan… z wyróżnieniem □ niepromowan… □ 42 został… dopuszczon… do egzaminu dyplomowego □ uzyskał… zgodę na powtarzanie klasy □ □ ukończył… szkołę z wyróżnieniem □ nie ukończył… szkoły 43 Data i czytelny podpis osoby wypełniającej arkusz"
+      }
+     ]
     }
    ]
   },
@@ -1434,7 +1442,56 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "Wypełnić w przypadku, gdy szkoła prowadzi kształcenie z wyodrębnieniem kierunków, specjalności i/lub specjalizacji. 2) Wypełnić w przypadku, gdy szkoła prowadzi kształcenie z wyodrębnieniem działów. 3) W przypadku gdy uczeń nie posiada numeru PESEL, wpisać nazwę i numer dokumentu potwierdzającego tożsamość. 4) Właściwe podkreślić. 5) Wpisać odpowiednio: rocznej lub końcowej. 6) Liczba godzin w ujęciu tygodniowym. 7) Wypełnić w przypadku, gdy ocena jest ustalana z użyciem skali punktowej. 8) Właściwe zaznaczyć znakiem X, a w polu po prawej stronie wpisać datę uchwały.",
+     "text": "Wypełnić w przypadku, gdy szkoła prowadzi kształcenie z wyodrębnieniem kierunków, specjalności i/lub specjalizacji.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Wypełnić w przypadku, gdy szkoła prowadzi kształcenie z wyodrębnieniem działów.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "W przypadku gdy uczeń nie posiada numeru PESEL, wpisać nazwę i numer dokumentu potwierdzającego tożsamość.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Właściwe podkreślić.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "Wpisać odpowiednio: rocznej lub końcowej.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "Liczba godzin w ujęciu tygodniowym.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "Wypełnić w przypadku, gdy ocena jest ustalana z użyciem skali punktowej.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "Właściwe zaznaczyć znakiem X, a w polu po prawej stronie wpisać datę uchwały.",
      "children": []
     }
    ]

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/108",
  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 12 grudnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie pomocy publicznej udzielanej niektórym przedsiębiorcom na realizację nowych inwestycji",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/108/text.pdf",
  "body": [
   {
@@ -1938,9 +1938,16 @@
         },
         {
          "type": "text",
-         "text": "3.5. Przedmiot działalności gospodarczej prowadzonej wyłącznie w ramach nowej inwestycji (wpisać kod i nazwę grupowania według PKWiU) a) główny kod"
+         "text": "3.5. Przedmiot działalności gospodarczej prowadzonej wyłącznie w ramach nowej inwestycji (wpisać kod i nazwę grupowania według PKWiU)"
         }
        ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_3/lit_a",
+       "text": "główny kod",
+       "children": []
       },
       {
        "type": "lit",
@@ -1970,7 +1977,14 @@
        "type": "lit",
        "num": "a",
        "path": "ust_4/lit_a",
-       "text": "według kosztów inwestycji w rzeczowe aktywa trwałe oraz wartości niematerialne i prawne b) według dwuletnich kosztów pracy, wynikających z utworzenia miejsc pracy w następstwie realizacji nowej inwestycji",
+       "text": "według kosztów inwestycji w rzeczowe aktywa trwałe oraz wartości niematerialne i prawne",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_4/lit_b",
+       "text": "według dwuletnich kosztów pracy, wynikających z utworzenia miejsc pracy w następstwie realizacji nowej inwestycji",
        "children": [
         {
          "type": "text",
@@ -2004,14 +2018,28 @@
        "type": "lit",
        "num": "c",
        "path": "ust_1/lit_c",
-       "text": "będące kosztem rozbudowy lub modernizacji istniejących środków zł trwałych d) będące ceną nabycia wartości niematerialnych i prawnych związanych zł z transferem technologii przez nabycie praw patentowych, licencji, know-how i nieopatentowanej wiedzy technicznej",
+       "text": "będące kosztem rozbudowy lub modernizacji istniejących środków zł trwałych",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_1/lit_d",
+       "text": "będące ceną nabycia wartości niematerialnych i prawnych związanych zł z transferem technologii przez nabycie praw patentowych, licencji, know-how i nieopatentowanej wiedzy technicznej",
        "children": []
       },
       {
        "type": "lit",
        "num": "e",
        "path": "ust_1/lit_e",
-       "text": "związane z najmem lub dzierżawą gruntów, budynków i budowli (pod zł warunkiem że okres najmu lub dzierżawy trwa co najmniej 5 lat, a w przypadku mikroprzedsiębiorców, małych przedsiębiorców i średnich przedsiębiorców – co najmniej 3 lata, licząc od dnia zakończenia nowej inwestycji), poniesione w okresie nie dłuższym niż do zakończenia okresu utrzymania inwestycji f) będące ceną nabycia aktywów innych niż grunty, budynki i budowle objęte zł najmem lub dzierżawą, w przypadku gdy najem lub dzierżawa ma postać leasingu finansowego oraz obejmuje zobowiązanie do nabycia aktywów z dniem upływu okresu najmu lub dzierżawy, poniesione w okresie obowiązywania umowy leasingu finansowego 2. Dwuletnie koszty pracy nowo zatrudnionych pracowników zł",
+       "text": "związane z najmem lub dzierżawą gruntów, budynków i budowli (pod zł warunkiem że okres najmu lub dzierżawy trwa co najmniej 5 lat, a w przypadku mikroprzedsiębiorców, małych przedsiębiorców i średnich przedsiębiorców – co najmniej 3 lata, licząc od dnia zakończenia nowej inwestycji), poniesione w okresie nie dłuższym niż do zakończenia okresu utrzymania inwestycji",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_1/lit_f",
+       "text": "będące ceną nabycia aktywów innych niż grunty, budynki i budowle objęte zł najmem lub dzierżawą, w przypadku gdy najem lub dzierżawa ma postać leasingu finansowego oraz obejmuje zobowiązanie do nabycia aktywów z dniem upływu okresu najmu lub dzierżawy, poniesione w okresie obowiązywania umowy leasingu finansowego 2. Dwuletnie koszty pracy nowo zatrudnionych pracowników zł",
        "children": [
         {
          "type": "text",
@@ -2047,7 +2075,14 @@
        "type": "lit",
        "num": "a",
        "path": "ust_5/lit_a",
-       "text": "według kosztów inwestycji w rzeczowe aktywa trwałe oraz wartości niematerialne i prawne b) według dwuletnich kosztów pracy, wynikających z utworzenia miejsc pracy w następstwie realizacji nowej inwestycji 5.2. Średnie zatrudnienie z 12 miesięcy poprzedzających 5.3. Liczba nowych miejsc pracy, których koszty będą kwalifikowane miesiąc złożenia wniosku jako dwuletnie koszty pracy",
+       "text": "według kosztów inwestycji w rzeczowe aktywa trwałe oraz wartości niematerialne i prawne",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_5/lit_b",
+       "text": "według dwuletnich kosztów pracy, wynikających z utworzenia miejsc pracy w następstwie realizacji nowej inwestycji 5.2. Średnie zatrudnienie z 12 miesięcy poprzedzających 5.3. Liczba nowych miejsc pracy, których koszty będą kwalifikowane miesiąc złożenia wniosku jako dwuletnie koszty pracy",
        "children": [
         {
          "type": "text",
@@ -2146,7 +2181,28 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_4/pkt_1",
-       "text": "w mieście średnim tracącym funkcje społeczno-gospodarcze wymienionym w tabeli nr 3 w załączniku nr 1 do rozporządzenia lub 2) w gminie, na terenie której położone jest miasto, o którym mowa w pkt 1, lub 3) w gminie graniczącej z gminą, o której mowa w pkt 2, lub miastem, o którym mowa w pkt 1, lub 4) na obszarze powiatów lub miast na prawach powiatu, w których stopa bezrobocia wynosi co najmniej 160 % przeciętnej stopy bezrobocia w kraju, z wyłączeniem miast, w których zlokalizowana jest siedziba wojewody lub sejmiku województwa",
+       "text": "w mieście średnim tracącym funkcje społeczno-gospodarcze wymienionym w tabeli nr 3 w załączniku nr 1 do rozporządzenia lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "w gminie, na terenie której położone jest miasto, o którym mowa w pkt 1, lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_4/pkt_3",
+       "text": "w gminie graniczącej z gminą, o której mowa w pkt 2, lub miastem, o którym mowa w pkt 1, lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_4/pkt_4",
+       "text": "na obszarze powiatów lub miast na prawach powiatu, w których stopa bezrobocia wynosi co najmniej 160 % przeciętnej stopy bezrobocia w kraju, z wyłączeniem miast, w których zlokalizowana jest siedziba wojewody lub sejmiku województwa",
        "children": []
       }
      ]
@@ -2336,7 +2392,14 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_1/pkt_2",
-       "text": "zdolność wytwarzania energii powinna być dostosowana do potrzeb przedsiębiorstwa, co oznacza, że celem jest zużywanie wytworzonej energii na potrzeby własne, a więc maksymalnie 20 % zaplanowanej do wytworzenia energii może zostać sprzedane (na podstawie analizy ex ante), czyli zastosowanie ma zasada 80/20 oraz 3) w odniesieniu do źródła energii, jedynie inwestycje, które kwalifikowałyby się do otrzymania pomocy na podstawie zasad dotyczących pomocy państwa w sektorze energii, np. odnawialne źródła energii lub wysokosprawna kogeneracja (ale nie np. zasilanie silnikiem w ysokoprężnym).",
+       "text": "zdolność wytwarzania energii powinna być dostosowana do potrzeb przedsiębiorstwa, co oznacza, że celem jest zużywanie wytworzonej energii na potrzeby własne, a więc maksymalnie 20 % zaplanowanej do wytworzenia energii może zostać sprzedane (na podstawie analizy ex ante), czyli zastosowanie ma zasada 80/20 oraz",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "w odniesieniu do źródła energii, jedynie inwestycje, które kwalifikowałyby się do otrzymania pomocy na podstawie zasad dotyczących pomocy państwa w sektorze energii, np. odnawialne źródła energii lub wysokosprawna kogeneracja (ale nie np. zasilanie silnikiem w ysokoprężnym).",
        "children": []
       }
      ]

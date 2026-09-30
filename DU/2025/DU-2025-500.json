@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/500",
  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 9 kwietnia 2025 r. w sprawie legitymacji służbowych pracowników Urzędu Komisji Nadzoru Finansowego",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/500/text.pdf",
  "body": [
   {
@@ -155,13 +155,120 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Awers: 1) dwukolorowe tło giloszowe w technice druku irysowego; 2) mikrodruki wkomponowane w tło giloszowe; 3) napis RZECZPOSPOLITA POLSKA – nadrukowany farbą optycznie zmienną; 4) czarne napisy: a) URZĄD KOMISJI NADZORU FINANSOWEGO, b) Legitymacja służbowa nr, c) Ważna do, d) Imię, e) Nazwisko, f) Stanowisko służbowe;",
+     "text": "Awers: 1) dwukolorowe tło giloszowe w technice druku irysowego;",
      "children": [
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "mikrodruki wkomponowane w tło giloszowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "napis RZECZPOSPOLITA POLSKA – nadrukowany farbą optycznie zmienną;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "czarne napisy: a) URZĄD KOMISJI NADZORU FINANSOWEGO,",
+       "children": [
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_4/lit_b",
+         "text": "Legitymacja służbowa nr,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_1/pkt_4/lit_c",
+         "text": "Ważna do,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_1/pkt_4/lit_d",
+         "text": "Imię,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_1/pkt_4/lit_e",
+         "text": "Nazwisko,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_1/pkt_4/lit_f",
+         "text": "Stanowisko służbowe;",
+         "children": []
+        }
+       ]
+      },
       {
        "type": "pkt",
        "num": "5",
        "path": "ust_1/pkt_5",
-       "text": "tarcza herbowa z orłem według wzoru określonego w art. 2 ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2025 r. poz. 299); 6) transparentny hologram; 7) napis: „UKNF” wkomponowany w tło giloszowe; 8) nadruki farbami aktywnymi w promieniowaniu ultrafioletowym; 9) grawerowane laserowo na etapie personalizacji blankietu: a) wizerunek twarzy pracownika*, b) dane wskazane w pkt 4 lit. b – f. 2. Rewers: 1) dwukolorowe tło giloszowe w technice druku irysowego; 2) mikrodruki wkomponowane w tło giloszowe; 3) napis: „UKNF” wkomponowany w tło giloszowe; 4) czarny napis:",
+       "text": "tarcza herbowa z orłem według wzoru określonego w art. 2 ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2025 r. poz. 299); 6) transparentny hologram;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_1/pkt_7",
+       "text": "napis: „UKNF” wkomponowany w tło giloszowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_1/pkt_8",
+       "text": "nadruki farbami aktywnymi w promieniowaniu ultrafioletowym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_1/pkt_9",
+       "text": "grawerowane laserowo na etapie personalizacji blankietu: a) wizerunek twarzy pracownika*,",
+       "children": [
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_9/lit_b",
+         "text": "dane wskazane w pkt 4 lit. b – f. 2. Rewers: 1) dwukolorowe tło giloszowe w technice druku irysowego;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "mikrodruki wkomponowane w tło giloszowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "napis: „UKNF” wkomponowany w tło giloszowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "czarny napis:",
        "children": [
         {
          "type": "text",
@@ -174,7 +281,14 @@
        "type": "pkt",
        "num": "5",
        "path": "ust_1/pkt_5",
-       "text": "niepowtarzalny numer blankietu składający się z czterech cyfr; 6) nadruki farbami aktywnymi w promieniowaniu ultrafioletowym.",
+       "text": "niepowtarzalny numer blankietu składający się z czterech cyfr;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "nadruki farbami aktywnymi w promieniowaniu ultrafioletowym.",
        "children": [
         {
          "type": "text",

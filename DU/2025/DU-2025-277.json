@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/277",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks pracy",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/277/text.pdf",
  "body": [
   {
@@ -284,14 +284,28 @@
      "type": "pkt",
      "num": "17",
      "path": "pkt_17",
-     "text": "dyrektywy 94/33/WE z dnia 22 czerwca 1994 r. w sprawie ochrony pracy osób młodych (Dz. Urz. WE L 216 z 20.08.1994), 18) dyrektywy 96/34/WE z dnia 3 czerwca 1996 r. w sprawie Porozumienia ramowego dotyczącego urlopu rodzicielskiego zawartego przez Europejską Unię Konfederacji Przemysłowych i Pracodawców /UNICE/, Europejskie Centrum Przedsiębiorstw Publicznych /CEEP/ oraz Europejską Konfederację Związków Zawodowych /ETUC/ (Dz. Urz. WE L 145 z 19.06.1996),",
+     "text": "dyrektywy 94/33/WE z dnia 22 czerwca 1994 r. w sprawie ochrony pracy osób młodych (Dz. Urz. WE L 216 z 20.08.1994),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "pkt_18",
+     "text": "dyrektywy 96/34/WE z dnia 3 czerwca 1996 r. w sprawie Porozumienia ramowego dotyczącego urlopu rodzicielskiego zawartego przez Europejską Unię Konfederacji Przemysłowych i Pracodawców /UNICE/, Europejskie Centrum Przedsiębiorstw Publicznych /CEEP/ oraz Europejską Konfederację Związków Zawodowych /ETUC/ (Dz. Urz. WE L 145 z 19.06.1996),",
      "children": []
     },
     {
      "type": "pkt",
      "num": "19",
      "path": "pkt_19",
-     "text": "(uchylony) 20) dyrektywy 97/80/WE z dnia 15 grudnia 1997 r. dotyczącej ciężaru dowodu w sprawach dyskryminacji ze względu na płeć (Dz. Urz. WE L 14 z 20.01.1998), Preambuła (uchylona)",
+     "text": "(uchylony)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "pkt_20",
+     "text": "dyrektywy 97/80/WE z dnia 15 grudnia 1997 r. dotyczącej ciężaru dowodu w sprawach dyskryminacji ze względu na płeć (Dz. Urz. WE L 14 z 20.01.1998), Preambuła (uchylona)",
      "children": [
       {
        "type": "text",
@@ -640,187 +654,232 @@
      "text": "Równe traktowanie w zatrudnieniu"
     },
     {
-     "type": "text",
-     "text": "Art. 18 3a . § 1. Pracownicy powinni być równo traktowani w zakresie nawiązania i rozwiązania stosunku pracy, warunków zatrudnienia, awansowania oraz dostępu do szkolenia w celu podnoszenia kwalifikacji zawodowych, w szczególności bez względu na płeć, wiek, niepełnosprawność, rasę, religię, narodowość, przekonania polityczne, przynależność związkową, pochodzenie etniczne, wyznanie, orientację seksualną, zatrudnienie na czas określony lub nieokreślony, zatrudnienie w pełnym lub w niepełnym wymiarze czasu pracy."
-    },
-    {
-     "type": "par",
-     "num": "2",
-     "path": "par_2",
-     "text": "Równe traktowanie w zatrudnieniu oznacza niedyskryminowanie w jakikolwiek sposób, bezpośrednio lub pośrednio, z przyczyn określonych w § 1.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "3",
-     "path": "par_3",
-     "text": "Dyskryminowanie bezpośrednie istnieje wtedy, gdy pracownik z jednej lub z kilku przyczyn określonych w § 1 był, jest lub mógłby być traktowany w porównywalnej sytuacji mniej korzystnie niż inni pracownicy.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "4",
-     "path": "par_4",
-     "text": "Dyskryminowanie pośrednie istnieje wtedy, gdy na skutek pozornie neutralnego postanowienia, zastosowanego kryterium lub podjętego działania występują lub mogłyby wystąpić niekorzystne dysproporcje albo szczególnie niekorzystna sytuacja w zakresie nawiązania i rozwiązania stosunku pracy, warunków zatrudnienia, awansowania oraz dostępu do szkolenia w celu podnoszenia kwalifikacji zawodowych wobec wszystkich lub znacznej liczby pracowników należących do grupy wyróżnionej ze względu na jedną lub kilka przyczyn określonych w § 1, chyba że postanowienie, kryterium lub działanie jest obiektywnie uzasadnione ze względu na zgodny z prawem cel, który ma być osiągnięty, a środki służące osiągnięciu tego celu są właściwe i konieczne.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "5",
-     "path": "par_5",
-     "text": "Przejawem dyskryminowania w rozumieniu § 2 jest także:",
+     "type": "art",
+     "num": "18³ᵃ",
+     "path": "art_18³ᵃ",
+     "text": "",
      "children": [
       {
-       "type": "pkt",
+       "type": "par",
        "num": "1",
-       "path": "par_5/pkt_1",
-       "text": "działanie polegające na zachęcaniu innej osoby do naruszenia zasady równego traktowania w zatrudnieniu lub nakazaniu jej naruszenia tej zasady;",
+       "path": "art_18³ᵃ/par_1",
+       "text": "Pracownicy powinni być równo traktowani w zakresie nawiązania i rozwiązania stosunku pracy, warunków zatrudnienia, awansowania oraz dostępu do szkolenia w celu podnoszenia kwalifikacji zawodowych, w szczególności bez względu na płeć, wiek, niepełnosprawność, rasę, religię, narodowość, przekonania polityczne, przynależność związkową, pochodzenie etniczne, wyznanie, orientację seksualną, zatrudnienie na czas określony lub nieokreślony, zatrudnienie w pełnym lub w niepełnym wymiarze czasu pracy.",
        "children": []
       },
       {
-       "type": "pkt",
+       "type": "par",
        "num": "2",
-       "path": "par_5/pkt_2",
-       "text": "niepożądane zachowanie, którego celem lub skutkiem jest naruszenie godności pracownika i stworzenie wobec niego zastraszającej, wrogiej, poniżającej, upokarzającej lub uwłaczającej atmosfery (molestowanie).",
-       "children": []
-      }
-     ]
-    },
-    {
-     "type": "par",
-     "num": "6",
-     "path": "par_6",
-     "text": "Dyskryminowaniem ze względu na płeć jest także każde niepożądane zachowanie o charakterze seksualnym lub odnoszące się do płci pracownika, którego celem lub skutkiem jest naruszenie godności pracownika, w szczególności stworzenie wobec niego zastraszającej, wrogiej, poniżającej, upokarzającej lub uwłaczającej atmosfery; na zachowanie to mogą się składać fizyczne, werbalne lub pozawerbalne elementy (molestowanie seksualne).",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "7",
-     "path": "par_7",
-     "text": "Podporządkowanie się przez pracownika molestowaniu lub molestowaniu seksualnemu, a także podjęcie przez niego działań przeciwstawiających się molestowaniu lub molestowaniu seksualnemu nie może powodować jakichkolwiek negatywnych konsekwencji wobec pracownika.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 18 3b . § 1. Za naruszenie zasady równego traktowania w zatrudnieniu, z zastrzeżeniem § 2–4, uważa się różnicowanie przez pracodawcę sytuacji pracownika z jednej lub kilku przyczyn określonych w art. 18 3a § 1, którego skutkiem jest w szczególności:"
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "par_7/pkt_1",
-       "text": "odmowa nawiązania lub rozwiązanie stosunku pracy,",
+       "path": "art_18³ᵃ/par_2",
+       "text": "Równe traktowanie w zatrudnieniu oznacza niedyskryminowanie w jakikolwiek sposób, bezpośrednio lub pośrednio, z przyczyn określonych w § 1.",
        "children": []
       },
       {
-       "type": "pkt",
-       "num": "2",
-       "path": "par_7/pkt_2",
-       "text": "niekorzystne ukształtowanie wynagrodzenia za pracę lub innych warunków zatrudnienia albo pominięcie przy awansowaniu lub przyznawaniu innych świadczeń związanych z pracą,",
-       "children": []
-      },
-      {
-       "type": "pkt",
+       "type": "par",
        "num": "3",
-       "path": "par_7/pkt_3",
-       "text": "pominięcie przy typowaniu do udziału w szkoleniach podnoszących kwalifikacje zawodowe",
+       "path": "art_18³ᵃ/par_3",
+       "text": "Dyskryminowanie bezpośrednie istnieje wtedy, gdy pracownik z jednej lub z kilku przyczyn określonych w § 1 był, jest lub mógłby być traktowany w porównywalnej sytuacji mniej korzystnie niż inni pracownicy.",
        "children": []
       },
       {
-       "type": "text",
-       "text": "– chyba że pracodawca udowodni, że kierował się obiektywnymi powodami."
-      }
-     ]
-    },
-    {
-     "type": "par",
-     "num": "2",
-     "path": "par_2",
-     "text": "Zasady równego traktowania w zatrudnieniu nie naruszają działania, proporcjonalne do osiągnięcia zgodnego z prawem celu różnicowania sytuacji pracownika, polegające na:",
-     "children": [
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "par_2/pkt_1",
-       "text": "niezatrudnianiu pracownika z jednej lub kilku przyczyn określonych w art. 18 3a § 1, jeżeli rodzaj pracy lub warunki jej wykonywania powodują, że przyczyna lub przyczyny wymienione w tym przepisie są rzeczywistym i decydującym wymaganiem zawodowym stawianym pracownikowi;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "par_2/pkt_2",
-       "text": "wypowiedzeniu pracownikowi warunków zatrudnienia w zakresie wymiaru czasu pracy, jeżeli jest to uzasadnione przyczynami niedotyczącymi pracowników bez powoływania się na inną przyczynę lub inne przyczyny wymienione w art. 18 3a § 1;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "par_2/pkt_3",
-       "text": "stosowaniu środków, które różnicują sytuację prawną pracownika, ze względu na ochronę rodzicielstwa lub niepełnosprawność;",
-       "children": []
-      },
-      {
-       "type": "pkt",
+       "type": "par",
        "num": "4",
-       "path": "par_2/pkt_4",
-       "text": "stosowaniu kryterium stażu pracy przy ustalaniu warunków zatrudniania i zwalniania pracowników, zasad wynagradzania i awansowania oraz dostępu do szkolenia w celu podnoszenia kwalifikacji zawodowych, co uzasadnia odmienne traktowanie pracowników ze względu na wiek.",
+       "path": "art_18³ᵃ/par_4",
+       "text": "Dyskryminowanie pośrednie istnieje wtedy, gdy na skutek pozornie neutralnego postanowienia, zastosowanego kryterium lub podjętego działania występują lub mogłyby wystąpić niekorzystne dysproporcje albo szczególnie niekorzystna sytuacja w zakresie nawiązania i rozwiązania stosunku pracy, warunków zatrudnienia, awansowania oraz dostępu do szkolenia w celu podnoszenia kwalifikacji zawodowych wobec wszystkich lub znacznej liczby pracowników należących do grupy wyróżnionej ze względu na jedną lub kilka przyczyn określonych w § 1, chyba że postanowienie, kryterium lub działanie jest obiektywnie uzasadnione ze względu na zgodny z prawem cel, który ma być osiągnięty, a środki służące osiągnięciu tego celu są właściwe i konieczne.",
+       "children": []
+      },
+      {
+       "type": "par",
+       "num": "5",
+       "path": "art_18³ᵃ/par_5",
+       "text": "Przejawem dyskryminowania w rozumieniu § 2 jest także:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_18³ᵃ/par_5/pkt_1",
+         "text": "działanie polegające na zachęcaniu innej osoby do naruszenia zasady równego traktowania w zatrudnieniu lub nakazaniu jej naruszenia tej zasady;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_18³ᵃ/par_5/pkt_2",
+         "text": "niepożądane zachowanie, którego celem lub skutkiem jest naruszenie godności pracownika i stworzenie wobec niego zastraszającej, wrogiej, poniżającej, upokarzającej lub uwłaczającej atmosfery (molestowanie).",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "par",
+       "num": "6",
+       "path": "art_18³ᵃ/par_6",
+       "text": "Dyskryminowaniem ze względu na płeć jest także każde niepożądane zachowanie o charakterze seksualnym lub odnoszące się do płci pracownika, którego celem lub skutkiem jest naruszenie godności pracownika, w szczególności stworzenie wobec niego zastraszającej, wrogiej, poniżającej, upokarzającej lub uwłaczającej atmosfery; na zachowanie to mogą się składać fizyczne, werbalne lub pozawerbalne elementy (molestowanie seksualne).",
+       "children": []
+      },
+      {
+       "type": "par",
+       "num": "7",
+       "path": "art_18³ᵃ/par_7",
+       "text": "Podporządkowanie się przez pracownika molestowaniu lub molestowaniu seksualnemu, a także podjęcie przez niego działań przeciwstawiających się molestowaniu lub molestowaniu seksualnemu nie może powodować jakichkolwiek negatywnych konsekwencji wobec pracownika.",
        "children": []
       }
      ]
     },
     {
-     "type": "par",
-     "num": "3",
-     "path": "par_3",
-     "text": "Nie stanowią naruszenia zasady równego traktowania w zatrudnieniu działania podejmowane przez określony czas, zmierzające do wyrównywania szans wszystkich lub znacznej liczby pracowników wyróżnionych z jednej lub kilku przyczyn określonych w art. 18 3a § 1, przez zmniejszenie na korzyść takich pracowników faktycznych nierówności, w zakresie określonym w tym przepisie.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "4",
-     "path": "par_4",
-     "text": "Nie stanowi naruszenia zasady równego traktowania ograniczanie przez kościoły i inne związki wyznaniowe, a także organizacje, których etyka opiera się na religii, wyznaniu lub światopoglądzie, dostępu do zatrudnienia, ze względu na religię, wyznanie lub światopogląd jeżeli rodzaj lub charakter wykonywania działalności przez kościoły i inne związki wyznaniowe, a także organizacje powoduje, że religia, wyznanie lub światopogląd są rzeczywistym i decydującym wymaganiem zawodowym stawianym pracownikowi, proporcjonalnym do osiągnięcia zgodnego z prawem celu zróżnicowania sytuacji tej osoby; dotyczy to również wymagania od zatrudnionych działania w dobrej wierze i lojalności wobec etyki kościoła, innego związku wyznaniowego oraz organizacji, których etyka opiera się na religii, wyznaniu lub światopoglądzie.",
+     "type": "art",
+     "num": "18³ᵇ",
+     "path": "art_18³ᵇ",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "Art. 18 3c . § 1. Pracownicy mają prawo do jednakowego wynagrodzenia za jednakową pracę lub za pracę o jednakowej wartości."
-      }
-     ]
-    },
-    {
-     "type": "par",
-     "num": "2",
-     "path": "par_2",
-     "text": "Wynagrodzenie, o którym mowa w § 1, obejmuje wszystkie składniki wynagrodzenia, bez względu na ich nazwę i charakter, a także inne świadczenia związane z pracą, przyznawane pracownikom w formie pieniężnej lub w innej formie niż pieniężna.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "3",
-     "path": "par_3",
-     "text": "Pracami o jednakowej wartości są prace, których wykonywanie wymaga od pracowników porównywalnych kwalifikacji zawodowych, potwierdzonych dokumentami przewidzianymi w odrębnych przepisach lub praktyką i doświadczeniem zawodowym, a także porównywalnej odpowiedzialności i wysiłku.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 18 3d . Osoba, wobec której pracodawca naruszył zasadę równego traktowania w zatrudnieniu, ma prawo do odszkodowania w wysokości nie niższej niż minimalne wynagrodzenie za pracę, ustalane na podstawie odrębnych przepisów."
+       "type": "par",
+       "num": "1",
+       "path": "art_18³ᵇ/par_1",
+       "text": "Za naruszenie zasady równego traktowania w zatrudnieniu, z zastrzeżeniem § 2–4, uważa się różnicowanie przez pracodawcę sytuacji pracownika z jednej lub kilku przyczyn określonych w art. 18³ᵃ § 1, którego skutkiem jest w szczególności:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_18³ᵇ/par_1/pkt_1",
+         "text": "odmowa nawiązania lub rozwiązanie stosunku pracy,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_18³ᵇ/par_1/pkt_2",
+         "text": "niekorzystne ukształtowanie wynagrodzenia za pracę lub innych warunków zatrudnienia albo pominięcie przy awansowaniu lub przyznawaniu innych świadczeń związanych z pracą,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_18³ᵇ/par_1/pkt_3",
+         "text": "pominięcie przy typowaniu do udziału w szkoleniach podnoszących kwalifikacje zawodowe",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– chyba że pracodawca udowodni, że kierował się obiektywnymi powodami."
+        }
+       ]
       },
       {
-       "type": "text",
-       "text": "Art. 18 3e . § 1. Skorzystanie przez pracownika z uprawnień przysługujących z tytułu naruszenia przepisów prawa pracy, w tym zasady równego traktowania w zatrudnieniu, nie może być podstawą jakiegokolwiek niekorzystnego traktowania pracownika, a także nie może powodować jakichkolwiek negatywnych konsekwencji dla pracownika, zwłaszcza nie może stanowić przyczyny uzasadniającej wypowiedzenie stosunku pracy lub jego rozwiązanie bez wypowiedzenia przez pracodawcę."
+       "type": "par",
+       "num": "2",
+       "path": "art_18³ᵇ/par_2",
+       "text": "Zasady równego traktowania w zatrudnieniu nie naruszają działania, proporcjonalne do osiągnięcia zgodnego z prawem celu różnicowania sytuacji pracownika, polegające na:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_18³ᵇ/par_2/pkt_1",
+         "text": "niezatrudnianiu pracownika z jednej lub kilku przyczyn określonych w art. 18³ᵃ § 1, jeżeli rodzaj pracy lub warunki jej wykonywania powodują, że przyczyna lub przyczyny wymienione w tym przepisie są rzeczywistym i decydującym wymaganiem zawodowym stawianym pracownikowi;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_18³ᵇ/par_2/pkt_2",
+         "text": "wypowiedzeniu pracownikowi warunków zatrudnienia w zakresie wymiaru czasu pracy, jeżeli jest to uzasadnione przyczynami niedotyczącymi pracowników bez powoływania się na inną przyczynę lub inne przyczyny wymienione w art. 18³ᵃ § 1;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_18³ᵇ/par_2/pkt_3",
+         "text": "stosowaniu środków, które różnicują sytuację prawną pracownika, ze względu na ochronę rodzicielstwa lub niepełnosprawność;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "art_18³ᵇ/par_2/pkt_4",
+         "text": "stosowaniu kryterium stażu pracy przy ustalaniu warunków zatrudniania i zwalniania pracowników, zasad wynagradzania i awansowania oraz dostępu do szkolenia w celu podnoszenia kwalifikacji zawodowych, co uzasadnia odmienne traktowanie pracowników ze względu na wiek.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "par",
+       "num": "3",
+       "path": "art_18³ᵇ/par_3",
+       "text": "Nie stanowią naruszenia zasady równego traktowania w zatrudnieniu działania podejmowane przez określony czas, zmierzające do wyrównywania szans wszystkich lub znacznej liczby pracowników wyróżnionych z jednej lub kilku przyczyn określonych w art. 18³ᵃ § 1, przez zmniejszenie na korzyść takich pracowników faktycznych nierówności, w zakresie określonym w tym przepisie.",
+       "children": []
+      },
+      {
+       "type": "par",
+       "num": "4",
+       "path": "art_18³ᵇ/par_4",
+       "text": "Nie stanowi naruszenia zasady równego traktowania ograniczanie przez kościoły i inne związki wyznaniowe, a także organizacje, których etyka opiera się na religii, wyznaniu lub światopoglądzie, dostępu do zatrudnienia, ze względu na religię, wyznanie lub światopogląd jeżeli rodzaj lub charakter wykonywania działalności przez kościoły i inne związki wyznaniowe, a także organizacje powoduje, że religia, wyznanie lub światopogląd są rzeczywistym i decydującym wymaganiem zawodowym stawianym pracownikowi, proporcjonalnym do osiągnięcia zgodnego z prawem celu zróżnicowania sytuacji tej osoby; dotyczy to również wymagania od zatrudnionych działania w dobrej wierze i lojalności wobec etyki kościoła, innego związku wyznaniowego oraz organizacji, których etyka opiera się na religii, wyznaniu lub światopoglądzie.",
+       "children": []
       }
      ]
     },
     {
-     "type": "par",
-     "num": "2",
-     "path": "par_2",
-     "text": "Przepis § 1 stosuje się odpowiednio do pracownika, który udzielił w jakiejkolwiek formie wsparcia pracownikowi korzystającemu z uprawnień przysługujących z tytułu naruszenia przepisów prawa pracy, w tym zasady równego traktowania w zatrudnieniu.",
+     "type": "art",
+     "num": "18³ᶜ",
+     "path": "art_18³ᶜ",
+     "text": "",
+     "children": [
+      {
+       "type": "par",
+       "num": "1",
+       "path": "art_18³ᶜ/par_1",
+       "text": "Pracownicy mają prawo do jednakowego wynagrodzenia za jednakową pracę lub za pracę o jednakowej wartości.",
+       "children": []
+      },
+      {
+       "type": "par",
+       "num": "2",
+       "path": "art_18³ᶜ/par_2",
+       "text": "Wynagrodzenie, o którym mowa w § 1, obejmuje wszystkie składniki wynagrodzenia, bez względu na ich nazwę i charakter, a także inne świadczenia związane z pracą, przyznawane pracownikom w formie pieniężnej lub w innej formie niż pieniężna.",
+       "children": []
+      },
+      {
+       "type": "par",
+       "num": "3",
+       "path": "art_18³ᶜ/par_3",
+       "text": "Pracami o jednakowej wartości są prace, których wykonywanie wymaga od pracowników porównywalnych kwalifikacji zawodowych, potwierdzonych dokumentami przewidzianymi w odrębnych przepisach lub praktyką i doświadczeniem zawodowym, a także porównywalnej odpowiedzialności i wysiłku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "18³ᵈ",
+     "path": "art_18³ᵈ",
+     "text": "Osoba, wobec której pracodawca naruszył zasadę równego traktowania w zatrudnieniu, ma prawo do odszkodowania w wysokości nie niższej niż minimalne wynagrodzenie za pracę, ustalane na podstawie odrębnych przepisów.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "3",
-     "path": "par_3",
-     "text": "Pracownik, o którym mowa w § 1 i 2, którego prawa zostały naruszone przez pracodawcę, ma prawo do odszkodowania w wysokości nie niższej niż minimalne wynagrodzenie za pracę, ustalane na podstawie odrębnych przepisów.",
-     "children": []
+     "type": "art",
+     "num": "18³ᵉ",
+     "path": "art_18³ᵉ",
+     "text": "",
+     "children": [
+      {
+       "type": "par",
+       "num": "1",
+       "path": "art_18³ᵉ/par_1",
+       "text": "Skorzystanie przez pracownika z uprawnień przysługujących z tytułu naruszenia przepisów prawa pracy, w tym zasady równego traktowania w zatrudnieniu, nie może być podstawą jakiegokolwiek niekorzystnego traktowania pracownika, a także nie może powodować jakichkolwiek negatywnych konsekwencji dla pracownika, zwłaszcza nie może stanowić przyczyny uzasadniającej wypowiedzenie stosunku pracy lub jego rozwiązanie bez wypowiedzenia przez pracodawcę.",
+       "children": []
+      },
+      {
+       "type": "par",
+       "num": "2",
+       "path": "art_18³ᵉ/par_2",
+       "text": "Przepis § 1 stosuje się odpowiednio do pracownika, który udzielił w jakiejkolwiek formie wsparcia pracownikowi korzystającemu z uprawnień przysługujących z tytułu naruszenia przepisów prawa pracy, w tym zasady równego traktowania w zatrudnieniu.",
+       "children": []
+      },
+      {
+       "type": "par",
+       "num": "3",
+       "path": "art_18³ᵉ/par_3",
+       "text": "Pracownik, o którym mowa w § 1 i 2, którego prawa zostały naruszone przez pracodawcę, ma prawo do odszkodowania w wysokości nie niższej niż minimalne wynagrodzenie za pracę, ustalane na podstawie odrębnych przepisów.",
+       "children": []
+      }
+     ]
     },
     {
      "type": "heading",
@@ -1053,192 +1112,232 @@
        "num": "5",
        "path": "art_22¹/par_5",
        "text": "Udostępnienie pracodawcy danych osobowych następuje w formie oświadczenia osoby, której dane dotyczą. Pracodawca może żądać udokumentowania danych osobowych osób, o których mowa w § 1 i 3, w zakresie niezbędnym do ich potwierdzenia.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 22 1a . § 1. Zgoda osoby ubiegającej się o zatrudnienie lub pracownika może stanowić podstawę przetwarzania przez pracodawcę innych danych osobowych niż wymienione w art. 22¹ § 1 i 3, z wyjątkiem danych osobowych, o których mowa w art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.[^2]), zwanego dalej „rozporządzeniem 2016/679”."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "22¹ᵃ",
+     "path": "art_22¹ᵃ",
+     "text": "",
+     "children": [
+      {
+       "type": "par",
+       "num": "1",
+       "path": "art_22¹ᵃ/par_1",
+       "text": "Zgoda osoby ubiegającej się o zatrudnienie lub pracownika może stanowić podstawę przetwarzania przez pracodawcę innych danych osobowych niż wymienione w art. 22¹ § 1 i 3, z wyjątkiem danych osobowych, o których mowa w art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.[^2]), zwanego dalej „rozporządzeniem 2016/679”.",
+       "children": []
       },
       {
        "type": "par",
        "num": "2",
-       "path": "art_22¹/par_2",
+       "path": "art_22¹ᵃ/par_2",
        "text": "Brak zgody, o której mowa w § 1, lub jej wycofanie, nie może być podstawą niekorzystnego traktowania osoby ubiegającej się o zatrudnienie lub pracownika, a także nie może powodować wobec nich jakichkolwiek negatywnych konsekwencji, zwłaszcza nie może stanowić przyczyny uzasadniającej odmowę zatrudnienia, wypowiedzenie umowy o pracę lub jej rozwiązanie bez wypowiedzenia przez pracodawcę.",
        "children": []
       },
       {
        "type": "par",
        "num": "3",
-       "path": "art_22¹/par_3",
+       "path": "art_22¹ᵃ/par_3",
        "text": "Przetwarzanie, o którym mowa w § 1, dotyczy danych osobowych udostępnianych przez osobę ubiegającą się o zatrudnienie lub pracownika na wniosek pracodawcy lub danych osobowych przekazanych pracodawcy z inicjatywy osoby ubiegającej się o zatrudnienie lub pracownika.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 22 1b . § 1. Zgoda osoby ubiegającej się o zatrudnienie lub pracownika może stanowić podstawę przetwarzania przez pracodawcę danych osobowych, o których mowa w art. 9 ust. 1 rozporządzenia 2016/679, wyłącznie w przypadku, gdy przekazanie tych danych osobowych następuje z inicjatywy osoby ubiegającej się o zatrudnienie lub pracownika. Przepis art. 22 1a § 2 stosuje się odpowiednio."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "22¹ᵇ",
+     "path": "art_22¹ᵇ",
+     "text": "",
+     "children": [
+      {
+       "type": "par",
+       "num": "1",
+       "path": "art_22¹ᵇ/par_1",
+       "text": "Zgoda osoby ubiegającej się o zatrudnienie lub pracownika może stanowić podstawę przetwarzania przez pracodawcę danych osobowych, o których mowa w art. 9 ust. 1 rozporządzenia 2016/679, wyłącznie w przypadku, gdy przekazanie tych danych osobowych następuje z inicjatywy osoby ubiegającej się o zatrudnienie lub pracownika. Przepis art. 22¹ᵃ § 2 stosuje się odpowiednio.",
+       "children": []
       },
       {
        "type": "par",
        "num": "2",
-       "path": "art_22¹/par_2",
+       "path": "art_22¹ᵇ/par_2",
        "text": "Przetwarzanie danych biometrycznych pracownika jest dopuszczalne także wtedy, gdy podanie takich danych jest niezbędne ze względu na kontrolę dostępu do szczególnie ważnych informacji, których ujawnienie może narazić pracodawcę na szkodę, lub dostępu do pomieszczeń wymagających szczególnej ochrony.",
        "children": []
       },
       {
        "type": "par",
        "num": "3",
-       "path": "art_22¹/par_3",
+       "path": "art_22¹ᵇ/par_3",
        "text": "Do przetwarzania danych osobowych, o których mowa w § 1, mogą być dopuszczone wyłącznie osoby posiadające pisemne upoważnienie do przetwarzania takich danych wydane przez pracodawcę. Osoby dopuszczone do przetwarzania takich danych są obowiązane do zachowania ich w tajemnicy.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 22 1c . § 1. Jeżeli jest to niezbędne do zapewnienia ochrony życia i zdrowia pracowników lub innych osób lub ochrony mienia, pracodawca może wprowadzić kontrolę trzeźwości pracowników."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "22¹ᶜ",
+     "path": "art_22¹ᶜ",
+     "text": "",
+     "children": [
+      {
+       "type": "par",
+       "num": "1",
+       "path": "art_22¹ᶜ/par_1",
+       "text": "Jeżeli jest to niezbędne do zapewnienia ochrony życia i zdrowia pracowników lub innych osób lub ochrony mienia, pracodawca może wprowadzić kontrolę trzeźwości pracowników.",
+       "children": []
       },
       {
        "type": "par",
        "num": "2",
-       "path": "art_22¹/par_2",
+       "path": "art_22¹ᶜ/par_2",
        "text": "Kontrola trzeźwości nie może naruszać godności oraz innych dóbr osobistych pracownika.",
        "children": []
       },
       {
        "type": "par",
        "num": "3",
-       "path": "art_22¹/par_3",
-       "text": "Kontrola trzeźwości jest przeprowadzana przez pracodawcę w sposób ustalony zgodnie z § 10, uwzględniający wymagania wynikające z przepisów wydanych na podstawie art. 22 1g .",
+       "path": "art_22¹ᶜ/par_3",
+       "text": "Kontrola trzeźwości jest przeprowadzana przez pracodawcę w sposób ustalony zgodnie z § 10, uwzględniający wymagania wynikające z przepisów wydanych na podstawie art. 22¹ᵍ.",
        "children": []
       },
       {
        "type": "par",
        "num": "4",
-       "path": "art_22¹/par_4",
+       "path": "art_22¹ᶜ/par_4",
        "text": "Kontrola trzeźwości obejmuje badanie przy użyciu metod niewymagających badania laboratoryjnego za pomocą urządzenia posiadającego ważny dokument potwierdzający jego kalibrację lub wzorcowanie.",
        "children": []
       },
       {
        "type": "par",
        "num": "5",
-       "path": "art_22¹/par_5",
+       "path": "art_22¹ᶜ/par_5",
        "text": "Badanie, o którym mowa w § 4, polega na stwierdzeniu braku obecności alkoholu w organizmie pracownika albo obecności alkoholu wskazującej na stan po użyciu alkoholu albo stan nietrzeźwości w rozumieniu art. 46 ust. 2 albo 3 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 2151). Za równoznaczne ze stwierdzeniem braku obecności alkoholu w organizmie pracownika uznaje się przypadki, w których zawartość alkoholu nie osiąga lub nie prowadzi do osiągnięcia wartości właściwych dla stanu po użyciu alkoholu.",
        "children": []
       },
       {
        "type": "par",
        "num": "6",
-       "path": "art_22¹/par_6",
+       "path": "art_22¹ᶜ/par_6",
        "text": "Pracodawca przetwarza informacje o dacie, godzinie i minucie badania, o którym mowa w § 4, oraz jego wyniku wskazującym na stan po użyciu alkoholu albo stan nietrzeźwości wyłącznie w przypadku, gdy jest to niezbędne do zapewnienia ochrony dóbr, o których mowa w § 1, i przechowuje te informacje w aktach osobowych pracownika przez okres nieprzekraczający roku od dnia ich zebrania.",
        "children": []
       },
       {
        "type": "par",
        "num": "7",
-       "path": "art_22¹/par_7",
+       "path": "art_22¹ᶜ/par_7",
        "text": "W przypadku zastosowania kary upomnienia, kary nagany lub kary pieniężnej pracodawca przechowuje informacje, o których mowa w § 6, w aktach osobowych pracownika do czasu uznania kary za niebyłą zgodnie z art. 113.",
        "children": []
       },
       {
        "type": "par",
        "num": "8",
-       "path": "art_22¹/par_8",
+       "path": "art_22¹ᶜ/par_8",
        "text": "W przypadku, w którym informacje, o których mowa w § 6, mogą stanowić lub stanowią dowód w postępowaniu prowadzonym na podstawie prawa, a pracodawca jest stroną tego postępowania lub powziął wiadomość o wytoczeniu powództwa lub wszczęciu postępowania, okres, o którym mowa w § 6, ulega przedłużeniu do czasu prawomocnego zakończenia postępowania.",
        "children": []
       },
       {
        "type": "par",
        "num": "9",
-       "path": "art_22¹/par_9",
+       "path": "art_22¹ᶜ/par_9",
        "text": "Po upływie okresów, o których mowa w § 6, 7 lub 8, informacje, o których mowa w § 6, podlegają usunięciu.",
        "children": []
       },
       {
        "type": "par",
        "num": "10",
-       "path": "art_22¹/par_10",
+       "path": "art_22¹ᶜ/par_10",
        "text": "Wprowadzenie kontroli trzeźwości, grupę lub grupy pracowników objętych kontrolą trzeźwości i sposób przeprowadzania kontroli trzeźwości, w tym rodzaj urządzenia wykorzystywanego do kontroli, czas i częstotliwość jej przeprowadzania, ustala się w układzie zbiorowym pracy lub w regulaminie pracy albo w obwieszczeniu, jeżeli pracodawca nie jest objęty układem zbiorowym pracy lub nie jest obowiązany do ustalenia regulaminu pracy.",
        "children": []
       },
       {
        "type": "par",
        "num": "11",
-       "path": "art_22¹/par_11",
+       "path": "art_22¹ᶜ/par_11",
        "text": "O wprowadzeniu kontroli trzeźwości, o którym mowa w § 10, pracodawca informuje pracowników w sposób przyjęty u danego pracodawcy nie później niż 2 tygodnie przed rozpoczęciem jej przeprowadzania.",
        "children": []
       },
       {
        "type": "par",
        "num": "12",
-       "path": "art_22¹/par_12",
+       "path": "art_22¹ᶜ/par_12",
        "text": "W związku z zatrudnieniem pracownika objętego kontrolą trzeźwości pracodawca przekazuje temu pracownikowi przed dopuszczeniem go do pracy informacje, o których mowa w § 10, w postaci papierowej lub elektronicznej.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 22 1d . § 1. Pracodawca nie dopuszcza pracownika do pracy, jeżeli kontrola trzeźwości wykaże obecność alkoholu w organizmie pracownika wskazującą na stan po użyciu alkoholu albo stan nietrzeźwości w rozumieniu art. 46 ust. 2 albo 3 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi albo zachodzi uzasadnione podejrzenie, że pracownik stawił się do pracy w stanie po użyciu alkoholu albo w stanie nietrzeźwości lub spożywał alkohol w czasie pracy."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "22¹ᵈ",
+     "path": "art_22¹ᵈ",
+     "text": "",
+     "children": [
+      {
+       "type": "par",
+       "num": "1",
+       "path": "art_22¹ᵈ/par_1",
+       "text": "Pracodawca nie dopuszcza pracownika do pracy, jeżeli kontrola trzeźwości wykaże obecność alkoholu w organizmie pracownika wskazującą na stan po użyciu alkoholu albo stan nietrzeźwości w rozumieniu art. 46 ust. 2 albo 3 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi albo zachodzi uzasadnione podejrzenie, że pracownik stawił się do pracy w stanie po użyciu alkoholu albo w stanie nietrzeźwości lub spożywał alkohol w czasie pracy.",
+       "children": []
       },
       {
        "type": "par",
        "num": "2",
-       "path": "art_22¹/par_2",
+       "path": "art_22¹ᵈ/par_2",
        "text": "Informację dotyczącą podstawy niedopuszczenia pracownika do pracy przekazuje się pracownikowi do wiadomości.",
        "children": []
       },
       {
        "type": "par",
        "num": "3",
-       "path": "art_22¹/par_3",
+       "path": "art_22¹ᵈ/par_3",
        "text": "Na żądanie pracodawcy lub pracownika niedopuszczonego do pracy badanie stanu trzeźwości pracownika przeprowadza uprawniony organ powołany do ochrony porządku publicznego.",
        "children": []
       },
       {
        "type": "par",
        "num": "4",
-       "path": "art_22¹/par_4",
+       "path": "art_22¹ᵈ/par_4",
        "text": "Organ, o którym mowa w § 3, przeprowadza badanie stanu trzeźwości pracownika przy użyciu metod niewymagających badania laboratoryjnego.",
        "children": []
       },
       {
        "type": "par",
        "num": "5",
-       "path": "art_22¹/par_5",
+       "path": "art_22¹ᵈ/par_5",
        "text": "Organ, o którym mowa w § 3, zleca przeprowadzenie badania krwi, jeżeli:",
        "children": [
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_22¹/par_5/pkt_1",
+         "path": "art_22¹ᵈ/par_5/pkt_1",
          "text": "nie ma możliwości przeprowadzenia badania metodą, o której mowa w § 4;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_22¹/par_5/pkt_2",
+         "path": "art_22¹ᵈ/par_5/pkt_2",
          "text": "pracownik niedopuszczony do pracy odmawia poddania się badaniu metodą, o której mowa w § 4;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "3",
-         "path": "art_22¹/par_5/pkt_3",
+         "path": "art_22¹ᵈ/par_5/pkt_3",
          "text": "pracownik niedopuszczony do pracy żąda przeprowadzenia badania krwi pomimo przeprowadzenia badania metodą, o której mowa w § 4;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "4",
-         "path": "art_22¹/par_5/pkt_4",
+         "path": "art_22¹ᵈ/par_5/pkt_4",
          "text": "stan pracownika niedopuszczonego do pracy uniemożliwia przeprowadzenie badania metodą, o której mowa w § 4;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "5",
-         "path": "art_22¹/par_5/pkt_5",
+         "path": "art_22¹ᵈ/par_5/pkt_5",
          "text": "nie ma możliwości wskazania stężenia alkoholu z powodu przekroczenia zakresu pomiarowego urządzenia wykorzystywanego do pomiaru.",
          "children": []
         }
@@ -1247,68 +1346,68 @@
       {
        "type": "par",
        "num": "6",
-       "path": "art_22¹/par_6",
+       "path": "art_22¹ᵈ/par_6",
        "text": "Badania, o których mowa w § 4 i 5, przeprowadza się z poszanowaniem godności i intymności pracownika.",
        "children": []
       },
       {
        "type": "par",
        "num": "7",
-       "path": "art_22¹/par_7",
+       "path": "art_22¹ᵈ/par_7",
        "text": "Zabiegu pobrania krwi dokonuje osoba posiadająca odpowiednie kwalifikacje zawodowe.",
        "children": []
       },
       {
        "type": "par",
        "num": "8",
-       "path": "art_22¹/par_8",
+       "path": "art_22¹ᵈ/par_8",
        "text": "W przypadku gdy wynik badania nie wskazuje na stan po użyciu alkoholu albo stan nietrzeźwości pracownika, okres niedopuszczenia pracownika do pracy jest okresem usprawiedliwionej nieobecności w pracy, za który pracownik zachowuje prawo do wynagrodzenia.",
        "children": []
       },
       {
        "type": "par",
        "num": "9",
-       "path": "art_22¹/par_9",
+       "path": "art_22¹ᵈ/par_9",
        "text": "Przebieg badań, o których mowa w § 4 i 5, dokumentuje się z uwzględnieniem:",
        "children": [
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_22¹/par_9/pkt_1",
+         "path": "art_22¹ᵈ/par_9/pkt_1",
          "text": "daty, godziny i minuty oraz miejsca przeprowadzenia badania;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_22¹/par_9/pkt_2",
+         "path": "art_22¹ᵈ/par_9/pkt_2",
          "text": "wyniku badania;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "3",
-         "path": "art_22¹/par_9/pkt_3",
+         "path": "art_22¹ᵈ/par_9/pkt_3",
          "text": "danych osobowych pracownika:",
          "children": [
           {
            "type": "lit",
            "num": "a",
-           "path": "art_22¹/par_9/pkt_3/lit_a",
+           "path": "art_22¹ᵈ/par_9/pkt_3/lit_a",
            "text": "imienia i nazwiska,",
            "children": []
           },
           {
            "type": "lit",
            "num": "b",
-           "path": "art_22¹/par_9/pkt_3/lit_b",
+           "path": "art_22¹ᵈ/par_9/pkt_3/lit_b",
            "text": "numeru PESEL, a jeżeli nie posiada – serii i numeru dokumentu potwierdzającego tożsamość pracownika,",
            "children": []
           },
           {
            "type": "lit",
            "num": "c",
-           "path": "art_22¹/par_9/pkt_3/lit_c",
+           "path": "art_22¹ᵈ/par_9/pkt_3/lit_c",
            "text": "daty urodzenia, płci, wzrostu, masy ciała, informacji o chorobach, na jakie pracownik choruje, oraz podpisu pracownika – jeżeli dane te pozyskano w związku z przeprowadzanym badaniem;",
            "children": []
           }
@@ -1317,42 +1416,42 @@
         {
          "type": "pkt",
          "num": "4",
-         "path": "art_22¹/par_9/pkt_4",
+         "path": "art_22¹ᵈ/par_9/pkt_4",
          "text": "imienia i nazwiska oraz podpisu osoby przeprowadzającej badanie;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "5",
-         "path": "art_22¹/par_9/pkt_5",
+         "path": "art_22¹ᵈ/par_9/pkt_5",
          "text": "imienia, nazwiska, stanowiska i podpisu osoby przeprowadzającej pobranie próbek materiału biologicznego do badań;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "6",
-         "path": "art_22¹/par_9/pkt_6",
+         "path": "art_22¹ᵈ/par_9/pkt_6",
          "text": "imienia i nazwiska oraz podpisu osoby, w obecności której przeprowadzono badanie;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "7",
-         "path": "art_22¹/par_9/pkt_7",
+         "path": "art_22¹ᵈ/par_9/pkt_7",
          "text": "informacji o objawach lub okolicznościach uzasadniających przeprowadzenie badania oraz dacie i godzinie ich stwierdzenia;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "8",
-         "path": "art_22¹/par_9/pkt_8",
+         "path": "art_22¹ᵈ/par_9/pkt_8",
          "text": "innych informacji niezbędnych do oceny wiarygodności i poprawności badania;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "9",
-         "path": "art_22¹/par_9/pkt_9",
+         "path": "art_22¹ᵈ/par_9/pkt_9",
          "text": "w przypadku odstąpienia od pobrania próbek krwi – informacji o przyczynie odstąpienia.",
          "children": []
         }
@@ -1361,72 +1460,92 @@
       {
        "type": "par",
        "num": "10",
-       "path": "art_22¹/par_10",
+       "path": "art_22¹ᵈ/par_10",
        "text": "Organ przeprowadzający badanie, o którym mowa w § 3, przekazuje pracodawcy i pracownikowi niedopuszczonemu do pracy informację w formie pisemnej, obejmującą imię i nazwisko osoby badanej oraz jej numer PESEL, a w przypadku jego braku – serię i numer dokumentu potwierdzającego tożsamość, datę, godzinę oraz minutę przeprowadzonego badania, a także jego wynik. W przypadku przeprowadzenia kilku pomiarów organ przeprowadzający badanie przekazuje informację o czasie przeprowadzenia pomiarów i wyniku każdego z nich.",
        "children": []
       },
       {
        "type": "par",
        "num": "11",
-       "path": "art_22¹/par_11",
-       "text": "Do przetwarzania informacji, o której mowa w § 10, stosuje się odpowiednio art. 22 1c § 6–9.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 22 1e . § 1. Jeżeli jest to niezbędne do zapewnienia ochrony życia i zdrowia pracowników lub innych osób lub ochrony mienia, pracodawca może wprowadzić kontrolę pracowników na obecność w ich organizmach środków działających podobnie do alkoholu."
-        }
-       ]
+       "path": "art_22¹ᵈ/par_11",
+       "text": "Do przetwarzania informacji, o której mowa w § 10, stosuje się odpowiednio art. 22¹ᶜ § 6–9.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "22¹ᵉ",
+     "path": "art_22¹ᵉ",
+     "text": "",
+     "children": [
+      {
+       "type": "par",
+       "num": "1",
+       "path": "art_22¹ᵉ/par_1",
+       "text": "Jeżeli jest to niezbędne do zapewnienia ochrony życia i zdrowia pracowników lub innych osób lub ochrony mienia, pracodawca może wprowadzić kontrolę pracowników na obecność w ich organizmach środków działających podobnie do alkoholu.",
+       "children": []
       },
       {
        "type": "par",
        "num": "2",
-       "path": "art_22¹/par_2",
-       "text": "Przepisy art. 22 1c § 2–12 stosuje się odpowiednio.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 22 1f . § 1. Pracodawca nie dopuszcza pracownika do pracy, jeżeli kontrola, o której mowa w art. 22 1e § 1, wykaże obecność w organizmie pracownika środka działającego podobnie do alkoholu albo zachodzi uzasadnione podejrzenie, że pracownik stawił się do pracy w stanie po użyciu takiego środka lub zażywał taki środek w czasie pracy."
-        }
-       ]
+       "path": "art_22¹ᵉ/par_2",
+       "text": "Przepisy art. 22¹ᶜ § 2–12 stosuje się odpowiednio.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "22¹ᶠ",
+     "path": "art_22¹ᶠ",
+     "text": "",
+     "children": [
+      {
+       "type": "par",
+       "num": "1",
+       "path": "art_22¹ᶠ/par_1",
+       "text": "Pracodawca nie dopuszcza pracownika do pracy, jeżeli kontrola, o której mowa w art. 22¹ᵉ § 1, wykaże obecność w organizmie pracownika środka działającego podobnie do alkoholu albo zachodzi uzasadnione podejrzenie, że pracownik stawił się do pracy w stanie po użyciu takiego środka lub zażywał taki środek w czasie pracy.",
+       "children": []
       },
       {
        "type": "par",
        "num": "2",
-       "path": "art_22¹/par_2",
-       "text": "Przepisy art. 22 1d § 2–4, 7, 8, 10 i 11 stosuje się odpowiednio.",
+       "path": "art_22¹ᶠ/par_2",
+       "text": "Przepisy art. 22¹ᵈ § 2–4, 7, 8, 10 i 11 stosuje się odpowiednio.",
        "children": []
       },
       {
        "type": "par",
        "num": "3",
-       "path": "art_22¹/par_3",
+       "path": "art_22¹ᶠ/par_3",
        "text": "Uprawniony organ powołany do ochrony porządku publicznego zleca przeprowadzenie badania krwi lub moczu, jeżeli:",
        "children": [
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_22¹/par_3/pkt_1",
+         "path": "art_22¹ᶠ/par_3/pkt_1",
          "text": "nie ma możliwości przeprowadzenia badania metodą niewymagającą badania laboratoryjnego;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_22¹/par_3/pkt_2",
+         "path": "art_22¹ᶠ/par_3/pkt_2",
          "text": "pracownik niedopuszczony do pracy odmawia poddania się badaniu metodą niewymagającą badania laboratoryjnego;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "3",
-         "path": "art_22¹/par_3/pkt_3",
+         "path": "art_22¹ᶠ/par_3/pkt_3",
          "text": "pracownik niedopuszczony do pracy żąda przeprowadzenia badania krwi lub moczu pomimo przeprowadzenia badania metodą niewymagającą badania laboratoryjnego;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "4",
-         "path": "art_22¹/par_3/pkt_4",
+         "path": "art_22¹ᶠ/par_3/pkt_4",
          "text": "stan pracownika niedopuszczonego do pracy uniemożliwia przeprowadzenie badania metodą niewymagającą badania laboratoryjnego.",
          "children": []
         }
@@ -1435,61 +1554,61 @@
       {
        "type": "par",
        "num": "4",
-       "path": "art_22¹/par_4",
+       "path": "art_22¹ᶠ/par_4",
        "text": "Badanie przy użyciu metod niewymagających badania laboratoryjnego oraz badanie, o którym mowa w § 3, przeprowadza się z poszanowaniem godności i intymności pracownika.",
        "children": []
       },
       {
        "type": "par",
        "num": "5",
-       "path": "art_22¹/par_5",
+       "path": "art_22¹ᶠ/par_5",
        "text": "Czynności związane z pobraniem moczu do badania, o którym mowa w § 3, odbywają się w obecności osoby posiadającej odpowiednie kwalifikacje zawodowe do przeprowadzania badania moczu, tej samej płci co pracownik, od którego pobiera się mocz.",
        "children": []
       },
       {
        "type": "par",
        "num": "6",
-       "path": "art_22¹/par_6",
+       "path": "art_22¹ᶠ/par_6",
        "text": "Przebieg badania przeprowadzonego przez uprawniony organ powołany do ochrony porządku publicznego przy użyciu metod niewymagających badania laboratoryjnego oraz badania, o którym mowa w § 3, dokumentuje się z uwzględnieniem:",
        "children": [
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_22¹/par_6/pkt_1",
+         "path": "art_22¹ᶠ/par_6/pkt_1",
          "text": "daty, godziny i minuty oraz miejsca przeprowadzenia badania;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_22¹/par_6/pkt_2",
+         "path": "art_22¹ᶠ/par_6/pkt_2",
          "text": "wyniku badania;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "3",
-         "path": "art_22¹/par_6/pkt_3",
+         "path": "art_22¹ᶠ/par_6/pkt_3",
          "text": "danych osobowych pracownika:",
          "children": [
           {
            "type": "lit",
            "num": "a",
-           "path": "art_22¹/par_6/pkt_3/lit_a",
+           "path": "art_22¹ᶠ/par_6/pkt_3/lit_a",
            "text": "imienia i nazwiska,",
            "children": []
           },
           {
            "type": "lit",
            "num": "b",
-           "path": "art_22¹/par_6/pkt_3/lit_b",
+           "path": "art_22¹ᶠ/par_6/pkt_3/lit_b",
            "text": "numeru PESEL, a jeżeli nie posiada – serii i numeru dokumentu potwierdzającego tożsamość pracownika,",
            "children": []
           },
           {
            "type": "lit",
            "num": "c",
-           "path": "art_22¹/par_6/pkt_3/lit_c",
+           "path": "art_22¹ᶠ/par_6/pkt_3/lit_c",
            "text": "daty urodzenia, informacji o chorobach, na jakie pracownik choruje, oraz podpisu pracownika – jeżeli dane te pozyskano w związku z przeprowadzanym badaniem;",
            "children": []
           }
@@ -1498,82 +1617,88 @@
         {
          "type": "pkt",
          "num": "4",
-         "path": "art_22¹/par_6/pkt_4",
+         "path": "art_22¹ᶠ/par_6/pkt_4",
          "text": "imienia i nazwiska oraz podpisu osoby przeprowadzającej badanie;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "5",
-         "path": "art_22¹/par_6/pkt_5",
+         "path": "art_22¹ᶠ/par_6/pkt_5",
          "text": "imienia, nazwiska, stanowiska i podpisu osoby przeprowadzającej pobranie próbek materiału biologicznego do badań;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "6",
-         "path": "art_22¹/par_6/pkt_6",
+         "path": "art_22¹ᶠ/par_6/pkt_6",
          "text": "imienia i nazwiska oraz podpisu osoby, w obecności której przeprowadzono badanie;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "7",
-         "path": "art_22¹/par_6/pkt_7",
+         "path": "art_22¹ᶠ/par_6/pkt_7",
          "text": "informacji o objawach lub okolicznościach uzasadniających przeprowadzenie badania oraz dacie i godzinie ich stwierdzenia;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "8",
-         "path": "art_22¹/par_6/pkt_8",
+         "path": "art_22¹ᶠ/par_6/pkt_8",
          "text": "innych informacji niezbędnych do oceny wiarygodności i poprawności badania;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "9",
-         "path": "art_22¹/par_6/pkt_9",
+         "path": "art_22¹ᶠ/par_6/pkt_9",
          "text": "w przypadku odstąpienia od pobrania próbek krwi lub moczu – informacji o przyczynie odstąpienia.",
-         "children": [
-          {
-           "type": "text",
-           "text": "Art. 22 1g . Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw pracy określi, w drodze rozporządzenia:"
-          }
-         ]
-        },
-        {
-         "type": "pkt",
-         "num": "1",
-         "path": "art_22¹/par_6/pkt_1",
-         "text": "warunki i metody przeprowadzania badań na obecność alkoholu w organizmie pracownika oraz badań na obecność w organizmie pracownika środków działających podobnie do alkoholu przez pracodawcę oraz przez uprawniony organ powołany do ochrony porządku publicznego lub zlecanych przez ten organ,",
          "children": []
-        },
-        {
-         "type": "pkt",
-         "num": "2",
-         "path": "art_22¹/par_6/pkt_2",
-         "text": "sposób dokumentowania badań przeprowadzanych lub zlecanych przez uprawniony organ powołany do ochrony porządku publicznego,",
-         "children": []
-        },
-        {
-         "type": "pkt",
-         "num": "3",
-         "path": "art_22¹/par_6/pkt_3",
-         "text": "wykaz środków działających podobnie do alkoholu",
-         "children": []
-        },
-        {
-         "type": "text",
-         "text": "– mając na uwadze metodykę przeprowadzania takich badań, konieczność zapewnienia ochrony życia i zdrowia pracowników lub innych osób lub ochrony mienia, a także konieczność sprawnego przeprowadzania badań i zagwarantowania wiarygodności wyników badania krwi i moczu przy jednoczesnym poszanowaniu godności oraz innych dóbr osobistych pracownika i zasad ochrony danych osobowych."
-        },
-        {
-         "type": "text",
-         "text": "1h 1c 1f 1g Art. 22 . Przepisy art. 22 –22 oraz przepisy wydane na podstawie art. 22 stosuje się odpowiednio do pracodawców organizujących pracę wykonywaną przez osoby fizyczne na innej podstawie niż stosunek pracy oraz osoby fizyczne prowadzące na własny rachunek działalność gospodarczą, a także do osób fizycznych wykonujących pracę na innej podstawie niż stosunek pracy oraz osób fizycznych prowadzących na własny rachunek działalność gospodarczą, których praca jest organizowana przez tych pracodawców."
         }
        ]
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "22¹ᵍ",
+     "path": "art_22¹ᵍ",
+     "text": "Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw pracy określi, w drodze rozporządzenia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_22¹ᵍ/pkt_1",
+       "text": "warunki i metody przeprowadzania badań na obecność alkoholu w organizmie pracownika oraz badań na obecność w organizmie pracownika środków działających podobnie do alkoholu przez pracodawcę oraz przez uprawniony organ powołany do ochrony porządku publicznego lub zlecanych przez ten organ,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_22¹ᵍ/pkt_2",
+       "text": "sposób dokumentowania badań przeprowadzanych lub zlecanych przez uprawniony organ powołany do ochrony porządku publicznego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_22¹ᵍ/pkt_3",
+       "text": "wykaz środków działających podobnie do alkoholu",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– mając na uwadze metodykę przeprowadzania takich badań, konieczność zapewnienia ochrony życia i zdrowia pracowników lub innych osób lub ochrony mienia, a także konieczność sprawnego przeprowadzania badań i zagwarantowania wiarygodności wyników badania krwi i moczu przy jednoczesnym poszanowaniu godności oraz innych dóbr osobistych pracownika i zasad ochrony danych osobowych."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "22¹ʰ",
+     "path": "art_22¹ʰ",
+     "text": "Przepisy art. 22¹ᶜ–22¹ᶠ oraz przepisy wydane na podstawie art. 22¹ᵍ stosuje się odpowiednio do pracodawców organizujących pracę wykonywaną przez osoby fizyczne na innej podstawie niż stosunek pracy oraz osoby fizyczne prowadzące na własny rachunek działalność gospodarczą, a także do osób fizycznych wykonujących pracę na innej podstawie niż stosunek pracy oraz osób fizycznych prowadzących na własny rachunek działalność gospodarczą, których praca jest organizowana przez tych pracodawców.",
+     "children": []
     },
     {
      "type": "art",
@@ -1749,17 +1874,27 @@
        "num": "6",
        "path": "art_23¹/par_6",
        "text": "Przejście zakładu pracy lub jego części na innego pracodawcę nie może stanowić przyczyny uzasadniającej wypowiedzenie przez pracodawcę stosunku pracy.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 23 1a . § 1. Jeżeli jest to uzasadnione sytuacją finansową pracodawcy, nieobjętego układem zbiorowym pracy lub zatrudniającego mniej niż 20 pracowników, może być zawarte porozumienie o stosowaniu mniej korzystnych warunków zatrudnienia pracowników niż wynikające z umów o pracę zawartych z tymi pracownikami, w zakresie i przez czas ustalone w porozumieniu."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "23¹ᵃ",
+     "path": "art_23¹ᵃ",
+     "text": "",
+     "children": [
+      {
+       "type": "par",
+       "num": "1",
+       "path": "art_23¹ᵃ/par_1",
+       "text": "Jeżeli jest to uzasadnione sytuacją finansową pracodawcy, nieobjętego układem zbiorowym pracy lub zatrudniającego mniej niż 20 pracowników, może być zawarte porozumienie o stosowaniu mniej korzystnych warunków zatrudnienia pracowników niż wynikające z umów o pracę zawartych z tymi pracownikami, w zakresie i przez czas ustalone w porozumieniu.",
+       "children": []
       },
       {
        "type": "par",
        "num": "2",
-       "path": "art_23¹/par_2",
+       "path": "art_23¹ᵃ/par_2",
        "text": "Przepisy art. 9¹ § 1–4 stosuje się odpowiednio.",
        "children": []
       }
@@ -7710,7 +7845,7 @@
        "type": "par",
        "num": "2",
        "path": "art_145/par_2",
-       "text": "Wykaz prac, o których mowa w § 1, ustala pracodawca po konsultacji z pracownikami lub ich przedstawicielami w trybie i na zasadach określonych w art. 237 11a i art. 237 13a oraz po zasięgnięciu opinii lekarza sprawującego profilaktyczną opiekę zdrowotną nad pracownikami.",
+       "text": "Wykaz prac, o których mowa w § 1, ustala pracodawca po konsultacji z pracownikami lub ich przedstawicielami w trybie i na zasadach określonych w art. 237¹¹ᵃ i art. 237¹³ᵃ oraz po zasięgnięciu opinii lekarza sprawującego profilaktyczną opiekę zdrowotną nad pracownikami.",
        "children": []
       }
      ]
@@ -8280,18 +8415,23 @@
        "num": "2",
        "path": "art_151⁹/par_2",
        "text": "Za pracę w niedzielę i święto, w przypadkach, o których mowa w art. 151¹⁰, uważa się pracę wykonywaną między godziną 6⁰⁰ w tym dniu a godziną 6⁰⁰ w następnym dniu, chyba że u danego pracodawcy została ustalona inna godzina.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 151 9a . (uchylony)"
-        },
-        {
-         "type": "text",
-         "text": "Art. 151 9b .[^7] Ograniczenia w wykonywaniu pracy w placówkach handlowych w niedziele i święta oraz w sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy określają przepisy ustawy z dnia 10 stycznia 2018 r. o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni (Dz. U. z 2024 r. poz. 449 i 1965)."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "151⁹ᵃ",
+     "path": "art_151⁹ᵃ",
+     "text": "(uchylony)",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "151⁹ᵇ",
+     "path": "art_151⁹ᵇ",
+     "text": "[^7] Ograniczenia w wykonywaniu pracy w placówkach handlowych w niedziele i święta oraz w sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy określają przepisy ustawy z dnia 10 stycznia 2018 r. o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni (Dz. U. z 2024 r. poz. 449 i 1965).",
+     "children": []
     },
     {
      "type": "art",
@@ -8460,7 +8600,7 @@
        "type": "par",
        "num": "1",
        "path": "art_151¹¹/par_1",
-       "text": "Pracownikowi wykonującemu pracę w niedziele i święta, w przypadkach, o których mowa w art. 151¹⁰ pkt 1–9 i 11 oraz w przepisach ustawy, o której mowa w art. 151 9b , pracodawca jest obowiązany zapewnić inny dzień wolny od pracy:",
+       "text": "Pracownikowi wykonującemu pracę w niedziele i święta, w przypadkach, o których mowa w art. 151¹⁰ pkt 1–9 i 11 oraz w przepisach ustawy, o której mowa w art. 151⁹ᵇ, pracodawca jest obowiązany zapewnić inny dzień wolny od pracy:",
        "children": [
         {
          "type": "pkt",
@@ -8869,24 +9009,34 @@
        "num": "2",
        "path": "art_155²/par_2",
        "text": "Jeżeli okres, o którym mowa w § 1 pkt 1 i 3–6, przypada po nabyciu przez pracownika prawa do urlopu w danym roku kalendarzowym, wymiar urlopu pracownika powracającego do pracy w ciągu tego samego roku kalendarzowego ulega proporcjonalnemu obniżeniu, chyba że przed rozpoczęciem tego okresu pracownik wykorzystał urlop w przysługującym mu lub w wyższym wymiarze.",
-       "children": [
-        {
-         "type": "text",
-         "text": "2a 1 2 Art. 155 . § 1. Przy ustalaniu wymiaru urlopu na podstawie art. 155 i 155 kalendarzowy miesiąc pracy odpowiada 1/12 wymiaru urlopu przysługującego pracownikowi zgodnie z art. 154 § 1 i 2."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "155²ᵃ",
+     "path": "art_155²ᵃ",
+     "text": "",
+     "children": [
+      {
+       "type": "par",
+       "num": "1",
+       "path": "art_155²ᵃ/par_1",
+       "text": "Przy ustalaniu wymiaru urlopu na podstawie art. 155¹ i 155² kalendarzowy miesiąc pracy odpowiada 1/12 wymiaru urlopu przysługującego pracownikowi zgodnie z art. 154 § 1 i 2.",
+       "children": []
       },
       {
        "type": "par",
        "num": "2",
-       "path": "art_155²/par_2",
+       "path": "art_155²ᵃ/par_2",
        "text": "Niepełny kalendarzowy miesiąc pracy zaokrągla się w górę do pełnego miesiąca.",
        "children": []
       },
       {
        "type": "par",
        "num": "3",
-       "path": "art_155²/par_3",
+       "path": "art_155²ᵃ/par_3",
        "text": "Jeżeli ustanie stosunku pracy u dotychczasowego pracodawcy i nawiązanie takiego stosunku u kolejnego pracodawcy następuje w tym samym miesiącu kalendarzowym, zaokrąglenia do pełnego miesiąca dokonuje dotychczasowy pracodawca.",
        "children": []
       }
@@ -9503,7 +9653,7 @@
        "type": "par",
        "num": "1¹",
        "path": "art_177/par_1¹",
-       "text": "[^11] W przypadku złożenia przez pracownika wniosku, o którym mowa w § 1, wcześniej niż w terminach określonych w art. 180 § 9, art. 182 1d § 1 oraz art. 182³ § 2 zakaz, o którym mowa w § 1, zaczyna obowiązywać na:",
+       "text": "[^11] W przypadku złożenia przez pracownika wniosku, o którym mowa w § 1, wcześniej niż w terminach określonych w art. 180 § 9, art. 182¹ᵈ § 1 oraz art. 182³ § 2 zakaz, o którym mowa w § 1, zaczyna obowiązywać na:",
        "children": [
         {
          "type": "pkt",
@@ -9532,7 +9682,7 @@
        "type": "par",
        "num": "1¹",
        "path": "art_177/par_1¹",
-       "text": "[^12] W przypadku złożenia wniosku, o którym mowa w § 1, wcześniej niż w terminach określonych w art. 180 2 1d 3 § 9, art. 180 § 4, art. 182 § 1, art. 182 § 2 oraz art. 183 § 6 zakaz, o którym mowa w § 1, zaczyna obowiązywać na:",
+       "text": "[^12] W przypadku złożenia wniosku, o którym mowa w § 1, wcześniej niż w terminach określonych w art. 180 § 9, art. 180² § 4, art. 182¹ᵈ § 1, art. 182³ § 2 oraz art. 183 § 6 zakaz, o którym mowa w § 1, zaczyna obowiązywać na:",
        "children": [
         {
          "type": "pkt",
@@ -9854,14 +10004,14 @@
        "type": "par",
        "num": "8",
        "path": "art_180/par_8",
-       "text": "W przypadkach, o których mowa w § 4 i 6, pracownica składa pracodawcy wniosek w postaci papierowej lub elektronicznej w sprawie rezygnacji z korzystania z części urlopu macierzyńskiego w terminie nie krótszym niż 7 dni przed przystąpieniem do pracy. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 8a . Pracodawca jest obowiązany uwzględnić wniosek pracownicy.",
+       "text": "W przypadkach, o których mowa w § 4 i 6, pracownica składa pracodawcy wniosek w postaci papierowej lub elektronicznej w sprawie rezygnacji z korzystania z części urlopu macierzyńskiego w terminie nie krótszym niż 7 dni przed przystąpieniem do pracy. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186⁸ᵃ. Pracodawca jest obowiązany uwzględnić wniosek pracownicy.",
        "children": []
       },
       {
        "type": "par",
        "num": "9",
        "path": "art_180/par_9",
-       "text": "Części urlopu macierzyńskiego, o której mowa w § 4 pkt 1, § 5, § 6 pkt 1 i § 7, pracodawca udziela, odpowiednio, pracownikowi – ojcu wychowującemu dziecko albo pracownikowi – innemu członkowi najbliższej rodziny, na wniosek w postaci papierowej lub elektronicznej składany w terminie nie krótszym niż 14 dni przed rozpoczęciem korzystania z części urlopu. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 8a . Pracodawca jest obowiązany uwzględnić wniosek pracownika – ojca wychowującego dziecko albo pracownika – innego członka najbliższej rodziny.",
+       "text": "Części urlopu macierzyńskiego, o której mowa w § 4 pkt 1, § 5, § 6 pkt 1 i § 7, pracodawca udziela, odpowiednio, pracownikowi – ojcu wychowującemu dziecko albo pracownikowi – innemu członkowi najbliższej rodziny, na wniosek w postaci papierowej lub elektronicznej składany w terminie nie krótszym niż 14 dni przed rozpoczęciem korzystania z części urlopu. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186⁸ᵃ. Pracodawca jest obowiązany uwzględnić wniosek pracownika – ojca wychowującego dziecko albo pracownika – innego członka najbliższej rodziny.",
        "children": []
       },
       {
@@ -9966,7 +10116,7 @@
        "type": "par",
        "num": "16",
        "path": "art_180/par_16",
-       "text": "W okolicznościach, o których mowa w § 10 pkt 1 i § 11–13 i 15, części urlopu macierzyńskiego udziela się na wniosek składany w postaci papierowej lub elektronicznej przez pracownika – ojca wychowującego dziecko albo pracownika – innego członka najbliższej rodziny. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 8a . Pracodawca jest obowiązany uwzględnić wniosek pracownika – ojca wychowującego dziecko albo pracownika – innego członka najbliższej rodziny.",
+       "text": "W okolicznościach, o których mowa w § 10 pkt 1 i § 11–13 i 15, części urlopu macierzyńskiego udziela się na wniosek składany w postaci papierowej lub elektronicznej przez pracownika – ojca wychowującego dziecko albo pracownika – innego członka najbliższej rodziny. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186⁸ᵃ. Pracodawca jest obowiązany uwzględnić wniosek pracownika – ojca wychowującego dziecko albo pracownika – innego członka najbliższej rodziny.",
        "children": []
       },
       {
@@ -10060,7 +10210,7 @@
        "type": "par",
        "num": "5",
        "path": "art_180²/par_5",
-       "text": "Do wniosku dołącza się zaświadczenie wydane przez szpital, w którym przebywało dziecko, oraz dokumenty określone w przepisach wydanych na podstawie art. 186 8a . Zaświadczenie zawiera informacje o okresie pobytu dziecka w szpitalu oraz o urodzeniu dziecka:",
+       "text": "Do wniosku dołącza się zaświadczenie wydane przez szpital, w którym przebywało dziecko, oraz dokumenty określone w przepisach wydanych na podstawie art. 186⁸ᵃ. Zaświadczenie zawiera informacje o okresie pobytu dziecka w szpitalu oraz o urodzeniu dziecka:",
        "children": [
         {
          "type": "pkt",
@@ -10120,42 +10270,53 @@
      "num": "182¹",
      "path": "art_182¹",
      "text": "(uchylony)",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "182¹ᵃ",
+     "path": "art_182¹ᵃ",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "Art. 182 1a . § 1. Pracownicy – rodzice dziecka mają prawo do urlopu rodzicielskiego w celu sprawowania opieki nad dzieckiem w wymiarze do:"
-      },
-      {
-       "type": "pkt",
+       "type": "par",
        "num": "1",
-       "path": "art_182¹/pkt_1",
-       "text": "41 tygodni – w przypadku, o którym mowa w art. 180 § 1 pkt 1;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "art_182¹/pkt_2",
-       "text": "43 tygodni – w przypadkach, o których mowa w art. 180 § 1 pkt 2–5.",
-       "children": []
+       "path": "art_182¹ᵃ/par_1",
+       "text": "Pracownicy – rodzice dziecka mają prawo do urlopu rodzicielskiego w celu sprawowania opieki nad dzieckiem w wymiarze do:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_182¹ᵃ/par_1/pkt_1",
+         "text": "41 tygodni – w przypadku, o którym mowa w art. 180 § 1 pkt 1;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_182¹ᵃ/par_1/pkt_2",
+         "text": "43 tygodni – w przypadkach, o których mowa w art. 180 § 1 pkt 2–5.",
+         "children": []
+        }
+       ]
       },
       {
        "type": "par",
        "num": "2",
-       "path": "art_182¹/par_2",
+       "path": "art_182¹ᵃ/par_2",
        "text": "Pracownicy – rodzice dziecka posiadającego zaświadczenie, o którym mowa w art. 4 ust. 3 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem”, mają prawo do urlopu rodzicielskiego w celu sprawowania opieki nad tym dzieckiem w wymiarze do:",
        "children": [
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_182¹/par_2/pkt_1",
+         "path": "art_182¹ᵃ/par_2/pkt_1",
          "text": "65 tygodni – w przypadku, o którym mowa w art. 180 § 1 pkt 1;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_182¹/par_2/pkt_2",
+         "path": "art_182¹ᵃ/par_2/pkt_2",
          "text": "67 tygodni – w przypadkach, o których mowa w art. 180 § 1 pkt 2–5.",
          "children": []
         }
@@ -10164,91 +10325,128 @@
       {
        "type": "par",
        "num": "3",
-       "path": "art_182¹/par_3",
+       "path": "art_182¹ᵃ/par_3",
        "text": "Urlop rodzicielski w wymiarze, o którym mowa w § 1 i 2, przysługuje łącznie obojgu pracownikom – rodzicom dziecka.",
        "children": []
       },
       {
        "type": "par",
        "num": "4",
-       "path": "art_182¹/par_4",
+       "path": "art_182¹ᵃ/par_4",
        "text": "Każdemu z pracowników – rodziców dziecka przysługuje wyłączne prawo do 9 tygodni urlopu rodzicielskiego z wymiaru urlopu określonego w § 1 i 2. Prawa tego nie można przenieść na drugiego z pracowników – rodziców dziecka.",
        "children": []
       },
       {
        "type": "par",
        "num": "5",
-       "path": "art_182¹/par_5",
+       "path": "art_182¹ᵃ/par_5",
        "text": "Skorzystanie z urlopu rodzicielskiego w wymiarze co najmniej 9 tygodni oznacza wykorzystanie przez pracownika – rodzica dziecka urlopu, o którym mowa w § 4.",
        "children": []
       },
       {
        "type": "par",
        "num": "6",
-       "path": "art_182¹/par_6",
+       "path": "art_182¹ᵃ/par_6",
        "text": "Z urlopu rodzicielskiego mogą jednocześnie korzystać oboje pracownicy – rodzice dziecka. W takim przypadku łączny wymiar urlopu rodzicielskiego nie może przekraczać wymiaru, o którym mowa w § 1 albo 2.",
        "children": []
       },
       {
        "type": "par",
        "num": "7",
-       "path": "art_182¹/par_7",
+       "path": "art_182¹ᵃ/par_7",
        "text": "W okresie pobierania przez jednego z rodziców dziecka zasiłku macierzyńskiego za okres odpowiadający okresowi urlopu rodzicielskiego drugi rodzic może korzystać z urlopu rodzicielskiego. W takim przypadku łączny wymiar urlopu rodzicielskiego i okresu pobierania zasiłku macierzyńskiego za okres odpowiadający okresowi urlopu rodzicielskiego nie może przekraczać wymiaru, o którym mowa w § 1 albo 2.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 182 1b . (uchylony)"
-        },
-        {
-         "type": "text",
-         "text": "Art. 182 1c . Urlop rodzicielski jest udzielany jednorazowo albo nie więcej niż w 5 częściach nie później niż do zakończenia roku kalendarzowego, w którym dziecko kończy 6 rok życia."
-        },
-        {
-         "type": "text",
-         "text": "Art. 182 1d . § 1. Urlop rodzicielski jest udzielany na wniosek w postaci papierowej lub elektronicznej składany przez pracownika – rodzica dziecka w terminie nie krótszym niż 21 dni przed rozpoczęciem korzystania z urlopu. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 8a . Pracodawca jest obowiązany uwzględnić wniosek pracownika."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "182¹ᵇ",
+     "path": "art_182¹ᵇ",
+     "text": "(uchylony)",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "182¹ᶜ",
+     "path": "art_182¹ᶜ",
+     "text": "Urlop rodzicielski jest udzielany jednorazowo albo nie więcej niż w 5 częściach nie później niż do zakończenia roku kalendarzowego, w którym dziecko kończy 6 rok życia.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "182¹ᵈ",
+     "path": "art_182¹ᵈ",
+     "text": "",
+     "children": [
+      {
+       "type": "par",
+       "num": "1",
+       "path": "art_182¹ᵈ/par_1",
+       "text": "Urlop rodzicielski jest udzielany na wniosek w postaci papierowej lub elektronicznej składany przez pracownika – rodzica dziecka w terminie nie krótszym niż 21 dni przed rozpoczęciem korzystania z urlopu. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186⁸ᵃ. Pracodawca jest obowiązany uwzględnić wniosek pracownika.",
+       "children": []
       },
       {
        "type": "par",
        "num": "2",
-       "path": "art_182¹/par_2",
+       "path": "art_182¹ᵈ/par_2",
        "text": "Liczbę części urlopu ustala się w oparciu o liczbę złożonych wniosków o udzielenie urlopu. W liczbie wykorzystanych części urlopu uwzględnia się także liczbę wniosków o zasiłek macierzyński za okres odpowiadający okresowi urlopu rodzicielskiego albo jego części, złożonych przez ubezpieczoną – matkę dziecka lub ubezpieczonego – ojca dziecka.",
        "children": []
       },
       {
        "type": "par",
        "num": "3",
-       "path": "art_182¹/par_3",
+       "path": "art_182¹ᵈ/par_3",
        "text": "Pracownik może zrezygnować z korzystania z urlopu rodzicielskiego w każdym czasie za zgodą pracodawcy i powrócić do pracy.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 182 1e . § 1. Pracownik może łączyć korzystanie z urlopu rodzicielskiego z wykonywaniem pracy u pracodawcy udzielającego tego urlopu w wymiarze nie wyższym niż połowa pełnego wymiaru czasu pracy. W takim przypadku urlopu rodzicielskiego udziela się na pozostałą część wymiaru czasu pracy."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "182¹ᵉ",
+     "path": "art_182¹ᵉ",
+     "text": "",
+     "children": [
+      {
+       "type": "par",
+       "num": "1",
+       "path": "art_182¹ᵉ/par_1",
+       "text": "Pracownik może łączyć korzystanie z urlopu rodzicielskiego z wykonywaniem pracy u pracodawcy udzielającego tego urlopu w wymiarze nie wyższym niż połowa pełnego wymiaru czasu pracy. W takim przypadku urlopu rodzicielskiego udziela się na pozostałą część wymiaru czasu pracy.",
+       "children": []
       },
       {
        "type": "par",
        "num": "2",
-       "path": "art_182¹/par_2",
+       "path": "art_182¹ᵉ/par_2",
        "text": "W przypadku, o którym mowa w § 1, podjęcie pracy następuje na wniosek w postaci papierowej lub elektronicznej składany przez pracownika w terminie nie krótszym niż 21 dni przed rozpoczęciem wykonywania pracy. Pracodawca jest obowiązany uwzględnić wniosek pracownika, chyba że nie jest to możliwe ze względu na organizację pracy lub rodzaj pracy wykonywanej przez pracownika. O przyczynie odmowy uwzględnienia wniosku pracodawca informuje pracownika w postaci papierowej lub elektronicznej w terminie 7 dni od dnia otrzymania wniosku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "182¹ᶠ",
+     "path": "art_182¹ᶠ",
+     "text": "",
+     "children": [
+      {
+       "type": "par",
+       "num": "1",
+       "path": "art_182¹ᶠ/par_1",
+       "text": "W przypadku łączenia przez pracownika – rodzica dziecka korzystania z urlopu rodzicielskiego z wykonywaniem pracy u pracodawcy udzielającego tego urlopu wymiar urlopu rodzicielskiego ulega wydłużeniu proporcjonalnie do wymiaru czasu pracy wykonywanej przez pracownika w trakcie korzystania z urlopu lub jego części, nie dłużej jednak niż do:",
        "children": [
-        {
-         "type": "text",
-         "text": "Art. 182 1f . § 1. W przypadku łączenia przez pracownika – rodzica dziecka korzystania z urlopu rodzicielskiego z wykonywaniem pracy u pracodawcy udzielającego tego urlopu wymiar urlopu rodzicielskiego ulega wydłużeniu proporcjonalnie do wymiaru czasu pracy wykonywanej przez pracownika w trakcie korzystania z urlopu lub jego części, nie dłużej jednak niż do:"
-        },
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_182¹/par_2/pkt_1",
+         "path": "art_182¹ᶠ/par_1/pkt_1",
          "text": "82 tygodni – w przypadku, o którym mowa w art. 180 § 1 pkt 1;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_182¹/par_2/pkt_2",
+         "path": "art_182¹ᶠ/par_1/pkt_2",
          "text": "86 tygodni – w przypadkach, o których mowa w art. 180 § 1 pkt 2–5.",
          "children": []
         }
@@ -10257,20 +10455,20 @@
       {
        "type": "par",
        "num": "1¹",
-       "path": "art_182¹/par_1¹",
+       "path": "art_182¹ᶠ/par_1¹",
        "text": "W przypadku łączenia przez pracownika – rodzica dziecka posiadającego zaświadczenie, o którym mowa w art. 4 ust. 3 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem”, korzystania z urlopu rodzicielskiego z wykonywaniem pracy u pracodawcy udzielającego tego urlopu wymiar urlopu rodzicielskiego ulega wydłużeniu proporcjonalnie do wymiaru czasu pracy wykonywanej przez pracownika – rodzica dziecka w trakcie korzystania z urlopu lub jego części, nie dłużej jednak niż do:",
        "children": [
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_182¹/par_1¹/pkt_1",
+         "path": "art_182¹ᶠ/par_1¹/pkt_1",
          "text": "130 tygodni – w przypadku, o którym mowa w art. 180 § 1 pkt 1;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_182¹/par_1¹/pkt_2",
+         "path": "art_182¹ᶠ/par_1¹/pkt_2",
          "text": "134 tygodni – w przypadkach, o których mowa w art. 180 § 1 pkt 2–5.",
          "children": []
         }
@@ -10279,51 +10477,53 @@
       {
        "type": "par",
        "num": "2",
-       "path": "art_182¹/par_2",
+       "path": "art_182¹ᶠ/par_2",
        "text": "Okres, o który urlop rodzicielski ulega wydłużeniu, stanowi iloczyn liczby tygodni, przez jaką pracownik łączy korzystanie z urlopu rodzicielskiego z wykonywaniem pracy u pracodawcy udzielającego tego urlopu i wymiaru czasu pracy wykonywanej przez pracownika w trakcie korzystania z urlopu rodzicielskiego.",
        "children": []
       },
       {
        "type": "par",
        "num": "3",
-       "path": "art_182¹/par_3",
+       "path": "art_182¹ᶠ/par_3",
        "text": "W przypadku gdy łączenie korzystania z urlopu z wykonywaniem pracy, o którym mowa w § 1 albo § 1¹, odbywa się przez część urlopu rodzicielskiego, proporcjonalne wydłużenie wymiaru tego urlopu, następuje wyłącznie w odniesieniu do tej części urlopu rodzicielskiego.",
        "children": []
       },
       {
        "type": "par",
        "num": "4",
-       "path": "art_182¹/par_4",
+       "path": "art_182¹ᶠ/par_4",
        "text": "W przypadku gdy powstała w wyniku wydłużenia wymiaru urlopu rodzicielskiego część urlopu rodzicielskiego nie odpowiada wielokrotności tygodnia, jest ona udzielana w dniach. Przy udzielaniu urlopu niepełny dzień pomija się.",
        "children": []
       },
       {
        "type": "par",
        "num": "5",
-       "path": "art_182¹/par_5",
+       "path": "art_182¹ᶠ/par_5",
        "text": "Część urlopu rodzicielskiego, o którą urlop został proporcjonalnie wydłużony zgodnie z § 1–4, wydłuża część urlopu rodzicielskiego, podczas której pracownik łączył korzystanie z urlopu z wykonywaniem pracy w niepełnym wymiarze czasu pracy u pracodawcy udzielającego urlopu.",
        "children": []
       },
       {
        "type": "par",
        "num": "6",
-       "path": "art_182¹/par_6",
-       "text": "We wniosku, o którym mowa w art. 182 1e § 2, pracownik określa sposób wykorzystania części urlopu rodzicielskiego, o którą urlop zostanie proporcjonalnie wydłużony.",
+       "path": "art_182¹ᶠ/par_6",
+       "text": "We wniosku, o którym mowa w art. 182¹ᵉ § 2, pracownik określa sposób wykorzystania części urlopu rodzicielskiego, o którą urlop zostanie proporcjonalnie wydłużony.",
        "children": []
       },
       {
        "type": "par",
        "num": "7",
-       "path": "art_182¹/par_7",
+       "path": "art_182¹ᶠ/par_7",
        "text": "W przypadku gdy pracownik zamierza łączyć korzystanie z części urlopu rodzicielskiego powstałej w wyniku proporcjonalnego wydłużenia tego urlopu, obliczonej zgodnie z § 2, z wykonywaniem pracy w niepełnym wymiarze czasu pracy, wymiar tej części urlopu oblicza się dzieląc długość części urlopu powstałej w wyniku proporcjonalnego wydłużenia przez różnicę liczby 1 i wymiaru czasu pracy, w jakim pracownik zamierza łączyć korzystanie z tej części urlopu z wykonywaniem pracy. Przepis § 4 stosuje się odpowiednio.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 182 1g . Do urlopu rodzicielskiego stosuje się odpowiednio przepisy art. 45 § 3, art. 47, art. 57 § 2, art. 163 § 3, art. 165 pkt 4, art. 166 pkt 4, art. 180 § 6–17, art. 180¹ § 2, art. 181, art. 182 zdanie pierwsze i art. 183¹ § 1."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "182¹ᵍ",
+     "path": "art_182¹ᵍ",
+     "text": "Do urlopu rodzicielskiego stosuje się odpowiednio przepisy art. 45 § 3, art. 47, art. 57 § 2, art. 163 § 3, art. 165 pkt 4, art. 166 pkt 4, art. 180 § 6–17, art. 180¹ § 2, art. 181, art. 182 zdanie pierwsze i art. 183¹ § 1.",
+     "children": []
     },
     {
      "type": "art",
@@ -10371,7 +10571,7 @@
        "type": "par",
        "num": "2",
        "path": "art_182³/par_2",
-       "text": "Urlop ojcowski jest udzielany na wniosek w postaci papierowej lub elektronicznej składany przez pracownika – ojca w terminie nie krótszym niż 7 dni przed rozpoczęciem korzystania z urlopu. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 8a . Pracodawca jest obowiązany uwzględnić wniosek pracownika.",
+       "text": "Urlop ojcowski jest udzielany na wniosek w postaci papierowej lub elektronicznej składany przez pracownika – ojca w terminie nie krótszym niż 7 dni przed rozpoczęciem korzystania z urlopu. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186⁸ᵃ. Pracodawca jest obowiązany uwzględnić wniosek pracownika.",
        "children": []
       },
       {
@@ -10640,18 +10840,20 @@
        "num": "4⁶",
        "path": "art_183/par_4⁶",
        "text": "Urlop rodzicielski jest udzielany jednorazowo albo nie więcej niż w 5 częściach.",
-       "children": [
-        {
-         "type": "text",
-         "text": "1a 1c 1g § 5. Do urlopu rodzicielskiego stosuje się odpowiednio przepisy art. 182 § 3–7 i art. 182 –182 ."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "par",
+       "num": "5",
+       "path": "art_183/par_5",
+       "text": "Do urlopu rodzicielskiego stosuje się odpowiednio przepisy art. 182¹ᵃ § 3–7 i art. 182¹ᶜ–182¹ᵍ.",
+       "children": []
       },
       {
        "type": "par",
        "num": "6",
        "path": "art_183/par_6",
-       "text": "Urlop na warunkach urlopu macierzyńskiego jest udzielany na wniosek w postaci papierowej lub elektronicznej składany przez pracownika w terminie 7 dni od dnia przyjęcia dziecka na wychowanie jako rodzina zastępcza albo przyjęcia dziecka na wychowanie i wystąpienia do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka. Urlop rozpoczyna się w terminie określonym we wniosku pracownika, jednak nie później niż 21 dni od dnia odpowiednio przyjęcia dziecka na wychowanie jako rodzina zastępcza albo przyjęcia dziecka na wychowanie i wystąpienia do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 8a . Pracodawca jest obowiązany uwzględnić wniosek pracownika.",
+       "text": "Urlop na warunkach urlopu macierzyńskiego jest udzielany na wniosek w postaci papierowej lub elektronicznej składany przez pracownika w terminie 7 dni od dnia przyjęcia dziecka na wychowanie jako rodzina zastępcza albo przyjęcia dziecka na wychowanie i wystąpienia do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka. Urlop rozpoczyna się w terminie określonym we wniosku pracownika, jednak nie później niż 21 dni od dnia odpowiednio przyjęcia dziecka na wychowanie jako rodzina zastępcza albo przyjęcia dziecka na wychowanie i wystąpienia do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186⁸ᵃ. Pracodawca jest obowiązany uwzględnić wniosek pracownika.",
        "children": []
       },
       {
@@ -10794,7 +10996,7 @@
        "type": "par",
        "num": "7",
        "path": "art_186/par_7",
-       "text": "Urlop wychowawczy jest udzielany na wniosek w postaci papierowej lub elektronicznej składany przez pracownika w terminie nie krótszym niż 21 dni przed rozpoczęciem korzystania z urlopu. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 8a . Pracodawca jest obowiązany uwzględnić wniosek pracownika. Pracownik może wycofać wniosek o udzielenie urlopu wychowawczego nie później niż na 7 dni przed rozpoczęciem korzystania z urlopu, składając pracodawcy w postaci papierowej lub elektronicznej oświadczenie w tej sprawie.",
+       "text": "Urlop wychowawczy jest udzielany na wniosek w postaci papierowej lub elektronicznej składany przez pracownika w terminie nie krótszym niż 21 dni przed rozpoczęciem korzystania z urlopu. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186⁸ᵃ. Pracodawca jest obowiązany uwzględnić wniosek pracownika. Pracownik może wycofać wniosek o udzielenie urlopu wychowawczego nie później niż na 7 dni przed rozpoczęciem korzystania z urlopu, składając pracodawcy w postaci papierowej lub elektronicznej oświadczenie w tej sprawie.",
        "children": []
       },
       {
@@ -10957,7 +11159,7 @@
        "type": "par",
        "num": "2",
        "path": "art_186⁷/par_2",
-       "text": "Wniosek, o którym mowa w § 1, składa się na 21 dni przed rozpoczęciem wykonywania pracy w obniżonym wymiarze czasu pracy. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 8a . Jeżeli wniosek został złożony bez zachowania terminu, pracodawca obniża wymiar czasu pracy nie później niż z upływem 21 dni od dnia złożenia wniosku.",
+       "text": "Wniosek, o którym mowa w § 1, składa się na 21 dni przed rozpoczęciem wykonywania pracy w obniżonym wymiarze czasu pracy. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186⁸ᵃ. Jeżeli wniosek został złożony bez zachowania terminu, pracodawca obniża wymiar czasu pracy nie później niż z upływem 21 dni od dnia złożenia wniosku.",
        "children": []
       },
       {
@@ -11023,86 +11225,89 @@
        "num": "4",
        "path": "art_186⁸/par_4",
        "text": "W przypadku złożenia przez pracownika wniosku, o którym mowa w § 1, po dokonaniu czynności zmierzającej do rozwiązania umowy o pracę, umowa rozwiązuje się w terminie wynikającym z tej czynności.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 186 8a . Minister właściwy do spraw pracy określi, w drodze rozporządzenia:"
-        },
-        {
-         "type": "pkt",
-         "num": "1",
-         "path": "art_186⁸/par_4/pkt_1",
-         "text": "[^21] treść wniosku o udzielenie części urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego lub jego części, urlopu rodzicielskiego lub jego części i urlopu ojcowskiego lub jego części,",
-         "children": []
-        },
-        {
-         "type": "pkt",
-         "num": "1",
-         "path": "art_186⁸/par_4/pkt_1",
-         "text": "[^22] treść wniosku o udzielenie części urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego lub jego części, uzupełniającego urlopu macierzyńskiego, urlopu rodzicielskiego lub jego części i urlopu ojcowskiego lub jego części,",
-         "children": []
-        },
-        {
-         "type": "pkt",
-         "num": "2",
-         "path": "art_186⁸/par_4/pkt_2",
-         "text": "dokumenty dołączane do wniosków, o których mowa w pkt 1,",
-         "children": []
-        },
-        {
-         "type": "pkt",
-         "num": "3",
-         "path": "art_186⁸/par_4/pkt_3",
-         "text": "treść wniosku w sprawie rezygnacji z części urlopu macierzyńskiego i części urlopu na warunkach urlopu macierzyńskiego,",
-         "children": []
-        },
-        {
-         "type": "pkt",
-         "num": "4",
-         "path": "art_186⁸/par_4/pkt_4",
-         "text": "dokumenty dołączane do wniosków, o których mowa w pkt 3,",
-         "children": []
-        },
-        {
-         "type": "pkt",
-         "num": "5",
-         "path": "art_186⁸/par_4/pkt_5",
-         "text": "treść wniosku o łączenie korzystania z urlopu rodzicielskiego lub jego części z wykonywaniem pracy u pracodawcy udzielającego takiego urlopu,",
-         "children": []
-        },
-        {
-         "type": "pkt",
-         "num": "6",
-         "path": "art_186⁸/par_4/pkt_6",
-         "text": "treść wniosku o udzielenie urlopu wychowawczego lub jego części,",
-         "children": []
-        },
-        {
-         "type": "pkt",
-         "num": "7",
-         "path": "art_186⁸/par_4/pkt_7",
-         "text": "dokumenty dołączane do wniosku, o którym mowa w pkt 6,",
-         "children": []
-        },
-        {
-         "type": "pkt",
-         "num": "8",
-         "path": "art_186⁸/par_4/pkt_8",
-         "text": "treść wniosku o obniżenie wymiaru czasu pracy pracownika uprawnionego do urlopu wychowawczego,",
-         "children": []
-        },
-        {
-         "type": "pkt",
-         "num": "9",
-         "path": "art_186⁸/par_4/pkt_9",
-         "text": "dokumenty dołączane do wniosku, o którym mowa w pkt 8",
-         "children": []
-        },
-        {
-         "type": "text",
-         "text": "– biorąc pod uwagę potrzebę zapewnienia prawidłowej realizacji uprawnień pracowników do urlopów związanych z rodzicielstwem i obniżenia wymiaru czasu pracy oraz zapewnienia właściwej organizacji czasu pracy."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "186⁸ᵃ",
+     "path": "art_186⁸ᵃ",
+     "text": "Minister właściwy do spraw pracy określi, w drodze rozporządzenia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_186⁸ᵃ/pkt_1",
+       "text": "[^21] treść wniosku o udzielenie części urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego lub jego części, urlopu rodzicielskiego lub jego części i urlopu ojcowskiego lub jego części,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_186⁸ᵃ/pkt_1",
+       "text": "[^22] treść wniosku o udzielenie części urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego lub jego części, uzupełniającego urlopu macierzyńskiego, urlopu rodzicielskiego lub jego części i urlopu ojcowskiego lub jego części,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_186⁸ᵃ/pkt_2",
+       "text": "dokumenty dołączane do wniosków, o których mowa w pkt 1,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_186⁸ᵃ/pkt_3",
+       "text": "treść wniosku w sprawie rezygnacji z części urlopu macierzyńskiego i części urlopu na warunkach urlopu macierzyńskiego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_186⁸ᵃ/pkt_4",
+       "text": "dokumenty dołączane do wniosków, o których mowa w pkt 3,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_186⁸ᵃ/pkt_5",
+       "text": "treść wniosku o łączenie korzystania z urlopu rodzicielskiego lub jego części z wykonywaniem pracy u pracodawcy udzielającego takiego urlopu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_186⁸ᵃ/pkt_6",
+       "text": "treść wniosku o udzielenie urlopu wychowawczego lub jego części,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_186⁸ᵃ/pkt_7",
+       "text": "dokumenty dołączane do wniosku, o którym mowa w pkt 6,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "art_186⁸ᵃ/pkt_8",
+       "text": "treść wniosku o obniżenie wymiaru czasu pracy pracownika uprawnionego do urlopu wychowawczego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "art_186⁸ᵃ/pkt_9",
+       "text": "dokumenty dołączane do wniosku, o którym mowa w pkt 8",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– biorąc pod uwagę potrzebę zapewnienia prawidłowej realizacji uprawnień pracowników do urlopów związanych z rodzicielstwem i obniżenia wymiaru czasu pracy oraz zapewnienia właściwej organizacji czasu pracy."
       }
      ]
     },
@@ -13990,78 +14195,90 @@
      "text": "Konsultacje w zakresie bezpieczeństwa i higieny pracy oraz komisja bezpieczeństwa i higieny pracy"
     },
     {
-     "type": "text",
-     "text": "Art. 237 11a . § 1. Pracodawca konsultuje z pracownikami lub ich przedstawicielami wszystkie działania związane z bezpieczeństwem i higieną pracy, w szczególności dotyczące:"
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "pkt_1",
-     "text": "zmian w organizacji pracy i wyposażeniu stanowisk pracy, wprowadzania nowych procesów technologicznych oraz substancji chemicznych i ich mieszanin, jeżeli mogą one stwarzać zagrożenie dla zdrowia lub życia pracowników;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "pkt_2",
-     "text": "oceny ryzyka zawodowego występującego przy wykonywaniu określonych prac oraz informowania pracowników o tym ryzyku;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "pkt_3",
-     "text": "tworzenia służby bhp lub powierzania wykonywania zadań tej służby innym osobom oraz wyznaczania pracowników do udzielania pierwszej pomocy, a także wykonywania działań w zakresie zwalczania pożarów i ewakuacji pracowników;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "4",
-     "path": "pkt_4",
-     "text": "przydzielania pracownikom środków ochrony indywidualnej oraz odzieży i obuwia roboczego;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "5",
-     "path": "pkt_5",
-     "text": "szkolenia pracowników w dziedzinie bezpieczeństwa i higieny pracy.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "2",
-     "path": "par_2",
-     "text": "Pracownicy lub ich przedstawiciele mogą przedstawiać pracodawcy wnioski w sprawie eliminacji lub ograniczenia zagrożeń zawodowych.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "3",
-     "path": "par_3",
-     "text": "Pracodawca zapewnia odpowiednie warunki do przeprowadzania konsultacji, a zwłaszcza zapewnia, aby odbywały się w godzinach pracy. Za czas nieprzepracowany w związku z udziałem w konsultacjach pracownicy lub ich przedstawiciele zachowują prawo do wynagrodzenia.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "4",
-     "path": "par_4",
-     "text": "Na umotywowany wniosek pracowników lub ich przedstawicieli dotyczący spraw zagrożenia zdrowia i życia pracowników inspektorzy pracy Państwowej Inspekcji Pracy przeprowadzają kontrole oraz stosują środki prawne przewidziane w przepisach o Państwowej Inspekcji Pracy.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "5",
-     "path": "par_5",
-     "text": "U pracodawcy, u którego została powołana komisja bezpieczeństwa i higieny pracy – konsultacje, o których mowa w § 1, mogą być prowadzone w ramach tej komisji, natomiast uprawnienia, o których mowa w § 2 i 4, przysługują pracownikom lub ich przedstawicielom wchodzącym w skład komisji.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "6",
-     "path": "par_6",
-     "text": "Pracownicy lub ich przedstawiciele nie mogą ponosić jakichkolwiek niekorzystnych dla nich konsekwencji z tytułu działalności, o której mowa w § 1, 2 i 4. Dotyczy to również pracowników lub ich przedstawicieli, o których mowa w § 5.",
-     "children": []
+     "type": "art",
+     "num": "237¹¹ᵃ",
+     "path": "art_237¹¹ᵃ",
+     "text": "",
+     "children": [
+      {
+       "type": "par",
+       "num": "1",
+       "path": "art_237¹¹ᵃ/par_1",
+       "text": "Pracodawca konsultuje z pracownikami lub ich przedstawicielami wszystkie działania związane z bezpieczeństwem i higieną pracy, w szczególności dotyczące:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_237¹¹ᵃ/par_1/pkt_1",
+         "text": "zmian w organizacji pracy i wyposażeniu stanowisk pracy, wprowadzania nowych procesów technologicznych oraz substancji chemicznych i ich mieszanin, jeżeli mogą one stwarzać zagrożenie dla zdrowia lub życia pracowników;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_237¹¹ᵃ/par_1/pkt_2",
+         "text": "oceny ryzyka zawodowego występującego przy wykonywaniu określonych prac oraz informowania pracowników o tym ryzyku;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_237¹¹ᵃ/par_1/pkt_3",
+         "text": "tworzenia służby bhp lub powierzania wykonywania zadań tej służby innym osobom oraz wyznaczania pracowników do udzielania pierwszej pomocy, a także wykonywania działań w zakresie zwalczania pożarów i ewakuacji pracowników;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "art_237¹¹ᵃ/par_1/pkt_4",
+         "text": "przydzielania pracownikom środków ochrony indywidualnej oraz odzieży i obuwia roboczego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "art_237¹¹ᵃ/par_1/pkt_5",
+         "text": "szkolenia pracowników w dziedzinie bezpieczeństwa i higieny pracy.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "par",
+       "num": "2",
+       "path": "art_237¹¹ᵃ/par_2",
+       "text": "Pracownicy lub ich przedstawiciele mogą przedstawiać pracodawcy wnioski w sprawie eliminacji lub ograniczenia zagrożeń zawodowych.",
+       "children": []
+      },
+      {
+       "type": "par",
+       "num": "3",
+       "path": "art_237¹¹ᵃ/par_3",
+       "text": "Pracodawca zapewnia odpowiednie warunki do przeprowadzania konsultacji, a zwłaszcza zapewnia, aby odbywały się w godzinach pracy. Za czas nieprzepracowany w związku z udziałem w konsultacjach pracownicy lub ich przedstawiciele zachowują prawo do wynagrodzenia.",
+       "children": []
+      },
+      {
+       "type": "par",
+       "num": "4",
+       "path": "art_237¹¹ᵃ/par_4",
+       "text": "Na umotywowany wniosek pracowników lub ich przedstawicieli dotyczący spraw zagrożenia zdrowia i życia pracowników inspektorzy pracy Państwowej Inspekcji Pracy przeprowadzają kontrole oraz stosują środki prawne przewidziane w przepisach o Państwowej Inspekcji Pracy.",
+       "children": []
+      },
+      {
+       "type": "par",
+       "num": "5",
+       "path": "art_237¹¹ᵃ/par_5",
+       "text": "U pracodawcy, u którego została powołana komisja bezpieczeństwa i higieny pracy – konsultacje, o których mowa w § 1, mogą być prowadzone w ramach tej komisji, natomiast uprawnienia, o których mowa w § 2 i 4, przysługują pracownikom lub ich przedstawicielom wchodzącym w skład komisji.",
+       "children": []
+      },
+      {
+       "type": "par",
+       "num": "6",
+       "path": "art_237¹¹ᵃ/par_6",
+       "text": "Pracownicy lub ich przedstawiciele nie mogą ponosić jakichkolwiek niekorzystnych dla nich konsekwencji z tytułu działalności, o której mowa w § 1, 2 i 4. Dotyczy to również pracowników lub ich przedstawicieli, o których mowa w § 5.",
+       "children": []
+      }
+     ]
     },
     {
      "type": "art",
@@ -14110,14 +14327,16 @@
        "num": "3",
        "path": "art_237¹³/par_3",
        "text": "Komisja bhp w związku z wykonywaniem zadań wymienionych w § 1 korzysta z ekspertyz lub opinii specjalistów spoza zakładu pracy w przypadkach uzgodnionych z pracodawcą i na jego koszt.",
-       "children": [
-        {
-         "type": "text",
-         "text": "13a 11a 12 Art. 237 . Przedstawiciele pracowników, o których mowa w art. 237 i art. 237 , są wybierani przez zakładowe organizacje związkowe, a jeżeli u pracodawcy takie organizacje nie działają – przez pracowników, w trybie przyjętym w zakładzie pracy."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "237¹³ᵃ",
+     "path": "art_237¹³ᵃ",
+     "text": "Przedstawiciele pracowników, o których mowa w art. 237¹¹ᵃ i art. 237¹², są wybierani przez zakładowe organizacje związkowe, a jeżeli u pracodawcy takie organizacje nie działają – przez pracowników, w trybie przyjętym w zakładzie pracy.",
+     "children": []
     },
     {
      "type": "heading",
@@ -15080,24 +15299,34 @@
        "num": "3",
        "path": "art_241¹⁴/par_3",
        "text": "(uchylony)",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 241 14a . § 1. W razie gdy ponadzakładowa organizacja związkowa reprezentująca pracowników, dla których ma być zawarty układ ponadzakładowy, wchodzi w skład zrzeszenia (federacji) związków zawodowych lub ogólnokrajowej organizacji międzyzwiązkowej (konfederacji), do zawarcia układu jest upoważniona, z zastrzeżeniem § 2, wyłącznie ta ponadzakładowa organizacja związkowa."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "241¹⁴ᵃ",
+     "path": "art_241¹⁴ᵃ",
+     "text": "",
+     "children": [
+      {
+       "type": "par",
+       "num": "1",
+       "path": "art_241¹⁴ᵃ/par_1",
+       "text": "W razie gdy ponadzakładowa organizacja związkowa reprezentująca pracowników, dla których ma być zawarty układ ponadzakładowy, wchodzi w skład zrzeszenia (federacji) związków zawodowych lub ogólnokrajowej organizacji międzyzwiązkowej (konfederacji), do zawarcia układu jest upoważniona, z zastrzeżeniem § 2, wyłącznie ta ponadzakładowa organizacja związkowa.",
+       "children": []
       },
       {
        "type": "par",
        "num": "2",
-       "path": "art_241¹⁴/par_2",
+       "path": "art_241¹⁴ᵃ/par_2",
        "text": "Ogólnokrajowa organizacja międzyzwiązkowa (konfederacja) uczestniczy w rokowaniach i zawiera układ ponadzakładowy w miejsce wchodzących w jej skład ponadzakładowych organizacji związkowych, reprezentujących pracowników, dla których układ ten ma być zawarty i które uzyskały reprezentatywność na podstawie art. 25² ust. 3 ustawy o związkach zawodowych, w razie skierowania do niej umotywowanego pisemnego wniosku w tej sprawie przez organizację pracodawców prowadzącą rokowania w sprawie zawarcia tego układu lub co najmniej jedną z pozostałych ponadzakładowych organizacji związkowych prowadzących rokowania w sprawie zawarcia tego układu. Organizacja, do której skierowano wniosek, nie może odmówić przystąpienia do rokowań; odmowa skutkuje pozbawieniem reprezentatywności dla potrzeb określonego układu ponadzakładowego wszystkich organizacji, w miejsce których powinna wstąpić organizacja, do której skierowany został wniosek.",
        "children": []
       },
       {
        "type": "par",
        "num": "3",
-       "path": "art_241¹⁴/par_3",
+       "path": "art_241¹⁴ᵃ/par_3",
        "text": "W razie gdy organizacja pracodawców zrzeszająca pracodawców, którzy mają być objęci układem ponadzakładowym, wchodzi w skład federacji lub konfederacji, prawo do zawarcia układu przysługuje organizacji, w której pracodawcy są bezpośrednio zrzeszeni.",
        "children": []
       }
@@ -15348,14 +15577,16 @@
        "num": "5",
        "path": "art_241²⁵/par_5",
        "text": "Układ zakładowy zawierają wszystkie organizacje związkowe, które prowadziły rokowania nad tym układem, bądź przynajmniej wszystkie reprezentatywne organizacje związkowe, w rozumieniu art. 25³ ust. 1 lub 2 ustawy o związkach zawodowych, uczestniczące w rokowaniach.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 241 25a . (uchylony)"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "241²⁵ᵃ",
+     "path": "art_241²⁵ᵃ",
+     "text": "(uchylony)",
+     "children": []
     },
     {
      "type": "art",

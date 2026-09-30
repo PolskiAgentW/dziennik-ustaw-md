@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/970",
  "title": "Obwieszczenie Ministra Zdrowia z dnia 14 lipca 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie okresowych badań lekarskich pracowników zatrudnionych w zakładach, które stosowały azbest w produkcji",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/970/text.pdf",
  "body": [
   {
@@ -461,7 +461,21 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "badanie laryngologiczne 1) tomografia komputerowa 2) badanie gazometryczne spoczynkowe 2) badanie gazometryczne wysiłkowe 3) określenie zdolności dyfuzyjnej i podatności oddechowej płuc 4) badanie cytologiczne plwociny 5) badanie ekg",
+     "text": "badanie laryngologiczne 1) tomografia komputerowa",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "badanie gazometryczne spoczynkowe 2) badanie gazometryczne wysiłkowe 3) określenie zdolności dyfuzyjnej i podatności oddechowej płuc 4) badanie cytologiczne plwociny",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "badanie ekg",
      "children": []
     }
    ]

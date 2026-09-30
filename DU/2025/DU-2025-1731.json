@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1731",
  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 8 grudnia 2025 r. zmieniające rozporządzenie w sprawie wzoru legitymacji służbowej i innych dokumentów funkcjonariuszy Agencji Wywiadu",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1731/text.pdf",
  "body": [
   {
@@ -67,8 +67,43 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Dwukolorowe tło giloszowe wykonane w technice druku irysowego z elementem reliefowym. 2. Napis „AGENCJA WYWIADU” w kolorze białym. 3. Mikrodruki o treści „AGENCJAWYWIADUSŁUŻBASPECJALNA”. 4. Element graficzny w formie orła w koronie trzymającego w szponach różę wiatrów. 5. Elementy graficzne wykonane farbami aktywnymi w promieniowaniu ultrafioletowym. 6. Napisy w kolorze czarnym: 1) „IMIĘ”; 2) „NAZWISKO”; 3) „NR LEGITYMACJI”; 4) „WAŻNA DO”; 5) „31.12.2030”; 6) „SZEF AGENCJI WYWIADU”. 7. Miejsce na fotografię funkcjonariusza Agencji Wywiadu, która będzie nanoszona w procesie personalizacji. 8. Stylizowane litery „AW” wykonane farbą optycznie zmienną. 9. Element graficzny przedstawiający litery „AW” w zapisie kodem binarnym.",
+     "text": "Dwukolorowe tło giloszowe wykonane w technice druku irysowego z elementem reliefowym. 2. Napis „AGENCJA WYWIADU” w kolorze białym. 3. Mikrodruki o treści „AGENCJAWYWIADUSŁUŻBASPECJALNA”. 4. Element graficzny w formie orła w koronie trzymającego w szponach różę wiatrów. 5. Elementy graficzne wykonane farbami aktywnymi w promieniowaniu ultrafioletowym. 6. Napisy w kolorze czarnym: 1) „IMIĘ”;",
      "children": [
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "„NAZWISKO”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "„NR LEGITYMACJI”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "„WAŻNA DO”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "„31.12.2030”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "„SZEF AGENCJI WYWIADU”. 7. Miejsce na fotografię funkcjonariusza Agencji Wywiadu, która będzie nanoszona w procesie personalizacji. 8. Stylizowane litery „AW” wykonane farbą optycznie zmienną. 9. Element graficzny przedstawiający litery „AW” w zapisie kodem binarnym.",
+       "children": []
+      },
       {
        "type": "text",
        "text": "rewers"

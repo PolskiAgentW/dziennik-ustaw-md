@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1066",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 31 lipca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o księgach wieczystych i hipotece",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1066/text.pdf",
  "body": [
   {
@@ -703,12 +703,14 @@
        "num": "1",
        "path": "art_24/ust_1",
        "text": "Dla każdej nieruchomości prowadzi się odrębną księgę wieczystą, chyba że przepisy szczególne stanowią inaczej. Dotyczy to także nieruchomości lokalowych oraz nieruchomości, w których nieruchomości lokalowe zostały wyodrębnione.",
-       "children": [
-        {
-         "type": "text",
-         "text": "1 [1] . Dla gruntu oddanego w użytkowanie wieczyste oraz dla znajdującego się na tym gruncie budynku lub innego urządzenia, które stanowią odrębny od gruntu przedmiot własności, prowadzi się wspólną księgę wieczystą."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1¹",
+       "path": "art_24/ust_1¹",
+       "text": "Dla gruntu oddanego w użytkowanie wieczyste oraz dla znajdującego się na tym gruncie budynku lub innego urządzenia, które stanowią odrębny od gruntu przedmiot własności, prowadzi się wspólną księgę wieczystą.",
+       "children": []
       },
       {
        "type": "ust",
@@ -722,24 +724,34 @@
        "num": "3",
        "path": "art_24/ust_3",
        "text": "(uchylony)",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 24 [1] . 1. Do ksiąg wieczystych dla spółdzielczych własnościowych praw do lokalu stosuje się odpowiednio przepisy o księgach wieczystych dla nieruchomości."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "24¹",
+     "path": "art_24¹",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_24¹/ust_1",
+       "text": "Do ksiąg wieczystych dla spółdzielczych własnościowych praw do lokalu stosuje się odpowiednio przepisy o księgach wieczystych dla nieruchomości.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_24/ust_2",
+       "path": "art_24¹/ust_2",
        "text": "W razie przekształcenia spółdzielczego własnościowego prawa do lokalu w prawo własności nieruchomości, księga wieczysta prowadzona dla spółdzielczego własnościowego prawa do lokalu staje się księgą wieczystą dla nieruchomości, a wpisana w tej księdze hipoteka na spółdzielczym własnościowym prawie do lokalu obciąża nieruchomość.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
-       "path": "art_24/ust_3",
+       "path": "art_24¹/ust_3",
        "text": "Właściciel nieruchomości w wypadkach, o których mowa w ust. 2, jest obowiązany do ujawnienia w księdze wieczystej swego prawa oraz danych do oznaczenia nieruchomości.",
        "children": []
       }
@@ -835,17 +847,27 @@
        "num": "4",
        "path": "art_25/ust_4",
        "text": "Wpis dotyczący osoby fizycznej uprawnionej według treści prawa lub roszczenia, lub osoby fizycznej, której roszczenie zostało zabezpieczone przez wpis ostrzeżenia, obejmuje jej imię (imiona) i nazwisko (nazwiska), numer PESEL, chyba że odrębne przepisy nie przewidują nadawania tego numeru, oraz imię ojca i imię matki.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 25 [1] . 1. Księgi wieczyste są zakładane i prowadzone w systemie teleinformatycznym."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "25¹",
+     "path": "art_25¹",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_25¹/ust_1",
+       "text": "Księgi wieczyste są zakładane i prowadzone w systemie teleinformatycznym.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_25/ust_2",
+       "path": "art_25¹/ust_2",
        "text": "Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób zakładania oraz prowadzenia ksiąg wieczystych w systemie teleinformatycznym, uwzględniając strukturę księgi wieczystej określoną w art. 25.",
        "children": []
       }
@@ -875,7 +897,7 @@
        "type": "ust",
        "num": "3",
        "path": "art_26/ust_3",
-       "text": "O założeniu księgi wieczystej, o której mowa w art. 24 [1] , oraz o wpisie hipoteki do tej księgi sąd prowadzący księgę wieczystą zawiadamia spółdzielnię.",
+       "text": "O założeniu księgi wieczystej, o której mowa w art. 24¹, oraz o wpisie hipoteki do tej księgi sąd prowadzący księgę wieczystą zawiadamia spółdzielnię.",
        "children": []
       },
       {
@@ -1070,395 +1092,428 @@
        "num": "5",
        "path": "art_36/ust_5",
        "text": "Na postanowienie sądu o nałożeniu grzywny przysługuje zażalenie.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 36 [1] . 1. Akta ksiąg wieczystych przechowuje się w sądzie."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "36¹",
+     "path": "art_36¹",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_36¹/ust_1",
+       "text": "Akta ksiąg wieczystych przechowuje się w sądzie.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_36/ust_2",
+       "path": "art_36¹/ust_2",
        "text": "Akta księgi wieczystej może przeglądać, w obecności pracownika sądu, osoba mająca interes prawny oraz notariusz.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
-       "path": "art_36/ust_3",
+       "path": "art_36¹/ust_3",
        "text": "Nie wydaje się dokumentów znajdujących się w aktach ksiąg wieczystych, jeżeli dokumenty te stanowią podstawę wpisu.",
        "children": []
       },
       {
        "type": "ust",
        "num": "4",
-       "path": "art_36/ust_4",
+       "path": "art_36¹/ust_4",
        "text": "Odpisy dokumentów znajdujących się w aktach ksiąg wieczystych wydaje się na żądanie osób mających interes prawny lub na żądanie sądu, prokuratora, notariusza, organu administracji rządowej albo jednostki samorządu terytorialnego.",
        "children": []
       },
       {
        "type": "ust",
        "num": "5",
-       "path": "art_36/ust_5",
+       "path": "art_36¹/ust_5",
        "text": "Odpisy dokumentów znajdujących się w aktach ksiąg wieczystych wydaje się także na żądanie:",
        "children": [
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_36/ust_5/pkt_1",
+         "path": "art_36¹/ust_5/pkt_1",
          "text": "Bankowego Funduszu Gwarancyjnego w zakresie ustawowo realizowanych zadań;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_36/ust_5/pkt_2",
+         "path": "art_36¹/ust_5/pkt_2",
          "text": "Spółki Celowej, o której mowa w art. 2 pkt 10 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747 oraz z 2025 r. poz. 1531), w zakresie realizacji zadań wymienionych w art. 17 tej ustawy;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "3",
-         "path": "art_36/ust_5/pkt_3",
+         "path": "art_36¹/ust_5/pkt_3",
          "text": "PKP Polskich Linii Kolejowych Spółki Akcyjnej w celu wykonywania zadań związanych z realizacją Inwestycji oraz Inwestycji Towarzyszącej, o których mowa w ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "4",
-         "path": "art_36/ust_5/pkt_4",
+         "path": "art_36¹/ust_5/pkt_4",
          "text": "Generalnego Dyrektora Dróg Krajowych i Autostrad w zakresie ustawowo realizowanych zadań.",
-         "children": [
-          {
-           "type": "text",
-           "text": "Art. 36 [2] . (uchylony)"
-          },
-          {
-           "type": "text",
-           "text": "Art. 36 [3] . 1. Minister Sprawiedliwości utrzymuje centralną bazę danych ksiąg wieczystych stanowiącą ogólnokrajowy zbiór ksiąg wieczystych prowadzonych w systemie teleinformatycznym."
-          }
-         ]
+         "children": []
         }
        ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "36²",
+     "path": "art_36²",
+     "text": "(uchylony)",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "36³",
+     "path": "art_36³",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_36³/ust_1",
+       "text": "Minister Sprawiedliwości utrzymuje centralną bazę danych ksiąg wieczystych stanowiącą ogólnokrajowy zbiór ksiąg wieczystych prowadzonych w systemie teleinformatycznym.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_36/ust_2",
+       "path": "art_36³/ust_2",
        "text": "Minister Sprawiedliwości zapewnia bezpieczeństwo centralnej bazy danych ksiąg wieczystych, w szczególności ochronę przed nieuprawnionym dostępem osób trzecich, zniszczeniem oraz utratą danych.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 36 [4] . 1. Informacji z centralnej bazy danych ksiąg wieczystych udziela Centralna Informacja Ksiąg Wieczystych, zwana dalej „Centralną Informacją”, z ekspozyturami przy wydziałach sądów rejonowych prowadzących księgi wieczyste."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "36⁴",
+     "path": "art_36⁴",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_36⁴/ust_1",
+       "text": "Informacji z centralnej bazy danych ksiąg wieczystych udziela Centralna Informacja Ksiąg Wieczystych, zwana dalej „Centralną Informacją”, z ekspozyturami przy wydziałach sądów rejonowych prowadzących księgi wieczyste.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_36/ust_2",
+       "path": "art_36⁴/ust_2",
        "text": "Centralna Informacja wydaje na wniosek odpisy ksiąg wieczystych, wyciągi z ksiąg wieczystych oraz zaświadczenia o zamknięciu ksiąg wieczystych.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
-       "path": "art_36/ust_3",
+       "path": "art_36⁴/ust_3",
        "text": "Odpisy, wyciągi i zaświadczenia, o których mowa w ust. 2, wydawane przez Centralną Informację mają moc dokumentów wydawanych przez sąd.",
        "children": []
       },
       {
        "type": "ust",
        "num": "4",
-       "path": "art_36/ust_4",
+       "path": "art_36⁴/ust_4",
        "text": "[^4] W przypadku złożenia za pośrednictwem systemu teleinformatycznego wniosku o wydanie dokumentów, o których mowa w ust. 2, Centralna Informacja umożliwia pobranie tych dokumentów w postaci dokumentów elektronicznych pozwalających na samodzielne sporządzenie wydruków za pośrednictwem systemu teleinformatycznego. Pobrane dokumenty elektroniczne oraz ich wydruki mają moc dokumentów wydawanych przez sąd, jeżeli posiadają cechy umożliwiające ich weryfikację z danymi zawartymi w centralnej bazie danych ksiąg wieczystych.",
        "children": []
       },
       {
        "type": "ust",
        "num": "5",
-       "path": "art_36/ust_5",
+       "path": "art_36⁴/ust_5",
        "text": "Centralna Informacja umożliwia, za pośrednictwem systemu teleinformatycznego, przeglądanie ksiąg wieczystych.",
        "children": []
       },
       {
        "type": "ust",
        "num": "6",
-       "path": "art_36/ust_6",
+       "path": "art_36⁴/ust_6",
        "text": "Każdy, kto zna numer księgi wieczystej, może bezpłatnie przeglądać księgę wieczystą za pośrednictwem systemu teleinformatycznego.",
        "children": []
       },
       {
        "type": "ust",
        "num": "7",
-       "path": "art_36/ust_7",
+       "path": "art_36⁴/ust_7",
        "text": "Wydruki treści wyświetlonych w trybie przeglądania księgi wieczystej nie posiadają mocy dokumentów wydawanych przez sąd.",
        "children": []
       },
       {
        "type": "ust",
        "num": "8",
-       "path": "art_36/ust_8",
+       "path": "art_36⁴/ust_8",
        "text": "Jeżeli jest to niezbędne do realizacji zadań ustawowych, o zgodę do Ministra Sprawiedliwości na wielokrotne, nieograniczone w czasie wyszukiwanie ksiąg wieczystych w centralnej bazie danych ksiąg wieczystych mogą wystąpić:",
        "children": [
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_36/ust_8/pkt_1",
+         "path": "art_36⁴/ust_8/pkt_1",
          "text": "sądy;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_36/ust_8/pkt_2",
+         "path": "art_36⁴/ust_8/pkt_2",
          "text": "prokuratura;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2a",
-         "path": "art_36/ust_8/pkt_2a",
+         "path": "art_36⁴/ust_8/pkt_2a",
          "text": "minister właściwy do spraw wewnętrznych;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "3",
-         "path": "art_36/ust_8/pkt_3",
+         "path": "art_36⁴/ust_8/pkt_3",
          "text": "(uchylony)",
          "children": []
         },
         {
          "type": "pkt",
          "num": "4",
-         "path": "art_36/ust_8/pkt_4",
+         "path": "art_36⁴/ust_8/pkt_4",
          "text": "organy celne;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "5",
-         "path": "art_36/ust_8/pkt_5",
+         "path": "art_36⁴/ust_8/pkt_5",
          "text": "administracyjne organy egzekucyjne;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "6",
-         "path": "art_36/ust_8/pkt_6",
+         "path": "art_36⁴/ust_8/pkt_6",
          "text": "organy podatkowe;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "7",
-         "path": "art_36/ust_8/pkt_7",
+         "path": "art_36⁴/ust_8/pkt_7",
          "text": "komornicy sądowi;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "7a",
-         "path": "art_36/ust_8/pkt_7a",
+         "path": "art_36⁴/ust_8/pkt_7a",
          "text": "Inspektor Nadzoru Wewnętrznego;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "8",
-         "path": "art_36/ust_8/pkt_8",
+         "path": "art_36⁴/ust_8/pkt_8",
          "text": "Policja;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "9",
-         "path": "art_36/ust_8/pkt_9",
+         "path": "art_36⁴/ust_8/pkt_9",
          "text": "Najwyższa Izba Kontroli;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "10",
-         "path": "art_36/ust_8/pkt_10",
+         "path": "art_36⁴/ust_8/pkt_10",
          "text": "Straż Graniczna;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "11",
-         "path": "art_36/ust_8/pkt_11",
+         "path": "art_36⁴/ust_8/pkt_11",
          "text": "Agencja Bezpieczeństwa Wewnętrznego;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "12",
-         "path": "art_36/ust_8/pkt_12",
+         "path": "art_36⁴/ust_8/pkt_12",
          "text": "Agencja Wywiadu;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "13",
-         "path": "art_36/ust_8/pkt_13",
+         "path": "art_36⁴/ust_8/pkt_13",
          "text": "Centralne Biuro Antykorupcyjne;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "14",
-         "path": "art_36/ust_8/pkt_14",
+         "path": "art_36⁴/ust_8/pkt_14",
          "text": "Służba Kontrwywiadu Wojskowego;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "15",
-         "path": "art_36/ust_8/pkt_15",
+         "path": "art_36⁴/ust_8/pkt_15",
          "text": "Służba Wywiadu Wojskowego;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "16",
-         "path": "art_36/ust_8/pkt_16",
+         "path": "art_36⁴/ust_8/pkt_16",
          "text": "Zakład Ubezpieczeń Społecznych;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "17",
-         "path": "art_36/ust_8/pkt_17",
+         "path": "art_36⁴/ust_8/pkt_17",
          "text": "Prokuratoria Generalna Rzeczypospolitej Polskiej;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "18",
-         "path": "art_36/ust_8/pkt_18",
+         "path": "art_36⁴/ust_8/pkt_18",
          "text": "notariusze;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "19",
-         "path": "art_36/ust_8/pkt_19",
+         "path": "art_36⁴/ust_8/pkt_19",
          "text": "Krajowy Ośrodek Wsparcia Rolnictwa;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "20",
-         "path": "art_36/ust_8/pkt_20",
+         "path": "art_36⁴/ust_8/pkt_20",
          "text": "Generalny Inspektor Informacji Finansowej;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "21",
-         "path": "art_36/ust_8/pkt_21",
+         "path": "art_36⁴/ust_8/pkt_21",
          "text": "Żandarmeria Wojskowa;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "22",
-         "path": "art_36/ust_8/pkt_22",
+         "path": "art_36⁴/ust_8/pkt_22",
          "text": "Komisja do spraw reprywatyzacji nieruchomości warszawskich;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "23",
-         "path": "art_36/ust_8/pkt_23",
+         "path": "art_36⁴/ust_8/pkt_23",
          "text": "organy Krajowej Administracji Skarbowej;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "24",
-         "path": "art_36/ust_8/pkt_24",
+         "path": "art_36⁴/ust_8/pkt_24",
          "text": "Krajowy Zasób Nieruchomości;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "25",
-         "path": "art_36/ust_8/pkt_25",
+         "path": "art_36⁴/ust_8/pkt_25",
          "text": "[^5] Ubezpieczeniowy Fundusz Gwarancyjny w zakresie związanym z realizacją zadań określonych w rozdziale 8 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "25",
-         "path": "art_36/ust_8/pkt_25",
+         "path": "art_36⁴/ust_8/pkt_25",
          "text": "[^6] Ubezpieczeniowy Fundusz Gwarancyjny w celach, o których mowa w art. 51 ust. 4 pkt 2 i art. 56d ust. 2 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "25a",
-         "path": "art_36/ust_8/pkt_25a",
+         "path": "art_36⁴/ust_8/pkt_25a",
          "text": "Spółka Celowa, o której mowa w art. 2 pkt 10 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, w zakresie realizacji zadań wymienionych w art. 17 tej ustawy;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "25b",
-         "path": "art_36/ust_8/pkt_25b",
+         "path": "art_36⁴/ust_8/pkt_25b",
          "text": "PKP Polskie Linie Kolejowe Spółka Akcyjna w celu wykonywania zadań związanych z realizacją Inwestycji oraz Inwestycji Towarzyszącej, o których mowa w ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "25c",
-         "path": "art_36/ust_8/pkt_25c",
+         "path": "art_36⁴/ust_8/pkt_25c",
          "text": "Generalny Dyrektor Dróg Krajowych i Autostrad;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "25d",
-         "path": "art_36/ust_8/pkt_25d",
+         "path": "art_36⁴/ust_8/pkt_25d",
          "text": "minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "25e",
-         "path": "art_36/ust_8/pkt_25e",
+         "path": "art_36⁴/ust_8/pkt_25e",
          "text": "organy, o których mowa w art. 4 ust. 1 ustawy z dnia 20 lipca 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów (Dz. U. z 2025 r. poz. 6) i art. 3 ust. 1 ustawy z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości (Dz. U. z 2024 r. poz. 900), oraz organy wyższego stopnia w sprawach, o których mowa w tych ustawach;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "26",
-         "path": "art_36/ust_8/pkt_26",
+         "path": "art_36⁴/ust_8/pkt_26",
          "text": "minister właściwy do spraw informatyzacji;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "26a",
-         "path": "art_36/ust_8/pkt_26a",
+         "path": "art_36⁴/ust_8/pkt_26a",
          "text": "Prezes Urzędu Komunikacji Elektronicznej;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "27",
-         "path": "art_36/ust_8/pkt_27",
+         "path": "art_36⁴/ust_8/pkt_27",
          "text": "Kasa Rolniczego Ubezpieczenia Społecznego;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "28",
-         "path": "art_36/ust_8/pkt_28",
+         "path": "art_36⁴/ust_8/pkt_28",
          "text": "Szef Krajowego Centrum Informacji Kryminalnych.",
          "children": []
         }
@@ -1467,34 +1522,34 @@
       {
        "type": "ust",
        "num": "9",
-       "path": "art_36/ust_9",
+       "path": "art_36⁴/ust_9",
        "text": "O zgodę, o której mowa w ust. 8, może wystąpić także podmiot uprawniony do występowania w imieniu grupy podmiotów, o których mowa w ust. 8 pkt 1–8, 10 i 18.",
        "children": []
       },
       {
        "type": "ust",
        "num": "10",
-       "path": "art_36/ust_10",
+       "path": "art_36⁴/ust_10",
        "text": "Minister Sprawiedliwości odmawia zgody na wielokrotne, nieograniczone w czasie wyszukiwanie ksiąg wieczystych, w drodze decyzji, jeżeli:",
        "children": [
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_36/ust_10/pkt_1",
+         "path": "art_36⁴/ust_10/pkt_1",
          "text": "podmiot występujący o zgodę nie jest podmiotem wymienionym w ust. 8;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_36/ust_10/pkt_2",
+         "path": "art_36⁴/ust_10/pkt_2",
          "text": "nie wykazano, że wielokrotne, nieograniczone w czasie wyszukiwanie ksiąg wieczystych jest niezbędne do realizacji zadań ustawowych;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "3",
-         "path": "art_36/ust_10/pkt_3",
+         "path": "art_36⁴/ust_10/pkt_3",
          "text": "nie istnieją warunki techniczne po stronie Centralnej Informacji.",
          "children": []
         }
@@ -1503,48 +1558,48 @@
       {
        "type": "ust",
        "num": "11",
-       "path": "art_36/ust_11",
+       "path": "art_36⁴/ust_11",
        "text": "Minister Sprawiedliwości cofa, w drodze decyzji, zgodę na wielokrotne, nieograniczone w czasie wyszukiwanie ksiąg wieczystych w centralnej bazie danych ksiąg wieczystych, jeżeli wystąpiły przesłanki, o których mowa w ust. 10 pkt 1 i 3.",
        "children": []
       },
       {
        "type": "ust",
        "num": "12",
-       "path": "art_36/ust_12",
+       "path": "art_36⁴/ust_12",
        "text": "Centralna Informacja, po otrzymaniu zgody, o której mowa w ust. 8, przez podmiot wymieniony w tym przepisie i na jego wniosek, umożliwia za pośrednictwem systemu teleinformatycznego wyszukanie ksiąg wieczystych w centralnej bazie danych ksiąg wieczystych.",
        "children": []
       },
       {
        "type": "ust",
        "num": "13",
-       "path": "art_36/ust_13",
+       "path": "art_36⁴/ust_13",
        "text": "Minister Sprawiedliwości wyraża zgodę, w drodze decyzji, na wielokrotne, nieograniczone w czasie wyszukiwanie ksiąg wieczystych w centralnej bazie danych ksiąg wieczystych, bez konieczności każdorazowego składania wniosku do Centralnej Informacji o wyszukanie ksiąg wieczystych przez podmiot wymieniony w ust. 8, jeżeli:",
        "children": [
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_36/ust_13/pkt_1",
+         "path": "art_36⁴/ust_13/pkt_1",
          "text": "posiada on urządzenia lub systemy teleinformatyczne umożliwiające identyfikację osoby uzyskującej dane z centralnej bazy danych ksiąg wieczystych, zakresu danych oraz daty ich uzyskania;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_36/ust_13/pkt_2",
+         "path": "art_36⁴/ust_13/pkt_2",
          "text": "posiada on zabezpieczenia techniczne i organizacyjne chroniące przed wykorzystaniem uzyskanych danych niezgodnie z celem;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "3",
-         "path": "art_36/ust_13/pkt_3",
+         "path": "art_36⁴/ust_13/pkt_3",
          "text": "jest to uzasadnione specyfiką i zakresem realizowanych zadań ustawowych;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "4",
-         "path": "art_36/ust_13/pkt_4",
+         "path": "art_36⁴/ust_13/pkt_4",
          "text": "po stronie Centralnej Informacji istnieją odpowiednie warunki techniczne.",
          "children": []
         }
@@ -1553,108 +1608,119 @@
       {
        "type": "ust",
        "num": "14",
-       "path": "art_36/ust_14",
+       "path": "art_36⁴/ust_14",
        "text": "Minister Sprawiedliwości odmawia, w drodze decyzji, zgody na wielokrotne, nieograniczone w czasie wyszukiwanie ksiąg wieczystych, bez konieczności każdorazowego składania wniosku, jeżeli nie zostały spełnione przesłanki, o których mowa w ust. 13.",
        "children": []
       },
       {
        "type": "ust",
        "num": "15",
-       "path": "art_36/ust_15",
+       "path": "art_36⁴/ust_15",
        "text": "Minister Sprawiedliwości cofa, w drodze decyzji, zgodę na wielokrotne, nieograniczone w czasie wyszukiwanie ksiąg wieczystych w centralnej bazie danych ksiąg wieczystych, bez konieczności każdorazowego składania wniosku, jeżeli przestały istnieć przesłanki, o których mowa w ust. 13.",
        "children": []
       },
       {
        "type": "ust",
        "num": "16",
-       "path": "art_36/ust_16",
+       "path": "art_36⁴/ust_16",
        "text": "Centralna Informacja umożliwia organom prowadzącym kataster nieruchomości[^1], dla nieruchomości z określonej miejscowości, gminy lub powiatu, w celu weryfikacji zgodności danych ewidencji gruntów i budynków z danymi zawartymi w księgach wieczystych bezpłatne pozyskiwanie, za pośrednictwem systemu teleinformatycznego, danych zawartych w dziale pierwszym i drugim ksiąg wieczystych, bez prawa udostępniania osobom trzecim.",
        "children": []
       },
       {
        "type": "ust",
        "num": "17",
-       "path": "art_36/ust_17",
+       "path": "art_36⁴/ust_17",
        "text": "Minister Sprawiedliwości określi, w drodze rozporządzenia:",
        "children": [
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_36/ust_17/pkt_1",
+         "path": "art_36⁴/ust_17/pkt_1",
          "text": "sposób funkcjonowania Centralnej Informacji oraz jej strukturę organizacyjną,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_36/ust_17/pkt_2",
+         "path": "art_36⁴/ust_17/pkt_2",
          "text": "tryb składania wniosków i rodzaje dokumentów wydawanych przez Centralną Informację,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "3",
-         "path": "art_36/ust_17/pkt_3",
+         "path": "art_36⁴/ust_17/pkt_3",
          "text": "wzory wniosków składanych do Centralnej Informacji, w tym zakres danych we wniosku składanym za pośrednictwem systemu teleinformatycznego,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "4",
-         "path": "art_36/ust_17/pkt_4",
+         "path": "art_36⁴/ust_17/pkt_4",
          "text": "tryb postępowania z wnioskami i sposób pobierania od nich opłaty,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "5",
-         "path": "art_36/ust_17/pkt_5",
+         "path": "art_36⁴/ust_17/pkt_5",
          "text": "tryb przeglądania księgi wieczystej,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "6",
-         "path": "art_36/ust_17/pkt_6",
+         "path": "art_36⁴/ust_17/pkt_6",
          "text": "[^7] cechy dokumentów elektronicznych oraz wydruków tych dokumentów, mających moc dokumentów wydawanych przez sąd, oraz sposób i tryb ich weryfikacji z danymi zawartymi w centralnej bazie danych ksiąg wieczystych,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "7",
-         "path": "art_36/ust_17/pkt_7",
+         "path": "art_36⁴/ust_17/pkt_7",
          "text": "warunki techniczne i organizacyjne wykonania decyzji, o której mowa w ust. 13,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "8",
-         "path": "art_36/ust_17/pkt_8",
+         "path": "art_36⁴/ust_17/pkt_8",
          "text": "tryb, sposób i kryteria wyszukiwania ksiąg wieczystych",
          "children": []
         },
         {
          "type": "text",
          "text": "– uwzględniając zasadę jawności ksiąg wieczystych i powszechność dostępu do nich, szybkość postępowania, zakres danych zawartych we wniosku, konieczność zapewnienia możliwości i sprawności weryfikacji pobranego dokumentu elektronicznego oraz samodzielnie wydrukowanego dokumentu z danymi zawartymi w centralnej bazie danych ksiąg wieczystych oraz konieczność zapewnienia ochrony centralnej bazy danych ksiąg wieczystych przed nieuprawnionym dostępem osób trzecich, a także treść i strukturę księgi wieczystej.[^8]"
-        },
-        {
-         "type": "text",
-         "text": "Art. 36 [5] . 1. Centralna Informacja pobiera opłaty od wniosków o wydanie odpisu księgi wieczystej, wyciągu z księgi wieczystej, zaświadczenia o zamknięciu księgi wieczystej oraz od wniosku o wyszukanie ksiąg wieczystych."
         }
        ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "36⁵",
+     "path": "art_36⁵",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_36⁵/ust_1",
+       "text": "Centralna Informacja pobiera opłaty od wniosków o wydanie odpisu księgi wieczystej, wyciągu z księgi wieczystej, zaświadczenia o zamknięciu księgi wieczystej oraz od wniosku o wyszukanie ksiąg wieczystych.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_36/ust_2",
+       "path": "art_36⁵/ust_2",
        "text": "[^9] Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wysokość opłat, o których mowa w ust. 1, uwzględniając potrzebę pokrycia kosztów administracyjnych oraz zróżnicowania opłat od wniosków o uzyskanie poszczególnych dokumentów w zależności od sposobu złożenia wniosku, sposobu doręczenia dokumentów oraz postaci wydawanego dokumentu, a także konieczność realizacji ustawowych zadań przez podmiot wnioskujący o wyszukanie ksiąg wieczystych.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
-       "path": "art_36/ust_3",
-       "text": "Nie pobiera się opłat od wniosków o wydanie odpisu księgi wieczystej, wyciągu z księgi wieczystej, zaświadczenia o zamknięciu księgi wieczystej oraz wniosku o wyszukanie ksiąg wieczystych złożonego przez podmioty, o których mowa w art. 36 [4] ust. 8 pkt 1–6, 7a, 8–17, 19, 22, 24 i 28, lub organ administracji rządowej.",
+       "path": "art_36⁵/ust_3",
+       "text": "Nie pobiera się opłat od wniosków o wydanie odpisu księgi wieczystej, wyciągu z księgi wieczystej, zaświadczenia o zamknięciu księgi wieczystej oraz wniosku o wyszukanie ksiąg wieczystych złożonego przez podmioty, o których mowa w art. 36⁴ ust. 8 pkt 1–6, 7a, 8–17, 19, 22, 24 i 28, lub organ administracji rządowej.",
        "children": [
         {
          "type": "text",
@@ -1687,16 +1753,22 @@
       {
        "type": "text",
        "text": "– uwzględniając zasady sprawności, racjonalności i szybkiego działania sądu oraz zasadę jawności ksiąg wieczystych."
-      },
-      {
-       "type": "text",
-       "text": "Art. 58 [1] . (uchylony)"
-      },
-      {
-       "type": "text",
-       "text": "Art. 58 [2] . (uchylony)"
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "58¹",
+     "path": "art_58¹",
+     "text": "(uchylony)",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "58²",
+     "path": "art_58²",
+     "text": "(uchylony)",
+     "children": []
     },
     {
      "type": "heading",
@@ -1822,92 +1894,127 @@
        "num": "3",
        "path": "art_68/ust_3",
        "text": "Sumę hipoteki wyraża się w tej samej walucie co zabezpieczona wierzytelność, jeżeli strony w umowie ustanawiającej hipotekę nie postanowiły inaczej.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 68 [1] . 1. Hipoteka umowna może także zabezpieczać kilka wierzytelności z różnych stosunków prawnych przysługujących temu samemu wierzycielowi."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "68¹",
+     "path": "art_68¹",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_68¹/ust_1",
+       "text": "Hipoteka umowna może także zabezpieczać kilka wierzytelności z różnych stosunków prawnych przysługujących temu samemu wierzycielowi.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_68/ust_2",
+       "path": "art_68¹/ust_2",
        "text": "W umowie ustanawiającej hipotekę należy określić stosunki prawne oraz wynikające z nich wierzytelności objęte zabezpieczeniem.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
-       "path": "art_68/ust_3",
+       "path": "art_68¹/ust_3",
        "text": "Wierzyciel hipoteczny może podzielić hipotekę. Oświadczenie o podziale hipoteki należy złożyć właścicielowi nieruchomości. Podział hipoteki staje się skuteczny z chwilą wpisu w księdze wieczystej.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 68 [2] . 1. W celu zabezpieczenia hipoteką kilku wierzytelności przysługujących różnym podmiotom, a służącym sfinansowaniu tego samego przedsięwzięcia, wierzyciele powołują administratora hipoteki. Administratorem może być jeden z wierzycieli albo osoba trzecia."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "68²",
+     "path": "art_68²",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_68²/ust_1",
+       "text": "W celu zabezpieczenia hipoteką kilku wierzytelności przysługujących różnym podmiotom, a służącym sfinansowaniu tego samego przedsięwzięcia, wierzyciele powołują administratora hipoteki. Administratorem może być jeden z wierzycieli albo osoba trzecia.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_68/ust_2",
+       "path": "art_68²/ust_2",
        "text": "Umowa powołująca administratora hipoteki powinna zostać zawarta na piśmie pod rygorem nieważności.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
-       "path": "art_68/ust_3",
+       "path": "art_68²/ust_3",
        "text": "Administrator hipoteki zawiera umowę o ustanowienie hipoteki oraz wykonuje prawa i obowiązki wierzyciela hipotecznego we własnym imieniu, lecz na rachunek wierzycieli, których wierzytelności są objęte zabezpieczeniem. W umowie ustanawiającej hipotekę należy określić zakres zabezpieczenia poszczególnych wierzytelności oraz przedsięwzięcie, którego sfinansowaniu służą.",
        "children": []
       },
       {
        "type": "ust",
        "num": "4",
-       "path": "art_68/ust_4",
+       "path": "art_68²/ust_4",
        "text": "Do ustanowienia hipoteki na rzecz administratora hipoteki nie stosuje się art. 95 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2026 r. poz. 38, 176, 331, 340, 644 i 846).",
        "children": []
       },
       {
        "type": "ust",
        "num": "5",
-       "path": "art_68/ust_5",
+       "path": "art_68²/ust_5",
        "text": "W księdze wieczystej jako wierzyciela hipotecznego wpisuje się administratora hipoteki. Na wniosek wierzycieli, których wierzytelności są objęte zabezpieczeniem, sąd dokonuje zmiany wpisu administratora hipoteki.",
-       "children": [
-        {
-         "type": "text",
-         "text": "5 [1] . W przypadku gdy administratorem hipoteki jest osoba fizyczna, w księdze wieczystej wpisuje się jej imię (imiona) i nazwisko (nazwiska), numer PESEL, chyba że odrębne przepisy nie przewidują nadawania tego numeru, oraz imię ojca i imię matki."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5¹",
+       "path": "art_68²/ust_5¹",
+       "text": "W przypadku gdy administratorem hipoteki jest osoba fizyczna, w księdze wieczystej wpisuje się jej imię (imiona) i nazwisko (nazwiska), numer PESEL, chyba że odrębne przepisy nie przewidują nadawania tego numeru, oraz imię ojca i imię matki.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "6",
-       "path": "art_68/ust_6",
+       "path": "art_68²/ust_6",
        "text": "W razie wygaśnięcia umowy powołującej administratora hipoteki i niepowołania nowego administratora każdy z wierzycieli, których wierzytelności są objęte zabezpieczeniem, może żądać podziału hipoteki. Przepisy o zniesieniu współwłasności stosuje się odpowiednio.",
        "children": []
       },
       {
        "type": "ust",
        "num": "7",
-       "path": "art_68/ust_7",
+       "path": "art_68²/ust_7",
        "text": "Przepis ust. 6 stosuje się również w braku zgody wszystkich wierzycieli na zmianę administratora hipoteki.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 68 [3] . Można zastąpić zabezpieczoną wierzytelność inną wierzytelnością tego samego wierzyciela. Do zmiany zabezpieczonej wierzytelności stosuje się przepisy o zmianie treści hipoteki. Zgoda osób, którym przysługują prawa z pierwszeństwem równym lub niższym, nie jest potrzebna."
-        },
-        {
-         "type": "text",
-         "text": "Art. 68 [4] . 1. Na zmianę waluty zabezpieczonej wierzytelności oraz inne zmiany zabezpieczonej wierzytelności w drodze czynności prawnej zwiększające zakres zaspokojenia z nieruchomości obciążonej wymagana jest zgoda właściciela nieruchomości, jeżeli nie jest on dłużnikiem osobistym. Oświadczenie właściciela nieruchomości powinno być złożone którejkolwiek ze stron w formie pisemnej pod rygorem nieważności."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "68³",
+     "path": "art_68³",
+     "text": "Można zastąpić zabezpieczoną wierzytelność inną wierzytelnością tego samego wierzyciela. Do zmiany zabezpieczonej wierzytelności stosuje się przepisy o zmianie treści hipoteki. Zgoda osób, którym przysługują prawa z pierwszeństwem równym lub niższym, nie jest potrzebna.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "68⁴",
+     "path": "art_68⁴",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_68⁴/ust_1",
+       "text": "Na zmianę waluty zabezpieczonej wierzytelności oraz inne zmiany zabezpieczonej wierzytelności w drodze czynności prawnej zwiększające zakres zaspokojenia z nieruchomości obciążonej wymagana jest zgoda właściciela nieruchomości, jeżeli nie jest on dłużnikiem osobistym. Oświadczenie właściciela nieruchomości powinno być złożone którejkolwiek ze stron w formie pisemnej pod rygorem nieważności.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_68/ust_2",
+       "path": "art_68⁴/ust_2",
        "text": "Zmiany zabezpieczonej wierzytelności, o których mowa w ust. 1, są bezskuteczne w stosunku do właściciela nieruchomości, dopóki nie wyraził na nie zgody.",
        "children": []
       }
@@ -1973,24 +2080,35 @@
        "num": "1",
        "path": "art_76/ust_1",
        "text": "W razie podziału nieruchomości hipoteka obciążająca nieruchomość obciąża wszystkie nieruchomości utworzone przez podział (hipoteka łączna). Hipoteka na części ułamkowej nieruchomości obciąża w tym samym zakresie części ułamkowe wszystkich nieruchomości utworzonych przez podział.[^10]",
-       "children": [
-        {
-         "type": "text",
-         "text": "1 [1] . Hipoteka na części ułamkowej nieruchomości obciąża nieruchomość otrzymaną w wyniku zniesienia współwłasności przez współwłaściciela, którego udział był obciążony tą hipoteką."
-        },
-        {
-         "type": "text",
-         "text": "1 [2] . Jeżeli współwłaścicielowi nieruchomości, którego udział był obciążony hipoteką, przysługuje spłata, na wierzytelności z tego tytułu jego wierzycielowi hipotecznemu przysługuje ustawowe prawo zastawu. O pierwszeństwie ustawowego prawa zastawu na wierzytelności o spłatę rozstrzyga pierwszeństwo hipotek obciążających udział współwłaściciela."
-        },
-        {
-         "type": "text",
-         "text": "1 [3] . Jeżeli w wyniku podziału współwłaścicielowi nieruchomości, którego udział był obciążony hipoteką przypada nieruchomość z dopłatą, ust. 1 [2] stosuje się odpowiednio."
-        },
-        {
-         "type": "text",
-         "text": "1 [4] . Postanowienie umowy albo ugody sądowej znoszącej współwłasność, na mocy którego współwłaściciel nieruchomości, którego udział był obciążony hipoteką, nie otrzymuje spłaty lub dopłaty, jest nieważne."
-        }
-       ]
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1¹",
+       "path": "art_76/ust_1¹",
+       "text": "Hipoteka na części ułamkowej nieruchomości obciąża nieruchomość otrzymaną w wyniku zniesienia współwłasności przez współwłaściciela, którego udział był obciążony tą hipoteką.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1²",
+       "path": "art_76/ust_1²",
+       "text": "Jeżeli współwłaścicielowi nieruchomości, którego udział był obciążony hipoteką, przysługuje spłata, na wierzytelności z tego tytułu jego wierzycielowi hipotecznemu przysługuje ustawowe prawo zastawu. O pierwszeństwie ustawowego prawa zastawu na wierzytelności o spłatę rozstrzyga pierwszeństwo hipotek obciążających udział współwłaściciela.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1³",
+       "path": "art_76/ust_1³",
+       "text": "Jeżeli w wyniku podziału współwłaścicielowi nieruchomości, którego udział był obciążony hipoteką przypada nieruchomość z dopłatą, ust. 1² stosuje się odpowiednio.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1⁴",
+       "path": "art_76/ust_1⁴",
+       "text": "Postanowienie umowy albo ugody sądowej znoszącej współwłasność, na mocy którego współwłaściciel nieruchomości, którego udział był obciążony hipoteką, nie otrzymuje spłaty lub dopłaty, jest nieważne.",
+       "children": []
       },
       {
        "type": "ust",
@@ -2081,26 +2199,38 @@
        "num": "2",
        "path": "art_79/ust_2",
        "text": "Hipoteka nie może być przeniesiona bez wierzytelności, którą zabezpiecza.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 79 [1] . 1. Jeżeli hipoteka zabezpiecza kilka wierzytelności przysługujących wierzycielowi hipotecznemu, w razie przelewu jednej z nich hipoteka przechodzi na nabywcę proporcjonalnie do wysokości tej wierzytelności w stosunku do sumy wierzytelności zabezpieczonych tą hipoteką, chyba że strony postanowiły inaczej."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "79¹",
+     "path": "art_79¹",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_79¹/ust_1",
+       "text": "Jeżeli hipoteka zabezpiecza kilka wierzytelności przysługujących wierzycielowi hipotecznemu, w razie przelewu jednej z nich hipoteka przechodzi na nabywcę proporcjonalnie do wysokości tej wierzytelności w stosunku do sumy wierzytelności zabezpieczonych tą hipoteką, chyba że strony postanowiły inaczej.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_79/ust_2",
+       "path": "art_79¹/ust_2",
        "text": "Jeżeli wierzytelność hipoteczna zostanie przeniesiona bez hipoteki, zbywca powinien zawiadomić o tym właściciela nieruchomości niebędącego dłużnikiem osobistym.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 79 [2] . Jeżeli z określonego we wpisie stosunku prawnego, z którego wynika zabezpieczona hipoteką wierzytelność, może powstać nowa wierzytelność, strony mogą postanowić, że przelew wierzytelności hipotecznej nie powoduje przejścia hipoteki na nabywcę."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "79²",
+     "path": "art_79²",
+     "text": "Jeżeli z określonego we wpisie stosunku prawnego, z którego wynika zabezpieczona hipoteką wierzytelność, może powstać nowa wierzytelność, strony mogą postanowić, że przelew wierzytelności hipotecznej nie powoduje przejścia hipoteki na nabywcę.",
+     "children": []
     },
     {
      "type": "art",
@@ -2128,12 +2258,14 @@
      "num": "83",
      "path": "art_83",
      "text": "Przepisów oddziału niniejszego nie stosuje się do przelewu roszczeń o świadczenia uboczne.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 83 [1] . W razie przeniesienia zabezpieczonej wierzytelności wynikającej z dokumentu zbywalnego przez indos lub z dokumentu na okaziciela na nabywcę wierzytelności przechodzi także hipoteka. Jeżeli hipoteka zabezpiecza kilka wierzytelności, stosuje się przepisy art. 79 [1] ."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "83¹",
+     "path": "art_83¹",
+     "text": "W razie przeniesienia zabezpieczonej wierzytelności wynikającej z dokumentu zbywalnego przez indos lub z dokumentu na okaziciela na nabywcę wierzytelności przechodzi także hipoteka. Jeżeli hipoteka zabezpiecza kilka wierzytelności, stosuje się przepisy art. 79¹.",
+     "children": []
     },
     {
      "type": "heading",
@@ -2264,13 +2396,15 @@
      "type": "art",
      "num": "94",
      "path": "art_94",
-     "text": "Wygaśnięcie wierzytelności zabezpieczonej hipoteką pociąga za sobą wygaśnięcie hipoteki, chyba że z danego stosunku prawnego mogą powstać w przyszłości kolejne wierzytelności podlegające zabezpieczeniu. Przepis art. 99 [1] ust. 1 stosuje się odpowiednio.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 94 [1] . Hipoteka zabezpieczająca kilka wierzytelności wygasa z chwilą wygaśnięcia ostatniej wierzytelności, jeżeli nie może już powstać żadna wierzytelność ze stosunków prawnych stanowiących źródło pierwotnie zabezpieczonych wierzytelności."
-      }
-     ]
+     "text": "Wygaśnięcie wierzytelności zabezpieczonej hipoteką pociąga za sobą wygaśnięcie hipoteki, chyba że z danego stosunku prawnego mogą powstać w przyszłości kolejne wierzytelności podlegające zabezpieczeniu. Przepis art. 99¹ ust. 1 stosuje się odpowiednio.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "94¹",
+     "path": "art_94¹",
+     "text": "Hipoteka zabezpieczająca kilka wierzytelności wygasa z chwilą wygaśnięcia ostatniej wierzytelności, jeżeli nie może już powstać żadna wierzytelność ze stosunków prawnych stanowiących źródło pierwotnie zabezpieczonych wierzytelności.",
+     "children": []
     },
     {
      "type": "art",
@@ -2333,17 +2467,27 @@
        "num": "2",
        "path": "art_99/ust_2",
        "text": "Wykreślenie hipoteki następuje na wniosek właściciela nieruchomości na podstawie prawomocnego postanowienia sądu o zezwoleniu na złożenie do depozytu sądowego oraz dowodu wpłaty zabezpieczonej kwoty do depozytu sądowego ze zrzeczeniem się odebrania jej z powrotem.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 99 [1] . 1. Jeżeli od dnia wpisu hipoteki upłynęło dziesięć lat, a nie powstała wierzytelność hipoteczna, lecz nadal może powstać, właściciel nieruchomości może żądać zniesienia hipoteki za odpowiednim wynagrodzeniem."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "99¹",
+     "path": "art_99¹",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_99¹/ust_1",
+       "text": "Jeżeli od dnia wpisu hipoteki upłynęło dziesięć lat, a nie powstała wierzytelność hipoteczna, lecz nadal może powstać, właściciel nieruchomości może żądać zniesienia hipoteki za odpowiednim wynagrodzeniem.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_99/ust_2",
+       "path": "art_99¹/ust_2",
        "text": "Przepis ust. 1 stosuje się do hipoteki zabezpieczającej kilka wierzytelności także wtedy, gdy pomimo upływu dziesięciu lat od wygaśnięcia ostatniej wierzytelności hipotecznej nie powstała żadna wierzytelność podlegająca zabezpieczeniu tą hipoteką.",
        "children": []
       }
@@ -2369,72 +2513,126 @@
      "text": "Rozporządzanie opróżnionym miejscem hipotecznym"
     },
     {
-     "type": "text",
-     "text": "Art. 101 [1] . 1. W razie wygaśnięcia hipoteki właścicielowi nieruchomości przysługuje w granicach wygasłej hipoteki uprawnienie do rozporządzania opróżnionym miejscem hipotecznym. Może on ustanowić na tym miejscu nową hipotekę albo przenieść na nie za zgodą uprawnionego którąkolwiek z hipotek obciążających nieruchomość."
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Jeżeli hipoteka wygasła tylko częściowo, właściciel może rozporządzać opróżnionym miejscem hipotecznym w tej części.",
+     "type": "art",
+     "num": "101¹",
+     "path": "art_101¹",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "Art. 101 [2] . Przepisy art. 101 [1] stosuje się również, gdy opróżniło się miejsce wskutek przeniesienia jednej z hipotek na miejsce opróżnione przez inną hipotekę."
+       "type": "ust",
+       "num": "1",
+       "path": "art_101¹/ust_1",
+       "text": "W razie wygaśnięcia hipoteki właścicielowi nieruchomości przysługuje w granicach wygasłej hipoteki uprawnienie do rozporządzania opróżnionym miejscem hipotecznym. Może on ustanowić na tym miejscu nową hipotekę albo przenieść na nie za zgodą uprawnionego którąkolwiek z hipotek obciążających nieruchomość.",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Art. 101 [3] . 1. Jeżeli hipoteka wygasła wskutek egzekucji z nieruchomości, właściciel nieruchomości nie może rozporządzać opróżnionym miejscem hipotecznym."
+       "type": "ust",
+       "num": "2",
+       "path": "art_101¹/ust_2",
+       "text": "Jeżeli hipoteka wygasła tylko częściowo, właściciel może rozporządzać opróżnionym miejscem hipotecznym w tej części.",
+       "children": []
       }
      ]
     },
     {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Przy egzekucji z nieruchomości nie uwzględnia się opróżnionych miejsc hipotecznych.",
+     "type": "art",
+     "num": "101²",
+     "path": "art_101²",
+     "text": "Przepisy art. 101¹ stosuje się również, gdy opróżniło się miejsce wskutek przeniesienia jednej z hipotek na miejsce opróżnione przez inną hipotekę.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "101³",
+     "path": "art_101³",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "Art. 101 [4] . 1. W razie wykreślenia hipoteki bez jednoczesnego wpisania na jej miejsce innej hipoteki, właściciel nieruchomości może zachować uprawnienie do rozporządzania opróżnionym miejscem hipotecznym, jeżeli jednocześnie z wykreśleniem hipoteki uprawnienie to zostanie wpisane do księgi wieczystej."
+       "type": "ust",
+       "num": "1",
+       "path": "art_101³/ust_1",
+       "text": "Jeżeli hipoteka wygasła wskutek egzekucji z nieruchomości, właściciel nieruchomości nie może rozporządzać opróżnionym miejscem hipotecznym.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_101³/ust_2",
+       "text": "Przy egzekucji z nieruchomości nie uwzględnia się opróżnionych miejsc hipotecznych.",
+       "children": []
       }
      ]
     },
     {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Do wykreślenia wygasłej hipoteki oraz do wpisu uprawnienia do rozporządzania opróżnionym miejscem hipotecznym potrzebne jest oświadczenie właściciela nieruchomości.",
+     "type": "art",
+     "num": "101⁴",
+     "path": "art_101⁴",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "Art. 101 [5] . Uprawnienie do rozporządzania opróżnionym miejscem hipotecznym przysługuje każdoczesnemu właścicielowi nieruchomości."
+       "type": "ust",
+       "num": "1",
+       "path": "art_101⁴/ust_1",
+       "text": "W razie wykreślenia hipoteki bez jednoczesnego wpisania na jej miejsce innej hipoteki, właściciel nieruchomości może zachować uprawnienie do rozporządzania opróżnionym miejscem hipotecznym, jeżeli jednocześnie z wykreśleniem hipoteki uprawnienie to zostanie wpisane do księgi wieczystej.",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Art. 101 [6] . Uprawnienie do rozporządzania opróżnionym miejscem hipotecznym nie podlega zajęciu. Ustanowienie hipoteki przymusowej na opróżnionym miejscu nie jest dopuszczalne."
-      },
-      {
-       "type": "text",
-       "text": "Art. 101 [7] . Jeżeli nieruchomość stanowiąca przedmiot hipoteki łącznej zostanie zwolniona spod obciążenia, właściciel nieruchomości może rozporządzać opróżnionym miejscem hipotecznym do wysokości sumy hipoteki."
-      },
-      {
-       "type": "text",
-       "text": "Art. 101 [8] . Niedopuszczalne jest zastrzeżenie, przez które właściciel nieruchomości zobowiązuje się do nierozporządzania opróżnionym miejscem hipotecznym."
-      },
-      {
-       "type": "text",
-       "text": "Art. 101 [9] . Roszczenie wierzyciela hipotecznego o przeniesienie jego hipoteki na miejsce opróżnione przez inną hipotekę może być ujawnione w księdze wieczystej. W takim przypadku hipoteka uzyskuje przyrzeczone miejsce, z chwilą gdy stało się wolne."
-      },
-      {
-       "type": "text",
-       "text": "Art. 101 [10] . Hipotece ustanowionej na opróżnionym miejscu hipotecznym lub przeniesionej na opróżnione miejsce hipoteczne przysługuje pierwszeństwo takie samo jak wygasłej hipotece."
-      },
-      {
-       "type": "text",
-       "text": "Art. 101 [11] . Przepisów niniejszego oddziału nie stosuje się do hipoteki na wierzytelności hipotecznej."
+       "type": "ust",
+       "num": "2",
+       "path": "art_101⁴/ust_2",
+       "text": "Do wykreślenia wygasłej hipoteki oraz do wpisu uprawnienia do rozporządzania opróżnionym miejscem hipotecznym potrzebne jest oświadczenie właściciela nieruchomości.",
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "101⁵",
+     "path": "art_101⁵",
+     "text": "Uprawnienie do rozporządzania opróżnionym miejscem hipotecznym przysługuje każdoczesnemu właścicielowi nieruchomości.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "101⁶",
+     "path": "art_101⁶",
+     "text": "Uprawnienie do rozporządzania opróżnionym miejscem hipotecznym nie podlega zajęciu. Ustanowienie hipoteki przymusowej na opróżnionym miejscu nie jest dopuszczalne.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "101⁷",
+     "path": "art_101⁷",
+     "text": "Jeżeli nieruchomość stanowiąca przedmiot hipoteki łącznej zostanie zwolniona spod obciążenia, właściciel nieruchomości może rozporządzać opróżnionym miejscem hipotecznym do wysokości sumy hipoteki.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "101⁸",
+     "path": "art_101⁸",
+     "text": "Niedopuszczalne jest zastrzeżenie, przez które właściciel nieruchomości zobowiązuje się do nierozporządzania opróżnionym miejscem hipotecznym.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "101⁹",
+     "path": "art_101⁹",
+     "text": "Roszczenie wierzyciela hipotecznego o przeniesienie jego hipoteki na miejsce opróżnione przez inną hipotekę może być ujawnione w księdze wieczystej. W takim przypadku hipoteka uzyskuje przyrzeczone miejsce, z chwilą gdy stało się wolne.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "101¹⁰",
+     "path": "art_101¹⁰",
+     "text": "Hipotece ustanowionej na opróżnionym miejscu hipotecznym lub przeniesionej na opróżnione miejsce hipoteczne przysługuje pierwszeństwo takie samo jak wygasłej hipotece.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "101¹¹",
+     "path": "art_101¹¹",
+     "text": "Przepisów niniejszego oddziału nie stosuje się do hipoteki na wierzytelności hipotecznej.",
+     "children": []
     },
     {
      "type": "heading",
@@ -2443,40 +2641,58 @@
     },
     {
      "type": "heading",
-     "label": "Rozdział 2",
-     "text": "[1]"
-    },
-    {
-     "type": "text",
+     "label": "Rozdział 2¹",
      "text": "Hipoteka na wierzytelności hipotecznej"
     },
     {
-     "type": "text",
-     "text": "Art. 108 [1] . 1. Do ustanowienia hipoteki na wierzytelności hipotecznej nie jest wymagane udowodnienie istnienia obciążonej wierzytelności."
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Spłata wierzytelności hipotecznej obciążonej hipoteką może być dokonana do wysokości tej hipoteki tylko do rąk wierzyciela, któremu ona przysługuje, o ile jego wierzytelność jest stwierdzona tytułem wykonawczym. W pozostałych przypadkach suma odpowiadająca wysokości hipoteki na wierzytelności hipotecznej powinna być złożona do depozytu sądowego.",
+     "type": "art",
+     "num": "108¹",
+     "path": "art_108¹",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "Art. 108 [2] . Jeżeli wierzytelność zabezpieczona hipoteką na wierzytelności hipotecznej oraz obciążona wierzytelność hipoteczna są już wymagalne, wierzyciel, któremu przysługuje hipoteka na wierzytelności hipotecznej, może żądać zapłaty wprost od dłużnika wierzytelności obciążonej; może również dochodzić zaspokojenia z nieruchomości."
+       "type": "ust",
+       "num": "1",
+       "path": "art_108¹/ust_1",
+       "text": "Do ustanowienia hipoteki na wierzytelności hipotecznej nie jest wymagane udowodnienie istnienia obciążonej wierzytelności.",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Art. 108 [3] . Jeżeli właściciel nieruchomości dokonał zapłaty do rąk wierzyciela, któremu przysługuje hipoteka na wierzytelności hipotecznej, hipoteka na nieruchomości wygasa aż do wysokości sumy uiszczonej przez właściciela."
-      },
-      {
-       "type": "text",
-       "text": "Art. 108 [4] . Wierzytelność zabezpieczona hipoteką na wierzytelności hipotecznej może być przedmiotem dalszych hipotek."
-      },
-      {
-       "type": "text",
-       "text": "Art. 108 [5] . W wypadkach nieobjętych przepisami działu niniejszego stosuje się do hipoteki na wierzytelności hipotecznej przepisy o zastawie na wierzytelności."
+       "type": "ust",
+       "num": "2",
+       "path": "art_108¹/ust_2",
+       "text": "Spłata wierzytelności hipotecznej obciążonej hipoteką może być dokonana do wysokości tej hipoteki tylko do rąk wierzyciela, któremu ona przysługuje, o ile jego wierzytelność jest stwierdzona tytułem wykonawczym. W pozostałych przypadkach suma odpowiadająca wysokości hipoteki na wierzytelności hipotecznej powinna być złożona do depozytu sądowego.",
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "108²",
+     "path": "art_108²",
+     "text": "Jeżeli wierzytelność zabezpieczona hipoteką na wierzytelności hipotecznej oraz obciążona wierzytelność hipoteczna są już wymagalne, wierzyciel, któremu przysługuje hipoteka na wierzytelności hipotecznej, może żądać zapłaty wprost od dłużnika wierzytelności obciążonej; może również dochodzić zaspokojenia z nieruchomości.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "108³",
+     "path": "art_108³",
+     "text": "Jeżeli właściciel nieruchomości dokonał zapłaty do rąk wierzyciela, któremu przysługuje hipoteka na wierzytelności hipotecznej, hipoteka na nieruchomości wygasa aż do wysokości sumy uiszczonej przez właściciela.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "108⁴",
+     "path": "art_108⁴",
+     "text": "Wierzytelność zabezpieczona hipoteką na wierzytelności hipotecznej może być przedmiotem dalszych hipotek.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "108⁵",
+     "path": "art_108⁵",
+     "text": "W wypadkach nieobjętych przepisami działu niniejszego stosuje się do hipoteki na wierzytelności hipotecznej przepisy o zastawie na wierzytelności.",
+     "children": []
     },
     {
      "type": "heading",
@@ -2544,55 +2760,77 @@
        "num": "5",
        "path": "art_110/pkt_5",
        "text": "zarządzenia zabezpieczenia określonego w przepisach o postępowaniu egzekucyjnym w administracji albo zarządzenia zabezpieczenia określonego w ustawie, o której mowa w pkt 4.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 110 [1] . Wierzyciel może żądać wpisu hipoteki przymusowej na sumę niewyższą niż wynikająca z treści dokumentu stanowiącego podstawę jej wpisu do księgi wieczystej. Jeżeli z dokumentu tego nie wynika wysokość sumy hipoteki, suma hipoteki nie może przewyższać więcej niż o połowę zabezpieczonej wierzytelności wraz z roszczeniami o świadczenia uboczne określonymi w dokumencie stanowiącym podstawę wpisu hipoteki na dzień złożenia wniosku o wpis hipoteki."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "110¹",
+     "path": "art_110¹",
+     "text": "Wierzyciel może żądać wpisu hipoteki przymusowej na sumę niewyższą niż wynikająca z treści dokumentu stanowiącego podstawę jej wpisu do księgi wieczystej. Jeżeli z dokumentu tego nie wynika wysokość sumy hipoteki, suma hipoteki nie może przewyższać więcej niż o połowę zabezpieczonej wierzytelności wraz z roszczeniami o świadczenia uboczne określonymi w dokumencie stanowiącym podstawę wpisu hipoteki na dzień złożenia wniosku o wpis hipoteki.",
+     "children": []
     },
     {
      "type": "art",
      "num": "111",
      "path": "art_111",
      "text": "(uchylony)",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "111¹",
+     "path": "art_111¹",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "Art. 111 [1] . 1. Jeżeli ustawa nie stanowi inaczej, łączne obciążenie kilku nieruchomości hipoteką przymusową jest niedopuszczalne, chyba że nieruchomości te są już obciążone inną hipoteką łączną albo stanowią własność dłużników solidarnych."
+       "type": "ust",
+       "num": "1",
+       "path": "art_111¹/ust_1",
+       "text": "Jeżeli ustawa nie stanowi inaczej, łączne obciążenie kilku nieruchomości hipoteką przymusową jest niedopuszczalne, chyba że nieruchomości te są już obciążone inną hipoteką łączną albo stanowią własność dłużników solidarnych.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_111/ust_2",
+       "path": "art_111¹/ust_2",
        "text": "Podział zabezpieczenia między poszczególne nieruchomości zależy od uznania wierzyciela.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 111 [2] . 1. Wierzyciel, który uzyskał hipotekę przymusową na podstawie art. 110 pkt 1, może żądać, w terminie 2 miesięcy od uprawomocnienia się orzeczenia uwzględniającego roszczenie, które podlegało zabezpieczeniu, albo od uprawomocnienia się postanowienia o odrzuceniu apelacji lub innego środka zaskarżenia wniesionego przez dłużnika od orzeczenia uwzględniającego roszczenie, które podlegało zabezpieczeniu, zmiany treści hipoteki lub podstawy wpisu na podstawie tytułu wykonawczego określonego w przepisach o postępowaniu egzekucyjnym, stwierdzającego zabezpieczoną wierzytelność."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "111²",
+     "path": "art_111²",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_111²/ust_1",
+       "text": "Wierzyciel, który uzyskał hipotekę przymusową na podstawie art. 110 pkt 1, może żądać, w terminie 2 miesięcy od uprawomocnienia się orzeczenia uwzględniającego roszczenie, które podlegało zabezpieczeniu, albo od uprawomocnienia się postanowienia o odrzuceniu apelacji lub innego środka zaskarżenia wniesionego przez dłużnika od orzeczenia uwzględniającego roszczenie, które podlegało zabezpieczeniu, zmiany treści hipoteki lub podstawy wpisu na podstawie tytułu wykonawczego określonego w przepisach o postępowaniu egzekucyjnym, stwierdzającego zabezpieczoną wierzytelność.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_111/ust_2",
+       "path": "art_111²/ust_2",
        "text": "Zmiana treści hipoteki nie może zwiększyć zakresu zaspokojenia wierzyciela z nieruchomości obciążonej bez zgody osób, którym przysługują prawa z pierwszeństwem równym lub niższym.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
-       "path": "art_111/ust_3",
+       "path": "art_111²/ust_3",
        "text": "Przepisy ust. 1 i 2 stosuje się odpowiednio do wierzyciela, który uzyskał hipotekę przymusową na podstawie art. 110 pkt 2 albo 3 w zakresie, w jakim decyzja administracyjna nie była ostateczna.",
        "children": []
       },
       {
        "type": "ust",
        "num": "4",
-       "path": "art_111/ust_4",
+       "path": "art_111²/ust_4",
        "text": "Wierzyciel, który uzyskał hipotekę przymusową na podstawie art. 110 pkt 4 albo 5, może żądać, w terminie 2 miesięcy od dnia doręczenia decyzji lub innego orzeczenia podlegającego wykonaniu w sprawie, w której dokonano zabezpieczenia, albo doręczenia postanowienia o nadaniu rygoru natychmiastowej wykonalności, zmiany treści hipoteki lub podstawy wpisu na podstawie tytułu wykonawczego określonego w przepisach o postępowaniu egzekucyjnym, stwierdzającego zabezpieczoną wierzytelność. Przepis ust. 2 stosuje się odpowiednio.",
        "children": []
       }

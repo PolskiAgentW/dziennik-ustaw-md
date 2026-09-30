@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1179",
  "title": "Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 28 sierpnia 2026 r. zmieniające rozporządzenie w sprawie rodzinnego wywiadu środowiskowego",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1179/text.pdf",
  "body": [
   {
@@ -448,7 +448,21 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_13/pkt_1",
-       "text": "lokatorskie spółdzielcze prawo do lokalu 6) mieszkanie treningowe mieszkalnego 7) mieszkanie wspomagane 2) własnościowe spółdzielcze prawo do lokalu 8) prawo do domu jednorodzinnego / jego części mieszkalnego w spółdzielni mieszkaniowej 3) własność lokalu/domu 9) hotel 4) komunalne/kwaterunkowe 10) barak 5) mieszkanie wynajęte 11) brak mieszkania 12) inne – wskazać jakie:",
+       "text": "lokatorskie spółdzielcze prawo do lokalu 6) mieszkanie treningowe mieszkalnego 7) mieszkanie wspomagane",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_13/pkt_2",
+       "text": "własnościowe spółdzielcze prawo do lokalu 8) prawo do domu jednorodzinnego / jego części mieszkalnego w spółdzielni mieszkaniowej 3) własność lokalu/domu 9) hotel 4) komunalne/kwaterunkowe 10) barak 5) mieszkanie wynajęte 11) brak mieszkania",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_13/pkt_12",
+       "text": "inne – wskazać jakie:",
        "children": [
         {
          "type": "text",
@@ -457,7 +471,7 @@
         {
          "type": "lit",
          "num": "a",
-         "path": "ust_13/pkt_1/lit_a",
+         "path": "ust_13/pkt_12/lit_a",
          "text": "czyste, zadbane b) brudne, zaniedbane c) zdewastowane",
          "children": [
           {
@@ -478,13 +492,21 @@
          "type": "lit",
          "num": "a",
          "path": "ust_13/pkt_2/lit_a",
-         "text": "bieżąca woda: b) ogrzewanie: c) prąd: zimna piece węglowe dostępny ciepła ogrzewanie centralne brak brak ogrzewanie centralne – gazowe ogrzewanie elektryczne – akumulacyjne inne – wskazać jakie: brak ogrzewania 3) Wyposażenie w niezbędne sprzęty gospodarstwa domowego:",
+         "text": "bieżąca woda: b) ogrzewanie: c) prąd: zimna piece węglowe dostępny ciepła ogrzewanie centralne brak brak ogrzewanie centralne – gazowe ogrzewanie elektryczne – akumulacyjne inne – wskazać jakie: brak ogrzewania",
          "children": []
-        },
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_13/pkt_3",
+       "text": "Wyposażenie w niezbędne sprzęty gospodarstwa domowego:",
+       "children": [
         {
          "type": "lit",
          "num": "a",
-         "path": "ust_13/pkt_2/lit_a",
+         "path": "ust_13/pkt_3/lit_a",
          "text": "tak b) nie, brakuje: …………………………………………………………………………………………………………………………………",
          "children": [
           {
@@ -817,7 +839,49 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_13/pkt_2",
-       "text": "sieroctwo status uchodźcy lub ochronę uzupełniającą 3) bezdomność 12) trudności w przystosowaniu do życia 4) bezrobocie po opuszczeniu zakładu karnego 5) niepełnosprawność 13) alkoholizm, narkomania 6) długotrwała lub ciężka choroba 14) sytuacja kryzysowa 7) przemoc domowa 15) klęska ekologiczna 8) potrzeba ochrony ofiar handlu ludźmi 16) inna – wskazać jaka:",
+       "text": "sieroctwo status uchodźcy lub ochronę uzupełniającą",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_13/pkt_3",
+       "text": "bezdomność 12) trudności w przystosowaniu do życia",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_13/pkt_4",
+       "text": "bezrobocie po opuszczeniu zakładu karnego",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_13/pkt_5",
+       "text": "niepełnosprawność 13) alkoholizm, narkomania",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_13/pkt_6",
+       "text": "długotrwała lub ciężka choroba 14) sytuacja kryzysowa",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_13/pkt_7",
+       "text": "przemoc domowa 15) klęska ekologiczna",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_13/pkt_8",
+       "text": "potrzeba ochrony ofiar handlu ludźmi 16) inna – wskazać jaka:",
        "children": []
       },
       {
@@ -1549,11 +1613,26 @@
     },
     {
      "type": "text",
-     "text": "7 Sytuacja rodzinna: 1) osoba samotnie gospodarująca 2) osoba wspólnie zamieszkująca i gospodarująca z rodziną 3) inne – wskazać jakie: 8 Z jakiego rodzaju opieki osoba usamodzielniana korzystała?"
+     "text": "7 Sytuacja rodzinna: 1) osoba samotnie gospodarująca"
     },
     {
-     "type": "text",
-     "text": "Rodzaj opieki Okres przebywania"
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "osoba wspólnie zamieszkująca i gospodarująca z rodziną",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "inne – wskazać jakie: 8 Z jakiego rodzaju opieki osoba usamodzielniana korzystała?",
+     "children": [
+      {
+       "type": "text",
+       "text": "Rodzaj opieki Okres przebywania"
+      }
+     ]
     },
     {
      "type": "pkt",
@@ -1815,7 +1894,14 @@
      "type": "pkt",
      "num": "5",
      "path": "pkt_5",
-     "text": "związków wyznaniowych 6) innych – wskazać kogo:",
+     "text": "związków wyznaniowych",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "innych – wskazać kogo:",
      "children": [
       {
        "type": "text",
@@ -1936,7 +2022,35 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_15/pkt_1",
-       "text": "nic nie rozumie 2) rozumie, ale bardzo słabo 3) rozumie wypowiedzi w języku polskim, ale posługuje się językiem ojczystym, tj. ………………, lub innym, tj. ……………………………………… 4) posługuje się językiem polskim wyłącznie w mowie 5) posługuje się językiem polskim w mowie i piśmie",
+       "text": "nic nie rozumie",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_15/pkt_2",
+       "text": "rozumie, ale bardzo słabo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_15/pkt_3",
+       "text": "rozumie wypowiedzi w języku polskim, ale posługuje się językiem ojczystym, tj. ………………, lub innym, tj. ………………………………………",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_15/pkt_4",
+       "text": "posługuje się językiem polskim wyłącznie w mowie",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_15/pkt_5",
+       "text": "posługuje się językiem polskim w mowie i piśmie",
        "children": []
       },
       {
@@ -1947,7 +2061,35 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_15/pkt_1",
-       "text": "nic nie rozumie 2) rozumie, ale bardzo słabo 3) rozumie wypowiedzi w języku polskim, ale posługuje się językiem ojczystym, tj. ………………………, lub innym, tj. ……………………………………… 4) posługuje się językiem polskim wyłącznie w mowie 5) posługuje się językiem polskim w mowie i piśmie",
+       "text": "nic nie rozumie",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_15/pkt_2",
+       "text": "rozumie, ale bardzo słabo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_15/pkt_3",
+       "text": "rozumie wypowiedzi w języku polskim, ale posługuje się językiem ojczystym, tj. ………………………, lub innym, tj. ………………………………………",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_15/pkt_4",
+       "text": "posługuje się językiem polskim wyłącznie w mowie",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_15/pkt_5",
+       "text": "posługuje się językiem polskim w mowie i piśmie",
        "children": [
         {
          "type": "text",
@@ -1955,8 +2097,30 @@
         },
         {
          "type": "text",
-         "text": "4 Znajomość języka polskiego przez dzieci cudzoziemca: 1) nic nie rozumie 2) rozumie, ale bardzo słabo 3) rozumie wypowiedzi w języku polskim, ale posługuje się językiem ojczystym, tj. ……………………, lub innym, tj. ……………………………………… 4) posługuje się językiem polskim wyłącznie w mowie 5) posługuje się językiem polskim w mowie i piśmie"
-        },
+         "text": "4 Znajomość języka polskiego przez dzieci cudzoziemca: 1) nic nie rozumie"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_15/pkt_2",
+       "text": "rozumie, ale bardzo słabo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_15/pkt_3",
+       "text": "rozumie wypowiedzi w języku polskim, ale posługuje się językiem ojczystym, tj. ……………………, lub innym, tj. ……………………………………… 4) posługuje się językiem polskim wyłącznie w mowie",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_15/pkt_5",
+       "text": "posługuje się językiem polskim w mowie i piśmie",
+       "children": [
         {
          "type": "text",
          "text": "5 Czy dzieci cudzoziemca wymagają skierowania na kurs nauki języka polskiego? 1) tak 2) nie Jeżeli tak, wpisać ile dzieci:"
@@ -2003,8 +2167,65 @@
        "children": [
         {
          "type": "text",
-         "text": "6 Czy cudzoziemiec lub jego rodzina wiedzą, gdzie znajdują się podstawowe instytucje, takie jak: 1) ośrodek pomocy społecznej 2) powiatowy urząd pracy 3) urząd miasta 4) przychodnia / ośrodek zdrowia 5) szpitalny oddział ratunkowy 6) szpital 7) szkoła 8) policja 9) inne – wskazać jakie:"
-        },
+         "text": "6 Czy cudzoziemiec lub jego rodzina wiedzą, gdzie znajdują się podstawowe instytucje, takie jak: 1) ośrodek pomocy społecznej"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_15/pkt_2",
+       "text": "powiatowy urząd pracy",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_15/pkt_3",
+       "text": "urząd miasta",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_15/pkt_4",
+       "text": "przychodnia / ośrodek zdrowia",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_15/pkt_5",
+       "text": "szpitalny oddział ratunkowy",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_15/pkt_6",
+       "text": "szpital",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_15/pkt_7",
+       "text": "szkoła",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_15/pkt_8",
+       "text": "policja",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_15/pkt_9",
+       "text": "inne – wskazać jakie:",
+       "children": [
         {
          "type": "text",
          "text": "7 Czy dzieci cudzoziemca realizują obowiązek szkolny? 1) tak 2) nie"
@@ -2027,12 +2248,55 @@
         },
         {
          "type": "text",
-         "text": "1 Mieszkanie: 1) komunalne/kwaterunkowe 2) mieszkanie wynajęte 3) mieszkanie wspomagane 4) mieszkanie treningowe 5) hotel 6) brak mieszkania 7) inne – wskazać jakie: 2 1) Stan utrzymania mieszkania:"
-        },
+         "text": "1 Mieszkanie: 1) komunalne/kwaterunkowe"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_15/pkt_2",
+       "text": "mieszkanie wynajęte",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_15/pkt_3",
+       "text": "mieszkanie wspomagane",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_15/pkt_4",
+       "text": "mieszkanie treningowe",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_15/pkt_5",
+       "text": "hotel",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_15/pkt_6",
+       "text": "brak mieszkania",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_15/pkt_7",
+       "text": "inne – wskazać jakie: 2 1) Stan utrzymania mieszkania:",
+       "children": [
         {
          "type": "lit",
          "num": "a",
-         "path": "ust_15/pkt_2/lit_a",
+         "path": "ust_15/pkt_7/lit_a",
          "text": "czyste, zadbane b) brudne, zaniedbane c) zdewastowane",
          "children": [
           {
@@ -2053,13 +2317,21 @@
          "type": "lit",
          "num": "a",
          "path": "ust_15/pkt_2/lit_a",
-         "text": "bieżąca woda: b) ogrzewanie: c) prąd: zimna piece węglowe dostępny ciepła ogrzewanie centralne brak brak ogrzewanie centralne – gazowe ogrzewanie elektryczne – akumulacyjne inne – wskazać jakie: brak ogrzewania 3) Wyposażenie w niezbędne sprzęty gospodarstwa domowego:",
+         "text": "bieżąca woda: b) ogrzewanie: c) prąd: zimna piece węglowe dostępny ciepła ogrzewanie centralne brak brak ogrzewanie centralne – gazowe ogrzewanie elektryczne – akumulacyjne inne – wskazać jakie: brak ogrzewania",
          "children": []
-        },
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_15/pkt_3",
+       "text": "Wyposażenie w niezbędne sprzęty gospodarstwa domowego:",
+       "children": [
         {
          "type": "lit",
          "num": "a",
-         "path": "ust_15/pkt_2/lit_a",
+         "path": "ust_15/pkt_3/lit_a",
          "text": "tak b) nie, brakuje: …………………………………………………………………………………………………………………………………",
          "children": [
           {

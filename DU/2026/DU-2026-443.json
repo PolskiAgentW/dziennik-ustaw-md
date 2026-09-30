@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/443",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 27 marca 2026 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/443/text.pdf",
  "body": [
   {
@@ -211,7 +211,14 @@
      "type": "pkt",
      "num": "11",
      "path": "pkt_11",
-     "text": "C19 Nowotwór złośliwy zgięcia esiczo-odbytniczego, 12) C20 Nowotwór złośliwy odbytnicy,",
+     "text": "C19 Nowotwór złośliwy zgięcia esiczo-odbytniczego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "pkt_12",
+     "text": "C20 Nowotwór złośliwy odbytnicy,",
      "children": []
     },
     {
@@ -317,7 +324,14 @@
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "występuje wyraźny margines chirurgiczny (powyżej 3 mm); 5) stwierdzono brak dowodów na limfadenopatię w obrazowaniu przed leczeniem.",
+     "text": "występuje wyraźny margines chirurgiczny (powyżej 3 mm);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "stwierdzono brak dowodów na limfadenopatię w obrazowaniu przed leczeniem.",
      "children": [
       {
        "type": "text",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/978",
  "title": "Obwieszczenie Ministra Finansów z dnia 13 lipca 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie sposobu określania profilu ryzyka spółdzielczych kas oszczędnościowo-kredytowych oraz uwzględniania tego profilu w wyznaczaniu składek na fundusz gwarancyjny kas",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/978/text.pdf",
  "body": [
   {
@@ -492,7 +492,7 @@
       },
       {
        "type": "text",
-       "text": "10 % funduszu % ndusz oznacza niższe ryzyko Wskaźnik oszczędnościowo‑pożyczkowego rezerwy płynnej do limitu 10 %"
+       "text": "10 % funduszu Limit 10 % funduszu oznacza niższe ryzyko Wskaźnik oszczędnościowo‑pożyczkowego rezerwy płynnej do limitu 10 %"
       },
       {
        "type": "text",
@@ -576,7 +576,7 @@
       },
       {
        "type": "text",
-       "text": "jakości kredytów ty z gr Wyższa wartość kredyty zagrożone Kredyty – kredyty ogółem i pożyczki oznacza wyższe ryzyko członkowskie przeterminowane powyżej"
+       "text": "jakości kredytów Kredyty zagrożone Wyższa wartość kredyty zagrożone Kredyty – kredyty ogółem i pożyczki oznacza wyższe ryzyko członkowskie przeterminowane powyżej"
       },
       {
        "type": "text",
@@ -588,7 +588,7 @@
       },
       {
        "type": "text",
-       "text": "wymogów kapitałowych wy gó Wyższa wartość do aktywów ogółem licznik wskaźnika Aktywa – suma ogółem wymogów oznacza wyższe ryzyko kapitałowych z tytułu ryzyka kredytowego,"
+       "text": "wymogów kapitałowych 20‑krotność wymogów kapitałowych Wyższa wartość do aktywów ogółem licznik wskaźnika Aktywa – suma ogółem wymogów oznacza wyższe ryzyko kapitałowych z tytułu ryzyka kredytowego,"
       },
       {
        "type": "text",
@@ -698,7 +698,7 @@
       },
       {
        "type": "text",
-       "text": "1 jjeeee AA ii,jj > aa jj 0 jjjjżjjeeee AA ii,jj < bb jj AA ii,jj −bb jj × 100, jjjjżjjeeee bb jj ≤ AA ii,jj ≤ aa jj gdzie: aa jj −bb jj"
+       "text": "100 jjjjżjjeeee AA ii,jj > aa jj 0 jjjjżjjeeee AA ii,jj < bb jj IIIIII ii,jj = AA ii,jj −bb jj × 100, jjjjżjjeeee bb jj ≤ AA ii,jj ≤ aa jj gdzie: { aa jj −bb jj"
       },
       {
        "type": "text",
@@ -718,7 +718,7 @@
       },
       {
        "type": "text",
-       "text": "0 jjeeee AA ii,jj > aa jj"
+       "text": "0 jjjjżjjeeee AA ii,jj > aa jj"
       },
       {
        "type": "text",
@@ -726,7 +726,7 @@
       },
       {
        "type": "text",
-       "text": "aa jj −AA ii,jj"
+       "text": "IIIIII ii,jj = aa jj −AA ii,jj"
       },
       {
        "type": "text",
@@ -734,7 +734,7 @@
       },
       {
        "type": "text",
-       "text": "aa jj −bb jj"
+       "text": "{ aa jj −bb jj"
       },
       {
        "type": "text",
@@ -802,7 +802,11 @@
       },
       {
        "type": "text",
-       "text": "αα"
+       "text": "αα ( AAAAAAii 100 )"
+      },
+      {
+       "type": "text",
+       "text": "AAAAAA ii = ββ ×( ββ )"
       }
      ]
     },
@@ -868,7 +872,7 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_5/pkt_3",
-       "text": "Współczynnik korekty (µ) AA(tt) jest wyznaczany = według wzoru:",
+       "text": "Współczynnik korekty (µ) CCAA(tt) jest wyznaczany = według wzoru:",
        "children": [
         {
          "type": "text",
@@ -1024,11 +1028,15 @@
         },
         {
          "type": "text",
-         "text": "∑ ii CC ii −1"
+         "text": "∑ ii CCCC ii (tt−1)"
         },
         {
          "type": "text",
-         "text": "ii CCAA ii × CCCC ii (tt−1)⁶"
+         "text": "μ ="
+        },
+        {
+         "type": "text",
+         "text": "∑ ii AACCAA ii × CCCC ii (tt−1)⁶"
         }
        ]
       }

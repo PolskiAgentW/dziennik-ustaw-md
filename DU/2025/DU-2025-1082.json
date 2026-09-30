@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1082",
  "title": "Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 17 lipca 2025 r. w sprawie ramowych planów nauczania dla publicznych szkół i placówek artystycznych",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1082/text.pdf",
  "body": [
   {
@@ -1245,7 +1245,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_3/pkt_1",
-       "text": "edukacji plastycznej i edukacji informatycznej – po 1 godzinie w każdej klasie; 2) wychowania fizycznego – po 3 godziny w każdej klasie;",
+       "text": "edukacji plastycznej i edukacji informatycznej – po 1 godzinie w każdej klasie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "wychowania fizycznego – po 3 godziny w każdej klasie;",
        "children": []
       },
       {
@@ -1738,7 +1745,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_12/pkt_1",
-       "text": "może zwiększyć liczbę godzin przeznaczonych na przedmioty realizowane w zakresie rozszerzonym albo 2) może przydzielić godziny na przedmioty uzupełniające, dla których nie została ustalona podstawa programowa, lecz program nauczania tych przedmiotów został włączony do szkolnego zestawu programów nauczania. Tygodniowy wymiar godzin w czteroletnim cyklu kształcenia dla przedmiotu uzupełniającego wynosi co najmniej 2 godziny. Przedmioty uzupełniające ustala dyrektor szkoły po zasięgnięciu opinii uczniów danego oddziału (grupy oddziałowej, międzyoddziałowej lub międzyszkolnej).",
+       "text": "może zwiększyć liczbę godzin przeznaczonych na przedmioty realizowane w zakresie rozszerzonym albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_12/pkt_2",
+       "text": "może przydzielić godziny na przedmioty uzupełniające, dla których nie została ustalona podstawa programowa, lecz program nauczania tych przedmiotów został włączony do szkolnego zestawu programów nauczania. Tygodniowy wymiar godzin w czteroletnim cyklu kształcenia dla przedmiotu uzupełniającego wynosi co najmniej 2 godziny. Przedmioty uzupełniające ustala dyrektor szkoły po zasięgnięciu opinii uczniów danego oddziału (grupy oddziałowej, międzyoddziałowej lub międzyszkolnej).",
        "children": []
       }
      ]
@@ -2830,7 +2844,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_2/pkt_1",
-       "text": "w klasach I–IV sześcioletniego cyklu kształcenia realizowali specjalność instrumentalistyka lub rytmika albo w klasach I i II czteroletniego cyklu kształcenia realizowali specjalność fortepianmistrzostwo lub wokalistyka i w ramach tej specjalności nie zrealizowali zajęć harmonii w wymiarze 4 godzin w cyklu kształcenia albo 2) realizowali specjalność instrumentalistyka jazzowa lub wokalistyka jazzowa. Jeżeli uczeń, który w klasach I–IV sześcioletniego cyklu kształcenia realizował specjalność instrumentalistyka lub rytmika albo w klasach I i II czteroletniego cyklu kształcenia realizował specjalność fortepianmistrzostwo lub wokalistyka, w ramach tej specjalności zrealizował zajęcia harmonii w wymiarze 3 godzin, realizuje on zajęcia harmonii w klasie odpowiednio V albo III w wymiarze 1 godziny.",
+       "text": "w klasach I–IV sześcioletniego cyklu kształcenia realizowali specjalność instrumentalistyka lub rytmika albo w klasach I i II czteroletniego cyklu kształcenia realizowali specjalność fortepianmistrzostwo lub wokalistyka i w ramach tej specjalności nie zrealizowali zajęć harmonii w wymiarze 4 godzin w cyklu kształcenia albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "realizowali specjalność instrumentalistyka jazzowa lub wokalistyka jazzowa. Jeżeli uczeń, który w klasach I–IV sześcioletniego cyklu kształcenia realizował specjalność instrumentalistyka lub rytmika albo w klasach I i II czteroletniego cyklu kształcenia realizował specjalność fortepianmistrzostwo lub wokalistyka, w ramach tej specjalności zrealizował zajęcia harmonii w wymiarze 3 godzin, realizuje on zajęcia harmonii w klasie odpowiednio V albo III w wymiarze 1 godziny.",
        "children": []
       }
      ]
@@ -2880,13 +2901,27 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_8/pkt_1",
-       "text": "w klasach I–IV 6-letniego cyklu kształcenia realizowali zajęcia z gry na fortepianie jako przedmiot główny – specjalizację lub zajęcia fortepianu dla rytmiki albo 2) ukończyli ogólnokształcącą szkołę muzyczną I stopnia i:",
+       "text": "w klasach I–IV 6-letniego cyklu kształcenia realizowali zajęcia z gry na fortepianie jako przedmiot główny – specjalizację lub zajęcia fortepianu dla rytmiki albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_8/pkt_2",
+       "text": "ukończyli ogólnokształcącą szkołę muzyczną I stopnia i:",
        "children": [
         {
          "type": "lit",
          "num": "a",
-         "path": "ust_8/pkt_1/lit_a",
-         "text": "uczęszczali do klas I i II ogólnokształcącej szkoły muzycznej II stopnia w specjalizacji gry na fortepianie lub w specjalności rytmika albo b) uczęszczali do klas III i IV szkoły muzycznej II stopnia w specjalizacji gry na fortepianie lub w specjalności rytmika.",
+         "path": "ust_8/pkt_2/lit_a",
+         "text": "uczęszczali do klas I i II ogólnokształcącej szkoły muzycznej II stopnia w specjalizacji gry na fortepianie lub w specjalności rytmika albo",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_8/pkt_2/lit_b",
+         "text": "uczęszczali do klas III i IV szkoły muzycznej II stopnia w specjalizacji gry na fortepianie lub w specjalności rytmika.",
          "children": [
           {
            "type": "text",
@@ -3200,7 +3235,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_12/pkt_1",
-       "text": "może zwiększyć liczbę godzin przeznaczonych na przedmioty realizowane w zakresie rozszerzonym albo 2) może przydzielić godziny na przedmioty uzupełniające, dla których nie została ustalona podstawa programowa, lecz program nauczania tych przedmiotów został włączony do szkolnego zestawu programów nauczania. Tygodniowy wymiar godzin w pięcioletnim cyklu kształcenia dla przedmiotu uzupełniającego wynosi co najmniej 2 godziny. Przedmioty uzupełniające ustala dyrektor szkoły po zasięgnięciu opinii uczniów danego oddziału (grupy oddziałowej, międzyoddziałowej lub międzyszkolnej).",
+       "text": "może zwiększyć liczbę godzin przeznaczonych na przedmioty realizowane w zakresie rozszerzonym albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_12/pkt_2",
+       "text": "może przydzielić godziny na przedmioty uzupełniające, dla których nie została ustalona podstawa programowa, lecz program nauczania tych przedmiotów został włączony do szkolnego zestawu programów nauczania. Tygodniowy wymiar godzin w pięcioletnim cyklu kształcenia dla przedmiotu uzupełniającego wynosi co najmniej 2 godziny. Przedmioty uzupełniające ustala dyrektor szkoły po zasięgnięciu opinii uczniów danego oddziału (grupy oddziałowej, międzyoddziałowej lub międzyszkolnej).",
        "children": []
       }
      ]
@@ -3501,7 +3543,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_12/pkt_1",
-       "text": "może zwiększyć liczbę godzin przeznaczonych na przedmioty realizowane w zakresie rozszerzonym albo 2) może przydzielić godziny na przedmioty uzupełniające, dla których nie została ustalona podstawa programowa, lecz program nauczania tych przedmiotów został włączony do szkolnego zestawu programów nauczania. Tygodniowy wymiar godzin w czteroletnim cyklu kształcenia dla przedmiotu uzupełniającego wynosi co najmniej 2 godziny. Przedmioty uzupełniające ustala dyrektor szkoły po zasięgnięciu opinii uczniów danego oddziału (grupy oddziałowej, międzyoddziałowej lub międzyszkolnej).",
+       "text": "może zwiększyć liczbę godzin przeznaczonych na przedmioty realizowane w zakresie rozszerzonym albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_12/pkt_2",
+       "text": "może przydzielić godziny na przedmioty uzupełniające, dla których nie została ustalona podstawa programowa, lecz program nauczania tych przedmiotów został włączony do szkolnego zestawu programów nauczania. Tygodniowy wymiar godzin w czteroletnim cyklu kształcenia dla przedmiotu uzupełniającego wynosi co najmniej 2 godziny. Przedmioty uzupełniające ustala dyrektor szkoły po zasięgnięciu opinii uczniów danego oddziału (grupy oddziałowej, międzyoddziałowej lub międzyszkolnej).",
        "children": []
       }
      ]
@@ -4297,7 +4346,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_7/pkt_1",
-       "text": "może zwiększyć liczbę godzin przeznaczonych na przedmioty realizowane w zakresie rozszerzonym albo 2) może przydzielić godziny na przedmioty uzupełniające, dla których nie została ustalona podstawa programowa, lecz program nauczania tych przedmiotów został włączony do szkolnego zestawu programów nauczania. Tygodniowy wymiar godzin w czteroletnim cyklu kształcenia dla przedmiotu uzupełniającego wynosi co najmniej 2 godziny. Przedmioty uzupełniające ustala dyrektor szkoły po zasięgnięciu opinii uczniów danego oddziału (grupy oddziałowej, międzyoddziałowej lub międzyszkolnej).",
+       "text": "może zwiększyć liczbę godzin przeznaczonych na przedmioty realizowane w zakresie rozszerzonym albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_7/pkt_2",
+       "text": "może przydzielić godziny na przedmioty uzupełniające, dla których nie została ustalona podstawa programowa, lecz program nauczania tych przedmiotów został włączony do szkolnego zestawu programów nauczania. Tygodniowy wymiar godzin w czteroletnim cyklu kształcenia dla przedmiotu uzupełniającego wynosi co najmniej 2 godziny. Przedmioty uzupełniające ustala dyrektor szkoły po zasięgnięciu opinii uczniów danego oddziału (grupy oddziałowej, międzyoddziałowej lub międzyszkolnej).",
        "children": []
       }
      ]
@@ -4483,7 +4539,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_10/pkt_1",
-       "text": "może zwiększyć liczbę godzin przeznaczonych na przedmioty realizowane w zakresie rozszerzonym albo 2) może przydzielić godziny na przedmioty uzupełniające, dla których nie została ustalona podstawa programowa, lecz program nauczania tych przedmiotów został włączony do szkolnego zestawu programów nauczania. Tygodniowy wymiar godzin w pięcioletnim cyklu kształcenia dla przedmiotu uzupełniającego wynosi co najmniej 2 godziny. Przedmioty uzupełniające ustala dyrektor szkoły po zasięgnięciu opinii uczniów danego oddziału (grupy oddziałowej, międzyoddziałowej lub międzyszkolnej).",
+       "text": "może zwiększyć liczbę godzin przeznaczonych na przedmioty realizowane w zakresie rozszerzonym albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_10/pkt_2",
+       "text": "może przydzielić godziny na przedmioty uzupełniające, dla których nie została ustalona podstawa programowa, lecz program nauczania tych przedmiotów został włączony do szkolnego zestawu programów nauczania. Tygodniowy wymiar godzin w pięcioletnim cyklu kształcenia dla przedmiotu uzupełniającego wynosi co najmniej 2 godziny. Przedmioty uzupełniające ustala dyrektor szkoły po zasięgnięciu opinii uczniów danego oddziału (grupy oddziałowej, międzyoddziałowej lub międzyszkolnej).",
        "children": []
       }
      ]
@@ -4615,7 +4678,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_8/pkt_1",
-       "text": "może zwiększyć liczbę godzin przeznaczonych na przedmioty realizowane w zakresie rozszerzonym albo 2) może przydzielić godziny na przedmioty uzupełniające, dla których nie została ustalona podstawa programowa, lecz program nauczania tych przedmiotów został włączony do szkolnego zestawu programów nauczania. Tygodniowy wymiar godzin w pięcioletnim cyklu kształcenia dla przedmiotu uzupełniającego wynosi co najmniej 2 godziny. Przedmioty uzupełniające ustala dyrektor szkoły po zasięgnięciu opinii uczniów danego oddziału (grupy oddziałowej, międzyoddziałowej lub międzyszkolnej).",
+       "text": "może zwiększyć liczbę godzin przeznaczonych na przedmioty realizowane w zakresie rozszerzonym albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_8/pkt_2",
+       "text": "może przydzielić godziny na przedmioty uzupełniające, dla których nie została ustalona podstawa programowa, lecz program nauczania tych przedmiotów został włączony do szkolnego zestawu programów nauczania. Tygodniowy wymiar godzin w pięcioletnim cyklu kształcenia dla przedmiotu uzupełniającego wynosi co najmniej 2 godziny. Przedmioty uzupełniające ustala dyrektor szkoły po zasięgnięciu opinii uczniów danego oddziału (grupy oddziałowej, międzyoddziałowej lub międzyszkolnej).",
        "children": []
       }
      ]
@@ -4740,7 +4810,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_8/pkt_1",
-       "text": "może zwiększyć liczbę godzin przeznaczonych na przedmioty realizowane w zakresie rozszerzonym albo 2) może przydzielić godziny na przedmioty uzupełniające, dla których nie została ustalona podstawa programowa, lecz program nauczania tych przedmiotów został włączony do szkolnego zestawu programów nauczania. Tygodniowy wymiar godzin w pięcioletnim cyklu kształcenia dla przedmiotu uzupełniającego wynosi co najmniej 2 godziny. Przedmioty uzupełniające ustala dyrektor szkoły po zasięgnięciu opinii uczniów danego oddziału (grupy oddziałowej, międzyoddziałowej lub międzyszkolnej).",
+       "text": "może zwiększyć liczbę godzin przeznaczonych na przedmioty realizowane w zakresie rozszerzonym albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_8/pkt_2",
+       "text": "może przydzielić godziny na przedmioty uzupełniające, dla których nie została ustalona podstawa programowa, lecz program nauczania tych przedmiotów został włączony do szkolnego zestawu programów nauczania. Tygodniowy wymiar godzin w pięcioletnim cyklu kształcenia dla przedmiotu uzupełniającego wynosi co najmniej 2 godziny. Przedmioty uzupełniające ustala dyrektor szkoły po zasięgnięciu opinii uczniów danego oddziału (grupy oddziałowej, międzyoddziałowej lub międzyszkolnej).",
        "children": []
       }
      ]
@@ -4851,7 +4928,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_7/pkt_1",
-       "text": "może zwiększyć liczbę godzin przeznaczonych na przedmioty realizowane w zakresie rozszerzonym albo 2) może przydzielić godziny na przedmioty uzupełniające, dla których nie została ustalona podstawa programowa, lecz program nauczania tych przedmiotów został włączony do szkolnego zestawu programów nauczania. Tygodniowy wymiar godzin w 4-letnim okresie nauczania dla przedmiotu uzupełniającego wynosi co najmniej 2 godziny. Przedmioty uzupełniające ustala dyrektor szkoły po zasięgnięciu opinii uczniów danego oddziału (grupy oddziałowej, międzyoddziałowej lub międzyszkolnej).",
+       "text": "może zwiększyć liczbę godzin przeznaczonych na przedmioty realizowane w zakresie rozszerzonym albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_7/pkt_2",
+       "text": "może przydzielić godziny na przedmioty uzupełniające, dla których nie została ustalona podstawa programowa, lecz program nauczania tych przedmiotów został włączony do szkolnego zestawu programów nauczania. Tygodniowy wymiar godzin w 4-letnim okresie nauczania dla przedmiotu uzupełniającego wynosi co najmniej 2 godziny. Przedmioty uzupełniające ustala dyrektor szkoły po zasięgnięciu opinii uczniów danego oddziału (grupy oddziałowej, międzyoddziałowej lub międzyszkolnej).",
        "children": []
       }
      ]
@@ -4983,7 +5067,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_8/pkt_1",
-       "text": "może zwiększyć liczbę godzin przeznaczonych na przedmioty realizowane w zakresie rozszerzonym albo 2) może przydzielić godziny na przedmioty uzupełniające, dla których nie została ustalona podstawa programowa, lecz program nauczania tych przedmiotów został włączony do szkolnego zestawu programów nauczania. Tygodniowy wymiar godzin w czteroletnim cyklu kształcenia dla przedmiotu uzupełniającego wynosi co najmniej 2 godziny. Przedmioty uzupełniające ustala dyrektor szkoły po zasięgnięciu opinii uczniów danego oddziału (grupy oddziałowej, międzyoddziałowej lub międzyszkolnej).",
+       "text": "może zwiększyć liczbę godzin przeznaczonych na przedmioty realizowane w zakresie rozszerzonym albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_8/pkt_2",
+       "text": "może przydzielić godziny na przedmioty uzupełniające, dla których nie została ustalona podstawa programowa, lecz program nauczania tych przedmiotów został włączony do szkolnego zestawu programów nauczania. Tygodniowy wymiar godzin w czteroletnim cyklu kształcenia dla przedmiotu uzupełniającego wynosi co najmniej 2 godziny. Przedmioty uzupełniające ustala dyrektor szkoły po zasięgnięciu opinii uczniów danego oddziału (grupy oddziałowej, międzyoddziałowej lub międzyszkolnej).",
        "children": []
       }
      ]

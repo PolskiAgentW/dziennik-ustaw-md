@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1547",
  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 28 października 2025 r. zmieniające rozporządzenie w sprawie rejestracji pojazdów Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1547/text.pdf",
  "body": [
   {
@@ -101,15 +101,59 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Zabezpieczenia w papierze: a) papier zabezpieczony chemicznie, niewykazujący luminescencji w promieniowaniu ultrafioletowym, b) dwutonowy, bieżący znak wodny, c) włókna zabezpieczające widoczne wyłącznie w promieniowaniu ultrafioletowym.",
-     "children": []
+     "text": "Zabezpieczenia w papierze: a) papier zabezpieczony chemicznie, niewykazujący luminescencji w promieniowaniu ultrafioletowym,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "dwutonowy, bieżący znak wodny,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_1/lit_c",
+       "text": "włókna zabezpieczające widoczne wyłącznie w promieniowaniu ultrafioletowym.",
+       "children": []
+      }
+     ]
     },
     {
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Zabezpieczenia w druku: a) druk: offset, sitodruk, b) dwukolorowe tło giloszowe wykonane w technice druku irysowego z elementem reliefu, c) mikrodruki, d) elementy graficzne wykonane farbą irydyscentną, e) elementy graficzne wykonane farbą aktywną w promieniowaniu ultrafioletowym.",
-     "children": []
+     "text": "Zabezpieczenia w druku: a) druk: offset, sitodruk,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/lit_b",
+       "text": "dwukolorowe tło giloszowe wykonane w technice druku irysowego z elementem reliefu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/lit_c",
+       "text": "mikrodruki,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_2/lit_d",
+       "text": "elementy graficzne wykonane farbą irydyscentną,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_2/lit_e",
+       "text": "elementy graficzne wykonane farbą aktywną w promieniowaniu ultrafioletowym.",
+       "children": []
+      }
+     ]
     },
     {
      "type": "ust",

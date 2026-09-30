@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/39",
  "title": "Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy o spółdzielniach mieszkaniowych oraz niektórych innych ustaw",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/39/text.pdf",
  "body": [
   {
@@ -50,7 +50,7 @@
       },
       {
        "type": "text",
-       "text": "1³. Do pełnomocnictwa udzielonego osobie bliskiej dołącza się oświadczenie, w którym pełnomocnik potwierdza pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, wynikającej z art. 27 3a , że spełnia wymóg, o którym mowa w ust. 1² pkt 1. W oświadczeniu zamieszcza się klauzulę w brzmieniu: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”.",
+       "text": "1³. Do pełnomocnictwa udzielonego osobie bliskiej dołącza się oświadczenie, w którym pełnomocnik potwierdza pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, wynikającej z art. 27³ᵃ, że spełnia wymóg, o którym mowa w ust. 1² pkt 1. W oświadczeniu zamieszcza się klauzulę w brzmieniu: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”.",
        "quoted": true
       },
       {
@@ -74,17 +74,21 @@
      "type": "pkt",
      "num": "2",
      "path": "art_1/pkt_2",
-     "text": "po art. 27³ dodaje się art. 27 3a w brzmieniu:",
+     "text": "po art. 27³ dodaje się art. 27³ᵃ w brzmieniu:",
      "children": [
       {
        "type": "text",
-       "text": "3a 3 3 „Art. 27 . Kto składa fałszywe oświadczenie, o którym mowa w art. 8 ust. 1 zdanie pierwsze, podlega karze grzywny.”;"
-      },
-      {
-       "type": "text",
-       "text": "4 3 3a 3) w art. 27 po wyrazach „art. 27 ” dodaje się wyrazy „i art. 27 ”;"
+       "text": "„Art. 27³ᵃ. Kto składa fałszywe oświadczenie, o którym mowa w art. 8³ ust. 1³ zdanie pierwsze, podlega karze grzywny.”;",
+       "quoted": true
       }
      ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w art. 27⁴ po wyrazach „art. 27³” dodaje się wyrazy „i art. 27³ᵃ”;",
+     "children": []
     },
     {
      "type": "pkt",

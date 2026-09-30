@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/597",
  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 21 stycznia 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie szczegółowych czynności sądów w sprawach z zakresu międzynarodowego postępowania cywilnego oraz karnego w stosunkach międzynarodowych",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/597/text.pdf",
  "body": [
   {
@@ -2563,11 +2563,7 @@
     },
     {
      "type": "text",
-     "text": "Sąd ................................................................. w .................................................................., powołując się na zrzeczenie się immunitetu wobec Pana(i), doręcza Panu(i) odpis złożonego przez ............................................................................................................................ pozwu w sprawie o ........................................................................................................... i zawiadamia, io k że"
-    },
-    {
-     "type": "text",
-     "text": "w tej sprawie odbędzie się w dniu ....................... o godzinie ............................ w sali nr .... budynku sądowego w ................................ przy ul. ...................................... nr ..... rrrrpppppppprrpppppppp"
+     "text": "Sąd ................................................................. w .................................................................., powołując się na zrzeczenie się immunitetu wobec Pana(i), doręcza Panu(i) odpis złożonego przez ............................................................................................................................ pozwu w sprawie o ........................................................................................................... i zawiadamia, wniosku że w tej sprawie odbędzie się w dniu ....................... o godzinie ............................ w sali nr .... budynku sądowego rrrrrrrrrrrrrrrr w ................................ przy ul. ...................................... nr ..... rrrrpppppppprrpppppppp"
     },
     {
      "type": "text",
@@ -2575,19 +2571,41 @@
     },
     {
      "type": "text",
-     "text": "rrrrpppppppprrpppppppp Pouczenie W ciągu jednego miesiąca od chwili otrzymania niniejszego wezwania może Pan(i) nadesłać do tutejszego Sądu pismo zawierające następujące wyjaśnienia: a) czy uznaje żądanie pozwu lub wniosku, czy też wnosi o oddalenie powództwa lub wniosku? b) czy uznaje twierdzenia pozwu lub wniosku za prawdziwe lub jakie zgłasza zarzuty? c) jakie dowody (np. dokumenty, świadków) przedstawia na poparcie swoich zarzutów? d) czy ustanawia adwokata z wyboru? (podać nazwisko i adres)."
+     "text": "rrrrpppppppprrpppppppp Pouczenie W ciągu jednego miesiąca od chwili otrzymania niniejszego wezwania może Pan(i) nadesłać do tutejszego Sądu pismo zawierające następujące wyjaśnienia: a) czy uznaje żądanie pozwu lub wniosku, czy też wnosi o oddalenie powództwa lub wniosku?"
     },
     {
-     "type": "text",
-     "text": "Sędzia ................................ (podpis)"
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "czy uznaje twierdzenia pozwu lub wniosku za prawdziwe lub jakie zgłasza zarzuty?",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(pieczęć Sądu)"
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "jakie dowody (np. dokumenty, świadków) przedstawia na poparcie swoich zarzutów?",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "[^67] W brzmieniu ustalonym przez § 1 pkt 18 rozporządzenia, o którym mowa w odnośniku 4."
+     "type": "lit",
+     "num": "d",
+     "path": "lit_d",
+     "text": "czy ustanawia adwokata z wyboru? (podać nazwisko i adres).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Sędzia ................................ (podpis)"
+      },
+      {
+       "type": "text",
+       "text": "(pieczęć Sądu)"
+      },
+      {
+       "type": "text",
+       "text": "[^67] W brzmieniu ustalonym przez § 1 pkt 18 rozporządzenia, o którym mowa w odnośniku 4."
+      }
+     ]
     }
    ]
   },
@@ -2608,7 +2626,7 @@
     },
     {
      "type": "text",
-     "text": "Sąd .................................................................. w .................................................................. zawiadamia Pana(ią) jako ........................................, że w dniu .................................................. o godzinie .................................... w sali nr ............... budynku sądowego w ............................. przy ul. ................................................................ nr ........ odbędzie się w sprawie z ............................................... o ......................................................................... rrrrpppppppprrpppppppp . rrrrrrópprrddrrrr rrpppprrppwwww"
+     "text": "Sąd .................................................................. w .................................................................. zawiadamia Pana(ią) jako ........................................, że w dniu .................................................. o godzinie .................................... w sali nr ............... budynku sądowego w ............................. przy ul. ................................................................ nr ........ odbędzie się w sprawie z ............................................... o ......................................................................... rrrrpppppppprrpppppppp rrrrrrrrrrrrrrrr . rrrrrrópprrddrrrr rrpppprrppwwww"
     },
     {
      "type": "text",
@@ -2641,11 +2659,7 @@
     },
     {
      "type": "text",
-     "text": "W Sądzie ................................................................... w ............................................................................... toczy się postępowanie w sprawie ……………………………………………………"
-    },
-    {
-     "type": "text",
-     "text": "W sprawie tej …………………………………………………………………………………… zgłosił wniosek o przesłuchanie Pana(i) w charakterze kkkkkk świadka. W związku z tym Sąd ………………...…………. w …………………………………prosi Pana(ią) o przybycie na w sali nr ……………….. budynku sądowego w ………………………………. ul. …………………………………….…. kkrrrrrrkkkkccę nr …………………… w celu złożenia zeznań w charakterze świadka. rrrrppcckkpprrkkkkcckk"
+     "text": "W Sądzie ................................................................... w ............................................................................... toczy się postępowanie w sprawie …………………………………………………… W sprawie tej …………………………………………………………………………………… kkkkkkkkkkkk zgłosił wniosek o przesłuchanie Pana(i) w cccccccccckkkkkk charakterze świadka. W związku z tym Sąd ………………...…………. w …………………………………prosi Pana(ią) o przybycie na w sali nr ……………….. budynku sądowego w ………………………………. ul. …………………………………….…. kkrrrrrrkkkkccę nr …………………… w celu złożenia zeznań w charakterze świadka. rrrrppcckkpprrkkkkcckk"
     },
     {
      "type": "text",
@@ -2712,7 +2726,35 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "................................................................................................................................................ 2) ................................................................................................................................................ 3) ................................................................................................................................................ 4) ............................................................................................................................................... 5) ................................................................................................................................................",
+     "text": "................................................................................................................................................",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "................................................................................................................................................",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "................................................................................................................................................",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "...............................................................................................................................................",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "................................................................................................................................................",
      "children": [
       {
        "type": "text",
@@ -2753,7 +2795,21 @@
      "type": "lit",
      "num": "a",
      "path": "lit_a",
-     "text": "czy uznaje żądanie pozwu, czy też wnosi o oddalenie powództwa? b) czy uznaje twierdzenia pozwu za prawdziwe lub jakie zgłasza zarzuty? c) jakie dowody (dokumenty, świadków) przedstawia na poparcie swoich zarzutów?",
+     "text": "czy uznaje żądanie pozwu, czy też wnosi o oddalenie powództwa?",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "czy uznaje twierdzenia pozwu za prawdziwe lub jakie zgłasza zarzuty?",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "jakie dowody (dokumenty, świadków) przedstawia na poparcie swoich zarzutów?",
      "children": [
       {
        "type": "text",
@@ -3026,7 +3082,14 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "osiągnęły wiek – kobiety 60 lat, a mężczyźni 65 lat – i nie wykonują stałej pracy, która stanowiłaby dla nich główne źródło utrzymania, lub 2) zostały zaliczone do I lub II grupy inwalidów w trybie i na zasadach określonych w przepisach o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin.",
+     "text": "osiągnęły wiek – kobiety 60 lat, a mężczyźni 65 lat – i nie wykonują stałej pracy, która stanowiłaby dla nich główne źródło utrzymania, lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "zostały zaliczone do I lub II grupy inwalidów w trybie i na zasadach określonych w przepisach o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin.",
      "children": []
     },
     {
@@ -3143,7 +3206,14 @@
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "w chwili otwarcia spadku bądź prowadzą inne indywidualne gospodarstwo rolne, bądź też pracują w gospodarstwie rolnym współmałżonka lub jego rodziców, albo 4) w chwili otwarcia spadku bądź są małoletni (poniżej lat 18), bądź też pobierają naukę zawodu lub uczęszczają do szkół,",
+     "text": "w chwili otwarcia spadku bądź prowadzą inne indywidualne gospodarstwo rolne, bądź też pracują w gospodarstwie rolnym współmałżonka lub jego rodziców, albo",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "w chwili otwarcia spadku bądź są małoletni (poniżej lat 18), bądź też pobierają naukę zawodu lub uczęszczają do szkół,",
      "children": []
     },
     {
@@ -3157,7 +3227,14 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "osiągnęły wiek – kobiety 60 lat, a mężczyźni 65 lat – i nie wykonują stałej pracy, która stanowiłaby dla nich główne źródło utrzymania, lub 2) zostały zaliczone do I lub II grupy inwalidów w trybie i na zasadach określonych w przepisach o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin. Szczegółowe przepisy o dziedziczeniu gospodarstw rolnych zawarte są w art. 1058–1063 Kodeksu cywilnego.",
+     "text": "osiągnęły wiek – kobiety 60 lat, a mężczyźni 65 lat – i nie wykonują stałej pracy, która stanowiłaby dla nich główne źródło utrzymania, lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "zostały zaliczone do I lub II grupy inwalidów w trybie i na zasadach określonych w przepisach o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin. Szczegółowe przepisy o dziedziczeniu gospodarstw rolnych zawarte są w art. 1058–1063 Kodeksu cywilnego.",
      "children": []
     },
     {
@@ -3233,7 +3310,14 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "osiągnęły wiek – kobiety 60 lat, a mężczyźni 65 lat – i nie wykonują stałej pracy, która stanowiłaby dla nich główne źródło utrzymania, lub 2) zostały zaliczone do I lub II grupy inwalidów w trybie i na zasadach określonych w przepisach o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin. Szczegółowe przepisy o dziedziczeniu gospodarstw rolnych zawarte są w art. 1058–1063 Kodeksu cywilnego.",
+     "text": "osiągnęły wiek – kobiety 60 lat, a mężczyźni 65 lat – i nie wykonują stałej pracy, która stanowiłaby dla nich główne źródło utrzymania, lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "zostały zaliczone do I lub II grupy inwalidów w trybie i na zasadach określonych w przepisach o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin. Szczegółowe przepisy o dziedziczeniu gospodarstw rolnych zawarte są w art. 1058–1063 Kodeksu cywilnego.",
      "children": []
     },
     {
@@ -3295,14 +3379,28 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "stale pracują w jakimkolwiek gospodarstwie rolnym bezpośrednio przy produkcji rolnej albo 2) mają kwalifikacje do prowadzenia gospodarstwa rolnego, tj. ukończyły szkołę rolniczą, kurs przysposobienia rolniczego lub uzyskały tytuł kwalifikacyjny w zawodach rolniczych. Natomiast za trwale niezdolnych do pracy uważa się osoby, które:",
+     "text": "stale pracują w jakimkolwiek gospodarstwie rolnym bezpośrednio przy produkcji rolnej albo",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "mają kwalifikacje do prowadzenia gospodarstwa rolnego, tj. ukończyły szkołę rolniczą, kurs przysposobienia rolniczego lub uzyskały tytuł kwalifikacyjny w zawodach rolniczych. Natomiast za trwale niezdolnych do pracy uważa się osoby, które:",
      "children": []
     },
     {
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "osiągnęły wiek – kobiety 60 lat, a mężczyźni 65 lat – i nie wykonują stałej pracy, która stanowiłaby dla nich główne źródło utrzymania, lub 2) zostały zaliczone do I lub II grupy inwalidów w trybie i na zasadach określonych w przepisach o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin. Szczegółowe przepisy o dziedziczeniu gospodarstw rolnych zawarte są w art. 1058–1063 Kodeksu cywilnego.",
+     "text": "osiągnęły wiek – kobiety 60 lat, a mężczyźni 65 lat – i nie wykonują stałej pracy, która stanowiłaby dla nich główne źródło utrzymania, lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "zostały zaliczone do I lub II grupy inwalidów w trybie i na zasadach określonych w przepisach o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin. Szczegółowe przepisy o dziedziczeniu gospodarstw rolnych zawarte są w art. 1058–1063 Kodeksu cywilnego.",
      "children": []
     },
     {
@@ -3399,7 +3497,14 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "osiągnęły wiek – kobiety 60 lat, a mężczyźni 65 lat – i nie wykonują stałej pracy, która stanowiłaby dla nich główne źródło utrzymania, lub 2) zostały zaliczone do I lub II grupy inwalidów w trybie i na zasadach określonych w przepisach o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin. Szczegółowe przepisy o dziedziczeniu gospodarstw rolnych zawarte są w art. 1058–1063 Kodeksu cywilnego.",
+     "text": "osiągnęły wiek – kobiety 60 lat, a mężczyźni 65 lat – i nie wykonują stałej pracy, która stanowiłaby dla nich główne źródło utrzymania, lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "zostały zaliczone do I lub II grupy inwalidów w trybie i na zasadach określonych w przepisach o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin. Szczegółowe przepisy o dziedziczeniu gospodarstw rolnych zawarte są w art. 1058–1063 Kodeksu cywilnego.",
      "children": []
     },
     {
@@ -3512,7 +3617,7 @@
     },
     {
      "type": "text",
-     "text": "Przed Sądem ........................................... w .................................... toczy się postępowanie w sprawie cywilnej z .............................................................................................. o ............................................ (w tym miejscu podać ppdd stan faktyczny sprawy oraz okoliczności, na które ma być przeprowadzony dowód). W ppwwwwppwwwwww toku postępowania zostało ustalone, że Pan/Pani ............................................................ zamieszkały(a) w ............................................. jest w tej sprawie świadkiem, którego zeznanie ma bardzo duże znaczenie dla wydania przez Sąd słusznego i sprawiedliwego wyroku. W związku z powyższym Sąd ............................................ w .............................................. uprzejmie prosi o wezwanie ........................................ zamieszkałego(ej) w .............................. w charakterze świadka i spowodowanie, aby świadek ten udzielił odpowiedzi na pytania zamieszczone na załączonej liście."
+     "text": "Przed Sądem ........................................... w .................................... toczy się postępowanie w sprawie cywilnej z .............................................................................................. o ............................................ (w tym miejscu ppppppóddddddppdd podać stan faktyczny sprawy oraz okoliczności, na które ma być przeprowadzony dowód). W ppwwwwppwwwwww toku postępowania zostało ustalone, że Pan/Pani ............................................................ zamieszkały(a) w ............................................. jest w tej sprawie świadkiem, którego zeznanie ma bardzo duże znaczenie dla wydania przez Sąd słusznego i sprawiedliwego wyroku. W związku z powyższym Sąd ............................................ w .............................................. uprzejmie prosi o wezwanie ........................................ zamieszkałego(ej) w .............................. w charakterze świadka i spowodowanie, aby świadek ten udzielił odpowiedzi na pytania zamieszczone na załączonej liście."
     },
     {
      "type": "text",
@@ -3616,15 +3721,30 @@
     },
     {
      "type": "text",
-     "text": "Potwierdzam własnoręcznym podpisem, że w dniu dzisiejszym otrzymałem niżej wymienione pisma z Sądu ................................................................................... (podać nazwę sądu zagranicznego) w ............................................................ (sygnatura akt sądu zagranicznego) 1) ........................ 2) ........................ 3) ........................ ........................... dnia ............................. ........................... ............................ (czytelny podpis osoby (czytelny podpis odbiorcy*) dokonującej doręczenia)"
+     "text": "Potwierdzam własnoręcznym podpisem, że w dniu dzisiejszym otrzymałem niżej wymienione pisma z Sądu ................................................................................... (podać nazwę sądu zagranicznego) w ............................................................ (sygnatura akt sądu zagranicznego) 1) ........................"
     },
     {
-     "type": "text",
-     "text": "(pieczęć Sądu)"
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "........................",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "* Jeżeli adresatem pisma nie jest osoba fizyczna, należy obok podpisu podać stanowisko służbowe osoby upoważnionej do odebrania tego pisma."
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "........................ ........................... dnia ............................. ........................... ............................ (czytelny podpis osoby (czytelny podpis odbiorcy*) dokonującej doręczenia)",
+     "children": [
+      {
+       "type": "text",
+       "text": "(pieczęć Sądu)"
+      },
+      {
+       "type": "text",
+       "text": "* Jeżeli adresatem pisma nie jest osoba fizyczna, należy obok podpisu podać stanowisko służbowe osoby upoważnionej do odebrania tego pisma."
+      }
+     ]
     }
    ]
   },
@@ -3726,19 +3846,49 @@
     },
     {
      "type": "text",
-     "text": "o spowodowanie: uregulowania roszczenia w drodze ugody, a w razie potrzeby o: 1) wszczęcie i prowadzenie sprawy w drodze postępowania sądowego, 2) przeprowadzenie egzekucji z wyroku albo innego tytułu zasądzającego alimenty*,"
+     "text": "o spowodowanie: uregulowania roszczenia w drodze ugody, a w razie potrzeby o: 1) wszczęcie i prowadzenie sprawy w drodze postępowania sądowego,"
     },
     {
-     "type": "text",
-     "text": "..............................................................."
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "przeprowadzenie egzekucji z wyroku albo innego tytułu zasądzającego alimenty*,",
+     "children": [
+      {
+       "type": "text",
+       "text": "..............................................................."
+      },
+      {
+       "type": "text",
+       "text": "Załączniki: 1) pełnomocnictwo,"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Załączniki: 1) pełnomocnictwo, 2) ........................... 3) ........................... 4) tłumaczenie na język ............"
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "...........................",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "* Niepotrzebne skreślić."
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "...........................",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "tłumaczenie na język ............",
+     "children": [
+      {
+       "type": "text",
+       "text": "* Niepotrzebne skreślić."
+      }
+     ]
     }
    ]
   },
@@ -3883,21 +4033,63 @@
      "type": "lit",
      "num": "a",
      "path": "lit_a",
-     "text": "przez zwykłe oddanie pisma adresatowi, *) a) by simple transmission of the writ or record to the person to be served, *) a) la simple transmission de l’acte ou de la décision au destinataire, *)",
+     "text": "przez zwykłe oddanie pisma adresatowi, *)",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "by simple transmission of the writ or record to the person to be served, *)",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "la simple transmission de l’acte ou de la décision au destinataire, *)",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
      "path": "lit_b",
-     "text": "w formie przewidzianej przez prawo wewnętrzne państwa wezwanego dla tego rodzaju doręczeń, *) b) in the manner provided for service of analogous documents under the law of Requested State, *) b) dans la forme prévue par la législation de l’État requis pour les significations analogues, *)",
+     "text": "w formie przewidzianej przez prawo wewnętrzne państwa wezwanego dla tego rodzaju doręczeń, *)",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "in the manner provided for service of analogous documents under the law of Requested State, *)",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "dans la forme prévue par la législation de l’État requis pour les significations analogues, *)",
      "children": []
     },
     {
      "type": "lit",
      "num": "c",
      "path": "lit_c",
-     "text": "w następującej formie szczególnej, zgodnej z prawem państwa wezwanego: *) c) in a special manner consistent with the law of Requested State: *) c) dans la forme spéciale suivante compatible avec la législation de l’État requis: *) .........................................................................................................................................................................................",
+     "text": "w następującej formie szczególnej, zgodnej z prawem państwa wezwanego: *)",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "in a special manner consistent with the law of Requested State: *)",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "dans la forme spéciale suivante compatible avec la législation de l’État requis: *) .........................................................................................................................................................................................",
      "children": [
       {
        "type": "text",
@@ -3947,21 +4139,56 @@
        "type": "lit",
        "num": "a",
        "path": "ust_1/lit_a",
-       "text": "przez zwykłe oddanie pisma adresatowi, *) a) by simple transmission of the writ or record to the person to be served, *) a) la simple remise au destinataire, *)",
+       "text": "przez zwykłe oddanie pisma adresatowi, *)",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_1/lit_a",
+       "text": "by simple transmission of the writ or record to the person to be served, *)",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_1/lit_a",
+       "text": "la simple remise au destinataire, *)",
        "children": []
       },
       {
        "type": "lit",
        "num": "b",
        "path": "ust_1/lit_b",
-       "text": "w formie przewidzianej przez prawo wewnętrzne państwa wezwanego dla tego rodzaju doręczeń, *) b) in the manner provided for the service of analogous documents under the law of Requested State, *) b) dans la forme prévue par la législation de l’État requis pour les significations analogues, *)",
+       "text": "w formie przewidzianej przez prawo wewnętrzne państwa wezwanego dla tego rodzaju doręczeń, *)",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "in the manner provided for the service of analogous documents under the law of Requested State, *) b) dans la forme prévue par la législation de l’État requis pour les significations analogues, *)",
        "children": []
       },
       {
        "type": "lit",
        "num": "c",
        "path": "ust_1/lit_c",
-       "text": "w następującej formie szczególnej, zgodnej z prawem państwa wezwanego: *) c) in a special manner consistent with the law of Requested State: *) c) dans la forme spéciale suivante, pour autant que celle-ci soit compatible avec la législation de l’État requis: *)",
+       "text": "w następującej formie szczególnej, zgodnej z prawem państwa wezwanego: *)",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_1/lit_c",
+       "text": "in a special manner consistent with the law of Requested State: *)",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_1/lit_c",
+       "text": "dans la forme spéciale suivante, pour autant que celle-ci soit compatible avec la législation de l’État requis: *)",
        "children": [
         {
          "type": "text",
@@ -3977,7 +4204,14 @@
        "type": "lit",
        "num": "a",
        "path": "ust_1/lit_a",
-       "text": "adresatowi / the person to be served / au destinataire, *) b) innej osobie, a mianowicie: / other person i.e.: / à une autre personne: *) − (nazwisko i stosunek do adresata) ……………………………………………………………… (name and relationship / nom et lien de parenté)",
+       "text": "adresatowi / the person to be served / au destinataire, *)",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "innej osobie, a mianowicie: / other person i.e.: / à une autre personne: *) − (nazwisko i stosunek do adresata) ……………………………………………………………… (name and relationship / nom et lien de parenté)",
        "children": []
       }
      ]
@@ -4104,15 +4338,51 @@
     },
     {
      "type": "text",
-     "text": "Do niniejszego wniosku Sąd załącza: 1) postanowienie z dnia ........................... o zastosowaniu aresztowania wydane przez ........................., 2) zaświadczenie dotyczące obywatelstwa oskarżonego ........................................................., 3) rysopis oskarżonego, 4) fotografię oskarżonego, 5) kartę z odciskami palców oskarżonego, 6) ............................................................... ."
+     "text": "Do niniejszego wniosku Sąd załącza: 1) postanowienie z dnia ........................... o zastosowaniu aresztowania wydane przez .........................,"
     },
     {
-     "type": "text",
-     "text": "Sędzia ................................ (podpis)"
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "zaświadczenie dotyczące obywatelstwa oskarżonego .........................................................,",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(pieczęć Sądu)"
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "rysopis oskarżonego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "fotografię oskarżonego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "kartę z odciskami palców oskarżonego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "............................................................... .",
+     "children": [
+      {
+       "type": "text",
+       "text": "Sędzia ................................ (podpis)"
+      },
+      {
+       "type": "text",
+       "text": "(pieczęć Sądu)"
+      }
+     ]
     }
    ]
   },
@@ -4143,7 +4413,63 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "imię (imiona) ........................................................................................................................, 2) nazwisko .............................................................................................................................., 3) pseudonim ............................................................................................................................, 4) data urodzenia ......................................................................................................................, 5) miejsce urodzenia ................................................................................................................., (podać miejscowość, województwo i nazwę państwa) 6) imiona rodziców oraz nazwisko rodowe matki ...................................................................., 7) obywatelstwo ......................................................................................................................., 8) stan cywilny ........................................................................................................................., 9) poprzednia karalność ............................................................................................................, 10) miejsce zamieszkania lub pobytu za granicą ........................................................................ ....................................................................................................................................................... (w miarę możliwości podać dokładny adres)",
+     "text": "imię (imiona) ........................................................................................................................,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "nazwisko ..............................................................................................................................,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "pseudonim ............................................................................................................................,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "data urodzenia ......................................................................................................................,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "miejsce urodzenia ................................................................................................................., (podać miejscowość, województwo i nazwę państwa) 6) imiona rodziców oraz nazwisko rodowe matki ....................................................................,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "obywatelstwo .......................................................................................................................,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "stan cywilny .........................................................................................................................,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "poprzednia karalność ............................................................................................................,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "miejsce zamieszkania lub pobytu za granicą ........................................................................ ....................................................................................................................................................... (w miarę możliwości podać dokładny adres)",
      "children": [
       {
        "type": "text",
@@ -4155,8 +4481,44 @@
       },
       {
        "type": "text",
-       "text": "........................................................................ (imię i nazwisko) został skazany za to, że: ....................................................... .................................................................................................................................................................. (podać zgodnie z wyrokiem; jeżeli wyrok nie zawiera uzasadnienia, należy zwięźle opisać stan faktyczny każdego przestępstwa) Opisane wyżej czyny podlegają w Rzeczypospolitej Polskiej karze na podstawie przepisów art. ..................., które brzmią następująco: „Art. ...................................” „Art. ...................................” Według przepisów prawa karnego Rzeczypospolitej Polskiej przedawnienie wykonania orzeczonej kary nie nastąpiło. „Art. ...................................” Przedawnienie wykonania kary nastąpi w dniu ........................................................................... Do niniejszego wniosku Sąd załącza: 1) uwierzytelniony odpis prawomocnego wyroku z dnia ........................................................, 2) zaświadczenie dotyczące obywatelstwa skazanego ............................................................., 3) rysopis skazanego ................................................................................................................, 4) fotografię skazanego ............................................................................................................, 5) kartę z odciskami palców skazanego ..................................................................................., 6) .............................................................................................................................................. ."
-      },
+       "text": "........................................................................ (imię i nazwisko) został skazany za to, że: ....................................................... .................................................................................................................................................................. (podać zgodnie z wyrokiem; jeżeli wyrok nie zawiera uzasadnienia, należy zwięźle opisać stan faktyczny każdego przestępstwa) Opisane wyżej czyny podlegają w Rzeczypospolitej Polskiej karze na podstawie przepisów art. ..................., które brzmią następująco: „Art. ...................................” „Art. ...................................” Według przepisów prawa karnego Rzeczypospolitej Polskiej przedawnienie wykonania orzeczonej kary nie nastąpiło. „Art. ...................................” Przedawnienie wykonania kary nastąpi w dniu ........................................................................... Do niniejszego wniosku Sąd załącza: 1) uwierzytelniony odpis prawomocnego wyroku z dnia ........................................................,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "zaświadczenie dotyczące obywatelstwa skazanego .............................................................,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "rysopis skazanego ................................................................................................................,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "fotografię skazanego ............................................................................................................,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "kartę z odciskami palców skazanego ...................................................................................,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": ".............................................................................................................................................. .",
+     "children": [
       {
        "type": "text",
        "text": "Sędzia ................................ (podpis)"

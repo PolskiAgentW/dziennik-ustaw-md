@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1152",
  "title": "Rozporządzenie Rady Ministrów z dnia 20 sierpnia 2025 r. zmieniające rozporządzenie w sprawie zakresu danych i wykazu rejestrów publicznych oraz systemów teleinformatycznych podmiotów publicznych, z których użytkownik aplikacji mObywatel może pobrać dane",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1152/text.pdf",
  "body": [
   {
@@ -523,7 +523,78 @@
      "type": "pkt",
      "num": "7",
      "path": "par_1/pkt_7",
-     "text": "o zastawach rejestrowych ustanowionych na pojeździe: a) dane o pojeździe, na którym ustanowiono zastaw rejestrowy, b) numer pozycji w rejestrze zastawów, c) data dokonania wpisu w rejestrze zastawów, d) imię i nazwisko (nazwa lub firma) zastawnika, e) numer PESEL zastawnika, f) numer identyfikacyjny REGON zastawnika, g) data wykreślenia zastawu z rejestru zastawów, h) nazwa (oznaczenie) sądu, który dokonał wpisu; 8) o dokumentach pojazdu: a) dane o dowodzie rejestracyjnym, b) dane o pozwoleniu czasowym – oraz o ich wtórnikach; 9) o tablicach rejestracyjnych pojazdu i ich legalizacji oraz o ich wtórnikach; 10) o badaniach technicznych pojazdu; 11) o szkodach istotnych; 12) o nadaniu i wybiciu nowego numeru nadwozia (podwozia); 13) techniczne o pojeździe; 14) o kradzieży i odnalezieniu pojazdu; 15) o zatrzymaniu dowodu rejestracyjnego albo pozwolenia czasowego; 16) o demontażu pojazdu lub przyjęciu niekompletnego pojazdu; 17) o czasowym wycofaniu i ponownym dopuszczeniu do ruchu pojazdu oraz o jego wyrejestrowaniu; 18) o homologacji pojazdu, dopuszczeniu jednostkowym pojazdu, krajowym indywidualnym dopuszczeniu pojazdu, unijnym indywidualnym dopuszczeniu pojazdu, dopuszczeniu indywidualnym WE pojazdu, dopuszczeniu do ruchu drogowego pojazdu z końcowej partii produkcji; 19) o zabezpieczeniach ustanowionych na pojeździe, w tym o zajęciu pojazdu przez organ egzekucyjny, oraz o ich zniesieniu; 20) o wymianie drogomierza; 21) o wydanych zezwoleniach na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd; 22) o odczycie wskazania drogomierza w czasie kontroli.",
+     "text": "o zastawach rejestrowych ustanowionych na pojeździe: a) dane o pojeździe, na którym ustanowiono zastaw rejestrowy, b) numer pozycji w rejestrze zastawów,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_7/lit_c",
+       "text": "data dokonania wpisu w rejestrze zastawów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_7/lit_d",
+       "text": "imię i nazwisko (nazwa lub firma) zastawnika, e) numer PESEL zastawnika,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_1/pkt_7/lit_f",
+       "text": "numer identyfikacyjny REGON zastawnika,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_1/pkt_7/lit_g",
+       "text": "data wykreślenia zastawu z rejestru zastawów, h) nazwa (oznaczenie) sądu, który dokonał wpisu; 8) o dokumentach pojazdu: a) dane o dowodzie rejestracyjnym,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_7/lit_b",
+       "text": "dane o pozwoleniu czasowym – oraz o ich wtórnikach; 9) o tablicach rejestracyjnych pojazdu i ich legalizacji oraz o ich wtórnikach; 10) o badaniach technicznych pojazdu;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_1/pkt_11",
+     "text": "o szkodach istotnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_1/pkt_12",
+     "text": "o nadaniu i wybiciu nowego numeru nadwozia (podwozia); 13) techniczne o pojeździe;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_1/pkt_14",
+     "text": "o kradzieży i odnalezieniu pojazdu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_1/pkt_15",
+     "text": "o zatrzymaniu dowodu rejestracyjnego albo pozwolenia czasowego; 16) o demontażu pojazdu lub przyjęciu niekompletnego pojazdu; 17) o czasowym wycofaniu i ponownym dopuszczeniu do ruchu pojazdu oraz o jego wyrejestrowaniu; 18) o homologacji pojazdu, dopuszczeniu jednostkowym pojazdu, krajowym indywidualnym dopuszczeniu pojazdu, unijnym indywidualnym dopuszczeniu pojazdu, dopuszczeniu indywidualnym WE pojazdu, dopuszczeniu do ruchu drogowego pojazdu z końcowej partii produkcji; 19) o zabezpieczeniach ustanowionych na pojeździe, w tym o zajęciu pojazdu przez organ egzekucyjny, oraz o ich zniesieniu; 20) o wymianie drogomierza;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "par_1/pkt_21",
+     "text": "o wydanych zezwoleniach na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd; 22) o odczycie wskazania drogomierza w czasie kontroli.",
      "children": []
     },
     {

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1200",
  "title": "Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 13 sierpnia 2026 r. zmieniające rozporządzenie w sprawie wykazów, wniosków i wypłat świadczeń z Funduszu Gwarantowanych Świadczeń Pracowniczych",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1200/text.pdf",
  "body": [
   {
@@ -666,60 +666,90 @@
       },
       {
        "type": "text",
-       "text": "Jeżeli zbiorczy wykaz składasz w związku z ponowną niewypłacalnością pracodawcy, to w części I załącznika ujmij wyłącznie: 1) osoby, których roszczenia nie były zaspokajane w przypadku poprzedniej niewypłacalności, lub 2) osoby, których łącznie roszczenia z tytułu: a) wynagrodzenia za pracę, b) wynagrodzenia za czas niezawinionego przez pracownika przestoju, za czas niewykonywania pracy (zwolnienia od pracy) i za czas innej usprawiedliwionej nieobecności w pracy, c) wynagrodzenia za czas niezdolności pracownika do pracy wskutek choroby, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, z późn. zm.), zwanej dalej „Kodeksem pracy”, d) wynagrodzenia za czas urlopu wypoczynkowego, e) dodatku wyrównawczego, o którym mowa w art. 230 § 2 i art. 231 Kodeksu pracy, oraz f) składek na ubezpieczenia społeczne należnych od pracodawców – zostały zaspokojone za okres krótszy niż trzy miesiące."
+       "text": "Jeżeli zbiorczy wykaz składasz w związku z ponowną niewypłacalnością pracodawcy, to w części I załącznika ujmij wyłącznie: 1) osoby, których roszczenia nie były zaspokajane w przypadku poprzedniej niewypłacalności, lub"
       },
       {
-       "type": "text",
-       "text": "W przypadku osób, o których mowa w pkt 2, w części II załącznika stosuj numer łamany (zapis z ukośnikiem): liczba porządkowa części II załącznika / liczba porządkowa części II załącznika złożonego i zrealizowanego podczas poprzedniej niewypłacalności. [^5] Uwzględnia się osoby spełniające warunki, o których mowa w art. 10 lub w art. 11 ustawy. W kolumnie 4 w części II załącznika wskaż datę ustania stosunku pracy pracownika, którego roszczenia pracownicze nie zostały zaspokojone, jeżeli z tą datą wiąże się uprawnienie do otrzymania świadczenia ze środków Funduszu, ponieważ ustanie stosunku pracy nastąpiło w okresie niedłuższym niż dwanaście miesięcy poprzedzających datę wystąpienia niewypłacalności pracodawcy lub w dniu wystąpienia niewypłacalności pracodawcy."
-      },
-      {
-       "type": "text",
-       "text": "[^6] Stosunek pracy, inna podstawa prawna świadczenia pracy, z której tytułu powstaje obowiązek ubezpieczenia społecznego w odniesieniu do osób wykazanych w części I załącznika."
-      },
-      {
-       "type": "text",
-       "text": "[^7] Kolumny 5–7 części I załącznika wypełnij z uwzględnieniem art. 14 ust. 1 ustawy, z którego wynika, że łączna kwota świadczeń za okres miesiąca nie może przekraczać przeciętnego miesięcznego wynagrodzenia z poprzedniego kwartału ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26 i 425), obowiązującego na dzień złożenia zbiorczego wykazu, o którym mowa w art. 15 ust. 1 ustawy."
-      },
-      {
-       "type": "text",
-       "text": "W kolumnach 5–7 części I załącznika wykaż roszczenia za okres stanowiący dopełnienie do okresu trzymiesięcznego, jeżeli występujesz ponownie o wypłatę świadczeń w odniesieniu do osób, których roszczenia przy pierwszej niewypłacalności zostały zaspokojone za okres krótszy niż trzy miesiące. Uwzględnij aktualnie obowiązujące przeciętne wynagrodzenie miesięczne. Jeżeli okres dopełnienia nie obejmuje pełnego miesiąca, to przeciętne miesięczne wynagrodzenie uwzględnij w ułamkowej części tej kwoty, proporcjonalnej do okresu niepełnego miesiąca, za który roszczenia podlegają zaspokojeniu. Jeżeli w części II załącznika wystąpią dane dotyczące czterech miesięcy kalendarzowych, to w kolumnie 5 części I załącznika (I miesiąc) wpisz dane będące sumą danych z dwóch okresów ujętych w dwóch osobnych miesiącach kalendarzowych (I miesiącu kalendarzowym i IV miesiącu kalendarzowym) stanowiącą łącznie dane za jeden pełny miesiąc kalendarzowy. [^8] Kolumnę 8 części I załącznika wypełnij z uwzględnieniem:"
-      },
-      {
-       "type": "tir",
-       "num": "1",
-       "path": "ust_3/tir_1",
-       "text": "art. 14 ust. 2 ustawy, z którego wynika, że kwota świadczenia nie może przekraczać kwoty przeciętnego miesięcznego wynagrodzenia, o którym mowa w pkt 7 objaśnień,",
-       "children": []
-      },
-      {
-       "type": "tir",
+       "type": "pkt",
        "num": "2",
-       "path": "ust_3/tir_2",
-       "text": "art. 12 ust. 5 ustawy, z którego wynika, że świadczenie może być wypłacone, jeżeli ustanie stosunku pracy nastąpiło w okresie niedłuższym niż dwanaście miesięcy poprzedzających datę wystąpienia niewypłacalności pracodawcy, oraz z uwzględnieniem art. 12 ust. 6 ustawy.",
+       "path": "ust_3/pkt_2",
+       "text": "osoby, których łącznie roszczenia z tytułu: a) wynagrodzenia za pracę,",
        "children": [
         {
-         "type": "text",
-         "text": "[^9] Kolumny 9–13 części I załącznika wypełnij z uwzględnieniem art. 14 ust. 3 ustawy, z którego wynika, że wypłata świadczenia z tytułu odszkodowania, o którym mowa w art. 36¹ § 1 Kodeksu pracy, oraz z tytułu odprawy pieniężnej przysługującej na podstawie przepisów ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników (Dz. U. z 2025 r. poz. 570 i 1661) nie może przekraczać kwoty przeciętnego miesięcznego wynagrodzenia, o którym mowa w pkt 7 objaśnień, lub jego wielokrotności, jeżeli wymiar świadczenia stanowi wielokrotność wynagrodzenia będącego podstawą do jego ustalenia."
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_2/lit_b",
+         "text": "wynagrodzenia za czas niezawinionego przez pracownika przestoju, za czas niewykonywania pracy (zwolnienia od pracy) i za czas innej usprawiedliwionej nieobecności w pracy, c) wynagrodzenia za czas niezdolności pracownika do pracy wskutek choroby, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, z późn. zm.), zwanej dalej „Kodeksem pracy”, d) wynagrodzenia za czas urlopu wypoczynkowego,",
+         "children": []
         },
         {
-         "type": "text",
-         "text": "[^10] Kolumny 9–13 części I załącznika oraz kolumny 30–34 części II załącznika wypełnij z uwzględnieniem art. 12 ust. 5 ustawy, z którego wynika, że świadczenia z tytułu niewypłaconych odpraw oraz odszkodowań są zaspokajane ze środków Funduszu, gdy ustanie stosunku pracy nastąpiło w okresie niedłuższym niż dwanaście miesięcy poprzedzających datę wystąpienia niewypłacalności pracodawcy lub w okresie niedłuższym niż cztery miesiące następujące po tej dacie, oraz z uwzględnieniem art. 12 ust. 6 ustawy. [^11] W kolumnie 15 części I załącznika wpisz kwotę stanowiącą podstawę wymiaru składek na ubezpieczenia społeczne, ustaloną odpowiednio od kwot wykazanych w kolumnach 5–8, które stanowią podstawę wymiaru tych składek zgodnie z przepisami ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2026 r. poz. 199, z późn. zm.) oraz z przepisami rozporządzenia Ministra Pracy i Polityki Socjalnej z dnia 18 grudnia 1998 r. w sprawie szczegółowych zasad ustalania podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe (Dz. U. z 2025 r. poz. 316). W kolumnach 16–19 części I załącznika wpisz kwoty składek na ubezpieczenia społeczne, o których mowa w art. 12 ust. 2 pkt 3 ustawy, finansowanych ze środków pracodawcy. Uwzględnij też obowiązującą pracodawcę stopę procentową składki na ubezpieczenie wypadkowe z tytułu wypadków przy pracy i chorób zawodowych, która jest zgodna z ustawą z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2025 r. poz. 1644 oraz z 2026 r. poz. 26). [^12] W części I załącznika w kolumnie 20 wpisz kwotę z kolumny 14, w kolumnie 21 wpisz kwotę z kolumny 16, w kolumnie 22 wpisz sumę kwot z kolumn 20 i 21. [^13] W kolumnach 23–28 części I załącznika wpisz potrącenia od kwot wykazanych w kolumnie 20 części I załącznika. Zaliczkę na podatek dochodowy od osób fizycznych oblicza się zgodnie z przepisami ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2026 r. poz. 592, z późn. zm.), w tym po odliczeniu kwot składek na ubezpieczenia emerytalne, rentowe i chorobowe wykazanych w kolumnach 25–27 części I załącznika, finansowanych ze środków ubezpieczonego, ustalonych odpowiednio od kwot wykazanych w tej części załącznika w kolumnie 15. Kwoty składek na ubezpieczenia emerytalne, rentowe i chorobowe, tak jak zaliczki na podatek dochodowy od osób fizycznych i składki na ubezpieczenie zdrowotne, z kwoty zatwierdzonej do wypłaty, wykazanej w kolumnie 20 części I załącznika, pobiera i odprowadza do odpowiednich instytucji podmiot, na którego konto zostały przekazane środki z Funduszu."
+         "type": "lit",
+         "num": "e",
+         "path": "ust_3/pkt_2/lit_e",
+         "text": "dodatku wyrównawczego, o którym mowa w art. 230 § 2 i art. 231 Kodeksu pracy, oraz",
+         "children": []
         },
         {
-         "type": "text",
-         "text": "Podczas ustalania składek wykazywanych w kolumnach 25–27 części I załącznika nalicza się je odpowiednio od kwot wykazanych w tej części załącznika w kolumnie 15, stanowiących podstawę wymiaru składek, czyli po uwzględnieniu przepisów ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz przepisów rozporządzenia Ministra Pracy i Polityki Socjalnej z dnia 18 grudnia 1998 r. w sprawie szczegółowych zasad ustalania podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe."
-        },
-        {
-         "type": "text",
-         "text": "W kolumnie 23 części I załącznika wpisz kwotę zaliczki na podatek dochodowy od osób fizycznych, obliczoną odpowiednio (po odliczeniu kwot składek na ubezpieczenia społeczne finansowanych ze środków ubezpieczonego/pracownika) od kwoty świadczeń wykazanej w kolumnie 20 tej części załącznika."
-        },
-        {
-         "type": "text",
-         "text": "W kolumnie 24 części I załącznika wpisz kwotę składki na ubezpieczenie zdrowotne, finansowanej przez ubezpieczonego. [^14] W kolumnie 29 części I załącznika wpisz kwotę stanowiącą różnicę między kwotą wykazaną w tej części załącznika w kolumnie 20 a sumą kwot potrąceń z kolumn 23–28. Potrącenia wykazane w kolumnach 23–28 części I załącznika pobiera i odprowadza do odpowiednich instytucji podmiot, na którego konto zostały przekazane środki Funduszu."
-        },
-        {
-         "type": "text",
-         "text": "[^15] Reprezentacja podmiotu składającego powinna być zgodna z zasadami obowiązującymi podczas zaciągania zobowiązań cywilnoprawnych. Podpisz wykaz czytelnym podpisem, tylko jeśli ma on postać papierową. [^16] W części II załącznika wykaż:"
+         "type": "lit",
+         "num": "f",
+         "path": "ust_3/pkt_2/lit_f",
+         "text": "składek na ubezpieczenia społeczne należnych od pracodawców – zostały zaspokojone za okres krótszy niż trzy miesiące.",
+         "children": [
+          {
+           "type": "text",
+           "text": "W przypadku osób, o których mowa w pkt 2, w części II załącznika stosuj numer łamany (zapis z ukośnikiem): liczba porządkowa części II załącznika / liczba porządkowa części II załącznika złożonego i zrealizowanego podczas poprzedniej niewypłacalności. [^5] Uwzględnia się osoby spełniające warunki, o których mowa w art. 10 lub w art. 11 ustawy. W kolumnie 4 w części II załącznika wskaż datę ustania stosunku pracy pracownika, którego roszczenia pracownicze nie zostały zaspokojone, jeżeli z tą datą wiąże się uprawnienie do otrzymania świadczenia ze środków Funduszu, ponieważ ustanie stosunku pracy nastąpiło w okresie niedłuższym niż dwanaście miesięcy poprzedzających datę wystąpienia niewypłacalności pracodawcy lub w dniu wystąpienia niewypłacalności pracodawcy."
+          },
+          {
+           "type": "text",
+           "text": "[^6] Stosunek pracy, inna podstawa prawna świadczenia pracy, z której tytułu powstaje obowiązek ubezpieczenia społecznego w odniesieniu do osób wykazanych w części I załącznika."
+          },
+          {
+           "type": "text",
+           "text": "[^7] Kolumny 5–7 części I załącznika wypełnij z uwzględnieniem art. 14 ust. 1 ustawy, z którego wynika, że łączna kwota świadczeń za okres miesiąca nie może przekraczać przeciętnego miesięcznego wynagrodzenia z poprzedniego kwartału ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26 i 425), obowiązującego na dzień złożenia zbiorczego wykazu, o którym mowa w art. 15 ust. 1 ustawy."
+          },
+          {
+           "type": "text",
+           "text": "W kolumnach 5–7 części I załącznika wykaż roszczenia za okres stanowiący dopełnienie do okresu trzymiesięcznego, jeżeli występujesz ponownie o wypłatę świadczeń w odniesieniu do osób, których roszczenia przy pierwszej niewypłacalności zostały zaspokojone za okres krótszy niż trzy miesiące. Uwzględnij aktualnie obowiązujące przeciętne wynagrodzenie miesięczne. Jeżeli okres dopełnienia nie obejmuje pełnego miesiąca, to przeciętne miesięczne wynagrodzenie uwzględnij w ułamkowej części tej kwoty, proporcjonalnej do okresu niepełnego miesiąca, za który roszczenia podlegają zaspokojeniu. Jeżeli w części II załącznika wystąpią dane dotyczące czterech miesięcy kalendarzowych, to w kolumnie 5 części I załącznika (I miesiąc) wpisz dane będące sumą danych z dwóch okresów ujętych w dwóch osobnych miesiącach kalendarzowych (I miesiącu kalendarzowym i IV miesiącu kalendarzowym) stanowiącą łącznie dane za jeden pełny miesiąc kalendarzowy. [^8] Kolumnę 8 części I załącznika wypełnij z uwzględnieniem:"
+          },
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "ust_3/pkt_2/lit_f/tir_1",
+           "text": "art. 14 ust. 2 ustawy, z którego wynika, że kwota świadczenia nie może przekraczać kwoty przeciętnego miesięcznego wynagrodzenia, o którym mowa w pkt 7 objaśnień,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "ust_3/pkt_2/lit_f/tir_2",
+           "text": "art. 12 ust. 5 ustawy, z którego wynika, że świadczenie może być wypłacone, jeżeli ustanie stosunku pracy nastąpiło w okresie niedłuższym niż dwanaście miesięcy poprzedzających datę wystąpienia niewypłacalności pracodawcy, oraz z uwzględnieniem art. 12 ust. 6 ustawy.",
+           "children": [
+            {
+             "type": "text",
+             "text": "[^9] Kolumny 9–13 części I załącznika wypełnij z uwzględnieniem art. 14 ust. 3 ustawy, z którego wynika, że wypłata świadczenia z tytułu odszkodowania, o którym mowa w art. 36¹ § 1 Kodeksu pracy, oraz z tytułu odprawy pieniężnej przysługującej na podstawie przepisów ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników (Dz. U. z 2025 r. poz. 570 i 1661) nie może przekraczać kwoty przeciętnego miesięcznego wynagrodzenia, o którym mowa w pkt 7 objaśnień, lub jego wielokrotności, jeżeli wymiar świadczenia stanowi wielokrotność wynagrodzenia będącego podstawą do jego ustalenia."
+            },
+            {
+             "type": "text",
+             "text": "[^10] Kolumny 9–13 części I załącznika oraz kolumny 30–34 części II załącznika wypełnij z uwzględnieniem art. 12 ust. 5 ustawy, z którego wynika, że świadczenia z tytułu niewypłaconych odpraw oraz odszkodowań są zaspokajane ze środków Funduszu, gdy ustanie stosunku pracy nastąpiło w okresie niedłuższym niż dwanaście miesięcy poprzedzających datę wystąpienia niewypłacalności pracodawcy lub w okresie niedłuższym niż cztery miesiące następujące po tej dacie, oraz z uwzględnieniem art. 12 ust. 6 ustawy. [^11] W kolumnie 15 części I załącznika wpisz kwotę stanowiącą podstawę wymiaru składek na ubezpieczenia społeczne, ustaloną odpowiednio od kwot wykazanych w kolumnach 5–8, które stanowią podstawę wymiaru tych składek zgodnie z przepisami ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2026 r. poz. 199, z późn. zm.) oraz z przepisami rozporządzenia Ministra Pracy i Polityki Socjalnej z dnia 18 grudnia 1998 r. w sprawie szczegółowych zasad ustalania podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe (Dz. U. z 2025 r. poz. 316). W kolumnach 16–19 części I załącznika wpisz kwoty składek na ubezpieczenia społeczne, o których mowa w art. 12 ust. 2 pkt 3 ustawy, finansowanych ze środków pracodawcy. Uwzględnij też obowiązującą pracodawcę stopę procentową składki na ubezpieczenie wypadkowe z tytułu wypadków przy pracy i chorób zawodowych, która jest zgodna z ustawą z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2025 r. poz. 1644 oraz z 2026 r. poz. 26). [^12] W części I załącznika w kolumnie 20 wpisz kwotę z kolumny 14, w kolumnie 21 wpisz kwotę z kolumny 16, w kolumnie 22 wpisz sumę kwot z kolumn 20 i 21. [^13] W kolumnach 23–28 części I załącznika wpisz potrącenia od kwot wykazanych w kolumnie 20 części I załącznika. Zaliczkę na podatek dochodowy od osób fizycznych oblicza się zgodnie z przepisami ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2026 r. poz. 592, z późn. zm.), w tym po odliczeniu kwot składek na ubezpieczenia emerytalne, rentowe i chorobowe wykazanych w kolumnach 25–27 części I załącznika, finansowanych ze środków ubezpieczonego, ustalonych odpowiednio od kwot wykazanych w tej części załącznika w kolumnie 15. Kwoty składek na ubezpieczenia emerytalne, rentowe i chorobowe, tak jak zaliczki na podatek dochodowy od osób fizycznych i składki na ubezpieczenie zdrowotne, z kwoty zatwierdzonej do wypłaty, wykazanej w kolumnie 20 części I załącznika, pobiera i odprowadza do odpowiednich instytucji podmiot, na którego konto zostały przekazane środki z Funduszu."
+            },
+            {
+             "type": "text",
+             "text": "Podczas ustalania składek wykazywanych w kolumnach 25–27 części I załącznika nalicza się je odpowiednio od kwot wykazanych w tej części załącznika w kolumnie 15, stanowiących podstawę wymiaru składek, czyli po uwzględnieniu przepisów ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz przepisów rozporządzenia Ministra Pracy i Polityki Socjalnej z dnia 18 grudnia 1998 r. w sprawie szczegółowych zasad ustalania podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe."
+            },
+            {
+             "type": "text",
+             "text": "W kolumnie 23 części I załącznika wpisz kwotę zaliczki na podatek dochodowy od osób fizycznych, obliczoną odpowiednio (po odliczeniu kwot składek na ubezpieczenia społeczne finansowanych ze środków ubezpieczonego/pracownika) od kwoty świadczeń wykazanej w kolumnie 20 tej części załącznika."
+            },
+            {
+             "type": "text",
+             "text": "W kolumnie 24 części I załącznika wpisz kwotę składki na ubezpieczenie zdrowotne, finansowanej przez ubezpieczonego. [^14] W kolumnie 29 części I załącznika wpisz kwotę stanowiącą różnicę między kwotą wykazaną w tej części załącznika w kolumnie 20 a sumą kwot potrąceń z kolumn 23–28. Potrącenia wykazane w kolumnach 23–28 części I załącznika pobiera i odprowadza do odpowiednich instytucji podmiot, na którego konto zostały przekazane środki Funduszu."
+            },
+            {
+             "type": "text",
+             "text": "[^15] Reprezentacja podmiotu składającego powinna być zgodna z zasadami obowiązującymi podczas zaciągania zobowiązań cywilnoprawnych. Podpisz wykaz czytelnym podpisem, tylko jeśli ma on postać papierową. [^16] W części II załącznika wykaż:"
+            }
+           ]
+          }
+         ]
         }
        ]
       },
@@ -1186,7 +1216,7 @@
       },
       {
        "type": "text",
-       "text": "W kolumnach 16–19 części I załącznika wpisz kwoty składek na ubezpieczenia społeczne, o których mowa w art. 12 ust. 2 pkt 3 ustawy, finansowanych ze środków pracodawcy. Uwzględnij też obowiązującą pracodawcę stopę procentową składki na ubezpieczenie wypadkowez tytułu wypadków przy pracy i chorób zawodowych zgodnie z ustawą z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2025 r. poz. 1644 oraz z 2026 r. poz. 26)."
+       "text": "W kolumnach 16–19 części I załącznika wpisz kwoty składek na ubezpieczenia społeczne, o których mowa w art. 12 ust. 2 pkt 3 ustawy, finansowanych ze środków pracodawcy. Uwzględnij też obowiązującą pracodawcę stopę procentową składki na ubezpieczenie wypadkowe z tytułu wypadków przy pracy i chorób zawodowych zgodnie z ustawą z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2025 r. poz. 1644 oraz z 2026 r. poz. 26)."
       },
       {
        "type": "text",

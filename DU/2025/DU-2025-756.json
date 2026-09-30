@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/756",
  "title": "Obwieszczenie Ministra Zdrowia z dnia 20 maja 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie warunków pobierania krwi od kandydatów na dawców krwi i dawców krwi",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/756/text.pdf",
  "body": [
   {
@@ -1130,7 +1130,14 @@
       },
       {
        "type": "text",
-       "text": "14 Choroby nowotworowe Nowotwór złośliwy. Wyjątek stanowi nowotwór in situ pod warunkiem całkowitego wyleczenia 15 Choroby zakaźne 1) zakażenie wirusem zapalenia wątroby typu B; 2) zakażenie wirusem zapalenia wątroby typu C; 3) (uchylony);"
+       "text": "14 Choroby nowotworowe Nowotwór złośliwy. Wyjątek stanowi nowotwór in situ pod warunkiem całkowitego wyleczenia 15 Choroby zakaźne 1) zakażenie wirusem zapalenia wątroby typu B; 2) zakażenie wirusem zapalenia wątroby typu C;"
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "(uchylony);",
+       "children": []
       },
       {
        "type": "pkt",
@@ -1164,7 +1171,14 @@
        "type": "pkt",
        "num": "8",
        "path": "ust_2/pkt_8",
-       "text": "trypanosomoza amerykańska (gorączka Chagasa); 9) promienica;",
+       "text": "trypanosomoza amerykańska (gorączka Chagasa);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_2/pkt_9",
+       "text": "promienica;",
        "children": []
       },
       {
@@ -1307,7 +1321,14 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_2/pkt_2",
-       "text": "wirusem dengi; – w przypadku zakażenia – 120 dni od dnia wyleczenia 3) wirusem chikungunya",
+       "text": "wirusem dengi; – w przypadku zakażenia – 120 dni od dnia wyleczenia",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "wirusem chikungunya",
        "children": [
         {
          "type": "text",
@@ -1562,11 +1583,33 @@
       },
       {
        "type": "text",
-       "text": "2 Osoby, u których wykryto obecność W uzasadnionych przypadkach lekarz może dopuścić do markerów wirusów: pobrania krwi 1) HBV; 2) HCV; 3) HIV; 4) HTLV I/II"
+       "text": "2 Osoby, u których wykryto obecność W uzasadnionych przypadkach lekarz może dopuścić do markerów wirusów: pobrania krwi 1) HBV;"
       },
       {
-       "type": "text",
-       "text": "3 Aktywne zakażenie bakteryjne"
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "HCV;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "HIV;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_3/pkt_4",
+       "text": "HTLV I/II",
+       "children": [
+        {
+         "type": "text",
+         "text": "3 Aktywne zakażenie bakteryjne"
+        }
+       ]
       }
      ]
     }

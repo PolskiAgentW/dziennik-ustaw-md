@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/336",
  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 20 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodowej w sprawie wypłaty odprawy mieszkaniowej",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/336/text.pdf",
  "body": [
   {
@@ -233,7 +233,14 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "został zwolniony z czynnej służby wojskowej na skutek skazania prawomocnym wyrokiem sądu za popełnienie przestępstwa umyślnego; 3) został zwolniony z czynnej służby wojskowej na skutek orzeczenia wydanego w postępowaniu dyscyplinarnym;",
+     "text": "został zwolniony z czynnej służby wojskowej na skutek skazania prawomocnym wyrokiem sądu za popełnienie przestępstwa umyślnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "został zwolniony z czynnej służby wojskowej na skutek orzeczenia wydanego w postępowaniu dyscyplinarnym;",
      "children": []
     },
     {
@@ -380,8 +387,16 @@
      "children": [
       {
        "type": "text",
-       "text": "❑ ❑ tak nie b) na skutek orzeczenia wydanego w postępowaniu dyscyplinarnym:"
-      },
+       "text": "❑ ❑ tak nie"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "na skutek orzeczenia wydanego w postępowaniu dyscyplinarnym:",
+     "children": [
       {
        "type": "text",
        "text": "❑ ❑ tak nie"
@@ -1127,7 +1142,21 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "na skutek skazania prawomocnym wyrokiem sądu za popełnienie przestępstwa umyślnego: ❑ ❑ tak nie 2) na skutek orzeczenia wydanego w postępowaniu dyscyplinarnym: ❑ ❑ tak nie 3) przed upływem 10 lat od dnia powołania do tej służby w przypadku, gdy powołanie do czynnej służby wojskowej nastąpiło po okresie służby w Policji, Straży Granicznej, Biurze Ochrony Rządu, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnym Biurze Antykorupcyjnym, Służbie Celno-Skarbowej, Służbie Celnej, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego lub Urzędzie Ochrony Państwa[^18_2]: ❑ ❑ tak nie",
+     "text": "na skutek skazania prawomocnym wyrokiem sądu za popełnienie przestępstwa umyślnego: ❑ ❑ tak nie",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "na skutek orzeczenia wydanego w postępowaniu dyscyplinarnym: ❑ ❑ tak nie",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "przed upływem 10 lat od dnia powołania do tej służby w przypadku, gdy powołanie do czynnej służby wojskowej nastąpiło po okresie służby w Policji, Straży Granicznej, Biurze Ochrony Rządu, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnym Biurze Antykorupcyjnym, Służbie Celno-Skarbowej, Służbie Celnej, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego lub Urzędzie Ochrony Państwa[^18_2]: ❑ ❑ tak nie",
      "children": [
       {
        "type": "text",

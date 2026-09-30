@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1389",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 6 października 2025 r. w sprawie kluczowych zaleceń dotyczących organizacji opieki kardiologicznej i postępowania klinicznego",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1389/text.pdf",
  "body": [
   {
@@ -299,7 +299,14 @@
        "type": "pkt",
        "num": "6",
        "path": "ust_2/pkt_6",
-       "text": "poradę edukacyjną w zakresie wynikającym z indywidualnych potrzeb świadczeniobiorcy; 7) ocenę zasadności skierowania na rehabilitację kardiologiczną.",
+       "text": "poradę edukacyjną w zakresie wynikającym z indywidualnych potrzeb świadczeniobiorcy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_2/pkt_7",
+       "text": "ocenę zasadności skierowania na rehabilitację kardiologiczną.",
        "children": [
         {
          "type": "text",
@@ -432,7 +439,14 @@
        "type": "lit",
        "num": "b",
        "path": "pkt_2/lit_b",
-       "text": "pomiar tętna z oceną miarowości oraz obecności tętna obwodowego na kończynach dolnych, c) osłuchanie serca, płuc oraz tętnic szyjnych i udowych,",
+       "text": "pomiar tętna z oceną miarowości oraz obecności tętna obwodowego na kończynach dolnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_2/lit_c",
+       "text": "osłuchanie serca, płuc oraz tętnic szyjnych i udowych,",
        "children": []
       },
       {
@@ -657,23 +671,89 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_3/pkt_3",
-       "text": "ocenę tolerancji wysiłku i występowania objawów alarmowych, w tym: a) duszności wysiłkowej, b) bólu w klatce piersiowej, c) omdlenia lub stanu przedomdleniowego, d) odczucia arytmii lub kołatania serca, e) spadku tolerancji wysiłku fizycznego bez innej dającej się określić przyczyny, pogorszenia kontroli ciśnienia tętniczego, nowych nieprawidłowości w zapisie EKG oraz obecności obrzęków obwodowych; 4) badanie fizykalne; 5) poradę edukacyjną dostosowaną do indywidualnych potrzeb świadczeniobiorcy; 6) ocenę zasadności skierowania na rehabilitację kardiologiczną zgodnie z aktualną wiedzą medyczną, w tym z wytycznymi właściwych towarzystw naukowych.",
+       "text": "ocenę tolerancji wysiłku i występowania objawów alarmowych, w tym: a) duszności wysiłkowej,",
+       "children": [
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_3/lit_b",
+         "text": "bólu w klatce piersiowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_3/pkt_3/lit_c",
+         "text": "omdlenia lub stanu przedomdleniowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_3/pkt_3/lit_d",
+         "text": "odczucia arytmii lub kołatania serca,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_3/pkt_3/lit_e",
+         "text": "spadku tolerancji wysiłku fizycznego bez innej dającej się określić przyczyny, pogorszenia kontroli ciśnienia tętniczego, nowych nieprawidłowości w zapisie EKG oraz obecności obrzęków obwodowych; 4) badanie fizykalne;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_3/pkt_5",
+       "text": "poradę edukacyjną dostosowaną do indywidualnych potrzeb świadczeniobiorcy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_3/pkt_6",
+       "text": "ocenę zasadności skierowania na rehabilitację kardiologiczną zgodnie z aktualną wiedzą medyczną, w tym z wytycznymi właściwych towarzystw naukowych.",
        "children": [
         {
          "type": "text",
-         "text": "II.C.3 W przypadku świadczeniobiorcy, u którego plan leczenia kardiologicznego obejmuje postępowanie zabiegowe, po jego zakończeniu przeprowadza się wizyty kontrolne zgodnie z planem obserwacji po leczeniu, w ramach ambulatoryjnej opieki specjalistycznej lub w POZ. Wizyty te obejmują zakres, o którym mowa w części II.C.2, oraz: 1) spoczynkowy zapis EKG; 2) pomiar ciśnienia tętniczego; 3) inne, dodatkowe badania diagnostyczne określone w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie, o którym mowa w art. 15 ust. 2 pkt 2 tej ustawy, jeżeli jest to uzasadnione ze względów medycznych; 4) objęcie opieką kardiologiczną w ramach monitoringu lub objęcie zdalnym nadzorem w ramach telemonitoringu urządzeń wszczepialnych."
-        },
+         "text": "II.C.3 W przypadku świadczeniobiorcy, u którego plan leczenia kardiologicznego obejmuje postępowanie zabiegowe, po jego zakończeniu przeprowadza się wizyty kontrolne zgodnie z planem obserwacji po leczeniu, w ramach ambulatoryjnej opieki specjalistycznej lub w POZ. Wizyty te obejmują zakres, o którym mowa w części II.C.2, oraz: 1) spoczynkowy zapis EKG;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "pomiar ciśnienia tętniczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "inne, dodatkowe badania diagnostyczne określone w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie, o którym mowa w art. 15 ust. 2 pkt 2 tej ustawy, jeżeli jest to uzasadnione ze względów medycznych; 4) objęcie opieką kardiologiczną w ramach monitoringu lub objęcie zdalnym nadzorem w ramach telemonitoringu urządzeń wszczepialnych.",
+       "children": [
         {
          "type": "text",
          "text": "II.C.4 Jeżeli stan zdrowia świadczeniobiorcy pogarsza się lub pojawiają się nowe objawy, w szczególności te, o których mowa w części II.C.2, zleca się wykonanie dodatkowych badań diagnostycznych oraz weryfikację planu obserwacji po leczeniu."
         },
         {
          "type": "text",
-         "text": "II.C.5 W przypadku: 1) pogorszenia stanu zdrowia świadczeniobiorcy lub pojawienia się nowych objawów, jeżeli występują wskazania kliniczne do hospitalizacji, świadczeniodawca: a) kieruje świadczeniobiorcę do leczenia szpitalnego w OK I, OK II albo OK III, b) zapewnia świadczeniobiorcy kontakt z koordynatorem opieki kardiologicznej OK II albo OK III; 2) wystąpienia u świadczeniobiorcy innych chorób przewlekłych z krótkim spodziewanym okresem przeżycia (poniżej jednego roku), powodujących kwalifikację świadczeniobiorcy do opieki paliatywnej i hospicyjnej, stosuje się kluczowe zalecenia, o których mowa w części V.3."
+         "text": "II.C.5 W przypadku: 1) pogorszenia stanu zdrowia świadczeniobiorcy lub pojawienia się nowych objawów, jeżeli występują wskazania kliniczne do hospitalizacji, świadczeniodawca: a) kieruje świadczeniobiorcę do leczenia szpitalnego w OK I, OK II albo OK III,"
         },
         {
-         "type": "text",
-         "text": "II.C.6 Lekarz specjalista w dziedzinie kardiologii koordynuje realizację planu obserwacji po leczeniu we współpracy z lekarzem POZ, lekarzem specjalistą w dziedzinie kardiologii, diabetologii, chorób płuc, chorób wewnętrznych, nefrologii, geriatrii lub z innymi lekarzami specjalistami z odpowiednich dziedzin medycyny, w zależności od indywidualnych potrzeb świadczeniobiorcy."
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_3/lit_b",
+         "text": "zapewnia świadczeniobiorcy kontakt z koordynatorem opieki kardiologicznej OK II albo OK III; 2) wystąpienia u świadczeniobiorcy innych chorób przewlekłych z krótkim spodziewanym okresem przeżycia (poniżej jednego roku), powodujących kwalifikację świadczeniobiorcy do opieki paliatywnej i hospicyjnej, stosuje się kluczowe zalecenia, o których mowa w części V.3.",
+         "children": [
+          {
+           "type": "text",
+           "text": "II.C.6 Lekarz specjalista w dziedzinie kardiologii koordynuje realizację planu obserwacji po leczeniu we współpracy z lekarzem POZ, lekarzem specjalistą w dziedzinie kardiologii, diabetologii, chorób płuc, chorób wewnętrznych, nefrologii, geriatrii lub z innymi lekarzami specjalistami z odpowiednich dziedzin medycyny, w zależności od indywidualnych potrzeb świadczeniobiorcy."
+          }
+         ]
         }
        ]
       }
@@ -791,11 +871,89 @@
     },
     {
      "type": "text",
-     "text": "IV.1 1. Dla świadczeniobiorców: 1) po zawale serca lub 2) po operacji kardiochirurgicznej, lub 3) po zabiegach z zakresu kardiologii inwazyjnej, jeżeli istnieją wskazania kliniczne, lub 4) po dekompensacji niewydolności serca, jeżeli istnieją wskazania kliniczne, lub 5) w stanie zdrowia uzasadniającym konieczność rehabilitacji – opracowuje się plan leczenia kardiologicznego w zakresie rehabilitacji kardiologicznej, jeżeli istnieją wskazania kliniczne. 2. Plan leczenia kardiologicznego w zakresie rehabilitacji kardiologicznej obejmuje: 1) ocenę stanu zdrowia świadczeniobiorcy; 2) harmonogram rehabilitacji kardiologicznej uwzględniający telerehabilitację, jeżeli jest możliwa; 3) plan zabiegów i ćwiczeń; 4) monitorowanie stanu zdrowia świadczeniobiorcy; 5) edukację zdrowotną."
+     "text": "IV.1 1. Dla świadczeniobiorców: 1) po zawale serca lub"
     },
     {
-     "type": "text",
-     "text": "IV.2 Świadczeniobiorcom po: 1) zawale serca lub 2) operacji kardiochirurgicznej, lub 3) zabiegach z zakresu kardiologii inwazyjnej, jeżeli istnieją wskazania kliniczne, lub 4) dekompensacji niewydolności serca – zapewnia się wczesną rehabilitację, jeżeli istnieją wskazania kliniczne."
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "po operacji kardiochirurgicznej, lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "po zabiegach z zakresu kardiologii inwazyjnej, jeżeli istnieją wskazania kliniczne, lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "po dekompensacji niewydolności serca, jeżeli istnieją wskazania kliniczne, lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "w stanie zdrowia uzasadniającym konieczność rehabilitacji – opracowuje się plan leczenia kardiologicznego w zakresie rehabilitacji kardiologicznej, jeżeli istnieją wskazania kliniczne. 2. Plan leczenia kardiologicznego w zakresie rehabilitacji kardiologicznej obejmuje: 1) ocenę stanu zdrowia świadczeniobiorcy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "harmonogram rehabilitacji kardiologicznej uwzględniający telerehabilitację, jeżeli jest możliwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "plan zabiegów i ćwiczeń;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "monitorowanie stanu zdrowia świadczeniobiorcy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "edukację zdrowotną.",
+     "children": [
+      {
+       "type": "text",
+       "text": "IV.2 Świadczeniobiorcom po: 1) zawale serca lub"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "operacji kardiochirurgicznej, lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "zabiegach z zakresu kardiologii inwazyjnej, jeżeli istnieją wskazania kliniczne, lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "dekompensacji niewydolności serca – zapewnia się wczesną rehabilitację, jeżeli istnieją wskazania kliniczne.",
+     "children": []
     },
     {
      "type": "heading",
@@ -804,15 +962,87 @@
     },
     {
      "type": "text",
-     "text": "V.1 Świadczeniobiorcę po przebytych procedurach specjalistycznych podczas leczenia szpitalnego lub w ramach ambulatoryjnej opieki specjalistycznej na poszczególnych poziomach zabezpieczenia opieki kardiologicznej, który w opinii lekarza specjalisty w dziedzinie kardiologii nie wymaga dalszego postępowania diagnostyczno-terapeutycznego w ramach leczenia szpitalnego w OK II ani w OK III, kieruje się wraz z planem leczenia kardiologicznego do lekarza POZ z dostępem do opieki koordynowanej w POZ albo do OK I w ramach ambulatoryjnej opieki specjalistycznej. Ustala się harmonogram wizyt kontrolnych, które są dostosowane do indywidualnych potrzeb świadczeniobiorcy i które odbywają się co najmniej raz na 12 miesięcy. Wizyty kontrolne obejmują: 1) ocenę stanu zdrowia świadczeniobiorcy; 2) ocenę farmakoterapii, jeżeli została zastosowana; 3) badania kontrolne wynikające z planu leczenia kardiologicznego oraz indywidualnych potrzeb świadczeniobiorcy; 4) ocenę przestrzegania zaleceń i osiągnięcia celów terapeutycznych; 5) aktualizację planu leczenia kardiologicznego zgodnie z aktualną wiedzą medyczną, w tym z wytycznymi właściwych towarzystw naukowych; 6) poradę edukacyjną w zakresie wynikającym z indywidualnych potrzeb świadczeniobiorcy."
+     "text": "V.1 Świadczeniobiorcę po przebytych procedurach specjalistycznych podczas leczenia szpitalnego lub w ramach ambulatoryjnej opieki specjalistycznej na poszczególnych poziomach zabezpieczenia opieki kardiologicznej, który w opinii lekarza specjalisty w dziedzinie kardiologii nie wymaga dalszego postępowania diagnostyczno-terapeutycznego w ramach leczenia szpitalnego w OK II ani w OK III, kieruje się wraz z planem leczenia kardiologicznego do lekarza POZ z dostępem do opieki koordynowanej w POZ albo do OK I w ramach ambulatoryjnej opieki specjalistycznej. Ustala się harmonogram wizyt kontrolnych, które są dostosowane do indywidualnych potrzeb świadczeniobiorcy i które odbywają się co najmniej raz na 12 miesięcy. Wizyty kontrolne obejmują: 1) ocenę stanu zdrowia świadczeniobiorcy;"
     },
     {
-     "type": "text",
-     "text": "V.2 W przypadku świadczeniobiorcy: 1) wymagającego regularnego albo stałego nadzoru specjalistycznego ze względu na zaawansowanie choroby układu krążenia lub ustalony plan leczenia kardiologicznego – który obejmuje w najbliższym czasie zastosowanie wysokospecjalistycznych procedur – pozostaje on pod opieką w ramach ambulatoryjnej opieki specjalistycznej lub leczenia szpitalnego w OK I, OK II albo OK III aż do czasu zastosowania wysokospecjalistycznych procedur, a następnie jest nadzorowany zgodnie z pkt 2 lub 3, w zależności od ustalonego planu leczenia kardiologicznego; 2) leczonego w ramach ambulatoryjnej opieki specjalistycznej w OK I, OK II albo OK III – ustala się harmonogram wizyt kontrolnych u lekarza POZ, które są dostosowane do indywidualnych potrzeb świadczeniobiorcy, ze szczególnym uwzględnieniem jego chorób współistniejących, i które odbywają się co najmniej dwa razy na 12 miesięcy. Wizyty kontrolne obejmują: a) ocenę stanu zdrowia świadczeniobiorcy, b) ocenę farmakoterapii, jeżeli została zastosowana, c) ocenę przestrzegania zaleceń i osiągnięcia celów terapeutycznych, d) aktualizację planu leczenia kardiologicznego zgodnie z aktualną wiedzą medyczną, w tym z wytycznymi właściwych towarzystw naukowych; 3) wymagającego regularnego albo stałego nadzoru specjalistycznego ze względu na wykonaną procedurę zabiegową w zakresie urządzeń wszczepialnych – może być on objęty zdalnym nadzorem w ramach telemonitoringu urządzeń wszczepialnych."
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "ocenę farmakoterapii, jeżeli została zastosowana;",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "V.3 Świadczeniobiorca niezakwalifikowany do dalszego leczenia zabiegowego ze względu na: 1) nieakceptowalnie wysokie ryzyko zabiegu, 2) krótki spodziewany okres przeżycia (poniżej jednego roku), 3) wielochorobowość, 4) zaawansowaną chorobę przewlekłą, 5) zespół kruchości – zostaje przekazany, w zależności od stanu zdrowia, pod opiekę najbliższej rodziny i lekarza POZ, hospicjum domowego, zakładu opiekuńczo-leczniczego lub oddziału opieki paliatywnej w celu zapewnienia stałej opieki w podmiocie leczniczym wykonującym działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne."
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "badania kontrolne wynikające z planu leczenia kardiologicznego oraz indywidualnych potrzeb świadczeniobiorcy; 4) ocenę przestrzegania zaleceń i osiągnięcia celów terapeutycznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "aktualizację planu leczenia kardiologicznego zgodnie z aktualną wiedzą medyczną, w tym z wytycznymi właściwych towarzystw naukowych; 6) poradę edukacyjną w zakresie wynikającym z indywidualnych potrzeb świadczeniobiorcy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "V.2 W przypadku świadczeniobiorcy: 1) wymagającego regularnego albo stałego nadzoru specjalistycznego ze względu na zaawansowanie choroby układu krążenia lub ustalony plan leczenia kardiologicznego – który obejmuje w najbliższym czasie zastosowanie wysokospecjalistycznych procedur – pozostaje on pod opieką w ramach ambulatoryjnej opieki specjalistycznej lub leczenia szpitalnego w OK I, OK II albo OK III aż do czasu zastosowania wysokospecjalistycznych procedur, a następnie jest nadzorowany zgodnie z pkt 2 lub 3, w zależności od ustalonego planu leczenia kardiologicznego; 2) leczonego w ramach ambulatoryjnej opieki specjalistycznej w OK I, OK II albo OK III – ustala się harmonogram wizyt kontrolnych u lekarza POZ, które są dostosowane do indywidualnych potrzeb świadczeniobiorcy, ze szczególnym uwzględnieniem jego chorób współistniejących, i które odbywają się co najmniej dwa razy na 12 miesięcy. Wizyty kontrolne obejmują: a) ocenę stanu zdrowia świadczeniobiorcy,"
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_5/lit_b",
+       "text": "ocenę farmakoterapii, jeżeli została zastosowana,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_5/lit_c",
+       "text": "ocenę przestrzegania zaleceń i osiągnięcia celów terapeutycznych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "pkt_5/lit_d",
+       "text": "aktualizację planu leczenia kardiologicznego zgodnie z aktualną wiedzą medyczną, w tym z wytycznymi właściwych towarzystw naukowych; 3) wymagającego regularnego albo stałego nadzoru specjalistycznego ze względu na wykonaną procedurę zabiegową w zakresie urządzeń wszczepialnych – może być on objęty zdalnym nadzorem w ramach telemonitoringu urządzeń wszczepialnych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "V.3 Świadczeniobiorca niezakwalifikowany do dalszego leczenia zabiegowego ze względu na: 1) nieakceptowalnie wysokie ryzyko zabiegu,"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "krótki spodziewany okres przeżycia (poniżej jednego roku),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "wielochorobowość,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "zaawansowaną chorobę przewlekłą,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "zespół kruchości – zostaje przekazany, w zależności od stanu zdrowia, pod opiekę najbliższej rodziny i lekarza POZ, hospicjum domowego, zakładu opiekuńczo-leczniczego lub oddziału opieki paliatywnej w celu zapewnienia stałej opieki w podmiocie leczniczym wykonującym działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne.",
+     "children": []
     }
    ]
   }

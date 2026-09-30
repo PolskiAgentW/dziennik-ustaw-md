@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1224",
  "title": "Rozporządzenie Ministra Finansów i Gospodarki z dnia 10 września 2026 r. zmieniające rozporządzenie w sprawie wzorów deklaracji podatkowych w sprawie podatku akcyzowego oraz deklaracji w sprawie przedpłaty podatku akcyzowego",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1224/text.pdf",
  "body": [
   {
@@ -1473,35 +1473,43 @@
       },
       {
        "type": "text",
-       "text": "zł zł zł Razem należne wpłaty 173. Razem nadwyżka wpłat z 174. Razem dokonane 175. dzienne (suma kwot z kolumny poprzedniej wpłaty dzienne c) zł deklaracji zaliczona na zł (suma kwot z zł poczet wpłat dziennych kolumny f) (suma kwot z kolumny e)"
+       "text": "zł zł zł Razem należne wpłaty 173. Razem nadwyżka wpłat z 174. Razem dokonane 175. dzienne (suma kwot z kolumny poprzedniej wpłaty dzienne"
       },
       {
-       "type": "text",
-       "text": "Objaśnienia"
-      },
-      {
-       "type": "text",
-       "text": "Dla każdego składu podatkowego formularz AKC-4/C należy wypełnić oddzielnie, dodając w systemie kolejne formularze (część E należy wypełnić tylko w formularzu dodanym jako pierwszy – dla piwa wykazanego we wszystkich składach łącznie)."
-      },
-      {
-       "type": "text",
-       "text": "Dla każdego miejsca odbioru wyrobów akcyzowych przez zarejestrowanego odbiorcę formularz AKC-4/C należy wypełnić oddzielnie, dodając w systemie kolejne formularze (część E należy wypełnić tylko w formularzu dodanym jako pierwszy – dla piwa wykazanego we wszystkich miejscach odbioru łącznie)."
-      },
-      {
-       "type": "text",
-       "text": "Części B i E formularza nie wypełnia podatnik, który jest obowiązany do dokonania przedpłaty podatku akcyzowego zgodnie z art. 22 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym."
-      },
-      {
-       "type": "text",
-       "text": "AKC-4/C 3 F. OBLICZENIE WYSOKOŚCI PODATKU AKCYZOWEGO OD POSZCZEGÓLNYCH WYROBÓW"
-      },
-      {
-       "type": "text",
-       "text": "Nazwa grupy wyrobów, dla których Ilość wyrobów w hektolitrach x stopień Zwolnienie od podatku Lp. ustalono odrębne stawki podatku[^3] Ośmiocyfrowy kod CN Plato (% m/m ekstraktu brzeczki Stawka podatku Podatek akcyzowy akcyzowego podstawowej)[^4] (zaznaczyć właściwy kwadrat)"
-      },
-      {
-       "type": "text",
-       "text": "a b c d e f g 176. 177. 178. 179. 180. 181. tak / nie ❑ ❑ zł"
+       "type": "lit",
+       "num": "c",
+       "path": "ust_138/lit_c",
+       "text": "zł deklaracji zaliczona na zł (suma kwot z zł poczet wpłat dziennych kolumny f) (suma kwot z kolumny e)",
+       "children": [
+        {
+         "type": "text",
+         "text": "Objaśnienia"
+        },
+        {
+         "type": "text",
+         "text": "Dla każdego składu podatkowego formularz AKC-4/C należy wypełnić oddzielnie, dodając w systemie kolejne formularze (część E należy wypełnić tylko w formularzu dodanym jako pierwszy – dla piwa wykazanego we wszystkich składach łącznie)."
+        },
+        {
+         "type": "text",
+         "text": "Dla każdego miejsca odbioru wyrobów akcyzowych przez zarejestrowanego odbiorcę formularz AKC-4/C należy wypełnić oddzielnie, dodając w systemie kolejne formularze (część E należy wypełnić tylko w formularzu dodanym jako pierwszy – dla piwa wykazanego we wszystkich miejscach odbioru łącznie)."
+        },
+        {
+         "type": "text",
+         "text": "Części B i E formularza nie wypełnia podatnik, który jest obowiązany do dokonania przedpłaty podatku akcyzowego zgodnie z art. 22 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym."
+        },
+        {
+         "type": "text",
+         "text": "AKC-4/C 3 F. OBLICZENIE WYSOKOŚCI PODATKU AKCYZOWEGO OD POSZCZEGÓLNYCH WYROBÓW"
+        },
+        {
+         "type": "text",
+         "text": "Nazwa grupy wyrobów, dla których Ilość wyrobów w hektolitrach x stopień Zwolnienie od podatku Lp. ustalono odrębne stawki podatku[^3] Ośmiocyfrowy kod CN Plato (% m/m ekstraktu brzeczki Stawka podatku Podatek akcyzowy akcyzowego podstawowej)[^4] (zaznaczyć właściwy kwadrat)"
+        },
+        {
+         "type": "text",
+         "text": "a b c d e f g 176. 177. 178. 179. 180. 181. tak / nie ❑ ❑ zł"
+        }
+       ]
       }
      ]
     },

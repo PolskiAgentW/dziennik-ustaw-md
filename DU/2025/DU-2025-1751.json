@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1751",
  "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 2 grudnia 2025 r. zmieniające rozporządzenie w sprawie krajowych laboratoriów referencyjnych",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1751/text.pdf",
  "body": [
   {
@@ -107,7 +107,36 @@
     },
     {
      "type": "text",
-     "text": "1 2 3 4 1 Laboratorium 24-100 Puławy, 1. Listeria monocytogenes. w Dziale Badań Al. Partyzantów 57 2. Escherichia coli, w tym werocytotoksyczne E. coli. Mikrobiologicznych 3. Campylobacter spp. Żywności i Pasz 4. Salmonella spp. Państwowego 5. Antybiotykooporność: Instytutu 1) Campylobacter spp.; Weterynaryjnego – 2) Staphylococcus spp.; Państwowego 3) Enterococcus spp. Instytutu 6. Czynniki bakteryjne u małży blaszkoskrzelnych. Badawczego 7. Biotoksyny w małżach blaszkoskrzelnych. 8. Histamina w rybach i produktach rybnych. 9. Liczba bakterii tlenowych. 10. Liczba bakterii z rodziny Enterobacteriaceae. 11. Gronkowce koagulazododatnie, w tym: 1) Staphylococcus aureus; 2) enterotoksyny gronkowcowe. 12. Higiena surowego mleka: 1) ogólna liczba drobnoustrojów; 2) komórki somatyczne. 13. Obróbka cieplna mleka i produktów mleczarskich, w tym fosfataza alkaliczna. 14. Substancje przeciwbakteryjne w żywności, paszach i wodzie (badane metodami mikrobiologicznymi i przesiewowymi). 15. Wirusy przenoszone przez żywność pochodzenia zwierzęcego. 16. Przetworzone białko zwierzęce w paszach. 17. Zanieczyszczenia mikrobiologiczne pasz. 18. Pasze genetycznie zmodyfikowane zawierające rzepak, bawełnę i mikroorganizmy. 19. Dodatki paszowe zaliczone do kategorii (badane metodami mikrobiologicznymi): 1) technologicznych należących do grup: a) konserwantów, b) dodatków do kiszonki; 2) zootechnicznych należących do grup: a) stabilizatorów flory jelitowej, b) innych dodatków zootechnicznych. 20. Homogeniczność pasz leczniczych (badana metodami mikrobiologicznymi)."
+     "text": "1 2 3 4 1 Laboratorium 24-100 Puławy, 1. Listeria monocytogenes. w Dziale Badań Al. Partyzantów 57 2. Escherichia coli, w tym werocytotoksyczne E. coli. Mikrobiologicznych 3. Campylobacter spp. Żywności i Pasz 4. Salmonella spp. Państwowego 5. Antybiotykooporność: Instytutu 1) Campylobacter spp.; Weterynaryjnego – 2) Staphylococcus spp.; Państwowego 3) Enterococcus spp. Instytutu 6. Czynniki bakteryjne u małży blaszkoskrzelnych. Badawczego 7. Biotoksyny w małżach blaszkoskrzelnych. 8. Histamina w rybach i produktach rybnych. 9. Liczba bakterii tlenowych. 10. Liczba bakterii z rodziny Enterobacteriaceae. 11. Gronkowce koagulazododatnie, w tym: 1) Staphylococcus aureus;"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "enterotoksyny gronkowcowe. 12. Higiena surowego mleka: 1) ogólna liczba drobnoustrojów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "komórki somatyczne. 13. Obróbka cieplna mleka i produktów mleczarskich, w tym fosfataza alkaliczna. 14. Substancje przeciwbakteryjne w żywności, paszach i wodzie (badane metodami mikrobiologicznymi i przesiewowymi). 15. Wirusy przenoszone przez żywność pochodzenia zwierzęcego. 16. Przetworzone białko zwierzęce w paszach. 17. Zanieczyszczenia mikrobiologiczne pasz. 18. Pasze genetycznie zmodyfikowane zawierające rzepak, bawełnę i mikroorganizmy. 19. Dodatki paszowe zaliczone do kategorii (badane metodami mikrobiologicznymi): 1) technologicznych należących do grup: a) konserwantów,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_2/lit_b",
+       "text": "dodatków do kiszonki; 2) zootechnicznych należących do grup: a) stabilizatorów flory jelitowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_2/lit_b",
+       "text": "innych dodatków zootechnicznych. 20. Homogeniczność pasz leczniczych (badana metodami mikrobiologicznymi).",
+       "children": []
+      }
+     ]
     },
     {
      "type": "ust",
@@ -147,7 +176,14 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_22/pkt_4",
-       "text": "laktony kwasu rezorcylowego, w tym zeranol; 5) β-agoniści.",
+       "text": "laktony kwasu rezorcylowego, w tym zeranol;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_22/pkt_5",
+       "text": "β-agoniści.",
        "children": []
       }
      ]
@@ -329,7 +365,14 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_2/pkt_3",
-       "text": "homogeniczność pasz leczniczych (badana metodami chemicznymi/instrumentalnymi); 4) substancje czynne w paszach leczniczych (badane metodami chemicznymi/instrumentalnymi); 5) kokcydiostatyki i ich zanieczyszczenia w paszach; 6) substancje przeciwbakteryjne w paszach i wodzie (badane metodami chemicznymi/instrumentalnymi);",
+       "text": "homogeniczność pasz leczniczych (badana metodami chemicznymi/instrumentalnymi); 4) substancje czynne w paszach leczniczych (badane metodami chemicznymi/instrumentalnymi); 5) kokcydiostatyki i ich zanieczyszczenia w paszach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_2/pkt_6",
+       "text": "substancje przeciwbakteryjne w paszach i wodzie (badane metodami chemicznymi/instrumentalnymi);",
        "children": []
       },
       {

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1102",
  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 4 sierpnia 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie określenia stanowisk w Służbie Więziennej, na których służbę mogą pełnić wyłącznie funkcjonariusze",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1102/text.pdf",
  "body": [
   {
@@ -102,15 +102,66 @@
     },
     {
      "type": "text",
-     "text": "1 Centralny Zarząd 1) dyrektor biura 1) starszy instruktor Służby Więziennej 2) zastępca dyrektora 2) instruktor biura 3) młodszy instruktor 3) starszy specjalista 4) specjalista 5) starszy inspektor 6) inspektor 7) młodszy inspektor"
+     "text": "1 Centralny Zarząd 1) dyrektor biura 1) starszy instruktor Służby Więziennej 2) zastępca dyrektora 2) instruktor biura 3) młodszy instruktor 3) starszy specjalista"
     },
     {
-     "type": "text",
-     "text": "2 Okręgowy Inspektorat 1) specjalista 1) starszy instruktor 1) starszy operator Służby Więziennej 2) starszy inspektor 2) instruktor GISW* ) 3) inspektor 3) młodszy instruktor 2) operator GISW* ) 4) młodszy inspektor 4) dowódca GISW* ) 3) młodszy operator 5) dowódca GISW* ) 5) zastępca dowódcy GISW* ) 6) zastępca dowódcy GISW* ) GISW* ) 6) starszy operator GISW* ) 7) operator GISW* )"
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "specjalista",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "3 Uczelnia Służby Więziennej, 1) kierownik oddziału 1) dowódca zmiany 1) starszy oddziałowy Centralny Ośrodek Szkolenia zamiejscowego Centralnego Ośrodka 2) oddziałowy Służby Więziennej, ośrodek 2) kierownik działu Szkolenia Służby 3) starszy strażnik szkolenia Służby Więziennej Centralnego Ośrodka Więziennej 4) strażnik i ośrodek doskonalenia kadr Szkolenia Służby 2) dowódca zmiany Służby Więziennej Więziennej ośrodka szkolenia 3) kierownik działu 3) zastępca dowódcy ośrodka szkolenia zmiany Centralnego 4) kierownik działu Ośrodka Szkolenia ośrodka doskonalenia Służby Więziennej kadr 4) zastępca dowódcy 5) zastępca kierownika zmiany ośrodka działu Centralnego szkolenia Ośrodka Szkolenia 5) starszy oddziałowy Służby Więziennej 6) oddziałowy 6) dowódca kompanii uczelni Służby Więziennej 7) dowódca kompanii Centralnego Ośrodka Szkolenia Służby Więziennej 8) dowódca kompanii ośrodka szkolenia"
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "starszy inspektor",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "inspektor",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "młodszy inspektor",
+     "children": [
+      {
+       "type": "text",
+       "text": "2 Okręgowy Inspektorat 1) specjalista 1) starszy instruktor 1) starszy operator Służby Więziennej 2) starszy inspektor 2) instruktor GISW* ) 3) inspektor 3) młodszy instruktor 2) operator GISW* )"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "młodszy inspektor 4) dowódca GISW* ) 3) młodszy operator",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "dowódca GISW* ) 5) zastępca dowódcy GISW* )",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "zastępca dowódcy GISW* ) GISW* ) 6) starszy operator GISW* ) 7) operator GISW* )",
+     "children": [
+      {
+       "type": "text",
+       "text": "3 Uczelnia Służby Więziennej, 1) kierownik oddziału 1) dowódca zmiany 1) starszy oddziałowy Centralny Ośrodek Szkolenia zamiejscowego Centralnego Ośrodka 2) oddziałowy Służby Więziennej, ośrodek 2) kierownik działu Szkolenia Służby 3) starszy strażnik szkolenia Służby Więziennej Centralnego Ośrodka Więziennej 4) strażnik i ośrodek doskonalenia kadr Szkolenia Służby 2) dowódca zmiany Służby Więziennej Więziennej ośrodka szkolenia 3) kierownik działu 3) zastępca dowódcy ośrodka szkolenia zmiany Centralnego 4) kierownik działu Ośrodka Szkolenia ośrodka doskonalenia Służby Więziennej kadr 4) zastępca dowódcy 5) zastępca kierownika zmiany ośrodka działu Centralnego szkolenia Ośrodka Szkolenia 5) starszy oddziałowy Służby Więziennej 6) oddziałowy 6) dowódca kompanii uczelni Służby Więziennej 7) dowódca kompanii Centralnego Ośrodka Szkolenia Służby Więziennej 8) dowódca kompanii ośrodka szkolenia"
+      }
+     ]
     },
     {
      "type": "pkt",
@@ -120,8 +171,23 @@
      "children": [
       {
        "type": "text",
-       "text": "4 Zakład karny i areszt śledczy 1) kierownik oddziału 1) dowódca zmiany 1) starszy oddziałowy zewnętrznego 2) zastępca dowódcy 2) oddziałowy 2) kierownik działu zmiany 3) dowódca grupy 3) zastępca kierownika 3) starszy oddziałowy konwojowej działu 4) oddziałowy 4) starszy strażnik 4) dowódca zmiany 5) dowódca grupy 5) strażnik 5) zastępca dowódcy konwojowej zmiany"
-      },
+       "text": "4 Zakład karny i areszt śledczy 1) kierownik oddziału 1) dowódca zmiany 1) starszy oddziałowy zewnętrznego 2) zastępca dowódcy 2) oddziałowy 2) kierownik działu zmiany 3) dowódca grupy"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "zastępca kierownika 3) starszy oddziałowy konwojowej działu 4) oddziałowy 4) starszy strażnik 4) dowódca zmiany 5) dowódca grupy 5) strażnik",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "zastępca dowódcy konwojowej zmiany",
+     "children": [
       {
        "type": "text",
        "text": "Objaśnienie: * ) GISW – Grupa Interwencyjna Służby Więziennej"

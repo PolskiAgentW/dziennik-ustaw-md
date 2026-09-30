@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/494",
  "title": "Obwieszczenie Ministra Infrastruktury z dnia 5 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu i Budownictwa w sprawie szczegółowych wymagań w stosunku do stacji przeprowadzających badania techniczne pojazdów",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/494/text.pdf",
  "body": [
   {
@@ -1270,79 +1270,102 @@
     },
     {
      "type": "text",
-     "text": "1 Urządzenie do podnoszenia: a) całego pojazdu, b) osi pojazdu"
+     "text": "1 Urządzenie do podnoszenia: a) całego pojazdu,"
     },
     {
-     "type": "text",
-     "text": "2 Urządzenie do kontroli działania hamulców: a) urządzenia rolkowe, b) urządzenia płytowe (najazdowe), c) opóźnieniomierze"
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "osi pojazdu",
+     "children": [
+      {
+       "type": "text",
+       "text": "2 Urządzenie do kontroli działania hamulców: a) urządzenia rolkowe,"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "3 Przyrząd do pomiaru zbieżności kół jezdnych"
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "urządzenia płytowe (najazdowe),",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "4 Urządzenie do oceny prawidłowości ustawienia kół jezdnych pojazdu"
-    },
-    {
-     "type": "text",
-     "text": "5 Przyrząd do pomiaru i regulacji ciśnienia powietrza w ogumieniu pojazdu"
-    },
-    {
-     "type": "text",
-     "text": "6 Przyrząd do pomiaru ustawienia i światłości świateł pojazdu"
-    },
-    {
-     "type": "text",
-     "text": "7 Miernik poziomu dźwięku"
-    },
-    {
-     "type": "text",
-     "text": "8 Dymomierz"
-    },
-    {
-     "type": "text",
-     "text": "9 Przyrząd do kontroli złącza elektrycznego pojazd-przyczepa"
-    },
-    {
-     "type": "text",
-     "text": "10 Przyrząd do wymuszania kontrolowanego nacisku na mechanizm sterowania hamulcem najazdowym przyczepy"
-    },
-    {
-     "type": "text",
-     "text": "11 Urządzenie do wymuszania szarpnięć kołami jezdnymi pojazdu"
-    },
-    {
-     "type": "text",
-     "text": "12 Wieloskładnikowy analizator spalin silników o zapłonie iskrowym"
-    },
-    {
-     "type": "text",
-     "text": "13 Przyrząd do pomiaru geometrii ustawienia kół i osi pojazdu"
-    },
-    {
-     "type": "text",
-     "text": "14 Urządzenie do kontroli skuteczności tłumienia drgań zawieszenia pojazdu o dopuszczalnej masie całkowitej do 3,5 t"
-    },
-    {
-     "type": "text",
-     "text": "15 Czytnik informacji diagnostycznych do układu OBD II/EOBD"
-    },
-    {
-     "type": "text",
-     "text": "16 Przyrząd do pomiaru w szybach pojazdu współczynnika przepuszczalności światła"
-    },
-    {
-     "type": "text",
-     "text": "17 Elektroniczny detektor gazów do kontroli nieszczelności instalacji gazowej"
-    },
-    {
-     "type": "text",
-     "text": "Objaśnienie:"
-    },
-    {
-     "type": "text",
-     "text": "OBD II/EOBD – pokładowy system diagnostyczny do kontroli emisji spalin."
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "opóźnieniomierze",
+     "children": [
+      {
+       "type": "text",
+       "text": "3 Przyrząd do pomiaru zbieżności kół jezdnych"
+      },
+      {
+       "type": "text",
+       "text": "4 Urządzenie do oceny prawidłowości ustawienia kół jezdnych pojazdu"
+      },
+      {
+       "type": "text",
+       "text": "5 Przyrząd do pomiaru i regulacji ciśnienia powietrza w ogumieniu pojazdu"
+      },
+      {
+       "type": "text",
+       "text": "6 Przyrząd do pomiaru ustawienia i światłości świateł pojazdu"
+      },
+      {
+       "type": "text",
+       "text": "7 Miernik poziomu dźwięku"
+      },
+      {
+       "type": "text",
+       "text": "8 Dymomierz"
+      },
+      {
+       "type": "text",
+       "text": "9 Przyrząd do kontroli złącza elektrycznego pojazd-przyczepa"
+      },
+      {
+       "type": "text",
+       "text": "10 Przyrząd do wymuszania kontrolowanego nacisku na mechanizm sterowania hamulcem najazdowym przyczepy"
+      },
+      {
+       "type": "text",
+       "text": "11 Urządzenie do wymuszania szarpnięć kołami jezdnymi pojazdu"
+      },
+      {
+       "type": "text",
+       "text": "12 Wieloskładnikowy analizator spalin silników o zapłonie iskrowym"
+      },
+      {
+       "type": "text",
+       "text": "13 Przyrząd do pomiaru geometrii ustawienia kół i osi pojazdu"
+      },
+      {
+       "type": "text",
+       "text": "14 Urządzenie do kontroli skuteczności tłumienia drgań zawieszenia pojazdu o dopuszczalnej masie całkowitej do 3,5 t"
+      },
+      {
+       "type": "text",
+       "text": "15 Czytnik informacji diagnostycznych do układu OBD II/EOBD"
+      },
+      {
+       "type": "text",
+       "text": "16 Przyrząd do pomiaru w szybach pojazdu współczynnika przepuszczalności światła"
+      },
+      {
+       "type": "text",
+       "text": "17 Elektroniczny detektor gazów do kontroli nieszczelności instalacji gazowej"
+      },
+      {
+       "type": "text",
+       "text": "Objaśnienie:"
+      },
+      {
+       "type": "text",
+       "text": "OBD II/EOBD – pokładowy system diagnostyczny do kontroli emisji spalin."
+      }
+     ]
     }
    ]
   },

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1260",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 września 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1260/text.pdf",
  "body": [
   {
@@ -1738,24 +1738,27 @@
          "num": "2",
          "path": "art_12b/ust_1/pkt_2",
          "text": "od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. – w terminie od dnia 1 września 2024 r. do dnia 15 października 2024 r.",
-         "children": [
-          {
-           "type": "text",
-           "text": "1 [1] . Przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania, o którym mowa w art. 12aa ust. 1, składa do podmiotu wypłacającego wniosek o rozliczenie wyrównania, który uwzględnia rzeczywiste dane w każdej grupie taryfowej dotyczące ilości ciepła sprzedanego na potrzeby odbiorców ciepła, o których mowa w art. 4 ust. 1, za okres:"
-          }
-         ]
-        },
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "1¹",
+       "path": "art_12b/ust_1¹",
+       "text": "Przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania, o którym mowa w art. 12aa ust. 1, składa do podmiotu wypłacającego wniosek o rozliczenie wyrównania, który uwzględnia rzeczywiste dane w każdej grupie taryfowej dotyczące ilości ciepła sprzedanego na potrzeby odbiorców ciepła, o których mowa w art. 4 ust. 1, za okres:",
+       "children": [
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_12b/ust_1/pkt_1",
+         "path": "art_12b/ust_1¹/pkt_1",
          "text": "od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r. – w terminie od dnia 1 kwietnia 2025 r. do dnia 15 maja 2025 r.;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_12b/ust_1/pkt_2",
+         "path": "art_12b/ust_1¹/pkt_2",
          "text": "od dnia 1 stycznia 2025 r. do dnia 30 czerwca 2025 r. – w terminie od dnia 1 września 2025 r. do dnia 15 października 2025 r.",
          "children": []
         }
@@ -1969,7 +1972,7 @@
        "type": "ust",
        "num": "3b",
        "path": "art_12b/ust_3b",
-       "text": "W przypadku niezłożenia wniosku o rozliczenie wyrównania w terminie, o którym mowa w ust. 1 [1] :",
+       "text": "W przypadku niezłożenia wniosku o rozliczenie wyrównania w terminie, o którym mowa w ust. 1¹:",
        "children": [
         {
          "type": "pkt",
@@ -6161,22 +6164,25 @@
        "num": "1",
        "path": "art_62/ust_1",
        "text": "Maksymalny limit wydatków z Funduszu przeznaczonych na rekompensaty dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 1 i 2, wyrównania, o których mowa w art. 12a ust. 1 i art. 12c, dodatki dla gospodarstw domowych oraz dodatki dla podmiotów wrażliwych wynosi w latach 2022–2023 14 500 000 000,00 zł.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1¹",
+       "path": "art_62/ust_1¹",
+       "text": "Maksymalny limit wydatków z Funduszu przeznaczonych na dodatki dla gospodarstw domowych oraz dodatki dla podmiotów wrażliwych:",
        "children": [
-        {
-         "type": "text",
-         "text": "1 [1] . Maksymalny limit wydatków z Funduszu przeznaczonych na dodatki dla gospodarstw domowych oraz dodatki dla podmiotów wrażliwych:"
-        },
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_62/ust_1/pkt_1",
+         "path": "art_62/ust_1¹/pkt_1",
          "text": "w roku 2024 wynosi 1 000 000,00 zł;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_62/ust_1/pkt_2",
+         "path": "art_62/ust_1¹/pkt_2",
          "text": "w latach 2025–2035 wynosi 500 000,00 zł.",
          "children": []
         }

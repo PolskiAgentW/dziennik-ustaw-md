@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/488",
  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 27 marca 2025 r. zmieniające rozporządzenie w sprawie wykonywania prac podwodnych w jednostkach organizacyjnych podległych lub nadzorowanych przez Ministra Obrony Narodowej",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/488/text.pdf",
  "body": [
   {
@@ -678,7 +678,14 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "conduct practical training within the above competence scope; 3) perform underwater experimental works within the above competence scope.",
+     "text": "conduct practical training within the above competence scope;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "perform underwater experimental works within the above competence scope.",
      "children": [
       {
        "type": "text",
@@ -1059,7 +1066,14 @@
        "type": "lit",
        "num": "d",
        "path": "pkt_1/lit_d",
-       "text": "urządzeń technicznych i narzędzi do prac podwodnych i działań bojowych, d) urządzeń technicznych i narzędzi do prac podwodnych i działań bojowych, e) materiałów wybuchowych. e) materiałów wybuchowych;",
+       "text": "urządzeń technicznych i narzędzi do prac podwodnych i działań bojowych, d) urządzeń technicznych i narzędzi do prac podwodnych i działań bojowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "pkt_1/lit_e",
+       "text": "materiałów wybuchowych. e) materiałów wybuchowych;",
        "children": []
       }
      ]
@@ -1297,7 +1311,14 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "nurkować oraz wykonywać prace podwodne i działania 1) kierować nurkowaniem oraz pracami podwodnymi i działaniami ratownicze z użyciem procedur długotrwałych prac podwodnych; obrony przeciwawaryjnej wykonywanymi z użyciem 2) prowadzić szkolenie praktyczne w zakresie uprawnień z pkt 1; autonomicznego i przewodowego sprzętu nurkowego zasilanego 3) wykonywać prace podwodne doświadczalne w zakresie uprawnień z pkt 1. powietrzem do głębokości 50 metrów; 2) eksploatować i obsługiwać sprzęt nurkowy, urządzenia techniczne oraz narzędzia do prac podwodnych i działań obrony przeciwawaryjnej; 3) szkolić i egzaminować w zakresie ww. uprawnień.",
+     "text": "nurkować oraz wykonywać prace podwodne i działania 1) kierować nurkowaniem oraz pracami podwodnymi i działaniami ratownicze z użyciem procedur długotrwałych prac podwodnych; obrony przeciwawaryjnej wykonywanymi z użyciem 2) prowadzić szkolenie praktyczne w zakresie uprawnień z pkt 1; autonomicznego i przewodowego sprzętu nurkowego zasilanego",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "wykonywać prace podwodne doświadczalne w zakresie uprawnień z pkt 1. powietrzem do głębokości 50 metrów; 2) eksploatować i obsługiwać sprzęt nurkowy, urządzenia techniczne oraz narzędzia do prac podwodnych i działań obrony przeciwawaryjnej; 3) szkolić i egzaminować w zakresie ww. uprawnień.",
      "children": [
       {
        "type": "text",
@@ -1437,7 +1458,7 @@
         },
         {
          "type": "text",
-         "text": "Imię i nazwisko ………………………………………………………………………………….. KIEROWNIK NURKOWAŃ SATUROWANYCH Name and surname SATURATION DIVING SUPERVISOR Ukończył w dniu …………………. szkolenie zawodowe w zakresie ………………………….. Has completed professional training in Przyznano rozkazem nr ……………..………..………………………….. z dnia ….……..……… Awarded order No. …………………………………………………………………………………………………….."
+         "text": "Imię i nazwisko …………………………………………………………………………………... KIEROWNIK NURKOWAŃ SATUROWANYCH Name and surname SATURATION DIVING SUPERVISOR Ukończył w dniu …………………. szkolenie zawodowe w zakresie …………………………... Has completed professional training in Przyznano rozkazem nr ……………..………..………………………….. z dnia ….……..……… Awarded order No. …………………………………………………………………………………………………….."
         },
         {
          "type": "text",
@@ -1459,7 +1480,7 @@
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "szkolić i egzaminować w zakresie ww. uprawnień; Imię i nazwisko ………………………………………………………………………………….. Name and surname 4) prowadzić doświadczalne prace podwodne w zakresie ww. uprawnień. Ukończył w dniu …………………. szkolenie zawodowe w zakresie ………………………….. Has completed professional training in",
+     "text": "szkolić i egzaminować w zakresie ww. uprawnień; Imię i nazwisko …………………………………………………………………………………... Name and surname 4) prowadzić doświadczalne prace podwodne w zakresie ww. uprawnień. Ukończył w dniu …………………. szkolenie zawodowe w zakresie …………………………... Has completed professional training in",
      "children": [
       {
        "type": "text",
@@ -1471,7 +1492,7 @@
       },
       {
        "type": "text",
-       "text": "i uzyskał kwalifikacje ……………………………………………………………………………. and is certified as …………………………………………………………………………………………………..…"
+       "text": "i uzyskał kwalifikacje …………………………………………………………………………….. and is certified as …………………………………………………………………………………………………..…"
       },
       {
        "type": "text",
@@ -1623,7 +1644,7 @@
       },
       {
        "type": "text",
-       "text": "(np. Dnia 01.05.2004 r. Zatoka Gdańska – rejon II torpedowni, 2 godziny, niszczenie niewybuchu bomby lotniczej z użyciem materiałów wybuchowych, nurek roboczy, aparat FGT I/D, głębokość 15 metrów.) ........................................................................................................... . ........................................................................................................... . ........................................................................................................... . ........................................................................................................... . ........................................................................................................... . ........................................................................................................... . ........................................................................................................... . ........................................................................................................... . ........................................................................................................... . ........................................................................................................... . ........................................................................................................... . ........................................................................................................... . ........................................................................................................... . ........................................................................................................... . ........................................................................................................... . ........................................................................................................... . ........................................................................................................... . ........................................................................................................... . ........................................................................................................... . ........................................................................................................... . ........................................................................................................... . ........................................................................................................... . .......................................................................................................... ."
+       "text": "(np. Dnia 01.05.2004 r. Zatoka Gdańska – rejon II torpedowni, 2 godziny, niszczenie niewybuchu bomby lotniczej z użyciem materiałów wybuchowych, nurek roboczy, aparat FGT I/D, głębokość 15 metrów.) .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .........................................................................................................................................."
       },
       {
        "type": "text",
@@ -1689,14 +1710,35 @@
        "type": "lit",
        "num": "b",
        "path": "ust_1/lit_b",
-       "text": "przebiegu służby nurkowej, 2. Przebieg służby nurkowej / Diving service record …………………………..…...… 3 c) rodzaju posiadanych kwalifikacji wojskowych uprawniających do wykonywania prac podwodnych, 3. Kwalifikacje / Qualifications …………………………………………….…………. 5 d) ukończenia dodatkowych szkoleń, 4. Dodatkowe kwalifikacje / Additional qualifications …………………….………… 21 e) zbiorczego zestawienia czasów, rodzaju czynnika oddechowego i głębokości nurkowania w okresie pełnienia służby nurkowej, 5. Zbiorcze zestawienie nurkowań / Annual summary of diving ………………….….. 27 f) rocznego zestawienia czasów, rodzaju czynnika oddechowego i głębokości 6. Przebyte nurkowania w roku / Diving passed in the year ……………………….… 30 nurkowania w poszczególnych miesiącach,",
+       "text": "przebiegu służby nurkowej, 2. Przebieg służby nurkowej / Diving service record …………………………..…...… 3",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_1/lit_c",
+       "text": "rodzaju posiadanych kwalifikacji wojskowych uprawniających do wykonywania prac podwodnych, 3. Kwalifikacje / Qualifications …………………………………………….…………. 5 d) ukończenia dodatkowych szkoleń, 4. Dodatkowe kwalifikacje / Additional qualifications …………………….………… 21",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_1/lit_e",
+       "text": "zbiorczego zestawienia czasów, rodzaju czynnika oddechowego i głębokości nurkowania w okresie pełnienia służby nurkowej, 5. Zbiorcze zestawienie nurkowań / Annual summary of diving ………………….….. 27 f) rocznego zestawienia czasów, rodzaju czynnika oddechowego i głębokości 6. Przebyte nurkowania w roku / Diving passed in the year ……………………….… 30 nurkowania w poszczególnych miesiącach,",
        "children": []
       },
       {
        "type": "lit",
        "num": "g",
        "path": "ust_1/lit_g",
-       "text": "czasu trwania treningów w komorze dekompresyjnej, 7. Treningi w komorze dekompresyjnej / h) charakterystyki wykonywanych ważniejszych prac podwodnych, Decompression chamber training ..…....................................................................... 60 i) wyników orzeczeń wojskowej komisji lekarskiej o braku przeciwwskazań do nurkowania i wykonywania prac podwodnych. 8. Charakterystyka ważniejszych prac podwodnych / 2. Książkę nurka wystawia komendant właściwego wojskowego ośrodka szkolenia nurkowego, potwierdzając pieczęcią i podpisem tożsamość posiadacza książki nurka, Description of important underwater work ……………………………….……….. 76 odbyte szkolenia oraz uzyskane kwalifikacje nurkowe. 9. Orzeczenia wojskowej komisji lekarskiej / 3. Wpisy dokonane po wystawieniu książki nurka powinny być opatrzone datą, pieczęcią oraz podpisem dowódcy odpowiedniej jednostki wojskowej lub osoby przez niego Decisions of the medical qualification board …………………………………….. 108 upoważnionej. 10. Uwagi ogólne / Remarks …………………………………………………...……... 121 4. Wpisy w książce nurka powinny być dokonywane starannie, drukowanymi literami, bez używania skrótów i korekt. Błędne wpisy prostuje się przez przekreślenie błędnego 11. Spis treści / Table of contents ……………………………………………….……. 122 tekstu w sposób pozwalający na jego odczytanie i obok wpisuje się tekst prawidłowy, a dokonaną korektę poświadcza się podpisem i pieczęcią.",
+       "text": "czasu trwania treningów w komorze dekompresyjnej, 7. Treningi w komorze dekompresyjnej /",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "ust_1/lit_h",
+       "text": "charakterystyki wykonywanych ważniejszych prac podwodnych, Decompression chamber training ..…....................................................................... 60 i) wyników orzeczeń wojskowej komisji lekarskiej o braku przeciwwskazań do nurkowania i wykonywania prac podwodnych. 8. Charakterystyka ważniejszych prac podwodnych / 2. Książkę nurka wystawia komendant właściwego wojskowego ośrodka szkolenia nurkowego, potwierdzając pieczęcią i podpisem tożsamość posiadacza książki nurka, Description of important underwater work ……………………………….……….. 76 odbyte szkolenia oraz uzyskane kwalifikacje nurkowe. 9. Orzeczenia wojskowej komisji lekarskiej / 3. Wpisy dokonane po wystawieniu książki nurka powinny być opatrzone datą, pieczęcią oraz podpisem dowódcy odpowiedniej jednostki wojskowej lub osoby przez niego Decisions of the medical qualification board …………………………………….. 108 upoważnionej. 10. Uwagi ogólne / Remarks …………………………………………………...……... 121 4. Wpisy w książce nurka powinny być dokonywane starannie, drukowanymi literami, bez używania skrótów i korekt. Błędne wpisy prostuje się przez przekreślenie błędnego 11. Spis treści / Table of contents ……………………………………………….……. 122 tekstu w sposób pozwalający na jego odczytanie i obok wpisuje się tekst prawidłowy, a dokonaną korektę poświadcza się podpisem i pieczęcią.",
        "children": []
       }
      ]

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1842",
  "title": "Rozporządzenie Rady Ministrów z dnia 16 grudnia 2025 r. w sprawie programu badań statystycznych statystyki publicznej na rok 2026",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1842/text.pdf",
  "body": [
   {
@@ -3560,7 +3560,35 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_9/pkt_4",
-       "text": "pożary i wielkości powierzchni, które uległy spaleniu w zakresie upraw rolnych, łąk, rżysk i nieużytków, w przekrojach: kraj, województwa; 5) powierzchnia i zasoby złóż torfowych, w przekrojach: kraj, województwa, rodzaje użytków rolnych; 6) zasobność gleb w przyswajalne makroelementy, w przekrojach: kraj, województwa; 7) odczyn gleb oraz potrzeby wapnowania, w przekrojach: kraj, województwa; 8) jakość gleb użytkowanych rolniczo, w przekrojach: kraj, województwa; 9) powierzchnia geodezyjna gruntów, w przekrojach: kierunki wykorzystania gruntów.",
+       "text": "pożary i wielkości powierzchni, które uległy spaleniu w zakresie upraw rolnych, łąk, rżysk i nieużytków, w przekrojach: kraj, województwa; 5) powierzchnia i zasoby złóż torfowych, w przekrojach: kraj, województwa, rodzaje użytków rolnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_9/pkt_6",
+       "text": "zasobność gleb w przyswajalne makroelementy, w przekrojach: kraj, województwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_9/pkt_7",
+       "text": "odczyn gleb oraz potrzeby wapnowania, w przekrojach: kraj, województwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_9/pkt_8",
+       "text": "jakość gleb użytkowanych rolniczo, w przekrojach: kraj, województwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_9/pkt_9",
+       "text": "powierzchnia geodezyjna gruntów, w przekrojach: kierunki wykorzystania gruntów.",
        "children": []
       }
      ]
@@ -3575,11 +3603,47 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_10/pkt_1",
-       "text": "publikacje GUS: a) „Ochrona środowiska 2027” (listopad 2027), b) „Mały Rocznik Statystyczny Polski 2027” (lipiec 2027), c) „Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień 2027), d) „Rocznik Statystyczny Rolnictwa 2027” (grudzień 2027), e) „Regiony Polski 2027” (sierpień 2027), f) „Rocznik Statystyczny Województw 2027” (grudzień 2027); 2) internetowa baza danych – Bank Danych Lokalnych – Stan i ochrona środowiska – Ochrona powierzchni ziemi i gleby (lipiec 2027, sierpień 2027, październik 2027).",
+       "text": "publikacje GUS: a) „Ochrona środowiska 2027” (listopad 2027),",
        "children": [
         {
-         "type": "text",
-         "text": "21 1.01 STAN I OCHRONA ŚRODOWISKA"
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_1/lit_b",
+         "text": "„Mały Rocznik Statystyczny Polski 2027” (lipiec 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_1/lit_c",
+         "text": "„Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_1/lit_d",
+         "text": "„Rocznik Statystyczny Rolnictwa 2027” (grudzień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_10/pkt_1/lit_e",
+         "text": "„Regiony Polski 2027” (sierpień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_10/pkt_1/lit_f",
+         "text": "„Rocznik Statystyczny Województw 2027” (grudzień 2027); 2) internetowa baza danych – Bank Danych Lokalnych – Stan i ochrona środowiska – Ochrona powierzchni ziemi i gleby (lipiec 2027, sierpień 2027, październik 2027).",
+         "children": [
+          {
+           "type": "text",
+           "text": "21 1.01 STAN I OCHRONA ŚRODOWISKA"
+          }
+         ]
         }
        ]
       }
@@ -4326,7 +4390,14 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_9/pkt_4",
-       "text": "zamknięte obiegi wody w zakładach, w przekrojach: kraj, NUTS 1, województwa, NUTS 2, NUTS 3, powiaty; 5) ilość i sposób zagospodarowania wód zasolonych oraz ładunki soli w nich zawarte, w przekrojach: kraj, województwa;",
+       "text": "zamknięte obiegi wody w zakładach, w przekrojach: kraj, NUTS 1, województwa, NUTS 2, NUTS 3, powiaty;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_9/pkt_5",
+       "text": "ilość i sposób zagospodarowania wód zasolonych oraz ładunki soli w nich zawarte, w przekrojach: kraj, województwa;",
        "children": []
       },
       {
@@ -4563,7 +4634,14 @@
          "type": "lit",
          "num": "d",
          "path": "ust_10/pkt_3/lit_d",
-         "text": "Bank Danych Lokalnych – Stan i ochrona środowiska – Zużycie wody i oczyszczalnie ścieków (lipiec 2027), e) Bank Danych Lokalnych – Stan i ochrona środowiska – Zasoby eksploatacyjne wód podziemnych (październik 2027),",
+         "text": "Bank Danych Lokalnych – Stan i ochrona środowiska – Zużycie wody i oczyszczalnie ścieków (lipiec 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_10/pkt_3/lit_e",
+         "text": "Bank Danych Lokalnych – Stan i ochrona środowiska – Zasoby eksploatacyjne wód podziemnych (październik 2027),",
          "children": []
         },
         {
@@ -4848,7 +4926,14 @@
          "type": "lit",
          "num": "c",
          "path": "ust_8/pkt_3/lit_c",
-         "text": "dane dotyczące ciśnienia cząstkowego ozonu w atmosferze, promieniowania nadfioletowego (UV-B) (lp. 59.3), d) dane dotyczące składu chemicznego opadów atmosferycznych (lp. 59.4),",
+         "text": "dane dotyczące ciśnienia cząstkowego ozonu w atmosferze, promieniowania nadfioletowego (UV-B) (lp. 59.3),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_8/pkt_3/lit_d",
+         "text": "dane dotyczące składu chemicznego opadów atmosferycznych (lp. 59.4),",
          "children": []
         },
         {
@@ -5734,7 +5819,14 @@
          "type": "lit",
          "num": "d",
          "path": "ust_10/pkt_3/lit_d",
-         "text": "Dziedzinowa Baza Wiedzy – Środowisko – Stan i ochrona środowiska – Ochrona przyrody (listopad 2027), e) Bank Danych Lokalnych – Stan i ochrona środowiska – Tereny zieleni (lipiec 2027).",
+         "text": "Dziedzinowa Baza Wiedzy – Środowisko – Stan i ochrona środowiska – Ochrona przyrody (listopad 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_10/pkt_3/lit_e",
+         "text": "Bank Danych Lokalnych – Stan i ochrona środowiska – Tereny zieleni (lipiec 2027).",
          "children": [
           {
            "type": "text",
@@ -5924,7 +6016,14 @@
          "type": "lit",
          "num": "m",
          "path": "ust_5/pkt_5/lit_m",
-         "text": "przedsiębiorstwa, samorząd gospodarczy n) inny użytkownik;",
+         "text": "przedsiębiorstwa, samorząd gospodarczy",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "n",
+         "path": "ust_5/pkt_5/lit_n",
+         "text": "inny użytkownik;",
          "children": []
         }
        ]
@@ -6257,7 +6356,14 @@
        "type": "pkt",
        "num": "13",
        "path": "ust_9/pkt_13",
-       "text": "odpady komunalne wytworzone, w przekrojach: kraj, NUTS 1, województwa, NUTS 2, NUTS 3, powiaty, gminy; 14) odpady komunalne zmieszane zebrane/odebrane od właścicieli nieruchomości, w przekrojach: kraj, NUTS 1, województwa, NUTS 2, NUTS 3, powiaty, gminy, źródła pochodzenia odpadów komunalnych;",
+       "text": "odpady komunalne wytworzone, w przekrojach: kraj, NUTS 1, województwa, NUTS 2, NUTS 3, powiaty, gminy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "ust_9/pkt_14",
+       "text": "odpady komunalne zmieszane zebrane/odebrane od właścicieli nieruchomości, w przekrojach: kraj, NUTS 1, województwa, NUTS 2, NUTS 3, powiaty, gminy, źródła pochodzenia odpadów komunalnych;",
        "children": []
       },
       {
@@ -6327,7 +6433,14 @@
        "type": "pkt",
        "num": "24",
        "path": "ust_9/pkt_24",
-       "text": "odpady przetworzone, w przekrojach: kraj, grupowanie EWCStat4, proces przetwarzania, kategoria zagrożenia; 25) ilość i wydajność obiektów składowania odpadów, w przekrojach: kraj, NUTS 1, NUTS 2;",
+       "text": "odpady przetworzone, w przekrojach: kraj, grupowanie EWCStat4, proces przetwarzania, kategoria zagrożenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "25",
+       "path": "ust_9/pkt_25",
+       "text": "ilość i wydajność obiektów składowania odpadów, w przekrojach: kraj, NUTS 1, NUTS 2;",
        "children": []
       },
       {
@@ -6440,7 +6553,14 @@
          "type": "lit",
          "num": "d",
          "path": "ust_10/pkt_3/lit_d",
-         "text": "Dziedzinowa Baza Wiedzy – Środowisko – Stan i ochrona środowiska – Gospodarka odpadami (wrzesień 2027), e) Bazy Eurostatu i innych organizacji międzynarodowych – Baza Eurostatu – Ochrona środowiska – Odpady (czerwiec 2028).",
+         "text": "Dziedzinowa Baza Wiedzy – Środowisko – Stan i ochrona środowiska – Gospodarka odpadami (wrzesień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_10/pkt_3/lit_e",
+         "text": "Bazy Eurostatu i innych organizacji międzynarodowych – Baza Eurostatu – Ochrona środowiska – Odpady (czerwiec 2028).",
          "children": [
           {
            "type": "text",
@@ -6654,7 +6774,21 @@
          "type": "lit",
          "num": "a",
          "path": "ust_8/pkt_3/lit_a",
-         "text": "dane dotyczące stężenia radionuklidów w wybranych rzekach i jeziorach oraz w opadzie całkowitym (lp. 59.7), b) dane dotyczące stężenia radionuklidów naturalnych i sztucznych w powierzchniowej warstwie gleby (lp. 59.8), c) dane dotyczące poziomu pól elektromagnetycznych w środowisku (lp. 59.10),",
+         "text": "dane dotyczące stężenia radionuklidów w wybranych rzekach i jeziorach oraz w opadzie całkowitym (lp. 59.7),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_8/pkt_3/lit_b",
+         "text": "dane dotyczące stężenia radionuklidów naturalnych i sztucznych w powierzchniowej warstwie gleby (lp. 59.8),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_8/pkt_3/lit_c",
+         "text": "dane dotyczące poziomu pól elektromagnetycznych w środowisku (lp. 59.10),",
          "children": []
         },
         {
@@ -6741,11 +6875,33 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_10/pkt_1",
-       "text": "publikacje GUS: a) „Ochrona środowiska 2027” (listopad 2027), b) „Mały Rocznik Statystyczny Polski 2027” (lipiec 2027), c) „Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień 2027), d) „Rocznik Statystyczny Rolnictwa 2027” (grudzień 2027); 2) informacja sygnalna – „Ochrona środowiska w 2026 r.” (czerwiec 2027).",
+       "text": "publikacje GUS: a) „Ochrona środowiska 2027” (listopad 2027),",
        "children": [
         {
-         "type": "text",
-         "text": "36 1.01 STAN I OCHRONA ŚRODOWISKA"
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_1/lit_b",
+         "text": "„Mały Rocznik Statystyczny Polski 2027” (lipiec 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_1/lit_c",
+         "text": "„Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_1/lit_d",
+         "text": "„Rocznik Statystyczny Rolnictwa 2027” (grudzień 2027); 2) informacja sygnalna – „Ochrona środowiska w 2026 r.” (czerwiec 2027).",
+         "children": [
+          {
+           "type": "text",
+           "text": "36 1.01 STAN I OCHRONA ŚRODOWISKA"
+          }
+         ]
         }
        ]
       }
@@ -7448,7 +7604,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_7/pkt_1",
-       "text": "zasoby geologiczne udokumentowanych złóż kopalin: bilansowe i pozabilansowe, zasoby przemysłowe, wydobycie; 2) surowce energetyczne, metaliczne, chemiczne, inne;",
+       "text": "zasoby geologiczne udokumentowanych złóż kopalin: bilansowe i pozabilansowe, zasoby przemysłowe, wydobycie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_7/pkt_2",
+       "text": "surowce energetyczne, metaliczne, chemiczne, inne;",
        "children": []
       },
       {
@@ -7490,7 +7653,14 @@
        "type": "pkt",
        "num": "8",
        "path": "ust_7/pkt_8",
-       "text": "eksport i import w jednostkach naturalnych i masie przywiezionych i wywiezionych towarów (z krajami spoza UE); 9) przywóz i wywóz towarów (kraje UE) w jednostkach naturalnych i masie przywiezionych towarów.",
+       "text": "eksport i import w jednostkach naturalnych i masie przywiezionych i wywiezionych towarów (z krajami spoza UE);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_7/pkt_9",
+       "text": "przywóz i wywóz towarów (kraje UE) w jednostkach naturalnych i masie przywiezionych towarów.",
        "children": []
       }
      ]
@@ -8759,7 +8929,14 @@
        "type": "pkt",
        "num": "5",
        "path": "ust_9/pkt_5",
-       "text": "bilansowe zasoby złóż i wydobycie węgla kamiennego, węgla brunatnego, gazu ziemnego, w przekrojach: kraj; 6) zużycie wody na potrzeby gospodarki narodowej i ludności, produktywność wody, wodochłonność przemysłu, wodochłonność gospodarstw domowych, w przekrojach: kraj;",
+       "text": "bilansowe zasoby złóż i wydobycie węgla kamiennego, węgla brunatnego, gazu ziemnego, w przekrojach: kraj;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_9/pkt_6",
+       "text": "zużycie wody na potrzeby gospodarki narodowej i ludności, produktywność wody, wodochłonność przemysłu, wodochłonność gospodarstw domowych, w przekrojach: kraj;",
        "children": []
       },
       {
@@ -11220,7 +11397,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_9/pkt_1",
-       "text": "przestępstwa stwierdzone przez prokuraturę w zakończonym postępowaniu przygotowawczym, w przekrojach: kraj; 2) sposób zakończenia postępowań przygotowawczych w sprawach o przestępstwa stwierdzonych przez Policję i prokuraturę, w przekrojach: kraj;",
+       "text": "przestępstwa stwierdzone przez prokuraturę w zakończonym postępowaniu przygotowawczym, w przekrojach: kraj;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_9/pkt_2",
+       "text": "sposób zakończenia postępowań przygotowawczych w sprawach o przestępstwa stwierdzonych przez Policję i prokuraturę, w przekrojach: kraj;",
        "children": []
       },
       {
@@ -11527,7 +11711,14 @@
          "type": "lit",
          "num": "b",
          "path": "ust_10/pkt_2/lit_b",
-         "text": "Strateg – System Monitorowania Rozwoju – Sprawność państwa i bezpieczeństwo publiczne (lipiec 2027), c) Bazy Eurostatu i innych organizacji międzynarodowych – Baza UNICEF – Wymiar sprawiedliwości dla dzieci (październik 2027),",
+         "text": "Strateg – System Monitorowania Rozwoju – Sprawność państwa i bezpieczeństwo publiczne (lipiec 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_2/lit_c",
+         "text": "Bazy Eurostatu i innych organizacji międzynarodowych – Baza UNICEF – Wymiar sprawiedliwości dla dzieci (październik 2027),",
          "children": []
         },
         {
@@ -11576,7 +11767,14 @@
          "type": "lit",
          "num": "j",
          "path": "ust_10/pkt_2/lit_j",
-         "text": "Dziedzinowa Baza Wiedzy – Społeczeństwo – Wymiar sprawiedliwości – Sprawy nieletnich (grudzień 2027), k) Dziedzinowa Baza Wiedzy – Społeczeństwo – Wymiar sprawiedliwości – Więziennictwo – Skazani (grudzień 2027).",
+         "text": "Dziedzinowa Baza Wiedzy – Społeczeństwo – Wymiar sprawiedliwości – Sprawy nieletnich (grudzień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "ust_10/pkt_2/lit_k",
+         "text": "Dziedzinowa Baza Wiedzy – Społeczeństwo – Wymiar sprawiedliwości – Więziennictwo – Skazani (grudzień 2027).",
          "children": [
           {
            "type": "text",
@@ -12178,7 +12376,14 @@
          "type": "lit",
          "num": "f",
          "path": "ust_8/pkt_1/lit_f",
-         "text": "MS-DB6 – sprawozdanie z wykonania zatrudnienia i wynagrodzeń Ministerstwa Sprawiedliwości (lp. 12.6), g) MS-DB7 – sprawozdanie z wykonania zatrudnienia i wynagrodzeń w Krajowej Szkole Sądownictwa i Prokuratury (lp. 12.7),",
+         "text": "MS-DB6 – sprawozdanie z wykonania zatrudnienia i wynagrodzeń Ministerstwa Sprawiedliwości (lp. 12.6),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_8/pkt_1/lit_g",
+         "text": "MS-DB7 – sprawozdanie z wykonania zatrudnienia i wynagrodzeń w Krajowej Szkole Sądownictwa i Prokuratury (lp. 12.7),",
          "children": []
         },
         {
@@ -12786,8 +12991,16 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_8/pkt_1",
-       "text": "zestawy danych Głównego Urzędu Statystycznego nr 1 (opisane w części II. Informacje o przekazywanych danych): a) SOF-1 – sprawozdanie z działalności fundacji, stowarzyszeń i podobnych organizacji społecznych (lp. 1.152), b) SOF-4s – sprawozdanie z działalności samorządu gospodarczego i kółek rolniczych (lp. 1.157);",
-       "children": []
+       "text": "zestawy danych Głównego Urzędu Statystycznego nr 1 (opisane w części II. Informacje o przekazywanych danych): a) SOF-1 – sprawozdanie z działalności fundacji, stowarzyszeń i podobnych organizacji społecznych (lp. 1.152),",
+       "children": [
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_8/pkt_1/lit_b",
+         "text": "SOF-4s – sprawozdanie z działalności samorządu gospodarczego i kółek rolniczych (lp. 1.157);",
+         "children": []
+        }
+       ]
       },
       {
        "type": "pkt",
@@ -12971,7 +13184,14 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_9/pkt_2",
-       "text": "dziedziny działalności statutowej organizacji sektora non profit, w przekrojach: NUTS 1, NUTS 2, rodzaj organizacji; 3) członkostwo, praca społeczna oraz inne formy pracy w organizacjach sektora non profit, w przekrojach: NUTS 1, NUTS 2, płeć, rodzaj organizacji;",
+       "text": "dziedziny działalności statutowej organizacji sektora non profit, w przekrojach: NUTS 1, NUTS 2, rodzaj organizacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_9/pkt_3",
+       "text": "członkostwo, praca społeczna oraz inne formy pracy w organizacjach sektora non profit, w przekrojach: NUTS 1, NUTS 2, płeć, rodzaj organizacji;",
        "children": []
       },
       {
@@ -13484,7 +13704,14 @@
        "type": "pkt",
        "num": "45",
        "path": "ust_7/pkt_45",
-       "text": "uczniowie spełniający obowiązek szkolny, obowiązek nauki lub roczne obowiązkowe przygotowanie przedszkolne; 46) w badaniach MSWiA: dane o lekarzach w podmiotach leczniczych podległych MSWiA;",
+       "text": "uczniowie spełniający obowiązek szkolny, obowiązek nauki lub roczne obowiązkowe przygotowanie przedszkolne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "46",
+       "path": "ust_7/pkt_46",
+       "text": "w badaniach MSWiA: dane o lekarzach w podmiotach leczniczych podległych MSWiA;",
        "children": []
       },
       {
@@ -13498,7 +13725,14 @@
        "type": "pkt",
        "num": "48",
        "path": "ust_7/pkt_48",
-       "text": "w badaniach MZ: liczba stwierdzonych nowych przypadków zachorowań, w tym dla niektórych chorób zakaźnych; 49) nadane stopnie naukowe i stopnie w zakresie sztuki: doktora, doktora habilitowanego;",
+       "text": "w badaniach MZ: liczba stwierdzonych nowych przypadków zachorowań, w tym dla niektórych chorób zakaźnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "49",
+       "path": "ust_7/pkt_49",
+       "text": "nadane stopnie naukowe i stopnie w zakresie sztuki: doktora, doktora habilitowanego;",
        "children": []
       },
       {
@@ -13533,7 +13767,14 @@
        "type": "pkt",
        "num": "54",
        "path": "ust_7/pkt_54",
-       "text": "zdawalność egzaminu maturalnego oraz egzaminów zawodowych i potwierdzających kwalifikacje w zawodzie; 55) wskaźniki dotyczące nasycenia usługami dostępu do Internetu szerokopasmowego oraz nasycenia infrastrukturą telekomunikacyjną;",
+       "text": "zdawalność egzaminu maturalnego oraz egzaminów zawodowych i potwierdzających kwalifikacje w zawodzie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "55",
+       "path": "ust_7/pkt_55",
+       "text": "wskaźniki dotyczące nasycenia usługami dostępu do Internetu szerokopasmowego oraz nasycenia infrastrukturą telekomunikacyjną;",
        "children": []
       },
       {
@@ -14120,7 +14361,14 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_9/pkt_4",
-       "text": "formy działalności statutowej partii politycznych, w przekrojach: rodzaj działalności statutowej, udział we władzach; 5) członkostwo w partiach politycznych, zatrudnienie na podstawie stosunku pracy, inne formy pracy płatnej, praca społeczna, w przekrojach: płeć, udział we władzach;",
+       "text": "formy działalności statutowej partii politycznych, w przekrojach: rodzaj działalności statutowej, udział we władzach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_9/pkt_5",
+       "text": "członkostwo w partiach politycznych, zatrudnienie na podstawie stosunku pracy, inne formy pracy płatnej, praca społeczna, w przekrojach: płeć, udział we władzach;",
        "children": []
       },
       {
@@ -14404,7 +14652,21 @@
          "type": "lit",
          "num": "a",
          "path": "ust_8/pkt_3/lit_a",
-         "text": "dane dotyczące jednostek organizacyjnych, którym nadano status zakładu aktywności zawodowej(lp.162.1), b) dane dotyczące jednostek organizacyjnych, którym nadano status centrum integracji społecznej(lp.162.2), c) dane dotyczące klubów integracji społecznej(lp.162.3),",
+         "text": "dane dotyczące jednostek organizacyjnych, którym nadano status zakładu aktywności zawodowej(lp.162.1),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_8/pkt_3/lit_b",
+         "text": "dane dotyczące jednostek organizacyjnych, którym nadano status centrum integracji społecznej(lp.162.2),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_8/pkt_3/lit_c",
+         "text": "dane dotyczące klubów integracji społecznej(lp.162.3),",
          "children": []
         },
         {
@@ -14482,7 +14744,14 @@
        "type": "pkt",
        "num": "8",
        "path": "ust_9/pkt_8",
-       "text": "zatrudnieni w zakładach aktywności zawodowej, w przekrojach: kraj, NUTS 1, NUTS 2, stopień niepełnosprawności; 9) uczestnicy zajęć w warsztatach terapii zajęciowej, w przekrojach: kraj, NUTS 1, NUTS 2, płeć;",
+       "text": "zatrudnieni w zakładach aktywności zawodowej, w przekrojach: kraj, NUTS 1, NUTS 2, stopień niepełnosprawności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_9/pkt_9",
+       "text": "uczestnicy zajęć w warsztatach terapii zajęciowej, w przekrojach: kraj, NUTS 1, NUTS 2, płeć;",
        "children": []
       },
       {
@@ -14496,7 +14765,14 @@
        "type": "pkt",
        "num": "11",
        "path": "ust_9/pkt_11",
-       "text": "koszty działalności warsztatów terapii zajęciowej, w przekrojach: kraj, NUTS 1, NUTS 2, źródła finansowania; 12) koszty działalności zakładów aktywności zawodowej, w przekrojach: kraj, NUTS 1, NUTS 2, źródła finansowania.",
+       "text": "koszty działalności warsztatów terapii zajęciowej, w przekrojach: kraj, NUTS 1, NUTS 2, źródła finansowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_9/pkt_12",
+       "text": "koszty działalności zakładów aktywności zawodowej, w przekrojach: kraj, NUTS 1, NUTS 2, źródła finansowania.",
        "children": []
       }
      ]
@@ -14702,7 +14978,14 @@
          "type": "lit",
          "num": "b",
          "path": "ust_8/pkt_1/lit_b",
-         "text": "SOF-2F – sprawozdanie o finansowych uwarunkowaniach działalności związków zawodowych (lp. 1.154), c) SOF-4p – sprawozdanie z działalności organizacji pracodawców i samorządu zawodowego (lp. 1.156),",
+         "text": "SOF-2F – sprawozdanie o finansowych uwarunkowaniach działalności związków zawodowych (lp. 1.154),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_8/pkt_1/lit_c",
+         "text": "SOF-4p – sprawozdanie z działalności organizacji pracodawców i samorządu zawodowego (lp. 1.156),",
          "children": []
         },
         {
@@ -14805,7 +15088,14 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_9/pkt_2",
-       "text": "formy działalności statutowej organizacji związkowych, w przekrojach: kraj, NUTS 1, NUTS 2, rodzaj organizacji; 3) rodzaj działalności organizacji związkowych, w przekrojach: rodzaj organizacji;",
+       "text": "formy działalności statutowej organizacji związkowych, w przekrojach: kraj, NUTS 1, NUTS 2, rodzaj organizacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_9/pkt_3",
+       "text": "rodzaj działalności organizacji związkowych, w przekrojach: rodzaj organizacji;",
        "children": []
       },
       {
@@ -14831,7 +15121,14 @@
        "type": "pkt",
        "num": "6",
        "path": "ust_9/pkt_6",
-       "text": "przychody i koszty w organizacjach pracodawców i związkach zawodowych, w przekrojach: rodzaj organizacji; 7) środki trwałe i nakłady inwestycyjne w organizacjach pracodawców i związkach zawodowych, w przekrojach: rodzaj organizacji;",
+       "text": "przychody i koszty w organizacjach pracodawców i związkach zawodowych, w przekrojach: rodzaj organizacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_9/pkt_7",
+       "text": "środki trwałe i nakłady inwestycyjne w organizacjach pracodawców i związkach zawodowych, w przekrojach: rodzaj organizacji;",
        "children": []
       },
       {
@@ -14928,7 +15225,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_5/pkt_2/lit_a",
-         "text": "ustawa z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), b) ustawa z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2025 r. poz. 733); 3) akt prawa międzynarodowego, z którego wynika obowiązek realizacji badania – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/1700 z dnia 10 października 2019 r. ustanawiające wspólne ramy statystyk europejskich dotyczących osób i gospodarstw domowych, opartych na danych na poziomie indywidualnym zbieranych metodą doboru próby, zmieniające rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 808/2004, (WE) nr 452/2008 i (WE) nr 1338/2008 oraz uchylające rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1177/2003 i rozporządzenie Rady (WE) nr 577/98 (Dz. Urz. UE L 261I z 14.10.2019, str. 1);",
+         "text": "ustawa z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_5/pkt_2/lit_b",
+         "text": "ustawa z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2025 r. poz. 733); 3) akt prawa międzynarodowego, z którego wynika obowiązek realizacji badania – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/1700 z dnia 10 października 2019 r. ustanawiające wspólne ramy statystyk europejskich dotyczących osób i gospodarstw domowych, opartych na danych na poziomie indywidualnym zbieranych metodą doboru próby, zmieniające rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 808/2004, (WE) nr 452/2008 i (WE) nr 1338/2008 oraz uchylające rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1177/2003 i rozporządzenie Rady (WE) nr 577/98 (Dz. Urz. UE L 261I z 14.10.2019, str. 1);",
          "children": []
         }
        ]
@@ -15198,7 +15502,14 @@
          "type": "lit",
          "num": "b",
          "path": "ust_8/pkt_1/lit_b",
-         "text": "BR-01a – badanie budżetów gospodarstw domowych. Karta statystyczna gospodarstwa domowego (lp. 1.17), c) BR-01b – badanie budżetów gospodarstw domowych. Informacja o udziale w badaniu (lp. 1.18),",
+         "text": "BR-01a – badanie budżetów gospodarstw domowych. Karta statystyczna gospodarstwa domowego (lp. 1.17),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_8/pkt_1/lit_c",
+         "text": "BR-01b – badanie budżetów gospodarstw domowych. Informacja o udziale w badaniu (lp. 1.18),",
          "children": []
         },
         {
@@ -15959,7 +16270,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_8/pkt_1",
-       "text": "EU-SILC-G – europejskie badanie warunków życia ludności. Kwestionariusz gospodarstwa domowego (lp. 1.44); 2) EU-SILC-I – europejskie badanie warunków życia ludności. Kwestionariusz indywidualny (lp. 1.45).",
+       "text": "EU-SILC-G – europejskie badanie warunków życia ludności. Kwestionariusz gospodarstwa domowego (lp. 1.44);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_8/pkt_2",
+       "text": "EU-SILC-I – europejskie badanie warunków życia ludności. Kwestionariusz indywidualny (lp. 1.45).",
        "children": []
       }
      ]
@@ -15986,11 +16304,33 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_10/pkt_1",
-       "text": "publikacja GUS – „Dochody i warunki życia ludności Polski – raport z badania EU–SILC 2026” (grudzień 2027); 2) informacja sygnalna – „Warunki życia – deprywacja materialna i społeczna” (marzec 2027); 3) internetowe bazy danych: a) Bank Danych Lokalnych – Ludność – Gospodarstwa domowe (styczeń 2028), b) Bazy Eurostatu i innych organizacji międzynarodowych – Baza Eurostatu – Dochody i warunki życia (marzec 2027), c) Dziedzinowa Baza Wiedzy – Społeczeństwo – Warunki życia ludności – Europejskie Badanie Dochodów i Warunków Życia Ludności (EU-SILC) – Dochody (styczeń 2028).",
+       "text": "publikacja GUS – „Dochody i warunki życia ludności Polski – raport z badania EU–SILC 2026” (grudzień 2027);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_10/pkt_2",
+       "text": "informacja sygnalna – „Warunki życia – deprywacja materialna i społeczna” (marzec 2027);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_10/pkt_3",
+       "text": "internetowe bazy danych: a) Bank Danych Lokalnych – Ludność – Gospodarstwa domowe (styczeń 2028),",
        "children": [
         {
-         "type": "text",
-         "text": "81 1.19 WARUNKI ŻYCIA LUDNOŚCI"
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_3/lit_b",
+         "text": "Bazy Eurostatu i innych organizacji międzynarodowych – Baza Eurostatu – Dochody i warunki życia (marzec 2027), c) Dziedzinowa Baza Wiedzy – Społeczeństwo – Warunki życia ludności – Europejskie Badanie Dochodów i Warunków Życia Ludności (EU-SILC) – Dochody (styczeń 2028).",
+         "children": [
+          {
+           "type": "text",
+           "text": "81 1.19 WARUNKI ŻYCIA LUDNOŚCI"
+          }
+         ]
         }
        ]
       }
@@ -16257,11 +16597,48 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_10/pkt_1",
-       "text": "publikacje GUS: a) „Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień 2027), b) „Mały Rocznik Statystyczny Polski 2027” (lipiec 2027), c) „Ubóstwo w Polsce w latach 2025 i 2026” (grudzień 2027); 2) informacja sygnalna – „Zasięg ubóstwa ekonomicznego w Polsce w 2026 r.” (czerwiec 2027); 3) internetowe bazy danych: a) Bank Danych Lokalnych – Ludność – Gospodarstwa domowe (sierpień 2027), b) Dziedzinowa Baza Wiedzy – Społeczeństwo – Warunki życia ludności – Ubóstwo (marzec 2028), c) Dziedzinowa Baza Wiedzy – Społeczeństwo – Warunki życia ludności – Ubóstwo (grudzień 2027).",
+       "text": "publikacje GUS: a) „Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień 2027),",
        "children": [
         {
-         "type": "text",
-         "text": "83 1.20 RODZINA"
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_1/lit_b",
+         "text": "„Mały Rocznik Statystyczny Polski 2027” (lipiec 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_1/lit_c",
+         "text": "„Ubóstwo w Polsce w latach 2025 i 2026” (grudzień 2027); 2) informacja sygnalna – „Zasięg ubóstwa ekonomicznego w Polsce w 2026 r.” (czerwiec 2027);",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_10/pkt_3",
+       "text": "internetowe bazy danych: a) Bank Danych Lokalnych – Ludność – Gospodarstwa domowe (sierpień 2027),",
+       "children": [
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_3/lit_b",
+         "text": "Dziedzinowa Baza Wiedzy – Społeczeństwo – Warunki życia ludności – Ubóstwo (marzec 2028),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_3/lit_c",
+         "text": "Dziedzinowa Baza Wiedzy – Społeczeństwo – Warunki życia ludności – Ubóstwo (grudzień 2027).",
+         "children": [
+          {
+           "type": "text",
+           "text": "83 1.20 RODZINA"
+          }
+         ]
         }
        ]
       }
@@ -16402,7 +16779,14 @@
          "type": "lit",
          "num": "m",
          "path": "ust_5/pkt_2/lit_m",
-         "text": "stowarzyszenia, organizacje, fundacje n) inny użytkownik;",
+         "text": "stowarzyszenia, organizacje, fundacje",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "n",
+         "path": "ust_5/pkt_2/lit_n",
+         "text": "inny użytkownik;",
          "children": []
         }
        ]
@@ -16748,7 +17132,14 @@
          "type": "lit",
          "num": "e",
          "path": "ust_5/pkt_2/lit_e",
-         "text": "ustawa z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U. z 2024 r. poz. 246), f) ustawa z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny (Dz. U. z 2024 r. poz. 1512),",
+         "text": "ustawa z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U. z 2024 r. poz. 246),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_5/pkt_2/lit_f",
+         "text": "ustawa z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny (Dz. U. z 2024 r. poz. 1512),",
          "children": []
         },
         {
@@ -17017,7 +17408,14 @@
          "type": "lit",
          "num": "g",
          "path": "ust_8/pkt_1/lit_g",
-         "text": "dane ze sprawozdań rzeczowo-finansowych z realizacji zadań z zakresu zasiłków dla opiekunów (lp. 33.21), h) dane o rodzinach, którym przyznano Kartę Dużej Rodziny (lp. 33.30);",
+         "text": "dane ze sprawozdań rzeczowo-finansowych z realizacji zadań z zakresu zasiłków dla opiekunów (lp. 33.21),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "ust_8/pkt_1/lit_h",
+         "text": "dane o rodzinach, którym przyznano Kartę Dużej Rodziny (lp. 33.30);",
          "children": []
         }
        ]
@@ -17474,7 +17872,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_8/pkt_2/lit_a",
-         "text": "dane ze sprawozdania o deinstytucjonalizacji pieczy zastępczej (DD-DEINSTYTUCJONALIZACJA) (lp. 33.4), b) dane ze sprawozdania rzeczowo-finansowego z wykonywania zadań z zakresu wspierania rodziny i systemu pieczy zastępczej (lp. 33.5);",
+         "text": "dane ze sprawozdania o deinstytucjonalizacji pieczy zastępczej (DD-DEINSTYTUCJONALIZACJA) (lp. 33.4),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_8/pkt_2/lit_b",
+         "text": "dane ze sprawozdania rzeczowo-finansowego z wykonywania zadań z zakresu wspierania rodziny i systemu pieczy zastępczej (lp. 33.5);",
          "children": []
         }
        ]
@@ -17588,7 +17993,14 @@
        "type": "pkt",
        "num": "11",
        "path": "ust_9/pkt_11",
-       "text": "wolontariusze w placówkach wsparcia dziennego, w przekrojach: kraj, województwa, NUTS 3, powiaty, gminy; 12) czas pracy placówki wsparcia dziennego, w przekrojach: kraj, województwa;",
+       "text": "wolontariusze w placówkach wsparcia dziennego, w przekrojach: kraj, województwa, NUTS 3, powiaty, gminy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_9/pkt_12",
+       "text": "czas pracy placówki wsparcia dziennego, w przekrojach: kraj, województwa;",
        "children": []
       },
       {
@@ -17708,7 +18120,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_10/pkt_3/lit_a",
-         "text": "Bank Danych Lokalnych – Ochrona zdrowia i opieka społeczna – Opieka nad dziećmi i młodzieżą (maj 2027), b) Bank Danych Lokalnych – Ochrona zdrowia i opieka społeczna – Placówki dzienne (maj 2027),",
+         "text": "Bank Danych Lokalnych – Ochrona zdrowia i opieka społeczna – Opieka nad dziećmi i młodzieżą (maj 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_3/lit_b",
+         "text": "Bank Danych Lokalnych – Ochrona zdrowia i opieka społeczna – Placówki dzienne (maj 2027),",
          "children": []
         },
         {
@@ -17779,7 +18198,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_5/pkt_1",
-       "text": "celem badania jest dostarczenie informacji o sieci i działalności instytucji opieki nad dziećmi w wieku do lat 3; 2) akt prawa krajowego, z którego wynika obowiązek realizacji badania – ustawa z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2025 r. poz. 798);",
+       "text": "celem badania jest dostarczenie informacji o sieci i działalności instytucji opieki nad dziećmi w wieku do lat 3;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "akt prawa krajowego, z którego wynika obowiązek realizacji badania – ustawa z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2025 r. poz. 798);",
        "children": []
       },
       {
@@ -17943,7 +18369,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_8/pkt_1/lit_a",
-         "text": "dane ze sprawozdań z działalności żłobków, klubów dziecięcych i dziennych opiekunów (RKZ-4G) (lp. 33.3), b) dane dotyczące żłobków, klubów dziecięcych (lp. 33.22),",
+         "text": "dane ze sprawozdań z działalności żłobków, klubów dziecięcych i dziennych opiekunów (RKZ-4G) (lp. 33.3),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_8/pkt_1/lit_b",
+         "text": "dane dotyczące żłobków, klubów dziecięcych (lp. 33.22),",
          "children": []
         },
         {
@@ -18327,7 +18760,21 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_9/pkt_1",
-       "text": "liczba wypłaconych świadczeń wychowawczych, w przekrojach: kraj, województwa, NUTS 3, powiaty, gminy; 2) kwota wypłaconych świadczeń wychowawczych, w przekrojach: kraj, województwa, NUTS 3, powiaty, gminy; 3) dzieci, na które wypłacono świadczenie wychowawcze według wnioskodawcy, w przekrojach: kraj, województwa, NUTS 3, powiaty, gminy, wiek.",
+       "text": "liczba wypłaconych świadczeń wychowawczych, w przekrojach: kraj, województwa, NUTS 3, powiaty, gminy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_9/pkt_2",
+       "text": "kwota wypłaconych świadczeń wychowawczych, w przekrojach: kraj, województwa, NUTS 3, powiaty, gminy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_9/pkt_3",
+       "text": "dzieci, na które wypłacono świadczenie wychowawcze według wnioskodawcy, w przekrojach: kraj, województwa, NUTS 3, powiaty, gminy, wiek.",
        "children": []
       }
      ]
@@ -18384,7 +18831,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_10/pkt_2/lit_a",
-         "text": "Bank Danych Lokalnych – Ochrona zdrowia i opieka społeczna – Świadczenia wychowawcze (czerwiec 2027), b) Dziedzinowa Baza Wiedzy – Społeczeństwo – Rodzina – Świadczenie wychowawcze (czerwiec 2027).",
+         "text": "Bank Danych Lokalnych – Ochrona zdrowia i opieka społeczna – Świadczenia wychowawcze (czerwiec 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_2/lit_b",
+         "text": "Dziedzinowa Baza Wiedzy – Społeczeństwo – Rodzina – Świadczenie wychowawcze (czerwiec 2027).",
          "children": [
           {
            "type": "text",
@@ -18837,7 +19291,56 @@
          "type": "lit",
          "num": "c",
          "path": "ust_10/pkt_1/lit_c",
-         "text": "„Ludność. Stan i struktura ludności oraz ruch naturalny w przekroju terytorialnym (stan w dniach 30.06 i 31.12)” (październik 2026, kwiecień 2027), d) „Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień 2027), e) „Rocznik Demograficzny 2027” (listopad 2027), f) „Mały Rocznik Statystyczny Polski 2027” (lipiec 2027), g) „Sytuacja demograficzna Polski do 2026 roku” (wrzesień 2027); 2) internetowe bazy danych: a) Bank Danych Lokalnych – Ludność – Urodzenia – dane półroczne (listopad 2026, czerwiec 2027), b) Bank Danych Lokalnych – Ludność – Urodzenia – dane roczne (czerwiec 2027), c) Demografia – Ruch naturalny ludności – Urodzenia – dane półroczne (październik 2026, kwiecień 2027), d) Demografia – Ruch naturalny ludności – Urodzenia – dane roczne (czerwiec 2027), e) Dziedzinowa Baza Wiedzy – Społeczeństwo – Demografia – Urodzenia i zgony (lipiec 2027).",
+         "text": "„Ludność. Stan i struktura ludności oraz ruch naturalny w przekroju terytorialnym (stan w dniach 30.06 i 31.12)” (październik 2026, kwiecień 2027), d) „Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_10/pkt_1/lit_e",
+         "text": "„Rocznik Demograficzny 2027” (listopad 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_10/pkt_1/lit_f",
+         "text": "„Mały Rocznik Statystyczny Polski 2027” (lipiec 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_10/pkt_1/lit_g",
+         "text": "„Sytuacja demograficzna Polski do 2026 roku” (wrzesień 2027); 2) internetowe bazy danych: a) Bank Danych Lokalnych – Ludność – Urodzenia – dane półroczne (listopad 2026, czerwiec 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_1/lit_b",
+         "text": "Bank Danych Lokalnych – Ludność – Urodzenia – dane roczne (czerwiec 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_1/lit_c",
+         "text": "Demografia – Ruch naturalny ludności – Urodzenia – dane półroczne (październik 2026, kwiecień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_1/lit_d",
+         "text": "Demografia – Ruch naturalny ludności – Urodzenia – dane roczne (czerwiec 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_10/pkt_1/lit_e",
+         "text": "Dziedzinowa Baza Wiedzy – Społeczeństwo – Demografia – Urodzenia i zgony (lipiec 2027).",
          "children": [
           {
            "type": "text",
@@ -19206,7 +19709,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_10/pkt_2/lit_a",
-         "text": "Demografia – Ruch naturalny ludności – Małżeństwa – dane półroczne (październik 2026, kwiecień 2027), b) Bank Danych Lokalnych – Ludność – Małżeństwa, rozwody i separacje – dane półroczne (listopad 2026, czerwiec 2027),",
+         "text": "Demografia – Ruch naturalny ludności – Małżeństwa – dane półroczne (październik 2026, kwiecień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_2/lit_b",
+         "text": "Bank Danych Lokalnych – Ludność – Małżeństwa, rozwody i separacje – dane półroczne (listopad 2026, czerwiec 2027),",
          "children": []
         },
         {
@@ -19513,7 +20023,14 @@
          "type": "lit",
          "num": "b",
          "path": "ust_10/pkt_2/lit_b",
-         "text": "Demografia – Migracje ludności – Migracje wewnętrzne – dane półroczne (październik 2026, kwiecień 2027), c) Bank Danych Lokalnych – Ludność – Migracje wewnętrzne i zagraniczne (lipiec 2027),",
+         "text": "Demografia – Migracje ludności – Migracje wewnętrzne – dane półroczne (październik 2026, kwiecień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_2/lit_c",
+         "text": "Bank Danych Lokalnych – Ludność – Migracje wewnętrzne i zagraniczne (lipiec 2027),",
          "children": []
         },
         {
@@ -19682,7 +20199,14 @@
          "type": "lit",
          "num": "i",
          "path": "ust_5/pkt_3/lit_i",
-         "text": "placówki naukowe/badawcze, uczelnie (nauczyciele akademiccy i studenci) j) inny użytkownik;",
+         "text": "placówki naukowe/badawcze, uczelnie (nauczyciele akademiccy i studenci)",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "ust_5/pkt_3/lit_j",
+         "text": "inny użytkownik;",
          "children": []
         }
        ]
@@ -19748,7 +20272,14 @@
        "type": "pkt",
        "num": "6",
        "path": "ust_7/pkt_6",
-       "text": "dane o osobach przybyłych z zagranicy zameldowanych w Polsce na pobyt czasowy (według stanu na koniec roku); 7) dane o stałych mieszkańcach Polski przebywających czasowo za granicą (według stanu na koniec roku);",
+       "text": "dane o osobach przybyłych z zagranicy zameldowanych w Polsce na pobyt czasowy (według stanu na koniec roku);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_7/pkt_7",
+       "text": "dane o stałych mieszkańcach Polski przebywających czasowo za granicą (według stanu na koniec roku);",
        "children": []
       },
       {
@@ -19802,7 +20333,14 @@
          "type": "lit",
          "num": "d",
          "path": "ust_8/pkt_1/lit_d",
-         "text": "dane dotyczące osób wymeldowanych w związku z wyjazdem za granicę z zamiarem stałego pobytu (lp. 23.13), e) dane o ludności (stałych mieszkańcach gminy) nieobecnej w związku z wyjazdem za granicę na pobyt czasowy (lp. 23.15),",
+         "text": "dane dotyczące osób wymeldowanych w związku z wyjazdem za granicę z zamiarem stałego pobytu (lp. 23.13),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_8/pkt_1/lit_e",
+         "text": "dane o ludności (stałych mieszkańcach gminy) nieobecnej w związku z wyjazdem za granicę na pobyt czasowy (lp. 23.15),",
          "children": []
         },
         {
@@ -20010,7 +20548,14 @@
          "type": "lit",
          "num": "g",
          "path": "ust_10/pkt_2/lit_g",
-         "text": "Dziedzinowa Baza Wiedzy – Społeczeństwo – Demografia – Migracje ludności (listopad 2026, lipiec 2027), h) Dziedzinowa Baza Wiedzy – Społeczeństwo – Demografia – Migracje ludności (lipiec 2027).",
+         "text": "Dziedzinowa Baza Wiedzy – Społeczeństwo – Demografia – Migracje ludności (listopad 2026, lipiec 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "ust_10/pkt_2/lit_h",
+         "text": "Dziedzinowa Baza Wiedzy – Społeczeństwo – Demografia – Migracje ludności (lipiec 2027).",
          "children": [
           {
            "type": "text",
@@ -20293,7 +20838,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_7/pkt_1",
-       "text": "liczba osób zameldowanych na pobyt czasowy, kierunki migracji oraz cechy demograficzno-społeczne migrantów; 2) liczba migracji wewnętrznych na pobyt stały, kierunki migracji oraz cechy społeczno-demograficzne osób migrujących;",
+       "text": "liczba osób zameldowanych na pobyt czasowy, kierunki migracji oraz cechy demograficzno-społeczne migrantów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_7/pkt_2",
+       "text": "liczba migracji wewnętrznych na pobyt stały, kierunki migracji oraz cechy społeczno-demograficzne osób migrujących;",
        "children": []
       },
       {
@@ -20476,7 +21028,28 @@
          "type": "lit",
          "num": "g",
          "path": "ust_10/pkt_1/lit_g",
-         "text": "„Sytuacja demograficzna Polski do 2026 roku” (wrzesień 2027); 2) internetowe bazy danych: a) Demografia – Stan i struktura ludności – Ludność (październik 2026, kwiecień 2027), b) Bank Danych Lokalnych – Ludność – Stan ludności – dane półroczne (listopad 2026, czerwiec 2027), c) Bank Danych Lokalnych – Ludność – Stan ludności – dane roczne (czerwiec 2027), d) Dziedzinowa Baza Wiedzy – Społeczeństwo – Demografia – Ludność i współczynniki demograficzne (październik 2026, czerwiec 2027); 3) tablica publikacyjna – „Dane o liczbie rezydentów według płci i wieku w podziale terytorialnym” (sierpień 2027).",
+         "text": "„Sytuacja demograficzna Polski do 2026 roku” (wrzesień 2027); 2) internetowe bazy danych: a) Demografia – Stan i struktura ludności – Ludność (październik 2026, kwiecień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_1/lit_b",
+         "text": "Bank Danych Lokalnych – Ludność – Stan ludności – dane półroczne (listopad 2026, czerwiec 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_1/lit_c",
+         "text": "Bank Danych Lokalnych – Ludność – Stan ludności – dane roczne (czerwiec 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_1/lit_d",
+         "text": "Dziedzinowa Baza Wiedzy – Społeczeństwo – Demografia – Ludność i współczynniki demograficzne (październik 2026, czerwiec 2027); 3) tablica publikacyjna – „Dane o liczbie rezydentów według płci i wieku w podziale terytorialnym” (sierpień 2027).",
          "children": [
           {
            "type": "text",
@@ -21014,7 +21587,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_10/pkt_4/lit_a",
-         "text": "Bank Danych Lokalnych – Ludność – Stan ludności – Oczekiwane trwanie życia w zdrowiu (grudzień 2027), b) Demografia – Ruch naturalny ludności – Zgony – dane półroczne (październik 2026, kwiecień 2027),",
+         "text": "Bank Danych Lokalnych – Ludność – Stan ludności – Oczekiwane trwanie życia w zdrowiu (grudzień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_4/lit_b",
+         "text": "Demografia – Ruch naturalny ludności – Zgony – dane półroczne (październik 2026, kwiecień 2027),",
          "children": []
         },
         {
@@ -21028,7 +21608,14 @@
          "type": "lit",
          "num": "d",
          "path": "ust_10/pkt_4/lit_d",
-         "text": "Demografia – Ruch naturalny ludności – Zgony – dane roczne (z przyczynami zgonów) (październik 2027), e) Bank Danych Lokalnych – Ludność – Zgony – dane półroczne (listopad 2026, czerwiec 2027),",
+         "text": "Demografia – Ruch naturalny ludności – Zgony – dane roczne (z przyczynami zgonów) (październik 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_10/pkt_4/lit_e",
+         "text": "Bank Danych Lokalnych – Ludność – Zgony – dane półroczne (listopad 2026, czerwiec 2027),",
          "children": []
         },
         {
@@ -21775,7 +22362,14 @@
        "type": "pkt",
        "num": "6",
        "path": "ust_7/pkt_6",
-       "text": "liczba osób zameldowanych na pobyt czasowy, kierunki migracji oraz cechy demograficzno-społeczne migrantów; 7) liczba i kierunki migracji zagranicznych na pobyt stały (imigracji i emigracji) oraz charakterystyka demograficznospołeczna migrantów;",
+       "text": "liczba osób zameldowanych na pobyt czasowy, kierunki migracji oraz cechy demograficzno-społeczne migrantów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_7/pkt_7",
+       "text": "liczba i kierunki migracji zagranicznych na pobyt stały (imigracji i emigracji) oraz charakterystyka demograficznospołeczna migrantów;",
        "children": []
       },
       {
@@ -22029,7 +22623,14 @@
          "type": "lit",
          "num": "i",
          "path": "ust_5/pkt_3/lit_i",
-         "text": "placówki naukowe/badawcze, uczelnie (nauczyciele akademiccy i studenci) j) inny użytkownik;",
+         "text": "placówki naukowe/badawcze, uczelnie (nauczyciele akademiccy i studenci)",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "ust_5/pkt_3/lit_j",
+         "text": "inny użytkownik;",
          "children": []
         }
        ]
@@ -22136,7 +22737,14 @@
          "type": "lit",
          "num": "c",
          "path": "ust_8/pkt_1/lit_c",
-         "text": "dane o stałych mieszkańcach innych krajów zameldowanych na pobyt czasowy na terytorium RP (lp. 23.16), d) dane o osobach żyjących (lp. 23.17);",
+         "text": "dane o stałych mieszkańcach innych krajów zameldowanych na pobyt czasowy na terytorium RP (lp. 23.16),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_8/pkt_1/lit_d",
+         "text": "dane o osobach żyjących (lp. 23.17);",
          "children": []
         }
        ]
@@ -23912,7 +24520,14 @@
          "type": "lit",
          "num": "n",
          "path": "ust_5/pkt_2/lit_n",
-         "text": "placówki naukowe/badawcze, uczelnie (nauczyciele akademiccy i studenci) o) inny użytkownik;",
+         "text": "placówki naukowe/badawcze, uczelnie (nauczyciele akademiccy i studenci)",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "o",
+         "path": "ust_5/pkt_2/lit_o",
+         "text": "inny użytkownik;",
          "children": []
         }
        ]
@@ -24090,7 +24705,14 @@
          "type": "lit",
          "num": "b",
          "path": "ust_8/pkt_6/lit_b",
-         "text": "dane o liczbie pomocników rolnika ubezpieczonych z tytułu świadczenia pomocy przy zbiorach (lp. 77.6), c) dane dotyczące liczby ubezpieczonych w funduszu emerytalno-rentowym, liczby świadczeniobiorców i przeciętnej wysokości świadczeń, liczby i przeciętnej wysokości nowo przyznanych emerytur, długości okresu ubezpieczenia dla świadczeń emerytalno-rentowych (lp. 77.10);",
+         "text": "dane o liczbie pomocników rolnika ubezpieczonych z tytułu świadczenia pomocy przy zbiorach (lp. 77.6),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_8/pkt_6/lit_c",
+         "text": "dane dotyczące liczby ubezpieczonych w funduszu emerytalno-rentowym, liczby świadczeniobiorców i przeciętnej wysokości świadczeń, liczby i przeciętnej wysokości nowo przyznanych emerytur, długości okresu ubezpieczenia dla świadczeń emerytalno-rentowych (lp. 77.10);",
          "children": []
         }
        ]
@@ -24803,7 +25425,14 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_9/pkt_3",
-       "text": "wpływy i wydatki oraz stan środków pieniężnych Funduszu Pracy, w przekrojach: rodzaje przychodów i wydatków; 4) wydatki Funduszu Pracy związane z efektywnością programów na rzecz promocji zatrudnienia, w przekrojach: wybrane formy aktywizacji zawodowej;",
+       "text": "wpływy i wydatki oraz stan środków pieniężnych Funduszu Pracy, w przekrojach: rodzaje przychodów i wydatków;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_9/pkt_4",
+       "text": "wydatki Funduszu Pracy związane z efektywnością programów na rzecz promocji zatrudnienia, w przekrojach: wybrane formy aktywizacji zawodowej;",
        "children": []
       },
       {
@@ -25223,11 +25852,47 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_10/pkt_1",
-       "text": "publikacje GUS: a) „Rocznik Statystyczny Przemysłu 2027” (grudzień 2027), b) „Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień 2027), c) „Rocznik Statystyczny Województw 2027” (grudzień 2027), d) „Rocznik Statystyczny Leśnictwa 2027” (listopad 2027), e) „Polska w liczbach 2027” (maj 2027), f) „Regiony Polski 2027” (sierpień 2027); 2) informacja sygnalna – „Popyt na pracę w 2026 r. (dane kwartalne)” (czerwiec 2026, wrzesień 2026, grudzień 2026, marzec 2027); 3) internetowa baza danych – Dziedzinowa Baza Wiedzy – Społeczeństwo – Rynek pracy – Ruch zatrudnionych (czerwiec 2026, wrzesień 2026, grudzień 2026, kwiecień 2027); 4) tablica publikacyjna – „Popyt na pracę” (kwiecień 2027).",
+       "text": "publikacje GUS: a) „Rocznik Statystyczny Przemysłu 2027” (grudzień 2027),",
        "children": [
         {
-         "type": "text",
-         "text": "128 1.23 RYNEK PRACY"
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_1/lit_b",
+         "text": "„Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_1/lit_c",
+         "text": "„Rocznik Statystyczny Województw 2027” (grudzień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_1/lit_d",
+         "text": "„Rocznik Statystyczny Leśnictwa 2027” (listopad 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_10/pkt_1/lit_e",
+         "text": "„Polska w liczbach 2027” (maj 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_10/pkt_1/lit_f",
+         "text": "„Regiony Polski 2027” (sierpień 2027); 2) informacja sygnalna – „Popyt na pracę w 2026 r. (dane kwartalne)” (czerwiec 2026, wrzesień 2026, grudzień 2026, marzec 2027); 3) internetowa baza danych – Dziedzinowa Baza Wiedzy – Społeczeństwo – Rynek pracy – Ruch zatrudnionych (czerwiec 2026, wrzesień 2026, grudzień 2026, kwiecień 2027); 4) tablica publikacyjna – „Popyt na pracę” (kwiecień 2027).",
+         "children": [
+          {
+           "type": "text",
+           "text": "128 1.23 RYNEK PRACY"
+          }
+         ]
         }
        ]
       }
@@ -27545,7 +28210,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_6/pkt_1",
-       "text": "osoby zatrudnione na podstawie stosunku pracy, które znajdowały się w ewidencji pracodawcy w badanym okresie; 2) podmioty gospodarki narodowej, w których liczba zatrudnionych wynosi 10 osób i więcej.",
+       "text": "osoby zatrudnione na podstawie stosunku pracy, które znajdowały się w ewidencji pracodawcy w badanym okresie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_6/pkt_2",
+       "text": "podmioty gospodarki narodowej, w których liczba zatrudnionych wynosi 10 osób i więcej.",
        "children": []
       }
      ]
@@ -28001,11 +28673,33 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_10/pkt_1",
-       "text": "publikacje GUS: a) „Mały Rocznik Statystyczny Polski 2027” (lipiec 2027), b) „Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień 2027), c) „Rocznik Statystyczny Przemysłu 2027” (grudzień 2027), d) „Rocznik Statystyczny Leśnictwa 2027” (listopad 2027); 2) informacja sygnalna – „Indeks kosztów zatrudnienia w kwartałach 2026 r.” (kwiecień 2027).",
+       "text": "publikacje GUS: a) „Mały Rocznik Statystyczny Polski 2027” (lipiec 2027),",
        "children": [
         {
-         "type": "text",
-         "text": "142 1.24 WYNAGRODZENIA, KOSZTY PRACY"
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_1/lit_b",
+         "text": "„Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_1/lit_c",
+         "text": "„Rocznik Statystyczny Przemysłu 2027” (grudzień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_1/lit_d",
+         "text": "„Rocznik Statystyczny Leśnictwa 2027” (listopad 2027); 2) informacja sygnalna – „Indeks kosztów zatrudnienia w kwartałach 2026 r.” (kwiecień 2027).",
+         "children": [
+          {
+           "type": "text",
+           "text": "142 1.24 WYNAGRODZENIA, KOSZTY PRACY"
+          }
+         ]
         }
        ]
       }
@@ -28731,7 +29425,14 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_9/pkt_2",
-       "text": "osoby korzystające ze świadczeń pomocy społecznej, w przekrojach: kraj, NUTS 1, województwa, typ świadczenia; 3) osoby, którym przyznano świadczenia pomocy społecznej ze względu na powód, w przekrojach: kraj, NUTS 1, województwa, NUTS 2, NUTS 3, powiaty;",
+       "text": "osoby korzystające ze świadczeń pomocy społecznej, w przekrojach: kraj, NUTS 1, województwa, typ świadczenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_9/pkt_3",
+       "text": "osoby, którym przyznano świadczenia pomocy społecznej ze względu na powód, w przekrojach: kraj, NUTS 1, województwa, NUTS 2, NUTS 3, powiaty;",
        "children": []
       },
       {
@@ -28813,7 +29514,14 @@
        "type": "pkt",
        "num": "14",
        "path": "ust_9/pkt_14",
-       "text": "miejsca w dziennych domach pomocy, w przekrojach: kraj, NUTS 1, województwa, NUTS 2,NUTS 3, powiaty; 15) środowiskowe domy samopomocy, w przekrojach: kraj, NUTS 1, województwa, NUTS 2, NUTS 3, powiaty;",
+       "text": "miejsca w dziennych domach pomocy, w przekrojach: kraj, NUTS 1, województwa, NUTS 2,NUTS 3, powiaty;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "ust_9/pkt_15",
+       "text": "środowiskowe domy samopomocy, w przekrojach: kraj, NUTS 1, województwa, NUTS 2, NUTS 3, powiaty;",
        "children": []
       },
       {
@@ -29983,7 +30691,14 @@
          "type": "lit",
          "num": "f",
          "path": "ust_5/pkt_2/lit_f",
-         "text": "ustawa z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r. poz. 197, z późn. zm.), g) ustawa z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501, z późn. zm.);",
+         "text": "ustawa z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r. poz. 197, z późn. zm.),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_5/pkt_2/lit_g",
+         "text": "ustawa z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501, z późn. zm.);",
          "children": []
         }
        ]
@@ -30718,14 +31433,28 @@
          "type": "lit",
          "num": "a",
          "path": "ust_10/pkt_3/lit_a",
-         "text": "Bank Danych Lokalnych –Gospodarka mieszkaniowa i komunalna –Zasoby mieszkaniowe (listopad2027), b) Bank Danych Lokalnych – Gospodarka mieszkaniowa i komunalna – Ubytki w zasobach mieszkaniowych (listopad2027),",
+         "text": "Bank Danych Lokalnych –Gospodarka mieszkaniowa i komunalna –Zasoby mieszkaniowe (listopad2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_3/lit_b",
+         "text": "Bank Danych Lokalnych – Gospodarka mieszkaniowa i komunalna – Ubytki w zasobach mieszkaniowych (listopad2027),",
          "children": []
         },
         {
          "type": "lit",
          "num": "c",
          "path": "ust_10/pkt_3/lit_c",
-         "text": "Bank Danych Lokalnych–Gospodarka mieszkaniowa i komunalna –Dodatki mieszkaniowe (listopad2027), d) Dziedzinowa Baza Wiedzy – Społeczeństwo – Gospodarka mieszkaniowa i infrastruktura komunalna – Mieszkania (listopad2027),",
+         "text": "Bank Danych Lokalnych–Gospodarka mieszkaniowa i komunalna –Dodatki mieszkaniowe (listopad2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_3/lit_d",
+         "text": "Dziedzinowa Baza Wiedzy – Społeczeństwo – Gospodarka mieszkaniowa i infrastruktura komunalna – Mieszkania (listopad2027),",
          "children": []
         },
         {
@@ -31081,7 +31810,14 @@
        "type": "pkt",
        "num": "7",
        "path": "ust_9/pkt_7",
-       "text": "ludność korzystająca z wodociągów, kanalizacji, w przekrojach: kraj, NUTS 1, NUTS 2, NUTS 3, powiaty, gminy; 8) sieć kanalizacyjna, przyłącza, awarie, ilość ścieków bytowych odprowadzonych siecią, ścieki nieoczyszczane, w przekrojach: kraj, NUTS 1, NUTS 2, NUTS 3, powiaty, gminy;",
+       "text": "ludność korzystająca z wodociągów, kanalizacji, w przekrojach: kraj, NUTS 1, NUTS 2, NUTS 3, powiaty, gminy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_9/pkt_8",
+       "text": "sieć kanalizacyjna, przyłącza, awarie, ilość ścieków bytowych odprowadzonych siecią, ścieki nieoczyszczane, w przekrojach: kraj, NUTS 1, NUTS 2, NUTS 3, powiaty, gminy;",
        "children": []
       },
       {
@@ -31358,7 +32094,14 @@
          "type": "lit",
          "num": "b",
          "path": "ust_8/pkt_1/lit_b",
-         "text": "BR-01a – badanie budżetów gospodarstw domowych. Karta statystyczna gospodarstwa domowego (lp. 1.17), c) BR-01b – badanie budżetów gospodarstw domowych. Informacja o udziale w badaniu (lp. 1.18),",
+         "text": "BR-01a – badanie budżetów gospodarstw domowych. Karta statystyczna gospodarstwa domowego (lp. 1.17),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_8/pkt_1/lit_c",
+         "text": "BR-01b – badanie budżetów gospodarstw domowych. Informacja o udziale w badaniu (lp. 1.18),",
          "children": []
         },
         {
@@ -31986,7 +32729,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_8/pkt_1/lit_a",
-         "text": "dane dotyczące młodzieżowych ośrodków wychowawczych i młodzieżowych ośrodków socjoterapii (lp. 24.1), b) dane dotyczące uczniów i nauczycieli (lp. 24.2),",
+         "text": "dane dotyczące młodzieżowych ośrodków wychowawczych i młodzieżowych ośrodków socjoterapii (lp. 24.1),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_8/pkt_1/lit_b",
+         "text": "dane dotyczące uczniów i nauczycieli (lp. 24.2),",
          "children": []
         },
         {
@@ -33036,7 +33786,14 @@
        "type": "pkt",
        "num": "5",
        "path": "ust_9/pkt_5",
-       "text": "mobilność absolwentów, w przekrojach: kraj, płeć, poziom ISCED, studia odbywające się za granicą, cel wyjazdu; 6) mobilność edukacyjna, w przekrojach: kraj, wiek, płeć, poziom studiów;",
+       "text": "mobilność absolwentów, w przekrojach: kraj, płeć, poziom ISCED, studia odbywające się za granicą, cel wyjazdu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_9/pkt_6",
+       "text": "mobilność edukacyjna, w przekrojach: kraj, wiek, płeć, poziom studiów;",
        "children": []
       },
       {
@@ -33224,7 +33981,14 @@
          "type": "lit",
          "num": "c",
          "path": "ust_10/pkt_3/lit_c",
-         "text": "Bank Danych Lokalnych – Szkolnictwo wyższe (październik 2027), d) Dziedzinowa Baza Wiedzy – Społeczeństwo – Edukacja – Szkolnictwo wyższe (grudzień 2027).",
+         "text": "Bank Danych Lokalnych – Szkolnictwo wyższe (październik 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_3/lit_d",
+         "text": "Dziedzinowa Baza Wiedzy – Społeczeństwo – Edukacja – Szkolnictwo wyższe (grudzień 2027).",
          "children": [
           {
            "type": "text",
@@ -33274,54 +34038,61 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_5/pkt_1",
-       "text": "celem badania jest dostarczenie informacji o kierunkach i natężeniu dojazdów uczniów do szkół w skali całego kraju; 2) użytkownicy, których potrzeby uwzględnia badanie:",
+       "text": "celem badania jest dostarczenie informacji o kierunkach i natężeniu dojazdów uczniów do szkół w skali całego kraju;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "użytkownicy, których potrzeby uwzględnia badanie:",
        "children": [
         {
          "type": "lit",
          "num": "a",
-         "path": "ust_5/pkt_1/lit_a",
+         "path": "ust_5/pkt_2/lit_a",
          "text": "administracja samorządowa – gmina, miasto,",
          "children": []
         },
         {
          "type": "lit",
          "num": "b",
-         "path": "ust_5/pkt_1/lit_b",
+         "path": "ust_5/pkt_2/lit_b",
          "text": "administracja samorządowa – powiat,",
          "children": []
         },
         {
          "type": "lit",
          "num": "c",
-         "path": "ust_5/pkt_1/lit_c",
+         "path": "ust_5/pkt_2/lit_c",
          "text": "administracja samorządowa – województwo,",
          "children": []
         },
         {
          "type": "lit",
          "num": "d",
-         "path": "ust_5/pkt_1/lit_d",
+         "path": "ust_5/pkt_2/lit_d",
          "text": "szkoły (nauczyciele i uczniowie),",
          "children": []
         },
         {
          "type": "lit",
          "num": "e",
-         "path": "ust_5/pkt_1/lit_e",
+         "path": "ust_5/pkt_2/lit_e",
          "text": "administracja rządowa,",
          "children": []
         },
         {
          "type": "lit",
          "num": "f",
-         "path": "ust_5/pkt_1/lit_f",
+         "path": "ust_5/pkt_2/lit_f",
          "text": "szkoły prowadzące kształcenie zawodowe,",
          "children": []
         },
         {
          "type": "lit",
          "num": "g",
-         "path": "ust_5/pkt_1/lit_g",
+         "path": "ust_5/pkt_2/lit_g",
          "text": "placówki naukowe/badawcze, uczelnie (nauczyciele akademiccy i studenci);",
          "children": []
         }
@@ -33437,7 +34208,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_8/pkt_1/lit_a",
-         "text": "dane dotyczące młodzieżowych ośrodków wychowawczych i młodzieżowych ośrodków socjoterapii (lp. 24.1), b) dane dotyczące uczniów i nauczycieli (lp. 24.2),",
+         "text": "dane dotyczące młodzieżowych ośrodków wychowawczych i młodzieżowych ośrodków socjoterapii (lp. 24.1),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_8/pkt_1/lit_b",
+         "text": "dane dotyczące uczniów i nauczycieli (lp. 24.2),",
          "children": []
         },
         {
@@ -34687,11 +35465,33 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_10/pkt_2",
-       "text": "internetowe bazy danych: a) Dziedzinowa Baza Wiedzy –Społeczeństwo –Kultura –Radiofonia i telewizja (wrzesień2027), b) Dziedzinowa Baza Wiedzy –Społeczeństwo –Kultura –Działalność wydawnicza (wrzesień2027), c) Bank Danych Lokalnych –Transport i łączność –Łączność (lipiec2027), d) Bank Danych Lokalnych –Kultura –Wydawnictwa (lipiec2027).",
+       "text": "internetowe bazy danych: a) Dziedzinowa Baza Wiedzy –Społeczeństwo –Kultura –Radiofonia i telewizja (wrzesień2027),",
        "children": [
         {
-         "type": "text",
-         "text": "176 1.28 KULTURA"
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_2/lit_b",
+         "text": "Dziedzinowa Baza Wiedzy –Społeczeństwo –Kultura –Działalność wydawnicza (wrzesień2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_2/lit_c",
+         "text": "Bank Danych Lokalnych –Transport i łączność –Łączność (lipiec2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_2/lit_d",
+         "text": "Bank Danych Lokalnych –Kultura –Wydawnictwa (lipiec2027).",
+         "children": [
+          {
+           "type": "text",
+           "text": "176 1.28 KULTURA"
+          }
+         ]
         }
        ]
       }
@@ -36469,7 +37269,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_7/pkt_1",
-       "text": "w badaniach MZ: liczba stwierdzonych nowych przypadków zachorowań, w tym dla niektórych chorób zakaźnych; 2) zachorowalność na wybrane choroby, przyczyny hospitalizacji, oczekiwana długość życia w zdrowiu;",
+       "text": "w badaniach MZ: liczba stwierdzonych nowych przypadków zachorowań, w tym dla niektórych chorób zakaźnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_7/pkt_2",
+       "text": "zachorowalność na wybrane choroby, przyczyny hospitalizacji, oczekiwana długość życia w zdrowiu;",
        "children": []
       },
       {
@@ -36885,7 +37692,14 @@
          "type": "lit",
          "num": "d",
          "path": "ust_8/pkt_1/lit_d",
-         "text": "MSWiA-36a – sprawozdanie z działalności zespołu/oddziału leczenia środowiskowego/domowego (lp. 11.8), e) MSWiA-39 – sprawozdanie o leczonych w poradni gruźlicy i chorób płuc (lp. 11.10);",
+         "text": "MSWiA-36a – sprawozdanie z działalności zespołu/oddziału leczenia środowiskowego/domowego (lp. 11.8),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_8/pkt_1/lit_e",
+         "text": "MSWiA-39 – sprawozdanie o leczonych w poradni gruźlicy i chorób płuc (lp. 11.10);",
          "children": []
         }
        ]
@@ -38260,7 +39074,14 @@
          "type": "lit",
          "num": "c",
          "path": "ust_10/pkt_4/lit_c",
-         "text": "Bank Danych Lokalnych – Ochrona zdrowia i opieka społeczna – Opieka nad dziećmi i młodzieżą (maj 2027), d) Bank Danych Lokalnych – Ochrona zdrowia i opieka społeczna i świadczenia na rzecz rodziny – Świadczenia na rzecz rodziny (wrzesień 2027),",
+         "text": "Bank Danych Lokalnych – Ochrona zdrowia i opieka społeczna – Opieka nad dziećmi i młodzieżą (maj 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_4/lit_d",
+         "text": "Bank Danych Lokalnych – Ochrona zdrowia i opieka społeczna i świadczenia na rzecz rodziny – Świadczenia na rzecz rodziny (wrzesień 2027),",
          "children": []
         },
         {
@@ -38633,7 +39454,14 @@
          "type": "lit",
          "num": "f",
          "path": "ust_8/pkt_2/lit_f",
-         "text": "MSWiA-44 – sprawozdanie z działalności Centrum Krwiodawstwa i Krwiolecznictwa MSWiA (lp. 11.14), g) MSWiA-45 – sprawozdanie z lecznictwa uzdrowiskowego, stacjonarnych zakładów rehabilitacji leczniczej (lp. 11.15),",
+         "text": "MSWiA-44 – sprawozdanie z działalności Centrum Krwiodawstwa i Krwiolecznictwa MSWiA (lp. 11.14),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_8/pkt_2/lit_g",
+         "text": "MSWiA-45 – sprawozdanie z lecznictwa uzdrowiskowego, stacjonarnych zakładów rehabilitacji leczniczej (lp. 11.15),",
          "children": []
         },
         {
@@ -38861,7 +39689,14 @@
        "type": "pkt",
        "num": "12",
        "path": "ust_9/pkt_12",
-       "text": "stanowiska dializacyjne i wykonane dializy w szpitalach ogólnych, w przekrojach: kraj, NUTS 1, województwa; 13) działalność oddziałów ginekologiczno-położniczych w szpitalach ogólnych: liczba stanowisk porodowych, w tym do porodów rodzinnych, przyjętych porodów (fizjologicznych, cięć cesarskich, innych), noworodków żywo i martwo urodzonych według masy urodzeniowej, w przekrojach: kraj, NUTS 1, województwa;",
+       "text": "stanowiska dializacyjne i wykonane dializy w szpitalach ogólnych, w przekrojach: kraj, NUTS 1, województwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "ust_9/pkt_13",
+       "text": "działalność oddziałów ginekologiczno-położniczych w szpitalach ogólnych: liczba stanowisk porodowych, w tym do porodów rodzinnych, przyjętych porodów (fizjologicznych, cięć cesarskich, innych), noworodków żywo i martwo urodzonych według masy urodzeniowej, w przekrojach: kraj, NUTS 1, województwa;",
        "children": []
       },
       {
@@ -39845,7 +40680,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_8/pkt_1",
-       "text": "DS-50G – ochrona zdrowia w gospodarstwach domowych, kwestionariusz gospodarstwa domowego (lp. 1.42); 2) DS-50I – ochrona zdrowia w gospodarstwach domowych, kwestionariusz indywidualny (lp. 1.43).",
+       "text": "DS-50G – ochrona zdrowia w gospodarstwach domowych, kwestionariusz gospodarstwa domowego (lp. 1.42);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_8/pkt_2",
+       "text": "DS-50I – ochrona zdrowia w gospodarstwach domowych, kwestionariusz indywidualny (lp. 1.43).",
        "children": []
       }
      ]
@@ -40030,7 +40872,14 @@
        "type": "pkt",
        "num": "7",
        "path": "ust_7/pkt_7",
-       "text": "nadzór w zakresie higieny żywności, żywienia oraz materiałów i wyrobów przeznaczonych do kontaktu z żywnością; 8) nadzór w zakresie produktów biobójczych, kosmetycznych, substancji chemicznych i ich mieszanin, detergentów oraz prekursorów narkotyków kat. 2 i 3.",
+       "text": "nadzór w zakresie higieny żywności, żywienia oraz materiałów i wyrobów przeznaczonych do kontaktu z żywnością;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_7/pkt_8",
+       "text": "nadzór w zakresie produktów biobójczych, kosmetycznych, substancji chemicznych i ich mieszanin, detergentów oraz prekursorów narkotyków kat. 2 i 3.",
        "children": []
       }
      ]
@@ -40998,47 +41847,54 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_5/pkt_1",
-       "text": "celem badania jest dostarczenie informacji o sytuacji społeczno-demograficznej osób niepełnosprawnych prawnie; 2) użytkownicy, których potrzeby uwzględnia badanie:",
+       "text": "celem badania jest dostarczenie informacji o sytuacji społeczno-demograficznej osób niepełnosprawnych prawnie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "użytkownicy, których potrzeby uwzględnia badanie:",
        "children": [
         {
          "type": "lit",
          "num": "a",
-         "path": "ust_5/pkt_1/lit_a",
+         "path": "ust_5/pkt_2/lit_a",
          "text": "administracja rządowa,",
          "children": []
         },
         {
          "type": "lit",
          "num": "b",
-         "path": "ust_5/pkt_1/lit_b",
+         "path": "ust_5/pkt_2/lit_b",
          "text": "administracja samorządowa – województwo,",
          "children": []
         },
         {
          "type": "lit",
          "num": "c",
-         "path": "ust_5/pkt_1/lit_c",
+         "path": "ust_5/pkt_2/lit_c",
          "text": "placówki naukowe/badawcze, uczelnie (nauczyciele akademiccy i studenci),",
          "children": []
         },
         {
          "type": "lit",
          "num": "d",
-         "path": "ust_5/pkt_1/lit_d",
+         "path": "ust_5/pkt_2/lit_d",
          "text": "stowarzyszenia, organizacje, fundacje,",
          "children": []
         },
         {
          "type": "lit",
          "num": "e",
-         "path": "ust_5/pkt_1/lit_e",
+         "path": "ust_5/pkt_2/lit_e",
          "text": "media ogólnopolskie i terenowe,",
          "children": []
         },
         {
          "type": "lit",
          "num": "f",
-         "path": "ust_5/pkt_1/lit_f",
+         "path": "ust_5/pkt_2/lit_f",
          "text": "odbiorcy indywidualni;",
          "children": []
         }
@@ -41646,7 +42502,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_9/pkt_1",
-       "text": "organizacje kultury fizycznej, członkowie, ćwiczący, imprezy i ich uczestnicy, w przekrojach: kraj, województwa; 2) zawodnicy, sędziowie, trenerzy, instruktorzy sportowi polskich związków sportowych, w przekrojach: województwa, polskie związki sportowe, sporty, płeć;",
+       "text": "organizacje kultury fizycznej, członkowie, ćwiczący, imprezy i ich uczestnicy, w przekrojach: kraj, województwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_9/pkt_2",
+       "text": "zawodnicy, sędziowie, trenerzy, instruktorzy sportowi polskich związków sportowych, w przekrojach: województwa, polskie związki sportowe, sporty, płeć;",
        "children": []
       },
       {
@@ -41766,7 +42629,14 @@
          "type": "lit",
          "num": "c",
          "path": "ust_10/pkt_3/lit_c",
-         "text": "Bank Danych Lokalnych – Kultura fizyczna, sport i rekreacja – Sport – Obiekty sportowe (wrzesień 2027), d) Bank Danych Lokalnych – Sport – Ćwiczący w sekcjach według sportów – Kultura fizyczna, sport i rekreacja (lipiec 2027),",
+         "text": "Bank Danych Lokalnych – Kultura fizyczna, sport i rekreacja – Sport – Obiekty sportowe (wrzesień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_3/lit_d",
+         "text": "Bank Danych Lokalnych – Sport – Ćwiczący w sekcjach według sportów – Kultura fizyczna, sport i rekreacja (lipiec 2027),",
          "children": []
         },
         {
@@ -43487,7 +44357,14 @@
          "type": "lit",
          "num": "b",
          "path": "ust_8/pkt_2/lit_b",
-         "text": "1.30.17 Podróże nierezydentów do Polski. Ruch pojazdów i osób na granicy Polski z krajami Unii Europejskiej, c) 1.80.02 System Jednostek do Badań Społecznych – operaty.",
+         "text": "1.30.17 Podróże nierezydentów do Polski. Ruch pojazdów i osób na granicy Polski z krajami Unii Europejskiej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_8/pkt_2/lit_c",
+         "text": "1.80.02 System Jednostek do Badań Społecznych – operaty.",
          "children": []
         }
        ]
@@ -43716,7 +44593,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_6/pkt_1",
-       "text": "podmioty gospodarki narodowej, które w ramach swojej działalności wytwarzają produkty sportowe (dobra i usługi); 2) podmioty realizujące obroty z krajami spoza UE oraz podmioty objęte programem statystycznym realizujące obroty z krajami UE;",
+       "text": "podmioty gospodarki narodowej, które w ramach swojej działalności wytwarzają produkty sportowe (dobra i usługi);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_6/pkt_2",
+       "text": "podmioty realizujące obroty z krajami spoza UE oraz podmioty objęte programem statystycznym realizujące obroty z krajami UE;",
        "children": []
       },
       {
@@ -44466,7 +45350,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_10/pkt_3/lit_a",
-         "text": "Bank Danych Lokalnych – Ceny – Przeciętne ceny gruntów ornych (za 1 ha) w obrocie prywatnym (luty 2027), b) Bank Danych Lokalnych – Ceny – Cena zakupu/sprzedaży użytków rolnych za 1 ha w obrocie prywatnym (luty 2027),",
+         "text": "Bank Danych Lokalnych – Ceny – Przeciętne ceny gruntów ornych (za 1 ha) w obrocie prywatnym (luty 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_3/lit_b",
+         "text": "Bank Danych Lokalnych – Ceny – Cena zakupu/sprzedaży użytków rolnych za 1 ha w obrocie prywatnym (luty 2027),",
          "children": []
         },
         {
@@ -44501,7 +45392,14 @@
          "type": "lit",
          "num": "g",
          "path": "ust_10/pkt_3/lit_g",
-         "text": "Bank Danych Lokalnych – Rynek nieruchomości – Rynkowa sprzedaż lokali mieszkalnych (grudzień 2027), h) Dziedzinowa Baza Wiedzy – Gospodarka – Ceny – Ceny nieruchomości (lipiec 2026, październik 2026, styczeń 2027, kwiecień 2027),",
+         "text": "Bank Danych Lokalnych – Rynek nieruchomości – Rynkowa sprzedaż lokali mieszkalnych (grudzień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "ust_10/pkt_3/lit_h",
+         "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Ceny – Ceny nieruchomości (lipiec 2026, październik 2026, styczeń 2027, kwiecień 2027),",
          "children": []
         },
         {
@@ -46719,7 +47617,57 @@
          "type": "lit",
          "num": "a",
          "path": "ust_10/pkt_1/lit_a",
-         "text": "„Rocznik Statystyczny Przemysłu 2027” (grudzień 2027), b) „Nauka i technika w 2026 r.” (marzec 2028), c) „Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień 2027), d) „Działalność badawcza i rozwojowa w Polsce w 2026 r.” (grudzień 2027), e) „Rocznik Statystyczny Województw 2027” (grudzień 2027); 2) informacja sygnalna – „Działalność badawcza i rozwojowa w Polsce w 2026 r.” (październik 2027); 3) internetowe bazy danych: a) Strateg – System Monitorowania Rozwoju – Badania i innowacje (grudzień 2027), b) Bazy Eurostatu i innych organizacji międzynarodowych – Baza OECD – Nauka, technologia i patenty (październik 2028), c) Bank Danych Lokalnych – Nauka i technika – Działalność badawcza i rozwojowa (grudzień 2027), d) Dziedzinowa Baza Wiedzy – Gospodarka – Nauka i technika – Działalność badawcza i rozwojowa (B+R) – Nakłady na działalność B+R (grudzień 2027), e) Bazy Eurostatu i innych organizacji międzynarodowych – Baza Eurostatu – Badania i rozwój (grudzień 2027).",
+         "text": "„Rocznik Statystyczny Przemysłu 2027” (grudzień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_1/lit_b",
+         "text": "„Nauka i technika w 2026 r.” (marzec 2028),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_1/lit_c",
+         "text": "„Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_1/lit_d",
+         "text": "„Działalność badawcza i rozwojowa w Polsce w 2026 r.” (grudzień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_10/pkt_1/lit_e",
+         "text": "„Rocznik Statystyczny Województw 2027” (grudzień 2027); 2) informacja sygnalna – „Działalność badawcza i rozwojowa w Polsce w 2026 r.” (październik 2027);",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_10/pkt_3",
+       "text": "internetowe bazy danych: a) Strateg – System Monitorowania Rozwoju – Badania i innowacje (grudzień 2027),",
+       "children": [
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_3/lit_b",
+         "text": "Bazy Eurostatu i innych organizacji międzynarodowych – Baza OECD – Nauka, technologia i patenty (październik 2028), c) Bank Danych Lokalnych – Nauka i technika – Działalność badawcza i rozwojowa (grudzień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_3/lit_d",
+         "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Nauka i technika – Działalność badawcza i rozwojowa (B+R) – Nakłady na działalność B+R (grudzień 2027), e) Bazy Eurostatu i innych organizacji międzynarodowych – Baza Eurostatu – Badania i rozwój (grudzień 2027).",
          "children": [
           {
            "type": "text",
@@ -47113,54 +48061,61 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_10/pkt_2",
-       "text": "informacja sygnalna – „Działalność innowacyjna przedsiębiorstw w Polsce w latach 2024–2026” (październik 2027); 3) internetowe bazy danych:",
+       "text": "informacja sygnalna – „Działalność innowacyjna przedsiębiorstw w Polsce w latach 2024–2026” (październik 2027);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_10/pkt_3",
+       "text": "internetowe bazy danych:",
        "children": [
         {
          "type": "lit",
          "num": "a",
-         "path": "ust_10/pkt_2/lit_a",
+         "path": "ust_10/pkt_3/lit_a",
          "text": "Strateg – System Monitorowania Rozwoju – Badania i innowacje (grudzień 2027),",
          "children": []
         },
         {
          "type": "lit",
          "num": "b",
-         "path": "ust_10/pkt_2/lit_b",
+         "path": "ust_10/pkt_3/lit_b",
          "text": "Bank Danych Lokalnych – Nauka i Technika – Działalność innowacyjna (listopad 2027),",
          "children": []
         },
         {
          "type": "lit",
          "num": "c",
-         "path": "ust_10/pkt_2/lit_c",
+         "path": "ust_10/pkt_3/lit_c",
          "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Nauka i technika – Działalność innowacyjna – Innowacje w przedsiębiorstwach (grudzień 2027),",
          "children": []
         },
         {
          "type": "lit",
          "num": "d",
-         "path": "ust_10/pkt_2/lit_d",
+         "path": "ust_10/pkt_3/lit_d",
          "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Nauka i technika – Działalność innowacyjna – Ekonomiczne aspekty działalności innowacyjnej (grudzień 2027),",
          "children": []
         },
         {
          "type": "lit",
          "num": "e",
-         "path": "ust_10/pkt_2/lit_e",
+         "path": "ust_10/pkt_3/lit_e",
          "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Nauka i technika – Działalność innowacyjna – Ekonomiczne aspekty działalności innowacyjnej (grudzień 2027),",
          "children": []
         },
         {
          "type": "lit",
          "num": "f",
-         "path": "ust_10/pkt_2/lit_f",
+         "path": "ust_10/pkt_3/lit_f",
          "text": "Bazy Eurostatu i innych organizacji międzynarodowych – Baza Eurostatu – Wspólnotowe badanie innowacji (grudzień 2028),",
          "children": []
         },
         {
          "type": "lit",
          "num": "g",
-         "path": "ust_10/pkt_2/lit_g",
+         "path": "ust_10/pkt_3/lit_g",
          "text": "Bazy Eurostatu i innych organizacji międzynarodowych – Baza OECD – Innowacje w przedsiębiorstwach (listopad 2027).",
          "children": [
           {
@@ -48932,7 +49887,14 @@
        "type": "pkt",
        "num": "15",
        "path": "ust_7/pkt_15",
-       "text": "bilans energii elektrycznej i dane do bilansu ciepła. Import i eksport energii elektrycznej. Ceny energii elektrycznej; 16) moc zainstalowana, osiągalna, produkcja i zużycie energii elektrycznej;",
+       "text": "bilans energii elektrycznej i dane do bilansu ciepła. Import i eksport energii elektrycznej. Ceny energii elektrycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "ust_7/pkt_16",
+       "text": "moc zainstalowana, osiągalna, produkcja i zużycie energii elektrycznej;",
        "children": []
       },
       {
@@ -49637,7 +50599,14 @@
        "type": "pkt",
        "num": "9",
        "path": "ust_9/pkt_9",
-       "text": "zużycie na przemiany (wsad), zużycie bezpośrednie, w przekrojach: wybrane sekcje, działy i grupy PKD 2025; 10) średnie ceny nośników energii, w przekrojach: województwa, PKD 2025;",
+       "text": "zużycie na przemiany (wsad), zużycie bezpośrednie, w przekrojach: wybrane sekcje, działy i grupy PKD 2025;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_9/pkt_10",
+       "text": "średnie ceny nośników energii, w przekrojach: województwa, PKD 2025;",
        "children": []
       },
       {
@@ -49750,7 +50719,14 @@
          "type": "lit",
          "num": "c",
          "path": "ust_10/pkt_2/lit_c",
-         "text": "„Biuletyn ciepłownictwa – ARE w im. ME” (czerwiec 2026, sierpień 2026, listopad 2026, kwiecień 2027), d) „Bilans energii pierwotnej w latach 2011–2026 – ARE w im. ME” (maj 2027),",
+         "text": "„Biuletyn ciepłownictwa – ARE w im. ME” (czerwiec 2026, sierpień 2026, listopad 2026, kwiecień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_2/lit_d",
+         "text": "„Bilans energii pierwotnej w latach 2011–2026 – ARE w im. ME” (maj 2027),",
          "children": []
         },
         {
@@ -49806,7 +50782,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_10/pkt_4/lit_a",
-         "text": "Bank Danych Lokalnych – Gospodarka mieszkaniowa i komunalna – Urządzenia sieciowe (listopad 2027), b) Dziedzinowa Baza Wiedzy – Gospodarka – Gospodarka paliwowo-energetyczna – Bilanse nośników energii (marzec 2028),",
+         "text": "Bank Danych Lokalnych – Gospodarka mieszkaniowa i komunalna – Urządzenia sieciowe (listopad 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_4/lit_b",
+         "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Gospodarka paliwowo-energetyczna – Bilanse nośników energii (marzec 2028),",
          "children": []
         },
         {
@@ -50273,7 +51256,14 @@
          "type": "lit",
          "num": "h",
          "path": "ust_8/pkt_2/lit_h",
-         "text": "G-10.4(P)k – sprawozdanie o działalności operatora systemu przesyłowego elektroenergetycznego (lp. 2.18), i) G-10.5 – sprawozdanie o stanie urządzeń elektrycznych (lp. 2.19),",
+         "text": "G-10.4(P)k – sprawozdanie o działalności operatora systemu przesyłowego elektroenergetycznego (lp. 2.18),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "ust_8/pkt_2/lit_i",
+         "text": "G-10.5 – sprawozdanie o stanie urządzeń elektrycznych (lp. 2.19),",
          "children": []
         },
         {
@@ -50543,7 +51533,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_9/pkt_1",
-       "text": "bilans energii elektrycznej i dane do bilansu ciepła. Import i eksport energii elektrycznej. Ceny energii elektrycznej; 2) energia elektryczna i ciepło oraz zużycie paliw w podziale na elektrownie zawodowe, elektrociepłownie zawodowe i przemysłowe oraz ciepłownie. Energia elektryczna i ciepło z odnawialnych źródeł energii. Krajowa produkcja energii elektrycznej i ciepła z kogeneracji, w przekrojach: kraj;",
+       "text": "bilans energii elektrycznej i dane do bilansu ciepła. Import i eksport energii elektrycznej. Ceny energii elektrycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_9/pkt_2",
+       "text": "energia elektryczna i ciepło oraz zużycie paliw w podziale na elektrownie zawodowe, elektrociepłownie zawodowe i przemysłowe oraz ciepłownie. Energia elektryczna i ciepło z odnawialnych źródeł energii. Krajowa produkcja energii elektrycznej i ciepła z kogeneracji, w przekrojach: kraj;",
        "children": []
       },
       {
@@ -50606,7 +51603,14 @@
          "type": "lit",
          "num": "b",
          "path": "ust_10/pkt_1/lit_b",
-         "text": "„Sytuacja w elektroenergetyce – ARE w im. ME” (czerwiec 2026, wrzesień 2026, grudzień 2026, marzec 2027), c) „Statystyka elektroenergetyki polskiej 2026 – ARE w im. ME” (listopad 2027),",
+         "text": "„Sytuacja w elektroenergetyce – ARE w im. ME” (czerwiec 2026, wrzesień 2026, grudzień 2026, marzec 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_1/lit_c",
+         "text": "„Statystyka elektroenergetyki polskiej 2026 – ARE w im. ME” (listopad 2027),",
          "children": []
         },
         {
@@ -51185,7 +52189,14 @@
          "type": "lit",
          "num": "k",
          "path": "ust_8/pkt_2/lit_k",
-         "text": "G-10.4(P)k –sprawozdanie o działalności operatora systemu przesyłowego elektroenergetycznego(lp.2.18), l) G-10.5 –sprawozdanie o stanie urządzeń elektrycznych(lp.2.19),",
+         "text": "G-10.4(P)k –sprawozdanie o działalności operatora systemu przesyłowego elektroenergetycznego(lp.2.18),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "ust_8/pkt_2/lit_l",
+         "text": "G-10.5 –sprawozdanie o stanie urządzeń elektrycznych(lp.2.19),",
          "children": []
         },
         {
@@ -51960,7 +52971,14 @@
          "type": "lit",
          "num": "b",
          "path": "ust_8/pkt_1/lit_b",
-         "text": "BR-01a –badanie budżetów gospodarstw domowych. Karta statystyczna gospodarstwa domowego(lp.1.17), c) BR-01b–badanie budżetów gospodarstw domowych. Informacja o udziale w badaniu(lp.1.18),",
+         "text": "BR-01a –badanie budżetów gospodarstw domowych. Karta statystyczna gospodarstwa domowego(lp.1.17),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_8/pkt_1/lit_c",
+         "text": "BR-01b–badanie budżetów gospodarstw domowych. Informacja o udziale w badaniu(lp.1.18),",
          "children": []
         },
         {
@@ -52155,7 +53173,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_9/pkt_1",
-       "text": "zużycie poszczególnych nośników energii w gospodarstwach domowych, w przekrojach: kierunki użytkowania; 2) wyposażenie gospodarstw domowych w urządzenia zużywające paliwa i energię, prywatne środki transportu, wydatki na paliwa i energię w gospodarstwach domowych, charakterystyka gospodarstw domowych, w przekrojach: kraj;",
+       "text": "zużycie poszczególnych nośników energii w gospodarstwach domowych, w przekrojach: kierunki użytkowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_9/pkt_2",
+       "text": "wyposażenie gospodarstw domowych w urządzenia zużywające paliwa i energię, prywatne środki transportu, wydatki na paliwa i energię w gospodarstwach domowych, charakterystyka gospodarstw domowych, w przekrojach: kraj;",
        "children": []
       },
       {
@@ -52225,11 +53250,19 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_10/pkt_2",
-       "text": "internetowa baza danych – Bazy Eurostatu i innych organizacji międzynarodowych – Baza Eurostatu – Ochrona środowiska i energia –Energia (maj2028); 3) tablice publikacyjne: a) „Szacunki danych o zużyciu energii w gospodarstwach domowych w 2026 r. –ARE w im. ME” (grudzień2027), b) „Ubóstwo energetyczne w 2026 r. –ARE w im. ME” (grudzień2027).",
+       "text": "internetowa baza danych – Bazy Eurostatu i innych organizacji międzynarodowych – Baza Eurostatu – Ochrona środowiska i energia –Energia (maj2028); 3) tablice publikacyjne: a) „Szacunki danych o zużyciu energii w gospodarstwach domowych w 2026 r. –ARE w im. ME” (grudzień2027),",
        "children": [
         {
-         "type": "text",
-         "text": "264 1.44 GOSPODARKA PALIWOWO-ENERGETYCZNA"
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_2/lit_b",
+         "text": "„Ubóstwo energetyczne w 2026 r. –ARE w im. ME” (grudzień2027).",
+         "children": [
+          {
+           "type": "text",
+           "text": "264 1.44 GOSPODARKA PALIWOWO-ENERGETYCZNA"
+          }
+         ]
         }
        ]
       }
@@ -52874,7 +53907,14 @@
        "type": "pkt",
        "num": "7",
        "path": "ust_8/pkt_7",
-       "text": "G-09.5 –sprawozdanie o przychodach, kosztach i wynikach z działalności w górnictwie węgla kamiennego(lp.2.7); 8) G-09.6 – sprawozdanie o zatrudnieniu, wydajności, płacach i przepracowanym czasie pracy w górnictwie węgla kamiennego(lp.2.8);",
+       "text": "G-09.5 –sprawozdanie o przychodach, kosztach i wynikach z działalności w górnictwie węgla kamiennego(lp.2.7);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_8/pkt_8",
+       "text": "G-09.6 – sprawozdanie o zatrudnieniu, wydajności, płacach i przepracowanym czasie pracy w górnictwie węgla kamiennego(lp.2.8);",
        "children": []
       },
       {
@@ -52952,7 +53992,14 @@
        "type": "pkt",
        "num": "7",
        "path": "ust_9/pkt_7",
-       "text": "wielkości rzeczowo-finansowe charakteryzujące skutki środowiskowe działalności górnictwa węgla kamiennego; 8) ilość metanu wydzielonego w procesie eksploatacji węgla kamiennego oraz jego zagospodarowanie;",
+       "text": "wielkości rzeczowo-finansowe charakteryzujące skutki środowiskowe działalności górnictwa węgla kamiennego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_9/pkt_8",
+       "text": "ilość metanu wydzielonego w procesie eksploatacji węgla kamiennego oraz jego zagospodarowanie;",
        "children": []
       },
       {
@@ -54349,19 +55396,26 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_5/pkt_1",
-       "text": "celem badania jest dostarczenie informacji na temat powierzchni, plonów i zbiorów podstawowych upraw rolnych; 2) akty prawa międzynarodowego, z których wynika obowiązek realizacji badania:",
+       "text": "celem badania jest dostarczenie informacji na temat powierzchni, plonów i zbiorów podstawowych upraw rolnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "akty prawa międzynarodowego, z których wynika obowiązek realizacji badania:",
        "children": [
         {
          "type": "lit",
          "num": "a",
-         "path": "ust_5/pkt_1/lit_a",
+         "path": "ust_5/pkt_2/lit_a",
          "text": "rozporządzenie Parlamentu Europejskiego i Rady (UE) 2022/2379 z dnia 23 listopada 2022 r. w sprawie statystyk dotyczących nakładów i produkcji w rolnictwie, zmiany rozporządzenia Komisji (WE) nr 617/2008 oraz uchylenia rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 1165/2008, (WE) nr 543/2009 i (WE) nr 1185/2009 oraz dyrektywy Rady 96/16/WE,",
          "children": []
         },
         {
          "type": "lit",
          "num": "b",
-         "path": "ust_5/pkt_1/lit_b",
+         "path": "ust_5/pkt_2/lit_b",
          "text": "rozporządzenie wykonawcze Komisji (UE) 2023/1538 z dnia 25 lipca 2023 r. ustanawiające zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/2379 w odniesieniu do statystyk dotyczących produkcji roślinnej;",
          "children": []
         }
@@ -54563,7 +55617,28 @@
          "type": "lit",
          "num": "a",
          "path": "ust_10/pkt_2/lit_a",
-         "text": "„Wstępny szacunek głównych ziemiopłodów rolnych i ogrodniczych w 2026 r.” (lipiec2026), b) „Wynikowy szacunek głównych ziemiopłodów rolnych i ogrodniczych w 2026 r.” (grudzień2026), c) „Przedwynikowy szacunek głównych ziemiopłodów rolnych i ogrodniczych w 2026 r.” (wrzesień2026); 3) internetowe bazy danych: a) Bank Danych Lokalnych –Rolnictwo –Produkcja roślinna (wrzesień2027), b) Dziedzinowa Baza Wiedzy – Gospodarka – Rolnictwo – Produkcja upraw rolnych i ogrodniczych (grudzień2027).",
+         "text": "„Wstępny szacunek głównych ziemiopłodów rolnych i ogrodniczych w 2026 r.” (lipiec2026),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_2/lit_b",
+         "text": "„Wynikowy szacunek głównych ziemiopłodów rolnych i ogrodniczych w 2026 r.” (grudzień2026),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_2/lit_c",
+         "text": "„Przedwynikowy szacunek głównych ziemiopłodów rolnych i ogrodniczych w 2026 r.” (wrzesień2026); 3) internetowe bazy danych: a) Bank Danych Lokalnych –Rolnictwo –Produkcja roślinna (wrzesień2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_2/lit_b",
+         "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Rolnictwo – Produkcja upraw rolnych i ogrodniczych (grudzień2027).",
          "children": [
           {
            "type": "text",
@@ -54843,11 +55918,33 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_10/pkt_2",
-       "text": "informacje sygnalne: a) „Przedwynikowyszacunek głównych ziemiopłodów rolnych i ogrodniczych w 2026 r.” (wrzesień2026), b) „Wynikowy szacunek głównych ziemiopłodów rolnych i ogrodniczych w 2026 r.” (grudzień2026), c) „Wstępny szacunek głównych ziemiopłodów rolnych i ogrodniczych w 2026 r.” (lipiec2026); 3) internetowe bazy danych: a) Bank Danych Lokalnych –Rolnictwo –Produkcja roślinna –warzywa i owoce (wrzesień2027), b) Dziedzinowa Baza Wiedzy – Gospodarka – Rolnictwo – Produkcja upraw rolnych i ogrodniczych (grudzień2027).",
+       "text": "informacje sygnalne: a) „Przedwynikowyszacunek głównych ziemiopłodów rolnych i ogrodniczych w 2026 r.” (wrzesień2026),",
        "children": [
         {
-         "type": "text",
-         "text": "278 1.45 ROLNICTWO I RYBACTWO"
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_2/lit_b",
+         "text": "„Wynikowy szacunek głównych ziemiopłodów rolnych i ogrodniczych w 2026 r.” (grudzień2026),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_2/lit_c",
+         "text": "„Wstępny szacunek głównych ziemiopłodów rolnych i ogrodniczych w 2026 r.” (lipiec2026); 3) internetowe bazy danych: a) Bank Danych Lokalnych –Rolnictwo –Produkcja roślinna –warzywa i owoce (wrzesień2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_2/lit_b",
+         "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Rolnictwo – Produkcja upraw rolnych i ogrodniczych (grudzień2027).",
+         "children": [
+          {
+           "type": "text",
+           "text": "278 1.45 ROLNICTWO I RYBACTWO"
+          }
+         ]
         }
        ]
       }
@@ -55216,7 +56313,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_7/pkt_3/lit_a",
-         "text": "dane dotyczące rejestru uboju zwierząt gospodarskich oznakowanych z gatunku bydło, owce, kozy(lp.41.2), b) dane dotyczące zwierząt gospodarskich oznakowanych z gatunku bydło, owce, kozy, koniowate, wielbłądowate i jeleniowate oraz dane dotyczące posiadacza zwierząt(lp.41.4),",
+         "text": "dane dotyczące rejestru uboju zwierząt gospodarskich oznakowanych z gatunku bydło, owce, kozy(lp.41.2),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_7/pkt_3/lit_b",
+         "text": "dane dotyczące zwierząt gospodarskich oznakowanych z gatunku bydło, owce, kozy, koniowate, wielbłądowate i jeleniowate oraz dane dotyczące posiadacza zwierząt(lp.41.4),",
          "children": []
         },
         {
@@ -55686,7 +56790,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_9/pkt_1",
-       "text": "wielkość uboju świń w rzeźniach przemysłowych i ubojniach lokalnych (sztuki, waga żywa), w przekrojach: kraj; 2) liczba porcji nasienia knurów wprowadzonych do obrotu, w przekrojach: kraj;",
+       "text": "wielkość uboju świń w rzeźniach przemysłowych i ubojniach lokalnych (sztuki, waga żywa), w przekrojach: kraj;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_9/pkt_2",
+       "text": "liczba porcji nasienia knurów wprowadzonych do obrotu, w przekrojach: kraj;",
        "children": [
         {
          "type": "text",
@@ -55713,11 +56824,61 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_10/pkt_1",
-       "text": "publikacje GUS: a) „Fizyczne rozmiary produkcji zwierzęcej w 2026 r.” (wrzesień2027), b) „Zwierzęta gospodarskie w 2026 r.” (lipiec2027), c) „Rolnictwo w 2026 r.” (grudzień2027), d) „Rocznik Statystyczny Rolnictwa 2027” (grudzień2027); 2) informacje sygnalne: a) „Pogłowie świń według stanu w czerwcu 2026 r.” (wrzesień2026), b) „Pogłowie świń według stanu w grudniu 2026 r.” (styczeń2027); 3) internetowe bazy danych: a) Bank Danych Lokalnych –Rolnictwo –Pogłowie zwierząt –pogłowie świń stan w czerwcu (listopad2026), b) Bank Danych Lokalnych –Rolnictwo –Pogłowie zwierząt –pogłowie świń stan w grudniu (czerwiec2027), c) Bank Danych Lokalnych –Rolnictwo –Produkcja żywca wieprzowego (październik2027), d) Dziedzinowa Baza Wiedzy –Gospodarka –Rolnictwo –Produkcja zwierzęca (październik2026, maj2027).",
+       "text": "publikacje GUS: a) „Fizyczne rozmiary produkcji zwierzęcej w 2026 r.” (wrzesień2027),",
        "children": [
         {
-         "type": "text",
-         "text": "282 1.45 ROLNICTWO I RYBACTWO"
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_1/lit_b",
+         "text": "„Zwierzęta gospodarskie w 2026 r.” (lipiec2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_1/lit_c",
+         "text": "„Rolnictwo w 2026 r.” (grudzień2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_1/lit_d",
+         "text": "„Rocznik Statystyczny Rolnictwa 2027” (grudzień2027); 2) informacje sygnalne: a) „Pogłowie świń według stanu w czerwcu 2026 r.” (wrzesień2026),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_1/lit_b",
+         "text": "„Pogłowie świń według stanu w grudniu 2026 r.” (styczeń2027); 3) internetowe bazy danych: a) Bank Danych Lokalnych –Rolnictwo –Pogłowie zwierząt –pogłowie świń stan w czerwcu (listopad2026),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_1/lit_b",
+         "text": "Bank Danych Lokalnych –Rolnictwo –Pogłowie zwierząt –pogłowie świń stan w grudniu (czerwiec2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_1/lit_c",
+         "text": "Bank Danych Lokalnych –Rolnictwo –Produkcja żywca wieprzowego (październik2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_1/lit_d",
+         "text": "Dziedzinowa Baza Wiedzy –Gospodarka –Rolnictwo –Produkcja zwierzęca (październik2026, maj2027).",
+         "children": [
+          {
+           "type": "text",
+           "text": "282 1.45 ROLNICTWO I RYBACTWO"
+          }
+         ]
         }
        ]
       }
@@ -56375,7 +57536,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_10/pkt_2/lit_a",
-         "text": "Dziedzinowa Baza Wiedzy –Gospodarka –Rolnictwo –Środki produkcji w rolnictwie –Pasze (czerwiec2027), b) Dziedzinowa Baza Wiedzy – Gospodarka – Rolnictwo – Środki produkcji w rolnictwie – Nawozy (czerwiec2027),",
+         "text": "Dziedzinowa Baza Wiedzy –Gospodarka –Rolnictwo –Środki produkcji w rolnictwie –Pasze (czerwiec2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_2/lit_b",
+         "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Rolnictwo – Środki produkcji w rolnictwie – Nawozy (czerwiec2027),",
          "children": []
         },
         {
@@ -56403,7 +57571,14 @@
          "type": "lit",
          "num": "f",
          "path": "ust_10/pkt_2/lit_f",
-         "text": "Bank Danych Lokalnych –Rolnictwo –Uprawy rolnicze. Zużycie nawozów wapniowych (listopad2027), g) Bank Danych Lokalnych –Rolnictwo –Użytkowanie gruntów. Powierzchnia użytków rolnych przypadająca na 1 ciągnik (listopad2027).",
+         "text": "Bank Danych Lokalnych –Rolnictwo –Uprawy rolnicze. Zużycie nawozów wapniowych (listopad2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_10/pkt_2/lit_g",
+         "text": "Bank Danych Lokalnych –Rolnictwo –Użytkowanie gruntów. Powierzchnia użytków rolnych przypadająca na 1 ciągnik (listopad2027).",
          "children": [
           {
            "type": "text",
@@ -56852,7 +58027,14 @@
          "type": "lit",
          "num": "g",
          "path": "ust_8/pkt_1/lit_g",
-         "text": "1.61.01 Bieżące wyniki finansowe i nakłady na środki trwałe przedsiębiorstw oraz aktywa i pasywa finansowe, h) 1.61.05 Roczne badanie działalności gospodarczej przedsiębiorstw,",
+         "text": "1.61.01 Bieżące wyniki finansowe i nakłady na środki trwałe przedsiębiorstw oraz aktywa i pasywa finansowe,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "ust_8/pkt_1/lit_h",
+         "text": "1.61.05 Roczne badanie działalności gospodarczej przedsiębiorstw,",
          "children": []
         },
         {
@@ -56931,11 +58113,47 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_9/pkt_1",
-       "text": "komunikat albo obwieszczenie –„Komunikat Prezesa GUS w sprawie wskaźnika cen towarowej produkcji rolniczej w 2025 r.” (maj2027); 2) publikacje GUS: a) „Rocznik Statystyczny Rolnictwa 2027” (grudzień2027), b) „Mały Rocznik Statystyczny Polski 2027” (lipiec2027), c) „Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień2027), d) „Rocznik Statystyczny Województw 2027” (grudzień2027), e) „Polska w liczbach 2027” (maj2027), f) „Rolnictwo w 2026 r.” (grudzień2027); 3) internetowa baza danych –Bank Danych Lokalnych –Rolnictwo –Produkcja rolnicza (marzec2027).",
+       "text": "komunikat albo obwieszczenie –„Komunikat Prezesa GUS w sprawie wskaźnika cen towarowej produkcji rolniczej w 2025 r.” (maj2027); 2) publikacje GUS: a) „Rocznik Statystyczny Rolnictwa 2027” (grudzień2027),",
        "children": [
         {
-         "type": "text",
-         "text": "288 1.45 ROLNICTWO I RYBACTWO"
+         "type": "lit",
+         "num": "b",
+         "path": "ust_9/pkt_1/lit_b",
+         "text": "„Mały Rocznik Statystyczny Polski 2027” (lipiec2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_9/pkt_1/lit_c",
+         "text": "„Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_9/pkt_1/lit_d",
+         "text": "„Rocznik Statystyczny Województw 2027” (grudzień2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_9/pkt_1/lit_e",
+         "text": "„Polska w liczbach 2027” (maj2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_9/pkt_1/lit_f",
+         "text": "„Rolnictwo w 2026 r.” (grudzień2027); 3) internetowa baza danych –Bank Danych Lokalnych –Rolnictwo –Produkcja rolnicza (marzec2027).",
+         "children": [
+          {
+           "type": "text",
+           "text": "288 1.45 ROLNICTWO I RYBACTWO"
+          }
+         ]
         }
        ]
       }
@@ -57227,7 +58445,14 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_10/pkt_3",
-       "text": "„Rocznik Statystyczny Rolnictwa 2027” (grudzień2027); 4) „Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień2027).",
+       "text": "„Rocznik Statystyczny Rolnictwa 2027” (grudzień2027);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_10/pkt_4",
+       "text": "„Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień2027).",
        "children": [
         {
          "type": "text",
@@ -57411,7 +58636,14 @@
        "type": "pkt",
        "num": "8",
        "path": "ust_7/pkt_8",
-       "text": "przewidywana powierzchnia zasiewów zbóż, roślin okopowych oraz powierzchni trwałych użytków zielonych; 9) pogłowie zwierząt gospodarskich (poza świniami), produkcja zwierzęca (żywca, mięsa, mleka, jaj, wełny, miodu), urodzenia i padnięcia bydła;",
+       "text": "przewidywana powierzchnia zasiewów zbóż, roślin okopowych oraz powierzchni trwałych użytków zielonych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_7/pkt_9",
+       "text": "pogłowie zwierząt gospodarskich (poza świniami), produkcja zwierzęca (żywca, mięsa, mleka, jaj, wełny, miodu), urodzenia i padnięcia bydła;",
        "children": []
       },
       {
@@ -57668,7 +58900,14 @@
        "type": "pkt",
        "num": "45",
        "path": "ust_7/pkt_45",
-       "text": "wskaźniki cen towarów i usług zakupywanych na cele: konsumpcyjne, bieżącej produkcji rolniczej i inwestycyjne; 46) wskaźniki cen sprzedawanych produktówrolnych;",
+       "text": "wskaźniki cen towarów i usług zakupywanych na cele: konsumpcyjne, bieżącej produkcji rolniczej i inwestycyjne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "46",
+       "path": "ust_7/pkt_46",
+       "text": "wskaźniki cen sprzedawanych produktówrolnych;",
        "children": []
       },
       {
@@ -58528,7 +59767,14 @@
          "type": "lit",
          "num": "g",
          "path": "ust_8/pkt_4/lit_g",
-         "text": "1.61.01 Bieżące wyniki finansowe i nakłady na środki trwałe przedsiębiorstw oraz aktywa i pasywa finansowe, h) 1.61.05 Roczne badanie działalności gospodarczej przedsiębiorstw,",
+         "text": "1.61.01 Bieżące wyniki finansowe i nakłady na środki trwałe przedsiębiorstw oraz aktywa i pasywa finansowe,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "ust_8/pkt_4/lit_h",
+         "text": "1.61.05 Roczne badanie działalności gospodarczej przedsiębiorstw,",
          "children": []
         },
         {
@@ -59338,7 +60584,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_8/pkt_3/lit_a",
-         "text": "1.61.01 Bieżące wyniki finansowe i nakłady na środki trwałe przedsiębiorstw oraz aktywa i pasywa finansowe, b) 1.61.04 Ocena bieżącej działalności gospodarczej przedsiębiorstw,",
+         "text": "1.61.01 Bieżące wyniki finansowe i nakłady na środki trwałe przedsiębiorstw oraz aktywa i pasywa finansowe,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_8/pkt_3/lit_b",
+         "text": "1.61.04 Ocena bieżącej działalności gospodarczej przedsiębiorstw,",
          "children": []
         },
         {
@@ -60878,8 +62131,22 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_8/pkt_1",
-       "text": "zestawy danych Głównego Urzędu Statystycznego nr1(opisane w części II. Informacje o przekazywanych danych): a) B-01–sprawozdanie o sprzedaży produkcji budowlano-montażowej przedsiębiorstw budowlanych(lp.1.9), b) B-02–sprawozdanie o sprzedaży produkcji budowlano-montażowej przedsiębiorstw niebudowlanych(lp.1.10), c) DG-1–meldunek o działalności gospodarczej(lp.1.39),",
+       "text": "zestawy danych Głównego Urzędu Statystycznego nr1(opisane w części II. Informacje o przekazywanych danych): a) B-01–sprawozdanie o sprzedaży produkcji budowlano-montażowej przedsiębiorstw budowlanych(lp.1.9),",
        "children": [
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_8/pkt_1/lit_b",
+         "text": "B-02–sprawozdanie o sprzedaży produkcji budowlano-montażowej przedsiębiorstw niebudowlanych(lp.1.10),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_8/pkt_1/lit_c",
+         "text": "DG-1–meldunek o działalności gospodarczej(lp.1.39),",
+         "children": []
+        },
         {
          "type": "lit",
          "num": "d",
@@ -61082,7 +62349,14 @@
          "type": "lit",
          "num": "b",
          "path": "ust_10/pkt_3/lit_b",
-         "text": "Bank Danych Lokalnych –Przemysł i budownictwo –Produkcja budowlano-montażowa (październik2027), c) Bazy Eurostatu i innych organizacji międzynarodowych – Baza Eurostatu – Budownictwo – Produkcja budowlano-montażowa (luty2026, marzec2026, kwiecień2026, maj2026, czerwiec2026, lipiec2026, sierpień2026, wrzesień2026, październik2026, listopad2026, grudzień2026, styczeń2027),",
+         "text": "Bank Danych Lokalnych –Przemysł i budownictwo –Produkcja budowlano-montażowa (październik2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_3/lit_c",
+         "text": "Bazy Eurostatu i innych organizacji międzynarodowych – Baza Eurostatu – Budownictwo – Produkcja budowlano-montażowa (luty2026, marzec2026, kwiecień2026, maj2026, czerwiec2026, lipiec2026, sierpień2026, wrzesień2026, październik2026, listopad2026, grudzień2026, styczeń2027),",
          "children": []
         },
         {
@@ -62235,7 +63509,14 @@
          "type": "lit",
          "num": "b",
          "path": "ust_10/pkt_3/lit_b",
-         "text": "Dziedzinowa Baza Wiedzy –Gospodarka –Transport –Przewozy i przeładunki –Ładunki (wrzesień2027), c) Dziedzinowa Baza Wiedzy –Gospodarka –Transport –Przewozy i przeładunki –Pasażerowie (wrzesień2027, październik2027),",
+         "text": "Dziedzinowa Baza Wiedzy –Gospodarka –Transport –Przewozy i przeładunki –Ładunki (wrzesień2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_3/lit_c",
+         "text": "Dziedzinowa Baza Wiedzy –Gospodarka –Transport –Przewozy i przeładunki –Pasażerowie (wrzesień2027, październik2027),",
          "children": []
         },
         {
@@ -62752,7 +64033,14 @@
        "type": "pkt",
        "num": "22",
        "path": "ust_9/pkt_22",
-       "text": "dworce autobusowe, w tym przystosowane do obsługi osób niepełnosprawnych, w przekrojach: kraj, województwa; 23) linie regularnej komunikacji autobusowej, w przekrojach: kraj, województwa, rodzaje linii;",
+       "text": "dworce autobusowe, w tym przystosowane do obsługi osób niepełnosprawnych, w przekrojach: kraj, województwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "23",
+       "path": "ust_9/pkt_23",
+       "text": "linie regularnej komunikacji autobusowej, w przekrojach: kraj, województwa, rodzaje linii;",
        "children": []
       },
       {
@@ -62891,7 +64179,14 @@
          "type": "lit",
          "num": "h",
          "path": "ust_10/pkt_3/lit_h",
-         "text": "Bank Danych Lokalnych – Transport i łączność – Linie regularnej komunikacji autobusowej (listopad 2027), i) Bazy Eurostatu i innych organizacji międzynarodowych – Baza Eurostatu – Transport – Transport drogowy (grudzień 2027),",
+         "text": "Bank Danych Lokalnych – Transport i łączność – Linie regularnej komunikacji autobusowej (listopad 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "ust_10/pkt_3/lit_i",
+         "text": "Bazy Eurostatu i innych organizacji międzynarodowych – Baza Eurostatu – Transport – Transport drogowy (grudzień 2027),",
          "children": []
         },
         {
@@ -62905,7 +64200,14 @@
          "type": "lit",
          "num": "k",
          "path": "ust_10/pkt_3/lit_k",
-         "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Transport – Przewozy i przeładunki – Ładunki (wrzesień 2027), l) Bank Danych Makroekonomicznych – Transport. Poczta i Telekomunikacja (luty 2026, marzec 2026, kwiecień 2026, maj 2026, czerwiec 2026, lipiec 2026, sierpień 2026, wrzesień 2026, październik 2026, listopad 2026, grudzień 2026, styczeń 2027),",
+         "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Transport – Przewozy i przeładunki – Ładunki (wrzesień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "ust_10/pkt_3/lit_l",
+         "text": "Bank Danych Makroekonomicznych – Transport. Poczta i Telekomunikacja (luty 2026, marzec 2026, kwiecień 2026, maj 2026, czerwiec 2026, lipiec 2026, sierpień 2026, wrzesień 2026, październik 2026, listopad 2026, grudzień 2026, styczeń 2027),",
          "children": []
         },
         {
@@ -63156,7 +64458,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_8/pkt_2/lit_a",
-         "text": "dane o przewozach samolotami polskich i obcych przewoźników lotniczych do lub z portów polskich (lp. 127.1), b) dane o ruchu samolotów i przewozach samolotami polskich i obcych przewoźników do lub z portów polskich (lp. 127.2);",
+         "text": "dane o przewozach samolotami polskich i obcych przewoźników lotniczych do lub z portów polskich (lp. 127.1),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_8/pkt_2/lit_b",
+         "text": "dane o ruchu samolotów i przewozach samolotami polskich i obcych przewoźników do lub z portów polskich (lp. 127.2);",
          "children": []
         }
        ]
@@ -63312,7 +64621,14 @@
          "type": "lit",
          "num": "b",
          "path": "ust_10/pkt_3/lit_b",
-         "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Transport – Przewozy i przeładunki – Pasażerowie (lipiec 2027), c) Dziedzinowa Baza Wiedzy – Gospodarka – Transport – Tabor i flota transportowa (lipiec 2027),",
+         "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Transport – Przewozy i przeładunki – Pasażerowie (lipiec 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_3/lit_c",
+         "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Transport – Tabor i flota transportowa (lipiec 2027),",
          "children": []
         },
         {
@@ -63527,7 +64843,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_10/pkt_3/lit_a",
-         "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Transport – Przewozy i przeładunki – Ładunki (kwiecień 2027), b) Dziedzinowa Baza Wiedzy – Gospodarka – Transport – Infrastruktura transportowa (kwiecień 2027).",
+         "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Transport – Przewozy i przeładunki – Ładunki (kwiecień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_3/lit_b",
+         "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Transport – Infrastruktura transportowa (kwiecień 2027).",
          "children": [
           {
            "type": "text",
@@ -63648,7 +64971,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_8/pkt_2/lit_a",
-         "text": "1.61.01 Bieżące wyniki finansowe i nakłady na środki trwałe przedsiębiorstw oraz aktywa i pasywa finansowe, b) 1.61.04 Ocena bieżącej działalności gospodarczej przedsiębiorstw,",
+         "text": "1.61.01 Bieżące wyniki finansowe i nakłady na środki trwałe przedsiębiorstw oraz aktywa i pasywa finansowe,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_8/pkt_2/lit_b",
+         "text": "1.61.04 Ocena bieżącej działalności gospodarczej przedsiębiorstw,",
          "children": []
         },
         {
@@ -64080,7 +65410,14 @@
          "type": "lit",
          "num": "b",
          "path": "ust_10/pkt_2/lit_b",
-         "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Transport – Bezpieczeństwo w transporcie (październik 2027), c) Strateg – System Monitorowania Rozwoju – Transport i łączność – Wypadki drogowe (grudzień 2027).",
+         "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Transport – Bezpieczeństwo w transporcie (październik 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_2/lit_c",
+         "text": "Strateg – System Monitorowania Rozwoju – Transport i łączność – Wypadki drogowe (grudzień 2027).",
          "children": [
           {
            "type": "text",
@@ -64274,7 +65611,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_10/pkt_3/lit_a",
-         "text": "Strateg – System Monitorowania Rozwoju – Transport i łączność – Transport intermodalny (grudzień 2027), b) Dziedzinowa Baza Wiedzy – Gospodarka – Transport – Transport intermodalny (październik 2027).",
+         "text": "Strateg – System Monitorowania Rozwoju – Transport i łączność – Transport intermodalny (grudzień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_3/lit_b",
+         "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Transport – Transport intermodalny (październik 2027).",
          "children": [
           {
            "type": "text",
@@ -67361,7 +68705,14 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_9/pkt_4",
-       "text": "przeciętne wynagrodzenie brutto w gospodarce morskiej, w przekrojach: sektory własności, rodzaje działalności; 5) wielkość nakładów inwestycyjnych, źródła finansowania nakładów inwestycyjnych, wartość brutto i stopień zużycia środków trwałych podmiotów gospodarki morskiej, w przekrojach: rodzaje działalności;",
+       "text": "przeciętne wynagrodzenie brutto w gospodarce morskiej, w przekrojach: sektory własności, rodzaje działalności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_9/pkt_5",
+       "text": "wielkość nakładów inwestycyjnych, źródła finansowania nakładów inwestycyjnych, wartość brutto i stopień zużycia środków trwałych podmiotów gospodarki morskiej, w przekrojach: rodzaje działalności;",
        "children": []
       },
       {
@@ -67588,7 +68939,21 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_9/pkt_3",
-       "text": "jednostki ratownicze Morskiej Służby Poszukiwania i Ratownictwa, w przekrojach: według stanu floty w latach; 4) akcje ratownicze Morskiej Służby Poszukiwania i Ratownictwa, uratowane osoby, w przekrojach: rodzaje akcji; 5) zwalczanie zagrożeń i zanieczyszczeń, w przekrojach: rodzaje zanieczyszczeń, porty.",
+       "text": "jednostki ratownicze Morskiej Służby Poszukiwania i Ratownictwa, w przekrojach: według stanu floty w latach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_9/pkt_4",
+       "text": "akcje ratownicze Morskiej Służby Poszukiwania i Ratownictwa, uratowane osoby, w przekrojach: rodzaje akcji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_9/pkt_5",
+       "text": "zwalczanie zagrożeń i zanieczyszczeń, w przekrojach: rodzaje zanieczyszczeń, porty.",
        "children": []
       }
      ]
@@ -68586,7 +69951,21 @@
          "type": "lit",
          "num": "b",
          "path": "ust_10/pkt_1/lit_b",
-         "text": "„Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień2027), c) „Transport –wyniki działalności w 2026 r.” (wrzesień2027); 2) informacje sygnalne: a) „Transport wodny śródlądowy w Polsce w 2026 r.” (lipiec2027), b) „Przewozy ładunków i pasażerów w 2026 r.” (czerwiec2027); 3) internetowe bazy danych: a) Strateg – System Monitorowania Rozwoju – Transport i łączność – Transport wodny śródlądowy (grudzień2027), b) Dziedzinowa Baza Wiedzy – Gospodarka – Gospodarka morska i śródlądowa – Żegluga śródlądowa (listopad2027).",
+         "text": "„Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_1/lit_c",
+         "text": "„Transport –wyniki działalności w 2026 r.” (wrzesień2027); 2) informacje sygnalne: a) „Transport wodny śródlądowy w Polsce w 2026 r.” (lipiec2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_1/lit_b",
+         "text": "„Przewozy ładunków i pasażerów w 2026 r.” (czerwiec2027); 3) internetowe bazy danych: a) Strateg – System Monitorowania Rozwoju – Transport i łączność – Transport wodny śródlądowy (grudzień2027), b) Dziedzinowa Baza Wiedzy – Gospodarka – Gospodarka morska i śródlądowa – Żegluga śródlądowa (listopad2027).",
          "children": [
           {
            "type": "text",
@@ -69376,7 +70755,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_8/pkt_5/lit_a",
-         "text": "dane o przeniesieniu prawa własności samolotów dotyczące krajów spoza UE, rezydent/nierezydent (lp. 166.1), b) dane dotyczące przeniesienia prawa własności samolotów dotyczące krajów UE, rezydent/nierezydent (lp. 166.2).",
+         "text": "dane o przeniesieniu prawa własności samolotów dotyczące krajów spoza UE, rezydent/nierezydent (lp. 166.1),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_8/pkt_5/lit_b",
+         "text": "dane dotyczące przeniesienia prawa własności samolotów dotyczące krajów UE, rezydent/nierezydent (lp. 166.2).",
          "children": []
         }
        ]
@@ -70221,7 +71607,14 @@
        "type": "pkt",
        "num": "5",
        "path": "ust_9/pkt_5",
-       "text": "liczba i powierzchnia pożarów lasów, w przekrojach: kraj, województwa, regionalne dyrekcje Lasów Państwowych; 6) stan zdrowotny lasów i uszkodzenia drzew, w przekrojach: kraj, województwa, regionalne dyrekcje Lasów Państwowych, klasy defoliacji, odbarwienia i uszkodzenia drzew, gatunki drzew, formy własności leśnej.",
+       "text": "liczba i powierzchnia pożarów lasów, w przekrojach: kraj, województwa, regionalne dyrekcje Lasów Państwowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_9/pkt_6",
+       "text": "stan zdrowotny lasów i uszkodzenia drzew, w przekrojach: kraj, województwa, regionalne dyrekcje Lasów Państwowych, klasy defoliacji, odbarwienia i uszkodzenia drzew, gatunki drzew, formy własności leśnej.",
        "children": []
       }
      ]
@@ -70306,7 +71699,14 @@
          "type": "lit",
          "num": "c",
          "path": "ust_10/pkt_3/lit_c",
-         "text": "Bank Danych Lokalnych –Leśnictwo i łowiectwo –Zagrożenie i ochrona środowiska leśnego (czerwiec2027), d) Dziedzinowa Baza Wiedzy –Środowisko –Leśnictwo i łowiectwo –Zasoby leśne (październik2027),",
+         "text": "Bank Danych Lokalnych –Leśnictwo i łowiectwo –Zagrożenie i ochrona środowiska leśnego (czerwiec2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_3/lit_d",
+         "text": "Dziedzinowa Baza Wiedzy –Środowisko –Leśnictwo i łowiectwo –Zasoby leśne (październik2027),",
          "children": []
         },
         {
@@ -71081,7 +72481,43 @@
          "type": "lit",
          "num": "d",
          "path": "ust_10/pkt_1/lit_d",
-         "text": "„Rocznik Statystyczny Województw 2027” (grudzień 2027), e) „Mały Rocznik Statystyczny Polski 2027” (lipiec 2027); 2) informacja sygnalna – „Leśnictwo w 2026 r.” (czerwiec 2027); 3) internetowe bazy danych: a) Bank Danych Lokalnych – Leśnictwo i łowiectwo – Leśnictwo wszystkich form własności (lipiec 2027), b) Bank Danych Lokalnych – Leśnictwo i łowiectwo – Lasy prywatne i gminne (lipiec 2027), c) Bank Danych Lokalnych – Leśnictwo i łowiectwo – Gospodarcze wykorzystanie lasu (czerwiec 2027), d) Dziedzinowa Baza Wiedzy – Środowisko – Leśnictwo i łowiectwo – Gospodarcze wykorzystanie lasu (październik 2027).",
+         "text": "„Rocznik Statystyczny Województw 2027” (grudzień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_10/pkt_1/lit_e",
+         "text": "„Mały Rocznik Statystyczny Polski 2027” (lipiec 2027); 2) informacja sygnalna – „Leśnictwo w 2026 r.” (czerwiec 2027);",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_10/pkt_3",
+       "text": "internetowe bazy danych: a) Bank Danych Lokalnych – Leśnictwo i łowiectwo – Leśnictwo wszystkich form własności (lipiec 2027),",
+       "children": [
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_3/lit_b",
+         "text": "Bank Danych Lokalnych – Leśnictwo i łowiectwo – Lasy prywatne i gminne (lipiec 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_3/lit_c",
+         "text": "Bank Danych Lokalnych – Leśnictwo i łowiectwo – Gospodarcze wykorzystanie lasu (czerwiec 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_3/lit_d",
+         "text": "Dziedzinowa Baza Wiedzy – Środowisko – Leśnictwo i łowiectwo – Gospodarcze wykorzystanie lasu (październik 2027).",
          "children": [
           {
            "type": "text",
@@ -71610,7 +73046,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_9/pkt_1",
-       "text": "liczebność ważniejszych gatunków zwierząt łownych, ich odstrzał i ubytki, w przekrojach: kraj, województwa; 2) odłów i zasiedlenie wybranych gatunków zwierząt łownych, w przekrojach: kraj;",
+       "text": "liczebność ważniejszych gatunków zwierząt łownych, ich odstrzał i ubytki, w przekrojach: kraj, województwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_9/pkt_2",
+       "text": "odłów i zasiedlenie wybranych gatunków zwierząt łownych, w przekrojach: kraj;",
        "children": []
       },
       {
@@ -71685,7 +73128,21 @@
          "type": "lit",
          "num": "c",
          "path": "ust_10/pkt_1/lit_c",
-         "text": "„Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień 2027), d) „Rocznik Statystyczny Województw 2027” (grudzień 2027), e) „Mały Rocznik Statystyczny Polski 2027” (lipiec 2027); 2) internetowa baza danych – Bank Danych Lokalnych – Leśnictwo i łowiectwo – Zwierzęta łowne (wrzesień 2027).",
+         "text": "„Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_1/lit_d",
+         "text": "„Rocznik Statystyczny Województw 2027” (grudzień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_10/pkt_1/lit_e",
+         "text": "„Mały Rocznik Statystyczny Polski 2027” (lipiec 2027); 2) internetowa baza danych – Bank Danych Lokalnych – Leśnictwo i łowiectwo – Zwierzęta łowne (wrzesień 2027).",
          "children": [
           {
            "type": "text",
@@ -72093,7 +73550,14 @@
        "type": "pkt",
        "num": "15",
        "path": "ust_8/pkt_15",
-       "text": "1.61.01 Bieżące wyniki finansowe i nakłady na środki trwałe przedsiębiorstw oraz aktywa i pasywa finansowe; 16) 1.61.05 Roczne badanie działalności gospodarczej przedsiębiorstw;",
+       "text": "1.61.01 Bieżące wyniki finansowe i nakłady na środki trwałe przedsiębiorstw oraz aktywa i pasywa finansowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "ust_8/pkt_16",
+       "text": "1.61.05 Roczne badanie działalności gospodarczej przedsiębiorstw;",
        "children": []
       },
       {
@@ -72178,7 +73642,14 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_9/pkt_4",
-       "text": "produkcja globalna, zużycie pośrednie, wartość dodana brutto w sektorze leśno-drzewnym, w przekrojach: kraj; 5) wydatki budżetu państwa na leśnictwo, w przekrojach: kraj;",
+       "text": "produkcja globalna, zużycie pośrednie, wartość dodana brutto w sektorze leśno-drzewnym, w przekrojach: kraj;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_9/pkt_5",
+       "text": "wydatki budżetu państwa na leśnictwo, w przekrojach: kraj;",
        "children": []
       },
       {
@@ -72199,7 +73670,14 @@
        "type": "pkt",
        "num": "8",
        "path": "ust_9/pkt_8",
-       "text": "dynamika obrotów handlu zagranicznego drewnem i artykułami z drewna, w przekrojach: kraj, nomenklatura CN; 9) dochody budżetów gmin z tytułu podatku leśnego, w przekrojach: kraj, województwa;",
+       "text": "dynamika obrotów handlu zagranicznego drewnem i artykułami z drewna, w przekrojach: kraj, nomenklatura CN;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_9/pkt_9",
+       "text": "dochody budżetów gmin z tytułu podatku leśnego, w przekrojach: kraj, województwa;",
        "children": []
       },
       {
@@ -72255,7 +73733,14 @@
        "type": "pkt",
        "num": "17",
        "path": "ust_9/pkt_17",
-       "text": "aktywa trwałe i obrotowe oraz zobowiązania przedsiębiorstw w sektorze leśno-drzewnym, w przekrojach: kraj; 18) liczba jednostek, liczba pracujących i wyniki finansowe małych przedsiębiorstw w sektorze leśno-drzewnym, w przekrojach: kraj;",
+       "text": "aktywa trwałe i obrotowe oraz zobowiązania przedsiębiorstw w sektorze leśno-drzewnym, w przekrojach: kraj;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "ust_9/pkt_18",
+       "text": "liczba jednostek, liczba pracujących i wyniki finansowe małych przedsiębiorstw w sektorze leśno-drzewnym, w przekrojach: kraj;",
        "children": []
       },
       {
@@ -72372,7 +73857,14 @@
        "type": "pkt",
        "num": "34",
        "path": "ust_9/pkt_34",
-       "text": "stopnie naukowe (doktora, doktora habilitowanego) w dyscyplinie nauk leśnych, w przekrojach: kraj, płeć; 35) studenci i absolwenci studiów na kierunkach leśnictwo i technika rolnicza i leśna, w przekrojach: uczelnie, płeć, studia stacjonarne, studia niestacjonarne; 36) doktoranci szkół doktorskich w dyscyplinie nauki leśne, w przekrojach: płeć.",
+       "text": "stopnie naukowe (doktora, doktora habilitowanego) w dyscyplinie nauk leśnych, w przekrojach: kraj, płeć;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "35",
+       "path": "ust_9/pkt_35",
+       "text": "studenci i absolwenci studiów na kierunkach leśnictwo i technika rolnicza i leśna, w przekrojach: uczelnie, płeć, studia stacjonarne, studia niestacjonarne; 36) doktoranci szkół doktorskich w dyscyplinie nauki leśne, w przekrojach: płeć.",
        "children": []
       }
      ]
@@ -74173,7 +75665,14 @@
        "type": "pkt",
        "num": "5",
        "path": "ust_9/pkt_5",
-       "text": "dynamika sprzedaży hurtowej i detalicznej w przedsiębiorstwach handlowych, w przekrojach: klasy PKD 2007; 6) nowe zamówienia w przedsiębiorstwach przemysłowych –ogółem, w tym na eksport i wywóz –w tym do krajów strefy euro, w przekrojach: wybrane działy PKD 2007;",
+       "text": "dynamika sprzedaży hurtowej i detalicznej w przedsiębiorstwach handlowych, w przekrojach: klasy PKD 2007;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_9/pkt_6",
+       "text": "nowe zamówienia w przedsiębiorstwach przemysłowych –ogółem, w tym na eksport i wywóz –w tym do krajów strefy euro, w przekrojach: wybrane działy PKD 2007;",
        "children": []
       },
       {
@@ -75776,7 +77275,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_8/pkt_1",
-       "text": "IF – sprawozdanie o wykorzystaniu instrumentów finansowych w przedsiębiorstwach niefinansowych (lp. 1.72); 2) SP – roczna ankieta przedsiębiorstwa (lp. 1.158).",
+       "text": "IF – sprawozdanie o wykorzystaniu instrumentów finansowych w przedsiębiorstwach niefinansowych (lp. 1.72);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_8/pkt_2",
+       "text": "SP – roczna ankieta przedsiębiorstwa (lp. 1.158).",
        "children": []
       }
      ]
@@ -76044,12 +77550,19 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_5/pkt_1",
-       "text": "celem badania jest dostarczenie informacji o działalności podmiotów z kapitałem zagranicznym na terenie Polski; 2) akty prawa międzynarodowego, z których wynika obowiązek realizacji badania:",
+       "text": "celem badania jest dostarczenie informacji o działalności podmiotów z kapitałem zagranicznym na terenie Polski;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "akty prawa międzynarodowego, z których wynika obowiązek realizacji badania:",
        "children": [
         {
          "type": "lit",
          "num": "a",
-         "path": "ust_5/pkt_1/lit_a",
+         "path": "ust_5/pkt_2/lit_a",
          "text": "rozporządzenie wykonawcze Komisji (UE) 2020/1197 z dnia 30 lipca 2020 r. ustanawiające specyfikacje techniczne i ustalenia na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2152 w sprawie europejskiej statystyki gospodarczej uchylającego 10 aktów prawnych w dziedzinie statystyki gospodarczej, b) rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/2152 z dnia 27 listopada 2019 r. w sprawie europejskiej statystyki gospodarczej uchylające 10 aktów prawnych w dziedzinie statystyki gospodarczej;",
          "children": []
         }
@@ -76272,7 +77785,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_10/pkt_1",
-       "text": "publikacja GUS –„Działalność gospodarcza przedsiębiorstw z kapitałem zagranicznym w 2026 r.” (grudzień2027); 2) informacja sygnalna – „Działalność gospodarcza przedsiębiorstw z kapitałem zagranicznym w 2026 r.” (listopad2027);",
+       "text": "publikacja GUS –„Działalność gospodarcza przedsiębiorstw z kapitałem zagranicznym w 2026 r.” (grudzień2027);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_10/pkt_2",
+       "text": "informacja sygnalna – „Działalność gospodarcza przedsiębiorstw z kapitałem zagranicznym w 2026 r.” (listopad2027);",
        "children": []
       },
       {
@@ -76584,7 +78104,21 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_10/pkt_1",
-       "text": "publikacja GUS –„Działalność przedsiębiorstw posiadających jednostki zagraniczne w 2026 r.” (kwiecień2028); 2) informacja sygnalna –„Działalnośćprzedsiębiorstw posiadających jednostki zagraniczne w 2026 r.” (marzec2028); 3) internetowa baza danych –Bazy Eurostatu i innych organizacji międzynarodowych –Baza Eurostatu –Globalizacja w statystyce przedsiębiorstw –Statystyka Outward FATS (grudzień2028).",
+       "text": "publikacja GUS –„Działalność przedsiębiorstw posiadających jednostki zagraniczne w 2026 r.” (kwiecień2028);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_10/pkt_2",
+       "text": "informacja sygnalna –„Działalnośćprzedsiębiorstw posiadających jednostki zagraniczne w 2026 r.” (marzec2028);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_10/pkt_3",
+       "text": "internetowa baza danych –Bazy Eurostatu i innych organizacji międzynarodowych –Baza Eurostatu –Globalizacja w statystyce przedsiębiorstw –Statystyka Outward FATS (grudzień2028).",
        "children": [
         {
          "type": "text",
@@ -78485,7 +80019,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_8/pkt_1/lit_a",
-         "text": "dane dotyczące banków komercyjnych, banków prowadzących działalność powierniczą i maklerską(lp.81.3), b) dane dotyczące banków spółdzielczych i ich przynależności do banków zrzeszających, struktury własnościowej kapitału podstawowego(lp.81.4);",
+         "text": "dane dotyczące banków komercyjnych, banków prowadzących działalność powierniczą i maklerską(lp.81.3),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_8/pkt_1/lit_b",
+         "text": "dane dotyczące banków spółdzielczych i ich przynależności do banków zrzeszających, struktury własnościowej kapitału podstawowego(lp.81.4);",
          "children": []
         }
        ]
@@ -78543,11 +80084,33 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_10/pkt_1",
-       "text": "publikacje GUS: a) „Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień2027), b) „Mały Rocznik Statystyczny Polski 2027” (lipiec2027), c) „Polska w liczbach 2027” (maj2027), d) „Sytuacja makroekonomiczna w Polsce na tle procesów w gospodarce światowej w 2026 r.” (wrzesień2027); 2) informacja sygnalna –„Wyniki finansowe banków w 2026 r.” (marzec2027).",
+       "text": "publikacje GUS: a) „Rocznik Statystyczny Rzeczypospolitej Polskiej 2027” (grudzień2027),",
        "children": [
         {
-         "type": "text",
-         "text": "403 1.62 RYNEK FINANSOWY"
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_1/lit_b",
+         "text": "„Mały Rocznik Statystyczny Polski 2027” (lipiec2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_1/lit_c",
+         "text": "„Polska w liczbach 2027” (maj2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_1/lit_d",
+         "text": "„Sytuacja makroekonomiczna w Polsce na tle procesów w gospodarce światowej w 2026 r.” (wrzesień2027); 2) informacja sygnalna –„Wyniki finansowe banków w 2026 r.” (marzec2027).",
+         "children": [
+          {
+           "type": "text",
+           "text": "403 1.62 RYNEK FINANSOWY"
+          }
+         ]
         }
        ]
       }
@@ -78591,7 +80154,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_5/pkt_1",
-       "text": "celem badania jest dostarczenie informacji o sytuacji finansowej krajowych zakładów ubezpieczeń/reasekuracji; 2) akt prawa międzynarodowego, z którego wynika obowiązek realizacji badania – rozporządzenie wykonawcze Komisji (UE) 2020/1197 z dnia 30 lipca 2020 r. ustanawiające specyfikacje techniczne i ustalenia na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2152 w sprawie europejskiej statystyki gospodarczej uchylającego 10 aktów prawnych w dziedzinie statystyki gospodarczej;",
+       "text": "celem badania jest dostarczenie informacji o sytuacji finansowej krajowych zakładów ubezpieczeń/reasekuracji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "akt prawa międzynarodowego, z którego wynika obowiązek realizacji badania – rozporządzenie wykonawcze Komisji (UE) 2020/1197 z dnia 30 lipca 2020 r. ustanawiające specyfikacje techniczne i ustalenia na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2152 w sprawie europejskiej statystyki gospodarczej uchylającego 10 aktów prawnych w dziedzinie statystyki gospodarczej;",
        "children": []
       },
       {
@@ -78813,7 +80383,14 @@
          "type": "lit",
          "num": "c",
          "path": "ust_10/pkt_1/lit_c",
-         "text": "„Sytuacja makroekonomiczna w Polsce na tle procesów w gospodarce światowej w 2026 r.” (wrzesień 2027), d) „Polska w liczbach 2027” (maj 2027),",
+         "text": "„Sytuacja makroekonomiczna w Polsce na tle procesów w gospodarce światowej w 2026 r.” (wrzesień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_1/lit_d",
+         "text": "„Polska w liczbach 2027” (maj 2027),",
          "children": []
         },
         {
@@ -80528,7 +82105,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_8/pkt_2/lit_a",
-         "text": "dane dotyczące: podaży pieniądza i czynników jego kreacji, kursów walut, stóp procentowych i ich statystyki, b) dane dotyczące bilansu skonsolidowanego pozostałych monetarnych instytucji finansowych,",
+         "text": "dane dotyczące: podaży pieniądza i czynników jego kreacji, kursów walut, stóp procentowych i ich statystyki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_8/pkt_2/lit_b",
+         "text": "dane dotyczące bilansu skonsolidowanego pozostałych monetarnych instytucji finansowych,",
          "children": []
         },
         {
@@ -80657,40 +82241,47 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_5/pkt_1",
-       "text": "celem badania jest dostarczenie informacji o przedsiębiorstwach prowadzących działalność w zakresie windykacji; 2) użytkownicy, których potrzeby uwzględnia badanie:",
+       "text": "celem badania jest dostarczenie informacji o przedsiębiorstwach prowadzących działalność w zakresie windykacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "użytkownicy, których potrzeby uwzględnia badanie:",
        "children": [
         {
          "type": "lit",
          "num": "a",
-         "path": "ust_5/pkt_1/lit_a",
+         "path": "ust_5/pkt_2/lit_a",
          "text": "administracja rządowa,",
          "children": []
         },
         {
          "type": "lit",
          "num": "b",
-         "path": "ust_5/pkt_1/lit_b",
+         "path": "ust_5/pkt_2/lit_b",
          "text": "NBP,",
          "children": []
         },
         {
          "type": "lit",
          "num": "c",
-         "path": "ust_5/pkt_1/lit_c",
+         "path": "ust_5/pkt_2/lit_c",
          "text": "banki, instytucje ubezpieczeniowe, instytucje finansowe,",
          "children": []
         },
         {
          "type": "lit",
          "num": "d",
-         "path": "ust_5/pkt_1/lit_d",
+         "path": "ust_5/pkt_2/lit_d",
          "text": "media ogólnopolskie i terenowe,",
          "children": []
         },
         {
          "type": "lit",
          "num": "e",
-         "path": "ust_5/pkt_1/lit_e",
+         "path": "ust_5/pkt_2/lit_e",
          "text": "placówki naukowe/badawcze, uczelnie (nauczyciele akademiccy i studenci).",
          "children": []
         }
@@ -81114,14 +82705,35 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_9/pkt_2",
-       "text": "poziomy i wskaźniki cen uzyskiwanych przez rolników na targowiskach, w przekrojach: kraj, NUTS 1, NUTS 2; 3) relacje cen uzyskiwanych przez rolników na targowiskach do cen skupu, w przekrojach: kraj;",
+       "text": "poziomy i wskaźniki cen uzyskiwanych przez rolników na targowiskach, w przekrojach: kraj, NUTS 1, NUTS 2;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_9/pkt_3",
+       "text": "relacje cen uzyskiwanych przez rolników na targowiskach do cen skupu, w przekrojach: kraj;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "4",
        "path": "ust_9/pkt_4",
-       "text": "relacje cen detalicznych niektórych towarów żywnościowych do cen skupu produktów rolnych, w przekrojach: kraj; 5) relacje cen detalicznych środków produkcji dla rolnictwa do cen skupu produktów rolnych, w przekrojach: kraj; 6) wskaźniki cen sprzedawanych produktów rolnych, w przekrojach: grupy produktów (roślinne i zwierzęce), formy sprzedaży (skup i targowiska);",
+       "text": "relacje cen detalicznych niektórych towarów żywnościowych do cen skupu produktów rolnych, w przekrojach: kraj;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_9/pkt_5",
+       "text": "relacje cen detalicznych środków produkcji dla rolnictwa do cen skupu produktów rolnych, w przekrojach: kraj;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_9/pkt_6",
+       "text": "wskaźniki cen sprzedawanych produktów rolnych, w przekrojach: grupy produktów (roślinne i zwierzęce), formy sprzedaży (skup i targowiska);",
        "children": []
       },
       {
@@ -81309,7 +82921,14 @@
          "type": "lit",
          "num": "g",
          "path": "ust_10/pkt_4/lit_g",
-         "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Ceny – Ceny producentów – Ceny w rolnictwie (wrzesień 2027), h) Dziedzinowa Baza Wiedzy – Gospodarka – Ceny – Ceny detaliczne (luty 2026, marzec 2026, kwiecień 2026, maj 2026, czerwiec 2026, lipiec 2026, sierpień 2026, wrzesień 2026, październik 2026, listopad 2026, grudzień 2026, styczeń 2027),",
+         "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Ceny – Ceny producentów – Ceny w rolnictwie (wrzesień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "ust_10/pkt_4/lit_h",
+         "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Ceny – Ceny detaliczne (luty 2026, marzec 2026, kwiecień 2026, maj 2026, czerwiec 2026, lipiec 2026, sierpień 2026, wrzesień 2026, październik 2026, listopad 2026, grudzień 2026, styczeń 2027),",
          "children": []
         },
         {
@@ -81587,7 +83206,14 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_9/pkt_2",
-       "text": "miesięczne i narastające wskaźniki cen: maszyn i urządzeń inwestycyjnych produkcji krajowej, w przekrojach: kraj; 3) średni poziom ceny 1m³ drewna za trzy kwartały roku badanego, w przekrojach: kraj;",
+       "text": "miesięczne i narastające wskaźniki cen: maszyn i urządzeń inwestycyjnych produkcji krajowej, w przekrojach: kraj;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_9/pkt_3",
+       "text": "średni poziom ceny 1m³ drewna za trzy kwartały roku badanego, w przekrojach: kraj;",
        "children": []
       },
       {
@@ -83700,7 +85326,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_8/pkt_5/lit_a",
-         "text": "dane o przeniesieniu prawa własności samolotów dotyczące krajów spoza UE, rezydent/nierezydent (lp. 166.1), b) dane dotyczące przeniesienia prawa własności samolotów dotyczące krajów UE, rezydent/nierezydent (lp. 166.2).",
+         "text": "dane o przeniesieniu prawa własności samolotów dotyczące krajów spoza UE, rezydent/nierezydent (lp. 166.1),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_8/pkt_5/lit_b",
+         "text": "dane dotyczące przeniesienia prawa własności samolotów dotyczące krajów UE, rezydent/nierezydent (lp. 166.2).",
          "children": []
         }
        ]
@@ -84203,7 +85836,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_9/pkt_1",
-       "text": "miesięczne i narastające wskaźniki cen importu, w przekrojach: kraj, PKWiU: klasy, działy i sekcje A, B, C, D; 2) miesięczne i narastające wskaźniki cen eksportu, w przekrojach: kraj, PKWiU: klasy, działy i sekcje A, B, C, D.",
+       "text": "miesięczne i narastające wskaźniki cen importu, w przekrojach: kraj, PKWiU: klasy, działy i sekcje A, B, C, D;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_9/pkt_2",
+       "text": "miesięczne i narastające wskaźniki cen eksportu, w przekrojach: kraj, PKWiU: klasy, działy i sekcje A, B, C, D.",
        "children": []
       }
      ]
@@ -85049,7 +86689,14 @@
          "type": "lit",
          "num": "b",
          "path": "ust_10/pkt_4/lit_b",
-         "text": "Bank Danych Lokalnych –Rynek nieruchomości –Rynkowa sprzedaż lokali mieszkalnych (grudzień2027), c) Dziedzinowa Baza Wiedzy – Gospodarka – Ceny – Ceny nieruchomości (lipiec2026, październik2026, styczeń2027, kwiecień2027),",
+         "text": "Bank Danych Lokalnych –Rynek nieruchomości –Rynkowa sprzedaż lokali mieszkalnych (grudzień2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_4/lit_c",
+         "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Ceny – Ceny nieruchomości (lipiec2026, październik2026, styczeń2027, kwiecień2027),",
          "children": []
         },
         {
@@ -85298,7 +86945,14 @@
          "type": "lit",
          "num": "c",
          "path": "ust_10/pkt_1/lit_c",
-         "text": "„Sytuacja makroekonomiczna w Polsce na tle procesów w gospodarce światowej w 2026 r.” (wrzesień 2027), d) „Rocznik Statystyczny Leśnictwa 2027” (listopad 2027),",
+         "text": "„Sytuacja makroekonomiczna w Polsce na tle procesów w gospodarce światowej w 2026 r.” (wrzesień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_1/lit_d",
+         "text": "„Rocznik Statystyczny Leśnictwa 2027” (listopad 2027),",
          "children": []
         },
         {
@@ -85667,7 +87321,14 @@
          "type": "lit",
          "num": "c",
          "path": "ust_10/pkt_1/lit_c",
-         "text": "„Sytuacja makroekonomiczna w Polsce na tle procesów w gospodarce światowej w 2026 r.” (wrzesień 2027), d) „Biuletyn statystyczny 2026” (luty 2026, marzec 2026, kwiecień 2026, maj 2026, czerwiec 2026, lipiec 2026, sierpień 2026, wrzesień 2026, październik 2026, listopad 2026, grudzień 2026, styczeń 2027),",
+         "text": "„Sytuacja makroekonomiczna w Polsce na tle procesów w gospodarce światowej w 2026 r.” (wrzesień 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_1/lit_d",
+         "text": "„Biuletyn statystyczny 2026” (luty 2026, marzec 2026, kwiecień 2026, maj 2026, czerwiec 2026, lipiec 2026, sierpień 2026, wrzesień 2026, październik 2026, listopad 2026, grudzień 2026, styczeń 2027),",
          "children": []
         },
         {
@@ -85845,7 +87506,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_9/pkt_1",
-       "text": "przychody i wydatki państwowych funduszy celowych, w przekrojach: ogółem i w poszczególnych funduszach; 2) przychody Funduszu Ubezpieczeń Społecznych oraz Funduszu Emerytalno-Rentowego, w przekrojach: składki przypisane, dotacje z budżetu państwa i inne dochody;",
+       "text": "przychody i wydatki państwowych funduszy celowych, w przekrojach: ogółem i w poszczególnych funduszach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_9/pkt_2",
+       "text": "przychody Funduszu Ubezpieczeń Społecznych oraz Funduszu Emerytalno-Rentowego, w przekrojach: składki przypisane, dotacje z budżetu państwa i inne dochody;",
        "children": []
       },
       {
@@ -87374,7 +89042,14 @@
          "type": "lit",
          "num": "t",
          "path": "ust_8/pkt_22/lit_t",
-         "text": "1.61.01 Bieżące wyniki finansowe i nakłady na środki trwałe przedsiębiorstw oraz aktywa i pasywa finansowe, u) 1.61.04 Ocena bieżącej działalności gospodarczej przedsiębiorstw,",
+         "text": "1.61.01 Bieżące wyniki finansowe i nakłady na środki trwałe przedsiębiorstw oraz aktywa i pasywa finansowe,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "u",
+         "path": "ust_8/pkt_22/lit_u",
+         "text": "1.61.04 Ocena bieżącej działalności gospodarczej przedsiębiorstw,",
          "children": []
         },
         {
@@ -88619,7 +90294,14 @@
        "type": "pkt",
        "num": "8",
        "path": "ust_8/pkt_8",
-       "text": "1.61.01 Bieżące wyniki finansowe i nakłady na środki trwałe przedsiębiorstw oraz aktywa i pasywa finansowe; 9) 1.61.05 Roczne badanie działalności gospodarczej przedsiębiorstw;",
+       "text": "1.61.01 Bieżące wyniki finansowe i nakłady na środki trwałe przedsiębiorstw oraz aktywa i pasywa finansowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_8/pkt_9",
+       "text": "1.61.05 Roczne badanie działalności gospodarczej przedsiębiorstw;",
        "children": []
       },
       {
@@ -88942,7 +90624,14 @@
          "type": "lit",
          "num": "d",
          "path": "ust_8/pkt_3/lit_d",
-         "text": "1.30.17 Podróże nierezydentów do Polski. Ruch pojazdów i osób na granicy Polski z krajami Unii Europejskiej, e) 1.30.18 Uczestnictwo mieszkańców Polski (rezydentów) w podróżach,",
+         "text": "1.30.17 Podróże nierezydentów do Polski. Ruch pojazdów i osób na granicy Polski z krajami Unii Europejskiej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_8/pkt_3/lit_e",
+         "text": "1.30.18 Uczestnictwo mieszkańców Polski (rezydentów) w podróżach,",
          "children": []
         },
         {
@@ -88984,7 +90673,14 @@
          "type": "lit",
          "num": "k",
          "path": "ust_8/pkt_3/lit_k",
-         "text": "1.61.01 Bieżące wyniki finansowe i nakłady na środki trwałe przedsiębiorstw oraz aktywa i pasywa finansowe, l) 1.61.04 Ocena bieżącej działalności gospodarczej przedsiębiorstw,",
+         "text": "1.61.01 Bieżące wyniki finansowe i nakłady na środki trwałe przedsiębiorstw oraz aktywa i pasywa finansowe,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "ust_8/pkt_3/lit_l",
+         "text": "1.61.04 Ocena bieżącej działalności gospodarczej przedsiębiorstw,",
          "children": []
         },
         {
@@ -90403,7 +92099,14 @@
        "type": "pkt",
        "num": "6",
        "path": "ust_9/pkt_6",
-       "text": "dynamika realnych dochodów do dyspozycji brutto w sektorze gospodarstw domowych, w przekrojach: NUTS 2; 7) transfery socjalne w naturze w sektorze gospodarstw domowych, w przekrojach: NUTS 1, NUTS 2;",
+       "text": "dynamika realnych dochodów do dyspozycji brutto w sektorze gospodarstw domowych, w przekrojach: NUTS 2;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_9/pkt_7",
+       "text": "transfery socjalne w naturze w sektorze gospodarstw domowych, w przekrojach: NUTS 1, NUTS 2;",
        "children": []
       },
       {
@@ -90556,7 +92259,14 @@
          "type": "lit",
          "num": "g",
          "path": "ust_10/pkt_4/lit_g",
-         "text": "Bank Danych Lokalnych – Rachunki regionalne – Dochody w sektorze gospodarstw domowych (listopad 2028), h) Dziedzinowa Baza Wiedzy – Gospodarka – Rachunki narodowe i regionalne – Rachunki regionalne (grudzień 2028),",
+         "text": "Bank Danych Lokalnych – Rachunki regionalne – Dochody w sektorze gospodarstw domowych (listopad 2028),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "ust_10/pkt_4/lit_h",
+         "text": "Dziedzinowa Baza Wiedzy – Gospodarka – Rachunki narodowe i regionalne – Rachunki regionalne (grudzień 2028),",
          "children": []
         },
         {
@@ -91546,7 +93256,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_8/pkt_3/lit_a",
-         "text": "dane z systemów informacyjnych – Urzędu Komisji Nadzoru Finansowego i Narodowego Banku Polskiego, b) dane Krajowego Depozytu Papierów Wartościowych S.A.",
+         "text": "dane z systemów informacyjnych – Urzędu Komisji Nadzoru Finansowego i Narodowego Banku Polskiego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_8/pkt_3/lit_b",
+         "text": "dane Krajowego Depozytu Papierów Wartościowych S.A.",
          "children": []
         }
        ]
@@ -91871,7 +93588,14 @@
          "type": "lit",
          "num": "e",
          "path": "ust_8/pkt_6/lit_e",
-         "text": "dane ze sprawozdań Rb-27, Rb-28, Rb-28NW, Rb-34PL oraz Rb-27S, Rb-28S, Rb-30S, Rb-34S (lp. 26.47), f) dane dotyczące skonsolidowanych bilansów jednostek samorządu terytorialnego (lp. 26.56),",
+         "text": "dane ze sprawozdań Rb-27, Rb-28, Rb-28NW, Rb-34PL oraz Rb-27S, Rb-28S, Rb-30S, Rb-34S (lp. 26.47),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_8/pkt_6/lit_f",
+         "text": "dane dotyczące skonsolidowanych bilansów jednostek samorządu terytorialnego (lp. 26.56),",
          "children": []
         },
         {
@@ -92659,7 +94383,14 @@
          "type": "lit",
          "num": "d",
          "path": "ust_8/pkt_6/lit_d",
-         "text": "dane ze sprawozdań Rb-27, Rb-28, Rb-28NW, Rb-34PL oraz Rb-27S, Rb-28S, Rb-30S, Rb-34S (lp. 26.47), e) dane dotyczące skonsolidowanych bilansów jednostek samorządu terytorialnego (lp. 26.56),",
+         "text": "dane ze sprawozdań Rb-27, Rb-28, Rb-28NW, Rb-34PL oraz Rb-27S, Rb-28S, Rb-30S, Rb-34S (lp. 26.47),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_8/pkt_6/lit_e",
+         "text": "dane dotyczące skonsolidowanych bilansów jednostek samorządu terytorialnego (lp. 26.56),",
          "children": []
         },
         {
@@ -93298,7 +95029,14 @@
          "type": "lit",
          "num": "b",
          "path": "ust_8/pkt_3/lit_b",
-         "text": "dane ze sprawozdań Rb-27, Rb-28, Rb-28 NW, Rb-33, Rb-35, Rb-40, Rb-FEP oraz Rb-30S, Rb-34S (lp. 26.48), c) dane ze sprawozdań Rb-27UE, Rb-28UE i Rb-28UE WPR (lp. 26.49),",
+         "text": "dane ze sprawozdań Rb-27, Rb-28, Rb-28 NW, Rb-33, Rb-35, Rb-40, Rb-FEP oraz Rb-30S, Rb-34S (lp. 26.48),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_8/pkt_3/lit_c",
+         "text": "dane ze sprawozdań Rb-27UE, Rb-28UE i Rb-28UE WPR (lp. 26.49),",
          "children": []
         },
         {
@@ -94223,7 +95961,14 @@
          "type": "lit",
          "num": "i",
          "path": "ust_8/pkt_2/lit_i",
-         "text": "Urzędu Komunikacji Elektronicznej j) Zakładu Ubezpieczeń Społecznych,",
+         "text": "Urzędu Komunikacji Elektronicznej",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "ust_8/pkt_2/lit_j",
+         "text": "Zakładu Ubezpieczeń Społecznych,",
          "children": []
         },
         {
@@ -94619,11 +96364,19 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_10/pkt_1",
-       "text": "internetowe bazy danych: a) Bazy Eurostatu i innych organizacji międzynarodowych – Baza Eurostatu – Statystyki miast (czerwiec 2028), b) Bank Danych Lokalnych – Moduł dotyczący obszarów funkcjonalnych, w tym miast (dane roczne) (grudzień 2027); 2) tablica publikacyjna – „Miasta w liczbach 2026” (grudzień 2027).",
+       "text": "internetowe bazy danych: a) Bazy Eurostatu i innych organizacji międzynarodowych – Baza Eurostatu – Statystyki miast (czerwiec 2028),",
        "children": [
         {
-         "type": "text",
-         "text": "487 1.70 BADANIA REGIONALNE"
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_1/lit_b",
+         "text": "Bank Danych Lokalnych – Moduł dotyczący obszarów funkcjonalnych, w tym miast (dane roczne) (grudzień 2027); 2) tablica publikacyjna – „Miasta w liczbach 2026” (grudzień 2027).",
+         "children": [
+          {
+           "type": "text",
+           "text": "487 1.70 BADANIA REGIONALNE"
+          }
+         ]
         }
        ]
       }
@@ -94942,7 +96695,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_10/pkt_1/lit_a",
-         "text": "Bank Danych Lokalnych – Fundusze unijne – Fundusze unijne – PROW 2014–2020 (grudzień 2026, maj 2027), b) Bank Danych Lokalnych – Fundusze unijne – Fundusze unijne – Systemy wsparcia bezpośredniego (grudzień 2026, maj 2027),",
+         "text": "Bank Danych Lokalnych – Fundusze unijne – Fundusze unijne – PROW 2014–2020 (grudzień 2026, maj 2027),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_1/lit_b",
+         "text": "Bank Danych Lokalnych – Fundusze unijne – Fundusze unijne – Systemy wsparcia bezpośredniego (grudzień 2026, maj 2027),",
          "children": []
         },
         {
@@ -97413,11 +99173,19 @@
      "type": "ust",
      "num": "63",
      "path": "ust_63",
-     "text": "GP – sprawozdanie Spółki akcyjne, proste spółki akcyjne, spółki z Cechy grup przedsiębiorstw. Dane Raz w roku do 30 Dane jednostkowe w postaci 1.61.12, statystyczne dla grup ograniczoną odpowiedzialnością, spółki adresowe i terytorialne. Dane lipca 2027 r. za rok elektronicznej; 1.61.17, przedsiębiorstw komandytowe, spółki komandytowo-akcyjne, bilansowe. Dane identyfikacyjne. 2026; zbiór danych; 1.61.20, spółki europejskie, spółdzielnie, Rodzaj prowadzonej działalności portal sprawozdawczy GUS 1.80.01 przedsiębiorstwa państwowe, oddziały obowiązkowe https://raport.stat.gov.pl/ przedsiębiorców zagranicznych, bez względu na liczbę pracujących, prowadzące działalność przeważającą zaklasyfikowaną według PKD 2025 do sekcji A (z wyłączeniem osób fizycznych prowadzących indywidualne gospodarstwa rolne), B, C, D, E, F, G, H, I, J (z wyłączeniem instytucji kultury mających osobowość prawną), K, L (z wyłączeniem banków, spółdzielczych kas oszczędnościowokredytowych, instytucji ubezpieczeniowych, biur i domów maklerskich, towarzystw i funduszy inwestycyjnych oraz towarzystw i funduszy emerytalnych), M, N, O, Q (z wyłączeniem szkolnictwa wyższego), R (z wyłączeniem samodzielnych publicznych zakładów opieki zdrowotnej), S (z wyłączeniem instytucji kultury mających osobowość prawną), T (z wyłączeniem działu 94) (PKD 2007 do sekcji A (z wyłączeniem osób fizycznych prowadzących indywidualne gospodarstwa rolne), B, C, D, E, F, G, H, I, J (z",
+     "text": "GP – sprawozdanie Spółki akcyjne, proste spółki akcyjne, spółki z Cechy grup przedsiębiorstw. Dane Raz w roku do 30 Dane jednostkowe w postaci 1.61.12, statystyczne dla grup ograniczoną odpowiedzialnością, spółki adresowe i terytorialne. Dane lipca 2027 r. za rok elektronicznej; 1.61.17, przedsiębiorstw komandytowe, spółki komandytowo-akcyjne, bilansowe. Dane identyfikacyjne. 2026; zbiór danych; 1.61.20, spółki europejskie, spółdzielnie, Rodzaj prowadzonej działalności portal sprawozdawczy GUS 1.80.01 przedsiębiorstwa państwowe, oddziały obowiązkowe https://raport.stat.gov.pl/ przedsiębiorców zagranicznych, bez względu na liczbę pracujących, prowadzące działalność przeważającą zaklasyfikowaną według PKD 2025 do sekcji A (z wyłączeniem osób fizycznych prowadzących indywidualne gospodarstwa rolne), B, C, D, E, F, G, H, I, J (z wyłączeniem instytucji kultury mających osobowość prawną), K, L (z wyłączeniem banków, spółdzielczych kas oszczędnościowokredytowych, instytucji ubezpieczeniowych, biur i domów maklerskich, towarzystw i funduszy inwestycyjnych oraz towarzystw i funduszy emerytalnych), M, N, O, Q (z wyłączeniem szkolnictwa wyższego), R (z wyłączeniem samodzielnych publicznych zakładów opieki zdrowotnej), S (z wyłączeniem instytucji kultury mających osobowość prawną), T (z wyłączeniem działu",
      "children": [
       {
-       "type": "text",
-       "text": "518"
+       "type": "pkt",
+       "num": "94",
+       "path": "ust_63/pkt_94",
+       "text": "(PKD 2007 do sekcji A (z wyłączeniem osób fizycznych prowadzących indywidualne gospodarstwa rolne), B, C, D, E, F, G, H, I, J (z",
+       "children": [
+        {
+         "type": "text",
+         "text": "518"
+        }
+       ]
       }
      ]
     },
@@ -98837,11 +100605,19 @@
      "type": "ust",
      "num": "160",
      "path": "ust_160",
-     "text": "SR – sprawozdanie o Podmioty gospodarki narodowej, bez względu Dane identyfikacyjne. Łańcuchy Co 3 lata do 29 Dane jednostkowe w postaci 1.61.18, organizacji działalności na liczbę pracujących, prowadzące działalność wartości przedsiębiorstw. października 2027 r. elektronicznej; 1.61.20 przedsiębiorstwa przeważającą zaklasyfikowaną według PKD Międzynarodowe łańcuchy dostaw. za lata 2024–2026; zbiór danych; 2025 do sekcji B, C, D, E, F, G, H, I, J (z Pracujący portal sprawozdawczy GUS wyłączeniem instytucji kultury mających obowiązkowe https://raport.stat.gov.pl/ osobowość prawną), K, L, M, N, O, Q (z wyłączeniem szkół wyższych), R (z wyłączeniem samodzielnych publicznych zakładów opieki zdrowotnej), S (z wyłączeniem instytucji kultury mających osobowość prawną), T (z wyłączeniem działu 94) (PKD 2007 do sekcji B, C, D, E, F, G, H, I, J (z wyłączeniem instytucji kultury mających",
+     "text": "SR – sprawozdanie o Podmioty gospodarki narodowej, bez względu Dane identyfikacyjne. Łańcuchy Co 3 lata do 29 Dane jednostkowe w postaci 1.61.18, organizacji działalności na liczbę pracujących, prowadzące działalność wartości przedsiębiorstw. października 2027 r. elektronicznej; 1.61.20 przedsiębiorstwa przeważającą zaklasyfikowaną według PKD Międzynarodowe łańcuchy dostaw. za lata 2024–2026; zbiór danych; 2025 do sekcji B, C, D, E, F, G, H, I, J (z Pracujący portal sprawozdawczy GUS wyłączeniem instytucji kultury mających obowiązkowe https://raport.stat.gov.pl/ osobowość prawną), K, L, M, N, O, Q (z wyłączeniem szkół wyższych), R (z wyłączeniem samodzielnych publicznych zakładów opieki zdrowotnej), S (z wyłączeniem instytucji kultury mających osobowość prawną), T (z wyłączeniem działu",
      "children": [
       {
-       "type": "text",
-       "text": "547"
+       "type": "pkt",
+       "num": "94",
+       "path": "ust_160/pkt_94",
+       "text": "(PKD 2007 do sekcji B, C, D, E, F, G, H, I, J (z wyłączeniem instytucji kultury mających",
+       "children": [
+        {
+         "type": "text",
+         "text": "547"
+        }
+       ]
       }
      ]
     },

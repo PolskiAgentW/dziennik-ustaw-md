@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/266",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 25 lutego 2025 r. w sprawie szkolenia w oddziale o profilu mundurowym",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/266/text.pdf",
  "body": [
   {
@@ -357,15 +357,177 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Cele ogólne 1) zdobycie wiedzy o organizacji i funkcjonowaniu Policji i Straży Granicznej, a także kształtowanie postaw patriotycznych i społecznych; 2) rozwijanie umiejętności przydatnych w służbie; 3) kształtowanie uniwersalnych kompetencji oraz aktywnych postaw społecznych; 4) podnoszenie sprawności fizycznej oraz nabywanie podstawowych umiejętności z zakresu technik interwencji oraz szkolenia strzeleckiego.",
-     "children": []
+     "text": "Cele ogólne 1) zdobycie wiedzy o organizacji i funkcjonowaniu Policji i Straży Granicznej, a także kształtowanie postaw patriotycznych i społecznych;",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "rozwijanie umiejętności przydatnych w służbie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "kształtowanie uniwersalnych kompetencji oraz aktywnych postaw społecznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "podnoszenie sprawności fizycznej oraz nabywanie podstawowych umiejętności z zakresu technik interwencji oraz szkolenia strzeleckiego.",
+       "children": []
+      }
+     ]
     },
     {
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Cele szczegółowe 1) zdobycie wiedzy o organizacji i funkcjonowaniu Policji i Straży Granicznej, a także kształtowanie postaw patriotycznych i społecznych: a) historia Policji i Straży Granicznej, b) ustawowe zadania Policji i Straży Granicznej, c) uprawnienia funkcjonariuszy, d) etyka w Policji i Straży Granicznej, e) struktura organizacyjna Policji i Straży Granicznej, f) korpusy i stopnie służbowe w Policji i Straży Granicznej, g) elementy musztry i ceremoniału, h) realizacja wybranych czynności służbowych w Policji i Straży Granicznej, i) rekrutacja do służby, j) rozwój zawodowy w Policji i Straży Granicznej, k) podstawy łączności, l) orientacja w terenie, m) kształtowanie tożsamości narodowej i postaw obywatelskich; 2) rozwijanie umiejętności przydatnych w służbie: a) przestępstwo a wykroczenie, b) odpowiedzialność karna, c) pokrzywdzony przestępstwem, wykroczeniem, d) świadek przestępstwa, wykroczenia, e) przestępstwa przeciwko wiarygodności dokumentów, f) mandat karny, g) ochrona prawna funkcjonariusza; 3) kształtowanie uniwersalnych kompetencji oraz aktywnych postaw społecznych: a) standard budowy programu profilaktycznego, b) komunikacja ze społeczeństwem, c) handel ludźmi,",
+     "text": "Cele szczegółowe 1) zdobycie wiedzy o organizacji i funkcjonowaniu Policji i Straży Granicznej, a także kształtowanie postaw patriotycznych i społecznych: a) historia Policji i Straży Granicznej,",
      "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/lit_b",
+       "text": "ustawowe zadania Policji i Straży Granicznej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/lit_c",
+       "text": "uprawnienia funkcjonariuszy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_2/lit_d",
+       "text": "etyka w Policji i Straży Granicznej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_2/lit_e",
+       "text": "struktura organizacyjna Policji i Straży Granicznej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_2/lit_f",
+       "text": "korpusy i stopnie służbowe w Policji i Straży Granicznej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "ust_2/lit_g",
+       "text": "elementy musztry i ceremoniału,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "ust_2/lit_h",
+       "text": "realizacja wybranych czynności służbowych w Policji i Straży Granicznej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "ust_2/lit_i",
+       "text": "rekrutacja do służby,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "ust_2/lit_j",
+       "text": "rozwój zawodowy w Policji i Straży Granicznej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "ust_2/lit_k",
+       "text": "podstawy łączności,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "l",
+       "path": "ust_2/lit_l",
+       "text": "orientacja w terenie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "m",
+       "path": "ust_2/lit_m",
+       "text": "kształtowanie tożsamości narodowej i postaw obywatelskich; 2) rozwijanie umiejętności przydatnych w służbie: a) przestępstwo a wykroczenie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/lit_b",
+       "text": "odpowiedzialność karna,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/lit_c",
+       "text": "pokrzywdzony przestępstwem, wykroczeniem,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_2/lit_d",
+       "text": "świadek przestępstwa, wykroczenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_2/lit_e",
+       "text": "przestępstwa przeciwko wiarygodności dokumentów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_2/lit_f",
+       "text": "mandat karny,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "ust_2/lit_g",
+       "text": "ochrona prawna funkcjonariusza; 3) kształtowanie uniwersalnych kompetencji oraz aktywnych postaw społecznych: a) standard budowy programu profilaktycznego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/lit_b",
+       "text": "komunikacja ze społeczeństwem,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/lit_c",
+       "text": "handel ludźmi,",
+       "children": []
+      },
       {
        "type": "lit",
        "num": "d",
@@ -757,7 +919,7 @@
         },
         {
          "type": "text",
-         "text": "11 Budowa programu Uczeń potrafi: − pojęcie programu profilaktycznego 3 szkoła – sala zajęcia praktyczne: dyrektor szkoły profilaktycznego − omówić standard budowy − rodzaje programów lekcyjna − ćwiczenia lub kierownik programu profilaktycznego profilaktycznych realizowanych jednostki z uwzględnieniem strategii przez Policję i Straż Graniczną organizacyjnej profilaktycznych − pojęcie strategi profilaktycznej Policji oraz Straży − rodzaje strategi (główne oraz Granicznej Standard budowy uzupełniające) i ich charakterystyka programu − czynniki chroniące i czynniki profilaktycznego ryzyka 12 Programy Uczeń potrafi: − ocena wybranego programu 1 szkoła – sala zajęcia praktyczne: dyrektor szkoły profilaktyczne − scharakteryzować profilaktycznego pod kątem lekcyjna − ćwiczenia lub kierownik realizowane przez wybrany program standardu jego budowy jednostki Policję i Straż profilaktyczny organizacyjnej Graniczną realizowany przez Policji oraz Straży Policję i Straż Graniczną Granicznej 13 Komunikacja Uczeń potrafi: − komunikacja ze społeczeństwem, 3 szkoła – sala zajęcia teoretyczne: dyrektor szkoły ze społeczeństwem − wskazać sposoby poczynając od indywidualnych lekcyjna − pogadanka lub kierownik komunikacji Policji kontaktów interpersonalnych zajęcia praktyczne: jednostki i Straży Granicznej między funkcjonariuszem − ćwiczenia organizacyjnej ze społeczeństwem i obywatelem, a kończąc na roli Policji oraz Straży Komunikacja i sposobach wykorzystywania Granicznej ze społeczeństwem narzędzi komunikacyjnych typu media społecznościowe − filary uspołeczniania w Policji, w tym KMZB, aplikacja Moja Komenda, aplikacja Dzielnicowy Bliżej Nas, debaty społeczne Realizacja zajęć Numer Liczba Odpowiedzialny za Tematyka Temat zajęć Efekty uczenia się Szczegółowe treści szkolenia sugerowana tematu godzin miejsce organizację zajęć metoda 14 Zagrożenia w Internecie Uczeń potrafi: − główne zagrożenia w Internecie: 4 szkoła – sala zajęcia teoretyczne: dyrektor szkoły lub − omówić główne phishing, malware, ransomware, lekcyjna − pogadanka kierownik zagrożenia w sieci ataki DDosS, kradzież danych, zajęcia praktyczne: jednostki − wskazać sposoby ochrony kradzież tożsamości − pokaz organizacyjnej przed zagrożeniami − ochrona sieci – ochrona − praca w grupach Policji oraz Straży w sieci oprogramowania, bezpieczne − prezentacje Granicznej − wymienić sposoby logowanie, nieudostępnianie powiadomienia organów danych osobowych ścigania − zgłaszanie incydentów o cyberprzestępstwach związanych z cyberprzestępstwem na przeznaczonej do tego stronie internetowej − powiadomienie organów ścigania Cyberprzestrzeń o cyberprzestępstwach w różnej formie − konsekwencje rozpowszechniania materiałów objętych prawem autorskim w sieci (filmy, nagrania, muzyka, zdjęcia itp.) − bezpieczne zakupy w sieci 15 Komentarz, który rani – Uczeń potrafi: − zjawisko hejtu 6 szkoła – sala zajęcia teoretyczne: dyrektor szkoły czym jest hejt − omówić zjawisko hejtu − korespondencja w mediach lekcyjna − pogadanka lub kierownik − wskazać konsekwencje społecznościowych (posty, czaty, zajęcia praktyczne: jednostki hejtu komentarze) − praca w grupach organizacyjnej − jak rozpoznać hejt − analiza przypadku Policji oraz Straży − jak się bronić przed hejtem − burza mózgów Granicznej − konsekwencje hejtu 16 Wielokulturowość Uczeń potrafi: − charakterystyka społeczności 2 szkoła – sala zajęcia teoretyczne: dyrektor szkoły w moim otoczeniu − wyjaśnić zjawisko wielokulturowej lekcyjna − pogadanka wielokulturowości − różnice kulturowe: gesty, słowa, zajęcia praktyczne: − omówić pojęcia tolerancji ubiór, zachowanie itp. − ćwiczenia Edukacja i dyskryminacji − stereotypy dotyczące innych − praca w grupach międzykulturowa kultur, mniejszości narodowych − wzajemne przenikanie się kultur − tolerancja a dyskryminacja Realizacja zajęć Numer Liczba Odpowiedzialny za Tematyka Temat zajęć Efekty uczenia się Szczegółowe treści szkolenia sugerowana tematu godzin miejsce organizację zajęć metoda"
+         "text": "11 Budowa programu Uczeń potrafi: − pojęcie programu profilaktycznego 3 szkoła – sala zajęcia praktyczne: dyrektor szkoły profilaktycznego − omówić standard budowy − rodzaje programów lekcyjna − ćwiczenia lub kierownik programu profilaktycznego profilaktycznych realizowanych jednostki z uwzględnieniem strategii przez Policję i Straż Graniczną organizacyjnej profilaktycznych − pojęcie strategii profilaktycznej Policji oraz Straży − rodzaje strategii (główne oraz Granicznej Standard budowy uzupełniające) i ich charakterystyka programu − czynniki chroniące i czynniki profilaktycznego ryzyka 12 Programy Uczeń potrafi: − ocena wybranego programu 1 szkoła – sala zajęcia praktyczne: dyrektor szkoły profilaktyczne − scharakteryzować profilaktycznego pod kątem lekcyjna − ćwiczenia lub kierownik realizowane przez wybrany program standardu jego budowy jednostki Policję i Straż profilaktyczny organizacyjnej Graniczną realizowany przez Policji oraz Straży Policję i Straż Graniczną Granicznej 13 Komunikacja Uczeń potrafi: − komunikacja ze społeczeństwem, 3 szkoła – sala zajęcia teoretyczne: dyrektor szkoły ze społeczeństwem − wskazać sposoby poczynając od indywidualnych lekcyjna − pogadanka lub kierownik komunikacji Policji kontaktów interpersonalnych zajęcia praktyczne: jednostki i Straży Granicznej między funkcjonariuszem − ćwiczenia organizacyjnej ze społeczeństwem i obywatelem, a kończąc na roli Policji oraz Straży Komunikacja i sposobach wykorzystywania Granicznej ze społeczeństwem narzędzi komunikacyjnych typu media społecznościowe − filary uspołeczniania w Policji, w tym KMZB, aplikacja Moja Komenda, aplikacja Dzielnicowy Bliżej Nas, debaty społeczne Realizacja zajęć Numer Liczba Odpowiedzialny za Tematyka Temat zajęć Efekty uczenia się Szczegółowe treści szkolenia sugerowana tematu godzin miejsce organizację zajęć metoda 14 Zagrożenia w Internecie Uczeń potrafi: − główne zagrożenia w Internecie: 4 szkoła – sala zajęcia teoretyczne: dyrektor szkoły lub − omówić główne phishing, malware, ransomware, lekcyjna − pogadanka kierownik zagrożenia w sieci ataki DDosS, kradzież danych, zajęcia praktyczne: jednostki − wskazać sposoby ochrony kradzież tożsamości − pokaz organizacyjnej przed zagrożeniami − ochrona sieci – ochrona − praca w grupach Policji oraz Straży w sieci oprogramowania, bezpieczne − prezentacje Granicznej − wymienić sposoby logowanie, nieudostępnianie powiadomienia organów danych osobowych ścigania − zgłaszanie incydentów o cyberprzestępstwach związanych z cyberprzestępstwem na przeznaczonej do tego stronie internetowej − powiadomienie organów ścigania Cyberprzestrzeń o cyberprzestępstwach w różnej formie − konsekwencje rozpowszechniania materiałów objętych prawem autorskim w sieci (filmy, nagrania, muzyka, zdjęcia itp.) − bezpieczne zakupy w sieci 15 Komentarz, który rani – Uczeń potrafi: − zjawisko hejtu 6 szkoła – sala zajęcia teoretyczne: dyrektor szkoły czym jest hejt − omówić zjawisko hejtu − korespondencja w mediach lekcyjna − pogadanka lub kierownik − wskazać konsekwencje społecznościowych (posty, czaty, zajęcia praktyczne: jednostki hejtu komentarze) − praca w grupach organizacyjnej − jak rozpoznać hejt − analiza przypadku Policji oraz Straży − jak się bronić przed hejtem − burza mózgów Granicznej − konsekwencje hejtu 16 Wielokulturowość Uczeń potrafi: − charakterystyka społeczności 2 szkoła – sala zajęcia teoretyczne: dyrektor szkoły w moim otoczeniu − wyjaśnić zjawisko wielokulturowej lekcyjna − pogadanka wielokulturowości − różnice kulturowe: gesty, słowa, zajęcia praktyczne: − omówić pojęcia tolerancji ubiór, zachowanie itp. − ćwiczenia Edukacja i dyskryminacji − stereotypy dotyczące innych − praca w grupach międzykulturowa kultur, mniejszości narodowych − wzajemne przenikanie się kultur − tolerancja a dyskryminacja Realizacja zajęć Numer Liczba Odpowiedzialny za Tematyka Temat zajęć Efekty uczenia się Szczegółowe treści szkolenia sugerowana tematu godzin miejsce organizację zajęć metoda"
         },
         {
          "type": "text",
@@ -953,7 +1115,7 @@
         },
         {
          "type": "text",
-         "text": "1 Powstanie i rozwój Uczeń potrafi: − daty powołania Policji i Straży 1 szkoła – sala zajęcia teoretyczne: dyrektor szkoły organizacyjny formacji − omówić historię powstania Granicznej lekcyjna − pogadanka Policji i Straży Granicznej − rozwój Policjii Straży Granicznej po odzyskaniu niepodległości 2 Udział Policji i Straży Uczeń potrafi: − Polska Policja w II RP 1 szkoła – sala zajęcia teoretyczne: dyrektor szkoły Granicznej − określić rolę Policji − zadania Polskiej Policji lekcyjna − pogadanka w odzyskaniu i polskich formacji we wrześniu 1939 r. oraz w okresie Historia Policji niepodległości granicznych okupacji (granatowa policja versus w kształtowaniu Polska Policja Podziemna) i Straży bezpieczeństwa państwa − polskie formacje graniczne w II RP Granicznej − scharakteryzować (Wojskowa Straż Graniczna, znaczenie Policji Bataliony Wartownicze, Bataliony i polskich formacji Celne, Straż Graniczna, Korpus granicznych w ujęciu Ochrony Pogranicza) diachronicznym od II RP − Wojska Ochrony Pogranicza do III RP i ochrona granic PRL − Policja i Straż Graniczna w służbie III RP 3 Akty prawne regulujące Uczeń potrafi: − akty prawne o powołaniu Policji 1 szkoła – sala zajęcia teoretyczne: dyrektor szkoły funkcjonowanie Policji − wymienić akty prawne i Straży Granicznej po 1989 r. lekcyjna − pogadanka i Straży Granicznej regulujące − cele powołania formacji funkcjonowanie Policji mundurowych i Straży Granicznej Ustawowe − określić cel powołania Policji i Straży Granicznej zadania Policji 4 Zadania Policji i Straży Uczeń potrafi: − akty prawne regulujące zadania 1 szkoła – sala zajęcia teoretyczne: dyrektor szkoły i Straży Granicznej w zakresie − lekcyjna − wskazać akty prawne Policjii Straży Granicznej pogadanka Granicznej bezpieczeństwa regulujące zadania Policji w zakresie bezpieczeństwa i porządku publicznego i Straży Granicznej i porządku publicznego − omówić zadania Policji − zadania Policji i Straży Granicznej i Straży Granicznej w zakresie bezpieczeństwa w zakresie bezpieczeństwa i porządku publicznego i porządku publicznego Numer Liczba Realizacja zajęć Odpowiedzialny za Tematyka Temat zajęć Efekty uczenia się Szczegółowe treści szkolenia tematu godzin miejsce sugerowana metoda organizację zajęć"
+         "text": "1 Powstanie i rozwój Uczeń potrafi: − daty powołania Policji i Straży 1 szkoła – sala zajęcia teoretyczne: dyrektor szkoły organizacyjny formacji − omówić historię powstania Granicznej lekcyjna − pogadanka Policji i Straży Granicznej − rozwój Policji i Straży Granicznej po odzyskaniu niepodległości 2 Udział Policji i Straży Uczeń potrafi: − Polska Policja w II RP 1 szkoła – sala zajęcia teoretyczne: dyrektor szkoły Granicznej − określić rolę Policji − zadania Polskiej Policji lekcyjna − pogadanka w odzyskaniu i polskich formacji we wrześniu 1939 r. oraz w okresie Historia Policji niepodległości granicznych okupacji (granatowa policja versus w kształtowaniu Polska Policja Podziemna) i Straży bezpieczeństwa państwa − polskie formacje graniczne w II RP Granicznej − scharakteryzować (Wojskowa Straż Graniczna, znaczenie Policji Bataliony Wartownicze, Bataliony i polskich formacji Celne, Straż Graniczna, Korpus granicznych w ujęciu Ochrony Pogranicza) diachronicznym od II RP − Wojska Ochrony Pogranicza do III RP i ochrona granic PRL − Policja i Straż Graniczna w służbie III RP 3 Akty prawne regulujące Uczeń potrafi: − akty prawne o powołaniu Policji 1 szkoła – sala zajęcia teoretyczne: dyrektor szkoły funkcjonowanie Policji − wymienić akty prawne i Straży Granicznej po 1989 r. lekcyjna − pogadanka i Straży Granicznej regulujące − cele powołania formacji funkcjonowanie Policji mundurowych i Straży Granicznej Ustawowe − określić cel powołania Policji i Straży Granicznej zadania Policji 4 Zadania Policji i Straży Uczeń potrafi: − akty prawne regulujące zadania 1 szkoła – sala zajęcia teoretyczne: dyrektor szkoły i Straży Granicznej w zakresie − lekcyjna − wskazać akty prawne Policji i Straży Granicznej pogadanka Granicznej bezpieczeństwa regulujące zadania Policji w zakresie bezpieczeństwa i porządku publicznego i Straży Granicznej i porządku publicznego − omówić zadania Policji − zadania Policji i Straży Granicznej i Straży Granicznej w zakresie bezpieczeństwa w zakresie bezpieczeństwa i porządku publicznego i porządku publicznego Numer Liczba Realizacja zajęć Odpowiedzialny za Tematyka Temat zajęć Efekty uczenia się Szczegółowe treści szkolenia tematu godzin miejsce sugerowana metoda organizację zajęć"
         },
         {
          "type": "text",
@@ -1209,7 +1371,7 @@
         },
         {
          "type": "text",
-         "text": "7 Ja za granicą Uczeń potrafi: − przygotowanie się do 2 szkoła – sala zajęcia praktyczne: dyrektor szkoły − wskazać zasady podróży zagranicznych lekcyjna − ćwiczenia i sposoby przygotowania z perspektywy − praca w grupach się do podróży bezpieczeństwa, w tym − prezentacje Edukacja zagranicznej zwrócenie uwagi na tradycję, międzykulturowa religię i kulturę kraju podróży − zakaz przywozu i wywozu okazów roślini zwierząt (CITES)"
+         "text": "7 Ja za granicą Uczeń potrafi: − przygotowanie się do 2 szkoła – sala zajęcia praktyczne: dyrektor szkoły − wskazać zasady podróży zagranicznych lekcyjna − ćwiczenia i sposoby przygotowania z perspektywy − praca w grupach się do podróży bezpieczeństwa, w tym − prezentacje Edukacja zagranicznej zwrócenie uwagi na tradycję, międzykulturowa religię i kulturę kraju podróży − zakaz przywozu i wywozu okazów roślin i zwierząt (CITES)"
         },
         {
          "type": "text",
