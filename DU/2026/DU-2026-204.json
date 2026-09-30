@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/204",
  "title": "Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Federacyjnej Republiki Brazylii o wymianie i wzajemnej ochronie informacji niejawnych, podpisana w Nowym Jorku dnia 20 września 2022 r.",
- "converter": "eli2md 0.6.3",
+ "converter": "eli2md 0.6.4",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/204/text.pdf",
  "body": [
   {
@@ -1498,7 +1498,19 @@
   },
   {
    "type": "note",
-   "text": "[Na stronie 40 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Na stronie 40 PDF jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Done at New York on 20% Senate mer 2022, in two original copies, each in the Polish, Portuguese and English languages, all texts being equally authentic. In case of divergence of interpretation, the English text shall prevail."
+  },
+  {
+   "type": "ocr",
+   "text": "For the Government For the Government"
+  },
+  {
+   "type": "ocr",
+   "text": "of the Republic of Poland of the Federative Republic of Brazil A lp"
   },
   {
    "type": "text",

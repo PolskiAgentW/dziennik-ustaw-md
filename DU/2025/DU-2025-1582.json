@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1582",
  "title": "Rozporządzenie Rady Ministrów z dnia 12 listopada 2025 r. zmieniające rozporządzenie w sprawie chorób zawodowych",
- "converter": "eli2md 0.6.3",
+ "converter": "eli2md 0.6.4",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1582/text.pdf",
  "body": [
   {
@@ -61,68 +61,60 @@
        "num": "a",
        "path": "par_1/pkt_3/lit_a",
        "text": "lp. 5 otrzymuje brzmienie:",
-       "children": []
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "5",
-     "path": "par_1/ust_5",
-     "text": "Przewlekłe obturacyjne zapalenie oskrzeli, które spowodowało trwałe 1 rok upośledzenie sprawności wentylacyjnej płuc ze stosunkiem procentowym natężonej objętości wydechowej pierwszosekundowej (FEV1) do pojemności życiowej (VC) wynoszącym poniżej 0,7 po leku rozszerzającym oskrzela",
-     "children": [
+       "children": [
+        {
+         "type": "text",
+         "text": "5. Przewlekłe obturacyjne zapalenie oskrzeli, które spowodowało trwałe 1 rok upośledzenie sprawności wentylacyjnej płuc ze stosunkiem procentowym natężonej objętości wydechowej pierwszosekundowej (FEV1) do pojemności życiowej (VC) wynoszącym poniżej 0,7 po leku rozszerzającym oskrzela"
+        }
+       ]
+      },
       {
        "type": "lit",
        "num": "b",
-       "path": "par_1/ust_5/lit_b",
+       "path": "par_1/pkt_3/lit_b",
        "text": "po lp. 6 dodaje się lp. 6a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "6a. Eozynofilowe zapalenie oskrzeli 1 rok"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_3/lit_c",
+       "text": "w lp. 17 po pkt 9 dodaje się pkt 10 i 11 w brzmieniu:",
        "children": []
       }
      ]
     },
     {
-     "type": "ust",
-     "num": "6a",
-     "path": "par_1/ust_6a",
-     "text": "Eozynofilowe zapalenie oskrzeli 1 rok",
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "rak jajnika indywidualnie w zależności od okresu latencji nowotworu",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_1/pkt_11",
+     "text": "nowotwór przewodu pokarmowego indywidualnie w zależności od okresu latencji nowotworu",
      "children": [
       {
        "type": "lit",
-       "num": "c",
-       "path": "par_1/ust_6a/lit_c",
-       "text": "w lp. 17 po pkt 9 dodaje się pkt 10 i 11 w brzmieniu:",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "10",
-       "path": "par_1/ust_6a/pkt_10",
-       "text": "rak jajnika indywidualnie w zależności od okresu latencji nowotworu",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "11",
-       "path": "par_1/ust_6a/pkt_11",
-       "text": "nowotwór przewodu pokarmowego indywidualnie w zależności od okresu latencji nowotworu",
+       "num": "d",
+       "path": "par_1/pkt_11/lit_d",
+       "text": "lp. 21 otrzymuje brzmienie:",
        "children": [
         {
-         "type": "lit",
-         "num": "d",
-         "path": "par_1/ust_6a/pkt_11/lit_d",
-         "text": "lp. 21 otrzymuje brzmienie:",
-         "children": []
+         "type": "text",
+         "text": "21. Trwały odbiorczy ubytek słuchu typu ślimakowego lub czuciowo-nerwowego 2 lata spowodowany hałasem, wyrażony podwyższeniem progu słuchu o wielkości co najmniej 45 dB, obliczony jako średnia arytmetyczna dla częstotliwości audiometrycznych 1, 2 i 3 kHz"
         }
        ]
       }
      ]
-    },
-    {
-     "type": "ust",
-     "num": "21",
-     "path": "par_1/ust_21",
-     "text": "Trwały odbiorczy ubytek słuchu typu ślimakowego lub czuciowo-nerwowego 2 lata spowodowany hałasem, wyrażony podwyższeniem progu słuchu o wielkości co najmniej 45 dB, obliczony jako średnia arytmetyczna dla częstotliwości audiometrycznych 1, 2 i 3 kHz",
-     "children": []
     }
    ]
   },

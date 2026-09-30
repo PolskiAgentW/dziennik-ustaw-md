@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1548",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 4 listopada 2025 r. w sprawie warunków technicznych dla budowli ochronnych oraz warunków technicznych ich użytkowania i usytuowania",
- "converter": "eli2md 0.6.3",
+ "converter": "eli2md 0.6.4",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1548/text.pdf",
  "body": [
   {
@@ -5144,11 +5144,11 @@
       },
       {
        "type": "text",
-       "text": "ff cccc,dddddd ff ddcc,dddddd kk dddddd ∙ff ddcc,dddddd"
+       "text": "f cc,ddd f dc,ddd k ddd ∙f dc,ddd"
       },
       {
        "type": "text",
-       "text": "zginanie 1,25 ff cccc 1,20 ff ddcc kk∙ff 1,05 ddcc"
+       "text": "zginanie 1,25 f cc 1,20 f dc k∙f 1,05 dc"
       },
       {
        "type": "text",
@@ -5176,11 +5176,11 @@
       },
       {
        "type": "text",
-       "text": "f yk,dyn – charakterystyczna dynamiczna granica plastyczności zbrojenia Uwaga: kk =(ff tt /ff Wytrzymałość yy ) projektowa materiałów powinna uwzględniać współczynniki częściowe dla materiałów w stanach kk granicznych nośności dla sytuacji obliczeniowej wyjątkowej oraz wartość według"
+       "text": "f yk,dyn – charakterystyczna dynamiczna granica plastyczności zbrojenia Uwaga: k =(f t /f Wytrzymałość y ) projektowa materiałów powinna uwzględniać współczynniki częściowe dla materiałów w stanach k granicznych nośności dla sytuacji obliczeniowej wyjątkowej oraz wartość według"
       },
       {
        "type": "text",
-       "text": "załącznika C – zgodnie z Polską Normą dotyczącą projektowania konstrukcji z betonu. (ff tt /ff yy ) kk"
+       "text": "załącznika C – zgodnie z Polską Normą dotyczącą projektowania konstrukcji z betonu. (f t /f y ) k"
       }
      ]
     },
@@ -5204,7 +5204,7 @@
       },
       {
        "type": "text",
-       "text": "ff yy,ddyydd ff uu,ddyydd zginanie 1,20 ff yy 1,05 ff uu"
+       "text": "f y,dyd f u,dyd zginanie 1,20 f y 1,05 f u"
       },
       {
        "type": "text",
@@ -5442,11 +5442,11 @@
       },
       {
        "type": "text",
-       "text": "ℎ bb"
+       "text": "ℎ b"
       },
       {
        "type": "text",
-       "text": "rr zzzzzz = ℎ bb ≤90"
+       "text": "r zzz = ℎ b ≤90"
       },
       {
        "type": "text",
@@ -5458,11 +5458,11 @@
       },
       {
        "type": "text",
-       "text": "ℎ bb −90"
+       "text": "ℎ b −90"
       },
       {
        "type": "text",
-       "text": "gdzie: rr zzzzzz =30+ ℎ bb >90"
+       "text": "gdzie: r zzz =30+ ℎ b >90"
       },
       {
        "type": "text",
@@ -5470,7 +5470,7 @@
       },
       {
        "type": "text",
-       "text": "– wysokość budynku zmierzona od uśrednionego poziomu terenu przy ścianie zewnętrznej budynku ℎ bb do górnej powierzchni najwyżej położonego stropu lub najwyżej położonego punktu stropodachu lub konstrukcji przekrycia budynku, przy czym do wysokości nie wlicza się poddaszy o konstrukcji drewnianej."
+       "text": "– wysokość budynku zmierzona od uśrednionego poziomu terenu przy ścianie zewnętrznej budynku ℎ b do górnej powierzchni najwyżej położonego stropu lub najwyżej położonego punktu stropodachu lub konstrukcji przekrycia budynku, przy czym do wysokości nie wlicza się poddaszy o konstrukcji drewnianej."
       }
      ]
     },
@@ -5482,7 +5482,7 @@
      "children": [
       {
        "type": "text",
-       "text": "gdzie: ℎ zzzzzz =0,75∙(rr zzzzzz −xx)"
+       "text": "gdzie: ℎ zzz =0,75∙(r zzz −x)"
       },
       {
        "type": "text",
@@ -5490,7 +5490,7 @@
       },
       {
        "type": "text",
-       "text": "rr zzzzzz – odległość od ściany zewnętrznej budynku [m]; zakres stosowania: m ."
+       "text": "r zzz – odległość od ściany zewnętrznej budynku [m]; zakres stosowania: m ."
       }
      ]
     },
@@ -5498,7 +5498,7 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "xx Obciążenie od zagruzowania uwzględnia się w obliczeniach konstrukcyjnych 5 ≤xx (statycznych) ≤rr zzzzzz budowli ochronnej jako oddziaływanie wyjątkowe (A).",
+     "text": "x Obciążenie od zagruzowania uwzględnia się w obliczeniach konstrukcyjnych 5 ≤x (statycznych) ≤r zzz budowli ochronnej jako oddziaływanie wyjątkowe (A).",
      "children": []
     },
     {
@@ -5579,7 +5579,7 @@
       },
       {
        "type": "text",
-       "text": "gdzie: AA dd,zzzzzz = (qq bb qq ss,ii ∙ηη ss,ii qq ss,jj ∙ηη ss,jj )"
+       "text": "gdzie: A d,zzz = (q b q s,i ∙η s,i q s,j ∙η s,j )"
       },
       {
        "type": "text",
@@ -5587,7 +5587,7 @@
       },
       {
        "type": "text",
-       "text": "qq bb lub przy budowli ochronnej [kN/m²],"
+       "text": "q b lub przy budowli ochronnej [kN/m²],"
       },
       {
        "type": "text",
@@ -5595,7 +5595,7 @@
       },
       {
        "type": "text",
-       "text": "qq ss,ii zowania obejmuje budowlę ochronną w całości lub w części [kN/m²],"
+       "text": "q s,i zowania obejmuje budowlę ochronną w całości lub w części [kN/m²],"
       },
       {
        "type": "text",
@@ -5603,7 +5603,7 @@
       },
       {
        "type": "text",
-       "text": "ηη ss,ii – liczba budynków sąsiednich, których strefa prognozowanego zagruzowania obejmuje budowlę ochronną w całości lub w części [-]."
+       "text": "η s,i – liczba budynków sąsiednich, których strefa prognozowanego zagruzowania obejmuje budowlę ochronną w całości lub w części [-]."
       }
      ]
     },
@@ -5615,7 +5615,7 @@
      "children": [
       {
        "type": "text",
-       "text": "gdzie: qq =1,5∙√ℎ kk ∙qq kkkkkk"
+       "text": "gdzie: q =1,5∙√ℎ k ∙q kkk"
       },
       {
        "type": "text",
@@ -5623,7 +5623,7 @@
       },
       {
        "type": "text",
-       "text": "ℎ kk poziomej na górnej krawędzi stropu lub stropodachu budowli ochronnej do poziomu górnej powierzchni najwyżej położonego stropu lub stropodachu budynku,"
+       "text": "ℎ k poziomej na górnej krawędzi stropu lub stropodachu budowli ochronnej do poziomu górnej powierzchni najwyżej położonego stropu lub stropodachu budynku,"
       },
       {
        "type": "text",
@@ -5631,19 +5631,19 @@
       },
       {
        "type": "text",
-       "text": "qq kkkkkk wych na kondygnacjach znajdujących się ponad budowlą ochronną [kN/m²] określona, z zastrzeżeniem ust. 12 i 13, według wzoru:"
+       "text": "q kkk wych na kondygnacjach znajdujących się ponad budowlą ochronną [kN/m²] określona, z zastrzeżeniem ust. 12 i 13, według wzoru:"
       },
       {
        "type": "text",
-       "text": "∑gg kk +∑ψψ² ∙qq kk"
+       "text": "∑g k +∑ψ² ∙q k"
       },
       {
        "type": "text",
-       "text": "gdzie: qq kkkkkk ="
+       "text": "gdzie: q kkk ="
       },
       {
        "type": "text",
-       "text": "nn"
+       "text": "n"
       },
       {
        "type": "text",
@@ -5651,7 +5651,7 @@
       },
       {
        "type": "text",
-       "text": "gg kk zgodnie z Polską Normą dotyczącą podstaw projektowania konstrukcji [kN/m²],"
+       "text": "g k zgodnie z Polską Normą dotyczącą podstaw projektowania konstrukcji [kN/m²],"
       },
       {
        "type": "text",
@@ -5659,7 +5659,7 @@
       },
       {
        "type": "text",
-       "text": "ψψ² nie z Polską Normą [-],"
+       "text": "ψ² nie z Polską Normą [-],"
       },
       {
        "type": "text",
@@ -5667,7 +5667,7 @@
       },
       {
        "type": "text",
-       "text": "qq kk zgodnie z Polską Normą dotyczącą podstaw projektowania konstrukcji [kN/m²],"
+       "text": "q k zgodnie z Polską Normą dotyczącą podstaw projektowania konstrukcji [kN/m²],"
       },
       {
        "type": "text",
@@ -5679,7 +5679,7 @@
      "type": "ust",
      "num": "12",
      "path": "ust_12",
-     "text": "W przypadku nn budynku jednokondygnacyjnego wartość q kon przyjmuje się jako wartość odpowiadającą sumie obciążeń stałych od konstrukcji znajdującej się ponad budowlą ochronną.",
+     "text": "W przypadku n budynku jednokondygnacyjnego wartość q kon przyjmuje się jako wartość odpowiadającą sumie obciążeń stałych od konstrukcji znajdującej się ponad budowlą ochronną.",
      "children": []
     },
     {
@@ -5750,7 +5750,7 @@
      "children": [
       {
        "type": "text",
-       "text": "można przyjmować na podstawie krzywych z wykresu nr 1 w zależności od liczby kondygnacji w danym budynku qq oraz charakterystycznej dla niego wartości q kon ."
+       "text": "można przyjmować na podstawie krzywych z wykresu nr 1 w zależności od liczby kondygnacji w danym budynku q oraz charakterystycznej dla niego wartości q kon ."
       },
       {
        "type": "note",
@@ -5870,7 +5870,7 @@
      "children": [
       {
        "type": "text",
-       "text": "gdzie: ℎ EE = ∑(ℎ ii × RR xx )"
+       "text": "gdzie: ℎ E = ∑(ℎ i × R x )"
       },
       {
        "type": "text",
@@ -5878,11 +5878,11 @@
       },
       {
        "type": "text",
-       "text": "ii – współczynnik redukcyjny i-tej warstwy ochronnej."
+       "text": "i – współczynnik redukcyjny i-tej warstwy ochronnej."
       },
       {
        "type": "text",
-       "text": "RR xx"
+       "text": "R x"
       }
      ]
     },
@@ -6082,11 +6082,11 @@
      "children": [
       {
        "type": "text",
-       "text": "∑ρρ ii ×ℎ ii"
+       "text": "∑ρ i ×ℎ i"
       },
       {
        "type": "text",
-       "text": "gdzie: ℎ EEEE ="
+       "text": "gdzie: ℎ EE ="
       },
       {
        "type": "text",
@@ -6098,7 +6098,7 @@
       },
       {
        "type": "text",
-       "text": "i – gęstość i-tej warstwy ochronnej [kg/m³]; dla gruntów o nieokreślonej gęstości i ≤ 1600 kg/m³. ρρ 6. Wejścia, wyjścia zapasowe i inne otwory w warstwach ochronnych schronów wykonuje ρρ się w sposób zapewniający wymaganą krotność osłabienia promieniowania (K) odpowiednio do założonej kategorii odporności, stosując:"
+       "text": "i – gęstość i-tej warstwy ochronnej [kg/m³]; dla gruntów o nieokreślonej gęstości i ≤ 1600 kg/m³. ρ 6. Wejścia, wyjścia zapasowe i inne otwory w warstwach ochronnych schronów wykonuje ρ się w sposób zapewniający wymaganą krotność osłabienia promieniowania (K) odpowiednio do założonej kategorii odporności, stosując:"
       },
       {
        "type": "pkt",
@@ -6142,7 +6142,7 @@
        "children": [
         {
          "type": "text",
-         "text": "gdzie: qq aa =± mm×gg ×KK aa"
+         "text": "gdzie: q a =± m×g ×K a"
         },
         {
          "type": "text",
@@ -6150,15 +6150,15 @@
         },
         {
          "type": "text",
-         "text": "qq aa – masa [kg/m²],"
+         "text": "q a – masa [kg/m²],"
         },
         {
          "type": "text",
-         "text": "mm – przyspieszenie ziemskie [m/s²],"
+         "text": "m – przyspieszenie ziemskie [m/s²],"
         },
         {
          "type": "text",
-         "text": "gg"
+         "text": "g"
         },
         {
          "type": "text",
@@ -6166,7 +6166,7 @@
         },
         {
          "type": "text",
-         "text": "KK aa – schron kategorii S-1: K a = [1,5 ÷ 2,5],"
+         "text": "K a – schron kategorii S-1: K a = [1,5 ÷ 2,5],"
         },
         {
          "type": "text",
@@ -6178,7 +6178,7 @@
         },
         {
          "type": "text",
-         "text": "Uwaga: K a o większej wartości zaleca się przyjmować, gdy stosunek rozpiętości elementu dłuższej ( do krótszej ( spełnia zależność ≥ 1,5; ll xx )"
+         "text": "Uwaga: K a o większej wartości zaleca się przyjmować, gdy stosunek rozpiętości elementu dłuższej ( do krótszej ( spełnia zależność ≥ 1,5; l x )"
         }
        ]
       },
@@ -6186,7 +6186,7 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_2/pkt_2",
-       "text": "metody spektrum ll yy ) odpowiedzi z ll ll yy xx wykorzystaniem wykresu:",
+       "text": "metody spektrum l y ) odpowiedzi z l l y x wykorzystaniem wykresu:",
        "children": [
         {
          "type": "note",
@@ -6234,7 +6234,7 @@
         },
         {
          "type": "text",
-         "text": "gdzie: FF aa =± mm× gg"
+         "text": "gdzie: F a =± m× g"
         },
         {
          "type": "text",
@@ -6242,11 +6242,11 @@
         },
         {
          "type": "text",
-         "text": "FF aa – masa [kg],"
+         "text": "F a – masa [kg],"
         },
         {
          "type": "text",
-         "text": "mm – przyspieszenie ziemskie [m/s²];"
+         "text": "m – przyspieszenie ziemskie [m/s²];"
         }
        ]
       },
@@ -6254,7 +6254,7 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_4/pkt_2",
-       "text": "metody gg spektrum odpowiedzi z wykorzystaniem wykresu, o którym mowa w ust. 2 pkt 2.",
+       "text": "metody g spektrum odpowiedzi z wykorzystaniem wykresu, o którym mowa w ust. 2 pkt 2.",
        "children": []
       }
      ]
@@ -6321,15 +6321,15 @@
      "children": [
       {
        "type": "text",
-       "text": "−2KK⁰ttttnntt(tt+1)bbbb²"
+       "text": "−2K⁰ttnt(t+1)bb²"
       },
       {
        "type": "text",
-       "text": "gdzie: nn rrrrrr =eeeeee[² ]"
+       "text": "gdzie: n rrr =eee[² ]"
       },
       {
        "type": "text",
-       "text": "ttbb"
+       "text": "tb"
       },
       {
        "type": "text",
@@ -6337,19 +6337,19 @@
       },
       {
        "type": "text",
-       "text": "nn rrrrrr – współczynnik parcia spoczynkowego gruntu wyznaczony zgodnie z Polską Normą,"
+       "text": "n rrr – współczynnik parcia spoczynkowego gruntu wyznaczony zgodnie z Polską Normą,"
       },
       {
        "type": "text",
-       "text": "KK₀ – kąt tarcia wewnętrznego gruntu,"
+       "text": "K₀ – kąt tarcia wewnętrznego gruntu,"
       },
       {
        "type": "text",
-       "text": "tt – stosunek długości do rozpiętości stropu L budowli ochronnej,"
+       "text": "t – stosunek długości do rozpiętości stropu L budowli ochronnej,"
       },
       {
        "type": "text",
-       "text": "tt – stosunek zagłębienia stropu budowli ochronnej poniżej poziomu terenu do rozpiętości stropu L, bb – rozpiętość stropu budowli ochronnej; w przypadku stropu charakteryzowanego przez średnicę D bb rozpiętość odpowiada zależności L = 2/3D."
+       "text": "t – stosunek zagłębienia stropu budowli ochronnej poniżej poziomu terenu do rozpiętości stropu L, b – rozpiętość stropu budowli ochronnej; w przypadku stropu charakteryzowanego przez średnicę D b rozpiętość odpowiada zależności L = 2/3D."
       }
      ]
     },
@@ -6357,11 +6357,11 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Współczynnika redukcji nie stosuje się, jeżeli grubość nakładu gruntu na stropie jest mniejsza niż grubość wynikająca z zależności: nn rrrrrr HH oooooo",
+     "text": "Współczynnika redukcji nie stosuje się, jeżeli grubość nakładu gruntu na stropie jest mniejsza niż grubość wynikająca z zależności: n rrr H ooo",
      "children": [
       {
        "type": "text",
-       "text": "gdzie: HH oooooo ≤0,2×bb"
+       "text": "gdzie: H ooo ≤0,2×b"
       },
       {
        "type": "text",
@@ -6390,7 +6390,7 @@
        "children": [
         {
          "type": "text",
-         "text": "qq kk1 =0,8×qq ww"
+         "text": "q k1 =0,8×q w"
         }
        ]
       },
@@ -6405,7 +6405,7 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_6/pkt_3",
-       "text": "w przypadkach innych niż w pkt 1 i 2: qq kk1 =nn rrrrrr ×qq ww",
+       "text": "w przypadkach innych niż w pkt 1 i 2: q k1 =n rrr ×q w",
        "children": []
       }
      ]
@@ -6414,17 +6414,17 @@
      "type": "ust",
      "num": "7",
      "path": "ust_7",
-     "text": "Oddziaływanie na ściany zewnętrzne budowli qq ochronnej kk1 =qq ww przyjmuje się jako poziome obciążenie charakterystyczne o wartości równej co najmniej:",
+     "text": "Oddziaływanie na ściany zewnętrzne budowli q ochronnej k1 =q w przyjmuje się jako poziome obciążenie charakterystyczne o wartości równej co najmniej:",
      "children": [
       {
        "type": "pkt",
        "num": "1",
        "path": "ust_7/pkt_1",
-       "text": "w przypadku qq kk2 ściany lub jej części przylegających do gruntu, w tym gruntu nasypowego ukształtowanego w sposób odpowiadający zależności :",
+       "text": "w przypadku q k2 ściany lub jej części przylegających do gruntu, w tym gruntu nasypowego ukształtowanego w sposób odpowiadający zależności :",
        "children": [
         {
          "type": "text",
-         "text": "BB oo ≥(HH zz +HH oo )/nn"
+         "text": "B o ≥(H z +H o )/n"
         },
         {
          "type": "note",
@@ -6432,7 +6432,7 @@
         },
         {
          "type": "text",
-         "text": "gdzie: qq kk2 =qq ww ×KK gg"
+         "text": "gdzie: q k2 =q w ×K g"
         },
         {
          "type": "text",
@@ -6440,11 +6440,11 @@
         },
         {
          "type": "text",
-         "text": "KK gg Charakterystyka gruntu Współczynnik"
+         "text": "K g Charakterystyka gruntu Współczynnik"
         },
         {
          "type": "text",
-         "text": "Grunty gruboziarniste[^1] o stopniu wilgotności[^2] S r  0,8 0,5 KK gg"
+         "text": "Grunty gruboziarniste[^1] o stopniu wilgotności[^2] S r  0,8 0,5 K g"
         },
         {
          "type": "text",
@@ -6472,7 +6472,7 @@
         },
         {
          "type": "text",
-         "text": "gdzie: SS rr = ww ww rr w – wilgotność gruntu, w r – wilgotność w stanie całkowitego nasycenia porów gruntu wodą."
+         "text": "gdzie: S r = w w r w – wilgotność gruntu, w r – wilgotność w stanie całkowitego nasycenia porów gruntu wodą."
         }
        ]
       },
@@ -6488,7 +6488,7 @@
         },
         {
          "type": "text",
-         "text": "0,6 mm<BB oo <(HH zz +HH oo )/nn"
+         "text": "0,6 m<B o <(H z +H o )/n"
         },
         {
          "type": "lit",
@@ -6498,7 +6498,7 @@
          "children": [
           {
            "type": "text",
-           "text": "gdzie: qq kk2 =qq ww ×KK gg"
+           "text": "gdzie: q k2 =q w ×K g"
           },
           {
            "type": "text",
@@ -6510,11 +6510,11 @@
          "type": "lit",
          "num": "b",
          "path": "ust_7/pkt_2/lit_b",
-         "text": "KK dla gg części ściany poniżej poziomu przylegającego terenu (Ppt):",
+         "text": "K dla g części ściany poniżej poziomu przylegającego terenu (Ppt):",
          "children": [
           {
            "type": "text",
-           "text": "gdzie: qq kk2 ∗ =qq ww ×KK gg ×KK oo"
+           "text": "gdzie: q k2 ∗ =q w ×K g ×K o"
           },
           {
            "type": "text",
@@ -6522,11 +6522,11 @@
           },
           {
            "type": "text",
-           "text": "KK gg – współczynnik odbicia w zależności od nachylenia skarpy nasypu według tabeli:"
+           "text": "K g – współczynnik odbicia w zależności od nachylenia skarpy nasypu według tabeli:"
           },
           {
            "type": "text",
-           "text": "Nachylenie KK oo skarpy nasypu (1:n) 1:5 1:4 1:3 1:2"
+           "text": "Nachylenie K o skarpy nasypu (1:n) 1:5 1:4 1:3 1:2"
           },
           {
            "type": "text",
@@ -6540,7 +6540,7 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_7/pkt_3",
-       "text": "w przypadku ściany KK oo lub jej części, znajdujących się poniżej poziomu wód gruntowych (p.w.g.):",
+       "text": "w przypadku ściany K o lub jej części, znajdujących się poniżej poziomu wód gruntowych (p.w.g.):",
        "children": [
         {
          "type": "note",
@@ -6554,7 +6554,7 @@
          "children": [
           {
            "type": "text",
-           "text": "gdzie: qq kk2 =1,2×qq ww ×KK gg"
+           "text": "gdzie: q k2 =1,2×q w ×K g"
           },
           {
            "type": "text",
@@ -6566,7 +6566,7 @@
          "type": "lit",
          "num": "b",
          "path": "ust_7/pkt_3/lit_b",
-         "text": "KK dla gg części ściany poniżej poziomu wód gruntowych:",
+         "text": "K dla g części ściany poniżej poziomu wód gruntowych:",
          "children": []
         }
        ]
@@ -6575,7 +6575,7 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_7/pkt_4",
-       "text": "w przypadku ściany lub jej części znajdujących qq kk2 ∗ się =qq w ww całości lub części powyżej poziomu przylegającego terenu (Ppt):",
+       "text": "w przypadku ściany lub jej części znajdujących q k2 ∗ się =q w w całości lub części powyżej poziomu przylegającego terenu (Ppt):",
        "children": [
         {
          "type": "note",
@@ -6597,7 +6597,7 @@
           },
           {
            "type": "text",
-           "text": "6×qq ww² gdzie: qq kk2 =2×qq ww + qq ww +720 – współczynnik parcia bocznego gruntu według tabeli w pkt 1,"
+           "text": "6×q w² gdzie: q k2 =2×q w + q w +720 – współczynnik parcia bocznego gruntu według tabeli w pkt 1,"
           }
          ]
         },
@@ -6605,7 +6605,7 @@
          "type": "lit",
          "num": "b",
          "path": "ust_7/pkt_4/lit_b",
-         "text": "KK dla gg części ściany powyżej Ppt, gdy jej wysokość Hs  1,5 m i powierzchnia otworów w ścianie ze-",
+         "text": "K dla g części ściany powyżej Ppt, gdy jej wysokość Hs  1,5 m i powierzchnia otworów w ścianie ze-",
          "children": []
         },
         {
@@ -6614,7 +6614,7 @@
         },
         {
          "type": "text",
-         "text": "2,5×qq ww² qq kk2 =qq ww + qq ww +720"
+         "text": "2,5×q w² q k2 =q w + q w +720"
         },
         {
          "type": "lit",
@@ -6624,7 +6624,7 @@
          "children": [
           {
            "type": "text",
-           "text": "gdzie: qq kk2 ∗ =qq kk2 ×KK gg"
+           "text": "gdzie: q k2 ∗ =q k2 ×K g"
           },
           {
            "type": "text",
@@ -6632,7 +6632,7 @@
           },
           {
            "type": "text",
-           "text": "qq kk2 Ppt,"
+           "text": "q k2 Ppt,"
           },
           {
            "type": "text",
@@ -6640,7 +6640,7 @@
           },
           {
            "type": "text",
-           "text": "KK gg"
+           "text": "K g"
           }
          ]
         }
@@ -6665,7 +6665,7 @@
        "type": "pkt",
        "num": "6",
        "path": "ust_7/pkt_6",
-       "text": "w przypadku ściany przylegającej do pomieszczenia qq kk2 =0,8×qq na kondygnacji ww nadziemnej:",
+       "text": "w przypadku ściany przylegającej do pomieszczenia q k2 =0,8×q na kondygnacji w nadziemnej:",
        "children": [
         {
          "type": "lit",
@@ -6679,11 +6679,11 @@
           },
           {
            "type": "text",
-           "text": "6×qq ww² b) dla ściany przylegającej do pomieszczenia qq kk2 =2×qq z ww powierzchnią + otworów w ścianie zewnętrznej budynku qq ww +720 Ao < 50 % w stosunku do powierzchni ściany zewnętrznej budynku:"
+           "text": "6×q w² b) dla ściany przylegającej do pomieszczenia q k2 =2×q z w powierzchnią + otworów w ścianie zewnętrznej budynku q w +720 Ao < 50 % w stosunku do powierzchni ściany zewnętrznej budynku:"
           },
           {
            "type": "text",
-           "text": "2,5×qq ww² 7) w przypadku ściany częściowo zagłębionej qq kk2 =qq w gruncie ww + i częściowo przylegającej do pomieszczenia na konqq ww +720 dygnacji nadziemnej lub pierwszej podziemnej:"
+           "text": "2,5×q w² 7) w przypadku ściany częściowo zagłębionej q k2 =q w gruncie w + i częściowo przylegającej do pomieszczenia na konq w +720 dygnacji nadziemnej lub pierwszej podziemnej:"
           }
          ]
         },
@@ -6700,15 +6700,15 @@
         },
         {
          "type": "text",
-         "text": "6×qq ww² b) dla części ściany przylegającej qq do kk2 pomieszczenia =2×qq ww + z powierzchnią otworów w ścianie zewnętrznej qq ww +720 budynku A o < 50 % w stosunku do powierzchni ściany zewnętrznej budynku:"
+         "text": "6×q w² b) dla części ściany przylegającej q do k2 pomieszczenia =2×q w + z powierzchnią otworów w ścianie zewnętrznej q w +720 budynku A o < 50 % w stosunku do powierzchni ściany zewnętrznej budynku:"
         },
         {
          "type": "text",
-         "text": "2,5×qq ww² c) dla części ściany poniżej posadzki qq kk2 pomieszczenia =qq ww + oraz przylegającej do gruntu: qq ww +720"
+         "text": "2,5×q w² c) dla części ściany poniżej posadzki q k2 pomieszczenia =q w + oraz przylegającej do gruntu: q w +720"
         },
         {
          "type": "text",
-         "text": "gdzie: qq kk2 ∗ =qq kk2 ×KK gg"
+         "text": "gdzie: q k2 ∗ =q k2 ×K g"
         },
         {
          "type": "text",
@@ -6716,7 +6716,7 @@
         },
         {
          "type": "text",
-         "text": "qq kk2 posadzki pomieszczenia,"
+         "text": "q k2 posadzki pomieszczenia,"
         },
         {
          "type": "text",
@@ -6730,7 +6730,7 @@
      "type": "ust",
      "num": "8",
      "path": "ust_8",
-     "text": "Oddziaływanie KK gg na ściany zewnętrzne budowli ochronnej w miejscu wejścia i miejscu wyjścia zapasowego",
+     "text": "Oddziaływanie K g na ściany zewnętrzne budowli ochronnej w miejscu wejścia i miejscu wyjścia zapasowego",
      "children": [
       {
        "type": "text",
@@ -6738,15 +6738,15 @@
       },
       {
        "type": "text",
-       "text": "o wartości równej co najmniej: qq kk3"
+       "text": "o wartości równej co najmniej: q k3"
       },
       {
        "type": "text",
-       "text": "gdzie: qq kk3 =qq ww ×KK ww – współczynnik odbicia w zależności od warunków usytuowania i ukształtowania przestrzeni odpo-"
+       "text": "gdzie: q k3 =q w ×K w – współczynnik odbicia w zależności od warunków usytuowania i ukształtowania przestrzeni odpo-"
       },
       {
        "type": "text",
-       "text": "KK ww wiednio przy wejściu lub przy wyjściu zapasowym według tabeli:"
+       "text": "K w wiednio przy wejściu lub przy wyjściu zapasowym według tabeli:"
       },
       {
        "type": "text",
@@ -6754,7 +6754,7 @@
       },
       {
        "type": "text",
-       "text": "1 wejście z przestrzeni zamkniętej (korytarza lub pomieszczenia) 0,8 KK ww na kondygnacji podziemnej, której strop jest usytuowany poniżej poziomu przylegającego terenu (Ppt) lub na równi z tym poziomem"
+       "text": "1 wejście z przestrzeni zamkniętej (korytarza lub pomieszczenia) 0,8 K w na kondygnacji podziemnej, której strop jest usytuowany poniżej poziomu przylegającego terenu (Ppt) lub na równi z tym poziomem"
       },
       {
        "type": "text",
@@ -6804,11 +6804,11 @@
      "children": [
       {
        "type": "text",
-       "text": "qq kk4"
+       "text": "q k4"
       },
       {
        "type": "text",
-       "text": "gdzie: qq kk4 =qq ww ×KK oo"
+       "text": "gdzie: q k4 =q w ×K o"
       },
       {
        "type": "text",
@@ -6816,13 +6816,13 @@
       },
       {
        "type": "text",
-       "text": "KK oo 1) w przypadku wyjścia zapasowego z szybem wyłazowym: = 1,6;"
+       "text": "K o 1) w przypadku wyjścia zapasowego z szybem wyłazowym: = 1,6;"
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_11/pkt_2",
-       "text": "w przypadku wyjścia zapasowego połączonego z czerpnią KK powietrza: oo",
+       "text": "w przypadku wyjścia zapasowego połączonego z czerpnią K powietrza: o",
        "children": [
         {
          "type": "lit",
@@ -6835,7 +6835,7 @@
          "type": "lit",
          "num": "b",
          "path": "ust_11/pkt_2/lit_b",
-         "text": "dla schronu kategorii S-2 oraz S-3: = 1,65. KK oo",
+         "text": "dla schronu kategorii S-2 oraz S-3: = 1,65. K o",
          "children": []
         }
        ]
@@ -6846,7 +6846,7 @@
      "type": "ust",
      "num": "12",
      "path": "ust_12",
-     "text": "Oddziaływanie na szyb wyjścia zapasowego lub szyb KK czerpni oo lub wyrzutni powietrza przyjmuje się jako:",
+     "text": "Oddziaływanie na szyb wyjścia zapasowego lub szyb K czerpni o lub wyrzutni powietrza przyjmuje się jako:",
      "children": [
       {
        "type": "pkt",
@@ -6858,11 +6858,11 @@
          "type": "lit",
          "num": "a",
          "path": "ust_12/pkt_1/lit_a",
-         "text": "od strony oddziaływania wybuchu: qq kk5",
+         "text": "od strony oddziaływania wybuchu: q k5",
          "children": [
           {
            "type": "text",
-           "text": "2,5×qq ww²"
+           "text": "2,5×q w²"
           }
          ]
         },
@@ -6870,12 +6870,12 @@
          "type": "lit",
          "num": "b",
          "path": "ust_12/pkt_1/lit_b",
-         "text": "ze stron innych niż w lit. a: qq kk5 =qq ww +",
+         "text": "ze stron innych niż w lit. a: q k5 =q w +",
          "children": []
         },
         {
          "type": "text",
-         "text": "qq ww +720"
+         "text": "q w +720"
         }
        ]
       },
@@ -6883,12 +6883,12 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_12/pkt_2",
-       "text": "pionowe obciążenie charakterystyczne o wartości qq kk5 =1,2×qq równej: ww",
+       "text": "pionowe obciążenie charakterystyczne o wartości q k5 =1,2×q równej: w",
        "children": []
       },
       {
        "type": "text",
-       "text": "qq kk1"
+       "text": "q k1"
       }
      ]
     },
@@ -6896,7 +6896,7 @@
      "type": "ust",
      "num": "13",
      "path": "ust_13",
-     "text": "Oddziaływanie na słupy, ściany wewnętrzne qq kk5 =1,2×qq i zewnętrzne ww określa się odpowiednio do obciążenia stropu.",
+     "text": "Oddziaływanie na słupy, ściany wewnętrzne q k5 =1,2×q i zewnętrzne w określa się odpowiednio do obciążenia stropu.",
      "children": []
     },
     {
@@ -6914,7 +6914,7 @@
      "children": [
       {
        "type": "text",
-       "text": "gdzie: AA dd =φφ dddddd ×qq kk"
+       "text": "gdzie: A d =φ ddd ×q k"
       },
       {
        "type": "text",
@@ -6922,7 +6922,7 @@
       },
       {
        "type": "text",
-       "text": "φφ dddddd – wartość charakterystyczna oddziaływania quasi-statycznego [kN/m²] określona w § 3 ust. 2 rozporząqq kk dzenia."
+       "text": "φ ddd – wartość charakterystyczna oddziaływania quasi-statycznego [kN/m²] określona w § 3 ust. 2 rozporząq k dzenia."
       }
      ]
     },
@@ -6936,14 +6936,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_16/pkt_1",
-       "text": "przy obliczaniu φφ dddddd nośności konstrukcji , z wyjątkiem przypadków, o których mowa w pkt 2;",
+       "text": "przy obliczaniu φ ddd nośności konstrukcji , z wyjątkiem przypadków, o których mowa w pkt 2;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_16/pkt_2",
-       "text": "przy obliczaniu ścinania i przebicia φφ dddddd =1,20 , gdy w obliczeniach nie uwzględnia się wpływu sztywności podpór na wartości sił ścinających oraz φφ dddddd redystrybucję =2,0 sił wewnętrznych w stanie zarysowanym.",
+       "text": "przy obliczaniu ścinania i przebicia φ ddd =1,20 , gdy w obliczeniach nie uwzględnia się wpływu sztywności podpór na wartości sił ścinających oraz φ ddd redystrybucję =2,0 sił wewnętrznych w stanie zarysowanym.",
        "children": []
       }
      ]
@@ -7001,7 +7001,7 @@
      "children": [
       {
        "type": "text",
-       "text": "XX mm"
+       "text": "X m"
       },
       {
        "type": "text",
@@ -7009,7 +7009,7 @@
       },
       {
        "type": "text",
-       "text": "XX EE"
+       "text": "X E"
       },
       {
        "type": "text",

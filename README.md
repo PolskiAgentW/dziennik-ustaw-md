@@ -20,7 +20,7 @@ się przeszukiwać, porównywać i przetwarzać.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-30 01:02 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-30 03:21 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -34,7 +34,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 81, razem 1837 z 55640 
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 197.
 
 Rodzaje aktów: Rozporządzenie 1814, Obwieszczenie 1004, Ustawa 362, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
-Wersje konwertera: eli2md 0.6.3 (3266).
+Wersje konwertera: eli2md 0.6.4 (3266).
 <!-- stats:end -->
 
 ## Zawartość
@@ -51,8 +51,9 @@ Wersje konwertera: eli2md 0.6.3 (3266).
   Opis i przykład: [README eli2md](https://github.com/PolskiAgentW/eli2md#json-drzewo-jednostek-od-053).
 - `index.csv`: jeden wiersz na akt, także nieudany: `eli, year, pos, type, title,
   announcement_date, promulgation, change_date, pdf_sha256, pages, words, no_text_pages, image_pages,
-  ocr_pages, status, error, converter, converted_at`. `ocr_pages` jest puste, jeśli akt konwertowano bez OCR
-  (akty bez skanów przed 0.6.0).
+  ocr_pages, image_ocr_pages, status, error, converter, converted_at`. `ocr_pages` jest puste, jeśli akt
+  konwertowano bez OCR (akty bez skanów przed 0.6.0); `image_ocr_pages` (od 0.6.4) to liczba stron, na których
+  OCR odczytał obraz tekstu (niżej).
 - Cały zbiór w jednym pliku: [`dziennik-ustaw-md.jsonl.gz`](https://github.com/PolskiAgentW/dziennik-ustaw-md/releases/download/dane/dziennik-ustaw-md.jsonl.gz)
   (JSON Lines, jeden akt w wierszu: kolumny `index.csv`, `meta` = front matter, `markdown` = tekst bez front
   matter, `tree` = drzewo z pliku `.json`). Odświeżany codziennie po aktualizacji (workflow „Eksport”).
@@ -71,10 +72,16 @@ czytelnego tekstu (mapy, rysunki, podpisy), mają nadal tylko notkę `> [Strony 
 
 Na innych stronach obok tekstu są duże obrazy (wzory formularzy, rysunki, mapy). **Ich treści tu nie ma.**
 W tekście jest notka `> [Na stronie 7 PDF jest obraz …]`, we front matter pole `pages_with_images`,
-w `index.csv` kolumna `image_pages`.
+w `index.csv` kolumna `image_pages`. Wyjątek od 0.6.4: gdy obraz jest skanem tekstu ciągłego (s. 1 umów
+międzynarodowych: preambuła i pierwsze artykuły), tekst odczytuje OCR. Stoi wtedy pod notką `> [Na stronie 1 PDF
+jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR …]` jako cytaty `> …`; we front matter pole
+`pages_images_ocr`, w `index.csv` kolumna `image_ocr_pages`. Tak jest w 19 umowach (24 strony). Reguła jest
+ostrożna: w 2025–2026 z 43 umów, których s. 1 jest obrazem, tekst dostaje 25 (DU i M.P. razem); tytuły
+w krótkich liniach zostają z notką.
 
 Metadane pochodzą z API ELI bez poprawek, więc zawierają też jego błędy. Przykład: 5 aktów ma
-`announcement_date` w przyszłości (DU/2026/626 i DU/2026/740: rok 2206; stan na 2026-09-29).
+`announcement_date` późniejszą niż data z tytułu (DU/2025/1099, DU/2025/1122, DU/2026/1141: rok 2028;
+DU/2026/626, DU/2026/740: rok 2206; stan na 2026-09-30).
 
 ## Jak powstaje i jak dobre jest
 
@@ -98,11 +105,21 @@ i 2 drobne; na 1 stronie tylko błędna data przepisana z API. Na żadnej stroni
 2 strony. Raport: [eval/visual_audit_2025_2026_v0.6.2.md](https://github.com/PolskiAgentW/eli2md/blob/main/eval/visual_audit_2025_2026_v0.6.2.md).
 
 **Znane błędy**:
-- wzory zapisane w Wordzie czcionką Cambria Math: litery bywają podwojone („kk” zamiast „k”), bo tak są zapisane
-  w warstwie tekstowej PDF (jeden znak na stronie, dwa w tekście), np. DU/2026/1236, DU/2026/40. Wzory są
-  spłaszczone do jednej linii, więc i tak trzeba je czytać z PDF;
+- wzory z Worda są spłaszczone do jednej linii i trzeba je czytać z PDF. W 4 aktach (DU/2025/454, 459, 1743, 1744)
+  mapa znaków czcionki wzorów jest w PDF błędna, więc wzory są nieczytelne;
 - w tabelach z komórkami wieloliniowymi linie sąsiednich kolumn bywają przeplecione (DU/2025/205, lp. 9);
 - przypis z wyliczeniem: do przypisu trafia tylko pierwszy akapit, dalsze punkty są w treści (DU/2026/421).
+
+Zmiana 2026-09-30 rano (eli2md 0.6.4, wszystkie akty od nowa). Tekst zmienił się w 40 plikach, drzewo JSON
+w 68:
+- s. 1 umów międzynarodowych: tekst z obrazu przez OCR (opis wyżej), 19 aktów;
+- wzory z Worda (Cambria Math) bez podwojonych liter („k” zamiast „kk”), mniej ukrytego tekstu z wklejonych PDF-ów
+  (np. zakryte pierwotne nagłówki załączników w DU/2026/667; sprawdzone na renderze strony);
+- JSON: numerowane wiersze tabel i formularzy (wykazy współrzędnych, karty akwenów, wiersze tabel zmienianych
+  bez cudzysłowu) są tekstem, nie jednostkami ust./pkt.
+Sprawdzenie (selfcheck, te same akty, ta sama miara): odsetek słów PDF obecnych w wyniku wzrósł w 16 plikach,
+spadł w 5 — w obejrzanych (DU/2026/40, DU/2026/667) dlatego, że wynik nie zawiera już ukrytego tekstu, który
+miara po stronie PDF nadal liczy. Na odłożonej próbie 35 aktów z 2024 r. wyniki 0.6.4 i 0.6.3 są identyczne.
 
 Zmiana 2026-09-30 w nocy (eli2md 0.6.3, wszystkie akty od nowa). Tekst zmienił się w 352 z 3266 plików
 (w pozostałych tylko pole `converter`):

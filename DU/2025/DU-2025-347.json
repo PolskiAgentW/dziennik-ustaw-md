@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/347",
  "title": "Rozporządzenie Ministra Finansów z dnia 17 marca 2025 r. zmieniające rozporządzenie w sprawie rachunkowości oraz planów kont dla budżetu państwa, budżetów jednostek samorządu terytorialnego, jednostek budżetowych, samorządowych zakładów budżetowych, państwowych funduszy celowych oraz państwowych jednostek budżetowych mających siedzibę poza granicami Rzeczypospolitej Polskiej",
- "converter": "eli2md 0.6.3",
+ "converter": "eli2md 0.6.4",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/347/text.pdf",
  "body": [
   {
@@ -148,15 +148,11 @@
       {
        "type": "text",
        "text": "II. Aktywa netto budżetu"
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "1",
-     "path": "par_1/ust_1",
-     "text": "Wynik (+, –) budżetu państwa",
-     "children": [
+      },
+      {
+       "type": "text",
+       "text": "1. Wynik (+, –) budżetu państwa"
+      },
       {
        "type": "text",
        "text": "1.1. Nadwyżka budżetu państwa (+)"
@@ -172,76 +168,59 @@
       {
        "type": "text",
        "text": "1.4. Niewygasające wydatki"
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "par_1/ust_2",
-     "text": "Skumulowany wynik budżetu państwa (+, –)",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "par_1/ust_3",
-     "text": "Skumulowany wynik budżetu środków europejskich (+, –)",
-     "children": [
+      },
+      {
+       "type": "text",
+       "text": "2. Skumulowany wynik budżetu państwa (+, –)"
+      },
+      {
+       "type": "text",
+       "text": "3. Skumulowany wynik budżetu środków europejskich (+, –)"
+      },
       {
        "type": "text",
        "text": "3.1. Wynik budżetu środków europejskich za dany rok (+, –)"
+      },
+      {
+       "type": "text",
+       "text": "4. Wynik na operacjach niekasowych (+, –)"
+      },
+      {
+       "type": "text",
+       "text": "5. Skumulowany wynik na operacjach niekasowych (+, –)"
+      },
+      {
+       "type": "text",
+       "text": "6. Inne aktywa netto budżetu"
       }
      ]
     },
     {
-     "type": "ust",
-     "num": "4",
-     "path": "par_1/ust_4",
-     "text": "Wynik na operacjach niekasowych (+, –)",
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "po załączniku nr 8 do rozporządzenia dodaje się załącznik nr 8a do rozporządzenia w brzmieniu określonym w załączniku do niniejszego rozporządzenia;",
      "children": []
     },
     {
-     "type": "ust",
-     "num": "5",
-     "path": "par_1/ust_5",
-     "text": "Skumulowany wynik na operacjach niekasowych (+, –)",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "6",
-     "path": "par_1/ust_6",
-     "text": "Inne aktywa netto budżetu",
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "w załączniku nr 10 do rozporządzenia:",
      "children": [
       {
-       "type": "pkt",
-       "num": "9",
-       "path": "par_1/ust_6/pkt_9",
-       "text": "po załączniku nr 8 do rozporządzenia dodaje się załącznik nr 8a do rozporządzenia w brzmieniu określonym w załączniku do niniejszego rozporządzenia;",
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_10/lit_a",
+       "text": "w poz. A. Przychody netto z podstawowej działalności operacyjnej w pkt IV skreśla się wyrazy „i materiałów”,",
        "children": []
       },
       {
-       "type": "pkt",
-       "num": "10",
-       "path": "par_1/ust_6/pkt_10",
-       "text": "w załączniku nr 10 do rozporządzenia:",
-       "children": [
-        {
-         "type": "lit",
-         "num": "a",
-         "path": "par_1/ust_6/pkt_10/lit_a",
-         "text": "w poz. A. Przychody netto z podstawowej działalności operacyjnej w pkt IV skreśla się wyrazy „i materiałów”,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "b",
-         "path": "par_1/ust_6/pkt_10/lit_b",
-         "text": "w poz. B. Koszty działalności operacyjnej w pkt VIII skreśla się wyrazy „i materiałów”.",
-         "children": []
-        }
-       ]
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_10/lit_b",
+       "text": "w poz. B. Koszty działalności operacyjnej w pkt VIII skreśla się wyrazy „i materiałów”.",
+       "children": []
       }
      ]
     }

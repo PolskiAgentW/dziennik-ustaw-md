@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/968",
  "title": "Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Greckiej o wzajemnej ochronie informacji niejawnych, sporządzona w Atenach dnia 13 września 2021 r.",
- "converter": "eli2md 0.6.3",
+ "converter": "eli2md 0.6.4",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/968/text.pdf",
  "body": [
   {
@@ -34,7 +34,15 @@
   },
   {
    "type": "note",
-   "text": "[Na stronie 1 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Na stronie 1 PDF jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "UMOWA między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Greckiej o wzajemnej ochronie informacji niejawnych"
+  },
+  {
+   "type": "ocr",
+   "text": "Rząd Rzeczypospolitej Polskiej i Rząd Republiki Greckiej, zwane dale] ,,Stronami”’, majac na uwadze zagwarantowanie ochrony wymienianych informacji, które zostały zakwalifikowane jako niejawne zgodnie z prawem krajowym jednej ze Stron i przekazane drugiej Stronie, kierując się zamiarem przyjęcia uregulowań prawnych w zakresie wzajemnej ochrony informacji niejawnych, które obowiązywać będą w odniesieniu do jakiejkolwiek współpracy między Stronami, uzgodniły, co następuje:"
   },
   {
    "type": "note",

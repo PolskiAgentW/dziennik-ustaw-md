@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/978",
  "title": "Obwieszczenie Ministra Finansów z dnia 13 lipca 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie sposobu określania profilu ryzyka spółdzielczych kas oszczędnościowo-kredytowych oraz uwzględniania tego profilu w wyznaczaniu składek na fundusz gwarancyjny kas",
- "converter": "eli2md 0.6.3",
+ "converter": "eli2md 0.6.4",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/978/text.pdf",
  "body": [
   {
@@ -698,7 +698,7 @@
       },
       {
        "type": "text",
-       "text": "100 jjjjżjjeeee AA ii,jj > aa jj 0 jjjjżjjeeee AA ii,jj < bb jj IIIIII ii,jj = AA ii,jj −bb jj × 100, jjjjżjjeeee bb jj ≤ AA ii,jj ≤ aa jj gdzie: { aa jj −bb jj"
+       "text": "100 jjżjee A i,j > a j 0 jjżjee A i,j < b j III i,j = A i,j −b j × 100, jjżjee b j ≤ A i,j ≤ a j gdzie: { a j −b j"
       },
       {
        "type": "text",
@@ -718,23 +718,23 @@
       },
       {
        "type": "text",
-       "text": "0 jjjjżjjeeee AA ii,jj > aa jj"
+       "text": "0 jjżjee A i,j > a j"
       },
       {
        "type": "text",
-       "text": "100 jjjjżjjeeee AA ii,jj < bb jj"
+       "text": "100 jjżjee A i,j < b j"
       },
       {
        "type": "text",
-       "text": "IIIIII ii,jj = aa jj −AA ii,jj"
+       "text": "III i,j = a j −A i,j"
       },
       {
        "type": "text",
-       "text": "gdzie: × 100, jjjjżjjeeee bb jj ≤ AA ii,jj ≤ aa jj"
+       "text": "gdzie: × 100, jjżjee b j ≤ A i,j ≤ a j"
       },
       {
        "type": "text",
-       "text": "{ aa jj −bb jj"
+       "text": "{ a j −b j"
       },
       {
        "type": "text",
@@ -758,11 +758,11 @@
       },
       {
        "type": "text",
-       "text": "AAIIII ii = ∑IIII jj ×IIIIII ii,jj"
+       "text": "AII i = ∑II j ×III i,j"
       },
       {
        "type": "text",
-       "text": "gdzie: jj=1"
+       "text": "gdzie: j=1"
       },
       {
        "type": "text",
@@ -774,7 +774,7 @@
       },
       {
        "type": "text",
-       "text": "∑ nn jj=1 IIII jj = 100 %"
+       "text": "∑ n j=1 II j = 100 %"
       }
      ]
     },
@@ -802,11 +802,11 @@
       },
       {
        "type": "text",
-       "text": "αα ( AAAAAAii 100 )"
+       "text": "α ( AAAi 100 )"
       },
       {
        "type": "text",
-       "text": "AAAAAA ii = ββ ×( ββ )"
+       "text": "AAA i = β ×( β )"
       }
      ]
     },
@@ -864,7 +864,7 @@
        "children": [
         {
          "type": "text",
-         "text": "0,25×CCCC"
+         "text": "0,25×CC"
         }
        ]
       },
@@ -872,15 +872,15 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_5/pkt_3",
-       "text": "Współczynnik korekty (µ) CCAA(tt) jest wyznaczany = według wzoru:",
+       "text": "Współczynnik korekty (µ) CA(t) jest wyznaczany = według wzoru:",
        "children": [
         {
          "type": "text",
-         "text": "∑ ii CCCC ii (tt−1)"
+         "text": "∑ i CC i (t−1)"
         },
         {
          "type": "text",
-         "text": "∑ ii CCCC ii (tt−1)"
+         "text": "∑ i CC i (t−1)"
         }
        ]
       },
@@ -888,7 +888,7 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_5/pkt_4",
-       "text": "Jeżeli Fundusz dopuści μ wnoszenie = składek minimalnych, o których mowa w § 6 ∑ ii AAAAAA ii × CCCC ii (tt−1)",
+       "text": "Jeżeli Fundusz dopuści μ wnoszenie = składek minimalnych, o których mowa w § 6 ∑ i AAA i × CC i (t−1)",
        "children": [
         {
          "type": "text",
@@ -902,15 +902,15 @@
          "children": [
           {
            "type": "text",
-           "text": "∗ 0,25×CCCC−nn ×MMCC"
+           "text": "∗ 0,25×CC−n ×MC"
           },
           {
            "type": "text",
-           "text": "gdzie: CC ii (t) = MMCC +( × AAAAAA ii × CCCC ii (tt−1) × µ)"
+           "text": "gdzie: C i (t) = MC +( × AAA i × CC i (t−1) × µ)"
           },
           {
            "type": "text",
-           "text": "∑ ii CCCC ii (tt−1)"
+           "text": "∑ i CC i (t−1)"
           },
           {
            "type": "text",
@@ -1012,7 +1012,7 @@
        "children": [
         {
          "type": "text",
-         "text": "CCCCCC"
+         "text": "CCC"
         }
        ]
       },
@@ -1020,15 +1020,15 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_2/pkt_3",
-       "text": "Współczynnik korekty (µ) jest CCCC wyznaczany = według wzoru:",
+       "text": "Współczynnik korekty (µ) jest CC wyznaczany = według wzoru:",
        "children": [
         {
          "type": "text",
-         "text": "∑ ii CCCC ii (tt−1)"
+         "text": "∑ i CC i (t−1)"
         },
         {
          "type": "text",
-         "text": "∑ ii CCCC ii (tt−1)"
+         "text": "∑ i CC i (t−1)"
         },
         {
          "type": "text",
@@ -1036,7 +1036,7 @@
         },
         {
          "type": "text",
-         "text": "∑ ii AACCAA ii × CCCC ii (tt−1)⁶"
+         "text": "∑ i ACA i × CC i (t−1)⁶"
         }
        ]
       }
@@ -1051,6 +1051,6 @@
   "2": "Dodany przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 6 grudnia 2023 r. zmieniającego rozporządzenie w sprawie sposobu określania profilu ryzyka spółdzielczych kas oszczędnościowo-kredytowych oraz uwzględniania tego profilu w wyznaczaniu składek na fundusz gwarancyjny kas (Dz. U. poz. 2775), które weszło w życie z dniem 1 stycznia 2024 r.",
   "3": "Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.",
   "4": "Rozporządzenie zostało ogłoszone w dniu 5 stycznia 2017 r. ¹",
-  "5": "W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. ² i j i j ³ nn ⁴ ⁵"
+  "5": "W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. ² i j i j ³ n ⁴ ⁵"
  }
 }

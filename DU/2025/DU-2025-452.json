@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/452",
  "title": "Obwieszczenie Ministra Finansów z dnia 21 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie sposobu określania profilu ryzyka banków i oddziałów banków zagranicznych oraz uwzględniania tego profilu w wyznaczaniu składek na fundusz gwarancyjny banków",
- "converter": "eli2md 0.6.3",
+ "converter": "eli2md 0.6.4",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/452/text.pdf",
  "body": [
   {
@@ -940,23 +940,23 @@
         },
         {
          "type": "text",
-         "text": "100 jjjjżjjeeee AA ii,jj > aa jj"
+         "text": "100 jjżjee A i,j > a j"
         },
         {
          "type": "text",
-         "text": "0 jjjjżjjeeee AA ii,jj < bb jj"
+         "text": "0 jjżjee A i,j < b j"
         },
         {
          "type": "text",
-         "text": "IIIIII ii,jj = AA ii,jj −bb jj"
+         "text": "III i,j = A i,j −b j"
         },
         {
          "type": "text",
-         "text": "gdzie: × 100, jjjjżjjeeee bb jj ≤ AA ii,jj ≤ aa jj"
+         "text": "gdzie: × 100, jjżjee b j ≤ A i,j ≤ a j"
         },
         {
          "type": "text",
-         "text": "{ aa jj −bb jj"
+         "text": "{ a j −b j"
         },
         {
          "type": "text",
@@ -976,23 +976,23 @@
         },
         {
          "type": "text",
-         "text": "0 jjjjżjjeeee AA ii,jj > aa jj"
+         "text": "0 jjżjee A i,j > a j"
         },
         {
          "type": "text",
-         "text": "100 jjjjżjjeeee AA ii,jj < bb jj"
+         "text": "100 jjżjee A i,j < b j"
         },
         {
          "type": "text",
-         "text": "IIIIII ii,jj = aa jj −AA ii,jj"
+         "text": "III i,j = a j −A i,j"
         },
         {
          "type": "text",
-         "text": "gdzie: × 100, jjjjżjjeeee bb jj ≤ AA ii,jj ≤ aa jj"
+         "text": "gdzie: × 100, jjżjee b j ≤ A i,j ≤ a j"
         },
         {
          "type": "text",
-         "text": "{ aa jj −bb jj"
+         "text": "{ a j −b j"
         },
         {
          "type": "text",
@@ -1022,15 +1022,15 @@
       },
       {
        "type": "text",
-       "text": "nn"
+       "text": "n"
       },
       {
        "type": "text",
-       "text": "AAIIII ii = ∑IIII jj ×IIIIII ii,jj"
+       "text": "AII i = ∑II j ×III i,j"
       },
       {
        "type": "text",
-       "text": "gdzie jj=1"
+       "text": "gdzie j=1"
       },
       {
        "type": "text",
@@ -1042,7 +1042,7 @@
       },
       {
        "type": "text",
-       "text": "∑ nn jj=1 IIII jj = 100 %"
+       "text": "∑ n j=1 II j = 100 %"
       }
      ]
     },
@@ -1070,15 +1070,15 @@
       },
       {
        "type": "text",
-       "text": "αα"
+       "text": "α"
       },
       {
        "type": "text",
-       "text": "AAIIII ii = ββ ×( )"
+       "text": "AII i = β ×( )"
       },
       {
        "type": "text",
-       "text": "ββ"
+       "text": "β"
       }
      ]
     },
@@ -1100,15 +1100,15 @@
        "children": [
         {
          "type": "text",
-         "text": "∑ ii CCCCCC ii (tt −1)"
+         "text": "∑ i CCC i (t −1)"
         },
         {
          "type": "text",
-         "text": "gdzie: CCCCCC(tt) = 0,25 × CCCC ×"
+         "text": "gdzie: CCC(t) = 0,25 × CC ×"
         },
         {
          "type": "text",
-         "text": "∑ ii CCCCCC ii (tt −1) + ∑ ii CCCCCC ii (tt−1)"
+         "text": "∑ i CCC i (t −1) + ∑ i CCC i (t−1)"
         },
         {
          "type": "text",
@@ -1140,7 +1140,7 @@
        "children": [
         {
          "type": "text",
-         "text": "gdzie: CCCCCC(tt) = (0,25 × CCCC)− CCCCCC(tt)"
+         "text": "gdzie: CCC(t) = (0,25 × CC)− CCC(t)"
         },
         {
          "type": "text",
@@ -1204,7 +1204,7 @@
        "children": [
         {
          "type": "text",
-         "text": "0,25 × CCCC"
+         "text": "0,25 × CC"
         }
        ]
       },
@@ -1212,15 +1212,15 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_6/pkt_3",
-       "text": "Współczynnik korekty CCCC(tt) (µb) = jest wyznaczany według wzoru:",
+       "text": "Współczynnik korekty CC(t) (µb) = jest wyznaczany według wzoru:",
        "children": [
         {
          "type": "text",
-         "text": "∑ ii CCCCCC ii (tt −1) + ∑ ii CCCCCC ii (tt−1)"
+         "text": "∑ i CCC i (t −1) + ∑ i CCC i (t−1)"
         },
         {
          "type": "text",
-         "text": "∑ ii CCCCCC ii (tt −1)"
+         "text": "∑ i CCC i (t −1)"
         },
         {
          "type": "text",
@@ -1228,7 +1228,7 @@
         },
         {
          "type": "text",
-         "text": "∑ ii AACCAACC ii ×(1−U ii )× CCCCCC ii (tt−1)"
+         "text": "∑ i ACAC i ×(1−U i )× CCC i (t−1)"
         }
        ]
       },
@@ -1246,11 +1246,11 @@
          "children": [
           {
            "type": "text",
-           "text": "∗ CCCCCC(tt)−nn ×MMCC"
+           "text": "∗ CCC(t)−n ×MC"
           },
           {
            "type": "text",
-           "text": "gdzie: CCCC ii (t) = MMCC +( × AAAAAACC ii ×(1−U ii )× CCCCCC ii (tt −1)× µCC) ∑ ii CCCCCC ii (tt−1)"
+           "text": "gdzie: CC i (t) = MC +( × AAAC i ×(1−U i )× CCC i (t −1)× µC) ∑ i CCC i (t−1)"
           },
           {
            "type": "text",
@@ -1336,7 +1336,7 @@
        "children": [
         {
          "type": "text",
-         "text": "0,25 × CCCC"
+         "text": "0,25 × CC"
         }
        ]
       },
@@ -1344,15 +1344,15 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_7/pkt_3",
-       "text": "Współczynnik korekty CCCC(tt) (µo) = jest wyznaczany według wzoru:",
+       "text": "Współczynnik korekty CC(t) (µo) = jest wyznaczany według wzoru:",
        "children": [
         {
          "type": "text",
-         "text": "∑ ii CCCCCC ii (tt −1) + ∑ ii CCCCCC ii (tt−1)"
+         "text": "∑ i CCC i (t −1) + ∑ i CCC i (t−1)"
         },
         {
          "type": "text",
-         "text": "∑ ii CCCCCC ii (tt−1)"
+         "text": "∑ i CCC i (t−1)"
         }
        ]
       },
@@ -1360,7 +1360,7 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_7/pkt_4",
-       "text": "W przypadku gdy Fundusz μo = dopuszcza wnoszenie składek minimalnych, o których ∑ ii AACCAACC ii × CCCCCC ii (tt−1)",
+       "text": "W przypadku gdy Fundusz μo = dopuszcza wnoszenie składek minimalnych, o których ∑ i ACAC i × CCC i (t−1)",
        "children": [
         {
          "type": "text",
@@ -1374,15 +1374,15 @@
          "children": [
           {
            "type": "text",
-           "text": "∗ CCCCCC(tt)−nn ×MMCC"
+           "text": "∗ CCC(t)−n ×MC"
           },
           {
            "type": "text",
-           "text": "gdzie: CCCC ii (t) = MMCC +( × AACCAACC ii × CCCCCC ii (tt−1)× µCC)"
+           "text": "gdzie: CC i (t) = MC +( × ACAC i × CCC i (t−1)× µC)"
           },
           {
            "type": "text",
-           "text": "∑ ii CCCCCC ii (tt−1)"
+           "text": "∑ i CCC i (t−1)"
           },
           {
            "type": "text",
@@ -1452,15 +1452,15 @@
        "children": [
         {
          "type": "text",
-         "text": "∑ ii CCCCCC ii (tt −1)"
+         "text": "∑ i CCC i (t −1)"
         },
         {
          "type": "text",
-         "text": "gdzie: CCCCCCCC(tt) = CCCCCC ×"
+         "text": "gdzie: CCCC(t) = CCC ×"
         },
         {
          "type": "text",
-         "text": "∑ ii CCCCCC ii (tt −1) + ∑ ii CCCCCC ii (tt −1)"
+         "text": "∑ i CCC i (t −1) + ∑ i CCC i (t −1)"
         },
         {
          "type": "text",
@@ -1488,7 +1488,7 @@
        "children": [
         {
          "type": "text",
-         "text": "gdzie: CCCCCCCC(tt) = CCCCCC− CCCCCC(tt)"
+         "text": "gdzie: CCCC(t) = CCC− CCC(t)"
         },
         {
          "type": "text",
@@ -1544,7 +1544,7 @@
        "children": [
         {
          "type": "text",
-         "text": "CCCCCC"
+         "text": "CCC"
         }
        ]
       },
@@ -1552,15 +1552,15 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_3/pkt_3",
-       "text": "Współczynnik korekty CCCC(tt) (µb) = jest wyznaczany według wzoru:",
+       "text": "Współczynnik korekty CC(t) (µb) = jest wyznaczany według wzoru:",
        "children": [
         {
          "type": "text",
-         "text": "∑ ii CCCCCC ii (tt −1) + ∑ ii CCCCCC ii (tt−1)"
+         "text": "∑ i CCC i (t −1) + ∑ i CCC i (t−1)"
         },
         {
          "type": "text",
-         "text": "∑ ii CCCCCC ii (tt −1)"
+         "text": "∑ i CCC i (t −1)"
         },
         {
          "type": "text",
@@ -1568,7 +1568,7 @@
         },
         {
          "type": "text",
-         "text": "∑ ii AACCAACC ii × CCCCCC ii (tt −1)"
+         "text": "∑ i ACAC i × CCC i (t −1)"
         }
        ]
       }
@@ -1628,7 +1628,7 @@
        "children": [
         {
          "type": "text",
-         "text": "CCCCCC"
+         "text": "CCC"
         }
        ]
       },
@@ -1636,15 +1636,15 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_4/pkt_3",
-       "text": "Współczynnik korekty CCCC(tt) (µo) = jest wyznaczany według wzoru:",
+       "text": "Współczynnik korekty CC(t) (µo) = jest wyznaczany według wzoru:",
        "children": [
         {
          "type": "text",
-         "text": "∑ ii CCCCCC ii (tt −1) + ∑ ii CCCCCC ii (tt−1)"
+         "text": "∑ i CCC i (t −1) + ∑ i CCC i (t−1)"
         },
         {
          "type": "text",
-         "text": "∑ ii CCCCCC ii (tt−1)"
+         "text": "∑ i CCC i (t−1)"
         },
         {
          "type": "text",
@@ -1652,7 +1652,7 @@
         },
         {
          "type": "text",
-         "text": "∑ ii AACCAACC ii × CCCCCC ii (tt−1)"
+         "text": "∑ i ACAC i × CCC i (t−1)"
         }
        ]
       }
@@ -1682,6 +1682,6 @@
   "17": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 216 z 21.08.2007, str. 32 oraz Dz. Urz. UE L 97 z 09.04.2008, str. 62.",
   "18": "Obecnie art. 137 ust. 1 pkt 3, na podstawie art. 68 pkt 53 lit. a ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym (Dz. U. poz. 1513), która weszła w życie z dniem 1 listopada 2015 r.",
   "19": "Rozporządzenie zostało ogłoszone w dniu 5 stycznia 2017 r.",
-  "20": "W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. ( AAAAAA 100 ii ) i i i i i i i"
+  "20": "W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 2. ( AAA 100 i ) i i i i i i i"
  }
 }
