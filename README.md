@@ -13,14 +13,15 @@ converted from the official PDFs; updated daily.*
 API ELI Sejmu (`api.sejm.gov.pl/eli`) podaje teksty aktów z Dziennika Ustaw od 2025 r. tylko
 jako PDF. Dla 2024 r. był też HTML (sprawdzone 2026-09-29: 2024 – 1984/1984 aktów z HTML,
 2025 – 0/1900, 2026 – 0/1255). Także wcześniej zdarzają się akty bez HTML: w latach 2012–2024 jest ich 98
-(2020 – 10, 2021 – 42, 2023 – 46; sprawdzone 2026-09-29), a przed 2012 r. HTML-a nie ma dla żadnego aktu
-(tych, 55 tys. skanów z warstwą OCR, tu nie ma). Tutaj jest tekst aktów bez HTML od 2012 r. w formie, którą da
-się przeszukiwać, porównywać i przetwarzać.
+(2020 – 10, 2021 – 42, 2023 – 46; sprawdzone 2026-09-29). Tutaj jest tekst aktów bez HTML od 2012 r. w formie,
+którą da się przeszukiwać, porównywać i przetwarzać. Lata 2000–2011 (19 615 aktów bez HTML, 3 984 z HTML) są w osobnym
+repozytorium [dziennik-ustaw-2000-2011-md](https://github.com/PolskiAgentW/dziennik-ustaw-2000-2011-md) (w budowie).
+Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla żadnego aktu; to było nieprawdą.
 
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-30 11:16 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-30 11:33 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
