@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1207",
  "title": "Obwieszczenie Ministra Zdrowia z dnia 20 sierpnia 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie ogólnych warunków umów na realizację recept oraz ramowego wzoru umowy na realizację recept",
- "converter": "eli2md 0.6.4",
+ "converter": "eli2md 0.6.5",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1207/text.pdf",
  "body": [
   {
@@ -772,7 +772,7 @@
     },
     {
      "type": "text",
-     "text": "nazwa podmiotu ....................................................................................................................................... siedziba i adres podmiotu ........................................................................................................................ NIP …..…………………………………................................................................................................. REGON ....…………………………………............................................................................................ KRS/EDG(CEIDG)[^1_3] .……………….…................................................................................................. posiadającym zezwolenie na prowadzenie apteki ogólnodostępnej/punktu aptecznego[^1_3] pod nazwą .... ................................................................................................................................................................... mieszczącej/mieszczącego[^1_3] się przy ul. ....………………...……………………………..……………. w .................................................................……………………………...……………………………... wydane przez .......................................................................................………………………….……... nr zezwolenia …………………………………….. z dnia .............................................................……, reprezentowanym przez Panią/Pana[^1_3] ..................................................................……………………… – zwanymi dalej „stronami umowy”."
+     "text": "nazwa podmiotu ....................................................................................................................................... siedziba i adres podmiotu ........................................................................................................................ NIP …..…………………………………................................................................................................. REGON ....…………………………………............................................................................................ KRS/EDG(CEIDG)[^1_2] .……………….…................................................................................................. posiadającym zezwolenie na prowadzenie apteki ogólnodostępnej/punktu aptecznego[^1_2] pod nazwą .... ................................................................................................................................................................... mieszczącej/mieszczącego[^1_2] się przy ul. ....………………...……………………………..……………. w .................................................................……………………………...……………………………... wydane przez .......................................................................................………………………….……... nr zezwolenia …………………………………….. z dnia .............................................................……, reprezentowanym przez Panią/Pana[^1_2] ..................................................................……………………… – zwanymi dalej „stronami umowy”."
     },
     {
      "type": "text",
@@ -780,19 +780,31 @@
     },
     {
      "type": "text",
-     "text": "Podmiot prowadzący aptekę oświadcza, że kierownikiem apteki jest Pani/Pan[^1_3]:"
+     "text": "Podmiot prowadzący aptekę oświadcza, że kierownikiem apteki jest Pani/Pan[^1_2]:"
     },
     {
      "type": "text",
-     "text": "imię, nazwisko .........................................................…...………………………………….…………… nr prawa wykonywania zawodu farmaceuty[^2_2] ..................................…………………………………... numer PESEL, a w przypadku braku tego numeru – rodzaj, seria i numer dokumentu"
+     "text": "imię, nazwisko .........................................................…...………………………………….…………… nr prawa wykonywania zawodu farmaceuty[^2] ..................................…………………………………... numer PESEL, a w przypadku braku tego numeru – rodzaj, seria i numer dokumentu"
     },
     {
      "type": "text",
-     "text": "–––––––––––––––––––––––– potwierdzającego tożsamość ............................................................................................................... .............................................................................................................................................................,"
+     "text": "––––––––––––––––––––––––"
     },
     {
      "type": "text",
-     "text": "uprawniona/uprawniony[^1_3] do pełnienia funkcji kierownika apteki."
+     "text": "[^1_2] Niepotrzebne skreślić."
+    },
+    {
+     "type": "text",
+     "text": "[^2] Nie dotyczy technika farmaceutycznego."
+    },
+    {
+     "type": "text",
+     "text": "potwierdzającego tożsamość ............................................................................................................... .............................................................................................................................................................,"
+    },
+    {
+     "type": "text",
+     "text": "uprawniona/uprawniony[^1_2] do pełnienia funkcji kierownika apteki."
     },
     {
      "type": "text",
@@ -1122,8 +1134,6 @@
   "2": "Rozporządzenie zostało ogłoszone w dniu 16 grudnia 2011 r.",
   "3": "Dodany przez § 1 pkt 1 lit. a rozporządzenia Ministra Zdrowia z dnia 22 sierpnia 2024 r. zmieniającego rozporządzenie w sprawie ogólnych warunków umów na realizację recept oraz ramowego wzoru umowy na realizację recept (Dz. U. poz. 1291), które weszło w życie z mocą od dnia 1 listopada 2023 r.",
   "4": "Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3.",
-  "1_3": "Niepotrzebne skreślić.",
-  "2_2": "Nie dotyczy technika farmaceutycznego.",
   "5": "Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3; wszedł w życie z dniem 27 sierpnia 2024 r.",
   "3_2": "W przypadku gdy strony postanowiły, że czynności związane z zawarciem i wykonaniem umowy na realizację recept będą wspierane przez nieodpłatny serwis internetowy."
  }

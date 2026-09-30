@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1057",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 29 lipca 2025 r. w sprawie wojewódzkiego planu działania systemu Państwowe Ratownictwo Medyczne",
- "converter": "eli2md 0.6.4",
+ "converter": "eli2md 0.6.5",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1057/text.pdf",
  "body": [
   {
@@ -477,24 +477,24 @@
      "text": "[Na stronie 4 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
     },
     {
-     "type": "text",
-     "text": "Tekst jednolity"
-    },
-    {
-     "type": "text",
-     "text": "Miejscowość, dzień, miesiąc, rok"
-    },
-    {
-     "type": "text",
-     "text": "[^1] W przypadku sporządzenia wojewódzkiego planu działania systemu Państwowe Ratownictwo Medyczne na podstawie art. 16 ust. 3 ustawy z dnia 24 kwietnia 2025 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 637) plan ten oznacza się jako tekst pierwotny."
-    },
-    {
-     "type": "text",
-     "text": "– 7 –"
-    },
-    {
-     "type": "text",
-     "text": "SPIS TREŚCI"
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Tekst jednolity",
+     "children": [
+      {
+       "type": "text",
+       "text": "Miejscowość, dzień, miesiąc, rok"
+      },
+      {
+       "type": "text",
+       "text": "– 7 –"
+      },
+      {
+       "type": "text",
+       "text": "SPIS TREŚCI"
+      }
+     ]
     },
     {
      "type": "heading",
@@ -1014,11 +1014,11 @@
     },
     {
      "type": "text",
-     "text": "Objaśnienia: [^1] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”. [^2] W opisie rejonu operacyjnego stosuje się 7-znakowy kod TERYT w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego. Nie używa się kodów zakończonych cyfrą „3”. Kolejne pozycje rejonu operacyjnego oddziela się średnikiem i spacją. [^3] Stosuje się 7-znakowy kod TERYT miejscowości, dzielnicy lub delegatury w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego, w której stacjonuje zespół ratownictwa medycznego. Nie używa się kodów zakończonych cyfrą „3”. Nie podaje się danych adresowych miejsca stacjonowania. Kolejne pozycje obszaru działania oddziela się średnikiem i spacją. Województwo"
+     "text": "Objaśnienia: [^1_2] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”. [^2] W opisie rejonu operacyjnego stosuje się 7-znakowy kod TERYT w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego. Nie używa się kodów zakończonych cyfrą „3”. Kolejne pozycje rejonu operacyjnego oddziela się średnikiem i spacją. [^3] Stosuje się 7-znakowy kod TERYT miejscowości, dzielnicy lub delegatury w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego, w której stacjonuje zespół ratownictwa medycznego. Nie używa się kodów zakończonych cyfrą „3”. Nie podaje się danych adresowych miejsca stacjonowania. Kolejne pozycje obszaru działania oddziela się średnikiem i spacją. Województwo"
     },
     {
      "type": "text",
-     "text": "Numer rejonu operacyjnego[^1]"
+     "text": "Numer rejonu operacyjnego[^1_2]"
     },
     {
      "type": "text",
@@ -1026,7 +1026,7 @@
     },
     {
      "type": "text",
-     "text": "Kod dyspozytorni medycznej[^1]"
+     "text": "Kod dyspozytorni medycznej[^1_2]"
     },
     {
      "type": "text",
@@ -1038,7 +1038,7 @@
     },
     {
      "type": "text",
-     "text": "Nazwa zespołu ratownictwa medycznego[^1]"
+     "text": "Nazwa zespołu ratownictwa medycznego[^1_2]"
     },
     {
      "type": "text",
@@ -1094,11 +1094,11 @@
     },
     {
      "type": "text",
-     "text": "[^1] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”. [^2] W opisie rejonu operacyjnego stosuje się 7-znakowy kod TERYT miejscowości, dzielnicy lub delegatury w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego, w której stacjonuje zespół ratownictwa medycznego. Nie używa się kodów zakończonych cyfrą „3”. Nie podaje się danych adresowych miejsca stacjonowania. Kolejne pozycje rejonu operacyjnego oddziela się średnikiem i spacją. [^3] Kod jest identyfikowany dziesięcioznakowym numerem zespołu ratownictwa medycznego, składającym się z 7-znakowego kodu TERYT w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego (nie używa się kodów zakończonych cyfrą „3”) oraz cyfry identyfikującej rodzaj zespołu (kody: 2 – podstawowy dwuosobowy, 3 – wodny podstawowy dwuosobowy, 4 – specjalistyczny, 5 – wodny specjalistyczny, 6 – podstawowy trzyosobowy, 7 – wodny podstawowy trzyosobowy, 8 – motocyklowa jednostka ratunkowa) i dwóch cyfr numeru kolejnego dla danego rodzaju zespołu w miejscu stacjonowania. Województwo"
+     "text": "[^1_2] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”. [^2] W opisie rejonu operacyjnego stosuje się 7-znakowy kod TERYT miejscowości, dzielnicy lub delegatury w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego, w której stacjonuje zespół ratownictwa medycznego. Nie używa się kodów zakończonych cyfrą „3”. Nie podaje się danych adresowych miejsca stacjonowania. Kolejne pozycje rejonu operacyjnego oddziela się średnikiem i spacją. [^3] Kod jest identyfikowany dziesięcioznakowym numerem zespołu ratownictwa medycznego, składającym się z 7-znakowego kodu TERYT w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego (nie używa się kodów zakończonych cyfrą „3”) oraz cyfry identyfikującej rodzaj zespołu (kody: 2 – podstawowy dwuosobowy, 3 – wodny podstawowy dwuosobowy, 4 – specjalistyczny, 5 – wodny specjalistyczny, 6 – podstawowy trzyosobowy, 7 – wodny podstawowy trzyosobowy, 8 – motocyklowa jednostka ratunkowa) i dwóch cyfr numeru kolejnego dla danego rodzaju zespołu w miejscu stacjonowania. Województwo"
     },
     {
      "type": "text",
-     "text": "Numer rejonu operacyjnego[^1]"
+     "text": "Numer rejonu operacyjnego[^1_2]"
     },
     {
      "type": "text",
@@ -1106,7 +1106,7 @@
     },
     {
      "type": "text",
-     "text": "Kod dyspozytorni medycznej[^1]"
+     "text": "Kod dyspozytorni medycznej[^1_2]"
     },
     {
      "type": "text",
@@ -1114,7 +1114,7 @@
     },
     {
      "type": "text",
-     "text": "Nazwa zespołu ratownictwa medycznego[^1]"
+     "text": "Nazwa zespołu ratownictwa medycznego[^1_2]"
     },
     {
      "type": "text",
@@ -1166,7 +1166,7 @@
     },
     {
      "type": "text",
-     "text": "Rodzaj zespołu Nazwa dodatkowego Nazwa dysponenta Adres dysponenta Numer księgi rejestrowej Maksymalny czas Województwo ratownictwa zespołu ratownictwa jednostki jednostki podmiotu leczniczego uruchomienia medycznego[^1] medycznego[^2] dysponenta jednostki[^3] (w minutach)"
+     "text": "Rodzaj zespołu Nazwa dodatkowego Nazwa dysponenta Adres dysponenta Numer księgi rejestrowej Maksymalny czas Województwo ratownictwa zespołu ratownictwa jednostki jednostki podmiotu leczniczego uruchomienia medycznego[^1_2] medycznego[^2] dysponenta jednostki[^3] (w minutach)"
     },
     {
      "type": "text",
@@ -1174,7 +1174,7 @@
     },
     {
      "type": "text",
-     "text": "[^1] Stosuje się następujące oznaczenia rodzajów zespołów ratownictwa medycznego, o których mowa w art. 36 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91, z późn. zm.): S – specjalistyczny, P2 – podstawowy dwuosobowy, P3 – podstawowy trzyosobowy, WS – specjalistyczny wodny, WP2 – wodny podstawowy dwuosobowy, WP3 – wodny podstawowy trzyosobowy, M – motocyklowa jednostka ratunkowa. [^2] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”. [^3] Zgodnie z rozporządzeniem Ministra Zdrowia z dnia 29 marca 2019 r. w sprawie szczegółowego zakresu danych objętych wpisem do rejestru podmiotów wykonujących działalność leczniczą oraz szczegółowego trybu postępowania w sprawach dokonywania wpisów, zmian w rejestrze oraz wykreśleń z tego rejestru (Dz. U. poz. 605, z późn. zm.)."
+     "text": "[^1_2] Stosuje się następujące oznaczenia rodzajów zespołów ratownictwa medycznego, o których mowa w art. 36 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91, z późn. zm.): S – specjalistyczny, P2 – podstawowy dwuosobowy, P3 – podstawowy trzyosobowy, WS – specjalistyczny wodny, WP2 – wodny podstawowy dwuosobowy, WP3 – wodny podstawowy trzyosobowy, M – motocyklowa jednostka ratunkowa. [^2] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”. [^3] Zgodnie z rozporządzeniem Ministra Zdrowia z dnia 29 marca 2019 r. w sprawie szczegółowego zakresu danych objętych wpisem do rejestru podmiotów wykonujących działalność leczniczą oraz szczegółowego trybu postępowania w sprawach dokonywania wpisów, zmian w rejestrze oraz wykreśleń z tego rejestru (Dz. U. poz. 605, z późn. zm.)."
     },
     {
      "type": "text",
@@ -1182,7 +1182,7 @@
     },
     {
      "type": "text",
-     "text": "Numer rejonu operacyjnego[^1]"
+     "text": "Numer rejonu operacyjnego[^1_2]"
     },
     {
      "type": "text",
@@ -1194,7 +1194,7 @@
     },
     {
      "type": "text",
-     "text": "Nazwa zespołu ratownictwa medycznego[^1]"
+     "text": "Nazwa zespołu ratownictwa medycznego[^1_2]"
     },
     {
      "type": "text",
@@ -1286,7 +1286,7 @@
     },
     {
      "type": "text",
-     "text": "[^1] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”. [^2] Stosuje się 7-znakowy kod TERYT miejscowości, dzielnicy lub delegatury w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego, w której stacjonuje zespół ratownictwa medycznego. Nie używa się kodów zakończonych cyfrą „3”. Nie podaje się danych adresowych miejsca stacjonowania. Kolejne pozycje obszaru działania oddziela się średnikiem i spacją."
+     "text": "[^1_2] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”. [^2] Stosuje się 7-znakowy kod TERYT miejscowości, dzielnicy lub delegatury w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego, w której stacjonuje zespół ratownictwa medycznego. Nie używa się kodów zakończonych cyfrą „3”. Nie podaje się danych adresowych miejsca stacjonowania. Kolejne pozycje obszaru działania oddziela się średnikiem i spacją."
     },
     {
      "type": "text",
@@ -1306,11 +1306,11 @@
     },
     {
      "type": "text",
-     "text": "Objaśnienia: [^1] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”. [^2] Kod jest identyfikowany dziesięcioznakowym numerem zespołu ratownictwa medycznego, składającym się z 7-znakowego kodu TERYT w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego (nie używa się kodów zakończonych cyfrą „3”) oraz cyfry identyfikującej rodzaju zespołu (kody: 2 – podstawowy dwuosobowy, 3 – wodny podstawowy dwuosobowy, 4 – specjalistyczny, 5 – wodny specjalistyczny, 6 – podstawowy trzyosobowy, 7 – wodny podstawowy trzyosobowy, 8 – motocyklowa jednostka ratunkowa) i dwóch cyfr numeru kolejnego dla danego rodzaju zespołu w miejscu stacjonowania. [^3] Stosuje się następujące oznaczenia rodzajów zespołów ratownictwa medycznego, o których mowa w art. 36 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91, z późn. zm.): S – specjalistyczny, P2 – podstawowy dwuosobowy, P3 – podstawowy trzyosobowy, WS – specjalistyczny wodny, WP2 – wodny podstawowy dwuosobowy, WP3 – wodny podstawowy trzyosobowy, M – motocyklowa jednostka ratunkowa. [^4] Stosuje się 7-znakowy kod TERYT miejscowości, dzielnicy lub delegatury w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego, w której stacjonuje zespół ratownictwa medycznego. Nie używa się kodów zakończonych cyfrą „3”. Nie podaje się danych adresowych miejsca stacjonowania. Województwo"
+     "text": "Objaśnienia: [^1_2] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”. [^2] Kod jest identyfikowany dziesięcioznakowym numerem zespołu ratownictwa medycznego, składającym się z 7-znakowego kodu TERYT w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego (nie używa się kodów zakończonych cyfrą „3”) oraz cyfry identyfikującej rodzaju zespołu (kody: 2 – podstawowy dwuosobowy, 3 – wodny podstawowy dwuosobowy, 4 – specjalistyczny, 5 – wodny specjalistyczny, 6 – podstawowy trzyosobowy, 7 – wodny podstawowy trzyosobowy, 8 – motocyklowa jednostka ratunkowa) i dwóch cyfr numeru kolejnego dla danego rodzaju zespołu w miejscu stacjonowania. [^3] Stosuje się następujące oznaczenia rodzajów zespołów ratownictwa medycznego, o których mowa w art. 36 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91, z późn. zm.): S – specjalistyczny, P2 – podstawowy dwuosobowy, P3 – podstawowy trzyosobowy, WS – specjalistyczny wodny, WP2 – wodny podstawowy dwuosobowy, WP3 – wodny podstawowy trzyosobowy, M – motocyklowa jednostka ratunkowa. [^4] Stosuje się 7-znakowy kod TERYT miejscowości, dzielnicy lub delegatury w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego, w której stacjonuje zespół ratownictwa medycznego. Nie używa się kodów zakończonych cyfrą „3”. Nie podaje się danych adresowych miejsca stacjonowania. Województwo"
     },
     {
      "type": "text",
-     "text": "Numer rejonu operacyjnego[^1]"
+     "text": "Numer rejonu operacyjnego[^1_2]"
     },
     {
      "type": "text",
@@ -1318,7 +1318,7 @@
     },
     {
      "type": "text",
-     "text": "Nazwa zespołu ratownictwa medycznego[^1]"
+     "text": "Nazwa zespołu ratownictwa medycznego[^1_2]"
     },
     {
      "type": "text",
@@ -1382,7 +1382,7 @@
     },
     {
      "type": "text",
-     "text": "Numer rejonu operacyjnego[^1]"
+     "text": "Numer rejonu operacyjnego[^1_2]"
     },
     {
      "type": "text",
@@ -1438,7 +1438,7 @@
     },
     {
      "type": "text",
-     "text": "[^1] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”."
+     "text": "[^1_2] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”."
     },
     {
      "type": "text",
@@ -1446,7 +1446,7 @@
     },
     {
      "type": "text",
-     "text": "Numer rejonu operacyjnego[^1]"
+     "text": "Numer rejonu operacyjnego[^1_2]"
     },
     {
      "type": "text",
@@ -1494,7 +1494,7 @@
     },
     {
      "type": "text",
-     "text": "Objaśnienie: [^1] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”."
+     "text": "Objaśnienie: [^1_2] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”."
     },
     {
      "type": "text",
@@ -1542,7 +1542,7 @@
     },
     {
      "type": "text",
-     "text": "Województwo Nazwa[^1], adres, miejsca stacjonowania Czas dyżuru lotniczego zespołu ratownictwa medycznego"
+     "text": "Województwo Nazwa[^1_2], adres, miejsca stacjonowania Czas dyżuru lotniczego zespołu ratownictwa medycznego"
     },
     {
      "type": "text",
@@ -1550,7 +1550,7 @@
     },
     {
      "type": "text",
-     "text": "[^1] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”."
+     "text": "[^1_2] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”."
     },
     {
      "type": "text",
@@ -1562,7 +1562,7 @@
     },
     {
      "type": "text",
-     "text": "[^1] Stosuje się 7-znakowy kod TERYT miejscowości, dzielnicy lub delegatury w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego, w której znajduje się szpitalny oddział ratunkowy. Nie używa się kodów zakończonych cyfrą „3”. Nie podaje się danych adresowych miejsca, w którym znajduje się szpitalny oddział ratunkowy. [^2] Zgodnie z rozporządzeniem Ministra Zdrowia z dnia 29 marca 2019 r. w sprawie szczegółowego zakresu danych objętych wpisem do rejestru podmiotów wykonujących działalność leczniczą oraz szczegółowego trybu postępowania w sprawach dokonywania wpisów, zmian w rejestrze oraz wykreśleń z tego rejestru (Dz. U. poz. 605, z późn. zm.). [^3] Nie wlicza się pacjentów przyjętych, których przyjęcie zostało zakwalifikowane w kodach 5–7, 9 i 11, zgodnie z kodami trybu przyjęcia i wypisu osoby, której udzielono świadczenia zdrowotnego, w przypadku pobytu w oddziale szpitalnym, o których mowa w załączniku nr 4 do rozporządzenia Ministra Zdrowia z dnia 26 czerwca 2019 r. w sprawie zakresu niezbędnych informacji przetwarzanych przez świadczeniodawców, szczegółowego sposobu rejestrowania tych informacji oraz ich przekazywania podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych (Dz. U. z 2024 r. poz. 610, z późn. zm.). Województwo zakładu leczniczego"
+     "text": "[^1_2] Stosuje się 7-znakowy kod TERYT miejscowości, dzielnicy lub delegatury w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego, w której znajduje się szpitalny oddział ratunkowy. Nie używa się kodów zakończonych cyfrą „3”. Nie podaje się danych adresowych miejsca, w którym znajduje się szpitalny oddział ratunkowy. [^2] Zgodnie z rozporządzeniem Ministra Zdrowia z dnia 29 marca 2019 r. w sprawie szczegółowego zakresu danych objętych wpisem do rejestru podmiotów wykonujących działalność leczniczą oraz szczegółowego trybu postępowania w sprawach dokonywania wpisów, zmian w rejestrze oraz wykreśleń z tego rejestru (Dz. U. poz. 605, z późn. zm.). [^3] Nie wlicza się pacjentów przyjętych, których przyjęcie zostało zakwalifikowane w kodach 5–7, 9 i 11, zgodnie z kodami trybu przyjęcia i wypisu osoby, której udzielono świadczenia zdrowotnego, w przypadku pobytu w oddziale szpitalnym, o których mowa w załączniku nr 4 do rozporządzenia Ministra Zdrowia z dnia 26 czerwca 2019 r. w sprawie zakresu niezbędnych informacji przetwarzanych przez świadczeniodawców, szczegółowego sposobu rejestrowania tych informacji oraz ich przekazywania podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych (Dz. U. z 2024 r. poz. 610, z późn. zm.). Województwo zakładu leczniczego"
     },
     {
      "type": "text",
@@ -1598,7 +1598,7 @@
     },
     {
      "type": "text",
-     "text": "Kod TERYT zakładu leczniczego[^1]"
+     "text": "Kod TERYT zakładu leczniczego[^1_2]"
     },
     {
      "type": "text",
@@ -1658,7 +1658,7 @@
     },
     {
      "type": "text",
-     "text": "[^1] Stosuje się 7-znakowy kod TERYT miejscowości, dzielnicy lub delegatury w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego, w której znajduje się izba przyjęć szpitala. Nie używa się kodów zakończonych cyfrą „3”. Nie podaje się danych adresowych miejsca, w którym znajduje się izba przyjęć szpitala. [^2] Zgodnie z rozporządzeniem Ministra Zdrowia z dnia 29 marca 2019 r. w sprawie szczegółowego zakresu danych objętych wpisem do rejestru podmiotów wykonujących działalność leczniczą oraz szczegółowego trybu postępowania w sprawach dokonywania wpisów, zmian w rejestrze oraz wykreśleń z tego rejestru (Dz. U. poz. 605, z późn. zm.). [^3] Nie wlicza się pacjentów przyjętych, których przyjęcie zostało zakwalifikowane w kodach 5–7, 9 i 11, zgodnie z kodami trybu przyjęcia i wypisu osoby, której udzielono świadczenia zdrowotnego, w przypadku pobytu w oddziale szpitalnym, o których mowa w załączniku nr 4 do rozporządzenia Ministra Zdrowia z dnia 26 czerwca 2019 r. w sprawie zakresu niezbędnych informacji przetwarzanych przez świadczeniodawców, szczegółowego sposobu rejestrowania tych informacji oraz ich przekazywania podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych (Dz. U. z 2024 r. poz. 610, z późn. zm.). Województwo zakładu leczniczego"
+     "text": "[^1_2] Stosuje się 7-znakowy kod TERYT miejscowości, dzielnicy lub delegatury w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego, w której znajduje się izba przyjęć szpitala. Nie używa się kodów zakończonych cyfrą „3”. Nie podaje się danych adresowych miejsca, w którym znajduje się izba przyjęć szpitala. [^2] Zgodnie z rozporządzeniem Ministra Zdrowia z dnia 29 marca 2019 r. w sprawie szczegółowego zakresu danych objętych wpisem do rejestru podmiotów wykonujących działalność leczniczą oraz szczegółowego trybu postępowania w sprawach dokonywania wpisów, zmian w rejestrze oraz wykreśleń z tego rejestru (Dz. U. poz. 605, z późn. zm.). [^3] Nie wlicza się pacjentów przyjętych, których przyjęcie zostało zakwalifikowane w kodach 5–7, 9 i 11, zgodnie z kodami trybu przyjęcia i wypisu osoby, której udzielono świadczenia zdrowotnego, w przypadku pobytu w oddziale szpitalnym, o których mowa w załączniku nr 4 do rozporządzenia Ministra Zdrowia z dnia 26 czerwca 2019 r. w sprawie zakresu niezbędnych informacji przetwarzanych przez świadczeniodawców, szczegółowego sposobu rejestrowania tych informacji oraz ich przekazywania podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych (Dz. U. z 2024 r. poz. 610, z późn. zm.). Województwo zakładu leczniczego"
     },
     {
      "type": "text",
@@ -1694,7 +1694,7 @@
     },
     {
      "type": "text",
-     "text": "Kod TERYT zakładu leczniczego[^1]"
+     "text": "Kod TERYT zakładu leczniczego[^1_2]"
     },
     {
      "type": "text",
@@ -1782,7 +1782,7 @@
     },
     {
      "type": "text",
-     "text": "Kod TERYT zakładu leczniczego[^1]"
+     "text": "Kod TERYT zakładu leczniczego[^1_2]"
     },
     {
      "type": "text",
@@ -1826,7 +1826,7 @@
     },
     {
      "type": "text",
-     "text": "[^1] Stosuje się 7-znakowy kod TERYT miejscowości, dzielnicy lub delegatury w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego, w której znajduje się centrum urazowe. Nie używa się kodów zakończonych cyfrą „3”. Nie podaje się danych adresowych miejsca, w którym znajduje się centrum urazowe. [^2] Zgodnie z rozporządzeniem Ministra Zdrowia z dnia 29 marca 2019 r. w sprawie szczegółowego zakresu danych objętych wpisem do rejestru podmiotów wykonujących działalność leczniczą oraz szczegółowego trybu postępowania w sprawach dokonywania wpisów, zmian w rejestrze oraz wykreśleń z tego rejestru (Dz. U. poz. 605, z późn. zm.)."
+     "text": "[^1_2] Stosuje się 7-znakowy kod TERYT miejscowości, dzielnicy lub delegatury w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego, w której znajduje się centrum urazowe. Nie używa się kodów zakończonych cyfrą „3”. Nie podaje się danych adresowych miejsca, w którym znajduje się centrum urazowe. [^2] Zgodnie z rozporządzeniem Ministra Zdrowia z dnia 29 marca 2019 r. w sprawie szczegółowego zakresu danych objętych wpisem do rejestru podmiotów wykonujących działalność leczniczą oraz szczegółowego trybu postępowania w sprawach dokonywania wpisów, zmian w rejestrze oraz wykreśleń z tego rejestru (Dz. U. poz. 605, z późn. zm.)."
     },
     {
      "type": "text",
@@ -1866,7 +1866,7 @@
     },
     {
      "type": "text",
-     "text": "Kod TERYT zakładu leczniczego[^1]"
+     "text": "Kod TERYT zakładu leczniczego[^1_2]"
     },
     {
      "type": "text",
@@ -1910,7 +1910,7 @@
     },
     {
      "type": "text",
-     "text": "[^1] Stosuje się 7-znakowy kod TERYT miejscowości, dzielnicy lub delegatury w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego, w której znajduje się centrum urazowe dla dzieci. Nie używa się kodów zakończonych cyfrą „3”. Nie podaje się danych adresowych miejsca, w którym znajduje się centrum urazowe dla dzieci. [^2] Zgodnie z rozporządzeniem Ministra Zdrowia z dnia 29 marca 2019 r. w sprawie szczegółowego zakresu danych objętych wpisem do rejestru podmiotów wykonujących działalność leczniczą oraz szczegółowego trybu postępowania w sprawach dokonywania wpisów, zmian w rejestrze oraz wykreśleń z tego rejestru (Dz. U. poz. 605, z późn. zm.)."
+     "text": "[^1_2] Stosuje się 7-znakowy kod TERYT miejscowości, dzielnicy lub delegatury w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego, w której znajduje się centrum urazowe dla dzieci. Nie używa się kodów zakończonych cyfrą „3”. Nie podaje się danych adresowych miejsca, w którym znajduje się centrum urazowe dla dzieci. [^2] Zgodnie z rozporządzeniem Ministra Zdrowia z dnia 29 marca 2019 r. w sprawie szczegółowego zakresu danych objętych wpisem do rejestru podmiotów wykonujących działalność leczniczą oraz szczegółowego trybu postępowania w sprawach dokonywania wpisów, zmian w rejestrze oraz wykreśleń z tego rejestru (Dz. U. poz. 605, z późn. zm.)."
     },
     {
      "type": "text",
@@ -1922,7 +1922,7 @@
     },
     {
      "type": "text",
-     "text": "Dysponent jednostki – Dysponent Województwo Dysponent Dysponent numer księgi jednostki – kod Rodzaj Liczba Liczba Liczba Liczba Liczba jednostki jednostki – jednostki – rejestrowej podmiotu TERYT lokalizacji jednostki lekarzy lekarzy pielęgniarek pielęgniarek ratowników nazwa adres wykonującego jednostki z opisem systemu[^3] ogółem systemu ogółem systemu medycznych działalność leczniczą[^1][^2]"
+     "text": "Dysponent jednostki – Dysponent Województwo Dysponent Dysponent numer księgi jednostki – kod Rodzaj Liczba Liczba Liczba Liczba Liczba jednostki jednostki – jednostki – rejestrowej podmiotu TERYT lokalizacji jednostki lekarzy lekarzy pielęgniarek pielęgniarek ratowników nazwa adres wykonującego jednostki z opisem systemu[^3] ogółem systemu ogółem systemu medycznych działalność leczniczą[^1_2][^2]"
     },
     {
      "type": "text",
@@ -1930,7 +1930,7 @@
     },
     {
      "type": "text",
-     "text": "[^1] Zgodnie z rozporządzeniem Ministra Zdrowia z dnia 29 marca 2019 r. w sprawie szczegółowego zakresu danych objętych wpisem do rejestru podmiotów wykonujących działalność leczniczą oraz szczegółowego trybu postępowania w sprawach dokonywania wpisów, zmian w rejestrze oraz wykreśleń z tego rejestru (Dz. U. poz. 605, z późn. zm.). [^2] Stosuje się 7-znakowy kod TERYT miejscowości, dzielnicy lub delegatury w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego, w której znajduje się siedziba dysponenta jednostki systemu. Nie używa się kodów zakończonych cyfrą „3”. Nie podaje się danych adresowych miejsca, w którym znajduje się siedziba dysponenta jednostki systemu. [^3] Stosuje się następujące oznaczenia jednostek systemu: SOR – szpitalny oddział ratunkowy, ZRM – zespół ratownictwa medycznego, LZRM – lotniczy zespół ratownictwa medycznego."
+     "text": "[^1_2] Zgodnie z rozporządzeniem Ministra Zdrowia z dnia 29 marca 2019 r. w sprawie szczegółowego zakresu danych objętych wpisem do rejestru podmiotów wykonujących działalność leczniczą oraz szczegółowego trybu postępowania w sprawach dokonywania wpisów, zmian w rejestrze oraz wykreśleń z tego rejestru (Dz. U. poz. 605, z późn. zm.). [^2] Stosuje się 7-znakowy kod TERYT miejscowości, dzielnicy lub delegatury w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego, w której znajduje się siedziba dysponenta jednostki systemu. Nie używa się kodów zakończonych cyfrą „3”. Nie podaje się danych adresowych miejsca, w którym znajduje się siedziba dysponenta jednostki systemu. [^3] Stosuje się następujące oznaczenia jednostek systemu: SOR – szpitalny oddział ratunkowy, ZRM – zespół ratownictwa medycznego, LZRM – lotniczy zespół ratownictwa medycznego."
     },
     {
      "type": "text",
@@ -1938,7 +1938,7 @@
     },
     {
      "type": "text",
-     "text": "Liczba dyspozytorów Liczba dyspozytorów medycznych, o których Okres, w jakim Okres, w jakim Liczba dyspozytorów medycznych mowa w art. 58 ust. 3 Kod funkcjonowała wskazana funkcjonowała wskazana Liczba stanowisk medycznych posiadających ustawy z dnia dyspozytorni liczba stanowisk liczba stanowisk dyspozytorów posiadających wykształcenie 8 września 2006 r. medycznej dyspozytorów medycznych dyspozytorów medycznych medycznych wykształcenie wymagane dla o Państwowym [^1] w danej lokalizacji w ciągu w danej lokalizacji w ciągu w danej lokalizacji wymagane dla ratownika Ratownictwie roku od [dd-mm] roku do [dd-mm] pielęgniarki systemu medycznego Medycznym (Dz. U. z 2025 r. poz. 91, z późn. zm.)"
+     "text": "Liczba dyspozytorów Liczba dyspozytorów medycznych, o których Okres, w jakim Okres, w jakim Liczba dyspozytorów medycznych mowa w art. 58 ust. 3 Kod funkcjonowała wskazana funkcjonowała wskazana Liczba stanowisk medycznych posiadających ustawy z dnia dyspozytorni liczba stanowisk liczba stanowisk dyspozytorów posiadających wykształcenie 8 września 2006 r. medycznej dyspozytorów medycznych dyspozytorów medycznych medycznych wykształcenie wymagane dla o Państwowym [^1_2] w danej lokalizacji w ciągu w danej lokalizacji w ciągu w danej lokalizacji wymagane dla ratownika Ratownictwie roku od [dd-mm] roku do [dd-mm] pielęgniarki systemu medycznego Medycznym (Dz. U. z 2025 r. poz. 91, z późn. zm.)"
     },
     {
      "type": "text",
@@ -1946,7 +1946,7 @@
     },
     {
      "type": "text",
-     "text": "[^1] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”."
+     "text": "[^1_2] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”."
     },
     {
      "type": "text",
@@ -2006,7 +2006,7 @@
     },
     {
      "type": "text",
-     "text": "Mediana czasu, licząc od początku oczekiwania zgłaszającego na połączenie z operatorem numerów alarmowych do zakończenia połączenia operatora numerów alarmowych i zgłaszającego z dyspozytorem medycznym [mm:ss][^3] Tabela nr 16: Liczba połączeń i czas ich obsługi w dyspozytorni medycznej ……… (kod dyspozytorni medycznej[^1]) –"
+     "text": "Mediana czasu, licząc od początku oczekiwania zgłaszającego na połączenie z operatorem numerów alarmowych do zakończenia połączenia operatora numerów alarmowych i zgłaszającego z dyspozytorem medycznym [mm:ss][^3] Tabela nr 16: Liczba połączeń i czas ich obsługi w dyspozytorni medycznej ……… (kod dyspozytorni medycznej[^1_2]) –"
     },
     {
      "type": "text",
@@ -2046,7 +2046,7 @@
     },
     {
      "type": "text",
-     "text": "[^1] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”. [^2] Dotyczy wyłącznie połączeń bezpośrednio na numer 999. [^3] Dotyczy wyłącznie połączeń na numer 112 przekazanych z centrów powiadamiania ratunkowego do dyspozytorni medycznych."
+     "text": "[^1_2] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”. [^2] Dotyczy wyłącznie połączeń bezpośrednio na numer 999. [^3] Dotyczy wyłącznie połączeń na numer 112 przekazanych z centrów powiadamiania ratunkowego do dyspozytorni medycznych."
     },
     {
      "type": "text",
@@ -2068,7 +2068,7 @@
       },
       {
        "type": "text",
-       "text": "Objaśnienie: [^1] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”."
+       "text": "Objaśnienie: [^1_2] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”."
       },
       {
        "type": "text",
@@ -2084,11 +2084,11 @@
      "children": [
       {
        "type": "text",
-       "text": "Liczba zgłoszeń przekazanych Liczba zgłoszeń przekazanych Liczba zgłoszeń przekazanych do obsługi do właściwej do obsługi do właściwej do obsługi do właściwej Miesiąc dyspozytorni medycznej ……… dyspozytorni medycznej ……… dyspozytorni medycznej ……… Suma końcowa (kod dyspozytorni zastępowanej[^1]) (kod dyspozytorni zastępowanej[^1]) (kod dyspozytorni zastępowanej[^1]) styczeń luty marzec kwiecień maj czerwiec lipiec sierpień wrzesień październik listopad grudzień Suma końcowa Średnia"
+       "text": "Liczba zgłoszeń przekazanych Liczba zgłoszeń przekazanych Liczba zgłoszeń przekazanych do obsługi do właściwej do obsługi do właściwej do obsługi do właściwej Miesiąc dyspozytorni medycznej ……… dyspozytorni medycznej ……… dyspozytorni medycznej ……… Suma końcowa (kod dyspozytorni zastępowanej[^1_2]) (kod dyspozytorni zastępowanej[^1_2]) (kod dyspozytorni zastępowanej[^1_2]) styczeń luty marzec kwiecień maj czerwiec lipiec sierpień wrzesień październik listopad grudzień Suma końcowa Średnia"
       },
       {
        "type": "text",
-       "text": "Objaśnienie: [^1] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”."
+       "text": "Objaśnienie: [^1_2] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”."
       },
       {
        "type": "text",
@@ -2104,11 +2104,11 @@
      "children": [
       {
        "type": "text",
-       "text": "Liczba zgłoszeń przekazanych Liczba zgłoszeń przekazanych Liczba zgłoszeń przekazanych do do obsługi z innych dyspozytorni do obsługi z innych dyspozytorni obsługi z innych dyspozytorni Miesiąc medycznych ……… medycznych ……… medycznych ……… Suma końcowa (kod dyspozytorni zastępującej[^1]) (kod dyspozytorni zastępującej[^1]) (kod dyspozytorni zastępującej[^1]) styczeń luty marzec kwiecień maj czerwiec lipiec sierpień wrzesień październik listopad grudzień Suma końcowa Średnia"
+       "text": "Liczba zgłoszeń przekazanych Liczba zgłoszeń przekazanych Liczba zgłoszeń przekazanych do do obsługi z innych dyspozytorni do obsługi z innych dyspozytorni obsługi z innych dyspozytorni Miesiąc medycznych ……… medycznych ……… medycznych ……… Suma końcowa (kod dyspozytorni zastępującej[^1_2]) (kod dyspozytorni zastępującej[^1_2]) (kod dyspozytorni zastępującej[^1_2]) styczeń luty marzec kwiecień maj czerwiec lipiec sierpień wrzesień październik listopad grudzień Suma końcowa Średnia"
       },
       {
        "type": "text",
-       "text": "Objaśnienie: [^1] Zgodnie z dokumentem pn. „Zastępowalność dyspozytorni medycznych w systemie Państwowe Ratownictwo Medyczne”."
+       "text": "Objaśnienie: [^1_2] Zgodnie z dokumentem pn. „Zastępowalność dyspozytorni medycznych w systemie Państwowe Ratownictwo Medyczne”."
       },
       {
        "type": "text",
@@ -2116,11 +2116,11 @@
       },
       {
        "type": "text",
-       "text": "Objaśnienia: [^1] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”. [^2] W opisie rejonu operacyjnego stosuje się 7-znakowy kod TERYT w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego. Nie używa się kodów zakończonych cyfrą „3”. Kolejne pozycje rejonu operacyjnego oddziela się średnikiem i spacją. [^3] Stosuje się 7-znakowy kod TERYT miejscowości, dzielnicy lub delegatury w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego, w której stacjonuje zespół ratownictwa medycznego. Nie używa się kodów zakończonych cyfrą „3”. Nie podaje się danych adresowych miejsca stacjonowania. Kolejne pozycje obszaru działania oddziela się średnikiem i spacją. [^4] Stosuje się następujące oznaczenia rodzajów zespołów ratownictwa medycznego, o których mowa w art. 36 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91, z późn. zm.): S – specjalistyczny, P2 – podstawowy dwuosobowy, P3 – podstawowy trzyosobowy, WS – specjalistyczny wodny, WP2 – wodny podstawowy dwuosobowy, WP3 – wodny podstawowy trzyosobowy, M – motocyklowa jednostka ratunkowa. [^5] Stosuje się 7-znakowy kod TERYT miejscowości, dzielnicy lub delegatury w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego, w której stacjonuje zespół ratownictwa medycznego. Nie używa się kodów zakończonych cyfrą „3”. Nie podaje się danych adresowych miejsca stacjonowania. [^6] Wskazuje się nazwę miejscowości, dzielnicy lub delegatury, w której stacjonuje zespół ratownictwa medycznego. Nie podaje się danych adresowych miejsca stacjonowania. [^7] Wymienia się dni tygodnia, a w przypadku gdy zespół ratownictwa medycznego nie pozostaje w całodobowej gotowości, wskazuje się godziny pozostawania w gotowości. Województwo"
+       "text": "Objaśnienia: [^1_2] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”. [^2] W opisie rejonu operacyjnego stosuje się 7-znakowy kod TERYT w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego. Nie używa się kodów zakończonych cyfrą „3”. Kolejne pozycje rejonu operacyjnego oddziela się średnikiem i spacją. [^3] Stosuje się 7-znakowy kod TERYT miejscowości, dzielnicy lub delegatury w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego, w której stacjonuje zespół ratownictwa medycznego. Nie używa się kodów zakończonych cyfrą „3”. Nie podaje się danych adresowych miejsca stacjonowania. Kolejne pozycje obszaru działania oddziela się średnikiem i spacją. [^4] Stosuje się następujące oznaczenia rodzajów zespołów ratownictwa medycznego, o których mowa w art. 36 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91, z późn. zm.): S – specjalistyczny, P2 – podstawowy dwuosobowy, P3 – podstawowy trzyosobowy, WS – specjalistyczny wodny, WP2 – wodny podstawowy dwuosobowy, WP3 – wodny podstawowy trzyosobowy, M – motocyklowa jednostka ratunkowa. [^5] Stosuje się 7-znakowy kod TERYT miejscowości, dzielnicy lub delegatury w zakresie systemu identyfikatorów i nazw jednostek podziału administracyjnego, w której stacjonuje zespół ratownictwa medycznego. Nie używa się kodów zakończonych cyfrą „3”. Nie podaje się danych adresowych miejsca stacjonowania. [^6] Wskazuje się nazwę miejscowości, dzielnicy lub delegatury, w której stacjonuje zespół ratownictwa medycznego. Nie podaje się danych adresowych miejsca stacjonowania. [^7] Wymienia się dni tygodnia, a w przypadku gdy zespół ratownictwa medycznego nie pozostaje w całodobowej gotowości, wskazuje się godziny pozostawania w gotowości. Województwo"
       },
       {
        "type": "text",
-       "text": "Numer rejonu operacyjnego[^1]"
+       "text": "Numer rejonu operacyjnego[^1_2]"
       },
       {
        "type": "text",
@@ -2128,7 +2128,7 @@
       },
       {
        "type": "text",
-       "text": "Kod dyspozytorni medycznej[^1]"
+       "text": "Kod dyspozytorni medycznej[^1_2]"
       },
       {
        "type": "text",
@@ -2168,7 +2168,7 @@
       },
       {
        "type": "text",
-       "text": "Planowana data uruchomienia zespołu ratownictwa medycznego [dd-mm-rrrr] Kod dyspozytorni medycznej[^1]"
+       "text": "Planowana data uruchomienia zespołu ratownictwa medycznego [dd-mm-rrrr] Kod dyspozytorni medycznej[^1_2]"
       },
       {
        "type": "text",
@@ -2176,7 +2176,7 @@
       },
       {
        "type": "text",
-       "text": "Numer rejonu operacyjnego[^1]"
+       "text": "Numer rejonu operacyjnego[^1_2]"
       },
       {
        "type": "text",
@@ -2228,7 +2228,7 @@
       },
       {
        "type": "text",
-       "text": "[^1] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”. [^2] Zgodna z aktualnymi danymi Głównego Urzędu Statystycznego."
+       "text": "[^1_2] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”. [^2] Zgodna z aktualnymi danymi Głównego Urzędu Statystycznego."
       },
       {
        "type": "text",
@@ -2240,7 +2240,7 @@
       },
       {
        "type": "text",
-       "text": "Liczba zespołów Liczba zespołów Rodzaj Kod Numer rejonu ratownictwa Obszar Kod obszaru Liczba ludności ratownictwa stanowiska Numer dyspozytorni operacyjnego medycznego dysponowania dysponowania w obszarze medycznego dyspozytora kolejki Numer DDI[^4] medycznej[^1][^1] w rejonie (opis)[^1] dysponowania[^2] w obszarze medycznego EACD[^3] operacyjnym dysponowania[^1]"
+       "text": "Liczba zespołów Liczba zespołów Rodzaj Kod Numer rejonu ratownictwa Obszar Kod obszaru Liczba ludności ratownictwa stanowiska Numer dyspozytorni operacyjnego medycznego dysponowania dysponowania w obszarze medycznego dyspozytora kolejki Numer DDI[^4] medycznej[^1_2][^1_2] w rejonie (opis)[^1_2] dysponowania[^2] w obszarze medycznego EACD[^3] operacyjnym dysponowania[^1_2]"
       },
       {
        "type": "text",
@@ -2248,15 +2248,15 @@
       },
       {
        "type": "text",
-       "text": "[^1] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”. [^2] Zgodna z aktualnymi danymi Głównego Urzędu Statystycznego. [^3] Numer kolejki automatycznie dystrybuującej połączenia powiązany z danym stanowiskiem dyspozytora medycznego. [^4] Numer podkładowy właściwy dla danej konsoli przynależącej do danego stanowiska dyspozytora medycznego."
+       "text": "[^1_2] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”. [^2] Zgodna z aktualnymi danymi Głównego Urzędu Statystycznego. [^3] Numer kolejki automatycznie dystrybuującej połączenia powiązany z danym stanowiskiem dyspozytora medycznego. [^4] Numer podkładowy właściwy dla danej konsoli przynależącej do danego stanowiska dyspozytora medycznego."
       },
       {
        "type": "text",
-       "text": "Kod dyspozytorni medycznej zastępującej[^1]"
+       "text": "Kod dyspozytorni medycznej zastępującej[^1_2]"
       },
       {
        "type": "text",
-       "text": "Numer rejonu operacyjnego dyspozytorni medycznej zastępującej[^1]"
+       "text": "Numer rejonu operacyjnego dyspozytorni medycznej zastępującej[^1_2]"
       },
       {
        "type": "text",
@@ -2264,43 +2264,43 @@
       },
       {
        "type": "text",
-       "text": "Kod obszaru dysponowania dyspozytorni medycznej zastępującej[^1]"
+       "text": "Kod obszaru dysponowania dyspozytorni medycznej zastępującej[^1_2]"
       },
       {
        "type": "text",
-       "text": "Obszar dysponowania dyspozytorni medycznej zastępującej[^1]"
+       "text": "Obszar dysponowania dyspozytorni medycznej zastępującej[^1_2]"
       },
       {
        "type": "text",
-       "text": "Kod dyspozytorni medycznej zastępowanej na poziomie krajowym (II etap zastępowalności[^1])"
+       "text": "Kod dyspozytorni medycznej zastępowanej na poziomie krajowym (II etap zastępowalności[^1_2])"
       },
       {
        "type": "text",
-       "text": "Numer rejonu operacyjnego dyspozytorni medycznej zastępowanej na poziomie krajowym (II etap zastępowalności[^1])"
+       "text": "Numer rejonu operacyjnego dyspozytorni medycznej zastępowanej na poziomie krajowym (II etap zastępowalności[^1_2])"
       },
       {
        "type": "text",
-       "text": "Kod obszaru dysponowania dyspozytorni medycznej zastępowanej na poziomie krajowym (II etap zastępowalności[^1])"
+       "text": "Kod obszaru dysponowania dyspozytorni medycznej zastępowanej na poziomie krajowym (II etap zastępowalności[^1_2])"
       },
       {
        "type": "text",
-       "text": "Obszar dysponowania dyspozytorni medycznej zastępowanej na poziomie krajowym (II etap zastępowalności[^1])"
+       "text": "Obszar dysponowania dyspozytorni medycznej zastępowanej na poziomie krajowym (II etap zastępowalności[^1_2])"
       },
       {
        "type": "text",
-       "text": "Kod dyspozytorni medycznej zastępowanej na poziomie wojewódzkim (I etap zastępowalności[^1],[^3])"
+       "text": "Kod dyspozytorni medycznej zastępowanej na poziomie wojewódzkim (I etap zastępowalności[^1_2],[^3])"
       },
       {
        "type": "text",
-       "text": "Numer rejonu operacyjnego dyspozytorni medycznej zastępowanej na poziomie wojewódzkim (I etap zastępowalności[^1],[^3])"
+       "text": "Numer rejonu operacyjnego dyspozytorni medycznej zastępowanej na poziomie wojewódzkim (I etap zastępowalności[^1_2],[^3])"
       },
       {
        "type": "text",
-       "text": "Kod obszaru dysponowania dyspozytorni medycznej zastępowanej na poziomie wojewódzkim (I etap zastępowalności[^1],[^3])"
+       "text": "Kod obszaru dysponowania dyspozytorni medycznej zastępowanej na poziomie wojewódzkim (I etap zastępowalności[^1_2],[^3])"
       },
       {
        "type": "text",
-       "text": "Obszar dysponowania dyspozytorni medycznej zastępowanej na poziomie wojewódzkim (I etap zastępowalności[^1],[^3]) Tabela nr 23: Zastępowalność dyspozytorni medycznych – według stanu na dzień ……… [dd-mm-rrrr]"
+       "text": "Obszar dysponowania dyspozytorni medycznej zastępowanej na poziomie wojewódzkim (I etap zastępowalności[^1_2],[^3]) Tabela nr 23: Zastępowalność dyspozytorni medycznych – według stanu na dzień ……… [dd-mm-rrrr]"
       },
       {
        "type": "text",
@@ -2308,7 +2308,7 @@
       },
       {
        "type": "text",
-       "text": "[^1] Zgodnie z dokumentem pn. „Zastępowalność dyspozytorni medycznych w systemie Państwowe Ratownictwo Medyczne”. [^2] Zgodnie z rozporządzeniem Ministra Zdrowia z dnia 12 października 2018 r. w sprawie organizacji dyspozytorni medycznej (Dz. U. poz. 2001). [^3] Dotyczy sytuacji, gdy dyspozytornia medyczna zastępująca w dokumencie pn. „Zastępowalność dyspozytorni medycznych w systemie Państwowe Ratownictwo Medyczne” ma przypisaną więcej niż jedną dyspozytornię medyczną zastępowaną."
+       "text": "[^1_2] Zgodnie z dokumentem pn. „Zastępowalność dyspozytorni medycznych w systemie Państwowe Ratownictwo Medyczne”. [^2] Zgodnie z rozporządzeniem Ministra Zdrowia z dnia 12 października 2018 r. w sprawie organizacji dyspozytorni medycznej (Dz. U. poz. 2001). [^3] Dotyczy sytuacji, gdy dyspozytornia medyczna zastępująca w dokumencie pn. „Zastępowalność dyspozytorni medycznych w systemie Państwowe Ratownictwo Medyczne” ma przypisaną więcej niż jedną dyspozytornię medyczną zastępowaną."
       },
       {
        "type": "text",
@@ -2356,7 +2356,7 @@
       },
       {
        "type": "text",
-       "text": "Liczba etatów przeliczeniowych osób zatrudnionych na podstawie umowy cywilnoprawnej na stanowisku pracownika administracyjnego w dyspozytorni medycznej Tabela nr 24: Stan zatrudnienia w dyspozytorni medycznej ……… (kod dyspozytorni medycznej[^1]) – według stanu"
+       "text": "Liczba etatów przeliczeniowych osób zatrudnionych na podstawie umowy cywilnoprawnej na stanowisku pracownika administracyjnego w dyspozytorni medycznej Tabela nr 24: Stan zatrudnienia w dyspozytorni medycznej ……… (kod dyspozytorni medycznej[^1_2]) – według stanu"
       },
       {
        "type": "text",
@@ -2388,7 +2388,7 @@
       },
       {
        "type": "text",
-       "text": "[^1] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”."
+       "text": "[^1_2] Zgodnie z dokumentem pn. „Zasady tworzenia identyfikacyjnych oznaczeń w systemie Państwowe Ratownictwo Medyczne i przydzielania nazw technicznych w Systemie Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego”."
       }
      ]
     }
@@ -2396,6 +2396,7 @@
   }
  ],
  "footnotes": {
-  "1": "Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1004). 1) wrzesień październik listopad grudzień Suma Średnia lipiec sierpień wrzesień październik listopad grudzień Średnia"
+  "1": "Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1004).",
+  "1_2": "W przypadku sporządzenia wojewódzkiego planu działania systemu Państwowe Ratownictwo Medyczne na podstawie art. 16 ust. 3 ustawy z dnia 24 kwietnia 2025 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 637) plan ten oznacza się jako tekst pierwotny. wrzesień październik listopad grudzień Suma Średnia lipiec sierpień wrzesień październik listopad grudzień Średnia"
  }
 }

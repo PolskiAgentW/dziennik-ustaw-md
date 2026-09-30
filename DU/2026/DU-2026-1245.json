@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1245",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 września 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks pracy",
- "converter": "eli2md 0.6.4",
+ "converter": "eli2md 0.6.5",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1245/text.pdf",
  "body": [
   {
@@ -275,153 +275,15 @@
     },
     {
      "type": "text",
-     "text": "Kodeks pracy[^1]"
+     "text": "Kodeks pracy[^1] Preambuła (uchylona)"
     },
     {
      "type": "text",
-     "text": "[^1] Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:"
+     "text": "DZIAŁ PIERWSZY"
     },
     {
-     "type": "pkt",
-     "num": "1",
-     "path": "pkt_1",
-     "text": "dyrektywy 83/477/EWG z dnia 19 września 1983 r. w sprawie ochrony pracowników przed ryzykiem związanym z narażeniem na działanie azbestu w miejscu pracy (druga dyrektywa szczegółowa w rozumieniu art. 8 dyrektywy 80/1107/EWG) (Dz. Urz. WE L 263 z 24.09.1983, z późn. zm.),",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "pkt_2",
-     "text": "dyrektywy 86/188/EWG z dnia 12 maja 1986 r. w sprawie ochrony pracowników przed ryzykiem związanym z narażeniem na działanie hałasu w miejscu pracy (Dz. Urz. WE L 137 z 24.05.1986),",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "pkt_3",
-     "text": "dyrektywy 89/391/EWG z dnia 12 czerwca 1989 r. w sprawie wprowadzenia środków w celu poprawy bezpieczeństwa i zdrowia pracowników w miejscu pracy (Dz. Urz. WE L 183 z 29.06.1989),",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "4",
-     "path": "pkt_4",
-     "text": "dyrektywy 89/654/EWG z dnia 30 listopada 1989 r. dotyczącej minimalnych wymagań w dziedzinie bezpieczeństwa i ochrony zdrowia w miejscu pracy (pierwsza dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 393 z 30.12.1989),",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "5",
-     "path": "pkt_5",
-     "text": "dyrektywy 89/655/EWG z dnia 30 listopada 1989 r. dotyczącej minimalnych wymagań w dziedzinie bezpieczeństwa i higieny użytkowania sprzętu roboczego przez pracowników podczas pracy (druga dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 393 z 30.12.1989, z późn. zm.),",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "6",
-     "path": "pkt_6",
-     "text": "dyrektywy 89/656/EWG z dnia 30 listopada 1989 r. w sprawie minimalnych wymagań w dziedzinie bezpieczeństwa i ochrony zdrowia pracowników korzystających z wyposażenia ochrony osobistej (trzecia dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 393 z 30.12.1989),",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "7",
-     "path": "pkt_7",
-     "text": "dyrektywy 90/269/EWG z dnia 29 maja 1990 r. w sprawie minimalnych wymagań dotyczących ochrony zdrowia i bezpieczeństwa podczas ręcznego przemieszczania ciężarów w przypadku możliwości wystąpienia zagrożenia, zwłaszcza urazów kręgosłupa pracowników (czwarta szczegółowa dyrektywa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 156 z 21.06.1990), 8) dyrektywy 90/270/EWG z dnia 29 maja 1990 r. w sprawie minimalnych wymagań w dziedzinie bezpieczeństwa i ochrony zdrowia przy pracy z urządzeniami wyposażonymi w monitory ekranowe (piąta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 156 z 21.06.1990),",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "9",
-     "path": "pkt_9",
-     "text": "dyrektywy 90/394/EWG z dnia 28 czerwca 1990 r. w sprawie ochrony pracowników przed zagrożeniem dotyczącym narażenia na działanie czynników rakotwórczych podczas pracy (szósta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 196 z 26.07.1990, z późn. zm.),",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "10",
-     "path": "pkt_10",
-     "text": "dyrektywy 91/322/EWG z dnia 29 maja 1991 r. w sprawie ustalenia indykatywnych wartości granicznych w wykonaniu dyrektywy 80/1107/EWG w sprawie ochrony pracowników przed ryzykiem związanym z narażeniem na działanie czynników chemicznych, fizycznych i biologicznych w miejscu pracy (Dz. Urz. WE L 177 z 05.07.1991),",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "11",
-     "path": "pkt_11",
-     "text": "dyrektywy 91/383/EWG z dnia 25 czerwca 1991 r. uzupełniającej środki mające wspierać poprawę bezpieczeństwa i zdrowia w pracy pracowników pozostających w stosunku pracy na czas określony lub w czasowym stosunku pracy (Dz. Urz. WE L 206 z 29.07.1991),",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "12",
-     "path": "pkt_12",
-     "text": "dyrektywy 91/533/EWG z dnia 14 października 1991 r. w sprawie obowiązku pracodawcy dotyczącego informowania pracowników o warunkach stosowanych do umowy lub stosunku pracy (Dz. Urz. WE L 288 z 08.07.1992),",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "13",
-     "path": "pkt_13",
-     "text": "dyrektywy 92/57/EWG z dnia 24 czerwca 1992 r. w sprawie wprowadzenia w życie minimalnych wymagań w zakresie bezpieczeństwa i ochrony zdrowia w miejscach tymczasowych lub ruchomych budów (ósma dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 245 z 26.08.1992),",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "14",
-     "path": "pkt_14",
-     "text": "dyrektywy 92/58/EWG z dnia 24 czerwca 1992 r. w sprawie minimalnych wymagań dotyczących znaków bezpieczeństwa i/lub zdrowia w miejscu pracy (dziewiąta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 245 z 26.08.1992),",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "15",
-     "path": "pkt_15",
-     "text": "dyrektywy 92/85/EWG z dnia 19 października 1992 r. w sprawie wprowadzenia środków służących wspieraniu poprawy w miejscu pracy bezpieczeństwa i zdrowia pracownic w ciąży, pracownic, które niedawno rodziły i pracownic karmiących piersią (dziesiąta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 348 z 28.11.1992),",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "16",
-     "path": "pkt_16",
-     "text": "dyrektywy 93/104/WE z dnia 23 listopada 1993 r. dotyczącej niektórych aspektów organizacji czasu pracy (Dz. Urz. WE L 307 z 13.12.1993),",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "17",
-     "path": "pkt_17",
-     "text": "dyrektywy 94/33/WE z dnia 22 czerwca 1994 r. w sprawie ochrony pracy osób młodych (Dz. Urz. WE L 216 z 20.08.1994),",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "18",
-     "path": "pkt_18",
-     "text": "dyrektywy 96/34/WE z dnia 3 czerwca 1996 r. w sprawie Porozumienia ramowego dotyczącego urlopu rodzicielskiego zawartego przez Europejską Unię Konfederacji Przemysłowych i Pracodawców /UNICE/, Europejskie Centrum Przedsiębiorstw Publicznych /CEEP/ oraz Europejską Konfederację Związków Zawodowych /ETUC/ (Dz. Urz. WE L 145 z 19.06.1996),",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "19",
-     "path": "pkt_19",
-     "text": "(uchylony)",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "20",
-     "path": "pkt_20",
-     "text": "dyrektywy 97/80/WE z dnia 15 grudnia 1997 r. dotyczącej ciężaru dowodu w sprawach dyskryminacji ze względu na płeć (Dz. Urz. WE L 14 z 20.01.1998), Preambuła (uchylona)",
-     "children": [
-      {
-       "type": "text",
-       "text": "DZIAŁ PIERWSZY"
-      },
-      {
-       "type": "text",
-       "text": "Przepisy ogólne"
-      }
-     ]
+     "type": "text",
+     "text": "Przepisy ogólne"
     },
     {
      "type": "heading",
@@ -16402,6 +16264,146 @@
       },
       {
        "type": "pkt",
+       "num": "1",
+       "path": "art_305/pkt_1",
+       "text": "dyrektywy 83/477/EWG z dnia 19 września 1983 r. w sprawie ochrony pracowników przed ryzykiem związanym z narażeniem na działanie azbestu w miejscu pracy (druga dyrektywa szczegółowa w rozumieniu art. 8 dyrektywy 80/1107/EWG) (Dz. Urz. WE L 263 z 24.09.1983, z późn. zm.),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_305/pkt_2",
+       "text": "dyrektywy 86/188/EWG z dnia 12 maja 1986 r. w sprawie ochrony pracowników przed ryzykiem związanym z narażeniem na działanie hałasu w miejscu pracy (Dz. Urz. WE L 137 z 24.05.1986),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_305/pkt_3",
+       "text": "dyrektywy 89/391/EWG z dnia 12 czerwca 1989 r. w sprawie wprowadzenia środków w celu poprawy bezpieczeństwa i zdrowia pracowników w miejscu pracy (Dz. Urz. WE L 183 z 29.06.1989),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_305/pkt_4",
+       "text": "dyrektywy 89/654/EWG z dnia 30 listopada 1989 r. dotyczącej minimalnych wymagań w dziedzinie bezpieczeństwa i ochrony zdrowia w miejscu pracy (pierwsza dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 393 z 30.12.1989),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_305/pkt_5",
+       "text": "dyrektywy 89/655/EWG z dnia 30 listopada 1989 r. dotyczącej minimalnych wymagań w dziedzinie bezpieczeństwa i higieny użytkowania sprzętu roboczego przez pracowników podczas pracy (druga dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 393 z 30.12.1989, z późn. zm.),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_305/pkt_6",
+       "text": "dyrektywy 89/656/EWG z dnia 30 listopada 1989 r. w sprawie minimalnych wymagań w dziedzinie bezpieczeństwa i ochrony zdrowia pracowników korzystających z wyposażenia ochrony osobistej (trzecia dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 393 z 30.12.1989),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_305/pkt_7",
+       "text": "dyrektywy 90/269/EWG z dnia 29 maja 1990 r. w sprawie minimalnych wymagań dotyczących ochrony zdrowia i bezpieczeństwa podczas ręcznego przemieszczania ciężarów w przypadku możliwości wystąpienia zagrożenia, zwłaszcza urazów kręgosłupa pracowników (czwarta szczegółowa dyrektywa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 156 z 21.06.1990),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "art_305/pkt_8",
+       "text": "dyrektywy 90/270/EWG z dnia 29 maja 1990 r. w sprawie minimalnych wymagań w dziedzinie bezpieczeństwa i ochrony zdrowia przy pracy z urządzeniami wyposażonymi w monitory ekranowe (piąta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 156 z 21.06.1990),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "art_305/pkt_9",
+       "text": "dyrektywy 90/394/EWG z dnia 28 czerwca 1990 r. w sprawie ochrony pracowników przed zagrożeniem dotyczącym narażenia na działanie czynników rakotwórczych podczas pracy (szósta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 196 z 26.07.1990, z późn. zm.),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "art_305/pkt_10",
+       "text": "dyrektywy 91/322/EWG z dnia 29 maja 1991 r. w sprawie ustalenia indykatywnych wartości granicznych w wykonaniu dyrektywy 80/1107/EWG w sprawie ochrony pracowników przed ryzykiem związanym z narażeniem na działanie czynników chemicznych, fizycznych i biologicznych w miejscu pracy (Dz. Urz. WE L 177 z 05.07.1991),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "art_305/pkt_11",
+       "text": "dyrektywy 91/383/EWG z dnia 25 czerwca 1991 r. uzupełniającej środki mające wspierać poprawę bezpieczeństwa i zdrowia w pracy pracowników pozostających w stosunku pracy na czas określony lub w czasowym stosunku pracy (Dz. Urz. WE L 206 z 29.07.1991),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "art_305/pkt_12",
+       "text": "dyrektywy 91/533/EWG z dnia 14 października 1991 r. w sprawie obowiązku pracodawcy dotyczącego informowania pracowników o warunkach stosowanych do umowy lub stosunku pracy (Dz. Urz. WE L 288 z 08.07.1992),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "art_305/pkt_13",
+       "text": "dyrektywy 92/57/EWG z dnia 24 czerwca 1992 r. w sprawie wprowadzenia w życie minimalnych wymagań w zakresie bezpieczeństwa i ochrony zdrowia w miejscach tymczasowych lub ruchomych budów (ósma dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 245 z 26.08.1992),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "art_305/pkt_14",
+       "text": "dyrektywy 92/58/EWG z dnia 24 czerwca 1992 r. w sprawie minimalnych wymagań dotyczących znaków bezpieczeństwa i/lub zdrowia w miejscu pracy (dziewiąta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 245 z 26.08.1992),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "art_305/pkt_15",
+       "text": "dyrektywy 92/85/EWG z dnia 19 października 1992 r. w sprawie wprowadzenia środków służących wspieraniu poprawy w miejscu pracy bezpieczeństwa i zdrowia pracownic w ciąży, pracownic, które niedawno rodziły i pracownic karmiących piersią (dziesiąta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 348 z 28.11.1992),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "art_305/pkt_16",
+       "text": "dyrektywy 93/104/WE z dnia 23 listopada 1993 r. dotyczącej niektórych aspektów organizacji czasu pracy (Dz. Urz. WE L 307 z 13.12.1993),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "art_305/pkt_17",
+       "text": "dyrektywy 94/33/WE z dnia 22 czerwca 1994 r. w sprawie ochrony pracy osób młodych (Dz. Urz. WE L 216 z 20.08.1994),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "art_305/pkt_18",
+       "text": "dyrektywy 96/34/WE z dnia 3 czerwca 1996 r. w sprawie Porozumienia ramowego dotyczącego urlopu rodzicielskiego zawartego przez Europejską Unię Konfederacji Przemysłowych i Pracodawców /UNICE/, Europejskie Centrum Przedsiębiorstw Publicznych /CEEP/ oraz Europejską Konfederację Związków Zawodowych /ETUC/ (Dz. Urz. WE L 145 z 19.06.1996),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "19",
+       "path": "art_305/pkt_19",
+       "text": "(uchylony)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "art_305/pkt_20",
+       "text": "dyrektywy 97/80/WE z dnia 15 grudnia 1997 r. dotyczącej ciężaru dowodu w sprawach dyskryminacji ze względu na płeć (Dz. Urz. WE L 14 z 20.01.1998),",
+       "children": []
+      },
+      {
+       "type": "pkt",
        "num": "21",
        "path": "art_305/pkt_21",
        "text": "dyrektywy 98/24/WE z dnia 7 kwietnia 1998 r. w sprawie ochrony zdrowia i bezpieczeństwa pracowników przed ryzykiem związanym z czynnikami chemicznymi w miejscu pracy (czternasta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) (Dz. Urz. WE L 131 z 05.05.1998),",
@@ -16504,6 +16506,7 @@
   }
  ],
  "footnotes": {
+  "1": "Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:",
   "2": "Zdanie drugie w brzmieniu ustalonym przez art. 40 pkt 1 lit. a ustawy z dnia 5 listopada 2025 r. o układach zbiorowych pracy i porozumieniach zbiorowych (Dz. U. poz. 1661), która weszła w życie z dniem 13 grudnia 2025 r.",
   "3": "Zdanie drugie dodane przez art. 40 pkt 1 lit. b ustawy, o której mowa w odnośniku 2.",
   "4": "Przez art. 40 pkt 1 lit. c ustawy, o której mowa w odnośniku 2.",

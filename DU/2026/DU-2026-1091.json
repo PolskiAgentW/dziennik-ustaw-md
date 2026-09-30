@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1091",
  "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 sierpnia 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie wymagań weterynaryjnych przy produkcji mięsa przeznaczonego na użytek własny",
- "converter": "eli2md 0.6.4",
+ "converter": "eli2md 0.6.5",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1091/text.pdf",
  "body": [
   {
@@ -1086,7 +1086,12 @@
      "num": "3",
      "path": "ust_3",
      "text": "Próbki przechowuje się i transportuje w warunkach zapobiegających rozkładowi gnilnemu mięsa, przy czym próbek nie mrozi się.",
-     "children": []
+     "children": [
+      {
+       "type": "text",
+       "text": "[^20] W brzmieniu ustalonym przez § 1 pk"
+      }
+     ]
     },
     {
      "type": "ust",
@@ -1167,7 +1172,6 @@
   "1_3": "Dotyczy uboju zwierząt w gospodarstwie innym niż gospodarstwo, w którym zwierzęta były utrzymywane.",
   "2_2": "Dotyczy, jeżeli z przepisów o systemie identyfikacji i rejestracji zwierząt wynika obowiązek oznakowania zwierzęcia.",
   "3_2": "Niepotrzebne skreślić.",
-  "20": "W brzmieniu ustalonym przez § 1 pk",
-  "20_2": "W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2."
+  "20": "W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 2."
  }
 }

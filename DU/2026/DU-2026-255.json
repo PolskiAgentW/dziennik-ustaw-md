@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/255",
  "title": "Rozporządzenie Ministra Finansów i Gospodarki z dnia 17 lutego 2026 r. w sprawie określenia wzoru formularza wniosku o pozwolenie na budowę",
- "converter": "eli2md 0.6.4",
+ "converter": "eli2md 0.6.5",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/255/text.pdf",
  "body": [
   {
@@ -81,7 +81,7 @@
       },
       {
        "type": "text",
-       "text": "2.1. DANE INWESTORA[^1]"
+       "text": "2.1. DANE INWESTORA[^1_2]"
       },
       {
        "type": "text",
@@ -133,7 +133,7 @@
       },
       {
        "type": "text",
-       "text": "2.2. DANE INWESTORA (DO KORESPONDENCJI)[^1]"
+       "text": "2.2. DANE INWESTORA (DO KORESPONDENCJI)[^1_2]"
       },
       {
        "type": "text",
@@ -185,7 +185,7 @@
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "DANE PEŁNOMOCNIKA / PEŁNOMOCNIKA DO DORĘCZEŃ[^1]",
+     "text": "DANE PEŁNOMOCNIKA / PEŁNOMOCNIKA DO DORĘCZEŃ[^1_2]",
      "children": [
       {
        "type": "text",
@@ -268,7 +268,7 @@
      "type": "ust",
      "num": "6",
      "path": "ust_6",
-     "text": "DANE NIERUCHOMOŚCI (MIEJSCE WYKONYWANIA ROBÓT BUDOWLANYCH)[^1]",
+     "text": "DANE NIERUCHOMOŚCI (MIEJSCE WYKONYWANIA ROBÓT BUDOWLANYCH)[^1_2]",
      "children": [
       {
        "type": "text",
@@ -333,10 +333,6 @@
       {
        "type": "text",
        "text": "……………………………………………………………………………………………………………"
-      },
-      {
-       "type": "text",
-       "text": "[^1] W przypadku większej liczby inwestorów, pełnomocników lub nieruchomości dane kolejnych inwestorów, pełnomocników lub nieruchomości dodaje się w formularzu albo zamieszcza na osobnych stronach i dołącza do formularza. [^2] W przypadku określonym w art. 147 ust. 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3) w razie braku adresu do doręczeń elektronicznych wskazuje się adres skrzynki ePUAP. Możliwość doręczania korespondencji na skrzynkę ePUAP obowiązuje do dnia określonego w tym przepisie. [^3] Nazwa powinna w sposób ogólny określać zamierzenie budowlane, np. „Zespół budynków jednorodzinnych wraz z infrastrukturą”. [^4] W przypadku formularza w postaci papierowej zamiast identyfikatora działki ewidencyjnej można wskazać jednostkę ewidencyjną, obręb ewidencyjny i numer działki ewidencyjnej oraz arkusz mapy, jeżeli występuje. [^5] Zamiast oryginału można dołączyć kopię dokumentu."
       }
      ]
     }
@@ -344,6 +340,11 @@
   }
  ],
  "footnotes": {
-  "1": "Minister Finansów i Gospodarki kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Finansów i Gospodarki (Dz. U. poz. 997). Wypełnia się, jeżeli inwestor działa przez pełnomocnika."
+  "1": "Minister Finansów i Gospodarki kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Finansów i Gospodarki (Dz. U. poz. 997). Wypełnia się, jeżeli inwestor działa przez pełnomocnika.",
+  "1_2": "W przypadku większej liczby inwestorów, pełnomocników lub nieruchomości dane kolejnych inwestorów, pełnomocników lub nieruchomości dodaje się w formularzu albo zamieszcza na osobnych stronach i dołącza do formularza.",
+  "2": "W przypadku określonym w art. 147 ust. 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3) w razie braku adresu do doręczeń elektronicznych wskazuje się adres skrzynki ePUAP. Możliwość doręczania korespondencji na skrzynkę ePUAP obowiązuje do dnia określonego w tym przepisie.",
+  "3": "Nazwa powinna w sposób ogólny określać zamierzenie budowlane, np. „Zespół budynków jednorodzinnych wraz z infrastrukturą”.",
+  "4": "W przypadku formularza w postaci papierowej zamiast identyfikatora działki ewidencyjnej można wskazać jednostkę ewidencyjną, obręb ewidencyjny i numer działki ewidencyjnej oraz arkusz mapy, jeżeli występuje.",
+  "5": "Zamiast oryginału można dołączyć kopię dokumentu."
  }
 }

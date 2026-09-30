@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1067",
  "title": "Obwieszczenie Ministra Zdrowia z dnia 21 lipca 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie rzeczoznawców do spraw sanitarnohigienicznych",
- "converter": "eli2md 0.6.4",
+ "converter": "eli2md 0.6.5",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1067/text.pdf",
  "body": [
   {
@@ -1648,7 +1648,61 @@
     },
     {
      "type": "text",
-     "text": ".............................................................................."
+     "text": ".............................................................................. pieczęć okrągła (podpis Głównego Inspektora Sanitarnego)"
+    },
+    {
+     "type": "text",
+     "text": "Objaśnienie: Numer uprawnienia rzeczoznawcy do spraw sanitarnohigienicznych zawiera następujące oznaczenia:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "kolejny numer uprawnienia przyznanego w danym roku;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "oznaczenie za pomocą symboli literowych zakresu przyznanego uprawnienia:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_2/lit_a",
+       "text": "N – bez ograniczeń,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_2/lit_b",
+       "text": "BP – budownictwo przemysłowe,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_2/lit_c",
+       "text": "BO – budownictwo ogólne bez obiektów ochrony zdrowia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "pkt_2/lit_d",
+       "text": "BOS – budownictwo ogólne z obiektami ochrony zdrowia;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "rok, w którym przyznano uprawnienie. Dokument ma format A4.",
+     "children": []
     }
    ]
   },
@@ -1711,27 +1765,6 @@
     {
      "type": "text",
      "text": "Objaśnienie: W rubryce „Treść uzgodnienia” wpisuje się informację o uzgodnieniu dokumentacji projektowej – bez zastrzeżeń albo z zastrzeżeniami, treść zgłoszonych zastrzeżeń, a w przypadku gdy zastrzeżenia sporządzono w formie załącznika do klauzuli potwierdzającej uzgodnienie – informację o sporządzeniu tego załącznika, a także informację o odmowie uzgodnienia dokumentacji projektowej. W rubryce „Uwagi” wpisuje się datę i numer decyzji, o której mowa w § 18 ust. 1 rozporządzenia, oraz innych dokumentów dotyczących sprawy."
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "pkt_1",
-     "text": "kolejny numer uprawnienia przyznanego w danym roku;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "pkt_2",
-     "text": "oznaczenie za pomocą symboli literowych zakresu przyznanego uprawnienia: a) N – bez ograniczeń, b) BP – budownictwo przemysłowe, c) BO – budownictwo ogólne bez obiektów ochrony zdrowia, d) BOS – budownictwo ogólne z obiektami ochrony zdrowia;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "pkt_3",
-     "text": "rok, w którym przyznano uprawnienie. Dokument ma format A4.",
-     "children": []
     }
    ]
   }
@@ -1766,7 +1799,7 @@
   "26": "Dodany przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 2.",
   "27": "Ze zmianą wprowadzoną przez § 1 pkt 13 lit. a rozporządzenia, o którym mowa w odnośniku 2.",
   "28": "Dodany przez § 1 pkt 13 lit. b rozporządzenia, o którym mowa w odnośniku 2.",
-  "29": "Rozporządzenie zostało ogłoszone w dniu 13 grudnia 2002 r. pieczęć okrągła (podpis Głównego Inspektora Sanitarnego) Objaśnienie: Numer uprawnienia rzeczoznawcy do spraw sanitarnohigienicznych zawiera następujące oznaczenia:",
+  "29": "Rozporządzenie zostało ogłoszone w dniu 13 grudnia 2002 r.",
   "30": "W brzmieniu ustalonym przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 2.",
   "31": "Ze zmianą wprowadzoną przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 2."
  }

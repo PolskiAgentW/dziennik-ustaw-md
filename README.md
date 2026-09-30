@@ -20,7 +20,7 @@ się przeszukiwać, porównywać i przetwarzać.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-30 04:37 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-30 05:12 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -34,7 +34,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 81, razem 1837 z 55640 
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 197.
 
 Rodzaje aktów: Rozporządzenie 1814, Obwieszczenie 1004, Ustawa 362, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
-Wersje konwertera: eli2md 0.6.4 (3266).
+Wersje konwertera: eli2md 0.6.5 (3266).
 <!-- stats:end -->
 
 ## Zawartość
@@ -109,6 +109,11 @@ i 2 drobne; na 1 stronie tylko błędna data przepisana z API. Na żadnej stroni
   mapa znaków czcionki wzorów jest w PDF błędna, więc wzory są nieczytelne;
 - w tabelach z komórkami wieloliniowymi linie sąsiednich kolumn bywają przeplecione (DU/2025/205, lp. 9);
 - przypis z wyliczeniem: do przypisu trafia tylko pierwszy akapit, dalsze punkty są w treści (DU/2026/421).
+
+Zmiana 2026-09-30 przed południem (eli2md 0.6.5, wszystkie akty od nowa). Tekst i drzewo JSON zmieniły się w 133
+z 3266 plików: przypisy ze stron, na których kreska przypisów jest wysoko (np. strona z samymi przypisami
+w obwieszczeniu tekstu jednolitego) albo jest narysowana linią, są teraz definicjami `[^n]:` na końcu pliku, a nie
+akapitami treści (np. DU/2025/1016). Selfcheck bez zmian w każdym z tych plików (słowa są te same).
 
 Zmiana 2026-09-30 rano (eli2md 0.6.4, wszystkie akty od nowa). Tekst zmienił się w 40 plikach, drzewo JSON
 w 68:

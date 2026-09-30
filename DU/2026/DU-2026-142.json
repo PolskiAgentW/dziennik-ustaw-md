@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/142",
  "title": "Obwieszczenie Ministra Infrastruktury z dnia 13 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Rozwoju w sprawie szczegółowych warunków bezpiecznego uprawiania żeglugi przez statki morskie",
- "converter": "eli2md 0.6.4",
+ "converter": "eli2md 0.6.5",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/142/text.pdf",
  "body": [
   {
@@ -5452,7 +5452,7 @@
       },
       {
        "type": "text",
-       "text": "…………………………….…….. …………………………….…….."
+       "text": "…………………………….…….. …………………………….…….. miejscowość, data podpis osoby upoważnionej"
       },
       {
        "type": "text",
@@ -5465,12 +5465,12 @@
      "num": "2",
      "path": "ust_2",
      "text": "W przypadku statków podlegających Konwencji SOLAS ustalony rodzaj, liczbę oraz rozmieszczenie sprzętu pożarniczego należy wpisać do książki bezpieczeństwa pożarowego statku.",
-     "children": []
-    },
-    {
-     "type": "heading",
-     "label": "II.",
-     "text": "Zasady rozmieszczania sprzętu pożarniczego"
+     "children": [
+      {
+       "type": "text",
+       "text": "W brzmieniu ustalonym przez II. Zasady rozmieszczania sprzętu pożarniczego"
+      }
+     ]
     },
     {
      "type": "ust",
@@ -5526,12 +5526,12 @@
      "num": "8",
      "path": "ust_8",
      "text": "Na statku powinny znajdować się instrukcja przeciwpożarowa i pożarnicze tablice informacyjne z napisem „NIEBEZPIECZEŃSTWO – DANGER” oraz „NIE PALIĆ – NO SMOKING”. Tablice powinny mieć minimum 840 × 600 mm, być białe, z 20-milimetrowym czerwonym obrzeżem i z czarnymi napisami o wysokości minimum 120 mm.",
-     "children": []
-    },
-    {
-     "type": "heading",
-     "label": "III.",
-     "text": "Gaśnice przenośne i przewoźne"
+     "children": [
+      {
+       "type": "text",
+       "text": "III. Gaśnice przenośne i przewoźne"
+      }
+     ]
     },
     {
      "type": "ust",
@@ -5566,89 +5566,87 @@
      "num": "5",
      "path": "ust_5",
      "text": "W pomieszczeniu gaśnice powinny być umieszczane w łatwo dostępnym miejscu. Jedna z gaśnic w danym pomieszczeniu powinna znajdować się w pobliżu wejścia.",
-     "children": []
-    },
-    {
-     "type": "heading",
-     "label": "IV.",
-     "text": "Przenośny zestaw pianowy"
-    },
-    {
-     "type": "text",
-     "text": "Przenośny zestaw pianowy składa się z prądownicy pianowej typu zasysającego, którą można podłączyć do wodnej instalacji gaśniczej za pomocą węża pożarniczego, z przenośnym zbiornikiem zawierającym co najmniej 20 l środka pianotwórczego oraz z jednego zapasowego zbiornika środka pianotwórczego. Prądownica powinna być zdolna do wytwarzania piany odpowiedniej do gaszenia pożaru palącego się oleju, z wydajnością przepływu roztworu środka pianotwórczego co najmniej 200 l/min."
-    },
-    {
-     "type": "heading",
-     "label": "V.",
-     "text": "Wyposażenie strażackie"
-    },
-    {
-     "type": "text",
-     "text": "Zestaw wyposażenia strażackiego składa się z:"
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "pkt_1",
-     "text": "wyposażenia osobistego, zawierającego:",
      "children": [
       {
-       "type": "lit",
-       "num": "a",
-       "path": "pkt_1/lit_a",
-       "text": "ubranie ochronne typu lekkiego, wykonane z materiału, który chroni skórę przed ciepłem promieniującym od ognia oraz przed oparzeniami płomieniem lub parą i którego powierzchnia zewnętrzna powinna być wodoodporna,",
-       "children": []
+       "type": "text",
+       "text": "IV. Przenośny zestaw pianowy"
       },
       {
-       "type": "lit",
-       "num": "b",
-       "path": "pkt_1/lit_b",
-       "text": "buty i rękawice wykonane z gumy lub innego materiału nieprzewodzącego prądu elektrycznego,",
-       "children": []
+       "type": "text",
+       "text": "Przenośny zestaw pianowy składa się z prądownicy pianowej typu zasysającego, którą można podłączyć do wodnej instalacji gaśniczej za pomocą węża pożarniczego, z przenośnym zbiornikiem zawierającym co najmniej 20 l środka pianotwórczego oraz z jednego zapasowego zbiornika środka pianotwórczego. Prądownica powinna być zdolna do wytwarzania piany odpowiedniej do gaszenia pożaru palącego się oleju, z wydajnością przepływu roztworu środka pianotwórczego co najmniej 200 l/min."
       },
       {
-       "type": "lit",
-       "num": "c",
-       "path": "pkt_1/lit_c",
-       "text": "sztywny hełm stanowiący skuteczną ochronę przed uderzeniami,",
-       "children": []
+       "type": "text",
+       "text": "V. Wyposażenie strażackie"
       },
       {
-       "type": "lit",
-       "num": "d",
-       "path": "pkt_1/lit_d",
-       "text": "elektryczną lampę bezpieczeństwa (latarkę ręczną) uznanego typu, której okres działania to minimum 3 godziny; elektryczne lampy na zbiornikowcach oraz elektryczne lampy przeznaczone do użycia w rejonach niebezpiecznych powinny być typu przeciwwybuchowego,",
-       "children": []
+       "type": "text",
+       "text": "Zestaw wyposażenia strażackiego składa się z:"
       },
       {
-       "type": "lit",
-       "num": "e",
-       "path": "pkt_1/lit_e",
-       "text": "pas strażacki z zatrzaśnikiem i toporkiem strażackim w pochwie;",
-       "children": []
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_5/pkt_1",
+       "text": "wyposażenia osobistego, zawierającego:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_5/pkt_1/lit_a",
+         "text": "ubranie ochronne typu lekkiego, wykonane z materiału, który chroni skórę przed ciepłem promieniującym od ognia oraz przed oparzeniami płomieniem lub parą i którego powierzchnia zewnętrzna powinna być wodoodporna,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_5/pkt_1/lit_b",
+         "text": "buty i rękawice wykonane z gumy lub innego materiału nieprzewodzącego prądu elektrycznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_5/pkt_1/lit_c",
+         "text": "sztywny hełm stanowiący skuteczną ochronę przed uderzeniami,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_5/pkt_1/lit_d",
+         "text": "elektryczną lampę bezpieczeństwa (latarkę ręczną) uznanego typu, której okres działania to minimum 3 godziny; elektryczne lampy na zbiornikowcach oraz elektryczne lampy przeznaczone do użycia w rejonach niebezpiecznych powinny być typu przeciwwybuchowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_5/pkt_1/lit_e",
+         "text": "pas strażacki z zatrzaśnikiem i toporkiem strażackim w pochwie;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "niezależnego aparatu oddechowego ze sprężonym powietrzem, którego objętość w butlach powinna wynosić co najmniej 1200 l, lub innym niezależnym aparatem oddechowym, który powinien zabezpieczać funkcjonowanie przez co najmniej 30 min.",
+       "children": [
+        {
+         "type": "text",
+         "text": "VI. Ucieczkowe aparaty oddechowe (EEBD)"
+        },
+        {
+         "type": "text",
+         "text": "Aparat składa się z maski twarzowej z kapturem oraz butli ze sprężonym powietrzem zapewniającej oddychanie przez co najmniej 10 min."
+        },
+        {
+         "type": "text",
+         "text": "VII. Wyposażenie statków w sprzęt pożarniczy i części zapasowe"
+        }
+       ]
       }
      ]
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "pkt_2",
-     "text": "niezależnego aparatu oddechowego ze sprężonym powietrzem, którego objętość w butlach powinna wynosić co najmniej 1200 l, lub innym niezależnym aparatem oddechowym, który powinien zabezpieczać funkcjonowanie przez co najmniej 30 min.",
-     "children": []
-    },
-    {
-     "type": "heading",
-     "label": "VI.",
-     "text": "Ucieczkowe aparaty oddechowe (EEBD)"
-    },
-    {
-     "type": "text",
-     "text": "Aparat składa się z maski twarzowej z kapturem oraz butli ze sprężonym powietrzem zapewniającej oddychanie przez co najmniej 10 min."
-    },
-    {
-     "type": "heading",
-     "label": "VII.",
-     "text": "Wyposażenie statków w sprzęt pożarniczy i części zapasowe"
     },
     {
      "type": "ust",
@@ -5696,50 +5694,50 @@
        "num": "3",
        "path": "ust_1/pkt_3",
        "text": "wykrywacz gazów i 10 wskaźników rurkowych dwutlenku węgla dla statków wyposażonych w stałe instalacje gaśnicze na dwutlenek węgla. Jeżeli na statku jest analizator spalin, nie wymaga się wykrywacza gazów.",
-       "children": []
+       "children": [
+        {
+         "type": "text",
+         "text": "VIII. Minimalne wyposażenie w sprzęt pożarniczy statków niepodlegających Konwencji SOLAS o pojemności brutto (GT) poniżej 500 jednostek"
+        },
+        {
+         "type": "text",
+         "text": "m bu a ac a o e l i w , i ł y j n a a w n o a y e t n og ś a r yn ac n zc n i e k ub y w ża e til i l i i i i ca ony n ś i g a - 54 zc o n a s r n ś a eża s k caża ec o l ł p on w ac n ź o a łt od w e g opy caża r t i z i o Lp. Rodzaj statku ac i żą ą r i w c o r t s a w r t w w w n ó r n ś ez on p nu s r k ę k e i W W ś a a G r P a p i K ópo R e l G T"
+        },
+        {
+         "type": "text",
+         "text": "1 Statek towarowy 5 3 – 2 2 1 1"
+        },
+        {
+         "type": "text",
+         "text": "2 Statek ratowniczy, szkolny, badawczy, 5 3 – 2 – 1 1 hydrograficzny"
+        },
+        {
+         "type": "text",
+         "text": "3 Pogłębiarka 5 5 – 2 – 1 1"
+        },
+        {
+         "type": "text",
+         "text": "4 Kuter pilotowy, kontroler badawczy, hydrograficzny, 5 3 – 1 – 1 1 holownik do 368 kW uk t a 5 Holownik, kuter pilotowy, t s a statek pożarniczy powyżej 5 3 1 n h 2 – 1 1 368 kW c y 6 Łódź motorowa, łódź w o t rybacka bezpokładowa 1 – – n a r 1 – – – 7 Łódź motorowa rybacka dyh pokładowa ze sterówką 1 1 – w ó 1 – – 1 i dziobówką r o w 8 Kuter rybacki o długości az pomiarowej do 17 m 2 1 – h c 1 – 1 1 9 Kuter rybacki o długości yn a pomiarowej powyżej 17 m 5 3 – w o l 2 – 2 1 10 Motorówka pasażerska, a t s n i ratownicza, inspekcyjna, az hydrograficzna, 2 1 – e i b 1 – – 1 gospodarcza, cumownicza, zc pilotowa il a n 11 Barka bez napędu 1 1 – w ó r – – – 1 12 Barka z napędem 3 2 – a b 1 – 1 1 13 Baza nurkowa bez napędu, zc i L warsztat pływający 2 1 – 1 – 1 1"
+        },
+        {
+         "type": "text",
+         "text": "14 Szalanda bez napędu 2 1 – 1 – – –"
+        },
+        {
+         "type": "text",
+         "text": "15 Szalanda z napędem, dźwig pływający 4 3 – 2 – 1 1"
+        },
+        {
+         "type": "text",
+         "text": "16 Koszarka 3 1 – 1 – 1 1"
+        },
+        {
+         "type": "text",
+         "text": "Uwagi:"
+        }
+       ]
       }
      ]
-    },
-    {
-     "type": "heading",
-     "label": "VIII.",
-     "text": "Minimalne wyposażenie w sprzęt pożarniczy statków niepodlegających Konwencji SOLAS o pojemności brutto (GT) poniżej 500 jednostek"
-    },
-    {
-     "type": "text",
-     "text": "m bu a ac a o e l i w , i ł y j n a a w n o a y e t n og ś a r yn ac n zc n i e k ub y w ża e til i l i i i i ca ony n ś i g a - 54 zc o n a s r n ś a eża s k caża ec o l ł p on w ac n ź o a łt od w e g opy caża r t i z i o Lp. Rodzaj statku ac i żą ą r i w c o r t s a w r t w w w n ó r n ś ez on p nu s r k ę k e i W W ś a a G r P a p i K ópo R e l G T"
-    },
-    {
-     "type": "text",
-     "text": "1 Statek towarowy 5 3 – 2 2 1 1"
-    },
-    {
-     "type": "text",
-     "text": "2 Statek ratowniczy, szkolny, badawczy, 5 3 – 2 – 1 1 hydrograficzny"
-    },
-    {
-     "type": "text",
-     "text": "3 Pogłębiarka 5 5 – 2 – 1 1"
-    },
-    {
-     "type": "text",
-     "text": "4 Kuter pilotowy, kontroler badawczy, hydrograficzny, 5 3 – 1 – 1 1 holownik do 368 kW uk t a 5 Holownik, kuter pilotowy, t s a statek pożarniczy powyżej 5 3 1 n h 2 – 1 1 368 kW c y 6 Łódź motorowa, łódź w o t rybacka bezpokładowa 1 – – n a r 1 – – – 7 Łódź motorowa rybacka dyh pokładowa ze sterówką 1 1 – w ó 1 – – 1 i dziobówką r o w 8 Kuter rybacki o długości az pomiarowej do 17 m 2 1 – h c 1 – 1 1 9 Kuter rybacki o długości yn a pomiarowej powyżej 17 m 5 3 – w o l 2 – 2 1 10 Motorówka pasażerska, a t s n i ratownicza, inspekcyjna, az hydrograficzna, 2 1 – e i b 1 – – 1 gospodarcza, cumownicza, zc pilotowa il a n 11 Barka bez napędu 1 1 – w ó r – – – 1 12 Barka z napędem 3 2 – a b 1 – 1 1 13 Baza nurkowa bez napędu, zc i L warsztat pływający 2 1 – 1 – 1 1"
-    },
-    {
-     "type": "text",
-     "text": "14 Szalanda bez napędu 2 1 – 1 – – –"
-    },
-    {
-     "type": "text",
-     "text": "15 Szalanda z napędem, dźwig pływający 4 3 – 2 – 1 1"
-    },
-    {
-     "type": "text",
-     "text": "16 Koszarka 3 1 – 1 – 1 1"
-    },
-    {
-     "type": "text",
-     "text": "Uwagi:"
     },
     {
      "type": "ust",
@@ -5753,12 +5751,12 @@
      "num": "2",
      "path": "ust_2",
      "text": "Minimalne wyposażenie w sprzęt pożarniczy statków niepodlegających Konwencji SOLAS o pojemności brutto (GT) 500 jednostek i powyżej oraz jego rozmieszczenie ustala właściwy dyrektor urzędu morskiego – w ilościach niemniejszych niż podane w tabeli.",
-     "children": []
-    },
-    {
-     "type": "heading",
-     "label": "IX.",
-     "text": "Kontrola sprzętu pożarniczego"
+     "children": [
+      {
+       "type": "text",
+       "text": "IX. Kontrola sprzętu pożarniczego"
+      }
+     ]
     },
     {
      "type": "ust",
@@ -5823,150 +5821,150 @@
      "num": "6",
      "path": "ust_6",
      "text": "Plan wywiesza się na statku w widocznych miejscach: na korytarzach, w holach, w centrum dowodzenia. Duplikat planu powinien być ulokowany na zewnątrz nadbudówki, w oznaczonym pojemniku. Miejsce umieszczenia planu powinno być oznakowane zgodnie z wytycznymi IMO[^2_4].",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Przepisy obowiązujące przy opracowywaniu planów ochrony przeciwpożarowej"
+    },
+    {
+     "type": "text",
+     "text": "Przy opracowywaniu planów należy w szczególności uwzględnić:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "postanowienia rozdziału II-2 Konwencji SOLAS;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "symbole graficzne do stosowania na planach, podane w dokumentach IMO[^3_3];",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "przepisy upoważnionej uznanej organizacji.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Zadania i przeznaczenie planu ochrony przeciwpożarowej"
+    },
+    {
+     "type": "text",
+     "text": "Plan powinien:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "umożliwić załogom statków, jednostkom straży pożarnej i odpowiedzialnym za bezpieczeństwo pożarowe pracownikom stoczni zapoznanie się z rodzajami i rozmieszczeniem:",
      "children": [
       {
-       "type": "text",
-       "text": "II. Przepisy obowiązujące przy opracowywaniu planów ochrony przeciwpożarowej"
-      },
-      {
-       "type": "text",
-       "text": "Przy opracowywaniu planów należy w szczególności uwzględnić:"
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_6/pkt_1",
-       "text": "postanowienia rozdziału II-2 Konwencji SOLAS;",
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_1/lit_a",
+       "text": "posterunków dowodzenia i posterunków pożarowych,",
        "children": []
       },
       {
-       "type": "pkt",
-       "num": "2",
-       "path": "ust_6/pkt_2",
-       "text": "symbole graficzne do stosowania na planach, podane w dokumentach IMO[^3_3];",
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_1/lit_b",
+       "text": "przegród przeciwpożarowych pionowych i poziomych,",
        "children": []
       },
       {
-       "type": "pkt",
-       "num": "3",
-       "path": "ust_6/pkt_3",
-       "text": "przepisy upoważnionej uznanej organizacji.",
-       "children": [
-        {
-         "type": "text",
-         "text": "III. Zadania i przeznaczenie planu ochrony przeciwpożarowej"
-        },
-        {
-         "type": "text",
-         "text": "Plan powinien:"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_6/pkt_1",
-       "text": "umożliwić załogom statków, jednostkom straży pożarnej i odpowiedzialnym za bezpieczeństwo pożarowe pracownikom stoczni zapoznanie się z rodzajami i rozmieszczeniem:",
-       "children": [
-        {
-         "type": "lit",
-         "num": "a",
-         "path": "ust_6/pkt_1/lit_a",
-         "text": "posterunków dowodzenia i posterunków pożarowych,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "b",
-         "path": "ust_6/pkt_1/lit_b",
-         "text": "przegród przeciwpożarowych pionowych i poziomych,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "c",
-         "path": "ust_6/pkt_1/lit_c",
-         "text": "drzwi i zamknięcia otworów w przegrodach przeciwpożarowych,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "d",
-         "path": "ust_6/pkt_1/lit_d",
-         "text": "dróg ewakuacji z rejonów i pomieszczeń statków,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "e",
-         "path": "ust_6/pkt_1/lit_e",
-         "text": "urządzeń odcinających i wyłączających systemy wentylacji,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "f",
-         "path": "ust_6/pkt_1/lit_f",
-         "text": "zbiorników paliwa i olejów smarowych z zaworami zdalnego odcinania,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "g",
-         "path": "ust_6/pkt_1/lit_g",
-         "text": "urządzeń wykrywczo-sygnalizacyjnych pożaru i alarmowych,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "h",
-         "path": "ust_6/pkt_1/lit_h",
-         "text": "pomp pożarniczych z zaworami instalacji wodno-hydrantowej,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "i",
-         "path": "ust_6/pkt_1/lit_i",
-         "text": "stałych instalacji gaśniczych oraz przenośnego sprzętu pożarniczego zainstalowanego na statku,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "j",
-         "path": "ust_6/pkt_1/lit_j",
-         "text": "ucieczkowych aparatów oddechowych,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "k",
-         "path": "ust_6/pkt_1/lit_k",
-         "text": "chemicznych ubrań ochronnych;",
-         "children": []
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "ust_6/pkt_2",
-       "text": "stanowić pomoc w prowadzeniu akcji ratowniczo-gaśniczej i szkoleniu załóg statków oraz jednostek straży pożarnej;",
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_1/lit_c",
+       "text": "drzwi i zamknięcia otworów w przegrodach przeciwpożarowych,",
        "children": []
       },
       {
-       "type": "pkt",
-       "num": "3",
-       "path": "ust_6/pkt_3",
-       "text": "stanowić podstawę prawidłowego rozmieszczenia przenośnego sprzętu pożarniczego na statkach w końcowej fazie budowy i w trakcie ich eksploatacji.",
-       "children": [
-        {
-         "type": "text",
-         "text": "IV. Podziałka i format planu ochrony przeciwpożarowej"
-        }
-       ]
+       "type": "lit",
+       "num": "d",
+       "path": "pkt_1/lit_d",
+       "text": "dróg ewakuacji z rejonów i pomieszczeń statków,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "pkt_1/lit_e",
+       "text": "urządzeń odcinających i wyłączających systemy wentylacji,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "pkt_1/lit_f",
+       "text": "zbiorników paliwa i olejów smarowych z zaworami zdalnego odcinania,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "pkt_1/lit_g",
+       "text": "urządzeń wykrywczo-sygnalizacyjnych pożaru i alarmowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "pkt_1/lit_h",
+       "text": "pomp pożarniczych z zaworami instalacji wodno-hydrantowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "pkt_1/lit_i",
+       "text": "stałych instalacji gaśniczych oraz przenośnego sprzętu pożarniczego zainstalowanego na statku,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "pkt_1/lit_j",
+       "text": "ucieczkowych aparatów oddechowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "pkt_1/lit_k",
+       "text": "chemicznych ubrań ochronnych;",
+       "children": []
       }
      ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "stanowić pomoc w prowadzeniu akcji ratowniczo-gaśniczej i szkoleniu załóg statków oraz jednostek straży pożarnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "stanowić podstawę prawidłowego rozmieszczenia przenośnego sprzętu pożarniczego na statkach w końcowej fazie budowy i w trakcie ich eksploatacji.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Podziałka i format planu ochrony przeciwpożarowej"
     },
     {
      "type": "ust",
@@ -6013,12 +6011,12 @@
      "num": "2",
      "path": "ust_2",
      "text": "Plan powinien być wykonany w miarę możliwości na jednym arkuszu. Dla statków wielopokładowych (statki pasażerskie, promy pasażersko-samochodowe, statki do przewozu samochodów itp.) dopuszcza się wykonanie planu na dwóch lub więcej arkuszach.",
-     "children": [
-      {
-       "type": "text",
-       "text": "V. Rysunki planu ochrony przeciwpożarowej"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "V.",
+     "text": "Rysunki planu ochrony przeciwpożarowej"
     },
     {
      "type": "ust",
@@ -6171,12 +6169,12 @@
      "num": "6",
      "path": "ust_6",
      "text": "Na planie należy zaznaczyć usytuowanie magazynów sprzętu pożarniczego. Magazyny sprzętu pożarniczego mogą być usytuowane w pomieszczeniach, z których wyjścia prowadzą na otwarty pokład lub korytarz mający bezpośrednie połączenie z pokładem otwartym.",
-     "children": [
-      {
-       "type": "text",
-       "text": "VI. Oznakowanie planu ochrony przeciwpożarowej"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "VI.",
+     "text": "Oznakowanie planu ochrony przeciwpożarowej"
     },
     {
      "type": "ust",
@@ -6232,12 +6230,12 @@
      "num": "8",
      "path": "ust_8",
      "text": "Obrysy zbiorników paliwa i olejów smarowych powinny być obramowane brązową linią.",
-     "children": [
-      {
-       "type": "text",
-       "text": "VII. Opis planu"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "VII.",
+     "text": "Opis planu"
     },
     {
      "type": "ust",
@@ -6727,7 +6725,7 @@
   "5_2": "Dotyczy statków uprawiających żeglugę poza obszarami morskimi Rzeczypospolitej Polskiej.",
   "6_2": "Dotyczy tylko żeglugi oceanicznej.",
   "7_2": "Na planowaną podróż.",
-  "8_2": "Dotyczy, jeżeli na statku wykorzystywane są papierowe mapy nawigacyjne. miejscowość, data podpis osoby upoważnionej W brzmieniu ustalonym przez",
+  "8_2": "Dotyczy, jeżeli na statku wykorzystywane są papierowe mapy nawigacyjne.",
   "27": "W brzmieniu ustalonym przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 3.",
   "1_6": "Cyrkularz IMO MSC/Circ. 1432 z dnia 31 maja 2012 r. – Zmienione wytyczne w sprawie utrzymania i inspekcji systemów i urządzeń ochrony przeciwpożarowej (Dz. Urz. MIiR z 2014 r. poz. 76).",
   "2_4": "Cyrkularz IMO MSC/Circ.451 z dnia 24 września 1986 r. – Wytyczne w sprawie rozmieszczenia planów ochrony przeciwpożarowej przeznaczonych dla lądowej straży pożarnej (Dz. Urz. MIiR z 2014 r. poz. 76).",

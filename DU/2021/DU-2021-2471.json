@@ -1,7 +1,7 @@
 {
  "eli": "DU/2021/2471",
  "title": "Rozporządzenie Rady Ministrów z dnia 20 grudnia 2021 r. w sprawie udzielania pomocy de minimis na uzyskanie certyfikatu wyrobu wymaganego w obrocie towarami na rynkach poza Unią Europejską",
- "converter": "eli2md 0.6.4",
+ "converter": "eli2md 0.6.5",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2021/2471/text.pdf",
  "body": [
   {
@@ -589,7 +589,11 @@
       },
       {
        "type": "text",
-       "text": "10.2 koszty przygotowania i tłumaczenia dokumentacji technicznej 10.3 koszty transportu i ubezpieczenia próbek wyrobu oraz dokumentacji technicznej wysyłanych do badań certyfikacyjnych"
+       "text": "10.2 koszty przygotowania i tłumaczenia dokumentacji technicznej"
+      },
+      {
+       "type": "text",
+       "text": "właściwemu do spraw gospod 10.3 koszty transportu i ubezpieczenia próbek wyrobu oraz dokumentacji technicznej wysyłanych do badań certyfikacyjnych"
       },
       {
        "type": "text",
@@ -668,7 +672,16 @@
      "num": "5",
      "path": "pkt_5",
      "text": "w przypadku korzystania z usług doradczych będzie korzystał z usług doradczych świadczonych przez doradców zewnętrznych[^5].",
-     "children": []
+     "children": [
+      {
+       "type": "text",
+       "text": "_____________________ _________________________________________________________"
+      },
+      {
+       "type": "text",
+       "text": "( miejscowość i data) (podpis/podpisy osoby/osób wskazanej/wskazanych w części I pkt 5 wniosku)"
+      }
+     ]
     }
    ]
   },
@@ -787,20 +800,20 @@
      "num": "5",
      "path": "ust_5",
      "text": "Nazwa i adres firmy doradczej (jeśli dotyczy):",
-     "children": []
-    },
-    {
-     "type": "heading",
-     "label": "CZĘŚĆ III",
-     "text": "– ROZLICZENIE KOSZTÓW Kwoty w PLN (z uwzględnieniem numerów faktur, rachunków lub innych dokumentów potwierdzających poniesione koszty)"
-    },
-    {
-     "type": "text",
-     "text": "Zestawienie poniesionych kosztów związanych z uzyskaniem certyfikatu wyrobu"
-    },
-    {
-     "type": "text",
-     "text": "(należy dołączyć kopie dokumentów potwierdzających poniesione koszty, tj. kopie faktur, rachunków lub innych dokumentów potwierdzających dokonanie płatności)"
+     "children": [
+      {
+       "type": "text",
+       "text": "lub jego kopii poświadczonej a z or m CZĘŚĆ III – ROZLICZENIE KOSZTÓW Kwoty w PLN (z uwzględnieniem numerów faktur, rachunków lub innych dokumentów potwierdzających poniesione koszty)"
+      },
+      {
+       "type": "text",
+       "text": "Zestawienie poniesionych kosztów związanych z uzyskaniem certyfikatu wyrobu"
+      },
+      {
+       "type": "text",
+       "text": "(należy dołączyć kopie dokumentów potwierdzających poniesione koszty, tj. kopie faktur, rachunków lub innych dokumentów potwierdzających dokonanie płatności)"
+      }
+     ]
     },
     {
      "type": "ust",
@@ -942,11 +955,11 @@
  "footnotes": {
   "1": "Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3.",
   "2": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39.",
-  "1_2": "W przypadku osób niewskazanych w dokumentach rejestrowych wymagane jest dołączenie pełnomocnictwa lub jego kopii poświadczonej za zgodność z oryginałem. właściwemu do spraw gospod",
+  "1_2": "W przypadku osób niewskazanych w dokumentach rejestrowych wymagane jest dołączenie pełnomocnictwa lub jego kopii poświadczonej za zgodność z oryginałem.",
   "2_2": "Zmianę numeru rachunku bankowego po dacie złożenia wniosku należy zgłosić pisemnie ministrowi właściwemu do spraw gospodarki.",
   "3": "Jeżeli przedsiębiorca ma prawną możliwość zwrotu lub odliczenia podatku od towarów i usług (VAT), zaznacza kwotę „netto” i kalkuluje koszty w kwocie netto.",
-  "4": "Jeżeli przedsiębiorca nie ma prawnej możliwości zwrotu lub odliczenia podatku od towarów i usług (VAT), zaznacza kwotę „brutto” i kalkuluje koszty w kwocie brutto. _____________________ _________________________________________________________ ( miejscowość i data) (podpis/podpisy osoby/osób wskazanej/wskazanych w części I pkt 5 wniosku)",
-  "5": "Zgodnie z art. 18 ust. 3 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.). lub jego kopii poświadczonej a z or m",
+  "4": "Jeżeli przedsiębiorca nie ma prawnej możliwości zwrotu lub odliczenia podatku od towarów i usług (VAT), zaznacza kwotę „brutto” i kalkuluje koszty w kwocie brutto.",
+  "5": "Zgodnie z art. 18 ust. 3 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.).",
   "1_3": "W przypadku osób niewskazanych w dokumentach rejestrowych wymagane jest dołączenie pełnomocnictwa lub jego kopii poświadczonej za zgodność z oryginałem.",
   "2_3": "Zgodnie z art. 18 ust. 3 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.)."
  }
