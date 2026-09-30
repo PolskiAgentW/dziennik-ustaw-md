@@ -21,7 +21,7 @@ Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla ża
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-30 11:33 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-30 22:54 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -37,6 +37,36 @@ Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 198.
 Rodzaje aktów: Rozporządzenie 1821, Obwieszczenie 1005, Ustawa 364, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
 Wersje konwertera: eli2md 0.6.7 (3260), eli2md 0.6.13 (16).
 <!-- stats:end -->
+
+## Teksty jednolite
+
+Teksty jednolite (obwieszczenia o ogłoszeniu jednolitego tekstu ustawy lub rozporządzenia) od 2025 r. też są
+w API tylko w PDF. Narzędzie, które bierze tekst z HTML, dostaje więc tekst jednolity sprzed 2025 r., bez
+późniejszych zmian. Tutaj są najnowsze teksty jednolite ogłoszone od 2025 r. Tabela jest odświeżana razem ze zbiorem.
+Tekst jednolity podaje stan prawny na dzień wskazany w obwieszczeniu. Zmian ogłoszonych później w nim nie ma.
+
+Artykuły z PDF zgadzają się z HTML: na 12 tekstach jednolitych, które mają oba formaty (m.in. KC, KP, KPC, KK),
+5903 z 5929 artykułów ma te same słowa ([pomiar](https://github.com/PolskiAgentW/eli2md/blob/main/eval/tj_articles_0.6.17.md)).
+
+<!-- tj:start -->
+| Akt | Najnowszy tekst jednolity | Ogłoszony | Wcześniejsze od 2025 r. |
+|---|---|---|---|
+| Kodeks cywilny | [Dz.U. 2026 poz. 795](DU/2026/DU-2026-795.md) | 2026-06-17 | [Dz.U. 2025 poz. 1071](DU/2025/DU-2025-1071.md) |
+| Kodeks karny | [Dz.U. 2025 poz. 383](DU/2025/DU-2025-383.md) | 2025-03-26 | – |
+| Kodeks karny skarbowy | [Dz.U. 2025 poz. 633](DU/2025/DU-2025-633.md) | 2025-05-15 | – |
+| Kodeks karny wykonawczy | [Dz.U. 2025 poz. 911](DU/2025/DU-2025-911.md) | 2025-07-08 | – |
+| Kodeks postępowania administracyjnego | [Dz.U. 2025 poz. 1691](DU/2025/DU-2025-1691.md) | 2025-12-03 | – |
+| Kodeks postępowania cywilnego | [Dz.U. 2026 poz. 468](DU/2026/DU-2026-468.md) | 2026-04-07 | – |
+| Kodeks postępowania karnego | [Dz.U. 2026 poz. 490](DU/2026/DU-2026-490.md) | 2026-04-09 | [Dz.U. 2025 poz. 46](DU/2025/DU-2025-46.md) |
+| Kodeks postępowania w sprawach o wykroczenia | [Dz.U. 2025 poz. 860](DU/2025/DU-2025-860.md) | 2025-06-30 | – |
+| Kodeks pracy | [Dz.U. 2026 poz. 1245](DU/2026/DU-2026-1245.md) | 2026-09-24 | [Dz.U. 2025 poz. 277](DU/2025/DU-2025-277.md) |
+| Kodeks rodzinny i opiekuńczy | [Dz.U. 2026 poz. 236](DU/2026/DU-2026-236.md) | 2026-02-27 | – |
+| Kodeks wyborczy | [Dz.U. 2026 poz. 1261](DU/2026/DU-2026-1261.md) | 2026-09-28 | [Dz.U. 2025 poz. 365](DU/2025/DU-2025-365.md) |
+| Kodeks wykroczeń | [Dz.U. 2025 poz. 734](DU/2025/DU-2025-734.md) | 2025-06-04 | – |
+| Ordynacja podatkowa | [Dz.U. 2026 poz. 622](DU/2026/DU-2026-622.md) | 2026-05-11 | [Dz.U. 2025 poz. 111](DU/2025/DU-2025-111.md) |
+
+Wszystkie akty z tekstem jednolitym ogłoszonym od 2025 r. (889): [TEKSTY_JEDNOLITE.md](TEKSTY_JEDNOLITE.md).
+<!-- tj:end -->
 
 ## Zawartość
 
