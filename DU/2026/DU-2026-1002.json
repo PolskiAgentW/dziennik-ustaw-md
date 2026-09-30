@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1002",
  "title": "Rozporządzenie Ministra Klimatu i Środowiska z dnia 14 lipca 2026 r. w sprawie przekazywania informacji z bieżącego dokumentowania przebiegu prac geologicznych oraz przekazywania bieżących parametrów wydobywania węglowodorów ze złoża",
- "converter": "eli2md 0.6.5",
+ "converter": "eli2md 0.6.7",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1002/text.pdf",
  "body": [
   {
@@ -2405,7 +2405,7 @@
       },
       {
        "type": "text",
-       "text": "Objaśnienie:[^1] Centralne arch [^1][^2] Centralne Niepotrzebne archiwum skreślić. geologiczne, o którym mowa w art. 162 ust. 1 pkt 2 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2026 r. poz. 69). [^2] Niepotrzebne skreślić."
+       "text": "Objaśnienie:[^1] Centralne arch [^1]²⁾ Centralne Niepotrzebne archiwum skreślić. geologiczne, o którym mowa w art. 162 ust. 1 pkt 2 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2026 r. poz. 69). ²⁾ Niepotrzebne skreślić."
       }
      ]
     }
@@ -2510,7 +2510,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Interwał Nr Uzysk Głębokość pobrania odcinka Długość Średnica Uwagi Nr Nr rdzeniowania skrzynki rdzenia rdzenia wiertniczego [m] przekazanego rdzenia Część rdzenia (np. stan zachowania rdzenia, Lp. skrzynki marszu w w marszu odcinka rdzenia wiertniczego wiertniczego miejsce, charakter i cel pobrania próbek, marszu [%] wiertniczego [cm][^3] części rdzenia, które nie podlegają przekazaniu) od do od do [cm]"
+       "text": "Interwał Nr Uzysk Głębokość pobrania odcinka Długość Średnica Uwagi Nr Nr rdzeniowania skrzynki rdzenia rdzenia wiertniczego [m] przekazanego rdzenia Część rdzenia (np. stan zachowania rdzenia, Lp. skrzynki marszu w w marszu odcinka rdzenia wiertniczego wiertniczego miejsce, charakter i cel pobrania próbek, marszu [%] wiertniczego [cm]³⁾ części rdzenia, które nie podlegają przekazaniu) od do od do [cm]"
       },
       {
        "type": "text",
@@ -2550,15 +2550,15 @@
       },
       {
        "type": "text",
-       "text": "[^1] Centralne archiwum geologiczne, o którym mowa w art. 162 ust. 1 pkt 2 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2026 r. poz. 69)."
+       "text": "¹⁾ Centralne archiwum geologiczne, o którym mowa w art. 162 ust. 1 pkt 2 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2026 r. poz. 69)."
       },
       {
        "type": "text",
-       "text": "[^2] Niepotrzebne skreślić."
+       "text": "²⁾ Niepotrzebne skreślić."
       },
       {
        "type": "text",
-       "text": "[^3] Część rdzenia wiertniczego w odniesieniu do całości rdzenia wiertniczego określona według płaszczyzny równoległej do osi rdzenia wiertniczego, wyrażona w postaci ułamka."
+       "text": "³⁾ Część rdzenia wiertniczego w odniesieniu do całości rdzenia wiertniczego określona według płaszczyzny równoległej do osi rdzenia wiertniczego, wyrażona w postaci ułamka."
       }
      ]
     }
@@ -2707,7 +2707,7 @@
       },
       {
        "type": "text",
-       "text": "[^2] Niepotrzebne skreślić."
+       "text": "²⁾ Niepotrzebne skreślić."
       }
      ]
     }
@@ -2771,7 +2771,7 @@
     },
     {
      "type": "text",
-     "text": "dane dotyczące wykonanego wyrobiska rozpoznawczego: lokalizacja, głębokość, 1 kąt nachylenia, XML , XLSX azymut przebiegu,[^1] wymiary wyrobiska, zakres wykonanych bezpośrednio pomiarów, obserwacji, opróbowania, wyniki pomiarów i obserwacji dokonanych w wyrobisku rozpoznawczym"
+     "text": "dane dotyczące wykonanego wyrobiska rozpoznawczego: lokalizacja, głębokość, 1 kąt nachylenia, XML , XLSX azymut przebiegu,¹⁾ wymiary wyrobiska, zakres wykonanych bezpośrednio pomiarów, obserwacji, opróbowania, wyniki pomiarów i obserwacji dokonanych w wyrobisku rozpoznawczym"
     },
     {
      "type": "text",
@@ -2799,7 +2799,7 @@
     },
     {
      "type": "text",
-     "text": "LAS, LIS, DLIS, 8 źródłowe dane geofizyki otworowej, XML[^1], XLSX, przetworzone dane geofizyki otworowej ASCII, NTI"
+     "text": "LAS, LIS, DLIS, 8 źródłowe dane geofizyki otworowej, XML¹⁾, XLSX, przetworzone dane geofizyki otworowej ASCII, NTI"
     },
     {
      "type": "text",
@@ -2807,11 +2807,11 @@
     },
     {
      "type": "text",
-     "text": "10 wyniki pomiarów i obserwacji towarzyszących wykonanym badaniom XML[^1], XLSX, geofizycznym ASCII"
+     "text": "10 wyniki pomiarów i obserwacji towarzyszących wykonanym badaniom XML¹⁾, XLSX, geofizycznym ASCII"
     },
     {
      "type": "text",
-     "text": "11 dane z pomiarów elektrooporowych XML[^1], XLSX, ASCII"
+     "text": "11 dane z pomiarów elektrooporowych XML¹⁾, XLSX, ASCII"
     },
     {
      "type": "text",
@@ -2831,23 +2831,23 @@
     },
     {
      "type": "text",
-     "text": "16 wyniki badań grawimetrycznych XML[^1], XLSX, ASCII"
+     "text": "16 wyniki badań grawimetrycznych XML¹⁾, XLSX, ASCII"
     },
     {
      "type": "text",
-     "text": "17 wyniki badań magnetometrycznych XML[^1], XLSX, ASCII 18 wyniki pomiarów piezometrycznych, XML[^1], XLSX, wyniki próbnych pompowań hydrogeologicznych ASCII"
+     "text": "17 wyniki badań magnetometrycznych XML¹⁾, XLSX, ASCII 18 wyniki pomiarów piezometrycznych, XML¹⁾, XLSX, wyniki próbnych pompowań hydrogeologicznych ASCII"
     },
     {
      "type": "text",
-     "text": "19 wyniki badań geologicznych dla konwencjonalnych i niekonwencjonalnych XML[^1], XLSX, złóż ropy naftowej i gazu ziemnego ASCII"
+     "text": "19 wyniki badań geologicznych dla konwencjonalnych i niekonwencjonalnych XML¹⁾, XLSX, złóż ropy naftowej i gazu ziemnego ASCII"
     },
     {
      "type": "text",
-     "text": "wyniki badań geologicznych dla węgla kamiennego, węgla brunatnego, rud metali, z wyjątkiem darniowych rud żelaza, metali w stanie rodzimym, XML , XLSX, 20 rud wyniki pierwiastków pomiarów promieniotwórczych, piezometrycznych, pierwiastków ziem rzadkich, ASCII XML[^1][^1], , siarki wyniki rodzimej, próbnych soli pompowań kamiennej, hydrogeologicznych soli potasowej, soli potasowo-magnezowej, gipsu wyniki i anhydrytu badań geologicznych dla konwencjonalnych i niekonwencjonalnych XML , XLSX, 19 złóż ropy naftowej i gazu ziemnego XML ASCII[^1], XLSX, 21 parametry wydobywania węglowodorów, gazów szlachetnych i wodoru ASCII wyniki badań geologicznych dla węgla kamiennego, węgla brunatnego, dane rud metali, przedstawiające z wyjątkiem historię darniowych produkcji rud (naturalną żelaza, metali wydajność w stanie odwiertu) rodzimy po rud wykonaniu pierwiastków stymulacji promieniotwó złoża, siarki historyczny rodzimej, zapis soli naturalnego kamiennej, przepływu soli potasowej, płynów soli złożowych potasowo-magnezowej, (ropa naftowa, ASC XML[^1]I , XLSX, 22 gaz ziemny i woda złożowa), ASCII gipsu i anhydrytu historyczny zapis spadku ciśnienia przepływu (spadku ciśnienia parametry złożowego/dennego) wydobywa ASCII 23 raporty dane przedstawiające (część tekstowa, historię opisowa) produkcji (naturalną wydajność odwiertu) PDF (zalecana wersja PDF/A)"
+     "text": "wyniki badań geologicznych dla węgla kamiennego, węgla brunatnego, rud metali, z wyjątkiem darniowych rud żelaza, metali w stanie rodzimym, XML , XLSX, 20 rud wyniki pierwiastków pomiarów promieniotwórczych, piezometrycznych, pierwiastków ziem rzadkich, ASCII XML¹⁾¹⁾, , siarki wyniki rodzimej, próbnych soli pompowań kamiennej, hydrogeologicznych soli potasowej, soli potasowo-magnezowej, gipsu wyniki i anhydrytu badań geologicznych dla konwencjonalnych i niekonwencjonalnych XML , XLSX, 19 złóż ropy naftowej i gazu ziemnego XML ASCII¹⁾, XLSX, 21 parametry wydobywania węglowodorów, gazów szlachetnych i wodoru ASCII wyniki badań geologicznych dla węgla kamiennego, węgla brunatnego, dane rud metali, przedstawiające z wyjątkiem historię darniowych produkcji rud (naturalną żelaza, metali wydajność w stanie odwiertu) rodzimy po rud wykonaniu pierwiastków stymulacji promieniotwó złoża, siarki historyczny rodzimej, zapis soli naturalnego kamiennej, przepływu soli potasowej, płynów soli złożowych potasowo-magnezowej, (ropa naftowa, ASC XML¹⁾I , XLSX, 22 gaz ziemny i woda złożowa), ASCII gipsu i anhydrytu historyczny zapis spadku ciśnienia przepływu (spadku ciśnienia parametry złożowego/dennego) wydobywa ASCII 23 raporty dane przedstawiające (część tekstowa, historię opisowa) produkcji (naturalną wydajność odwiertu) PDF (zalecana wersja PDF/A)"
     },
     {
      "type": "text",
-     "text": "[^1] Dane i informacje w formacie XML przekazuje się wraz ze schematem danych XSD."
+     "text": "¹⁾ Dane i informacje w formacie XML przekazuje się wraz ze schematem danych XSD."
     }
    ]
   },
@@ -2969,7 +2969,7 @@
       },
       {
        "type": "text",
-       "text": "Objaśnienie:[^1] Centralne arch [^1][^2] Centralne Niepotrzebne archiwum skreślić. geologiczne, o którym mowa w art. 162 ust. 1 pkt 2 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2026 r. poz. 69). [^2] Niepotrzebne skreślić."
+       "text": "Objaśnienie:[^1] Centralne arch [^1]²⁾ Centralne Niepotrzebne archiwum skreślić. geologiczne, o którym mowa w art. 162 ust. 1 pkt 2 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2026 r. poz. 69). ²⁾ Niepotrzebne skreślić."
       }
      ]
     },

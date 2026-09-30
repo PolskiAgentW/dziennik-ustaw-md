@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1117",
  "title": "Obwieszczenie Ministra Finansów i Gospodarki z dnia 1 sierpnia 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie wymogów dla systemów wyliczania utrzymywanych w podmiotach objętych systemem gwarantowania",
- "converter": "eli2md 0.6.5",
+ "converter": "eli2md 0.6.7",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1117/text.pdf",
  "body": [
   {
@@ -477,7 +477,7 @@
     },
     {
      "type": "text",
-     "text": "Nazwa Opis Typ Wymagane[^1_2][^2]"
+     "text": "Nazwa Opis Typ Wymagane¹⁾²⁾"
     },
     {
      "type": "text",
@@ -589,7 +589,7 @@
     },
     {
      "type": "text",
-     "text": "AdresKontaktowy[^3] Adres kontaktowy klienta xs:string nie"
+     "text": "AdresKontaktowy³⁾ Adres kontaktowy klienta xs:string nie"
     },
     {
      "type": "text",
@@ -633,7 +633,7 @@
     },
     {
      "type": "text",
-     "text": "DaneKlienta Dane klienta tak tak dla TypKlienta=OF PESEL[^4] Numer PESEL xs:string i Rezydent=1 Nazwisko Nazwisko albo nazwa klienta xs:string tak tak dla Imie Pierwsze imię xs:string TypKlienta=OF Imie2 Drugie imię xs:string nie MiejsceUrodzenia Miejsce urodzenia xs:string nie tak dla DataUrodzenia Data urodzenia xs:date TypKlienta=OF NazwiskoRodowe Nazwisko rodowe xs:string nie ImieOjca Imię ojca xs:string nie ImieMatki Imię matki xs:string nie KRS[^5] Numer Krajowego Rejestru Sądowego xs:string nie tak dla (TypKlienta=OP lub TypKlienta=JO) REGON[^6] Numer REGON xs:string i Rezydent=1 tak dla (TypKlienta=OP lub Numer z właściwego rejestru TypKlienta=JO) RejestrZagraniczny zagranicznego xs:string i Rezydent=0 Dokumenty potwierdzające tożsamość tak dla Dokumenty klienta xs:string TypKlienta=OF tak dla Dokument xs:string TypKlienta=OF Parametr przyjmuje wartości ze tak dla TypDokumentu słownika „TypDokumentu” xs:string TypKlienta=OF tak dla TypKlienta=OF Numer Seria i numer dokumentu xs:string i TypDokumentuOM"
+     "text": "DaneKlienta Dane klienta tak tak dla TypKlienta=OF PESEL⁴⁾ Numer PESEL xs:string i Rezydent=1 Nazwisko Nazwisko albo nazwa klienta xs:string tak tak dla Imie Pierwsze imię xs:string TypKlienta=OF Imie2 Drugie imię xs:string nie MiejsceUrodzenia Miejsce urodzenia xs:string nie tak dla DataUrodzenia Data urodzenia xs:date TypKlienta=OF NazwiskoRodowe Nazwisko rodowe xs:string nie ImieOjca Imię ojca xs:string nie ImieMatki Imię matki xs:string nie KRS⁵⁾ Numer Krajowego Rejestru Sądowego xs:string nie tak dla (TypKlienta=OP lub TypKlienta=JO) REGON⁶⁾ Numer REGON xs:string i Rezydent=1 tak dla (TypKlienta=OP lub Numer z właściwego rejestru TypKlienta=JO) RejestrZagraniczny zagranicznego xs:string i Rezydent=0 Dokumenty potwierdzające tożsamość tak dla Dokumenty klienta xs:string TypKlienta=OF tak dla Dokument xs:string TypKlienta=OF Parametr przyjmuje wartości ze tak dla TypDokumentu słownika „TypDokumentu” xs:string TypKlienta=OF tak dla TypKlienta=OF Numer Seria i numer dokumentu xs:string i TypDokumentuOM"
     },
     {
      "type": "text",
@@ -641,7 +641,7 @@
     },
     {
      "type": "text",
-     "text": "Uwagi Dodatkowe informacje dotyczące klienta xs:string nie Wierzytelnosci[^7] Wierzytelności klienta tak Wierzytelnosc tak NumerRachunku Numer rachunku xs:string tak Kwota Kwota wierzytelności srg:money tak Kwota, o której mowa w art. 56 ust. 1"
+     "text": "Uwagi Dodatkowe informacje dotyczące klienta xs:string nie Wierzytelnosci⁷⁾ Wierzytelności klienta tak Wierzytelnosc tak NumerRachunku Numer rachunku xs:string tak Kwota Kwota wierzytelności srg:money tak Kwota, o której mowa w art. 56 ust. 1"
     },
     {
      "type": "text",
@@ -901,7 +901,7 @@
     },
     {
      "type": "text",
-     "text": "[^1_2] W przypadku gdy bank posiada dane niewymagane, dane te zamieszcza się w ZPK. [^2] W przypadku gdy bank nie posiada danych niewymaganych, pola nie wypełnia się. [^3] Adres zgłoszony przez klienta jako adres korespondencyjny. [^4] W przypadku klienta będącego cudzoziemcem, który nie posiada numeru PESEL, pola nie wypełnia się. [^5] Dla OP albo JO w organizacji przyjmuje się oznaczenie „0000000000”. [^6] Dla OP albo JO w organizacji przyjmuje się oznaczenie „000000000”. [^7] Wartości pieniężne wyraża się w złotych."
+     "text": "¹⁾ W przypadku gdy bank posiada dane niewymagane, dane te zamieszcza się w ZPK. ²⁾ W przypadku gdy bank nie posiada danych niewymaganych, pola nie wypełnia się. ³⁾ Adres zgłoszony przez klienta jako adres korespondencyjny. ⁴⁾ W przypadku klienta będącego cudzoziemcem, który nie posiada numeru PESEL, pola nie wypełnia się. ⁵⁾ Dla OP albo JO w organizacji przyjmuje się oznaczenie „0000000000”. ⁶⁾ Dla OP albo JO w organizacji przyjmuje się oznaczenie „000000000”. ⁷⁾ Wartości pieniężne wyraża się w złotych."
     }
    ]
   },
@@ -914,7 +914,7 @@
     },
     {
      "type": "text",
-     "text": "Nazwa Opis Typ Wymagane[^1_2][^2]"
+     "text": "Nazwa Opis Typ Wymagane¹⁾²⁾"
     },
     {
      "type": "text",
@@ -986,7 +986,7 @@
     },
     {
      "type": "text",
-     "text": "Adres klienta – adres zamieszkania klienta tak UlicaNr Ulica, nr domu, nr mieszkania xs:string tak Miasto Miejscowość xs:string tak tak dla Kod Kod pocztowy xs:string Rezydent=1 tak dla Kraj Kraj xs:string Rezydent=0 AdresKontaktowy[^3] Adres kontaktowy klienta xs:string nie UlicaNr Ulica, nr domu, nr mieszkania xs:string nie Miasto Miejscowość xs:string nie Kod Kod pocztowy xs:string nie Kraj Kraj xs:string nie Email Adres poczty elektronicznej xs:string nie Adres do doręczeń elektronicznych,"
+     "text": "Adres klienta – adres zamieszkania klienta tak UlicaNr Ulica, nr domu, nr mieszkania xs:string tak Miasto Miejscowość xs:string tak tak dla Kod Kod pocztowy xs:string Rezydent=1 tak dla Kraj Kraj xs:string Rezydent=0 AdresKontaktowy³⁾ Adres kontaktowy klienta xs:string nie UlicaNr Ulica, nr domu, nr mieszkania xs:string nie Miasto Miejscowość xs:string nie Kod Kod pocztowy xs:string nie Kraj Kraj xs:string nie Email Adres poczty elektronicznej xs:string nie Adres do doręczeń elektronicznych,"
     },
     {
      "type": "text",
@@ -1010,11 +1010,11 @@
     },
     {
      "type": "text",
-     "text": "DaneKlienta Dane klienta tak tak dla TypKlienta=OF PESEL[^4] Numer PESEL xs:string i Rezydent=1 Nazwisko Nazwisko albo nazwa klienta xs:string tak tak dla Imie Pierwsze imię xs:string TypKlienta=OF Imie2 Drugie imię xs:string nie MiejsceUrodzenia Miejsce urodzenia xs:string nie tak dla DataUrodzenia Data urodzenia xs:date TypKlienta=OF NazwiskoRodowe Nazwisko rodowe xs:string nie ImieOjca Imię ojca xs:string nie ImieMatki Imię matki xs:string nie KRS[^5] Numer Krajowego Rejestru Sądowego xs:string nie tak dla (TypKlienta=OP lub TypKlienta=JO) REGON[^6] Numer REGON xs:string i Rezydent=1 tak dla (TypKlienta=OP lub Numer z właściwego rejestru TypKlienta=JO) RejestrZagraniczny zagranicznego xs:string i Rezydent=0 Dokumenty potwierdzające tożsamość tak dla Dokumenty klienta xs:string TypKlienta=OF tak dla Dokument xs:string TypKlienta=OF Parametr przyjmuje wartości ze tak dla TypDokumentu słownika „TypDokumentu” xs:string TypKlienta=OF tak dla TypKlienta=OF i TypDokumentu Numer Seria i numer dokumentu xs:string OM"
+     "text": "DaneKlienta Dane klienta tak tak dla TypKlienta=OF PESEL⁴⁾ Numer PESEL xs:string i Rezydent=1 Nazwisko Nazwisko albo nazwa klienta xs:string tak tak dla Imie Pierwsze imię xs:string TypKlienta=OF Imie2 Drugie imię xs:string nie MiejsceUrodzenia Miejsce urodzenia xs:string nie tak dla DataUrodzenia Data urodzenia xs:date TypKlienta=OF NazwiskoRodowe Nazwisko rodowe xs:string nie ImieOjca Imię ojca xs:string nie ImieMatki Imię matki xs:string nie KRS⁵⁾ Numer Krajowego Rejestru Sądowego xs:string nie tak dla (TypKlienta=OP lub TypKlienta=JO) REGON⁶⁾ Numer REGON xs:string i Rezydent=1 tak dla (TypKlienta=OP lub Numer z właściwego rejestru TypKlienta=JO) RejestrZagraniczny zagranicznego xs:string i Rezydent=0 Dokumenty potwierdzające tożsamość tak dla Dokumenty klienta xs:string TypKlienta=OF tak dla Dokument xs:string TypKlienta=OF Parametr przyjmuje wartości ze tak dla TypDokumentu słownika „TypDokumentu” xs:string TypKlienta=OF tak dla TypKlienta=OF i TypDokumentu Numer Seria i numer dokumentu xs:string OM"
     },
     {
      "type": "text",
-     "text": "… xs:string Uwagi Dodatkowe informacje dotyczące klienta xs:string nie Wierzytelnosci[^7] Wierzytelności klienta tak Wierzytelnosc tak NumerRachunku Numer rachunku xs:string tak Kwota Kwota wierzytelności srg:money tak Kwota, o której mowa w art. 14 ust. 1"
+     "text": "… xs:string Uwagi Dodatkowe informacje dotyczące klienta xs:string nie Wierzytelnosci⁷⁾ Wierzytelności klienta tak Wierzytelnosc tak NumerRachunku Numer rachunku xs:string tak Kwota Kwota wierzytelności srg:money tak Kwota, o której mowa w art. 14 ust. 1"
     },
     {
      "type": "text",
@@ -1258,7 +1258,7 @@
     },
     {
      "type": "text",
-     "text": "[^1_2] W przypadku gdy kasa posiada dane niewymagane, dane te zamieszcza się w ZPK. [^2] W przypadku gdy kasa nie posiada danych niewymaganych, pola nie wypełnia się. [^3] Adres zgłoszony przez klienta jako adres korespondencyjny. [^4] W przypadku klienta będącego cudzoziemcem, który nie posiada numeru PESEL, pola nie wypełnia się. [^5] Dla OP albo JO w organizacji przyjmuje się oznaczenie „0000000000”. [^6] Dla OP albo JO w organizacji przyjmuje się oznaczenie „000000000”. [^7] Wartości pieniężne wyraża się w złotych."
+     "text": "¹⁾ W przypadku gdy kasa posiada dane niewymagane, dane te zamieszcza się w ZPK. ²⁾ W przypadku gdy kasa nie posiada danych niewymaganych, pola nie wypełnia się. ³⁾ Adres zgłoszony przez klienta jako adres korespondencyjny. ⁴⁾ W przypadku klienta będącego cudzoziemcem, który nie posiada numeru PESEL, pola nie wypełnia się. ⁵⁾ Dla OP albo JO w organizacji przyjmuje się oznaczenie „0000000000”. ⁶⁾ Dla OP albo JO w organizacji przyjmuje się oznaczenie „000000000”. ⁷⁾ Wartości pieniężne wyraża się w złotych."
     }
    ]
   }

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1137",
  "title": "Obwieszczenie Ministra Infrastruktury z dnia 6 sierpnia 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury w sprawie klasyfikacji statków powietrznych",
- "converter": "eli2md 0.6.5",
+ "converter": "eli2md 0.6.7",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1137/text.pdf",
  "body": [
   {
@@ -1271,20 +1271,6 @@
          "text": "jednomiejscowa przeznaczona do MTOM ≤ 345 kg lądowania na wodzie z zamontowanym spadochronowym systemem ratowniczym V S0 ≤ 35 węzłów CAS dwumiejscowa przeznaczona do MTOM ≤ 520 kg lądowania na wodzie z zamontowanym spadochronowym systemem ratowniczym V S0 ≤ 35 węzłów CAS jednomiejscowa w konfiguracji MTOM ≤ 300 kg podstawowej dwumiejscowa w konfiguracji MTOM ≤ 450 kg podstawowej UL-PPGG. Motoparalotnia[^4_3] jednomiejscowa z zamontowanym MTOM ≤ 315 kg spadochronowym systemem ratowniczym dwumiejscowa z zamontowanym MTOM ≤ 475 kg spadochronowym systemem ratowniczym UL-HG1. Lotnia bez napędu jedno- albo dwumiejscowa maksymalna masa własna ≤ 70 kg UL-PG. Paralotnia bez napędu UL-HG2. Lotnia z napędem[^5_3] maksymalna masa własna łącznie jedno- albo dwumiejscowa z paliwem ≤ 70 kg UL-PPG. Paralotnia z napędem[^5_3]"
         }
        ]
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_4/pkt_1",
-       "text": "masy ciała pilota,",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "ust_4/pkt_2",
-       "text": "masy osobistego wyposażenia operacyjnego pilota oraz spadochronu i towarzyszącego mu dodatkowego wyposażenia niezbędnego do jego działania – nie więcej niż 11 kg – a dla celów projektowych przyjmuje się, że masa ciała pilota wynosi nie mniej niż 77 kg.",
-       "children": []
       }
      ]
     }
@@ -1302,7 +1288,7 @@
   "2_2": "MTOM oznacza maksymalną masę startową statku powietrznego, a MNO oznacza maksymalną nominalną objętość powłoki balonu albo sterowca.",
   "3_2": "MTOM ≤ 650 kg dla samolotów i śmigłowców, które będą wykonywały operacje na wodzie.",
   "4_2": "W przypadku spadochronu MTOM jest sumą masy spadochronu i masy podwieszonej do niego.",
-  "5_2": "Przy obliczaniu maksymalnej masy własnej nie uwzględnia się:",
+  "5_2": "Przy obliczaniu maksymalnej masy własnej nie uwzględnia się:\n\n1) masy ciała pilota,\n\n2) masy osobistego wyposażenia operacyjnego pilota oraz spadochronu i towarzyszącego mu dodatkowego wyposażenia niezbędnego do jego działania – nie więcej niż 11 kg – a dla celów projektowych przyjmuje się, że masa ciała pilota wynosi nie mniej niż 77 kg.",
   "6": "Przy obliczaniu maksymalnej masy własnej nie uwzględnia się, oprócz masy ciała pilota i wyposażenia, o którym mowa w przypisie nr 5, również masy paliwa, a dla celów projektowych przyjmuje się również, że masa ciała pilota wynosi nie mniej niż 77 kg.",
   "1_4": "W przypadku samolotu lądowego, którego MTOM jest nie większa niż 475 kg, wartość V S0 określona w próbie w locie nie może przekraczać 35 węzłów.",
   "2_3": "Określona w instrukcji użytkowana w locie lub skróconej informacji o ograniczeniach i przeznaczeniu urządzenia mierzalna prędkość przeciągnięcia lub prędkość minimalna w locie ustalonym w konfiguracji do lądowania, gdzie CAS (calibrated airspeed / prędkość cechowana / poprawiona) oznacza prędkość wskazywaną, poprawioną o błąd przyrządu i błąd zabudowy.",

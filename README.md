@@ -20,7 +20,7 @@ się przeszukiwać, porównywać i przetwarzać.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-30 05:14 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-30 07:49 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -34,7 +34,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 81, razem 1837 z 55640 
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 197.
 
 Rodzaje aktów: Rozporządzenie 1814, Obwieszczenie 1004, Ustawa 362, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
-Wersje konwertera: eli2md 0.6.5 (3266).
+Wersje konwertera: eli2md 0.6.7 (3266).
 <!-- stats:end -->
 
 ## Zawartość
@@ -109,6 +109,16 @@ i 2 drobne; na 1 stronie tylko błędna data przepisana z API. Na żadnej stroni
   mapa znaków czcionki wzorów jest w PDF błędna, więc wzory są nieczytelne;
 - w tabelach z komórkami wieloliniowymi linie sąsiednich kolumn bywają przeplecione (DU/2025/205, lp. 9);
 - przypis z wyliczeniem: do przypisu trafia tylko pierwszy akapit, dalsze punkty są w treści (DU/2026/421).
+
+Zmiana 2026-09-30 około 10:00 (eli2md 0.6.7, wszystkie akty od nowa). Tekst zmienił się w 369 z 3266 plików:
+- objaśnienia wydrukowane w treści (pod tabelami i formularzami w załącznikach, przypisy cytowane przez nowelizacje:
+  „¹⁾ Niniejsza ustawa wdraża…”) mają znaczniki `¹⁾` jak w druku, a nie `[^n]`. Wcześniej prowadziły do przypisu aktu
+  o tym samym numerze (DU/2025/1016: „Arsen[^1]” w tabeli → przypis o ministrze kierującym działem). 251 aktów;
+- przypis z wyliczeniem („Niniejsza ustawa:” + „1) wdraża…” + „2) służy…”) jest w całości przypisem, punkty są jego
+  akapitami z wcięciem. Wcześniej trafiały na koniec pliku jako treść, a w JSON jako jednostki `pkt` po podpisie
+  (DU/2026/421). 165 aktów.
+Selfcheck (te same akty, ta sama miara): odsetek słów PDF obecnych w wyniku wzrósł w 247 plikach (cyfry `¹⁾` są
+słowami PDF), spadł w 2 (najwięcej o 0,0008).
 
 Zmiana 2026-09-30 przed południem (eli2md 0.6.5, wszystkie akty od nowa). Tekst i drzewo JSON zmieniły się w 133
 z 3266 plików: przypisy ze stron, na których kreska przypisów jest wysoko (np. strona z samymi przypisami

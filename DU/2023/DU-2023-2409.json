@@ -1,7 +1,7 @@
 {
  "eli": "DU/2023/2409",
  "title": "Rozporządzenie Ministra Rozwoju i Technologii z dnia 24 października 2023 r. zmieniające rozporządzenie w sprawie zbiorów danych przestrzennych oraz metadanych w zakresie zagospodarowania przestrzennego",
- "converter": "eli2md 0.6.5",
+ "converter": "eli2md 0.6.7",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2023/2409/text.pdf",
  "body": [
   {
@@ -300,7 +300,7 @@
       },
       {
        "type": "text",
-       "text": "8 Liczność[^1]: [1]"
+       "text": "8 Liczność¹⁾: [1]"
       },
       {
        "type": "text",
@@ -320,7 +320,7 @@
       },
       {
        "type": "text",
-       "text": "13 Liczność[^1]: [1]"
+       "text": "13 Liczność¹⁾: [1]"
       },
       {
        "type": "text",
@@ -340,7 +340,7 @@
       },
       {
        "type": "text",
-       "text": "18 Liczność[^1]: [0..1]"
+       "text": "18 Liczność¹⁾: [0..1]"
       },
       {
        "type": "text",
@@ -360,7 +360,7 @@
       },
       {
        "type": "text",
-       "text": "23 Liczność[^1]: [1]"
+       "text": "23 Liczność¹⁾: [1]"
       },
       {
        "type": "text",
@@ -380,7 +380,7 @@
       },
       {
        "type": "text",
-       "text": "28 Liczność[^1]: [0..*]"
+       "text": "28 Liczność¹⁾: [0..*]"
       },
       {
        "type": "text",
@@ -400,7 +400,7 @@
       },
       {
        "type": "text",
-       "text": "33 Liczność[^1]: [1]"
+       "text": "33 Liczność¹⁾: [1]"
       },
       {
        "type": "text",
@@ -416,7 +416,7 @@
       },
       {
        "type": "text",
-       "text": "[^1] Przez liczność rozumie się dopuszczalną minimalną i maksymalną liczbę wystąpień, jakie może mieć dana cecha. Pojedyncze wystąpienia są przedstawiane jako „1”; wielokrotne jako „*”, stała zaś liczba wystąpień, inna niż 1, jest przedstawiana za pomocą odpowiedniej liczby (np. „2”, „3” itd.). Jeżeli minimalna liczność cechy typu obiektu przestrzennego wynosi co najmniej 1 oznacza to, że dla każdego wystąpienia (instancji) tego typu obiektu cecha ta istnieje w świecie rzeczywistym i musi zostać ona wprowadzona do zbioru danych. Jeżeli minimalna liczność cechy typu obiektu przestrzennego wynosi 0 oznacza to, że przynajmniej dla jednego wystąpienia (instancji) tego typu obiektu cecha ta może nie istnieć w świecie rzeczywistym."
+       "text": "¹⁾ Przez liczność rozumie się dopuszczalną minimalną i maksymalną liczbę wystąpień, jakie może mieć dana cecha. Pojedyncze wystąpienia są przedstawiane jako „1”; wielokrotne jako „*”, stała zaś liczba wystąpień, inna niż 1, jest przedstawiana za pomocą odpowiedniej liczby (np. „2”, „3” itd.). Jeżeli minimalna liczność cechy typu obiektu przestrzennego wynosi co najmniej 1 oznacza to, że dla każdego wystąpienia (instancji) tego typu obiektu cecha ta istnieje w świecie rzeczywistym i musi zostać ona wprowadzona do zbioru danych. Jeżeli minimalna liczność cechy typu obiektu przestrzennego wynosi 0 oznacza to, że przynajmniej dla jednego wystąpienia (instancji) tego typu obiektu cecha ta może nie istnieć w świecie rzeczywistym."
       },
       {
        "type": "text",
@@ -424,7 +424,7 @@
       },
       {
        "type": "text",
-       "text": "38 Liczność[^1]: [1]"
+       "text": "38 Liczność¹⁾: [1]"
       },
       {
        "type": "text",
@@ -475,7 +475,7 @@
         },
         {
          "type": "text",
-         "text": "43 Liczność[^1]: [0..1]"
+         "text": "43 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -495,7 +495,7 @@
         },
         {
          "type": "text",
-         "text": "48 Liczność[^1]: [0..1]"
+         "text": "48 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -515,7 +515,7 @@
         },
         {
          "type": "text",
-         "text": "53 Liczność[^1]: [1]"
+         "text": "53 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -535,7 +535,7 @@
         },
         {
          "type": "text",
-         "text": "58 Liczność[^1]: [0..1]"
+         "text": "58 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -555,7 +555,7 @@
         },
         {
          "type": "text",
-         "text": "63 Liczność[^1]: [0..1]"
+         "text": "63 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -571,7 +571,7 @@
         },
         {
          "type": "text",
-         "text": "68 Liczność[^1]: [0..*]"
+         "text": "68 Liczność¹⁾: [0..*]"
         },
         {
          "type": "text",
@@ -591,7 +591,7 @@
         },
         {
          "type": "text",
-         "text": "73 Liczność[^1]: [1]"
+         "text": "73 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -615,7 +615,7 @@
         },
         {
          "type": "text",
-         "text": "78 Liczność[^1]: [0..*]"
+         "text": "78 Liczność¹⁾: [0..*]"
         },
         {
          "type": "text",
@@ -635,7 +635,7 @@
         },
         {
          "type": "text",
-         "text": "83 Liczność[^1]: [0..*]"
+         "text": "83 Liczność¹⁾: [0..*]"
         },
         {
          "type": "text",
@@ -655,7 +655,7 @@
         },
         {
          "type": "text",
-         "text": "88 Liczność[^1]: [0..1]"
+         "text": "88 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -675,7 +675,7 @@
         },
         {
          "type": "text",
-         "text": "93 Liczność[^1]: [0..*]"
+         "text": "93 Liczność¹⁾: [0..*]"
         },
         {
          "type": "text",
@@ -691,7 +691,7 @@
         },
         {
          "type": "text",
-         "text": "98 Liczność[^1]: [0..*]"
+         "text": "98 Liczność¹⁾: [0..*]"
         },
         {
          "type": "text",
@@ -719,7 +719,7 @@
         },
         {
          "type": "text",
-         "text": "103 Liczność[^1]: [0..*]"
+         "text": "103 Liczność¹⁾: [0..*]"
         },
         {
          "type": "text",
@@ -739,7 +739,7 @@
         },
         {
          "type": "text",
-         "text": "108 Liczność[^1]: [0..*]"
+         "text": "108 Liczność¹⁾: [0..*]"
         },
         {
          "type": "text",
@@ -899,7 +899,7 @@
         },
         {
          "type": "text",
-         "text": "8 Liczność[^1]: [1]"
+         "text": "8 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -919,7 +919,7 @@
         },
         {
          "type": "text",
-         "text": "13 Liczność[^1]: [1]"
+         "text": "13 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -939,7 +939,7 @@
         },
         {
          "type": "text",
-         "text": "18 Liczność[^1]: [0..1]"
+         "text": "18 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -959,7 +959,7 @@
         },
         {
          "type": "text",
-         "text": "23 Liczność[^1]: [1]"
+         "text": "23 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -979,7 +979,7 @@
         },
         {
          "type": "text",
-         "text": "28 Liczność[^1]: [1]"
+         "text": "28 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -999,7 +999,7 @@
         },
         {
          "type": "text",
-         "text": "33 Liczność[^1]: [0..1]"
+         "text": "33 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -1019,7 +1019,7 @@
         },
         {
          "type": "text",
-         "text": "38 Liczność[^1]: [1]"
+         "text": "38 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -1039,7 +1039,7 @@
         },
         {
          "type": "text",
-         "text": "43 Liczność[^1]: [0..1]"
+         "text": "43 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -1059,7 +1059,7 @@
         },
         {
          "type": "text",
-         "text": "48 Liczność[^1]: [1]"
+         "text": "48 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -1079,7 +1079,7 @@
         },
         {
          "type": "text",
-         "text": "53 Liczność[^1]: [0..1]"
+         "text": "53 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -1099,7 +1099,7 @@
         },
         {
          "type": "text",
-         "text": "58 Liczność[^1]: [0..1]"
+         "text": "58 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -1119,7 +1119,7 @@
         },
         {
          "type": "text",
-         "text": "63 Liczność[^1]: [1]"
+         "text": "63 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -1167,7 +1167,7 @@
         },
         {
          "type": "text",
-         "text": "8 Liczność[^1]: [1]"
+         "text": "8 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -1187,7 +1187,7 @@
         },
         {
          "type": "text",
-         "text": "13 Liczność[^1]: [1]"
+         "text": "13 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -1207,7 +1207,7 @@
         },
         {
          "type": "text",
-         "text": "18 Liczność[^1]: [0..1]"
+         "text": "18 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -1227,7 +1227,7 @@
         },
         {
          "type": "text",
-         "text": "23 Liczność[^1]: [0..1]"
+         "text": "23 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -1247,7 +1247,7 @@
         },
         {
          "type": "text",
-         "text": "28 Liczność[^1]: [1]"
+         "text": "28 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -1267,7 +1267,7 @@
         },
         {
          "type": "text",
-         "text": "33 Liczność[^1]: [0..1]"
+         "text": "33 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -1283,7 +1283,7 @@
         },
         {
          "type": "text",
-         "text": "38 Liczność[^1]: [0..1]"
+         "text": "38 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -1303,7 +1303,7 @@
         },
         {
          "type": "text",
-         "text": "43 Liczność[^1]: [0..1]"
+         "text": "43 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -1323,7 +1323,7 @@
         },
         {
          "type": "text",
-         "text": "48 Liczność[^1]: [0..1]"
+         "text": "48 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -1343,7 +1343,7 @@
         },
         {
          "type": "text",
-         "text": "53 Liczność[^1]: [0..1]"
+         "text": "53 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -1363,7 +1363,7 @@
         },
         {
          "type": "text",
-         "text": "58 Liczność[^1]: [0..*]"
+         "text": "58 Liczność¹⁾: [0..*]"
         },
         {
          "type": "text",
@@ -1383,7 +1383,7 @@
         },
         {
          "type": "text",
-         "text": "63 Liczność[^1]: [0..*]"
+         "text": "63 Liczność¹⁾: [0..*]"
         },
         {
          "type": "text",
@@ -1403,7 +1403,7 @@
         },
         {
          "type": "text",
-         "text": "68 Liczność[^1]: [0..*]"
+         "text": "68 Liczność¹⁾: [0..*]"
         },
         {
          "type": "text",
@@ -1423,7 +1423,7 @@
         },
         {
          "type": "text",
-         "text": "73 Liczność[^1]: [0..*]"
+         "text": "73 Liczność¹⁾: [0..*]"
         },
         {
          "type": "text",
@@ -1443,7 +1443,7 @@
         },
         {
          "type": "text",
-         "text": "78 Liczność[^1]: [0..*]"
+         "text": "78 Liczność¹⁾: [0..*]"
         },
         {
          "type": "text",
@@ -1463,7 +1463,7 @@
         },
         {
          "type": "text",
-         "text": "83 Liczność[^1]: [0..*]"
+         "text": "83 Liczność¹⁾: [0..*]"
         },
         {
          "type": "text",
@@ -1587,7 +1587,7 @@
         },
         {
          "type": "text",
-         "text": "24 Liczność[^1]: [1]"
+         "text": "24 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -1607,7 +1607,7 @@
         },
         {
          "type": "text",
-         "text": "29 Liczność[^1]: [0..1]"
+         "text": "29 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -1627,7 +1627,7 @@
         },
         {
          "type": "text",
-         "text": "34 Liczność[^1]: [1]"
+         "text": "34 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -1647,7 +1647,7 @@
         },
         {
          "type": "text",
-         "text": "39 Liczność[^1]: [0..1]"
+         "text": "39 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -1667,7 +1667,7 @@
         },
         {
          "type": "text",
-         "text": "44 Liczność[^1]: [1]"
+         "text": "44 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -1687,7 +1687,7 @@
         },
         {
          "type": "text",
-         "text": "49 Liczność[^1]: [1]"
+         "text": "49 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -1707,7 +1707,7 @@
         },
         {
          "type": "text",
-         "text": "54 Liczność[^1]: [1]"
+         "text": "54 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -1727,7 +1727,7 @@
         },
         {
          "type": "text",
-         "text": "59 Liczność[^1]: [1]"
+         "text": "59 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -1783,7 +1783,7 @@
         },
         {
          "type": "text",
-         "text": "9 Liczność[^1]: [1]"
+         "text": "9 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -1803,7 +1803,7 @@
         },
         {
          "type": "text",
-         "text": "14 Liczność[^1]: [0..1]"
+         "text": "14 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -1823,7 +1823,7 @@
         },
         {
          "type": "text",
-         "text": "19 Liczność[^1]: [1]"
+         "text": "19 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -1843,7 +1843,7 @@
         },
         {
          "type": "text",
-         "text": "24 Liczność[^1]: [1]"
+         "text": "24 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -1863,7 +1863,7 @@
         },
         {
          "type": "text",
-         "text": "29 Liczność[^1]: [1]"
+         "text": "29 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -1883,7 +1883,7 @@
         },
         {
          "type": "text",
-         "text": "34 Liczność[^1]: [0..1]"
+         "text": "34 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -1903,7 +1903,7 @@
         },
         {
          "type": "text",
-         "text": "39 Liczność[^1]: [1]"
+         "text": "39 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -1923,7 +1923,7 @@
         },
         {
          "type": "text",
-         "text": "44 Liczność[^1]: [0..1]"
+         "text": "44 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -1939,7 +1939,7 @@
         },
         {
          "type": "text",
-         "text": "49 Liczność[^1]: [1]"
+         "text": "49 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -1959,7 +1959,7 @@
         },
         {
          "type": "text",
-         "text": "54 Liczność[^1]: [1]"
+         "text": "54 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -1979,7 +1979,7 @@
         },
         {
          "type": "text",
-         "text": "59 Liczność[^1]: [1]"
+         "text": "59 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -1999,7 +1999,7 @@
         },
         {
          "type": "text",
-         "text": "64 Liczność[^1]: [1]"
+         "text": "64 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -2123,7 +2123,7 @@
         },
         {
          "type": "text",
-         "text": "9 Liczność[^1]: [1]"
+         "text": "9 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -2143,7 +2143,7 @@
         },
         {
          "type": "text",
-         "text": "14 Liczność[^1]: [1]"
+         "text": "14 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -2163,7 +2163,7 @@
         },
         {
          "type": "text",
-         "text": "19 Liczność[^1]: [1]"
+         "text": "19 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -2187,7 +2187,7 @@
         },
         {
          "type": "text",
-         "text": "24 Liczność[^1]: [1]"
+         "text": "24 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -2211,7 +2211,7 @@
         },
         {
          "type": "text",
-         "text": "29 Liczność[^1]: [1]"
+         "text": "29 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -2235,7 +2235,7 @@
         },
         {
          "type": "text",
-         "text": "34 Liczność[^1]: [1]"
+         "text": "34 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -2259,7 +2259,7 @@
         },
         {
          "type": "text",
-         "text": "39 Liczność[^1]: [0..1] Maksymalna odległość liczona jako droga dojścia ogólnodostępną trasą dla 40 Definicja: pieszych od granicy działki ewidencyjnej do przedszkola."
+         "text": "39 Liczność¹⁾: [0..1] Maksymalna odległość liczona jako droga dojścia ogólnodostępną trasą dla 40 Definicja: pieszych od granicy działki ewidencyjnej do przedszkola."
         },
         {
          "type": "text",
@@ -2279,7 +2279,7 @@
         },
         {
          "type": "text",
-         "text": "44 Liczność[^1]: [0..1]"
+         "text": "44 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -2303,7 +2303,7 @@
         },
         {
          "type": "text",
-         "text": "49 Liczność[^1]: [0..1]"
+         "text": "49 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -2327,7 +2327,7 @@
         },
         {
          "type": "text",
-         "text": "54 Liczność[^1]: [0..1]"
+         "text": "54 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -2351,7 +2351,7 @@
         },
         {
          "type": "text",
-         "text": "59 Liczność[^1]: [0..1]"
+         "text": "59 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -2375,7 +2375,7 @@
         },
         {
          "type": "text",
-         "text": "64 Liczność[^1]: [0..1]"
+         "text": "64 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -2395,7 +2395,7 @@
         },
         {
          "type": "text",
-         "text": "69 Liczność[^1]: [0..1]"
+         "text": "69 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -2419,7 +2419,7 @@
         },
         {
          "type": "text",
-         "text": "74 Liczność[^1]: [0..1]"
+         "text": "74 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -2443,7 +2443,7 @@
         },
         {
          "type": "text",
-         "text": "79 Liczność[^1]: [0..1]"
+         "text": "79 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -2467,7 +2467,7 @@
         },
         {
          "type": "text",
-         "text": "84 Liczność[^1]: [0..1]"
+         "text": "84 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -2491,7 +2491,7 @@
         },
         {
          "type": "text",
-         "text": "89 Liczność[^1]: [0..1]"
+         "text": "89 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -2515,7 +2515,7 @@
         },
         {
          "type": "text",
-         "text": "94 Liczność[^1]: [0..1] Maksymalna odległość liczona jako droga dojścia ogólnodostępną trasą dla pieszych od granicy działki ewidencyjnej do posterunku jednostki ochrony 95 Definicja: przeciwpożarowej."
+         "text": "94 Liczność¹⁾: [0..1] Maksymalna odległość liczona jako droga dojścia ogólnodostępną trasą dla pieszych od granicy działki ewidencyjnej do posterunku jednostki ochrony 95 Definicja: przeciwpożarowej."
         },
         {
          "type": "text",
@@ -2763,7 +2763,7 @@
         },
         {
          "type": "text",
-         "text": "9 Liczność[^1]: [1]"
+         "text": "9 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -2783,7 +2783,7 @@
         },
         {
          "type": "text",
-         "text": "14 Liczność[^1]: [0..1]"
+         "text": "14 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -2803,7 +2803,7 @@
         },
         {
          "type": "text",
-         "text": "19 Liczność[^1]: [1..*]"
+         "text": "19 Liczność¹⁾: [1..*]"
         },
         {
          "type": "text",
@@ -2823,7 +2823,7 @@
         },
         {
          "type": "text",
-         "text": "24 Liczność[^1]: [0..*]"
+         "text": "24 Liczność¹⁾: [0..*]"
         },
         {
          "type": "text",
@@ -2843,7 +2843,7 @@
         },
         {
          "type": "text",
-         "text": "29 Liczność[^1]: [0..1]"
+         "text": "29 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -2867,7 +2867,7 @@
         },
         {
          "type": "text",
-         "text": "34 Liczność[^1]: [0..1] Maksymalny udział powierzchni zabudowy, o którym mowa w art. 13e ust. 2 pkt 2 i ust. 3 pkt 1 i 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu 35 Definicja: przestrzennym."
+         "text": "34 Liczność¹⁾: [0..1] Maksymalny udział powierzchni zabudowy, o którym mowa w art. 13e ust. 2 pkt 2 i ust. 3 pkt 1 i 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu 35 Definicja: przestrzennym."
         },
         {
          "type": "text",
@@ -2887,7 +2887,7 @@
         },
         {
          "type": "text",
-         "text": "39 Liczność[^1]: [0..1]"
+         "text": "39 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -2911,7 +2911,7 @@
         },
         {
          "type": "text",
-         "text": "44 Liczność[^1]: [0..1]"
+         "text": "44 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -3039,7 +3039,7 @@
         },
         {
          "type": "text",
-         "text": "8 Liczność[^1]: [1]"
+         "text": "8 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -3059,7 +3059,7 @@
         },
         {
          "type": "text",
-         "text": "13 Liczność[^1]: [1]"
+         "text": "13 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -3079,7 +3079,7 @@
         },
         {
          "type": "text",
-         "text": "18 Liczność[^1]: [0..1]"
+         "text": "18 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -3759,7 +3759,7 @@
         },
         {
          "type": "text",
-         "text": "8 Liczność[^1]: [1]"
+         "text": "8 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -3779,7 +3779,7 @@
         },
         {
          "type": "text",
-         "text": "13 Liczność[^1]: [1]"
+         "text": "13 Liczność¹⁾: [1]"
         },
         {
          "type": "text",
@@ -3799,7 +3799,7 @@
         },
         {
          "type": "text",
-         "text": "18 Liczność[^1]: [0..1]"
+         "text": "18 Liczność¹⁾: [0..1]"
         },
         {
          "type": "text",
@@ -3867,7 +3867,7 @@
         },
         {
          "type": "text",
-         "text": "5 Liczność[^1] 1"
+         "text": "5 Liczność¹⁾ 1"
         },
         {
          "type": "text",
@@ -3875,7 +3875,7 @@
         },
         {
          "type": "text",
-         "text": "[^1] Przez liczność rozumie się dopuszczalną minimalną i maksymalną liczbę wystąpień określonego elementu metadanych. Pojedyncze wystąpienia są przedstawiane jako „1”, wielokrotne – jako „*”, zaś stała liczba wystąpień, inna niż 1, jest przedstawiana za pomocą odpowiedniej liczby (np. „2”, „3” itd.)."
+         "text": "¹⁾ Przez liczność rozumie się dopuszczalną minimalną i maksymalną liczbę wystąpień określonego elementu metadanych. Pojedyncze wystąpienia są przedstawiane jako „1”, wielokrotne – jako „*”, zaś stała liczba wystąpień, inna niż 1, jest przedstawiana za pomocą odpowiedniej liczby (np. „2”, „3” itd.)."
         },
         {
          "type": "text",
@@ -3899,7 +3899,7 @@
         },
         {
          "type": "text",
-         "text": "5 Liczność[^1] 1"
+         "text": "5 Liczność¹⁾ 1"
         },
         {
          "type": "text",
@@ -3931,7 +3931,7 @@
         },
         {
          "type": "text",
-         "text": "5 Liczność[^1] 1"
+         "text": "5 Liczność¹⁾ 1"
         },
         {
          "type": "text",
@@ -3959,7 +3959,7 @@
         },
         {
          "type": "text",
-         "text": "4 Obowiązek | Warunek Obligatoryjny 5 Liczność[^1] 1..*"
+         "text": "4 Obowiązek | Warunek Obligatoryjny 5 Liczność¹⁾ 1..*"
         },
         {
          "type": "text",
@@ -3987,7 +3987,7 @@
         },
         {
          "type": "text",
-         "text": "5 Liczność[^1] 1..*"
+         "text": "5 Liczność¹⁾ 1..*"
         },
         {
          "type": "text",
@@ -4015,7 +4015,7 @@
         },
         {
          "type": "text",
-         "text": "5 Liczność[^1] 1..*"
+         "text": "5 Liczność¹⁾ 1..*"
         },
         {
          "type": "text",
@@ -4043,7 +4043,7 @@
         },
         {
          "type": "text",
-         "text": "5 Liczność[^1] 0..*"
+         "text": "5 Liczność¹⁾ 0..*"
         },
         {
          "type": "text",
@@ -4081,7 +4081,7 @@
       },
       {
        "type": "text",
-       "text": "5 Liczność[^1] 1"
+       "text": "5 Liczność¹⁾ 1"
       },
       {
        "type": "text",
@@ -4117,7 +4117,7 @@
       },
       {
        "type": "text",
-       "text": "5 Liczność[^1] 4..*"
+       "text": "5 Liczność¹⁾ 4..*"
       },
       {
        "type": "text",
@@ -4149,7 +4149,7 @@
       },
       {
        "type": "text",
-       "text": "5 Liczność 0..1(rozumiana w kontekście informacji o słowniku,z którego pochodzi [^1] dane słowo kluczowe)"
+       "text": "5 Liczność 0..1(rozumiana w kontekście informacji o słowniku,z którego pochodzi ¹⁾ dane słowo kluczowe)"
       },
       {
        "type": "text",
@@ -4189,7 +4189,7 @@
       },
       {
        "type": "text",
-       "text": "5 Liczność[^1] 1..*"
+       "text": "5 Liczność¹⁾ 1..*"
       },
       {
        "type": "text",
@@ -4217,7 +4217,7 @@
       },
       {
        "type": "text",
-       "text": "5 Liczność[^1] 1..*"
+       "text": "5 Liczność¹⁾ 1..*"
       },
       {
        "type": "text",
@@ -4253,7 +4253,7 @@
       },
       {
        "type": "text",
-       "text": "5 Liczność[^1] 1"
+       "text": "5 Liczność¹⁾ 1"
       },
       {
        "type": "text",
@@ -4298,7 +4298,7 @@
         },
         {
          "type": "text",
-         "text": "5 Liczność[^1] 0..1"
+         "text": "5 Liczność¹⁾ 0..1"
         }
        ]
       },
@@ -4335,7 +4335,7 @@
       },
       {
        "type": "text",
-       "text": "5 Liczność[^1] 1"
+       "text": "5 Liczność¹⁾ 1"
       },
       {
        "type": "text",
@@ -4363,7 +4363,7 @@
       },
       {
        "type": "text",
-       "text": "5 Liczność[^1] 1..*"
+       "text": "5 Liczność¹⁾ 1..*"
       },
       {
        "type": "text",
@@ -4391,7 +4391,7 @@
       },
       {
        "type": "text",
-       "text": "5 Liczność[^1] 1..2"
+       "text": "5 Liczność¹⁾ 1..2"
       },
       {
        "type": "text",
@@ -4459,7 +4459,7 @@
         },
         {
          "type": "text",
-         "text": "5 Liczność[^1] 4..*"
+         "text": "5 Liczność¹⁾ 4..*"
         },
         {
          "type": "text",
@@ -4483,7 +4483,7 @@
         },
         {
          "type": "text",
-         "text": "5 Liczność 1 (rozumiana w kontekście informacji o zgodności ze specyfikacją; każda [^1] wskazana specyfikacja posiada informację o zgodności)"
+         "text": "5 Liczność 1 (rozumiana w kontekście informacji o zgodności ze specyfikacją; każda ¹⁾ wskazana specyfikacja posiada informację o zgodności)"
         },
         {
          "type": "text",
@@ -4521,7 +4521,7 @@
       },
       {
        "type": "text",
-       "text": "5 Liczność[^1] 1..*"
+       "text": "5 Liczność¹⁾ 1..*"
       },
       {
        "type": "text",
@@ -4553,7 +4553,7 @@
       },
       {
        "type": "text",
-       "text": "5 Liczność[^1] 1"
+       "text": "5 Liczność¹⁾ 1"
       },
       {
        "type": "text",
@@ -4585,7 +4585,7 @@
       },
       {
        "type": "text",
-       "text": "5 Liczność[^1] 1..*"
+       "text": "5 Liczność¹⁾ 1..*"
       },
       {
        "type": "text",
@@ -4613,7 +4613,7 @@
       },
       {
        "type": "text",
-       "text": "1 (rozumiana w kontekście informacji o organizacji odpowiedzialnej; 5 Liczność każda organizacja odpowiedzialna możeposiadać tylko jedną rolę; jednak [^1] może być wiele jednostek odpowiedzialnych za pojedynczy zbiórdanych przestrzennych)"
+       "text": "1 (rozumiana w kontekście informacji o organizacji odpowiedzialnej; 5 Liczność każda organizacja odpowiedzialna możeposiadać tylko jedną rolę; jednak ¹⁾ może być wiele jednostek odpowiedzialnych za pojedynczy zbiórdanych przestrzennych)"
       },
       {
        "type": "text",
@@ -4645,7 +4645,7 @@
       },
       {
        "type": "text",
-       "text": "5 Liczność[^1] 1..*"
+       "text": "5 Liczność¹⁾ 1..*"
       },
       {
        "type": "text",
@@ -4669,7 +4669,7 @@
       },
       {
        "type": "text",
-       "text": "5 1 (rozumiana w kontekście formatu dystrybucji danych; każdy format Liczność[^1] posiada wersję)"
+       "text": "5 1 (rozumiana w kontekście formatu dystrybucji danych; każdy format Liczność¹⁾ posiada wersję)"
       },
       {
        "type": "text",
@@ -4705,7 +4705,7 @@
       },
       {
        "type": "text",
-       "text": "5 Liczność[^1] 1"
+       "text": "5 Liczność¹⁾ 1"
       },
       {
        "type": "text",
@@ -4733,7 +4733,7 @@
       },
       {
        "type": "text",
-       "text": "5 Liczność[^1] 1..*"
+       "text": "5 Liczność¹⁾ 1..*"
       },
       {
        "type": "text",
@@ -4765,7 +4765,7 @@
       },
       {
        "type": "text",
-       "text": "5 Liczność[^1] 1"
+       "text": "5 Liczność¹⁾ 1"
       },
       {
        "type": "text",
@@ -4811,7 +4811,7 @@
         },
         {
          "type": "text",
-         "text": "5 Liczność[^1] 1..*"
+         "text": "5 Liczność¹⁾ 1..*"
         },
         {
          "type": "text",
@@ -4843,7 +4843,7 @@
         },
         {
          "type": "text",
-         "text": "5 Liczność[^1] 1"
+         "text": "5 Liczność¹⁾ 1"
         },
         {
          "type": "text",
@@ -4871,7 +4871,7 @@
         },
         {
          "type": "text",
-         "text": "5 Liczność[^1] 1"
+         "text": "5 Liczność¹⁾ 1"
         },
         {
          "type": "text",
@@ -4899,7 +4899,7 @@
         },
         {
          "type": "text",
-         "text": "5 Liczność[^1] 1"
+         "text": "5 Liczność¹⁾ 1"
         },
         {
          "type": "text",
@@ -4939,7 +4939,7 @@
         },
         {
          "type": "text",
-         "text": "5 Liczność[^1] 1"
+         "text": "5 Liczność¹⁾ 1"
         },
         {
          "type": "text",
