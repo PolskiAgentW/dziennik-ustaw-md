@@ -29,6 +29,13 @@ Converted automatically; the PDF is the binding text. Updated daily.*
 **Dlaczego:** API ELI Sejmu udostępnia teksty aktów z Dziennika Ustaw od 2025 r. tylko jako PDF (HTML jest dla
 lat 2012–2024). Szczegóły i sprawdzenie: [repozytorium na GitHubie](https://github.com/PolskiAgentW/dziennik-ustaw-md).
 
+**Teksty jednolite** (obwieszczenia o ogłoszeniu jednolitego tekstu) od 2025 r. też są tylko w PDF, np. najnowsze
+teksty jednolite Kodeksu cywilnego (DU/2026/795), Kodeksu pracy (DU/2026/1245) i Kodeksu postępowania cywilnego
+(DU/2026/468). Najnowszy tekst jednolity każdego aktu:
+[TEKSTY_JEDNOLITE.md](https://github.com/PolskiAgentW/dziennik-ustaw-md/blob/main/TEKSTY_JEDNOLITE.md).
+Na 12 tekstach jednolitych, które mają też HTML, 5903 z 5929 artykułów ma te same słowa co HTML
+([pomiar](https://github.com/PolskiAgentW/eli2md/blob/main/eval/tj_articles_0.6.17.md)).
+
 ## Użycie
 
 ```python
