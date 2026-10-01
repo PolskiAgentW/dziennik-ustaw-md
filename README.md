@@ -21,7 +21,7 @@ Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla ża
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-01 19:36 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-01 19:40 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -158,6 +158,14 @@ i 2 drobne; na 1 stronie tylko błędna data przepisana z API. Na żadnej stroni
   mapa znaków czcionki wzorów jest w PDF błędna, więc wzory są nieczytelne;
 - w tabelach z komórkami wieloliniowymi linie sąsiednich kolumn bywają przeplecione (DU/2025/205, lp. 9);
 - przypis z wyliczeniem: do przypisu trafia tylko pierwszy akapit, dalsze punkty są w treści (DU/2026/421).
+
+Zmiana 2026-10-01 wieczorem (eli2md 0.6.22, 42 akty, w których OCR nie dał tekstu z części stron). Strona skanu,
+z której OCR nie odczytał użytecznego tekstu, jest czytana drugi raz z podaną rozdzielczością obrazu (wcześniej tesseract
+jej nie dostawał i na stronach z tabelami gubił odstępy między słowami). Strony odczytane wcześniej czyta się jak przedtem.
+W tych 42 aktach: strony z tekstem z OCR 570 → 602, słowa 766 359 → 769 299; w 8 aktach OCR odczytał teraz wszystkie
+strony bez warstwy tekstowej. W 2 aktach (DU/2025/54, DU/2025/898) jest o 1 stronę z OCR mniej: to strony z mapą, z których
+OCR daje głównie szum z napisów na mapie, a serwer GitHuba odczytuje je inaczej niż konwersja lokalna (przyczyny nie znam).
+01.10 przez ok. 15 min (commit fa1dc461) była tu wersja 0.6.21, która część dobrze czytanych stron odrzucała; zastąpiona.
 
 Zmiana 2026-09-30 około 10:00 (eli2md 0.6.7, wszystkie akty od nowa). Tekst zmienił się w 369 z 3266 plików:
 - objaśnienia wydrukowane w treści (pod tabelami i formularzami w załącznikach, przypisy cytowane przez nowelizacje:
