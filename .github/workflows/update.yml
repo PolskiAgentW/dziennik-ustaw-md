@@ -14,7 +14,7 @@ concurrency:
 
 jobs:
   update:
-    runs-on: ubuntu-24.04  # PPA tesseract niżej jest dla noble
+    runs-on: ubuntu-latest
     timeout-minutes: 180
     steps:
       - uses: actions/checkout@v4
@@ -22,9 +22,7 @@ jobs:
         with:
           python-version: "3.12"
       - name: Instalacja tesseract (OCR stron bez warstwy tekstowej)
-        # tesseract 5.5 jak przy konwersji lokalnej (Ubuntu 24.04 ma 5.3.4, który na części stron z tabelami czyta mniej)
         run: |
-          sudo add-apt-repository -y ppa:alex-p/tesseract-ocr5
           sudo apt-get update -q
           sudo apt-get install -y -q tesseract-ocr tesseract-ocr-osd tesseract-ocr-pol tesseract-ocr-eng \
             tesseract-ocr-por tesseract-ocr-fra tesseract-ocr-swe tesseract-ocr-ell tesseract-ocr-spa
