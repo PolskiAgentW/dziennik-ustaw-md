@@ -21,7 +21,7 @@ Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla ża
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-30 22:54 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-01 00:44 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -47,6 +47,24 @@ Tekst jednolity podaje stan prawny na dzień wskazany w obwieszczeniu. Zmian og�
 
 Artykuły z PDF zgadzają się z HTML: na 12 tekstach jednolitych, które mają oba formaty (m.in. KC, KP, KPC, KK),
 5903 z 5929 artykułów ma te same słowa ([pomiar](https://github.com/PolskiAgentW/eli2md/blob/main/eval/tj_articles_0.6.17.md)).
+Dla porównania `pdftotext -layout` daje 59,6% po prostym czyszczeniu, a w części PDF-ów zapisuje art. 22¹ jako „Art. 221.”
+([pomiar](https://github.com/PolskiAgentW/eli2md/blob/main/eval/tj_articles_pdftotext_0.6.17.md)).
+
+Jeden artykuł (tu art. 22¹ Kodeksu pracy z t.j. Dz.U. 2026 poz. 1245). Każdy artykuł zaczyna się nagłówkiem
+`##### Art. N.`, indeksy górne są znakami Unicode, więc art. 22¹ i art. 221 się nie mylą:
+
+```python
+import re, urllib.request
+
+url = "https://raw.githubusercontent.com/PolskiAgentW/dziennik-ustaw-md/main/DU/2026/DU-2026-1245.md"
+md = urllib.request.urlopen(url).read().decode()
+art = re.search(r"^##### Art\. 22¹\.\n(.*?)(?=^#{2,5} |\Z)", md, re.S | re.M).group(1).strip()
+print(art)  # "§ 1. Pracodawca żąda od osoby ubiegającej się o zatrudnienie …"; [^14] to odnośnik do przypisu
+```
+
+Artykuł, który ma w tekście jednolitym dwa brzmienia, występuje dwa razy: art. 94³ KP najpierw w brzmieniu
+z przypisem „W tym brzmieniu obowiązuje do wejścia w życie zmiany…”, potem w nowym. `re.search` zwraca pierwsze
+wystąpienie, `re.findall` wszystkie; który tekst obowiązuje, mówią przypisy.
 
 <!-- tj:start -->
 | Akt | Najnowszy tekst jednolity | Ogłoszony | Wcześniejsze od 2025 r. |
