@@ -2,7 +2,7 @@
 
 Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odświeżane automatycznie). Nazwa aktu pochodzi z tytułu obwieszczenia. Tekst jednolity podaje stan prawny na dzień wskazany w obwieszczeniu; zmian ogłoszonych później w nim nie ma. Teksty nieoficjalne, wiążący jest PDF.
 
-## Ustawy (400)
+## Ustawy (401)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -321,6 +321,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o współpracy rozwojowej | [Dz.U. 2025 poz. 1460](DU/2025/DU-2025-1460.md) | 2025-10-24 | – |
 | o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz o zmianie niektórych ustaw | [Dz.U. 2025 poz. 559](DU/2025/DU-2025-559.md) | 2025-04-28 | – |
 | o wydawaniu Monitora Sądowego i Gospodarczego | [Dz.U. 2026 poz. 547](DU/2026/DU-2026-547.md) | 2026-04-22 | – |
+| o wykonywaniu mandatu posła i senatora | [Dz.U. 2026 poz. 1282](DU/2026/DU-2026-1282.md) | 2026-09-30 | – |
 | o wymianie informacji podatkowych z innymi państwami | [Dz.U. 2025 poz. 1379](DU/2025/DU-2025-1379.md) | 2025-10-14 | – |
 | o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi | [Dz.U. 2026 poz. 230](DU/2026/DU-2026-230.md) | 2026-02-26 | – |
 | o wyposażeniu morskim | [Dz.U. 2025 poz. 572](DU/2025/DU-2025-572.md) | 2025-04-30 | – |
@@ -587,7 +588,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Obrony Narodowej w sprawie warunków przewozu osób pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej | [Dz.U. 2025 poz. 1368](DU/2025/DU-2025-1368.md) | 2025-10-13 | – |
 | Ministra Obrony Narodowej w sprawie wypłaty odprawy mieszkaniowej | [Dz.U. 2025 poz. 336](DU/2025/DU-2025-336.md) | 2025-03-18 | – |
 | Ministra Obrony Narodowej w sprawie wzoru zaświadczenia będącego podstawą do ubiegania się o przyznanie statusu weterana i weterana poszkodowanego, wzoru legitymacji weterana i weterana poszkodowanego oraz trybu wydania, wymiany lub zwrotu tych legitymacji | [Dz.U. 2026 poz. 752](DU/2026/DU-2026-752.md) | 2026-06-10 | – |
-| Ministra Obrony Narodowej w sprawie świadczenia mieszkaniowego oraz kosztów utrzymania miejsca zakwaterowania | [Dz.U. 2025 poz. 818](DU/2025/DU-2025-818.md) | 2025-06-24 | – |
+| Ministra Obrony Narodowej w sprawie świadczenia mieszkaniowego oraz kosztów utrzymania miejsca zakwaterowania | [Dz.U. 2026 poz. 1283](DU/2026/DU-2026-1283.md) | 2026-09-30 | [Dz.U. 2025 poz. 818](DU/2025/DU-2025-818.md) |
 | Ministra Obrony Narodowej w sprawie świadczeń socjalno-bytowych, które mogą być przyznane funkcjonariuszowi Służby Wywiadu Wojskowego i członkom jego rodziny | [Dz.U. 2025 poz. 963](DU/2025/DU-2025-963.md) | 2025-07-22 | – |
 | Ministra Obrony Narodowej w sprawie świadectwa służby żołnierza zawodowego | [Dz.U. 2025 poz. 1593](DU/2025/DU-2025-1593.md) | 2025-11-21 | – |
 | Ministra Pracy i Polityki Socjalnej w sprawie bezpieczeństwa i higieny pracy na stanowiskach wyposażonych w monitory ekranowe | [Dz.U. 2025 poz. 58](DU/2025/DU-2025-58.md) | 2025-01-20 | – |

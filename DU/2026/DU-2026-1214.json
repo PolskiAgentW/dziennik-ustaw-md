@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1214",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 września 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.21",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1214/text.pdf",
  "body": [
   {
@@ -4568,7 +4568,23 @@
     },
     {
      "type": "note",
-     "text": "[Strony 32-33 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 32 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 33 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.3.4, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Zestaw 3"
+    },
+    {
+     "type": "ocr",
+     "text": "Palenie jest przyczyna Palenie zwieksza"
+    },
+    {
+     "type": "ocr",
+     "text": "Palenie jest Palenie jest przyczyną i przyczyną Palenie Rzuć palenie — Palenie Palenie zwiększa"
     }
    ]
   }
