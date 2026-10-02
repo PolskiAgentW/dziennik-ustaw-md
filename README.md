@@ -21,7 +21,7 @@ Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla ża
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-02 04:38 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-02 05:31 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -128,9 +128,10 @@ jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR …]` jako cytat
 ostrożna: w 2025–2026 z 43 umów, których s. 1 jest obrazem, tekst dostaje 25 (DU i M.P. razem); tytuły
 w krótkich liniach zostają z notką.
 
-Metadane pochodzą z API ELI bez poprawek, więc zawierają też jego błędy. Przykład: 5 aktów ma
+Metadane pochodzą z API ELI bez poprawek, więc zawierają też jego błędy. Przykład: 5 aktów miało
 `announcement_date` późniejszą niż data z tytułu (DU/2025/1099, DU/2025/1122, DU/2026/1141: rok 2028;
-DU/2026/626, DU/2026/740: rok 2206; stan na 2026-09-30).
+DU/2026/626, DU/2026/740: rok 2206; stan na 2026-09-30). API poprawiło te daty 2026-10-01 (`change_date`),
+zbiór ma już nowe wartości.
 
 ## Jak powstaje i jak dobre jest
 
