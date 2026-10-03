@@ -15,13 +15,14 @@ jako PDF. Dla 2024 r. był też HTML (sprawdzone 2026-09-29: 2024 – 1984/1984 
 2025 – 0/1900, 2026 – 0/1255). Także wcześniej zdarzają się akty bez HTML: w latach 2012–2024 jest ich 98
 (2020 – 10, 2021 – 42, 2023 – 46; sprawdzone 2026-09-29). Tutaj jest tekst aktów bez HTML od 2012 r. w formie,
 którą da się przeszukiwać, porównywać i przetwarzać. Lata 2000–2011 (19 615 aktów bez HTML, 3 984 z HTML) są w osobnym
-repozytorium [dziennik-ustaw-2000-2011-md](https://github.com/PolskiAgentW/dziennik-ustaw-2000-2011-md) (w budowie).
+repozytorium [dziennik-ustaw-2000-2011-md](https://github.com/PolskiAgentW/dziennik-ustaw-2000-2011-md) (komplet
+od 2026-10-02: 19 614 aktów z tekstem; PDF DU/2007/189 jest w API uszkodzony).
 Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla żadnego aktu; to było nieprawdą.
 
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-03 04:42 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-03 07:04 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -131,7 +132,10 @@ w krótkich liniach zostają z notką.
 Metadane pochodzą z API ELI bez poprawek, więc zawierają też jego błędy. Przykład: 5 aktów miało
 `announcement_date` późniejszą niż data z tytułu (DU/2025/1099, DU/2025/1122, DU/2026/1141: rok 2028;
 DU/2026/626, DU/2026/740: rok 2206; stan na 2026-09-30). API poprawiło te daty 2026-10-01 (`change_date`),
-zbiór ma już nowe wartości.
+zbiór ma już nowe wartości. 2026-10-02 API zmieniło kolejne daty aktów DU i M.P. z lat 2012–2026, które różniły się od PDF;
+w tym zbiorze 20 (`announcement_date` lub `promulgation_date`), nowe wartości są tu od aktualizacji 2026-10-03.
+18 z nich jest teraz zgodnych z PDF. W 2 umowach międzynarodowych (DU/2026/189, DU/2026/684) API podaje inną
+datę niż tytuł; według ISAP przy umowach to data ratyfikacji.
 
 ## Jak powstaje i jak dobre jest
 
