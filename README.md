@@ -158,11 +158,29 @@ i 2 drobne; na 1 stronie tylko błędna data przepisana z API. Na żadnej stroni
 (przedział 95% dla odsetka stron z błędem: 7–34%) i nadreprezentuje strony tytułowe; tabel były w niej tylko
 2 strony. Raport: [eval/visual_audit_2025_2026_v0.6.2.md](https://github.com/PolskiAgentW/eli2md/blob/main/eval/visual_audit_2025_2026_v0.6.2.md).
 
+**Porównanie tekstów jednolitych z poprzednim tekstem jednolitym w HTML** (2026-10-04). Dla 381 ustaw najnowszy
+tekst jednolity w zbiorze porównałem artykuł po artykule z wcześniejszym tekstem jednolitym tej samej ustawy, który
+API ELI ma w HTML. Artykuł, którego nie zmieniła żadna nowelizacja, powinien mieć ten sam tekst. Z 50 823 artykułów
+w obu tekstach 43 531 (85,7%) jest identycznych (bez białych znaków). 7 292 różniące się porównałem z warstwą tekstową
+PDF tego samego tekstu jednolitego: 7 006 się z nią zgadza (różnica to zmiana prawa, nie błąd konwersji), 286 jest do
+oceny. Wśród nich: 92 różnice do 3 znaków (kolejność etykiet, dzielenie wyrazów), 61 linii zakresu „Art. 22–28.
+(pominięte)” doklejonych do poprzedniego artykułu, 47 przypisów z etykietą „I)” / „a)” wpisanych w treść ostatniego
+artykułu, 35 wzorów, 8 zgubionych indeksów dolnych z literą, 4 nagłówki działu w treści artykułu, 4 artykuły z literą
+„ł” bez własnego nagłówka, 35 innych (głównie wzory i tabele, nie wszystkie obejrzane). Metoda nie widzi błędów
+w artykułach dodanych później (1 182) ani błędów wspólnych z warstwą tekstową PDF. Raport i skrypty:
+[eval/tj_survey_2026-10-04.md](https://github.com/PolskiAgentW/eli2md/blob/main/eval/tj_survey_2026-10-04.md).
+
 **Znane błędy**:
 - wzory z Worda są spłaszczone do jednej linii i trzeba je czytać z PDF. W 4 aktach (DU/2025/454, 459, 1743, 1744)
   mapa znaków czcionki wzorów jest w PDF błędna, więc wzory są nieczytelne;
 - w tabelach z komórkami wieloliniowymi linie sąsiednich kolumn bywają przeplecione (DU/2025/205, lp. 9);
 - przypis z wyliczeniem: do przypisu trafia tylko pierwszy akapit, dalsze punkty są w treści (DU/2026/421).
+- przypis z etykietą „I)” / „a)” na końcu aktu („Niniejsza ustawa wdraża…”, „Zmiany wymienionego rozporządzenia…”)
+  jest w treści ostatniego artykułu, a nie w przypisach (np. DU/2025/1131 art. 279; 36 ustaw z tekstem jednolitym);
+- linia zakresu uchylonych lub pominiętych artykułów („Art. 22–28. (pominięte)”) nie jest nagłówkiem i kończy
+  poprzedni artykuł (np. DU/2025/1584 art. 13);
+- artykuł z literą „ł” (np. art. 106ł w DU/2025/633) nie ma własnego nagłówka i jest dalszym ciągiem poprzedniego;
+- indeks dolny z literą lub kropką ginie: „kategorii T , T , T” zamiast „T1b, T2b, T3b” (DU/2025/1490 art. 54).
 
 Zmiana 2026-10-01 wieczorem (eli2md 0.6.22, 42 akty, w których OCR nie dał tekstu z części stron). Strona skanu,
 z której OCR nie odczytał użytecznego tekstu, jest czytana drugi raz z podaną rozdzielczością obrazu (wcześniej tesseract
