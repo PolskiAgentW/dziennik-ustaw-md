@@ -269,7 +269,8 @@ na odnośniki do przypisów (`Art. 59[^2]` zamiast `Art. 59²`, `m[^2]` zamiast 
 co najmniej 410 i 220 plików), a cytowane artykuły nowelizacji dostawały nagłówki `#####`.
 
 Aktualizacja: codziennie o 04:23 UTC workflow `.github/workflows/update.yml` pobiera listę aktów
-z API ELI. Konwertuje nowe akty oraz te, którym zmienił się `changeDate`, i commituje wynik.
+z API ELI. GitHub potrafi opóźnić taki start o kilka godzin, więc jeśli do 10:17 UTC nie było
+udanej aktualizacji, workflow rusza drugi raz. Konwertuje nowe akty oraz te, którym zmienił się `changeDate`, i commituje wynik.
 Jeśli przez ponad 10 dni nie przybędzie żaden nowy akt, workflow kończy się błędem, żeby cicha awaria
 była widoczna. Najdłuższa przerwa w ogłaszaniu aktów w latach 2025–2026 wyniosła 6 dni.
 
