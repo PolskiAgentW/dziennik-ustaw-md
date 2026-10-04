@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/823",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 czerwca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/823/text.pdf",
  "body": [
   {
@@ -2946,8 +2946,11 @@
      "text": "Przepisy zmieniające"
     },
     {
-     "type": "text",
-     "text": "Art. 44–53. (pominięte)"
+     "type": "art",
+     "num": "44–53",
+     "path": "art_44–53",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

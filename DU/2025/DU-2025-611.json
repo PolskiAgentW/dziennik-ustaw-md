@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/611",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o usługach płatniczych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/611/text.pdf",
  "body": [
   {
@@ -18268,8 +18268,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 154–167. (pominięte)"
+     "type": "art",
+     "num": "154–167",
+     "path": "art_154–167",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",
@@ -18288,12 +18291,14 @@
      "num": "169",
      "path": "art_169",
      "text": "Zgoda na polecenie zapłaty, o której mowa w art. 63d ust. 2 pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. poz. 665, z późn. zm.[^12]), udzielona przed dniem wejścia w życie niniejszej ustawy, obowiązuje w odniesieniu do polecenia zapłaty wykonywanego na zasadach określonych w niniejszej ustawie, chyba że płatnik złoży oświadczenie o cofnięciu tej zgody. Oświadczenie o cofnięciu zgody, o której mowa w art. 63d ust. 2 pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, jest skuteczne w odniesieniu do transakcji polecenia zapłaty, w której dniem obciążenia rachunku byłby dzień następujący po dniu złożenia takiego oświadczenia.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 170–178. (pominięte)"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "170–178",
+     "path": "art_170–178",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",

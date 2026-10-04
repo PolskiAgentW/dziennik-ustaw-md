@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1243",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 września 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o elektromobilności i paliwach alternatywnych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1243/text.pdf",
  "body": [
   {
@@ -4616,8 +4616,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 48–59. (pominięte)"
+     "type": "art",
+     "num": "48–59",
+     "path": "art_48–59",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",
@@ -4879,12 +4882,14 @@
      "num": "63",
      "path": "art_63",
      "text": "Zadanie dotyczące sporządzenia planu jest zadaniem zleconym z zakresu administracji rządowej.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 64–66. (uchylone)"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "64–66",
+     "path": "art_64–66",
+     "text": "(uchylone)",
+     "children": []
     },
     {
      "type": "art",

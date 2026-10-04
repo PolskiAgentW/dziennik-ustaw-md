@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1208",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 września 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dokumentach publicznych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1208/text.pdf",
  "body": [
   {
@@ -2441,8 +2441,11 @@
      "text": "Zmiany w przepisach"
     },
     {
-     "type": "text",
-     "text": "Art. 59–71. (pominięte)"
+     "type": "art",
+     "num": "59–71",
+     "path": "art_59–71",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

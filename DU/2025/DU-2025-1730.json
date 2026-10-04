@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1730",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o niektórych zawodach medycznych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1730/text.pdf",
  "body": [
   {
@@ -455,7 +455,7 @@
       },
       {
        "type": "text",
-       "text": "Art. 93. W ustawie z dnia 10 maja 2018 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 1115, z późn. zm. a) ) wprowadza się następujące zmiany:",
+       "text": "Art. 93. W ustawie z dnia 10 maja 2018 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 1115, z późn. zm.[^a]) wprowadza się następujące zmiany:",
        "quoted": true
       },
       {
@@ -6257,8 +6257,11 @@
      "text": "Zmiany w przepisach"
     },
     {
-     "type": "text",
-     "text": "Art. 86–96. (pominięte)[^3]"
+     "type": "art",
+     "num": "86–96",
+     "path": "art_86–96",
+     "text": "(pominięte)[^3]",
+     "children": []
     },
     {
      "type": "heading",
@@ -6819,20 +6822,13 @@
      "num": "5",
      "path": "pkt_5",
      "text": "ukończenie przed dniem wejścia w życie ustawy szkoły policealnej publicznej lub niepublicznej o uprawnieniach szkoły publicznej i uzyskanie tytułu zawodowego w zawodzie instruktor terapii zajęciowej",
-     "children": [
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "pkt_5/lit_a",
-       "text": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1942 i 2130, z 2020 r. poz. 2400 i 2401, z 2021 r. poz. 2445 oraz z 2022 r. poz. 2770.",
-       "children": []
-      }
-     ]
+     "children": []
     }
    ]
   }
  ],
  "footnotes": {
+  "a": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1942 i 2130, z 2020 r. poz. 2400 i 2401, z 2021 r. poz. 2445 oraz z 2022 r. poz. 2770.",
   "1": "W brzmieniu ustalonym przez art. 9 pkt 1 ustawy z dnia 24 kwietnia 2025 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 637); wszedł w życie z dniem 16 maja 2025 r., z mocą od dnia 25 marca 2025 r.",
   "2": "W brzmieniu ustalonym przez art. 22 pkt 1 lit. b ustawy z dnia 27 listopada 2024 r. o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U. poz. 1897), która weszła w życie z dniem 1 stycznia 2025 r.",
   "3": "Zamieszczone w obwieszczeniu.",

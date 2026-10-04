@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1228",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 września 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kosztach sądowych w sprawach cywilnych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1228/text.pdf",
  "body": [
   {
@@ -4873,11 +4873,15 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 126–147. (pominięte) TYTUŁ VII"
+     "type": "art",
+     "num": "126–147",
+     "path": "art_126–147",
+     "text": "(pominięte)",
+     "children": []
     },
     {
-     "type": "text",
+     "type": "heading",
+     "label": "TYTUŁ VII",
      "text": "Przepisy przejściowe i końcowe"
     },
     {
@@ -4936,17 +4940,13 @@
      "num": "151",
      "path": "art_151",
      "text": "Ustawa wchodzi w życie po upływie sześciu miesięcy od dnia ogłoszenia[^14].",
-     "children": [
-      {
-       "type": "text",
-       "text": "1)I) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1828 z dnia 25 listopada 2020 r. w sprawie powództw przedstawicielskich wytaczanych w celu ochrony zbiorowych interesów konsumentów i uchylającą dyrektywę 2009/22/WE (Dz. Urz. UE L 409 z 04.12.2020, str. 1, Dz. Urz. UE L 265 z 12.10.2022, str. 1, Dz. Urz. UE L 277 z 27.10.2022, str. 1, Dz. Urz. UE L 135 z 23.05.2023, str. 1 oraz Dz. Urz. UE L 2023/2854 z 22.12.2023). I) Odnośnik do tytułu ustawy dodany przez art. 4 pkt 1 ustawy z dnia 24 lipca 2024 r. o zmianie ustawy o dochodzeniu roszczeń w postępowaniu grupowym oraz niektórych innych ustaw (Dz. U. poz. 1237), która weszła w życie z dniem 29 sierpnia 2024 r."
-      }
-     ]
+     "children": []
     }
    ]
   }
  ],
  "footnotes": {
+  "1": "I) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1828 z dnia 25 listopada 2020 r. w sprawie powództw przedstawicielskich wytaczanych w celu ochrony zbiorowych interesów konsumentów i uchylającą dyrektywę 2009/22/WE (Dz. Urz. UE L 409 z 04.12.2020, str. 1, Dz. Urz. UE L 265 z 12.10.2022, str. 1, Dz. Urz. UE L 277 z 27.10.2022, str. 1, Dz. Urz. UE L 135 z 23.05.2023, str. 1 oraz Dz. Urz. UE L 2023/2854 z 22.12.2023). I) Odnośnik do tytułu ustawy dodany przez art. 4 pkt 1 ustawy z dnia 24 lipca 2024 r. o zmianie ustawy o dochodzeniu roszczeń w postępowaniu grupowym oraz niektórych innych ustaw (Dz. U. poz. 1237), która weszła w życie z dniem 29 sierpnia 2024 r.",
   "2": "W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 3.",
   "3": "W brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy o kosztach sądowych w sprawach cywilnych (Dz. U. poz. 1157), która wejdzie w życie z dniem 23 września 2025 r.",
   "4": "Z dniem 28 kwietnia 2014 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 15 kwietnia 2014 r. sygn. akt SK 12/13 (Dz. U. poz. 545).",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/174",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o nauczycielskich świadczeniach kompensacyjnych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/174/text.pdf",
  "body": [
   {
@@ -748,14 +748,16 @@
        "num": "3",
        "path": "art_18/ust_3",
        "text": "W razie zbiegu prawa do świadczenia z prawami, o których mowa w art. 17 ust. 1, stosuje się odpowiednio art. 98 ustawy o emeryturach i rentach z FUS.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 19–29. (pominięte)"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "19–29",
+     "path": "art_19–29",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",

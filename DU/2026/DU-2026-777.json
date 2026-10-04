@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/777",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 maja 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pracowniczych programach emerytalnych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/777/text.pdf",
  "body": [
   {
@@ -3978,8 +3978,11 @@
      "text": "Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe"
     },
     {
-     "type": "text",
-     "text": "Art. 51–55. (pominięte)"
+     "type": "art",
+     "num": "51–55",
+     "path": "art_51–55",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",

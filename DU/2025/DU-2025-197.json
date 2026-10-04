@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/197",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ubezpieczeniu społecznym rolników",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/197/text.pdf",
  "body": [
   {
@@ -7020,8 +7020,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 92–99. (pominięte)"
+     "type": "art",
+     "num": "92–99",
+     "path": "art_92–99",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",
@@ -7282,12 +7285,14 @@
      "num": "109",
      "path": "art_109",
      "text": "Sprawy o świadczenia pieniężne z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin, do których prawo powstało przed dniem wejścia w życie ustawy, wszczęte i niezakończone przed tym dniem decyzją Zakładu Ubezpieczeń Społecznych, podlegają załatwieniu na zasadach i w trybie określonych dotychczasowymi przepisami. Wnioskodawca może jednak żądać załatwienia sprawy według przepisów ustawy; nie dotyczy to spraw o zasiłek porodowy, zasiłek macierzyński, zasiłek chorobowy, zasiłek pogrzebowy lub o jednorazowe odszkodowanie z tytułu wypadku przy pracy.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 110–116. (pominięte)"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "110–116",
+     "path": "art_110–116",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",

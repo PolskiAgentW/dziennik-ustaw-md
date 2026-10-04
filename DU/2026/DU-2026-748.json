@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/748",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 22 maja 2026 r. w sprawie jakości wody przeznaczonej do spożycia przez ludzi",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/748/text.pdf",
  "body": [
   {
@@ -966,7 +966,7 @@
     },
     {
      "type": "text",
-     "text": "2 Chlorki 250 mg/l⁵⁾"
+     "text": "2 Chlorki 250 mg/l[^5]"
     },
     {
      "type": "text",
@@ -994,7 +994,7 @@
     },
     {
      "type": "text",
-     "text": "9 Siarczany 250 mg/l⁵⁾"
+     "text": "9 Siarczany 250 mg/l[^5]"
     },
     {
      "type": "text",
@@ -2079,13 +2079,6 @@
      "type": "pkt",
      "num": "5",
      "path": "pkt_5",
-     "text": "i 8)",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "5",
-     "path": "pkt_5",
      "text": "i 7)",
      "children": []
     },
@@ -2103,6 +2096,7 @@
   "1": "Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1004).",
   "2": "Niniejsze rozporządzenie wdraża:\n\n1) dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/2184 z dnia 16 grudnia 2020 r. w sprawie jakości wody przeznaczonej do spożycia przez ludzi (Dz. Urz. UE L 435 z 23.12.2020, str. 1);\n\n2) dyrektywę Rady 2013/51/EURATOM z dnia 22 października 2013 r. określającą wymogi dotyczące ochrony zdrowia ludności w odniesieniu do substancji promieniotwórczych w wodzie przeznaczonej do spożycia przez ludzi (Dz. Urz. UE L 296 z 07.11.2013, str. 12).",
   "3": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 7 grudnia 2017 r. w sprawie jakości wody przeznaczonej do spożycia przez ludzi (Dz. U. poz. 2294), które zgodnie z art. 23 ustawy z dnia 13 marca 2026 r. o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw (Dz. U. poz. 605) traci moc z dniem wejścia w życie niniejszego rozporządzenia. * liczba – jtk lub NPL. * liczba – jtk lub NPL. ** liczba kolonii = ogólna liczba mikroorganizmów. * Po dniu 11 stycznia 2036 przynajmniej w punkcie dostawy do wewnętrznego systemu wodociągowego musi zostać osiągnięta wartość parametryczna wynosząca 5 μg/l.",
+  "5": "i 8)",
   "1_2": "W przypadku podania jednej wartości dolna wartość zakresu wynosi zero.",
   "2_2": "Podwyższone stężenie trytu może świadczyć o obecności innych sztucznych izotopów promieniotwórczych. W przypadku wzrostu stężenia trytu ponad wartość parametryczną wymagane jest przeprowadzenie analizy pod kątem obecności innych sztucznych izotopów promieniotwórczych. Objaśnienia:",
   "1_3": "Dla dostawców wody, którym nie przyznano odstępstwa, ustalenie częstotliwości zależy odpowiednio od właściwego państwowego powiatowego lub granicznego inspektora sanitarnego lub wojskowego inspektora sanitarnego właściwego terytorialnie wojskowego ośrodka medycyny prewencyjnej, jednak nierzadziej niż raz w roku dla parametrów grupy A i dla parametrów grupy B.",

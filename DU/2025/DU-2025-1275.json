@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1275",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 września 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o działach administracji rządowej",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1275/text.pdf",
  "body": [
   {
@@ -3942,8 +3942,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 39–75. (pominięte)"
+     "type": "art",
+     "num": "39–75",
+     "path": "art_39–75",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",
@@ -3982,14 +3985,16 @@
        "num": "2",
        "path": "art_78/pkt_2",
        "text": "warunki prowadzenia rozliczeń środków zgromadzonych na rachunkach likwidacyjnych, w tym zasady stosowania kursów walut dla jednostek rozliczeniowych.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 79–89. (pominięte)"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "79–89",
+     "path": "art_79–89",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",

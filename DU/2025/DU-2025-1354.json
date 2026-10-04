@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1354",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 września 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie powiadamiania ratunkowego",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1354/text.pdf",
  "body": [
   {
@@ -2193,14 +2193,16 @@
        "num": "14",
        "path": "art_21/ust_14",
        "text": "Kara pieniężna stanowi dochód budżetu państwa.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 22–28. (pominięte)"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "22–28",
+     "path": "art_22–28",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",

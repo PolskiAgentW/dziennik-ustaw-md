@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/713",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 maja 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Funduszu Transformacji Województwa Śląskiego Spółce Akcyjnej",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/713/text.pdf",
  "body": [
   {
@@ -1542,14 +1542,16 @@
        "num": "4",
        "path": "art_20/ust_4",
        "text": "W przypadku gdy liczba członków rady nadzorczej Funduszu wynosi mniej niż 7 osób, w terminie 30 dni podejmuje się czynności w celu uzupełnienia składu do 7 osób.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 21–23. (pominięte)"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "21–23",
+     "path": "art_21–23",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",

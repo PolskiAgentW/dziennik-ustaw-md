@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/115",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o świadczeniach przedemerytalnych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/115/text.pdf",
  "body": [
   {
@@ -792,14 +792,16 @@
        "num": "3",
        "path": "art_12/ust_3",
        "text": "Podstawą przekazania środków na wypłatę świadczeń przedemerytalnych i zasiłków pogrzebowych oraz kosztów ich obsługi jest umowa zawarta między ministrem właściwym do spraw pracy a Prezesem Zakładu Ubezpieczeń Społecznych.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 13–22. (pominięte)"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "13–22",
+     "path": "art_13–22",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",

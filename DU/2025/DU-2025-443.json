@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/443",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o spółdzielniach rolników",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/443/text.pdf",
  "body": [
   {
@@ -846,8 +846,11 @@
      "text": "Zmiany w przepisach obowiązujących i przepisy końcowe"
     },
     {
-     "type": "text",
-     "text": "Art. 19–24. (pominięte)"
+     "type": "art",
+     "num": "19–24",
+     "path": "art_19–24",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",

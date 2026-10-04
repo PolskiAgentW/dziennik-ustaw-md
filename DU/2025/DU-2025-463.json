@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/463",
  "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 marca 2025 r. w sprawie wprowadzenia \"Krajowego programu zwalczania niektórych serotypów Salmonella w stadach indyków hodowlanych\" na lata 2025-2027",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/463/text.pdf",
  "body": [
   {
@@ -1727,7 +1727,7 @@
       },
       {
        "type": "text",
-       "text": "Region Rodzaj badania Populacja Rodzaj próbki Cel Liczba a) b) d) e) docelowa c) planowanych badań"
+       "text": "Regiona) Rodzaj badaniab) Populacja Rodzaj próbkid) Cel[^e] Liczba docelowac) planowanych badań"
       },
       {
        "type": "text",
@@ -1741,28 +1741,7 @@
        "type": "lit",
        "num": "a",
        "path": "ust_6/lit_a",
-       "text": "Region określony w zatwierdzonym programie zwalczania chorób w państwie członkowskim.",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "b",
-       "path": "ust_6/lit_b",
-       "text": "Opis badania.",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "c",
-       "path": "ust_6/lit_c",
-       "text": "Wyszczególnienie gatunków i kategorii zwierząt objętych programem – w razie potrzeby.",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "d",
-       "path": "ust_6/lit_d",
-       "text": "Opis próbki (np. odchody).",
+       "text": "Region określony w zatwierdzonym programie zwalczania chorób w państwie członkowskim. b) Opis badania. c) Wyszczególnienie gatunków i kategorii zwierząt objętych programem – w razie potrzeby. d) Opis próbki (np. odchody).",
        "children": [
         {
          "type": "text",
@@ -1770,7 +1749,7 @@
         },
         {
          "type": "text",
-         "text": "Łączna Liczba stad, Łączna Przewidywana Łączna liczba stad Przewidywana w których Przewidywana Przewidywana przewidywana Przewidywana liczba jaj do Region Rodzaj liczba objętych liczba zostaną Liczba Serotyp liczba stad liczba stad do liczba indyków liczba jaj do skierowania do a) stada stad progra- stad do pobrane próbek Salmonella e) z wynikiem likwidacji hodowlanych zniszczenia przetworzenia b) mem zbadania c) próbki dodatnim do uboju lub (w sztukach) (w sztukach) urzędowe d) zabicia"
+         "text": "Łączna Liczba stad, Łączna Przewidywana Łączna liczba stad Przewidywana w których Przewidywana Przewidywana przewidywana Przewidywana liczba jaj do Region Rodzaj liczba objętych liczba zostaną Liczba Serotyp liczba stad liczba stad do liczba indyków liczba jaj do skierowania do a) stada stad progra- stad do pobrane próbek Salmonella[^e] z wynikiem likwidacji hodowlanych zniszczenia przetworzenia b) mem zbadaniac) próbki dodatnim do uboju lub (w sztukach) (w sztukach) urzędowed) zabicia"
         },
         {
          "type": "text",
@@ -1782,35 +1761,7 @@
        "type": "lit",
        "num": "a",
        "path": "ust_6/lit_a",
-       "text": "Region określony w zatwierdzonym programie zwalczania chorób w państwie członkowskim.",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "b",
-       "path": "ust_6/lit_b",
-       "text": "Łączna liczba stad, w tym stada kwalifikujące się i niekwalifikujące się do programu.",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "c",
-       "path": "ust_6/lit_c",
-       "text": "Liczba stad objętych programem.",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "d",
-       "path": "ust_6/lit_d",
-       "text": "Liczona każda wizyta, w ramach której pobrano próbki urzędowe.",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "e",
-       "path": "ust_6/lit_e",
-       "text": "Serotypy objęte programem: Salmonella Enteritidis, Salmonella Typhimurium.",
+       "text": "Region określony w zatwierdzonym programie zwalczania chorób w państwie członkowskim. b) Łączna liczba stad, w tym stada kwalifikujące się i niekwalifikujące się do programu. c) Liczba stad objętych programem. d) Liczona każda wizyta, w ramach której pobrano próbki urzędowe. [^e] Serotypy objęte programem: Salmonella Enteritidis, Salmonella Typhimurium.",
        "children": []
       }
      ]
@@ -2247,6 +2198,7 @@
   }
  ],
  "footnotes": {
-  "1": "Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706). * ) Dane dotyczą wszystkich grup wiekowych Źródło: Inspekcja Weterynaryjna e) Opis celu (np. nadzór, monitorowanie, kontrola szczepień)."
+  "1": "Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706). * ) Dane dotyczą wszystkich grup wiekowych Źródło: Inspekcja Weterynaryjna",
+  "e": "Opis celu (np. nadzór, monitorowanie, kontrola szczepień)."
  }
 }

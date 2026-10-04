@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/854",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 czerwca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/854/text.pdf",
  "body": [
   {
@@ -4901,8 +4901,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 71–80. (pominięte)"
+     "type": "art",
+     "num": "71–80",
+     "path": "art_71–80",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1591",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o nadzorze ubezpieczeniowym i emerytalnym",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1591/text.pdf",
  "body": [
   {
@@ -246,14 +246,16 @@
        "num": "2",
        "path": "art_8/ust_2",
        "text": "Zakres nadzoru i szczegółowe zadania Komisji określają odrębne przepisy.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 9–13. (uchylone)"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "9–13",
+     "path": "art_9–13",
+     "text": "(uchylone)",
+     "children": []
     },
     {
      "type": "art",

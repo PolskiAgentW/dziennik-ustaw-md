@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/595",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o spółdzielczych kasach oszczędnościowo-kredytowych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/595/text.pdf",
  "body": [
   {
@@ -90,7 +90,7 @@
      "children": [
       {
        "type": "text",
-       "text": "„Art. 17. Przepis art. 3c pkt 1 ustawy zmienianej w art. 4 w zakresie wyłączenia stosowania przepisu art. 16 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/2554 z dnia 14 grudnia 2022 r. w sprawie operacyjnej odporności cyfrowej sektora finansowego i zmieniającego rozporządzenia (WE) nr 1060/2009, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 909/2014 oraz (UE) 2016/1011 (Dz. Urz. UE L 333 z 27.12.2022, str. 1, z późn. zm. a) ) oraz przepis art. 2a ust. 2 ustawy zmienianej w art. 9 w zakresie wyłączenia stosowania przepisu art. 16 tego rozporządzenia mają zastosowanie po upływie roku od dnia wejścia w życie niniejszej ustawy.”",
+       "text": "„Art. 17. Przepis art. 3c pkt 1 ustawy zmienianej w art. 4 w zakresie wyłączenia stosowania przepisu art. 16 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/2554 z dnia 14 grudnia 2022 r. w sprawie operacyjnej odporności cyfrowej sektora finansowego i zmieniającego rozporządzenia (WE) nr 1060/2009, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 909/2014 oraz (UE) 2016/1011 (Dz. Urz. UE L 333 z 27.12.2022, str. 1, z późn. zm.[^a]) oraz przepis art. 2a ust. 2 ustawy zmienianej w art. 9 w zakresie wyłączenia stosowania przepisu art. 16 tego rozporządzenia mają zastosowanie po upływie roku od dnia wejścia w życie niniejszej ustawy.”",
        "quoted": true
       },
       {
@@ -7488,8 +7488,11 @@
      "text": "Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe"
     },
     {
-     "type": "text",
-     "text": "Art. 80a–85d. (pominięte)"
+     "type": "art",
+     "num": "80a–85d",
+     "path": "art_80a–85d",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",
@@ -7647,20 +7650,13 @@
      "num": "93",
      "path": "art_93",
      "text": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia[^23], z wyjątkiem art. 24 ust. 5, który wchodzi w życie po upływie 18 miesięcy od dnia ogłoszenia, art. 24 ust. 6, który wchodzi w życie po upływie 9 miesięcy od dnia ogłoszenia, art. 83 pkt 1 i 2, które wchodzą w życie po upływie 18 miesięcy od dnia ogłoszenia.",
-     "children": [
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "art_93/lit_a",
-       "text": "Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2024/90177 z 12.03.2024.",
-       "children": []
-      }
-     ]
+     "children": []
     }
    ]
   }
  ],
  "footnotes": {
+  "a": "Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2024/90177 z 12.03.2024.",
   "1": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 20 z 25.01.2017, str. 4, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 183 z 09.07.2019, str. 14, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 4, Dz. Urz. UE L 84 z 11.03.2021, str. 1 oraz Dz. Urz. UE L 116 z 06.04.2021, str. 25.",
   "2": "Dodany przez art. 9 ustawy z dnia 25 czerwca 2025 r. o zmianie niektórych ustaw w związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego oraz emitowaniem europejskich zielonych obligacji (Dz. U. poz. 1069), która weszła w życie z dniem 7 sierpnia 2025 r.",
   "3": "Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2024/90177 z 12.03.2024.",

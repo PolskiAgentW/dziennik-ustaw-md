@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/623",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o usługach płatniczych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/623/text.pdf",
  "body": [
   {
@@ -18703,8 +18703,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 154–167. (pominięte)"
+     "type": "art",
+     "num": "154–167",
+     "path": "art_154–167",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",
@@ -18723,12 +18726,14 @@
      "num": "169",
      "path": "art_169",
      "text": "Zgoda na polecenie zapłaty, o której mowa w art. 63d ust. 2 pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. poz. 665, z późn. zm.[^38]), udzielona przed dniem wejścia w życie niniejszej ustawy, obowiązuje w odniesieniu do polecenia zapłaty wykonywanego na zasadach określonych w niniejszej ustawie, chyba że płatnik złoży oświadczenie o cofnięciu tej zgody. Oświadczenie o cofnięciu zgody, o której mowa w art. 63d ust. 2 pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, jest skuteczne w odniesieniu do transakcji polecenia zapłaty, w której dniem obciążenia rachunku byłby dzień następujący po dniu złożenia takiego oświadczenia.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 170–178. (pominięte)"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "170–178",
+     "path": "art_170–178",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",
@@ -18899,25 +18904,6 @@
        "num": "2",
        "path": "art_181/pkt_2",
        "text": "art. 167, który wchodzi w życie z dniem 1 stycznia 2012 r.",
-       "children": [
-        {
-         "type": "text",
-         "text": "1)I) Niniejsza ustawa w zakresie swojej regulacji wdraża:"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "art_181/pkt_1",
-       "text": "dyrektywę 2007/64/WE Parlamentu Europejskiego i Rady z dnia 13 listopada 2007 r. w sprawie usług płatniczych w ramach rynku wewnętrznego zmieniającą dyrektywy 97/7/WE, 2002/65/WE, 2005/60/WE i 2006/48/WE i uchylającą dyrektywę 97/5/WE (Dz. Urz. UE L 319 z 05.12.2007, str. 1, Dz. Urz. UE L 187 z 18.07.2009, str. 5 oraz Dz. Urz. UE L 302 z 17.11.2009, str. 97);",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "art_181/pkt_2",
-       "text": "dyrektywę Parlamentu Europejskiego i Rady (UE) 2015/2366 z dnia 25 listopada 2015 r. w sprawie usług płatniczych w ramach rynku wewnętrznego, zmieniającą dyrektywy 2002/65/WE, 2009/110/WE, 2013/36/UE i rozporządzenie (UE) nr 1093/2010 oraz uchylającą dyrektywę 2007/64/WE (Dz. Urz. UE L 337 z 23.12.2015, str. 35, Dz. Urz. UE L 333 z 27.12.2022, str. 153 oraz Dz. Urz. UE L 2024/886 z 19.03.2024). I) Odnośnik nr 1 do tytułu ustawy w brzmieniu ustalonym przez art. 7 pkt 1 ustawy z dnia 23 stycznia 2026 r. o zmianie niektórych ustaw związanych z funkcjonowaniem rynku finansowego oraz ochroną uczestników tego rynku (Dz. U. poz. 340), która weszła w życie z dniem 31 marca 2026 r.",
        "children": []
       }
      ]
@@ -18926,6 +18912,7 @@
   }
  ],
  "footnotes": {
+  "1": "I) Niniejsza ustawa w zakresie swojej regulacji wdraża:\n\n1) dyrektywę 2007/64/WE Parlamentu Europejskiego i Rady z dnia 13 listopada 2007 r. w sprawie usług płatniczych w ramach rynku wewnętrznego zmieniającą dyrektywy 97/7/WE, 2002/65/WE, 2005/60/WE i 2006/48/WE i uchylającą dyrektywę 97/5/WE (Dz. Urz. UE L 319 z 05.12.2007, str. 1, Dz. Urz. UE L 187 z 18.07.2009, str. 5 oraz Dz. Urz. UE L 302 z 17.11.2009, str. 97);\n\n2) dyrektywę Parlamentu Europejskiego i Rady (UE) 2015/2366 z dnia 25 listopada 2015 r. w sprawie usług płatniczych w ramach rynku wewnętrznego, zmieniającą dyrektywy 2002/65/WE, 2009/110/WE, 2013/36/UE i rozporządzenie (UE) nr 1093/2010 oraz uchylającą dyrektywę 2007/64/WE (Dz. Urz. UE L 337 z 23.12.2015, str. 35, Dz. Urz. UE L 333 z 27.12.2022, str. 153 oraz Dz. Urz. UE L 2024/886 z 19.03.2024). I) Odnośnik nr 1 do tytułu ustawy w brzmieniu ustalonym przez art. 7 pkt 1 ustawy z dnia 23 stycznia 2026 r. o zmianie niektórych ustaw związanych z funkcjonowaniem rynku finansowego oraz ochroną uczestników tego rynku (Dz. U. poz. 340), która weszła w życie z dniem 31 marca 2026 r.",
   "2": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 20 z 25.01.2017, str. 4, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 183 z 09.07.2019, str. 14, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 4, Dz. Urz. UE L 84 z 11.03.2021, str. 1 oraz Dz. Urz. UE L 116 z 06.04.2021, str. 25.",
   "3": "Dodany przez art. 10 pkt 1 ustawy z dnia 25 czerwca 2025 r. o zmianie niektórych ustaw w związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego oraz emitowaniem europejskich zielonych obligacji (Dz. U. poz. 1069), która weszła w życie z dniem 7 sierpnia 2025 r.",
   "4": "Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2024/90177 z 12.03.2024.",

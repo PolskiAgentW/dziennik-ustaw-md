@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/568",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemach oceny zgodności i nadzoru rynku",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/568/text.pdf",
  "body": [
   {
@@ -6004,8 +6004,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 99–121. (pominięte)"
+     "type": "art",
+     "num": "99–121",
+     "path": "art_99–121",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",
@@ -6566,33 +6569,11 @@
   },
   {
    "heading": "Załącznik do ustawy z dnia 13 kwietnia 2016 r. (Dz. U. z 2025 r. poz. 568) (pominięty)",
-   "body": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "pkt_1",
-     "text": "rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/424 z dnia 9 marca 2016 r. w sprawie urządzeń kolei linowych i uchylenia dyrektywy 2000/9/WE (Dz. Urz. UE L 81 z 31.03.2016, str. 1 oraz Dz. Urz. UE L 266 z 30.09.2016, str. 8);",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "pkt_2",
-     "text": "rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/425 z dnia 9 marca 2016 r. w sprawie środków ochrony indywidualnej oraz uchylenia dyrektywy Rady 89/686/EWG (Dz. Urz. UE L 81 z 31.03.2016, str. 51);",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "pkt_3",
-     "text": "rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/426 z dnia 9 marca 2016 r. w sprawie urządzeń spalających paliwa gazowe oraz uchylenia dyrektywy 2009/142/WE (Dz. Urz. UE L 81 z 31.03.2016, str. 99).",
-     "children": []
-    }
-   ]
+   "body": []
   }
  ],
  "footnotes": {
-  "1": "Niniejsza ustawa w zakresie swojej regulacji wdraża:\n\n1) dyrektywę Parlamentu Europejskiego i Rady 2009/48/WE z dnia 18 czerwca 2009 r. w sprawie bezpieczeństwa zabawek (Dz. Urz. UE L 170 z 30.06.2009, str. 1, z późn. zm.);\n\n2) dyrektywę Parlamentu Europejskiego i Rady 2013/29/UE z dnia 12 czerwca 2013 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku wyrobów pirotechnicznych (Dz. Urz. UE L 178 z 28.06.2013, str. 27);\n\n3) dyrektywę Parlamentu Europejskiego i Rady 2013/53/UE z dnia 20 listopada 2013 r. w sprawie rekreacyjnych jednostek pływających i skuterów wodnych i uchylającą dyrektywę 94/25/WE (Dz. Urz. UE L 354 z 28.12.2013, str. 90);\n\n4) dyrektywę Parlamentu Europejskiego i Rady 2014/28/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku i kontroli materiałów wybuchowych przeznaczonych do użytku cywilnego (Dz. Urz. UE L 96 z 29.03.2014, str. 1);\n\n5) dyrektywę Parlamentu Europejskiego i Rady 2014/29/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku prostych zbiorników ciśnieniowych (Dz. Urz. UE L 96 z 29.03.2014, str. 45);\n\n6) dyrektywę Parlamentu Europejskiego i Rady 2014/30/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do kompatybilności elektromagnetycznej (Dz. Urz. UE L 96 z 29.03.2014, str. 79);\n\n7) dyrektywę Parlamentu Europejskiego i Rady 2014/31/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku wag nieautomatycznych (Dz. Urz. UE L 96 z 29.03.2014, str. 107);\n\n8) dyrektywę Parlamentu Europejskiego i Rady 2014/32/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku przyrządów pomiarowych (Dz. Urz. UE L 96 z 29.03.2014, str. 149, z późn. zm.);\n\n9) dyrektywę Parlamentu Europejskiego i Rady 2014/33/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich dotyczących dźwigów i elementów bezpieczeństwa do dźwigów (Dz. Urz. UE L 96 z 29.03.2014, str. 251);\n\n10) dyrektywę Parlamentu Europejskiego i Rady 2014/34/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do urządzeń i systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej (Dz. Urz. UE L 96 z 29.03.2014, str. 309);\n\n11) dyrektywę Parlamentu Europejskiego i Rady 2014/35/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku sprzętu elektrycznego przewidzianego do stosowania w określonych granicach napięcia (Dz. Urz. UE L 96 z 29.03.2014, str. 357);\n\n12) dyrektywę Parlamentu Europejskiego i Rady 2014/53/UE z dnia 16 kwietnia 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich dotyczących udostępniania na rynku urządzeń radiowych i uchylającą dyrektywę 1999/5/WE (Dz. Urz. UE L 153 z 22.05.2014, str. 62);\n\n13) dyrektywę Parlamentu Europejskiego i Rady 2014/68/UE z dnia 15 maja 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku urządzeń ciśnieniowych (Dz. Urz. UE L 189 z 27.06.2014, str. 164). Niniejsza ustawa służy stosowaniu:",
+  "1": "Niniejsza ustawa w zakresie swojej regulacji wdraża:\n\n1) dyrektywę Parlamentu Europejskiego i Rady 2009/48/WE z dnia 18 czerwca 2009 r. w sprawie bezpieczeństwa zabawek (Dz. Urz. UE L 170 z 30.06.2009, str. 1, z późn. zm.);\n\n2) dyrektywę Parlamentu Europejskiego i Rady 2013/29/UE z dnia 12 czerwca 2013 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku wyrobów pirotechnicznych (Dz. Urz. UE L 178 z 28.06.2013, str. 27);\n\n3) dyrektywę Parlamentu Europejskiego i Rady 2013/53/UE z dnia 20 listopada 2013 r. w sprawie rekreacyjnych jednostek pływających i skuterów wodnych i uchylającą dyrektywę 94/25/WE (Dz. Urz. UE L 354 z 28.12.2013, str. 90);\n\n4) dyrektywę Parlamentu Europejskiego i Rady 2014/28/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku i kontroli materiałów wybuchowych przeznaczonych do użytku cywilnego (Dz. Urz. UE L 96 z 29.03.2014, str. 1);\n\n5) dyrektywę Parlamentu Europejskiego i Rady 2014/29/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku prostych zbiorników ciśnieniowych (Dz. Urz. UE L 96 z 29.03.2014, str. 45);\n\n6) dyrektywę Parlamentu Europejskiego i Rady 2014/30/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do kompatybilności elektromagnetycznej (Dz. Urz. UE L 96 z 29.03.2014, str. 79);\n\n7) dyrektywę Parlamentu Europejskiego i Rady 2014/31/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku wag nieautomatycznych (Dz. Urz. UE L 96 z 29.03.2014, str. 107);\n\n8) dyrektywę Parlamentu Europejskiego i Rady 2014/32/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku przyrządów pomiarowych (Dz. Urz. UE L 96 z 29.03.2014, str. 149, z późn. zm.);\n\n9) dyrektywę Parlamentu Europejskiego i Rady 2014/33/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich dotyczących dźwigów i elementów bezpieczeństwa do dźwigów (Dz. Urz. UE L 96 z 29.03.2014, str. 251);\n\n10) dyrektywę Parlamentu Europejskiego i Rady 2014/34/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do urządzeń i systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej (Dz. Urz. UE L 96 z 29.03.2014, str. 309);\n\n11) dyrektywę Parlamentu Europejskiego i Rady 2014/35/UE z dnia 26 lutego 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku sprzętu elektrycznego przewidzianego do stosowania w określonych granicach napięcia (Dz. Urz. UE L 96 z 29.03.2014, str. 357);\n\n12) dyrektywę Parlamentu Europejskiego i Rady 2014/53/UE z dnia 16 kwietnia 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich dotyczących udostępniania na rynku urządzeń radiowych i uchylającą dyrektywę 1999/5/WE (Dz. Urz. UE L 153 z 22.05.2014, str. 62);\n\n13) dyrektywę Parlamentu Europejskiego i Rady 2014/68/UE z dnia 15 maja 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku urządzeń ciśnieniowych (Dz. Urz. UE L 189 z 27.06.2014, str. 164). Niniejsza ustawa służy stosowaniu:\n\n1) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/424 z dnia 9 marca 2016 r. w sprawie urządzeń kolei linowych i uchylenia dyrektywy 2000/9/WE (Dz. Urz. UE L 81 z 31.03.2016, str. 1 oraz Dz. Urz. UE L 266 z 30.09.2016, str. 8);\n\n2) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/425 z dnia 9 marca 2016 r. w sprawie środków ochrony indywidualnej oraz uchylenia dyrektywy Rady 89/686/EWG (Dz. Urz. UE L 81 z 31.03.2016, str. 51);\n\n3) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/426 z dnia 9 marca 2016 r. w sprawie urządzeń spalających paliwa gazowe oraz uchylenia dyrektywy 2009/142/WE (Dz. Urz. UE L 81 z 31.03.2016, str. 99).",
   "2": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 9, Dz. Urz. UE L 334 z 27.12.2019, str. 165, Dz. Urz. UE L 130 z 24.04.2020, str. 18 i Dz. Urz. UE L 241 z 08.07.2021, str. 7.",
   "3": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 11, Dz. Urz. UE L 334 z 27.12.2019, str. 167 i Dz. Urz. UE L 233 z 01.07.2021, str. 9.",
   "4": "W brzmieniu ustalonym przez art. 15 pkt 1 ustawy z dnia 24 stycznia 2025 r. o zmianie ustawy ‒ Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 179), która weszła w życie z dniem 27 lutego 2025 r.",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/278",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podatku dochodowym od osób prawnych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/278/text.pdf",
  "body": [
   {
@@ -12478,58 +12478,68 @@
        "num": "4",
        "path": "art_16l/ust_4",
        "text": "Odpisów amortyzacyjnych od przyjętego do używania taboru morskiego dokonuje się zgodnie z art. 16i. Suma odpisów amortyzacyjnych dokonanych zgodnie z art. 16i i odpisów amortyzacyjnych, o których mowa w ust. 2, nie może przekroczyć wartości początkowej danego obiektu taboru transportu morskiego.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 16ł. 1. Od środków trwałych oraz wartości niematerialnych i prawnych otrzymanych do odpłatnego korzystania, zgodnie z umowami zawartymi na podstawie przepisów o komercjalizacji i prywatyzacji, jeżeli z tych umów wynika prawo zakupu tych środków albo wartości przez korzystającego za cenę ustaloną w umowach, podatnicy dokonują odpisów amortyzacyjnych na zasadach określonych w art. 16h ust. 1. Stawki amortyzacyjne, z uwzględnieniem art. 16i i 16m, ustala się w proporcji do okresu wynikającego z umowy, z wyjątkiem środków trwałych oraz wartości niematerialnych i prawnych o krótszym okresie amortyzacji niż okres trwania umowy."
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "16ł",
+     "path": "art_16ł",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_16ł/ust_1",
+       "text": "Od środków trwałych oraz wartości niematerialnych i prawnych otrzymanych do odpłatnego korzystania, zgodnie z umowami zawartymi na podstawie przepisów o komercjalizacji i prywatyzacji, jeżeli z tych umów wynika prawo zakupu tych środków albo wartości przez korzystającego za cenę ustaloną w umowach, podatnicy dokonują odpisów amortyzacyjnych na zasadach określonych w art. 16h ust. 1. Stawki amortyzacyjne, z uwzględnieniem art. 16i i 16m, ustala się w proporcji do okresu wynikającego z umowy, z wyjątkiem środków trwałych oraz wartości niematerialnych i prawnych o krótszym okresie amortyzacji niż okres trwania umowy.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_16l/ust_2",
+       "path": "art_16ł/ust_2",
        "text": "W razie nabycia środków trwałych lub wartości niematerialnych i prawnych otrzymanych do odpłatnego korzystania na podstawie umów, o których mowa w ust. 1, przed upływem okresu, na jaki została zawarta umowa, podatnicy dokonują dalszych odpisów amortyzacyjnych od tych środków i wartości, kontynuując stosowanie zasad i stawek, określonych w ust. 1.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
-       "path": "art_16l/ust_3",
+       "path": "art_16ł/ust_3",
        "text": "W razie przedłużenia okresu obowiązywania umowy zawartej na podstawie przepisów, o których mowa w ust. 1, stawki odpisów amortyzacyjnych ulegają obniżeniu proporcjonalnie do okresu przedłużenia okresu obowiązywania umowy, z wyjątkiem środków trwałych lub wartości niematerialnych i prawnych o okresie amortyzacji krótszym niż okres obowiązywania umowy; zasada ta ma zastosowanie wyłącznie do stawek odpisów amortyzacyjnych, dokonywanych od następnego miesiąca po miesiącu, w którym zmieniono umowę.",
        "children": []
       },
       {
        "type": "ust",
        "num": "4",
-       "path": "art_16l/ust_4",
+       "path": "art_16ł/ust_4",
        "text": "Od środków trwałych lub wartości niematerialnych i prawnych, przekazanych do używania na podstawie innych umów niż wymienione w ust. 1, odpisów amortyzacyjnych od tych składników dokonują odpowiednio finansujący lub korzystający na zasadach określonych w art. 16h–16k i art. 16m, z uwzględnieniem przepisów rozdziału 4a.",
        "children": []
       },
       {
        "type": "ust",
        "num": "5",
-       "path": "art_16l/ust_5",
+       "path": "art_16ł/ust_5",
        "text": "Jeżeli umowy inne niż wymienione w ust. 1, dotyczą środków trwałych zaliczonych do grupy 3–6 Klasyfikacji i zostały zawarte na okres co najmniej 60 miesięcy oraz zgodnie z przepisami rozdziału 4a odpisów amortyzacyjnych dokonuje korzystający, podatnik może stosować zasady określone w ust. 1–3.",
        "children": []
       },
       {
        "type": "ust",
        "num": "6",
-       "path": "art_16l/ust_6",
+       "path": "art_16ł/ust_6",
        "text": "Jeżeli zgodnie z przepisami rozdziału 4a:",
        "children": [
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_16l/ust_6/pkt_1",
+         "path": "art_16ł/ust_6/pkt_1",
          "text": "odpisów amortyzacyjnych dokonuje korzystający albo",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_16l/ust_6/pkt_2",
+         "path": "art_16ł/ust_6/pkt_2",
          "text": "finansujący rezygnuje z dokonywania odpisów amortyzacyjnych",
          "children": []
         },
@@ -24980,8 +24990,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 29–36. (pominięte)"
+     "type": "art",
+     "num": "29–36",
+     "path": "art_29–36",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

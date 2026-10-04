@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/208",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie informacji w ochronie zdrowia",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/208/text.pdf",
  "body": [
   {
@@ -6886,8 +6886,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 41–52. (pominięte)"
+     "type": "art",
+     "num": "41–52",
+     "path": "art_41–52",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

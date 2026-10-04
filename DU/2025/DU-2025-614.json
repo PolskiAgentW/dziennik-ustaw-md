@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/614",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo upadłościowe",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/614/text.pdf",
  "body": [
   {
@@ -726,13 +726,13 @@
      "type": "art",
      "num": "17",
      "path": "art_17",
-     "text": "(uchylony) TYTUŁ II",
-     "children": [
-      {
-       "type": "text",
-       "text": "Postępowanie w przedmiocie ogłoszenia upadłości"
-      }
-     ]
+     "text": "(uchylony)",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "TYTUŁ II",
+     "text": "Postępowanie w przedmiocie ogłoszenia upadłości"
     },
     {
      "type": "heading",
@@ -17541,8 +17541,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 524–535. (pominięte)"
+     "type": "art",
+     "num": "524–535",
+     "path": "art_524–535",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/367",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/367/text.pdf",
  "body": [
   {
@@ -8298,8 +8298,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 141–158. (pominięte)"
+     "type": "art",
+     "num": "141–158",
+     "path": "art_141–158",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",
@@ -8426,12 +8429,7 @@
        "num": "2",
        "path": "art_163/pkt_2",
        "text": "art. 148 pkt 3 lit. c, w zakresie, w którym dotyczy art. 80b ust. 2 pkt 3 ustawy zmienianej w art. 148, który wchodzi w życie z dniem 1 lipca 2004 r., jednak nie później niż z dniem uzyskania członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej.",
-       "children": [
-        {
-         "type": "text",
-         "text": "1)I) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/103/WE z dnia 16 września 2009 r. w sprawie ubezpieczenia od odpowiedzialności cywilnej za szkody powstałe w związku z ruchem pojazdów mechanicznych i egzekwowania obowiązku ubezpieczania od takiej odpowiedzialności (Dz. Urz. UE L 263 z 07.10.2009, str. 11 oraz Dz. Urz. UE L 430 z 02.12.2021, str. 1). I) Odnośnik w brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 13 września 2024 r. o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz ustawy o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1565), która weszła w życie z dniem 6 listopada 2024 r."
-        }
-       ]
+       "children": []
       }
      ]
     }
@@ -8439,6 +8437,7 @@
   }
  ],
  "footnotes": {
+  "1": "I) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/103/WE z dnia 16 września 2009 r. w sprawie ubezpieczenia od odpowiedzialności cywilnej za szkody powstałe w związku z ruchem pojazdów mechanicznych i egzekwowania obowiązku ubezpieczania od takiej odpowiedzialności (Dz. Urz. UE L 263 z 07.10.2009, str. 11 oraz Dz. Urz. UE L 430 z 02.12.2021, str. 1). I) Odnośnik w brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 13 września 2024 r. o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz ustawy o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1565), która weszła w życie z dniem 6 listopada 2024 r.",
   "2": "W brzmieniu ustalonym przez art. 1 pkt 2 lit. a ustawy z dnia 13 września 2024 r. o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz ustawy o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1565), która weszła w życie z dniem 6 listopada 2024 r.",
   "3": "Dodany przez art. 1 pkt 2 lit. b ustawy, o której mowa w odnośniku 2.",
   "4": "W brzmieniu ustalonym przez art. 1 pkt 2 lit. c ustawy, o której mowa w odnośniku 2.",

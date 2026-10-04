@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1061",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 31 lipca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1061/text.pdf",
  "body": [
   {
@@ -2923,8 +2923,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 38–42. (pominięte)"
+     "type": "art",
+     "num": "38–42",
+     "path": "art_38–42",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

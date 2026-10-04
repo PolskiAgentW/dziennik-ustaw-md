@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/500",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o postępowaniu w sprawach dotyczących pomocy publicznej",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/500/text.pdf",
  "body": [
   {
@@ -2147,8 +2147,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 47–62. (pominięte)"
+     "type": "art",
+     "num": "47–62",
+     "path": "art_47–62",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",
@@ -2189,12 +2192,14 @@
      "num": "65",
      "path": "art_65",
      "text": "Jeżeli akty normatywne, o których mowa w art. 6 ust. 2, nie są programami pomocowymi, podmioty właściwe są zobowiązane do przygotowania projektów odpowiednich zmian w tych aktach w terminie 1 miesiąca od dnia wejścia w życie niniejszej ustawy.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 66–69. (pominięte)"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "66–69",
+     "path": "art_66–69",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",

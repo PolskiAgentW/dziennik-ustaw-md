@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/85",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 stycznia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/85/text.pdf",
  "body": [
   {
@@ -3871,8 +3871,11 @@
      "text": "Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe"
     },
     {
-     "type": "text",
-     "text": "Art. 52–60. (pominięte)"
+     "type": "art",
+     "num": "52–60",
+     "path": "art_52–60",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",

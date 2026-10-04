@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/640",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o nadzorze nad rynkiem finansowym",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/640/text.pdf",
  "body": [
   {
@@ -5984,8 +5984,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 21–64. (pominięte)"
+     "type": "art",
+     "num": "21–64",
+     "path": "art_21–64",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",
@@ -6250,14 +6253,16 @@
        "num": "2",
        "path": "art_76/ust_2",
        "text": "Pracownicy Urzędu Komisji Nadzoru Finansowego, o których mowa w art. 74 ust. 4, są obowiązani dostosować się do wymagań określonych w art. 15 do dnia 31 lipca 2008 r.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 77–80. (pominięte)"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "77–80",
+     "path": "art_77–80",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",

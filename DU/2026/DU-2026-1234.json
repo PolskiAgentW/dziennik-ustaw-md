@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1234",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 września 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Radzie Fiskalnej",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1234/text.pdf",
  "body": [
   {
@@ -441,7 +441,7 @@
       },
       {
        "type": "text",
-       "text": "1) ocenę, w jakim stopniu przepisy art. 112aa–112ac i art. 112d–112db realizują cele numerycznych reguł fiskalnych wynikające z art. 5 dyrektywy Rady 2011/85/UE z dnia 8 listopada 2011 r. w sprawie wymogów dla ram budżetowych państw członkowskich (Dz. Urz. UE L 306 z 23.11.2011, str. 41, z późn. zm. a) ), z odniesieniem do oceny Rady Fiskalnej, o której mowa w art. 4 ust. 1 pkt 4 ustawy o Radzie Fiskalnej;",
+       "text": "1) ocenę, w jakim stopniu przepisy art. 112aa–112ac i art. 112d–112db realizują cele numerycznych reguł fiskalnych wynikające z art. 5 dyrektywy Rady 2011/85/UE z dnia 8 listopada 2011 r. w sprawie wymogów dla ram budżetowych państw członkowskich (Dz. Urz. UE L 306 z 23.11.2011, str. 41, z późn. zm.[^a]), z odniesieniem do oceny Rady Fiskalnej, o której mowa w art. 4 ust. 1 pkt 4 ustawy o Radzie Fiskalnej;",
        "quoted": true
       },
       {
@@ -631,7 +631,7 @@
       },
       {
        "type": "text",
-       "text": "Art. 36. W ustawie z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm. b) ) wprowadza się następujące zmiany:",
+       "text": "Art. 36. W ustawie z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm.[^b]) wprowadza się następujące zmiany:",
        "quoted": true
       },
       {
@@ -756,7 +756,7 @@
       },
       {
        "type": "text",
-       "text": "Art. 39. W ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, z późn. zm. c) ) w art. 40 ust. 2 otrzymuje brzmienie:",
+       "text": "Art. 39. W ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, z późn. zm.[^c]) w art. 40 ust. 2 otrzymuje brzmienie:",
        "quoted": true
       },
       {
@@ -2117,14 +2117,17 @@
         {
          "type": "text",
          "text": "podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku."
-        },
-        {
-         "type": "text",
-         "text": "Art. 31–39. (pominięte)[^7]"
         }
        ]
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "31–39",
+     "path": "art_31–39",
+     "text": "(pominięte)[^7]",
+     "children": []
     },
     {
      "type": "art",
@@ -2444,15 +2447,7 @@
        "num": "2",
        "path": "art_55/pkt_2",
        "text": "art. 4–7, art. 13–21, art. 27–30, art. 35 pkt 5–9, pkt 12 lit. b i pkt 14 lit. b, art. 36 pkt 7 oraz art. 51, które wchodzą w życie z dniem 1 stycznia 2026 r.",
-       "children": [
-        {
-         "type": "lit",
-         "num": "a",
-         "path": "art_55/pkt_2/lit_a",
-         "text": "Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 2024/1265 z 30.04.2024. b) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 568 i 2157, z 2021 r. poz. 2445, z 2022 r. poz. 2666 oraz z 2023 r. poz. 1586 i 1723. c) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1248, 1585, 1871 i 1907.",
-         "children": []
-        }
-       ]
+       "children": []
       }
      ]
     }
@@ -2460,6 +2455,9 @@
   }
  ],
  "footnotes": {
+  "a": "Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 2024/1265 z 30.04.2024.",
+  "b": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 568 i 2157, z 2021 r. poz. 2445, z 2022 r. poz. 2666 oraz z 2023 r. poz. 1586 i 1723.",
+  "c": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1248, 1585, 1871 i 1907.",
   "1": "Niniejsza ustawa w zakresie swojej regulacji:\n\n1) wdraża dyrektywę Rady (UE) 2024/1265 z dnia 29 kwietnia 2024 r. zmieniającą dyrektywę 2011/85/UE w sprawie wymogów dla ram budżetowych państw członkowskich (Dz. Urz. UE L 2024/1265 z 30.04.2024);\n\n2) służy stosowaniu: a) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/1263 z dnia 29 kwietnia 2024 r. w sprawie skutecznej koordynacji polityk gospodarczych i w sprawie wielostronnego nadzoru budżetowego oraz uchylającego rozporządzenie Rady (WE) nr 1466/97 (Dz. Urz. UE L 2024/1263 z 30.04.2024), b) rozporządzenia Rady (WE) nr 1467/97 z dnia 7 lipca 1997 r. w sprawie przyspieszenia i wyjaśnienia procedury nadmiernego deficytu (Dz. Urz. WE L 209 z 02.08.1997, str. 6 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 10, t. 1, str. 89, Dz. Urz. UE L 174 z 07.07.2005, str. 5, Dz. Urz. UE L 306 z 23.11.2011, str. 33 oraz Dz. Urz. UE L 2024/1264 z 30.04.2024).",
   "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1844 i 1846 oraz z 2026 r. poz. 426, 635, 680 i 912.",
   "3": "Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 2024/1265 z 30.04.2024.",

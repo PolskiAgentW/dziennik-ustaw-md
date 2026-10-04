@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/21",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 grudnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/21/text.pdf",
  "body": [
   {
@@ -60,7 +60,7 @@
      "children": [
       {
        "type": "text",
-       "text": "„Art. 8. W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. a) ) w art. 833 w § 6 po wyrazach „ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku gazu (Dz. U. poz. 2687 oraz z 2023 r. poz. 295, 556 i 1234),” dodaje się wyrazy „bon energetyczny, o którym mowa w ustawie z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859),”.",
+       "text": "„Art. 8. W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.[^a]) w art. 833 w § 6 po wyrazach „ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku gazu (Dz. U. poz. 2687 oraz z 2023 r. poz. 295, 556 i 1234),” dodaje się wyrazy „bon energetyczny, o którym mowa w ustawie z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859),”.",
        "quoted": true
       },
       {
@@ -170,7 +170,7 @@
       },
       {
        "type": "text",
-       "text": "Art. 14. W ustawie z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2538, z późn. zm. b) ) w art. 16 w ust. 1 w pkt 2da po wyrazach „art. 25a ust. 3 pkt 2 lit. b” dodaje się wyrazy „lub art. 28b ust. 3 pkt 2”.",
+       "text": "Art. 14. W ustawie z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2538, z późn. zm.[^b]) w art. 16 w ust. 1 w pkt 2da po wyrazach „art. 25a ust. 3 pkt 2 lit. b” dodaje się wyrazy „lub art. 28b ust. 3 pkt 2”.",
        "quoted": true
       },
       {
@@ -190,7 +190,7 @@
       },
       {
        "type": "text",
-       "text": "Art. 17. W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm. c) ) w art. 65:",
+       "text": "Art. 17. W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.[^c]) w art. 65:",
        "quoted": true
       },
       {
@@ -1749,7 +1749,7 @@
          "children": [
           {
            "type": "text",
-           "text": "„b) przedsiębiorcę będącego mikroprzedsiębiorstwem, małym przedsiębiorstwem albo średnim przedsiębiorstwem w rozumieniu art. 2 załącznika nr 1 do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm. d) ), w zakresie, w jakim zużywa energię elektryczną na potrzeby podstawowej działalności,”,",
+           "text": "„b) przedsiębiorcę będącego mikroprzedsiębiorstwem, małym przedsiębiorstwem albo średnim przedsiębiorstwem w rozumieniu art. 2 załącznika nr 1 do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.[^d]), w zakresie, w jakim zużywa energię elektryczną na potrzeby podstawowej działalności,”,",
            "quoted": true
           }
          ]
@@ -4038,14 +4038,16 @@
        "num": "2",
        "path": "art_7/ust_2",
        "text": "Wojewodowie przedstawiają ministrowi właściwemu do spraw energii zbiorczą informację o liczbie toczących się postępowań w sprawie przyznania bonu energetycznego, w których w związku z wniesieniem odwołania nie zapadło prawomocne rozstrzygnięcie organu administracji publicznej lub sądu administracyjnego, którego skutkiem jest przyznanie bonu energetycznego, oraz o łącznej wysokości bonów energetycznych będącej przedmiotem tych postępowań, w terminie do dnia 30 czerwca każdego roku w okresie od 2025 r. do 2034 r.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 8–27. (pominięte)[^1]"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "8–27",
+     "path": "art_8–27",
+     "text": "(pominięte)[^1]",
+     "children": []
     },
     {
      "type": "art",
@@ -4845,15 +4847,7 @@
        "num": "2",
        "path": "art_43/pkt_2",
        "text": "art. 23 pkt 1 lit. a, w zakresie w jakim dotyczy wyłączenia odbiorców, którzy zawarli umowę z ceną dynamiczną energii elektrycznej, o której mowa w art. 3 pkt 6d ustawy zmienianej w art. 11, oraz art. 26 pkt 1, które wchodzą w życie z dniem 24 sierpnia 2024 r.",
-       "children": [
-        {
-         "type": "lit",
-         "num": "a",
-         "path": "art_43/pkt_2/lit_a",
-         "text": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760 oraz z 2024 r. poz. 858. b) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 412, 1210, 1495 i 1532, z 2021 r. poz. 1093, z 2022 r. poz. 202, 1477, 1692, 2243 i 2687 oraz z 2023 r. poz. 1785 i 2760. c) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687, z 2023 r. poz. 295, 556, 803, 1641, 1785 i 2760 oraz z 2024 r. poz. 834. d) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1.",
-         "children": []
-        }
-       ]
+       "children": []
       }
      ]
     }
@@ -4861,6 +4855,10 @@
   }
  ],
  "footnotes": {
+  "a": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760 oraz z 2024 r. poz. 858.",
+  "b": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 412, 1210, 1495 i 1532, z 2021 r. poz. 1093, z 2022 r. poz. 202, 1477, 1692, 2243 i 2687 oraz z 2023 r. poz. 1785 i 2760.",
+  "c": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687, z 2023 r. poz. 295, 556, 803, 1641, 1785 i 2760 oraz z 2024 r. poz. 834.",
+  "d": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1.",
   "1": "Zamieszczone w obwieszczeniu.",
   "2": "Artykuł 21 zawiera zmiany do ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw.",
   "3": "Artykuł 22 zawiera zmiany do ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej.",

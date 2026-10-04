@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1009",
  "title": "Rozporządzenie Ministra Edukacji z dnia 22 czerwca 2026 r. zmieniające rozporządzenie w sprawie podstaw programowych kształcenia w zawodach szkolnictwa branżowego oraz dodatkowych umiejętności zawodowych w zakresie wybranych zawodów szkolnictwa branżowego",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1009/text.pdf",
  "body": [
   {
@@ -6168,17 +6168,23 @@
          "type": "text",
          "text": "MEP.08.11. Organizacja pracy małych zespołów[^3]",
          "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "3) w załączniku nr 20 do rozporządzenia:",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "a) podstawa programowa kształcenia w zawodzie TECHNIK FARMACEUTYCZNY otrzymuje brzmienie:",
-         "quoted": true
-        },
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w załączniku nr 20 do rozporządzenia:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "podstawa programowa kształcenia w zawodzie TECHNIK FARMACEUTYCZNY otrzymuje brzmienie:",
+       "children": [
         {
          "type": "text",
          "text": "„TECHNIK FARMACEUTYCZNY 321301",

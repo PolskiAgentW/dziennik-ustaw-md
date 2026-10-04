@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/515",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podstawowej opiece zdrowotnej",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/515/text.pdf",
  "body": [
   {
@@ -1318,8 +1318,11 @@
      "text": "Przepisy zmieniające"
     },
     {
-     "type": "text",
-     "text": "Art. 25–32. (pominięte)"
+     "type": "art",
+     "num": "25–32",
+     "path": "art_25–32",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

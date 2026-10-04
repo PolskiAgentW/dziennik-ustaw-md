@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1431",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 września 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo lotnicze",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1431/text.pdf",
  "body": [
   {
@@ -252,7 +252,7 @@
       },
       {
        "type": "text",
-       "text": "3. Potwierdzenia odbioru i kompletności oświadczeń o wykonywaniu operacji zgodnie z krajowym scenariuszem standardowym , o którym mowa w art. 23 ust. 4 rozporządzenia wykonawczego Komisji (UE) 2019/947 z dnia 24 maja 2019 r. w sprawie przepisów i procedur dotyczących eksploatacji bezzałogowych statków powietrznych (Dz. Urz. UE L 152 z 11.06.2019, str. 45, z późn. zm. a) ), zwanego dalej „rozporządzeniem nr 2019/947/UE”, wydane przed dniem wejścia w życie niniejszej ustawy zachowują ważność przez okres, na jaki zostały wydane.",
+       "text": "3. Potwierdzenia odbioru i kompletności oświadczeń o wykonywaniu operacji zgodnie z krajowym scenariuszem standardowym , o którym mowa w art. 23 ust. 4 rozporządzenia wykonawczego Komisji (UE) 2019/947 z dnia 24 maja 2019 r. w sprawie przepisów i procedur dotyczących eksploatacji bezzałogowych statków powietrznych (Dz. Urz. UE L 152 z 11.06.2019, str. 45, z późn. zm.[^a]), zwanego dalej „rozporządzeniem nr 2019/947/UE”, wydane przed dniem wejścia w życie niniejszej ustawy zachowują ważność przez okres, na jaki zostały wydane.",
        "quoted": true
       },
       {
@@ -267,7 +267,7 @@
       },
       {
        "type": "text",
-       "text": "Art. 24. W terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy Prezes Urzędu Lotnictwa Cywilnego wykreśla z urzędu z rejestru cywilnych statków powietrznych, o którym mowa w art. 34 ustawy zmienianej w art. 1, bezzałogowe statki powietrzne wpisane do tego rejestru, których projektowanie, produkcja i konserwacja nie podlega certyfikacji, o której mowa w art. 40 rozporządzenia delegowanego Komisji (UE) 2019/945 z dnia 12 marca 2019 r. w sprawie systemów bezzałogowych statków powietrznych oraz operatorów systemów bezzałogowych statków powietrznych z państw trzecich (Dz. Urz. UE L 152 z 11.06.2019, str. 1, z późn. zm. b) ), oraz do których nie mają zastosowania przepisy działu III rozdziału 2 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.",
+       "text": "Art. 24. W terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy Prezes Urzędu Lotnictwa Cywilnego wykreśla z urzędu z rejestru cywilnych statków powietrznych, o którym mowa w art. 34 ustawy zmienianej w art. 1, bezzałogowe statki powietrzne wpisane do tego rejestru, których projektowanie, produkcja i konserwacja nie podlega certyfikacji, o której mowa w art. 40 rozporządzenia delegowanego Komisji (UE) 2019/945 z dnia 12 marca 2019 r. w sprawie systemów bezzałogowych statków powietrznych oraz operatorów systemów bezzałogowych statków powietrznych z państw trzecich (Dz. Urz. UE L 152 z 11.06.2019, str. 1, z późn. zm.[^b]), oraz do których nie mają zastosowania przepisy działu III rozdziału 2 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.",
        "quoted": true
       },
       {
@@ -32181,8 +32181,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 213–221. (pominięte)"
+     "type": "art",
+     "num": "213–221",
+     "path": "art_213–221",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",
@@ -39375,15 +39378,7 @@
        "num": "3",
        "path": "ust_4/pkt_3",
        "text": "w przypadku gdy wnioskodawca występuje jednocześ- 78 zł za każdą strefę geograficzną nie o ponowne wyznaczenie powyżej 49 stref geograficznych",
-       "children": [
-        {
-         "type": "lit",
-         "num": "a",
-         "path": "ust_4/pkt_3/lit_a",
-         "text": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 255 z 04.10.2019, str. 11, Dz. Urz. UE L 150 z 13.05.2020, str. 1, Dz. Urz. UE L 176 z 05.06.2020, str. 13, Dz. Urz. UE L 253 z 16.07.2021, str. 49, Dz. Urz. UE L 87 z 15.03.2022, str. 20, Dz. Urz. UE L 105 z 04.04.2022, str. 3 oraz Dz. Urz. UE L 2024/1110 z 23.05.2024. b) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 255 z 04.10.2019, str. 7, Dz. Urz. UE L 232 z 20.07.2020, str. 1 oraz Dz. Urz. UE L 2024/1108 z 23.05.2024.",
-         "children": []
-        }
-       ]
+       "children": []
       }
      ]
     }
@@ -39391,6 +39386,8 @@
   }
  ],
  "footnotes": {
+  "a": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 255 z 04.10.2019, str. 11, Dz. Urz. UE L 150 z 13.05.2020, str. 1, Dz. Urz. UE L 176 z 05.06.2020, str. 13, Dz. Urz. UE L 253 z 16.07.2021, str. 49, Dz. Urz. UE L 87 z 15.03.2022, str. 20, Dz. Urz. UE L 105 z 04.04.2022, str. 3 oraz Dz. Urz. UE L 2024/1110 z 23.05.2024.",
+  "b": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 255 z 04.10.2019, str. 7, Dz. Urz. UE L 232 z 20.07.2020, str. 1 oraz Dz. Urz. UE L 2024/1108 z 23.05.2024.",
   "1": "Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia:\n\n1) dyrektywy Rady 89/629/EWG z dnia 4 grudnia 1989 r. w sprawie ograniczenia emisji hałasu z cywilnych poddźwiękowych samolotów odrzutowych (Dz. Urz. WE L 363 z 13.12.1989, str. 27; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 1, str. 284);\n\n2) dyrektywy Rady 96/67/WE z dnia 15 października 1996 r. w sprawie dostępu do rynku usług obsługi naziemnej w portach lotniczych Wspólnoty (Dz. Urz. WE L 272 z 25.10.1996, str. 36, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 496, z późn. zm.);\n\n3) dyrektywy Rady 2000/79/WE z dnia 27 listopada 2000 r. dotyczącej Europejskiego porozumienia w sprawie organizacji czasu pracy personelu pokładowego w lotnictwie cywilnym, zawartego przez Stowarzyszenie Europejskich Linii Lotniczych (AEA), Europejską Federację Pracowników Transportu (ETF), Europejskie Stowarzyszenie Cockpit (ECA), Stowarzyszenie Linii Lotniczych Regionów Europy (ERA) i Międzynarodowe Stowarzyszenie Przewoźników Lotniczych (IACA) (Dz. Urz. WE L 302 z 01.12.2000, str. 57; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 4, str. 75);\n\n4) dyrektywy 2003/88/WE Parlamentu Europejskiego i Rady z dnia 4 listopada 2003 r. dotyczącej niektórych aspektów organizacji czasu pracy (Dz. Urz. UE L 299 z 18.11.2003, str. 9; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 4, str. 381);\n\n5) dyrektywy 2004/82/WE Rady z dnia 29 kwietnia 2004 r. w sprawie zobowiązania przewoźników do przekazywania danych pasażerów (Dz. Urz. UE L 261 z 06.08.2004, str. 24; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 7, str. 74);\n\n6) dyrektywy 2006/93/WE Parlamentu Europejskiego i Rady z dnia 12 grudnia 2006 r. w sprawie określenia zasad wykonywania operacji przez samoloty objęte częścią II rozdział 3 tom I załącznika 16 do Konwencji o międzynarodowym lotnictwie cywilnym, wydanie 2 (1988 r.) (Dz. Urz. UE L 374 z 27.12.2006, str. 1);\n\n7) dyrektywy Parlamentu Europejskiego i Rady 2009/12/WE z dnia 11 marca 2009 r. w sprawie opłat lotniskowych (Dz. Urz. UE L 70 z 14.03.2009, str. 11);\n\n8) dyrektywy Parlamentu Europejskiego i Rady 2013/11/UE z dnia 21 maja 2013 r. w sprawie alternatywnych metod rozstrzygania sporów konsumenckich oraz zmiany rozporządzenia (WE) nr 2006/2004 i dyrektywy 2009/22/WE (dyrektywy w sprawie ADR o sporach konsumenckich) (Dz. Urz. UE L 165 z 18.06.2013, str. 63).",
   "2": "W brzmieniu ustalonym przez art. 1 pkt 1 lit. a ustawy z dnia 24 stycznia 2025 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 179), która weszła w życie z dniem 27 lutego 2025 r.",
   "3": "W brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 7 marca 2025 r. o zmianie ustawy – Prawo lotnicze (Dz. U. poz. 374), która weszła w życie z dniem 9 kwietnia 2025 r.",

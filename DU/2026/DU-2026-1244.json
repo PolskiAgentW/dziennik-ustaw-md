@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1244",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 września 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o prawach konsumenta",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1244/text.pdf",
  "body": [
   {
@@ -3232,8 +3232,11 @@
      "text": "Przepisy zmieniające"
     },
     {
-     "type": "text",
-     "text": "Art. 44–50. (pominięte)"
+     "type": "art",
+     "num": "44–50",
+     "path": "art_44–50",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

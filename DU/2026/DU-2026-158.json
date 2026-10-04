@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/158",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kontroli w administracji rządowej",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/158/text.pdf",
  "body": [
   {
@@ -1858,8 +1858,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 58–76. (pominięte)"
+     "type": "art",
+     "num": "58–76",
+     "path": "art_58–76",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

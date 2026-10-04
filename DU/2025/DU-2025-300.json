@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/300",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o referendum ogólnokrajowym",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/300/text.pdf",
  "body": [
   {
@@ -3516,8 +3516,11 @@
      "text": "Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe"
     },
     {
-     "type": "text",
-     "text": "Art. 93–95. (pominięte)"
+     "type": "art",
+     "num": "93–95",
+     "path": "art_93–95",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",

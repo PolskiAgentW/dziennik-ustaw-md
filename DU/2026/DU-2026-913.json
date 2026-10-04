@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/913",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 czerwca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo upadłościowe",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/913/text.pdf",
  "body": [
   {
@@ -3530,8 +3530,13 @@
      "type": "art",
      "num": "90",
      "path": "art_90",
-     "text": "(uchylony) (oznaczenie i tytuł oddziału 3 – uchylone)",
-     "children": []
+     "text": "(uchylony)",
+     "children": [
+      {
+       "type": "text",
+       "text": "(oznaczenie i tytuł oddziału 3 – uchylone)"
+      }
+     ]
     },
     {
      "type": "art",
@@ -17661,8 +17666,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 524–535. (pominięte)"
+     "type": "art",
+     "num": "524–535",
+     "path": "art_524–535",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",
@@ -17799,39 +17807,6 @@
        "num": "2",
        "path": "art_546/pkt_2",
        "text": "przepisy art. 451, art. 454–470, art. 481 i art. 482 stosuje się z dniem przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej[^22].",
-       "children": [
-        {
-         "type": "text",
-         "text": "1)I) Niniejsza ustawa w zakresie swojej regulacji wdraża:"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "art_546/pkt_1",
-       "text": "dyrektywę 2001/17/WE Parlamentu Europejskiego i Rady z dnia 19 marca 2001 r. w sprawie reorganizacji i likwidacji zakładów ubezpieczeń (Dz. Urz. WE L 110 z 20.04.2001);",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "art_546/pkt_2",
-       "text": "dyrektywę 2001/24/WE Parlamentu Europejskiego i Rady z dnia 4 kwietnia 2001 r. w sprawie reorganizacji i likwidacji instytucji kredytowych (Dz. Urz. WE L 125 z 05.05.2001);",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "art_546/pkt_3",
-       "text": "dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1023 z dnia 20 czerwca 2019 r. w sprawie ram restrukturyzacji zapobiegawczej, umorzenia długów i zakazów prowadzenia działalności oraz w sprawie środków zwiększających skuteczność postępowań dotyczących restrukturyzacji, niewypłacalności i umorzenia długów, a także zmieniającą dyrektywę (UE) 2017/1132 (dyrektywa o restrukturyzacji i upadłości) (Dz. Urz. UE L 172 z 26.06.2019, str. 18 oraz Dz. Urz. UE L 43 z 24.02.2022, str. 93);",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "4",
-       "path": "art_546/pkt_4",
-       "text": "II) dyrektywę Parlamentu Europejskiego i Rady 2014/59/UE z dnia 15 maja 2014 r. ustanawiającą ramy na potrzeby prowadzenia działań naprawczych oraz restrukturyzacji i uporządkowanej likwidacji w odniesieniu do instytucji kredytowych i firm inwestycyjnych oraz zmieniającą dyrektywę Rady 82/891/EWG i dyrektywy Parlamentu Europejskiego i Rady 2001/24/WE, 2002/47/WE, 2004/25/WE, 2005/56/WE, 2007/36/WE, 2011/35/UE, 2012/30/UE i 2013/36/EU oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 i (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 349 z 05.12.2014, str. 68, Dz. Urz. UE L 345 z 27.12.2017, str. 96, Dz. Urz. UE L 150 z 07.06.2019, str. 296, Dz. Urz. UE L 203 z 01.08.2019, str. 10, Dz. Urz. UE L 314 z 05.12.2019, str. 64, Dz. Urz. UE L 328 z 18.12.2019, str. 29, Dz. Urz. UE L 283 z 31.08.2020, str. 2, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 275 z 25.10.2022, str. 1, Dz. Urz. UE L 333 z 27.12.2022, str. 153, Dz. Urz. UE L 2023/2864 z 20.12.2023 oraz Dz. Urz. UE L 2024/1174 z 22.04.2024). I) W brzmieniu ustalonym przez art. 2 pkt 1 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy – Prawo restrukturyzacyjne, ustawy – Prawo upadłościowe oraz ustawy o Krajowym Rejestrze Zadłużonych (Dz. U. poz. 1085), która weszła w życie z dniem 23 sierpnia 2025 r. II) Dodany przez art. 4 pkt 1 ustawy z dnia 23 stycznia 2026 r. o zmianie niektórych ustaw związanych z funkcjonowaniem rynku finansowego oraz ochroną uczestników tego rynku (Dz. U. poz. 340), która weszła w życie z dniem 31 marca 2026 r.",
        "children": []
       }
      ]
@@ -17840,6 +17815,7 @@
   }
  ],
  "footnotes": {
+  "1": "I) Niniejsza ustawa w zakresie swojej regulacji wdraża:\n\n1) dyrektywę 2001/17/WE Parlamentu Europejskiego i Rady z dnia 19 marca 2001 r. w sprawie reorganizacji i likwidacji zakładów ubezpieczeń (Dz. Urz. WE L 110 z 20.04.2001);\n\n2) dyrektywę 2001/24/WE Parlamentu Europejskiego i Rady z dnia 4 kwietnia 2001 r. w sprawie reorganizacji i likwidacji instytucji kredytowych (Dz. Urz. WE L 125 z 05.05.2001);\n\n3) dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1023 z dnia 20 czerwca 2019 r. w sprawie ram restrukturyzacji zapobiegawczej, umorzenia długów i zakazów prowadzenia działalności oraz w sprawie środków zwiększających skuteczność postępowań dotyczących restrukturyzacji, niewypłacalności i umorzenia długów, a także zmieniającą dyrektywę (UE) 2017/1132 (dyrektywa o restrukturyzacji i upadłości) (Dz. Urz. UE L 172 z 26.06.2019, str. 18 oraz Dz. Urz. UE L 43 z 24.02.2022, str. 93);\n\n4) II) dyrektywę Parlamentu Europejskiego i Rady 2014/59/UE z dnia 15 maja 2014 r. ustanawiającą ramy na potrzeby prowadzenia działań naprawczych oraz restrukturyzacji i uporządkowanej likwidacji w odniesieniu do instytucji kredytowych i firm inwestycyjnych oraz zmieniającą dyrektywę Rady 82/891/EWG i dyrektywy Parlamentu Europejskiego i Rady 2001/24/WE, 2002/47/WE, 2004/25/WE, 2005/56/WE, 2007/36/WE, 2011/35/UE, 2012/30/UE i 2013/36/EU oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 i (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 349 z 05.12.2014, str. 68, Dz. Urz. UE L 345 z 27.12.2017, str. 96, Dz. Urz. UE L 150 z 07.06.2019, str. 296, Dz. Urz. UE L 203 z 01.08.2019, str. 10, Dz. Urz. UE L 314 z 05.12.2019, str. 64, Dz. Urz. UE L 328 z 18.12.2019, str. 29, Dz. Urz. UE L 283 z 31.08.2020, str. 2, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 275 z 25.10.2022, str. 1, Dz. Urz. UE L 333 z 27.12.2022, str. 153, Dz. Urz. UE L 2023/2864 z 20.12.2023 oraz Dz. Urz. UE L 2024/1174 z 22.04.2024). I) W brzmieniu ustalonym przez art. 2 pkt 1 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy – Prawo restrukturyzacyjne, ustawy – Prawo upadłościowe oraz ustawy o Krajowym Rejestrze Zadłużonych (Dz. U. poz. 1085), która weszła w życie z dniem 23 sierpnia 2025 r. II) Dodany przez art. 4 pkt 1 ustawy z dnia 23 stycznia 2026 r. o zmianie niektórych ustaw związanych z funkcjonowaniem rynku finansowego oraz ochroną uczestników tego rynku (Dz. U. poz. 340), która weszła w życie z dniem 31 marca 2026 r.",
   "2": "W brzmieniu ustalonym przez art. 2 pkt 2 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy – Prawo restrukturyzacyjne, ustawy – Prawo upadłościowe oraz ustawy o Krajowym Rejestrze Zadłużonych (Dz. U. poz. 1085), która weszła w życie z dniem 23 sierpnia 2025 r.",
   "3": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 20 z 25.01.2017, str. 2, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 74 z 16.03.2018, str. 3, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 4, Dz. Urz. UE L 335 z 13.10.2020, str. 20, Dz. Urz. UE L 405 z 02.12.2020, str. 79, Dz. Urz. UE L 84 z 11.03.2021, str. 1, Dz. Urz. UE L 116 z 06.04.2021, str. 25 oraz Dz. Urz. UE L 275 z 25.10.2022, str. 1.",
   "4": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 85 z 01.04.2016, str. 6, Dz. Urz. UE L 346 z 20.12.2016, str. 111, Dz. Urz. UE L 236 z 14.09.2017, str. 14, Dz. Urz. UE L 227 z 10.09.2018, str. 1, Dz. Urz. UE L 161 z 18.06.2019, str. 1, Dz. Urz. UE L 289 z 08.11.2019, str. 3, Dz. Urz. UE L 92 z 26.03.2020, str. 1, Dz. Urz. UE L 277 z 02.08.2021, str. 14 oraz Dz. Urz. UE L 2 z 06.01.2022, str. 8.",

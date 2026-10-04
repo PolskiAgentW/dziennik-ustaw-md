@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/869",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Krajowym Rejestrze Sądowym",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/869/text.pdf",
  "body": [
   {
@@ -118,7 +118,7 @@
       },
       {
        "type": "text",
-       "text": "c) małych i niezłożonych instytucji określonych w art. 4 ust. 1 pkt 145 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. a) ), pod warunkiem że są:",
+       "text": "c) małych i niezłożonych instytucji określonych w art. 4 ust. 1 pkt 145 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm.[^a]), pod warunkiem że są:",
        "quoted": true
       },
       {
@@ -4711,8 +4711,11 @@
      "text": "Zmiany w przepisach obowiązujących i przepisy końcowe"
     },
     {
-     "type": "text",
-     "text": "Art. 61–85. (pominięte)"
+     "type": "art",
+     "num": "61–85",
+     "path": "art_61–85",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",
@@ -4746,15 +4749,7 @@
        "num": "2",
        "path": "art_88/pkt_2",
        "text": "przepisów art. 85, które wchodzą w życie z dniem 1 stycznia 1998 r.",
-       "children": [
-        {
-         "type": "lit",
-         "num": "a",
-         "path": "art_88/pkt_2/lit_a",
-         "text": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 20 z 25.01.2017, str. 4, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 183 z 09.07.2019, str. 14, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 4, Dz. Urz. UE L 84 z 11.03.2021, str. 1, Dz. Urz. UE L 116 z 06.04.2021, str. 25, Dz. Urz. UE L 275 z 25.10.2022, str. 1, Dz. Urz. UE L 92 z 30.03.2023, str. 29, Dz. Urz. UE L 2023/2869 z 20.12.2023 oraz Dz. Urz. UE L 2024/1623 z 19.06.2024.",
-         "children": []
-        }
-       ]
+       "children": []
       }
      ]
     }
@@ -4762,6 +4757,7 @@
   }
  ],
  "footnotes": {
+  "a": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 20 z 25.01.2017, str. 4, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 183 z 09.07.2019, str. 14, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 4, Dz. Urz. UE L 84 z 11.03.2021, str. 1, Dz. Urz. UE L 116 z 06.04.2021, str. 25, Dz. Urz. UE L 275 z 25.10.2022, str. 1, Dz. Urz. UE L 92 z 30.03.2023, str. 29, Dz. Urz. UE L 2023/2869 z 20.12.2023 oraz Dz. Urz. UE L 2024/1623 z 19.06.2024.",
   "1": "Ustawa utraciła moc z dniem 25 maja 2018 r. z wyjątkiem art. 1, art. 2, art. 3 ust. 1, art. 4–7, art. 14–22, art. 23–28, art. 31 oraz rozdziałów 4, 5 i 7, które zachowały moc w odniesieniu do przetwarzania danych osobowych w celu rozpoznawania, zapobiegania, wykrywania i zwalczania czynów zabronionych, prowadzenia postępowań w sprawach dotyczących tych czynów oraz wykonywania orzeczeń w nich wydanych, kar porządkowych i środków przymusu w zakresie określonym w przepisach stanowiących podstawę działania służb i organów uprawnionych do realizacji zadań w tym zakresie, w terminie do dnia wejścia w życie przepisów wdrażających dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/680 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych przez właściwe organy do celów zapobiegania przestępczości, prowadzenia postępowań przygotowawczych, wykrywania i ścigania czynów zabronionych i wykonywania kar, w sprawie swobodnego przepływu takich danych oraz uchylającą decyzję ramową Rady 2008/977/WSiSW (Dz. Urz. UE L 119 z 04.05.2016, str. 89), na podstawie art. 175 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. poz. 1000), która weszła w życie z dniem 25 maja 2018 r. Przepisy ustawy wymienione w zdaniu pierwszym utraciły moc z dniem 6 lutego 2019 r., na podstawie art. 107 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), która weszła w życie z dniem 6 lutego 2019 r.",
   "2": "Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 172 z 26.06.2019, str. 18, Dz. Urz. UE L 186 z 11.07.2019, str. 80, Dz. Urz. UE L 321 z 12.12.2019, str. 1, Dz. Urz. UE L 020 z 24.01.2020, str. 24, Dz. Urz. UE L 317 z 01.10.2020, str. 39, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 137 z 22.04.2021, str. 20 oraz Dz. Urz. UE L 043 z 24.02.2022, str. 93.",
   "3": "W brzmieniu ustalonym przez art. 2 pkt 1 ustawy z dnia 12 kwietnia 2024 r. o zmianie ustawy o rachunkowości oraz niektórych innych ustaw (Dz. U. poz. 619 i 1863); wszedł w życie z dniem 22 czerwca 2025 r.",

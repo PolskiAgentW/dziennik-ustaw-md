@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/9",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 grudnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie instytucji rozwoju",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/9/text.pdf",
  "body": [
   {
@@ -2831,8 +2831,11 @@
      "text": "Zmiany w przepisach"
     },
     {
-     "type": "text",
-     "text": "Art. 22–32. (pominięte)"
+     "type": "art",
+     "num": "22–32",
+     "path": "art_22–32",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

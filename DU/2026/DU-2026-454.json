@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/454",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podatku od wydobycia niektórych kopalin",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/454/text.pdf",
  "body": [
   {
@@ -1635,8 +1635,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 17–22. (pominięte)"
+     "type": "art",
+     "num": "17–22",
+     "path": "art_17–22",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

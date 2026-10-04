@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/43",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 grudnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo energetyczne",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/43/text.pdf",
  "body": [
   {
@@ -386,7 +386,7 @@
       },
       {
        "type": "text",
-       "text": "1) w art. 20a ust. 1 ustawy z dnia 20 maja 2021 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1093, z późn. zm. a) ) – od dnia wskazanego w oświadczeniu, o którym mowa w art. 20a ust. 1 tej ustawy;",
+       "text": "1) w art. 20a ust. 1 ustawy z dnia 20 maja 2021 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1093, z późn. zm.[^a]) – od dnia wskazanego w oświadczeniu, o którym mowa w art. 20a ust. 1 tej ustawy;",
        "quoted": true
       },
       {
@@ -33407,8 +33407,11 @@
      "text": "Zmiany w przepisach obowiązujących, przepisy epizodyczne, przejściowe i końcowe"
     },
     {
-     "type": "text",
-     "text": "Art. 58–62. (pominięte)"
+     "type": "art",
+     "num": "58–62",
+     "path": "art_58–62",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",
@@ -34676,12 +34679,14 @@
      "num": "62k",
      "path": "art_62k",
      "text": "Środki wypłacone z tytułu rekompensat, o których mowa w art. 62g oraz art. 62h, zalicza się do kategorii drugiej należności podlegających zaspokojeniu z funduszów masy upadłości, o której mowa w art. 342 ust. 1 pkt 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172).",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 63–67. (pominięte)"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "63–67",
+     "path": "art_63–67",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",
@@ -34804,77 +34809,14 @@
      "num": "72",
      "path": "art_72",
      "text": "Ustawa wchodzi w życie po upływie sześciu miesięcy od dnia ogłoszenia[^209], z wyjątkiem art. 21, który wchodzi w życie z dniem ogłoszenia ustawy oraz art. 18 ust. 3 i 4, który wchodzi w życie z dniem 1 stycznia 1999 r.",
-     "children": [
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "art_72/lit_a",
-       "text": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1505, 1642, 2269 i 2376, z 2022 r. poz. 1, 1967 i 2243, z 2023 r. poz. 1113, 1506, 1681 i 1762 oraz z 2025 r. poz. 759.",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "art_72/pkt_1",
-       "text": "rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005 (Dz. Urz. UE L 211 z 14.08.2009, str. 36, Dz. Urz. UE L 229 z 01.09.2009, str. 29, Dz. Urz. UE L 309 z 24.11.2009, str. 87, Dz. Urz. UE L 293 z 11.11.2010, str. 67, Dz. Urz. UE L 231 z 28.08.2012, str. 16, Dz. Urz. UE L 115 z 25.04.2013, str. 39, Dz. Urz. UE L 114 z 05.05.2015, str. 9, Dz. Urz. UE L 328 z 21.12.2018, str. 1, Dz. Urz. UE L 152 z 03.06.2022, str. 45 oraz Dz. Urz. UE L 173 z 30.06.2022, str. 17);",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "art_72/pkt_2",
-       "text": "rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1227/2011 z dnia 25 października 2011 r. w sprawie integralności i przejrzystości hurtowego rynku energii (Dz. Urz. UE L 326 z 08.12.2011, str. 1);",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "art_72/pkt_3",
-       "text": "rozporządzenia Komisji (UE) 2015/1222 z dnia 24 lipca 2015 r. ustanawiającego wytyczne dotyczące alokacji zdolności przesyłowych i zarządzania ograniczeniami przesyłowymi (Dz. Urz. UE L 197 z 25.07.2015, str. 24, Dz. Urz. UE L 151 z 08.06.2016, str. 21, Dz. Urz. UE L 2 z 05.01.2018, str. 15 oraz Dz. Urz. UE L 62 z 23.02.2021, str. 24);",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "4",
-       "path": "art_72/pkt_4",
-       "text": "rozporządzenia Komisji (UE) 2016/631 z dnia 14 kwietnia 2016 r. ustanawiającego kodeks sieci dotyczący wymogów w zakresie przyłączenia jednostek wytwórczych do sieci (Dz. Urz. UE L 112 z 27.04.2016, str. 1 oraz Dz. Urz. UE L 118 z 06.05.2019, str. 10);",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "5",
-       "path": "art_72/pkt_5",
-       "text": "rozporządzenia Komisji (UE) 2016/1388 z dnia 17 sierpnia 2016 r. ustanawiającego kodeks sieci dotyczący przyłączenia odbioru (Dz. Urz. UE L 223 z 18.08.2016, str. 10);",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "6",
-       "path": "art_72/pkt_6",
-       "text": "rozporządzenia Komisji (UE) 2016/1447 z dnia 26 sierpnia 2016 r. ustanawiającego kodeks sieci określający wymogi dotyczące przyłączenia do sieci systemów wysokiego napięcia prądu stałego oraz modułów parku energii z podłączeniem prądu stałego (Dz. Urz. UE L 241 z 08.09.2016, str. 1);",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "7",
-       "path": "art_72/pkt_7",
-       "text": "rozporządzenia Komisji (UE) 2017/2195 z dnia 23 listopada 2017 r. ustanawiającego wytyczne dotyczące bilansowania (Dz. Urz. UE L 312 z 28.11.2017, str. 6, Dz. Urz. UE L 62 z 23.02.2021, str. 24 oraz Dz. Urz. UE L 147 z 30.05.2022, str. 27);",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "8",
-       "path": "art_72/pkt_8",
-       "text": "rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/943 z dnia 5 czerwca 2019 r. w sprawie rynku wewnętrznego energii elektrycznej (Dz. Urz. UE L 158 z 14.06.2019, str. 54 oraz Dz. Urz. UE L 152 z 03.06.2022, str. 45).",
-       "children": []
-      }
-     ]
+     "children": []
     }
    ]
   }
  ],
  "footnotes": {
-  "1": "Niniejsza ustawa w zakresie swojej regulacji wdraża:\n\n1) dyrektywę Parlamentu Europejskiego i Rady 2009/31/WE z dnia 23 kwietnia 2009 r. w sprawie geologicznego składowania dwutlenku węgla oraz zmieniającą dyrektywę Rady 85/337/EWG, dyrektywy Parlamentu Europejskiego i Rady 2000/60/WE, 2001/80/WE, 2004/35/WE, 2006/12/WE, 2008/1/WE i rozporządzenie (WE) nr 1013/2006 (Dz. Urz. UE L 140 z 05.06.2009, str. 114, Dz. Urz. UE L 26 z 28.01.2012, str. 1, Dz. Urz. UE L 150 z 14.06.2018, str. 155 oraz Dz. Urz. UE L 328 z 21.12.2018, str. 1);\n\n2) dyrektywę Parlamentu Europejskiego i Rady 2009/73/WE z dnia 13 lipca 2009 r. dotyczącą wspólnych zasad rynku wewnętrznego gazu ziemnego i uchylającą dyrektywę 2003/55/WE (Dz. Urz. UE L 211 z 14.08.2009, str. 94, Dz. Urz. UE L 328 z 21.12.2018, str. 1, Dz. Urz. UE L 117 z 03.05.2019, str. 1 oraz Dz. Urz. UE L 152 z 03.06.2022, str. 45);\n\n3) dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/2001 z dnia 11 grudnia 2018 r. w sprawie promowania stosowania energii ze źródeł odnawialnych (Dz. Urz. UE L 328 z 21.12.2018, str. 82, Dz. Urz. UE L 311 z 25.09.2020, str. 11, Dz. Urz. UE L 41 z 22.02.2022, str. 37 oraz Dz. Urz. UE L 139 z 18.05.2022, str. 1);\n\n4) dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/944 z dnia 5 czerwca 2019 r. w sprawie wspólnych zasad rynku wewnętrznego energii elektrycznej oraz zmieniającą dyrektywę 2012/27/UE (Dz. Urz. UE L 158 z 14.06.2019, str. 125 oraz Dz. Urz. UE L 152 z 03.06.2022, str. 45). Niniejsza ustawa służy stosowaniu:",
+  "a": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1505, 1642, 2269 i 2376, z 2022 r. poz. 1, 1967 i 2243, z 2023 r. poz. 1113, 1506, 1681 i 1762 oraz z 2025 r. poz. 759.",
+  "1": "Niniejsza ustawa w zakresie swojej regulacji wdraża:\n\n1) dyrektywę Parlamentu Europejskiego i Rady 2009/31/WE z dnia 23 kwietnia 2009 r. w sprawie geologicznego składowania dwutlenku węgla oraz zmieniającą dyrektywę Rady 85/337/EWG, dyrektywy Parlamentu Europejskiego i Rady 2000/60/WE, 2001/80/WE, 2004/35/WE, 2006/12/WE, 2008/1/WE i rozporządzenie (WE) nr 1013/2006 (Dz. Urz. UE L 140 z 05.06.2009, str. 114, Dz. Urz. UE L 26 z 28.01.2012, str. 1, Dz. Urz. UE L 150 z 14.06.2018, str. 155 oraz Dz. Urz. UE L 328 z 21.12.2018, str. 1);\n\n2) dyrektywę Parlamentu Europejskiego i Rady 2009/73/WE z dnia 13 lipca 2009 r. dotyczącą wspólnych zasad rynku wewnętrznego gazu ziemnego i uchylającą dyrektywę 2003/55/WE (Dz. Urz. UE L 211 z 14.08.2009, str. 94, Dz. Urz. UE L 328 z 21.12.2018, str. 1, Dz. Urz. UE L 117 z 03.05.2019, str. 1 oraz Dz. Urz. UE L 152 z 03.06.2022, str. 45);\n\n3) dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/2001 z dnia 11 grudnia 2018 r. w sprawie promowania stosowania energii ze źródeł odnawialnych (Dz. Urz. UE L 328 z 21.12.2018, str. 82, Dz. Urz. UE L 311 z 25.09.2020, str. 11, Dz. Urz. UE L 41 z 22.02.2022, str. 37 oraz Dz. Urz. UE L 139 z 18.05.2022, str. 1);\n\n4) dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/944 z dnia 5 czerwca 2019 r. w sprawie wspólnych zasad rynku wewnętrznego energii elektrycznej oraz zmieniającą dyrektywę 2012/27/UE (Dz. Urz. UE L 158 z 14.06.2019, str. 125 oraz Dz. Urz. UE L 152 z 03.06.2022, str. 45). Niniejsza ustawa służy stosowaniu:\n\n1) rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005 (Dz. Urz. UE L 211 z 14.08.2009, str. 36, Dz. Urz. UE L 229 z 01.09.2009, str. 29, Dz. Urz. UE L 309 z 24.11.2009, str. 87, Dz. Urz. UE L 293 z 11.11.2010, str. 67, Dz. Urz. UE L 231 z 28.08.2012, str. 16, Dz. Urz. UE L 115 z 25.04.2013, str. 39, Dz. Urz. UE L 114 z 05.05.2015, str. 9, Dz. Urz. UE L 328 z 21.12.2018, str. 1, Dz. Urz. UE L 152 z 03.06.2022, str. 45 oraz Dz. Urz. UE L 173 z 30.06.2022, str. 17);\n\n2) rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1227/2011 z dnia 25 października 2011 r. w sprawie integralności i przejrzystości hurtowego rynku energii (Dz. Urz. UE L 326 z 08.12.2011, str. 1);\n\n3) rozporządzenia Komisji (UE) 2015/1222 z dnia 24 lipca 2015 r. ustanawiającego wytyczne dotyczące alokacji zdolności przesyłowych i zarządzania ograniczeniami przesyłowymi (Dz. Urz. UE L 197 z 25.07.2015, str. 24, Dz. Urz. UE L 151 z 08.06.2016, str. 21, Dz. Urz. UE L 2 z 05.01.2018, str. 15 oraz Dz. Urz. UE L 62 z 23.02.2021, str. 24);\n\n4) rozporządzenia Komisji (UE) 2016/631 z dnia 14 kwietnia 2016 r. ustanawiającego kodeks sieci dotyczący wymogów w zakresie przyłączenia jednostek wytwórczych do sieci (Dz. Urz. UE L 112 z 27.04.2016, str. 1 oraz Dz. Urz. UE L 118 z 06.05.2019, str. 10);\n\n5) rozporządzenia Komisji (UE) 2016/1388 z dnia 17 sierpnia 2016 r. ustanawiającego kodeks sieci dotyczący przyłączenia odbioru (Dz. Urz. UE L 223 z 18.08.2016, str. 10);\n\n6) rozporządzenia Komisji (UE) 2016/1447 z dnia 26 sierpnia 2016 r. ustanawiającego kodeks sieci określający wymogi dotyczące przyłączenia do sieci systemów wysokiego napięcia prądu stałego oraz modułów parku energii z podłączeniem prądu stałego (Dz. Urz. UE L 241 z 08.09.2016, str. 1);\n\n7) rozporządzenia Komisji (UE) 2017/2195 z dnia 23 listopada 2017 r. ustanawiającego wytyczne dotyczące bilansowania (Dz. Urz. UE L 312 z 28.11.2017, str. 6, Dz. Urz. UE L 62 z 23.02.2021, str. 24 oraz Dz. Urz. UE L 147 z 30.05.2022, str. 27);\n\n8) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/943 z dnia 5 czerwca 2019 r. w sprawie rynku wewnętrznego energii elektrycznej (Dz. Urz. UE L 158 z 14.06.2019, str. 54 oraz Dz. Urz. UE L 152 z 03.06.2022, str. 45).",
   "2": "Ze zmianą wprowadzoną przez art. 1 pkt 1 lit. a ustawy z dnia 21 listopada 2024 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1881), która weszła w życie z dniem 20 stycznia 2025 r.",
   "3": "W brzmieniu ustalonym przez art. 1 pkt 1 lit. b ustawy, o której mowa w odnośniku 2.",
   "4": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 258 z 30.09.2010, str. 1, Dz. Urz. UE L 50 z 22.02.2013, str. 1, Dz. Urz. UE L 131 z 01.05.2014, str. 1 oraz Dz. Urz. UE L 292 z 10.11.2017, str. 3.",

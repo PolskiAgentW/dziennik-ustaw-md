@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/981",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 lipca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o produktach pochodzenia zwierzęcego",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/981/text.pdf",
  "body": [
   {
@@ -3282,12 +3282,14 @@
      "num": "30",
      "path": "art_30",
      "text": "Kary pieniężne stanowią dochód budżetu państwa i są wpłacane na rachunek bankowy powiatowego inspektoratu weterynarii.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 31–35. (pominięte)"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "31–35",
+     "path": "art_31–35",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",

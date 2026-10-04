@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/925",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 3 lipca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o imprezach turystycznych i powiązanych usługach turystycznych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/925/text.pdf",
  "body": [
   {
@@ -4086,8 +4086,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 61–71. (pominięte)"
+     "type": "art",
+     "num": "61–71",
+     "path": "art_61–71",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

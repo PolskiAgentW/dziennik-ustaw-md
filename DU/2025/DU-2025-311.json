@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/311",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu rozwoju usług i sieci telekomunikacyjnych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/311/text.pdf",
  "body": [
   {
@@ -6053,8 +6053,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 62–74. (pominięte)"
+     "type": "art",
+     "num": "62–74",
+     "path": "art_62–74",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",
@@ -6324,14 +6327,16 @@
        "num": "3",
        "path": "art_83/ust_3",
        "text": "Raport, o którym mowa w ust. 1, zawiera wnioski oraz propozycje działań wspierających rozwój sieci szerokopasmowych, w szczególności na obszarach wiejskich, z uwzględnieniem wspierania równoprawnej i skutecznej konkurencji w zakresie świadczenia usług telekomunikacyjnych oraz zapewnienia użytkownikom maksymalnych korzyści w zakresie różnorodności usług telekomunikacyjnych, ich ceny i jakości.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 84–86. (pominięte)"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "84–86",
+     "path": "art_84–86",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",

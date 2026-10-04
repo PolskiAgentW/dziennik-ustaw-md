@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/204",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku gazu",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/204/text.pdf",
  "body": [
   {
@@ -3286,8 +3286,11 @@
      "text": "Zmiany w przepisach"
     },
     {
-     "type": "text",
-     "text": "Art. 32–63. (pominięte)"
+     "type": "art",
+     "num": "32–63",
+     "path": "art_32–63",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

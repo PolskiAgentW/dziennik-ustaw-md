@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/499",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/499/text.pdf",
  "body": [
   {
@@ -906,12 +906,15 @@
       {
        "type": "text",
        "text": "podlega karze aresztu albo karze grzywny."
-      },
-      {
-       "type": "text",
-       "text": "Art. 16–25. (pominięte)"
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "16–25",
+     "path": "art_16–25",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",

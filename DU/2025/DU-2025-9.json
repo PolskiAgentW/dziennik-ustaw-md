@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/9",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 grudnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kooperatywach mieszkaniowych oraz zasadach zbywania nieruchomości należących do gminnego zasobu nieruchomości w celu wsparcia realizacji inwestycji mieszkaniowych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/9/text.pdf",
  "body": [
   {
@@ -2230,8 +2230,11 @@
      "text": "Przepisy zmieniające i przepis końcowy"
     },
     {
-     "type": "text",
-     "text": "Art. 31–35. (pominięte)[^5]"
+     "type": "art",
+     "num": "31–35",
+     "path": "art_31–35",
+     "text": "(pominięte)[^5]",
+     "children": []
     },
     {
      "type": "art",

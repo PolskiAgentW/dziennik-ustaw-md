@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/264",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/264/text.pdf",
  "body": [
   {
@@ -181,7 +181,7 @@
       },
       {
        "type": "text",
-       "text": "Art. 40. W ustawie z dnia 20 maja 2021 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1093, z późn. zm. a) ) wprowadza się następujące zmiany:",
+       "text": "Art. 40. W ustawie z dnia 20 maja 2021 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1093, z późn. zm.[^a]) wprowadza się następujące zmiany:",
        "quoted": true
       },
       {
@@ -2669,8 +2669,11 @@
      "text": "Przepisy zmieniające, przepis epizodyczny, przepisy przejściowe i przepis końcowy"
     },
     {
-     "type": "text",
-     "text": "Art. 37–41. (pominięte)[^2]"
+     "type": "art",
+     "num": "37–41",
+     "path": "art_37–41",
+     "text": "(pominięte)[^2]",
+     "children": []
     },
     {
      "type": "art",
@@ -2745,15 +2748,7 @@
        "num": "2",
        "path": "art_45/pkt_2",
        "text": "art. 41 i art. 44, które wchodzą w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.",
-       "children": [
-        {
-         "type": "lit",
-         "num": "a",
-         "path": "art_45/pkt_2/lit_a",
-         "text": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1505, 1642, 2269 i 2376 oraz z 2022 r. poz. 1, 1967 i 2243.",
-         "children": []
-        }
-       ]
+       "children": []
       }
      ]
     }
@@ -2761,6 +2756,7 @@
   }
  ],
  "footnotes": {
+  "a": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1505, 1642, 2269 i 2376 oraz z 2022 r. poz. 1, 1967 i 2243.",
   "1": "Ze zmianą wprowadzoną przez art. 7 ustawy z dnia 27 listopada 2024 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (Dz. U. poz. 1847), która weszła w życie z dniem 28 grudnia 2024 r.",
   "2": "Zamieszczone w obwieszczeniu.",
   "3": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 412, 1210, 1495 i 1532, z 2021 r. poz. 1093 oraz z 2022 r. poz. 202, 1477, 1692, 2243 i 2687.",

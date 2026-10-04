@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/218",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/218/text.pdf",
  "body": [
   {
@@ -3884,8 +3884,11 @@
      "text": "Zmiany w przepisach obowiązujących, przepisy epizodyczne, przejściowe i końcowe"
     },
     {
-     "type": "text",
-     "text": "Art. 64–70. (pominięte)"
+     "type": "art",
+     "num": "64–70",
+     "path": "art_64–70",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",

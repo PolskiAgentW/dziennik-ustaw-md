@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/199",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie ubezpieczeń społecznych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/199/text.pdf",
  "body": [
   {
@@ -378,7 +378,7 @@
       },
       {
        "type": "text",
-       "text": "Art. 35. W okresie od dnia wejścia w życie niniejszej ustawy do dnia poprzedzającego dzień wejścia w życie art. 1 pkt 2 lit. b niniejszej ustawy Zakład Ubezpieczeń Społecznych zawiera umowy, o których mowa w art. 85b ust. 1 ustawy zmienianej w art. 1, z wyłączeniem przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. a) ).",
+       "text": "Art. 35. W okresie od dnia wejścia w życie niniejszej ustawy do dnia poprzedzającego dzień wejścia w życie art. 1 pkt 2 lit. b niniejszej ustawy Zakład Ubezpieczeń Społecznych zawiera umowy, o których mowa w art. 85b ust. 1 ustawy zmienianej w art. 1, z wyłączeniem przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm.[^a]).",
        "quoted": true
       },
       {
@@ -818,8 +818,12 @@
          "type": "lit",
          "num": "l",
          "path": "art_4/pkt_2/lit_l",
-         "text": "(uchylona) ł) powiatowy urząd pracy – w stosunku do osób pobierających zasiłek dla bezrobotnych lub stypendium,",
+         "text": "(uchylona)",
          "children": []
+        },
+        {
+         "type": "text",
+         "text": "ł) powiatowy urząd pracy – w stosunku do osób pobierających zasiłek dla bezrobotnych lub stypendium,"
         },
         {
          "type": "text",
@@ -16823,8 +16827,11 @@
      "text": "Zmiany w obowiązujących przepisach"
     },
     {
-     "type": "text",
-     "text": "Art. 99–106. (pominięte)"
+     "type": "art",
+     "num": "99–106",
+     "path": "art_99–106",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",
@@ -17393,12 +17400,14 @@
      "num": "118",
      "path": "art_118",
      "text": "(uchylony)",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 118a–121. (pominięte)"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "118a–121",
+     "path": "art_118a–121",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",
@@ -17554,15 +17563,7 @@
        "num": "5",
        "path": "art_127/pkt_5",
        "text": "art. 22 ust. 4, który wchodzi w życie z dniem 1 stycznia 2002 r.",
-       "children": [
-        {
-         "type": "lit",
-         "num": "a",
-         "path": "art_127/pkt_5/lit_a",
-         "text": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 620, 769, 794, 1165, 1173 i 1235.",
-         "children": []
-        }
-       ]
+       "children": []
       }
      ]
     }
@@ -17570,6 +17571,7 @@
   }
  ],
  "footnotes": {
+  "a": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 620, 769, 794, 1165, 1173 i 1235.",
   "1": "Przez art. 380 pkt 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), która weszła w życie z dniem 1 czerwca 2025 r.",
   "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 620, 621, 622, 1162, 1794, 1837 i 1864.",
   "3": "Dodana przez art. 1 pkt 1 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. poz. 1083), która weszła w życie z dniem 1 stycznia 2026 r.",

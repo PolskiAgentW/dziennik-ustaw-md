@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/711",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 maja 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo konsularne",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/711/text.pdf",
  "body": [
   {
@@ -89,7 +89,7 @@
       },
       {
        "type": "text",
-       "text": "2. Formularze tymczasowych dokumentów podróży wyprodukowane zgodnie z decyzją 96/409/WPZiB przedstawicieli rządów państw członkowskich zebranych w ramach Rady z dnia 25 czerwca 1996 r. w sprawie ustanowienia tymczasowego dokumentu podróży (Dz. Urz. WE L 168 z 06.07.1996, str. 4, z późn. zm. a) – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 18, t. 1, str. 26, z późn. zm.) stają się nieważne i podlegają zniszczeniu przez konsula z dniem wejścia w życie niniejszej ustawy.",
+       "text": "2. Formularze tymczasowych dokumentów podróży wyprodukowane zgodnie z decyzją 96/409/WPZiB przedstawicieli rządów państw członkowskich zebranych w ramach Rady z dnia 25 czerwca 1996 r. w sprawie ustanowienia tymczasowego dokumentu podróży (Dz. Urz. WE L 168 z 06.07.1996, str. 4, z późn. zm.[^a] – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 18, t. 1, str. 26, z późn. zm.) stają się nieważne i podlegają zniszczeniu przez konsula z dniem wejścia w życie niniejszej ustawy.",
        "quoted": true
       },
       {
@@ -4785,8 +4785,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 138–149. (pominięte)"
+     "type": "art",
+     "num": "138–149",
+     "path": "art_138–149",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",
@@ -4819,41 +4822,14 @@
      "num": "153",
      "path": "art_153",
      "text": "Ustawa wchodzi w życie z dniem 1 listopada 2015 r., z wyjątkiem art. 21 ust. 2 i 3, art. 41, art. 42 i art. 45 ust. 3, które wchodzą w życie z dniem 1 maja 2018 r.",
-     "children": [
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "art_153/lit_a",
-       "text": "Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 236 z 23.09.2003, str. 789, Dz. Urz. UE L 363 z 20.12.2006, str. 422 oraz Dz. Urz. UE L 158 z 10.06.2013, str. 1. 1)I) Niniejsza ustawa:",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "art_153/pkt_1",
-       "text": "w zakresie swojej regulacji wdraża: a) dyrektywę 2004/38/WE z dnia 29 kwietnia 2004 r. w sprawie prawa obywateli Unii i członków ich rodzin do swobodnego przemieszczania się i pobytu na terytorium Państw Członkowskich, zmieniającą rozporządzenie (EWG) nr 1612/68 i uchylającą dyrektywy 64/221/EWG, 68/360/EWG, 72/194/EWG, 73/148/EWG, 75/34/EWG, 75/35/EWG, 90/364/EWG, 90/365/EWG i 93/96/EWG (Dz. Urz. UE L 158 z 30.04.2004, str. 77), b) dyrektywę Rady (UE) 2015/637 z dnia 20 kwietnia 2015 r. w sprawie środków koordynacji i współpracy mających ułatwić ochronę konsularną niereprezentowanych obywateli Unii w państwach trzecich oraz uchylającą decyzję 95/553/WE (Dz. Urz. UE L 106 z 24.04.2015, str. 1);",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "art_153/pkt_2",
-       "text": "wdraża: a) dyrektywę Rady (UE) 2019/997 z dnia 18 czerwca 2019 r. ustanawiającą unijny tymczasowy dokument podróży oraz uchylającą decyzję 96/409/WPZiB (Dz. Urz. UE L 163 z 20.06.2019, str. 1 oraz Dz. Urz. UE L 2024/1986 z 16.07.2024), b) dyrektywę delegowaną Komisji (UE) 2024/1986 z dnia 6 maja 2024 r. zmieniającą dyrektywę Rady (UE) 2019/997 w odniesieniu do pola przeznaczonego do odczytu maszynowego w unijnym tymczasowym dokumencie podróży (Dz. Urz. UE L 2024/1986 z 16.07.2024);",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "art_153/pkt_3",
-       "text": "służy stosowaniu: a) decyzji wykonawczej Komisji (UE) 2022/2452 z dnia 8 grudnia 2022 r. określającej dodatkowe specyfikacje techniczne dotyczące unijnego tymczasowego dokumentu podróży ustanowionego dyrektywą Rady (UE) 2019/997 (Dz. Urz. UE L 320 z 14.12.2022, str. 47 oraz Dz. Urz. UE L 2024/2662 z 15.10.2024), b) decyzji wykonawczej Komisji (UE) 2024/2662 z dnia 14 października 2024 r. ustanawiającej standardowy formularz wniosku o wydanie unijnego tymczasowego dokumentu podróży i zmieniającej decyzję wykonawczą (UE) 2022/2452 (Dz. Urz. UE L 2024/2662 z 15.10.2024). I) Odnośnik w brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 9 lipca 2025 r. o zmianie ustawy – Prawo konsularne (Dz. U. poz. 1171), która weszła w życie z dniem 9 grudnia 2025 r.",
-       "children": []
-      }
-     ]
+     "children": []
     }
    ]
   }
  ],
  "footnotes": {
+  "a": "Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 236 z 23.09.2003, str. 789, Dz. Urz. UE L 363 z 20.12.2006, str. 422 oraz Dz. Urz. UE L 158 z 10.06.2013, str. 1.",
+  "1": "I) Niniejsza ustawa:\n\n1) w zakresie swojej regulacji wdraża: a) dyrektywę 2004/38/WE z dnia 29 kwietnia 2004 r. w sprawie prawa obywateli Unii i członków ich rodzin do swobodnego przemieszczania się i pobytu na terytorium Państw Członkowskich, zmieniającą rozporządzenie (EWG) nr 1612/68 i uchylającą dyrektywy 64/221/EWG, 68/360/EWG, 72/194/EWG, 73/148/EWG, 75/34/EWG, 75/35/EWG, 90/364/EWG, 90/365/EWG i 93/96/EWG (Dz. Urz. UE L 158 z 30.04.2004, str. 77), b) dyrektywę Rady (UE) 2015/637 z dnia 20 kwietnia 2015 r. w sprawie środków koordynacji i współpracy mających ułatwić ochronę konsularną niereprezentowanych obywateli Unii w państwach trzecich oraz uchylającą decyzję 95/553/WE (Dz. Urz. UE L 106 z 24.04.2015, str. 1);\n\n2) wdraża: a) dyrektywę Rady (UE) 2019/997 z dnia 18 czerwca 2019 r. ustanawiającą unijny tymczasowy dokument podróży oraz uchylającą decyzję 96/409/WPZiB (Dz. Urz. UE L 163 z 20.06.2019, str. 1 oraz Dz. Urz. UE L 2024/1986 z 16.07.2024), b) dyrektywę delegowaną Komisji (UE) 2024/1986 z dnia 6 maja 2024 r. zmieniającą dyrektywę Rady (UE) 2019/997 w odniesieniu do pola przeznaczonego do odczytu maszynowego w unijnym tymczasowym dokumencie podróży (Dz. Urz. UE L 2024/1986 z 16.07.2024);\n\n3) służy stosowaniu: a) decyzji wykonawczej Komisji (UE) 2022/2452 z dnia 8 grudnia 2022 r. określającej dodatkowe specyfikacje techniczne dotyczące unijnego tymczasowego dokumentu podróży ustanowionego dyrektywą Rady (UE) 2019/997 (Dz. Urz. UE L 320 z 14.12.2022, str. 47 oraz Dz. Urz. UE L 2024/2662 z 15.10.2024), b) decyzji wykonawczej Komisji (UE) 2024/2662 z dnia 14 października 2024 r. ustanawiającej standardowy formularz wniosku o wydanie unijnego tymczasowego dokumentu podróży i zmieniającej decyzję wykonawczą (UE) 2022/2452 (Dz. Urz. UE L 2024/2662 z 15.10.2024). I) Odnośnik w brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 9 lipca 2025 r. o zmianie ustawy – Prawo konsularne (Dz. U. poz. 1171), która weszła w życie z dniem 9 grudnia 2025 r.",
   "2": "Przez art. 1 pkt 2 ustawy z dnia 9 lipca 2025 r. o zmianie ustawy – Prawo konsularne (Dz. U. poz. 1171), która weszła w życie z dniem 9 grudnia 2025 r.",
   "3": "Przez art. 6 pkt 1 ustawy z dnia 25 czerwca 2025 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 1006), która weszła w życie z dniem 9 sierpnia 2025 r.; wszedł w życie z dniem 17 kwietnia 2026 r.",
   "4": "Dodany przez art. 6 pkt 2 ustawy, o której mowa w odnośniku 3; wszedł w życie z dniem 17 kwietnia 2026 r.",

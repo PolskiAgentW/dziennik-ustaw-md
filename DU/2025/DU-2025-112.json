@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/112",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 stycznia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o stanie klęski żywiołowej",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/112/text.pdf",
  "body": [
   {
@@ -1380,8 +1380,11 @@
      "text": "Zmiany w przepisach obowiązujących i przepis końcowy"
     },
     {
-     "type": "text",
-     "text": "Art. 29–33. (pominięte)"
+     "type": "art",
+     "num": "29–33",
+     "path": "art_29–33",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",

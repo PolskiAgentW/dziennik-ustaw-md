@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/538",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o planowaniu i zagospodarowaniu przestrzennym",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/538/text.pdf",
  "body": [
   {
@@ -2030,8 +2030,11 @@
      "text": "Planowanie przestrzenne w gminie"
     },
     {
-     "type": "text",
-     "text": "Art. 9–13. (uchylone)"
+     "type": "art",
+     "num": "9–13",
+     "path": "art_9–13",
+     "text": "(uchylone)",
+     "children": []
     },
     {
      "type": "art",
@@ -10599,8 +10602,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 68–82. (pominięte)"
+     "type": "art",
+     "num": "68–82",
+     "path": "art_68–82",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

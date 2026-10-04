@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1252",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 września 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dochodach jednostek samorządu terytorialnego",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1252/text.pdf",
  "body": [
   {
@@ -223,7 +223,7 @@
       },
       {
        "type": "text",
-       "text": "Art. 60. W ustawie z dnia 13 października 1998 r. – Przepisy wprowadzające ustawy reformujące administrację publiczną (Dz. U. poz. 872, z późn. zm. a) ) w art. 85 dodaje się ust. 3 w brzmieniu:",
+       "text": "Art. 60. W ustawie z dnia 13 października 1998 r. – Przepisy wprowadzające ustawy reformujące administrację publiczną (Dz. U. poz. 872, z późn. zm.[^a]) w art. 85 dodaje się ust. 3 w brzmieniu:",
        "quoted": true
       },
       {
@@ -788,7 +788,7 @@
       },
       {
        "type": "text",
-       "text": "Art. 76. W ustawie z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2024 r. poz. 167, z późn. zm. b) ) wprowadza się następujące zmiany:",
+       "text": "Art. 76. W ustawie z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2024 r. poz. 167, z późn. zm.[^b]) wprowadza się następujące zmiany:",
        "quoted": true
       },
       {
@@ -5105,16 +5105,20 @@
      "text": "Zmiany w przepisach"
     },
     {
-     "type": "text",
-     "text": "Art. 54–78. (pominięte)[^4]"
-    },
-    {
-     "type": "text",
-     "text": "Rozdział 9a[^5]"
-    },
-    {
-     "type": "text",
-     "text": "Przepisy epizodyczne"
+     "type": "art",
+     "num": "54–78",
+     "path": "art_54–78",
+     "text": "(pominięte)[^4]",
+     "children": [
+      {
+       "type": "text",
+       "text": "Rozdział 9a[^5]"
+      },
+      {
+       "type": "text",
+       "text": "Przepisy epizodyczne"
+      }
+     ]
     },
     {
      "type": "art",
@@ -6855,15 +6859,7 @@
        "num": "2",
        "path": "art_121/pkt_2",
        "text": "art. 73 pkt 8, który wchodzi w życie z dniem 1 stycznia 2026 r.",
-       "children": [
-        {
-         "type": "lit",
-         "num": "a",
-         "path": "art_121/pkt_2/lit_a",
-         "text": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. poz. 1126, z 2000 r. poz. 70, 136, 228, 239, 632, 1041 i 1312, z 2001 r. poz. 497, 1084, 1194 i 1623, z 2009 r. poz. 206 oraz z 2016 r. poz. 2260. b) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 834, 854, 858, 1089 i 1222. n n−i WYN n−i ZAT n−i",
-         "children": []
-        }
-       ]
+       "children": []
       }
      ]
     }
@@ -6871,6 +6867,8 @@
   }
  ],
  "footnotes": {
+  "a": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. poz. 1126, z 2000 r. poz. 70, 136, 228, 239, 632, 1041 i 1312, z 2001 r. poz. 497, 1084, 1194 i 1623, z 2009 r. poz. 206 oraz z 2016 r. poz. 2260.",
+  "b": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 834, 854, 858, 1089 i 1222. n n−i WYN n−i ZAT n−i",
   "1": "Dodany przez art. 17 ustawy z dnia 11 czerwca 2026 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych w sprawach rozstrzyganych w drodze decyzji administracyjnych albo załatwianych milcząco (Dz. U. poz. 875), która wejdzie w życie z dniem 1 stycznia 2027 r.; stosuje się w sprawach umorzenia należności wszczętych na wniosek o umorzenie zaległości podatkowych, odsetek za zwłokę lub opłaty prolongacyjnej składany przez wnioskodawcę w roku podatkowym, który rozpoczyna się najwcześniej w dniu wejścia w życie tej ustawy, na podstawie art. 21 ust. 1 tej ustawy. Determinanta1f1j Determinanta2f1j ∑ k j=1 Determinanta1f1j ∑ k j=1 Determinanta2f1j",
   "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1844 i 1846 oraz z 2026 r. poz. 426, 635, 680 i 912.",
   "3": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1014 i 1080 oraz z 2026 r. poz. 26, 426, 635 i 815.",

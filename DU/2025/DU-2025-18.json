@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/18",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o żegludze śródlądowej",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/18/text.pdf",
  "body": [
   {
@@ -9477,14 +9477,16 @@
        "num": "2",
        "path": "art_41/ust_2",
        "text": "Zasady przewozu żeglugą śródlądową towarów niebezpiecznych określa ustawa z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2024 r. poz. 643).",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 41a–Art. 41i. (uchylone)"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "41a–41i",
+     "path": "art_41a–41i",
+     "text": "(uchylone)",
+     "children": []
     },
     {
      "type": "heading",
@@ -10859,8 +10861,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 64–68. (pominięte)"
+     "type": "art",
+     "num": "64–68",
+     "path": "art_64–68",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",
@@ -11357,7 +11362,11 @@
       },
       {
        "type": "text",
-       "text": "VIII (uchylona) IX Pilotaż"
+       "text": "VIII (uchylona)"
+      },
+      {
+       "type": "text",
+       "text": "IX Pilotaż"
       },
       {
        "type": "text",

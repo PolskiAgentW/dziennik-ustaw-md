@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1682",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o delegowaniu pracowników w ramach świadczenia usług",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1682/text.pdf",
  "body": [
   {
@@ -2033,8 +2033,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 30–38. (pominięte)"
+     "type": "art",
+     "num": "30–38",
+     "path": "art_30–38",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

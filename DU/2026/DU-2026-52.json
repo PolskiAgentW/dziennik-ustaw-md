@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/52",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ułatwieniach w przygotowaniu i realizacji inwestycji w zakresie biogazowni rolniczych, a także ich funkcjonowaniu",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/52/text.pdf",
  "body": [
   {
@@ -56,7 +56,7 @@
       },
       {
        "type": "text",
-       "text": "Art. 11. W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385, z późn. zm. a) ) w art. 7:",
+       "text": "Art. 11. W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385, z późn. zm.[^a]) w art. 7:",
        "quoted": true
       },
       {
@@ -376,7 +376,7 @@
       },
       {
        "type": "text",
-       "text": "„3. Nawozy organiczne i polepszacze gleby w rozumieniu art. 3 pkt 22 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 z dnia 21 października 2009 r. określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, i uchylającego rozporządzenie (WE) nr 1774/2002 (rozporządzenie o produktach ubocznych pochodzenia zwierzęcego) (Dz. Urz. UE L 300 z 14.11.2009, str. 1, z późn. zm. b) ), zwanego dalej „rozporządzeniem nr 1069/2009”, uznaje się za nawozy, środki wspomagające uprawę roślin i produkty pofermentacyjne, wytworzone z produktów ubocznych pochodzenia zwierzęcego w rozumieniu art. 3 pkt 1 w związku z art. 2 ust. 2 rozporządzenia nr 1069/2009 lub z produktów pochodnych w rozumieniu art. 3 pkt 2 rozporządzenia nr 1069/2009 lub zawierające w swoim składzie produkty uboczne pochodzenia zwierzęcego lub produkty pochodne.”;",
+       "text": "„3. Nawozy organiczne i polepszacze gleby w rozumieniu art. 3 pkt 22 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 z dnia 21 października 2009 r. określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, i uchylającego rozporządzenie (WE) nr 1774/2002 (rozporządzenie o produktach ubocznych pochodzenia zwierzęcego) (Dz. Urz. UE L 300 z 14.11.2009, str. 1, z późn. zm.[^b]), zwanego dalej „rozporządzeniem nr 1069/2009”, uznaje się za nawozy, środki wspomagające uprawę roślin i produkty pofermentacyjne, wytworzone z produktów ubocznych pochodzenia zwierzęcego w rozumieniu art. 3 pkt 1 w związku z art. 2 ust. 2 rozporządzenia nr 1069/2009 lub z produktów pochodnych w rozumieniu art. 3 pkt 2 rozporządzenia nr 1069/2009 lub zawierające w swoim składzie produkty uboczne pochodzenia zwierzęcego lub produkty pochodne.”;",
        "quoted": true
       },
       {
@@ -1831,14 +1831,16 @@
        "num": "3",
        "path": "art_8/ust_3",
        "text": "Do kary pieniężnej, o której mowa w ust. 1, stosuje się odpowiednio przepisy art. 175 i art. 176 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 9–17. (pominięte)[^7]"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "9–17",
+     "path": "art_9–17",
+     "text": "(pominięte)[^7]",
+     "children": []
     },
     {
      "type": "art",
@@ -2817,20 +2819,14 @@
      "num": "30",
      "path": "art_30",
      "text": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia[^10], z wyjątkiem art. 14, który wchodzi w życie z dniem 1 stycznia 2024 r.",
-     "children": [
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "art_30/lit_a",
-       "text": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1723, 2127, 2243, 2370 i 2687 oraz z 2023 r. poz. 295 i 1506. b) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 276 z 20.10.2010, str. 33, Dz. Urz. UE L 216 z 14.08.2012, str. 3, Dz. Urz. UE L 354 z 28.12.2013, str. 86, Dz. Urz. UE L 130 z 28.05.2018, str. 11, Dz. Urz. UE L 294 z 21.11.2018, str. 44 oraz Dz. Urz. UE L 170 z 25.06.2019, str. 1.",
-       "children": []
-      }
-     ]
+     "children": []
     }
    ]
   }
  ],
  "footnotes": {
+  "a": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1723, 2127, 2243, 2370 i 2687 oraz z 2023 r. poz. 295 i 1506.",
+  "b": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 276 z 20.10.2010, str. 33, Dz. Urz. UE L 216 z 14.08.2012, str. 3, Dz. Urz. UE L 354 z 28.12.2013, str. 86, Dz. Urz. UE L 130 z 28.05.2018, str. 11, Dz. Urz. UE L 294 z 21.11.2018, str. 44 oraz Dz. Urz. UE L 170 z 25.06.2019, str. 1.",
   "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1907 i 1940 oraz z 2025 r. poz. 527, 680, 1668 i 1847.",
   "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 859, 1847 i 1881 oraz z 2025 r. poz. 303, 759, 1218, 1303 i 1535.",
   "3": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1847 i 1881 oraz z 2025 r. poz. 303, 759, 1218 i 1535.",

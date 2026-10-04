@@ -22,7 +22,7 @@ Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla ża
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-04 08:40 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-04 23:00 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -32,11 +32,11 @@ Stan na 2026-10-04 08:40 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 2025 | 1900 | 1900 | 0 |
 | 2026 | 1289 | 1289 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 81, razem 1840 z 55825 stron. Tekst z OCR (oznaczony) ma 1768 z nich w 74 aktach; treści pozostałych brak.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 81, razem 1840 z 55825 stron. Tekst z OCR (oznaczony) ma 1769 z nich w 74 aktach; treści pozostałych brak.
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 198.
 
 Rodzaje aktów: Rozporządzenie 1828, Obwieszczenie 1007, Ustawa 366, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
-Wersje konwertera: eli2md 0.6.7 (3199), eli2md 0.6.22 (74), eli2md 0.6.13 (14).
+Wersje konwertera: eli2md 0.6.25 (3287).
 <!-- stats:end -->
 
 ## Teksty jednolite
@@ -175,12 +175,20 @@ w artykułach dodanych później (1 182) ani błędów wspólnych z warstwą tek
   mapa znaków czcionki wzorów jest w PDF błędna, więc wzory są nieczytelne;
 - w tabelach z komórkami wieloliniowymi linie sąsiednich kolumn bywają przeplecione (DU/2025/205, lp. 9);
 - przypis z wyliczeniem: do przypisu trafia tylko pierwszy akapit, dalsze punkty są w treści (DU/2026/421).
-- przypis z etykietą „I)” / „a)” na końcu aktu („Niniejsza ustawa wdraża…”, „Zmiany wymienionego rozporządzenia…”)
-  jest w treści ostatniego artykułu, a nie w przypisach (np. DU/2025/1131 art. 279; 36 ustaw z tekstem jednolitym);
-- linia zakresu uchylonych lub pominiętych artykułów („Art. 22–28. (pominięte)”) nie jest nagłówkiem i kończy
-  poprzedni artykuł (np. DU/2025/1584 art. 13);
-- artykuł z literą „ł” (np. art. 106ł w DU/2025/633) nie ma własnego nagłówka i jest dalszym ciągiem poprzedniego;
+- przypis z etykietą rzymską w zwykłym druku („I) Odnośnik dodany przez…”) dokleja się do poprzedniego przypisu;
 - indeks dolny z literą lub kropką ginie: „kategorii T , T , T” zamiast „T1b, T2b, T3b” (DU/2025/1490 art. 54).
+
+Zmiana 2026-10-05 w nocy (eli2md 0.6.25, wszystkie akty od nowa; wcześniej większość była z 0.6.7). Zmienione 386
+z 3287 plików, w 355 z nich te same słowa (zmieniają się tylko nagłówki, przypisy i podział akapitów): więcej nagłówków
+jednostek w 316 plikach, więcej przypisów w 73, w żadnym mniej. Słowa: −1694 / +1662 na 11,5 mln w zmienionych plikach,
+w 31 plikach, z tego 25 to akty z OCR (1601 z 1694 usuniętych słów; strony odczytane od nowa tesseractem 5.5.0 zamiast
+5.3.4 na serwerze GitHuba); żaden plik nie
+stracił więcej niż 2% słów. Poprawione m.in.: przypisy z etykietą „I)” / „a)” na końcu aktu są przypisami, a odnośnik
+„z późn. zm.a)” to `[^a]` (DU/2025/1131 art. 279, DU/2023/1206); linia „Art. 14–26a. (pominięte)” jest nagłówkiem
+(DU/2025/1584); art. 106ł ma własny nagłówek (DU/2025/633). Przed przeliczeniem na dwóch odłożonych próbach aktów
+z HTML (70 z 2024 r. i 60 z 2012–2023) tekst 0.6.25 i 0.6.7 był taki sam co do słowa
+([pomiar](https://github.com/PolskiAgentW/eli2md/blob/main/eval/heldout/README.md)). Od 2026-10-05 workflow
+aktualizacji używa eli2md 0.6.25.
 
 Zmiana 2026-10-01 wieczorem (eli2md 0.6.22, 42 akty, w których OCR nie dał tekstu z części stron). Strona skanu,
 z której OCR nie odczytał użytecznego tekstu, jest czytana drugi raz z podaną rozdzielczością obrazu (wcześniej tesseract

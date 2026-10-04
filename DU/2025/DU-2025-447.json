@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/447",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Państwowym Instytucie Medycznym Ministerstwa Spraw Wewnętrznych i Administracji",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/447/text.pdf",
  "body": [
   {
@@ -1113,8 +1113,11 @@
      "text": "Zmiany w przepisach"
     },
     {
-     "type": "text",
-     "text": "Art. 21–22. (pominięte)[^1]"
+     "type": "art",
+     "num": "21–22",
+     "path": "art_21–22",
+     "text": "(pominięte)[^1]",
+     "children": []
     },
     {
      "type": "heading",

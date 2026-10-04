@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/937",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 8 lipca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/937/text.pdf",
  "body": [
   {
@@ -12010,8 +12010,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 154–220. (pominięte)"
+     "type": "art",
+     "num": "154–220",
+     "path": "art_154–220",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

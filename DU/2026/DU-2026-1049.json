@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1049",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 31 lipca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Centralnym Azylu dla Zwierząt",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1049/text.pdf",
  "body": [
   {
@@ -66,7 +66,7 @@
       },
       {
        "type": "text",
-       "text": "Art. 28. W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm. a) ) w art. 400a w ust. 1 pkt 41b otrzymuje brzmienie:",
+       "text": "Art. 28. W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm.[^a]) w art. 400a w ust. 1 pkt 41b otrzymuje brzmienie:",
        "quoted": true
       },
       {
@@ -2343,8 +2343,11 @@
      "text": "Zmiany w przepisach"
     },
     {
-     "type": "text",
-     "text": "Art. 27–31. (pominięte)[^39]"
+     "type": "art",
+     "num": "27–31",
+     "path": "art_27–31",
+     "text": "(pominięte)[^39]",
+     "children": []
     },
     {
      "type": "heading",
@@ -2592,20 +2595,13 @@
      "num": "37",
      "path": "art_37",
      "text": "Ustawa wchodzi w życie z dniem 1 stycznia 2024 r., z wyjątkiem art. 29 pkt 1, art. 33, art. 34 i art. 36, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia[^42].",
-     "children": [
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "art_37/lit_a",
-       "text": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2127 i 2269 oraz z 2022 r. poz. 1079, 1260, 1504, 1576, 1747, 2088 i 2127.",
-       "children": []
-      }
-     ]
+     "children": []
     }
    ]
   }
  ],
  "footnotes": {
+  "a": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2127 i 2269 oraz z 2022 r. poz. 1079, 1260, 1504, 1576, 1747, 2088 i 2127.",
   "1": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 215 z 27.08.2003, str. 3 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 519, Dz. Urz. UE L 284 z 31.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447, Dz. Urz. UE L 127 z 29.04.2004, str. 40 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 343, Dz. Urz. UE L 215 z 19.08.2005, str. 1, Dz. Urz. UE L 175 z 05.07.2007, str. 39, Dz. Urz. UE L 95 z 08.04.2008, str. 3, Dz. Urz. UE L 126 z 21.05.2009, str. 5, Dz. Urz. UE L 212 z 12.08.2010, str. 1, Dz. Urz. UE L 39 z 11.02.2012, str. 133, Dz. Urz. UE L 339 z 12.12.2012, str. 1, Dz. Urz. UE L 212 z 07.08.2013, str. 1, Dz. Urz. UE L 361 z 17.12.2014, str. 1, Dz. Urz. UE L 316 z 23.11.2016, str. 1, Dz. Urz. UE L 21 z 26.01.2017, str. 1, Dz. Urz. UE L 27 z 01.02.2017, str. 1, Dz. Urz. UE L 170 z 25.06.2019, str. 115, Dz. Urz. UE L 320 z 11.12.2019, str. 13 oraz Dz. Urz. UE L 330 z 20.12.2019, str. 104.",
   "2": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 317 z 23.11.2016, str. 4.",
   "3": "Ze zmianą wprowadzoną przez art. 1 pkt 1 lit. a ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o Centralnym Azylu dla Zwierząt (Dz. U. poz. 1807), która weszła w życie z dniem 1 stycznia 2026 r.",

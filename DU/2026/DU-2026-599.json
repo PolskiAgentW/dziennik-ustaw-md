@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/599",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 kwietnia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/599/text.pdf",
  "body": [
   {
@@ -9041,8 +9041,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 68-70. (pominięte)"
+     "type": "art",
+     "num": "68-70",
+     "path": "art_68-70",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

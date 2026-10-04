@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1703",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1703/text.pdf",
  "body": [
   {
@@ -6612,8 +6612,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 36–52. (pominięte)"
+     "type": "art",
+     "num": "36–52",
+     "path": "art_36–52",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",
@@ -6621,8 +6624,11 @@
      "text": "Przepisy dostosowujące, przejściowe i końcowe"
     },
     {
-     "type": "text",
-     "text": "Art. 53–60. (pominięte)"
+     "type": "art",
+     "num": "53–60",
+     "path": "art_53–60",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",
@@ -6729,12 +6735,7 @@
        "num": "4",
        "path": "art_64/pkt_4",
        "text": "art. 42 pkt 1, 4 i 7, które wchodzą w życie z dniem 1 lipca 2006 r.",
-       "children": [
-        {
-         "type": "text",
-         "text": "1)I) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/903 z dnia 13 marca 2024 r. w sprawie ustanowienia środków na rzecz wysokiego poziomu interoperacyjności sektora publicznego na terytorium Unii (akt w sprawie Interoperacyjnej Europy) (Dz. Urz. UE L 2024/903 z 22.03.2024). I) Odnośnik do tytułu ustawy dodany przez art. 1 pkt 1 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 1158), która weszła w życie z dniem 6 września 2025 r."
-        }
-       ]
+       "children": []
       }
      ]
     }
@@ -6742,6 +6743,7 @@
   }
  ],
  "footnotes": {
+  "1": "I) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/903 z dnia 13 marca 2024 r. w sprawie ustanowienia środków na rzecz wysokiego poziomu interoperacyjności sektora publicznego na terytorium Unii (akt w sprawie Interoperacyjnej Europy) (Dz. Urz. UE L 2024/903 z 22.03.2024). I) Odnośnik do tytułu ustawy dodany przez art. 1 pkt 1 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 1158), która weszła w życie z dniem 6 września 2025 r.",
   "2": "Przez art. 1 pkt 2 lit. a ustawy z dnia 25 lipca 2025 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 1158), która weszła w życie z dniem 6 września 2025 r.",
   "3": "Dodany przez art. 1 pkt 2 lit. b ustawy, o której mowa w odnośniku 2.",
   "4": "W brzmieniu ustalonym przez art. 1 pkt 2 lit. c ustawy, o której mowa w odnośniku 2.",

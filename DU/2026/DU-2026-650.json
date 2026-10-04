@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/650",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 maja 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o finansowaniu zadań oświatowych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/650/text.pdf",
  "body": [
   {
@@ -5748,8 +5748,11 @@
      "text": "Zmiany w przepisach"
     },
     {
-     "type": "text",
-     "text": "Art. 76–88. (pominięte)"
+     "type": "art",
+     "num": "76–88",
+     "path": "art_76–88",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

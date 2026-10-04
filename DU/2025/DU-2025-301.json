@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/301",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/301/text.pdf",
  "body": [
   {
@@ -660,8 +660,11 @@
      "text": "Zmiany w przepisach obowiązujących i przepis końcowy"
     },
     {
-     "type": "text",
-     "text": "Art. 12–15. (pominięte)"
+     "type": "art",
+     "num": "12–15",
+     "path": "art_12–15",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",

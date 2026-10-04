@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/46",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rzemiośle",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/46/text.pdf",
  "body": [
   {
@@ -181,19 +181,26 @@
        "type": "ust",
        "num": "3",
        "path": "art_2/ust_3",
-       "text": "(uchylony) 4.[^2] Rzemiosłem:",
+       "text": "(uchylony)",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_2/ust_4",
+       "text": "[^2] Rzemiosłem:",
        "children": [
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_2/ust_3/pkt_1",
+         "path": "art_2/ust_4/pkt_1",
          "text": "nie jest działalność handlowa, transportowa, wytwórcza i usługowa artystów plastyków i fotografików oraz lecznicza, z wyłączeniem usług optyków okularowych oraz protetyków słuchu;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_2/ust_3/pkt_2",
+         "path": "art_2/ust_4/pkt_2",
          "text": "nie są usługi hotelarskie oraz usługi świadczone w ramach wykonywania wolnych zawodów.",
          "children": []
         }

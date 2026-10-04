@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/253",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/253/text.pdf",
  "body": [
   {
@@ -9718,8 +9718,11 @@
      "text": "Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe"
     },
     {
-     "type": "text",
-     "text": "Art. 56–66. (pominięte)"
+     "type": "art",
+     "num": "56–66",
+     "path": "art_56–66",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",
@@ -10435,25 +10438,6 @@
        "num": "2",
        "path": "art_86/pkt_2",
        "text": "art. 63 pkt 13, który wchodzi w życie z dniem 1 lipca 2012 r.",
-       "children": [
-        {
-         "type": "text",
-         "text": "1)I) Niniejsza ustawa:"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "art_86/pkt_1",
-       "text": "dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 89/105/EWG z dnia 21 grudnia 1988 r. dotyczącej przejrzystości środków regulujących ustalanie cen na produkty lecznicze przeznaczone do użytku przez człowieka oraz włączenia ich w zakres krajowego systemu ubezpieczeń zdrowotnych (Dz. Urz. WE L 40 z 11.02.1989, str. 8; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 1, str. 345);",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "art_86/pkt_2",
-       "text": "w zakresie swojej regulacji służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2282 z dnia 15 grudnia 2021 r. w sprawie oceny technologii medycznych i zmiany dyrektywy 2011/24/UE (Dz. Urz. UE L 458 z 22.12.2021, str. 1). I) Odnośnik w brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. poz. 1192), która weszła w życie z dniem 12 września 2025 r.",
        "children": []
       }
      ]
@@ -10462,6 +10446,7 @@
   }
  ],
  "footnotes": {
+  "1": "I) Niniejsza ustawa:\n\n1) dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 89/105/EWG z dnia 21 grudnia 1988 r. dotyczącej przejrzystości środków regulujących ustalanie cen na produkty lecznicze przeznaczone do użytku przez człowieka oraz włączenia ich w zakres krajowego systemu ubezpieczeń zdrowotnych (Dz. Urz. WE L 40 z 11.02.1989, str. 8; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 1, str. 345);\n\n2) w zakresie swojej regulacji służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2282 z dnia 15 grudnia 2021 r. w sprawie oceny technologii medycznych i zmiany dyrektywy 2011/24/UE (Dz. Urz. UE L 458 z 22.12.2021, str. 1). I) Odnośnik w brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. poz. 1192), która weszła w życie z dniem 12 września 2025 r.",
   "2": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 87 z 31.03.2009, str. 174, Dz. Urz. UE L 348 z 31.12.2010, str. 1 oraz Dz. Urz. UE L 198 z 25.07.2019, str. 241.",
   "3": "Dodany przez art. 1 pkt 2 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. poz. 1192), która weszła w życie z dniem 12 września 2025 r.",
   "4": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 9, Dz. Urz. UE L 334 z 27.12.2019, str. 165, Dz. Urz. UE L 130 z 24.04.2020, str. 18 i Dz. Urz. UE L 241 z 08.07.2021, str. 7.",

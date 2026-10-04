@@ -1,7 +1,7 @@
 {
  "eli": "DU/2023/1215",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 maja 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o partiach politycznych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2023/1215/text.pdf",
  "body": [
   {
@@ -2536,8 +2536,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 50–59. (pominięte)"
+     "type": "art",
+     "num": "50–59",
+     "path": "art_50–59",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/633",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Kodeks karny skarbowy",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/633/text.pdf",
  "body": [
   {
@@ -6738,11 +6738,23 @@
         {
          "type": "text",
          "text": "podlega karze grzywny za wykroczenie skarbowe."
-        },
-        {
-         "type": "text",
-         "text": "Art. 106ł. § 1. Kto, nie dopełniając obowiązku nadzoru nad przestrzeganiem reguł obowiązujących w działalności danego przedsiębiorcy lub innej jednostki organizacyjnej, dopuszcza, chociażby nieumyślnie, do popełnienia czynu zabronionego określonego w tym rozdziale,"
-        },
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "106ł",
+     "path": "art_106ł",
+     "text": "",
+     "children": [
+      {
+       "type": "par",
+       "num": "1",
+       "path": "art_106ł/par_1",
+       "text": "Kto, nie dopełniając obowiązku nadzoru nad przestrzeganiem reguł obowiązujących w działalności danego przedsiębiorcy lub innej jednostki organizacyjnej, dopuszcza, chociażby nieumyślnie, do popełnienia czynu zabronionego określonego w tym rozdziale,",
+       "children": [
         {
          "type": "text",
          "text": "podlega karze grzywny za wykroczenie skarbowe."
@@ -6752,7 +6764,7 @@
       {
        "type": "par",
        "num": "2",
-       "path": "art_106l/par_2",
+       "path": "art_106ł/par_2",
        "text": "Przepisu § 1 nie stosuje się, jeżeli czyn sprawcy wyczerpuje znamiona innego przestępstwa skarbowego lub wykroczenia skarbowego określonego w tym rozdziale albo jeżeli niedopełnienie obowiązku nadzoru należy do ich znamion.",
        "children": []
       }
@@ -9977,26 +9989,7 @@
        "num": "2",
        "path": "art_191/par_2",
        "text": "Na postanowienie w przedmiocie wykonania środka karnego wymienionego w art. 22 § 2 pkt 5 i 7 przysługuje zażalenie.",
-       "children": [
-        {
-         "type": "text",
-         "text": "1)I) Niniejsza ustawa w zakresie swojej regulacji:"
-        },
-        {
-         "type": "pkt",
-         "num": "1",
-         "path": "art_191/par_2/pkt_1",
-         "text": "realizuje postanowienia dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/1371 z dnia 5 lipca 2017 r. w sprawie zwalczania za pośrednictwem prawa karnego nadużyć na szkodę interesów finansowych Unii (Dz. Urz. UE L 198 z 28.07.2017, str. 29);",
-         "children": []
-        },
-        {
-         "type": "pkt",
-         "num": "2",
-         "path": "art_191/par_2/pkt_2",
-         "text": "wdraża dyrektywę Rady (UE) 2022/2523 z dnia 15 grudnia 2022 r. w sprawie zapewnienia globalnego minimalnego poziomu opodatkowania międzynarodowych grup przedsiębiorstw oraz dużych grup krajowych w Unii (Dz. Urz. UE L 328 z 22.12.2022, str. 1 oraz Dz. Urz. UE L 13 z 16.01.2023, str. 9). I) Odnośnik do tytułu ustawy w brzmieniu ustalonym przez art. 142 pkt 1 ustawy z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych (Dz. U. poz. 1685), która weszła w życie z dniem 1 stycznia 2025 r.",
-         "children": []
-        }
-       ]
+       "children": []
       }
      ]
     }
@@ -10004,6 +9997,7 @@
   }
  ],
  "footnotes": {
+  "1": "I) Niniejsza ustawa w zakresie swojej regulacji:\n\n1) realizuje postanowienia dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/1371 z dnia 5 lipca 2017 r. w sprawie zwalczania za pośrednictwem prawa karnego nadużyć na szkodę interesów finansowych Unii (Dz. Urz. UE L 198 z 28.07.2017, str. 29);\n\n2) wdraża dyrektywę Rady (UE) 2022/2523 z dnia 15 grudnia 2022 r. w sprawie zapewnienia globalnego minimalnego poziomu opodatkowania międzynarodowych grup przedsiębiorstw oraz dużych grup krajowych w Unii (Dz. Urz. UE L 328 z 22.12.2022, str. 1 oraz Dz. Urz. UE L 13 z 16.01.2023, str. 9). I) Odnośnik do tytułu ustawy w brzmieniu ustalonym przez art. 142 pkt 1 ustawy z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych (Dz. U. poz. 1685), która weszła w życie z dniem 1 stycznia 2025 r.",
   "2": "Ze zmianą wprowadzoną przez art. 2 pkt 1 ustawy z dnia 9 maja 2024 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 850), która weszła w życie z dniem 25 czerwca 2024 r.",
   "3": "Ze zmianą wprowadzoną przez art. 5 pkt 1 ustawy z dnia 20 lutego 2025 r. o zmianie ustawy o podatku akcyzowym, ustawy o zdrowiu publicznym oraz niektórych innych ustaw (Dz. U. poz. 340), która weszła w życie z dniem 1 kwietnia 2025 r.; na podstawie art. 6 ust. 1 tej ustawy w zakresie urządzeń do waporyzacji, zestawów części do urządzeń do waporyzacji i płynu do papierosów elektronicznych zawartego w jednorazowych papierosach elektronicznych stosuje się od dnia 1 lipca 2025 r.; na podstawie art. 7 ust. 1 tej ustawy w zakresie wyrobów nowatorskich, o których mowa w art. 2 ust. 1 pkt 36 lit. b i c ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2025 r. poz. 126, 222 i 340), saszetek nikotynowych i innych wyrobów nikotynowych stosuje się od dnia 1 sierpnia 2025 r.",
   "4": "W brzmieniu ustalonym przez art. 3 pkt 1 ustawy z dnia 8 listopada 2024 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1721), która weszła w życie z dniem 1 stycznia 2025 r.",

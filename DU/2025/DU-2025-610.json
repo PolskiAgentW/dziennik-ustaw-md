@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/610",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rynku mocy",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/610/text.pdf",
  "body": [
   {
@@ -215,7 +215,7 @@
       },
       {
        "type": "text",
-       "text": "Art. 6. Do dnia przyznania przez Komisję Europejską odstępstwa, o którym mowa w art. 64 ust. 2c rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/943 z dnia 5 czerwca 2019 r. w sprawie rynku wewnętrznego energii elektrycznej (Dz. Urz. UE L 158 z 14.06.2019, str. 54, z późn. zm. a) ), umowy mocowe zawarte w toku aukcji uzupełniających nie podlegają wykonaniu.",
+       "text": "Art. 6. Do dnia przyznania przez Komisję Europejską odstępstwa, o którym mowa w art. 64 ust. 2c rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/943 z dnia 5 czerwca 2019 r. w sprawie rynku wewnętrznego energii elektrycznej (Dz. Urz. UE L 158 z 14.06.2019, str. 54, z późn. zm.[^a]), umowy mocowe zawarte w toku aukcji uzupełniających nie podlegają wykonaniu.",
        "quoted": true
       },
       {
@@ -8726,16 +8726,20 @@
      "text": "Przepisy zmieniające"
     },
     {
-     "type": "text",
-     "text": "Art. 86–89. (pominięte)"
-    },
-    {
-     "type": "text",
-     "text": "DZIAŁ VIA"
-    },
-    {
-     "type": "text",
-     "text": "Przepisy epizodyczne"
+     "type": "art",
+     "num": "86–89",
+     "path": "art_86–89",
+     "text": "(pominięte)",
+     "children": [
+      {
+       "type": "text",
+       "text": "DZIAŁ VIA"
+      },
+      {
+       "type": "text",
+       "text": "Przepisy epizodyczne"
+      }
+     ]
     },
     {
      "type": "art",
@@ -9778,20 +9782,13 @@
      "num": "107",
      "path": "art_107",
      "text": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia[^85].",
-     "children": [
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "art_107/lit_a",
-       "text": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 152 z 03.06.2022, str. 45 oraz Dz. Urz. UE L 2024/1747 z 26.06.2024.",
-       "children": []
-      }
-     ]
+     "children": []
     }
    ]
   }
  ],
  "footnotes": {
+  "a": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 152 z 03.06.2022, str. 45 oraz Dz. Urz. UE L 2024/1747 z 26.06.2024.",
   "1": "Niniejsza ustawa w zakresie swojej regulacji służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/1747 z dnia 13 czerwca 2024 r. zmieniającego rozporządzenia (UE) 2019/942 i (UE) 2019/943 w odniesieniu do poprawy struktury unijnego rynku energii elektrycznej (Dz. Urz. UE L 2024/1747 z 26.06.2024). I) Dodany przez art. 1 pkt 1 ustawy z dnia 24 stycznia 2025 r. o zmianie ustawy o rynku mocy (Dz. U. poz. 159), która weszła w życie z dniem 14 lutego 2025 r.",
   "2": "Dodany przez art. 1 pkt 1 ustawy z dnia 21 lutego 2025 r. o zmianie ustawy o rynku mocy oraz niektórych innych ustaw (Dz. U. poz. 290), która weszła w życie z dniem 18 marca 2025 r.",
   "3": "Dodany przez art. 1 pkt 2 lit. a ustawy z dnia 24 stycznia 2025 r. o zmianie ustawy o rynku mocy (Dz. U. poz. 159), która weszła w życie z dniem 14 lutego 2025 r.",

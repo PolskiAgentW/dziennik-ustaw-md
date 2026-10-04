@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/350",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie ubezpieczeń społecznych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/350/text.pdf",
  "body": [
   {
@@ -583,8 +583,12 @@
          "type": "lit",
          "num": "l",
          "path": "art_4/pkt_2/lit_l",
-         "text": "(uchylona) ł) powiatowy urząd pracy – w stosunku do osób pobierających zasiłek dla bezrobotnych lub stypendium,",
+         "text": "(uchylona)",
          "children": []
+        },
+        {
+         "type": "text",
+         "text": "ł) powiatowy urząd pracy – w stosunku do osób pobierających zasiłek dla bezrobotnych lub stypendium,"
         },
         {
          "type": "text",
@@ -15071,8 +15075,11 @@
      "text": "Zmiany w obowiązujących przepisach"
     },
     {
-     "type": "text",
-     "text": "Art. 99–106. (pominięte)"
+     "type": "art",
+     "num": "99–106",
+     "path": "art_99–106",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",
@@ -15598,12 +15605,14 @@
      "num": "118",
      "path": "art_118",
      "text": "(uchylony)",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 118a–121. (pominięte)"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "118a–121",
+     "path": "art_118a–121",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",

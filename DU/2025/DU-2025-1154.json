@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1154",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 sierpnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o opłacie skarbowej",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1154/text.pdf",
  "body": [
   {
@@ -948,8 +948,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 13–18. (pominięte)"
+     "type": "art",
+     "num": "13–18",
+     "path": "art_13–18",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",
@@ -1529,8 +1532,13 @@
        "type": "pkt",
        "num": "7",
        "path": "ust_36/pkt_7",
-       "text": "(uchylony) 1 2 3 4",
-       "children": []
+       "text": "(uchylony)",
+       "children": [
+        {
+         "type": "text",
+         "text": "1 2 3 4"
+        }
+       ]
       },
       {
        "type": "pkt",
@@ -2341,8 +2349,13 @@
      "type": "ust",
      "num": "5",
      "path": "ust_5",
-     "text": "(uchylony) 1 2 3 4",
-     "children": []
+     "text": "(uchylony)",
+     "children": [
+      {
+       "type": "text",
+       "text": "1 2 3 4"
+      }
+     ]
     },
     {
      "type": "ust",

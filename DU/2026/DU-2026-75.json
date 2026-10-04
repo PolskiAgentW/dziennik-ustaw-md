@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/75",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/75/text.pdf",
  "body": [
   {
@@ -1917,12 +1917,14 @@
      "num": "33",
      "path": "art_33",
      "text": "(uchylony)",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 34–38. (pominięte)"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "34–38",
+     "path": "art_34–38",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",

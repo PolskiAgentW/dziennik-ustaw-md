@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1490",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 października 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o transporcie drogowym",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1490/text.pdf",
  "body": [
   {
@@ -12559,14 +12559,16 @@
        "num": "3",
        "path": "art_57/ust_3",
        "text": "Użycie i wykorzystanie środków przymusu bezpośredniego i broni palnej oraz dokumentowanie tego użycia i wykorzystania odbywa się na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 58–65. (uchylone)"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "58–65",
+     "path": "art_58–65",
+     "text": "(uchylone)",
+     "children": []
     },
     {
      "type": "art",
@@ -17403,8 +17405,11 @@
      "text": "Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe"
     },
     {
-     "type": "text",
-     "text": "Art. 97–103. (pominięte)"
+     "type": "art",
+     "num": "97–103",
+     "path": "art_97–103",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",
@@ -18090,8 +18095,13 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_2/pkt_3",
-       "text": "(uchylony) 2.2. Wykonywanie przewozu regularnego lub regularnego specjalnego z naruszeniem warunków określonych w zezwoleniu albo zaświadczeniu na wykonywanie publicznego transportu zbiorowego dotyczących:",
-       "children": []
+       "text": "(uchylony)",
+       "children": [
+        {
+         "type": "text",
+         "text": "2.2. Wykonywanie przewozu regularnego lub regularnego specjalnego z naruszeniem warunków określonych w zezwoleniu albo zaświadczeniu na wykonywanie publicznego transportu zbiorowego dotyczących:"
+        }
+       ]
       },
       {
        "type": "pkt",

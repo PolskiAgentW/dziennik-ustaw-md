@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/505",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/505/text.pdf",
  "body": [
   {
@@ -5201,8 +5201,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 52–56. (pominięte)"
+     "type": "art",
+     "num": "52–56",
+     "path": "art_52–56",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

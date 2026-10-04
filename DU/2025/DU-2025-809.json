@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/809",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o bateriach i akumulatorach",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/809/text.pdf",
  "body": [
   {
@@ -1160,14 +1160,16 @@
        "num": "2",
        "path": "art_18/ust_2",
        "text": "Podmiot pośredniczący przed rozpoczęciem działalności jest obowiązany do uzyskania wpisu do rejestru, o którym mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 19–26. (uchylone)"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "art",
+     "num": "19–26",
+     "path": "art_19–26",
+     "text": "(uchylone)",
+     "children": []
     },
     {
      "type": "heading",
@@ -3700,8 +3702,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 104–114. (pominięte)"
+     "type": "art",
+     "num": "104–114",
+     "path": "art_104–114",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

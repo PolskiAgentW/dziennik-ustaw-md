@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/393",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo o aktach stanu cywilnego",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/393/text.pdf",
  "body": [
   {
@@ -6024,8 +6024,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 114–123. (pominięte)"
+     "type": "art",
+     "num": "114–123",
+     "path": "art_114–123",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

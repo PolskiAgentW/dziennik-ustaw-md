@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/44",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/44/text.pdf",
  "body": [
   {
@@ -2195,8 +2195,11 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 21–24. (pominięte)"
+     "type": "art",
+     "num": "21–24",
+     "path": "art_21–24",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",

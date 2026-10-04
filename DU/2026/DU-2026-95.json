@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/95",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o sporcie",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/95/text.pdf",
  "body": [
   {
@@ -3926,20 +3926,25 @@
      "text": "Zmiany w przepisach obowiązujących"
     },
     {
-     "type": "text",
-     "text": "Art. 53–75. (pominięte)"
+     "type": "art",
+     "num": "53–75",
+     "path": "art_53–75",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "art",
      "num": "76",
      "path": "art_76",
      "text": "(uchylony)",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 77–81. (pominięte)"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "77–81",
+     "path": "art_77–81",
+     "text": "(pominięte)",
+     "children": []
     },
     {
      "type": "heading",
