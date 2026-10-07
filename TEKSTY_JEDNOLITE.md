@@ -175,7 +175,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o Polskiej Agencji Żeglugi Powietrznej | [Dz.U. 2025 poz. 1267](DU/2025/DU-2025-1267.md) | 2025-09-23 | – |
 | o Polskiej Akademii Nauk | [Dz.U. 2026 poz. 168](DU/2026/DU-2026-168.md) | 2026-02-13 | – |
 | o Polskim Bonie Turystycznym | [Dz.U. 2026 poz. 759](DU/2026/DU-2026-759.md) | 2026-06-11 | – |
-| o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa | [Dz.U. 2025 poz. 337](DU/2025/DU-2025-337.md) | 2025-03-18 | – |
+| o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa | [Dz.U. 2026 poz. 1293](DU/2026/DU-2026-1293.md) | 2026-10-05 | [Dz.U. 2025 poz. 337](DU/2025/DU-2025-337.md) |
 | o pomocy osobom uprawnionym do alimentów | [Dz.U. 2026 poz. 79](DU/2026/DU-2026-79.md) | 2026-01-26 | [Dz.U. 2025 poz. 438](DU/2025/DU-2025-438.md) |
 | o pomocy państwa w oszczędzaniu na cele mieszkaniowe | [Dz.U. 2026 poz. 1210](DU/2026/DU-2026-1210.md) | 2026-09-15 | – |
 | o pomocy państwa w spłacie niektórych kredytów mieszkaniowych udzielonych osobom, które utraciły pracę | [Dz.U. 2025 poz. 1580](DU/2025/DU-2025-1580.md) | 2025-11-19 | – |
