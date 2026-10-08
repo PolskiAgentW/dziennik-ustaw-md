@@ -107,7 +107,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o Krajowym Rejestrze Zadłużonych | [Dz.U. 2025 poz. 1584](DU/2025/DU-2025-1584.md) | 2025-11-20 | – |
 | o krajowym systemie cyberbezpieczeństwa | [Dz.U. 2026 poz. 20](DU/2026/DU-2026-20.md) | 2026-01-09 | – |
 | o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności | [Dz.U. 2026 poz. 610](DU/2026/DU-2026-610.md) | 2026-05-07 | [Dz.U. 2025 poz. 865](DU/2025/DU-2025-865.md) |
-| o Krajowym Zasobie Nieruchomości | [Dz.U. 2025 poz. 834](DU/2025/DU-2025-834.md) | 2025-06-26 | – |
+| o Krajowym Zasobie Nieruchomości | [Dz.U. 2026 poz. 1299](DU/2026/DU-2026-1299.md) | 2026-10-06 | [Dz.U. 2025 poz. 834](DU/2025/DU-2025-834.md) |
 | o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami | [Dz.U. 2025 poz. 720](DU/2025/DU-2025-720.md) | 2025-06-03 | – |
 | o kredycie konsumenckim | [Dz.U. 2025 poz. 1362](DU/2025/DU-2025-1362.md) | 2025-10-10 | – |
 | o księgach wieczystych i hipotece | [Dz.U. 2026 poz. 1066](DU/2026/DU-2026-1066.md) | 2026-08-06 | [Dz.U. 2025 poz. 341](DU/2025/DU-2025-341.md) |
@@ -408,7 +408,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
-## Rozporządzenia (489)
+## Rozporządzenia (491)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -575,6 +575,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Obrony Narodowej w sprawie prowadzenia postępowania kwalifikacyjnego do Żandarmerii Wojskowej | [Dz.U. 2025 poz. 1221](DU/2025/DU-2025-1221.md) | 2025-09-04 | – |
 | Ministra Obrony Narodowej w sprawie przydziału kwatery albo innego lokalu mieszkalnego przez Agencję Mienia Wojskowego | [Dz.U. 2025 poz. 609](DU/2025/DU-2025-609.md) | 2025-05-08 | – |
 | Ministra Obrony Narodowej w sprawie przyznawania funkcjonariuszom Służby Wywiadu Wojskowego równoważnika pieniężnego oraz kwoty na zakup ubrania typu cywilnego w zamian za umundurowanie | [Dz.U. 2025 poz. 1428](DU/2025/DU-2025-1428.md) | 2025-10-21 | – |
+| Ministra Obrony Narodowej w sprawie rejestracji pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej oraz pojazdów należących do obcych sił zbrojnych przebywających na terytorium Rzeczypospolitej Polskiej na podstawie umów międzynarodowych | [Dz.U. 2026 poz. 1300](DU/2026/DU-2026-1300.md) | 2026-10-06 | – |
 | Ministra Obrony Narodowej w sprawie równoważnika pieniężnego przysługującego żołnierzom zawodowym Sił Zbrojnych Rzeczypospolitej Polskiej w zamian za bezpłatne wyżywienie niewydane w naturze | [Dz.U. 2025 poz. 1283](DU/2025/DU-2025-1283.md) | 2025-09-24 | – |
 | Ministra Obrony Narodowej w sprawie równoważników pieniężnych przysługujących żołnierzom zawodowym w zamian za umundurowanie i wyekwipowanie niewydane w naturze | [Dz.U. 2025 poz. 1381](DU/2025/DU-2025-1381.md) | 2025-10-14 | – |
 | Ministra Obrony Narodowej w sprawie sposobu dokumentowania kontroli operacyjnej przez Żandarmerię Wojskową | [Dz.U. 2026 poz. 1178](DU/2026/DU-2026-1178.md) | 2026-09-04 | – |
@@ -703,7 +704,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Spraw Zagranicznych w sprawie mnożników dodatku zagranicznego | [Dz.U. 2026 poz. 1075](DU/2026/DU-2026-1075.md) | 2026-08-10 | – |
 | Ministra Spraw Zagranicznych w sprawie naboru na aplikację dyplomatyczno-konsularną | [Dz.U. 2026 poz. 1164](DU/2026/DU-2026-1164.md) | 2026-09-02 | – |
 | Ministra Spraw Zagranicznych w sprawie obniżonych opłat konsularnych | [Dz.U. 2025 poz. 362](DU/2025/DU-2025-362.md) | 2025-03-24 | – |
-| Ministra Spraw Zagranicznych w sprawie opłat konsularnych | [Dz.U. 2025 poz. 76](DU/2025/DU-2025-76.md) | 2025-01-21 | – |
+| Ministra Spraw Zagranicznych w sprawie opłat konsularnych | [Dz.U. 2026 poz. 1298](DU/2026/DU-2026-1298.md) | 2026-10-06 | [Dz.U. 2025 poz. 76](DU/2025/DU-2025-76.md) |
 | Ministra Spraw Zagranicznych w sprawie spisu wyborców sporządzanego i aktualizowanego przez konsula | [Dz.U. 2025 poz. 1477](DU/2025/DU-2025-1477.md) | 2025-10-28 | – |
 | Ministra Spraw Zagranicznych w sprawie wydawania wiz krajowych cudzoziemcom przebywającym na terytorium Rzeczypospolitej Polskiej | [Dz.U. 2025 poz. 364](DU/2025/DU-2025-364.md) | 2025-03-24 | – |
 | Ministra Spraw Zagranicznych w sprawie zasad wynagradzania i przyznawania innych świadczeń pracownikom Polskiego Instytutu Spraw Międzynarodowych | [Dz.U. 2026 poz. 930](DU/2026/DU-2026-930.md) | 2026-07-10 | – |
@@ -873,6 +874,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Prezesa Rady Ministrów w sprawie szczegółowego zakresu działania Ministra Energii | [Dz.U. 2025 poz. 1206](DU/2025/DU-2025-1206.md) | 2025-09-02 | – |
 | Prezesa Rady Ministrów w sprawie wpłat na pokrycie kosztów nadzoru nad biurami usług płatniczych | [Dz.U. 2025 poz. 665](DU/2025/DU-2025-665.md) | 2025-05-22 | – |
 | Prezesa Rady Ministrów w sprawie zasad wynagradzania oraz wymagań kwalifikacyjnych pracowników Rządowego Centrum Legislacji | [Dz.U. 2025 poz. 1290](DU/2025/DU-2025-1290.md) | 2025-09-25 | – |
+| Rady Ministrów w sprawie chorób zawodowych | [Dz.U. 2026 poz. 1297](DU/2026/DU-2026-1297.md) | 2026-10-06 | – |
 | Rady Ministrów w sprawie komisji lekarskich orzekających o stopniu zdolności do służby wojskowej osób stawiających się do kwalifikacji wojskowej | [Dz.U. 2025 poz. 1239](DU/2025/DU-2025-1239.md) | 2025-09-12 | – |
 | Rady Ministrów w sprawie należności pieniężnych otrzymywanych przez żołnierzy niezawodowych wyznaczonych do pełnienia służby poza granicami państwa oraz pracowników wojska zatrudnionych w jednostkach wojskowych wykonujących zadania poza granicami państwa | [Dz.U. 2025 poz. 1715](DU/2025/DU-2025-1715.md) | 2025-12-05 | – |
 | Rady Ministrów w sprawie pełnienia zawodowej służby wojskowej poza granicami państwa | [Dz.U. 2025 poz. 1492](DU/2025/DU-2025-1492.md) | 2025-10-30 | – |
