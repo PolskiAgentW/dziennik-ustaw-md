@@ -45,7 +45,7 @@ Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla ża
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-08 04:42 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-09 04:48 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -53,13 +53,13 @@ Stan na 2026-10-08 04:42 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 2021 | 42 | 42 | 0 |
 | 2023 | 46 | 46 | 0 |
 | 2025 | 1900 | 1900 | 0 |
-| 2026 | 1300 | 1300 | 0 |
+| 2026 | 1304 | 1304 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 81, razem 1840 z 56009 stron. Tekst z OCR (oznaczony) ma 1769 z nich w 74 aktach; treści pozostałych brak.
-Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 199.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 81, razem 1840 z 56072 stron. Tekst z OCR (oznaczony) ma 1769 z nich w 74 aktach; treści pozostałych brak.
+Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 200.
 
-Rodzaje aktów: Rozporządzenie 1832, Obwieszczenie 1012, Ustawa 368, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
-Wersje konwertera: eli2md 0.6.25 (3257), eli2md 0.6.25.2 (41).
+Rodzaje aktów: Rozporządzenie 1834, Obwieszczenie 1014, Ustawa 368, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
+Wersje konwertera: eli2md 0.6.25 (3224), eli2md 0.6.25.2 (78).
 <!-- stats:end -->
 
 ## Teksty jednolite
@@ -107,7 +107,7 @@ wystąpienie, `re.findall` wszystkie; który tekst obowiązuje, mówią przypisy
 | Kodeks wykroczeń | [Dz.U. 2025 poz. 734](DU/2025/DU-2025-734.md) | 2025-06-04 | – |
 | Ordynacja podatkowa | [Dz.U. 2026 poz. 622](DU/2026/DU-2026-622.md) | 2026-05-11 | [Dz.U. 2025 poz. 111](DU/2025/DU-2025-111.md) |
 
-Wszystkie akty z tekstem jednolitym ogłoszonym od 2025 r. (892): [TEKSTY_JEDNOLITE.md](TEKSTY_JEDNOLITE.md).
+Wszystkie akty z tekstem jednolitym ogłoszonym od 2025 r. (893): [TEKSTY_JEDNOLITE.md](TEKSTY_JEDNOLITE.md).
 <!-- tj:end -->
 
 ## Zawartość

@@ -255,7 +255,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o systemie handlu uprawnieniami do emisji gazów cieplarnianych | [Dz.U. 2025 poz. 1685](DU/2025/DU-2025-1685.md) | 2025-12-03 | – |
 | o systemie identyfikacji i rejestracji zwierząt | [Dz.U. 2026 poz. 591](DU/2026/DU-2026-591.md) | 2026-04-30 | – |
 | o systemie informacji oświatowej | [Dz.U. 2026 poz. 803](DU/2026/DU-2026-803.md) | 2026-06-18 | – |
-| o systemie informacji w ochronie zdrowia | [Dz.U. 2026 poz. 208](DU/2026/DU-2026-208.md) | 2026-02-24 | [Dz.U. 2025 poz. 302](DU/2025/DU-2025-302.md) |
+| o systemie informacji w ochronie zdrowia | [Dz.U. 2026 poz. 1304](DU/2026/DU-2026-1304.md) | 2026-10-07 | [Dz.U. 2026 poz. 208](DU/2026/DU-2026-208.md), [Dz.U. 2025 poz. 302](DU/2025/DU-2025-302.md) |
 | o systemie instytucji rozwoju | [Dz.U. 2026 poz. 9](DU/2026/DU-2026-9.md) | 2026-01-07 | – |
 | o systemie monitorowania i kontrolowania jakości paliw | [Dz.U. 2025 poz. 1529](DU/2025/DU-2025-1529.md) | 2025-11-06 | – |
 | o systemie oświaty | [Dz.U. 2025 poz. 881](DU/2025/DU-2025-881.md) | 2025-07-04 | – |
@@ -408,7 +408,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
-## Rozporządzenia (491)
+## Rozporządzenia (492)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -706,6 +706,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Spraw Zagranicznych w sprawie obniżonych opłat konsularnych | [Dz.U. 2025 poz. 362](DU/2025/DU-2025-362.md) | 2025-03-24 | – |
 | Ministra Spraw Zagranicznych w sprawie opłat konsularnych | [Dz.U. 2026 poz. 1298](DU/2026/DU-2026-1298.md) | 2026-10-06 | [Dz.U. 2025 poz. 76](DU/2025/DU-2025-76.md) |
 | Ministra Spraw Zagranicznych w sprawie spisu wyborców sporządzanego i aktualizowanego przez konsula | [Dz.U. 2025 poz. 1477](DU/2025/DU-2025-1477.md) | 2025-10-28 | – |
+| Ministra Spraw Zagranicznych w sprawie wiz oraz dokumentów potwierdzających pełnienie funkcji członków misji dyplomatycznych i urzędów konsularnych państw obcych | [Dz.U. 2026 poz. 1301](DU/2026/DU-2026-1301.md) | 2026-10-07 | – |
 | Ministra Spraw Zagranicznych w sprawie wydawania wiz krajowych cudzoziemcom przebywającym na terytorium Rzeczypospolitej Polskiej | [Dz.U. 2025 poz. 364](DU/2025/DU-2025-364.md) | 2025-03-24 | – |
 | Ministra Spraw Zagranicznych w sprawie zasad wynagradzania i przyznawania innych świadczeń pracownikom Polskiego Instytutu Spraw Międzynarodowych | [Dz.U. 2026 poz. 930](DU/2026/DU-2026-930.md) | 2026-07-10 | – |
 | Ministra Sprawiedliwości w sprawie badań funkcjonariuszy Służby Więziennej na zawartość w organizmie alkoholu lub obecność podobnie działającego środka | [Dz.U. 2025 poz. 246](DU/2025/DU-2025-246.md) | 2025-02-27 | – |
