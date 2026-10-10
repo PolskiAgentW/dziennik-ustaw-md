@@ -212,6 +212,10 @@ w drzewach: zgubione 0. Pozostałe akty bez zmian (porównanie drzew wszystkich 
 załącznika DU/2026/956 „Część I” i „Część II” są teraz nagłówkami, choć to wiersze tabeli (tekst ten sam, zmienia się
 tylko typ węzła).
 
+Od 2026-10-10 codzienna aktualizacja używa eli2md 0.6.50 (wcześniej 0.6.25.2). Sprawdzenie przed zmianą: 100
+najnowszych aktów DU przeliczonych wersją 0.6.50 z tych samych PDF ma ten sam `.md` i `.json` co w zbiorze (poza
+polem `converter`).
+
 Zmiana 2026-10-05 w nocy (eli2md 0.6.25, wszystkie akty od nowa; wcześniej większość była z 0.6.7). Zmienione 386
 z 3287 plików, w 355 z nich te same słowa (zmieniają się tylko nagłówki, przypisy i podział akapitów): więcej nagłówków
 jednostek w 316 plikach, więcej przypisów w 73, w żadnym mniej. Słowa: −1694 / +1662 na 11,5 mln w zmienionych plikach,
