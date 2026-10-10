@@ -47,7 +47,7 @@ Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla ża
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-09 04:48 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-10 04:44 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -55,13 +55,13 @@ Stan na 2026-10-09 04:48 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 2021 | 42 | 42 | 0 |
 | 2023 | 46 | 46 | 0 |
 | 2025 | 1900 | 1900 | 0 |
-| 2026 | 1304 | 1304 | 0 |
+| 2026 | 1308 | 1308 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 81, razem 1840 z 56072 stron. Tekst z OCR (oznaczony) ma 1769 z nich w 74 aktach; treści pozostałych brak.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 81, razem 1840 z 56234 stron. Tekst z OCR (oznaczony) ma 1769 z nich w 74 aktach; treści pozostałych brak.
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 200.
 
-Rodzaje aktów: Rozporządzenie 1834, Obwieszczenie 1014, Ustawa 368, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
-Wersje konwertera: eli2md 0.6.25 (3224), eli2md 0.6.25.2 (78).
+Rodzaje aktów: Rozporządzenie 1834, Obwieszczenie 1017, Ustawa 369, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
+Wersje konwertera: eli2md 0.6.25 (3215), eli2md 0.6.25.2 (91).
 <!-- stats:end -->
 
 ## Teksty jednolite
@@ -98,7 +98,7 @@ wystąpienie, `re.findall` wszystkie; który tekst obowiązuje, mówią przypisy
 | Kodeks cywilny | [Dz.U. 2026 poz. 795](DU/2026/DU-2026-795.md) | 2026-06-17 | [Dz.U. 2025 poz. 1071](DU/2025/DU-2025-1071.md) |
 | Kodeks karny | [Dz.U. 2025 poz. 383](DU/2025/DU-2025-383.md) | 2025-03-26 | – |
 | Kodeks karny skarbowy | [Dz.U. 2025 poz. 633](DU/2025/DU-2025-633.md) | 2025-05-15 | – |
-| Kodeks karny wykonawczy | [Dz.U. 2025 poz. 911](DU/2025/DU-2025-911.md) | 2025-07-08 | – |
+| Kodeks karny wykonawczy | [Dz.U. 2026 poz. 1307](DU/2026/DU-2026-1307.md) | 2026-10-08 | [Dz.U. 2025 poz. 911](DU/2025/DU-2025-911.md) |
 | Kodeks postępowania administracyjnego | [Dz.U. 2025 poz. 1691](DU/2025/DU-2025-1691.md) | 2025-12-03 | – |
 | Kodeks postępowania cywilnego | [Dz.U. 2026 poz. 468](DU/2026/DU-2026-468.md) | 2026-04-07 | – |
 | Kodeks postępowania karnego | [Dz.U. 2026 poz. 490](DU/2026/DU-2026-490.md) | 2026-04-09 | [Dz.U. 2025 poz. 46](DU/2025/DU-2025-46.md) |
@@ -109,7 +109,7 @@ wystąpienie, `re.findall` wszystkie; który tekst obowiązuje, mówią przypisy
 | Kodeks wykroczeń | [Dz.U. 2025 poz. 734](DU/2025/DU-2025-734.md) | 2025-06-04 | – |
 | Ordynacja podatkowa | [Dz.U. 2026 poz. 622](DU/2026/DU-2026-622.md) | 2026-05-11 | [Dz.U. 2025 poz. 111](DU/2025/DU-2025-111.md) |
 
-Wszystkie akty z tekstem jednolitym ogłoszonym od 2025 r. (893): [TEKSTY_JEDNOLITE.md](TEKSTY_JEDNOLITE.md).
+Wszystkie akty z tekstem jednolitym ogłoszonym od 2025 r. (895): [TEKSTY_JEDNOLITE.md](TEKSTY_JEDNOLITE.md).
 <!-- tj:end -->
 
 ## Zawartość

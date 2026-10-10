@@ -2,7 +2,7 @@
 
 Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odświeżane automatycznie). Nazwa aktu pochodzi z tytułu obwieszczenia. Tekst jednolity podaje stan prawny na dzień wskazany w obwieszczeniu; zmian ogłoszonych później w nim nie ma. Teksty nieoficjalne, wiążący jest PDF.
 
-## Ustawy (401)
+## Ustawy (403)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -128,9 +128,11 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej | [Dz.U. 2026 poz. 44](DU/2026/DU-2026-44.md) | 2026-01-15 | – |
 | o obligacjach | [Dz.U. 2025 poz. 1667](DU/2025/DU-2025-1667.md) | 2025-12-01 | – |
 | o obronie Ojczyzny | [Dz.U. 2025 poz. 825](DU/2025/DU-2025-825.md) | 2025-06-25 | – |
+| o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej | [Dz.U. 2026 poz. 1305](DU/2026/DU-2026-1305.md) | 2026-10-08 | – |
 | o obywatelstwie polskim | [Dz.U. 2025 poz. 1611](DU/2025/DU-2025-1611.md) | 2025-11-24 | – |
 | o ochotniczych strażach pożarnych | [Dz.U. 2025 poz. 244](DU/2025/DU-2025-244.md) | 2025-02-27 | – |
 | o ochronie granicy państwowej | [Dz.U. 2026 poz. 919](DU/2026/DU-2026-919.md) | 2026-07-08 | [Dz.U. 2025 poz. 184](DU/2025/DU-2025-184.md) |
+| o ochronie i pomocy dla pokrzywdzonego i świadka | [Dz.U. 2026 poz. 1306](DU/2026/DU-2026-1306.md) | 2026-10-08 | – |
 | o ochronie informacji niejawnych | [Dz.U. 2025 poz. 1209](DU/2025/DU-2025-1209.md) | 2025-09-02 | – |
 | o ochronie konkurencji i konsumentów | [Dz.U. 2025 poz. 1714](DU/2025/DU-2025-1714.md) | 2025-12-05 | – |
 | o ochronie niektórych usług świadczonych drogą elektroniczną opartych lub polegających na dostępie warunkowym | [Dz.U. 2025 poz. 177](DU/2025/DU-2025-177.md) | 2025-02-11 | – |
@@ -374,7 +376,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Kodeks cywilny | [Dz.U. 2026 poz. 795](DU/2026/DU-2026-795.md) | 2026-06-17 | [Dz.U. 2025 poz. 1071](DU/2025/DU-2025-1071.md) |
 | – Kodeks karny | [Dz.U. 2025 poz. 383](DU/2025/DU-2025-383.md) | 2025-03-26 | – |
 | – Kodeks karny skarbowy | [Dz.U. 2025 poz. 633](DU/2025/DU-2025-633.md) | 2025-05-15 | – |
-| – Kodeks karny wykonawczy | [Dz.U. 2025 poz. 911](DU/2025/DU-2025-911.md) | 2025-07-08 | – |
+| – Kodeks karny wykonawczy | [Dz.U. 2026 poz. 1307](DU/2026/DU-2026-1307.md) | 2026-10-08 | [Dz.U. 2025 poz. 911](DU/2025/DU-2025-911.md) |
 | – Kodeks postępowania administracyjnego | [Dz.U. 2025 poz. 1691](DU/2025/DU-2025-1691.md) | 2025-12-03 | – |
 | – Kodeks postępowania cywilnego | [Dz.U. 2026 poz. 468](DU/2026/DU-2026-468.md) | 2026-04-07 | – |
 | – Kodeks postępowania karnego | [Dz.U. 2026 poz. 490](DU/2026/DU-2026-490.md) | 2026-04-09 | [Dz.U. 2025 poz. 46](DU/2025/DU-2025-46.md) |
