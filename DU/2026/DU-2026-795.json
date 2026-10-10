@@ -193,11 +193,8 @@
      "text": "Kodeks cywilny[^1]"
     },
     {
-     "type": "text",
-     "text": "KSIĘGA PIERWSZA"
-    },
-    {
-     "type": "text",
+     "type": "heading",
+     "label": "KSIĘGA PIERWSZA",
      "text": "CZĘŚĆ OGÓLNA"
     },
     {
@@ -3163,18 +3160,14 @@
        "num": "2",
        "path": "art_125/par_2",
        "text": "(uchylony)",
-       "children": [
-        {
-         "type": "text",
-         "text": "KSIĘGA DRUGA"
-        },
-        {
-         "type": "text",
-         "text": "WŁASNOŚĆ I INNE PRAWA RZECZOWE"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "KSIĘGA DRUGA",
+     "text": "WŁASNOŚĆ I INNE PRAWA RZECZOWE"
     },
     {
      "type": "heading",
@@ -6168,14 +6161,14 @@
        "num": "2",
        "path": "art_352/par_2",
        "text": "Do posiadania służebności stosuje się odpowiednio przepisy o posiadaniu rzeczy.",
-       "children": [
-        {
-         "type": "text",
-         "text": "KSIĘGA TRZECIA ZOBOWIĄZANIA"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "KSIĘGA TRZECIA",
+     "text": "ZOBOWIĄZANIA"
     },
     {
      "type": "heading",
@@ -17758,12 +17751,12 @@
      "num": "921¹⁶",
      "path": "art_921¹⁶",
      "text": "Przepisy niniejszego działu stosuje się odpowiednio do papierów wartościowych opiewających na prawa inne niż wierzytelności.",
-     "children": [
-      {
-       "type": "text",
-       "text": "KSIĘGA CZWARTA SPADKI"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "KSIĘGA CZWARTA",
+     "text": "SPADKI"
     },
     {
      "type": "heading",

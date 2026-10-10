@@ -203,6 +203,15 @@ w artykułach dodanych później (1 182) ani błędów wspólnych z warstwą tek
 - przypis z etykietą rzymską w zwykłym druku („I) Odnośnik dodany przez…”) dokleja się do poprzedniego przypisu;
 - indeks dolny z literą lub kropką ginie: „kategorii T , T , T” zamiast „T1b, T2b, T3b” (DU/2025/1490 art. 54).
 
+Zmiana 2026-10-10 (drzewo JSON, kod drzewa eli2md 0.6.50, 85 aktów; opis w README eli2md, wpis 0.6.50): nagłówki z
+liczebnikiem słownym („DZIAŁ PIĄTY”, „CZĘŚĆ PIERWSZA”), z numerem rzymskim z wielką literą („DZIAŁ IVA”) albo z
+odnośnikiem po numerze („Rozdział 5a[^28]”) są w `.json` węzłami `heading`. Wcześniej trafiały jako tekst do artykułu,
+paragrafu albo punktu przed nimi. Nowych nagłówków: 261, żaden nie zniknął. `.md` się nie zmienił, więc pole
+`converter` (w `.md`, `.json` i `index.csv`) zostaje wersją, w której powstał `.md`. Liczba jednostek bez zmian, słowa
+w drzewach: zgubione 0. Pozostałe akty bez zmian (porównanie drzew wszystkich aktów zbioru). Wątpliwe: w tabeli
+załącznika DU/2026/956 „Część I” i „Część II” są teraz nagłówkami, choć to wiersze tabeli (tekst ten sam, zmienia się
+tylko typ węzła).
+
 Zmiana 2026-10-05 w nocy (eli2md 0.6.25, wszystkie akty od nowa; wcześniej większość była z 0.6.7). Zmienione 386
 z 3287 plików, w 355 z nich te same słowa (zmieniają się tylko nagłówki, przypisy i podział akapitów): więcej nagłówków
 jednostek w 316 plikach, więcej przypisów w 73, w żadnym mniej. Słowa: −1694 / +1662 na 11,5 mln w zmienionych plikach,
