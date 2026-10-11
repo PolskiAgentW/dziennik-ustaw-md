@@ -47,21 +47,31 @@ Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla ża
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-10 20:26 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-11 04:40 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
-| 2020 | 10 | 10 | 0 |
-| 2021 | 42 | 42 | 0 |
-| 2023 | 46 | 46 | 0 |
+| 2012 | 67 | 67 | 0 |
+| 2013 | 110 | 110 | 0 |
+| 2014 | 142 | 142 | 0 |
+| 2015 | 208 | 208 | 0 |
+| 2016 | 316 | 316 | 0 |
+| 2017 | 336 | 336 | 0 |
+| 2018 | 382 | 382 | 0 |
+| 2019 | 404 | 404 | 0 |
+| 2020 | 411 | 411 | 0 |
+| 2021 | 368 | 368 | 0 |
+| 2022 | 391 | 391 | 0 |
+| 2023 | 433 | 433 | 0 |
+| 2024 | 392 | 392 | 0 |
 | 2025 | 1900 | 1900 | 0 |
 | 2026 | 1308 | 1308 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 81, razem 1840 z 56234 stron. Tekst z OCR (oznaczony) ma 1769 z nich w 74 aktach; treści pozostałych brak.
-Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 200.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 91, razem 1856 z 202793 stron. Tekst z OCR (oznaczony) ma 1784 z nich w 83 aktach; treści pozostałych brak.
+Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 245.
 
-Rodzaje aktów: Rozporządzenie 1834, Obwieszczenie 1017, Ustawa 369, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
-Wersje konwertera: eli2md 0.6.25 (3215), eli2md 0.6.25.2 (91).
+Rodzaje aktów: Obwieszczenie 4879, Rozporządzenie 1834, Ustawa 369, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
+Wersje konwertera: eli2md 0.6.51 (3862), eli2md 0.6.25 (3215), eli2md 0.6.25.2 (91).
 <!-- stats:end -->
 
 ## Teksty jednolite
