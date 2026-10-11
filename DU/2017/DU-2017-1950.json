@@ -1,7 +1,7 @@
 {
  "eli": "DU/2017/1950",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 28 września 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o świadczeniach odszkodowawczych przysługujących w razie wypadków i chorób pozostających w związku ze służbą wojskową",
- "converter": "eli2md 0.6.50",
+ "converter": "eli2md 0.6.51",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2017/1950/text.pdf",
  "body": [
   {
@@ -18,7 +18,7 @@
   },
   {
    "type": "text",
-   "text": "w sprawie ogłoszenia jednolitego tekstu ustawy o ś wiadczeniach odszkodowawczych przysługuj ą cych w razie wypadków i chorób pozostaj ą cych w zwi ą zku ze słu ż b ą wojskow ą"
+   "text": "w sprawie ogłoszenia jednolitego tekstu ustawy o świadczeniach odszkodowawczych przysługujących w razie wypadków i chorób pozostających w związku ze służbą wojskową"
   },
   {
    "type": "ust",
@@ -75,14 +75,14 @@
        "type": "text",
        "text": "„Art. 28. Ustawa wchodzi w życie z dniem 1 stycznia 2017 r.”.",
        "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "Marszałek Sejmu: M. Kuchci ń ski"
       }
      ]
     }
    ]
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: M. Kuchciński"
   }
  ],
  "annexes": [
@@ -99,7 +99,7 @@
     },
     {
      "type": "text",
-     "text": "o ś wiadczeniach odszkodowawczych przysługuj ą cych w razie wypadków i chorób pozostaj ą cych w zwi ą zku ze słu ż b ą wojskow ą"
+     "text": "o świadczeniach odszkodowawczych przysługujących w razie wypadków i chorób pozostających w związku ze służbą wojskową"
     },
     {
      "type": "heading",
@@ -362,36 +362,46 @@
      "num": "10",
      "path": "art_10",
      "text": "Żołnierzowi, który wskutek wypadku albo choroby doznał stałego lub długotrwałego uszczerbku na zdrowiu, przysługuje jednorazowe odszkodowanie.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "11",
+     "path": "art_11",
+     "text": "",
      "children": [
       {
-       "type": "text",
-       "text": "Art. 11 . 1. Jednorazowe odszkodowanie przysługuje w wysokości 20% przeciętnego wynagrodzenia za każdy procent stałego lub długotrwałego uszczerbku na zdrowiu, z zastrzeżeniem art. 28 ust. 1."
+       "type": "ust",
+       "num": "1",
+       "path": "art_11/ust_1",
+       "text": "Jednorazowe odszkodowanie przysługuje w wysokości 20% przeciętnego wynagrodzenia za każdy procent stałego lub długotrwałego uszczerbku na zdrowiu, z zastrzeżeniem art. 28 ust. 1.",
+       "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "art_10/ust_2",
+       "path": "art_11/ust_2",
        "text": "Jeżeli wskutek pogorszenia się stanu zdrowia stały lub długotrwały uszczerbek na zdrowiu będący następstwem wypadku lub choroby, który był podstawą przyznania jednorazowego odszkodowania, ulegnie zwiększeniu co najmniej o 10 punktów procentowych, jednorazowe odszkodowanie zwiększa się o 20% przeciętnego wynagrodzenia za każdy procent uszczerbku na zdrowiu przewyższający procent, według którego ustalone było to odszkodowanie, z zastrzeżeniem art. 28 ust. 2.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
-       "path": "art_10/ust_3",
+       "path": "art_11/ust_3",
        "text": "Jednorazowe odszkodowanie ulega zwiększeniu o kwotę stanowiącą 3,5-krotność przeciętnego wynagrodzenia, jeżeli żołnierz wskutek wypadku lub choroby został uznany za całkowicie niezdolnego do pracy oraz niezdolnego do samodzielnej egzystencji.",
        "children": []
       },
       {
        "type": "ust",
        "num": "4",
-       "path": "art_10/ust_4",
-       "text": "Przepis ust. 3 stosuje si ę odpowiednio, je ż eli rencista lub inwalida wskutek pogorszenia si ę stanu zdrowia w nast ę pstwie wypadku lub choroby zostanie uznany za całkowicie niezdolnego do pracy oraz niezdolnego do samodzielnej egzystencji.",
+       "path": "art_11/ust_4",
+       "text": "Przepis ust. 3 stosuje się odpowiednio, jeżeli rencista lub inwalida wskutek pogorszenia się stanu zdrowia w następstwie wypadku lub choroby zostanie uznany za całkowicie niezdolnego do pracy oraz niezdolnego do samodzielnej egzystencji.",
        "children": []
       },
       {
        "type": "ust",
        "num": "5",
-       "path": "art_10/ust_5",
+       "path": "art_11/ust_5",
        "text": "Kwotę jednorazowego odszkodowania zaokrągla się do pełnych złotych.",
        "children": []
       }
@@ -586,7 +596,7 @@
        "type": "ust",
        "num": "2",
        "path": "art_15/ust_2",
-       "text": "Zwi ę kszenie jednorazowego odszkodowania przysługuje, je ż eli zmiany w stanie zdrowia ż ołnierza uzasadniaj ą ce zwi ę kszenie odszkodowania nast ą piły w terminach okre ś lonych w ust. 1 pkt 1 i 2.",
+       "text": "Zwiększenie jednorazowego odszkodowania przysługuje, jeżeli zmiany w stanie zdrowia żołnierza uzasadniające zwiększenie odszkodowania nastąpiły w terminach określonych w ust. 1 pkt 1 i 2.",
        "children": []
       }
      ]
@@ -595,13 +605,13 @@
      "type": "art",
      "num": "16",
      "path": "art_16",
-     "text": "W szczególnie uzasadnionych przypadkach Minister Obrony Narodowej mo ż e przyzna ć :",
+     "text": "W szczególnie uzasadnionych przypadkach Minister Obrony Narodowej może przyznać:",
      "children": [
       {
        "type": "pkt",
        "num": "1",
        "path": "art_16/pkt_1",
-       "text": "ż ołnierzowi albo członkowi rodziny zmarłego ż ołnierza – jednorazowe odszkodowanie wy ż sze ni ż okre ś lone w art. 11 i 13;",
+       "text": "żołnierzowi albo członkowi rodziny zmarłego żołnierza – jednorazowe odszkodowanie wyższe niż określone w art. 11 i 13;",
        "children": []
       },
       {
@@ -623,7 +633,7 @@
     {
      "type": "heading",
      "label": "Rozdział 3",
-     "text": "Odszkodowanie za przedmioty osobistego u ż ytku oraz przedmioty słu żą ce do wykonywania zawodu"
+     "text": "Odszkodowanie za przedmioty osobistego użytku oraz przedmioty służące do wykonywania zawodu"
     },
     {
      "type": "art",
@@ -672,7 +682,7 @@
     {
      "type": "heading",
      "label": "Rozdział 4",
-     "text": "Post ę powanie w sprawie odszkodowania"
+     "text": "Postępowanie w sprawie odszkodowania"
     },
     {
      "type": "art",
@@ -762,12 +772,12 @@
          "type": "pkt",
          "num": "3",
          "path": "art_20/ust_3/pkt_3",
-         "text": "wykaz norm oceny uszczerbku na zdrowiu oraz wzór skierowania do wojskowych komisji lekarskich, jak również wzory orzecze ń wydawanych przez te komisje w sprawach uszczerbku na zdrowiu lub ś mierci ż ołnierza wskutek wypadku albo choroby",
+         "text": "wykaz norm oceny uszczerbku na zdrowiu oraz wzór skierowania do wojskowych komisji lekarskich, jak również wzory orzeczeń wydawanych przez te komisje w sprawach uszczerbku na zdrowiu lub śmierci żołnierza wskutek wypadku albo choroby",
          "children": []
         },
         {
          "type": "text",
-         "text": "– kieruj ą c si ę konieczno ś ci ą ochrony interesów osób poszkodowanych."
+         "text": "– kierując się koniecznością ochrony interesów osób poszkodowanych."
         }
        ]
       }
@@ -777,7 +787,7 @@
      "type": "art",
      "num": "21",
      "path": "art_21",
-     "text": "Post ę powanie w sprawie ś wiadcze ń odszkodowawczych wszczyna si ę na wniosek osoby zainteresowanej lub z urz ę du.",
+     "text": "Postępowanie w sprawie świadczeń odszkodowawczych wszczyna się na wniosek osoby zainteresowanej lub z urzędu.",
      "children": []
     },
     {
@@ -935,20 +945,20 @@
        "type": "ust",
        "num": "1",
        "path": "art_28/ust_1",
-       "text": "Jednorazowe odszkodowanie za każdy procent stałego lub długotrwałego uszczerbku na zdrowiu przysługuje w wysoko ś ci:",
+       "text": "Jednorazowe odszkodowanie za każdy procent stałego lub długotrwałego uszczerbku na zdrowiu przysługuje w wysokości:",
        "children": [
         {
          "type": "pkt",
          "num": "1",
          "path": "art_28/ust_1/pkt_1",
-         "text": "16% przeci ę tnego wynagrodzenia – w okresie do dnia 31 marca 2004 r.;",
+         "text": "16% przeciętnego wynagrodzenia – w okresie do dnia 31 marca 2004 r.;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "art_28/ust_1/pkt_2",
-         "text": "17% przeci ę tnego wynagrodzenia – w okresie od dnia 1 kwietnia 2004 r. do dnia 31 marca 2005 r.;",
+         "text": "17% przeciętnego wynagrodzenia – w okresie od dnia 1 kwietnia 2004 r. do dnia 31 marca 2005 r.;",
          "children": []
         },
         {
@@ -1113,10 +1123,10 @@
   }
  ],
  "footnotes": {
-  "1": "W brzmieniu ustalonym przez art. 20 pkt 1 ustawy z dnia 16 listopada 2016 r. o zmianie ustawy o powszechnym obowi ą zku obrony Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 2138), która weszła w życie z dniem 1 stycznia 2017 r.",
+  "1": "W brzmieniu ustalonym przez art. 20 pkt 1 ustawy z dnia 16 listopada 2016 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 2138), która weszła w życie z dniem 1 stycznia 2017 r.",
   "2": "W brzmieniu ustalonym przez art. 20 pkt 2 ustawy, o której mowa w odnośniku 1.",
   "3": "W brzmieniu ustalonym przez art. 58 pkt 1 ustawy z dnia 28 listopada 2014 r. o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych (Dz. U. poz. 1822), która weszła w życie z dniem 1 stycznia 2015 r.",
-  "4": "W brzmieniu ustalonym przez art. 58 pkt 2 ustawy, o której mowa w odno ś niku 3.",
+  "4": "W brzmieniu ustalonym przez art. 58 pkt 2 ustawy, o której mowa w odnośniku 3.",
   "5": "Ustawa została ogłoszona w dniu 13 maja 2003 r."
  }
 }

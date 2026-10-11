@@ -1,7 +1,7 @@
 {
  "eli": "DU/2017/2344",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 listopada 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo upadłościowe",
- "converter": "eli2md 0.6.50",
+ "converter": "eli2md 0.6.51",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2017/2344/text.pdf",
  "body": [
   {
@@ -18,7 +18,7 @@
   },
   {
    "type": "text",
-   "text": "w sprawie ogłoszenia jednolitego tekstu ustawy – Prawo upadło ś ciowe"
+   "text": "w sprawie ogłoszenia jednolitego tekstu ustawy – Prawo upadłościowe"
   },
   {
    "type": "ust",
@@ -107,12 +107,12 @@
       },
       {
        "type": "text",
-       "text": "2. Legitymacje słu ż bowe radców i starszych radców Prokuratorii Generalnej Skarbu Pa ń stwa mog ą by ć u ż ywane jako legitymacje słu ż bowe radców Prokuratorii Generalnej, o których mowa w art. 33 ust. 2, przez okres wa ż no ś ci tych legitymacji nie dłu ż ej jednak ni ż do dnia 30 czerwca 2017 r.",
+       "text": "2. Legitymacje służbowe radców i starszych radców Prokuratorii Generalnej Skarbu Państwa mogą być używane jako legitymacje służbowe radców Prokuratorii Generalnej, o których mowa w art. 33 ust. 2, przez okres ważności tych legitymacji nie dłużej jednak niż do dnia 30 czerwca 2017 r.",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "Art. 124. Do spraw przekazanych przez Prokuratori ę Generaln ą Skarbu Pa ń stwa do prowadzenia wła ś ciwym jednostkom organizacyjnym Skarbu Pa ń stwa przed dniem wej ś cia w ż ycie ustawy stosuje si ę przepisy dotychczasowe.”",
+       "text": "Art. 124. Do spraw przekazanych przez Prokuratorię Generalną Skarbu Państwa do prowadzenia właściwym jednostkom organizacyjnym Skarbu Państwa przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.”",
        "quoted": true
       },
       {
@@ -194,15 +194,12 @@
     },
     {
      "type": "text",
-     "text": "Prawo upadło ś ciowe[^1]"
+     "text": "Prawo upadłościowe[^1]"
     },
     {
-     "type": "text",
-     "text": "CZ ĘŚĆ PIERWSZA"
-    },
-    {
-     "type": "text",
-     "text": "PRZEPISY OGÓLNE O POST Ę POWANIU UPADŁO Ś CIOWYM I JEGO SKUTKACH"
+     "type": "heading",
+     "label": "CZĘŚĆ PIERWSZA",
+     "text": "PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH"
     },
     {
      "type": "heading",
@@ -212,7 +209,7 @@
     {
      "type": "heading",
      "label": "DZIAŁ I",
-     "text": "Przepisy wst ę pne"
+     "text": "Przepisy wstępne"
     },
     {
      "type": "art",
@@ -509,7 +506,7 @@
      "type": "art",
      "num": "10",
      "path": "art_10",
-     "text": "Upadło ść ogłasza si ę w stosunku do dłu ż nika, który stał si ę niewypłacalny.",
+     "text": "Upadłość ogłasza się w stosunku do dłużnika, który stał się niewypłacalny.",
      "children": []
     },
     {
@@ -522,14 +519,14 @@
        "type": "ust",
        "num": "1",
        "path": "art_11/ust_1",
-       "text": "Dłu ż nik jest niewypłacalny, je ż eli utracił zdolno ść do wykonywania swoich wymagalnych zobowi ą za ń pieni ęż nych.",
+       "text": "Dłużnik jest niewypłacalny, jeżeli utracił zdolność do wykonywania swoich wymagalnych zobowiązań pieniężnych.",
        "children": []
       },
       {
        "type": "ust",
        "num": "1a",
        "path": "art_11/ust_1a",
-       "text": "Domniemywa si ę , ż e dłu ż nik utracił zdolno ść do wykonywania swoich wymagalnych zobowi ą za ń pieni ęż nych, jeżeli opóźnienie w wykonaniu zobowiązań pieniężnych przekracza trzy miesiące.",
+       "text": "Domniemywa się, że dłużnik utracił zdolność do wykonywania swoich wymagalnych zobowiązań pieniężnych, jeżeli opóźnienie w wykonaniu zobowiązań pieniężnych przekracza trzy miesiące.",
        "children": []
       },
       {
@@ -675,7 +672,7 @@
      "type": "art",
      "num": "18",
      "path": "art_18",
-     "text": "Sprawy o ogłoszenie upadło ś ci rozpoznaje s ą d upadło ś ciowy w składzie trzech s ę dziów zawodowych. S ą dem upadło ś ciowym jest s ą d rejonowy – s ą d gospodarczy.",
+     "text": "Sprawy o ogłoszenie upadłości rozpoznaje sąd upadłościowy w składzie trzech sędziów zawodowych. Sądem upadłościowym jest sąd rejonowy – sąd gospodarczy.",
      "children": []
     },
     {
@@ -688,7 +685,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_19/ust_1",
-       "text": "Sprawy o ogłoszenie upadło ś ci rozpoznaje s ą d wła ś ciwy dla głównego o ś rodka podstawowej działalno ś ci dłu ż nika.",
+       "text": "Sprawy o ogłoszenie upadłości rozpoznaje sąd właściwy dla głównego ośrodka podstawowej działalności dłużnika.",
        "children": []
       },
       {
@@ -738,7 +735,7 @@
     {
      "type": "heading",
      "label": "DZIAŁ II",
-     "text": "Wniosek o ogłoszenie upadło ś ci"
+     "text": "Wniosek o ogłoszenie upadłości"
     },
     {
      "type": "art",
@@ -843,7 +840,7 @@
        "type": "ust",
        "num": "3",
        "path": "art_21/ust_3",
-       "text": "Osoby, o których mowa w ust. 1 i 2, ponosz ą odpowiedzialno ść za szkod ę wyrz ą dzon ą wskutek niezło ż enia wniosku w terminie okre ś lonym w ust. 1, chyba ż e nie ponosz ą winy. Osoby te mog ą uwolni ć si ę od odpowiedzialno ś ci, w szczególno ś ci je ż eli wyka żą , ż e w terminie okre ś lonym w ust. 1 otwarto post ę powanie restrukturyzacyjne albo zatwierdzono układ w post ę powaniu o zatwierdzenie układu.",
+       "text": "Osoby, o których mowa w ust. 1 i 2, ponoszą odpowiedzialność za szkodę wyrządzoną wskutek niezłożenia wniosku w terminie określonym w ust. 1, chyba że nie ponoszą winy. Osoby te mogą uwolnić się od odpowiedzialności, w szczególności jeżeli wykażą, że w terminie określonym w ust. 1 otwarto postępowanie restrukturyzacyjne albo zatwierdzono układ w postępowaniu o zatwierdzenie układu.",
        "children": []
       },
       {
@@ -1006,7 +1003,7 @@
          "type": "pkt",
          "num": "7",
          "path": "art_23/ust_1/pkt_7",
-         "text": "informacj ę o post ę powaniach dotycz ą cych ustanowienia na maj ą tku dłu ż nika hipotek, zastawów, zastawów rejestrowych, zastawów skarbowych i hipotek morskich oraz innych obci ąż e ń podlegaj ą cych wpisowi w ksi ę dze wieczystej lub w rejestrach, jak równie ż o prowadzonych innych post ę powaniach s ą dowych, administracyjnych, s ą dowoadministracyjnych oraz przed s ą dami polubownymi dotycz ą cych maj ą tku dłu ż nika;",
+         "text": "informację o postępowaniach dotyczących ustanowienia na majątku dłużnika hipotek, zastawów, zastawów rejestrowych, zastawów skarbowych i hipotek morskich oraz innych obciążeń podlegających wpisowi w księdze wieczystej lub w rejestrach, jak również o prowadzonych innych postępowaniach sądowych, administracyjnych, sądowoadministracyjnych oraz przed sądami polubownymi dotyczących majątku dłużnika;",
          "children": []
         },
         {
@@ -1073,7 +1070,7 @@
     {
      "type": "heading",
      "label": "DZIAŁ III",
-     "text": "Przepisy o post ę powaniu"
+     "text": "Przepisy o postępowaniu"
     },
     {
      "type": "art",
@@ -1179,7 +1176,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_28/ust_1",
-       "text": "Wniosek o ogłoszenie upadłości nieodpowiadający wymogom określonym w ustawie lub nienależycie opłacony zwraca si ę bez wezwania o uzupełnienie lub opłacenie wniosku, je ż eli został on zgłoszony przez wnioskodawc ę reprezentowanego przez adwokata lub radc ę prawnego.",
+       "text": "Wniosek o ogłoszenie upadłości nieodpowiadający wymogom określonym w ustawie lub nienależycie opłacony zwraca się bez wezwania o uzupełnienie lub opłacenie wniosku, jeżeli został on zgłoszony przez wnioskodawcę reprezentowanego przez adwokata lub radcę prawnego.",
        "children": []
       },
       {
@@ -1375,13 +1372,13 @@
      "type": "art",
      "num": "35",
      "path": "art_35",
-     "text": "W sprawach nieuregulowanych w ustawie do postępowania w przedmiocie ogłoszenia upadłości stosuje się odpowiednio przepisy ksi ę gi pierwszej cz ęś ci pierwszej Kodeksu post ę powania cywilnego, z wyj ą tkiem przepisów o zawieszeniu i wznowieniu post ę powania.",
+     "text": "W sprawach nieuregulowanych w ustawie do postępowania w przedmiocie ogłoszenia upadłości stosuje się odpowiednio przepisy księgi pierwszej części pierwszej Kodeksu postępowania cywilnego, z wyjątkiem przepisów o zawieszeniu i wznowieniu postępowania.",
      "children": []
     },
     {
      "type": "heading",
      "label": "DZIAŁ IV",
-     "text": "Post ę powanie zabezpieczaj ą ce"
+     "text": "Postępowanie zabezpieczające"
     },
     {
      "type": "heading",
@@ -1405,7 +1402,7 @@
     {
      "type": "heading",
      "label": "Rozdział 2",
-     "text": "Zabezpieczenie maj ą tku dłu ż nika"
+     "text": "Zabezpieczenie majątku dłużnika"
     },
     {
      "type": "art",
@@ -1495,7 +1492,7 @@
        "type": "ust",
        "num": "3",
        "path": "art_39/ust_3",
-       "text": "Postanowienie o zawieszeniu postępowania egzekucyjnego oraz uchyleniu zajęcia rachunku bankowego doręcza się wierzycielowi prowadz ą cemu egzekucj ę oraz organowi egzekucyjnemu. Na postanowienie to dłu ż nikowi oraz wierzycielowi prowadz ą cemu egzekucj ę przysługuje za ż alenie.",
+       "text": "Postanowienie o zawieszeniu postępowania egzekucyjnego oraz uchyleniu zajęcia rachunku bankowego doręcza się wierzycielowi prowadzącemu egzekucję oraz organowi egzekucyjnemu. Na postanowienie to dłużnikowi oraz wierzycielowi prowadzącemu egzekucję przysługuje zażalenie.",
        "children": []
       }
      ]
@@ -1510,7 +1507,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_40/ust_1",
-       "text": "S ą d mo ż e stosowa ć inne sposoby zabezpieczenia, w tym tak ż e zabezpieczenie przez ustanowienie zarz ą du przymusowego nad maj ą tkiem dłu ż nika, je ż eli zachodzi obawa, ż e dłu ż nik b ę dzie ukrywał swój maj ą tek lub w inny sposób działał na szkodę wierzycieli, a także gdy dłużnik nie wykonuje poleceń tymczasowego nadzorcy sądowego.",
+       "text": "Sąd może stosować inne sposoby zabezpieczenia, w tym także zabezpieczenie przez ustanowienie zarządu przymusowego nad majątkiem dłużnika, jeżeli zachodzi obawa, że dłużnik będzie ukrywał swój majątek lub w inny sposób działał na szkodę wierzycieli, a także gdy dłużnik nie wykonuje poleceń tymczasowego nadzorcy sądowego.",
        "children": []
       },
       {
@@ -1565,7 +1562,7 @@
     {
      "type": "heading",
      "label": "DZIAŁ VI",
-     "text": "Orzeczenie o ogłoszeniu upadło ś ci"
+     "text": "Orzeczenie o ogłoszeniu upadłości"
     },
     {
      "type": "art",
@@ -1663,14 +1660,14 @@
        "type": "ust",
        "num": "1",
        "path": "art_53/ust_1",
-       "text": "Postanowienie o ogłoszeniu upadło ś ci obwieszcza si ę .",
+       "text": "Postanowienie o ogłoszeniu upadłości obwieszcza się.",
        "children": []
       },
       {
        "type": "ust",
        "num": "2",
        "path": "art_53/ust_2",
-       "text": "[^5] Postanowienie w przedmiocie ogłoszenia upadło ś ci dor ę cza si ę syndykowi po uprzednim powiadomieniu go o ogłoszeniu upadło ś ci, upadłemu albo jego spadkobiercy oraz wierzycielowi, który żą dał ogłoszenia upadło ś ci. Postanowienie w przedmiocie ogłoszenia upadło ś ci przedsi ę biorstwa pa ń stwowego albo jednoosobowej spółki Skarbu Pa ń stwa doręcza się także odpowiednio organowi założycielskiemu albo pełnomocnikowi Rządu, państwowej osobie prawnej, organowi lub innej jednostce uprawnionej do wykonywania praw z akcji lub udziałów należących do Skarbu Państwa. Powiadomienie syndyka następuje w dniu ogłoszenia upadłości i dokonuje się go przy zastosowaniu środków bezpośredniego porozumiewania się na odległość, w szczególności przez telefon, faks lub pocztę elektroniczną.",
+       "text": "[^5] Postanowienie w przedmiocie ogłoszenia upadłości doręcza się syndykowi po uprzednim powiadomieniu go o ogłoszeniu upadłości, upadłemu albo jego spadkobiercy oraz wierzycielowi, który żądał ogłoszenia upadłości. Postanowienie w przedmiocie ogłoszenia upadłości przedsiębiorstwa państwowego albo jednoosobowej spółki Skarbu Państwa doręcza się także odpowiednio organowi założycielskiemu albo pełnomocnikowi Rządu, państwowej osobie prawnej, organowi lub innej jednostce uprawnionej do wykonywania praw z akcji lub udziałów należących do Skarbu Państwa. Powiadomienie syndyka następuje w dniu ogłoszenia upadłości i dokonuje się go przy zastosowaniu środków bezpośredniego porozumiewania się na odległość, w szczególności przez telefon, faks lub pocztę elektroniczną.",
        "children": []
       },
       {
@@ -1797,21 +1794,21 @@
        "type": "ust",
        "num": "2",
        "path": "art_56a/ust_2",
-       "text": "Niedopuszczalne jest złożenie wniosku o zatwierdzenie warunków sprzedaży w odniesieniu do składników majątkowych objętych zastawem rejestrowym, jeżeli umowa o ustanowienie zastawu rejestrowego przewiduje przejęcie przedmiotu zastawu albo jego sprzedaż na podstawie art. 24 ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. z 2017 r. poz. 1278), chyba że do wniosku zostanie dołączona pisemna zgoda zastawnika. Przepis art. 330 stosuje si ę odpowiednio.",
+       "text": "Niedopuszczalne jest złożenie wniosku o zatwierdzenie warunków sprzedaży w odniesieniu do składników majątkowych objętych zastawem rejestrowym, jeżeli umowa o ustanowienie zastawu rejestrowego przewiduje przejęcie przedmiotu zastawu albo jego sprzedaż na podstawie art. 24 ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. z 2017 r. poz. 1278), chyba że do wniosku zostanie dołączona pisemna zgoda zastawnika. Przepis art. 330 stosuje się odpowiednio.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
        "path": "art_56a/ust_3",
-       "text": "Do wniosku o zatwierdzenie warunków sprzeda ż y doł ą cza si ę opis i oszacowanie składnika obj ę tego wnioskiem sporz ą dzone przez osob ę wpisan ą na list ę biegłych s ą dowych.",
+       "text": "Do wniosku o zatwierdzenie warunków sprzedaży dołącza się opis i oszacowanie składnika objętego wnioskiem sporządzone przez osobę wpisaną na listę biegłych sądowych.",
        "children": []
       },
       {
        "type": "ust",
        "num": "4",
        "path": "art_56a/ust_4",
-       "text": "Wniosek o zatwierdzenie warunków sprzeda ż y musi zawiera ć warunki sprzeda ż y przez wskazanie co najmniej ceny oraz nabywcy. Warunki sprzeda ż y mog ą by ć okre ś lone w zło ż onym projekcie umowy, która ma by ć zawarta przez syndyka.",
+       "text": "Wniosek o zatwierdzenie warunków sprzedaży musi zawierać warunki sprzedaży przez wskazanie co najmniej ceny oraz nabywcy. Warunki sprzedaży mogą być określone w złożonym projekcie umowy, która ma być zawarta przez syndyka.",
        "children": []
       },
       {
@@ -1987,18 +1984,18 @@
      "type": "art",
      "num": "56h",
      "path": "art_56h",
-     "text": "W terminie przewidzianym na zawarcie umowy sprzeda ż y syndyk mo ż e zło ż y ć wniosek do s ą du o uchylenie lub zmian ę postanowienia zatwierdzaj ą cego warunki sprzeda ż y, je ż eli po wydaniu postanowienia zmieniły si ę lub zostały ujawnione okoliczno ś ci maj ą ce istotny wpływ na warto ść składnika maj ą tkowego b ę d ą cego przedmiotem sprzeda ż y. Na postanowienie uwzgl ę dniaj ą ce wniosek przysługuje za ż alenie. Przepisy art. 56a–56g stosuje si ę odpowiednio.",
+     "text": "W terminie przewidzianym na zawarcie umowy sprzedaży syndyk może złożyć wniosek do sądu o uchylenie lub zmianę postanowienia zatwierdzającego warunki sprzedaży, jeżeli po wydaniu postanowienia zmieniły się lub zostały ujawnione okoliczności mające istotny wpływ na wartość składnika majątkowego będącego przedmiotem sprzedaży. Na postanowienie uwzględniające wniosek przysługuje zażalenie. Przepisy art. 56a–56g stosuje się odpowiednio.",
      "children": []
     },
     {
      "type": "heading",
      "label": "TYTUŁ III",
-     "text": "Skutki ogłoszenia upadło ś ci"
+     "text": "Skutki ogłoszenia upadłości"
     },
     {
      "type": "heading",
      "label": "DZIAŁ I",
-     "text": "Skutki ogłoszenia upadło ś ci co do osoby upadłego"
+     "text": "Skutki ogłoszenia upadłości co do osoby upadłego"
     },
     {
      "type": "art",
@@ -2103,12 +2100,12 @@
     {
      "type": "heading",
      "label": "DZIAŁ II",
-     "text": "Skutki ogłoszenia upadło ś ci co do maj ą tku upadłego"
+     "text": "Skutki ogłoszenia upadłości co do majątku upadłego"
     },
     {
      "type": "heading",
      "label": "Rozdział 1",
-     "text": "Masa upadło ś ci"
+     "text": "Masa upadłości"
     },
     {
      "type": "heading",
@@ -2159,7 +2156,7 @@
          "type": "pkt",
          "num": "3",
          "path": "art_63/ust_1/pkt_3",
-         "text": "kwota uzyskana z tytułu realizacji zastawu rejestrowego lub hipoteki, jeżeli upadły pełnił funkcję administratora zastawu lub hipoteki, w cz ęś ci przypadaj ą cej zgodnie z umow ą powołuj ą c ą administratora pozostałym wierzycielom.",
+         "text": "kwota uzyskana z tytułu realizacji zastawu rejestrowego lub hipoteki, jeżeli upadły pełnił funkcję administratora zastawu lub hipoteki, w części przypadającej zgodnie z umową powołującą administratora pozostałym wierzycielom.",
          "children": []
         }
        ]
@@ -2168,7 +2165,7 @@
        "type": "ust",
        "num": "2",
        "path": "art_63/ust_2",
-       "text": "Uchwała zgromadzenia wierzycieli mo ż e wył ą czy ć z masy upadło ś ci inne składniki mienia upadłego.",
+       "text": "Uchwała zgromadzenia wierzycieli może wyłączyć z masy upadłości inne składniki mienia upadłego.",
        "children": []
       }
      ]
@@ -2332,7 +2329,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_67a/ust_1",
-       "text": "Mienie przeznaczone na pomoc dla uczestników systemu ochrony, stanowiące zgromadzone na odrębnym rachunku bankowym ś rodki pieni ęż ne funduszu pomocowego tworzonego na podstawie przepisów ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu si ę i bankach zrzeszaj ą cych (Dz. U. z 2016 r. poz. 1826 oraz z 2017 r. poz. 1089), wraz z przypadaj ą cymi po ogłoszeniu upadło ś ci kwotami pochodz ą cymi ze zwrotu udzielonych po ż yczek na cele pomocowe, wpłatami odsetek bankowych od ś rodków tego funduszu oraz opłatami pobieranymi od korzystających z usług i świadczeń finansowanych z tego funduszu organizowanych przez upadłego, nie wchodzi w skład masy upadłości. Składniki tego mienia oznaczy sędzia-komisarz. Na postanowienie sędziego-komisarza przysługuje zażalenie upadłemu, wierzycielom oraz uczestnikom systemu ochrony.",
+       "text": "Mienie przeznaczone na pomoc dla uczestników systemu ochrony, stanowiące zgromadzone na odrębnym rachunku bankowym środki pieniężne funduszu pomocowego tworzonego na podstawie przepisów ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2016 r. poz. 1826 oraz z 2017 r. poz. 1089), wraz z przypadającymi po ogłoszeniu upadłości kwotami pochodzącymi ze zwrotu udzielonych pożyczek na cele pomocowe, wpłatami odsetek bankowych od środków tego funduszu oraz opłatami pobieranymi od korzystających z usług i świadczeń finansowanych z tego funduszu organizowanych przez upadłego, nie wchodzi w skład masy upadłości. Składniki tego mienia oznaczy sędzia-komisarz. Na postanowienie sędziego-komisarza przysługuje zażalenie upadłemu, wierzycielom oraz uczestnikom systemu ochrony.",
        "children": []
       },
       {
@@ -2361,7 +2358,7 @@
     {
      "type": "heading",
      "label": "Oddział 2",
-     "text": "Ustalanie składu masy upadło ś ci"
+     "text": "Ustalanie składu masy upadłości"
     },
     {
      "type": "art",
@@ -2437,7 +2434,7 @@
     {
      "type": "heading",
      "label": "Oddział 3",
-     "text": "Wył ą czenia z masy upadło ś ci"
+     "text": "Wyłączenia z masy upadłości"
     },
     {
      "type": "art",
@@ -2477,7 +2474,7 @@
        "type": "ust",
        "num": "3",
        "path": "art_71/ust_3",
-       "text": "Je ż eli ś wiadczenie, o którym mowa w ust. 1 i 2, nie zostało spełnione przed zgłoszeniem żą dania wydania, prawo do ś wiadczenia przechodzi na maj ą cego prawo do wył ą czonego mienia.",
+       "text": "Jeżeli świadczenie, o którym mowa w ust. 1 i 2, nie zostało spełnione przed zgłoszeniem żądania wydania, prawo do świadczenia przechodzi na mającego prawo do wyłączonego mienia.",
        "children": []
       }
      ]
@@ -2486,7 +2483,7 @@
      "type": "art",
      "num": "72",
      "path": "art_72",
-     "text": "Osoba, której przysługuje prawo do mienia podlegaj ą cego wył ą czeniu, mo ż e żą da ć jego wydania lub ś wiadczenia wzajemnego za jednoczesnym zwrotem wydatków na utrzymanie tego mienia lub na uzyskanie ś wiadczenia wzajemnego poniesionych przez upadłego lub z masy upadłości.",
+     "text": "Osoba, której przysługuje prawo do mienia podlegającego wyłączeniu, może żądać jego wydania lub świadczenia wzajemnego za jednoczesnym zwrotem wydatków na utrzymanie tego mienia lub na uzyskanie świadczenia wzajemnego poniesionych przez upadłego lub z masy upadłości.",
      "children": []
     },
     {
@@ -2578,7 +2575,7 @@
     {
      "type": "heading",
      "label": "Oddział 4",
-     "text": "Czynno ś ci upadłego dotycz ą ce mienia wchodz ą cego w skład masy upadło ś ci"
+     "text": "Czynności upadłego dotyczące mienia wchodzącego w skład masy upadłości"
     },
     {
      "type": "art",
@@ -2656,14 +2653,14 @@
      "type": "art",
      "num": "78",
      "path": "art_78",
-     "text": "Spełnienie ś wiadczenia do r ą k upadłego dokonane po obwieszczeniu o ogłoszeniu upadło ś ci w Rejestrze nie zwalnia z obowi ą zku spełnienia ś wiadczenia do masy upadło ś ci, chyba ż e równowarto ść ś wiadczenia została przekazana przez upadłego do masy upadło ś ci.",
+     "text": "Spełnienie świadczenia do rąk upadłego dokonane po obwieszczeniu o ogłoszeniu upadłości w Rejestrze nie zwalnia z obowiązku spełnienia świadczenia do masy upadłości, chyba że równowartość świadczenia została przekazana przez upadłego do masy upadłości.",
      "children": []
     },
     {
      "type": "art",
      "num": "79",
      "path": "art_79",
-     "text": "Przepisy art. 77 i 78 stosuje si ę równie ż do czynno ś ci, które podlegaj ą ujawnieniu w ksi ę dze wieczystej i rejestrach, jeżeli przepisy szczególne nie stanowią inaczej.",
+     "text": "Przepisy art. 77 i 78 stosuje się również do czynności, które podlegają ujawnieniu w księdze wieczystej i rejestrach, jeżeli przepisy szczególne nie stanowią inaczej.",
      "children": []
     },
     {
@@ -2710,7 +2707,7 @@
     {
      "type": "heading",
      "label": "Oddział 5",
-     "text": "Zakaz obci ąż ania masy upadło ś ci"
+     "text": "Zakaz obciążania masy upadłości"
     },
     {
      "type": "art",
@@ -2751,7 +2748,7 @@
     {
      "type": "heading",
      "label": "Rozdział 2",
-     "text": "Skutki ogłoszenia upadło ś ci co do zobowi ą za ń upadłego"
+     "text": "Skutki ogłoszenia upadłości co do zobowiązań upadłego"
     },
     {
      "type": "text",
@@ -2803,20 +2800,20 @@
        "type": "ust",
        "num": "1",
        "path": "art_85/ust_1",
-       "text": "Jeżeli umowa ramowa, której jedną ze stron jest upadły, zastrzega, że poszczególne umowy szczegółowe, których przedmiotem są terminowe operacje finansowe, pożyczki instrumentów finansowych lub sprzedaż instrumentów finansowych ze zobowiązaniem do ich odkupu, będą zawierane w wykonaniu umowy ramowej oraz że rozwiązanie umowy ramowej powoduje rozwi ą zanie wszystkich umów szczegółowych zawartych w wykonaniu tej umowy:",
+       "text": "Jeżeli umowa ramowa, której jedną ze stron jest upadły, zastrzega, że poszczególne umowy szczegółowe, których przedmiotem są terminowe operacje finansowe, pożyczki instrumentów finansowych lub sprzedaż instrumentów finansowych ze zobowiązaniem do ich odkupu, będą zawierane w wykonaniu umowy ramowej oraz że rozwiązanie umowy ramowej powoduje rozwiązanie wszystkich umów szczegółowych zawartych w wykonaniu tej umowy:",
        "children": [
         {
          "type": "pkt",
          "num": "1",
          "path": "art_85/ust_1/pkt_1",
-         "text": "wierzytelno ś ci z tytułu poszczególnych umów szczegółowych zawartych w jej wykonaniu nie s ą obejmowane układem zawartym w post ę powaniu upadło ś ciowym;",
+         "text": "wierzytelności z tytułu poszczególnych umów szczegółowych zawartych w jej wykonaniu nie są obejmowane układem zawartym w postępowaniu upadłościowym;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "art_85/ust_1/pkt_2",
-         "text": "syndykowi nie przysługuje uprawnienie do odst ą pienia od umowy ramowej, o którym mowa w art. 98.",
+         "text": "syndykowi nie przysługuje uprawnienie do odstąpienia od umowy ramowej, o którym mowa w art. 98.",
          "children": []
         }
        ]
@@ -3001,14 +2998,14 @@
        "type": "ust",
        "num": "1",
        "path": "art_93/ust_1",
-       "text": "Potr ą cenie wierzytelno ś ci upadłego z wierzytelno ś ci ą wierzyciela jest dopuszczalne, je ż eli obie wierzytelno ś ci istniały w dniu ogłoszenia upadło ś ci, chocia ż by termin wymagalno ś ci jednej z nich jeszcze nie nast ą pił.",
+       "text": "Potrącenie wierzytelności upadłego z wierzytelnością wierzyciela jest dopuszczalne, jeżeli obie wierzytelności istniały w dniu ogłoszenia upadłości, chociażby termin wymagalności jednej z nich jeszcze nie nastąpił.",
        "children": []
       },
       {
        "type": "ust",
        "num": "2",
        "path": "art_93/ust_2",
-       "text": "Do potr ą cenia przedstawia si ę całkowit ą sum ę wierzytelno ś ci upadłego, a wierzytelno ść wierzyciela tylko w wysoko ś ci wierzytelno ś ci głównej wraz z odsetkami naliczonymi do dnia ogłoszenia upadło ś ci.",
+       "text": "Do potrącenia przedstawia się całkowitą sumę wierzytelności upadłego, a wierzytelność wierzyciela tylko w wysokości wierzytelności głównej wraz z odsetkami naliczonymi do dnia ogłoszenia upadłości.",
        "children": []
       },
       {
@@ -3181,7 +3178,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_102/ust_1",
-       "text": "Zawarte przez upadłego umowy zlecenia lub komisu, w których upadły był daj ą cym zlecenie lub komitentem, a tak ż e umowy o zarz ą dzanie papierami warto ś ciowymi upadłego wygasaj ą z dniem ogłoszenia upadło ś ci. Wierzytelno ść z tytułu poniesionej wskutek tego straty mo ż e by ć dochodzona w post ę powaniu upadło ś ciowym.",
+       "text": "Zawarte przez upadłego umowy zlecenia lub komisu, w których upadły był dającym zlecenie lub komitentem, a także umowy o zarządzanie papierami wartościowymi upadłego wygasają z dniem ogłoszenia upadłości. Wierzytelność z tytułu poniesionej wskutek tego straty może być dochodzona w postępowaniu upadłościowym.",
        "children": []
       },
       {
@@ -3347,14 +3344,14 @@
        "type": "ust",
        "num": "5",
        "path": "art_110/ust_5",
-       "text": "Wynajmujący lub wydzierżawiający może dochodzić w postępowaniu upadłościowym odszkodowania z powodu rozwiązania najmu lub dzierżawy przed terminem przewidzianym w umowie, jednak za czas nie dłuższy niż dwa lata, pomniejszonego o rozliczenie nakładów upadłego podnosz ą cych warto ść przedmiotu najmu lub dzier ż awy.",
+       "text": "Wynajmujący lub wydzierżawiający może dochodzić w postępowaniu upadłościowym odszkodowania z powodu rozwiązania najmu lub dzierżawy przed terminem przewidzianym w umowie, jednak za czas nie dłuższy niż dwa lata, pomniejszonego o rozliczenie nakładów upadłego podnoszących wartość przedmiotu najmu lub dzierżawy.",
        "children": []
       },
       {
        "type": "ust",
        "num": "6",
        "path": "art_110/ust_6",
-       "text": "Do najmu lub dzier ż awy przedsi ę biorstwa lub jego zorganizowanej cz ęś ci przepisy ust. 1–5 stosuje si ę odpowiednio.",
+       "text": "Do najmu lub dzierżawy przedsiębiorstwa lub jego zorganizowanej części przepisy ust. 1–5 stosuje się odpowiednio.",
        "children": []
       }
      ]
@@ -3369,7 +3366,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_110a/ust_1",
-       "text": "Syndyk mo ż e odst ą pi ć z dniem ogłoszenia upadło ś ci od umowy o zakazie konkurencji, o której mowa w art. 101² ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2016 r. poz. 1666, 2138 i 2255 oraz z 2017 r. poz. 60 i 962), bez prawa do odszkodowania.",
+       "text": "Syndyk może odstąpić z dniem ogłoszenia upadłości od umowy o zakazie konkurencji, o której mowa w art. 101² ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2016 r. poz. 1666, 2138 i 2255 oraz z 2017 r. poz. 60 i 962), bez prawa do odszkodowania.",
        "children": []
       },
       {
@@ -3434,7 +3431,7 @@
        "type": "ust",
        "num": "3",
        "path": "art_113/ust_3",
-       "text": "Roszczenia banku, o których mowa w ust. 2, mogą być dochodzone w postępowaniu upadłościowym, według zasad okre ś lonych dla dochodzenia zwrotu kosztów post ę powania.",
+       "text": "Roszczenia banku, o których mowa w ust. 2, mogą być dochodzone w postępowaniu upadłościowym, według zasad określonych dla dochodzenia zwrotu kosztów postępowania.",
        "children": []
       }
      ]
@@ -3507,7 +3504,7 @@
     {
      "type": "heading",
      "label": "Rozdział 3",
-     "text": "Skutki ogłoszenia upadło ś ci co do spadków nabytych przez upadłego"
+     "text": "Skutki ogłoszenia upadłości co do spadków nabytych przez upadłego"
     },
     {
      "type": "art",
@@ -3542,7 +3539,7 @@
      "type": "art",
      "num": "120",
      "path": "art_120",
-     "text": "Umowa zbycia cało ś ci lub cz ęś ci spadku albo cało ś ci lub cz ęś ci udziału spadkowego zawarta przez upadłego po ogłoszeniu upadło ś ci jest niewa ż na. Niewa ż na jest te ż dokonana przez niego czynno ść rozporz ą dzaj ą ca udziałem w przedmiocie nale żą cym do spadku, jak i jego zgoda na rozporz ą dzenie udziałem w przedmiocie nale żą cym do spadku przez innego spadkobierc ę .",
+     "text": "Umowa zbycia całości lub części spadku albo całości lub części udziału spadkowego zawarta przez upadłego po ogłoszeniu upadłości jest nieważna. Nieważna jest też dokonana przez niego czynność rozporządzająca udziałem w przedmiocie należącym do spadku, jak i jego zgoda na rozporządzenie udziałem w przedmiocie należącym do spadku przez innego spadkobiercę.",
      "children": []
     },
     {
@@ -3591,7 +3588,7 @@
     {
      "type": "heading",
      "label": "Rozdział 4",
-     "text": "Wpływ ogłoszenia upadło ś ci na stosunki maj ą tkowe mał ż e ń skie upadłego"
+     "text": "Wpływ ogłoszenia upadłości na stosunki majątkowe małżeńskie upadłego"
     },
     {
      "type": "art",
@@ -3702,21 +3699,21 @@
        "type": "ust",
        "num": "1",
        "path": "art_127/ust_1",
-       "text": "Bezskuteczne w stosunku do masy upadłości są czynności prawne dokonane przez upadłego w ciągu roku przed dniem złożenia wniosku o ogłoszenie upadłości, którymi rozporządził on swoim majątkiem, jeżeli dokonane zostały nieodpłatnie albo odpłatnie, ale wartość świadczenia upadłego przewyższa w rażącym stopniu wartość świadczenia otrzymanego przez upadłego lub zastrze ż onego dla upadłego lub dla osoby trzeciej.",
+       "text": "Bezskuteczne w stosunku do masy upadłości są czynności prawne dokonane przez upadłego w ciągu roku przed dniem złożenia wniosku o ogłoszenie upadłości, którymi rozporządził on swoim majątkiem, jeżeli dokonane zostały nieodpłatnie albo odpłatnie, ale wartość świadczenia upadłego przewyższa w rażącym stopniu wartość świadczenia otrzymanego przez upadłego lub zastrzeżonego dla upadłego lub dla osoby trzeciej.",
        "children": []
       },
       {
        "type": "ust",
        "num": "2",
        "path": "art_127/ust_2",
-       "text": "Przepis ust. 1 stosuje si ę odpowiednio do ugody s ą dowej, uznania powództwa i zrzeczenia si ę roszczenia.",
+       "text": "Przepis ust. 1 stosuje się odpowiednio do ugody sądowej, uznania powództwa i zrzeczenia się roszczenia.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
        "path": "art_127/ust_3",
-       "text": "Bezskuteczne s ą równie ż zabezpieczenie i zapłata długu niewymagalnego dokonane przez upadłego w ci ą gu sze ś - ciu miesi ę cy przed dniem zło ż enia wniosku o ogłoszenie upadło ś ci. Jednak ten, kto otrzymał zapłat ę lub zabezpieczenie, mo ż e w drodze powództwa lub zarzutu żą da ć uznania tych czynno ś ci za skuteczne, je ż eli w czasie ich dokonania nie wiedział o istnieniu podstawy do ogłoszenia upadło ś ci.",
+       "text": "Bezskuteczne są również zabezpieczenie i zapłata długu niewymagalnego dokonane przez upadłego w ciągu sześciu miesięcy przed dniem złożenia wniosku o ogłoszenie upadłości. Jednak ten, kto otrzymał zapłatę lub zabezpieczenie, może w drodze powództwa lub zarzutu żądać uznania tych czynności za skuteczne, jeżeli w czasie ich dokonania nie wiedział o istnieniu podstawy do ogłoszenia upadłości.",
        "children": []
       },
       {
@@ -3832,14 +3829,14 @@
        "type": "ust",
        "num": "1",
        "path": "art_130/ust_1",
-       "text": "Sędzia-komisarz na wniosek syndyka uzna za bezskuteczne w stosunku do masy upadłości obciążenie majątku upadłego hipoteką, zastawem, zastawem rejestrowym lub hipoteką morską, jeżeli upadły nie był dłużnikiem osobistym zabezpieczonego wierzyciela, a obciążenie to zostało ustanowione w ciągu roku przed dniem złożenia wniosku o ogłoszenie upadło ś ci i w zwi ą zku z jego ustanowieniem upadły nie otrzymał ż adnego ś wiadczenia.",
+       "text": "Sędzia-komisarz na wniosek syndyka uzna za bezskuteczne w stosunku do masy upadłości obciążenie majątku upadłego hipoteką, zastawem, zastawem rejestrowym lub hipoteką morską, jeżeli upadły nie był dłużnikiem osobistym zabezpieczonego wierzyciela, a obciążenie to zostało ustanowione w ciągu roku przed dniem złożenia wniosku o ogłoszenie upadłości i w związku z jego ustanowieniem upadły nie otrzymał żadnego świadczenia.",
        "children": []
       },
       {
        "type": "ust",
        "num": "2",
        "path": "art_130/ust_2",
-       "text": "Przepis ust. 1 stosuje si ę odpowiednio, je ż eli obci ąż enie rzeczowe ustanowione zostało w zamian za ś wiadczenie, które jest niewspółmiernie niskie do warto ś ci udzielanego zabezpieczenia.",
+       "text": "Przepis ust. 1 stosuje się odpowiednio, jeżeli obciążenie rzeczowe ustanowione zostało w zamian za świadczenie, które jest niewspółmiernie niskie do wartości udzielanego zabezpieczenia.",
        "children": []
       },
       {
@@ -3983,7 +3980,7 @@
        "type": "ust",
        "num": "2",
        "path": "art_135/ust_2",
-       "text": "Przepisów umożliwiających zaskarżanie czynności prawnych lub określających bezskuteczność czynności prawnych dokonanych przez upadłego nie stosuje si ę tak ż e do umowy o ustanowienie zabezpieczenia finansowego, o której mowa w ustawie z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych, ani do wykonania zobowi ą za ń wynikaj ą cych z takiej umowy.",
+       "text": "Przepisów umożliwiających zaskarżanie czynności prawnych lub określających bezskuteczność czynności prawnych dokonanych przez upadłego nie stosuje się także do umowy o ustanowienie zabezpieczenia finansowego, o której mowa w ustawie z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych, ani do wykonania zobowiązań wynikających z takiej umowy.",
        "children": []
       }
      ]
@@ -3991,7 +3988,7 @@
     {
      "type": "heading",
      "label": "DZIAŁ IV",
-     "text": "Wpływ ogłoszenia upadło ś ci na zlecenia rozrachunku w systemach płatno ś ci i systemach rozrachunku papierów warto ś ciowych"
+     "text": "Wpływ ogłoszenia upadłości na zlecenia rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych"
     },
     {
      "type": "art",
@@ -4010,7 +4007,7 @@
     {
      "type": "heading",
      "label": "DZIAŁ V",
-     "text": "Wpływ ogłoszenia upadło ś ci na post ę powania s ą dowe i administracyjne"
+     "text": "Wpływ ogłoszenia upadłości na postępowania sądowe i administracyjne"
     },
     {
      "type": "heading",
@@ -4119,7 +4116,7 @@
      "type": "art",
      "num": "147",
      "path": "art_147",
-     "text": "Do postępowań przed sądami polubownymi przepisy art. 174 § 1 pkt 4 i 5 oraz art. 180 § 1 pkt 5 Kodeksu post ę powania cywilnego, a tak ż e art. 144 i art. 145 stosuje si ę odpowiednio.",
+     "text": "Do postępowań przed sądami polubownymi przepisy art. 174 § 1 pkt 4 i 5 oraz art. 180 § 1 pkt 5 Kodeksu postępowania cywilnego, a także art. 144 i art. 145 stosuje się odpowiednio.",
      "children": []
     },
     {
@@ -4132,7 +4129,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_147a/ust_1",
-       "text": "Je ż eli w dniu ogłoszenia upadło ś ci post ę powanie przed s ą dem polubownym nie zostało wszcz ę te, za zgod ą s ę dziego-komisarza syndyk mo ż e odst ą pi ć od zapisu na s ą d polubowny, je ż eli dochodzenie roszczenia przed s ą dem polubownym utrudnia likwidacj ę masy upadło ś ci, w szczególno ś ci gdy stan masy uniemo ż liwia pokrycie kosztów wszcz ę - cia i prowadzenia post ę powania przed s ą dem polubownym.",
+       "text": "Jeżeli w dniu ogłoszenia upadłości postępowanie przed sądem polubownym nie zostało wszczęte, za zgodą sędziego-komisarza syndyk może odstąpić od zapisu na sąd polubowny, jeżeli dochodzenie roszczenia przed sądem polubownym utrudnia likwidację masy upadłości, w szczególności gdy stan masy uniemożliwia pokrycie kosztów wszczęcia i prowadzenia postępowania przed sądem polubownym.",
        "children": []
       },
       {
@@ -4168,17 +4165,17 @@
     {
      "type": "heading",
      "label": "TYTUŁ IV",
-     "text": "Przepisy ogólne o post ę powaniu upadło ś ciowym prowadzonym po ogłoszeniu upadło ś ci"
+     "text": "Przepisy ogólne o postępowaniu upadłościowym prowadzonym po ogłoszeniu upadłości"
     },
     {
      "type": "heading",
      "label": "DZIAŁ I",
-     "text": "S ą d i s ę dzia-komisarz"
+     "text": "Sąd i sędzia-komisarz"
     },
     {
      "type": "heading",
      "label": "Rozdział 1",
-     "text": "S ą d"
+     "text": "Sąd"
     },
     {
      "type": "art",
@@ -4248,7 +4245,7 @@
     {
      "type": "heading",
      "label": "Rozdział 2",
-     "text": "S ę dzia-komisarz i zast ę pca s ę dziego-komisarza"
+     "text": "Sędzia-komisarz i zastępca sędziego-komisarza"
     },
     {
      "type": "art",
@@ -4310,7 +4307,7 @@
        "type": "ust",
        "num": "3",
        "path": "art_152/ust_3",
-       "text": "S ę dzia-komisarz i syndyk mog ą porozumiewa ć si ę w sprawach dotycz ą cych post ę powania upadło ś ciowego bezpoś rednio oraz z u ż yciem ś rodków bezpo ś redniego porozumiewania si ę na odległo ść , w szczególno ś ci przez telefon, faks lub poczt ę elektroniczn ą .",
+       "text": "Sędzia-komisarz i syndyk mogą porozumiewać się w sprawach dotyczących postępowania upadłościowego bezpośrednio oraz z użyciem środków bezpośredniego porozumiewania się na odległość, w szczególności przez telefon, faks lub pocztę elektroniczną.",
        "children": []
       }
      ]
@@ -4319,7 +4316,7 @@
      "type": "art",
      "num": "153",
      "path": "art_153",
-     "text": "Skargi na czynno ś ci komornika rozpoznaje w post ę powaniu upadło ś ciowym s ę dzia-komisarz.",
+     "text": "Skargi na czynności komornika rozpoznaje w postępowaniu upadłościowym sędzia-komisarz.",
      "children": []
     },
     {
@@ -4354,7 +4351,7 @@
     {
      "type": "heading",
      "label": "DZIAŁ II",
-     "text": "Syndyk i zast ę pca syndyka"
+     "text": "Syndyk i zastępca syndyka"
     },
     {
      "type": "text",
@@ -4506,7 +4503,7 @@
        "type": "ust",
        "num": "2",
        "path": "art_157a/ust_2",
-       "text": "Syndyk oraz jego mał ż onek, wst ę pny, zst ę pny, rodze ń stwo, osoba pozostaj ą ca z nim w stosunku przysposobienia lub mał ż onek takiej osoby, jak równie ż osoba pozostaj ą ca z nim w faktycznym zwi ą zku, prowadz ą ca z nim wspólnie gospodarstwo domowe, nie mog ą naby ć rzeczy ani praw pochodz ą cych ze sprzeda ż y dokonanej w post ę powaniu upadło ś ciowym, w którym syndyk pełni albo pełnił t ę funkcj ę .",
+       "text": "Syndyk oraz jego małżonek, wstępny, zstępny, rodzeństwo, osoba pozostająca z nim w stosunku przysposobienia lub małżonek takiej osoby, jak również osoba pozostająca z nim w faktycznym związku, prowadząca z nim wspólnie gospodarstwo domowe, nie mogą nabyć rzeczy ani praw pochodzących ze sprzedaży dokonanej w postępowaniu upadłościowym, w którym syndyk pełni albo pełnił tę funkcję.",
        "children": []
       },
       {
@@ -4755,14 +4752,14 @@
            "type": "lit",
            "num": "d",
            "path": "art_162/ust_2/pkt_3/lit_d",
-           "text": "dwadzie ś cia podstaw wynagrodzenia – od 501 do 1000 wierzycieli,",
+           "text": "dwadzieścia podstaw wynagrodzenia – od 501 do 1000 wierzycieli,",
            "children": []
           },
           {
            "type": "lit",
            "num": "e",
            "path": "art_162/ust_2/pkt_3/lit_e",
-           "text": "czterdzie ś ci podstaw wynagrodzenia – powy ż ej 1000 wierzycieli;",
+           "text": "czterdzieści podstaw wynagrodzenia – powyżej 1000 wierzycieli;",
            "children": []
           }
          ]
@@ -4975,21 +4972,21 @@
          "type": "pkt",
          "num": "2",
          "path": "art_164/ust_1/pkt_2",
-         "text": "25% – po zło ż eniu listy wierzytelno ś ci;",
+         "text": "25% – po złożeniu listy wierzytelności;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "3",
          "path": "art_164/ust_1/pkt_3",
-         "text": "15% – po zło ż eniu pierwszego planu podziału;",
+         "text": "15% – po złożeniu pierwszego planu podziału;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "4",
          "path": "art_164/ust_1/pkt_4",
-         "text": "25% – po przeprowadzeniu pełnej likwidacji masy upadło ś ci.",
+         "text": "25% – po przeprowadzeniu pełnej likwidacji masy upadłości.",
          "children": []
         }
        ]
@@ -5142,14 +5139,14 @@
        "type": "ust",
        "num": "3",
        "path": "art_167/ust_3",
-       "text": "W przypadku umorzenia post ę powania upadło ś ciowego albo jego uchylenia s ą d przyznaje syndykowi wynagrodzenie ostateczne, maj ą c na uwadze okoliczno ś ci, o których mowa w art. 162, nakład pracy syndyka i czas trwania post ę powania.",
+       "text": "W przypadku umorzenia postępowania upadłościowego albo jego uchylenia sąd przyznaje syndykowi wynagrodzenie ostateczne, mając na uwadze okoliczności, o których mowa w art. 162, nakład pracy syndyka i czas trwania postępowania.",
        "children": []
       },
       {
        "type": "ust",
        "num": "4",
        "path": "art_167/ust_4",
-       "text": "Je ż eli przyznana syndykowi cz ęść wynagrodzenia ostatecznego przekracza warto ść pobranych zaliczek, przepis art. 166 ust. 5 stosuje się odpowiednio.",
+       "text": "Jeżeli przyznana syndykowi część wynagrodzenia ostatecznego przekracza wartość pobranych zaliczek, przepis art. 166 ust. 5 stosuje się odpowiednio.",
        "children": []
       }
      ]
@@ -5307,7 +5304,7 @@
        "type": "ust",
        "num": "2",
        "path": "art_169a/ust_2",
-       "text": "W przypadku istotnego uchybienia albo braku poprawy w wykonywaniu obowi ą zków mimo upomnienia, s ę dzia-komisarz nakłada na syndyka grzywn ę w wysoko ś ci od 1000 zł do 30 000 zł, bior ą c pod uwag ę stopie ń oraz wag ę uchybienia.",
+       "text": "W przypadku istotnego uchybienia albo braku poprawy w wykonywaniu obowiązków mimo upomnienia, sędzia-komisarz nakłada na syndyka grzywnę w wysokości od 1000 zł do 30 000 zł, biorąc pod uwagę stopień oraz wagę uchybienia.",
        "children": []
       }
      ]
@@ -5322,7 +5319,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_170/ust_1",
-       "text": "W przypadku ra żą cego uchybienia lub braku poprawy w wykonywaniu swoich obowi ą zków mimo nałoż onej grzywny lub w przypadku niewykonania obowi ą zków, o których mowa w art. 156 ust. 4 lub art. 157a ust. 4, mimo wezwania do ich spełnienia w terminie tygodnia s ą d odwołuje syndyka.",
+       "text": "W przypadku rażącego uchybienia lub braku poprawy w wykonywaniu swoich obowiązków mimo nałożonej grzywny lub w przypadku niewykonania obowiązków, o których mowa w art. 156 ust. 4 lub art. 157a ust. 4, mimo wezwania do ich spełnienia w terminie tygodnia sąd odwołuje syndyka.",
        "children": []
       },
       {
@@ -5485,14 +5482,14 @@
        "type": "ust",
        "num": "2",
        "path": "art_176/ust_2",
-       "text": "Syndyk zawiadamia placówki pocztowe w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2017 r. poz. 1481) o ogłoszeniu upadłości. Placówki te doręczają syndykowi adresowane do upadłego przesyłki pocztowe. Syndyk wydaje upadłemu przesyłki pocztowe, które nie dotycz ą maj ą tku masy upadło ś ci lub których zatrzymanie nie jest potrzebne ze wzgl ę du na zawarte w nich wiadomo ś ci.",
+       "text": "Syndyk zawiadamia placówki pocztowe w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2017 r. poz. 1481) o ogłoszeniu upadłości. Placówki te doręczają syndykowi adresowane do upadłego przesyłki pocztowe. Syndyk wydaje upadłemu przesyłki pocztowe, które nie dotyczą majątku masy upadłości lub których zatrzymanie nie jest potrzebne ze względu na zawarte w nich wiadomości.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
        "path": "art_176/ust_3",
-       "text": "Syndyk zawiadamia o upadło ś ci banki i instytucje, z którymi upadły zawarł umow ę o udost ę pnienie skrytki sejfowej albo zło ż ył pieni ą dze lub inne przedmioty.",
+       "text": "Syndyk zawiadamia o upadłości banki i instytucje, z którymi upadły zawarł umowę o udostępnienie skrytki sejfowej albo złożył pieniądze lub inne przedmioty.",
        "children": []
       },
       {
@@ -5552,7 +5549,7 @@
     {
      "type": "heading",
      "label": "DZIAŁ III",
-     "text": "Uczestnicy post ę powania"
+     "text": "Uczestnicy postępowania"
     },
     {
      "type": "heading",
@@ -5633,7 +5630,7 @@
        "type": "ust",
        "num": "4",
        "path": "art_187/ust_4",
-       "text": "Wynagrodzenie kuratora ustanowionego na podstawie ust. 1 ustala sędzia-komisarz w wysokości stosownej do nakładu pracy kuratora, stosując odpowiednio przepisy o wynagrodzeniu kuratora ustanowionego na podstawie art. 26 ust. 1 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym. Wynagrodzenie kuratora obowiązanego do rozliczenia podatku od towarów i usług podwy ż sza si ę o kwot ę podatku od towarów i usług. Na postanowienie w przedmiocie wynagrodzenia oraz zwrotu wydatków przysługuje za ż alenie. Za ż alenie przysługuje równie ż kuratorowi.",
+       "text": "Wynagrodzenie kuratora ustanowionego na podstawie ust. 1 ustala sędzia-komisarz w wysokości stosownej do nakładu pracy kuratora, stosując odpowiednio przepisy o wynagrodzeniu kuratora ustanowionego na podstawie art. 26 ust. 1 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym. Wynagrodzenie kuratora obowiązanego do rozliczenia podatku od towarów i usług podwyższa się o kwotę podatku od towarów i usług. Na postanowienie w przedmiocie wynagrodzenia oraz zwrotu wydatków przysługuje zażalenie. Zażalenie przysługuje również kuratorowi.",
        "children": []
       }
      ]
@@ -5648,7 +5645,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_188/ust_1",
-       "text": "W przypadku ś mierci upadłego jego spadkobierca ma prawo bra ć udział w post ę powaniu upadło ś ciowym. Je ż eli spadkobierca nie jest znany albo nie wst ą pił do post ę powania, s ę dzia-komisarz na wniosek syndyka albo z urzędu ustanowi kuratora, do którego przepis art. 187 stosuje się.",
+       "text": "W przypadku śmierci upadłego jego spadkobierca ma prawo brać udział w postępowaniu upadłościowym. Jeżeli spadkobierca nie jest znany albo nie wstąpił do postępowania, sędzia-komisarz na wniosek syndyka albo z urzędu ustanowi kuratora, do którego przepis art. 187 stosuje się.",
        "children": []
       },
       {
@@ -5802,7 +5799,7 @@
      "type": "art",
      "num": "194",
      "path": "art_194",
-     "text": "Syndyk, członkowie rady wierzycieli i upadły wezwany do udzielenia wyjaśnień obowiązani są stawić się na zgromadzeniu wierzycieli. Ich niestawiennictwo jednak, cho ć by usprawiedliwione, nie stanowi przeszkody do odbycia zgromadzenia wierzycieli.",
+     "text": "Syndyk, członkowie rady wierzycieli i upadły wezwany do udzielenia wyjaśnień obowiązani są stawić się na zgromadzeniu wierzycieli. Ich niestawiennictwo jednak, choćby usprawiedliwione, nie stanowi przeszkody do odbycia zgromadzenia wierzycieli.",
      "children": []
     },
     {
@@ -5815,7 +5812,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_195/ust_1",
-       "text": "Je ż eli ustawa nie stanowi inaczej, w zgromadzeniu wierzycieli maj ą prawo uczestniczy ć z prawem głosu wierzyciele, których wierzytelno ś ci zostały uznane. Wierzyciele głosuj ą z sum ą wierzytelno ś ci umieszczon ą na li ś cie wierzytelności.",
+       "text": "Jeżeli ustawa nie stanowi inaczej, w zgromadzeniu wierzycieli mają prawo uczestniczyć z prawem głosu wierzyciele, których wierzytelności zostały uznane. Wierzyciele głosują z sumą wierzytelności umieszczoną na liście wierzytelności.",
        "children": []
       },
       {
@@ -5972,20 +5969,20 @@
        "type": "ust",
        "num": "3",
        "path": "art_201/ust_3",
-       "text": "Do czasu zatwierdzenia listy wierzytelno ś ci uprawnienia wierzycieli w sprawach dotycz ą cych rady wierzycieli ustala si ę na podstawie:",
+       "text": "Do czasu zatwierdzenia listy wierzytelności uprawnienia wierzycieli w sprawach dotyczących rady wierzycieli ustala się na podstawie:",
        "children": [
         {
          "type": "pkt",
          "num": "1",
          "path": "art_201/ust_3/pkt_1",
-         "text": "spisu wierzycieli zał ą czonego przez dłu ż nika do wniosku o ogłoszenie upadło ś ci;",
+         "text": "spisu wierzycieli załączonego przez dłużnika do wniosku o ogłoszenie upadłości;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "art_201/ust_3/pkt_2",
-         "text": "spisu wierzytelno ś ci bezspornych przedstawionego na żą danie s ę dziego-komisarza przez syndyka, sporz ą dzonego w oparciu o księgi rachunkowe i inne dokumenty upadłego;",
+         "text": "spisu wierzytelności bezspornych przedstawionego na żądanie sędziego-komisarza przez syndyka, sporządzonego w oparciu o księgi rachunkowe i inne dokumenty upadłego;",
          "children": []
         },
         {
@@ -6102,7 +6099,7 @@
        "type": "ust",
        "num": "3",
        "path": "art_203/ust_3",
-       "text": "S ę dzia-komisarz, zmieniaj ą c skład rady wierzycieli, nie mo ż e odwoła ć członka rady wierzycieli powołanego na podstawie ust. 1 lub art. 202a, chyba ż e żą daj ą tego wierzyciele, na których wniosek członek został powołany.",
+       "text": "Sędzia-komisarz, zmieniając skład rady wierzycieli, nie może odwołać członka rady wierzycieli powołanego na podstawie ust. 1 lub art. 202a, chyba że żądają tego wierzyciele, na których wniosek członek został powołany.",
        "children": []
       }
      ]
@@ -6117,14 +6114,14 @@
        "type": "ust",
        "num": "1",
        "path": "art_204/ust_1",
-       "text": "Członkowie rady wierzycieli pełni ą swoje obowi ą zki osobi ś cie albo przez pełnomocników.",
+       "text": "Członkowie rady wierzycieli pełnią swoje obowiązki osobiście albo przez pełnomocników.",
        "children": []
       },
       {
        "type": "ust",
        "num": "2",
        "path": "art_204/ust_2",
-       "text": "Pełnomocnictwo składa si ę przewodnicz ą cemu rady, który składa je do akt post ę powania wraz z protokołem z posiedzenia rady wierzycieli.",
+       "text": "Pełnomocnictwo składa się przewodniczącemu rady, który składa je do akt postępowania wraz z protokołem z posiedzenia rady wierzycieli.",
        "children": []
       }
      ]
@@ -6311,7 +6308,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_207a/ust_1",
-       "text": "Na skutek uchwały rady wierzycieli podjętej w pełnym składzie, za którą głosowało co najmniej czterech członków, albo na skutek uchwały rady wierzycieli podj ę tej zgodnie z wnioskiem upadłego s ą d zmienia syndyka i powołuje do pełnienia tej funkcji osob ę spełniaj ą c ą wymogi, o których mowa w art. 157 ust. 1 lub 2, wskazan ą przez rad ę wierzycieli, chyba ż e byłoby to niezgodne z prawem, ra żą co naruszałoby interes wierzycieli lub zachodzi uzasadnione przypuszczenie, ż e wskazana osoba nie b ę dzie nale ż ycie pełniła obowi ą zków. Na postanowienie s ą du odmawiaj ą ce powołania osoby wskazanej przez rad ę za ż alenie przysługuje wył ą cznie członkom rady wierzycieli oraz upadłemu.",
+       "text": "Na skutek uchwały rady wierzycieli podjętej w pełnym składzie, za którą głosowało co najmniej czterech członków, albo na skutek uchwały rady wierzycieli podjętej zgodnie z wnioskiem upadłego sąd zmienia syndyka i powołuje do pełnienia tej funkcji osobę spełniającą wymogi, o których mowa w art. 157 ust. 1 lub 2, wskazaną przez radę wierzycieli, chyba że byłoby to niezgodne z prawem, rażąco naruszałoby interes wierzycieli lub zachodzi uzasadnione przypuszczenie, że wskazana osoba nie będzie należycie pełniła obowiązków. Na postanowienie sądu odmawiające powołania osoby wskazanej przez radę zażalenie przysługuje wyłącznie członkom rady wierzycieli oraz upadłemu.",
        "children": []
       },
       {
@@ -6493,13 +6490,13 @@
     {
      "type": "heading",
      "label": "DZIAŁ IV",
-     "text": "Przepisy ogólne dotycz ą ce post ę powania po ogłoszeniu upadło ś ci"
+     "text": "Przepisy ogólne dotyczące postępowania po ogłoszeniu upadłości"
     },
     {
      "type": "art",
      "num": "214",
      "path": "art_214",
-     "text": "S ą d orzeka na posiedzeniu niejawnym, je ż eli ustawa nie stanowi inaczej.",
+     "text": "Sąd orzeka na posiedzeniu niejawnym, jeżeli ustawa nie stanowi inaczej.",
      "children": []
     },
     {
@@ -6669,7 +6666,7 @@
        "type": "ust",
        "num": "3",
        "path": "art_219/ust_3",
-       "text": "Do uchwał rady wierzycieli i zgromadzenia wierzycieli przepisy ust. 1 zdanie drugie oraz ust. 1a i 1b stosuje si ę odpowiednio.",
+       "text": "Do uchwał rady wierzycieli i zgromadzenia wierzycieli przepisy ust. 1 zdanie drugie oraz ust. 1a i 1b stosuje się odpowiednio.",
        "children": []
       }
      ]
@@ -6849,7 +6846,7 @@
        "type": "ust",
        "num": "4",
        "path": "art_224/ust_4",
-       "text": "Jeżeli postanowienie, od którego przysługuje środek zaskarżenia, zostało ogłoszone na posiedzeniu jawnym, osoby zawiadomione o posiedzeniu w terminie tygodnia od dnia posiedzenia, a osoby, które nie zostały zawiadomione o posiedzeniu jawnym – od dnia zamieszczenia, a jeżeli postanowienie podlega obwieszczeniu – od dnia obwieszczenia postanowienia w Rejestrze, mogą złożyć wniosek o sporządzenie uzasadnienia i doręczenie postanowienia wraz z uzasadnieniem. Termin do wniesienia ś rodka zaskar ż enia biegnie od dnia dor ę czenia postanowienia wraz z uzasadnieniem.",
+       "text": "Jeżeli postanowienie, od którego przysługuje środek zaskarżenia, zostało ogłoszone na posiedzeniu jawnym, osoby zawiadomione o posiedzeniu w terminie tygodnia od dnia posiedzenia, a osoby, które nie zostały zawiadomione o posiedzeniu jawnym – od dnia zamieszczenia, a jeżeli postanowienie podlega obwieszczeniu – od dnia obwieszczenia postanowienia w Rejestrze, mogą złożyć wniosek o sporządzenie uzasadnienia i doręczenie postanowienia wraz z uzasadnieniem. Termin do wniesienia środka zaskarżenia biegnie od dnia doręczenia postanowienia wraz z uzasadnieniem.",
        "children": []
       }
      ]
@@ -6858,7 +6855,7 @@
      "type": "art",
      "num": "225",
      "path": "art_225",
-     "text": "Skargi na czynno ś ci komornika w toku post ę powania upadło ś ciowego wnosi si ę w terminie tygodniowym od dnia zako ń czenia czynno ś ci.",
+     "text": "Skargi na czynności komornika w toku postępowania upadłościowego wnosi się w terminie tygodniowym od dnia zakończenia czynności.",
      "children": []
     },
     {
@@ -6871,7 +6868,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_226/ust_1",
-       "text": "Zabezpieczenie w przypadkach okre ś lonych w ustawie nast ę puje przez zło ż enie do depozytu s ą dowego odpowiedniej sumy pieniężnej.",
+       "text": "Zabezpieczenie w przypadkach określonych w ustawie następuje przez złożenie do depozytu sądowego odpowiedniej sumy pieniężnej.",
        "children": []
       },
       {
@@ -6943,7 +6940,7 @@
     {
      "type": "heading",
      "label": "DZIAŁ V",
-     "text": "Koszty i inne zobowi ą zania masy upadło ś ci"
+     "text": "Koszty i inne zobowiązania masy upadłości"
     },
     {
      "type": "art",
@@ -7022,7 +7019,7 @@
      "type": "art",
      "num": "233",
      "path": "art_233",
-     "text": "Wierzycielowi nie przysługuje prawo do zwrotu kosztów poniesionych przez niego w post ę powaniu upadło ś ciowym. Wierzycielowi zwraca si ę jednak poniesione przez niego koszty post ę powania wywołanego wniesieniem sprzeciwu co do uznania wierzytelno ś ci innego wierzyciela, je ż eli w wyniku wniesienia tego sprzeciwu odmówiono uznania zaskar ż onej wierzytelno ś ci, jak równie ż zwraca si ę zaliczk ę na koszty post ę powania, któr ą zło ż ył na żą danie s ę dziego-komisarza albo zgodnie z uchwał ą zgromadzenia wierzycieli, je ż eli fundusze masy upadło ś ci wystarcz ą na jej pokrycie.",
+     "text": "Wierzycielowi nie przysługuje prawo do zwrotu kosztów poniesionych przez niego w postępowaniu upadłościowym. Wierzycielowi zwraca się jednak poniesione przez niego koszty postępowania wywołanego wniesieniem sprzeciwu co do uznania wierzytelności innego wierzyciela, jeżeli w wyniku wniesienia tego sprzeciwu odmówiono uznania zaskarżonej wierzytelności, jak również zwraca się zaliczkę na koszty postępowania, którą złożył na żądanie sędziego-komisarza albo zgodnie z uchwałą zgromadzenia wierzycieli, jeżeli fundusze masy upadłości wystarczą na jej pokrycie.",
      "children": []
     },
     {
@@ -7072,17 +7069,17 @@
     {
      "type": "heading",
      "label": "TYTUŁ V",
-     "text": "Zgłoszenie i ustalenie wierzytelno ś ci"
+     "text": "Zgłoszenie i ustalenie wierzytelności"
     },
     {
      "type": "heading",
      "label": "DZIAŁ I",
-     "text": "Zgłoszenie wierzytelno ś ci"
+     "text": "Zgłoszenie wierzytelności"
     },
     {
      "type": "heading",
      "label": "Rozdział 1",
-     "text": "Wierzytelno ś ci podlegaj ą ce zgłoszeniu"
+     "text": "Wierzytelności podlegające zgłoszeniu"
     },
     {
      "type": "art",
@@ -7178,14 +7175,14 @@
        "type": "ust",
        "num": "3",
        "path": "art_239/ust_3",
-       "text": "W zgłoszeniu wierzytelno ś ci wierzyciel wskazuje dowody uzasadniaj ą ce zgłoszenie.",
+       "text": "W zgłoszeniu wierzytelności wierzyciel wskazuje dowody uzasadniające zgłoszenie.",
        "children": []
       },
       {
        "type": "ust",
        "num": "4",
        "path": "art_239/ust_4",
-       "text": "Minister Sprawiedliwo ś ci okre ś li, w drodze rozporz ą dzenia, wzór pisemnego zgłoszenia wierzytelno ś ci oraz zakres danych obj ę tych zgłoszeniem wierzytelno ś ci za po ś rednictwem Rejestru, maj ą c na uwadze jego przejrzysto ść i kompletno ść oraz uproszczenie i przyspieszenie zgłoszenia wierzytelno ś ci w postaci elektronicznej.",
+       "text": "Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór pisemnego zgłoszenia wierzytelności oraz zakres danych objętych zgłoszeniem wierzytelności za pośrednictwem Rejestru, mając na uwadze jego przejrzystość i kompletność oraz uproszczenie i przyspieszenie zgłoszenia wierzytelności w postaci elektronicznej.",
        "children": []
       }
      ]
@@ -7257,7 +7254,7 @@
     {
      "type": "heading",
      "label": "Rozdział 3",
-     "text": "Sprawdzanie zgłoszonych wierzytelno ś ci"
+     "text": "Sprawdzanie zgłoszonych wierzytelności"
     },
     {
      "type": "art",
@@ -7335,14 +7332,14 @@
          "type": "pkt",
          "num": "1",
          "path": "art_245/ust_1/pkt_1",
-         "text": "liczb ę porz ą dkow ą ;",
+         "text": "liczbę porządkową;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "art_245/ust_1/pkt_2",
-         "text": "imi ę i nazwisko wierzyciela albo jego nazw ę , miejsce zamieszkania albo siedzib ę , adres oraz numer PESEL albo numer w Krajowym Rejestrze S ą dowym, a w przypadku ich braku – inne dane umo ż liwiaj ą ce jego jednoznaczn ą identyfikacj ę ;",
+         "text": "imię i nazwisko wierzyciela albo jego nazwę, miejsce zamieszkania albo siedzibę, adres oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację;",
          "children": []
         },
         {
@@ -7665,14 +7662,14 @@
          "type": "pkt",
          "num": "1",
          "path": "art_256/ust_1/pkt_1",
-         "text": "uznania wierzytelno ś ci – w przypadku wierzyciela umieszczonego na li ś cie wierzytelno ś ci;",
+         "text": "uznania wierzytelności – w przypadku wierzyciela umieszczonego na liście wierzytelności;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "art_256/ust_1/pkt_2",
-         "text": "odmowy uznania wierzytelno ś ci – w przypadku wierzyciela, któremu odmówiono uznania zgłoszonej wierzytelno ś ci.",
+         "text": "odmowy uznania wierzytelności – w przypadku wierzyciela, któremu odmówiono uznania zgłoszonej wierzytelności.",
          "children": []
         }
        ]
@@ -7681,7 +7678,7 @@
        "type": "ust",
        "num": "2",
        "path": "art_256/ust_2",
-       "text": "W tym samym terminie sprzeciw przysługuje upadłemu, o ile projekt nie jest zgodny z jego wnioskami lub o ś wiadczeniami. Je ż eli upadły nie składał o ś wiadcze ń , mimo i ż był do tego wezwany, mo ż e zgłosi ć sprzeciw tylko wtedy, gdy wykaże, że nie złożył oświadczeń z przyczyn od niego niezależnych.",
+       "text": "W tym samym terminie sprzeciw przysługuje upadłemu, o ile projekt nie jest zgodny z jego wnioskami lub oświadczeniami. Jeżeli upadły nie składał oświadczeń, mimo iż był do tego wezwany, może zgłosić sprzeciw tylko wtedy, gdy wykaże, że nie złożył oświadczeń z przyczyn od niego niezależnych.",
        "children": []
       }
      ]
@@ -7838,7 +7835,7 @@
        "type": "ust",
        "num": "3",
        "path": "art_260/ust_3",
-       "text": "Po upływie terminu do wniesienia sprzeciwów sędzia-komisarz może zatwierdzić częściowo listę wierzytelności w zakresie nieobj ę tym sprzeciwami.",
+       "text": "Po upływie terminu do wniesienia sprzeciwów sędzia-komisarz może zatwierdzić częściowo listę wierzytelności w zakresie nieobjętym sprzeciwami.",
        "children": []
       }
      ]
@@ -7847,7 +7844,7 @@
      "type": "art",
      "num": "261",
      "path": "art_261",
-     "text": "S ę dzia-komisarz mo ż e z urz ę du dokona ć zmian na li ś cie wierzytelno ś ci w razie stwierdzenia, ż e na li ś cie umieszczono wierzytelno ś ci, które w cało ś ci lub cz ęś ci nie istniej ą , lub nie umieszczono na li ś cie wierzytelno ś ci, które podlegaj ą umieszczeniu na li ś cie z urz ę du. Postanowienie o zmianie na li ś cie podlega obwieszczeniu z urz ę du. Na postanowienie to przysługuje zażalenie.",
+     "text": "Sędzia-komisarz może z urzędu dokonać zmian na liście wierzytelności w razie stwierdzenia, że na liście umieszczono wierzytelności, które w całości lub części nie istnieją, lub nie umieszczono na liście wierzytelności, które podlegają umieszczeniu na liście z urzędu. Postanowienie o zmianie na liście podlega obwieszczeniu z urzędu. Na postanowienie to przysługuje zażalenie.",
      "children": []
     },
     {
@@ -7954,7 +7951,7 @@
     {
      "type": "heading",
      "label": "TYTUŁ VA",
-     "text": "Układ w upadło ś ci"
+     "text": "Układ w upadłości"
     },
     {
      "type": "art",
@@ -8023,7 +8020,7 @@
        "type": "ust",
        "num": "6",
        "path": "art_266b/ust_6",
-       "text": "S ę dzia-komisarz wstrzymuje likwidacj ę masy upadło ś ci wył ą cznie w zakresie, jaki jest niezb ę dny do wykonania układu.",
+       "text": "Sędzia-komisarz wstrzymuje likwidację masy upadłości wyłącznie w zakresie, jaki jest niezbędny do wykonania układu.",
        "children": []
       }
      ]
@@ -8038,7 +8035,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_266c/ust_1",
-       "text": "S ę dzia-komisarz mo ż e zwoła ć zgromadzenie wierzycieli w celu głosowania nad układem, je ż eli zostało uprawdopodobnione, że układ zostanie przyjęty przez wierzycieli i wykonany.",
+       "text": "Sędzia-komisarz może zwołać zgromadzenie wierzycieli w celu głosowania nad układem, jeżeli zostało uprawdopodobnione, że układ zostanie przyjęty przez wierzycieli i wykonany.",
        "children": []
       },
       {
@@ -8086,7 +8083,7 @@
     {
      "type": "heading",
      "label": "TYTUŁ VII",
-     "text": "Likwidacja masy upadło ś ci"
+     "text": "Likwidacja masy upadłości"
     },
     {
      "type": "heading",
@@ -8168,7 +8165,7 @@
        "type": "ust",
        "num": "2",
        "path": "art_310/ust_2",
-       "text": "Je ż eli s ę dzia-komisarz wstrzyma likwidacj ę masy upadło ś ci, przepis ust. 1 stosuje si ę w zakresie okre ś lonym przez s ę dziego-komisarza.",
+       "text": "Jeżeli sędzia-komisarz wstrzyma likwidację masy upadłości, przepis ust. 1 stosuje się w zakresie określonym przez sędziego-komisarza.",
        "children": []
       }
      ]
@@ -8183,7 +8180,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_311/ust_1",
-       "text": "Likwidacji masy upadło ś ci dokonuje si ę przez sprzeda ż z wolnej r ę ki lub w drodze przetargu lub aukcji przedsi ę biorstwa upadłego w cało ś ci lub jego zorganizowanych cz ęś ci, nieruchomo ś ci i ruchomo ś ci, wierzytelno ś ci oraz innych praw maj ą tkowych wchodz ą cych w skład masy upadło ś ci albo przez ś ci ą gni ę cie wierzytelno ś ci od dłu ż ników upadłego i wykonanie innych jego praw majątkowych.",
+       "text": "Likwidacji masy upadłości dokonuje się przez sprzedaż z wolnej ręki lub w drodze przetargu lub aukcji przedsiębiorstwa upadłego w całości lub jego zorganizowanych części, nieruchomości i ruchomości, wierzytelności oraz innych praw majątkowych wchodzących w skład masy upadłości albo przez ściągnięcie wierzytelności od dłużników upadłego i wykonanie innych jego praw majątkowych.",
        "children": []
       },
       {
@@ -8297,7 +8294,7 @@
        "type": "ust",
        "num": "6",
        "path": "art_313/ust_6",
-       "text": "Do sprzedaży ułamkowej części nieruchomości odpowiednie zastosowanie mają przepisy art. 1004, art. 1005, art. 1007, art. 1009, art. 1012 i art. 1013 Kodeksu post ę powania cywilnego.",
+       "text": "Do sprzedaży ułamkowej części nieruchomości odpowiednie zastosowanie mają przepisy art. 1004, art. 1005, art. 1007, art. 1009, art. 1012 i art. 1013 Kodeksu postępowania cywilnego.",
        "children": []
       }
      ]
@@ -8312,7 +8309,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_314/ust_1",
-       "text": "W razie zbycia przedsi ę biorstwa, w którego skład wchodz ą przedmioty obci ąż one ograniczonymi prawami rzeczowymi, warto ść składników mienia obci ąż onych tymi prawami podlega ujawnieniu w umowie sprzeda ż y, a uzyskana cena podlega podziałowi z uwzgl ę dnieniem art. 336 i 340.",
+       "text": "W razie zbycia przedsiębiorstwa, w którego skład wchodzą przedmioty obciążone ograniczonymi prawami rzeczowymi, wartość składników mienia obciążonych tymi prawami podlega ujawnieniu w umowie sprzedaży, a uzyskana cena podlega podziałowi z uwzględnieniem art. 336 i 340.",
        "children": []
       },
       {
@@ -8349,7 +8346,7 @@
     {
      "type": "heading",
      "label": "DZIAŁ II",
-     "text": "Sprzeda ż przedsi ę biorstwa lub jego zorganizowanej cz ęś ci oraz nieruchomo ś ci, prawa u ż ytkowania wieczystego, spółdzielczego własno ś ciowego prawa do lokalu i statku morskiego wpisanego do rejestru okr ę towego"
+     "text": "Sprzedaż przedsiębiorstwa lub jego zorganizowanej części oraz nieruchomości, prawa użytkowania wieczystego, spółdzielczego własnościowego prawa do lokalu i statku morskiego wpisanego do rejestru okrętowego"
     },
     {
      "type": "art",
@@ -8491,20 +8488,20 @@
        "type": "ust",
        "num": "1",
        "path": "art_320/ust_1",
-       "text": "Sprzeda ż mienia uregulowana przepisami niniejszego działu mo ż e nast ą pi ć w drodze przetargu lub aukcji, do których przepisy Kodeksu cywilnego stosuje si ę odpowiednio, z tym ż e:",
+       "text": "Sprzedaż mienia uregulowana przepisami niniejszego działu może nastąpić w drodze przetargu lub aukcji, do których przepisy Kodeksu cywilnego stosuje się odpowiednio, z tym że:",
        "children": [
         {
          "type": "pkt",
          "num": "1",
          "path": "art_320/ust_1/pkt_1",
-         "text": "warunki przetargu lub aukcji zatwierdza s ę dzia-komisarz;",
+         "text": "warunki przetargu lub aukcji zatwierdza sędzia-komisarz;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "art_320/ust_1/pkt_2",
-         "text": "o przetargu lub aukcji nale ż y zawiadomi ć przez obwieszczenie co najmniej na dwa tygodnie, a je ż eli przetarg albo aukcja dotyczy przedsi ę biorstwa spółki publicznej – co najmniej na sze ść tygodni przed terminem posiedzenia wyznaczonego w celu ich przeprowadzenia;",
+         "text": "o przetargu lub aukcji należy zawiadomić przez obwieszczenie co najmniej na dwa tygodnie, a jeżeli przetarg albo aukcja dotyczy przedsiębiorstwa spółki publicznej – co najmniej na sześć tygodni przed terminem posiedzenia wyznaczonego w celu ich przeprowadzenia;",
          "children": []
         },
         {
@@ -8621,7 +8618,7 @@
     {
      "type": "heading",
      "label": "DZIAŁ III",
-     "text": "Sprzeda ż ruchomo ś ci oraz przej ę cie przez zastawnika ruchomo ś ci obci ąż onej zastawem rejestrowym"
+     "text": "Sprzedaż ruchomości oraz przejęcie przez zastawnika ruchomości obciążonej zastawem rejestrowym"
     },
     {
      "type": "art",
@@ -8692,7 +8689,7 @@
      "type": "art",
      "num": "329",
      "path": "art_329",
-     "text": "W przypadkach, o których mowa w art. 327 i 328, zastawnik jest obowi ą zany rozliczy ć si ę z syndykiem stosownie do przepisów ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów.",
+     "text": "W przypadkach, o których mowa w art. 327 i 328, zastawnik jest obowiązany rozliczyć się z syndykiem stosownie do przepisów ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów.",
      "children": []
     },
     {
@@ -8705,7 +8702,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_330/ust_1",
-       "text": "Je ż eli przedmiot obci ąż ony zastawem rejestrowym jest składnikiem przedsi ę biorstwa upadłego i jego sprzeda ż wraz z przedsi ę biorstwem mo ż e by ć korzystniejsza ni ż oddzielna sprzeda ż przedmiotu zastawu, przepisów art. 327 oraz art. 328 nie stosuje si ę .",
+       "text": "Jeżeli przedmiot obciążony zastawem rejestrowym jest składnikiem przedsiębiorstwa upadłego i jego sprzedaż wraz z przedsiębiorstwem może być korzystniejsza niż oddzielna sprzedaż przedmiotu zastawu, przepisów art. 327 oraz art. 328 nie stosuje się.",
        "children": []
       },
       {
@@ -8756,7 +8753,7 @@
     {
      "type": "heading",
      "label": "DZIAŁ IV",
-     "text": "Likwidacja wierzytelno ś ci i praw maj ą tkowych"
+     "text": "Likwidacja wierzytelności i praw majątkowych"
     },
     {
      "type": "art",
@@ -8859,7 +8856,7 @@
      "type": "art",
      "num": "335",
      "path": "art_335",
-     "text": "Fundusze masy upadło ś ci obejmuj ą sumy uzyskane z likwidacji masy upadło ś ci oraz dochód uzyskany z prowadzenia lub wydzier ż awienia przedsi ę biorstwa upadłego, a tak ż e odsetki od tych sum zdeponowanych w banku, chyba ż e przepisy ustawy stanowi ą inaczej.",
+     "text": "Fundusze masy upadłości obejmują sumy uzyskane z likwidacji masy upadłości oraz dochód uzyskany z prowadzenia lub wydzierżawienia przedsiębiorstwa upadłego, a także odsetki od tych sum zdeponowanych w banku, chyba że przepisy ustawy stanowią inaczej.",
      "children": []
     },
     {
@@ -8924,7 +8921,7 @@
      "type": "art",
      "num": "338",
      "path": "art_338",
-     "text": "Je ż eli w post ę powaniu upadło ś ciowym zaspokojeniu podlegaj ą wierzytelno ś ci zabezpieczone hipotek ą , zastawem, zastawem rejestrowym, zastawem skarbowym i hipoteką morską, podziału ostatecznego funduszów masy upadłości dokonuje się po podziale sumy uzyskanej ze zbycia przedmiotu obciążonego.",
+     "text": "Jeżeli w postępowaniu upadłościowym zaspokojeniu podlegają wierzytelności zabezpieczone hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym i hipoteką morską, podziału ostatecznego funduszów masy upadłości dokonuje się po podziale sumy uzyskanej ze zbycia przedmiotu obciążonego.",
      "children": []
     },
     {
@@ -8966,7 +8963,7 @@
     {
      "type": "heading",
      "label": "DZIAŁ II",
-     "text": "Kolejno ść zaspokajania wierzycieli"
+     "text": "Kolejność zaspokajania wierzycieli"
     },
     {
      "type": "heading",
@@ -8989,7 +8986,7 @@
          "type": "pkt",
          "num": "1",
          "path": "art_342/ust_1/pkt_1",
-         "text": "kategoria pierwsza – przypadające za czas przed ogłoszeniem upadłości należności ze stosunku pracy, z wyjątkiem roszczeń z tytułu wynagrodzenia reprezentanta upadłego lub wynagrodzenia osoby wykonującej czynności związane z zarządem lub nadzorem nad przedsiębiorstwem upadłego, należności rolników z tytułu umów o dostarczenie produktów z własnego gospodarstwa rolnego, należności alimentacyjne oraz renty z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa lub śmierci i renty z tytułu zamiany uprawnień objętych treścią prawa doż ywocia na do ż ywotni ą rent ę , przypadaj ą ce za trzy ostatnie lata przed ogłoszeniem upadło ś ci nale ż no ś ci z tytułu składek na ubezpieczenia społeczne w rozumieniu ustawy z dnia 13 pa ź dziernika 1998 r. o systemie ubezpiecze ń społecznych (Dz. U. z 2017 r. poz. 1778) oraz nale ż no ś ci powstałe w post ę powaniu restrukturyzacyjnym z czynno ś ci zarz ą dcy albo nale ż no ś ci powstałe z czynno ś ci dłu ż nika dokonanych po otwarciu post ę powania restrukturyzacyjnego niewymagaj ą cych zezwolenia rady wierzycieli albo zgody nadzorcy s ą dowego lub dokonanych za zezwoleniem rady wierzycieli albo zgodą nadzorcy sądowego, jeżeli upadłość ogłoszono w wyniku rozpoznania uproszczonego wniosku o ogłoszenie upadłości jak również należności z tytułu kredytu, pożyczki, obligacji, gwarancji lub akredytyw lub innego finansowania przewidzianego układem przyjętym w postępowaniu restrukturyzacyjnym i udzielonego w związku z wykonaniem takiego układu, jeżeli upadłość ogłoszono w wyniku rozpoznania wniosku o ogłoszenie upadłości złożonego nie później niż trzy miesiące po prawomocnym uchyleniu układu;",
+         "text": "kategoria pierwsza – przypadające za czas przed ogłoszeniem upadłości należności ze stosunku pracy, z wyjątkiem roszczeń z tytułu wynagrodzenia reprezentanta upadłego lub wynagrodzenia osoby wykonującej czynności związane z zarządem lub nadzorem nad przedsiębiorstwem upadłego, należności rolników z tytułu umów o dostarczenie produktów z własnego gospodarstwa rolnego, należności alimentacyjne oraz renty z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa lub śmierci i renty z tytułu zamiany uprawnień objętych treścią prawa dożywocia na dożywotnią rentę, przypadające za trzy ostatnie lata przed ogłoszeniem upadłości należności z tytułu składek na ubezpieczenia społeczne w rozumieniu ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2017 r. poz. 1778) oraz należności powstałe w postępowaniu restrukturyzacyjnym z czynności zarządcy albo należności powstałe z czynności dłużnika dokonanych po otwarciu postępowania restrukturyzacyjnego niewymagających zezwolenia rady wierzycieli albo zgody nadzorcy sądowego lub dokonanych za zezwoleniem rady wierzycieli albo zgodą nadzorcy sądowego, jeżeli upadłość ogłoszono w wyniku rozpoznania uproszczonego wniosku o ogłoszenie upadłości jak również należności z tytułu kredytu, pożyczki, obligacji, gwarancji lub akredytyw lub innego finansowania przewidzianego układem przyjętym w postępowaniu restrukturyzacyjnym i udzielonego w związku z wykonaniem takiego układu, jeżeli upadłość ogłoszono w wyniku rozpoznania wniosku o ogłoszenie upadłości złożonego nie później niż trzy miesiące po prawomocnym uchyleniu układu;",
          "children": []
         },
         {
@@ -9127,7 +9124,7 @@
        "type": "ust",
        "num": "2",
        "path": "art_344/ust_2",
-       "text": "Jeżeli suma przeznaczona do podziału nie wystarcza na zaspokojenie w całości wszystkich należności, należności dalszej kategorii zaspokaja się dopiero po zaspokojeniu w całości należności poprzedzającej kategorii, a jeżeli suma przeznaczona do podziału nie wystarcza na zaspokojenie w całości wszystkich należności tej samej kategorii, należności te zaspokaja si ę stosunkowo do wysoko ś ci ka ż dej z nich.",
+       "text": "Jeżeli suma przeznaczona do podziału nie wystarcza na zaspokojenie w całości wszystkich należności, należności dalszej kategorii zaspokaja się dopiero po zaspokojeniu w całości należności poprzedzającej kategorii, a jeżeli suma przeznaczona do podziału nie wystarcza na zaspokojenie w całości wszystkich należności tej samej kategorii, należności te zaspokaja się stosunkowo do wysokości każdej z nich.",
        "children": []
       }
      ]
@@ -9135,7 +9132,7 @@
     {
      "type": "heading",
      "label": "Rozdział 2",
-     "text": "Kolejno ść spłacania wierzytelno ś ci zabezpieczonych hipotek ą , zastawem, zastawem rejestrowym, zastawem skarbowym i hipotek ą morsk ą"
+     "text": "Kolejność spłacania wierzytelności zabezpieczonych hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym i hipoteką morską"
     },
     {
      "type": "art",
@@ -9191,7 +9188,7 @@
     {
      "type": "heading",
      "label": "DZIAŁ III",
-     "text": "Post ę powanie w sprawie podziału funduszów masy upadło ś ci"
+     "text": "Postępowanie w sprawie podziału funduszów masy upadłości"
     },
     {
      "type": "heading",
@@ -9273,14 +9270,14 @@
        "type": "ust",
        "num": "1",
        "path": "art_348/ust_1",
-       "text": "W sprawach, w których wierzycielom przysługuj ą prawa na zbytych rzeczach lub prawach, o których mowa w art. 345 i 346, syndyk sporz ą dza oddzielny plan podziału sum uzyskanych ze sprzedanych rzeczy lub praw. Do tego planu stosuje si ę odpowiednio przepis art. 347.",
+       "text": "W sprawach, w których wierzycielom przysługują prawa na zbytych rzeczach lub prawach, o których mowa w art. 345 i 346, syndyk sporządza oddzielny plan podziału sum uzyskanych ze sprzedanych rzeczy lub praw. Do tego planu stosuje się odpowiednio przepis art. 347.",
        "children": []
       },
       {
        "type": "ust",
        "num": "2",
        "path": "art_348/ust_2",
-       "text": "W planie podziału sumy uzyskanej ze sprzeda ż y nieruchomo ś ci syndyk wymienia dodatkowo prawa oraz prawa i roszczenia osobiste, które wskutek sprzeda ż y nieruchomo ś ci wygasły.",
+       "text": "W planie podziału sumy uzyskanej ze sprzedaży nieruchomości syndyk wymienia dodatkowo prawa oraz prawa i roszczenia osobiste, które wskutek sprzedaży nieruchomości wygasły.",
        "children": []
       }
      ]
@@ -9467,14 +9464,14 @@
        "type": "ust",
        "num": "2",
        "path": "art_356/ust_2",
-       "text": "Sumę wydzieloną na zaspokojenie wierzytelności, której zapłata zależy od warunku zawieszającego, w tym wierzytelno ś ci, o których mowa w art. 248 ust. 2, wydaje si ę wierzycielowi, je ż eli udowodni, ż e warunek si ę zi ś cił; w przeciwnym razie sum ę t ę składa si ę do depozytu s ą dowego.",
+       "text": "Sumę wydzieloną na zaspokojenie wierzytelności, której zapłata zależy od warunku zawieszającego, w tym wierzytelności, o których mowa w art. 248 ust. 2, wydaje się wierzycielowi, jeżeli udowodni, że warunek się ziścił; w przeciwnym razie sumę tę składa się do depozytu sądowego.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
        "path": "art_356/ust_3",
-       "text": "Sum ę wydzielon ą na zaspokojenie wierzytelno ś ci niewymagalnej składa si ę do depozytu s ą dowego.",
+       "text": "Sumę wydzieloną na zaspokojenie wierzytelności niewymagalnej składa się do depozytu sądowego.",
        "children": []
       }
      ]
@@ -9540,7 +9537,7 @@
     {
      "type": "heading",
      "label": "TYTUŁ IX",
-     "text": "Zako ń czenie i umorzenie post ę powania upadło ś ciowego oraz ich skutki"
+     "text": "Zakończenie i umorzenie postępowania upadłościowego oraz ich skutki"
     },
     {
      "type": "art",
@@ -9646,7 +9643,7 @@
        "type": "ust",
        "num": "3",
        "path": "art_365/ust_3",
-       "text": "W przypadku braku majątku potrzebnego na pokrycie kosztów przechowania ksiąg, korespondencji lub dokumentów s ą d zas ą dza od upadłego na rzecz przechowawcy koszty przechowania. W przypadku upadłego b ę d ą cego osob ą prawn ą albo spółk ą osobow ą s ą d mo ż e zas ą dzi ć koszty przechowania od osób upowa ż nionych do reprezentowania upadłego, okre ś laj ą c osob ę albo osoby ponosz ą ce koszty przechowania. Na postanowienie s ą du za ż alenie przysługuje wył ą cznie upadłemu, osobie zobowi ą zanej do ponoszenia kosztów oraz przechowawcy.",
+       "text": "W przypadku braku majątku potrzebnego na pokrycie kosztów przechowania ksiąg, korespondencji lub dokumentów sąd zasądza od upadłego na rzecz przechowawcy koszty przechowania. W przypadku upadłego będącego osobą prawną albo spółką osobową sąd może zasądzić koszty przechowania od osób upoważnionych do reprezentowania upadłego, określając osobę albo osoby ponoszące koszty przechowania. Na postanowienie sądu zażalenie przysługuje wyłącznie upadłemu, osobie zobowiązanej do ponoszenia kosztów oraz przechowawcy.",
        "children": []
       },
       {
@@ -9824,14 +9821,14 @@
        "type": "ust",
        "num": "1",
        "path": "art_370a/ust_1",
-       "text": "W postanowieniu o ustaleniu planu spłaty wierzycieli sąd określa, w jakim zakresie i w jakim czasie, nie dłuższym niż trzydzieści sześć miesięcy, upadły jest obowiązany spłacać zobowiązania uznane na liście wierzytelności a niewykonane w toku post ę powania upadło ś ciowego na podstawie planów podziału oraz jaka cz ęść zobowi ą za ń upadłego powstałych przed dniem ogłoszenia upadło ś ci zostanie umorzona po wykonaniu planu spłaty wierzycieli.",
+       "text": "W postanowieniu o ustaleniu planu spłaty wierzycieli sąd określa, w jakim zakresie i w jakim czasie, nie dłuższym niż trzydzieści sześć miesięcy, upadły jest obowiązany spłacać zobowiązania uznane na liście wierzytelności a niewykonane w toku postępowania upadłościowego na podstawie planów podziału oraz jaka część zobowiązań upadłego powstałych przed dniem ogłoszenia upadłości zostanie umorzona po wykonaniu planu spłaty wierzycieli.",
        "children": []
       },
       {
        "type": "ust",
        "num": "2",
        "path": "art_370a/ust_2",
-       "text": "Zobowi ą zania powstałe po ogłoszeniu upadło ś ci i niewykonane w toku post ę powania uwzgl ę dnia si ę w planie spłaty wierzycieli w pełnej wysoko ś ci, przy czym ich spłata mo ż e by ć rozło ż ona na raty na czas nie dłu ż szy ni ż przewidziany na wykonanie planu spłaty wierzycieli.",
+       "text": "Zobowiązania powstałe po ogłoszeniu upadłości i niewykonane w toku postępowania uwzględnia się w planie spłaty wierzycieli w pełnej wysokości, przy czym ich spłata może być rozłożona na raty na czas nie dłuższy niż przewidziany na wykonanie planu spłaty wierzycieli.",
        "children": []
       },
       {
@@ -9968,20 +9965,20 @@
        "type": "ust",
        "num": "2",
        "path": "art_370e/ust_2",
-       "text": "Przepis ust. 1 stosuje si ę odpowiednio, je ż eli upadły:",
+       "text": "Przepis ust. 1 stosuje się odpowiednio, jeżeli upadły:",
        "children": [
         {
          "type": "pkt",
          "num": "1",
          "path": "art_370e/ust_2/pkt_1",
-         "text": "nie zło ż ył w terminie sprawozdania z wykonania planu spłaty wierzycieli zgodnie z art. 370c ust. 4;",
+         "text": "nie złożył w terminie sprawozdania z wykonania planu spłaty wierzycieli zgodnie z art. 370c ust. 4;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "art_370e/ust_2/pkt_2",
-         "text": "w sprawozdaniu z wykonania planu spłaty wierzycieli zataił osi ą gni ę te przychody lub nabyte składniki maj ą tkowe, o których mowa w art. 370c ust. 4;",
+         "text": "w sprawozdaniu z wykonania planu spłaty wierzycieli zataił osiągnięte przychody lub nabyte składniki majątkowe, o których mowa w art. 370c ust. 4;",
          "children": []
         },
         {
@@ -10114,7 +10111,7 @@
     {
      "type": "heading",
      "label": "TYTUŁ X",
-     "text": "Post ę powanie w sprawach orzekania zakazu prowadzenia działalno ś ci gospodarczej"
+     "text": "Postępowanie w sprawach orzekania zakazu prowadzenia działalności gospodarczej"
     },
     {
      "type": "art",
@@ -10146,21 +10143,21 @@
          "type": "pkt",
          "num": "2",
          "path": "art_373/ust_1/pkt_2",
-         "text": "po ogłoszeniu upadłości nie wydała lub nie wskazała majątku, ksiąg rachunkowych, korespondencji lub innych dokumentów upadłego, w tym danych w postaci elektronicznej, do których wydania lub wskazania była obowi ą zana z mocy ustawy, albo",
+         "text": "po ogłoszeniu upadłości nie wydała lub nie wskazała majątku, ksiąg rachunkowych, korespondencji lub innych dokumentów upadłego, w tym danych w postaci elektronicznej, do których wydania lub wskazania była obowiązana z mocy ustawy, albo",
          "children": []
         },
         {
          "type": "pkt",
          "num": "3",
          "path": "art_373/ust_1/pkt_3",
-         "text": "jako upadły po ogłoszeniu upadło ś ci ukrywała, niszczyła lub obci ąż ała maj ą tek wchodz ą cy w skład masy upadło ś ci, albo",
+         "text": "jako upadły po ogłoszeniu upadłości ukrywała, niszczyła lub obciążała majątek wchodzący w skład masy upadłości, albo",
          "children": []
         },
         {
          "type": "pkt",
          "num": "4",
          "path": "art_373/ust_1/pkt_4",
-         "text": "jako upadły w toku post ę powania upadło ś ciowego nie wykonała innych obowi ą zków ci ążą cych na nim z mocy ustawy lub orzeczenia sądu albo sędziego-komisarza, albo też w inny sposób utrudniała postępowanie.",
+         "text": "jako upadły w toku postępowania upadłościowego nie wykonała innych obowiązków ciążących na nim z mocy ustawy lub orzeczenia sądu albo sędziego-komisarza, albo też w inny sposób utrudniała postępowanie.",
          "children": []
         }
        ]
@@ -10295,16 +10292,12 @@
      "num": "377",
      "path": "art_377",
      "text": "Nie orzeka się zakazu, o którym mowa w art. 373, jeżeli postępowanie w tej sprawie nie zostało wszczęte w terminie roku od dnia umorzenia lub zakończenia postępowania upadłościowego albo oddalenia wniosku o ogłoszenie upadłości na podstawie art. 13, a gdy wniosek o ogłoszenie upadłości nie był złożony, w terminie trzech lat od dnia ustania stanu niewypłacalności albo wygaśnięcia obowiązku złożenia wniosku o ogłoszenie upadłości przez daną osobę.",
-     "children": [
-      {
-       "type": "text",
-       "text": "CZ ĘŚĆ DRUGA"
-      },
-      {
-       "type": "text",
-       "text": "PRZEPISY Z ZAKRESU MIĘDZYNARODOWEGO POSTĘPOWANIA UPADŁOŚCIOWEGO"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "CZĘŚĆ DRUGA",
+     "text": "PRZEPISY Z ZAKRESU MIĘDZYNARODOWEGO POSTĘPOWANIA UPADŁOŚCIOWEGO"
     },
     {
      "type": "heading",
@@ -10337,13 +10330,13 @@
      "type": "art",
      "num": "379",
      "path": "art_379",
-     "text": "Ilekro ć w przepisach niniejszej cz ęś ci jest mowa o:",
+     "text": "Ilekroć w przepisach niniejszej części jest mowa o:",
      "children": [
       {
        "type": "pkt",
        "num": "1",
        "path": "art_379/pkt_1",
-       "text": "zagranicznym post ę powaniu upadło ś ciowym – nale ż y przez to rozumie ć wszelkie post ę powania s ą dowe lub administracyjne lub inne post ę powania poddane nadzorowi s ą du zagranicznego, których przedmiotem jest wspólne dochodzenie roszcze ń przeciwko dłu ż nikowi niewypłacalnemu lub zagro ż onemu niewypłacalno ś ci ą , prowadzone za granic ą , w których mienie i sprawy dłu ż nika s ą poddane kontroli lub zarz ą dowi zagranicznego s ą du lub zagranicznego zarządcy w celu ich restrukturyzacji lub likwidacji;",
+       "text": "zagranicznym postępowaniu upadłościowym – należy przez to rozumieć wszelkie postępowania sądowe lub administracyjne lub inne postępowania poddane nadzorowi sądu zagranicznego, których przedmiotem jest wspólne dochodzenie roszczeń przeciwko dłużnikowi niewypłacalnemu lub zagrożonemu niewypłacalnością, prowadzone za granicą, w których mienie i sprawy dłużnika są poddane kontroli lub zarządowi zagranicznego sądu lub zagranicznego zarządcy w celu ich restrukturyzacji lub likwidacji;",
        "children": []
       },
       {
@@ -10484,7 +10477,7 @@
     {
      "type": "heading",
      "label": "TYTUŁ III",
-     "text": "Uznawanie orzecze ń o wszcz ę ciu zagranicznego post ę powania upadło ś ciowego"
+     "text": "Uznawanie orzeczeń o wszczęciu zagranicznego postępowania upadłościowego"
     },
     {
      "type": "art",
@@ -10655,14 +10648,14 @@
        "type": "pkt",
        "num": "1",
        "path": "art_392/pkt_1",
-       "text": "dotyczy sprawy, która nie nale ż y do wył ą cznej jurysdykcji s ą dów polskich;",
+       "text": "dotyczy sprawy, która nie należy do wyłącznej jurysdykcji sądów polskich;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "art_392/pkt_2",
-       "text": "uznanie nie jest sprzeczne z podstawowymi zasadami porz ą dku prawnego w Rzeczypospolitej Polskiej.",
+       "text": "uznanie nie jest sprzeczne z podstawowymi zasadami porządku prawnego w Rzeczypospolitej Polskiej.",
        "children": []
       }
      ]
@@ -10814,14 +10807,14 @@
        "type": "ust",
        "num": "1",
        "path": "art_395/ust_1",
-       "text": "Postanowienie o uznaniu orzeczenia o wszcz ę ciu zagranicznego post ę powania upadło ś ciowego mo ż e by ć w ka ż dym czasie zmienione lub uchylone w przypadku pó ź niejszego wykrycia, ż e nie było podstaw do jego uznania albo podstawy te przestały istnie ć .",
+       "text": "Postanowienie o uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego może być w każdym czasie zmienione lub uchylone w przypadku późniejszego wykrycia, że nie było podstaw do jego uznania albo podstawy te przestały istnieć.",
        "children": []
       },
       {
        "type": "ust",
        "num": "1a",
        "path": "art_395/ust_1a",
-       "text": "S ą d uchyla postanowienie o uznaniu orzeczenia o wszcz ę ciu zagranicznego post ę powania upadło ś ciowego, je ż eli w zagranicznym post ę powaniu upadło ś ciowym został przyj ę ty układ, którego tre ść jest ra żą co sprzeczna z polskim prawem.",
+       "text": "Sąd uchyla postanowienie o uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego, jeżeli w zagranicznym postępowaniu upadłościowym został przyjęty układ, którego treść jest rażąco sprzeczna z polskim prawem.",
        "children": []
       },
       {
@@ -10950,14 +10943,14 @@
        "type": "ust",
        "num": "5",
        "path": "art_401/ust_5",
-       "text": "Po zako ń czeniu likwidacji maj ą tku znajduj ą cego si ę na terytorium Rzeczypospolitej Polskiej s ą d uznaj ą cy wydaje postanowienie o zako ń czeniu post ę powania.",
+       "text": "Po zakończeniu likwidacji majątku znajdującego się na terytorium Rzeczypospolitej Polskiej sąd uznający wydaje postanowienie o zakończeniu postępowania.",
        "children": []
       },
       {
        "type": "ust",
        "num": "6",
        "path": "art_401/ust_6",
-       "text": "S ą d uznaj ą cy wydaje równie ż postanowienie o zako ń czeniu post ę powania w przypadku wszcz ę cia wtórnego post ę - powania upadło ś ciowego oraz w przypadku uprawomocnienia si ę postanowienia o uchyleniu postanowienia o uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego.",
+       "text": "Sąd uznający wydaje również postanowienie o zakończeniu postępowania w przypadku wszczęcia wtórnego postępowania upadłościowego oraz w przypadku uprawomocnienia się postanowienia o uchyleniu postanowienia o uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego.",
        "children": []
       }
      ]
@@ -11023,7 +11016,7 @@
     {
      "type": "heading",
      "label": "TYTUŁ IV",
-     "text": "Wtórne post ę powanie upadło ś ciowe"
+     "text": "Wtórne postępowanie upadłościowe"
     },
     {
      "type": "art",
@@ -11114,7 +11107,7 @@
        "type": "pkt",
        "num": "2",
        "path": "art_410/pkt_2",
-       "text": "syndyk wst ę puje do post ę powa ń s ą dowych, egzekucyjnych, administracyjnych, s ą dowoadministracyjnych oraz przed s ą dami polubownymi, prowadzonych przez zarz ą dc ę zagranicznego lub dłu ż nika, któremu pozostawiono zarz ą d własny maj ą tkiem.",
+       "text": "syndyk wstępuje do postępowań sądowych, egzekucyjnych, administracyjnych, sądowoadministracyjnych oraz przed sądami polubownymi, prowadzonych przez zarządcę zagranicznego lub dłużnika, któremu pozostawiono zarząd własny majątkiem.",
        "children": []
       }
      ]
@@ -11187,7 +11180,7 @@
     {
      "type": "heading",
      "label": "TYTUŁ V",
-     "text": "Współpraca z s ą dami zagranicznymi i zarz ą dcami zagranicznymi"
+     "text": "Współpraca z sądami zagranicznymi i zarządcami zagranicznymi"
     },
     {
      "type": "art",
@@ -11271,24 +11264,20 @@
        "type": "ust",
        "num": "2",
        "path": "art_417/ust_2",
-       "text": "Jeżeli w Rzeczypospolitej Polskiej nie zostało wszczęte postępowanie upadłościowe obejmujące majątek należący do podmiotu, wobec którego są prowadzone zagraniczne postępowania upadłościowe, postanowienie, o którym mowa w ust. 1, wydaje sąd, który uznał orzeczenie o wszczęciu zagranicznego postępowania upadłościowego. Przepisy części pierwszej tytułu II stosuje si ę odpowiednio.",
-       "children": [
-        {
-         "type": "text",
-         "text": "CZ ĘŚĆ TRZECIA"
-        },
-        {
-         "type": "text",
-         "text": "ODR Ę BNE POST Ę POWANIA UPADŁO Ś CIOWE"
-        }
-       ]
+       "text": "Jeżeli w Rzeczypospolitej Polskiej nie zostało wszczęte postępowanie upadłościowe obejmujące majątek należący do podmiotu, wobec którego są prowadzone zagraniczne postępowania upadłościowe, postanowienie, o którym mowa w ust. 1, wydaje sąd, który uznał orzeczenie o wszczęciu zagranicznego postępowania upadłościowego. Przepisy części pierwszej tytułu II stosuje się odpowiednio.",
+       "children": []
       }
      ]
     },
     {
      "type": "heading",
+     "label": "CZĘŚĆ TRZECIA",
+     "text": "ODRĘBNE POSTĘPOWANIA UPADŁOŚCIOWE"
+    },
+    {
+     "type": "heading",
      "label": "TYTUŁ I",
-     "text": "Post ę powanie upadło ś ciowe wszcz ę te po ś mierci niewypłacalnego dłu ż nika"
+     "text": "Postępowanie upadłościowe wszczęte po śmierci niewypłacalnego dłużnika"
     },
     {
      "type": "art",
@@ -11364,7 +11353,7 @@
     {
      "type": "heading",
      "label": "TYTUŁ IA",
-     "text": "Post ę powanie upadło ś ciowe wobec deweloperów"
+     "text": "Postępowanie upadłościowe wobec deweloperów"
     },
     {
      "type": "heading",
@@ -11418,13 +11407,13 @@
      "type": "art",
      "num": "425d",
      "path": "art_425d",
-     "text": "W przypadku gdy upadły jest emitentem obligacji, a dla zabezpieczenia praw z obligacji ustanowiono zabezpieczenie na nieruchomo ś ci, na której realizowane jest przedsi ę wzi ę cie deweloperskie, przepisów art. 488–490 nie stosuje si ę .",
+     "text": "W przypadku gdy upadły jest emitentem obligacji, a dla zabezpieczenia praw z obligacji ustanowiono zabezpieczenie na nieruchomości, na której realizowane jest przedsięwzięcie deweloperskie, przepisów art. 488–490 nie stosuje się.",
      "children": []
     },
     {
      "type": "heading",
      "label": "DZIAŁ II",
-     "text": "Dalsze prowadzenie przedsi ę wzi ę cia deweloperskiego"
+     "text": "Dalsze prowadzenie przedsięwzięcia deweloperskiego"
     },
     {
      "type": "art",
@@ -11543,7 +11532,7 @@
      "type": "art",
      "num": "425j",
      "path": "art_425j",
-     "text": "Roszczenia nabywcy wynikaj ą ce z odst ą pienia od umowy deweloperskiej podlegaj ą zaspokojeniu z sum uzyskanych z likwidacji nieruchomo ś ci, na której prowadzone jest przedsi ę wzi ę cie deweloperskie, na takich samych zasadach jak roszczenie z umowy deweloperskiej. Nabywcy przysługuje pierwsze ń stwo wynikaj ą ce z ujawnienia w ksi ę dze wieczystej przysługuj ą cego mu roszczenia z umowy deweloperskiej, tak ż e w przypadku gdy wpis o ujawnieniu tego roszczenia został wykreślony.",
+     "text": "Roszczenia nabywcy wynikające z odstąpienia od umowy deweloperskiej podlegają zaspokojeniu z sum uzyskanych z likwidacji nieruchomości, na której prowadzone jest przedsięwzięcie deweloperskie, na takich samych zasadach jak roszczenie z umowy deweloperskiej. Nabywcy przysługuje pierwszeństwo wynikające z ujawnienia w księdze wieczystej przysługującego mu roszczenia z umowy deweloperskiej, także w przypadku gdy wpis o ujawnieniu tego roszczenia został wykreślony.",
      "children": []
     },
     {
@@ -11556,7 +11545,7 @@
     {
      "type": "heading",
      "label": "DZIAŁ IV",
-     "text": "Kontynuacja przedsi ę wzi ę cia deweloperskiego przez innego przedsi ę biorc ę"
+     "text": "Kontynuacja przedsięwzięcia deweloperskiego przez innego przedsiębiorcę"
     },
     {
      "type": "art",
@@ -11672,14 +11661,14 @@
          "type": "pkt",
          "num": "1",
          "path": "art_425o/ust_1/pkt_1",
-         "text": "wpłacenie dopłat przez wszystkich albo niektórych nabywców i zaspokojenie ich przez przeniesienie własności lokali, przy czym propozycje układowe mog ą przewidywa ć pó ź niejszy zwrot dopłat z przychodów z realizacji przedsi ę wzi ę - cia deweloperskiego;",
+         "text": "wpłacenie dopłat przez wszystkich albo niektórych nabywców i zaspokojenie ich przez przeniesienie własności lokali, przy czym propozycje układowe mogą przewidywać późniejszy zwrot dopłat z przychodów z realizacji przedsięwzięcia deweloperskiego;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "art_425o/ust_1/pkt_2",
-         "text": "sprzeda ż nieruchomo ś ci, na której prowadzone jest przedsi ę wzi ę cie deweloperskie, z zachowaniem ci ążą cych na niej ograniczonych praw rzeczowych, na rzecz przedsi ę biorcy, który przej ą łby zobowi ą zania wobec nabywców i zobowi ą - załby si ę do kontynuacji przedsi ę wzi ę cia deweloperskiego, przy czym propozycje układowe mog ą przewidywa ć zmianę treści umów deweloperskich;",
+         "text": "sprzedaż nieruchomości, na której prowadzone jest przedsięwzięcie deweloperskie, z zachowaniem ciążących na niej ograniczonych praw rzeczowych, na rzecz przedsiębiorcy, który przejąłby zobowiązania wobec nabywców i zobowiązałby się do kontynuacji przedsięwzięcia deweloperskiego, przy czym propozycje układowe mogą przewidywać zmianę treści umów deweloperskich;",
          "children": []
         },
         {
@@ -11832,7 +11821,7 @@
        "type": "ust",
        "num": "5",
        "path": "art_425s/ust_5",
-       "text": "W przypadku niedoj ś cia układu do skutku pomimo podj ę cia uchwały nabywców, o której mowa w art. 425r ust. 3, oraz wpłacenia lub zabezpieczenia w terminach, o których mowa w ust. 1 lub 2, dopłat w wysoko ś ci wystarczaj ą cej na sfinansowanie przedsi ę wzi ę cia deweloperskiego w dalszym toku post ę powania upadło ś ciowego odst ą pienie przez syndyka od kontynuacji przedsi ę wzi ę cia deweloperskiego wymaga zgody s ę dziego-komisarza.",
+       "text": "W przypadku niedojścia układu do skutku pomimo podjęcia uchwały nabywców, o której mowa w art. 425r ust. 3, oraz wpłacenia lub zabezpieczenia w terminach, o których mowa w ust. 1 lub 2, dopłat w wysokości wystarczającej na sfinansowanie przedsięwzięcia deweloperskiego w dalszym toku postępowania upadłościowego odstąpienie przez syndyka od kontynuacji przedsięwzięcia deweloperskiego wymaga zgody sędziego-komisarza.",
        "children": []
       },
       {
@@ -11854,7 +11843,7 @@
     {
      "type": "heading",
      "label": "TYTUŁ II",
-     "text": "Post ę powanie upadło ś ciowe wobec banków i spółdzielczych kas oszcz ę dno ś ciowo-kredytowych"
+     "text": "Postępowanie upadłościowe wobec banków i spółdzielczych kas oszczędnościowo-kredytowych"
     },
     {
      "type": "heading",
@@ -12023,13 +12012,13 @@
      "type": "art",
      "num": "433",
      "path": "art_433",
-     "text": "O ile skutki te nie nast ą piły wcze ś niej z powodu otwarcia post ę powania układowego, z dniem ogłoszenia upadło ś ci:",
+     "text": "O ile skutki te nie nastąpiły wcześniej z powodu otwarcia postępowania układowego, z dniem ogłoszenia upadłości:",
      "children": [
       {
        "type": "pkt",
        "num": "1",
        "path": "art_433/pkt_1",
-       "text": "organy zarz ą dzaj ą ce i nadzorcze banku ulegaj ą rozwi ą zaniu;",
+       "text": "organy zarządzające i nadzorcze banku ulegają rozwiązaniu;",
        "children": []
       },
       {
@@ -12223,7 +12212,7 @@
          "type": "pkt",
          "num": "1",
          "path": "art_440/ust_2/pkt_1",
-         "text": "kategoria pierwsza – nale ż no ś ci, o których mowa w art. 39 ust. 1 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, wraz z odsetkami i kosztami egzekucji, przypadaj ą ce za czas przed ogłoszeniem upadło ś ci nale ż no ś ci ze stosunku pracy, z wyj ą tkiem roszcze ń z tytułu wynagrodzenia reprezentanta upadłego lub wynagrodzenia osoby wykonuj ą cej czynno ś ci zwi ą zane z zarz ą dem lub nadzorem nad przedsi ę biorstwem upadłego, nale ż no ś ci rolników z tytułu umów o dostarczenie produktów z własnego gospodarstwa rolnego, należności alimentacyjne oraz renty z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa lub śmierci i renty z tytułu zamiany uprawnień objętych treścią prawa dożywocia na dożywotnią rentę, przypadające za trzy ostatnie lata przed dniem ogłoszeniem upadłości należności z tytułu składek na ubezpieczenia społeczne w rozumieniu ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych;",
+         "text": "kategoria pierwsza – należności, o których mowa w art. 39 ust. 1 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, wraz z odsetkami i kosztami egzekucji, przypadające za czas przed ogłoszeniem upadłości należności ze stosunku pracy, z wyjątkiem roszczeń z tytułu wynagrodzenia reprezentanta upadłego lub wynagrodzenia osoby wykonującej czynności związane z zarządem lub nadzorem nad przedsiębiorstwem upadłego, należności rolników z tytułu umów o dostarczenie produktów z własnego gospodarstwa rolnego, należności alimentacyjne oraz renty z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa lub śmierci i renty z tytułu zamiany uprawnień objętych treścią prawa dożywocia na dożywotnią rentę, przypadające za trzy ostatnie lata przed dniem ogłoszeniem upadłości należności z tytułu składek na ubezpieczenia społeczne w rozumieniu ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych;",
          "children": []
         },
         {
@@ -12352,7 +12341,7 @@
        "type": "ust",
        "num": "4",
        "path": "art_441a/ust_4",
-       "text": "W pozostałym zakresie przepisy art. 426–441 stosuje si ę odpowiednio.",
+       "text": "W pozostałym zakresie przepisy art. 426–441 stosuje się odpowiednio.",
        "children": []
       }
      ]
@@ -12360,7 +12349,7 @@
     {
      "type": "heading",
      "label": "DZIAŁ II",
-     "text": "Post ę powanie upadło ś ciowe wobec banków hipotecznych"
+     "text": "Postępowanie upadłościowe wobec banków hipotecznych"
     },
     {
      "type": "art",
@@ -12540,14 +12529,14 @@
        "type": "ust",
        "num": "1",
        "path": "art_445a/ust_1",
-       "text": "Sędzia-komisarz zwołuje zgromadzenie wierzycieli z listów zastawnych na wniosek wierzycieli z listów zastawnych reprezentujących co najmniej 10% wierzytelności z tytułu nominalnej wartości listów zastawnych pozostających w obrocie. Przepisy o zgromadzeniu wierzycieli stosuje si ę odpowiednio.",
+       "text": "Sędzia-komisarz zwołuje zgromadzenie wierzycieli z listów zastawnych na wniosek wierzycieli z listów zastawnych reprezentujących co najmniej 10% wierzytelności z tytułu nominalnej wartości listów zastawnych pozostających w obrocie. Przepisy o zgromadzeniu wierzycieli stosuje się odpowiednio.",
        "children": []
       },
       {
        "type": "ust",
        "num": "2",
        "path": "art_445a/ust_2",
-       "text": "Je ż eli przepisy niniejszego działu nie stanowi ą inaczej, uchwały zgromadzenia wierzycieli z listów zastawnych zapadaj ą bez wzgl ę du na liczb ę obecnych, wi ę kszo ś ci ą głosów wierzycieli reprezentuj ą cych ponad 50% wierzytelno ś ci z tytułu nominalnej warto ś ci listów zastawnych pozostaj ą cych w obrocie.",
+       "text": "Jeżeli przepisy niniejszego działu nie stanowią inaczej, uchwały zgromadzenia wierzycieli z listów zastawnych zapadają bez względu na liczbę obecnych, większością głosów wierzycieli reprezentujących ponad 50% wierzytelności z tytułu nominalnej wartości listów zastawnych pozostających w obrocie.",
        "children": []
       },
       {
@@ -12698,7 +12687,7 @@
        "type": "ust",
        "num": "7",
        "path": "art_446a/ust_7",
-       "text": "Syndyk po rozpatrzeniu uwag Komisji Nadzoru Finansowego niezwłocznie przekazuje wyniki testu równowagi pokrycia i testu płynno ś ci s ę dziemu-komisarzowi. Wyniki pierwszego po ogłoszeniu upadło ś ci testu równowagi pokrycia albo testu równowagi pokrycia i testu płynno ś ci przekazuje si ę s ę dziemu-komisarzowi nie pó ź niej ni ż w terminie 4 miesi ę cy od dnia ogłoszenia upadło ś ci banku hipotecznego.",
+       "text": "Syndyk po rozpatrzeniu uwag Komisji Nadzoru Finansowego niezwłocznie przekazuje wyniki testu równowagi pokrycia i testu płynności sędziemu-komisarzowi. Wyniki pierwszego po ogłoszeniu upadłości testu równowagi pokrycia albo testu równowagi pokrycia i testu płynności przekazuje się sędziemu-komisarzowi nie później niż w terminie 4 miesięcy od dnia ogłoszenia upadłości banku hipotecznego.",
        "children": []
       },
       {
@@ -12841,19 +12830,19 @@
            "type": "lit",
            "num": "a",
            "path": "art_446c/ust_1/pkt_2/lit_a",
-           "text": "łącznej kwoty nominalnych wartości odsetek od znajdujących się w obrocie listów zastawnych, przypadających do wypłaty w okresie kolejnych 6 miesi ę cy,",
+           "text": "łącznej kwoty nominalnych wartości odsetek od znajdujących się w obrocie listów zastawnych, przypadających do wypłaty w okresie kolejnych 6 miesięcy,",
            "children": []
           },
           {
            "type": "lit",
            "num": "b",
            "path": "art_446c/ust_1/pkt_2/lit_b",
-           "text": "kosztów post ę powania upadło ś ciowego w zakresie osobnej masy upadło ś ci wynikaj ą cych ze sprawozdania syndyka",
+           "text": "kosztów postępowania upadłościowego w zakresie osobnej masy upadłości wynikających ze sprawozdania syndyka",
            "children": []
           },
           {
            "type": "text",
-           "text": "– wynios ą co najmniej 5% ł ą cznej kwoty nominalnych warto ś ci znajduj ą cych si ę w obrocie listów zastawnych; przy czym listy zastawne w zaspokojonej części podlegają umorzeniu."
+           "text": "– wyniosą co najmniej 5% łącznej kwoty nominalnych wartości znajdujących się w obrocie listów zastawnych; przy czym listy zastawne w zaspokojonej części podlegają umorzeniu."
           }
          ]
         }
@@ -12979,7 +12968,7 @@
     {
      "type": "heading",
      "label": "DZIAŁ III",
-     "text": "Post ę powanie upadło ś ciowe wobec instytucji kredytowych, banków zagranicznych oraz banków krajowych prowadzących działalność za granicą"
+     "text": "Postępowanie upadłościowe wobec instytucji kredytowych, banków zagranicznych oraz banków krajowych prowadzących działalność za granicą"
     },
     {
      "type": "heading",
@@ -13003,14 +12992,14 @@
        "type": "pkt",
        "num": "2",
        "path": "art_451/pkt_2",
-       "text": "ogłoszenia upadło ś ci, otwarcia post ę powania układowego lub innego podobnego post ę powania wobec instytucji kredytowej, je ż eli prowadzi ona działalno ść tak ż e w Rzeczypospolitej Polskiej;",
+       "text": "ogłoszenia upadłości, otwarcia postępowania układowego lub innego podobnego postępowania wobec instytucji kredytowej, jeżeli prowadzi ona działalność także w Rzeczypospolitej Polskiej;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "3",
        "path": "art_451/pkt_3",
-       "text": "ogłoszenia upadło ś ci, otwarcia post ę powania układowego lub innego podobnego post ę powania wobec banku zagranicznego, je ż eli bank zagraniczny prowadzi działalno ść w Rzeczypospolitej Polskiej oraz w co najmniej jednym innym pa ń stwie członkowskim Unii Europejskiej lub pa ń stwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym.",
+       "text": "ogłoszenia upadłości, otwarcia postępowania układowego lub innego podobnego postępowania wobec banku zagranicznego, jeżeli bank zagraniczny prowadzi działalność w Rzeczypospolitej Polskiej oraz w co najmniej jednym innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym.",
        "children": []
       }
      ]
@@ -13076,7 +13065,7 @@
     {
      "type": "heading",
      "label": "Rozdział 2",
-     "text": "Post ę powanie"
+     "text": "Postępowanie"
     },
     {
      "type": "art",
@@ -13117,14 +13106,14 @@
        "type": "ust",
        "num": "1",
        "path": "art_457/ust_1",
-       "text": "Wezwanie do zgłaszania wierzytelności przez wierzycieli mających miejsce zamieszkania, miejsce zwykłego pobytu albo siedzibę w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym zawiera nagłówek o treści: „Wezwanie do zgłaszania wierzytelności. Termin zgłoszenia”, sporządzony we wszystkich językach urzędowych Unii Europejskiej oraz języku norweskim i języku islandzkim. Wezwanie wskazuje termin zgłoszenia wierzytelności, skutki jego uchybienia, zawiera informację, czy wierzyciele posiadający wierzytelności uprzywilejowane lub zabezpieczone rzeczowo musz ą dokona ć zgłoszenia wierzytelno ś ci, a tak ż e okre ś la obowi ą zek zał ą czenia dowodów stwierdzaj ą cych istnienie wierzytelno ś ci.",
+       "text": "Wezwanie do zgłaszania wierzytelności przez wierzycieli mających miejsce zamieszkania, miejsce zwykłego pobytu albo siedzibę w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym zawiera nagłówek o treści: „Wezwanie do zgłaszania wierzytelności. Termin zgłoszenia”, sporządzony we wszystkich językach urzędowych Unii Europejskiej oraz języku norweskim i języku islandzkim. Wezwanie wskazuje termin zgłoszenia wierzytelności, skutki jego uchybienia, zawiera informację, czy wierzyciele posiadający wierzytelności uprzywilejowane lub zabezpieczone rzeczowo muszą dokonać zgłoszenia wierzytelności, a także określa obowiązek załączenia dowodów stwierdzających istnienie wierzytelności.",
        "children": []
       },
       {
        "type": "ust",
        "num": "1a",
        "path": "art_457/ust_1a",
-       "text": "Do wezwania do zgłaszania wierzytelno ś ci, o którym mowa w ust. 1, przepis art. 176 ust. 1 stosuje si ę odpowiednio.",
+       "text": "Do wezwania do zgłaszania wierzytelności, o którym mowa w ust. 1, przepis art. 176 ust. 1 stosuje się odpowiednio.",
        "children": []
       },
       {
@@ -13197,7 +13186,7 @@
     {
      "type": "heading",
      "label": "Rozdział 3",
-     "text": "Prawo wła ś ciwe oraz skutki ogłoszenia upadło ś ci"
+     "text": "Prawo właściwe oraz skutki ogłoszenia upadłości"
     },
     {
      "type": "art",
@@ -13252,7 +13241,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_462/ust_1",
-       "text": "Ogłoszenie upadłości nie narusza praw wierzycieli i osób trzecich ciążących na rzeczy i innym mieniu upadłego położonym na terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, nie wył ą czaj ą c zorganizowanych cz ęś ci tego mienia, w szczególno ś ci prawa do rozporz ą dzania mieniem w celu zaspokojenia nale ż no ś ci lub prawa do zaspokojenia nale ż no ś ci z po ż ytków, które mienie przynosi, prawa zastawu i hipoteki, prawa do żą dania wydania mienia od osób, we władaniu których si ę ono znajduje wbrew woli uprawnionego, prawa do powierniczego korzystania z mienia.",
+       "text": "Ogłoszenie upadłości nie narusza praw wierzycieli i osób trzecich ciążących na rzeczy i innym mieniu upadłego położonym na terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, nie wyłączając zorganizowanych części tego mienia, w szczególności prawa do rozporządzania mieniem w celu zaspokojenia należności lub prawa do zaspokojenia należności z pożytków, które mienie przynosi, prawa zastawu i hipoteki, prawa do żądania wydania mienia od osób, we władaniu których się ono znajduje wbrew woli uprawnionego, prawa do powierniczego korzystania z mienia.",
        "children": []
       },
       {
@@ -13383,7 +13372,7 @@
        "type": "ust",
        "num": "2",
        "path": "art_471/ust_2",
-       "text": "Komisja jest uczestnikiem post ę powania.",
+       "text": "Komisja jest uczestnikiem postępowania.",
        "children": []
       }
      ]
@@ -13398,7 +13387,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_472/ust_1",
-       "text": "Przed ogłoszeniem upadło ś ci zakładu ubezpiecze ń lub zakładu reasekuracji s ą d zasi ę ga opinii Komisji co do osoby syndyka. Syndyk powinien posiada ć znajomo ść organizacji i zasad działania zakładów ubezpiecze ń i zakładów reasekuracji. Syndykiem mo ż e by ć inny zakład ubezpiecze ń lub inny zakład reasekuracji.",
+       "text": "Przed ogłoszeniem upadłości zakładu ubezpieczeń lub zakładu reasekuracji sąd zasięga opinii Komisji co do osoby syndyka. Syndyk powinien posiadać znajomość organizacji i zasad działania zakładów ubezpieczeń i zakładów reasekuracji. Syndykiem może być inny zakład ubezpieczeń lub inny zakład reasekuracji.",
        "children": []
       },
       {
@@ -13601,14 +13590,14 @@
        "type": "ust",
        "num": "2",
        "path": "art_478/ust_2",
-       "text": "Niezaspokojone z osobnej masy upadło ś ci wierzytelno ś ci z umów ubezpieczenia umieszcza si ę w planie podziału funduszów masy upadło ś ci w kategorii pierwszej.",
+       "text": "Niezaspokojone z osobnej masy upadłości wierzytelności z umów ubezpieczenia umieszcza się w planie podziału funduszów masy upadłości w kategorii pierwszej.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
        "path": "art_478/ust_3",
-       "text": "Wierzytelno ś ci osób poszkodowanych i uprawnionych z tytułu ubezpiecze ń obowi ą zkowych oraz wierzytelno ś ci ubezpieczonych, uprawnionych i uposa ż onych z umów ubezpiecze ń na ż ycie, zaspokaja Ubezpieczeniowy Fundusz Gwarancyjny i Polskie Biuro Ubezpieczycieli Komunikacyjnych według odr ę bnych przepisów, w granicach okre ś lonych w tych przepisach.",
+       "text": "Wierzytelności osób poszkodowanych i uprawnionych z tytułu ubezpieczeń obowiązkowych oraz wierzytelności ubezpieczonych, uprawnionych i uposażonych z umów ubezpieczeń na życie, zaspokaja Ubezpieczeniowy Fundusz Gwarancyjny i Polskie Biuro Ubezpieczycieli Komunikacyjnych według odrębnych przepisów, w granicach określonych w tych przepisach.",
        "children": []
       }
      ]
@@ -13652,7 +13641,7 @@
     {
      "type": "heading",
      "label": "DZIAŁ II",
-     "text": "Post ę powanie upadło ś ciowe wobec maj ą cych siedzib ę w pa ń stwach członkowskich Unii Europejskiej lub pa ń stwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym zakładów ubezpiecze ń i ich oddziałów oraz zakładów reasekuracji i ich oddziałów"
+     "text": "Postępowanie upadłościowe wobec mających siedzibę w państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym zakładów ubezpieczeń i ich oddziałów oraz zakładów reasekuracji i ich oddziałów"
     },
     {
      "type": "art",
@@ -13752,14 +13741,14 @@
        "type": "pkt",
        "num": "2a",
        "path": "art_482/pkt_2a",
-       "text": "„oddział krajowego zakładu reasekuracji” – jednostkę organizacyjną krajowego zakładu reasekuracji, wykonującą w jego imieniu i na jego rzecz wszystkie lub niektóre czynno ś ci wynikaj ą ce z zezwolenia udzielonego krajowemu zakładowi reasekuracji;",
+       "text": "„oddział krajowego zakładu reasekuracji” – jednostkę organizacyjną krajowego zakładu reasekuracji, wykonującą w jego imieniu i na jego rzecz wszystkie lub niektóre czynności wynikające z zezwolenia udzielonego krajowemu zakładowi reasekuracji;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "3",
        "path": "art_482/pkt_3",
-       "text": "„zagraniczny zakład ubezpiecze ń ” – przedsi ę biorc ę maj ą cego siedzib ę za granic ą Rzeczypospolitej Polskiej, wykonuj ą cego działalno ść ubezpieczeniow ą w rozumieniu odr ę bnych przepisów;",
+       "text": "„zagraniczny zakład ubezpieczeń” – przedsiębiorcę mającego siedzibę za granicą Rzeczypospolitej Polskiej, wykonującego działalność ubezpieczeniową w rozumieniu odrębnych przepisów;",
        "children": []
       },
       {
@@ -13788,7 +13777,7 @@
     {
      "type": "heading",
      "label": "TYTUŁ IV",
-     "text": "Post ę powanie upadło ś ciowe wobec emitentów obligacji"
+     "text": "Postępowanie upadłościowe wobec emitentów obligacji"
     },
     {
      "type": "art",
@@ -13947,20 +13936,20 @@
      "type": "art",
      "num": "490",
      "path": "art_490",
-     "text": "Je ż eli osobna masa upadło ś ci nie wystarczy na pełne zaspokojenie nale ż no ś ci obligatariuszy, nale ż no ś ci niezaspokojone podlegaj ą zaspokojeniu z funduszu masy upadło ś ci.",
+     "text": "Jeżeli osobna masa upadłości nie wystarczy na pełne zaspokojenie należności obligatariuszy, należności niezaspokojone podlegają zaspokojeniu z funduszu masy upadłości.",
      "children": []
     },
     {
      "type": "art",
      "num": "491",
      "path": "art_491",
-     "text": "Nie mo ż na wprowadza ć do obiegu obligacji emitowanych przez upadłego, które s ą jego własno ś ci ą . Obligacje takie podlegają umorzeniu.",
+     "text": "Nie można wprowadzać do obiegu obligacji emitowanych przez upadłego, które są jego własnością. Obligacje takie podlegają umorzeniu.",
      "children": []
     },
     {
      "type": "heading",
      "label": "TYTUŁ V",
-     "text": "Post ę powanie upadło ś ciowe wobec osób fizycznych nieprowadz ą cych działalno ś ci gospodarczej"
+     "text": "Postępowanie upadłościowe wobec osób fizycznych nieprowadzących działalności gospodarczej"
     },
     {
      "type": "art",
@@ -14140,7 +14129,7 @@
        "type": "ust",
        "num": "3",
        "path": "art_491⁴/ust_3",
-       "text": "S ą d oddala wniosek o ogłoszenie upadło ś ci, je ż eli w okresie dziesi ę ciu lat przed dniem zgłoszenia wniosku w stosunku do dłu ż nika prowadzono post ę powanie upadło ś ciowe, w którym umorzono cało ść lub cz ęść jego zobowi ą za ń , chyba ż e do niewypłacalno ś ci dłu ż nika lub zwi ę kszenia jej stopnia doszło pomimo dochowania przez dłu ż nika nale ż ytej staranno ś ci lub przeprowadzenie post ę powania jest uzasadnione wzgl ę dami słuszno ś ci lub wzgl ę dami humanitarnymi.",
+       "text": "Sąd oddala wniosek o ogłoszenie upadłości, jeżeli w okresie dziesięciu lat przed dniem zgłoszenia wniosku w stosunku do dłużnika prowadzono postępowanie upadłościowe, w którym umorzono całość lub część jego zobowiązań, chyba że do niewypłacalności dłużnika lub zwiększenia jej stopnia doszło pomimo dochowania przez dłużnika należytej staranności lub przeprowadzenie postępowania jest uzasadnione względami słuszności lub względami humanitarnymi.",
        "children": []
       },
       {
@@ -14306,14 +14295,14 @@
        "type": "ust",
        "num": "3",
        "path": "art_491⁹/ust_3",
-       "text": "W szczególnie uzasadnionych przypadkach sąd może ustalić wynagrodzenie syndyka w wysokości do czterokrotno ś ci przeci ę tnego miesi ę cznego wynagrodzenia, o którym mowa w ust. 2, je ż eli jest to uzasadnione zwi ę kszonym nakładem pracy syndyka wynikaj ą cym w szczególno ś ci ze stopnia skomplikowania post ę powania oraz liczby wierzycieli.",
+       "text": "W szczególnie uzasadnionych przypadkach sąd może ustalić wynagrodzenie syndyka w wysokości do czterokrotności przeciętnego miesięcznego wynagrodzenia, o którym mowa w ust. 2, jeżeli jest to uzasadnione zwiększonym nakładem pracy syndyka wynikającym w szczególności ze stopnia skomplikowania postępowania oraz liczby wierzycieli.",
        "children": []
       },
       {
        "type": "ust",
        "num": "4",
        "path": "art_491⁹/ust_4",
-       "text": "W przedmiocie wynagrodzenia syndyka oraz zwrotu jego wydatków orzeka s ą d upadło ś ciowy w składzie jednego s ę dziego zawodowego.",
+       "text": "W przedmiocie wynagrodzenia syndyka oraz zwrotu jego wydatków orzeka sąd upadłościowy w składzie jednego sędziego zawodowego.",
        "children": []
       }
      ]
@@ -14494,14 +14483,14 @@
        "type": "ust",
        "num": "1",
        "path": "art_491¹⁵/ust_1",
-       "text": "W postanowieniu o ustaleniu planu spłaty wierzycieli sąd określa, w jakim zakresie i w jakim czasie, nie dłu ż szym ni ż trzydzie ś ci sze ść miesi ę cy, upadły jest obowi ą zany spłaca ć zobowi ą zania uznane na li ś cie wierzytelno ś ci, niewykonane w toku post ę powania na podstawie planów podziału, oraz jaka cz ęść zobowi ą za ń upadłego powstałych przed dniem ogłoszenia upadło ś ci zostanie umorzona po wykonaniu planu spłaty wierzycieli.",
+       "text": "W postanowieniu o ustaleniu planu spłaty wierzycieli sąd określa, w jakim zakresie i w jakim czasie, nie dłuższym niż trzydzieści sześć miesięcy, upadły jest obowiązany spłacać zobowiązania uznane na liście wierzytelności, niewykonane w toku postępowania na podstawie planów podziału, oraz jaka część zobowiązań upadłego powstałych przed dniem ogłoszenia upadłości zostanie umorzona po wykonaniu planu spłaty wierzycieli.",
        "children": []
       },
       {
        "type": "ust",
        "num": "2",
        "path": "art_491¹⁵/ust_2",
-       "text": "Zobowi ą zania powstałe po ogłoszeniu upadło ś ci i niewykonane w toku post ę powania uwzgl ę dnia si ę w planie spłaty wierzycieli w pełnej wysoko ś ci, przy czym ich spłata mo ż e by ć rozło ż ona na raty na czas nie dłu ż szy ni ż przewidziany na wykonanie planu spłaty wierzycieli.",
+       "text": "Zobowiązania powstałe po ogłoszeniu upadłości i niewykonane w toku postępowania uwzględnia się w planie spłaty wierzycieli w pełnej wysokości, przy czym ich spłata może być rozłożona na raty na czas nie dłuższy niż przewidziany na wykonanie planu spłaty wierzycieli.",
        "children": []
       },
       {
@@ -14645,14 +14634,14 @@
        "type": "ust",
        "num": "3",
        "path": "art_491¹⁹/ust_3",
-       "text": "W razie istotnej poprawy sytuacji majątkowej upadłego w okresie wykonywania planu spłaty wierzycieli, wynikającej z innych przyczyn niż zwiększenie się wynagrodzenia za pracę lub dochodów uzyskiwanych z osobiście wykonywanej przez upadłego działalno ś ci zarobkowej, ka ż dy z wierzycieli oraz upadły mo ż e wyst ą pi ć z wnioskiem o zmian ę planu spłaty wierzycieli. O zmianie planu spłaty wierzycieli s ą d orzeka po wysłuchaniu upadłego i wierzycieli obj ę tych planem spłaty wierzycieli. Na postanowienie przysługuje za ż alenie.",
+       "text": "W razie istotnej poprawy sytuacji majątkowej upadłego w okresie wykonywania planu spłaty wierzycieli, wynikającej z innych przyczyn niż zwiększenie się wynagrodzenia za pracę lub dochodów uzyskiwanych z osobiście wykonywanej przez upadłego działalności zarobkowej, każdy z wierzycieli oraz upadły może wystąpić z wnioskiem o zmianę planu spłaty wierzycieli. O zmianie planu spłaty wierzycieli sąd orzeka po wysłuchaniu upadłego i wierzycieli objętych planem spłaty wierzycieli. Na postanowienie przysługuje zażalenie.",
        "children": []
       },
       {
        "type": "ust",
        "num": "4",
        "path": "art_491¹⁹/ust_4",
-       "text": "Przepis ust. 3 stosuje si ę odpowiednio do wierzycieli, których wierzytelno ś ci powstałe przed ustaleniem planu spłaty wierzycieli zostały po jego ustaleniu stwierdzone prawomocnym orzeczeniem, ugod ą zawart ą przed s ą dem lub ostateczną decyzją.",
+       "text": "Przepis ust. 3 stosuje się odpowiednio do wierzycieli, których wierzytelności powstałe przed ustaleniem planu spłaty wierzycieli zostały po jego ustaleniu stwierdzone prawomocnym orzeczeniem, ugodą zawartą przed sądem lub ostateczną decyzją.",
        "children": []
       }
      ]
@@ -14814,7 +14803,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_522/ust_1",
-       "text": "Kto b ę d ą c dłu ż nikiem albo osob ą uprawnion ą do reprezentowania dłu ż nika, który jest osob ą prawn ą lub spółk ą handlow ą niemaj ą c ą osobowo ś ci prawnej, podaje we wniosku o ogłoszenie upadło ś ci nieprawdziwe dane",
+       "text": "Kto będąc dłużnikiem albo osobą uprawnioną do reprezentowania dłużnika, który jest osobą prawną lub spółką handlową niemającą osobowości prawnej, podaje we wniosku o ogłoszenie upadłości nieprawdziwe dane",
        "children": [
         {
          "type": "text",
@@ -14854,23 +14843,19 @@
        "num": "2",
        "path": "art_523/ust_2",
        "text": "Tej samej karze podlega, kto będąc upadłym albo osobą uprawnioną do reprezentowania upadłego, który jest osobą prawną lub spółką handlową niemającą osobowości prawnej, nie udziela syndykowi lub sędziemu-komisarzowi informacji dotyczących majątku upadłego lub nie udostępnia syndykowi posiadanych przez siebie danych lub dokumentów pozwalających na wykonanie obowiązku, o którym mowa w art. 56 ust. 1, 5 i 7 oraz art. 70 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych.",
-       "children": [
-        {
-         "type": "text",
-         "text": "CZ ĘŚĆ SZÓSTA"
-        },
-        {
-         "type": "text",
-         "text": "ZMIANY W PRZEPISACH OBOWI Ą ZUJ Ą CYCH, PRZEPISY PRZEJ Ś CIOWE I PRZEPISY KO Ń COWE"
-        }
-       ]
+       "children": []
       }
      ]
     },
     {
      "type": "heading",
+     "label": "CZĘŚĆ SZÓSTA",
+     "text": "ZMIANY W PRZEPISACH OBOWIĄZUJĄCYCH, PRZEPISY PRZEJŚCIOWE I PRZEPISY KOŃCOWE"
+    },
+    {
+     "type": "heading",
      "label": "DZIAŁ I",
-     "text": "Zmiany w przepisach obowi ą zuj ą cych"
+     "text": "Zmiany w przepisach obowiązujących"
     },
     {
      "type": "art",
@@ -14882,7 +14867,7 @@
     {
      "type": "heading",
      "label": "DZIAŁ II",
-     "text": "Przepisy przej ś ciowe"
+     "text": "Przepisy przejściowe"
     },
     {
      "type": "art",
@@ -14959,13 +14944,13 @@
      "type": "art",
      "num": "544",
      "path": "art_544",
-     "text": "Ilekro ć w przepisach odr ę bnych jest mowa o „post ę powaniu układowym”, rozumie si ę przez to tak ż e post ę - powanie upadło ś ciowe z mo ż liwo ś ci ą zawarcia układu.",
+     "text": "Ilekroć w przepisach odrębnych jest mowa o „postępowaniu układowym”, rozumie się przez to także postępowanie upadłościowe z możliwością zawarcia układu.",
      "children": []
     },
     {
      "type": "heading",
      "label": "DZIAŁ III",
-     "text": "Przepisy ko ń cowe"
+     "text": "Przepisy końcowe"
     },
     {
      "type": "art",
@@ -15022,20 +15007,20 @@
   }
  ],
  "footnotes": {
-  "1": "Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:\n\n1) dyrektywy 2001/17/WE z dnia 19 marca 2001 r. w sprawie reorganizacji i likwidacji zakładów ubezpieczeń (Dz. Urz. WE L 110 z 20.04.2001);\n\n2) dyrektywy 2001/24/WE z dnia 4 kwietnia 2001 r. w sprawie reorganizacji i likwidacji instytucji kredytowych (Dz. Urz. WE L 125 z 05.05.2001). Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolit ą Polsk ą członkostwa w Unii Europejskiej – dotycz ą ogłoszenia tych aktów w Dzienniku Urz ę dowym Unii Europejskiej – wydanie specjalne.",
-  "2": "W brzmieniu ustalonym przez art. 44 pkt 1 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzaj ą ce ustaw ę o zasadach zarz ą - dzania mieniem państwowym (Dz. U. poz. 2260), która weszła w życie z dniem 1 stycznia 2017 r.",
+  "1": "Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:\n\n1) dyrektywy 2001/17/WE z dnia 19 marca 2001 r. w sprawie reorganizacji i likwidacji zakładów ubezpieczeń (Dz. Urz. WE L 110 z 20.04.2001);\n\n2) dyrektywy 2001/24/WE z dnia 4 kwietnia 2001 r. w sprawie reorganizacji i likwidacji instytucji kredytowych (Dz. Urz. WE L 125 z 05.05.2001). Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.",
+  "2": "W brzmieniu ustalonym przez art. 44 pkt 1 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260), która weszła w życie z dniem 1 stycznia 2017 r.",
   "3": "W brzmieniu ustalonym przez art. 44 pkt 2 ustawy, o której mowa w odnośniku 2.",
   "4": "W brzmieniu ustalonym przez art. 44 pkt 3 ustawy, o której mowa w odnośniku 2.",
   "5": "W brzmieniu ustalonym przez art. 44 pkt 4 ustawy, o której mowa w odnośniku 2.",
   "6": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768, 933, 1133, 1136, 1452, 1475, 1596, 1727 i 1883.",
   "7": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 2260 oraz z 2017 r. poz. 724, 768, 791 i 1089.",
   "8": "W brzmieniu ustalonym przez art. 10 pkt 1 ustawy z dnia 9 marca 2017 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw (Dz. U. poz. 791), która weszła w życie z dniem 29 kwietnia 2017 r.",
-  "9": "Ze zmian ą wprowadzon ą przez art. 115 ustawy z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. poz. 2261), która weszła w życie z dniem 1 stycznia 2017 r.",
+  "9": "Ze zmianą wprowadzoną przez art. 115 ustawy z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. poz. 2261), która weszła w życie z dniem 1 stycznia 2017 r.",
   "10": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089, 1428, 1448, 1530, 1971 i 2056.",
   "11": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1926, 1933 i 1948 oraz z 2017 r. poz. 60, 624, 648, 1089, 1448, 1566 i 2056.",
   "12": "Zdanie drugie w brzmieniu ustalonym przez art. 10 pkt 2 ustawy, o której mowa w odnośniku 8.",
   "13": "W brzmieniu ustalonym przez art. 44 pkt 5 ustawy, o której mowa w odnośniku 2.",
-  "14": "Zmiany wymienionego rozporz ą dzenia zostały ogłoszone w Dz. U. z 1950 r. poz. 349, z 1990 r. poz. 320, z 1996 r. poz. 43 i 189 oraz z 1997 r. poz. 592, 770 i 885.",
+  "14": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1950 r. poz. 349, z 1990 r. poz. 320, z 1996 r. poz. 43 i 189 oraz z 1997 r. poz. 592, 770 i 885.",
   "15": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 1994 r. poz. 1, z 1995 r. poz. 426, z 1996 r. poz. 43, 189, 496 i 703, z 1997 r. poz. 153, 349, 751, 770 i 940, z 1998 r. poz. 756, z 2000 r. poz. 306, 948, 1037 i 1193 oraz z 2001 r. poz. 18.",
   "16": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. poz. 844 i 2271, z 2004 r. poz. 1291, z 2006 r. poz. 1121 oraz z 2009 r. poz. 1664 i 1707.",
   "17": "Ustawa została ogłoszona w dniu 9 kwietnia 2003 r.",
