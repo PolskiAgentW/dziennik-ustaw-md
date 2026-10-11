@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1362",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 września 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kredycie konsumenckim",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.53",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1362/text.pdf",
  "body": [
   {
@@ -4988,7 +4988,7 @@
       },
       {
        "type": "text",
-       "text": "−t −S ∑C (1+X) = ∑D (1+X) k k l l"
+       "text": "−tk −Sl ∑C (1+X) = ∑D (1+X) k l"
       },
       {
        "type": "text",
@@ -5016,11 +5016,11 @@
       },
       {
        "type": "text",
-       "text": "C k – kwotę wypłaty k,"
+       "text": "Ck – kwotę wypłaty k,"
       },
       {
        "type": "text",
-       "text": "t k – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej kolejnej wypłaty, zatem t₁ = 0,"
+       "text": "tk – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej kolejnej wypłaty, zatem t₁ = 0,"
       },
       {
        "type": "text",
@@ -5032,11 +5032,11 @@
       },
       {
        "type": "text",
-       "text": "D l – kwotę spłaty lub wnoszonych opłat,"
+       "text": "Dl – kwotę spłaty lub wnoszonych opłat,"
       },
       {
        "type": "text",
-       "text": "S l – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej spłaty lub wniesienia opłat."
+       "text": "Sl – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej spłaty lub wniesienia opłat."
       }
      ]
     },
@@ -5071,7 +5071,7 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_3/pkt_4",
-       "text": "odstępy czasu między datami używanymi w obliczeniach wyrażone będą w latach lub w ułamkach roku, przy czym rok liczy 365 dni, a w przypadku lat przestępnych 366 dni, 52 tygodnie lub dwanaście równych miesięcy. Przyjmuje się, że równy miesiąc ma 30,41666 dni (tj. 365/12), bez względu na to, czy przypada w roku przestępnym, czy nie ;",
+       "text": "odstępy czasu między datami używanymi w obliczeniach wyrażone będą w latach lub w ułamkach roku, przy czym rok liczy 365 dni, a w przypadku lat przestępnych 366 dni, 52 tygodnie lub dwanaście równych miesięcy. Przyjmuje się, że równy miesiąc ma 30,41666 dni (tj. 365/12), bez względu na to, czy przypada w roku przestępnym, czy nie;",
        "children": []
       },
       {
@@ -5085,11 +5085,11 @@
        "type": "pkt",
        "num": "6",
        "path": "ust_3/pkt_6",
-       "text": "równanie to może być zapisane w postaci jednej sumy z wykorzystaniem koncepcji przepływów (A k ), które mogą być dodatnie lub ujemne – zapłacone lub otrzymane w okresach 1 do k, wyrażonych w latach:",
+       "text": "równanie to może być zapisane w postaci jednej sumy z wykorzystaniem koncepcji przepływów (Ak), które mogą być dodatnie lub ujemne – zapłacone lub otrzymane w okresach 1 do k, wyrażonych w latach:",
        "children": [
         {
          "type": "text",
-         "text": "S = ∑ A (1+ X )"
+         "text": "S= ∑A (1+X)"
         },
         {
          "type": "text",
@@ -5253,6 +5253,6 @@
   "7": "Dodany przez art. 61 pkt 2 ustawy, o której mowa w odnośniku 6; wszedł w życie z dniem 5 kwietnia 2025 r.",
   "8": "Obecnie Centralnej Ewidencji i Informacji o Działalności Gospodarczej określonej w ustawie z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2022 r. poz. 541, z 2024 r. poz. 1841 oraz z 2025 r. poz. 769), która weszła w życie z dniem 30 kwietnia 2018 r., na podstawie art. 202 ust. 2 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650), która weszła w życie z dniem 30 kwietnia 2018 r.",
   "9": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. poz. 1030, z 2004 r. poz. 959 i 1693, z 2005 r. poz. 1316 oraz z 2011 r. poz. 432 i 984.",
-  "10": "Ustawa została ogłoszona w dniu 17 czerwca 2011 r. n −t , k k k=1"
+  "10": "Ustawa została ogłoszona w dniu 17 czerwca 2011 r. n −tk, k k=1"
  }
 }

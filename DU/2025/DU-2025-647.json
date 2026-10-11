@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/647",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 maja 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo ochrony środowiska",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.53",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/647/text.pdf",
  "body": [
   {
@@ -861,7 +861,7 @@
        "type": "pkt",
        "num": "10a",
        "path": "art_3/pkt_10a",
-       "text": "obszarze cichym w aglomeracji – rozumie się przez to obszar, na którym nie występują przekroczenia dopuszczalnych poziomów hałasu wyrażonych wskaźnikiem hałasu L DWN ;",
+       "text": "obszarze cichym w aglomeracji – rozumie się przez to obszar, na którym nie występują przekroczenia dopuszczalnych poziomów hałasu wyrażonych wskaźnikiem hałasu LDWN;",
        "children": []
       },
       {
@@ -6926,14 +6926,14 @@
            "type": "tir",
            "num": "1",
            "path": "art_112a/pkt_1/lit_a/tir_1",
-           "text": "L DWN – długookresowy średni poziom dźwięku A wyrażony w decybelach (dB), wyznaczony zgodnie z ISO 1996-2: 1987 w ciągu wszystkich dób w roku (rozumianym jako dany rok kalendarzowy w odniesieniu do emisji dźwięku i średni rok w odniesieniu do warunków meteorologicznych), z uwzględnieniem pory dnia (rozumianej jako przedział czasu od godz. 6⁰⁰ do godz. 18⁰⁰), pory wieczoru (rozumianej jako przedział czasu od godz. 18⁰⁰ do godz. 22⁰⁰) oraz pory nocy (rozumianej jako przedział czasu od godz. 22⁰⁰ do godz. 6⁰⁰); wskaźnik ten służy do określenia ogólnej dokuczliwości hałasu,",
+           "text": "LDWN – długookresowy średni poziom dźwięku A wyrażony w decybelach (dB), wyznaczony zgodnie z ISO 1996-2: 1987 w ciągu wszystkich dób w roku (rozumianym jako dany rok kalendarzowy w odniesieniu do emisji dźwięku i średni rok w odniesieniu do warunków meteorologicznych), z uwzględnieniem pory dnia (rozumianej jako przedział czasu od godz. 6⁰⁰ do godz. 18⁰⁰), pory wieczoru (rozumianej jako przedział czasu od godz. 18⁰⁰ do godz. 22⁰⁰) oraz pory nocy (rozumianej jako przedział czasu od godz. 22⁰⁰ do godz. 6⁰⁰); wskaźnik ten służy do określenia ogólnej dokuczliwości hałasu,",
            "children": []
           },
           {
            "type": "tir",
            "num": "2",
            "path": "art_112a/pkt_1/lit_a/tir_2",
-           "text": "L N – długookresowy średni poziom dźwięku A, wyrażony w decybelach (dB), wyznaczony zgodnie z ISO 1996-2: 1987 w ciągu wszystkich pór nocy (rozumianych jako przedział czasu od godz. 22⁰⁰ do godz. 6⁰⁰) w roku (rozumianym jako dany rok kalendarzowy w odniesieniu do emisji dźwięku i średni rok w odniesieniu do warunków meteorologicznych); wskaźnik ten służy do określenia zaburzenia snu,",
+           "text": "LN – długookresowy średni poziom dźwięku A, wyrażony w decybelach (dB), wyznaczony zgodnie z ISO 1996-2: 1987 w ciągu wszystkich pór nocy (rozumianych jako przedział czasu od godz. 22⁰⁰ do godz. 6⁰⁰) w roku (rozumianym jako dany rok kalendarzowy w odniesieniu do emisji dźwięku i średni rok w odniesieniu do warunków meteorologicznych); wskaźnik ten służy do określenia zaburzenia snu,",
            "children": []
           }
          ]
@@ -6948,14 +6948,14 @@
            "type": "tir",
            "num": "1",
            "path": "art_112a/pkt_1/lit_b/tir_1",
-           "text": "L Aeq D – równoważny poziom dźwięku A dla pory dnia (rozumianej jako przedział czasu od godz. 6⁰⁰ do godz. 22⁰⁰),",
+           "text": "LAeq D – równoważny poziom dźwięku A dla pory dnia (rozumianej jako przedział czasu od godz. 6⁰⁰ do godz. 22⁰⁰),",
            "children": []
           },
           {
            "type": "tir",
            "num": "2",
            "path": "art_112a/pkt_1/lit_b/tir_2",
-           "text": "L Aeq N – równoważny poziom dźwięku A dla pory nocy (rozumianej jako przedział czasu od godz. 22⁰⁰ do godz. 6⁰⁰);",
+           "text": "LAeq N – równoważny poziom dźwięku A dla pory nocy (rozumianej jako przedział czasu od godz. 22⁰⁰ do godz. 6⁰⁰);",
            "children": []
           }
          ]
@@ -7029,7 +7029,7 @@
          "type": "pkt",
          "num": "1",
          "path": "art_113/ust_2/pkt_1",
-         "text": "zróżnicowane dopuszczalne poziomy hałasu określone wskaźnikami hałasu L , L , L i L dla następujących DWN N Aeq D Aeq N rodzajów terenów faktycznie zagospodarowanych:",
+         "text": "zróżnicowane dopuszczalne poziomy hałasu określone wskaźnikami hałasu LDWN, LN, LAeq D i LAeq N dla następujących rodzajów terenów faktycznie zagospodarowanych:",
          "children": [
           {
            "type": "lit",
@@ -7175,7 +7175,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_115a/ust_1",
-       "text": "W przypadku stwierdzenia przez organ ochrony środowiska, na podstawie pomiarów własnych lub pomiarów podmiotu obowiązanego do ich prowadzenia, że poza zakładem, w wyniku jego działalności, są przekroczone dopuszczalne poziomy hałasu, organ ten wydaje decyzję o dopuszczalnym poziomie hałasu. Za przekroczenie dopuszczalnego poziomu hałasu uważa się przekroczenie wskaźnika hałasu L lub L .",
+       "text": "W przypadku stwierdzenia przez organ ochrony środowiska, na podstawie pomiarów własnych lub pomiarów podmiotu obowiązanego do ich prowadzenia, że poza zakładem, w wyniku jego działalności, są przekroczone dopuszczalne poziomy hałasu, organ ten wydaje decyzję o dopuszczalnym poziomie hałasu. Za przekroczenie dopuszczalnego poziomu hałasu uważa się przekroczenie wskaźnika hałasu LAeq D lub LAeq N.",
        "children": []
       },
       {
@@ -7189,7 +7189,7 @@
        "type": "ust",
        "num": "3",
        "path": "art_115a/ust_3",
-       "text": "W decyzji, o której mowa w ust. 1, określa się dopuszczalne poziomy hałasu poza zakładem przy zastosowaniu wskaźników hałasu L i L w odniesieniu do rodzajów terenów, o których mowa w art. 113 ust. 2 pkt 1, na które oddziałuje zakład.",
+       "text": "W decyzji, o której mowa w ust. 1, określa się dopuszczalne poziomy hałasu poza zakładem przy zastosowaniu wskaźników hałasu LAeq D i LAeq N w odniesieniu do rodzajów terenów, o których mowa w art. 113 ust. 2 pkt 1, na które oddziałuje zakład.",
        "children": []
       },
       {
@@ -7362,14 +7362,14 @@
          "type": "pkt",
          "num": "1",
          "path": "art_117/ust_1/pkt_1",
-         "text": "o których mowa w art. 118 ust. 2 – na podstawie strategicznych map hałasu lub wyników pomiarów poziomów hałasu wyrażonych wskaźnikami hałasu L , L , L i L , z uwzględnieniem w szczególności danych demograficznych oraz dotyczących sposobu zagospodarowania i użytkowania terenu;",
+         "text": "o których mowa w art. 118 ust. 2 – na podstawie strategicznych map hałasu lub wyników pomiarów poziomów hałasu wyrażonych wskaźnikami hałasu LAeq D, LAeq N, LDWN i LN, z uwzględnieniem w szczególności danych demograficznych oraz dotyczących sposobu zagospodarowania i użytkowania terenu;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "art_117/ust_1/pkt_2",
-         "text": "innych niż tereny, o których mowa w art. 118 ust. 2 – na podstawie wyników pomiarów poziomów hałasu wyrażonych wskaźnikami hałasu L , L , L i L lub innych metod oceny poziomu hałasu.",
+         "text": "innych niż tereny, o których mowa w art. 118 ust. 2 – na podstawie wyników pomiarów poziomów hałasu wyrażonych wskaźnikami hałasu LAeq D, LAeq N, LDWN i LN lub innych metod oceny poziomu hałasu.",
          "children": []
         }
        ]
@@ -7949,7 +7949,7 @@
          "type": "pkt",
          "num": "3",
          "path": "art_118/ust_7/pkt_3",
-         "text": "terenów zagrożonych hałasem, która charakteryzuje tereny, na których są przekroczone dopuszczalne poziomy hałasu określone wskaźnikami L DWN lub L N ;",
+         "text": "terenów zagrożonych hałasem, która charakteryzuje tereny, na których są przekroczone dopuszczalne poziomy hałasu określone wskaźnikami LDWN lub LN;",
          "children": []
         },
         {
@@ -7985,14 +7985,14 @@
          "type": "pkt",
          "num": "1",
          "path": "art_118/ust_10/pkt_1",
-         "text": "dób w roku – L DWN równy 55;",
+         "text": "dób w roku – LDWN równy 55;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "art_118/ust_10/pkt_2",
-         "text": "pór nocy w roku – L N równy 50.",
+         "text": "pór nocy w roku – LN równy 50.",
          "children": []
         }
        ]
@@ -15912,7 +15912,7 @@
        "type": "ust",
        "num": "3",
        "path": "art_208/ust_3",
-       "text": "W informacji, o której mowa w ust. 2 pkt 1 lit. c, prognozowane poziomy hałasu poza zakładem mają być wyrażone wskaźnikami hałasu L i L w odniesieniu do rodzajów terenów, o których mowa w art. 113 ust. 2 pkt 1. Aeq D Aeq N",
+       "text": "W informacji, o której mowa w ust. 2 pkt 1 lit. c, prognozowane poziomy hałasu poza zakładem mają być wyrażone wskaźnikami hałasu LAeq D i LAeq N w odniesieniu do rodzajów terenów, o których mowa w art. 113 ust. 2 pkt 1.",
        "children": []
       },
       {
@@ -16161,7 +16161,7 @@
          "type": "pkt",
          "num": "6",
          "path": "art_211/ust_6/pkt_6",
-         "text": "wielkość emisji hałasu wyznaczoną dopuszczalnymi poziomami hałasu poza zakładem, wyrażonymi wskaźnikami hałasu L i L , w odniesieniu do rodzajów terenów, o których mowa w art. 113 ust. 2 pkt 1, oraz rozkład czasu Aeq D Aeq N pracy źródeł hałasu dla doby, wraz z przewidywanymi wariantami;",
+         "text": "wielkość emisji hałasu wyznaczoną dopuszczalnymi poziomami hałasu poza zakładem, wyrażonymi wskaźnikami hałasu LAeq D i LAeq N, w odniesieniu do rodzajów terenów, o których mowa w art. 113 ust. 2 pkt 1, oraz rozkład czasu pracy źródeł hałasu dla doby, wraz z przewidywanymi wariantami;",
          "children": []
         },
         {
@@ -22329,7 +22329,7 @@
        "type": "ust",
        "num": "2",
        "path": "art_315/ust_2",
-       "text": "Przy ustalaniu wymiaru kary biegnącej za przekroczenie dopuszczalnego poziomu hałasu określonego wskaźnikiem L lub L przyjmuje się przekroczenie w punkcie pomiarowym, w którym ma ono wartość najwyższą dla pory Aeq D Aeq N dnia lub pory nocy.",
+       "text": "Przy ustalaniu wymiaru kary biegnącej za przekroczenie dopuszczalnego poziomu hałasu określonego wskaźnikiem LAeq D lub LAeq N przyjmuje się przekroczenie w punkcie pomiarowym, w którym ma ono wartość najwyższą dla pory dnia lub pory nocy.",
        "children": []
       },
       {
@@ -29202,7 +29202,7 @@
        "type": "ust",
        "num": "4a",
        "path": "art_402/ust_4a",
-       "text": "Wpływy z tytułu opłat za wprowadzanie do powietrza dwutlenku siarki (SO₂) i tlenków azotu (NO x ) przed dokonaniem podziału, o którym mowa w ust. 4, pomniejsza się o kwotę stanowiącą 7,5 % tych wpływów, która stanowi przychód Narodowego Funduszu.",
+       "text": "Wpływy z tytułu opłat za wprowadzanie do powietrza dwutlenku siarki (SO₂) i tlenków azotu (NOx) przed dokonaniem podziału, o którym mowa w ust. 4, pomniejsza się o kwotę stanowiącą 7,5 % tych wpływów, która stanowi przychód Narodowego Funduszu.",
        "children": []
       },
       {
@@ -31264,7 +31264,7 @@
   "14": "W brzmieniu ustalonym przez art. 2 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy o elektromobilności i paliwach alternatywnych oraz niektórych innych ustaw (Dz. U. poz. 1853), która weszła w życie z dniem 31 grudnia 2024 r.",
   "15": "W brzmieniu ustalonym przez art. 1 pkt 8 ustawy, o której mowa w odnośniku 2.",
   "16": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. poz. 1196, z 2003 r. poz. 78 i 1865, z 2004 r. poz. 464, z 2005 r. poz. 954, z 2006 r. poz. 360 i 935 oraz z 2014 r. poz. 1101.",
-  "17": "Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 168 z 01.07.2015, str. 1, Dz. Urz. UE L 5 z 10.01.2018, str. 35, Dz. Urz. UE L 170 z 25.06.2019, str. 115, Dz. Urz. UE L 198 z 25.07.2019, str. 241, Dz. Urz. UE L 67 z 05.03.2020, str. 132 i Dz. Urz. UE L 269 z 28.07.2021, str. 65. Aeq D Aeq N Aeq D Aeq N Aeq D Aeq N DWN N Aeq D Aeq N DWN N",
+  "17": "Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 168 z 01.07.2015, str. 1, Dz. Urz. UE L 5 z 10.01.2018, str. 35, Dz. Urz. UE L 170 z 25.06.2019, str. 115, Dz. Urz. UE L 198 z 25.07.2019, str. 241, Dz. Urz. UE L 67 z 05.03.2020, str. 132 i Dz. Urz. UE L 269 z 28.07.2021, str. 65.",
   "18": "Ze zmianą wprowadzoną przez art. 21 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222), która weszła w życie z dniem 10 listopada 2024 r.",
   "19": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 346 z 20.12.2016, str. 51.",
   "20": "Utraci moc z dniem 1 stycznia 2026 r. na podstawie art. 60 ust. 1 ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. z 2024 r. poz. 1288 i 1831), która weszła w życie z dniem 18 października 2022 r.",

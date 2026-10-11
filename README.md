@@ -49,7 +49,7 @@ Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla ża
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-11 08:44 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-11 09:02 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -73,7 +73,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 91, razem 1856 z 202793
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 245.
 
 Rodzaje aktów: Obwieszczenie 4879, Rozporządzenie 1834, Ustawa 369, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
-Wersje konwertera: eli2md 0.6.52 (3862), eli2md 0.6.25 (2855), eli2md 0.6.53 (369), eli2md 0.6.25.2 (82).
+Wersje konwertera: eli2md 0.6.52 (3862), eli2md 0.6.25 (2423), eli2md 0.6.53 (848), eli2md 0.6.25.2 (35).
 <!-- stats:end -->
 
 ## Teksty jednolite
@@ -231,7 +231,17 @@ w artykułach dodanych później (1 182) ani błędów wspólnych z warstwą tek
 - w tabelach z komórkami wieloliniowymi linie sąsiednich kolumn bywają przeplecione (DU/2025/205, lp. 9);
 - przypis z wyliczeniem: do przypisu trafia tylko pierwszy akapit, dalsze punkty są w treści (DU/2026/421).
 - przypis z etykietą rzymską w zwykłym druku („I) Odnośnik dodany przez…”) dokleja się do poprzedniego przypisu;
-- indeks dolny z literą lub kropką ginie: „kategorii T , T , T” zamiast „T1b, T2b, T3b” (DU/2025/1490 art. 54).
+- indeks dolny z literą lub kropką ginął: „kategorii T , T , T” zamiast „T1b, T2b, T3b” (DU/2025/1490 art. 54);
+  od eli2md 0.6.53 (2026-10-11) „kategorii T1b, T2b, T3b, T4.1b, T4.2b, T4.3b i T₅”.
+
+Zmiana 2026-10-11 (eli2md 0.6.53, 479 tekstów jednolitych ustaw z lat 2025–2026, ta sama lista co w porównaniach
+w README eli2md): przeliczone z tych samych PDF; wcześniej eli2md 0.6.25 i 0.6.25.2. Tekst zmienia się w 41. W 32 zostają
+te same znaki, zmieniają się odstępy. W 9 cyfry indeksów są teraz zapisane jako ₀₁₂… przy swoim symbolu, a przeniesienia
+rozdzielone indeksem są scalone: „kategorii T , T , T , T , T , T i T” → „kategorii T1b, T2b, T3b, T4.1b, T4.2b, T4.3b
+i T₅” (DU/2025/1490), „CO 20 MW¹⁾²” → „CO₂ 20 MW¹⁾” (DU/2025/1685), „Ener- 2025 getyki” → „Energetyki” (DU/2025/610).
+W jednym spłaszczonym wzorze cyfra trafia w złe miejsce: „0,0036∙(1−t )∙∑ … CO 2” → „0,0036∙(1−tCO )∙∑ … EJ =²”
+(DU/2025/610; wzory i tak trzeba czytać z PDF). Liczba jednostek (art., ust., pkt, §) jest ta sama we wszystkich 479.
+W pozostałych 438 zmienia się tylko pole `converter`.
 
 Zmiana 2026-10-11 (eli2md 0.6.53, 369 ustaw, czyli wszystkie akty typu Ustawa w `index.csv`): przeliczone z tych
 samych PDF; wcześniej tekst z eli2md 0.6.25 i 0.6.25.2. Tekst zmienia się w 13 z nich. W 11 zostają te same znaki,

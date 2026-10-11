@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1234",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 września 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Radzie Fiskalnej",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.53",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1234/text.pdf",
  "body": [
   {
@@ -136,7 +136,7 @@
       },
       {
        "type": "text",
-       "text": "a) w ust. 1 objaśnienia symboli WYD* n‒1 oraz WYD n‒1 otrzymują brzmienie:",
+       "text": "a) w ust. 1 objaśnienia symboli WYD* n‒1 oraz WYDn‒1 otrzymują brzmienie:",
        "quoted": true
       },
       {
@@ -146,7 +146,7 @@
       },
       {
        "type": "text",
-       "text": "WYD n‒1 ‒ kwota wydatków określona w projekcie ustawy budżetowej na rok n ‒ 1 przedłożonym Sejmowi, a w przypadku gdy w roku n ‒ 1 zastosowano przepis art. 112d ust. 1 ‒ kwota wydatków, o której mowa w art. 112d ust. 2 albo art. 112da ust. 2,”,",
+       "text": "WYDn‒1 ‒ kwota wydatków określona w projekcie ustawy budżetowej na rok n ‒ 1 przedłożonym Sejmowi, a w przypadku gdy w roku n ‒ 1 zastosowano przepis art. 112d ust. 1 ‒ kwota wydatków, o której mowa w art. 112d ust. 2 albo art. 112da ust. 2,”,",
        "quoted": true
       },
       {
@@ -196,17 +196,17 @@
       },
       {
        "type": "text",
-       "text": "1. W przypadku zatwierdzenia przez Radę Unii Europejskiej ścieżki wydatków netto, o której mowa w art. 17 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/1263 z dnia 29 kwietnia 2024 r. w sprawie skutecznej koordynacji polityk gospodarczych i w sprawie wielostronnego nadzoru budżetowego oraz uchylającego rozporządzenie Rady (WE) nr 1466/97, wielkość korekty kwoty wydatków K n , o której mowa w art. 112aa ust. 1, odpowiada dostosowaniu zgodnemu ze ścieżką wydatków netto zatwierdzoną przez Radę Unii Europejskiej w trybie art. 17 tego rozporządzenia.",
+       "text": "1. W przypadku zatwierdzenia przez Radę Unii Europejskiej ścieżki wydatków netto, o której mowa w art. 17 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/1263 z dnia 29 kwietnia 2024 r. w sprawie skutecznej koordynacji polityk gospodarczych i w sprawie wielostronnego nadzoru budżetowego oraz uchylającego rozporządzenie Rady (WE) nr 1466/97, wielkość korekty kwoty wydatków Kn, o której mowa w art. 112aa ust. 1, odpowiada dostosowaniu zgodnemu ze ścieżką wydatków netto zatwierdzoną przez Radę Unii Europejskiej w trybie art. 17 tego rozporządzenia.",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "2. Minister Finansów może wystąpić do Rady Fiskalnej z wnioskiem o wydanie opinii dotyczącej wielkości korekty kwoty wydatków K n , o której mowa w art. 112aa ust. 1, wynikającej z art. 112aa ust. 4, oraz wpływu tej korekty na długookresową stabilność finansów publicznych oraz sytuację makroekonomiczną kraju. Przepisy art. 4 ust. 4 i 5 ustawy z dnia 20 grudnia 2024 r. o Radzie Fiskalnej (Dz. U. z 2025 r. poz. 39), zwanej dalej „ustawą o Radzie Fiskalnej”, stosuje się odpowiednio.",
+       "text": "2. Minister Finansów może wystąpić do Rady Fiskalnej z wnioskiem o wydanie opinii dotyczącej wielkości korekty kwoty wydatków Kn, o której mowa w art. 112aa ust. 1, wynikającej z art. 112aa ust. 4, oraz wpływu tej korekty na długookresową stabilność finansów publicznych oraz sytuację makroekonomiczną kraju. Przepisy art. 4 ust. 4 i 5 ustawy z dnia 20 grudnia 2024 r. o Radzie Fiskalnej (Dz. U. z 2025 r. poz. 39), zwanej dalej „ustawą o Radzie Fiskalnej”, stosuje się odpowiednio.",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "3. Wielkość korekty kwoty wydatków K n , o której mowa w art. 112aa ust. 1, może być inna niż wynikająca z ust. 1 lub art. 112aa ust. 4, jeżeli wynika to:",
+       "text": "3. Wielkość korekty kwoty wydatków Kn, o której mowa w art. 112aa ust. 1, może być inna niż wynikająca z ust. 1 lub art. 112aa ust. 4, jeżeli wynika to:",
        "quoted": true
       },
       {
@@ -366,12 +366,7 @@
       },
       {
        "type": "text",
-       "text": "2) wartość k−i (S +S ′ ) na każdy rok, na który kwota wydatków obliczana byłaby zgodnie z art. 112d ust. 3. k s s",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "2. W przypadku, o którym mowa w ust. 1, przepisy art. 4 ust. 4 i 5 ustawy o Radzie Fiskalnej stosuje się odpowiednio.",
+       "text": "2) wartość k−i (Ss +Ss′ ) na każdy rok, na który kwota wydatków obliczana byłaby zgodnie z art. 112d ust. 3. 2. W przypadku, k o którym mowa w ust. 1, przepisy art. 4 ust. 4 i 5 ustawy o Radzie Fiskalnej stosuje się odpowiednio.",
        "quoted": true
       },
       {
@@ -391,12 +386,7 @@
       },
       {
        "type": "text",
-       "text": "2) składnik k−i (S +S ′ ) k s s",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "– we wzorze określonym w art. 112d ust. 3 przyjmują wartości określone w stanowisku Rady Fiskalnej.",
+       "text": "2) składnik k−i (Ss +Ss′ ) – we wzorze określonym k w art. 112d ust. 3 przyjmują wartości określone w stanowisku Rady Fiskalnej.",
        "quoted": true
       },
       {

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/720",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 maja 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.53",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/720/text.pdf",
  "body": [
   {
@@ -6327,11 +6327,11 @@
       },
       {
        "type": "text",
-       "text": "C k – kwotę wypłaty k,"
+       "text": "Ck – kwotę wypłaty k,"
       },
       {
        "type": "text",
-       "text": "t k – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej kolejnej wypłaty, zatem t1 = 0,"
+       "text": "tk – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej kolejnej wypłaty, zatem t1 = 0,"
       },
       {
        "type": "text",
@@ -6343,11 +6343,11 @@
       },
       {
        "type": "text",
-       "text": "D l – kwotę spłaty lub wnoszonych opłat,"
+       "text": "Dl – kwotę spłaty lub wnoszonych opłat,"
       },
       {
        "type": "text",
-       "text": "S l – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej spłaty lub wniesienia"
+       "text": "Sl – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej spłaty lub wniesienia"
       },
       {
        "type": "text",
@@ -6419,7 +6419,7 @@
        "type": "lit",
        "num": "e",
        "path": "ust_3/lit_e",
-       "text": "równanie to może być zapisane w postaci jednej sumy z wykorzystaniem koncepcji przepływów (A k ), które mogą być dodatnie lub ujemne – zapłacone lub otrzymane w okresach 1 do k, wyrażonych w latach:",
+       "text": "równanie to może być zapisane w postaci jednej sumy z wykorzystaniem koncepcji przepływów (Ak), które mogą być dodatnie lub ujemne – zapłacone lub otrzymane w okresach 1 do k, wyrażonych w latach:",
        "children": [
         {
          "type": "text",

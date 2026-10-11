@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1260",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 września 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.53",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1260/text.pdf",
  "body": [
   {
@@ -1280,7 +1280,7 @@
        "children": [
         {
          "type": "text",
-         "text": "R=(CT−CR) x W x (1+T) ,"
+         "text": "R=(CT−CR) x W x (1+T),"
         },
         {
          "type": "text",
@@ -1296,7 +1296,7 @@
         },
         {
          "type": "text",
-         "text": "CT=(CC x PSC+CM x PMZ+CN x PSN)∶PSC ,"
+         "text": "CT=(CC x PSC+CM x PMZ+CN x PSN)∶PSC,"
         },
         {
          "type": "text",
@@ -1304,7 +1304,7 @@
         },
         {
          "type": "text",
-         "text": "CT=(SC x PSC+SM x PMZ)∶PSC ,"
+         "text": "CT=(SC x PSC+SM x PMZ)∶PSC,"
         },
         {
          "type": "text",
@@ -1312,7 +1312,7 @@
         },
         {
          "type": "text",
-         "text": "CR=(CCR x PSC+CMR x PMZ+CNR x PSN)∶PSC ,"
+         "text": "CR=(CCR x PSC+CMR x PMZ+CNR x PSN)∶PSC,"
         },
         {
          "type": "text",
@@ -1320,7 +1320,7 @@
         },
         {
          "type": "text",
-         "text": "CR=(SCR x PSC+SMR x PMZ)∶PSC ,"
+         "text": "CR=(SCR x PSC+SMR x PMZ)∶PSC,"
         },
         {
          "type": "text",
@@ -1834,11 +1834,11 @@
          "children": [
           {
            "type": "text",
-           "text": "KMOG = [( SC – SCW ) × Wcw + ( SM – SMW ) × Wmw + ( SZOP -SZOPW )× Wupc"
+           "text": "KMOG = [(SC – SCW)× Wcw + (SM – SMW)× Wmw + (SZOP -SZOPW)× Wupc"
           },
           {
            "type": "text",
-           "text": "SSOP SSOPW + ( – )× Wupm ] × (1+ T ), 12 12"
+           "text": "SSOP SSOPW + ( – )× Wupm] × (1+T), 12 12"
           },
           {
            "type": "text",
@@ -2605,7 +2605,7 @@
          "children": [
           {
            "type": "text",
-           "text": "CM CMR KSW = [( CC – CCR )× Wc + ( − ) × Wm + ( CN – CNR )× Wn ] × (1+T)−WR, 12 12"
+           "text": "CM CMR KSW = [(CC – CCR)× Wc + ( − ) × Wm + (CN – CNR)× Wn] × (1+T)−WR, 12 12"
           }
          ]
         },
@@ -2617,7 +2617,7 @@
          "children": [
           {
            "type": "text",
-           "text": "KSW = [( SC – SCR ) × Wc + ( SM – SMR ) × Wm ] × (1+ T )−WR,"
+           "text": "KSW = [(SC – SCR)× Wc + (SM – SMR)× Wm] × (1+T)−WR,"
           },
           {
            "type": "text",
@@ -3689,7 +3689,7 @@
        "children": [
         {
          "type": "text",
-         "text": "D = (Zk − Skp) x 0,4 ,"
+         "text": "D = (Zk − Skp) x 0,4,"
         },
         {
          "type": "text",
