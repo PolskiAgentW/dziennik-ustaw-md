@@ -49,7 +49,7 @@ Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla ża
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-11 04:40 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-11 08:44 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -73,7 +73,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 91, razem 1856 z 202793
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 245.
 
 Rodzaje aktów: Obwieszczenie 4879, Rozporządzenie 1834, Ustawa 369, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
-Wersje konwertera: eli2md 0.6.51 (3862), eli2md 0.6.25 (3215), eli2md 0.6.25.2 (91).
+Wersje konwertera: eli2md 0.6.52 (3862), eli2md 0.6.25 (2855), eli2md 0.6.53 (369), eli2md 0.6.25.2 (82).
 <!-- stats:end -->
 
 ## Teksty jednolite
@@ -232,6 +232,15 @@ w artykułach dodanych później (1 182) ani błędów wspólnych z warstwą tek
 - przypis z wyliczeniem: do przypisu trafia tylko pierwszy akapit, dalsze punkty są w treści (DU/2026/421).
 - przypis z etykietą rzymską w zwykłym druku („I) Odnośnik dodany przez…”) dokleja się do poprzedniego przypisu;
 - indeks dolny z literą lub kropką ginie: „kategorii T , T , T” zamiast „T1b, T2b, T3b” (DU/2025/1490 art. 54).
+
+Zmiana 2026-10-11 (eli2md 0.6.53, 369 ustaw, czyli wszystkie akty typu Ustawa w `index.csv`): przeliczone z tych
+samych PDF; wcześniej tekst z eli2md 0.6.25 i 0.6.25.2. Tekst zmienia się w 13 z nich. W 11 zostają te same znaki,
+a zmieniają się tylko odstępy, głównie przy indeksach dolnych: „WYD n‒1” → „WYDn‒1” (DU/2025/39), „(NO x )” → „(NOx)”
+(DU/2026/1157). W 2 indeksy z cyfr są teraz zapisane jako ₀₁₂… na wierszu swojego symbolu, a przeniesienie
+rozdzielone indeksem jest scalone: „PZM AU” → „PZMAU”, „zakon- AG traktowane” → „zakontraktowane” (DU/2025/159),
+„E =e ec +e₁ +e p” → „E =eec +e₁ +ep”, „gosposca darce” → „gospodarce” (DU/2025/303). Liczba jednostek (art., ust.,
+pkt, §) jest ta sama we wszystkich 369, żaden akt nie zgubił tekstu. W pozostałych 356 zmienia się tylko pole
+`converter`. Od tej zmiany codzienna aktualizacja używa eli2md 0.6.53 (wcześniej 0.6.52).
 
 Zmiana 2026-10-11 (eli2md 0.6.52): dodane 3 862 teksty jednolite ustaw z lat 2012–2024, które API ELI ma też w HTML
 (opis w sekcji „Teksty jednolite ustaw z lat 2012–2024”). Pozostałe akty bez zmian.

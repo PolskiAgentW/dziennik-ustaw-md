@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/159",
  "title": "Ustawa z dnia 24 stycznia 2025 r. o zmianie ustawy o rynku mocy",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.53",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/159/text.pdf",
  "body": [
   {
@@ -788,7 +788,7 @@
       },
       {
        "type": "text",
-       "text": "PZM =P +∑max(min³ (WZ −∑OM );0) −∑OM −min (∑OM ) AU OM q ADqs qs AG q ADq s=1",
+       "text": "PZMAU =P +∑max(min³ (WZADqs −∑OMqs);0) −∑OMAG −min (∑OMADq) OM q q s=1",
        "quoted": true
       },
       {
@@ -798,7 +798,7 @@
       },
       {
        "type": "text",
-       "text": "PZM AU – zapotrzebowanie na moc w danej aukcji uzupełniającej,",
+       "text": "PZMAU – zapotrzebowanie na moc w danej aukcji uzupełniającej,",
        "quoted": true
       },
       {
@@ -818,22 +818,22 @@
       },
       {
        "type": "text",
-       "text": "WZ ADqs – maksymalny wolumen obowiązków mocowych dla kwartału q i strefy s określony na potrzeby aukcji dodatkowych w przepisach wydanych na podstawie art. 34 ust. 1,",
+       "text": "WZADqs – maksymalny wolumen obowiązków mocowych dla kwartału q i strefy s określony na potrzeby aukcji dodatkowych w przepisach wydanych na podstawie art. 34 ust. 1,",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "∑OM qs – sumę aktywnych obowiązków mocowych, zakontraktowanych w toku aukcji głównej i aukcji dodatkowej, obejmujących kwartał q i strefę s,",
+       "text": "∑OMqs – sumę aktywnych obowiązków mocowych, zakontraktowanych w toku aukcji głównej i aukcji dodatkowej, obejmujących kwartał q i strefę s,",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "∑OM – sumę aktywnych obowiązków mocowych dotyczących danego roku dostaw, które zostały zakon- AG traktowane w toku aukcji głównej na ten rok dostaw oraz w aukcjach głównych na wcześniejsze okresy dostaw,",
+       "text": "∑OMAG – sumę aktywnych obowiązków mocowych dotyczących danego roku dostaw, które zostały zakontraktowane w toku aukcji głównej na ten rok dostaw oraz w aukcjach głównych na wcześniejsze okresy dostaw,",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "∑OM ADq – sumę aktywnych obowiązków mocowych zakontraktowanych w toku aukcji dodatkowej, obejmujących kwartał q;",
+       "text": "∑OMADq – sumę aktywnych obowiązków mocowych zakontraktowanych w toku aukcji dodatkowej, obejmujących kwartał q;",
        "quoted": true
       },
       {
@@ -853,7 +853,7 @@
       },
       {
        "type": "text",
-       "text": "WZ =max(min (WZ −∑OM );0) AUs q ADqs qs",
+       "text": "WZAUs =max(min q (WZADqs −∑OMqs);0)",
        "quoted": true
       },
       {
@@ -863,7 +863,7 @@
       },
       {
        "type": "text",
-       "text": "WZ – maksymalny wolumen obowiązków mocowych w aukcji wstępnej do aukcji uzupełniającej dla AUs danej strefy s ,",
+       "text": "WZAUs – maksymalny wolumen obowiązków mocowych w aukcji wstępnej do aukcji uzupełniającej dla danej strefy s,",
        "quoted": true
       },
       {
@@ -878,12 +878,12 @@
       },
       {
        "type": "text",
-       "text": "WZ ADqs – maksymalny wolumen obowiązków mocowych dla kwartału q i strefy s określony na potrzeby aukcji dodatkowej w przepisach wydanych na podstawie art. 34 ust. 1,",
+       "text": "WZADqs – maksymalny wolumen obowiązków mocowych dla kwartału q i strefy s określony na potrzeby aukcji dodatkowej w przepisach wydanych na podstawie art. 34 ust. 1,",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "∑OM qs – sumę aktywnych obowiązków mocowych, zakontraktowanych w toku aukcji głównej i aukcji dodatkowej, obejmujących kwartał q i strefę s ;",
+       "text": "∑OMqs – sumę aktywnych obowiązków mocowych, zakontraktowanych w toku aukcji głównej i aukcji dodatkowej, obejmujących kwartał q i strefę s;",
        "quoted": true
       },
       {
@@ -1051,7 +1051,7 @@
         },
         {
          "type": "text",
-         "text": "K =K +K +K −B C AG AD R",
+         "text": "KC =KAG +KAD +KR −B",
          "quoted": true
         },
         {
@@ -1061,22 +1061,22 @@
         },
         {
          "type": "text",
-         "text": "K C – całkowity koszt rynku mocy w danym roku,",
+         "text": "KC – całkowity koszt rynku mocy w danym roku,",
          "quoted": true
         },
         {
          "type": "text",
-         "text": "K – sumę iloczynów obowiązków mocowych wynikających z umów mocowych zawartych w toku AG aukcji głównych obejmujących dany rok i ich cen, uwzględniających coroczne waloryzacje tych cen obowiązku mocowego dla wieloletnich umów mocowych, o których mowa w art. 60 ust. 4, oraz pomniejszenia wynagrodzeń, o których mowa w art. 62 ust. 1,",
+         "text": "KAG – sumę iloczynów obowiązków mocowych wynikających z umów mocowych zawartych w toku aukcji głównych obejmujących dany rok i ich cen, uwzględniających coroczne waloryzacje tych cen obowiązku mocowego dla wieloletnich umów mocowych, o których mowa w art. 60 ust. 4, oraz pomniejszenia wynagrodzeń, o których mowa w art. 62 ust. 1,",
          "quoted": true
         },
         {
          "type": "text",
-         "text": "K – sumę iloczynów obowiązków mocowych i odpowiednich cen zamknięcia aukcji dodatkowych na AD dany rok,",
+         "text": "KAD – sumę iloczynów obowiązków mocowych i odpowiednich cen zamknięcia aukcji dodatkowych na dany rok,",
          "quoted": true
         },
         {
          "type": "text",
-         "text": "K R – koszty, o których mowa w art. 77 ust. 3 i 4,",
+         "text": "KR – koszty, o których mowa w art. 77 ust. 3 i 4,",
          "quoted": true
         },
         {
@@ -1252,7 +1252,7 @@
      "children": [
       {
        "type": "text",
-       "text": "K =0,5⋅K +K C C 2025 AU"
+       "text": "KC =0,5⋅KC₂₀₂₅ +KAU"
       },
       {
        "type": "text",
@@ -1260,15 +1260,15 @@
       },
       {
        "type": "text",
-       "text": "K – całkowity koszt rynku mocy w drugiej połowie 2025 r. obejmującej okres od dnia 1 lipca do dnia C 31 grudnia,"
+       "text": "KC – całkowity koszt rynku mocy w drugiej połowie 2025 r. obejmującej okres od dnia 1 lipca do dnia 31 grudnia,"
       },
       {
        "type": "text",
-       "text": "K C – całkowity koszt rynku mocy na rok dostaw 2025 wyznaczony przez Prezesa Urzędu Regulacji Ener- 2025 getyki i wykorzystany do obliczenia stawek opłaty mocowej na 2025 r., opublikowanych do dnia 30 września 2024 r.,"
+       "text": "KC₂₀₂₅ – całkowity koszt rynku mocy na rok dostaw 2025 wyznaczony przez Prezesa Urzędu Regulacji Energetyki i wykorzystany do obliczenia stawek opłaty mocowej na 2025 r., opublikowanych do dnia 30 września 2024 r.,"
       },
       {
        "type": "text",
-       "text": "K – sumę iloczynów obowiązków mocowych i cen zamknięcia aukcji uzupełniającej na drugą połowę AU 2025 r. obejmującą okres od dnia 1 lipca do dnia 31 grudnia."
+       "text": "KAU – sumę iloczynów obowiązków mocowych i cen zamknięcia aukcji uzupełniającej na drugą połowę 2025 r. obejmującą okres od dnia 1 lipca do dnia 31 grudnia."
       }
      ]
     },
@@ -1287,7 +1287,7 @@
      "children": [
       {
        "type": "text",
-       "text": "K =K +K +K +K −D C AG AD AU R"
+       "text": "KC =KAG +KAD +KAU +KR −D"
       },
       {
        "type": "text",
@@ -1295,23 +1295,23 @@
       },
       {
        "type": "text",
-       "text": "K C – całkowity koszt rynku mocy w danym roku dostaw,"
+       "text": "KC – całkowity koszt rynku mocy w danym roku dostaw,"
       },
       {
        "type": "text",
-       "text": "K – sumę iloczynów obowiązków mocowych wynikających z umów mocowych zawartych w toku aukcji AG głównej obejmujących dany rok i ich cen, uwzględniających coroczne waloryzacje tych cen obowiązku mocowego dla wieloletnich umów mocowych, o których mowa w art. 60 ust. 4 ustawy zmienianej w art. 1, oraz pomniejszenia wynagrodzeń, o których mowa w art. 62 ust. 1 ustawy zmienianej w art. 1,"
+       "text": "KAG – sumę iloczynów obowiązków mocowych wynikających z umów mocowych zawartych w toku aukcji głównej obejmujących dany rok i ich cen, uwzględniających coroczne waloryzacje tych cen obowiązku mocowego dla wieloletnich umów mocowych, o których mowa w art. 60 ust. 4 ustawy zmienianej w art. 1, oraz pomniejszenia wynagrodzeń, o których mowa w art. 62 ust. 1 ustawy zmienianej w art. 1,"
       },
       {
        "type": "text",
-       "text": "K – sumę iloczynów obowiązków mocowych i odpowiednich cen zamknięcia aukcji dodatkowych na dany rok AD dostaw,"
+       "text": "KAD – sumę iloczynów obowiązków mocowych i odpowiednich cen zamknięcia aukcji dodatkowych na dany rok dostaw,"
       },
       {
        "type": "text",
-       "text": "K AU – sumę iloczynów obowiązków mocowych i cen zamknięcia aukcji uzupełniającej na dany rok dostaw,"
+       "text": "KAU – sumę iloczynów obowiązków mocowych i cen zamknięcia aukcji uzupełniającej na dany rok dostaw,"
       },
       {
        "type": "text",
-       "text": "K R – koszty, o których mowa w art. 77 ust. 3 i 4 ustawy zmienianej w art. 1,"
+       "text": "KR – koszty, o których mowa w art. 77 ust. 3 i 4 ustawy zmienianej w art. 1,"
       },
       {
        "type": "text",
@@ -1327,21 +1327,21 @@
          "type": "tir",
          "num": "1",
          "path": "art_5/ust_3/lit_a/tir_1",
-         "text": "dla roku 2026: 0,25⋅B ,",
+         "text": "dla roku 2026: 0,25⋅B,",
          "children": []
         },
         {
          "type": "tir",
          "num": "2",
          "path": "art_5/ust_3/lit_a/tir_2",
-         "text": "dla roku 2027: 0,35⋅B ,",
+         "text": "dla roku 2027: 0,35⋅B,",
          "children": []
         },
         {
          "type": "tir",
          "num": "3",
          "path": "art_5/ust_3/lit_a/tir_3",
-         "text": "dla roku 2028: 0,5⋅B , albo",
+         "text": "dla roku 2028: 0,5⋅B, albo",
          "children": []
         }
        ]
