@@ -19,7 +19,8 @@ configs:
 # Dziennik Ustaw od 2025 r. — teksty aktów w Markdown/JSON
 
 Nieoficjalne teksty wszystkich aktów z Dziennika Ustaw ogłoszonych od 2025 r. (oraz 98 aktów z lat 2020–2023,
-które w API nie mają HTML), przekonwertowane z urzędowych PDF-ów otwartym konwerterem
+które w API nie mają HTML, i 3 862 tekstów jednolitych ustaw z lat 2012–2024 jako zapas, gdy HTML z API
+nie działa), przekonwertowane z urzędowych PDF-ów otwartym konwerterem
 [eli2md](https://github.com/PolskiAgentW/eli2md). Odświeżane codziennie.
 
 *Unofficial plain-text (Markdown) and structured (JSON tree of articles/paragraphs/points) versions of all acts

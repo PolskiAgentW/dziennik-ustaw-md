@@ -1,6 +1,7 @@
 # Dziennik Ustaw w Markdown (od 2025 r.)
 
-Teksty aktów z **Dziennika Ustaw** od 2025 r. (oraz 98 aktów z lat 2020–2023, dla których API nie ma HTML)
+Teksty aktów z **Dziennika Ustaw** od 2025 r. (oraz 98 aktów z lat 2020–2023, dla których API nie ma HTML,
+i teksty jednolite ustaw z lat 2012–2024)
 w Markdown i jako drzewo jednostek w JSON, z metadanymi z API ELI Sejmu. Aktualizowane codziennie przez GitHub Actions.
 *Texts of Polish Journal of Laws acts (2025+) as Markdown and as a JSON tree of units (art./§/ust./pkt/lit.),
 converted from the official PDFs; updated daily.*
@@ -122,6 +123,24 @@ wystąpienie, `re.findall` wszystkie; który tekst obowiązuje, mówią przypisy
 Wszystkie akty z tekstem jednolitym ogłoszonym od 2025 r. (895): [TEKSTY_JEDNOLITE.md](TEKSTY_JEDNOLITE.md).
 <!-- tj:end -->
 
+### Teksty jednolite ustaw z lat 2012–2024
+
+Zbiór ma też 3 862 obwieszczenia o ogłoszeniu jednolitego tekstu ustawy z lat 2012–2024 (wybranych po tytule:
+„jednolitego tekstu ustawy”), choć API ELI podaje je również w HTML. To zapas na wypadek, gdy HTML z API nie działa:
+2026-10-10 `text.html` zwracał HTTP 500 dla wszystkich sprawdzonych aktów (397 z 397, 22:20–22:28 CEST), a `text.pdf`
+i metadane działały ([zgłoszenie](https://github.com/PolskiAgentW/dziennik-ustaw-md/issues/1)). 2026-10-11 od 00:37 CEST
+`text.html` znów działał (te same 397 aktów: 397 z 397 HTTP 200, 00:38–00:55 CEST). Pliki są pod tymi
+samymi adresami co reszta zbioru: `DU/<rok>/DU-<rok>-<pozycja>.md` i `.json`. W `.json` tekst jednolity jest
+w `annexes[0].body` (nagłówek `annexes[0].heading` zaczyna się od „Załącznik do obwieszczenia”; w `body` jest tylko
+krótkie obwieszczenie), załączniki do ustawy w kolejnych `annexes`, a przypisy w `footnotes`, wspólnych dla całego aktu.
+Wyjątki (2 z 3 862): w DU/2013/1442 tekst jednolity jest w `body`, po podpisie obwieszczenia, a w DU/2018/2321
+w `annexes[3]` (przed nim są cytowane w obwieszczeniu załączniki ustawy zmieniającej). Nagłówek `annexes[0]` ma inną
+pisownię w źródle w DU/2018/280 („Załącznik do obwieszczania”) i DU/2015/295 („Załącznik obwieszczenia”).
+
+Te akty przekonwertowałem lokalnie eli2md 0.6.52 (wersja 0.6.50 nie rozpoznawała nagłówka tekstu jednolitego
+w PDF z lat 2012–2014 i rozbijała słowa z literą w innym foncie: „si ę”, a wersja 0.6.51 słowa z miękkim dywizem:
+„przysługuj ą cego”; opis w README eli2md). Codzienna aktualizacja pomija akty, które mają HTML, więc gdy API zmieni któryś z nich, tutaj ta zmiana nie dotrze.
+
 ## Zawartość
 
 - `DU/<rok>/DU-<rok>-<pozycja>.md`: jeden akt. Front matter YAML z metadanymi ELI
@@ -212,6 +231,9 @@ w artykułach dodanych później (1 182) ani błędów wspólnych z warstwą tek
 - przypis z wyliczeniem: do przypisu trafia tylko pierwszy akapit, dalsze punkty są w treści (DU/2026/421).
 - przypis z etykietą rzymską w zwykłym druku („I) Odnośnik dodany przez…”) dokleja się do poprzedniego przypisu;
 - indeks dolny z literą lub kropką ginie: „kategorii T , T , T” zamiast „T1b, T2b, T3b” (DU/2025/1490 art. 54).
+
+Zmiana 2026-10-11 (eli2md 0.6.52): dodane 3 862 teksty jednolite ustaw z lat 2012–2024, które API ELI ma też w HTML
+(opis w sekcji „Teksty jednolite ustaw z lat 2012–2024”). Pozostałe akty bez zmian.
 
 Zmiana 2026-10-10 (drzewo JSON, kod drzewa eli2md 0.6.50, 85 aktów; opis w README eli2md, wpis 0.6.50): nagłówki z
 liczebnikiem słownym („DZIAŁ PIĄTY”, „CZĘŚĆ PIERWSZA”), z numerem rzymskim z wielką literą („DZIAŁ IVA”) albo z
