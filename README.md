@@ -237,7 +237,7 @@ w artykułach dodanych później (1 182) ani błędów wspólnych z warstwą tek
 Zmiana 2026-10-12 (eli2md 0.6.54, 1 akt): w DU/2025/179 drzewo w JSON miało przy art. 1 pkt 29 lit. d nagłówek
 „Część VII” i ust. 1–7 na najwyższym poziomie. To wiersze tabeli, którą ustawa dodaje bez cudzysłowu, a pkt 30 art. 1
 wisiał pod „ust. 7”. Teraz nagłówek i wiersze są tekstem lit. d, a art. 1 ma pkt 1–30. Markdown i słowa bez zmian.
-W pozostałych 368 ustawach tego zbioru ten układ nie występuje (A/B drzewa na wszystkich plikach .md).
+W żadnym innym akcie tego zbioru drzewo się nie zmienia (A/B drzewa 0.6.53 → 0.6.54 na wszystkich plikach .md).
 
 Zmiana 2026-10-11 (eli2md 0.6.53, 479 tekstów jednolitych ustaw z lat 2025–2026, ta sama lista co w porównaniach
 w README eli2md): przeliczone z tych samych PDF; wcześniej eli2md 0.6.25 i 0.6.25.2. Tekst zmienia się w 41. W 32 zostają
