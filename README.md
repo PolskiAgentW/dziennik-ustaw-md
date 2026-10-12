@@ -234,6 +234,11 @@ w artykułach dodanych później (1 182) ani błędów wspólnych z warstwą tek
 - indeks dolny z literą lub kropką ginął: „kategorii T , T , T” zamiast „T1b, T2b, T3b” (DU/2025/1490 art. 54);
   od eli2md 0.6.53 (2026-10-11) „kategorii T1b, T2b, T3b, T4.1b, T4.2b, T4.3b i T₅”.
 
+Zmiana 2026-10-12 (eli2md 0.6.54, 1 akt): w DU/2025/179 drzewo w JSON miało przy art. 1 pkt 29 lit. d nagłówek
+„Część VII” i ust. 1–7 na najwyższym poziomie. To wiersze tabeli, którą ustawa dodaje bez cudzysłowu, a pkt 30 art. 1
+wisiał pod „ust. 7”. Teraz nagłówek i wiersze są tekstem lit. d, a art. 1 ma pkt 1–30. Markdown i słowa bez zmian.
+W pozostałych 368 ustawach tego zbioru ten układ nie występuje (A/B drzewa na wszystkich plikach .md).
+
 Zmiana 2026-10-11 (eli2md 0.6.53, 479 tekstów jednolitych ustaw z lat 2025–2026, ta sama lista co w porównaniach
 w README eli2md): przeliczone z tych samych PDF; wcześniej eli2md 0.6.25 i 0.6.25.2. Tekst zmienia się w 41. W 32 zostają
 te same znaki, zmieniają się odstępy. W 9 cyfry indeksów są teraz zapisane jako ₀₁₂… przy swoim symbolu, a przeniesienia
