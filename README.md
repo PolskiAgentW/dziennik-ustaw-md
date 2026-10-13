@@ -49,7 +49,7 @@ Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla ża
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-13 04:47 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-13 09:17 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -73,7 +73,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 91, razem 1856 z 203113
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 245.
 
 Rodzaje aktów: Obwieszczenie 4883, Rozporządzenie 1839, Ustawa 369, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
-Wersje konwertera: eli2md 0.6.52 (3862), eli2md 0.6.25 (2417), eli2md 0.6.53 (840), eli2md 0.6.25.2 (35), eli2md 0.6.54 (23).
+Wersje konwertera: eli2md 0.6.52 (3862), eli2md 0.6.25 (2133), eli2md 0.6.53 (772), eli2md 0.6.56 (387), eli2md 0.6.25.2 (14), eli2md 0.6.54 (9).
 <!-- stats:end -->
 
 ## Teksty jednolite
@@ -233,6 +233,31 @@ w artykułach dodanych później (1 182) ani błędów wspólnych z warstwą tek
 - przypis z etykietą rzymską w zwykłym druku („I) Odnośnik dodany przez…”) dokleja się do poprzedniego przypisu;
 - indeks dolny z literą lub kropką ginął: „kategorii T , T , T” zamiast „T1b, T2b, T3b” (DU/2025/1490 art. 54);
   od eli2md 0.6.53 (2026-10-11) „kategorii T1b, T2b, T3b, T4.1b, T4.2b, T4.3b i T₅”.
+
+Zmiana 2026-10-13 (eli2md 0.6.56, 267 aktów): podpis pod aktem. W tych aktach podpis był zwykłym akapitem `.md`,
+a w `.json` tekstem ostatniej jednostki (w 257, np. dzieckiem § 43 w DU/2026/1316) albo tekstem na najwyższym poziomie.
+Konwerter nie rozpoznawał podpisu z przecinkiem w nazwie urzędu („Minister Rodziny, Pracy i Polityki Społecznej: …”),
+z „z up.” przed nazwiskiem, z długą nazwą urzędu ani kontrasygnaty Prezesa Rady Ministrów pod podpisem Prezydenta
+(opis w README eli2md, wpisy 0.6.55 i 0.6.56). Teraz podpis jest kursywą i węzłem `signature`: 256 aktów ma pierwszy
+taki węzeł, 11 dostaje kontrasygnatę. Wcześniej te pliki były z eli2md 0.6.25 (261), 0.6.25.2 (2) i 0.6.54 (4).
+Poza podpisem tekst zmienia się w 21 z nich i są to zmiany konwertera od 0.6.25: złączone przeniesienia
+(„ratowniczo- gaśniczego” → „ratowniczo-gaśniczego”, DU/2026/872), rozbite słowa („w obec” → „wobec”, DU/2026/456),
+indeksy dolne („K , K , K , K” → „K₁, K₂, K₃, K₄”, DU/2025/1874), odstępy przed przypisem i nawiasem. Inne znaki
+mają tylko DU/2025/1874 (indeksy) i DU/2026/8 (tekst obróconej tabeli, nieczytelny także wcześniej). Liczba jednostek
+(art., §, ust., pkt) jest ta sama we wszystkich 267. Od tej zmiany codzienna aktualizacja używa eli2md 0.6.56
+(wcześniej 0.6.54).
+
+Zmiana 2026-10-13 (eli2md 0.6.56, kolejne 120 aktów): nagłówek `.md` z metadanymi sprzed ich zmiany w API ELI.
+Przeliczenie wszystkich aktów 2026-10-05 (i ustaw oraz tekstów jednolitych 2026-10-11) korzystało z lokalnej kopii
+metadanych i PDF pobranej wcześniej, więc akty, które API zmieniło w międzyczasie, dostały stare dane, a codzienna
+aktualizacja ich nie ruszała (`index.csv` miał już nowy `change_date`). W tych 120 i w 267 opisanych wyżej nagłówek miał
+starą datę ogłoszenia albo promulgacji w 32 aktach — wszystkie to daty, które API poprawiło po zgłoszeniu rozbieżności
+z drukiem (np. DU/2025/1099: 2028-08-04 → 2025-08-04) — a stary status w 9. W 17 aktach (np. DU/2025/1099, DU/2026/135)
+w zbiorze był też tekst z PDF sprzed jego wymiany w API; teraz `pdf_sha256` w `index.csv` to PDF z API.
+Wcześniej te 120 plików było z eli2md 0.6.25 (23), 0.6.25.2 (19), 0.6.53 (68) i 0.6.54 (10). Treść zmienia się w 6:
+indeksy dolne (DU/2025/1761, DU/2026/649), odstęp przed gwiazdką odnośnika (DU/2025/1727), „„ OPIEKUN” → „„OPIEKUN”
+(DU/2025/81), a w wykropkowanym formularzu DU/2025/697 „3. 4.” → „34..” (ten fragment był zniekształcony także
+wcześniej; jedna jednostka mniej). W pozostałych 114 zmienia się tylko nagłówek i pole `converter`.
 
 Zmiana 2026-10-12 (eli2md 0.6.54, 1 akt): w DU/2025/179 drzewo w JSON miało przy art. 1 pkt 29 lit. d nagłówek
 „Część VII” i ust. 1–7 na najwyższym poziomie. To wiersze tabeli, którą ustawa dodaje bez cudzysłowu, a pkt 30 art. 1

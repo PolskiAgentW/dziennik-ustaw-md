@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1761",
  "title": "Obwieszczenie Ministra Finansów i Gospodarki z dnia 18 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie opłat na pokrycie kosztów nadzoru nad rynkiem kapitałowym",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1761/text.pdf",
  "body": [
   {
@@ -1980,7 +1980,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Wk U = n−1 x 100 %, Gn K n−1"
+         "text": "Wkn−1 UGn = x 100 %, Kn−1"
         },
         {
          "type": "text",
@@ -1988,15 +1988,15 @@
         },
         {
          "type": "text",
-         "text": "U Gn – procentowy udział danej grupy w planowanych kosztach nadzoru netto w danym roku kalendarzowym,"
+         "text": "UGn – procentowy udział danej grupy w planowanych kosztach nadzoru netto w danym roku kalendarzowym,"
         },
         {
          "type": "text",
-         "text": "Wk n-1 – wykonane koszty nadzoru netto danej grupy w poprzednim roku kalendarzowym,"
+         "text": "Wkn-1 – wykonane koszty nadzoru netto danej grupy w poprzednim roku kalendarzowym,"
         },
         {
          "type": "text",
-         "text": "K n-1 – koszty nadzoru netto wszystkich grup wykonane w poprzednim roku kalendarzowym, o których mowa w § 21 ust. 3."
+         "text": "Kn-1 – koszty nadzoru netto wszystkich grup wykonane w poprzednim roku kalendarzowym, o których mowa w § 21 ust. 3."
         }
        ]
       }
@@ -2012,11 +2012,11 @@
        "type": "ust",
        "num": "1",
        "path": "par_21/ust_1",
-       "text": "Opłatę roczną należną od podmiotu (WN p ) w danej grupie za dany rok kalendarzowy oblicza się według wzoru:",
+       "text": "Opłatę roczną należną od podmiotu (WNp) w danej grupie za dany rok kalendarzowy oblicza się według wzoru:",
        "children": [
         {
          "type": "text",
-         "text": "WN p = P p x S Gn,"
+         "text": "WNp = P p x SGn,"
         },
         {
          "type": "text",
@@ -2024,11 +2024,11 @@
         },
         {
          "type": "text",
-         "text": "P p – określoną w ustawie podstawę obliczenia opłaty rocznej należnej od danego podmiotu,"
+         "text": "Pp – określoną w ustawie podstawę obliczenia opłaty rocznej należnej od danego podmiotu,"
         },
         {
          "type": "text",
-         "text": "S Gn – stawkę dla grupy, do której przypisany jest dany podmiot zgodnie z § 20, której wysokość jest obliczana zgodnie z ust. 2."
+         "text": "SGn – stawkę dla grupy, do której przypisany jest dany podmiot zgodnie z § 20, której wysokość jest obliczana zgodnie z ust. 2."
         }
        ]
       },
@@ -2036,7 +2036,7 @@
        "type": "ust",
        "num": "2",
        "path": "par_21/ust_2",
-       "text": "Stawkę (S Gn ) dla danej grupy w danym roku kalendarzowym oblicza się z dokładnością do sześciu miejsc po przecinku według wzoru: K S = Gn x 100 %,",
+       "text": "Stawkę (SGn) dla danej grupy w danym roku kalendarzowym oblicza się z dokładnością do sześciu miejsc po przecinku według wzoru: KGn SGn = x 100 %, P Gn−1",
        "children": [
         {
          "type": "text",
@@ -2044,11 +2044,11 @@
         },
         {
          "type": "text",
-         "text": "K Gn – koszty nadzoru netto danej grupy do pokrycia w danym roku kalendarzowym, obliczane zgodnie z ust. 3,"
+         "text": "KGn – koszty nadzoru netto danej grupy do pokrycia w danym roku kalendarzowym, obliczane zgodnie z ust. 3,"
         },
         {
          "type": "text",
-         "text": "P Gn-1 – sumę kwot stanowiących podstawę obliczenia opłaty rocznej, należnej od podmiotów w danej grupie, które prowadziły działalność w ostatnim dniu poprzedniego roku kalendarzowego, ustalaną na podstawie zbadanych i zatwierdzonych sprawozdań finansowych za poprzedni rok, a w przypadku ich braku na podstawie deklaracji przekazanych zgodnie z § 24 ust. 2."
+         "text": "PGn-1 – sumę kwot stanowiących podstawę obliczenia opłaty rocznej, należnej od podmiotów w danej grupie, które prowadziły działalność w ostatnim dniu poprzedniego roku kalendarzowego, ustalaną na podstawie zbadanych i zatwierdzonych sprawozdań finansowych za poprzedni rok, a w przypadku ich braku na podstawie deklaracji przekazanych zgodnie z § 24 ust. 2."
         }
        ]
       },
@@ -2056,11 +2056,11 @@
        "type": "ust",
        "num": "3",
        "path": "par_21/ust_3",
-       "text": "Koszty nadzoru netto dla danej grupy (K Gn ) w danym roku kalendarzowym oblicza się według wzoru:",
+       "text": "Koszty nadzoru netto dla danej grupy (KGn) w danym roku kalendarzowym oblicza się według wzoru:",
        "children": [
         {
          "type": "text",
-         "text": "K Gn = (PK n − (PK n−1 − WK n−1 )) x U Gn − O Gn−1,"
+         "text": "KGn = (PKn − (PKn−1 − WKn−1)) x UGn − OGn−1,"
         },
         {
          "type": "text",
@@ -2068,15 +2068,15 @@
         },
         {
          "type": "text",
-         "text": "PK n – oznacza planowane koszty nadzoru, o których mowa w art. 19a ust. 2 pkt 1 ustawy o nadzorze, ujęte w planie finansowym Urzędu Komisji Nadzoru Finansowego na dany rok kalendarzowy, w części przypadającej na koszty nadzoru netto, do pokrycia w danym roku kalendarzowym,"
+         "text": "PKn – oznacza planowane koszty nadzoru, o których mowa w art. 19a ust. 2 pkt 1 ustawy o nadzorze, ujęte w planie finansowym Urzędu Komisji Nadzoru Finansowego na dany rok kalendarzowy, w części przypadającej na koszty nadzoru netto, do pokrycia w danym roku kalendarzowym,"
         },
         {
          "type": "text",
-         "text": "PK n-1 – oznacza planowane koszty nadzoru, o których mowa w art. 19a ust. 2 pkt 1 ustawy o nadzorze, ujęte w planie finansowym Urzędu Komisji Nadzoru Finansowego na poprzedni rok kalendarzowy, w części przypadającej na koszty nadzoru netto, WK n-1 – oznacza wykonane koszty nadzoru, o których mowa w art. 19a ust. 2 pkt 1 ustawy o nadzorze, ujęte w planie finansowym Urzędu Komisji Nadzoru Finansowego na poprzedni rok kalendarzowy, w części przypadającej na koszty nadzoru netto,"
+         "text": "PKn-1 – oznacza planowane koszty nadzoru, o których mowa w art. 19a ust. 2 pkt 1 ustawy o nadzorze, ujęte w planie finansowym Urzędu Komisji Nadzoru Finansowego na poprzedni rok kalendarzowy, w części przypadającej na koszty nadzoru netto, WKn-1 – oznacza wykonane koszty nadzoru, o których mowa w art. 19a ust. 2 pkt 1 ustawy o nadzorze, ujęte w planie finansowym Urzędu Komisji Nadzoru Finansowego na poprzedni rok kalendarzowy, w części przypadającej na koszty nadzoru netto,"
         },
         {
          "type": "text",
-         "text": "O Gn-1 – wartość opłat, o których mowa w § 19 ust. 3, wniesionych w poprzednim roku kalendarzowym w części przypadającej na daną grupę."
+         "text": "OGn-1 – wartość opłat, o których mowa w § 19 ust. 3, wniesionych w poprzednim roku kalendarzowym w części przypadającej na daną grupę."
         }
        ]
       },
@@ -2391,7 +2391,7 @@
   "21": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1685 i 1863 oraz z 2025 r. poz. 146, 222, 525, 769, 820, 1069, 1170, 1191 i 1216.",
   "22": "Przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 4.",
   "23": "Ze zmianą wprowadzoną przez § 1 pkt 8 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4.",
-  "24": "Przez § 1 pkt 8 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4. Gn P Gn−1",
+  "24": "Przez § 1 pkt 8 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4.",
   "25": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 17 grudnia 2019 r. w sprawie opłat na pokrycie kosztów nadzoru nad rynkiem kapitałowym (Dz. U. poz. 2486 oraz z 2021 r. poz. 2466), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 92 pkt 1 ustawy z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (Dz. U. poz. 1488, 2180 i 2640)."
  }
 }

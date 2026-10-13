@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/932",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 9 lipca 2025 r. w sprawie warunków organizowania oraz wymagań, jakie powinny spełniać miejsca doraźnego schronienia",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/932/text.pdf",
  "body": [
   {
@@ -457,7 +457,7 @@
        "type": "pkt",
        "num": "7",
        "path": "par_8/ust_1/pkt_7",
-       "text": "odwodnienia stosownie do warunków gruntowo -wodnych;",
+       "text": "odwodnienia stosownie do warunków gruntowo-wodnych;",
        "children": []
       },
       {
@@ -486,7 +486,7 @@
        "type": "pkt",
        "num": "2",
        "path": "par_8/ust_2/pkt_2",
-       "text": "co najmniej jedno pomieszczenie higieniczno- sanitarne, w którym na każde 75 osób pojemności mds zapewnia się co najmniej jedną umywalkę i miskę ustępową lub ustęp suchy nieskanalizowany, przy czym liczba ustępów suchych nieskanalizowanych w stosunku do misek ustępowych podłączonych do kanalizacji nie może być większa niż 3:1;",
+       "text": "co najmniej jedno pomieszczenie higieniczno-sanitarne, w którym na każde 75 osób pojemności mds zapewnia się co najmniej jedną umywalkę i miskę ustępową lub ustęp suchy nieskanalizowany, przy czym liczba ustępów suchych nieskanalizowanych w stosunku do misek ustępowych podłączonych do kanalizacji nie może być większa niż 3:1;",
        "children": []
       },
       {
@@ -762,7 +762,7 @@
      "type": "ust",
      "num": "2",
      "path": "par_14/ust_2",
-     "text": "W zależności od możliwości technicznych, ekonomicznych oraz dostępnych materiałów budowlanych wolnostojące mds wykonuje się z wykorzystaniem elementów prefabrykowanych dostępnych w powszechnej sprzedaży, w szczególności żelbetowych przepustów ramowych, rur kompozytowych dużych średnic, kręgów żelbetowych stosowanych przy budowie systemów wodno -kanalizacyjnych lub koszy gabionowych wypełnionych kamieniami.",
+     "text": "W zależności od możliwości technicznych, ekonomicznych oraz dostępnych materiałów budowlanych wolnostojące mds wykonuje się z wykorzystaniem elementów prefabrykowanych dostępnych w powszechnej sprzedaży, w szczególności żelbetowych przepustów ramowych, rur kompozytowych dużych średnic, kręgów żelbetowych stosowanych przy budowie systemów wodno-kanalizacyjnych lub koszy gabionowych wypełnionych kamieniami.",
      "children": []
     },
     {
@@ -887,12 +887,11 @@
    "num": "17",
    "path": "par_17",
    "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Spraw Wewnętrznych i Administracji: wz. W. Leśniakiewicz"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Spraw Wewnętrznych i Administracji: wz. W. Leśniakiewicz"
   }
  ],
  "annexes": [
@@ -913,14 +912,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_1/pkt_1",
-       "text": "zapewnia zachowanie stanu granicznego nośności we wszystkich elementach konstrukcyjnych przy odziaływaniu obliczeniowego obciążenia wyjątkowego A d o wartości co najmniej 10 kN/m² oraz",
+       "text": "zapewnia zachowanie stanu granicznego nośności we wszystkich elementach konstrukcyjnych przy odziaływaniu obliczeniowego obciążenia wyjątkowego Ad o wartości co najmniej 10 kN/m² oraz",
        "children": []
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "ust_1/pkt_2",
-       "text": "w przypadku usytuowania w strefie prognozowanego zagruzowania od budynku mającego więcej niż dwie kondygnacje nadziemne – zapewnia zachowanie stanu granicznego nośności we wszystkich elementach konstrukcyjnych przy odziaływaniu obciążenia wyjątkowego od zagruzowania o wartości A d wynoszącej:",
+       "text": "w przypadku usytuowania w strefie prognozowanego zagruzowania od budynku mającego więcej niż dwie kondygnacje nadziemne – zapewnia zachowanie stanu granicznego nośności we wszystkich elementach konstrukcyjnych przy odziaływaniu obciążenia wyjątkowego od zagruzowania o wartości Ad wynoszącej:",
        "children": [
         {
          "type": "lit",
@@ -1165,7 +1164,7 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Osłona przy oknie w ścianie zewnętrznej lub przy wejściu prowadzącym do mds bezpośrednio z zewnątrz jest wykonana w sposób zabezpieczający przed wnikaniem do wnętrza mds odłamków amunicji oraz ma grubość h co najmniej 25 cm, którą w zależności od rodzaju materiału lub konstrukcji oraz liczby warstw ochronnych oblicza się według E wzoru:",
+     "text": "Osłona przy oknie w ścianie zewnętrznej lub przy wejściu prowadzącym do mds bezpośrednio z zewnątrz jest wykonana w sposób zabezpieczający przed wnikaniem do wnętrza mds odłamków amunicji oraz ma grubość hE co najmniej 25 cm, którą w zależności od rodzaju materiału lub konstrukcji oraz liczby warstw ochronnych oblicza się według wzoru:",
      "children": [
       {
        "type": "text",
@@ -1173,11 +1172,11 @@
       },
       {
        "type": "text",
-       "text": "h i – grubość i-tej warstwy ochronnej o wartości minimalnej nie mniejszej niż h min ,"
+       "text": "hi – grubość i-tej warstwy ochronnej o wartości minimalnej nie mniejszej niż hmin,"
       },
       {
        "type": "text",
-       "text": "R x – współczynnik redukcyjny i-tej warstwy ochronnej."
+       "text": "Rx – współczynnik redukcyjny i-tej warstwy ochronnej."
       }
      ]
     },
@@ -1185,7 +1184,7 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Współczynniki redukcyjne R x oraz wartości minimalne grubości h min określa tabela:",
+     "text": "Współczynniki redukcyjne Rx oraz wartości minimalne grubości hmin określa tabela:",
      "children": [
       {
        "type": "text",
@@ -1213,7 +1212,7 @@
       },
       {
        "type": "text",
-       "text": "h – grubość i-tej warstwy ochronnej o wartości minimalnej nie mniejszej niż h ,"
+       "text": "hi – grubość i-tej warstwy ochronnej o wartości minimalnej nie mniejszej niż hmin, m"
       },
       {
        "type": "text",
@@ -1293,7 +1292,7 @@
      "type": "ust",
      "num": "5",
      "path": "ust_5",
-     "text": "Górna krawędź osłony przy oknie w ścianie zewnętrznej mds znajduje się nad górną krawędzią otworu okiennego w odległości od niej nie mniejszej niż grubość osłony h E , o której mowa w ust. 1.",
+     "text": "Górna krawędź osłony przy oknie w ścianie zewnętrznej mds znajduje się nad górną krawędzią otworu okiennego w odległości od niej nie mniejszej niż grubość osłony hE, o której mowa w ust. 1.",
      "children": [
       {
        "type": "note",
@@ -1417,6 +1416,6 @@
   }
  ],
  "footnotes": {
-  "1": "Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738). 1) i i min m o o"
+  "1": "Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738). 1) i o o"
  }
 }
