@@ -49,7 +49,7 @@ Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla ża
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-13 10:42 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-13 10:45 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -73,7 +73,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 91, razem 1856 z 203113
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 245.
 
 Rodzaje aktów: Obwieszczenie 4883, Rozporządzenie 1839, Ustawa 369, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
-Wersje konwertera: eli2md 0.6.52 (3861), eli2md 0.6.25 (2133), eli2md 0.6.53 (772), eli2md 0.6.56 (382), eli2md 0.6.25.2 (14), eli2md 0.6.54 (9), eli2md 0.6.57 (6).
+Wersje konwertera: eli2md 0.6.52 (3861), eli2md 0.6.25 (2132), eli2md 0.6.53 (772), eli2md 0.6.56 (382), eli2md 0.6.25.2 (14), eli2md 0.6.54 (9), eli2md 0.6.57 (7).
 <!-- stats:end -->
 
 ## Teksty jednolite
