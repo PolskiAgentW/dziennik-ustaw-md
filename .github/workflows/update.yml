@@ -62,7 +62,7 @@ jobs:
       # eli2md.dataset konwertuje tylko akty bez HTML. Teksty jednolite 2012–2024 mają w API także HTML, więc ich
       # metadane (daty, status, słowa kluczowe) po zmianie changeDate aktualizuje ten krok, bez przeliczania tekstu.
       - name: Metadane tekstów jednolitych z HTML
-        run: python .github/meta_sync.py --max 400
+        run: python .github/meta_sync.py --html-only --max 400
       - name: Statystyki w README
         run: python .github/stats.py
       - name: Commit

@@ -1,10 +1,11 @@
-"""Metadata of the acts in index.csv that have HTML in the API ELI (the t.j. of 2012–2024): `eli2md.dataset` converts
-only acts without HTML, so their dates, title, status and keywords would stay as at their conversion. For each such act
-whose changeDate in the API year list differs from index.csv: index.csv row fields from the list, in the .md the front
-matter keys from the API metadata and the "# title" line, in the .json the "title" line. The text is not converted
-again and the PDF is not downloaded (pdf_sha256, counts and converter stay those of the conversion).
+"""Metadata of the acts in index.csv brought up to date with the API ELI without converting the text again: for each act
+whose changeDate in the API year list differs from index.csv, the index.csv row fields from the list, in the .md the
+front matter keys from the API metadata and the "# title" line, in the .json the "title" line. The PDF is not
+downloaded (pdf_sha256, counts and converter stay those of the conversion). In dziennik-ustaw-md (--html-only) only the
+acts with HTML in the API, the t.j. of 2012–2024: `eli2md.dataset` converts the others again. In the 1918–2011
+datasets all acts: they have no conversion workflow, and the API corrects dates and titles of old acts (2026-10).
 
-    python .github/meta_sync.py [--max N]      (in the repo root; one request at a time, 1 s apart)
+    python .github/meta_sync.py [--html-only] [--max N]   (in the repo root; one request at a time, 1 s apart)
 """
 import json
 import sys
@@ -61,17 +62,19 @@ def update_files(md: Path, meta: dict) -> int:
 
 def main() -> int:
     limit = int(sys.argv[sys.argv.index("--max") + 1]) if "--max" in sys.argv else 400
+    html_only = "--html-only" in sys.argv
     root = Path(".")
     index = load_index(root)
+    pub = next(iter(index)).split("/")[0]
     todo = []
     for year in sorted({int(r["year"]) for r in index.values()}):
-        for it in json.loads(get(f"{API}/DU/{year}"))["items"]:
+        for it in json.loads(get(f"{API}/{pub}/{year}"))["items"]:
             row = index.get(it["ELI"])
-            if row and it.get("textHTML") and it.get("changeDate") != row["change_date"]:
+            if row and (it.get("textHTML") or not html_only) and it.get("changeDate") != row["change_date"]:
                 it["title"] = clean_title(it.get("title"))
                 todo.append(it)
         time.sleep(1)
-    print(f"acts with HTML whose changeDate changed: {len(todo)} (max {limit})", flush=True)
+    print(f"acts{' with HTML' if html_only else ''} whose changeDate changed: {len(todo)} (max {limit})", flush=True)
     files = 0
     for it in todo[:limit]:
         meta = json.loads(get(f"{API}/{it['ELI']}"))
@@ -79,7 +82,7 @@ def main() -> int:
         time.sleep(1)
         row = index[it["ELI"]]
         row.update(_base_row(it))
-        md = md_path(root, it["year"], it["pos"], "DU")
+        md = md_path(root, it["year"], it["pos"], pub)
         n = update_files(md, meta) if row["status"] == "ok" and md.exists() else 0
         files += n > 0
         print(f"{it['ELI']}: change_date {it['changeDate']}, {n} metadata values in .md", flush=True)
