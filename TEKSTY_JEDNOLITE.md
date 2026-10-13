@@ -139,7 +139,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o ochronie osób i mienia | [Dz.U. 2025 poz. 532](DU/2025/DU-2025-532.md) | 2025-04-24 | – |
 | o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym | [Dz.U. 2026 poz. 880](DU/2026/DU-2026-880.md) | 2026-07-01 | – |
 | o ochronie przeciwpożarowej | [Dz.U. 2025 poz. 188](DU/2025/DU-2025-188.md) | 2025-02-13 | – |
-| o ochronie przyrody | [Dz.U. 2026 poz. 13](DU/2026/DU-2026-13.md) | 2026-01-07 | – |
+| o ochronie przyrody | [Dz.U. 2026 poz. 1315](DU/2026/DU-2026-1315.md) | 2026-10-09 | [Dz.U. 2026 poz. 13](DU/2026/DU-2026-13.md) |
 | o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy | [Dz.U. 2026 poz. 186](DU/2026/DU-2026-186.md) | 2026-02-18 | [Dz.U. 2025 poz. 433](DU/2025/DU-2025-433.md) |
 | o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych | [Dz.U. 2026 poz. 1214](DU/2026/DU-2026-1214.md) | 2026-09-16 | – |
 | o odnawialnych źródłach energii | [Dz.U. 2026 poz. 68](DU/2026/DU-2026-68.md) | 2026-01-22 | – |
@@ -184,7 +184,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o pomocy państwa w wychowywaniu dzieci | [Dz.U. 2026 poz. 508](DU/2026/DU-2026-508.md) | 2026-04-13 | – |
 | o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy | [Dz.U. 2026 poz. 96](DU/2026/DU-2026-96.md) | 2026-01-28 | – |
 | o pomocy społecznej | [Dz.U. 2026 poz. 639](DU/2026/DU-2026-639.md) | 2026-05-13 | [Dz.U. 2025 poz. 1214](DU/2025/DU-2025-1214.md) |
-| o postępowaniu egzekucyjnym w administracji | [Dz.U. 2026 poz. 268](DU/2026/DU-2026-268.md) | 2026-03-04 | [Dz.U. 2025 poz. 132](DU/2025/DU-2025-132.md) |
+| o postępowaniu egzekucyjnym w administracji | [Dz.U. 2026 poz. 1311](DU/2026/DU-2026-1311.md) | 2026-10-09 | [Dz.U. 2026 poz. 268](DU/2026/DU-2026-268.md), [Dz.U. 2025 poz. 132](DU/2025/DU-2025-132.md) |
 | o postępowaniu kompensacyjnym w podmiotach o szczególnym znaczeniu dla polskiego przemysłu stoczniowego | [Dz.U. 2025 poz. 1776](DU/2025/DU-2025-1776.md) | 2025-12-15 | – |
 | o postępowaniu w sprawach dotyczących pomocy publicznej | [Dz.U. 2026 poz. 500](DU/2026/DU-2026-500.md) | 2026-04-10 | [Dz.U. 2025 poz. 468](DU/2025/DU-2025-468.md) |
 | o pracowniczych planach kapitałowych | [Dz.U. 2026 poz. 192](DU/2026/DU-2026-192.md) | 2026-02-19 | – |
@@ -344,7 +344,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o zasadach pozyskiwania informacji o niekaralności osób ubiegających się o zatrudnienie i osób zatrudnionych w podmiotach sektora finansowego | [Dz.U. 2025 poz. 566](DU/2025/DU-2025-566.md) | 2025-04-29 | – |
 | o zasadach prowadzenia polityki rozwoju | [Dz.U. 2025 poz. 198](DU/2025/DU-2025-198.md) | 2025-02-14 | – |
 | o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021-2027 | [Dz.U. 2025 poz. 1733](DU/2025/DU-2025-1733.md) | 2025-12-09 | – |
-| o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej | [Dz.U. 2025 poz. 89](DU/2025/DU-2025-89.md) | 2025-01-23 | – |
+| o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej | [Dz.U. 2026 poz. 1313](DU/2026/DU-2026-1313.md) | 2026-10-09 | [Dz.U. 2025 poz. 89](DU/2025/DU-2025-89.md) |
 | o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej | [Dz.U. 2026 poz. 166](DU/2026/DU-2026-166.md) | 2026-02-13 | – |
 | o zasadach zarządzania mieniem państwowym | [Dz.U. 2026 poz. 373](DU/2026/DU-2026-373.md) | 2026-03-19 | – |
 | o zatrudnianiu pracowników tymczasowych | [Dz.U. 2025 poz. 236](DU/2025/DU-2025-236.md) | 2025-02-26 | – |
@@ -410,7 +410,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
-## Rozporządzenia (492)
+## Rozporządzenia (493)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -846,6 +846,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Zdrowia w sprawie środków odurzających, substancji psychotropowych, prekursorów kategorii 1 i preparatów zawierających te środki lub substancje | [Dz.U. 2025 poz. 1678](DU/2025/DU-2025-1678.md) | 2025-12-02 | – |
 | Ministra Zdrowia w sprawie świadczeń gwarantowanych z zakresu leczenia stomatologicznego | [Dz.U. 2025 poz. 615](DU/2025/DU-2025-615.md) | 2025-05-09 | – |
 | Ministra Zdrowia w sprawie świadczeń gwarantowanych z zakresu opieki psychiatrycznej i leczenia uzależnień | [Dz.U. 2026 poz. 383](DU/2026/DU-2026-383.md) | 2026-03-20 | – |
+| Ministra Zdrowia w sprawie świadczeń gwarantowanych z zakresu programów zdrowotnych | [Dz.U. 2026 poz. 1310](DU/2026/DU-2026-1310.md) | 2026-10-09 | – |
 | Ministra Zdrowia w sprawie świadczeń gwarantowanych z zakresu świadczeń pielęgnacyjnych i opiekuńczych w ramach opieki długoterminowej | [Dz.U. 2026 poz. 250](DU/2026/DU-2026-250.md) | 2026-03-02 | – |
 | Ministra Zdrowia w sprawie świadczeń gwarantowanych z zakresu świadczeń wysokospecjalistycznych oraz warunków ich realizacji | [Dz.U. 2025 poz. 451](DU/2025/DU-2025-451.md) | 2025-04-08 | – |
 | Ministra Środowiska w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Gdańsku | [Dz.U. 2025 poz. 989](DU/2025/DU-2025-989.md) | 2025-07-24 | – |

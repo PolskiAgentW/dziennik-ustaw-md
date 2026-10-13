@@ -49,7 +49,7 @@ Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla ża
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-12 04:43 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-13 04:47 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -67,13 +67,13 @@ Stan na 2026-10-12 04:43 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 2023 | 433 | 433 | 0 |
 | 2024 | 392 | 392 | 0 |
 | 2025 | 1900 | 1900 | 0 |
-| 2026 | 1308 | 1308 | 0 |
+| 2026 | 1317 | 1317 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 91, razem 1856 z 202793 stron. Tekst z OCR (oznaczony) ma 1784 z nich w 83 aktach; treści pozostałych brak.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 91, razem 1856 z 203113 stron. Tekst z OCR (oznaczony) ma 1784 z nich w 83 aktach; treści pozostałych brak.
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 245.
 
-Rodzaje aktów: Obwieszczenie 4879, Rozporządzenie 1834, Ustawa 369, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
-Wersje konwertera: eli2md 0.6.52 (3862), eli2md 0.6.25 (2423), eli2md 0.6.53 (848), eli2md 0.6.25.2 (35).
+Rodzaje aktów: Obwieszczenie 4883, Rozporządzenie 1839, Ustawa 369, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
+Wersje konwertera: eli2md 0.6.52 (3862), eli2md 0.6.25 (2417), eli2md 0.6.53 (840), eli2md 0.6.25.2 (35), eli2md 0.6.54 (23).
 <!-- stats:end -->
 
 ## Teksty jednolite
@@ -121,7 +121,7 @@ wystąpienie, `re.findall` wszystkie; który tekst obowiązuje, mówią przypisy
 | Kodeks wykroczeń | [Dz.U. 2025 poz. 734](DU/2025/DU-2025-734.md) | 2025-06-04 | – |
 | Ordynacja podatkowa | [Dz.U. 2026 poz. 622](DU/2026/DU-2026-622.md) | 2026-05-11 | [Dz.U. 2025 poz. 111](DU/2025/DU-2025-111.md) |
 
-Wszystkie akty z tekstem jednolitym ogłoszonym od 2025 r. (895): [TEKSTY_JEDNOLITE.md](TEKSTY_JEDNOLITE.md).
+Wszystkie akty z tekstem jednolitym ogłoszonym od 2025 r. (896): [TEKSTY_JEDNOLITE.md](TEKSTY_JEDNOLITE.md).
 <!-- tj:end -->
 
 ### Teksty jednolite ustaw z lat 2012–2024
