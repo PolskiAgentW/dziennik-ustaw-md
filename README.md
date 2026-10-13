@@ -49,7 +49,7 @@ Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla ża
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-13 09:17 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-13 10:42 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -73,7 +73,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 91, razem 1856 z 203113
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 245.
 
 Rodzaje aktów: Obwieszczenie 4883, Rozporządzenie 1839, Ustawa 369, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
-Wersje konwertera: eli2md 0.6.52 (3862), eli2md 0.6.25 (2133), eli2md 0.6.53 (772), eli2md 0.6.56 (387), eli2md 0.6.25.2 (14), eli2md 0.6.54 (9).
+Wersje konwertera: eli2md 0.6.52 (3861), eli2md 0.6.25 (2133), eli2md 0.6.53 (772), eli2md 0.6.56 (382), eli2md 0.6.25.2 (14), eli2md 0.6.54 (9), eli2md 0.6.57 (6).
 <!-- stats:end -->
 
 ## Teksty jednolite
@@ -233,6 +233,14 @@ w artykułach dodanych później (1 182) ani błędów wspólnych z warstwą tek
 - przypis z etykietą rzymską w zwykłym druku („I) Odnośnik dodany przez…”) dokleja się do poprzedniego przypisu;
 - indeks dolny z literą lub kropką ginął: „kategorii T , T , T” zamiast „T1b, T2b, T3b” (DU/2025/1490 art. 54);
   od eli2md 0.6.53 (2026-10-11) „kategorii T1b, T2b, T3b, T4.1b, T4.2b, T4.3b i T₅”.
+
+Zmiana 2026-10-13 (eli2md 0.6.57, 6 aktów): tytuł bez tego, co API ELI dopisuje po tabulatorze (np. DU/2023/544:
+„…Prawosławnego⇥2023-03-23⇥Pobierz dokument D2023000054401.pdf”, DU/2025/1028: „…służby⇥2025”). Dotyczy `title`
+we front matter, linii `# tytuł`, `title` w `.json` i w `index.csv` w DU/2023/544, DU/2025/471, 959, 1028, DU/2026/202
+i 564; tekst bez zmian (A/B 0.6.56 → 0.6.57). Od tej zmiany codzienna aktualizacja używa eli2md 0.6.57. Tego samego dnia
+metadane 4 tekstów jednolitych (DU/2019/1079, DU/2021/994, DU/2022/470, DU/2024/1251) uzgodnione z API (słowa
+kluczowe w 3, `change_date` w 4), bez przeliczania tekstu. Teksty jednolite z lat 2012–2024 mają w API także HTML,
+więc codzienna aktualizacja ich nie obejmuje.
 
 Zmiana 2026-10-13 (eli2md 0.6.56, 267 aktów): podpis pod aktem. W tych aktach podpis był zwykłym akapitem `.md`,
 a w `.json` tekstem ostatniej jednostki (w 257, np. dzieckiem § 43 w DU/2026/1316) albo tekstem na najwyższym poziomie.
