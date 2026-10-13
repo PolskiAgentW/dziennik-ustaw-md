@@ -240,7 +240,7 @@ we front matter, linii `# tytuł`, `title` w `.json` i w `index.csv` w DU/2023/5
 i 564; tekst bez zmian (A/B 0.6.56 → 0.6.57). Od tej zmiany codzienna aktualizacja używa eli2md 0.6.57. Tego samego dnia
 metadane 4 tekstów jednolitych (DU/2019/1079, DU/2021/994, DU/2022/470, DU/2024/1251) uzgodnione z API (słowa
 kluczowe w 3, `change_date` w 4), bez przeliczania tekstu. Teksty jednolite z lat 2012–2024 mają w API także HTML,
-więc codzienna aktualizacja ich nie obejmuje.
+więc codzienna aktualizacja ich nie przelicza; od tego dnia uzgadnia z API tylko ich metadane (MAINTENANCE.md).
 
 Zmiana 2026-10-13 (eli2md 0.6.56, 267 aktów): podpis pod aktem. W tych aktach podpis był zwykłym akapitem `.md`,
 a w `.json` tekstem ostatniej jednostki (w 257, np. dzieckiem § 43 w DU/2026/1316) albo tekstem na najwyższym poziomie.

@@ -7,7 +7,11 @@ Stan na 2026-10-05.
 
 - `.github/workflows/update.yml` („Aktualizacja”): codziennie o 04:23 UTC i zapasowo o 10:17 UTC (tylko gdy tego dnia
   nie było udanej aktualizacji) pobiera z API ELI listę aktów Dziennika Ustaw od 2012 r., konwertuje akty, które mają tylko
-  tekst PDF (bez HTML): nowe oraz te, którym zmienił się `changeDate` (eli2md, OCR tesseract), aktualizuje statystyki w README i commituje wynik.
+  tekst PDF (bez HTML): nowe oraz te, którym zmienił się `changeDate` (eli2md, OCR tesseract). Teksty jednolite
+  z lat 2012–2024 (mają w API także HTML) nie są przeliczane: krok „Metadane tekstów jednolitych z HTML”
+  (`.github/meta_sync.py`, od 2026-10-13) przy zmianie `changeDate` przepisuje tylko ich metadane (wiersz `index.csv`,
+  front matter, linia `# tytuł`, `title` w `.json`), najwyżej 400 aktów na run. Potem aktualizuje statystyki w README
+  i commituje wynik.
   Kończy się błędem, jeśli najnowszy akt w `index.csv` ogłoszono ponad 10 dni temu (zielony run bez nowych aktów
   wygląda jak zdrowy).
 - `.github/workflows/export.yml` („Eksport”): po każdej aktualizacji buduje plik z całym zbiorem (wydanie „dane” na GitHubie,
