@@ -410,7 +410,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
-## Rozporządzenia (493)
+## Rozporządzenia (494)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -891,6 +891,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Rady Ministrów w sprawie szczegółowego sposobu gospodarowania składnikami rzeczowymi majątku ruchomego Skarbu Państwa | [Dz.U. 2025 poz. 228](DU/2025/DU-2025-228.md) | 2025-02-25 | – |
 | Rady Ministrów w sprawie szczegółowego sposobu prowadzenia gospodarki finansowej Państwowego Gospodarstwa Wodnego Wody Polskie | [Dz.U. 2025 poz. 980](DU/2025/DU-2025-980.md) | 2025-07-24 | – |
 | Rady Ministrów w sprawie szczegółowego zakresu działania Ministra Obrony Narodowej | [Dz.U. 2026 poz. 531](DU/2026/DU-2026-531.md) | 2026-04-17 | – |
+| Rady Ministrów w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na zalesianie gruntów rolnych objętej planem rozwoju obszarów wiejskich | [Dz.U. 2026 poz. 1321](DU/2026/DU-2026-1321.md) | 2026-10-12 | – |
 | Rady Ministrów w sprawie ustalania tożsamości osoby legitymowanej przez funkcjonariusza Służby Ochrony Państwa | [Dz.U. 2026 poz. 18](DU/2026/DU-2026-18.md) | 2026-01-09 | – |
 | Rady Ministrów w sprawie ustalenia mapy pomocy regionalnej na lata 2022-2027 | [Dz.U. 2026 poz. 1117](DU/2026/DU-2026-1117.md) | 2026-08-24 | – |
 | Rady Ministrów w sprawie ustanowienia odznaki honorowej "Za Zasługi dla Turystyki", ustalenia jej wzoru, zasad i trybu nadawania oraz sposobu noszenia | [Dz.U. 2025 poz. 291](DU/2025/DU-2025-291.md) | 2025-03-11 | – |

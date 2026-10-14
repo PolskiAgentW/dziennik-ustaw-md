@@ -49,7 +49,7 @@ Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla ża
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-13 10:50 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-14 05:00 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -67,13 +67,13 @@ Stan na 2026-10-13 10:50 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 2023 | 433 | 433 | 0 |
 | 2024 | 392 | 392 | 0 |
 | 2025 | 1900 | 1900 | 0 |
-| 2026 | 1317 | 1317 | 0 |
+| 2026 | 1321 | 1321 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 91, razem 1856 z 203113 stron. Tekst z OCR (oznaczony) ma 1784 z nich w 83 aktach; treści pozostałych brak.
-Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 245.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 92, razem 1865 z 203153 stron. Tekst z OCR (oznaczony) ma 1793 z nich w 84 aktach; treści pozostałych brak.
+Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 246.
 
-Rodzaje aktów: Obwieszczenie 4883, Rozporządzenie 1839, Ustawa 369, Oświadczenie rządowe 42, Umowa międzynarodowa 35, Komunikat 4, Postanowienie 3, Uchwała 2.
-Wersje konwertera: eli2md 0.6.52 (3861), eli2md 0.6.25 (2132), eli2md 0.6.53 (772), eli2md 0.6.56 (382), eli2md 0.6.25.2 (14), eli2md 0.6.54 (9), eli2md 0.6.57 (7).
+Rodzaje aktów: Obwieszczenie 4884, Rozporządzenie 1840, Ustawa 369, Oświadczenie rządowe 43, Umowa międzynarodowa 36, Komunikat 4, Postanowienie 3, Uchwała 2.
+Wersje konwertera: eli2md 0.6.52 (3861), eli2md 0.6.25 (2132), eli2md 0.6.53 (772), eli2md 0.6.56 (381), eli2md 0.6.57 (18), eli2md 0.6.25.2 (11), eli2md 0.6.54 (6).
 <!-- stats:end -->
 
 ## Teksty jednolite
@@ -121,7 +121,7 @@ wystąpienie, `re.findall` wszystkie; który tekst obowiązuje, mówią przypisy
 | Kodeks wykroczeń | [Dz.U. 2025 poz. 734](DU/2025/DU-2025-734.md) | 2025-06-04 | – |
 | Ordynacja podatkowa | [Dz.U. 2026 poz. 622](DU/2026/DU-2026-622.md) | 2026-05-11 | [Dz.U. 2025 poz. 111](DU/2025/DU-2025-111.md) |
 
-Wszystkie akty z tekstem jednolitym ogłoszonym od 2025 r. (896): [TEKSTY_JEDNOLITE.md](TEKSTY_JEDNOLITE.md).
+Wszystkie akty z tekstem jednolitym ogłoszonym od 2025 r. (897): [TEKSTY_JEDNOLITE.md](TEKSTY_JEDNOLITE.md).
 <!-- tj:end -->
 
 ### Teksty jednolite ustaw z lat 2012–2024
