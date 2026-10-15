@@ -288,7 +288,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o Służbie Więziennej | [Dz.U. 2025 poz. 1750](DU/2025/DU-2025-1750.md) | 2025-12-10 | – |
 | o służbie zagranicznej | [Dz.U. 2026 poz. 788](DU/2026/DU-2026-788.md) | 2026-06-16 | – |
 | o transporcie drogowym | [Dz.U. 2025 poz. 1490](DU/2025/DU-2025-1490.md) | 2025-10-29 | – |
-| o transporcie kolejowym | [Dz.U. 2025 poz. 1234](DU/2025/DU-2025-1234.md) | 2025-09-11 | – |
+| o transporcie kolejowym | [Dz.U. 2026 poz. 1324](DU/2026/DU-2026-1324.md) | 2026-10-13 | [Dz.U. 2025 poz. 1234](DU/2025/DU-2025-1234.md) |
 | o ubezpieczeniach gwarantowanych przez Skarb Państwa | [Dz.U. 2026 poz. 146](DU/2026/DU-2026-146.md) | 2026-02-09 | – |
 | o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych | [Dz.U. 2026 poz. 783](DU/2026/DU-2026-783.md) | 2026-06-15 | [Dz.U. 2025 poz. 367](DU/2025/DU-2025-367.md) |
 | o ubezpieczeniach upraw rolnych i zwierząt gospodarskich | [Dz.U. 2025 poz. 251](DU/2025/DU-2025-251.md) | 2025-02-28 | – |
@@ -410,7 +410,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
-## Rozporządzenia (494)
+## Rozporządzenia (495)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -647,6 +647,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy technicznej w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 | [Dz.U. 2026 poz. 1186](DU/2026/DU-2026-1186.md) | 2026-09-08 | – |
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania "Wsparcie na inwestycje zwiększające odporność ekosystemów leśnych i ich wartość dla środowiska" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020 | [Dz.U. 2025 poz. 763](DU/2025/DU-2025-763.md) | 2025-06-10 | – |
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania "Wsparcie na wdrażanie operacji w ramach strategii rozwoju lokalnego kierowanego przez społeczność" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020 | [Dz.U. 2026 poz. 782](DU/2026/DU-2026-782.md) | 2026-06-15 | [Dz.U. 2025 poz. 16](DU/2025/DU-2025-16.md) |
+| Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej w ramach działania "Tworzenie grup producentów i organizacji producentów" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020 | [Dz.U. 2026 poz. 1322](DU/2026/DU-2026-1322.md) | 2026-10-13 | – |
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej w ramach poddziałania "Płatności na rzecz rolników kwalifikujących się do systemu dla małych gospodarstw, którzy trwale przekazali swoje gospodarstwo innemu rolnikowi" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020 | [Dz.U. 2025 poz. 1215](DU/2025/DU-2025-1215.md) | 2025-09-03 | – |
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych warunków uznawania gruntów za kwalifikujące się hektary | [Dz.U. 2025 poz. 757](DU/2025/DU-2025-757.md) | 2025-06-10 | – |
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie uznawania miejsc produkcji za wolne od bakterii Clavibacter sepedonicus | [Dz.U. 2025 poz. 1784](DU/2025/DU-2025-1784.md) | 2025-12-15 | – |
