@@ -1,7 +1,7 @@
 {
  "eli": "DU/2020/2052",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 8 października 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo geodezyjne i kartograficzne",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.58",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2020/2052/text.pdf",
  "body": [
   {
@@ -8781,63 +8781,79 @@
     {
      "type": "heading",
      "label": "Rozdział 9",
-     "text": "Przepisy karne i kary pieniężne Art. 48. 1. Kto:"
+     "text": "Przepisy karne i kary pieniężne"
     },
     {
-     "type": "pkt",
-     "num": "1",
-     "path": "pkt_1",
-     "text": "[^111] wbrew przepisom art. 12 ust. 1 nie zgłasza prac geodezyjnych do organu Służby Geodezyjnej i Kartograficznej lub wbrew przepisom art. 12a nie przekazuje do organu Służby Geodezyjnej i Kartograficznej wyników zgłoszonych prac geodezyjnych,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "pkt_2",
-     "text": "wbrew przepisom art. 13 ust. 1 pkt 1 utrudnia lub uniemożliwia osobie wykonującej prace geodezyjne i kartograficzne wejście na grunt lub do obiektu budowlanego i dokonanie niezbędnych czynności związanych z wykonywaną pracą,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "pkt_3",
-     "text": "wbrew przepisom art. 15 niszczy, uszkadza, przemieszcza znaki geodezyjne, grawimetryczne lub magnetyczne i urządzenia zabezpieczające te znaki oraz budowle triangulacyjne, a także nie zawiadamia właściwych organów o zniszczeniu, uszkodzeniu lub przemieszczeniu znaków geodezyjnych, grawimetrycznych lub magnetycznych, urządzeń zabezpieczających te znaki oraz budowli triangulacyjnych,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "4",
-     "path": "pkt_4",
-     "text": "(uchylony)",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "5",
-     "path": "pkt_5",
-     "text": "wbrew przepisom art. 22 ust. 2, będąc obowiązany do zgłoszenia zmian danych objętych ewidencją gruntów i budynków, nie zgłosi ich do właściwego organu w ciągu 30 dni od dnia powstania zmian,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "6",
-     "path": "pkt_6",
-     "text": "(uchylony)",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "7",
-     "path": "pkt_7",
-     "text": "wbrew przepisom art. 42 bez wymaganych uprawnień zawodowych wykonuje samodzielne funkcje w dziedzinie geodezji i kartografii – podlega karze grzywny.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "W wypadkach określonych w ust. 1 orzekanie następuje na podstawie przepisów o postępowaniu w sprawach o wykroczenia.",
-     "children": []
+     "type": "art",
+     "num": "48",
+     "path": "art_48",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_48/ust_1",
+       "text": "Kto:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_48/ust_1/pkt_1",
+         "text": "[^111] wbrew przepisom art. 12 ust. 1 nie zgłasza prac geodezyjnych do organu Służby Geodezyjnej i Kartograficznej lub wbrew przepisom art. 12a nie przekazuje do organu Służby Geodezyjnej i Kartograficznej wyników zgłoszonych prac geodezyjnych,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_48/ust_1/pkt_2",
+         "text": "wbrew przepisom art. 13 ust. 1 pkt 1 utrudnia lub uniemożliwia osobie wykonującej prace geodezyjne i kartograficzne wejście na grunt lub do obiektu budowlanego i dokonanie niezbędnych czynności związanych z wykonywaną pracą,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_48/ust_1/pkt_3",
+         "text": "wbrew przepisom art. 15 niszczy, uszkadza, przemieszcza znaki geodezyjne, grawimetryczne lub magnetyczne i urządzenia zabezpieczające te znaki oraz budowle triangulacyjne, a także nie zawiadamia właściwych organów o zniszczeniu, uszkodzeniu lub przemieszczeniu znaków geodezyjnych, grawimetrycznych lub magnetycznych, urządzeń zabezpieczających te znaki oraz budowli triangulacyjnych,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "art_48/ust_1/pkt_4",
+         "text": "(uchylony)",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "art_48/ust_1/pkt_5",
+         "text": "wbrew przepisom art. 22 ust. 2, będąc obowiązany do zgłoszenia zmian danych objętych ewidencją gruntów i budynków, nie zgłosi ich do właściwego organu w ciągu 30 dni od dnia powstania zmian,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "art_48/ust_1/pkt_6",
+         "text": "(uchylony)",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "art_48/ust_1/pkt_7",
+         "text": "wbrew przepisom art. 42 bez wymaganych uprawnień zawodowych wykonuje samodzielne funkcje w dziedzinie geodezji i kartografii – podlega karze grzywny.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_48/ust_2",
+       "text": "W wypadkach określonych w ust. 1 orzekanie następuje na podstawie przepisów o postępowaniu w sprawach o wykroczenia.",
+       "children": []
+      }
+     ]
     },
     {
      "type": "art",

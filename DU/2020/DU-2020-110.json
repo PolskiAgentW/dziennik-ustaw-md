@@ -1,7 +1,7 @@
 {
  "eli": "DU/2020/110",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 grudnia 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo o ruchu drogowym",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.58",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2020/110/text.pdf",
  "body": [
   {
@@ -4214,14 +4214,29 @@
     {
      "type": "heading",
      "label": "Rozdział 4",
-     "text": "Ruch zwierząt Art. 35. 1. Jazda wierzchem i pędzenie zwierząt powinny się odbywać po drodze przeznaczonej do pędzenia zwierząt. W razie braku takiej drogi jazda wierzchem i pędzenie zwierząt mogą odbywać się po poboczu, a jeżeli brak jest pobocza – po jezdni."
+     "text": "Ruch zwierząt"
     },
     {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Do jazdy wierzchem i pędzenia zwierząt stosuje się odpowiednio przepisy art. 34 ust. 1 i 2 oraz przepisy o ruchu pojazdów.",
-     "children": []
+     "type": "art",
+     "num": "35",
+     "path": "art_35",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_35/ust_1",
+       "text": "Jazda wierzchem i pędzenie zwierząt powinny się odbywać po drodze przeznaczonej do pędzenia zwierząt. W razie braku takiej drogi jazda wierzchem i pędzenie zwierząt mogą odbywać się po poboczu, a jeżeli brak jest pobocza – po jezdni.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_35/ust_2",
+       "text": "Do jazdy wierzchem i pędzenia zwierząt stosuje się odpowiednio przepisy art. 34 ust. 1 i 2 oraz przepisy o ruchu pojazdów.",
+       "children": []
+      }
+     ]
     },
     {
      "type": "art",
@@ -7215,7 +7230,7 @@
        "children": [
         {
          "type": "text",
-         "text": "O = p + (n – 1) × 0,7 × p ,"
+         "text": "On = pj + (n – 1) × 0,7 × pj,"
         },
         {
          "type": "text",
@@ -7225,7 +7240,7 @@
          "type": "tir",
          "num": "1",
          "path": "art_64d/ust_11/tir_1",
-         "text": "O n – wysokość opłaty za wydanie zezwolenia,",
+         "text": "On – wysokość opłaty za wydanie zezwolenia,",
          "children": []
         },
         {
@@ -7239,7 +7254,7 @@
          "type": "tir",
          "num": "3",
          "path": "art_64d/ust_11/tir_3",
-         "text": "p j – stawkę opłaty za wydanie zezwolenia na jednokrotny przejazd pojazdu nienormatywnego.",
+         "text": "pj – stawkę opłaty za wydanie zezwolenia na jednokrotny przejazd pojazdu nienormatywnego.",
          "children": []
         }
        ]
@@ -9437,7 +9452,7 @@
            "type": "lit",
            "num": "c",
            "path": "art_70d/ust_6/pkt_1/lit_c",
-           "text": "świadectwo homologacji typu pojazdu, w odniesieniu do pojazdów kategorii T , T , T , C, R, 4.1 4.2 5",
+           "text": "świadectwo homologacji typu pojazdu, w odniesieniu do pojazdów kategorii T4.1, T4.2, T₅, C, R,",
            "children": []
           },
           {
@@ -27700,7 +27715,7 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_5/pkt_4",
-       "text": "kategoria T₄: ciągniki kołowe specjalnej konstrukcji o maksymalnej prędkości konstrukcyjnej nieprzekraczającej 40 km/h, w ramach której ze względu na prześwit i szerokość wyróżnia się kategorie T , T , oraz T ; 4.1 4.2 4.3",
+       "text": "kategoria T₄: ciągniki kołowe specjalnej konstrukcji o maksymalnej prędkości konstrukcyjnej nieprzekraczającej 40 km/h, w ramach której ze względu na prześwit i szerokość wyróżnia się kategorie T4.1, T4.2, oraz T4.3;",
        "children": []
       },
       {
@@ -27716,7 +27731,7 @@
      "type": "ust",
      "num": "6",
      "path": "ust_6",
-     "text": "Kategoria C: ciągniki gąsienicowe, w tym ciągniki kategorii C₁, C₂, C₃, C₄, C₅ – według kryteriów podziału jak dla kategorii T. W ramach kategorii C wyróżnia się kategorie C , C , oraz C 4 4.1 4.2 4.3 według podziału jak dla kategorii T , T , oraz T . 4.1 4.2 4.3",
+     "text": "Kategoria C: ciągniki gąsienicowe, w tym ciągniki kategorii C₁, C₂, C₃, C₄, C₅ – według kryteriów podziału jak dla kategorii T. W ramach kategorii C₄ wyróżnia się kategorie C4.1, C4.2, oraz C4.3 według podziału jak dla kategorii T4.1, T4.2, oraz T4.3.",
      "children": []
     },
     {
@@ -27793,7 +27808,7 @@
   "13": "W brzmieniu ustalonym przez art. 1 pkt 2 lit. a ustawy, o której mowa w odnośniku 10.",
   "14": "Dodany przez art. 1 pkt 2 lit. b ustawy, o której mowa w odnośniku 10.",
   "15": "Dodany przez art. 1 pkt 3 lit. a ustawy, o której mowa w odnośniku 12.",
-  "16": "Dodany przez art. 1 pkt 3 lit. b ustawy, o której mowa w odnośniku 12. n j j",
+  "16": "Dodany przez art. 1 pkt 3 lit. b ustawy, o której mowa w odnośniku 12.",
   "17": "Dodany przez art. 55 pkt 2 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. poz. 317 i 1356), która weszła w życie z dniem 22 lutego 2018 r.; wejdzie w życie z dniem 1 stycznia 2020 r.",
   "18": "W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 19.",
   "19": "W brzmieniu ustalonym przez art. 4 pkt 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach oraz niektórych innych ustaw (Dz. U. poz. 1579), która weszła w życie z dniem 6 września 2019 r.; wejdzie w życie z dniem 1 stycznia 2020 r.",

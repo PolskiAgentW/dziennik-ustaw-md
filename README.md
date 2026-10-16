@@ -234,6 +234,15 @@ w artykułach dodanych później (1 182) ani błędów wspólnych z warstwą tek
 - indeks dolny z literą lub kropką ginął: „kategorii T , T , T” zamiast „T1b, T2b, T3b” (DU/2025/1490 art. 54);
   od eli2md 0.6.53 (2026-10-11) „kategorii T1b, T2b, T3b, T4.1b, T4.2b, T4.3b i T₅”.
 
+Zmiana 2026-10-16 (eli2md 0.6.58, 7 aktów): artykuł złożony w PDF ciasno pod nagłówkiem rozdziału był w tekście tego
+nagłówka, np. DU/2025/960: „Rozdział 1 Zmiany w przepisach Art. 480–524. (pominięte)”, DU/2020/105: „Rozdział 21
+Nadzór nad działalnością funduszy emerytalnych Art. 199. (uchylony) Art. 200. 1. (uchylony) 2. …”. Teraz te artykuły
+są osobnymi jednostkami w `.md` i w drzewie `.json`. Dotyczy DU/2020/105, 110, 276, 2052, DU/2021/1990, DU/2022/2378
+i DU/2025/960 (A/B 0.6.57 → 0.6.58: tekst bez zmian, opis w README eli2md). Sześć z nich to teksty jednolite z lat
+2020–2022, dotąd z eli2md 0.6.52; w pięciu tekst jest taki sam jak w opublikowanym pliku. W DU/2020/110 dochodzi poprawka
+indeksów dolnych z 0.6.53: „kategorii T , T , T , C, R, 4.1 4.2 5” → „kategorii T4.1, T4.2, T₅, C, R”, „O = p + …” →
+„On = pj + …”. Od tej zmiany codzienna aktualizacja używa eli2md 0.6.58.
+
 Zmiana 2026-10-13 (eli2md 0.6.57, 6 aktów): tytuł bez tego, co API ELI dopisuje po tabulatorze (np. DU/2023/544:
 „…Prawosławnego⇥2023-03-23⇥Pobierz dokument D2023000054401.pdf”, DU/2025/1028: „…służby⇥2025”). Dotyczy `title`
 we front matter, linii `# tytuł`, `title` w `.json` i w `index.csv` w DU/2023/544, DU/2025/471, 959, 1028, DU/2026/202
