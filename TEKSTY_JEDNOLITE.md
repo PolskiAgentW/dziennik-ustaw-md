@@ -2,7 +2,7 @@
 
 Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odświeżane automatycznie). Nazwa aktu pochodzi z tytułu obwieszczenia. Tekst jednolity podaje stan prawny na dzień wskazany w obwieszczeniu; zmian ogłoszonych później w nim nie ma. Teksty nieoficjalne, wiążący jest PDF.
 
-## Ustawy (403)
+## Ustawy (404)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -143,6 +143,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy | [Dz.U. 2026 poz. 186](DU/2026/DU-2026-186.md) | 2026-02-18 | [Dz.U. 2025 poz. 433](DU/2025/DU-2025-433.md) |
 | o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych | [Dz.U. 2026 poz. 1214](DU/2026/DU-2026-1214.md) | 2026-09-16 | – |
 | o odnawialnych źródłach energii | [Dz.U. 2026 poz. 68](DU/2026/DU-2026-68.md) | 2026-01-22 | – |
+| o odpadach | [Dz.U. 2026 poz. 1328](DU/2026/DU-2026-1328.md) | 2026-10-14 | – |
 | o odpowiedzialności majątkowej funkcjonariuszy publicznych za rażące naruszenie prawa | [Dz.U. 2025 poz. 1443](DU/2025/DU-2025-1443.md) | 2025-10-22 | – |
 | o odpowiedzialności za naruszenie dyscypliny finansów publicznych | [Dz.U. 2025 poz. 1484](DU/2025/DU-2025-1484.md) | 2025-10-28 | – |
 | o odwróconym kredycie hipotecznym | [Dz.U. 2025 poz. 573](DU/2025/DU-2025-573.md) | 2025-04-30 | – |
@@ -406,7 +407,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo restrukturyzacyjne | [Dz.U. 2026 poz. 533](DU/2026/DU-2026-533.md) | 2026-04-17 | – |
 | – Prawo spółdzielcze | [Dz.U. 2026 poz. 521](DU/2026/DU-2026-521.md) | 2026-04-15 | – |
 | – Prawo upadłościowe | [Dz.U. 2026 poz. 913](DU/2026/DU-2026-913.md) | 2026-07-07 | [Dz.U. 2025 poz. 614](DU/2025/DU-2025-614.md) |
-| – Prawo wodne | [Dz.U. 2025 poz. 960](DU/2025/DU-2025-960.md) | 2025-07-21 | – |
+| – Prawo wodne | [Dz.U. 2026 poz. 1335](DU/2026/DU-2026-1335.md) | 2026-10-14 | [Dz.U. 2025 poz. 960](DU/2025/DU-2025-960.md) |
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
