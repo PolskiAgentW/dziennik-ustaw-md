@@ -49,7 +49,7 @@ Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla ża
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-16 05:01 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-16 22:05 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -67,13 +67,13 @@ Stan na 2026-10-16 05:01 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 2023 | 433 | 433 | 0 |
 | 2024 | 392 | 392 | 0 |
 | 2025 | 1900 | 1900 | 0 |
-| 2026 | 1335 | 1335 | 0 |
+| 2026 | 1340 | 1340 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 92, razem 1865 z 203769 stron. Tekst z OCR (oznaczony) ma 1793 z nich w 84 aktach; treści pozostałych brak.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 92, razem 1865 z 203810 stron. Tekst z OCR (oznaczony) ma 1793 z nich w 84 aktach; treści pozostałych brak.
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 248.
 
-Rodzaje aktów: Obwieszczenie 4888, Rozporządzenie 1849, Ustawa 370, Oświadczenie rządowe 43, Umowa międzynarodowa 36, Komunikat 4, Postanowienie 3, Uchwała 2.
-Wersje konwertera: eli2md 0.6.52 (3861), eli2md 0.6.25 (2131), eli2md 0.6.53 (767), eli2md 0.6.56 (380), eli2md 0.6.57 (39), eli2md 0.6.25.2 (11), eli2md 0.6.54 (6).
+Rodzaje aktów: Obwieszczenie 4889, Rozporządzenie 1852, Ustawa 371, Oświadczenie rządowe 43, Umowa międzynarodowa 36, Komunikat 4, Postanowienie 3, Uchwała 2.
+Wersje konwertera: eli2md 0.6.52 (3855), eli2md 0.6.25 (2131), eli2md 0.6.53 (748), eli2md 0.6.56 (378), eli2md 0.6.58 (37), eli2md 0.6.57 (34), eli2md 0.6.25.2 (11), eli2md 0.6.54 (6).
 <!-- stats:end -->
 
 ## Teksty jednolite
@@ -114,7 +114,7 @@ wystąpienie, `re.findall` wszystkie; który tekst obowiązuje, mówią przypisy
 | Kodeks postępowania administracyjnego | [Dz.U. 2025 poz. 1691](DU/2025/DU-2025-1691.md) | 2025-12-03 | – |
 | Kodeks postępowania cywilnego | [Dz.U. 2026 poz. 468](DU/2026/DU-2026-468.md) | 2026-04-07 | – |
 | Kodeks postępowania karnego | [Dz.U. 2026 poz. 490](DU/2026/DU-2026-490.md) | 2026-04-09 | [Dz.U. 2025 poz. 46](DU/2025/DU-2025-46.md) |
-| Kodeks postępowania w sprawach o wykroczenia | [Dz.U. 2025 poz. 860](DU/2025/DU-2025-860.md) | 2025-06-30 | – |
+| Kodeks postępowania w sprawach o wykroczenia | [Dz.U. 2026 poz. 1336](DU/2026/DU-2026-1336.md) | 2026-10-15 | [Dz.U. 2025 poz. 860](DU/2025/DU-2025-860.md) |
 | Kodeks pracy | [Dz.U. 2026 poz. 1245](DU/2026/DU-2026-1245.md) | 2026-09-24 | [Dz.U. 2025 poz. 277](DU/2025/DU-2025-277.md) |
 | Kodeks rodzinny i opiekuńczy | [Dz.U. 2026 poz. 236](DU/2026/DU-2026-236.md) | 2026-02-27 | – |
 | Kodeks wyborczy | [Dz.U. 2026 poz. 1261](DU/2026/DU-2026-1261.md) | 2026-09-28 | [Dz.U. 2025 poz. 365](DU/2025/DU-2025-365.md) |

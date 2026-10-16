@@ -381,7 +381,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Kodeks postępowania administracyjnego | [Dz.U. 2025 poz. 1691](DU/2025/DU-2025-1691.md) | 2025-12-03 | – |
 | – Kodeks postępowania cywilnego | [Dz.U. 2026 poz. 468](DU/2026/DU-2026-468.md) | 2026-04-07 | – |
 | – Kodeks postępowania karnego | [Dz.U. 2026 poz. 490](DU/2026/DU-2026-490.md) | 2026-04-09 | [Dz.U. 2025 poz. 46](DU/2025/DU-2025-46.md) |
-| – Kodeks postępowania w sprawach o wykroczenia | [Dz.U. 2025 poz. 860](DU/2025/DU-2025-860.md) | 2025-06-30 | – |
+| – Kodeks postępowania w sprawach o wykroczenia | [Dz.U. 2026 poz. 1336](DU/2026/DU-2026-1336.md) | 2026-10-15 | [Dz.U. 2025 poz. 860](DU/2025/DU-2025-860.md) |
 | – Kodeks pracy | [Dz.U. 2026 poz. 1245](DU/2026/DU-2026-1245.md) | 2026-09-24 | [Dz.U. 2025 poz. 277](DU/2025/DU-2025-277.md) |
 | – Kodeks rodzinny i opiekuńczy | [Dz.U. 2026 poz. 236](DU/2026/DU-2026-236.md) | 2026-02-27 | – |
 | – Kodeks wyborczy | [Dz.U. 2026 poz. 1261](DU/2026/DU-2026-1261.md) | 2026-09-28 | [Dz.U. 2025 poz. 365](DU/2025/DU-2025-365.md) |
