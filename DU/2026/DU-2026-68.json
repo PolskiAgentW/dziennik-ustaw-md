@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/68",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 grudnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o odnawialnych źródłach energii",
- "converter": "eli2md 0.6.53",
+ "converter": "eli2md 0.6.60",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/68/text.pdf",
  "body": [
   {
@@ -8920,7 +8920,7 @@
         },
         {
          "type": "text",
-         "text": "r – stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego m wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „m” określonym w komunikacie Prezesa GUS, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość rm dla roku kalendarzowego „j” wynosi 0,"
+         "text": "rm – stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „m” określonym w komunikacie Prezesa GUS, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość rm dla roku kalendarzowego „j” wynosi 0,"
         },
         {
          "type": "text",
@@ -8940,7 +8940,7 @@
         },
         {
          "type": "text",
-         "text": "r – stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego n wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „n” określonym w komunikacie Prezesa GUS, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość rn dla roku kalendarzowego „j” wynosi 0; w przypadku gdy w dniu złożenia lub upływu terminu złożenia, zgodnie z niniejszym przepisem, oświadczenia wytwórcy, w zakresie pomocy inwestycyjnej, o której mowa w ust. 1, stopa referencyjna w roku „n” nie została opublikowana, należy przyjąć spadek lub wzrost wskaźnika cen towarów i usług konsumpcyjnych z listopada roku „n-1”, w ujęciu rok do roku."
+         "text": "rn – stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „n” określonym w komunikacie Prezesa GUS, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość rn dla roku kalendarzowego „j” wynosi 0; w przypadku gdy w dniu złożenia lub upływu terminu złożenia, zgodnie z niniejszym przepisem, oświadczenia wytwórcy, w zakresie pomocy inwestycyjnej, o której mowa w ust. 1, stopa referencyjna w roku „n” nie została opublikowana, należy przyjąć spadek lub wzrost wskaźnika cen towarów i usług konsumpcyjnych z listopada roku „n-1”, w ujęciu rok do roku."
         }
        ]
       },
@@ -10186,7 +10186,7 @@
        "children": [
         {
          "type": "text",
-         "text": "n P  Vi P=∑ i , i=1 V"
+         "text": "n Pi  Vi P=∑ , i=1 V"
         },
         {
          "type": "text",
@@ -13373,7 +13373,7 @@
         },
         {
          "type": "text",
-         "text": "r – stopę dyskontową wyrażoną w ułamku dziesiętnym obowiązującą w dniu udzielenia wsparcia, publikod waną przez Komisję Europejską na podstawie art. 10 rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. w sprawie wykonania rozporządzenia Rady (UE) 2015/1589 ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 140 z 30.04.2004, str. 1, z późn. zm.[^146])."
+         "text": "rd – stopę dyskontową wyrażoną w ułamku dziesiętnym obowiązującą w dniu udzielenia wsparcia, publikowaną przez Komisję Europejską na podstawie art. 10 rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. w sprawie wykonania rozporządzenia Rady (UE) 2015/1589 ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 140 z 30.04.2004, str. 1, z późn. zm.[^146])."
         }
        ]
       },
@@ -15729,7 +15729,7 @@
        "children": [
         {
          "type": "text",
-         "text": "∑ n Ci ∗Ii ∗P CrefH = i=1 i , ∑ n i=1 Ii ∗P i"
+         "text": "∑ n Ci ∗Ii ∗Pi CrefH = i=1 , ∑ n i=1 Ii ∗Pi"
         },
         {
          "type": "text",
@@ -15749,7 +15749,7 @@
         },
         {
          "type": "text",
-         "text": "P i – moc zainstalowaną i-tej instalacji wchodzącej w skład hybrydowej instalacji odnawialnego źródła energii, wyrażoną w MW."
+         "text": "Pi – moc zainstalowaną i-tej instalacji wchodzącej w skład hybrydowej instalacji odnawialnego źródła energii, wyrażoną w MW."
         }
        ]
       },
@@ -18896,7 +18896,7 @@
        "children": [
         {
          "type": "text",
-         "text": "PIC =∑(PI ji ∗∏(1+r j i ) ) ,"
+         "text": "PIC =∑(PI ji ∗∏(1+r ji) ) ,"
         },
         {
          "type": "text",
@@ -19080,7 +19080,7 @@
         },
         {
          "type": "text",
-         "text": "r – stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego m wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „m” określonym w komunikacie Prezesa GUS, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość rm dla roku kalendarzowego „j” wynosi 0,"
+         "text": "rm – stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „m” określonym w komunikacie Prezesa GUS, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość rm dla roku kalendarzowego „j” wynosi 0,"
         },
         {
          "type": "text",
@@ -19100,7 +19100,7 @@
         },
         {
          "type": "text",
-         "text": "r – stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego n wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „n” określonym w komunikacie Prezesa GUS, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość rn dla roku kalendarzowego „j” wynosi 0; w przypadku gdy w dniu złożenia lub upływu terminu złożenia, zgodnie z ust. 11, oświadczenia wytwórcy, w zakresie pomocy inwestycyjnej, o której mowa w ust. 1, stopa referencyjna w roku „n” nie została opublikowana, należy przyjąć spadek lub wzrost wskaźnika cen towarów i usług konsumpcyjnych z listopada roku „n-1”, w ujęciu rok do roku."
+         "text": "rn – stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „n” określonym w komunikacie Prezesa GUS, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość rn dla roku kalendarzowego „j” wynosi 0; w przypadku gdy w dniu złożenia lub upływu terminu złożenia, zgodnie z ust. 11, oświadczenia wytwórcy, w zakresie pomocy inwestycyjnej, o której mowa w ust. 1, stopa referencyjna w roku „n” nie została opublikowana, należy przyjąć spadek lub wzrost wskaźnika cen towarów i usług konsumpcyjnych z listopada roku „n-1”, w ujęciu rok do roku."
         }
        ]
       },
@@ -19206,7 +19206,7 @@
         },
         {
          "type": "text",
-         "text": "r – stopę dyskontową wyrażoną w ułamku dziesiętnym obowiązującą w dniu udzielenia wsparcia, publikod waną przez Komisję Europejską na podstawie art. 10 rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. w sprawie wykonania rozporządzenia Rady (UE) 2015/1589 ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej."
+         "text": "rd – stopę dyskontową wyrażoną w ułamku dziesiętnym obowiązującą w dniu udzielenia wsparcia, publikowaną przez Komisję Europejską na podstawie art. 10 rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. w sprawie wykonania rozporządzenia Rady (UE) 2015/1589 ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej."
         }
        ]
       },
@@ -27801,7 +27801,7 @@
        "children": [
         {
          "type": "text",
-         "text": "P koge =(Csk − Cbk)"
+         "text": "Pkoge =(Csk − Cbk)"
         },
         {
          "type": "text",
@@ -31084,7 +31084,7 @@
         },
         {
          "type": "text",
-         "text": "P – produkcję energii [MJ] na kilogram mokrego wsadu surowca n. Do obliczenia wartości typowych i stann dardowych stosuje się następujące wartości Pn:"
+         "text": "Pn – produkcję energii [MJ] na kilogram mokrego wsadu surowca n. Do obliczenia wartości typowych i standardowych stosuje się następujące wartości Pn:"
         },
         {
          "type": "text",
@@ -31306,7 +31306,7 @@
           },
           {
            "type": "text",
-           "text": "T ℎ – temperaturę, mierzoną w skali bezwzględnej (Kelvina), ciepła użytkowego w miejscu wytworzenia,"
+           "text": "Tℎ – temperaturę, mierzoną w skali bezwzględnej (Kelvina), ciepła użytkowego w miejscu wytworzenia,"
           },
           {
            "type": "text",
@@ -31607,7 +31607,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Tℎ−T C =⁰ , ℎ Tℎ"
+       "text": "Tℎ−T₀ C = , ℎ Tℎ"
       },
       {
        "type": "text",
@@ -31615,7 +31615,7 @@
       },
       {
        "type": "text",
-       "text": "T ℎ – temperaturę, mierzoną w skali bezwzględnej (Kelvina), ciepła użytkowego w miejscu wytworzenia,"
+       "text": "Tℎ – temperaturę, mierzoną w skali bezwzględnej (Kelvina), ciepła użytkowego w miejscu wytworzenia,"
       },
       {
        "type": "text",

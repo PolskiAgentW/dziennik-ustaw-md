@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/759",
  "title": "Ustawa z dnia 21 maja 2025 r. o zmianie niektórych ustaw w związku z wprowadzaniem centralnego systemu informacji rynku energii i innych ustaw",
- "converter": "eli2md 0.6.53",
+ "converter": "eli2md 0.6.60",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/759/text.pdf",
  "body": [
   {
@@ -319,7 +319,12 @@
       },
       {
        "type": "text",
-       "text": "P Zt =0,6× R × t−1 P t−2 w którym poszczególne symbole oznaczają:",
+       "text": "Pt−1 Zt =0,6× R × Pt−2",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "w którym poszczególne symbole oznaczają:",
        "quoted": true
       },
       {
@@ -549,7 +554,7 @@
       },
       {
        "type": "text",
-       "text": "P Z =0,6×R × 2024 P 2023",
+       "text": "P₂₀₂₄ Z =0,6×R × P₂₀₂₃",
        "quoted": true
       },
       {
@@ -569,12 +574,12 @@
       },
       {
        "type": "text",
-       "text": "P 2024 – terminową cenę uprawnień do emisji uwzględnianą przy obliczaniu rekompensat za rok 2024;",
+       "text": "P₂₀₂₄ – terminową cenę uprawnień do emisji uwzględnianą przy obliczaniu rekompensat za rok 2024;",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "P 2023 – terminową cenę uprawnień do emisji uwzględnianą przy obliczaniu rekompensat za rok 2023.",
+       "text": "P₂₀₂₃ – terminową cenę uprawnień do emisji uwzględnianą przy obliczaniu rekompensat za rok 2023.",
        "quoted": true
       },
       {

@@ -236,6 +236,19 @@ w artykułach dodanych później (1 182) ani błędów wspólnych z warstwą tek
 - indeks dolny z literą lub kropką ginął: „kategorii T , T , T” zamiast „T1b, T2b, T3b” (DU/2025/1490 art. 54);
   od eli2md 0.6.53 (2026-10-11) „kategorii T1b, T2b, T3b, T4.1b, T4.2b, T4.3b i T₅”.
 
+Zmiana 2026-10-17 (eli2md 0.6.60, 23 akty): indeks dolny symbolu zapisanego kursywną wielką literą trafiał na sąsiedni
+wiersz, często do środka wyrazu przeniesionego w PDF, a symbol zostawał bez indeksu: „WbP – … na realizację prot−1 gramów
+rządowych” (DU/2025/337), „DEF – … przedłożonego Sejn−2 mowi” (DU/2025/1483), „publikod waną” (DU/2026/68). Teraz
+„WbPt−1 – … na realizację programów rządowych”, „DEFn−2 – … przedłożonego Sejmowi”. Przeliczyłem 23 akty, w których
+eli2md 0.6.60 daje inny wynik niż 0.6.59: 19 tekstów jednolitych z lat 2025–2026 (DU/2025/214, 337, 439, 450, 498, 610,
+870, 901, 1273, 1483, DU/2026/68, 156, 599, 619, 650, 807, 1242, 1252, 1293) i 4 ustawy (DU/2025/159, 303, 759, 1301).
+Sprawdzone A/B 0.6.59 → 0.6.60: wszystkie 491 tekstów jednolitych z lat 2025–2026, 369 ustaw bez tekstu HTML w API
+(lista z 12.10) i 2 nowsze ustawy, 500 losowych aktów DU. W porównaniu z opublikowanymi plikami liczba jednostek jest ta sama, 22 akty nie tracą
+żadnego znaku, a DU/2025/159 traci tylko „-” złączonego wyrazu „bezpieczeń-stwa”. Cyfry indeksu są teraz indeksem dolnym
+(„P 2024” → „P₂₀₂₄”, DU/2025/759, DU/2026/807). W próbie zmieniło się też 6 tekstów jednolitych z lat 2012–2024
+(DU/2014/1695, DU/2018/150, 2190, DU/2021/1930, DU/2023/725, DU/2024/1361). Tych nie przeliczałem, bo mają tekst HTML
+w API. Pozostałych tekstów jednolitych z tych lat nie sprawdzałem. Codzienna aktualizacja używa eli2md 0.6.60.
+
 Zmiana 2026-10-17 (eli2md 0.6.59, 247 aktów): 247 tekstów jednolitych z lat 2012–2024 przeliczyłem ponownie
 (eli2md 0.6.52 → 0.6.59). To te, w których 0.6.59 daje inny wynik niż 0.6.52; w pozostałych 3 608 tekstach jednolitych
 z tych lat wynik jest taki sam. Przykłady zmian: indeksy dolne i górne wracają do wyrazu, do którego należą:

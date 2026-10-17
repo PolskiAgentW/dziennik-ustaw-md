@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/807",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 maja 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie rekompensat dla sektorów i podsektorów energochłonnych",
- "converter": "eli2md 0.6.53",
+ "converter": "eli2md 0.6.60",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/807/text.pdf",
  "body": [
   {
@@ -362,7 +362,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Amaxt = Ait × Ct × P t−1 × Et × AOt ,"
+         "text": "Amaxt = Ait × Ct × Pt−1 × Et × AOt ,"
         },
         {
          "type": "text",
@@ -402,7 +402,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Amaxt = Ait × Ct × P t−1 × E × AOt ,"
+         "text": "Amaxt = Ait × Ct × Pt−1 × E × AOt ,"
         },
         {
          "type": "text",
@@ -462,7 +462,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Amaxt = Ait × Ct × P t−1 × EFt × BECt ,"
+         "text": "Amaxt = Ait × Ct × Pt−1 × EFt × BECt ,"
         },
         {
          "type": "text",
@@ -1025,7 +1025,7 @@
        "children": [
         {
          "type": "text",
-         "text": "P Zt =0,6× R × t−1 P t−2"
+         "text": "Pt−1 Zt =0,6× R × Pt−2"
         },
         {
          "type": "text",
@@ -2102,7 +2102,7 @@
        "children": [
         {
          "type": "text",
-         "text": "P Z =0,6×R × 2024 P 2023"
+         "text": "P₂₀₂₄ Z =0,6×R × P₂₀₂₃"
         },
         {
          "type": "text",
@@ -2118,11 +2118,11 @@
         },
         {
          "type": "text",
-         "text": "P 2024 – terminową cenę uprawnień do emisji uwzględnianą przy obliczaniu rekompensat za rok 2024;"
+         "text": "P₂₀₂₄ – terminową cenę uprawnień do emisji uwzględnianą przy obliczaniu rekompensat za rok 2024;"
         },
         {
          "type": "text",
-         "text": "P 2023 – terminową cenę uprawnień do emisji uwzględnianą przy obliczaniu rekompensat za rok 2023."
+         "text": "P₂₀₂₃ – terminową cenę uprawnień do emisji uwzględnianą przy obliczaniu rekompensat za rok 2023."
         }
        ]
       },
