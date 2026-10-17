@@ -1,7 +1,7 @@
 {
  "eli": "DU/2023/1385",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 maja 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2023/1385/text.pdf",
  "body": [
   {
@@ -673,7 +673,7 @@
         },
         {
          "type": "text",
-         "text": "PI = ∑(PI ∗∏(1+r )) c i i"
+         "text": "PIc = ∑(PIi ∗∏(1+ri))"
         },
         {
          "type": "text",
@@ -685,11 +685,11 @@
         },
         {
          "type": "text",
-         "text": "PI c – sumę zwaloryzowanej wartości pomocy inwestycyjnej, wyrażoną w złotych,"
+         "text": "PIc – sumę zwaloryzowanej wartości pomocy inwestycyjnej, wyrażoną w złotych,"
         },
         {
          "type": "text",
-         "text": "PI i – wartość w roku „i” pomocy inwestycyjnej, wyrażoną w złotych, udzieloną w danym roku „i”,"
+         "text": "PIi – wartość w roku „i” pomocy inwestycyjnej, wyrażoną w złotych, udzieloną w danym roku „i”,"
         },
         {
          "type": "text",
@@ -701,11 +701,11 @@
         },
         {
          "type": "text",
-         "text": "u – rok kalendarzowy, w którym po raz pierwszy udzielono pomocy inwestycyjnej oznaczonej symbolem PI i , przeznaczonej na realizację inwestycji w zakresie danej morskiej farmy wiatrowej, wraz z zespołem urządzeń służących do wyprowadzenia mocy,"
+         "text": "u – rok kalendarzowy, w którym po raz pierwszy udzielono pomocy inwestycyjnej oznaczonej symbolem PIi, przeznaczonej na realizację inwestycji w zakresie danej morskiej farmy wiatrowej, wraz z zespołem urządzeń służących do wyprowadzenia mocy,"
         },
         {
          "type": "text",
-         "text": "r i –[^5] stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „i” określonym w komunikacie Prezesa Głównego Urzędu Statystycznego, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość r i dla roku kalendarzowego „j” wynosi 0; w przypadku gdy do dnia złożenia wniosku, o którym mowa w ust. 5, stopa referencyjna w roku „i” nie została ogłoszona, należy przyjąć spadek lub wzrost wskaźnika cen towarów i usług konsumpcyjnych z listopada roku „i” w ujęciu rok do roku."
+         "text": "ri –[^5] stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „i” określonym w komunikacie Prezesa Głównego Urzędu Statystycznego, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość ri dla roku kalendarzowego „j” wynosi 0; w przypadku gdy do dnia złożenia wniosku, o którym mowa w ust. 5, stopa referencyjna w roku „i” nie została ogłoszona, należy przyjąć spadek lub wzrost wskaźnika cen towarów i usług konsumpcyjnych z listopada roku „i” w ujęciu rok do roku."
         }
        ]
       },
@@ -717,7 +717,7 @@
        "children": [
         {
          "type": "text",
-         "text": "PI C =C − c s o I"
+         "text": "PIc Cs =Co − I"
         },
         {
          "type": "text",
@@ -725,15 +725,15 @@
         },
         {
          "type": "text",
-         "text": "C s – cenę skorygowaną, wyrażoną w zł/MWh; w przypadku nieudzielenia pomocy inwestycyjnej, o której mowa w ust. 1, wartość C s jest równa wartości C o ,"
+         "text": "Cs – cenę skorygowaną, wyrażoną w zł/MWh; w przypadku nieudzielenia pomocy inwestycyjnej, o której mowa w ust. 1, wartość Cs jest równa wartości Co,"
         },
         {
          "type": "text",
-         "text": "C o –[^6] cenę wskazaną w decyzji, o której mowa w art. 18 ust. 1, albo wynikającą z oferty, o której mowa w art. 31 ust. 1, albo cenę skorygowaną, o której mowa w art. 11 ust. 3, z uwzględnieniem waloryzacji, o której mowa w art. 38 ust. 5, na dzień złożenia wniosku, o którym mowa w ust. 5,"
+         "text": "Co –[^6] cenę wskazaną w decyzji, o której mowa w art. 18 ust. 1, albo wynikającą z oferty, o której mowa w art. 31 ust. 1, albo cenę skorygowaną, o której mowa w art. 11 ust. 3, z uwzględnieniem waloryzacji, o której mowa w art. 38 ust. 5, na dzień złożenia wniosku, o którym mowa w ust. 5,"
         },
         {
          "type": "text",
-         "text": "PI c – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, obliczoną zgodnie z ust. 3,"
+         "text": "PIc – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, obliczoną zgodnie z ust. 3,"
         },
         {
          "type": "text",
@@ -756,7 +756,7 @@
        "children": [
         {
          "type": "text",
-         "text": "P P C =C − I + s sn s I p I p"
+         "text": "P P Csn =Cs − I + s Ip Ip"
         },
         {
          "type": "text",
@@ -764,23 +764,23 @@
         },
         {
          "type": "text",
-         "text": "C sn – nową cenę skorygowaną, wyrażoną w zł/MWh, która staje się ceną skorygowaną (C s ) obowiązującą od miesiąca następującego po miesiącu złożenia oświadczenia, o którym mowa w zdaniu pierwszym, stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3,"
+         "text": "Csn – nową cenę skorygowaną, wyrażoną w zł/MWh, która staje się ceną skorygowaną (Cs) obowiązującą od miesiąca następującego po miesiącu złożenia oświadczenia, o którym mowa w zdaniu pierwszym, stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3,"
         },
         {
          "type": "text",
-         "text": "C s – cenę skorygowaną, wyrażoną w zł/MWh, z uwzględnieniem art. 38 ust. 5, obowiązującą do końca miesiąca, w którym złożono oświadczenie, o którym mowa w zdaniu pierwszym, stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3,"
+         "text": "Cs – cenę skorygowaną, wyrażoną w zł/MWh, z uwzględnieniem art. 38 ust. 5, obowiązującą do końca miesiąca, w którym złożono oświadczenie, o którym mowa w zdaniu pierwszym, stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3,"
         },
         {
          "type": "text",
-         "text": "P I – wysokość udzielonej pomocy inwestycyjnej lub wzrost jej wartości, wyrażone w złotych, udzielonej po dniu złożenia oświadczenia, o którym mowa w ust. 5, obliczone zgodnie z ust. 2,"
+         "text": "PI – wysokość udzielonej pomocy inwestycyjnej lub wzrost jej wartości, wyrażone w złotych, udzielonej po dniu złożenia oświadczenia, o którym mowa w ust. 5, obliczone zgodnie z ust. 2,"
         },
         {
          "type": "text",
-         "text": "P s – spadek wartości udzielonej pomocy inwestycyjnej, wyrażony w złotych, po dniu złożenia oświadczenia, o którym mowa w ust. 5, obliczony zgodnie z ust. 2,"
+         "text": "Ps – spadek wartości udzielonej pomocy inwestycyjnej, wyrażony w złotych, po dniu złożenia oświadczenia, o którym mowa w ust. 5, obliczony zgodnie z ust. 2,"
         },
         {
          "type": "text",
-         "text": "I p – ilość energii elektrycznej, wyrażonej w MWh, obliczoną zgodnie z art. 7, w oparciu o moc zainstalowaną elektryczną morskiej farmy wiatrowej, objętą wnioskiem o udzielenie lub zmianę koncesji na wytwarzanie energii elektrycznej, pomniejszoną o ilość energii elektrycznej, w odniesieniu do której wytwórca otrzymał kwotę przeznaczoną na pokrycie ujemnego salda do końca miesiąca poprzedzającego miesiąc, w którym udzielono pomocy P I , stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3."
+         "text": "Ip – ilość energii elektrycznej, wyrażonej w MWh, obliczoną zgodnie z art. 7, w oparciu o moc zainstalowaną elektryczną morskiej farmy wiatrowej, objętą wnioskiem o udzielenie lub zmianę koncesji na wytwarzanie energii elektrycznej, pomniejszoną o ilość energii elektrycznej, w odniesieniu do której wytwórca otrzymał kwotę przeznaczoną na pokrycie ujemnego salda do końca miesiąca poprzedzającego miesiąc, w którym udzielono pomocy PI, stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3."
         }
        ]
       },
@@ -3622,7 +3622,7 @@
        "children": [
         {
          "type": "text",
-         "text": "C OST_m =(1−U)×C CB +U× K C rozp CB ×K m−1 ,"
+         "text": "COST_m =(1−U)×CCB +U× K C rozp CB ×Km−1,"
         },
         {
          "type": "text",

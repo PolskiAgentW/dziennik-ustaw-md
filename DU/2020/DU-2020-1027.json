@@ -1,7 +1,7 @@
 {
  "eli": "DU/2020/1027",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 maja 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2020/1027/text.pdf",
  "body": [
   {
@@ -1410,12 +1410,12 @@
       },
       {
        "type": "text",
-       "text": "C k – kwotę wypłaty k,",
+       "text": "Ck – kwotę wypłaty k,",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "t k – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej kolejnej",
+       "text": "tk – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej kolejnej",
        "quoted": true
       },
       {
@@ -1435,12 +1435,12 @@
       },
       {
        "type": "text",
-       "text": "D l – kwotę spłaty lub wnoszonych opłat,",
+       "text": "Dl – kwotę spłaty lub wnoszonych opłat,",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "S l – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej spłaty lub",
+       "text": "Sl – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej spłaty lub",
        "quoted": true
       },
       {
@@ -1480,7 +1480,7 @@
       },
       {
        "type": "text",
-       "text": "6) równanie to może być zapisane w postaci jednej sumy z wykorzystaniem koncepcji przepływów (A k ), które mogą być dodatnie lub ujemne – zapłacone lub otrzymane w okresach 1 do k, wyrażonych w latach:",
+       "text": "6) równanie to może być zapisane w postaci jednej sumy z wykorzystaniem koncepcji przepływów (Ak), które mogą być dodatnie lub ujemne – zapłacone lub otrzymane w okresach 1 do k, wyrażonych w latach:",
        "quoted": true
       },
       {
@@ -7861,7 +7861,7 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Poszczególne litery i symbole użyte we wzorze oznaczają: X – rzeczywistą roczną stopę oprocentowania, m – numer kolejny ostatniej wypłaty raty kredytu hipotecznego, k – numer kolejny wypłaty, zatem 1 ≤ k ≤ m, C k – kwotę wypłaty k, t k – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej kolejnej wypłaty, zatem t1 = 0, m' – numer kolejny ostatniej spłaty lub wnoszonych opłat, l – numer kolejny spłaty lub wnoszonych opłat, D l – kwotę spłaty lub wnoszonych opłat, S l – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej spłaty lub wniesienia opłat.",
+     "text": "Poszczególne litery i symbole użyte we wzorze oznaczają: X – rzeczywistą roczną stopę oprocentowania, m – numer kolejny ostatniej wypłaty raty kredytu hipotecznego, k – numer kolejny wypłaty, zatem 1 ≤ k ≤ m, Ck – kwotę wypłaty k, tk – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej kolejnej wypłaty, zatem t1 = 0, m' – numer kolejny ostatniej spłaty lub wnoszonych opłat, l – numer kolejny spłaty lub wnoszonych opłat, Dl – kwotę spłaty lub wnoszonych opłat, Sl – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej spłaty lub wniesienia opłat.",
      "children": []
     },
     {
@@ -7924,7 +7924,7 @@
        "type": "lit",
        "num": "e",
        "path": "ust_3/lit_e",
-       "text": "równanie to może być zapisane w postaci jednej sumy z wykorzystaniem koncepcji przepływów (A k ), które mogą być dodatnie lub ujemne – zapłacone lub otrzymane w okresach 1 do k, wyrażonych w latach:",
+       "text": "równanie to może być zapisane w postaci jednej sumy z wykorzystaniem koncepcji przepływów (Ak), które mogą być dodatnie lub ujemne – zapłacone lub otrzymane w okresach 1 do k, wyrażonych w latach:",
        "children": [
         {
          "type": "text",

@@ -140,7 +140,9 @@ pisownię w źródle w DU/2018/280 („Załącznik do obwieszczania”) i DU/201
 
 Te akty przekonwertowałem lokalnie eli2md 0.6.52 (wersja 0.6.50 nie rozpoznawała nagłówka tekstu jednolitego
 w PDF z lat 2012–2014 i rozbijała słowa z literą w innym foncie: „si ę”, a wersja 0.6.51 słowa z miękkim dywizem:
-„przysługuj ą cego”; opis w README eli2md). Codzienna aktualizacja pomija akty, które mają HTML, więc gdy API zmieni któryś z nich, tutaj ta zmiana nie dotrze.
+„przysługuj ą cego”; opis w README eli2md). 2026-10-16 i 2026-10-17 część przeliczyłem nowszymi wersjami (6 aktów eli2md 0.6.58, 247 aktów eli2md 0.6.59;
+opis w „Zmiana 2026-10-16” i „Zmiana 2026-10-17” niżej). Codzienna aktualizacja nie przelicza tekstu aktów, które
+mają HTML, więc gdy API zmieni treść któregoś z nich, tutaj ta zmiana nie dotrze (metadane tak, od 2026-10-13).
 
 ## Zawartość
 
@@ -234,11 +236,17 @@ w artykułach dodanych później (1 182) ani błędów wspólnych z warstwą tek
 - indeks dolny z literą lub kropką ginął: „kategorii T , T , T” zamiast „T1b, T2b, T3b” (DU/2025/1490 art. 54);
   od eli2md 0.6.53 (2026-10-11) „kategorii T1b, T2b, T3b, T4.1b, T4.2b, T4.3b i T₅”.
 
-Zmiana 2026-10-17 (eli2md 0.6.59, 0 aktów): codzienna aktualizacja używa eli2md 0.6.59. Zmiana w tej wersji
-(znak bez szerokości w ciągu indeksów dolnych wzoru) zmienia z 4579 sprawdzonych aktów tego zbioru tylko DU/2017/569
-(A/B 0.6.58 → 0.6.59; wśród sprawdzonych są wszystkie 3855 tekstów jednolitych z lat 2012–2024 i 491 z lat
-2025–2026). Plik DU/2017/569 w zbiorze jest z eli2md 0.6.52 i nie ma tego błędu, więc opublikowanych plików
-nie przeliczałem.
+Zmiana 2026-10-17 (eli2md 0.6.59, 247 aktów): 247 tekstów jednolitych z lat 2012–2024 przeliczyłem ponownie
+(eli2md 0.6.52 → 0.6.59). To te, w których 0.6.59 daje inny wynik niż 0.6.52; w pozostałych 3 608 tekstach jednolitych
+z tych lat wynik jest taki sam. Przykłady zmian: indeksy dolne i górne wracają do wyrazu, do którego należą:
+„(SO )” → „(SO₂)”, „L … Aeq” → „LAeq” (DU/2013/1107, 1232), DU/2017/569 art. 31 ust. 2
+„według wzoru: ( ) D K = W R + O - W - K” (indeksy w przypisie 14) → „( ) D KO(i - 1) = Ws Rk(i - 1) + Ok(i - 1) -
+Wdk(i - 1) - KOZW(i - 1)”, DU/2020/1077 „NH , PM , PM … 3 10 2,5” → „NH₃, PM₁₀, PM2,5”. Pomiar (znaki tekstu bez odstępów,
+znaczników Markdown i odsyłaczy, indeksy jak zwykłe cyfry i litery): 227 aktów bez utraty znaków, 20 traci tylko „-”;
+w 19 to wyraz przeniesiony w PDF, którego części rozdzielał indeks, teraz złączony, a w DU/2020/1077 złe złączenie
+„błę- … z” → „błęz” w tabeli, w której kolejność kolumn jest zła w obu wersjach. W 9 aktach jednostek jest więcej, bo
+sklejone jednostki są rozdzielone (np. „Art. 19.” w DU/2020/23 jako nagłówek). Codzienna aktualizacja używa eli2md 0.6.59;
+przed wydaniem A/B 0.6.58 → 0.6.59 na 4579 aktach tego zbioru zmienił tylko DU/2017/569 (opis w README eli2md).
 
 Zmiana 2026-10-16 (eli2md 0.6.58, 7 aktów): artykuł złożony w PDF ciasno pod nagłówkiem rozdziału był w tekście tego
 nagłówka, np. DU/2025/960: „Rozdział 1 Zmiany w przepisach Art. 480–524. (pominięte)”, DU/2020/105: „Rozdział 21

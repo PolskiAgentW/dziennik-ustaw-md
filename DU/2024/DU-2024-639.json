@@ -1,7 +1,7 @@
 {
  "eli": "DU/2024/639",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o promowaniu energii elektrycznej z wysokosprawnej kogeneracji",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2024/639/text.pdf",
  "body": [
   {
@@ -230,7 +230,7 @@
         },
         {
          "type": "text",
-         "text": "– wyrażoną w [W] lub wielokrotnościach tej jednostki miary, osiąganą przy znamionowym współczynniku mocy cos φ n ;"
+         "text": "– wyrażoną w [W] lub wielokrotnościach tej jednostki miary, osiąganą przy znamionowym współczynniku mocy cos φn;"
         }
        ]
       },
@@ -1370,7 +1370,7 @@
         },
         {
          "type": "text",
-         "text": "PI =∑(PI ∗∏(1+r )) c i i"
+         "text": "PIc =∑(PIi ∗∏(1+ri))"
         },
         {
          "type": "text",
@@ -1382,7 +1382,7 @@
         },
         {
          "type": "text",
-         "text": "PI c – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, PI i – wartość w roku „i” pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, udzieloną w danym roku „i”,"
+         "text": "PIc – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, PIi – wartość w roku „i” pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, udzieloną w danym roku „i”,"
         },
         {
          "type": "text",
@@ -1394,11 +1394,11 @@
         },
         {
          "type": "text",
-         "text": "u – rok kalendarzowy, w którym wytwórcy po raz pierwszy udzielono pomocy inwestycyjnej dla danej jednostki kogeneracji, oznaczonej symbolem PI i ,"
+         "text": "u – rok kalendarzowy, w którym wytwórcy po raz pierwszy udzielono pomocy inwestycyjnej dla danej jednostki kogeneracji, oznaczonej symbolem PIi,"
         },
         {
          "type": "text",
-         "text": "r i – stopę referencyjną, wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „i” określonym w komunikacie Prezesa Głównego Urzędu Statystycznego, zwanego dalej „Prezesem GUS”, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość r i dla roku kalendarzowego „j” wynosi 0; w przypadku gdy do dnia złożenia oferty, o której mowa w art. 21 ust. 1, albo wniosku, o którym mowa w art. 30 ust. 1, stopa referencyjna w roku „i” nie została ogłoszona, należy przyjąć spadek lub wzrost wskaźnika cen towarów i usług konsumpcyjnych z listopada roku „i”, w ujęciu rok do roku."
+         "text": "ri – stopę referencyjną, wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „i” określonym w komunikacie Prezesa Głównego Urzędu Statystycznego, zwanego dalej „Prezesem GUS”, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość ri dla roku kalendarzowego „j” wynosi 0; w przypadku gdy do dnia złożenia oferty, o której mowa w art. 21 ust. 1, albo wniosku, o którym mowa w art. 30 ust. 1, stopa referencyjna w roku „i” nie została ogłoszona, należy przyjąć spadek lub wzrost wskaźnika cen towarów i usług konsumpcyjnych z listopada roku „i”, w ujęciu rok do roku."
         }
        ]
       },
@@ -1410,7 +1410,7 @@
        "children": [
         {
          "type": "text",
-         "text": "PI C =C − c s o I"
+         "text": "PIc Cs =Co − I"
         },
         {
          "type": "text",
@@ -1418,15 +1418,15 @@
         },
         {
          "type": "text",
-         "text": "C s – premię kogeneracyjną skorygowaną albo premię gwarantowaną skorygowaną, wyrażoną w zł/MWh; w przypadku wytwórcy, który nie otrzymał pomocy inwestycyjnej, o której mowa w ust. 1, wartość C s jest równa wartości C o ,"
+         "text": "Cs – premię kogeneracyjną skorygowaną albo premię gwarantowaną skorygowaną, wyrażoną w zł/MWh; w przypadku wytwórcy, który nie otrzymał pomocy inwestycyjnej, o której mowa w ust. 1, wartość Cs jest równa wartości Co,"
         },
         {
          "type": "text",
-         "text": "C o – premię kogeneracyjną wynikającą z oferty złożonej przez wytwórcę albo premię gwarantowaną przed skorygowaniem, wyrażoną w zł/MWh,"
+         "text": "Co – premię kogeneracyjną wynikającą z oferty złożonej przez wytwórcę albo premię gwarantowaną przed skorygowaniem, wyrażoną w zł/MWh,"
         },
         {
          "type": "text",
-         "text": "PI c – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, obliczoną zgodnie z ust. 4,"
+         "text": "PIc – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, obliczoną zgodnie z ust. 4,"
         },
         {
          "type": "text",
@@ -1476,7 +1476,7 @@
          "children": [
           {
            "type": "text",
-           "text": "PI C =C −"
+           "text": "PI Csn =Cs − Ip"
           },
           {
            "type": "text",
@@ -1484,7 +1484,7 @@
           },
           {
            "type": "text",
-           "text": "C sn – nową premię kogeneracyjną skorygowaną albo nową premię gwarantowaną skorygowaną, wyrażoną w zł/MWh, która staje się premią kogeneracyjną skorygowaną albo premią gwarantowaną skorygowaną (C s ) obowiązującą od miesiąca następującego po miesiącu złożenia oświadczenia, o którym mowa w ust. 6, C s – premię kogeneracyjną skorygowaną albo premię gwarantowaną skorygowaną, wyrażoną w zł/MWh, obowiązującą do końca miesiąca, w którym złożono oświadczenie,"
+           "text": "Csn – nową premię kogeneracyjną skorygowaną albo nową premię gwarantowaną skorygowaną, wyrażoną w zł/MWh, która staje się premią kogeneracyjną skorygowaną albo premią gwarantowaną skorygowaną (Cs) obowiązującą od miesiąca następującego po miesiącu złożenia oświadczenia, o którym mowa w ust. 6, Cs – premię kogeneracyjną skorygowaną albo premię gwarantowaną skorygowaną, wyrażoną w zł/MWh, obowiązującą do końca miesiąca, w którym złożono oświadczenie,"
           },
           {
            "type": "text",
@@ -1492,7 +1492,7 @@
           },
           {
            "type": "text",
-           "text": "I p – ilość energii elektrycznej, wyrażoną w MWh, zawartą w ofercie, o której mowa w art. 21 ust. 1, albo co do której wytwórca zobowiązał się we wniosku, o którym mowa w art. 30 ust. 1, do sprzedaży albo wytworzenia, pomniejszoną o ilość energii elektrycznej wytworzonej, wprowadzonej do sieci i sprzedanej w ramach aukcji albo w związku z przyznaną premią gwarantowaną do końca miesiąca poprzedzającego miesiąc, w którym udzielono pomocy inwestycyjnej PI; w przypadku nowej małej jednostki kogeneracji, znacznie zmodernizowanej małej jednostki kogeneracji, zmodernizowanej małej jednostki kogeneracji oraz jednostki kogeneracji, o której mowa w art. 5 ust. 1 pkt 1, opalanej metanem uwalnianym i ujmowanym przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węgla kamiennego, przyjmuje się ilość energii elektrycznej wytworzonej w danej jednostce."
+           "text": "Ip – ilość energii elektrycznej, wyrażoną w MWh, zawartą w ofercie, o której mowa w art. 21 ust. 1, albo co do której wytwórca zobowiązał się we wniosku, o którym mowa w art. 30 ust. 1, do sprzedaży albo wytworzenia, pomniejszoną o ilość energii elektrycznej wytworzonej, wprowadzonej do sieci i sprzedanej w ramach aukcji albo w związku z przyznaną premią gwarantowaną do końca miesiąca poprzedzającego miesiąc, w którym udzielono pomocy inwestycyjnej PI; w przypadku nowej małej jednostki kogeneracji, znacznie zmodernizowanej małej jednostki kogeneracji, zmodernizowanej małej jednostki kogeneracji oraz jednostki kogeneracji, o której mowa w art. 5 ust. 1 pkt 1, opalanej metanem uwalnianym i ujmowanym przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węgla kamiennego, przyjmuje się ilość energii elektrycznej wytworzonej w danej jednostce."
           }
          ]
         }
@@ -1502,7 +1502,7 @@
        "type": "ust",
        "num": "8",
        "path": "art_14/ust_8",
-       "text": "O wysokości nowej premii kogeneracyjnej skorygowanej albo nowej premii gwarantowanej skorygowanej (C sn ), o której mowa w ust. 7, wytwórca powiadamia operatora rozliczeń, w terminie wskazanym w ust. 7.",
+       "text": "O wysokości nowej premii kogeneracyjnej skorygowanej albo nowej premii gwarantowanej skorygowanej (Csn), o której mowa w ust. 7, wytwórca powiadamia operatora rozliczeń, w terminie wskazanym w ust. 7.",
        "children": []
       },
       {
@@ -6592,7 +6592,7 @@
        "children": [
         {
          "type": "text",
-         "text": "S = G /Q , Ri i i-1"
+         "text": "SRi = Gi/Qi-1,"
         },
         {
          "type": "text",
@@ -6605,15 +6605,15 @@
         },
         {
          "type": "text",
-         "text": "S Ri – stawkę opłaty kogeneracyjnej na rok „i”, wyrażoną w złotych za 1 MWh,"
+         "text": "SRi – stawkę opłaty kogeneracyjnej na rok „i”, wyrażoną w złotych za 1 MWh,"
         },
         {
          "type": "text",
-         "text": "G i – wysokość kwoty planowanej do pobrania w roku „i”,"
+         "text": "Gi – wysokość kwoty planowanej do pobrania w roku „i”,"
         },
         {
          "type": "text",
-         "text": "Q i-1 – ilość energii elektrycznej pobranej z sieci i zużytej przez odbiorców końcowych w krajowym systemie elektroenergetycznym, która stanowiła podstawę do obliczenia opłaty kogeneracyjnej w okresie 12 miesięcy kalendarzowych poprzedzających dzień 1 lipca roku, w którym jest kalkulowana stawka opłaty kogeneracyjnej na rok „i”."
+         "text": "Qi-1 – ilość energii elektrycznej pobranej z sieci i zużytej przez odbiorców końcowych w krajowym systemie elektroenergetycznym, która stanowiła podstawę do obliczenia opłaty kogeneracyjnej w okresie 12 miesięcy kalendarzowych poprzedzających dzień 1 lipca roku, w którym jest kalkulowana stawka opłaty kogeneracyjnej na rok „i”."
         }
        ]
       },
@@ -6644,11 +6644,11 @@
      "type": "art",
      "num": "65",
      "path": "art_65",
-     "text": "Wysokość kwoty oznaczonej symbolem „G i ”, o którym mowa w art. 64 ust. 1, stanowiącej podstawę do kalkulowania na rok „i” stawki opłaty kogeneracyjnej, oblicza się według wzoru:",
+     "text": "Wysokość kwoty oznaczonej symbolem „Gi”, o którym mowa w art. 64 ust. 1, stanowiącej podstawę do kalkulowania na rok „i” stawki opłaty kogeneracyjnej, oblicza się według wzoru:",
      "children": [
       {
        "type": "text",
-       "text": "G = ΣK + L – E , i OKfi OKi OKi"
+       "text": "Gi = ΣKOKfi + LOKi – EOKi,"
       },
       {
        "type": "text",
@@ -6661,15 +6661,15 @@
       },
       {
        "type": "text",
-       "text": "ΣK OKfi – prognozowaną wysokość środków przeznaczonych na wypłatę premii kogeneracyjnej, premii gwarantowanej, premii gwarantowanej indywidualnej oraz premii kogeneracyjnej indywidualnej w roku „i”,"
+       "text": "ΣKOKfi – prognozowaną wysokość środków przeznaczonych na wypłatę premii kogeneracyjnej, premii gwarantowanej, premii gwarantowanej indywidualnej oraz premii kogeneracyjnej indywidualnej w roku „i”,"
       },
       {
        "type": "text",
-       "text": "L OKi – planowane koszty działalności operatora rozliczeń w roku „i”, związane bezpośrednio z obsługą systemu wsparcia wytwarzania energii elektrycznej w wysokosprawnej kogeneracji, o których mowa w art. 69 ust. 2,"
+       "text": "LOKi – planowane koszty działalności operatora rozliczeń w roku „i”, związane bezpośrednio z obsługą systemu wsparcia wytwarzania energii elektrycznej w wysokosprawnej kogeneracji, o których mowa w art. 69 ust. 2,"
       },
       {
        "type": "text",
-       "text": "E OKi – prognozowany na dzień 31 grudnia roku „i-1” stan środków na rachunku opłaty kogeneracyjnej zgodnie z informacją, o której mowa w art. 69 ust. 3 pkt 3."
+       "text": "EOKi – prognozowany na dzień 31 grudnia roku „i-1” stan środków na rachunku opłaty kogeneracyjnej zgodnie z informacją, o której mowa w art. 69 ust. 3 pkt 3."
       }
      ]
     },
@@ -6896,11 +6896,11 @@
        "type": "ust",
        "num": "2",
        "path": "art_69/ust_2",
-       "text": "Wydatki związane z zaciągniętym zadłużeniem, o którym mowa w ust. 1, oraz koszty działalności operatora rozliczeń związane bezpośrednio z obsługą systemu wsparcia wytwarzania energii elektrycznej z wysokosprawnej kogeneracji, związane z prowadzeniem rachunku opłaty kogeneracyjnej w roku „i”, oznaczone symbolem „L OKi ”, oblicza się według wzoru:",
+       "text": "Wydatki związane z zaciągniętym zadłużeniem, o którym mowa w ust. 1, oraz koszty działalności operatora rozliczeń związane bezpośrednio z obsługą systemu wsparcia wytwarzania energii elektrycznej z wysokosprawnej kogeneracji, związane z prowadzeniem rachunku opłaty kogeneracyjnej w roku „i”, oznaczone symbolem „LOKi”, oblicza się według wzoru:",
        "children": [
         {
          "type": "text",
-         "text": "L = C + I + F , OKi OKi OKi OKi"
+         "text": "LOKi = COKi + IOKi + FOKi,"
         },
         {
          "type": "text",
@@ -6913,15 +6913,15 @@
         },
         {
          "type": "text",
-         "text": "C OKi – planowaną kwotę należności głównych z tytułu zadłużenia zaciągniętego przez operatora rozliczeń, w przypadku, o którym mowa w ust. 1, wymagalnych w danym roku kalendarzowym „i”,"
+         "text": "COKi – planowaną kwotę należności głównych z tytułu zadłużenia zaciągniętego przez operatora rozliczeń, w przypadku, o którym mowa w ust. 1, wymagalnych w danym roku kalendarzowym „i”,"
         },
         {
          "type": "text",
-         "text": "I OKi – planowaną kwotę odsetek z tytułu zadłużenia zaciągniętego przez operatora rozliczeń w przypadku, o którym mowa w ust. 1,"
+         "text": "IOKi – planowaną kwotę odsetek z tytułu zadłużenia zaciągniętego przez operatora rozliczeń w przypadku, o którym mowa w ust. 1,"
         },
         {
          "type": "text",
-         "text": "F OKi – planowane w roku kalendarzowym „i” koszty bieżącej działalności operatora rozliczeń związane z prowadzeniem rachunku opłaty kogeneracyjnej."
+         "text": "FOKi – planowane w roku kalendarzowym „i” koszty bieżącej działalności operatora rozliczeń związane z prowadzeniem rachunku opłaty kogeneracyjnej."
         }
        ]
       },
@@ -8913,7 +8913,7 @@
  "footnotes": {
   "1": "Ustawa utraciła moc z dniem 1 października 2016 r. na podstawie art. 59 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. poz. 831), która weszła w życie z dniem 1 października 2016 r.",
   "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681, 1688, 1762, 1890, 1963 i 2029.",
-  "3": "Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 338 z 13.11.2004, str. 18, Dz. Urz. UE L 8 z 13.01.2009, str. 3, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 140 z 05.06.2009, str. 63, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 113 z 25.04.2013, str. 1, Dz. Urz. UE L 343 z 19.12.2013, str. 1, Dz. Urz. UE L 129 z 30.04.2014, str. 1, Dz. Urz. UE L 264 z 09.10.2015, str. 1, Dz. Urz. UE L 280 z 24.10.2015, str. 39, Dz. Urz. UE L 350 z 29.12.2017, str. 7 oraz Dz. Urz. UE L 76 z 19.03.2018, str. 3. sn s I p",
+  "3": "Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 338 z 13.11.2004, str. 18, Dz. Urz. UE L 8 z 13.01.2009, str. 3, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 140 z 05.06.2009, str. 63, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 113 z 25.04.2013, str. 1, Dz. Urz. UE L 343 z 19.12.2013, str. 1, Dz. Urz. UE L 129 z 30.04.2014, str. 1, Dz. Urz. UE L 264 z 09.10.2015, str. 1, Dz. Urz. UE L 280 z 24.10.2015, str. 39, Dz. Urz. UE L 350 z 29.12.2017, str. 7 oraz Dz. Urz. UE L 76 z 19.03.2018, str. 3.",
   "4": "Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 113 z 25.04.2013, str. 24, Dz. Urz. UE L 141 z 28.05.2013, str. 28 oraz Dz. Urz. UE L 156 z 19.06.2018, str. 75.",
   "5": "W brzmieniu ustalonym przez art. 13 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1681), która weszła w życie z dniem 7 września 2023 r.",
   "6": "Artykuł 95 zawiera zmiany do ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.",

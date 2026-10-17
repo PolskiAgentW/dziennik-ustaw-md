@@ -1,7 +1,7 @@
 {
  "eli": "DU/2022/963",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 marca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2022/963/text.pdf",
  "body": [
   {
@@ -3166,19 +3166,23 @@
        "children": [
         {
          "type": "text",
-         "text": "B = r ∙ E +∑r ∙ E SR T T i i w którym poszczególne symbole oznaczają: i"
+         "text": "BSR = rT ∙ ET +∑ri ∙ Ei"
         },
         {
          "type": "text",
-         "text": "B SR – bufor ryzyka systemowego,"
+         "text": "w którym poszczególne symbole oznaczają: i"
         },
         {
          "type": "text",
-         "text": "r T – wskaźnik bufora mający zastosowanie do łącznej kwoty ekspozycji na ryzyko instytucji,"
+         "text": "BSR – bufor ryzyka systemowego,"
         },
         {
          "type": "text",
-         "text": "E T – łączną kwotę ekspozycji na ryzyko instytucji obliczoną zgodnie z art. 92 ust. 3 rozporządzenia 575/2013,"
+         "text": "rT – wskaźnik bufora mający zastosowanie do łącznej kwoty ekspozycji na ryzyko instytucji,"
+        },
+        {
+         "type": "text",
+         "text": "ET – łączną kwotę ekspozycji na ryzyko instytucji obliczoną zgodnie z art. 92 ust. 3 rozporządzenia 575/2013,"
         },
         {
          "type": "text",
@@ -3186,11 +3190,11 @@
         },
         {
          "type": "text",
-         "text": "r i – wskaźnik bufora mający zastosowanie do kwoty ekspozycji na ryzyko podzbioru ekspozycji i,"
+         "text": "ri – wskaźnik bufora mający zastosowanie do kwoty ekspozycji na ryzyko podzbioru ekspozycji i,"
         },
         {
          "type": "text",
-         "text": "E i – kwotę ekspozycji na ryzyko instytucji w odniesieniu do podzbioru ekspozycji i obliczoną zgodnie z art. 92 ust. 3 rozporządzenia 575/2013."
+         "text": "Ei – kwotę ekspozycji na ryzyko instytucji w odniesieniu do podzbioru ekspozycji i obliczoną zgodnie z art. 92 ust. 3 rozporządzenia 575/2013."
         }
        ]
       },

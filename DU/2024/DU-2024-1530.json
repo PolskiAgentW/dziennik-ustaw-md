@@ -1,7 +1,7 @@
 {
  "eli": "DU/2024/1530",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 września 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o finansach publicznych",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2024/1530/text.pdf",
  "body": [
   {
@@ -341,7 +341,7 @@
       },
       {
        "type": "text",
-       "text": "Art. 9. Do obliczenia kwoty wydatków WYD n , o której mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, na rok budżetowy 2024 przyjmuje się:",
+       "text": "Art. 9. Do obliczenia kwoty wydatków WYDn, o której mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, na rok budżetowy 2024 przyjmuje się:",
        "quoted": true
       },
       {
@@ -663,37 +663,37 @@
       },
       {
        "type": "text",
-       "text": "Art. 39. Na rok budżetowy 2025 do obliczenia kwoty wydatków WYD , o której mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, przyjmuje się: n",
+       "text": "Art. 39. Na rok budżetowy 2025 do obliczenia kwoty wydatków WYDn, o której mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, przyjmuje się:",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "1) kwotę wydatków WYD ∗ , o której mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, równą n−1 1 724 188 910 tys. zł;",
+       "text": "1) kwotę wydatków WYDn−1∗ , o której mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, równą 1 724 188 910 tys. zł;",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "2) wielkość korekty kwoty wydatków K , o której mowa w art. 112aa ust. 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, która wynosi n 0.",
+       "text": "2) wielkość korekty kwoty wydatków Kn, o której mowa w art. 112aa ust. 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, która wynosi 0.",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "Art. 40. Na rok budżetowy 2026 do obliczenia kwoty wydatków WYD , o której mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, przyjmuje się: n",
+       "text": "Art. 40. Na rok budżetowy 2026 do obliczenia kwoty wydatków WYDn, o której mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, przyjmuje się:",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "1) kwotę wydatków WYD , o której mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, obliczoną n−1 według wzoru:",
+       "text": "1) kwotę wydatków WYDn−1, o której mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, obliczoną według wzoru:",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "WYD =(1 724 188 910 tys.zł −24 000 000 tys.zł+SPW W )∙E (DEF )⋅WPKB n−1 2024 2025 2025 2025",
+       "text": "WYDn−1 =(1 724 188 910 tys.zł −24 000 000 tys.zł+SPW 2024 W )∙E₂₀₂₅(DEF 2025 )⋅WPKB₂₀₂₅",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "+K +E (∆DD ) 2025 2025 2025",
+       "text": "+K₂₀₂₅ +E₂₀₂₅(∆DD₂₀₂₅)",
        "quoted": true
       },
       {
@@ -703,7 +703,7 @@
       },
       {
        "type": "text",
-       "text": "WYD – kwota wydatków określona w uzasadnieniu projektu ustawy budżetowej na rok 2026 przedn−1 łożonego Sejmowi służąca do ustalenia kwoty wydatków WYD , o której mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą n ustawą,",
+       "text": "WYDn−1 – kwota wydatków określona w uzasadnieniu projektu ustawy budżetowej na rok 2026 przedłożonego Sejmowi służąca do ustalenia kwoty wydatków WYDn, o której mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą,",
        "quoted": true
       },
       {
@@ -713,22 +713,22 @@
       },
       {
        "type": "text",
-       "text": "E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok 2025 przedłożonego 2025 2025 Sejmowi deflator produktu krajowego brutto w roku 2025; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1,",
+       "text": "E₂₀₂₅(DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok 2025 przedłożonego 2025 Sejmowi deflator produktu krajowego brutto w roku 2025; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1,",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "WPKB – wskaźnik średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych 2025 zawarty w uzasadnieniu projektu ustawy budżetowej na rok 2025 przedłożonego Sejmowi z dokładnością do setnych części procentu,",
+       "text": "WPKB₂₀₂₅ – wskaźnik średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych zawarty w uzasadnieniu projektu ustawy budżetowej na rok 2025 przedłożonego Sejmowi z dokładnością do setnych części procentu,",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "E (∆DD ) – suma wartości działań dyskrecjonalnych, o których mowa w art. 112aa ust. 1 ustawy zmie- 2025 2025 nianej w art. 1, w brzmieniu nadanym niniejszą ustawą, uwzględnionych w kwocie wydatków, o której mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, zawarta w uzasadnieniu projektu ustawy budżetowej na rok 2025 przedłożonego Sejmowi,",
+       "text": "E₂₀₂₅(∆DD₂₀₂₅) – suma wartości działań dyskrecjonalnych, o których mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, uwzględnionych w kwocie wydatków, o której mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, zawarta w uzasadnieniu projektu ustawy budżetowej na rok 2025 przedłożonego Sejmowi,",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "K – wielkość korekty kwoty wydatków, o której mowa w art. 112aa ust. 1 ustawy zmienianej 2025 w art. 1, w brzmieniu nadanym niniejszą ustawą, zawarta w uzasadnieniu projektu ustawy budżetowej na rok 2025 przedłożonego Sejmowi;",
+       "text": "K₂₀₂₅ – wielkość korekty kwoty wydatków, o której mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, zawarta w uzasadnieniu projektu ustawy budżetowej na rok 2025 przedłożonego Sejmowi;",
        "quoted": true
       },
       {
@@ -9348,7 +9348,7 @@
        "children": [
         {
          "type": "text",
-         "text": "WYD n =WYD n−1 ∗ ⋅E n (DEF n )⋅WPKB n +K n +E n (∆DD n )"
+         "text": "WYDn =WYDn−1∗ ⋅En(DEF n )⋅WPKBn +Kn +En(∆DDn)"
         },
         {
          "type": "text",
@@ -9356,11 +9356,11 @@
         },
         {
          "type": "text",
-         "text": "PKB E ( PKB ) DEF E (DEF )⁸ PKB n−2 PKB n−1 ∗ n−3 n n−2 WYD =WYD ∙ n−2 ∙ n n−1 ∙ √ PKB ∙ PKB n−1 n−1 E (DEF ) E (DEF ) E ( ) E ( ) n−1 n−2 n−1 n−1 n−1 PKB n−2 n−3 n−1 PKB n−1 n−2"
+         "text": "PKBn−2 En ( PKBn−1) DEF En(DEF )⁸ PKBn−3 PKBn−2 WYDn−1∗ =WYDn−1 ∙ n−2 ∙ n−1 ∙ √ PKBn−2 ∙ PKBn−1 En−1(DEF ) En−1(DEF ) En−1 ( ) En−1 ( ) n−2 n−1 PKBn−3 PKBn−2"
         },
         {
          "type": "text",
-         "text": "₈ PKB PKB PKB WPKB = √ n−2 ∙E ( n−1 )∙E ( n ) n PKB n−8 n PKB n−2 n PKB n−1"
+         "text": "₈ PKBn−2 PKBn−1 PKBn WPKBn = √ ∙En ( )∙En ( ) PKBn−8 PKBn−2 PKBn−1"
         },
         {
          "type": "text",
@@ -9388,11 +9388,11 @@
         },
         {
          "type": "text",
-         "text": "WYD n – kwota wydatków określona w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi,"
+         "text": "WYDn – kwota wydatków określona w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi,"
         },
         {
          "type": "text",
-         "text": "WYD ∗ – kwota wydatków określona w projekcie ustawy budżetowej na rok n−1 przedłożonym Sejn−1 mowi, skorygowana zgodnie z aktualizacją prognoz deflatora produktu krajowego brutto oraz wartości produktu krajowego brutto w cenach stałych, a w przypadku gdy w roku n−1 zostały spełnione warunki, o których mowa w art. 112d ust. 1, kwota wydatków, o której mowa w art. 112d ust. 2, skorygowana zgodnie z aktualizacją prognoz deflatora produktu krajowego brutto oraz wartości produktu krajowego brutto w cenach stałych, WYD – kwota wydatków określona w projekcie ustawy budżetowej na rok n−1 przedłożonym Sejn−1 mowi, a w przypadku gdy w roku n−1 zostały spełnione warunki, o których mowa w art. 112d ust. 1, kwota wydatków, o której mowa w art. 112d ust. 2,"
+         "text": "WYDn−1∗ – kwota wydatków określona w projekcie ustawy budżetowej na rok n−1 przedłożonym Sejmowi, skorygowana zgodnie z aktualizacją prognoz deflatora produktu krajowego brutto oraz wartości produktu krajowego brutto w cenach stałych, a w przypadku gdy w roku n−1 zostały spełnione warunki, o których mowa w art. 112d ust. 1, kwota wydatków, o której mowa w art. 112d ust. 2, skorygowana zgodnie z aktualizacją prognoz deflatora produktu krajowego brutto oraz wartości produktu krajowego brutto w cenach stałych, WYDn−1 – kwota wydatków określona w projekcie ustawy budżetowej na rok n−1 przedłożonym Sejmowi, a w przypadku gdy w roku n−1 zostały spełnione warunki, o których mowa w art. 112d ust. 1, kwota wydatków, o której mowa w art. 112d ust. 2,"
         },
         {
          "type": "text",
@@ -9400,51 +9400,51 @@
         },
         {
          "type": "text",
-         "text": "E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejn−1 n−2 mowi deflator produktu krajowego brutto w roku n−2; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1,"
+         "text": "En−1(DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejn−2 mowi deflator produktu krajowego brutto w roku n−2; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1,"
         },
         {
          "type": "text",
-         "text": "E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejn−1 n−1 mowi deflator produktu krajowego brutto w roku n−1; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1,"
+         "text": "En−1(DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejn−1 mowi deflator produktu krajowego brutto w roku n−1; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1,"
         },
         {
          "type": "text",
-         "text": "E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi n n−1 deflator produktu krajowego brutto w roku n−1; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1,"
+         "text": "En(DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi n−1 deflator produktu krajowego brutto w roku n−1; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1,"
         },
         {
          "type": "text",
-         "text": "E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi n n deflator produktu krajowego brutto w roku n; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1,"
+         "text": "En(DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi n deflator produktu krajowego brutto w roku n; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1,"
         },
         {
          "type": "text",
-         "text": "WPKB – wskaźnik średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych n określony w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi z dokładnością do setnych części procentu,"
+         "text": "WPKBn – wskaźnik średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych określony w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi z dokładnością do setnych części procentu,"
         },
         {
          "type": "text",
-         "text": "K – wielkość korekty kwoty wydatków określona w uzasadnieniu projektu ustawy budżetowej n na rok n przedłożonego Sejmowi,"
+         "text": "Kn – wielkość korekty kwoty wydatków określona w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi,"
         },
         {
          "type": "text",
-         "text": "PKB ⁄ PKB – ogłoszona przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2 łączna n−2 n−8 dynamika wartości produktu krajowego brutto; jeżeli w latach od n−8 do n−2 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6,"
+         "text": "PKBn−2⁄ PKBn−8 – ogłoszona przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2 łączna dynamika wartości produktu krajowego brutto; jeżeli w latach od n−8 do n−2 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6,"
         },
         {
          "type": "text",
-         "text": "PKB ⁄ PKB – ogłoszona przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2b dynamika n−2 n−3 wartości produktu krajowego brutto w cenach stałych w roku n−2; jeżeli w latach n−2 i n−3 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6,"
+         "text": "PKBn−2⁄ PKBn−3 – ogłoszona przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2b dynamika wartości produktu krajowego brutto w cenach stałych w roku n−2; jeżeli w latach n−2 i n−3 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6,"
         },
         {
          "type": "text",
-         "text": "E n ( PKB n−1 ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi PKB n−2 roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n−1; jeżeli w latach n−1 i n−2 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6,"
+         "text": "En ( PKB n−1 ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi PKB n−2 roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n−1; jeżeli w latach n−1 i n−2 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6,"
         },
         {
          "type": "text",
-         "text": "E n ( PKB n ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi PKB n−1 roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n; jeżeli w latach n i n−1 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6,"
+         "text": "En ( PKB n ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi PKB n−1 roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n; jeżeli w latach n i n−1 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6,"
         },
         {
          "type": "text",
-         "text": "E n−1 ( PKB n−1 ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sej- PKB n−2 mowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n−1; jeżeli w latach n−1 i n−2 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6,"
+         "text": "En−1 ( PKB n−1 ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sej- PKB n−2 mowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n−1; jeżeli w latach n−1 i n−2 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6,"
         },
         {
          "type": "text",
-         "text": "E n−1 ( PKB n−2 ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sej- PKB n−3 mowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n−2; jeżeli w latach n−2 i n−3 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E (∆DD ) – prognozowana wartość ogółem działań dyskrecjonalnych, o których mowa w rozporządzeniu n n Parlamentu Europejskiego i Rady (UE) 2024/1263 z dnia 29 kwietnia 2024 r. w sprawie skutecznej koordynacji polityk gospodarczych i w sprawie wielostronnego nadzoru budżetowego oraz uchylającym rozporządzenie Rady (WE) nr 1466/97 (Dz. Urz. UE L 2024/1263 z 30.04.2024), mających wpływ na dochody organów i jednostek, o których mowa w art. 9 pkt 1–3, 5–9, 15, państwowych osób prawnych, o których mowa w art. 9 pkt 14, a także funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw, z tytułu podatków lub składek, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 549/2013 z dnia 21 maja 2013 r. w sprawie europejskiego systemu rachunków narodowych i regionalnych w Unii Europejskiej (Dz. Urz. UE L 174 z 26.06.2013), planowanych lub przyjętych na rok n, jeżeli wartość każdego z tych działań w okresie 12 kolejnych miesięcy począwszy od miesiąca rozpoczęcia stosowania działania dyskrecjonalnego przekracza 0,03 % wartości produktu krajowego brutto prognozowanej w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi; w przypadku planowanej w roku n rezygnacji z działań dyskrecjonalnych dokonanych w latach poprzednich w prognozowanej wartości ogółem działań dyskrecjonalnych w roku n uwzględnia się wpływ na kwotę WYD dokonanych działań dyskrecjonalnych, który wystąpiłby w przypadku braku rezygnacji z tych n działań w roku n, z tym że w przypadku dokonywania w roku n aktualizacji wartości działań dyskrecjonalnych uwzględnionych w latach poprzednich nie ma zastosowania warunek przekroczenia przez każde z nich 0,03 % wartości produktu krajowego brutto prognozowanej w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi, przy czym rok n nie jest wcześniejszy niż rok 2025."
+         "text": "En−1 ( PKB n−2 ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sej- PKB n−3 mowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n−2; jeżeli w latach n−2 i n−3 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, En(∆DDn) – prognozowana wartość ogółem działań dyskrecjonalnych, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2024/1263 z dnia 29 kwietnia 2024 r. w sprawie skutecznej koordynacji polityk gospodarczych i w sprawie wielostronnego nadzoru budżetowego oraz uchylającym rozporządzenie Rady (WE) nr 1466/97 (Dz. Urz. UE L 2024/1263 z 30.04.2024), mających wpływ na dochody organów i jednostek, o których mowa w art. 9 pkt 1–3, 5–9, 15, państwowych osób prawnych, o których mowa w art. 9 pkt 14, a także funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw, z tytułu podatków lub składek, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 549/2013 z dnia 21 maja 2013 r. w sprawie europejskiego systemu rachunków narodowych i regionalnych w Unii Europejskiej (Dz. Urz. UE L 174 z 26.06.2013), planowanych lub przyjętych na rok n, jeżeli wartość każdego z tych działań w okresie 12 kolejnych miesięcy począwszy od miesiąca rozpoczęcia stosowania działania dyskrecjonalnego przekracza 0,03 % wartości produktu krajowego brutto prognozowanej w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi; w przypadku planowanej w roku n rezygnacji z działań dyskrecjonalnych dokonanych w latach poprzednich w prognozowanej wartości ogółem działań dyskrecjonalnych w roku n uwzględnia się wpływ na kwotę WYDn dokonanych działań dyskrecjonalnych, który wystąpiłby w przypadku braku rezygnacji z tych działań w roku n, z tym że w przypadku dokonywania w roku n aktualizacji wartości działań dyskrecjonalnych uwzględnionych w latach poprzednich nie ma zastosowania warunek przekroczenia przez każde z nich 0,03 % wartości produktu krajowego brutto prognozowanej w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi, przy czym rok n nie jest wcześniejszy niż rok 2025."
         }
        ]
       },
@@ -9662,7 +9662,7 @@
        "type": "ust",
        "num": "4",
        "path": "art_112aa/ust_4",
-       "text": "[^35] Wielkość korekty kwoty wydatków K n , o której mowa w ust. 1:",
+       "text": "[^35] Wielkość korekty kwoty wydatków Kn, o której mowa w ust. 1:",
        "children": [
         {
          "type": "pkt",
@@ -9690,7 +9690,7 @@
           },
           {
            "type": "text",
-           "text": "DF n =−0,5 %⋅E n (PKB CB n )"
+           "text": "DF n =−0,5 %⋅En(PKB CB n )"
           },
           {
            "type": "text",
@@ -9702,7 +9702,7 @@
           },
           {
            "type": "text",
-           "text": "E (PKB CB ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n, o którym mowa w ust. 1, n n przedłożonego Sejmowi produkt krajowy brutto w cenach bieżących w roku n, o którym mowa w ust. 1;"
+           "text": "En(PKB CB ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n, o którym mowa w ust. 1, n przedłożonego Sejmowi produkt krajowy brutto w cenach bieżących w roku n, o którym mowa w ust. 1;"
           }
          ]
         },
@@ -9799,14 +9799,14 @@
        "type": "ust",
        "num": "1",
        "path": "art_112ab/ust_1",
-       "text": "W przypadku zatwierdzenia przez Radę Unii Europejskiej ścieżki wydatków netto, o której mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2024/1263 z dnia 29 kwietnia 2024 r. w sprawie skutecznej koordynacji polityk gospodarczych i w sprawie wielostronnego nadzoru budżetowego oraz uchylającym rozporządzenie Rady (WE) nr 1466/97, wielkość korekty kwoty wydatków K , o której mowa w art. 112aa ust. 1, odpowiada wysiłkowi fiskalnemu zgodnemu z zatwierdzoną przez Radę Unii Europejskiej n ścieżką wydatków netto, o której mowa w tym rozporządzeniu.",
+       "text": "W przypadku zatwierdzenia przez Radę Unii Europejskiej ścieżki wydatków netto, o której mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2024/1263 z dnia 29 kwietnia 2024 r. w sprawie skutecznej koordynacji polityk gospodarczych i w sprawie wielostronnego nadzoru budżetowego oraz uchylającym rozporządzenie Rady (WE) nr 1466/97, wielkość korekty kwoty wydatków Kn, o której mowa w art. 112aa ust. 1, odpowiada wysiłkowi fiskalnemu zgodnemu z zatwierdzoną przez Radę Unii Europejskiej ścieżką wydatków netto, o której mowa w tym rozporządzeniu.",
        "children": []
       },
       {
        "type": "ust",
        "num": "2",
        "path": "art_112ab/ust_2",
-       "text": "Wielkość korekty kwoty wydatków K , o której mowa w art. 112aa ust. 1, może być inna niż wynikająca z ust. 1 lub art. 112aa ust. 4, jeżeli wynika to z zaleceń n Rady Unii Europejskiej wydanych na podstawie art. 121 ust. 2 lub 4 lub art. 126 ust. 7 Traktatu o funkcjonowaniu Unii Europejskiej.",
+       "text": "Wielkość korekty kwoty wydatków Kn, o której mowa w art. 112aa ust. 1, może być inna niż wynikająca z ust. 1 lub art. 112aa ust. 4, jeżeli wynika to z zaleceń Rady Unii Europejskiej wydanych na podstawie art. 121 ust. 2 lub 4 lub art. 126 ust. 7 Traktatu o funkcjonowaniu Unii Europejskiej.",
        "children": []
       }
      ]
@@ -9896,7 +9896,7 @@
         },
         {
          "type": "text",
-         "text": "– roczna dynamika wartości produktu krajowego brutto w cenach stałych jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKB , o którym mowa w art. 112aa ust. 1, określonego w uzasadnieniu projektu ustawy budżetowej na ostatni rok, na który w n projekcie ustawy budżetowej określono kwotę wydatków obliczoną zgodnie z art. 112aa ust. 1, przedłożonego Sejmowi."
+         "text": "– roczna dynamika wartości produktu krajowego brutto w cenach stałych jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKBn, o którym mowa w art. 112aa ust. 1, określonego w uzasadnieniu projektu ustawy budżetowej na ostatni rok, na który w projekcie ustawy budżetowej określono kwotę wydatków obliczoną zgodnie z art. 112aa ust. 1, przedłożonego Sejmowi."
         }
        ]
       },
@@ -9915,15 +9915,15 @@
        "children": [
         {
          "type": "text",
-         "text": "k−i WYD S = WYD + (S +S′ ) s+i n k s s w którym poszczególne symbole oznaczają:"
+         "text": "k−i WYD Ss+i = WYDn + (Ss +S′ ) k s w którym poszczególne symbole oznaczają:"
         },
         {
          "type": "text",
-         "text": "WYD S – kwota wydatków, o której mowa w art. 112aa ust. 1, powiększona o sumę skutków finansowych zwiąs+i zanych ze stanem, o którym mowa w ust. 1,"
+         "text": "WYD Ss+i – kwota wydatków, o której mowa w art. 112aa ust. 1, powiększona o sumę skutków finansowych związanych ze stanem, o którym mowa w ust. 1,"
         },
         {
          "type": "text",
-         "text": "WYD n – kwota wydatków, o której mowa w art. 112aa ust. 1,"
+         "text": "WYDn – kwota wydatków, o której mowa w art. 112aa ust. 1,"
         },
         {
          "type": "text",
@@ -9943,7 +9943,7 @@
         },
         {
          "type": "text",
-         "text": "S – suma prognozowanych w uzasadnieniu projektu ustawy budżetowej na rok s przedłożonego Sejmowi s lub w uzasadnieniu projektu ustawy zmieniającej ustawę budżetową na rok s przedłożonego Sejmowi skutków finansowych po stronie dochodów i wydatków wynikających z działań dyskrecjonalnych bezpośrednio nakierowanych na powstrzymanie skutków stanu, o którym mowa w ust. 1, i walkę z tymi skutkami oraz na bezpośrednie wsparcie dotkniętych nim podmiotów,"
+         "text": "Ss – suma prognozowanych w uzasadnieniu projektu ustawy budżetowej na rok s przedłożonego Sejmowi lub w uzasadnieniu projektu ustawy zmieniającej ustawę budżetową na rok s przedłożonego Sejmowi skutków finansowych po stronie dochodów i wydatków wynikających z działań dyskrecjonalnych bezpośrednio nakierowanych na powstrzymanie skutków stanu, o którym mowa w ust. 1, i walkę z tymi skutkami oraz na bezpośrednie wsparcie dotkniętych nim podmiotów,"
         },
         {
          "type": "text",
@@ -9961,14 +9961,14 @@
          "type": "pkt",
          "num": "1",
          "path": "art_112d/ust_4/pkt_1",
-         "text": "drugi – jeżeli średnia dynamika wartości produktu krajowego brutto w cenach stałych w roku s, o którym mowa w ust. 3, oraz roku następującym po roku s, o którym mowa w ust. 3, prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n, o którym mowa w ust. 3, przedłożonego Sejmowi lub w uzasadnieniu projektu ustawy zmieniającej ustawę budżetową na rok n, o którym mowa w ust. 3, przedłożonego Sejmowi nie jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKB n , o którym mowa w art. 112aa ust. 1, określonego w uzasadnieniu projektu ustawy budżetowej na ostatni rok, w którym nie zostały spełnione warunki określone w ust. 1, przedłożonego Sejmowi, albo",
+         "text": "drugi – jeżeli średnia dynamika wartości produktu krajowego brutto w cenach stałych w roku s, o którym mowa w ust. 3, oraz roku następującym po roku s, o którym mowa w ust. 3, prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n, o którym mowa w ust. 3, przedłożonego Sejmowi lub w uzasadnieniu projektu ustawy zmieniającej ustawę budżetową na rok n, o którym mowa w ust. 3, przedłożonego Sejmowi nie jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKBn, o którym mowa w art. 112aa ust. 1, określonego w uzasadnieniu projektu ustawy budżetowej na ostatni rok, w którym nie zostały spełnione warunki określone w ust. 1, przedłożonego Sejmowi, albo",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "art_112d/ust_4/pkt_2",
-         "text": "trzeci – jeżeli średnia dynamika wartości produktu krajowego brutto w cenach stałych w roku s, o którym mowa w ust. 3, oraz roku następującym po roku s, o którym mowa w ust. 3, prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n, o którym mowa w ust. 3, przedłożonego Sejmowi lub w uzasadnieniu projektu ustawy zmieniającej ustawę budżetową na rok n, o którym mowa w ust. 3, przedłożonego Sejmowi jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKB n , o którym mowa w art. 112aa ust. 1, określonego w uzasadnieniu projektu ustawy budżetowej na ostatni rok, w którym nie zostały spełnione warunki określone w ust. 1, przedłożonego Sejmowi, oraz jeżeli średnia dynamika wartości produktu krajowego brutto w cenach stałych w roku s, o którym mowa w ust. 3, oraz dwóch latach następujących po roku s, o którym mowa w ust. 3, prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n, o którym mowa w ust. 3, przedłożonego Sejmowi lub w uzasadnieniu projektu ustawy zmieniającej ustawę budżetową na rok n, o którym mowa w ust. 3, przedłożonego Sejmowi, nie jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKB n , o którym mowa w art. 112aa ust. 1, określonego w uzasadnieniu projektu ustawy budżetowej na ostatni rok, w którym nie zostały spełnione warunki określone w ust. 1, przedłożonego Sejmowi, albo",
+         "text": "trzeci – jeżeli średnia dynamika wartości produktu krajowego brutto w cenach stałych w roku s, o którym mowa w ust. 3, oraz roku następującym po roku s, o którym mowa w ust. 3, prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n, o którym mowa w ust. 3, przedłożonego Sejmowi lub w uzasadnieniu projektu ustawy zmieniającej ustawę budżetową na rok n, o którym mowa w ust. 3, przedłożonego Sejmowi jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKBn, o którym mowa w art. 112aa ust. 1, określonego w uzasadnieniu projektu ustawy budżetowej na ostatni rok, w którym nie zostały spełnione warunki określone w ust. 1, przedłożonego Sejmowi, oraz jeżeli średnia dynamika wartości produktu krajowego brutto w cenach stałych w roku s, o którym mowa w ust. 3, oraz dwóch latach następujących po roku s, o którym mowa w ust. 3, prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n, o którym mowa w ust. 3, przedłożonego Sejmowi lub w uzasadnieniu projektu ustawy zmieniającej ustawę budżetową na rok n, o którym mowa w ust. 3, przedłożonego Sejmowi, nie jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKBn, o którym mowa w art. 112aa ust. 1, określonego w uzasadnieniu projektu ustawy budżetowej na ostatni rok, w którym nie zostały spełnione warunki określone w ust. 1, przedłożonego Sejmowi, albo",
          "children": []
         },
         {
@@ -9991,14 +9991,14 @@
        "type": "ust",
        "num": "6",
        "path": "art_112d/ust_6",
-       "text": "Obliczając kwotę wydatków, o której mowa w ust. 3 oraz art. 112aa ust. 1, roczną dynamikę wartości produktu krajowego brutto w cenach stałych w roku s, o którym mowa w ust. 3, oraz latach i, o których mowa w ust. 3, zastępuje się wskaźnikiem średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKB n , o którym mowa w art. 112aa ust. 1, określonym w uzasadnieniu projektu ustawy budżetowej na ostatni rok, w którym nie zostały spełnione warunki określone w ust. 1, przedłożonego Sejmowi, z dokładnością do setnych części procentu.",
+       "text": "Obliczając kwotę wydatków, o której mowa w ust. 3 oraz art. 112aa ust. 1, roczną dynamikę wartości produktu krajowego brutto w cenach stałych w roku s, o którym mowa w ust. 3, oraz latach i, o których mowa w ust. 3, zastępuje się wskaźnikiem średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKBn, o którym mowa w art. 112aa ust. 1, określonym w uzasadnieniu projektu ustawy budżetowej na ostatni rok, w którym nie zostały spełnione warunki określone w ust. 1, przedłożonego Sejmowi, z dokładnością do setnych części procentu.",
        "children": []
       },
       {
        "type": "ust",
        "num": "7",
        "path": "art_112d/ust_7",
-       "text": "Obliczając kwotę wydatków, o której mowa w art. 112aa ust. 1, na rok, w którym zostały spełnione warunki określone w ust. 1, i lata następujące po tym roku, do roku poprzedzającego rok, o którym mowa w ust. 4, nie stosuje się korekty kwoty wydatków K n , o której mowa w art. 112aa ust. 1.",
+       "text": "Obliczając kwotę wydatków, o której mowa w art. 112aa ust. 1, na rok, w którym zostały spełnione warunki określone w ust. 1, i lata następujące po tym roku, do roku poprzedzającego rok, o którym mowa w ust. 4, nie stosuje się korekty kwoty wydatków Kn, o której mowa w art. 112aa ust. 1.",
        "children": []
       },
       {

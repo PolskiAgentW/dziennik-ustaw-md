@@ -1,7 +1,7 @@
 {
  "eli": "DU/2024/1622",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 października 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku oraz w 2024 roku",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2024/1622/text.pdf",
  "body": [
   {
@@ -1495,7 +1495,7 @@
        "children": [
         {
          "type": "text",
-         "text": "CR = 80 % ∗ C TGeBase + 20 % ∗C TGePeak + PMOZE A + PMOZE BIO + PMEF+M"
+         "text": "CR = 80 % ∗ C TGeBase + 20 % ∗C TGePeak + PMOZE A + PMOZEBIO + PMEF+M"
         },
         {
          "type": "text",
@@ -1511,11 +1511,11 @@
         },
         {
          "type": "text",
-         "text": "C TGePeak – średnią ważoną wolumenem obrotu dobowych indeksów TGePeak dla danego miesiąca dostawy energii elektrycznej publikowanych przez Towarową Giełdę Energii S.A. [zł/MWh], PMOZE A – jednostkowy rynkowy koszt umorzenia świadectw pochodzenia potwierdzających wytworzenie energii elektrycznej w odnawialnych źródłach energii wyznaczany jako iloczyn średnich ważonych wolumenem cen PMOZE_A [zł/MWh] z transakcji sesyjnych i pozasesyjnych zawartych w danym miesiącu publikowanych przez Towarową Giełdę Energii S.A. i minimalnej wielkości udziału ilościowego sumy energii elektrycznej wynikającej z umorzonych świadectw pochodzenia potwierdzających wytworzenie energii elektrycznej z odnawialnych źródeł energii odpowiednio w 2023 r. albo w 2024 r. określonego w przepisach wykonawczych wydanych na podstawie art. 60 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2024 r. poz. 1361), zwanej dalej „ustawą o odnawialnych źródłach energii”,"
+         "text": "C TGePeak – średnią ważoną wolumenem obrotu dobowych indeksów TGePeak dla danego miesiąca dostawy energii elektrycznej publikowanych przez Towarową Giełdę Energii S.A. [zł/MWh], PMOZEA – jednostkowy rynkowy koszt umorzenia świadectw pochodzenia potwierdzających wytworzenie energii elektrycznej w odnawialnych źródłach energii wyznaczany jako iloczyn średnich ważonych wolumenem cen PMOZE_A [zł/MWh] z transakcji sesyjnych i pozasesyjnych zawartych w danym miesiącu publikowanych przez Towarową Giełdę Energii S.A. i minimalnej wielkości udziału ilościowego sumy energii elektrycznej wynikającej z umorzonych świadectw pochodzenia potwierdzających wytworzenie energii elektrycznej z odnawialnych źródeł energii odpowiednio w 2023 r. albo w 2024 r. określonego w przepisach wykonawczych wydanych na podstawie art. 60 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2024 r. poz. 1361), zwanej dalej „ustawą o odnawialnych źródłach energii”,"
         },
         {
          "type": "text",
-         "text": "PMOZE BIO – jednostkowy rynkowy koszt umorzenia świadectw pochodzenia potwierdzających wytworzenie energii elektrycznej w biogazowniach rolniczych wyznaczony jako iloczyn stawki opłaty zastępczej [zł/MWh] obowiązującej za dany miesiąc i minimalnej wielkości udziału ilościowego sumy energii elektrycznej wynikającej z umorzonych świadectw pochodzenia potwierdzających wytworzenie energii elektrycznej z odnawialnych źródeł energii odpowiednio w 2023 r. albo w 2024 r. określonego w przepisach wykonawczych wydanych na podstawie art. 60 ustawy o odnawialnych źródłach energii,"
+         "text": "PMOZEBIO – jednostkowy rynkowy koszt umorzenia świadectw pochodzenia potwierdzających wytworzenie energii elektrycznej w biogazowniach rolniczych wyznaczony jako iloczyn stawki opłaty zastępczej [zł/MWh] obowiązującej za dany miesiąc i minimalnej wielkości udziału ilościowego sumy energii elektrycznej wynikającej z umorzonych świadectw pochodzenia potwierdzających wytworzenie energii elektrycznej z odnawialnych źródeł energii odpowiednio w 2023 r. albo w 2024 r. określonego w przepisach wykonawczych wydanych na podstawie art. 60 ustawy o odnawialnych źródłach energii,"
         },
         {
          "type": "text",
@@ -3024,7 +3024,7 @@
        "children": [
         {
          "type": "text",
-         "text": "OF d = W d ∗ (X ̅̅̅̅̅̅−X CRd ̅̅̅̅̅̅ CLd )+97 %∗(D Gd +D IFd +D IRd ),"
+         "text": "OF d = W d ∗ (X ̅̅̅̅̅̅−XCRd ̅̅̅̅̅̅CLd )+97 %∗(DGd +DIFd +DIRd),"
         },
         {
          "type": "text",
@@ -3036,31 +3036,31 @@
         },
         {
          "type": "text",
-         "text": "W d – wolumen sprzedaży energii elektrycznej w danym dniu, ̅̅̅̅̅̅ X – średnią ważoną wolumenem cenę rynkową sprzedanej energii elektrycznej w danym dniu dla podmiotu, CRd o którym mowa w art. 21,"
+         "text": "W d – wolumen sprzedaży energii elektrycznej w danym dniu, ̅̅̅̅̅̅ XCRd – średnią ważoną wolumenem cenę rynkową sprzedanej energii elektrycznej w danym dniu dla podmiotu, o którym mowa w art. 21,"
         },
         {
          "type": "text",
-         "text": "̅̅̅̅̅̅ X – średni ważony wolumenem limit ceny sprzedanej energii elektrycznej w danym dniu dla podmiotu, o którym CLd mowa w art. 21,"
+         "text": "̅̅̅̅̅̅ XCLd – średni ważony wolumenem limit ceny sprzedanej energii elektrycznej w danym dniu dla podmiotu, o którym mowa w art. 21,"
         },
         {
          "type": "text",
-         "text": "D Gd – przychody ze sprzedaży gwarancji pochodzenia w rozumieniu ustawy o odnawialnych źródłach energii w danym dniu dla podmiotu, o którym mowa w art. 21,"
+         "text": "DGd – przychody ze sprzedaży gwarancji pochodzenia w rozumieniu ustawy o odnawialnych źródłach energii w danym dniu dla podmiotu, o którym mowa w art. 21,"
         },
         {
          "type": "text",
-         "text": "D – przychody z umów związanych ze sprzedażą energii elektrycznej obejmujących instrumenty finansowe IFd w rozumieniu art. 2 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi w danym dniu dla podmiotu, o którym mowa w art. 21,"
+         "text": "DIFd – przychody z umów związanych ze sprzedażą energii elektrycznej obejmujących instrumenty finansowe w rozumieniu art. 2 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi w danym dniu dla podmiotu, o którym mowa w art. 21,"
         },
         {
          "type": "text",
-         "text": "D – przychody z dodatkowych rozliczeń pieniężnych podmiotów, o których mowa w art. 21, wynikające IRd z zawartych umów sprzedaży energii elektrycznej lub innych umów, w których dodatkowe rozliczenia pieniężne zależą od ilości lub wartości sprzedanej energii."
+         "text": "DIRd – przychody z dodatkowych rozliczeń pieniężnych podmiotów, o których mowa w art. 21, wynikające z zawartych umów sprzedaży energii elektrycznej lub innych umów, w których dodatkowe rozliczenia pieniężne zależą od ilości lub wartości sprzedanej energii."
         },
         {
          "type": "text",
-         "text": "Jeżeli X ̅̅̅̅̅̅<X ̅̅̅̅̅̅, odpis na Fundusz, o którym mowa w ust. 1, przekazywany przez podmioty, o których mowa w art. 21, ustala CRd się zgodnie CLd z następującym wzorem:"
+         "text": "Jeżeli X ̅̅̅̅̅̅<XCRd ̅̅̅̅̅̅,CLd odpis na Fundusz, o którym mowa w ust. 1, przekazywany przez podmioty, o których mowa w art. 21, ustala się zgodnie z następującym wzorem:"
         },
         {
          "type": "text",
-         "text": "OF d = 97 %∗(D Gd +D IFd +D IRd ),"
+         "text": "OF d = 97 %∗(DGd +DIFd +DIRd),"
         },
         {
          "type": "text",
@@ -3072,15 +3072,15 @@
         },
         {
          "type": "text",
-         "text": "D Gd – przychody ze sprzedaży gwarancji pochodzenia w rozumieniu ustawy o odnawialnych źródłach energii w danym dniu dla podmiotu, o którym mowa w art. 21,"
+         "text": "DGd – przychody ze sprzedaży gwarancji pochodzenia w rozumieniu ustawy o odnawialnych źródłach energii w danym dniu dla podmiotu, o którym mowa w art. 21,"
         },
         {
          "type": "text",
-         "text": "D – przychody z umów związanych ze sprzedażą energii elektrycznej obejmującej instrumenty finansowe IFd w rozumieniu art. 2 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi w danym dniu dla podmiotu, o którym mowa w art. 21,"
+         "text": "DIFd – przychody z umów związanych ze sprzedażą energii elektrycznej obejmującej instrumenty finansowe w rozumieniu art. 2 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi w danym dniu dla podmiotu, o którym mowa w art. 21,"
         },
         {
          "type": "text",
-         "text": "D – przychody z dodatkowych rozliczeń pieniężnych podmiotów, o których mowa w art. 21, wynikające IRd z zawartych umów sprzedaży energii elektrycznej lub innych umów, w których dodatkowe rozliczenia pieniężne zależą od ilości lub wartości sprzedanej energii."
+         "text": "DIRd – przychody z dodatkowych rozliczeń pieniężnych podmiotów, o których mowa w art. 21, wynikające z zawartych umów sprzedaży energii elektrycznej lub innych umów, w których dodatkowe rozliczenia pieniężne zależą od ilości lub wartości sprzedanej energii."
         }
        ]
       },
@@ -3121,7 +3121,7 @@
        "children": [
         {
          "type": "text",
-         "text": "OF d = Max (W d − 0,3∗W z ;0)∗(X ̅̅̅̅̅̅−X CRd ̅̅̅̅̅̅ CLd )+97 %∗(D Gd +D IFd +D IRd ),"
+         "text": "OF d = Max (W d − 0,3∗W z ;0)∗(X ̅̅̅̅̅̅−XCRd ̅̅̅̅̅̅CLd )+97 %∗(DGd +DIFd +DIRd),"
         },
         {
          "type": "text",
@@ -3137,31 +3137,31 @@
         },
         {
          "type": "text",
-         "text": "W z – wolumen energii elektrycznej zakupionej na dany okres, o którym mowa w ust. 2a, ̅̅̅̅̅̅ X – średnią ważoną wolumenem cenę rynkową sprzedanej energii elektrycznej w danym okresie, o którym CRd mowa w ust. 2a,"
+         "text": "W z – wolumen energii elektrycznej zakupionej na dany okres, o którym mowa w ust. 2a, ̅̅̅̅̅̅ XCRd – średnią ważoną wolumenem cenę rynkową sprzedanej energii elektrycznej w danym okresie, o którym mowa w ust. 2a,"
         },
         {
          "type": "text",
-         "text": "̅̅̅̅̅̅ X – średni ważony wolumenem limit ceny sprzedanej energii elektrycznej w danym okresie, o którym mowa CLd w ust. 2a,"
+         "text": "̅̅̅̅̅̅ XCLd – średni ważony wolumenem limit ceny sprzedanej energii elektrycznej w danym okresie, o którym mowa w ust. 2a,"
         },
         {
          "type": "text",
-         "text": "D – przychody ze sprzedaży gwarancji pochodzenia w rozumieniu ustawy o odnawialnych źródłach energii Gd w danym okresie, o którym mowa w ust. 2a,"
+         "text": "DGd – przychody ze sprzedaży gwarancji pochodzenia w rozumieniu ustawy o odnawialnych źródłach energii w danym okresie, o którym mowa w ust. 2a,"
         },
         {
          "type": "text",
-         "text": "D – przychody z umów związanych ze sprzedażą energii elektrycznej obejmujących instrumenty finansowe IFd w rozumieniu art. 2 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi w danym okresie, o którym mowa w ust. 2a,"
+         "text": "DIFd – przychody z umów związanych ze sprzedażą energii elektrycznej obejmujących instrumenty finansowe w rozumieniu art. 2 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi w danym okresie, o którym mowa w ust. 2a,"
         },
         {
          "type": "text",
-         "text": "D – przychody z dodatkowych rozliczeń pieniężnych podmiotów, o których mowa w art. 21, wynikające IRd z zawartych umów sprzedaży energii elektrycznej lub innych umów, w których dodatkowe rozliczenia pieniężne zależą od ilości lub wartości sprzedanej energii."
+         "text": "DIRd – przychody z dodatkowych rozliczeń pieniężnych podmiotów, o których mowa w art. 21, wynikające z zawartych umów sprzedaży energii elektrycznej lub innych umów, w których dodatkowe rozliczenia pieniężne zależą od ilości lub wartości sprzedanej energii."
         },
         {
          "type": "text",
-         "text": "Jeżeli X ̅̅̅̅̅̅<X ̅̅̅̅̅̅, odpis na Fundusz, o którym mowa w ust. 1, przekazywany przez podmioty, o których mowa w art. 21 ust. CRd 2, które CLd są jednocześnie odbiorcami przemysłowymi i które znajdują się w wykazie odbiorców przemysłowych, o którym mowa w art. 52 ust. 4 ustawy o odnawialnych źródłach energii, ustala się zgodnie z następującym wzorem:"
+         "text": "Jeżeli X ̅̅̅̅̅̅<XCRd ̅̅̅̅̅̅,CLd odpis na Fundusz, o którym mowa w ust. 1, przekazywany przez podmioty, o których mowa w art. 21 ust. 2, które są jednocześnie odbiorcami przemysłowymi i które znajdują się w wykazie odbiorców przemysłowych, o którym mowa w art. 52 ust. 4 ustawy o odnawialnych źródłach energii, ustala się zgodnie z następującym wzorem:"
         },
         {
          "type": "text",
-         "text": "OF d = 97 %∗(D Gd +D IFd +D IRd ),"
+         "text": "OF d = 97 %∗(DGd +DIFd +DIRd),"
         },
         {
          "type": "text",
@@ -3173,15 +3173,15 @@
         },
         {
          "type": "text",
-         "text": "D – przychody ze sprzedaży gwarancji pochodzenia w rozumieniu ustawy o odnawialnych źródłach energii Gd w danym dniu dla podmiotu, o którym mowa w art. 21,"
+         "text": "DGd – przychody ze sprzedaży gwarancji pochodzenia w rozumieniu ustawy o odnawialnych źródłach energii w danym dniu dla podmiotu, o którym mowa w art. 21,"
         },
         {
          "type": "text",
-         "text": "D – przychody z umów związanych ze sprzedażą energii elektrycznej obejmujących instrumenty finansowe IFd w rozumieniu art. 2 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi w danym dniu dla podmiotu, o którym mowa w art. 21,"
+         "text": "DIFd – przychody z umów związanych ze sprzedażą energii elektrycznej obejmujących instrumenty finansowe w rozumieniu art. 2 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi w danym dniu dla podmiotu, o którym mowa w art. 21,"
         },
         {
          "type": "text",
-         "text": "D – przychody z dodatkowych rozliczeń pieniężnych podmiotów, o których mowa w art. 21, wynikające IRd z zawartych umów sprzedaży energii elektrycznej lub innych umów, w których dodatkowe rozliczenia pieniężne zależą od ilości lub wartości sprzedanej energii."
+         "text": "DIRd – przychody z dodatkowych rozliczeń pieniężnych podmiotów, o których mowa w art. 21, wynikające z zawartych umów sprzedaży energii elektrycznej lub innych umów, w których dodatkowe rozliczenia pieniężne zależą od ilości lub wartości sprzedanej energii."
         }
        ]
       },
@@ -3202,21 +3202,21 @@
          "type": "pkt",
          "num": "1",
          "path": "art_23/ust_2d/pkt_1",
-         "text": "ze sprzedaży gwarancji pochodzenia w rozumieniu ustawy o odnawialnych źródłach energii oznaczonych symbolem D Gd ;",
+         "text": "ze sprzedaży gwarancji pochodzenia w rozumieniu ustawy o odnawialnych źródłach energii oznaczonych symbolem DGd;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "art_23/ust_2d/pkt_2",
-         "text": "z umów związanych ze sprzedażą energii elektrycznej obejmujących instrumenty finansowe w rozumieniu art. 2 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi oznaczonych symbolem D IFd ;",
+         "text": "z umów związanych ze sprzedażą energii elektrycznej obejmujących instrumenty finansowe w rozumieniu art. 2 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi oznaczonych symbolem DIFd;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "3",
          "path": "art_23/ust_2d/pkt_3",
-         "text": "wynikających z dodatkowych rozliczeń pieniężnych podmiotów, o których mowa w art. 21, wynikających z zawartych umów sprzedaży energii elektrycznej lub innych umów, w których dodatkowe rozliczenia pieniężne zależą od ilości lub wartości sprzedanej energii oznaczonych symbolem D IRd .",
+         "text": "wynikających z dodatkowych rozliczeń pieniężnych podmiotów, o których mowa w art. 21, wynikających z zawartych umów sprzedaży energii elektrycznej lub innych umów, w których dodatkowe rozliczenia pieniężne zależą od ilości lub wartości sprzedanej energii oznaczonych symbolem DIRd.",
          "children": []
         }
        ]

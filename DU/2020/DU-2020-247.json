@@ -1,7 +1,7 @@
 {
  "eli": "DU/2020/247",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 grudnia 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rynku mocy",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2020/247/text.pdf",
  "body": [
   {
@@ -5821,7 +5821,7 @@
        "children": [
         {
          "type": "text",
-         "text": "K C = K AG + K AD + K R – B,"
+         "text": "KC = K AG + K AD + KR – B,"
         },
         {
          "type": "text",
@@ -5829,19 +5829,19 @@
         },
         {
          "type": "text",
-         "text": "K C – całkowity koszt rynku mocy w danym roku dostaw,"
+         "text": "KC – całkowity koszt rynku mocy w danym roku dostaw,"
         },
         {
          "type": "text",
-         "text": "K AG – sumę iloczynów obowiązków mocowych i cen zamknięcia aukcji głównej na dany rok dostaw,"
+         "text": "KAG – sumę iloczynów obowiązków mocowych i cen zamknięcia aukcji głównej na dany rok dostaw,"
         },
         {
          "type": "text",
-         "text": "K AD – sumę iloczynów obowiązków mocowych i odpowiednich cen zamknięcia aukcji dodatkowych na dany rok dostaw,"
+         "text": "KAD – sumę iloczynów obowiązków mocowych i odpowiednich cen zamknięcia aukcji dodatkowych na dany rok dostaw,"
         },
         {
          "type": "text",
-         "text": "K R – koszty, o których mowa w art. 77 ust. 3 i 4,"
+         "text": "KR – koszty, o których mowa w art. 77 ust. 3 i 4,"
         },
         {
          "type": "text",
@@ -5915,7 +5915,7 @@
        "children": [
         {
          "type": "text",
-         "text": "K = Z GD ×K , GD Z K −R C"
+         "text": "KGD = Z Z K GD −R ×KC,"
         },
         {
          "type": "text",
@@ -5923,15 +5923,15 @@
         },
         {
          "type": "text",
-         "text": "K GD – koszt rynku mocy dla grupy odbiorców, o której mowa w art. 70 ust. 1 pkt 1,"
+         "text": "KGD – koszt rynku mocy dla grupy odbiorców, o której mowa w art. 70 ust. 1 pkt 1,"
         },
         {
          "type": "text",
-         "text": "Z GD – roczne zużycie energii elektrycznej w gospodarstwach domowych,"
+         "text": "ZGD – roczne zużycie energii elektrycznej w gospodarstwach domowych,"
         },
         {
          "type": "text",
-         "text": "Z K – roczne zużycie energii elektrycznej w systemie przez odbiorców końcowych,"
+         "text": "ZK – roczne zużycie energii elektrycznej w systemie przez odbiorców końcowych,"
         },
         {
          "type": "text",
@@ -5939,7 +5939,7 @@
         },
         {
          "type": "text",
-         "text": "K C – całkowity koszt rynku mocy w danym roku dostaw."
+         "text": "KC – całkowity koszt rynku mocy w danym roku dostaw."
         }
        ]
       },
@@ -5987,7 +5987,7 @@
        "children": [
         {
          "type": "text",
-         "text": "K , S = GD 0,25×a+0,6×b+c+1,4×d"
+         "text": "KGD , S = 0,25×a+0,6×b+c+1,4×d"
         },
         {
          "type": "text",
@@ -5999,7 +5999,7 @@
         },
         {
          "type": "text",
-         "text": "K GD – koszt rynku mocy dla grupy odbiorców, o której mowa w art. 70 ust. 1 pkt 1,"
+         "text": "KGD – koszt rynku mocy dla grupy odbiorców, o której mowa w art. 70 ust. 1 pkt 1,"
         },
         {
          "type": "text",
@@ -6063,7 +6063,7 @@
        "children": [
         {
          "type": "text",
-         "text": "K P = K C – K GD ,"
+         "text": "KP = KC – KGD ,"
         },
         {
          "type": "text",
@@ -6071,15 +6071,15 @@
         },
         {
          "type": "text",
-         "text": "K P – koszt rynku mocy dla grupy odbiorców, o której mowa w art. 70 ust. 1 pkt 2,"
+         "text": "KP – koszt rynku mocy dla grupy odbiorców, o której mowa w art. 70 ust. 1 pkt 2,"
         },
         {
          "type": "text",
-         "text": "K C – całkowity koszt rynku mocy w danym roku dostaw,"
+         "text": "KC – całkowity koszt rynku mocy w danym roku dostaw,"
         },
         {
          "type": "text",
-         "text": "K GD – koszt rynku mocy dla grupy odbiorców, o której mowa w art. 70 ust. 1 pkt 1."
+         "text": "KGD – koszt rynku mocy dla grupy odbiorców, o której mowa w art. 70 ust. 1 pkt 1."
         }
        ]
       },

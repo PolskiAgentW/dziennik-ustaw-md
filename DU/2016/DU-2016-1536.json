@@ -1,7 +1,7 @@
 {
  "eli": "DU/2016/1536",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 sierpnia 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2016/1536/text.pdf",
  "body": [
   {
@@ -842,11 +842,11 @@
         },
         {
          "type": "text",
-         "text": "g 1i – kwotę refundacji na koniec roku poprzedzającego dla produktu i-tego wnioskodawcy, który otrzymał decyzję administracyjną o objęciu refundacją w danej grupie limitowej,"
+         "text": "g1i – kwotę refundacji na koniec roku poprzedzającego dla produktu i-tego wnioskodawcy, który otrzymał decyzję administracyjną o objęciu refundacją w danej grupie limitowej,"
         },
         {
          "type": "text",
-         "text": "g 2i – kwotę refundacji na koniec roku rozliczeniowego dla produktu i-tego wnioskodawcy, który otrzymał decyzję administracyjną o objęciu refundacją w danej grupie limitowej."
+         "text": "g2i – kwotę refundacji na koniec roku rozliczeniowego dla produktu i-tego wnioskodawcy, który otrzymał decyzję administracyjną o objęciu refundacją w danej grupie limitowej."
         }
        ]
       },
@@ -881,27 +881,27 @@
         },
         {
          "type": "text",
-         "text": "S i unorm – unormowany współczynnik udziału w kwocie przekroczenia dla produktu i-tego wnioskodawcy, który otrzymał decyzję o objęciu refundacją w danej grupie limitowej,"
+         "text": "Siunorm – unormowany współczynnik udziału w kwocie przekroczenia dla produktu i-tego wnioskodawcy, który otrzymał decyzję o objęciu refundacją w danej grupie limitowej,"
         },
         {
          "type": "text",
-         "text": "S i – współczynnik udziału w kwocie przekroczenia dla produktu i-tego wnioskodawcy, który otrzymał decyzję o objęciu refundacją w danej grupie limitowej,"
+         "text": "Si – współczynnik udziału w kwocie przekroczenia dla produktu i-tego wnioskodawcy, który otrzymał decyzję o objęciu refundacją w danej grupie limitowej,"
         },
         {
          "type": "text",
-         "text": "g 2i – kwotę refundacji na koniec roku rozliczeniowego dla produktu i-tego wnioskodawcy, który otrzymał decyzję o objęciu refundacją w danej grupie limitowej,"
+         "text": "g2i – kwotę refundacji na koniec roku rozliczeniowego dla produktu i-tego wnioskodawcy, który otrzymał decyzję o objęciu refundacją w danej grupie limitowej,"
         },
         {
          "type": "text",
-         "text": "∑g 2i – sumaryczną kwotę refundacji na koniec roku rozliczeniowego produktów wszystkich wnioskodawców, którzy otrzymali decyzję administracyjną o objęciu refundacją w danej grupie limitowej,"
+         "text": "∑g2i – sumaryczną kwotę refundacji na koniec roku rozliczeniowego produktów wszystkich wnioskodawców, którzy otrzymali decyzję administracyjną o objęciu refundacją w danej grupie limitowej,"
         },
         {
          "type": "text",
-         "text": "C 2i – urzędową cenę zbytu za DDD leku i-tego wnioskodawcy, który otrzymał decyzję administracyjną o objęciu refundacją w danej grupie limitowej na koniec roku rozliczeniowego,"
+         "text": "C2i – urzędową cenę zbytu za DDD leku i-tego wnioskodawcy, który otrzymał decyzję administracyjną o objęciu refundacją w danej grupie limitowej na koniec roku rozliczeniowego,"
         },
         {
          "type": "text",
-         "text": "C 2L – najniższą urzędową cenę zbytu za DDD leku stanowiącego podstawę limitu w danej grupie limitowej w roku rozliczeniowym."
+         "text": "C2L – najniższą urzędową cenę zbytu za DDD leku stanowiącego podstawę limitu w danej grupie limitowej w roku rozliczeniowym."
         }
        ]
       },
@@ -916,7 +916,7 @@
        "type": "ust",
        "num": "7",
        "path": "art_4/ust_7",
-       "text": "Wnioskodawca, który otrzymał decyzję administracyjną o objęciu refundacją, biorący udział w zwrocie kwoty przekroczenia, zwraca Funduszowi kwotę odpowiednio dla danej grupy limitowej, w wysokości wyliczanej według wzoru: KZ i = S i unorm × KP × G × 0,5",
+       "text": "Wnioskodawca, który otrzymał decyzję administracyjną o objęciu refundacją, biorący udział w zwrocie kwoty przekroczenia, zwraca Funduszowi kwotę odpowiednio dla danej grupy limitowej, w wysokości wyliczanej według wzoru: KZi = Siunorm × KP × G × 0,5",
        "children": [
         {
          "type": "text",
@@ -924,11 +924,11 @@
         },
         {
          "type": "text",
-         "text": "KZ i – kwotę zwracaną przez i-tego wnioskodawcę, który otrzymał decyzję administracyjną o objęciu refundacją w danej grupie limitowej,"
+         "text": "KZi – kwotę zwracaną przez i-tego wnioskodawcę, który otrzymał decyzję administracyjną o objęciu refundacją w danej grupie limitowej,"
         },
         {
          "type": "text",
-         "text": "S i unorm – unormowany współczynnik udziału w kwocie przekroczenia dla i-tego wnioskodawcy, który otrzymał decyzję administracyjną o objęciu refundacją, KP – kwotę przekroczenia w danej grupie limitowej,"
+         "text": "Siunorm – unormowany współczynnik udziału w kwocie przekroczenia dla i-tego wnioskodawcy, który otrzymał decyzję administracyjną o objęciu refundacją, KP – kwotę przekroczenia w danej grupie limitowej,"
         },
         {
          "type": "text",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2024/927",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 czerwca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o gospodarce opakowaniami i odpadami opakowaniowymi",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2024/927/text.pdf",
  "body": [
   {
@@ -6004,7 +6004,7 @@
       },
       {
        "type": "text",
-       "text": "OP rec. – oznacza wysokość należnej opłaty produktowej w zł,"
+       "text": "OPrec. – oznacza wysokość należnej opłaty produktowej w zł,"
       },
       {
        "type": "text",
@@ -6012,7 +6012,7 @@
       },
       {
        "type": "text",
-       "text": "P rec. – oznacza wymagany poziom recyklingu w %,"
+       "text": "Prec. – oznacza wymagany poziom recyklingu w %,"
       },
       {
        "type": "text",
@@ -6024,7 +6024,7 @@
       },
       {
        "type": "text",
-       "text": "Jeżeli P rec. – OR ma wartość ujemną, jako należną opłatę produktową wpisuje się wartość „0”."
+       "text": "Jeżeli Prec. – OR ma wartość ujemną, jako należną opłatę produktową wpisuje się wartość „0”."
       }
      ]
     },
@@ -6043,7 +6043,7 @@
      "children": [
       {
        "type": "text",
-       "text": "(M ∙SO +M ∙SO +⋯+M ∙SO ) OP =¹¹²²⁸⁸ ∙(P ∙M −M ) rec. recyklingu całkowita poddana recyklingowi M całkowita"
+       "text": "(M₁ ∙SO₁ +M₂ ∙SO₂ +⋯+M₈ ∙SO₈) OP = ∙(P ∙Mcałkowita −Mpoddana recyklingowi) rec. Mcałkowita recyklingu"
       },
       {
        "type": "text",
@@ -6051,11 +6051,11 @@
       },
       {
        "type": "text",
-       "text": "OP rec. – oznacza wysokość należnej opłaty produktowej w zł,"
+       "text": "OPrec. – oznacza wysokość należnej opłaty produktowej w zł,"
       },
       {
        "type": "text",
-       "text": "M – oznacza masę w kg opakowań danego rodzaju, w których zostały wprowadzone do obrotu produkty, z indeksem liczbowym zgodnie z art. 20 ust. 2 lub 3, przy czym:"
+       "text": "Mz indeksem liczbowym – oznacza masę w kg opakowań danego rodzaju, w których zostały wprowadzone do obrotu produkty, zgodnie z art. 20 ust. 2 lub 3, przy czym:"
       },
       {
        "type": "text",
@@ -6091,7 +6091,7 @@
       },
       {
        "type": "text",
-       "text": "SO – oznacza stawkę opłaty produktowej w zł za kg, określoną w przepisach wydanych na podstawie art. 35 ust. 2, przy czym:"
+       "text": "SOz indeksem liczbowym – oznacza stawkę opłaty produktowej w zł za kg, określoną w przepisach wydanych na podstawie art. 35 ust. 2, przy czym:"
       },
       {
        "type": "text",
@@ -6123,15 +6123,15 @@
       },
       {
        "type": "text",
-       "text": "SO₈ – dotyczy pozostałych opakowań, P recyklingu – oznacza wyrażony ułamkiem dziesiętnym wymagany w danym roku kalendarzowym poziom recyklingu,"
+       "text": "SO₈ – dotyczy pozostałych opakowań, Precyklingu – oznacza wyrażony ułamkiem dziesiętnym wymagany w danym roku kalendarzowym poziom recyklingu,"
       },
       {
        "type": "text",
-       "text": "M całkowita – oznacza sumę mas w kg wszystkich rodzajów opakowań wprowadzonych do obrotu przez wprowadzającego produkty w opakowaniach, zgodnie z art. 20 ust. 2 lub 3,"
+       "text": "Mcałkowita – oznacza sumę mas w kg wszystkich rodzajów opakowań wprowadzonych do obrotu przez wprowadzającego produkty w opakowaniach, zgodnie z art. 20 ust. 2 lub 3,"
       },
       {
        "type": "text",
-       "text": "M – oznacza sumę mas w kg wszystkich rodzajów odpadów opakowaniowych poddanych recyklingowi, poddana recyklingowi zgodnie z art. 20 ust. 2 lub 3."
+       "text": "Mpoddana recyklingowi – oznacza sumę mas w kg wszystkich rodzajów odpadów opakowaniowych poddanych recyklingowi, zgodnie z art. 20 ust. 2 lub 3."
       }
      ]
     },
@@ -6143,11 +6143,11 @@
      "children": [
       {
        "type": "text",
-       "text": "P −OR OP =M ∙( rec.OK OK )∙SO rec.OK rec. 100 %"
+       "text": "P −OROK OP =Mrec. ∙( rec.OK )∙SO rec.OK 100 %"
       },
       {
        "type": "text",
-       "text": "M OR = rec.OK ∙100 % OK M rec."
+       "text": "Mrec.OK OROK = ∙100 % Mrec."
       },
       {
        "type": "text",
@@ -6155,23 +6155,23 @@
       },
       {
        "type": "text",
-       "text": "OP rec.OK – oznacza wysokość należnej opłaty produktowej w zł,"
+       "text": "OPrec.OK – oznacza wysokość należnej opłaty produktowej w zł,"
       },
       {
        "type": "text",
-       "text": "M rec. – oznacza masę w kg odpadów opakowaniowych danego rodzaju poddanych recyklingowi, zgodnie z art. 20 ust. 2 lub 3,"
+       "text": "Mrec. – oznacza masę w kg odpadów opakowaniowych danego rodzaju poddanych recyklingowi, zgodnie z art. 20 ust. 2 lub 3,"
       },
       {
        "type": "text",
-       "text": "M rec.OK – oznacza masę w kg odpadów opakowaniowych danego rodzaju pochodzących z gospodarstw domowych poddanych recyklingowi, zgodnie z art. 20 ust. 2 lub 3,"
+       "text": "Mrec.OK – oznacza masę w kg odpadów opakowaniowych danego rodzaju pochodzących z gospodarstw domowych poddanych recyklingowi, zgodnie z art. 20 ust. 2 lub 3,"
       },
       {
        "type": "text",
-       "text": "P rec.OK – oznacza wymagany poziom recyklingu odpadów opakowaniowych pochodzących z gospodarstw domowych w %, zgodnie z art. 20 ust. 4,"
+       "text": "Prec.OK – oznacza wymagany poziom recyklingu odpadów opakowaniowych pochodzących z gospodarstw domowych w %, zgodnie z art. 20 ust. 4,"
       },
       {
        "type": "text",
-       "text": "OR OK – oznacza osiągnięty poziom recyklingu odpadów opakowaniowych pochodzących z gospodarstw domowych obliczony zgodnie ze wzorem,"
+       "text": "OROK – oznacza osiągnięty poziom recyklingu odpadów opakowaniowych pochodzących z gospodarstw domowych obliczony zgodnie ze wzorem,"
       },
       {
        "type": "text",
@@ -6179,7 +6179,7 @@
       },
       {
        "type": "text",
-       "text": "Jeżeli P rec.OK – OR OK ma wartość ujemną, jako należną opłatę produktową wpisuje się wartość „0”."
+       "text": "Jeżeli Prec.OK – OROK ma wartość ujemną, jako należną opłatę produktową wpisuje się wartość „0”."
       }
      ]
     },
@@ -6205,7 +6205,7 @@
         },
         {
          "type": "text",
-         "text": "OP pz – oznacza wysokość należnej opłaty produktowej w zł,"
+         "text": "OPpz – oznacza wysokość należnej opłaty produktowej w zł,"
         },
         {
          "type": "text",
@@ -6213,7 +6213,7 @@
         },
         {
          "type": "text",
-         "text": "P pz – oznacza wymagany poziom udziału wagowego w %, określony w art. 14a ust. 1 pkt 2,"
+         "text": "Ppz – oznacza wymagany poziom udziału wagowego w %, określony w art. 14a ust. 1 pkt 2,"
         },
         {
          "type": "text",
@@ -6225,7 +6225,7 @@
         },
         {
          "type": "text",
-         "text": "Jeżeli P pz – OZ ma wartość ujemną, jako należną opłatę produktową wpisuje się wartość „0”;"
+         "text": "Jeżeli Ppz – OZ ma wartość ujemną, jako należną opłatę produktową wpisuje się wartość „0”;"
         }
        ]
       },
@@ -6241,7 +6241,7 @@
         },
         {
          "type": "text",
-         "text": "OP pz – oznacza wysokość należnej opłaty produktowej w zł,"
+         "text": "OPpz – oznacza wysokość należnej opłaty produktowej w zł,"
         },
         {
          "type": "text",
@@ -6249,7 +6249,7 @@
         },
         {
          "type": "text",
-         "text": "P pz – oznacza wymagany poziom udziału wagowego w %, określony w art. 14a ust. 1 pkt 1,"
+         "text": "Ppz – oznacza wymagany poziom udziału wagowego w %, określony w art. 14a ust. 1 pkt 1,"
         },
         {
          "type": "text",
@@ -6261,7 +6261,7 @@
         },
         {
          "type": "text",
-         "text": "Jeżeli P pz – OZ ma wartość ujemną, jako należną opłatę produktową wpisuje się wartość „0”."
+         "text": "Jeżeli Ppz – OZ ma wartość ujemną, jako należną opłatę produktową wpisuje się wartość „0”."
         }
        ]
       }
@@ -6455,7 +6455,7 @@
   "44": "Artykuł 68 zawiera zmiany do ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej.",
   "45": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. poz. 78, z 2004 r. poz. 97 i 959, z 2005 r. poz. 1458, z 2011 r. poz. 322 oraz z 2013 r. poz. 21.",
   "46": "Ustawa została ogłoszona w dniu 6 sierpnia 2013 r.",
-  "47": "Załącznik nr 1a dodany przez załącznik nr 1 do ustawy, o której mowa w odnośniku 2, na podstawie art. 1 pkt 21 tej ustawy. z indeksem liczbowym",
+  "47": "Załącznik nr 1a dodany przez załącznik nr 1 do ustawy, o której mowa w odnośniku 2, na podstawie art. 1 pkt 21 tej ustawy.",
   "48": "W brzmieniu ustalonym przez art. 1 pkt 22 lit. a ustawy, o której mowa w odnośniku 2.",
   "49": "Dodany przez art. 1 pkt 22 lit. b ustawy, o której mowa w odnośniku 2.",
   "50": "Załącznik nr 4 dodany przez załącznik nr 2 ustawy, o której mowa w odnośniku 2, na podstawie art. 1 pkt 23 tej ustawy."

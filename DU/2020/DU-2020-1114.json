@@ -1,7 +1,7 @@
 {
  "eli": "DU/2020/1114",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 maja 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o gospodarce opakowaniami i odpadami opakowaniowymi",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2020/1114/text.pdf",
  "body": [
   {
@@ -4940,7 +4940,7 @@
       },
       {
        "type": "text",
-       "text": "OP rec. – oznacza wysokość należnej opłaty produktowej w zł,"
+       "text": "OPrec. – oznacza wysokość należnej opłaty produktowej w zł,"
       },
       {
        "type": "text",
@@ -4948,7 +4948,7 @@
       },
       {
        "type": "text",
-       "text": "P rec. – oznacza wymagany poziom recyklingu w %,"
+       "text": "Prec. – oznacza wymagany poziom recyklingu w %,"
       },
       {
        "type": "text",
@@ -4960,7 +4960,7 @@
       },
       {
        "type": "text",
-       "text": "Jeżeli P rec. – OR ma wartość ujemną, jako należną opłatę produktową wpisuje się wartość „0”."
+       "text": "Jeżeli Prec. – OR ma wartość ujemną, jako należną opłatę produktową wpisuje się wartość „0”."
       }
      ]
     },
@@ -4972,7 +4972,7 @@
      "children": [
       {
        "type": "text",
-       "text": "(M ∙SO +M ∙SO +⋯+M ∙SO ) OP =¹¹²²⁸⁸ ∙(P ∙M −M ) odz. odzysku całkowita odzyskana M całkowita"
+       "text": "(M₁ ∙SO₁ +M₂ ∙SO₂ +⋯+M₈ ∙SO₈) OP = ∙(P ∙Mcałkowita −Modzyskana) odz. Mcałkowita odzysku"
       },
       {
        "type": "text",
@@ -4980,11 +4980,11 @@
       },
       {
        "type": "text",
-       "text": "OP odz. – oznacza wysokość należnej opłaty produktowej w zł,"
+       "text": "OPodz. – oznacza wysokość należnej opłaty produktowej w zł,"
       },
       {
        "type": "text",
-       "text": "M – oznacza masę w kg opakowań danego rodzaju, w których zostały wprowadzone do obrotu proz indeksem liczbowym dukty, zgodnie z art. 20 ust. 2 lub 3, przy czym:"
+       "text": "Mz indeksem liczbowym – oznacza masę w kg opakowań danego rodzaju, w których zostały wprowadzone do obrotu produkty, zgodnie z art. 20 ust. 2 lub 3, przy czym:"
       },
       {
        "type": "text",
@@ -4996,19 +4996,19 @@
       },
       {
        "type": "text",
-       "text": "SO – oznacza stawkę opłaty produktowej w zł za kg, określoną w przepisach wydanych na podstawie art. 35 ust. 2, przy czym: SO₁ – dotyczy opakowań z tworzyw sztucznych, SO₂ – dotyczy opakowań z aluminium, SO₃ – dotyczy opakowań ze stali, w tym z blachy stalowej, SO₄ – dotyczy opakowań z papieru i tektury, SO₅ – dotyczy opakowań ze szkła, SO₆ – dotyczy opakowań z drewna, SO₇ – dotyczy opakowań wielomateriałowych, SO₈ – dotyczy pozostałych opakowań,"
+       "text": "SOz indeksem liczbowym – oznacza stawkę opłaty produktowej w zł za kg, określoną w przepisach wydanych na podstawie art. 35 ust. 2, przy czym: SO₁ – dotyczy opakowań z tworzyw sztucznych, SO₂ – dotyczy opakowań z aluminium, SO₃ – dotyczy opakowań ze stali, w tym z blachy stalowej, SO₄ – dotyczy opakowań z papieru i tektury, SO₅ – dotyczy opakowań ze szkła, SO₆ – dotyczy opakowań z drewna, SO₇ – dotyczy opakowań wielomateriałowych, SO₈ – dotyczy pozostałych opakowań,"
       },
       {
        "type": "text",
-       "text": "P odzysku – oznacza wyrażony ułamkiem dziesiętnym wymagany w danym roku kalendarzowym poziom odzysku,"
+       "text": "Podzysku – oznacza wyrażony ułamkiem dziesiętnym wymagany w danym roku kalendarzowym poziom odzysku,"
       },
       {
        "type": "text",
-       "text": "M całkowita – oznacza sumę mas w kg wszystkich rodzajów opakowań wprowadzonych do obrotu przez wprowadzającego produkty w opakowaniach, zgodnie z art. 20 ust. 2 lub 3,"
+       "text": "Mcałkowita – oznacza sumę mas w kg wszystkich rodzajów opakowań wprowadzonych do obrotu przez wprowadzającego produkty w opakowaniach, zgodnie z art. 20 ust. 2 lub 3,"
       },
       {
        "type": "text",
-       "text": "M odzyskana – oznacza sumę mas w kg wszystkich rodzajów odpadów opakowaniowych poddanych odzyskowi, zgodnie z art. 20 ust. 2 lub 3."
+       "text": "Modzyskana – oznacza sumę mas w kg wszystkich rodzajów odpadów opakowaniowych poddanych odzyskowi, zgodnie z art. 20 ust. 2 lub 3."
       }
      ]
     },
@@ -5020,7 +5020,7 @@
      "children": [
       {
        "type": "text",
-       "text": "(M ∙SO +M ∙SO +⋯+M ∙SO ) OP =¹¹²²⁸⁸ ∙(P ∙M −M ) rec. recyklingu całkowita poddana recyklingowi M całkowita"
+       "text": "(M₁ ∙SO₁ +M₂ ∙SO₂ +⋯+M₈ ∙SO₈) OP = ∙(P ∙Mcałkowita −Mpoddana recyklingowi) rec. Mcałkowita recyklingu"
       },
       {
        "type": "text",
@@ -5028,19 +5028,27 @@
       },
       {
        "type": "text",
-       "text": "OP rec. – oznacza wysokość należnej opłaty produktowej w zł, M – oznacza masę w kg opakowań danego rodzaju, w których zostały wprowadzone do obrotu produkty, z indeksem liczbowym zgodnie z art. 20 ust. 2 lub 3, przy czym: M₁ – dotyczy opakowań z tworzyw sztucznych, M₂ – dotyczy opakowań z aluminium, M₃ – dotyczy opakowań ze stali, w tym z blachy stalowej, oraz z pozostałych metali, M₄ – dotyczy opakowań z papieru i tektury, M₅ – dotyczy opakowań ze szkła, M₆ – dotyczy opakowań z drewna, M₇ – dotyczy opakowań wielomateriałowych, M₈ – dotyczy pozostałych opakowań,"
+       "text": "OPrec. – oznacza wysokość należnej opłaty produktowej w zł,"
       },
       {
        "type": "text",
-       "text": "SO – oznacza stawkę opłaty produktowej w zł za kg, określoną w przepisach wydanych na podstawie z indeksem liczbowym art. 35 ust. 2, przy czym: SO₁ – dotyczy opakowań z tworzyw sztucznych, SO₂ – dotyczy opakowań z aluminium, SO₃ – dotyczy opakowań ze stali, w tym z blachy stalowej, SO₄ – dotyczy opakowań z papieru i tektury, SO₅ – dotyczy opakowań ze szkła, SO₆ – dotyczy opakowań z drewna, SO₇ – dotyczy opakowań wielomateriałowych, SO₈ – dotyczy pozostałych opakowań,"
+       "text": "Mz indeksem liczbowym – oznacza masę w kg opakowań danego rodzaju, w których zostały wprowadzone do obrotu produkty, zgodnie z art. 20 ust. 2 lub 3, przy czym: M₁ – dotyczy opakowań z tworzyw sztucznych, M₂ – dotyczy opakowań z aluminium, M₃ – dotyczy opakowań ze stali, w tym z blachy stalowej, oraz z pozostałych metali, M₄ – dotyczy opakowań z papieru i tektury, M₅ – dotyczy opakowań ze szkła, M₆ – dotyczy opakowań z drewna, M₇ – dotyczy opakowań wielomateriałowych, M₈ – dotyczy pozostałych opakowań,"
       },
       {
        "type": "text",
-       "text": "P recyklingu – oznacza wyrażony ułamkiem dziesiętnym wymagany w danym roku kalendarzowym poziom recyklingu, M całkowita – oznacza sumę mas w kg wszystkich rodzajów opakowań wprowadzonych do obrotu przez wprowadzającego produkty w opakowaniach, zgodnie z art. 20 ust. 2 lub 3,"
+       "text": "SOz indeksem liczbowym – oznacza stawkę opłaty produktowej w zł za kg, określoną w przepisach wydanych na podstawie art. 35 ust. 2, przy czym: SO₁ – dotyczy opakowań z tworzyw sztucznych, SO₂ – dotyczy opakowań z aluminium, SO₃ – dotyczy opakowań ze stali, w tym z blachy stalowej, SO₄ – dotyczy opakowań z papieru i tektury, SO₅ – dotyczy opakowań ze szkła, SO₆ – dotyczy opakowań z drewna, SO₇ – dotyczy opakowań wielomateriałowych, SO₈ – dotyczy pozostałych opakowań,"
       },
       {
        "type": "text",
-       "text": "M – oznacza sumę mas w kg wszystkich rodzajów odpadów opakowaniowych poddanych recyklingowi, poddana recyklingowi zgodnie z art. 20 ust. 2 lub 3."
+       "text": "Precyklingu – oznacza wyrażony ułamkiem dziesiętnym wymagany w danym roku kalendarzowym poziom recyklingu,"
+      },
+      {
+       "type": "text",
+       "text": "Mcałkowita – oznacza sumę mas w kg wszystkich rodzajów opakowań wprowadzonych do obrotu przez wprowadzającego produkty w opakowaniach, zgodnie z art. 20 ust. 2 lub 3,"
+      },
+      {
+       "type": "text",
+       "text": "Mpoddana recyklingowi – oznacza sumę mas w kg wszystkich rodzajów odpadów opakowaniowych poddanych recyklingowi, zgodnie z art. 20 ust. 2 lub 3."
       }
      ]
     },
@@ -5052,27 +5060,31 @@
      "children": [
       {
        "type": "text",
-       "text": "P −OR OP =M ∙( rec.OK OK )∙SO"
+       "text": "P −OROK OP =Mrec. ∙( rec.OK )∙SO"
       },
       {
        "type": "text",
-       "text": "M OR = rec.OK ∙100% gdzie: rec."
+       "text": "Mrec.OK OROK = ∙100% Mrec. gdzie:"
       },
       {
        "type": "text",
-       "text": "OP rec.OK – oznacza wysokość należnej opłaty produktowej w zł, M rec. – oznacza masę w kg odpadów opakowaniowych danego rodzaju poddanych recyklingowi, zgodnie z art. 20 ust. 2 lub 3,"
+       "text": "OPrec.OK – oznacza wysokość należnej opłaty produktowej w zł,"
       },
       {
        "type": "text",
-       "text": "M rec.OK – oznacza masę w kg odpadów opakowaniowych danego rodzaju pochodzących z gospodarstw domowych poddanych recyklingowi, zgodnie z art. 20 ust. 2 lub 3,"
+       "text": "Mrec. – oznacza masę w kg odpadów opakowaniowych danego rodzaju poddanych recyklingowi, zgodnie z art. 20 ust. 2 lub 3,"
       },
       {
        "type": "text",
-       "text": "P rec.OK – oznacza wymagany poziom recyklingu odpadów opakowaniowych pochodzących z gospodarstw domowych w %, zgodnie z art. 20 ust. 4,"
+       "text": "Mrec.OK – oznacza masę w kg odpadów opakowaniowych danego rodzaju pochodzących z gospodarstw domowych poddanych recyklingowi, zgodnie z art. 20 ust. 2 lub 3,"
       },
       {
        "type": "text",
-       "text": "OR OK – oznacza osiągnięty poziom recyklingu odpadów opakowaniowych pochodzących z gospodarstw domowych obliczony zgodnie ze wzorem,"
+       "text": "Prec.OK – oznacza wymagany poziom recyklingu odpadów opakowaniowych pochodzących z gospodarstw domowych w %, zgodnie z art. 20 ust. 4,"
+      },
+      {
+       "type": "text",
+       "text": "OROK – oznacza osiągnięty poziom recyklingu odpadów opakowaniowych pochodzących z gospodarstw domowych obliczony zgodnie ze wzorem,"
       },
       {
        "type": "text",
@@ -5080,7 +5092,7 @@
       },
       {
        "type": "text",
-       "text": "Jeżeli P rec.OK – OR OK ma wartość ujemną, jako należną opłatę produktową wpisuje się wartość „0”."
+       "text": "Jeżeli Prec.OK – OROK ma wartość ujemną, jako należną opłatę produktową wpisuje się wartość „0”."
       }
      ]
     }
@@ -5155,6 +5167,6 @@
   "56": "Artykuł 68 zawiera zmiany do ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej.",
   "57": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. poz. 78, z 2004 r. poz. 97 i 959, z 2005 r. poz. 1458, z 2011 r. poz. 322 oraz z 2013 r. poz. 21.",
   "58": "Ustawa została ogłoszona w dniu 6 sierpnia 2013 r.",
-  "59": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 399, 959, 1495, 1542, 1556, 1590, 1818 i 1905 oraz z 2020 r. poz. 322, 374 i 567. z indeksem liczbowym rec.OK rec. 100% OK M"
+  "59": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 399, 959, 1495, 1542, 1556, 1590, 1818 i 1905 oraz z 2020 r. poz. 322, 374 i 567. rec.OK 100%"
  }
 }

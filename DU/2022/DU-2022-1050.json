@@ -1,7 +1,7 @@
 {
  "eli": "DU/2022/1050",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 kwietnia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2022/1050/text.pdf",
  "body": [
   {
@@ -1082,12 +1082,12 @@
       },
       {
        "type": "text",
-       "text": "10) w art. 99 objaśnienie symbolu ΣK OZEfi otrzymuje brzmienie:",
+       "text": "10) w art. 99 objaśnienie symbolu ΣKOZEfi otrzymuje brzmienie:",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "„ΣK OZEfi – sumę środków przeznaczonych na pokrycie ujemnego salda, o którym mowa w art. 93 ust. 1 pkt 4 oraz ust. 2 pkt 3, oraz ujemnego salda, o którym mowa w art. 40 ust. 1 pkt 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych,”;",
+       "text": "„ΣKOZEfi – sumę środków przeznaczonych na pokrycie ujemnego salda, o którym mowa w art. 93 ust. 1 pkt 4 oraz ust. 2 pkt 3, oraz ujemnego salda, o którym mowa w art. 40 ust. 1 pkt 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych,”;",
        "quoted": true
       },
       {
@@ -1117,17 +1117,17 @@
       },
       {
        "type": "text",
-       "text": "„Wydatki związane z zaciągniętym zadłużeniem, o którym mowa w ust. 1, oraz koszty bieżącej działalności operatora rozliczeń energii odnawialnej, o którym mowa w art. 106, związane z prowadzeniem rachunku opłaty OZE i rozliczaniem ujemnego salda, o którym mowa w art. 93 ust. 1 pkt 4 i ust. 2 pkt 3, oraz ujemnego salda, o którym mowa w art. 40 ust. 1 pkt 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych, oznaczone symbolem „L OZEi ”, oblicza się według wzoru:”,",
+       "text": "„Wydatki związane z zaciągniętym zadłużeniem, o którym mowa w ust. 1, oraz koszty bieżącej działalności operatora rozliczeń energii odnawialnej, o którym mowa w art. 106, związane z prowadzeniem rachunku opłaty OZE i rozliczaniem ujemnego salda, o którym mowa w art. 93 ust. 1 pkt 4 i ust. 2 pkt 3, oraz ujemnego salda, o którym mowa w art. 40 ust. 1 pkt 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych, oznaczone symbolem „LOZEi”, oblicza się według wzoru:”,",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "– objaśnienie symbolu F OZEi otrzymuje brzmienie:",
+       "text": "– objaśnienie symbolu FOZEi otrzymuje brzmienie:",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "„F OZEi – planowane w danym roku koszty bieżącej działalności operatora rozliczeń energii odnawialnej, o którym mowa w art. 106, związane z prowadzeniem rachunku opłaty OZE i pokrycie ujemnego salda, o którym mowa w art. 93 ust. 1 pkt 4 i ust. 2 pkt 3, oraz ujemnego salda, o którym mowa w art. 40 ust. 1 pkt 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych.”;",
+       "text": "„FOZEi – planowane w danym roku koszty bieżącej działalności operatora rozliczeń energii odnawialnej, o którym mowa w art. 106, związane z prowadzeniem rachunku opłaty OZE i pokrycie ujemnego salda, o którym mowa w art. 93 ust. 1 pkt 4 i ust. 2 pkt 3, oraz ujemnego salda, o którym mowa w art. 40 ust. 1 pkt 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych.”;",
        "quoted": true
       },
       {
@@ -2036,7 +2036,7 @@
         },
         {
          "type": "text",
-         "text": "PI = ∑(PI ∗∏(1+r )) c i i"
+         "text": "PIc = ∑(PIi ∗∏(1+ri))"
         },
         {
          "type": "text",
@@ -2048,11 +2048,11 @@
         },
         {
          "type": "text",
-         "text": "PI c – sumę zwaloryzowanej wartości pomocy inwestycyjnej, wyrażoną w złotych,"
+         "text": "PIc – sumę zwaloryzowanej wartości pomocy inwestycyjnej, wyrażoną w złotych,"
         },
         {
          "type": "text",
-         "text": "PI i – wartość w roku „i” pomocy inwestycyjnej, wyrażoną w złotych, udzieloną w danym roku „i”,"
+         "text": "PIi – wartość w roku „i” pomocy inwestycyjnej, wyrażoną w złotych, udzieloną w danym roku „i”,"
         },
         {
          "type": "text",
@@ -2064,11 +2064,11 @@
         },
         {
          "type": "text",
-         "text": "u – rok kalendarzowy, w którym po raz pierwszy udzielono pomocy inwestycyjnej oznaczonej symbolem PI i , przeznaczonej na realizację inwestycji w zakresie danej morskiej farmy wiatrowej, wraz z zespołem urządzeń służących do wyprowadzenia mocy,"
+         "text": "u – rok kalendarzowy, w którym po raz pierwszy udzielono pomocy inwestycyjnej oznaczonej symbolem PIi, przeznaczonej na realizację inwestycji w zakresie danej morskiej farmy wiatrowej, wraz z zespołem urządzeń służących do wyprowadzenia mocy,"
         },
         {
          "type": "text",
-         "text": "r i – stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „i” określonym w komunikacie Prezesa Głównego Urzędu Statystycznego, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość r i dla roku kalendarzowego „j” wynosi 0; w przypadku gdy do dnia złożenia wniosku, o którym mowa w ust. 6, stopa referencyjna w roku „i” nie została ogłoszona, należy przyjąć spadek lub wzrost wskaźnika cen towarów i usług konsumpcyjnych z listopada roku „i” w ujęciu rok do roku."
+         "text": "ri – stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „i” określonym w komunikacie Prezesa Głównego Urzędu Statystycznego, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość ri dla roku kalendarzowego „j” wynosi 0; w przypadku gdy do dnia złożenia wniosku, o którym mowa w ust. 6, stopa referencyjna w roku „i” nie została ogłoszona, należy przyjąć spadek lub wzrost wskaźnika cen towarów i usług konsumpcyjnych z listopada roku „i” w ujęciu rok do roku."
         }
        ]
       },
@@ -2080,7 +2080,7 @@
        "children": [
         {
          "type": "text",
-         "text": "PI C =C − c"
+         "text": "PIc Cs =Co − I"
         },
         {
          "type": "text",
@@ -2088,11 +2088,11 @@
         },
         {
          "type": "text",
-         "text": "C s – cenę skorygowaną, wyrażoną w zł/MWh; w przypadku nieudzielenia pomocy inwestycyjnej, o której mowa w ust. 1, wartość C s jest równa wartości C o ,"
+         "text": "Cs – cenę skorygowaną, wyrażoną w zł/MWh; w przypadku nieudzielenia pomocy inwestycyjnej, o której mowa w ust. 1, wartość Cs jest równa wartości Co,"
         },
         {
          "type": "text",
-         "text": "C o – cenę wskazaną w decyzji, o której mowa w art. 18 ust. 1, albo wynikającą z oferty, o której mowa w art. 31 ust. 1, albo cenę skorygowaną, o której mowa w art. 11 ust. 3, PI c – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, obliczoną zgodnie z ust. 3,"
+         "text": "Co – cenę wskazaną w decyzji, o której mowa w art. 18 ust. 1, albo wynikającą z oferty, o której mowa w art. 31 ust. 1, albo cenę skorygowaną, o której mowa w art. 11 ust. 3, PIc – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, obliczoną zgodnie z ust. 3,"
         },
         {
          "type": "text",
@@ -2115,7 +2115,7 @@
        "children": [
         {
          "type": "text",
-         "text": "P P C =C − I + s sn s I p I p"
+         "text": "P P Csn =Cs − I + s Ip Ip"
         },
         {
          "type": "text",
@@ -2123,23 +2123,23 @@
         },
         {
          "type": "text",
-         "text": "C sn – nową cenę skorygowaną, wyrażoną w zł/MWh, która staje się ceną skorygowaną (C s ) obowiązującą od miesiąca następującego po miesiącu złożenia oświadczenia, o którym mowa w zdaniu pierwszym, stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3,"
+         "text": "Csn – nową cenę skorygowaną, wyrażoną w zł/MWh, która staje się ceną skorygowaną (Cs) obowiązującą od miesiąca następującego po miesiącu złożenia oświadczenia, o którym mowa w zdaniu pierwszym, stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3,"
         },
         {
          "type": "text",
-         "text": "C s – cenę skorygowaną, wyrażoną w zł/MWh, z uwzględnieniem art. 38 ust. 5, obowiązującą do końca miesiąca, w którym złożono oświadczenie, o którym mowa w zdaniu pierwszym, stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3,"
+         "text": "Cs – cenę skorygowaną, wyrażoną w zł/MWh, z uwzględnieniem art. 38 ust. 5, obowiązującą do końca miesiąca, w którym złożono oświadczenie, o którym mowa w zdaniu pierwszym, stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3,"
         },
         {
          "type": "text",
-         "text": "P I – wysokość udzielonej pomocy inwestycyjnej lub wzrost jej wartości, wyrażone w złotych, udzielonej po dniu złożenia oświadczenia, o którym mowa w ust. 5, obliczone zgodnie z ust. 2,"
+         "text": "PI – wysokość udzielonej pomocy inwestycyjnej lub wzrost jej wartości, wyrażone w złotych, udzielonej po dniu złożenia oświadczenia, o którym mowa w ust. 5, obliczone zgodnie z ust. 2,"
         },
         {
          "type": "text",
-         "text": "P s – spadek wartości udzielonej pomocy inwestycyjnej, wyrażony w złotych, po dniu złożenia oświadczenia, o którym mowa w ust. 5, obliczony zgodnie z ust. 2,"
+         "text": "Ps – spadek wartości udzielonej pomocy inwestycyjnej, wyrażony w złotych, po dniu złożenia oświadczenia, o którym mowa w ust. 5, obliczony zgodnie z ust. 2,"
         },
         {
          "type": "text",
-         "text": "I p – ilość energii elektrycznej, wyrażonej w MWh, obliczoną zgodnie z art. 7, w oparciu o moc zainstalowaną elektryczną morskiej farmy wiatrowej, objętą wnioskiem o udzielenie lub zmianę koncesji na wytwarzanie energii elektrycznej, pomniejszoną o ilość energii elektrycznej, w odniesieniu do której wytwórca otrzymał kwotę przeznaczoną na pokrycie ujemnego salda do końca miesiąca poprzedzającego miesiąc, w którym udzielono pomocy P I , stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3."
+         "text": "Ip – ilość energii elektrycznej, wyrażonej w MWh, obliczoną zgodnie z art. 7, w oparciu o moc zainstalowaną elektryczną morskiej farmy wiatrowej, objętą wnioskiem o udzielenie lub zmianę koncesji na wytwarzanie energii elektrycznej, pomniejszoną o ilość energii elektrycznej, w odniesieniu do której wytwórca otrzymał kwotę przeznaczoną na pokrycie ujemnego salda do końca miesiąca poprzedzającego miesiąc, w którym udzielono pomocy PI, stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3."
         }
        ]
       },
@@ -8149,7 +8149,7 @@
   "4": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 350 z 29.12.2009, str. 59, Dz. Urz. UE L 145 z 31.05.2011, str. 30, Dz. Urz. UE L 174 z 01.07.2011, str. 1, Dz. Urz. UE L 146 z 31.05.2013, str. 1, Dz. Urz. UE L 153 z 22.05.2014, str. 1 oraz Dz. Urz. UE L 347 z 28.12.2017, str. 35.",
   "5": "Dodany przez art. 13 pkt 1 lit. b ustawy, o której mowa w odnośniku 3.",
   "6": "W brzmieniu ustalonym przez art. 13 pkt 1 lit. c ustawy, o której mowa w odnośniku 3; ze zmianą wprowadzoną przez art. 6 ustawy z dnia 11 sierpnia 2021 r. o zmianie ustawy o systemie monitorowania i kontrolowania jakości paliw oraz niektórych innych ustaw (Dz. U. poz. 1642), która weszła w życie z dniem 22 września 2021 r.",
-  "7": "Dodany przez art. 13 pkt 1 lit. d ustawy, o której mowa w odnośniku 3. s o I",
+  "7": "Dodany przez art. 13 pkt 1 lit. d ustawy, o której mowa w odnośniku 3.",
   "8": "Zmiana wymienionego komunikatu została ogłoszona w Dz. Urz. UE C 224 z 08.07.2020, str. 2.",
   "9": "Wejdzie w życie z dniem 1 stycznia 2024 r. na podstawie art. 119 niniejszej ustawy.",
   "10": "W brzmieniu ustalonym przez art. 13 pkt 2 ustawy, o której mowa w odnośniku 3.",

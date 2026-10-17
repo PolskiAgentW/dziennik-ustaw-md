@@ -1,7 +1,7 @@
 {
  "eli": "DU/2024/559",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 kwietnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2024/559/text.pdf",
  "body": [
   {
@@ -2425,7 +2425,7 @@
        "children": [
         {
          "type": "text",
-         "text": "B = r ∙ E +∑r ∙ E"
+         "text": "BSR = rT ∙ ET +∑ri ∙ Ei"
         },
         {
          "type": "text",
@@ -2433,15 +2433,15 @@
         },
         {
          "type": "text",
-         "text": "B SR – bufor ryzyka systemowego,"
+         "text": "BSR – bufor ryzyka systemowego,"
         },
         {
          "type": "text",
-         "text": "r T – wskaźnik bufora mający zastosowanie do łącznej kwoty ekspozycji na ryzyko instytucji,"
+         "text": "rT – wskaźnik bufora mający zastosowanie do łącznej kwoty ekspozycji na ryzyko instytucji,"
         },
         {
          "type": "text",
-         "text": "E T – łączną kwotę ekspozycji na ryzyko instytucji obliczoną zgodnie z art. 92 ust. 3 rozporządzenia 575/2013,"
+         "text": "ET – łączną kwotę ekspozycji na ryzyko instytucji obliczoną zgodnie z art. 92 ust. 3 rozporządzenia 575/2013,"
         },
         {
          "type": "text",
@@ -2449,11 +2449,11 @@
         },
         {
          "type": "text",
-         "text": "r i – wskaźnik bufora mający zastosowanie do kwoty ekspozycji na ryzyko podzbioru ekspozycji i,"
+         "text": "ri – wskaźnik bufora mający zastosowanie do kwoty ekspozycji na ryzyko podzbioru ekspozycji i,"
         },
         {
          "type": "text",
-         "text": "E i – kwotę ekspozycji na ryzyko instytucji w odniesieniu do podzbioru ekspozycji i obliczoną zgodnie z art. 92 ust. 3 rozporządzenia 575/2013."
+         "text": "Ei – kwotę ekspozycji na ryzyko instytucji w odniesieniu do podzbioru ekspozycji i obliczoną zgodnie z art. 92 ust. 3 rozporządzenia 575/2013."
         }
        ]
       },
@@ -4090,7 +4090,7 @@
   "5": "Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 195 z 19.06.2020, str. 119.",
   "6": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 137 z 24.05.2017, str. 41, Dz. Urz. UE L 317 z 09.12.2019, str. 17, Dz. Urz. UE L 334 z 27.12.2019, str. 1 oraz Dz. Urz. UE L 49 z 12.02.2021, str. 6.",
   "7": "W brzmieniu ustalonym przez art. 28 ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723), która weszła w życie z dniem 29 września 2023 r.",
-  "8": "Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 240 z 08.09.2016, str. 1. SR T T i i",
+  "8": "Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 240 z 08.09.2016, str. 1.",
   "9": "Artykuł 68 zawiera zmiany do ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.",
   "10": "Artykuł 72 zawiera zmiany do ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.",
   "11": "Artykuł 71 zawiera zmiany do ustawy z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym.",

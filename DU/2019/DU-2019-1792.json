@@ -1,7 +1,7 @@
 {
  "eli": "DU/2019/1792",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 września 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo atomowe",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2019/1792/text.pdf",
  "body": [
   {
@@ -31410,7 +31410,7 @@
     },
     {
      "type": "text",
-     "text": "Dawka pochłonięta oznacza dawkę uśrednioną w tkance lub narządzie. Legalną jednostką miary dawki pochłoniętej jest grej o oznaczeniu „Gy”. Dawka równoważna H T : dawka pochłonięta w tkance lub narządzie T, ważona dla rodzaju i energii promieniowania jonizującego R, wyrażona wzorem:"
+     "text": "Dawka pochłonięta oznacza dawkę uśrednioną w tkance lub narządzie. Legalną jednostką miary dawki pochłoniętej jest grej o oznaczeniu „Gy”. Dawka równoważna HT: dawka pochłonięta w tkance lub narządzie T, ważona dla rodzaju i energii promieniowania jonizującego R, wyrażona wzorem:"
     },
     {
      "type": "text",
@@ -31418,11 +31418,11 @@
     },
     {
      "type": "text",
-     "text": "– D T,R oznacza dawkę pochłoniętą od promieniowania jonizującego R, uśrednioną w tkance lub narządzie T,"
+     "text": "– DT,R oznacza dawkę pochłoniętą od promieniowania jonizującego R, uśrednioną w tkance lub narządzie T,"
     },
     {
      "type": "text",
-     "text": "– w R oznacza czynnik wagowy promieniowania."
+     "text": "– wR oznacza czynnik wagowy promieniowania."
     },
     {
      "type": "text",
@@ -31438,15 +31438,15 @@
     },
     {
      "type": "text",
-     "text": "– D T,R oznacza dawkę pochłoniętą od promieniowa jonizującego R, uśrednioną w tkance lub narządzie T,"
+     "text": "– DT,R oznacza dawkę pochłoniętą od promieniowa jonizującego R, uśrednioną w tkance lub narządzie T,"
     },
     {
      "type": "text",
-     "text": "– w R oznacza czynnik wagowy promieniowania jonizującego R,"
+     "text": "– wR oznacza czynnik wagowy promieniowania jonizującego R,"
     },
     {
      "type": "text",
-     "text": "– w T oznacza czynnik wagowy tkanki lub narządu T."
+     "text": "– wT oznacza czynnik wagowy tkanki lub narządu T."
     }
    ]
   },
@@ -31496,7 +31496,7 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Dawka równoważna H T : dawka pochłonięta w tkance lub w narządzie T, ważona dla rodzaju i energii promieniowania R, wyrażona wzorem:",
+     "text": "Dawka równoważna HT: dawka pochłonięta w tkance lub w narządzie T, ważona dla rodzaju i energii promieniowania R, wyrażona wzorem:",
      "children": [
       {
        "type": "text",
@@ -31510,18 +31510,18 @@
        "type": "tir",
        "num": "1",
        "path": "ust_2/tir_1",
-       "text": "D T,R oznacza dawkę pochłoniętą promieniowania R, uśrednioną w tkance lub narządzie T,",
+       "text": "DT,R oznacza dawkę pochłoniętą promieniowania R, uśrednioną w tkance lub narządzie T,",
        "children": []
       },
       {
        "type": "tir",
        "num": "2",
        "path": "ust_2/tir_2",
-       "text": "w R oznacza czynnik wagowy promieniowania R.",
+       "text": "wR oznacza czynnik wagowy promieniowania R.",
        "children": [
         {
          "type": "text",
-         "text": "Jeżeli pole promieniowania składa się z różnych rodzajów promieniowania R o różnych energiach charakteryzujących się różnymi wartościami w R , całkowitą dawkę równoważną H T oblicza się zgodnie ze wzorem:"
+         "text": "Jeżeli pole promieniowania składa się z różnych rodzajów promieniowania R o różnych energiach charakteryzujących się różnymi wartościami wR, całkowitą dawkę równoważną HT oblicza się zgodnie ze wzorem:"
         },
         {
          "type": "text",
@@ -31553,21 +31553,21 @@
        "type": "tir",
        "num": "1",
        "path": "ust_3/tir_1",
-       "text": "D T,R oznacza dawkę pochłoniętą promieniowania R, uśrednioną w tkance lub narządzie T,",
+       "text": "DT,R oznacza dawkę pochłoniętą promieniowania R, uśrednioną w tkance lub narządzie T,",
        "children": []
       },
       {
        "type": "tir",
        "num": "2",
        "path": "ust_3/tir_2",
-       "text": "w R oznacza czynnik wagowy promieniowania R,",
+       "text": "wR oznacza czynnik wagowy promieniowania R,",
        "children": []
       },
       {
        "type": "tir",
        "num": "3",
        "path": "ust_3/tir_3",
-       "text": "w T oznacza czynnik wagowy tkanki lub narządu T.",
+       "text": "wT oznacza czynnik wagowy tkanki lub narządu T.",
        "children": [
         {
          "type": "text",
@@ -31581,7 +31581,7 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Obciążająca dawka równoważna H T (): dawka obliczona jako całka po czasie () z mocy dawki równoważnej w tkance lub narządzie T, będąca wynikiem wniknięcia substancji promieniotwórczej do organizmu, wyrażona wzorem:",
+     "text": "Obciążająca dawka równoważna HT(): dawka obliczona jako całka po czasie () z mocy dawki równoważnej w tkance lub narządzie T, będąca wynikiem wniknięcia substancji promieniotwórczej do organizmu, wyrażona wzorem:",
      "children": [
       {
        "type": "text",
@@ -31630,14 +31630,14 @@
        "type": "tir",
        "num": "1",
        "path": "ust_5/tir_1",
-       "text": "H T () oznacza obciążającą dawkę równoważną w tkance lub narządzie T,",
+       "text": "HT() oznacza obciążającą dawkę równoważną w tkance lub narządzie T,",
        "children": []
       },
       {
        "type": "tir",
        "num": "2",
        "path": "ust_5/tir_2",
-       "text": "w T oznacza czynnik wagowy tkanki lub narządu T.",
+       "text": "wT oznacza czynnik wagowy tkanki lub narządu T.",
        "children": [
         {
          "type": "text",
@@ -31658,7 +31658,7 @@
     },
     {
      "type": "text",
-     "text": "Izotop Aktywność (Bq) Aktywność (Bq) Stężenie promieniotwórczy P P promieniotwórcze ¹² (kBq/kg)"
+     "text": "Izotop Aktywność (Bq) Aktywność (Bq) Stężenie promieniotwórczy P₁ P₂ promieniotwórcze (kBq/kg)"
     },
     {
      "type": "text",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2017/1148",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 maja 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o odnawialnych źródłach energii",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2017/1148/text.pdf",
  "body": [
   {
@@ -1491,7 +1491,7 @@
       },
       {
        "type": "text",
-       "text": "„2a. Wysokość kary pieniężnej wymierzonej w przypadku określonym w ust. 1 pkt 1a nie może być niższa niż obliczona według wzoru: K = 1,3 · (O − O ),",
+       "text": "„2a. Wysokość kary pieniężnej wymierzonej w przypadku określonym w ust. 1 pkt 1a nie może być niższa niż obliczona według wzoru: KS = 1,3 · (OZK − OZZK),",
        "quoted": true
       },
       {
@@ -1501,17 +1501,17 @@
       },
       {
        "type": "text",
-       "text": "K S – minimalną wysokość kary pieniężnej, wyrażoną w złotych,",
+       "text": "KS – minimalną wysokość kary pieniężnej, wyrażoną w złotych,",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "O ZK – opłatę zastępczą, obliczoną zgodnie z art. 9a ust. 10, wyrażoną w złotych,",
+       "text": "OZK – opłatę zastępczą, obliczoną zgodnie z art. 9a ust. 10, wyrażoną w złotych,",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "O ZZK – uiszczoną opłatę zastępczą, wyrażoną w złotych.",
+       "text": "OZZK – uiszczoną opłatę zastępczą, wyrażoną w złotych.",
        "quoted": true
       },
       {
@@ -2580,7 +2580,7 @@
          "type": "lit",
          "num": "c",
          "path": "art_2/pkt_33a/lit_c",
-         "text": "ciepła w instalacjach odnawialnego źródła energii o łącznej mocy osiągalnej w skojarzeniu nie większej niż 30 MW t",
+         "text": "ciepła w instalacjach odnawialnego źródła energii o łącznej mocy osiągalnej w skojarzeniu nie większej niż 30 MWt",
          "children": []
         },
         {
@@ -5665,7 +5665,7 @@
          "type": "pkt",
          "num": "2",
          "path": "art_42/ust_9/pkt_2",
-         "text": "mocy osiągalnej cieplnej w skojarzeniu nie większej niż 150 MW t – w przypadku instalacji odnawialnego źródła energii wytwarzającej energię elektryczną w wysokosprawnej kogeneracji.",
+         "text": "mocy osiągalnej cieplnej w skojarzeniu nie większej niż 150 MWt – w przypadku instalacji odnawialnego źródła energii wytwarzającej energię elektryczną w wysokosprawnej kogeneracji.",
          "children": []
         }
        ]
@@ -6328,11 +6328,11 @@
         },
         {
          "type": "text",
-         "text": "P i – kurs ustalony dla i-tej transakcji sesyjnej wyrażony w złotych z dokładnością do jednego grosza za 1 MWh,"
+         "text": "Pi – kurs ustalony dla i-tej transakcji sesyjnej wyrażony w złotych z dokładnością do jednego grosza za 1 MWh,"
         },
         {
          "type": "text",
-         "text": "V i – wolumen obrotów i-tej transakcji sesyjnej wyrażony w MWh,"
+         "text": "Vi – wolumen obrotów i-tej transakcji sesyjnej wyrażony w MWh,"
         },
         {
          "type": "text",
@@ -8302,7 +8302,7 @@
          "type": "pkt",
          "num": "2",
          "path": "art_74/ust_4/pkt_2",
-         "text": "mocy osiągalnej cieplnej w skojarzeniu nie większej niż 150 MW t – w przypadku instalacji odnawialnego źródła energii wytwarzającej energię elektryczną w wysokosprawnej kogeneracji.",
+         "text": "mocy osiągalnej cieplnej w skojarzeniu nie większej niż 150 MWt – w przypadku instalacji odnawialnego źródła energii wytwarzającej energię elektryczną w wysokosprawnej kogeneracji.",
          "children": []
         }
        ]
@@ -10547,7 +10547,7 @@
        "children": [
         {
          "type": "text",
-         "text": "S = G /Q − S /Q Ri i i-1 Ri-1 i-1,"
+         "text": "SRi = Gi/Qi-1 − SRi-1/Qi-1,"
         },
         {
          "type": "text",
@@ -10555,19 +10555,19 @@
         },
         {
          "type": "text",
-         "text": "S Ri – stawkę opłaty OZE na dany rok kalendarzowy, wyrażoną w złotych za MWh,"
+         "text": "SRi – stawkę opłaty OZE na dany rok kalendarzowy, wyrażoną w złotych za MWh,"
         },
         {
          "type": "text",
-         "text": "G i – wysokość kwoty planowanej do pobrania w roku kalendarzowym, na który jest kalkulowana stawka opłaty OZE,"
+         "text": "Gi – wysokość kwoty planowanej do pobrania w roku kalendarzowym, na który jest kalkulowana stawka opłaty OZE,"
         },
         {
          "type": "text",
-         "text": "Q i-1 – ilość energii elektrycznej pobranej z sieci i zużytej przez odbiorców końcowych w krajowym systemie elektroenergetycznym, która stanowiła podstawę do obliczenia opłaty OZE, o której mowa w art. 96 ust. 1 i 2, w okresie 12 miesięcy kalendarzowych poprzedzających dzień 1 lipca roku, w którym jest kalkulowana stawka opłaty OZE na kolejny rok kalendarzowy,"
+         "text": "Qi-1 – ilość energii elektrycznej pobranej z sieci i zużytej przez odbiorców końcowych w krajowym systemie elektroenergetycznym, która stanowiła podstawę do obliczenia opłaty OZE, o której mowa w art. 96 ust. 1 i 2, w okresie 12 miesięcy kalendarzowych poprzedzających dzień 1 lipca roku, w którym jest kalkulowana stawka opłaty OZE na kolejny rok kalendarzowy,"
         },
         {
          "type": "text",
-         "text": "S Ri-1 – niewykorzystane środki z opłaty OZE pozostałe z roku kalendarzowego poprzedzającego rok, w którym jest kalkulowana stawka opłaty OZE, wyrażone w złotych."
+         "text": "SRi-1 – niewykorzystane środki z opłaty OZE pozostałe z roku kalendarzowego poprzedzającego rok, w którym jest kalkulowana stawka opłaty OZE, wyrażone w złotych."
         }
        ]
       },
@@ -10591,11 +10591,11 @@
      "type": "art",
      "num": "99",
      "path": "art_99",
-     "text": "Wysokość kwoty oznaczonej symbolem „G i ”, o którym mowa w art. 98 ust. 1, stanowiącej podstawę do kalkulowania w danym roku „ i ” stawki opłaty OZE na rok następny, oblicza się według wzoru:",
+     "text": "Wysokość kwoty oznaczonej symbolem „Gi”, o którym mowa w art. 98 ust. 1, stanowiącej podstawę do kalkulowania w danym roku „ i ” stawki opłaty OZE na rok następny, oblicza się według wzoru:",
      "children": [
       {
        "type": "text",
-       "text": "G = ∑K + L − E i OZEfi OZEi OZEi,"
+       "text": "Gi = ∑KOZEfi + LOZEi − EOZEi,"
       },
       {
        "type": "text",
@@ -10603,15 +10603,15 @@
       },
       {
        "type": "text",
-       "text": "∑K – sumę środków przeznaczonych na pokrycie ujemnego salda, o którym mowa w art. 93 ust. 1 pkt 4 oraz OZEfi ust. 2 pkt 3,"
+       "text": "∑KOZEfi – sumę środków przeznaczonych na pokrycie ujemnego salda, o którym mowa w art. 93 ust. 1 pkt 4 oraz ust. 2 pkt 3,"
       },
       {
        "type": "text",
-       "text": "L OZEi – wydatki i koszty, o których mowa w art. 102 ust. 2,"
+       "text": "LOZEi – wydatki i koszty, o których mowa w art. 102 ust. 2,"
       },
       {
        "type": "text",
-       "text": "E OZEi – prognozowany, na dzień 31 grudnia danego roku „ i ”, stan środków na rachunku opłaty OZE, zgodnie z informacją, o której mowa w art. 102 ust. 3 pkt 2."
+       "text": "EOZEi – prognozowany, na dzień 31 grudnia danego roku „ i ”, stan środków na rachunku opłaty OZE, zgodnie z informacją, o której mowa w art. 102 ust. 3 pkt 2."
       }
      ]
     },
@@ -10824,11 +10824,11 @@
        "type": "ust",
        "num": "2",
        "path": "art_102/ust_2",
-       "text": "[^114] Wydatki związane z zaciągniętym zadłużeniem, o którym mowa w ust. 1, oraz koszty bieżącej działalności operatora rozliczeń energii odnawialnej, o którym mowa w art. 106, związane z prowadzeniem rachunku opłaty OZE i rozliczaniem ujemnego salda, o którym mowa w art. 93 ust. 1 pkt 4 i ust. 2 pkt 3, oznaczone symbolem „L OZEi ”, oblicza się według wzoru:",
+       "text": "[^114] Wydatki związane z zaciągniętym zadłużeniem, o którym mowa w ust. 1, oraz koszty bieżącej działalności operatora rozliczeń energii odnawialnej, o którym mowa w art. 106, związane z prowadzeniem rachunku opłaty OZE i rozliczaniem ujemnego salda, o którym mowa w art. 93 ust. 1 pkt 4 i ust. 2 pkt 3, oznaczone symbolem „LOZEi”, oblicza się według wzoru:",
        "children": [
         {
          "type": "text",
-         "text": "L = C + I + F OZEi OZEi OZEi OZEi,"
+         "text": "LOZEi = COZEi + IOZEi + FOZEi,"
         },
         {
          "type": "text",
@@ -10836,15 +10836,15 @@
         },
         {
          "type": "text",
-         "text": "C OZEi – kwotę należności głównych (kapitału) z tytułu zadłużenia zaciągniętego przez operatora rozliczeń energii odnawialnej, o którym mowa w art. 106, w przypadku, o którym mowa w ust. 1, wymagalnych w danym roku kalendarzowym,"
+         "text": "COZEi – kwotę należności głównych (kapitału) z tytułu zadłużenia zaciągniętego przez operatora rozliczeń energii odnawialnej, o którym mowa w art. 106, w przypadku, o którym mowa w ust. 1, wymagalnych w danym roku kalendarzowym,"
         },
         {
          "type": "text",
-         "text": "I OZEi – kwotę odsetek z tytułu zadłużenia zaciągniętego przez operatora rozliczeń energii odnawialnej, o którym mowa w art. 106, w przypadku, o którym mowa w ust. 1,"
+         "text": "IOZEi – kwotę odsetek z tytułu zadłużenia zaciągniętego przez operatora rozliczeń energii odnawialnej, o którym mowa w art. 106, w przypadku, o którym mowa w ust. 1,"
         },
         {
          "type": "text",
-         "text": "F OZEi – planowane w danym roku koszty bieżącej działalności operatora rozliczeń energii odnawialnej, o którym mowa w art. 106, związane z prowadzeniem rachunku opłaty OZE i pokrycie ujemnego salda, o którym mowa w art. 93 ust. 1 pkt 4 i ust. 2 pkt 3."
+         "text": "FOZEi – planowane w danym roku koszty bieżącej działalności operatora rozliczeń energii odnawialnej, o którym mowa w art. 106, związane z prowadzeniem rachunku opłaty OZE i pokrycie ujemnego salda, o którym mowa w art. 93 ust. 1 pkt 4 i ust. 2 pkt 3."
         }
        ]
       },
@@ -14843,7 +14843,7 @@
          "children": [
           {
            "type": "text",
-           "text": "K = 1,3 · (O − O ),"
+           "text": "Ko = 1,3 · (Oz − Ozz),"
           },
           {
            "type": "text",
@@ -14851,15 +14851,15 @@
           },
           {
            "type": "text",
-           "text": "K o – minimalną wysokość kary pieniężnej, wyrażoną w złotych,"
+           "text": "Ko – minimalną wysokość kary pieniężnej, wyrażoną w złotych,"
           },
           {
            "type": "text",
-           "text": "O z – opłatę zastępczą, obliczoną zgodnie z art. 56, wyrażoną w złotych,"
+           "text": "Oz – opłatę zastępczą, obliczoną zgodnie z art. 56, wyrażoną w złotych,"
           },
           {
            "type": "text",
-           "text": "O zz – uiszczoną opłatę zastępczą, wyrażoną w złotych;"
+           "text": "Ozz – uiszczoną opłatę zastępczą, wyrażoną w złotych;"
           }
          ]
         },
@@ -14871,7 +14871,7 @@
          "children": [
           {
            "type": "text",
-           "text": "K = C · (E − E ),"
+           "text": "Koz = Cc · (Eoo − Ezo),"
           },
           {
            "type": "text",
@@ -14879,19 +14879,19 @@
           },
           {
            "type": "text",
-           "text": "K oz – minimalną wysokość kary pieniężnej, wyrażoną w złotych,"
+           "text": "Koz – minimalną wysokość kary pieniężnej, wyrażoną w złotych,"
           },
           {
            "type": "text",
-           "text": "C c – średnią cenę sprzedaży energii elektrycznej w poprzednim roku kalendarzowym ogłoszoną przez Prezesa URE, na podstawie art. 23 ust. 2 pkt 18 lit. b ustawy – Prawo energetyczne, wyrażoną w złotych za 1 MWh,"
+           "text": "Cc – średnią cenę sprzedaży energii elektrycznej w poprzednim roku kalendarzowym ogłoszoną przez Prezesa URE, na podstawie art. 23 ust. 2 pkt 18 lit. b ustawy – Prawo energetyczne, wyrażoną w złotych za 1 MWh,"
           },
           {
            "type": "text",
-           "text": "E oo – ilość oferowanej do zakupu energii elektrycznej wytworzonej w instalacji odnawialnego źródła energii, wyrażoną w MWh,"
+           "text": "Eoo – ilość oferowanej do zakupu energii elektrycznej wytworzonej w instalacji odnawialnego źródła energii, wyrażoną w MWh,"
           },
           {
            "type": "text",
-           "text": "E zo – ilość zakupionej energii elektrycznej wytworzonej w instalacji odnawialnego źródła energii w danym roku, wyrażoną w MWh."
+           "text": "Ezo – ilość zakupionej energii elektrycznej wytworzonej w instalacji odnawialnego źródła energii w danym roku, wyrażoną w MWh."
           }
          ]
         }
@@ -14941,7 +14941,7 @@
        "children": [
         {
          "type": "text",
-         "text": "K = 0,5 · [C · (E − E )], O A OA WA"
+         "text": "KO = 0,5 · [CA · (EOA − EWA)],"
         },
         {
          "type": "text",
@@ -14949,19 +14949,19 @@
         },
         {
          "type": "text",
-         "text": "K O – wysokość kary pieniężnej wyrażoną w złotych,"
+         "text": "KO – wysokość kary pieniężnej wyrażoną w złotych,"
         },
         {
          "type": "text",
-         "text": "C A – cenę zakupu wytworzonej energii elektrycznej z odnawialnych źródeł energii wyrażoną w złotych za 1 MWh, o której mowa w art. 79 ust. 2,"
+         "text": "CA – cenę zakupu wytworzonej energii elektrycznej z odnawialnych źródeł energii wyrażoną w złotych za 1 MWh, o której mowa w art. 79 ust. 2,"
         },
         {
          "type": "text",
-         "text": "E OA – ilość energii elektrycznej z odnawialnych źródeł energii, jaką wytwórca zobowiązał się wytworzyć po zakończeniu aukcji, w okresie rozliczeniowym określonym w art. 83 ust. 2, wyrażoną w MWh,"
+         "text": "EOA – ilość energii elektrycznej z odnawialnych źródeł energii, jaką wytwórca zobowiązał się wytworzyć po zakończeniu aukcji, w okresie rozliczeniowym określonym w art. 83 ust. 2, wyrażoną w MWh,"
         },
         {
          "type": "text",
-         "text": "E WA – ilość wytworzonej energii elektrycznej z odnawialnych źródeł energii w okresie rozliczeniowym określonym w art. 83 ust. 2, wyrażoną w MWh."
+         "text": "EWA – ilość wytworzonej energii elektrycznej z odnawialnych źródeł energii w okresie rozliczeniowym określonym w art. 83 ust. 2, wyrażoną w MWh."
         }
        ]
       },
@@ -16960,7 +16960,7 @@
   "b": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238, z 2014 r. poz. 457, 490, 900, 942, 1101 i 1662 oraz z 2015 r. poz. 151.",
   "c": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238, z 2014 r. poz. 457, 490, 900, 942, 1101 i 1662 oraz z 2015 r. poz. 151.",
   "d": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 58, poz. 357, z 2009 r. Nr 98, poz. 817 oraz z 2011 r. Nr 94, poz. 551 i Nr 233, poz. 1381.",
-  "e": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530, z 2013 r. poz. 35, 1027 i 1608, z 2014 r. poz. 312, 1171 i 1662 oraz z 2015 r. poz. 211. S ZK ZZK",
+  "e": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530, z 2013 r. poz. 35, 1027 i 1608, z 2014 r. poz. 312, 1171 i 1662 oraz z 2015 r. poz. 211.",
   "f": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238, z 2014 r. poz. 457, 490, 900, 942, 1101 i 1662 oraz z 2015 r. poz. 151 i 478.",
   "g": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1611 oraz z 2014 r. poz. 822.",
   "h": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122, 151 i 277.",
@@ -17123,7 +17123,7 @@
   "153": "W brzmieniu ustalonym przez art. 1 pkt 62 lit. a ustawy, o której mowa w odnośniku 2.",
   "154": "Dodany przez art. 1 pkt 62 lit. b ustawy, o której mowa w odnośniku 2.",
   "155": "W brzmieniu ustalonym przez art. 1 pkt 62 lit. c ustawy, o której mowa w odnośniku 2.",
-  "156": "Przez art. 1 pkt 62 lit. d ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 31 sierpnia 2016 r. o z zz oz c oo zo",
+  "156": "Przez art. 1 pkt 62 lit. d ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 31 sierpnia 2016 r.",
   "157": "Zamieszczone w obwieszczeniu.",
   "158": "Dodany przez art. 1 pkt 63 ustawy, o której mowa w odnośniku 2.",
   "159": "Dodany przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 21.",

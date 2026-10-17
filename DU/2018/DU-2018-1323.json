@@ -1,7 +1,7 @@
 {
  "eli": "DU/2018/1323",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 czerwca 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2018/1323/text.pdf",
  "body": [
   {
@@ -1092,7 +1092,7 @@
          "children": [
           {
            "type": "text",
-           "text": "P−G−O ZO = [ ×H] ×W"
+           "text": "P−G−O ZOr = [ ×H] ×W R"
           },
           {
            "type": "text",
@@ -1100,7 +1100,7 @@
           },
           {
            "type": "text",
-           "text": "ZO r – minimalną wielkość zapasów obowiązkowych ropy naftowej lub paliw w zakresie ropy naftowej wyrażoną w jednostkach wagowych, P – wielkość przywozu ropy naftowej i ilość ropy naftowej wprowadzonej na rynek krajowy z zapasów obowiązkowych w wyniku ich interwencyjnego uwolnienia w poprzednim roku kalendarzowym, wyrażoną w jednostkach wagowych,"
+           "text": "ZOr – minimalną wielkość zapasów obowiązkowych ropy naftowej lub paliw w zakresie ropy naftowej wyrażoną w jednostkach wagowych, P – wielkość przywozu ropy naftowej i ilość ropy naftowej wprowadzonej na rynek krajowy z zapasów obowiązkowych w wyniku ich interwencyjnego uwolnienia w poprzednim roku kalendarzowym, wyrażoną w jednostkach wagowych,"
           },
           {
            "type": "text",
@@ -1156,7 +1156,7 @@
          "children": [
           {
            "type": "text",
-           "text": "P−O ZO =[ ×H] ×W p R"
+           "text": "P−O ZOp =[ ×H] ×W R"
           },
           {
            "type": "text",
@@ -1164,7 +1164,7 @@
           },
           {
            "type": "text",
-           "text": "ZO p – minimalną wielkość zapasów obowiązkowych ropy naftowej lub paliw w zakresie paliw, z wyłączeniem gazu płynnego (LPG), wyrażoną w jednostkach objętościowych, w temperaturze referencyjnej 15°C (288°K),"
+           "text": "ZOp – minimalną wielkość zapasów obowiązkowych ropy naftowej lub paliw w zakresie paliw, z wyłączeniem gazu płynnego (LPG), wyrażoną w jednostkach objętościowych, w temperaturze referencyjnej 15°C (288°K),"
           },
           {
            "type": "text",
@@ -1302,7 +1302,7 @@
        "children": [
         {
          "type": "text",
-         "text": "P−O ZO =[ ×30] ×W LPG R"
+         "text": "P−O ZOLPG =[ ×30] ×W R"
         },
         {
          "type": "text",
@@ -1310,7 +1310,7 @@
         },
         {
          "type": "text",
-         "text": "ZO LPG – minimalną wielkość zapasów obowiązkowych ropy naftowej lub paliw w zakresie gazu płynnego (LPG), wyrażoną w jednostkach wagowych,"
+         "text": "ZOLPG – minimalną wielkość zapasów obowiązkowych ropy naftowej lub paliw w zakresie gazu płynnego (LPG), wyrażoną w jednostkach wagowych,"
         },
         {
          "type": "text",
@@ -1579,7 +1579,7 @@
        "children": [
         {
          "type": "text",
-         "text": "P ×Q P = LPG LPG b Q b"
+         "text": "P ×QLPG P = LPG b Qb"
         },
         {
          "type": "text",
@@ -1587,19 +1587,19 @@
         },
         {
          "type": "text",
-         "text": "P b – wielkość zapasów obowiązkowych ropy naftowej lub paliw tworzonych w zakresie gazu płynnego (LPG) utrzymywaną w postaci benzyn silnikowych, wyrażoną w jednostkach wagowych,"
+         "text": "Pb – wielkość zapasów obowiązkowych ropy naftowej lub paliw tworzonych w zakresie gazu płynnego (LPG) utrzymywaną w postaci benzyn silnikowych, wyrażoną w jednostkach wagowych,"
         },
         {
          "type": "text",
-         "text": "P LPG – wielkość zapasów obowiązkowych ropy naftowej lub paliw tworzonych w zakresie gazu płynnego (LPG), obliczoną zgodnie z art. 5 ust. 3k, wyrażoną w jednostkach wagowych,"
+         "text": "PLPG – wielkość zapasów obowiązkowych ropy naftowej lub paliw tworzonych w zakresie gazu płynnego (LPG), obliczoną zgodnie z art. 5 ust. 3k, wyrażoną w jednostkach wagowych,"
         },
         {
          "type": "text",
-         "text": "Q b – średnią wartość opałową benzyn silnikowych wynoszącą 29 MJ/litr,"
+         "text": "Qb – średnią wartość opałową benzyn silnikowych wynoszącą 29 MJ/litr,"
         },
         {
          "type": "text",
-         "text": "Q LPG – średnią wartość opałową gazu płynnego (LPG) wynoszącą 19,90 MJ/litr."
+         "text": "QLPG – średnią wartość opałową gazu płynnego (LPG) wynoszącą 19,90 MJ/litr."
         }
        ]
       },
@@ -3311,7 +3311,7 @@
        "children": [
         {
          "type": "text",
-         "text": "O =(W lub W ) × U z h pr"
+         "text": "Oz =(Wh lub Wpr) × U"
         },
         {
          "type": "text",
@@ -3319,15 +3319,15 @@
         },
         {
          "type": "text",
-         "text": "O z – opłatę zapasową dla paliw z wyłączeniem gazu płynnego (LPG);"
+         "text": "Oz – opłatę zapasową dla paliw z wyłączeniem gazu płynnego (LPG);"
         },
         {
          "type": "text",
-         "text": "W h – sumę wielkości przywozu paliw z wyłączeniem gazu płynnego (LPG) dokonanego w danym miesiącu kalendarzowym, pomniejszoną o ilości wymienione w art. 5 ust. 6 w danym miesiącu kalendarzowym wyrażoną w jednostkach wagowych, z uwzględnieniem współczynników określonych w obwieszczeniu wydanym na podstawie art. 4, przeliczoną na ekwiwalent ropy naftowej przez pomnożenie jej przez współczynnik 1,065;"
+         "text": "Wh – sumę wielkości przywozu paliw z wyłączeniem gazu płynnego (LPG) dokonanego w danym miesiącu kalendarzowym, pomniejszoną o ilości wymienione w art. 5 ust. 6 w danym miesiącu kalendarzowym wyrażoną w jednostkach wagowych, z uwzględnieniem współczynników określonych w obwieszczeniu wydanym na podstawie art. 4, przeliczoną na ekwiwalent ropy naftowej przez pomnożenie jej przez współczynnik 1,065;"
         },
         {
          "type": "text",
-         "text": "W pr – wielkość produkcji paliw z wyłączeniem gazu płynnego (LPG) w danym miesiącu kalendarzowym, pomniejszoną o ilości wymienione w art. 5 ust. 6 w danym miesiącu kalendarzowym, wyrażoną w jednostkach wagowych, z uwzględnieniem współczynników określonych w obwieszczeniu wydanym na podstawie art. 4, przeliczoną na ekwiwalent ropy naftowej przez pomnożenie jej przez współczynnik 1,065;"
+         "text": "Wpr – wielkość produkcji paliw z wyłączeniem gazu płynnego (LPG) w danym miesiącu kalendarzowym, pomniejszoną o ilości wymienione w art. 5 ust. 6 w danym miesiącu kalendarzowym, wyrażoną w jednostkach wagowych, z uwzględnieniem współczynników określonych w obwieszczeniu wydanym na podstawie art. 4, przeliczoną na ekwiwalent ropy naftowej przez pomnożenie jej przez współczynnik 1,065;"
         },
         {
          "type": "text",
@@ -3400,7 +3400,7 @@
        "children": [
         {
          "type": "text",
-         "text": "O =(G lub G ) x Z L h pr"
+         "text": "OL =(Gh lub Gpr) x Z"
         },
         {
          "type": "text",
@@ -3408,15 +3408,15 @@
         },
         {
          "type": "text",
-         "text": "O L – opłatę zapasową dla gazu płynnego (LPG);"
+         "text": "OL – opłatę zapasową dla gazu płynnego (LPG);"
         },
         {
          "type": "text",
-         "text": "G h – wielkość przywozu gazu płynnego (LPG) dokonanego w danym miesiącu kalendarzowym, pomniejszoną o ilości wymienione w art. 5 ust. 6 w danym miesiącu kalendarzowym, wyrażoną w jednostkach wagowych;"
+         "text": "Gh – wielkość przywozu gazu płynnego (LPG) dokonanego w danym miesiącu kalendarzowym, pomniejszoną o ilości wymienione w art. 5 ust. 6 w danym miesiącu kalendarzowym, wyrażoną w jednostkach wagowych;"
         },
         {
          "type": "text",
-         "text": "G pr – wielkość produkcji gazu płynnego (LPG) w danym miesiącu kalendarzowym pomniejszoną o ilości wymienione w art. 5 ust. 6 w danym miesiącu kalendarzowym, wyrażoną w jednostkach wagowych;"
+         "text": "Gpr – wielkość produkcji gazu płynnego (LPG) w danym miesiącu kalendarzowym pomniejszoną o ilości wymienione w art. 5 ust. 6 w danym miesiącu kalendarzowym, wyrażoną w jednostkach wagowych;"
         },
         {
          "type": "text",
@@ -8686,7 +8686,7 @@
  ],
  "footnotes": {
   "1": "Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:\n\n1) dyrektywy 73/238/EWG z dnia 24 lipca 1973 r. w sprawie łagodzenia skutków trudności w dostawach surowej ropy naftowej i produktów ropopochodnych (Dz. Urz. UE L 228 z 16.08.1973, str. 1–2; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 12, t. 1, str. 36);\n\n2) dyrektywy 2006/67/WE z dnia 24 lipca 2006 r. nakładającej na państwa członkowskie obowiązek utrzymywania minimalnych zapasów ropy naftowej lub produktów ropopochodnych (Dz. Urz. UE L 217 z 08.08.2006, str. 8–15);\n\n3) dyrektywy 2003/55/WE z dnia 26 czerwca 2003 r. dotyczącej wspólnych zasad rynku wewnętrznego gazu ziemnego i uchylającej dyrektywę 98/30/WE (Dz. Urz. UE L 176 z 15.07.2003, str. 57–78; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 12, t. 2, str. 230);\n\n4) dyrektywy 2004/67/WE z dnia 26 kwietnia 2004 r. dotyczącej środków zapewniających bezpieczeństwo dostaw gazu ziemnego (Dz. Urz. UE L 127 z 29.04.2004, str. 92–96; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 12, t. 3, str. 19).",
-  "2": "Dodany przez art. 1 pkt 1 ustawy z dnia 7 lipca 2017 r. o zmianie ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym oraz niektórych innych ustaw (Dz. U. poz. 1387), która weszła w życie z dniem 2 sierpnia 2017 r. r R",
+  "2": "Dodany przez art. 1 pkt 1 ustawy z dnia 7 lipca 2017 r. o zmianie ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym oraz niektórych innych ustaw (Dz. U. poz. 1387), która weszła w życie z dniem 2 sierpnia 2017 r.",
   "3": "W brzmieniu ustalonym przez art. 124 pkt 1 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650), która weszła w życie z dniem 30 kwietnia 2018 r.",
   "4": "W brzmieniu ustalonym przez art. 124 pkt 2 ustawy, o której mowa w odnośniku 3.",
   "5": "W brzmieniu ustalonym przez art. 124 pkt 3 ustawy, o której mowa w odnośniku 3.",

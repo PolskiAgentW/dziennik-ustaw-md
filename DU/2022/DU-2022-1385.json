@@ -1,7 +1,7 @@
 {
  "eli": "DU/2022/1385",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 maja 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo energetyczne",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2022/1385/text.pdf",
  "body": [
   {
@@ -955,7 +955,7 @@
       },
       {
        "type": "text",
-       "text": "Z = K P – K T",
+       "text": "Z = KP – KT",
        "quoted": true
       },
       {
@@ -970,7 +970,7 @@
       },
       {
        "type": "text",
-       "text": "K P – oznacza planowany koszt zakupu paliwa gazowego dla dostaw w danym miesiącu, według oświadczenia podmiotu uprawnionego (zł), do wyliczenia którego przyjmuje się iloczyn stawki referencyjnej w wysokości 310 zł za megawatogodzinę oraz miesięcznej ilości paliwa gazowego, za którą przyjmuje się roczną ilość paliw gazowych określoną przez podmiot uprawniony, wykazaną we wniosku o zatwierdzenie taryfy skalkulowanej zgodnie z art. 62f ustawy zmienianej w art. 1 i stanowiącą dla miesiąca:",
+       "text": "KP – oznacza planowany koszt zakupu paliwa gazowego dla dostaw w danym miesiącu, według oświadczenia podmiotu uprawnionego (zł), do wyliczenia którego przyjmuje się iloczyn stawki referencyjnej w wysokości 310 zł za megawatogodzinę oraz miesięcznej ilości paliwa gazowego, za którą przyjmuje się roczną ilość paliw gazowych określoną przez podmiot uprawniony, wykazaną we wniosku o zatwierdzenie taryfy skalkulowanej zgodnie z art. 62f ustawy zmienianej w art. 1 i stanowiącą dla miesiąca:",
        "quoted": true
       },
       {
@@ -1035,7 +1035,7 @@
       },
       {
        "type": "text",
-       "text": "K T – oznacza koszty przyjęte jako koszty uzasadnione zakupu paliwa gazowego w danym miesiącu (zł), do wyliczenia których przyjmuje się iloczyn średniego jednostkowego kosztu zakupu paliwa gazowego, określonego przez Prezesa Urzędu Regulacji Energetyki, zwanego dalej „Prezesem URE”, w decyzji zatwierdzającej podmiotowi uprawionemu taryfę skalkulowaną zgodnie z art. 62f ustawy zmienianej w art. 1, oraz miesięcznej ilości paliwa gazowego, za którą przyjmuje się roczną ilość paliw gazowych określoną przez podmiot uprawniony, wykazaną we wniosku o zatwierdzenie taryfy skalkulowanej zgodnie z art. 62f ustawy zmienianej w art. 1 i stanowiącą dla miesiąca:",
+       "text": "KT – oznacza koszty przyjęte jako koszty uzasadnione zakupu paliwa gazowego w danym miesiącu (zł), do wyliczenia których przyjmuje się iloczyn średniego jednostkowego kosztu zakupu paliwa gazowego, określonego przez Prezesa Urzędu Regulacji Energetyki, zwanego dalej „Prezesem URE”, w decyzji zatwierdzającej podmiotowi uprawionemu taryfę skalkulowaną zgodnie z art. 62f ustawy zmienianej w art. 1, oraz miesięcznej ilości paliwa gazowego, za którą przyjmuje się roczną ilość paliw gazowych określoną przez podmiot uprawniony, wykazaną we wniosku o zatwierdzenie taryfy skalkulowanej zgodnie z art. 62f ustawy zmienianej w art. 1 i stanowiącą dla miesiąca:",
        "quoted": true
       },
       {
@@ -25572,7 +25572,7 @@
        "children": [
         {
          "type": "text",
-         "text": "R = (K – K – R ) + (K – K ) F T-1 2(m-1) P T+1"
+         "text": "R = (KF – KT-1 – R2(m-1)) + (KP – KT+1)"
         },
         {
          "type": "text",
@@ -25584,11 +25584,11 @@
         },
         {
          "type": "text",
-         "text": "K F – oznacza faktyczny koszt zakupu paliwa gazowego na potrzeby odbiorców w gospodarstwach domowych dla dostaw w miesiącu poprzedzającym miesiąc złożenia wniosku o wypłatę rekompensaty, udokumentowany zgodnie z prowadzoną przez podmiot uprawniony ewidencją księgową (zł),"
+         "text": "KF – oznacza faktyczny koszt zakupu paliwa gazowego na potrzeby odbiorców w gospodarstwach domowych dla dostaw w miesiącu poprzedzającym miesiąc złożenia wniosku o wypłatę rekompensaty, udokumentowany zgodnie z prowadzoną przez podmiot uprawniony ewidencją księgową (zł),"
         },
         {
          "type": "text",
-         "text": "K T-1 – oznacza koszty przyjęte jako koszty uzasadnione zakupu paliwa gazowego w miesiącu poprzedzającym miesiąc złożenia wniosku o wypłatę rekompensaty (zł), do wyliczenia których przyjmuje się iloczyn średniego jednostkowego kosztu zakupu paliwa gazowego, określonego przez Prezesa URE w decyzji zatwierdzającej taryfę skalkulowaną przez podmiot uprawniony zgodnie z art. 62f, oraz miesięcznej ilości paliwa gazowego, za którą przyjmuje się roczną ilość paliw gazowych określoną przez podmiot uprawniony, wykazaną we wniosku o zatwierdzenie taryfy skalkulowanej zgodnie z art. 62f i stanowiącą dla miesiąca:"
+         "text": "KT-1 – oznacza koszty przyjęte jako koszty uzasadnione zakupu paliwa gazowego w miesiącu poprzedzającym miesiąc złożenia wniosku o wypłatę rekompensaty (zł), do wyliczenia których przyjmuje się iloczyn średniego jednostkowego kosztu zakupu paliwa gazowego, określonego przez Prezesa URE w decyzji zatwierdzającej taryfę skalkulowaną przez podmiot uprawniony zgodnie z art. 62f, oraz miesięcznej ilości paliwa gazowego, za którą przyjmuje się roczną ilość paliw gazowych określoną przez podmiot uprawniony, wykazaną we wniosku o zatwierdzenie taryfy skalkulowanej zgodnie z art. 62f i stanowiącą dla miesiąca:"
         },
         {
          "type": "pkt",
@@ -25675,7 +25675,7 @@
          "children": [
           {
            "type": "text",
-           "text": "R 2(m-1) – oznacza kwotę zaliczki na poczet rekompensaty wypłaconej podmiotowi uprawnionemu na poczet miesiąca poprzedzającego miesiąc złożenia wniosku o wypłatę rekompensaty (zł), K P – oznacza planowany koszt zakupu paliwa gazowego dla dostaw w miesiącu następującym po miesiącu złożenia wniosku o wypłatę rekompensaty, według oświadczenia podmiotu uprawnionego (zł), z tym że do wyliczenia kosztów uzasadnionych przyjmuje się iloczyn stawki referencyjnej w wysokości 310 zł za megawatogodzinę oraz miesięcznej ilości paliwa gazowego, za którą przyjmuje się roczną ilość paliw gazowych określoną przez podmiot uprawniony wykazaną we wniosku o zatwierdzenie taryfy skalkulowanej na zasadach określonych w art. 62f i stanowiącą dla miesiąca:"
+           "text": "R2(m-1) – oznacza kwotę zaliczki na poczet rekompensaty wypłaconej podmiotowi uprawnionemu na poczet miesiąca poprzedzającego miesiąc złożenia wniosku o wypłatę rekompensaty (zł), KP – oznacza planowany koszt zakupu paliwa gazowego dla dostaw w miesiącu następującym po miesiącu złożenia wniosku o wypłatę rekompensaty, według oświadczenia podmiotu uprawnionego (zł), z tym że do wyliczenia kosztów uzasadnionych przyjmuje się iloczyn stawki referencyjnej w wysokości 310 zł za megawatogodzinę oraz miesięcznej ilości paliwa gazowego, za którą przyjmuje się roczną ilość paliw gazowych określoną przez podmiot uprawniony wykazaną we wniosku o zatwierdzenie taryfy skalkulowanej na zasadach określonych w art. 62f i stanowiącą dla miesiąca:"
           }
          ]
         },
@@ -25764,7 +25764,7 @@
          "children": [
           {
            "type": "text",
-           "text": "K T+1 – oznacza koszty przyjęte jako koszty uzasadnione zakupu paliwa gazowego w miesiącu następującym po miesiącu złożenia wniosku o wypłatę rekompensaty (zł), do wyliczenia których przyjmuje się iloczyn średniego jednostkowego kosztu zakupu paliwa gazowego, określonego przez Prezesa URE w decyzji zatwierdzającej taryfę skalkulowaną przez podmiot uprawniony zgodnie z art. 62f, oraz miesięcznej ilości paliwa gazowego, za którą przyjmuje się roczną ilość paliw gazowych określoną przez podmiot uprawniony, wykazaną we wniosku o zatwierdzenie taryfy skalkulowanej zgodnie z art. 62f i stanowiącą dla miesiąca:"
+           "text": "KT+1 – oznacza koszty przyjęte jako koszty uzasadnione zakupu paliwa gazowego w miesiącu następującym po miesiącu złożenia wniosku o wypłatę rekompensaty (zł), do wyliczenia których przyjmuje się iloczyn średniego jednostkowego kosztu zakupu paliwa gazowego, określonego przez Prezesa URE w decyzji zatwierdzającej taryfę skalkulowaną przez podmiot uprawniony zgodnie z art. 62f, oraz miesięcznej ilości paliwa gazowego, za którą przyjmuje się roczną ilość paliw gazowych określoną przez podmiot uprawniony, wykazaną we wniosku o zatwierdzenie taryfy skalkulowanej zgodnie z art. 62f i stanowiącą dla miesiąca:"
           }
          ]
         },

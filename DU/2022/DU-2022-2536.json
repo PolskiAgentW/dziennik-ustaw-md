@@ -1,7 +1,7 @@
 {
  "eli": "DU/2022/2536",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 28 października 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2022/2536/text.pdf",
  "body": [
   {
@@ -2430,7 +2430,7 @@
        "children": [
         {
          "type": "text",
-         "text": "B = r ∙ E +∑r ∙ E"
+         "text": "BSR = rT ∙ ET +∑ri ∙ Ei"
         },
         {
          "type": "text",
@@ -2438,15 +2438,15 @@
         },
         {
          "type": "text",
-         "text": "B SR – bufor ryzyka systemowego,"
+         "text": "BSR – bufor ryzyka systemowego,"
         },
         {
          "type": "text",
-         "text": "r T – wskaźnik bufora mający zastosowanie do łącznej kwoty ekspozycji na ryzyko instytucji,"
+         "text": "rT – wskaźnik bufora mający zastosowanie do łącznej kwoty ekspozycji na ryzyko instytucji,"
         },
         {
          "type": "text",
-         "text": "E T – łączną kwotę ekspozycji na ryzyko instytucji obliczoną zgodnie z art. 92 ust. 3 rozporządzenia 575/2013,"
+         "text": "ET – łączną kwotę ekspozycji na ryzyko instytucji obliczoną zgodnie z art. 92 ust. 3 rozporządzenia 575/2013,"
         },
         {
          "type": "text",
@@ -2454,11 +2454,11 @@
         },
         {
          "type": "text",
-         "text": "r i – wskaźnik bufora mający zastosowanie do kwoty ekspozycji na ryzyko podzbioru ekspozycji i,"
+         "text": "ri – wskaźnik bufora mający zastosowanie do kwoty ekspozycji na ryzyko podzbioru ekspozycji i,"
         },
         {
          "type": "text",
-         "text": "E i – kwotę ekspozycji na ryzyko instytucji w odniesieniu do podzbioru ekspozycji i obliczoną zgodnie z art. 92 ust. 3 rozporządzenia 575/2013."
+         "text": "Ei – kwotę ekspozycji na ryzyko instytucji w odniesieniu do podzbioru ekspozycji i obliczoną zgodnie z art. 92 ust. 3 rozporządzenia 575/2013."
         }
        ]
       },
@@ -4239,7 +4239,7 @@
   "7": "Dodany przez art. 64 pkt 1 lit. b ustawy, o której mowa w odnośniku 3.",
   "8": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 137 z 24.05.2017, str. 41, Dz. Urz. UE L 317 z 09.12.2019, str. 17, Dz. Urz. UE L 334 z 27.12.2019, str. 1 oraz Dz. Urz. UE L 49 z 12.02.2021, str. 6.",
   "9": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2447 oraz z 2022 r. poz. 830, 872, 1358, 1488, 1692 i 1933.",
-  "10": "Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 240 z 08.09.2016, str. 1. SR T T i i",
+  "10": "Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 240 z 08.09.2016, str. 1.",
   "11": "W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 12.",
   "12": "W brzmieniu ustalonym przez art. 6 pkt 21 lit. a ustawy z dnia 25 lutego 2021 r. o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 680 i 2140); wejdzie w życie z dniem 1 stycznia 2023 r.",
   "13": "Dodany przez art. 6 pkt 22 lit. a ustawy, o której mowa w odnośniku 12; wejdzie w życie z dniem 1 stycznia 2023 r.",

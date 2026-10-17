@@ -1,7 +1,7 @@
 {
  "eli": "DU/2024/527",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o społecznych formach rozwoju mieszkalnictwa",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2024/527/text.pdf",
  "body": [
   {
@@ -2330,7 +2330,7 @@
        "children": [
         {
          "type": "text",
-         "text": "C ∗(100 %−0,75 %∗n/4) P =P ∗ z z w C w"
+         "text": "Cz ∗(100 %−0,75 %∗n/4) P =P ∗ z w Cw"
         },
         {
          "type": "text",
@@ -2338,19 +2338,19 @@
         },
         {
          "type": "text",
-         "text": "P z – kwota zwracanej partycypacji,"
+         "text": "Pz – kwota zwracanej partycypacji,"
         },
         {
          "type": "text",
-         "text": "P w – kwota wpłaconej partycypacji,"
+         "text": "Pw – kwota wpłaconej partycypacji,"
         },
         {
          "type": "text",
-         "text": "C z – średnia arytmetyczna czterech kolejnych wartości wskaźnika ceny 1 m² powierzchni użytkowej budynku mieszkalnego, ogłoszonych przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 3b ust. 4 ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. z 2023 r. poz. 1446) dla kwartałów poprzedzających kwartał, w którym nastąpiło opróżnienie lokalu,"
+         "text": "Cz – średnia arytmetyczna czterech kolejnych wartości wskaźnika ceny 1 m² powierzchni użytkowej budynku mieszkalnego, ogłoszonych przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 3b ust. 4 ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. z 2023 r. poz. 1446) dla kwartałów poprzedzających kwartał, w którym nastąpiło opróżnienie lokalu,"
         },
         {
          "type": "text",
-         "text": "C w – średnia arytmetyczna wartości wskaźnika ceny 1 m² powierzchni użytkowej budynku mieszkalnego, ogłoszonych przez Prezesa Głównego Urzędu Statystycznego dla kwartału, w którym nastąpiło zawarcie umowy w sprawie partycypacji w kosztach budowy lokalu mieszkalnego, oraz dla trzech poprzedzających ten kwartał okresów kwartalnych,"
+         "text": "Cw – średnia arytmetyczna wartości wskaźnika ceny 1 m² powierzchni użytkowej budynku mieszkalnego, ogłoszonych przez Prezesa Głównego Urzędu Statystycznego dla kwartału, w którym nastąpiło zawarcie umowy w sprawie partycypacji w kosztach budowy lokalu mieszkalnego, oraz dla trzech poprzedzających ten kwartał okresów kwartalnych,"
         },
         {
          "type": "text",
@@ -3038,19 +3038,19 @@
          "children": [
           {
            "type": "text",
-           "text": "0,5∗R , jeżeli<0,3∗ C l P ={ l zc 0,3∗ C l , w pozostałych przypadkach, gdzie poszczególne symbole oznaczają:"
+           "text": "0,5∗Rl, jeżeli<0,3∗ Cl Pzc ={ 0,3∗ Cl, w pozostałych przypadkach, gdzie poszczególne symbole oznaczają:"
           },
           {
            "type": "text",
-           "text": "P zc – część partycypacji, zaliczaną przez SIM na poczet czynszu miesięcznego najemcy w okresie użytkowania lokalu na postawie umowy najmu uwzględniającej okresowe rozliczenie partycypacji,"
+           "text": "Pzc – część partycypacji, zaliczaną przez SIM na poczet czynszu miesięcznego najemcy w okresie użytkowania lokalu na postawie umowy najmu uwzględniającej okresowe rozliczenie partycypacji,"
           },
           {
            "type": "text",
-           "text": "R l – średnią miesięczną wysokość raty spłaty kredytu udzielonego na realizację przedsięwzięcia inwestycyjno-budowlanego w okresie ostatnich 12 miesięcy spłaty tego kredytu, przypadającą na lokal, którego dotyczy rozliczenie partycypacji,"
+           "text": "Rl – średnią miesięczną wysokość raty spłaty kredytu udzielonego na realizację przedsięwzięcia inwestycyjno-budowlanego w okresie ostatnich 12 miesięcy spłaty tego kredytu, przypadającą na lokal, którego dotyczy rozliczenie partycypacji,"
           },
           {
            "type": "text",
-           "text": "C l – średni miesięczny czynsz za najem lokalu, którego dotyczy rozliczenie partycypacji, w okresie ostatnich 60 miesięcy;"
+           "text": "Cl – średni miesięczny czynsz za najem lokalu, którego dotyczy rozliczenie partycypacji, w okresie ostatnich 60 miesięcy;"
           }
          ]
         },
@@ -3069,7 +3069,7 @@
          "children": [
           {
            "type": "text",
-           "text": "P n ∗C ∗(100 %−0,75 %∗ 4 zc ) P = w zc − P ∗k, w1 C w zci"
+           "text": "Pw nzc ∗Czc ∗(100 %−0,75 %∗ 4 ) Pw1 = − Pzci ∗k, Cw"
           },
           {
            "type": "text",
@@ -3077,27 +3077,27 @@
           },
           {
            "type": "text",
-           "text": "P w1 – nową kwotę partycypacji najemcy w kosztach budowy lokalu mieszkalnego po zakończeniu okresu rozliczania w ramach umowy najmu uwzględniającej okresowe rozliczenie partycypacji,"
+           "text": "Pw1 – nową kwotę partycypacji najemcy w kosztach budowy lokalu mieszkalnego po zakończeniu okresu rozliczania w ramach umowy najmu uwzględniającej okresowe rozliczenie partycypacji,"
           },
           {
            "type": "text",
-           "text": "P w – kwotę wpłaconej partycypacji,"
+           "text": "Pw – kwotę wpłaconej partycypacji,"
           },
           {
            "type": "text",
-           "text": "C zc – średnią arytmetyczną czterech kolejnych wartości wskaźnika ceny 1 m² powierzchni użytkowej budynku mieszkalnego, ogłoszonych przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 3b ust. 4 ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych dla kwartałów poprzedzających kwartał, w którym najemca złożył wniosek o zmianę dotychczasowej umowy najmu na umowę najmu uwzględniającą okresowe rozliczenie partycypacji,"
+           "text": "Czc – średnią arytmetyczną czterech kolejnych wartości wskaźnika ceny 1 m² powierzchni użytkowej budynku mieszkalnego, ogłoszonych przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 3b ust. 4 ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych dla kwartałów poprzedzających kwartał, w którym najemca złożył wniosek o zmianę dotychczasowej umowy najmu na umowę najmu uwzględniającą okresowe rozliczenie partycypacji,"
           },
           {
            "type": "text",
-           "text": "C w – średnią arytmetyczną wartości wskaźnika ceny 1 m² powierzchni użytkowej budynku mieszkalnego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego dla kwartału, w którym nastąpiło zawarcie umowy w sprawie partycypacji w kosztach budowy lokalu mieszkalnego, oraz dla trzech poprzedzających ten kwartał okresów kwartalnych,"
+           "text": "Cw – średnią arytmetyczną wartości wskaźnika ceny 1 m² powierzchni użytkowej budynku mieszkalnego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego dla kwartału, w którym nastąpiło zawarcie umowy w sprawie partycypacji w kosztach budowy lokalu mieszkalnego, oraz dla trzech poprzedzających ten kwartał okresów kwartalnych,"
           },
           {
            "type": "text",
-           "text": "n zc – liczbę pełnych kwartałów przypadających w okresie od dnia zawarcia umowy najmu lokalu do dnia, w którym najemca złożył wniosek o zmianę dotychczasowej umowy najmu na umowę najmu uwzględniającą okresowe rozliczenie partycypacji,"
+           "text": "nzc – liczbę pełnych kwartałów przypadających w okresie od dnia zawarcia umowy najmu lokalu do dnia, w którym najemca złożył wniosek o zmianę dotychczasowej umowy najmu na umowę najmu uwzględniającą okresowe rozliczenie partycypacji,"
           },
           {
            "type": "text",
-           "text": "P zci – proponowaną miesięczną kwotę partycypacji, zaliczaną przez SIM na poczet czynszu miesięcznego najemcy w okresie użytkowania lokalu na podstawie umowy najmu uwzględniającej okresowe rozliczenie partycypacji,"
+           "text": "Pzci – proponowaną miesięczną kwotę partycypacji, zaliczaną przez SIM na poczet czynszu miesięcznego najemcy w okresie użytkowania lokalu na podstawie umowy najmu uwzględniającej okresowe rozliczenie partycypacji,"
           },
           {
            "type": "text",

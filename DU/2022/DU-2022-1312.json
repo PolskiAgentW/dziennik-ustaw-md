@@ -1,7 +1,7 @@
 {
  "eli": "DU/2022/1312",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 maja 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie rekompensat dla sektorów i podsektorów energochłonnych",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2022/1312/text.pdf",
  "body": [
   {
@@ -337,7 +337,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Amaxt = Ai × C × P × E × AO , t t t–1 t t"
+         "text": "Amaxt = Ait × Ct × Pt–1 × Et × AOt ,"
         },
         {
          "type": "text",
@@ -349,23 +349,23 @@
         },
         {
          "type": "text",
-         "text": "Ai t – intensywność pomocy wyrażoną jako ułamek 0,75;"
+         "text": "Ait – intensywność pomocy wyrażoną jako ułamek 0,75;"
         },
         {
          "type": "text",
-         "text": "C t – wskaźnik emisji dwutlenku węgla (CO₂) w wysokości 0,81 megagramów dwutlenku węgla na megawatogodzinę (Mg CO₂/MWh);"
+         "text": "Ct – wskaźnik emisji dwutlenku węgla (CO₂) w wysokości 0,81 megagramów dwutlenku węgla na megawatogodzinę (Mg CO₂/MWh);"
         },
         {
          "type": "text",
-         "text": "P t–1 – terminową cenę uprawnień do emisji dla roku kalendarzowego, za który są przyznawane rekompensaty;"
+         "text": "Pt–1 – terminową cenę uprawnień do emisji dla roku kalendarzowego, za który są przyznawane rekompensaty;"
         },
         {
          "type": "text",
-         "text": "E t – wskaźnik efektywności zużycia energii elektrycznej w odniesieniu do produktów z sektorów lub podsektorów energochłonnych określony w załączniku nr 2 do ustawy dla roku kalendarzowego, za który są przyznawane rekompensaty;"
+         "text": "Et – wskaźnik efektywności zużycia energii elektrycznej w odniesieniu do produktów z sektorów lub podsektorów energochłonnych określony w załączniku nr 2 do ustawy dla roku kalendarzowego, za który są przyznawane rekompensaty;"
         },
         {
          "type": "text",
-         "text": "AO t – wielkość produkcji produktu zaliczanego do sektorów lub podsektorów energochłonnych określonych w załączniku nr 1 do ustawy w instalacji w roku kalendarzowym, za który są przyznawane rekompensaty, wyrażoną w megagramach (Mg)."
+         "text": "AOt – wielkość produkcji produktu zaliczanego do sektorów lub podsektorów energochłonnych określonych w załączniku nr 1 do ustawy w instalacji w roku kalendarzowym, za który są przyznawane rekompensaty, wyrażoną w megagramach (Mg)."
         }
        ]
       },
@@ -377,7 +377,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Amaxt = Ai × C × P × E × AO , t t t–1 t"
+         "text": "Amaxt = Ait × Ct × Pt–1 × E × AOt ,"
         },
         {
          "type": "text",
@@ -389,15 +389,15 @@
         },
         {
          "type": "text",
-         "text": "Ai t – intensywność pomocy wyrażoną jako ułamek 0,75;"
+         "text": "Ait – intensywność pomocy wyrażoną jako ułamek 0,75;"
         },
         {
          "type": "text",
-         "text": "C t – wskaźnik emisji dwutlenku węgla (CO₂) w wysokości 0,81 megagramów dwutlenku węgla na megawatogodzinę (Mg CO₂/MWh);"
+         "text": "Ct – wskaźnik emisji dwutlenku węgla (CO₂) w wysokości 0,81 megagramów dwutlenku węgla na megawatogodzinę (Mg CO₂/MWh);"
         },
         {
          "type": "text",
-         "text": "P t–1 – terminową cenę uprawnień do emisji dla roku kalendarzowego, za który są przyznawane rekompensaty;"
+         "text": "Pt–1 – terminową cenę uprawnień do emisji dla roku kalendarzowego, za który są przyznawane rekompensaty;"
         },
         {
          "type": "text",
@@ -425,7 +425,7 @@
         },
         {
          "type": "text",
-         "text": "AO t – wielkość produkcji produktu zaliczanego do sektorów lub podsektorów energochłonnych określonych w załączniku nr 1 do ustawy w instalacji w roku, za który są przyznawane rekompensaty, wyrażoną w megagramach (Mg)."
+         "text": "AOt – wielkość produkcji produktu zaliczanego do sektorów lub podsektorów energochłonnych określonych w załączniku nr 1 do ustawy w instalacji w roku, za który są przyznawane rekompensaty, wyrażoną w megagramach (Mg)."
         }
        ]
       },
@@ -437,7 +437,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Amaxt = Ai × C × P × EF × BEC , t t t–1 t t"
+         "text": "Amaxt = Ait × Ct × Pt–1 × EFt × BECt ,"
         },
         {
          "type": "text",
@@ -449,23 +449,23 @@
         },
         {
          "type": "text",
-         "text": "Ai t – intensywność pomocy wyrażoną jako ułamek 0,75;"
+         "text": "Ait – intensywność pomocy wyrażoną jako ułamek 0,75;"
         },
         {
          "type": "text",
-         "text": "C t – wskaźnik emisji dwutlenku węgla (CO₂) w wysokości 0,81 megagramów dwutlenku węgla na megawatogodzinę (Mg CO₂/MWh);"
+         "text": "Ct – wskaźnik emisji dwutlenku węgla (CO₂) w wysokości 0,81 megagramów dwutlenku węgla na megawatogodzinę (Mg CO₂/MWh);"
         },
         {
          "type": "text",
-         "text": "P t–1 – terminową cenę uprawnień do emisji dla roku kalendarzowego, za który są przyznawane rekompensaty;"
+         "text": "Pt–1 – terminową cenę uprawnień do emisji dla roku kalendarzowego, za który są przyznawane rekompensaty;"
         },
         {
          "type": "text",
-         "text": "EF t – wskaźnik efektywności zużycia rezerwowej energii elektrycznej w odniesieniu do produktów z sektorów lub podsektorów energochłonnych w wysokości określonej w załączniku nr 3 do ustawy dla roku kalendarzowego, za który są przyznawane rekompensaty;"
+         "text": "EFt – wskaźnik efektywności zużycia rezerwowej energii elektrycznej w odniesieniu do produktów z sektorów lub podsektorów energochłonnych w wysokości określonej w załączniku nr 3 do ustawy dla roku kalendarzowego, za który są przyznawane rekompensaty;"
         },
         {
          "type": "text",
-         "text": "BEC t – zużycie energii elektrycznej do wytworzenia produktu zaliczanego do sektorów lub podsektorów energochłonnych określonych w załączniku nr 1 do ustawy w instalacji w roku kalendarzowym, za który są przyznawane rekompensaty, wyrażone w megawatogodzinach (MWh)."
+         "text": "BECt – zużycie energii elektrycznej do wytworzenia produktu zaliczanego do sektorów lub podsektorów energochłonnych określonych w załączniku nr 1 do ustawy w instalacji w roku kalendarzowym, za który są przyznawane rekompensaty, wyrażone w megawatogodzinach (MWh)."
         }
        ]
       },
@@ -571,7 +571,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Kpt = C × P × En , t t-1 t"
+         "text": "Kpt = Ct × Pt-1 × Ent ,"
         },
         {
          "type": "text",
@@ -583,15 +583,15 @@
         },
         {
          "type": "text",
-         "text": "C t – wskaźnik emisji dwutlenku węgla (CO₂) w wysokości 0,81 megagramów dwutlenku węgla na megawatogodzinę (Mg CO₂/MWh);"
+         "text": "Ct – wskaźnik emisji dwutlenku węgla (CO₂) w wysokości 0,81 megagramów dwutlenku węgla na megawatogodzinę (Mg CO₂/MWh);"
         },
         {
          "type": "text",
-         "text": "P t-1 – terminową cenę uprawnień do emisji dla roku kalendarzowego, za który są przyznawane rekompensaty;"
+         "text": "Pt-1 – terminową cenę uprawnień do emisji dla roku kalendarzowego, za który są przyznawane rekompensaty;"
         },
         {
          "type": "text",
-         "text": "En t – całkowite zużycie energii elektrycznej na własne potrzeby w roku kalendarzowym, za który są przyznawane rekompensaty."
+         "text": "Ent – całkowite zużycie energii elektrycznej na własne potrzeby w roku kalendarzowym, za który są przyznawane rekompensaty."
         }
        ]
       },

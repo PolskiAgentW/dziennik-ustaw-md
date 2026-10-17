@@ -1,7 +1,7 @@
 {
  "eli": "DU/2021/1286",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 czerwca 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2021/1286/text.pdf",
  "body": [
   {
@@ -1674,15 +1674,15 @@
     },
     {
      "type": "text",
-     "text": "PG i – oznacza premie gwarancyjne od sumy wpłat wniesionych w roku (kwartale) i,"
+     "text": "PGi – oznacza premie gwarancyjne od sumy wpłat wniesionych w roku (kwartale) i,"
     },
     {
      "type": "text",
-     "text": "C i – oznacza cenę 1 m² powierzchni użytkowej budynku mieszkalnego ustaloną dla roku (kwartału) i,"
+     "text": "Ci – oznacza cenę 1 m² powierzchni użytkowej budynku mieszkalnego ustaloną dla roku (kwartału) i,"
     },
     {
      "type": "text",
-     "text": "C – oznacza cenę 1 m² powierzchni użytkowej budynku mieszkalnego ostatnio ogłoszoną przed kwartałem złożenia n wniosku,"
+     "text": "Cn – oznacza cenę 1 m² powierzchni użytkowej budynku mieszkalnego ostatnio ogłoszoną przed kwartałem złożenia wniosku,"
     },
     {
      "type": "text",
@@ -1694,15 +1694,15 @@
     },
     {
      "type": "text",
-     "text": "r i – oznacza stopę procentową w roku (kwartale) i, podzieloną przez 100,"
+     "text": "ri – oznacza stopę procentową w roku (kwartale) i, podzieloną przez 100,"
     },
     {
      "type": "text",
-     "text": "r n – oznacza stopę procentową w kwartale n, podzieloną przez 100,"
+     "text": "rn – oznacza stopę procentową w kwartale n, podzieloną przez 100,"
     },
     {
      "type": "text",
-     "text": "WK i – oznacza sumę wpłat wniesionych w roku (kwartale) i."
+     "text": "WKi – oznacza sumę wpłat wniesionych w roku (kwartale) i."
     },
     {
      "type": "text",
@@ -1710,7 +1710,7 @@
     },
     {
      "type": "text",
-     "text": "Premię łączną oblicza się według wzoru PG=∑ PG jako sumę premii od wszystkich wpłat wniesionych na książeczkę mieszkaniową w poszczególnych latach (kwartałach). i i"
+     "text": "Premię łączną oblicza się według wzoru PG=∑ PGi jako sumę premii od wszystkich wpłat wniesionych na książeczkę mieszkaniową w poszczególnych latach (kwartałach). i"
     }
    ]
   }

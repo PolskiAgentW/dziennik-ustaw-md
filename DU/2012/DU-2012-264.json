@@ -1,7 +1,7 @@
 {
  "eli": "DU/2012/264",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 stycznia 2012 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo atomowe",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2012/264/text.pdf",
  "body": [
   {
@@ -1410,7 +1410,7 @@
        "type": "pkt",
        "num": "55a",
        "path": "art_3/pkt_55a",
-       "text": "[^19] źródło niekontrolowane – zamknięte źródło promieniotwórcze zawierające izotop promieniotwórczy, którego aktywność w chwili wykrycia źródła przekracza wartość poziomu progowego aktywności P podaną w załączniku nr 2 do ustawy, a które nie zostało objęte nadzorem i kontrolą w zakresie bezpieczeństwa jądrowego¹ i ochrony radiologicznej przez organy dozoru jądrowego albo zostało nimi objęte, ale kontrola i nadzór nad tym źródłem zostały utracone, w szczególności z powodu porzucenia, zaginięcia, kradzieży albo niezgodnego z prawem przekazania źródła;",
+       "text": "[^19] źródło niekontrolowane – zamknięte źródło promieniotwórcze zawierające izotop promieniotwórczy, którego aktywność w chwili wykrycia źródła przekracza wartość poziomu progowego aktywności P₁ podaną w załączniku nr 2 do ustawy, a które nie zostało objęte nadzorem i kontrolą w zakresie bezpieczeństwa jądrowego i ochrony radiologicznej przez organy dozoru jądrowego albo zostało nimi objęte, ale kontrola i nadzór nad tym źródłem zostały utracone, w szczególności z powodu porzucenia, zaginięcia, kradzieży albo niezgodnego z prawem przekazania źródła;",
        "children": []
       },
       {
@@ -1431,7 +1431,7 @@
        "type": "pkt",
        "num": "58",
        "path": "art_3/pkt_58",
-       "text": "[^20] źródło wysokoaktywne – zamknięte źródło promieniotwórcze zawierające izotop promieniotwórczy, którego aktywność w momencie wytworzenia źródła albo, jeżeli wartość ta nie jest znana, w momencie jego wprowadzenia do obrotu jest równa wartości poziomu progowego aktywności P podanej w załączniku nr 2 do ustawy lub wyższa od niej; zamknięte źródło promieniotwórcze przestaje być źródłem² wysokoaktywnym, jeżeli jego aktywność spadnie poniżej poziomu progowego aktywności P₁ podanej w załączniku nr 2 do ustawy.",
+       "text": "[^20] źródło wysokoaktywne – zamknięte źródło promieniotwórcze zawierające izotop promieniotwórczy, którego aktywność w momencie wytworzenia źródła albo, jeżeli wartość ta nie jest znana, w momencie jego wprowadzenia do obrotu jest równa wartości poziomu progowego aktywności P₂ podanej w załączniku nr 2 do ustawy lub wyższa od niej; zamknięte źródło promieniotwórcze przestaje być źródłem wysokoaktywnym, jeżeli jego aktywność spadnie poniżej poziomu progowego aktywności P₁ podanej w załączniku nr 2 do ustawy.",
        "children": []
       }
      ]
@@ -9016,7 +9016,7 @@
        "type": "pkt",
        "num": "2",
        "path": "art_62b/pkt_2",
-       "text": "odpady promieniotwórcze – materiały stałe, ciekłe lub gazowe zawierające substancje promieniotwórcze lub skażone tymi substancjami, których wykorzystanie jest niecelowe lub niemożliwe i w których aktywność całkowita oraz stężenie promieniotwórcze izotopów promieniotwórczych przekraczają wartości poziomów progowych aktywności całkowitej P oraz stężenia promieniotwórczego izotopów promieniotwórczych określone w załączniku nr 2 do ustawy, w tym wycofane¹ z użytkowania (zużyte) zamknięte źródła promieniotwórcze, z wyjątkiem:",
+       "text": "odpady promieniotwórcze – materiały stałe, ciekłe lub gazowe zawierające substancje promieniotwórcze lub skażone tymi substancjami, których wykorzystanie jest niecelowe lub niemożliwe i w których aktywność całkowita oraz stężenie promieniotwórcze izotopów promieniotwórczych przekraczają wartości poziomów progowych aktywności całkowitej P₁ oraz stężenia promieniotwórczego izotopów promieniotwórczych określone w załączniku nr 2 do ustawy, w tym wycofane z użytkowania (zużyte) zamknięte źródła promieniotwórcze, z wyjątkiem:",
        "children": [
         {
          "type": "lit",
@@ -14368,7 +14368,7 @@
     },
     {
      "type": "text",
-     "text": "D = dε ̅ /dm"
+     "text": "D = dε̅/dm"
     },
     {
      "type": "text",
@@ -14376,7 +14376,7 @@
     },
     {
      "type": "text",
-     "text": "– dε ̅ oznacza średnią wartość energii przekazanej,"
+     "text": "– dε̅ oznacza średnią wartość energii przekazanej,"
     },
     {
      "type": "text",
@@ -14388,23 +14388,19 @@
     },
     {
      "type": "text",
-     "text": "Dawka równoważna H : dawka pochłonięta w tkance lub narządzie T, ważona dla rodzaju i energii promieniowania jonizującego R, wyrażona wzorem: T"
+     "text": "Dawka równoważna HT: dawka pochłonięta w tkance lub narządzie T, ważona dla rodzaju i energii promieniowania jonizującego R, wyrażona wzorem:"
     },
     {
      "type": "text",
-     "text": "H = ∑ w D T R R T, R"
+     "text": "HT = ∑ wR DT, R gdzie R"
     },
     {
      "type": "text",
-     "text": "gdzie"
+     "text": "– DT,R oznacza dawkę pochłoniętą od promieniowania jonizującego R, uśrednioną w tkance lub narządzie T,"
     },
     {
      "type": "text",
-     "text": "– D T,R oznacza dawkę pochłoniętą od promieniowania jonizującego R, uśrednioną w tkance lub narządzie T,"
-    },
-    {
-     "type": "text",
-     "text": "– w R oznacza czynnik wagowy promieniowania."
+     "text": "– wR oznacza czynnik wagowy promieniowania."
     },
     {
      "type": "text",
@@ -14416,7 +14412,7 @@
     },
     {
      "type": "text",
-     "text": "E = ∑ w H = ∑ w ∑ w D T T T R T, R T T R"
+     "text": "E = ∑ wT HT = ∑ wT ∑ wR DT, R T T R"
     },
     {
      "type": "text",
@@ -14424,15 +14420,15 @@
     },
     {
      "type": "text",
-     "text": "– D T,R oznacza dawkę pochłoniętą od promieniowa jonizującego R, uśrednioną w tkance lub narządzie T,"
+     "text": "– DT,R oznacza dawkę pochłoniętą od promieniowa jonizującego R, uśrednioną w tkance lub narządzie T,"
     },
     {
      "type": "text",
-     "text": "– w R oznacza czynnik wagowy promieniowania jonizującego R,"
+     "text": "– wR oznacza czynnik wagowy promieniowania jonizującego R,"
     },
     {
      "type": "text",
-     "text": "– w T oznacza czynnik wagowy tkanki lub narządu T."
+     "text": "– wT oznacza czynnik wagowy tkanki lub narządu T."
     }
    ]
   },
@@ -14445,7 +14441,7 @@
     },
     {
      "type": "text",
-     "text": "Izotop Aktywność (Bq) Aktywność (Bq) Stężenie promieniotwórczy P P promieniotwórcze ¹² (kBq/kg)"
+     "text": "Izotop Aktywność (Bq) Aktywność (Bq) Stężenie promieniotwórczy P₁ P₂ promieniotwórcze (kBq/kg)"
     },
     {
      "type": "text",

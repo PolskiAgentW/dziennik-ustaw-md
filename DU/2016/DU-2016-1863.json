@@ -1,7 +1,7 @@
 {
  "eli": "DU/2016/1863",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 października 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o gospodarce opakowaniami i odpadami opakowaniowymi",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2016/1863/text.pdf",
  "body": [
   {
@@ -5088,7 +5088,7 @@
       },
       {
        "type": "text",
-       "text": "OP rec. – oznacza wysokość należnej opłaty produktowej w zł,"
+       "text": "OPrec. – oznacza wysokość należnej opłaty produktowej w zł,"
       },
       {
        "type": "text",
@@ -5096,7 +5096,7 @@
       },
       {
        "type": "text",
-       "text": "P rec. – oznacza wymagany poziom recyklingu w %,"
+       "text": "Prec. – oznacza wymagany poziom recyklingu w %,"
       },
       {
        "type": "text",
@@ -5108,7 +5108,7 @@
       },
       {
        "type": "text",
-       "text": "Jeżeli P rec. – OR ma wartość ujemną, jako należną opłatę produktową wpisuje się wartość „0”."
+       "text": "Jeżeli Prec. – OR ma wartość ujemną, jako należną opłatę produktową wpisuje się wartość „0”."
       }
      ]
     },
@@ -5120,15 +5120,15 @@
      "children": [
       {
        "type": "text",
-       "text": "M ∙ SO +M ∙SO +⋯+M ∙SO OP = ∙#P ∙M −M ( . $% & ł !\" $% ' M ł !\" gdzie:"
+       "text": "M ∙ SO +M ∙SO +⋯+M ∙SO OP = ∙#P ∙M ł −M $% ' ( . $% & !\" M ł !\" gdzie:"
       },
       {
        "type": "text",
-       "text": "OP odz. – oznacza wysokość należnej opłaty produktowej w zł,"
+       "text": "OPodz. – oznacza wysokość należnej opłaty produktowej w zł,"
       },
       {
        "type": "text",
-       "text": "M – oznacza masę w kg opakowań danego rodzaju, w których zostały wprowadzone do obrotu produkty, z indeksem liczbowym przy czym:"
+       "text": "Mz indeksem liczbowym – oznacza masę w kg opakowań danego rodzaju, w których zostały wprowadzone do obrotu produkty, przy czym:"
       },
       {
        "type": "text",
@@ -5164,7 +5164,7 @@
       },
       {
        "type": "text",
-       "text": "SO – oznacza stawkę opłaty produktowej w zł za kg, określoną w przepisach wydanych na podstawie art. 35 ust. 2, przy czym:"
+       "text": "SOz indeksem liczbowym – oznacza stawkę opłaty produktowej w zł za kg, określoną w przepisach wydanych na podstawie art. 35 ust. 2, przy czym:"
       },
       {
        "type": "text",
@@ -5200,11 +5200,11 @@
       },
       {
        "type": "text",
-       "text": "P odzysku – oznacza wyrażony ułamkiem dziesiętnym wymagany w danym roku kalendarzowym poziom odzysku, M całkowita – oznacza sumę mas w kg wszystkich rodzajów opakowań wprowadzonych do obrotu przez wprowadzającego produkty w opakowaniach,"
+       "text": "Podzysku – oznacza wyrażony ułamkiem dziesiętnym wymagany w danym roku kalendarzowym poziom odzysku, Mcałkowita – oznacza sumę mas w kg wszystkich rodzajów opakowań wprowadzonych do obrotu przez wprowadzającego produkty w opakowaniach,"
       },
       {
        "type": "text",
-       "text": "M odzyskana – oznacza sumę mas w kg wszystkich rodzajów odpadów opakowaniowych poddanych odzyskowi."
+       "text": "Modzyskana – oznacza sumę mas w kg wszystkich rodzajów odpadów opakowaniowych poddanych odzyskowi."
       }
      ]
     },
@@ -5216,15 +5216,15 @@
      "children": [
       {
        "type": "text",
-       "text": "M ∙ SO +M ∙SO +⋯+M ∙SO OP = ∙#P ∙M −M ( . $ )!'*& ł !\" + ' $ )!'* ! M ł !\" gdzie:"
+       "text": "M ∙ SO +M ∙SO +⋯+M ∙SO OP = ∙#P ∙M ł −M+ ' $ )!'* ( . $ )!'*& !\" ! M ł !\" gdzie:"
       },
       {
        "type": "text",
-       "text": "OP rec. – oznacza wysokość należnej opłaty produktowej w zł,"
+       "text": "OPrec. – oznacza wysokość należnej opłaty produktowej w zł,"
       },
       {
        "type": "text",
-       "text": "M – oznacza masę w kg opakowań danego rodzaju, w których zostały wprowadzone do obrotu produkty, z indeksem liczbowym przy czym:"
+       "text": "Mz indeksem liczbowym – oznacza masę w kg opakowań danego rodzaju, w których zostały wprowadzone do obrotu produkty, przy czym:"
       },
       {
        "type": "text",
@@ -5260,7 +5260,7 @@
       },
       {
        "type": "text",
-       "text": "SO – oznacza stawkę opłaty produktowej w zł za kg, określoną w przepisach wydanych na podstawie z indeksem liczbowym art. 35 ust. 2, przy czym:"
+       "text": "SOz indeksem liczbowym – oznacza stawkę opłaty produktowej w zł za kg, określoną w przepisach wydanych na podstawie art. 35 ust. 2, przy czym:"
       },
       {
        "type": "text",
@@ -5296,15 +5296,15 @@
       },
       {
        "type": "text",
-       "text": "P recyklingu – oznacza wyrażony ułamkiem dziesiętnym wymagany w danym roku kalendarzowym poziom recyklingu,"
+       "text": "Precyklingu – oznacza wyrażony ułamkiem dziesiętnym wymagany w danym roku kalendarzowym poziom recyklingu,"
       },
       {
        "type": "text",
-       "text": "M całkowita – oznacza sumę mas w kg wszystkich rodzajów opakowań wprowadzonych do obrotu przez wprowadzającego produkty w opakowaniach,"
+       "text": "Mcałkowita – oznacza sumę mas w kg wszystkich rodzajów opakowań wprowadzonych do obrotu przez wprowadzającego produkty w opakowaniach,"
       },
       {
        "type": "text",
-       "text": "M – oznacza sumę mas w kg wszystkich rodzajów odpadów opakowaniowych poddanych recyklingowi."
+       "text": "Mpoddana recyklingowi – oznacza sumę mas w kg wszystkich rodzajów odpadów opakowaniowych poddanych recyklingowi."
       },
       {
        "type": "text",
@@ -5341,6 +5341,6 @@
   "10": "W art. 68 została wymieniona ustawa z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej (Dz. U. z 2007 r. poz. 607, z późn. zm.).",
   "11": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. poz. 78, z 2004 r. poz. 97 i 959, z 2005 r. poz. 1458, z 2011 r. poz. 322 oraz z 2013 r. poz. 21.",
   "12": "Ustawa została ogłoszona w dniu 6 sierpnia 2013 r.",
-  "13": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. poz. 1505 i 1570, z 2009 r. poz. 97, 206, 753, 788 i 817, z 2010 r. poz. 513 i 679, z 2011 r. poz. 322, 451, 622, 654, 657 i 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491, z 2015 r. poz. 28, 277, 788, 875, 1771, 1830, 1918, 1926 i 1991 oraz z 2016 r. poz. 823, 960 i 1579. z indeksem liczbowym poddana recyklingowi"
+  "13": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. poz. 1505 i 1570, z 2009 r. poz. 97, 206, 753, 788 i 817, z 2010 r. poz. 513 i 679, z 2011 r. poz. 322, 451, 622, 654, 657 i 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491, z 2015 r. poz. 28, 277, 788, 875, 1771, 1830, 1918, 1926 i 1991 oraz z 2016 r. poz. 823, 960 i 1579."
  }
 }

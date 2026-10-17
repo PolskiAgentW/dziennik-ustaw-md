@@ -1,7 +1,7 @@
 {
  "eli": "DU/2024/1497",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 września 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kredycie konsumenckim",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2024/1497/text.pdf",
  "body": [
   {
@@ -5009,8 +5009,16 @@
       },
       {
        "type": "text",
-       "text": "−t k −S l ∑C k (1+X) = ∑D l (1+X) 2. Poszczególne litery i symbole k=1 użyte we wzorze oznaczają: l=1"
-      },
+       "text": "−t k −S l ∑Ck (1+X) = ∑Dl (1+X)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Poszczególne litery i symbole k=1 użyte we wzorze oznaczają: l=1",
+     "children": [
       {
        "type": "text",
        "text": "X – rzeczywistą roczną stopę oprocentowania,"
@@ -5025,11 +5033,11 @@
       },
       {
        "type": "text",
-       "text": "C k – kwotę wypłaty k,"
+       "text": "Ck – kwotę wypłaty k,"
       },
       {
        "type": "text",
-       "text": "t k – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej kolejnej wypłaty, zatem t₁ = 0,"
+       "text": "tk – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej kolejnej wypłaty, zatem t₁ = 0,"
       },
       {
        "type": "text",
@@ -5041,11 +5049,11 @@
       },
       {
        "type": "text",
-       "text": "D l – kwotę spłaty lub wnoszonych opłat,"
+       "text": "Dl – kwotę spłaty lub wnoszonych opłat,"
       },
       {
        "type": "text",
-       "text": "S l – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej spłaty lub wniesienia opłat."
+       "text": "Sl – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej spłaty lub wniesienia opłat."
       }
      ]
     },
@@ -5094,11 +5102,11 @@
        "type": "pkt",
        "num": "6",
        "path": "ust_3/pkt_6",
-       "text": "równanie to może być zapisane w postaci jednej sumy z wykorzystaniem koncepcji przepływów (A k ), które mogą być dodatnie lub ujemne – zapłacone lub otrzymane w okresach 1 do k, wyrażonych w latach:",
+       "text": "równanie to może być zapisane w postaci jednej sumy z wykorzystaniem koncepcji przepływów (Ak), które mogą być dodatnie lub ujemne – zapłacone lub otrzymane w okresach 1 do k, wyrażonych w latach:",
        "children": [
         {
          "type": "text",
-         "text": "n S = ∑A k (1+X) −t k , gdzie: k=1"
+         "text": "n S = ∑Ak (1+X) −t k , gdzie: k=1"
         },
         {
          "type": "text",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2015/775",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 maja 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o biokomponentach i biopaliwach ciekłych",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2015/775/text.pdf",
  "body": [
   {
@@ -4261,7 +4261,7 @@
              "type": "tir",
              "num": "4",
              "path": "art_30/ust_1/pkt_1/lit_b/tir_4",
-             "text": "poziomu emisji gazów cieplarnianych wyrażonego w gCO 2eq /t dla surowców rolniczych spełniającej kryteria zrównoważonego rozwoju dotyczące uprawy surowców rolniczych,",
+             "text": "poziomu emisji gazów cieplarnianych wyrażonego w gCO2eq/t dla surowców rolniczych spełniającej kryteria zrównoważonego rozwoju dotyczące uprawy surowców rolniczych,",
              "children": []
             },
             {
@@ -4290,7 +4290,7 @@
              "type": "tir",
              "num": "2",
              "path": "art_30/ust_1/pkt_1/lit_c/tir_2",
-             "text": "poziomu emisji gazów cieplarnianych wyrażonego w gCO 2eq /MJ dla biokomponentów,",
+             "text": "poziomu emisji gazów cieplarnianych wyrażonego w gCO2eq/MJ dla biokomponentów,",
              "children": []
             },
             {
@@ -4437,7 +4437,7 @@
            "type": "lit",
            "num": "b",
            "path": "art_30/ust_1b/pkt_3/lit_b",
-           "text": "poziomu emisji gazów cieplarnianych wyrażonego w gCO 2eq /MJ dla biokomponentów,",
+           "text": "poziomu emisji gazów cieplarnianych wyrażonego w gCO2eq/MJ dla biokomponentów,",
            "children": []
           },
           {
@@ -4610,7 +4610,7 @@
            "type": "lit",
            "num": "d",
            "path": "art_30/ust_2b/pkt_1/lit_d",
-           "text": "poziomu emisji gazów cieplarnianych wyrażonego w gCO 2eq /MJ dla importowanych lub nabytych wewnątrzwspólnotowo biokomponentów spełniających kryteria zrównoważonego rozwoju,",
+           "text": "poziomu emisji gazów cieplarnianych wyrażonego w gCO2eq/MJ dla importowanych lub nabytych wewnątrzwspólnotowo biokomponentów spełniających kryteria zrównoważonego rozwoju,",
            "children": []
           },
           {
@@ -4799,7 +4799,7 @@
          "type": "pkt",
          "num": "2",
          "path": "art_30b/ust_1a/pkt_2",
-         "text": "poziom emisji gazów cieplarnianych dla każdego rodzaju biokomponentu wyrażony w gCO 2eq /MJ;",
+         "text": "poziom emisji gazów cieplarnianych dla każdego rodzaju biokomponentu wyrażony w gCO2eq/MJ;",
          "children": []
         },
         {
@@ -5511,7 +5511,7 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "poprzez zastosowanie wartości standardowej[^24], jeżeli wartość standardowa ograniczenia emisji gazów cieplarnianych w odniesieniu do niektórych lub wszystkich etapów określonego procesu wytwarzania i zużycia biokomponentu w paliwach ciekłych i biopaliwach ciekłych została określona w części II.1. lub II.2. i jeżeli wartość e l dla tych biokomponentów obliczona w sposób określony w części II.3. w pkt 7 jest równa zero lub jest mniejsza od zera, lub",
+     "text": "poprzez zastosowanie wartości standardowej[^24], jeżeli wartość standardowa ograniczenia emisji gazów cieplarnianych w odniesieniu do niektórych lub wszystkich etapów określonego procesu wytwarzania i zużycia biokomponentu w paliwach ciekłych i biopaliwach ciekłych została określona w części II.1. lub II.2. i jeżeli wartość el dla tych biokomponentów obliczona w sposób określony w części II.3. w pkt 7 jest równa zero lub jest mniejsza od zera, lub",
      "children": []
     },
     {
@@ -5810,14 +5810,14 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "Całkowita emisja spowodowana stosowaniem paliwa – E, jest wyrażona w gramach przeliczeniowych CO₂ na MJ paliwa, gCO 2eq /MJ.",
+     "text": "Całkowita emisja spowodowana stosowaniem paliwa – E, jest wyrażona w gramach przeliczeniowych CO₂ na MJ paliwa, gCO2eq/MJ.",
      "children": []
     },
     {
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "W drodze wyjątku od pkt 2, dla paliw zużywanych w transporcie wartości obliczone w gCO 2eq /MJ mogą być skorygowane o różnice pomiędzy paliwami w zakresie wykonanej pracy użytecznej, wyrażonej w km/MJ. Korekta ta jest dopuszczalna wyłącznie w przypadku przedstawienia dowodu na istnienie różnic w zakresie wykonanej pracy użytecznej.",
+     "text": "W drodze wyjątku od pkt 2, dla paliw zużywanych w transporcie wartości obliczone w gCO2eq/MJ mogą być skorygowane o różnice pomiędzy paliwami w zakresie wykonanej pracy użytecznej, wyrażonej w km/MJ. Korekta ta jest dopuszczalna wyłącznie w przypadku przedstawienia dowodu na istnienie różnic w zakresie wykonanej pracy użytecznej.",
      "children": []
     },
     {
@@ -5858,15 +5858,15 @@
      "children": [
       {
        "type": "text",
-       "text": "CO \" :1"
+       "text": "CO\":1"
       },
       {
        "type": "text",
-       "text": "N \" O:296"
+       "text": "N\" O:296"
       },
       {
        "type": "text",
-       "text": "CH ) :23"
+       "text": "CH):23"
       }
      ]
     },
@@ -5874,18 +5874,18 @@
      "type": "pkt",
      "num": "6",
      "path": "pkt_6",
-     "text": "Emisja spowodowana wydobyciem surowców lub uprawą biomasy – e ec , obejmuje emisje spowodowane samym procesem wydobycia lub uprawy, gromadzeniem surowców, odpadami i wyciekami, produkcją chemikaliów i produktów stosowanych w procesie wydobycia lub uprawy. Wyklucza się wychwytywanie CO₂ w trakcie uprawy surowców. Odejmuje się potwierdzoną redukcję emisji gazów cieplarnianych związaną ze spalaniem w pochodniach w miejscach wydobycia ropy naftowej. Szacunkową emisję z upraw można określić na podstawie średnich wyliczonych dla obszarów geograficznych mniejszych od tych przyjętych do obliczenia wartości standardowych lub na podstawie wartości rzeczywistych.",
+     "text": "Emisja spowodowana wydobyciem surowców lub uprawą biomasy – eec, obejmuje emisje spowodowane samym procesem wydobycia lub uprawy, gromadzeniem surowców, odpadami i wyciekami, produkcją chemikaliów i produktów stosowanych w procesie wydobycia lub uprawy. Wyklucza się wychwytywanie CO₂ w trakcie uprawy surowców. Odejmuje się potwierdzoną redukcję emisji gazów cieplarnianych związaną ze spalaniem w pochodniach w miejscach wydobycia ropy naftowej. Szacunkową emisję z upraw można określić na podstawie średnich wyliczonych dla obszarów geograficznych mniejszych od tych przyjętych do obliczenia wartości standardowych lub na podstawie wartości rzeczywistych.",
      "children": []
     },
     {
      "type": "pkt",
      "num": "7",
      "path": "pkt_7",
-     "text": "Emisję w ujęciu rocznym spowodowaną zmianami ilości pierwiastka węgla w związku ze zmianą sposobu użytkowania gruntów – e l , oblicza się, równo rozdzielając całkowitą emisję na 20 lat. Do obliczenia wielkości tych emisji stosuje się następującą zasadę:",
+     "text": "Emisję w ujęciu rocznym spowodowaną zmianami ilości pierwiastka węgla w związku ze zmianą sposobu użytkowania gruntów – el, oblicza się, równo rozdzielając całkowitą emisję na 20 lat. Do obliczenia wielkości tych emisji stosuje się następującą zasadę:",
      "children": [
       {
        "type": "text",
-       "text": "e = (CS − CS ) × 3,664[^27] × 1/20 × 1/P − e , l R A B"
+       "text": "el = (CSR − CSA) × 3,664[^27] × 1/20 × 1/P − eB,"
       },
       {
        "type": "text",
@@ -5893,15 +5893,15 @@
       },
       {
        "type": "text",
-       "text": "e l – emisję w ujęciu rocznym gazów cieplarnianych spowodowaną zmianami ilości pierwiastka węgla w związku ze zmianą sposobu użytkowania gruntów (mierzoną jako masa równoważnika CO₂ na jednostkę energii wytworzonej z biokomponentu),"
+       "text": "el – emisję w ujęciu rocznym gazów cieplarnianych spowodowaną zmianami ilości pierwiastka węgla w związku ze zmianą sposobu użytkowania gruntów (mierzoną jako masa równoważnika CO₂ na jednostkę energii wytworzonej z biokomponentu),"
       },
       {
        "type": "text",
-       "text": "CS R – ilość pierwiastka węgla na jednostkę powierzchni związaną z przeznaczeniem gruntów odniesienia (mierzoną jako masa pierwiastka węgla na jednostkę powierzchni, obejmująca zarówno glebę, jak i roślinność); przeznaczenie gruntów odniesienia oznacza przeznaczenie gruntów w styczniu 2008 r. lub 20 lat przed uzyskaniem biomasy, jeśli data ta jest późniejsza,"
+       "text": "CSR – ilość pierwiastka węgla na jednostkę powierzchni związaną z przeznaczeniem gruntów odniesienia (mierzoną jako masa pierwiastka węgla na jednostkę powierzchni, obejmująca zarówno glebę, jak i roślinność); przeznaczenie gruntów odniesienia oznacza przeznaczenie gruntów w styczniu 2008 r. lub 20 lat przed uzyskaniem biomasy, jeśli data ta jest późniejsza,"
       },
       {
        "type": "text",
-       "text": "CS A – ilość pierwiastka węgla na jednostkę powierzchni związaną z rzeczywistym przeznaczeniem gruntów (mierzoną jako masa pierwiastka węgla na jednostkę powierzchni, obejmująca zarówno glebę, jak i roślinność); w przypadkach gdy ilości pierwiastka węgla gromadzą się przez okres przekraczający 1 rok, wartość CS A jest obliczana jako zasoby na jednostkę powierzchni po 20 latach lub kiedy uprawy osiągną dojrzałość, w zależności od tego, co nastąpi wcześniej,"
+       "text": "CSA – ilość pierwiastka węgla na jednostkę powierzchni związaną z rzeczywistym przeznaczeniem gruntów (mierzoną jako masa pierwiastka węgla na jednostkę powierzchni, obejmująca zarówno glebę, jak i roślinność); w przypadkach gdy ilości pierwiastka węgla gromadzą się przez okres przekraczający 1 rok, wartość CSA jest obliczana jako zasoby na jednostkę powierzchni po 20 latach lub kiedy uprawy osiągną dojrzałość, w zależności od tego, co nastąpi wcześniej,"
       },
       {
        "type": "text",
@@ -5909,7 +5909,7 @@
       },
       {
        "type": "text",
-       "text": "e B – premię o wartości 29 gCO 2eq /MJ za biokomponent przyznawaną w sytuacji, gdy biomasa jest otrzymywana z rekultywowanych terenów zdegradowanych i spełnia warunki określone w pkt 8."
+       "text": "eB – premię o wartości 29 gCO2eq/MJ za biokomponent przyznawaną w sytuacji, gdy biomasa jest otrzymywana z rekultywowanych terenów zdegradowanych i spełnia warunki określone w pkt 8."
       }
      ]
     },
@@ -5917,7 +5917,7 @@
      "type": "pkt",
      "num": "8",
      "path": "pkt_8",
-     "text": "Premia o wartości 29 gCO 2eq /MJ jest przyznawana, jeśli tereny:",
+     "text": "Premia o wartości 29 gCO2eq/MJ jest przyznawana, jeśli tereny:",
      "children": [
       {
        "type": "lit",
@@ -5947,7 +5947,7 @@
          "children": [
           {
            "type": "text",
-           "text": "Premia o wartości 29 gCO 2eq /MJ ma zastosowanie przez okres nieprzekraczający 10 lat, licząc od daty przekształcenia terenów do celów rolniczych, pod warunkiem że zapewnione zostanie regularne zwiększanie ilości pierwiastka węgla oraz znaczne ograniczenie erozji w odniesieniu do terenów określonych w lit. b w tiret pierwszym oraz zmniejszenie zanieczyszczenia gleby w odniesieniu do terenów określonych w lit. b w tiret drugim."
+           "text": "Premia o wartości 29 gCO2eq/MJ ma zastosowanie przez okres nieprzekraczający 10 lat, licząc od daty przekształcenia terenów do celów rolniczych, pod warunkiem że zapewnione zostanie regularne zwiększanie ilości pierwiastka węgla oraz znaczne ograniczenie erozji w odniesieniu do terenów określonych w lit. b w tiret pierwszym oraz zmniejszenie zanieczyszczenia gleby w odniesieniu do terenów określonych w lit. b w tiret drugim."
           }
          ]
         }
@@ -5959,7 +5959,7 @@
      "type": "pkt",
      "num": "9",
      "path": "pkt_9",
-     "text": "Emisja spowodowana procesami technologicznymi – e p , obejmuje emisje spowodowane samymi procesami technologicznymi, odpadami i wyciekami oraz produkcją chemikaliów lub produktów stosowanych w procesach technologicznych.",
+     "text": "Emisja spowodowana procesami technologicznymi – ep, obejmuje emisje spowodowane samymi procesami technologicznymi, odpadami i wyciekami oraz produkcją chemikaliów lub produktów stosowanych w procesach technologicznych.",
      "children": [
       {
        "type": "text",
@@ -5971,35 +5971,35 @@
      "type": "pkt",
      "num": "10",
      "path": "pkt_10",
-     "text": "Emisja spowodowana transportem i dystrybucją – e td , obejmuje emisje spowodowane transportem i magazynowaniem surowców oraz półproduktów, a także magazynowaniem i dystrybucją wyrobów gotowych. Niniejszy punkt nie obejmuje emisji spowodowanych przez transport i dystrybucję, które należy uwzględnić zgodnie z pkt 6.",
+     "text": "Emisja spowodowana transportem i dystrybucją – etd, obejmuje emisje spowodowane transportem i magazynowaniem surowców oraz półproduktów, a także magazynowaniem i dystrybucją wyrobów gotowych. Niniejszy punkt nie obejmuje emisji spowodowanych przez transport i dystrybucję, które należy uwzględnić zgodnie z pkt 6.",
      "children": []
     },
     {
      "type": "pkt",
      "num": "11",
      "path": "pkt_11",
-     "text": "Emisję spowodowaną stosowanym paliwem – e u , uznaje się za zerową dla biokomponentów.",
+     "text": "Emisję spowodowaną stosowanym paliwem – eu, uznaje się za zerową dla biokomponentów.",
      "children": []
     },
     {
      "type": "pkt",
      "num": "12",
      "path": "pkt_12",
-     "text": "Ograniczenie emisji dzięki wychwytywaniu dwutlenku węgla i jego podziemnemu składowaniu – e ccs , które nie zostało uwzględnione już w e p , odnosi się wyłącznie do emisji, której uniknięto poprzez wychwytywanie i sekwestrację emitowanego CO₂ bezpośrednio związanego z wydobyciem, transportem, przetworzeniem i dystrybucją paliwa.",
+     "text": "Ograniczenie emisji dzięki wychwytywaniu dwutlenku węgla i jego podziemnemu składowaniu – eccs, które nie zostało uwzględnione już w ep, odnosi się wyłącznie do emisji, której uniknięto poprzez wychwytywanie i sekwestrację emitowanego CO₂ bezpośrednio związanego z wydobyciem, transportem, przetworzeniem i dystrybucją paliwa.",
      "children": []
     },
     {
      "type": "pkt",
      "num": "13",
      "path": "pkt_13",
-     "text": "Ograniczenie emisji dzięki wychwytywaniu dwutlenku węgla i jego zastępowaniu – e ccr , odnosi się wyłącznie do emisji, której uniknięto poprzez wychwytywanie CO₂, w którym pierwiastek węgla pochodzi z biomasy i jest stosowany w celu zastąpienia CO₂ pochodzenia kopalnego, stosowanego w produktach handlowych i w usługach.",
+     "text": "Ograniczenie emisji dzięki wychwytywaniu dwutlenku węgla i jego zastępowaniu – eccr, odnosi się wyłącznie do emisji, której uniknięto poprzez wychwytywanie CO₂, w którym pierwiastek węgla pochodzi z biomasy i jest stosowany w celu zastąpienia CO₂ pochodzenia kopalnego, stosowanego w produktach handlowych i w usługach.",
      "children": []
     },
     {
      "type": "pkt",
      "num": "14",
      "path": "pkt_14",
-     "text": "Ograniczenie emisji dzięki zwiększonemu wytwarzaniu energii elektrycznej w kogeneracji – e ee , uwzględnia się w odniesieniu do nadwyżki energii elektrycznej produkowanej w ramach systemów produkcji paliwa stosujących kogenerację, z wyjątkiem przypadków, gdy nośnik energii stosowany w kogeneracji jest produktem ubocznym innym niż resztki pożniwne. W obliczeniach nadwyżki energii elektrycznej przyjmuje się, że moc zainstalowana jednostki kogeneracji odpowiada minimum niezbędnemu, aby ta jednostka mogła dostarczać ciepło potrzebne do produkcji paliwa. Ograniczenie emisji gazów cieplarnianych związane z nadwyżką energii elektrycznej uznaje się za równe ilości gazów cieplarnianych, które zostałyby wyemitowane, gdyby w jednostce wytwórczej stosującej ten sam nośnik energii wyprodukowano taką samą ilość energii elektrycznej, jak w jednostce kogeneracji.",
+     "text": "Ograniczenie emisji dzięki zwiększonemu wytwarzaniu energii elektrycznej w kogeneracji – eee, uwzględnia się w odniesieniu do nadwyżki energii elektrycznej produkowanej w ramach systemów produkcji paliwa stosujących kogenerację, z wyjątkiem przypadków, gdy nośnik energii stosowany w kogeneracji jest produktem ubocznym innym niż resztki pożniwne. W obliczeniach nadwyżki energii elektrycznej przyjmuje się, że moc zainstalowana jednostki kogeneracji odpowiada minimum niezbędnemu, aby ta jednostka mogła dostarczać ciepło potrzebne do produkcji paliwa. Ograniczenie emisji gazów cieplarnianych związane z nadwyżką energii elektrycznej uznaje się za równe ilości gazów cieplarnianych, które zostałyby wyemitowane, gdyby w jednostce wytwórczej stosującej ten sam nośnik energii wyprodukowano taką samą ilość energii elektrycznej, jak w jednostce kogeneracji.",
      "children": []
     },
     {
@@ -6013,7 +6013,7 @@
      "type": "pkt",
      "num": "16",
      "path": "pkt_16",
-     "text": "W obliczeniach, o których mowa w pkt 15, emisje do podziału to e + e + te części e , e i e , mają miejsce przed fazą produkcji, w której powstaje produkt uboczny, i w jej trakcie. Jeśli w odniesieniu do tych produktów ubocznych jakiekolwiek emisje przypisano do wcześniejszych faz produkcji w cyklu życia, uwzględnia się jedynie tę część emisji, którą przypisano do pośredniego produktu paliwowego w ostatniej fazie produkcji, a nie całość emisji.",
+     "text": "W obliczeniach, o których mowa w pkt 15, emisje do podziału to eec + el + te części ep, etd i eee, mają miejsce przed fazą produkcji, w której powstaje produkt uboczny, i w jej trakcie. Jeśli w odniesieniu do tych produktów ubocznych jakiekolwiek emisje przypisano do wcześniejszych faz produkcji w cyklu życia, uwzględnia się jedynie tę część emisji, którą przypisano do pośredniego produktu paliwowego w ostatniej fazie produkcji, a nie całość emisji.",
      "children": [
       {
        "type": "text",
@@ -6033,7 +6033,7 @@
      "type": "pkt",
      "num": "17",
      "path": "pkt_17",
-     "text": "W przypadku biokomponentów w obliczeniach, o których mowa w pkt 4, wartość kopalnego odpowiednika biokomponentu (E F ) to najnowsza dostępna wartość średnich emisji pochodzących z kopalnej części benzyn silnikowych i oleju napędowego wykorzystanych na terytorium Unii Europejskiej, podana na mocy dyrektywy 98/70/WE Parlamentu Europejskiego i Rady z dnia 13 października 1998 r. odnoszącej się do jakości benzyny i olejów napędowych oraz zmieniającej dyrektywę Rady 93/12/EWG (Dz. Urz. WE L 350 z 28.12.1998, str. 58, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 23, str. 182). W przypadku braku takich danych, zastosowanie ma wartość 83,8 gCO 2eq /MJ.",
+     "text": "W przypadku biokomponentów w obliczeniach, o których mowa w pkt 4, wartość kopalnego odpowiednika biokomponentu (EF) to najnowsza dostępna wartość średnich emisji pochodzących z kopalnej części benzyn silnikowych i oleju napędowego wykorzystanych na terytorium Unii Europejskiej, podana na mocy dyrektywy 98/70/WE Parlamentu Europejskiego i Rady z dnia 13 października 1998 r. odnoszącej się do jakości benzyny i olejów napędowych oraz zmieniającej dyrektywę Rady 93/12/EWG (Dz. Urz. WE L 350 z 28.12.1998, str. 58, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 23, str. 182). W przypadku braku takich danych, zastosowanie ma wartość 83,8 gCO2eq/MJ.",
      "children": [
       {
        "type": "text",
@@ -6041,7 +6041,7 @@
       },
       {
        "type": "text",
-       "text": "Szczegółowe wartości dla uprawy „e ec ” zgodnie z definicją w części II.3."
+       "text": "Szczegółowe wartości dla uprawy „eec” zgodnie z definicją w części II.3."
       },
       {
        "type": "text",
@@ -6121,7 +6121,7 @@
       },
       {
        "type": "text",
-       "text": "Szczegółowe wartości dla procesu technologicznego (w tym nadwyżka energii elektrycznej) „e p – e ee ” zgodnie z definicją w części II.3."
+       "text": "Szczegółowe wartości dla procesu technologicznego (w tym nadwyżka energii elektrycznej) „ep – eee” zgodnie z definicją w części II.3."
       },
       {
        "type": "text",
@@ -6217,7 +6217,7 @@
       },
       {
        "type": "text",
-       "text": "Szczegółowe wartości dla transportu i dystrybucji „e td ” zgodnie z definicją w części II.3."
+       "text": "Szczegółowe wartości dla transportu i dystrybucji „etd” zgodnie z definicją w części II.3."
       },
       {
        "type": "text",
@@ -6393,7 +6393,7 @@
       },
       {
        "type": "text",
-       "text": "Szczegółowe wartości standardowe dla upraw „e ec ” zgodnie z definicją w części II.3."
+       "text": "Szczegółowe wartości standardowe dla upraw „eec” zgodnie z definicją w części II.3."
       },
       {
        "type": "text",
@@ -6437,7 +6437,7 @@
       },
       {
        "type": "text",
-       "text": "część ze źródeł odnawialnych takie same wartości jak dla wybranego bioetanolu MTBE Szczegółowe wartości standardowe dla procesów technologicznych (w tym nadwyżka energii elektrycznej) „e p – e ee ” zgodnie z definicją w części II.3."
+       "text": "część ze źródeł odnawialnych takie same wartości jak dla wybranego bioetanolu MTBE Szczegółowe wartości standardowe dla procesów technologicznych (w tym nadwyżka energii elektrycznej) „ep – eee” zgodnie z definicją w części II.3."
       },
       {
        "type": "text",
@@ -6469,7 +6469,7 @@
       },
       {
        "type": "text",
-       "text": "Szczegółowe wartości standardowe dla transportu i dystrybucji „e td ” zgodnie z definicją w części II.3."
+       "text": "Szczegółowe wartości standardowe dla transportu i dystrybucji „etd” zgodnie z definicją w części II.3."
       },
       {
        "type": "text",
@@ -6595,6 +6595,6 @@
   "24": "Przez wartość standardową rozumie się wartość ograniczenia emisji gazów cieplarnianych wyznaczoną w oparciu o wartość typową, która może być stosowana zamiast wartości rzeczywistej.",
   "25": "Przez wartość rzeczywistą rozumie się wartość ograniczenia emisji gazów cieplarnianych w odniesieniu do niektórych lub wszystkich etapów określonego procesu wytwarzania i zużycia biokomponentu w paliwach ciekłych i biopaliwach ciekłych, wyznaczoną zgodnie z metodyką ograniczenia emisji gazów cieplarnianych dla biokomponentów.",
   "26": "Przez wartość typową rozumie się oszacowaną wartość ograniczenia emisji gazów cieplarnianych reprezentatywną dla danego procesu wytwarzania i zużycia biokomponentu w paliwach ciekłych i biopaliwach ciekłych.",
-  "27": "Współczynnik otrzymany przez podzielenie masy molowej CO₂ (44,010 g/mol) przez masę molową węgla (12,011 g/mol) wynosi 3,664. ec l p td ee"
+  "27": "Współczynnik otrzymany przez podzielenie masy molowej CO₂ (44,010 g/mol) przez masę molową węgla (12,011 g/mol) wynosi 3,664."
  }
 }

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2020/1442",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 lipca 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o towarach paczkowanych",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2020/1442/text.pdf",
  "body": [
   {
@@ -1624,7 +1624,7 @@
          "type": "lit",
          "num": "a",
          "path": "par_1/ust_2/lit_a",
-         "text": "ilość nominalna towaru paczkowanego, oznaczona dalej Q – w przypadku kontroli całej partii towarów zgodnie z § 6 ust. 3 lit. c, n",
+         "text": "ilość nominalna towaru paczkowanego, oznaczona dalej Qn – w przypadku kontroli całej partii towarów zgodnie z § 6 ust. 3 lit. c,",
          "children": []
         },
         {
@@ -1648,7 +1648,11 @@
         },
         {
          "type": "text",
-         "text": "Ilość nominalna Q towaru Ujemna wartość błędu ilości towaru paczkowanego (T ) wyrażona paczkowanego wyrażona n w g lub ml w procentach Q w g lub¹ml od 0 do 50 9 n –"
+         "text": "Ilość nominalna Qn towaru Ujemna wartość błędu ilości towaru paczkowanego (T ) wyrażona paczkowanego wyrażona w g lub ml w procentach Qn w g lub¹ml"
+        },
+        {
+         "type": "text",
+         "text": "od 0 do 50 9 –"
         },
         {
          "type": "text",
@@ -1684,15 +1688,15 @@
         },
         {
          "type": "text",
-         "text": "Przy stosowaniu tabeli, wartości dopuszczalnych błędów T , wyrażonych w procentach Q zaokrągla się przy przeliczaniu na jednostki masy lub objętości do:¹ n"
+         "text": "Przy stosowaniu tabeli, wartości dopuszczalnych błędów T , wyrażonych w procentach Qn zaokrągla się przy przeliczaniu na jednostki masy lub objętości do:¹"
         },
         {
          "type": "text",
-         "text": "– następnej dziesiętnej części g albo ml – Q n ≤ 1000 g albo 1000 ml,"
+         "text": "– następnej dziesiętnej części g albo ml – Qn ≤ 1000 g albo 1000 ml,"
         },
         {
          "type": "text",
-         "text": "– następnej całkowitej wartości g albo ml – Q n >1000 g albo 1000 ml."
+         "text": "– następnej całkowitej wartości g albo ml – Qn >1000 g albo 1000 ml."
         }
        ]
       },
@@ -1847,7 +1851,7 @@
        "type": "ust",
        "num": "3",
        "path": "par_3/ust_3",
-       "text": "Minimalna akceptowana ilość rzeczywista towaru paczkowanego jest równa różnicy między ilością nominalną Q towaru paczkowanego a dopuszczalnym błędem ujemnym T₁, określonym w § 1 ust. 3 (tabela 1). n",
+       "text": "Minimalna akceptowana ilość rzeczywista towaru paczkowanego jest równa różnicy między ilością nominalną Qn towaru paczkowanego a dopuszczalnym błędem ujemnym T₁, określonym w § 1 ust. 3 (tabela 1).",
        "children": []
       },
       {
@@ -1999,11 +2003,15 @@
        "children": [
         {
          "type": "text",
-         "text": "∑ i=n x x = i=1 i n gdzie:"
+         "text": "∑ i=n xi x = i=1 n gdzie:"
         },
         {
          "type": "text",
-         "text": "x i – Suma wyznaczonych wartości ilości rzeczywistej towarów paczkowanych wchodzących w skład próbki, n – liczność próbki."
+         "text": "xi – Suma wyznaczonych wartości ilości rzeczywistej towarów paczkowanych wchodzących w skład próbki,"
+        },
+        {
+         "type": "text",
+         "text": "n – liczność próbki."
         }
        ]
       },
@@ -2015,7 +2023,7 @@
        "children": [
         {
          "type": "text",
-         "text": "1 i=n s=√ ∑(x −x)² n−1 i 3. Średnia ilość rzeczywista x towaru paczkowanego z danej i=1 próbki nie powinna być mniejsza niż:"
+         "text": "1 i=n s=√ ∑(xi −x)² n−1 3. Średnia ilość rzeczywista x towaru paczkowanego z danej i=1 próbki nie powinna być mniejsza niż:"
         },
         {
          "type": "lit",
@@ -2033,7 +2041,27 @@
           },
           {
            "type": "text",
-           "text": "100–500 1 30 30 x ≥Q n −0,503s 2 30 60 x ≥Q n −0,344s 501–3200 1 50 50 x ≥Q n −0,379s 2 50 100 x ≥Q n −0,262s 3201 i więcej 1 80 80 x ≥Q n −0,295s 2 80 160 x ≥Q n −0,207s"
+           "text": "100–500 1 30 30 x ≥Qn −0,503s"
+          },
+          {
+           "type": "text",
+           "text": "2 30 60 x ≥Qn −0,344s"
+          },
+          {
+           "type": "text",
+           "text": "501–3200 1 50 50 x ≥Qn −0,379s"
+          },
+          {
+           "type": "text",
+           "text": "2 50 100 x ≥Qn −0,262s"
+          },
+          {
+           "type": "text",
+           "text": "3201 i więcej 1 80 80 x ≥Qn −0,295s"
+          },
+          {
+           "type": "text",
+           "text": "2 80 160 x ≥Qn −0,207s"
           },
           {
            "type": "text",
@@ -2041,7 +2069,7 @@
           },
           {
            "type": "text",
-           "text": "Q n – ilość nominalna towaru paczkowanego,"
+           "text": "Qn – ilość nominalna towaru paczkowanego,"
           },
           {
            "type": "text",
@@ -2065,7 +2093,7 @@
           },
           {
            "type": "text",
-           "text": "100 20 x >Q n −0,640s"
+           "text": "100 20 x >Qn −0,640s"
           }
          ]
         },
@@ -2073,7 +2101,7 @@
          "type": "lit",
          "num": "c",
          "path": "par_6/ust_2/lit_c",
-         "text": "ilość nominalna Q n towaru paczkowanego – dla partii kontrolowanych w całości.",
+         "text": "ilość nominalna Qn towaru paczkowanego – dla partii kontrolowanych w całości.",
          "children": []
         }
        ]
@@ -2170,11 +2198,11 @@
      "children": [
       {
        "type": "text",
-       "text": "Pojemność nominalna V n Maksymalny dopuszczalny błąd"
+       "text": "Pojemność nominalna Vn Maksymalny dopuszczalny błąd"
       },
       {
        "type": "text",
-       "text": "w ml w procentach V n w ml"
+       "text": "w ml w procentach Vn w ml"
       },
       {
        "type": "text",
@@ -2337,11 +2365,11 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_5/pkt_1",
-       "text": "Obliczyć średnią x pojemności rzeczywistych butelek znajdujących się w próbce x i wg wzoru:",
+       "text": "Obliczyć średnią x pojemności rzeczywistych butelek znajdujących się w próbce xi wg wzoru:",
        "children": [
         {
          "type": "text",
-         "text": "∑x x = i 35"
+         "text": "∑xi x = 35"
         }
        ]
       },
@@ -2353,7 +2381,7 @@
        "children": [
         {
          "type": "text",
-         "text": "∑x – 1 (∑x ) s = √ i² 35 i² 34"
+         "text": "∑xi – 1 (∑xi) s = √² 35² 34"
         }
        ]
       },
@@ -2405,11 +2433,11 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_5/pkt_1",
-       "text": "Obliczyć średnią x pojemności rzeczywistych butelek znajdujących się w próbce x i wg wzoru:",
+       "text": "Obliczyć średnią x pojemności rzeczywistych butelek znajdujących się w próbce xi wg wzoru:",
        "children": [
         {
          "type": "text",
-         "text": "∑x x = i 40"
+         "text": "∑xi x = 40"
         }
        ]
       },
@@ -2417,7 +2445,7 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_5/pkt_2",
-       "text": "Obliczyć średni zakres R rzeczywistych pojemności x i butelek znajdujących się w próbce.",
+       "text": "Obliczyć średni zakres R rzeczywistych pojemności xi butelek znajdujących się w próbce.",
        "children": [
         {
          "type": "text",
@@ -2438,7 +2466,7 @@
          "children": [
           {
            "type": "text",
-           "text": "∑R i"
+           "text": "∑Ri"
           }
          ]
         },
@@ -2450,7 +2478,7 @@
          "children": [
           {
            "type": "text",
-           "text": "∑R R = i 8"
+           "text": "∑Ri R = 8"
           }
          ]
         }

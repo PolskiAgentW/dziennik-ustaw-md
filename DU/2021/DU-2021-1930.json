@@ -1,7 +1,7 @@
 {
  "eli": "DU/2021/1930",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 września 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o finansowaniu zadań oświatowych",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2021/1930/text.pdf",
  "body": [
   {
@@ -637,15 +637,11 @@
          "children": [
           {
            "type": "text",
-           "text": "S −S Ś =Ś × SI SIN"
+           "text": "SSI −SSIN Śinne =Ś × S w którym poszczególne symbole oznaczają:"
           },
           {
            "type": "text",
-           "text": "w którym poszczególne symbole oznaczają:"
-          },
-          {
-           "type": "text",
-           "text": "Ś inne – środki przeznaczane w roku budżetowym na realizację zadań innych niż określone w pkt 2, w tych szkołach,"
+           "text": "Śinne – środki przeznaczane w roku budżetowym na realizację zadań innych niż określone w pkt 2, w tych szkołach,"
           },
           {
            "type": "text",
@@ -653,11 +649,11 @@
           },
           {
            "type": "text",
-           "text": "S – kwotę przewidzianą w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na SI uczniów oddziałów specjalnych i oddziałów integracyjnych w tych szkołach,"
+           "text": "SSI – kwotę przewidzianą w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na uczniów oddziałów specjalnych i oddziałów integracyjnych w tych szkołach,"
           },
           {
            "type": "text",
-           "text": "S – kwotę przewidzianą w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na SIN uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego oddziałów specjalnych i oddziałów integracyjnych w tych szkołach, w zakresie wynikającym z posiadania przez tych uczniów orzeczeń o potrzebie kształcenia specjalnego,"
+           "text": "SSIN – kwotę przewidzianą w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego oddziałów specjalnych i oddziałów integracyjnych w tych szkołach, w zakresie wynikającym z posiadania przez tych uczniów orzeczeń o potrzebie kształcenia specjalnego,"
           },
           {
            "type": "text",
@@ -1698,27 +1694,27 @@
         },
         {
          "type": "text",
-         "text": "Wz – wskaźnik zwiększający dla szkół danego typu, w których jest realizowany obowiązek szkolny lub obowiąt zek nauki, niebędących szkołami specjalnymi w roku budżetowym,"
+         "text": "Wzt – wskaźnik zwiększający dla szkół danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi w roku budżetowym,"
         },
         {
          "type": "text",
-         "text": "Wb – wydatki bieżące poniesione w roku bazowym z budżetu jednostki samorządu terytorialnego na prowat−1 dzenie przez tę jednostkę szkół danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi,"
+         "text": "Wbt−1 – wydatki bieżące poniesione w roku bazowym z budżetu jednostki samorządu terytorialnego na prowadzenie przez tę jednostkę szkół danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi,"
         },
         {
          "type": "text",
-         "text": "O – wykonane w roku bazowym w budżecie jednostki samorządu terytorialnego dochody z tytułu opłat za wyt−1 żywienie w prowadzonych przez tę jednostkę szkołach danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi,"
+         "text": "Ot−1 – wykonane w roku bazowym w budżecie jednostki samorządu terytorialnego dochody z tytułu opłat za wyżywienie w prowadzonych przez tę jednostkę szkołach danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi,"
         },
         {
          "type": "text",
-         "text": "WbUE – poniesione w roku bazowym z budżetu jednostki samorządu terytorialnego wydatki bieżące finansot−1 wane z udziałem środków pochodzących z budżetu Unii Europejskiej na prowadzenie przez tę jednostkę szkół danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi,"
+         "text": "WbUEt−1 – poniesione w roku bazowym z budżetu jednostki samorządu terytorialnego wydatki bieżące finansowane z udziałem środków pochodzących z budżetu Unii Europejskiej na prowadzenie przez tę jednostkę szkół danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi,"
         },
         {
          "type": "text",
-         "text": "Dp – wykorzystaną w roku bazowym przez jednostkę samorządu terytorialnego kwotę dotacji, o której mowa t−1 w art. 55 ust. 3, dla prowadzonych przez tę jednostkę szkół danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi,"
+         "text": "Dpt−1 – wykorzystaną w roku bazowym przez jednostkę samorządu terytorialnego kwotę dotacji, o której mowa w art. 55 ust. 3, dla prowadzonych przez tę jednostkę szkół danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi,"
         },
         {
          "type": "text",
-         "text": "WbI – poniesione w roku bazowym z budżetu jednostki samorządu terytorialnego wydatki bieżące na finansowat−1 nie działalności internatów w prowadzonych przez tę jednostkę szkołach danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi,"
+         "text": "WbIt−1 – poniesione w roku bazowym z budżetu jednostki samorządu terytorialnego wydatki bieżące na finansowanie działalności internatów w prowadzonych przez tę jednostkę szkołach danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi,"
         },
         {
          "type": "text",
@@ -1726,15 +1722,15 @@
         },
         {
          "type": "text",
-         "text": "S – kwotę przewidzianą w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego t−1 w roku bazowym na prowadzenie przez tę jednostkę szkół danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi, bez uwzględnienia kwoty przewidzianej w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na wychowanków internatów w prowadzonych przez tę jednostkę szkołach danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi, LuS – liczbę dzieci objętych wczesnym wspomaganiem rozwoju, uczniów i uczestników zajęć rewalidacyjnot−1 -wychowawczych, przyjętą do naliczenia części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego w roku bazowym w prowadzonych przez jednostkę samorządu terytorialnego szkołach danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi,"
+         "text": "St−1 – kwotę przewidzianą w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego w roku bazowym na prowadzenie przez tę jednostkę szkół danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi, bez uwzględnienia kwoty przewidzianej w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na wychowanków internatów w prowadzonych przez tę jednostkę szkołach danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi, LuSt−1 – liczbę dzieci objętych wczesnym wspomaganiem rozwoju, uczniów i uczestników zajęć rewalidacyjno-wychowawczych, przyjętą do naliczenia części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego w roku bazowym w prowadzonych przez jednostkę samorządu terytorialnego szkołach danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi,"
         },
         {
          "type": "text",
-         "text": "Lu – liczbę dzieci objętych wczesnym wspomaganiem rozwoju, uczniów i uczestników zajęć rewalidacyjnot−2 -wychowawczych, ustaloną na podstawie danych systemu informacji oświatowej według stanu na dzień 30 września roku poprzedzającego rok bazowy, w prowadzonych przez jednostkę samorządu terytorialnego szkołach danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi,"
+         "text": "Lut−2 – liczbę dzieci objętych wczesnym wspomaganiem rozwoju, uczniów i uczestników zajęć rewalidacyjno-wychowawczych, ustaloną na podstawie danych systemu informacji oświatowej według stanu na dzień 30 września roku poprzedzającego rok bazowy, w prowadzonych przez jednostkę samorządu terytorialnego szkołach danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi,"
         },
         {
          "type": "text",
-         "text": "Lu – liczbę dzieci objętych wczesnym wspomaganiem rozwoju, uczniów i uczestników zajęć rewalidacyjnot−1 -wychowawczych, ustaloną na podstawie danych systemu informacji oświatowej według stanu na dzień 30 września roku bazowego, w prowadzonych przez jednostkę samorządu terytorialnego szkołach danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi."
+         "text": "Lut−1 – liczbę dzieci objętych wczesnym wspomaganiem rozwoju, uczniów i uczestników zajęć rewalidacyjno-wychowawczych, ustaloną na podstawie danych systemu informacji oświatowej według stanu na dzień 30 września roku bazowego, w prowadzonych przez jednostkę samorządu terytorialnego szkołach danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi."
         }
        ]
       },
@@ -1754,27 +1750,27 @@
         },
         {
          "type": "text",
-         "text": "Wz t – wskaźnik zwiększający dla szkół danego typu będących szkołami specjalnymi w roku budżetowym,"
+         "text": "Wzt – wskaźnik zwiększający dla szkół danego typu będących szkołami specjalnymi w roku budżetowym,"
         },
         {
          "type": "text",
-         "text": "Wb – wydatki bieżące poniesione w roku bazowym z budżetu jednostki samorządu terytorialnego na prowat−1 dzenie przez tę jednostkę szkół danego typu będących szkołami specjalnymi,"
+         "text": "Wbt−1 – wydatki bieżące poniesione w roku bazowym z budżetu jednostki samorządu terytorialnego na prowadzenie przez tę jednostkę szkół danego typu będących szkołami specjalnymi,"
         },
         {
          "type": "text",
-         "text": "O – wykonane w roku bazowym w budżecie jednostki samorządu terytorialnego dochody z tytułu opłat za wyt−1 żywienie w prowadzonych przez tę jednostkę szkołach danego typu będących szkołami specjalnymi,"
+         "text": "Ot−1 – wykonane w roku bazowym w budżecie jednostki samorządu terytorialnego dochody z tytułu opłat za wyżywienie w prowadzonych przez tę jednostkę szkołach danego typu będących szkołami specjalnymi,"
         },
         {
          "type": "text",
-         "text": "WbUE – poniesione w roku bazowym z budżetu jednostki samorządu terytorialnego wydatki bieżące finant−1 sowane z udziałem środków pochodzących z budżetu Unii Europejskiej na prowadzenie przez tę jednostkę szkół danego typu będących szkołami specjalnymi,"
+         "text": "WbUEt−1 – poniesione w roku bazowym z budżetu jednostki samorządu terytorialnego wydatki bieżące finansowane z udziałem środków pochodzących z budżetu Unii Europejskiej na prowadzenie przez tę jednostkę szkół danego typu będących szkołami specjalnymi,"
         },
         {
          "type": "text",
-         "text": "Dp – wykorzystaną w roku bazowym przez jednostkę samorządu terytorialnego kwotę dotacji, o której mowa t−1 w art. 55 ust. 3, dla prowadzonych przez tę jednostkę szkół danego typu będących szkołami specjalnymi,"
+         "text": "Dpt−1 – wykorzystaną w roku bazowym przez jednostkę samorządu terytorialnego kwotę dotacji, o której mowa w art. 55 ust. 3, dla prowadzonych przez tę jednostkę szkół danego typu będących szkołami specjalnymi,"
         },
         {
          "type": "text",
-         "text": "WbI – poniesione w roku bazowym z budżetu jednostki samorządu terytorialnego wydatki bieżące na finansot−1 wanie działalności internatów w prowadzonych przez tę jednostkę szkołach danego typu będących szkołami specjalnymi,"
+         "text": "WbIt−1 – poniesione w roku bazowym z budżetu jednostki samorządu terytorialnego wydatki bieżące na finansowanie działalności internatów w prowadzonych przez tę jednostkę szkołach danego typu będących szkołami specjalnymi,"
         },
         {
          "type": "text",
@@ -1782,15 +1778,15 @@
         },
         {
          "type": "text",
-         "text": "S – kwotę przewidzianą w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego t−1 w roku bazowym na prowadzenie przez tę jednostkę szkół danego typu będących szkołami specjalnymi, bez uwzględnienia kwoty przewidzianej w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na wychowanków internatów w prowadzonych przez tę jednostkę szkołach danego typu będących szkołami specjalnymi,"
+         "text": "St−1 – kwotę przewidzianą w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego w roku bazowym na prowadzenie przez tę jednostkę szkół danego typu będących szkołami specjalnymi, bez uwzględnienia kwoty przewidzianej w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na wychowanków internatów w prowadzonych przez tę jednostkę szkołach danego typu będących szkołami specjalnymi,"
         },
         {
          "type": "text",
-         "text": "LuS – liczba dzieci objętych wczesnym wspomaganiem rozwoju, uczniów i uczestników zajęć rewalidacyjnot−1 -wychowawczych przyjęta do naliczenia części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego w roku bazowym w prowadzonych przez jednostkę samorządu terytorialnego szkołach danego typu, będących szkołami specjalnymi,"
+         "text": "LuSt−1 – liczba dzieci objętych wczesnym wspomaganiem rozwoju, uczniów i uczestników zajęć rewalidacyjno-wychowawczych przyjęta do naliczenia części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego w roku bazowym w prowadzonych przez jednostkę samorządu terytorialnego szkołach danego typu, będących szkołami specjalnymi,"
         },
         {
          "type": "text",
-         "text": "Lu – liczbę dzieci objętych wczesnym wspomaganiem rozwoju, uczniów i uczestników zajęć rewalidacyjnot−2 -wychowawczych, ustaloną na podstawie danych systemu informacji oświatowej według stanu na dzień 30 września roku poprzedzającego rok bazowy, w prowadzonych przez jednostkę samorządu terytorialnego szkołach danego typu będących szkołami specjalnymi, Lu – liczbę dzieci objętych wczesnym wspomaganiem rozwoju, uczniów i uczestników zajęć rewalidacyjnot−1 -wychowawczych, ustaloną na podstawie danych systemu informacji oświatowej według stanu na dzień 30 września roku bazowego, w prowadzonych przez jednostkę samorządu terytorialnego szkołach danego typu będących szkołami specjalnymi."
+         "text": "Lut−2 – liczbę dzieci objętych wczesnym wspomaganiem rozwoju, uczniów i uczestników zajęć rewalidacyjno-wychowawczych, ustaloną na podstawie danych systemu informacji oświatowej według stanu na dzień 30 września roku poprzedzającego rok bazowy, w prowadzonych przez jednostkę samorządu terytorialnego szkołach danego typu będących szkołami specjalnymi, Lut−1 – liczbę dzieci objętych wczesnym wspomaganiem rozwoju, uczniów i uczestników zajęć rewalidacyjno-wychowawczych, ustaloną na podstawie danych systemu informacji oświatowej według stanu na dzień 30 września roku bazowego, w prowadzonych przez jednostkę samorządu terytorialnego szkołach danego typu będących szkołami specjalnymi."
         }
        ]
       },
@@ -3025,7 +3021,7 @@
          "children": [
           {
            "type": "text",
-           "text": "(S −S )+(S −S )"
+           "text": "(SSI −SSIN)+(SON −SONN) W =W ×"
           },
           {
            "type": "text",
@@ -3037,15 +3033,15 @@
           },
           {
            "type": "text",
-           "text": "S – kwotę przewidzianą w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na SI uczniów oddziałów specjalnych i oddziałów integracyjnych w tej szkole,"
+           "text": "SSI – kwotę przewidzianą w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na uczniów oddziałów specjalnych i oddziałów integracyjnych w tej szkole,"
           },
           {
            "type": "text",
-           "text": "S – kwotę przewidzianą w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na SIN uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego oddziałów specjalnych i oddziałów integracyjnych tej szkoły, w zakresie wynikającym z posiadania przez tych uczniów orzeczeń o potrzebie kształcenia specjalnego,"
+           "text": "SSIN – kwotę przewidzianą w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego oddziałów specjalnych i oddziałów integracyjnych tej szkoły, w zakresie wynikającym z posiadania przez tych uczniów orzeczeń o potrzebie kształcenia specjalnego,"
           },
           {
            "type": "text",
-           "text": "S – kwotę przewidzianą w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na ON uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego oddziałów niebędących oddziałami specjalnymi albo oddziałami integracyjnymi i uczestników zajęć rewalidacyjno-wychowawczych w tej szkole, S – kwotę przewidzianą w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na ONN uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego oddziałów niebędących oddziałami specjalnymi albo oddziałami integracyjnymi i uczestników zajęć rewalidacyjno-wychowawczych w tej szkole, w zakresie wynikającym z posiadania przez tych uczniów oraz uczestników zajęć rewalidacyjno-wychowawczych orzeczeń o potrzebie kształcenia specjalnego lub orzeczeń o potrzebie zajęć rewalidacyjno-wychowawczych, S – kwotę części oświatowej subwencji ogólnej przewidzianą dla jednostki samorządu terytorialnego na uczniów i uczestników zajęć rewalidacyjno-wychowawczych w tej szkole."
+           "text": "SON – kwotę przewidzianą w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego oddziałów niebędących oddziałami specjalnymi albo oddziałami integracyjnymi i uczestników zajęć rewalidacyjno-wychowawczych w tej szkole, SONN – kwotę przewidzianą w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego oddziałów niebędących oddziałami specjalnymi albo oddziałami integracyjnymi i uczestników zajęć rewalidacyjno-wychowawczych w tej szkole, w zakresie wynikającym z posiadania przez tych uczniów oraz uczestników zajęć rewalidacyjno-wychowawczych orzeczeń o potrzebie kształcenia specjalnego lub orzeczeń o potrzebie zajęć rewalidacyjno-wychowawczych, S – kwotę części oświatowej subwencji ogólnej przewidzianą dla jednostki samorządu terytorialnego na uczniów i uczestników zajęć rewalidacyjno-wychowawczych w tej szkole."
           }
          ]
         }
@@ -5677,7 +5673,7 @@
      "type": "art",
      "num": "93",
      "path": "art_93",
-     "text": "W okresie od dnia 1 stycznia 2018 r. do dnia 31 marca 2018 r. przy ustalaniu wskaźnika zwiększającego, o którym mowa w art. 14 ust. 1, 2 i 8, dla zmiennej Dp t–1 należy przyjąć wykorzystaną w budżecie jednostki samorządu terytorialnego kwotę dotacji, o której mowa w art. 22ae ust. 3 ustawy zmienianej w art. 80, dla prowadzonych przez jednostkę samorządu terytorialnego szkół danego typu niebędących szkołami specjalnymi lub będących szkołami specjalnymi.",
+     "text": "W okresie od dnia 1 stycznia 2018 r. do dnia 31 marca 2018 r. przy ustalaniu wskaźnika zwiększającego, o którym mowa w art. 14 ust. 1, 2 i 8, dla zmiennej Dpt–1 należy przyjąć wykorzystaną w budżecie jednostki samorządu terytorialnego kwotę dotacji, o której mowa w art. 22ae ust. 3 ustawy zmienianej w art. 80, dla prowadzonych przez jednostkę samorządu terytorialnego szkół danego typu niebędących szkołami specjalnymi lub będących szkołami specjalnymi.",
      "children": []
     },
     {
@@ -7731,7 +7727,7 @@
  ],
  "footnotes": {
   "1": "W brzmieniu ustalonym przez art. 4 ustawy z dnia 25 lutego 2021 r. o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw (Dz. U. poz. 619), która weszła w życie z dniem 3 kwietnia 2021 r.; wszedł w życie z dniem 17 kwietnia 2021 r.",
-  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1565, 2122, 2123 i 2320 oraz z 2021 r. poz. 11, 255, 1163, 1243, 1598 i 1666. inne S W =W × SI SIN ON ONN inne S inne szkole,",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1565, 2122, 2123 i 2320 oraz z 2021 r. poz. 11, 255, 1163, 1243, 1598 i 1666. inne S inne szkole,",
   "3": "Aktualną maksymalną kwotę dotacji celowej ogłasza, w drodze rozporządzenia, Rada Ministrów, zgodnie z art. 55 ust. 10 niniejszej ustawy.",
   "4": "Tytuł rozdziału w brzmieniu ustalonym przez art. 2 pkt 1 ustawy z dnia 28 maja 2021 r. o zmianie ustawy o systemie oświaty i ustawy o finansowaniu zadań oświatowych (Dz. U. poz. 1237), która weszła w życie z dniem 22 lipca 2021 r.",
   "5": "Dodany przez art. 2 pkt 2 ustawy, o której mowa w odnośniku 4.",

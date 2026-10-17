@@ -1,7 +1,7 @@
 {
  "eli": "DU/2018/2389",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 listopada 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o odnawialnych źródłach energii",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2018/2389/text.pdf",
  "body": [
   {
@@ -99,7 +99,7 @@
       },
       {
        "type": "text",
-       "text": "SWP n =∑[ j (PM(S) i +PI i +UZ i +PO i +PM(N) i )",
+       "text": "SWP n =∑[ j (PM(S) i +PIi +UZi +POi +PM(N) i )",
        "quoted": true
       },
       {
@@ -109,17 +109,17 @@
       },
       {
        "type": "text",
-       "text": "j s s 1 ∗ ∏( 1+r )]+∑[ (PI +PA )∗∏ ] i k k (1+r k ) gdzie poszczególne symbole i=u oznaczają: k=j k=j",
+       "text": "j s s 1 ∗ ∏( 1+r )]+∑[ (PIk +PAk)∗∏ ] i (1+r k ) gdzie poszczególne symbole i=u oznaczają: k=j k=j",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "SWP n – wartość skumulowanego wsparcia otrzymanego przez wytwórcę dla danej instalacji odnawialnego źródła energii w trzyletnim okresie sprawozdawczym oraz po zakończeniu okresu określonego w przepisach wydanych na podstawie art. 77 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, obowiązującego w dniu złożenia przez wytwórcę oferty, wyrażoną w złotych z dokładnością do jednego grosza,",
+       "text": "SWPn – wartość skumulowanego wsparcia otrzymanego przez wytwórcę dla danej instalacji odnawialnego źródła energii w trzyletnim okresie sprawozdawczym oraz po zakończeniu okresu określonego w przepisach wydanych na podstawie art. 77 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, obowiązującego w dniu złożenia przez wytwórcę oferty, wyrażoną w złotych z dokładnością do jednego grosza,",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "i – kolejne lata kalendarzowe liczone od dnia, w którym wytwórca po raz pierwszy otrzymał pomoc publiczną dla instalacji odnawialnego źródła energii, o której mowa w art. 72 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, oznaczoną symbolami: PM(S) , UZ , PI , PO lub PM(N) , do dnia złoi i i i i żenia oświadczenia, o którym mowa w art. 39 ust. 4 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, w roku „j”,",
+       "text": "i – kolejne lata kalendarzowe liczone od dnia, w którym wytwórca po raz pierwszy otrzymał pomoc publiczną dla instalacji odnawialnego źródła energii, o której mowa w art. 72 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, oznaczoną symbolami: PM(S) i , UZi, PIi, POi lub PM(N) i , do dnia złożenia oświadczenia, o którym mowa w art. 39 ust. 4 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, w roku „j”,",
        "quoted": true
       },
       {
@@ -129,7 +129,7 @@
       },
       {
        "type": "text",
-       "text": "k – kolejne lata kalendarzowe, w których wytwórca otrzymywał pomoc publiczną dla danej instalacji odnawialnego źródła energii oznaczoną symbolami: PI k lub PA k , liczone po dniu złożenia przez wytwórcę oświadczenia, o którym mowa w art. 39 ust. 4 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, w roku „j”,",
+       "text": "k – kolejne lata kalendarzowe, w których wytwórca otrzymywał pomoc publiczną dla danej instalacji odnawialnego źródła energii oznaczoną symbolami: PIk lub PAk, liczone po dniu złożenia przez wytwórcę oświadczenia, o którym mowa w art. 39 ust. 4 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, w roku „j”,",
        "quoted": true
       },
       {
@@ -149,17 +149,17 @@
       },
       {
        "type": "text",
-       "text": "PI i – wartość innej pomocy publicznej o charakterze inwestycyjnym, a także pomocy de minimis, otrzymanej w roku „i” dla danej instalacji odnawialnego źródła energii, wyrażoną w złotych z dokładnością do jednego grosza, wyliczoną zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2018 r. poz. 362),",
+       "text": "PIi – wartość innej pomocy publicznej o charakterze inwestycyjnym, a także pomocy de minimis, otrzymanej w roku „i” dla danej instalacji odnawialnego źródła energii, wyrażoną w złotych z dokładnością do jednego grosza, wyliczoną zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2018 r. poz. 362),",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "UZ i – wartość pomocy publicznej w formie ulg i zwolnień w podatkach i opłatach otrzymanej w roku „i” dla danej instalacji odnawialnego źródła energii z tytułu wytwarzania energii elektrycznej z odnawialnych źródeł energii w instalacji odnawialnego źródła energii, o której mowa w art. 72 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, wyrażoną w złotych z dokładnością do jednego grosza, wyliczoną zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej,",
+       "text": "UZi – wartość pomocy publicznej w formie ulg i zwolnień w podatkach i opłatach otrzymanej w roku „i” dla danej instalacji odnawialnego źródła energii z tytułu wytwarzania energii elektrycznej z odnawialnych źródeł energii w instalacji odnawialnego źródła energii, o której mowa w art. 72 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, wyrażoną w złotych z dokładnością do jednego grosza, wyliczoną zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej,",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "PO i – wartość innej pomocy publicznej o charakterze operacyjnym otrzymanej w roku „i”, dotyczącej instalacji odnawialnego źródła energii, o której mowa w art. 72 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, bez względu na formę i miejsce jej udzielenia, wyrażoną w złotych z dokładnością do jednego grosza, wyliczoną zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej,",
+       "text": "POi – wartość innej pomocy publicznej o charakterze operacyjnym otrzymanej w roku „i”, dotyczącej instalacji odnawialnego źródła energii, o której mowa w art. 72 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, bez względu na formę i miejsce jej udzielenia, wyrażoną w złotych z dokładnością do jednego grosza, wyliczoną zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej,",
        "quoted": true
       },
       {
@@ -169,27 +169,32 @@
       },
       {
        "type": "text",
-       "text": "r i – stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem w roku „i” (spadek albo wzrost cen w roku „i”) określonym w komunikacie Prezesa Głównego Urzędu Statystycznego ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość „r i ” dla roku kalendarzowego „j” wynosi „0”,",
+       "text": "ri – stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem w roku „i” (spadek albo wzrost cen w roku „i”) określonym w komunikacie Prezesa Głównego Urzędu Statystycznego ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość „ri” dla roku kalendarzowego „j” wynosi „0”,",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "PI k – wartość innej pomocy publicznej o charakterze inwestycyjnym, a także pomocy de minimis, otrzymanej w roku „k” dla danej instalacji odnawialnego źródła energii, wyrażoną w złotych z dokładnością do jednego grosza, wyliczoną zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej,",
+       "text": "PIk – wartość innej pomocy publicznej o charakterze inwestycyjnym, a także pomocy de minimis, otrzymanej w roku „k” dla danej instalacji odnawialnego źródła energii, wyrażoną w złotych z dokładnością do jednego grosza, wyliczoną zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej,",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "PA k – wartość pomocy publicznej, o której mowa w art. 93 ust. 1 i 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, otrzymaną w roku „k” dla danej instalacji odnawialnego źródła energii przez wytwórcę, wyrażoną w złotych z dokładnością do jednego grosza, w postaci ujemnego salda,",
+       "text": "PAk – wartość pomocy publicznej, o której mowa w art. 93 ust. 1 i 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, otrzymaną w roku „k” dla danej instalacji odnawialnego źródła energii przez wytwórcę, wyrażoną w złotych z dokładnością do jednego grosza, w postaci ujemnego salda,",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "r k – stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem w roku „k” (spadek albo wzrost cen w roku „k”) określonym w komunikacie Prezesa Głównego Urzędu Statystycznego ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym „r k ” dla roku kalendarzowego „j” wynosi „0”.",
+       "text": "rk – stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem w roku „k” (spadek albo wzrost cen w roku „k”) określonym w komunikacie Prezesa Głównego Urzędu Statystycznego ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym „rk” dla roku kalendarzowego „j” wynosi „0”.",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "5. Na potrzeby obliczania wartości skumulowanego wsparcia na podstawie ust. 4, średnią ważoną cenę praw majątkowych wynikających ze świadectw za okres, o którym mowa w art. 39 ust. 2 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, opublikowaną przez podmiot, o którym mowa w art. 64 ust. 1 tej ustawy, oblicza się według wzoru: n P V P=∑",
+       "text": "5. Na potrzeby obliczania wartości skumulowanego wsparcia na podstawie ust. 4, średnią ważoną cenę praw majątkowych wynikających ze świadectw za okres, o którym mowa w art. 39 ust. 2 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, opublikowaną przez podmiot, o którym mowa w art. 64 ust. 1 tej ustawy, oblicza się według wzoru: n P Vi",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "V=∑V ni",
        "quoted": true
       },
       {
@@ -204,12 +209,12 @@
       },
       {
        "type": "text",
-       "text": "n – liczbę transakcji sesyjnych zawartych w danym okresie, P i – kurs ustalony dla i-tej transakcji sesyjnej wyrażony w złotych z dokładnością do jednego grosza za 1 MWh lub za 1 toe,",
+       "text": "n – liczbę transakcji sesyjnych zawartych w danym okresie, Pi – kurs ustalony dla i-tej transakcji sesyjnej wyrażony w złotych z dokładnością do jednego grosza za 1 MWh lub za 1 toe,",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "V i – wolumen obrotów i-tej transakcji sesyjnej wyrażony w MWh lub w toe,",
+       "text": "Vi – wolumen obrotów i-tej transakcji sesyjnej wyrażony w MWh lub w toe,",
        "quoted": true
       },
       {
@@ -4101,11 +4106,19 @@
         },
         {
          "type": "text",
-         "text": "PI =∑(PI ∗∏(1+r )) , c i i gdzie poszczególne symbole oznaczają: i=u i"
+         "text": "PIc =∑(PIi ∗∏(1+ri)) ,"
         },
         {
          "type": "text",
-         "text": "PI c – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, PI i – wartość w roku „i” pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, udzieloną w danym roku „i”,"
+         "text": "gdzie poszczególne symbole oznaczają: i=u i"
+        },
+        {
+         "type": "text",
+         "text": "PIc – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych,"
+        },
+        {
+         "type": "text",
+         "text": "PIi – wartość w roku „i” pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, udzieloną w danym roku „i”,"
         },
         {
          "type": "text",
@@ -4117,7 +4130,11 @@
         },
         {
          "type": "text",
-         "text": "u – rok kalendarzowy, w którym po raz pierwszy udzielono pomocy inwestycyjnej przeznaczonej na realizację inwestycji w zakresie danej instalacji odnawialnego źródła energii, o której mowa w art. 72, oznaczonej symbolem PI i , r i – stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „i” określonym w komunikacie Prezesa Głównego Urzędu Statystycznego, zwanego dalej „Prezesem GUS”, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość r i dla roku kalendarzowego „j” wynosi 0; w przypadku gdy do dnia złożenia oświadczenia, o którym mowa w art. 79 ust. 3 pkt 9, stopa referencyjna w roku „i” nie została opublikowana, należy przyjąć spadek lub wzrost wskaźnika cen towarów i usług konsumpcyjnych z listopada roku „i”, w ujęciu rok do roku."
+         "text": "u – rok kalendarzowy, w którym po raz pierwszy udzielono pomocy inwestycyjnej przeznaczonej na realizację inwestycji w zakresie danej instalacji odnawialnego źródła energii, o której mowa w art. 72, oznaczonej symbolem PIi,"
+        },
+        {
+         "type": "text",
+         "text": "ri – stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „i” określonym w komunikacie Prezesa Głównego Urzędu Statystycznego, zwanego dalej „Prezesem GUS”, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość ri dla roku kalendarzowego „j” wynosi 0; w przypadku gdy do dnia złożenia oświadczenia, o którym mowa w art. 79 ust. 3 pkt 9, stopa referencyjna w roku „i” nie została opublikowana, należy przyjąć spadek lub wzrost wskaźnika cen towarów i usług konsumpcyjnych z listopada roku „i”, w ujęciu rok do roku."
         }
        ]
       },
@@ -4125,11 +4142,19 @@
        "type": "ust",
        "num": "5",
        "path": "art_39/ust_5",
-       "text": "Wytwórcy, o których mowa w art. 72 ust. 1, dokonują obliczenia ceny skorygowanej stanowiącej cenę zakupu energii elektrycznej, o której mowa w art. 92 ust. 1, lub podstawę wypłaty ujemnego salda, o którym mowa w art. 93 ust. 1 pkt 4 albo ust. 2 pkt 3, według następującego wzoru: PI C =C − c , s⁰ I+I PM OZE gdzie poszczególne symbole oznaczają:",
+       "text": "Wytwórcy, o których mowa w art. 72 ust. 1, dokonują obliczenia ceny skorygowanej stanowiącej cenę zakupu energii elektrycznej, o której mowa w art. 92 ust. 1, lub podstawę wypłaty ujemnego salda, o którym mowa w art. 93 ust. 1 pkt 4 albo ust. 2 pkt 3, według następującego wzoru: PIc Cs =C₀ − , I+IPMOZE gdzie poszczególne symbole oznaczają:",
        "children": [
         {
          "type": "text",
-         "text": "C s – cenę skorygowaną, wyrażoną w zł/MWh; w przypadku nieudzielenia pomocy inwestycyjnej, o której mowa w ust. 1, wartość C s jest równa wartości C o , C o – cenę, o której mowa w art. 79 ust. 3 pkt 3, wynikającą z oferty, wyrażoną w zł/MWh, PI c – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, obliczoną zgodnie z ust. 4,"
+         "text": "Cs – cenę skorygowaną, wyrażoną w zł/MWh; w przypadku nieudzielenia pomocy inwestycyjnej, o której mowa w ust. 1, wartość Cs jest równa wartości Co,"
+        },
+        {
+         "type": "text",
+         "text": "Co – cenę, o której mowa w art. 79 ust. 3 pkt 3, wynikającą z oferty, wyrażoną w zł/MWh,"
+        },
+        {
+         "type": "text",
+         "text": "PIc – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, obliczoną zgodnie z ust. 4,"
         },
         {
          "type": "text",
@@ -4137,7 +4162,7 @@
         },
         {
          "type": "text",
-         "text": "I pMOZE – ilość energii elektrycznej wytworzonej w instalacji odnawialnego źródła energii, wyrażoną w MWh, w odniesieniu do której Prezes URE od dnia 1 października 2005 r. do dnia złożenia oferty, o której mowa w art. 79, wydał świadectwa pochodzenia potwierdzające wytworzenie energii z odnawialnych źródeł energii; w przypadku wytwórcy, o którym mowa w art. 72 ust. 1 pkt 2, wartość I PMOZE wynosi 0."
+         "text": "IpMOZE – ilość energii elektrycznej wytworzonej w instalacji odnawialnego źródła energii, wyrażoną w MWh, w odniesieniu do której Prezes URE od dnia 1 października 2005 r. do dnia złożenia oferty, o której mowa w art. 79, wydał świadectwa pochodzenia potwierdzające wytworzenie energii z odnawialnych źródeł energii; w przypadku wytwórcy, o którym mowa w art. 72 ust. 1 pkt 2, wartość IPMOZE wynosi 0."
         }
        ]
       },
@@ -4152,7 +4177,7 @@
        "type": "ust",
        "num": "7",
        "path": "art_39/ust_7",
-       "text": "W przypadku gdy po dniu złożenia oświadczenia, o którym mowa w art. 79 ust. 3 pkt 9, wytwórcy, o którym mowa w art. 72 ust. 1, którego oferta wygrała aukcję, zostanie udzielona pomoc inwestycyjna, o której mowa w ust. 1, lub wzrośnie wartość tej pomocy, wytwórca ten jest zobowiązany do przekazania Prezesowi URE, najpóźniej w dziesiątym dniu miesiąca następującego po miesiącu, w którym nastąpiło udzielenie takiej pomocy, oświadczenia zawierającego jej wartość obliczoną zgodnie z ust. 3, datę jej udzielenia, wskazanie podmiotu udzielającego pomocy oraz cenę skorygowaną. Cenę skorygowaną oblicza się według następującego wzoru: PI C =C − ,",
+       "text": "W przypadku gdy po dniu złożenia oświadczenia, o którym mowa w art. 79 ust. 3 pkt 9, wytwórcy, o którym mowa w art. 72 ust. 1, którego oferta wygrała aukcję, zostanie udzielona pomoc inwestycyjna, o której mowa w ust. 1, lub wzrośnie wartość tej pomocy, wytwórca ten jest zobowiązany do przekazania Prezesowi URE, najpóźniej w dziesiątym dniu miesiąca następującego po miesiącu, w którym nastąpiło udzielenie takiej pomocy, oświadczenia zawierającego jej wartość obliczoną zgodnie z ust. 3, datę jej udzielenia, wskazanie podmiotu udzielającego pomocy oraz cenę skorygowaną. Cenę skorygowaną oblicza się według następującego wzoru: PI Csn =Cs − , Ip",
        "children": [
         {
          "type": "text",
@@ -4160,7 +4185,7 @@
         },
         {
          "type": "text",
-         "text": "C sn – nową cenę skorygowaną, wyrażoną w zł/MWh, która staje się ceną skorygowaną (C s ) obowiązującą od miesiąca następującego po miesiącu złożenia oświadczenia, o którym mowa w zdaniu pierwszym, stanowiącą cenę zakupu energii elektrycznej, o której mowa w art. 92 ust. 1, lub podstawę wypłaty ujemnego salda zgodnie z art. 93 ust. 1 pkt 4 albo ust. 2 pkt 3, C s – cenę skorygowaną, wyrażoną w zł/MWh, z uwzględnieniem art. 92 ust. 10, obowiązującą do końca miesiąca, w którym złożono oświadczenie, o którym mowa w zdaniu pierwszym, stanowiącą cenę zakupu energii elektrycznej, o której mowa w art. 92 ust. 1, lub podstawę wypłaty ujemnego salda zgodnie z art. 93 ust. 1 pkt 4 albo ust. 2 pkt 3,"
+         "text": "Csn – nową cenę skorygowaną, wyrażoną w zł/MWh, która staje się ceną skorygowaną (Cs) obowiązującą od miesiąca następującego po miesiącu złożenia oświadczenia, o którym mowa w zdaniu pierwszym, stanowiącą cenę zakupu energii elektrycznej, o której mowa w art. 92 ust. 1, lub podstawę wypłaty ujemnego salda zgodnie z art. 93 ust. 1 pkt 4 albo ust. 2 pkt 3, Cs – cenę skorygowaną, wyrażoną w zł/MWh, z uwzględnieniem art. 92 ust. 10, obowiązującą do końca miesiąca, w którym złożono oświadczenie, o którym mowa w zdaniu pierwszym, stanowiącą cenę zakupu energii elektrycznej, o której mowa w art. 92 ust. 1, lub podstawę wypłaty ujemnego salda zgodnie z art. 93 ust. 1 pkt 4 albo ust. 2 pkt 3,"
         },
         {
          "type": "text",
@@ -4168,7 +4193,7 @@
         },
         {
          "type": "text",
-         "text": "I p – ilość energii elektrycznej, wyrażonej w MWh, o której mowa w art. 79 ust. 3 pkt 3, pomniejszoną o ilość energii elektrycznej sprzedanej w ramach systemu aukcyjnego do końca miesiąca poprzedzającego miesiąc, w którym udzielono pomocy PI, stanowiącą podstawę obowiązku zakupu energii, o którym mowa w art. 92 ust. 1, lub podstawę wypłaty ujemnego salda zgodnie z art. 93 ust. 1 pkt 4 albo ust. 2 pkt 3."
+         "text": "Ip – ilość energii elektrycznej, wyrażonej w MWh, o której mowa w art. 79 ust. 3 pkt 3, pomniejszoną o ilość energii elektrycznej sprzedanej w ramach systemu aukcyjnego do końca miesiąca poprzedzającego miesiąc, w którym udzielono pomocy PI, stanowiącą podstawę obowiązku zakupu energii, o którym mowa w art. 92 ust. 1, lub podstawę wypłaty ujemnego salda zgodnie z art. 93 ust. 1 pkt 4 albo ust. 2 pkt 3."
         }
        ]
       },
@@ -4256,7 +4281,7 @@
         },
         {
          "type": "text",
-         "text": "PI =∑(PI ∗∏(1+r )) , c i i"
+         "text": "PIc =∑(PIi ∗∏(1+ri)) ,"
         },
         {
          "type": "text",
@@ -4268,11 +4293,11 @@
         },
         {
          "type": "text",
-         "text": "PI c – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych,"
+         "text": "PIc – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych,"
         },
         {
          "type": "text",
-         "text": "PI i – wartość w roku „i” pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, udzieloną w danym roku „i”, j – rok kalendarzowy, w którym wytwórca złożył deklarację, o której mowa w art. 70b ust. 1,"
+         "text": "PIi – wartość w roku „i” pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, udzieloną w danym roku „i”, j – rok kalendarzowy, w którym wytwórca złożył deklarację, o której mowa w art. 70b ust. 1,"
         },
         {
          "type": "text",
@@ -4280,11 +4305,11 @@
         },
         {
          "type": "text",
-         "text": "u – rok kalendarzowy, w którym po raz pierwszy udzielono pomocy inwestycyjnej na realizację inwestycji w zakresie danej instalacji odnawialnego źródła energii, o której mowa w art. 70a ust. 1 albo 2, oznaczonej symbolem PI i ,"
+         "text": "u – rok kalendarzowy, w którym po raz pierwszy udzielono pomocy inwestycyjnej na realizację inwestycji w zakresie danej instalacji odnawialnego źródła energii, o której mowa w art. 70a ust. 1 albo 2, oznaczonej symbolem PIi,"
         },
         {
          "type": "text",
-         "text": "r i – stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „i” określonym w komunikacie Prezesa GUS, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość r i dla roku kalendarzowego „j” wynosi 0; w przypadku gdy do dnia złożenia deklaracji, o której mowa w art. 70b ust. 1, stopa referencyjna w roku „i” nie została opublikowana, należy przyjąć spadek lub wzrost wskaźnika cen towarów i usług konsumpcyjnych z listopada roku „i”, w ujęciu rok do roku."
+         "text": "ri – stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „i” określonym w komunikacie Prezesa GUS, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość ri dla roku kalendarzowego „j” wynosi 0; w przypadku gdy do dnia złożenia deklaracji, o której mowa w art. 70b ust. 1, stopa referencyjna w roku „i” nie została opublikowana, należy przyjąć spadek lub wzrost wskaźnika cen towarów i usług konsumpcyjnych z listopada roku „i”, w ujęciu rok do roku."
         }
        ]
       },
@@ -4296,7 +4321,7 @@
        "children": [
         {
          "type": "text",
-         "text": "PI C =C − c , s⁰ I+I PM OZE"
+         "text": "PIc Cs =C₀ − , I+IPMOZE"
         },
         {
          "type": "text",
@@ -4304,15 +4329,15 @@
         },
         {
          "type": "text",
-         "text": "C s – cenę zakupu, o której mowa w art. 70c ust. 2 albo 6, skorygowaną, wyrażoną w zł/MWh; w przypadku nieudzielenia pomocy inwestycyjnej, o której mowa w ust. 1, wartość C s jest równa wartości C o ,"
+         "text": "Cs – cenę zakupu, o której mowa w art. 70c ust. 2 albo 6, skorygowaną, wyrażoną w zł/MWh; w przypadku nieudzielenia pomocy inwestycyjnej, o której mowa w ust. 1, wartość Cs jest równa wartości Co,"
         },
         {
          "type": "text",
-         "text": "C o – cenę, o której mowa w art. 70e, wyrażoną w zł/MWh, obowiązującą w dniu złożenia deklaracji, o której mowa w art. 70b ust. 1,"
+         "text": "Co – cenę, o której mowa w art. 70e, wyrażoną w zł/MWh, obowiązującą w dniu złożenia deklaracji, o której mowa w art. 70b ust. 1,"
         },
         {
          "type": "text",
-         "text": "PI c – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, obliczoną zgodnie z ust. 4,"
+         "text": "PIc – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, obliczoną zgodnie z ust. 4,"
         },
         {
          "type": "text",
@@ -4320,7 +4345,7 @@
         },
         {
          "type": "text",
-         "text": "I pMOZE – ilość energii elektrycznej wytworzonej w instalacji odnawialnego źródła energii, wyrażoną w MWh, w odniesieniu do której Prezes URE od dnia 1 października 2005 r. do dnia złożenia deklaracji, o której mowa w art. 70b ust. 1, wydał świadectwa pochodzenia potwierdzające wytworzenie energii z odnawialnych źródeł energii oraz ilość energii, w odniesieniu do której operator rozliczeń energii odnawialnej, od dnia wytworzenia po raz pierwszy energii elektrycznej z odnawialnych źródeł energii na potrzeby aukcyjnego systemu wsparcia do dnia złożenia deklaracji, o której mowa w art. 70b ust. 1, rozliczył ujemne saldo zgodnie z art. 93 ust. 1 pkt 4 i ust. 2 pkt 3; w przypadku wytwórcy, o którym mowa w art. 70b ust. 4 pkt 1, wartość I PMOZE wynosi 0."
+         "text": "IpMOZE – ilość energii elektrycznej wytworzonej w instalacji odnawialnego źródła energii, wyrażoną w MWh, w odniesieniu do której Prezes URE od dnia 1 października 2005 r. do dnia złożenia deklaracji, o której mowa w art. 70b ust. 1, wydał świadectwa pochodzenia potwierdzające wytworzenie energii z odnawialnych źródeł energii oraz ilość energii, w odniesieniu do której operator rozliczeń energii odnawialnej, od dnia wytworzenia po raz pierwszy energii elektrycznej z odnawialnych źródeł energii na potrzeby aukcyjnego systemu wsparcia do dnia złożenia deklaracji, o której mowa w art. 70b ust. 1, rozliczył ujemne saldo zgodnie z art. 93 ust. 1 pkt 4 i ust. 2 pkt 3; w przypadku wytwórcy, o którym mowa w art. 70b ust. 4 pkt 1, wartość IPMOZE wynosi 0."
         }
        ]
       },
@@ -4339,7 +4364,7 @@
        "children": [
         {
          "type": "text",
-         "text": "PI C =C − ,"
+         "text": "PI Csn =Cs − , Ip"
         },
         {
          "type": "text",
@@ -4347,15 +4372,15 @@
         },
         {
          "type": "text",
-         "text": "C sn – nową cenę skorygowaną, wyrażoną w zł/MWh, która staje się ceną skorygowaną (C s ) obowiązującą od miesiąca następującego po miesiącu złożenia deklaracji, o której mowa w art. 70b ust. 1, stanowiącą cenę zakupu energii elektrycznej, o której mowa w art. 70e ust. 1,"
+         "text": "Csn – nową cenę skorygowaną, wyrażoną w zł/MWh, która staje się ceną skorygowaną (Cs) obowiązującą od miesiąca następującego po miesiącu złożenia deklaracji, o której mowa w art. 70b ust. 1, stanowiącą cenę zakupu energii elektrycznej, o której mowa w art. 70e ust. 1,"
         },
         {
          "type": "text",
-         "text": "C s – cenę skorygowaną, wyrażoną w zł/MWh, obowiązującą do końca miesiąca, w którym złożono oświadczenie, o którym mowa w zdaniu pierwszym, stanowiącą cenę zakupu energii elektrycznej, o której mowa w art. 70e ust. 1, PI – wysokość udzielonej pomocy inwestycyjnej, o której mowa w ust. 1, lub wzrost jej wartości, wyrażone w złotych, udzielonej po dniu złożenia oświadczenia, o którym mowa w art. 70b ust. 3 pkt 6, obliczone zgodnie z ust. 3,"
+         "text": "Cs – cenę skorygowaną, wyrażoną w zł/MWh, obowiązującą do końca miesiąca, w którym złożono oświadczenie, o którym mowa w zdaniu pierwszym, stanowiącą cenę zakupu energii elektrycznej, o której mowa w art. 70e ust. 1, PI – wysokość udzielonej pomocy inwestycyjnej, o której mowa w ust. 1, lub wzrost jej wartości, wyrażone w złotych, udzielonej po dniu złożenia oświadczenia, o którym mowa w art. 70b ust. 3 pkt 6, obliczone zgodnie z ust. 3,"
         },
         {
          "type": "text",
-         "text": "I p – ilość energii elektrycznej, wyrażonej w MWh, o której mowa w art. 70b ust. 3 pkt 2, pomniejszoną o ilość energii elektrycznej wytworzonej oraz wprowadzonej do sieci i sprzedanej zgodnie z art. 70a–70f."
+         "text": "Ip – ilość energii elektrycznej, wyrażonej w MWh, o której mowa w art. 70b ust. 3 pkt 2, pomniejszoną o ilość energii elektrycznej wytworzonej oraz wprowadzonej do sieci i sprzedanej zgodnie z art. 70a–70f."
         }
        ]
       },
@@ -4914,7 +4939,7 @@
          "type": "pkt",
          "num": "2",
          "path": "art_42/ust_9/pkt_2",
-         "text": "mocy osiągalnej cieplnej w skojarzeniu nie większej niż 150 MW t – w przypadku instalacji odnawialnego źródła energii wytwarzającej energię elektryczną w wysokosprawnej kogeneracji.",
+         "text": "mocy osiągalnej cieplnej w skojarzeniu nie większej niż 150 MWt – w przypadku instalacji odnawialnego źródła energii wytwarzającej energię elektryczną w wysokosprawnej kogeneracji.",
          "children": []
         }
        ]
@@ -5557,7 +5582,7 @@
        "children": [
         {
          "type": "text",
-         "text": "n P  V P=∑ i i , i=1 V"
+         "text": "n P  Vi P=∑ i , i=1 V"
         },
         {
          "type": "text",
@@ -5573,11 +5598,15 @@
         },
         {
          "type": "text",
-         "text": "P i – kurs ustalony dla i-tej transakcji sesyjnej wyrażony w złotych z dokładnością do jednego grosza za 1 MWh,"
+         "text": "Pi – kurs ustalony dla i-tej transakcji sesyjnej wyrażony w złotych z dokładnością do jednego grosza za 1 MWh,"
         },
         {
          "type": "text",
-         "text": "V i – wolumen obrotów i-tej transakcji sesyjnej wyrażony w MWh, V – łączny wolumen obrotów w danym okresie, V=∑ n i=1 V i ."
+         "text": "Vi – wolumen obrotów i-tej transakcji sesyjnej wyrażony w MWh,"
+        },
+        {
+         "type": "text",
+         "text": "V – łączny wolumen obrotów w danym okresie, V=∑ n i=1 Vi."
         }
        ]
       },
@@ -11255,15 +11284,15 @@
         },
         {
          "type": "text",
-         "text": "S Ri – stawkę opłaty OZE na dany rok kalendarzowy, wyrażoną w złotych za MWh,"
+         "text": "SRi – stawkę opłaty OZE na dany rok kalendarzowy, wyrażoną w złotych za MWh,"
         },
         {
          "type": "text",
-         "text": "G i – wysokość kwoty planowanej do pobrania w roku kalendarzowym, na który jest kalkulowana stawka opłaty OZE,"
+         "text": "Gi – wysokość kwoty planowanej do pobrania w roku kalendarzowym, na który jest kalkulowana stawka opłaty OZE,"
         },
         {
          "type": "text",
-         "text": "Q i-1 – ilość energii elektrycznej pobranej z sieci i zużytej przez odbiorców końcowych w krajowym systemie elektroenergetycznym, która stanowiła podstawę do obliczenia opłaty OZE, o której mowa w art. 96 ust. 1 i 2, w okresie 12 miesięcy kalendarzowych poprzedzających dzień 1 lipca roku, w którym jest kalkulowana stawka opłaty OZE na kolejny rok kalendarzowy."
+         "text": "Qi-1 – ilość energii elektrycznej pobranej z sieci i zużytej przez odbiorców końcowych w krajowym systemie elektroenergetycznym, która stanowiła podstawę do obliczenia opłaty OZE, o której mowa w art. 96 ust. 1 i 2, w okresie 12 miesięcy kalendarzowych poprzedzających dzień 1 lipca roku, w którym jest kalkulowana stawka opłaty OZE na kolejny rok kalendarzowy."
         }
        ]
       },
@@ -11323,11 +11352,11 @@
      "type": "art",
      "num": "99",
      "path": "art_99",
-     "text": "Wysokość kwoty oznaczonej symbolem „G i ”, o którym mowa w art. 98 ust. 1, stanowiącej podstawę do kalkulowania w danym roku „ i ” stawki opłaty OZE na rok następny, oblicza się według wzoru:",
+     "text": "Wysokość kwoty oznaczonej symbolem „Gi”, o którym mowa w art. 98 ust. 1, stanowiącej podstawę do kalkulowania w danym roku „ i ” stawki opłaty OZE na rok następny, oblicza się według wzoru:",
      "children": [
       {
        "type": "text",
-       "text": "G = K + L − E i OZEfi OZEi OZEi,"
+       "text": "Gi = KOZEfi + LOZEi − EOZEi,"
       },
       {
        "type": "text",
@@ -11335,15 +11364,15 @@
       },
       {
        "type": "text",
-       "text": "K OZEfi – sumę środków przeznaczonych na pokrycie ujemnego salda, o którym mowa w art. 93 ust. 1 pkt 4 oraz ust. 2 pkt 3,"
+       "text": "KOZEfi – sumę środków przeznaczonych na pokrycie ujemnego salda, o którym mowa w art. 93 ust. 1 pkt 4 oraz ust. 2 pkt 3,"
       },
       {
        "type": "text",
-       "text": "L OZEi – wydatki i koszty, o których mowa w art. 102 ust. 2,"
+       "text": "LOZEi – wydatki i koszty, o których mowa w art. 102 ust. 2,"
       },
       {
        "type": "text",
-       "text": "E OZEi – prognozowany, na dzień 31 grudnia danego roku „ i ”, stan środków na rachunku opłaty OZE, zgodnie z informacją, o której mowa w art. 102 ust. 3 pkt 2."
+       "text": "EOZEi – prognozowany, na dzień 31 grudnia danego roku „ i ”, stan środków na rachunku opłaty OZE, zgodnie z informacją, o której mowa w art. 102 ust. 3 pkt 2."
       }
      ]
     },
@@ -11563,11 +11592,11 @@
        "type": "ust",
        "num": "2",
        "path": "art_102/ust_2",
-       "text": "Wydatki związane z zaciągniętym zadłużeniem, o którym mowa w ust. 1, oraz koszty bieżącej działalności operatora rozliczeń energii odnawialnej, o którym mowa w art. 106, związane z prowadzeniem rachunku opłaty OZE i rozliczaniem ujemnego salda, o którym mowa w art. 93 ust. 1 pkt 4 i ust. 2 pkt 3, oznaczone symbolem „L OZEi ”, oblicza się według wzoru:",
+       "text": "Wydatki związane z zaciągniętym zadłużeniem, o którym mowa w ust. 1, oraz koszty bieżącej działalności operatora rozliczeń energii odnawialnej, o którym mowa w art. 106, związane z prowadzeniem rachunku opłaty OZE i rozliczaniem ujemnego salda, o którym mowa w art. 93 ust. 1 pkt 4 i ust. 2 pkt 3, oznaczone symbolem „LOZEi”, oblicza się według wzoru:",
        "children": [
         {
          "type": "text",
-         "text": "L = C + I + F OZEi OZEi OZEi OZEi,"
+         "text": "LOZEi = COZEi + IOZEi + FOZEi,"
         },
         {
          "type": "text",
@@ -11575,15 +11604,15 @@
         },
         {
          "type": "text",
-         "text": "C OZEi – kwotę należności głównych (kapitału) z tytułu zadłużenia zaciągniętego przez operatora rozliczeń energii odnawialnej, o którym mowa w art. 106, w przypadku, o którym mowa w ust. 1, wymagalnych w danym roku kalendarzowym,"
+         "text": "COZEi – kwotę należności głównych (kapitału) z tytułu zadłużenia zaciągniętego przez operatora rozliczeń energii odnawialnej, o którym mowa w art. 106, w przypadku, o którym mowa w ust. 1, wymagalnych w danym roku kalendarzowym,"
         },
         {
          "type": "text",
-         "text": "I OZEi – kwotę odsetek z tytułu zadłużenia zaciągniętego przez operatora rozliczeń energii odnawialnej, o którym mowa w art. 106, w przypadku, o którym mowa w ust. 1,"
+         "text": "IOZEi – kwotę odsetek z tytułu zadłużenia zaciągniętego przez operatora rozliczeń energii odnawialnej, o którym mowa w art. 106, w przypadku, o którym mowa w ust. 1,"
         },
         {
          "type": "text",
-         "text": "F OZEi – planowane w danym roku koszty bieżącej działalności operatora rozliczeń energii odnawialnej, o którym mowa w art. 106, związane z prowadzeniem rachunku opłaty OZE i pokrycie ujemnego salda, o którym mowa w art. 93 ust. 1 pkt 4 i ust. 2 pkt 3."
+         "text": "FOZEi – planowane w danym roku koszty bieżącej działalności operatora rozliczeń energii odnawialnej, o którym mowa w art. 106, związane z prowadzeniem rachunku opłaty OZE i pokrycie ujemnego salda, o którym mowa w art. 93 ust. 1 pkt 4 i ust. 2 pkt 3."
         }
        ]
       },
@@ -15476,7 +15505,7 @@
          "children": [
           {
            "type": "text",
-           "text": "K = 1,3  (O − O ), o z zz"
+           "text": "Ko = 1,3  (Oz − Ozz),"
           },
           {
            "type": "text",
@@ -15484,15 +15513,15 @@
           },
           {
            "type": "text",
-           "text": "K o – minimalną wysokość kary pieniężnej, wyrażoną w złotych,"
+           "text": "Ko – minimalną wysokość kary pieniężnej, wyrażoną w złotych,"
           },
           {
            "type": "text",
-           "text": "O z – opłatę zastępczą, obliczoną zgodnie z art. 56, wyrażoną w złotych,"
+           "text": "Oz – opłatę zastępczą, obliczoną zgodnie z art. 56, wyrażoną w złotych,"
           },
           {
            "type": "text",
-           "text": "O zz – uiszczoną opłatę zastępczą, wyrażoną w złotych;"
+           "text": "Ozz – uiszczoną opłatę zastępczą, wyrażoną w złotych;"
           }
          ]
         },
@@ -15504,7 +15533,7 @@
          "children": [
           {
            "type": "text",
-           "text": "K = C  (E − E ), oz c oo zo"
+           "text": "Koz = Cc  (Eoo − Ezo),"
           },
           {
            "type": "text",
@@ -15512,19 +15541,19 @@
           },
           {
            "type": "text",
-           "text": "K oz – minimalną wysokość kary pieniężnej, wyrażoną w złotych,"
+           "text": "Koz – minimalną wysokość kary pieniężnej, wyrażoną w złotych,"
           },
           {
            "type": "text",
-           "text": "C c – średnią cenę sprzedaży energii elektrycznej w poprzednim roku kalendarzowym ogłoszoną przez Prezesa URE, na podstawie art. 23 ust. 2 pkt 18 lit. b ustawy – Prawo energetyczne, wyrażoną w złotych za 1 MWh,"
+           "text": "Cc – średnią cenę sprzedaży energii elektrycznej w poprzednim roku kalendarzowym ogłoszoną przez Prezesa URE, na podstawie art. 23 ust. 2 pkt 18 lit. b ustawy – Prawo energetyczne, wyrażoną w złotych za 1 MWh,"
           },
           {
            "type": "text",
-           "text": "E oo – ilość oferowanej do zakupu energii elektrycznej wytworzonej w instalacji odnawialnego źródła energii, wyrażoną w MWh,"
+           "text": "Eoo – ilość oferowanej do zakupu energii elektrycznej wytworzonej w instalacji odnawialnego źródła energii, wyrażoną w MWh,"
           },
           {
            "type": "text",
-           "text": "E zo – ilość zakupionej energii elektrycznej wytworzonej w instalacji odnawialnego źródła energii w danym roku, wyrażoną w MWh."
+           "text": "Ezo – ilość zakupionej energii elektrycznej wytworzonej w instalacji odnawialnego źródła energii w danym roku, wyrażoną w MWh."
           }
          ]
         }
@@ -15581,7 +15610,7 @@
        "children": [
         {
          "type": "text",
-         "text": "K = 0,5 x [C x (E − E )], O S OA WA"
+         "text": "KO = 0,5 x [CS x (EOA − EWA)],"
         },
         {
          "type": "text",
@@ -15589,15 +15618,15 @@
         },
         {
          "type": "text",
-         "text": "K O – wysokość kary pieniężnej wyrażoną w złotych, C S – cenę skorygowaną wyrażoną w zł/MWh, stanowiącą cenę zakupu energii elektrycznej, o której mowa w art. 92 ust. 1, lub podstawę wypłaty ujemnego salda obliczonego zgodnie z art. 93 ust. 1 pkt 4 albo ust. 2 pkt 3,"
+         "text": "KO – wysokość kary pieniężnej wyrażoną w złotych, CS – cenę skorygowaną wyrażoną w zł/MWh, stanowiącą cenę zakupu energii elektrycznej, o której mowa w art. 92 ust. 1, lub podstawę wypłaty ujemnego salda obliczonego zgodnie z art. 93 ust. 1 pkt 4 albo ust. 2 pkt 3,"
         },
         {
          "type": "text",
-         "text": "E OA – ilość energii elektrycznej z odnawialnych źródeł energii, jaką wytwórca zobowiązał się wytworzyć, wprowadzić do sieci i sprzedać po zamknięciu sesji aukcji, w okresie rozliczeniowym określonym w art. 83 ust. 2, wyrażoną w MWh,"
+         "text": "EOA – ilość energii elektrycznej z odnawialnych źródeł energii, jaką wytwórca zobowiązał się wytworzyć, wprowadzić do sieci i sprzedać po zamknięciu sesji aukcji, w okresie rozliczeniowym określonym w art. 83 ust. 2, wyrażoną w MWh,"
         },
         {
          "type": "text",
-         "text": "E WA – ilość sprzedanej w ramach systemu aukcyjnego energii elektrycznej z odnawialnych źródeł energii w okresie rozliczeniowym określonym w art. 83 ust. 2, wyrażoną w MWh."
+         "text": "EWA – ilość sprzedanej w ramach systemu aukcyjnego energii elektrycznej z odnawialnych źródeł energii w okresie rozliczeniowym określonym w art. 83 ust. 2, wyrażoną w MWh."
         }
        ]
       },
@@ -17566,11 +17595,12 @@
        "num": "2",
        "path": "art_223/pkt_2",
        "text": "art. 179 pkt 5 i 7–10, art. 188, art. 189 oraz art. 206, które wchodzą w życie z dniem następującym po dniu ogłoszenia.",
-       "children": []
-      },
-      {
-       "type": "text",
-       "text": "i ∗ i i=1 V V=∑V n i"
+       "children": [
+        {
+         "type": "text",
+         "text": "P=∑ i ∗ i=1 V"
+        }
+       ]
       }
      ]
     }
@@ -17609,8 +17639,8 @@
   "28": "Przez art. 1 pkt 8 ustawy, o której mowa w odnośniku 3.",
   "29": "Przez art. 1 pkt 9 ustawy, o której mowa w odnośniku 3.",
   "30": "Dodany przez art. 1 pkt 10 ustawy, o której mowa w odnośniku 3.",
-  "31": "W brzmieniu ustalonym przez art. 1 pkt 11 ustawy, o której mowa w odnośniku 3. sn s I p",
-  "32": "Dodany przez art. 1 pkt 12 ustawy, o której mowa w odnośniku 3. sn s I p",
+  "31": "W brzmieniu ustalonym przez art. 1 pkt 11 ustawy, o której mowa w odnośniku 3.",
+  "32": "Dodany przez art. 1 pkt 12 ustawy, o której mowa w odnośniku 3.",
   "33": "W brzmieniu ustalonym przez art. 1 pkt 13 lit. a ustawy, o której mowa w odnośniku 3.",
   "34": "W brzmieniu ustalonym przez art. 1 pkt 13 lit. b ustawy, o której mowa w odnośniku 3.",
   "35": "Dodany przez art. 1 pkt 13 lit. c ustawy, o której mowa w odnośniku 3.",

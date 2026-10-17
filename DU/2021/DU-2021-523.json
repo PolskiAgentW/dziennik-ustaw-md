@@ -1,7 +1,7 @@
 {
  "eli": "DU/2021/523",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 marca 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2021/523/text.pdf",
  "body": [
   {
@@ -877,7 +877,7 @@
        "children": [
         {
          "type": "text",
-         "text": "ɡ 2i ≥1 ɡ 1i"
+         "text": "ɡ2i ≥1 ɡ1i"
         },
         {
          "type": "text",
@@ -885,11 +885,11 @@
         },
         {
          "type": "text",
-         "text": "ɡ – kwotę refundacji na koniec roku poprzedzającego dla produktu i-tego wnioskodawcy, który otrzymał decyzję 1i administracyjną o objęciu refundacją w danej grupie limitowej,"
+         "text": "ɡ1i – kwotę refundacji na koniec roku poprzedzającego dla produktu i-tego wnioskodawcy, który otrzymał decyzję administracyjną o objęciu refundacją w danej grupie limitowej,"
         },
         {
          "type": "text",
-         "text": "ɡ – kwotę refundacji na koniec roku rozliczeniowego dla produktu i-tego wnioskodawcy, który otrzymał decyzję 2i administracyjną o objęciu refundacją w danej grupie limitowej."
+         "text": "ɡ2i – kwotę refundacji na koniec roku rozliczeniowego dla produktu i-tego wnioskodawcy, który otrzymał decyzję administracyjną o objęciu refundacją w danej grupie limitowej."
         }
        ]
       },
@@ -908,7 +908,7 @@
        "children": [
         {
          "type": "text",
-         "text": "S S unorm = i"
+         "text": "Si Siunorm = ∑Si"
         },
         {
          "type": "text",
@@ -916,7 +916,7 @@
         },
         {
          "type": "text",
-         "text": "g C S = 2i × 2i"
+         "text": "g2i C2i Si = × ∑g2i C2L"
         },
         {
          "type": "text",
@@ -924,23 +924,23 @@
         },
         {
          "type": "text",
-         "text": "S unorm – unormowany współczynnik udziału w kwocie przekroczenia dla produktu i-tego wnioskodawcy, który i otrzymał decyzję o objęciu refundacją w danej grupie limitowej,"
+         "text": "Siunorm – unormowany współczynnik udziału w kwocie przekroczenia dla produktu i-tego wnioskodawcy, który otrzymał decyzję o objęciu refundacją w danej grupie limitowej,"
         },
         {
          "type": "text",
-         "text": "S – współczynnik udziału w kwocie przekroczenia dla produktu i-tego wnioskodawcy, który otrzymał i decyzję o objęciu refundacją w danej grupie limitowej, g – kwotę refundacji na koniec roku rozliczeniowego dla produktu i-tego wnioskodawcy, który otrzymał 2i decyzję o objęciu refundacją w danej grupie limitowej,"
+         "text": "Si – współczynnik udziału w kwocie przekroczenia dla produktu i-tego wnioskodawcy, który otrzymał decyzję o objęciu refundacją w danej grupie limitowej, g2i – kwotę refundacji na koniec roku rozliczeniowego dla produktu i-tego wnioskodawcy, który otrzymał decyzję o objęciu refundacją w danej grupie limitowej,"
         },
         {
          "type": "text",
-         "text": "∑g – sumaryczną kwotę refundacji na koniec roku rozliczeniowego produktów wszystkich wnioskodawców, 2i którzy otrzymali decyzję administracyjną o objęciu refundacją w danej grupie limitowej,"
+         "text": "∑g2i – sumaryczną kwotę refundacji na koniec roku rozliczeniowego produktów wszystkich wnioskodawców, którzy otrzymali decyzję administracyjną o objęciu refundacją w danej grupie limitowej,"
         },
         {
          "type": "text",
-         "text": "C – urzędową cenę zbytu za DDD leku i-tego wnioskodawcy, który otrzymał decyzję administracyjną o objęciu 2i refundacją w danej grupie limitowej na koniec roku rozliczeniowego,"
+         "text": "C2i – urzędową cenę zbytu za DDD leku i-tego wnioskodawcy, który otrzymał decyzję administracyjną o objęciu refundacją w danej grupie limitowej na koniec roku rozliczeniowego,"
         },
         {
          "type": "text",
-         "text": "C – najniższą urzędową cenę zbytu za DDD leku stanowiącego podstawę limitu w danej grupie limitowej 2L w roku rozliczeniowym."
+         "text": "C2L – najniższą urzędową cenę zbytu za DDD leku stanowiącego podstawę limitu w danej grupie limitowej w roku rozliczeniowym."
         }
        ]
       },
@@ -955,11 +955,15 @@
        "type": "ust",
        "num": "7",
        "path": "art_4/ust_7",
-       "text": "Wnioskodawca, który otrzymał decyzję administracyjną o objęciu refundacją, biorący udział w zwrocie kwoty przekroczenia, zwraca Funduszowi kwotę odpowiednio dla danej grupy limitowej, w wysokości wyliczanej według wzoru: KZ i = S i unorm × KP × G × 0,5 gdzie poszczególne symbole oznaczają:",
+       "text": "Wnioskodawca, który otrzymał decyzję administracyjną o objęciu refundacją, biorący udział w zwrocie kwoty przekroczenia, zwraca Funduszowi kwotę odpowiednio dla danej grupy limitowej, w wysokości wyliczanej według wzoru: KZi = Siunorm × KP × G × 0,5",
        "children": [
         {
          "type": "text",
-         "text": "KZ – kwotę zwracaną przez i-tego wnioskodawcę, który otrzymał decyzję administracyjną o objęciu refuni dacją w danej grupie limitowej, S unorm – unormowany współczynnik udziału w kwocie przekroczenia dla i-tego wnioskodawcy, który otrzymał i decyzję administracyjną o objęciu refundacją,"
+         "text": "gdzie poszczególne symbole oznaczają:"
+        },
+        {
+         "type": "text",
+         "text": "KZi – kwotę zwracaną przez i-tego wnioskodawcę, który otrzymał decyzję administracyjną o objęciu refundacją w danej grupie limitowej, Siunorm – unormowany współczynnik udziału w kwocie przekroczenia dla i-tego wnioskodawcy, który otrzymał decyzję administracyjną o objęciu refundacją,"
         },
         {
          "type": "text",
@@ -9280,7 +9284,7 @@
   "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97 i 159.",
   "3": "Dodany przez art. 10 pkt 1 ustawy z dnia 27 listopada 2020 r. o zmianie niektórych ustaw w celu zapewnienia w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii kadr medycznych (Dz. U. poz. 2401), która weszła w życie z dniem 30 grudnia 2020 r.; wszedł w życie z dniem 1 stycznia 2021 r.",
   "4": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1493, 1875, 2345 i 2401 oraz z 2021 r. poz. 97 i 159.",
-  "5": "Dodany przez art. 36 pkt 1 ustawy z dnia 7 października 2020 r. o Funduszu Medycznym (Dz. U. poz. 1875), która weszła w życie z dniem 26 listopada 2020 r. i ∑S i i ∑g 2i C 2L",
+  "5": "Dodany przez art. 36 pkt 1 ustawy z dnia 7 października 2020 r. o Funduszu Medycznym (Dz. U. poz. 1875), która weszła w życie z dniem 26 listopada 2020 r.",
   "6": "W brzmieniu ustalonym przez art. 36 pkt 2 lit. a ustawy, o której mowa w odnośniku 5.",
   "7": "Dodany przez art. 36 pkt 2 lit. b ustawy, o której mowa w odnośniku 5.",
   "8": "W brzmieniu ustalonym przez art. 36 pkt 3 ustawy, o której mowa w odnośniku 5.",

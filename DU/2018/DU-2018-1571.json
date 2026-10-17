@@ -1,7 +1,7 @@
 {
  "eli": "DU/2018/1571",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lipca 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2018/1571/text.pdf",
  "body": [
   {
@@ -741,18 +741,18 @@
        "type": "ust",
        "num": "2",
        "path": "art_11/ust_2",
-       "text": "Wysokość stawki, o której mowa w ust. 1, ulega obniżeniu proporcjonalnie do współczynnika, oznaczonego symbolem „S Rn ”, jeżeli w terminie, o którym mowa w art. 5 ust. 1, nie zostaną rozwiązane, na mocy umów rozwiązujących, wszystkie umowy długoterminowe, o których mowa w załączniku nr 1 do ustawy.",
+       "text": "Wysokość stawki, o której mowa w ust. 1, ulega obniżeniu proporcjonalnie do współczynnika, oznaczonego symbolem „SRn”, jeżeli w terminie, o którym mowa w art. 5 ust. 1, nie zostaną rozwiązane, na mocy umów rozwiązujących, wszystkie umowy długoterminowe, o których mowa w załączniku nr 1 do ustawy.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
        "path": "art_11/ust_3",
-       "text": "Współczynnik oznaczony symbolem „S Rn ” oblicza się według wzoru:",
+       "text": "Współczynnik oznaczony symbolem „SRn” oblicza się według wzoru:",
        "children": [
         {
          "type": "text",
-         "text": "K S = Omw Rn K Om"
+         "text": "KOmw SRn = KOm"
         },
         {
          "type": "text",
@@ -760,11 +760,11 @@
         },
         {
          "type": "text",
-         "text": "K Omw – sumę kosztów osieroconych określonych w załączniku nr 2 do ustawy obliczoną dla wytwórców, którzy otrzymują środki na pokrycie kosztów osieroconych na zasadach określonych w ustawie,"
+         "text": "KOmw – sumę kosztów osieroconych określonych w załączniku nr 2 do ustawy obliczoną dla wytwórców, którzy otrzymują środki na pokrycie kosztów osieroconych na zasadach określonych w ustawie,"
         },
         {
          "type": "text",
-         "text": "K Om – sumę kosztów osieroconych określonych w załączniku nr 2 do ustawy."
+         "text": "KOm – sumę kosztów osieroconych określonych w załączniku nr 2 do ustawy."
         }
        ]
       },
@@ -1039,7 +1039,7 @@
        "type": "ust",
        "num": "2",
        "path": "art_18/ust_2",
-       "text": "Począwszy od 2009 r. wysokość zasobu płynnościowego, oznaczoną symbolem „B i ”, dla każdego roku „i”, oblicza się według wzoru: ∑ ∑ B = 1,1 K − b K i Or(i − 1) i OWZ(i − 1) p p",
+       "text": "Począwszy od 2009 r. wysokość zasobu płynnościowego, oznaczoną symbolem „Bi”, dla każdego roku „i”, oblicza się według wzoru: ∑ ∑ B = 1,1 K − b K i Or(i − 1) i OWZ(i − 1) p p",
        "children": [
         {
          "type": "text",
@@ -1051,7 +1051,7 @@
         },
         {
          "type": "text",
-         "text": "K Or(i–1) – kwotę kosztów osieroconych obliczoną dla wytwórcy, który:"
+         "text": "KOr(i–1) – kwotę kosztów osieroconych obliczoną dla wytwórcy, który:"
         },
         {
          "type": "pkt",
@@ -1061,7 +1061,7 @@
          "children": [
           {
            "type": "text",
-           "text": "i − 1 ( ) ( ) K =K 1+s Π 1+s Or(i − 1) OZ3(i − 1) i j = 2007 j"
+           "text": "i − 1 ( ) ( ) KOr(i − =KOZ3(i − 1+si Π 1+s 1) 1) j = 2007 j"
           },
           {
            "type": "text",
@@ -1069,7 +1069,7 @@
           },
           {
            "type": "text",
-           "text": "K OZ3(i–1) – kwotę kosztów osieroconych określoną w załączniku nr 3 do ustawy, dla roku poprzedzającego dany rok kalendarzowy „i”,"
+           "text": "KOZ3(i–1) – kwotę kosztów osieroconych określoną w załączniku nr 3 do ustawy, dla roku poprzedzającego dany rok kalendarzowy „i”,"
           },
           {
            "type": "text",
@@ -1077,11 +1077,11 @@
           },
           {
            "type": "text",
-           "text": "s i – stopę aktualizacji w wysokości równej stopie aktualizacji, oznaczonej symbolem „s j ”, z roku poprzedniego,"
+           "text": "si – stopę aktualizacji w wysokości równej stopie aktualizacji, oznaczonej symbolem „sj”, z roku poprzedniego,"
           },
           {
            "type": "text",
-           "text": "s j – stopę aktualizacji równą rentowności pięcioletnich obligacji skarbowych emitowanych na najbliższy dzień poprzedzający dzień 30 czerwca danego roku „j”, według danych opublikowanych przez ministra właściwego do spraw finansów publicznych oraz Główny Urząd Statystyczny, powiększonej o różnicę pomiędzy stopą kredytu redyskontowego a stopą depozytową Narodowego Banku Polskiego obowiązującymi w dniu 30 czerwca danego roku „j”;"
+           "text": "sj – stopę aktualizacji równą rentowności pięcioletnich obligacji skarbowych emitowanych na najbliższy dzień poprzedzający dzień 30 czerwca danego roku „j”, według danych opublikowanych przez ministra właściwego do spraw finansów publicznych oraz Główny Urząd Statystyczny, powiększonej o różnicę pomiędzy stopą kredytu redyskontowego a stopą depozytową Narodowego Banku Polskiego obowiązującymi w dniu 30 czerwca danego roku „j”;"
           }
          ]
         },
@@ -1093,7 +1093,7 @@
          "children": [
           {
            "type": "text",
-           "text": "b i – współczynnik korygujący, który wynosi:"
+           "text": "bi – współczynnik korygujący, który wynosi:"
           },
           {
            "type": "tir",
@@ -1110,7 +1110,7 @@
            "children": [
             {
              "type": "text",
-             "text": "K OWZ (i–1) – kwotę zaliczki na rok „i”, w wysokości określonej we wniosku, o którym mowa w art. 24 ust. 1."
+             "text": "KOWZ (i–1) – kwotę zaliczki na rok „i”, w wysokości określonej we wniosku, o którym mowa w art. 24 ust. 1."
             }
            ]
           }
@@ -1122,7 +1122,7 @@
        "type": "ust",
        "num": "3",
        "path": "art_18/ust_3",
-       "text": "Wysokość zasobu płynnościowego, oznaczoną symbolem „B i ”, w danym roku „i”, oblicza się z uwzględnieniem tych wytwórców, dla których nie dokonano korekty, o której mowa w art. 31 ust. 1, i nie wypłacono im kwoty kosztów osieroconych w wysokości określonej w załączniku nr 3 do ustawy.",
+       "text": "Wysokość zasobu płynnościowego, oznaczoną symbolem „Bi”, w danym roku „i”, oblicza się z uwzględnieniem tych wytwórców, dla których nie dokonano korekty, o której mowa w art. 31 ust. 1, i nie wypłacono im kwoty kosztów osieroconych w wysokości określonej w załączniku nr 3 do ustawy.",
        "children": []
       },
       {
@@ -1418,7 +1418,7 @@
        "type": "ust",
        "num": "4",
        "path": "art_24/ust_4",
-       "text": "Prezes URE, w drodze decyzji administracyjnej, ustala zaktualizowaną na dany rok „i” kwotę kosztów osieroconych, o której mowa w załączniku nr 3 do ustawy, oznaczoną symbolem „K OAZ3i ”, dla danego wytwórcy na rok następny, według wzoru:",
+       "text": "Prezes URE, w drodze decyzji administracyjnej, ustala zaktualizowaną na dany rok „i” kwotę kosztów osieroconych, o której mowa w załączniku nr 3 do ustawy, oznaczoną symbolem „KOAZ3i”, dla danego wytwórcy na rok następny, według wzoru:",
        "children": [
         {
          "type": "text",
@@ -1430,7 +1430,7 @@
         },
         {
          "type": "text",
-         "text": "K OZ3i – kwotę kosztów osieroconych, o której mowa w załączniku nr 3 do ustawy, dla danego roku „i”,"
+         "text": "KOZ3i – kwotę kosztów osieroconych, o której mowa w załączniku nr 3 do ustawy, dla danego roku „i”,"
         },
         {
          "type": "text",
@@ -1438,7 +1438,7 @@
         },
         {
          "type": "text",
-         "text": "s j – stopę aktualizacji, o której mowa w art. 18 ust. 2."
+         "text": "sj – stopę aktualizacji, o której mowa w art. 18 ust. 2."
         }
        ]
       },
@@ -1553,8 +1553,12 @@
        "type": "ust",
        "num": "1",
        "path": "art_27/ust_1",
-       "text": "Wysokość kosztów osieroconych wytwórcy, oznaczonych symbolem „K O ”, oblicza się według wzoru: K =N−S −R−P",
+       "text": "Wysokość kosztów osieroconych wytwórcy, oznaczonych symbolem „KO”, oblicza się według wzoru:",
        "children": [
+        {
+         "type": "text",
+         "text": "K =N−S −R−P"
+        },
         {
          "type": "text",
          "text": "gdzie poszczególne symbole oznaczają:"
@@ -1565,7 +1569,7 @@
         },
         {
          "type": "text",
-         "text": "S D – sumę zaktualizowanej wartości wyników finansowych netto z działalności operacyjnej wytwórcy, skorygowanych o amortyzację, dostępnych do obsługi zainwestowanego kapitału własnego i obcego od dnia 1 stycznia 2007 r. do roku, w którym wygasa najdłuższa umowa długoterminowa danego wytwórcy, obliczaną w sposób określony w ust. 3,"
+         "text": "SD – sumę zaktualizowanej wartości wyników finansowych netto z działalności operacyjnej wytwórcy, skorygowanych o amortyzację, dostępnych do obsługi zainwestowanego kapitału własnego i obcego od dnia 1 stycznia 2007 r. do roku, w którym wygasa najdłuższa umowa długoterminowa danego wytwórcy, obliczaną w sposób określony w ust. 3,"
         },
         {
          "type": "text",
@@ -1625,11 +1629,11 @@
        "type": "ust",
        "num": "3",
        "path": "art_27/ust_3",
-       "text": "Sumę, oznaczoną symbolem „S D ”, o której mowa w ust. 1, oblicza się według wzoru:",
+       "text": "Sumę, oznaczoną symbolem „SD”, o której mowa w ust. 1, oblicza się według wzoru:",
        "children": [
         {
          "type": "text",
-         "text": "W S = dkj ∑ D ( ) t j 1 + r"
+         "text": "Wdkj ∑ SD = ( ) t j 1 + r"
         },
         {
          "type": "text",
@@ -1641,7 +1645,7 @@
         },
         {
          "type": "text",
-         "text": "W dkj – wartość wyniku finansowego netto z działalności operacyjnej wytwórcy, skorygowanego o amortyzację, dostępnego do obsługi zainwestowanego kapitału własnego i obcego dla roku kalendarzowego „j”, przy czym wartość wyniku finansowego netto dla roku, w którym wygasa najdłuższa umowa długoterminowa danego wytwórcy, jest pomniejszona proporcjonalnie do ilości dni obowiązywania tej umowy w tym roku, obliczaną w sposób określony w ust. 4,"
+         "text": "Wdkj – wartość wyniku finansowego netto z działalności operacyjnej wytwórcy, skorygowanego o amortyzację, dostępnego do obsługi zainwestowanego kapitału własnego i obcego dla roku kalendarzowego „j”, przy czym wartość wyniku finansowego netto dla roku, w którym wygasa najdłuższa umowa długoterminowa danego wytwórcy, jest pomniejszona proporcjonalnie do ilości dni obowiązywania tej umowy w tym roku, obliczaną w sposób określony w ust. 4,"
         },
         {
          "type": "text",
@@ -1657,11 +1661,11 @@
        "type": "ust",
        "num": "4",
        "path": "art_27/ust_4",
-       "text": "Wartość wyniku finansowego, oznaczonego symbolem „W dkj ”, o którym mowa w ust. 3, oblicza się według wzoru:",
+       "text": "Wartość wyniku finansowego, oznaczonego symbolem „Wdkj”, o którym mowa w ust. 3, oblicza się według wzoru:",
        "children": [
         {
          "type": "text",
-         "text": "W = (D −K )(1−T )+A dkj j j j j"
+         "text": "Wdkj = (D −K )(1−Tj )+A j j j"
         },
         {
          "type": "text",
@@ -1669,19 +1673,19 @@
         },
         {
          "type": "text",
-         "text": "D j – przychody ze sprzedaży energii elektrycznej, rezerw mocy i usług systemowych na rynku konkurencyjnym,"
+         "text": "Dj – przychody ze sprzedaży energii elektrycznej, rezerw mocy i usług systemowych na rynku konkurencyjnym,"
         },
         {
          "type": "text",
-         "text": "K j – koszty działalności operacyjnej związanej ze sprzedażą energii elektrycznej, rezerw mocy i usług systemowych,"
+         "text": "Kj – koszty działalności operacyjnej związanej ze sprzedażą energii elektrycznej, rezerw mocy i usług systemowych,"
         },
         {
          "type": "text",
-         "text": "T j – obowiązującą w danym roku stawkę podatku dochodowego od osób prawnych; w przypadku gdy różnica przychodów ze sprzedaży energii elektrycznej, rezerw mocy i usług systemowych na rynku konkurencyjnym i kosztów działalności operacyjnej związanej ze sprzedażą energii elektrycznej, rezerw mocy i usług systemowych, pomniejszoną o koszty finansowe wynikające z zobowiązań związanych z umowami długoterminowymi oraz koszty finansowe konieczne do poniesienia ze względu na utrzymanie płynności finansowej jest ujemna, to należy przyjąć stawkę podatku dochodowego od osób prawnych równą zero,"
+         "text": "Tj – obowiązującą w danym roku stawkę podatku dochodowego od osób prawnych; w przypadku gdy różnica przychodów ze sprzedaży energii elektrycznej, rezerw mocy i usług systemowych na rynku konkurencyjnym i kosztów działalności operacyjnej związanej ze sprzedażą energii elektrycznej, rezerw mocy i usług systemowych, pomniejszoną o koszty finansowe wynikające z zobowiązań związanych z umowami długoterminowymi oraz koszty finansowe konieczne do poniesienia ze względu na utrzymanie płynności finansowej jest ujemna, to należy przyjąć stawkę podatku dochodowego od osób prawnych równą zero,"
         },
         {
          "type": "text",
-         "text": "A j – amortyzację w odniesieniu do rzeczowych środków trwałych związanych z wytwarzaniem energii elektrycznej, o których mowa w symbolu „N”, obliczaną zgodnie z przepisami ustawy, o której mowa w art. 20 ust. 2, dla roku kalendarzowego „j”, przy czym wartość amortyzacji dla roku, w którym wygasa najdłuższa umowa długoterminowa danego wytwórcy, pomniejsza się proporcjonalnie do ilości dni obowiązywania tej umowy w tym roku."
+         "text": "Aj – amortyzację w odniesieniu do rzeczowych środków trwałych związanych z wytwarzaniem energii elektrycznej, o których mowa w symbolu „N”, obliczaną zgodnie z przepisami ustawy, o której mowa w art. 20 ust. 2, dla roku kalendarzowego „j”, przy czym wartość amortyzacji dla roku, w którym wygasa najdłuższa umowa długoterminowa danego wytwórcy, pomniejsza się proporcjonalnie do ilości dni obowiązywania tej umowy w tym roku."
         }
        ]
       },
@@ -1689,19 +1693,15 @@
        "type": "ust",
        "num": "5",
        "path": "art_27/ust_5",
-       "text": "Wartość aktywów, oznaczoną symbolem „R”, o której mowa w ust. 1, oblicza się według wzoru:",
+       "text": "Wartość aktywów, oznaczoną symbolem „R”, o której mowa w ust. 1, oblicza się według wzoru: ∑ j Nk − A R = j ( ) t 1+r¹",
        "children": [
-        {
-         "type": "text",
-         "text": "N − A R = j ( ) t 1+r¹"
-        },
         {
          "type": "text",
          "text": "gdzie poszczególne symbole oznaczają:"
         },
         {
          "type": "text",
-         "text": "N k – wartość księgową netto rzeczowych środków trwałych i środków trwałych w budowie na koniec 2004 r. pomniejszoną o odpisy amortyzacyjne z lat 2005–2006,"
+         "text": "Nk – wartość księgową netto rzeczowych środków trwałych i środków trwałych w budowie na koniec 2004 r. pomniejszoną o odpisy amortyzacyjne z lat 2005–2006,"
         },
         {
          "type": "text",
@@ -1709,7 +1709,7 @@
         },
         {
          "type": "text",
-         "text": "A j – amortyzację, o której mowa w ust. 4,"
+         "text": "Aj – amortyzację, o której mowa w ust. 4,"
         },
         {
          "type": "text",
@@ -1739,7 +1739,7 @@
          "type": "pkt",
          "num": "1",
          "path": "art_28/ust_1/pkt_1",
-         "text": "wartości wyniku finansowego, oznaczonego symbolem „W dkj ”, o którym mowa w art. 27 ust. 3,",
+         "text": "wartości wyniku finansowego, oznaczonego symbolem „Wdkj”, o którym mowa w art. 27 ust. 3,",
          "children": []
         },
         {
@@ -1860,7 +1860,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_30/ust_1",
-       "text": "Prezes URE, do dnia 31 lipca każdego roku kalendarzowego „i”, w drodze decyzji administracyjnej, ustala wysokość korekty rocznej kosztów osieroconych, oznaczoną symbolem „∆K O(i–1) ”, dla roku poprzedzającego dany rok kalendarzowy, dla wytwórcy, który w oświadczeniu, o którym mowa w art. 24 ust. 3, wskazał ten sposób dokonywania korekty, według wzoru:",
+       "text": "Prezes URE, do dnia 31 lipca każdego roku kalendarzowego „i”, w drodze decyzji administracyjnej, ustala wysokość korekty rocznej kosztów osieroconych, oznaczoną symbolem „∆KO(i–1)”, dla roku poprzedzającego dany rok kalendarzowy, dla wytwórcy, który w oświadczeniu, o którym mowa w art. 24 ust. 3, wskazał ten sposób dokonywania korekty, według wzoru:",
        "children": [
         {
          "type": "text",
@@ -1872,7 +1872,7 @@
         },
         {
          "type": "text",
-         "text": "K OZ3(i–1) – kwotę kosztów osieroconych dla danego wytwórcy określoną w załączniku nr 3 do ustawy, dla roku poprzedzającego dany rok kalendarzowy „i”,"
+         "text": "KOZ3(i–1) – kwotę kosztów osieroconych dla danego wytwórcy określoną w załączniku nr 3 do ustawy, dla roku poprzedzającego dany rok kalendarzowy „i”,"
         },
         {
          "type": "text",
@@ -1884,15 +1884,15 @@
         },
         {
          "type": "text",
-         "text": "s j – stopę aktualizacji, o której mowa w art. 18 ust. 2,"
+         "text": "sj – stopę aktualizacji, o której mowa w art. 18 ust. 2,"
         },
         {
          "type": "text",
-         "text": "∆W dk(i–1) – różnicę między rzeczywistą wartością wyniku finansowego netto z działalności operacyjnej, skorygowanego o amortyzację, dostępnego do obsługi zainwestowanego kapitału własnego i obcego dla roku poprzedzającego dany rok kalendarzowy „i”, w którym jest obliczana korekta roczna kosztów osieroconych, a prognozowaną wartością tego wyniku dla roku poprzedzającego dany rok kalendarzowy „i”, w którym jest obliczana ta korekta, określoną w załączniku nr 5 do ustawy,"
+         "text": "∆Wdk(i–1) – różnicę między rzeczywistą wartością wyniku finansowego netto z działalności operacyjnej, skorygowanego o amortyzację, dostępnego do obsługi zainwestowanego kapitału własnego i obcego dla roku poprzedzającego dany rok kalendarzowy „i”, w którym jest obliczana korekta roczna kosztów osieroconych, a prognozowaną wartością tego wyniku dla roku poprzedzającego dany rok kalendarzowy „i”, w którym jest obliczana ta korekta, określoną w załączniku nr 5 do ustawy,"
         },
         {
          "type": "text",
-         "text": "K OZW(i–1) – wypłaconą wytwórcy kwotę zaliczek na poczet kosztów osieroconych w roku poprzedzającym dany rok kalendarzowy „i”,"
+         "text": "KOZW(i–1) – wypłaconą wytwórcy kwotę zaliczek na poczet kosztów osieroconych w roku poprzedzającym dany rok kalendarzowy „i”,"
         },
         {
          "type": "text",
@@ -1904,7 +1904,7 @@
        "type": "ust",
        "num": "2",
        "path": "art_30/ust_2",
-       "text": "Prezes URE do dnia 31 lipca każdego roku ustala, w drodze decyzji administracyjnej, wysokość korekty rocznej kosztów osieroconych, oznaczoną symbolem „∆K O(i–1) ”, dla roku poprzedzającego dany rok kalendarzowy, dla wytwórcy, który w oświadczeniu, o którym mowa w art. 24 ust. 3, wskazał ten sposób dokonywania korekty, według wzoru: ( ) ∆ K = W R + O − W − K O(i − 1) s k(i − 1) k(i − 1) dk(i − 1) OZW(i − 1)",
+       "text": "Prezes URE do dnia 31 lipca każdego roku ustala, w drodze decyzji administracyjnej, wysokość korekty rocznej kosztów osieroconych, oznaczoną symbolem „∆KO(i–1)”, dla roku poprzedzającego dany rok kalendarzowy, dla wytwórcy, który w oświadczeniu, o którym mowa w art. 24 ust. 3, wskazał ten sposób dokonywania korekty, według wzoru: ( ) ∆ KO(i − = Ws Rk(i − + Ok(i − − Wdk(i − − KOZW(i 1) 1) 1) 1) − 1)",
        "children": [
         {
          "type": "text",
@@ -1912,13 +1912,13 @@
         },
         {
          "type": "text",
-         "text": "W s – wskaźnik wcześniejszej spłaty zadłużenia, równy:"
+         "text": "Ws – wskaźnik wcześniejszej spłaty zadłużenia, równy:"
         },
         {
          "type": "tir",
          "num": "1",
          "path": "art_30/ust_2/tir_1",
-         "text": "1,2 dla wytwórcy, który do wniosku, o którym mowa w art. 24 ust. 1, dołączył zobowiązanie o przeznaczeniu co najmniej 20% kwoty wynikającej z raty spłaty zadłużenia i odsetek, o których mowa w symbolach R k(i–1) i O k(i–1) , w roku, którego dotyczy wniosek, na przedterminową spłatę zadłużenia wynikającego z umów kredytowych i umów pożyczek:",
+         "text": "1,2 dla wytwórcy, który do wniosku, o którym mowa w art. 24 ust. 1, dołączył zobowiązanie o przeznaczeniu co najmniej 20% kwoty wynikającej z raty spłaty zadłużenia i odsetek, o których mowa w symbolach Rk(i–1) i Ok(i–1), w roku, którego dotyczy wniosek, na przedterminową spłatę zadłużenia wynikającego z umów kredytowych i umów pożyczek:",
          "children": []
         },
         {
@@ -1941,19 +1941,19 @@
         },
         {
          "type": "text",
-         "text": "R k(i–1) – ratę spłaty zadłużenia spłaconego w roku „i–1”, wynikającego z umów kredytowych, umów pożyczek, umowy o emisję obligacji i papierów dłużnych – zawartych przed dniem 1 maja 2004 r. – a dla wytwórców, którzy do dnia wejścia w życie ustawy nie oddali jednostki wytwórczej do użytku, zawartych do dnia 1 stycznia 2007 r. – na finansowanie nakładów na rzeczowe środki trwałe i środki trwałe w budowie, oznaczone symbolem N, o którym mowa w art. 27 ust. 1,"
+         "text": "Rk(i–1) – ratę spłaty zadłużenia spłaconego w roku „i–1”, wynikającego z umów kredytowych, umów pożyczek, umowy o emisję obligacji i papierów dłużnych – zawartych przed dniem 1 maja 2004 r. – a dla wytwórców, którzy do dnia wejścia w życie ustawy nie oddali jednostki wytwórczej do użytku, zawartych do dnia 1 stycznia 2007 r. – na finansowanie nakładów na rzeczowe środki trwałe i środki trwałe w budowie, oznaczone symbolem N, o którym mowa w art. 27 ust. 1,"
         },
         {
          "type": "text",
-         "text": "O k(i–1) – kwotę odsetek zapłaconych w roku „i–1”, wynikających z umów kredytowych, umów pożyczek, umowy o emisję obligacji i papierów dłużnych – zawartych przed dniem 1 maja 2004 r. – a dla wytwórców, którzy do dnia wejścia w życie ustawy nie oddali jednostki wytwórczej do użytku, zawartych do dnia 1 stycznia 2007 r. – na finansowanie nakładów na rzeczowe środki trwałe i środki trwałe w budowie, oznaczone symbolem N, o którym mowa w art. 27 ust. 1,"
+         "text": "Ok(i–1) – kwotę odsetek zapłaconych w roku „i–1”, wynikających z umów kredytowych, umów pożyczek, umowy o emisję obligacji i papierów dłużnych – zawartych przed dniem 1 maja 2004 r. – a dla wytwórców, którzy do dnia wejścia w życie ustawy nie oddali jednostki wytwórczej do użytku, zawartych do dnia 1 stycznia 2007 r. – na finansowanie nakładów na rzeczowe środki trwałe i środki trwałe w budowie, oznaczone symbolem N, o którym mowa w art. 27 ust. 1,"
         },
         {
          "type": "text",
-         "text": "W dk(i–1) – wartość wyniku finansowego na działalności operacyjnej wytwórcy, skorygowanego o amortyzację, o którym mowa w art. 27 ust. 3, w roku „i–1”,"
+         "text": "Wdk(i–1) – wartość wyniku finansowego na działalności operacyjnej wytwórcy, skorygowanego o amortyzację, o którym mowa w art. 27 ust. 3, w roku „i–1”,"
         },
         {
          "type": "text",
-         "text": "K OZW(i–1) – kwotę zaliczek, o których mowa w ust. 1,"
+         "text": "KOZW(i–1) – kwotę zaliczek, o których mowa w ust. 1,"
         },
         {
          "type": "text",
@@ -1965,7 +1965,7 @@
        "type": "ust",
        "num": "3",
        "path": "art_30/ust_3",
-       "text": "W przypadku refinansowania przez wytwórców zobowiązań wynikających z umów kredytu, pożyczki lub zobowiązań z tytułu emisji papierów wartościowych, zaciągniętych przed dniem 1 maja 2004 r. na finansowanie nakładów na rzeczowe środki trwałe i środki trwałe w budowie, oznaczone symbolem N, o którym mowa w art. 27 ust. 1, koszty ponoszone przez wytwórców wynikające z refinansowania są uwzględniane w symbolach R k(i–1) , O k(i–1) , o których mowa w ust. 2, do wysokości nie wyższej niż wynikającej z kwot określonych w załączniku nr 4 do ustawy dla danego wytwórcy w danym roku.",
+       "text": "W przypadku refinansowania przez wytwórców zobowiązań wynikających z umów kredytu, pożyczki lub zobowiązań z tytułu emisji papierów wartościowych, zaciągniętych przed dniem 1 maja 2004 r. na finansowanie nakładów na rzeczowe środki trwałe i środki trwałe w budowie, oznaczone symbolem N, o którym mowa w art. 27 ust. 1, koszty ponoszone przez wytwórców wynikające z refinansowania są uwzględniane w symbolach Rk(i–1), Ok(i–1), o których mowa w ust. 2, do wysokości nie wyższej niż wynikającej z kwot określonych w załączniku nr 4 do ustawy dla danego wytwórcy w danym roku.",
        "children": []
       },
       {
@@ -1979,7 +1979,7 @@
        "type": "ust",
        "num": "5",
        "path": "art_30/ust_5",
-       "text": "Wytwórca, który nie dokona przedterminowej spłaty zadłużenia, o którym mowa w ust. 2, jest obowiązany zwrócić kwotę równą 0,2 kwoty wynikającej z raty spłaty zadłużenia i odsetek, o których mowa w symbolach R k(i–1) i O k(i–1) , w terminie, o którym mowa w art. 34 ust. 1 pkt 1, wraz z odsetkami, o których mowa w art. 35 ust. 2 pkt 2.",
+       "text": "Wytwórca, który nie dokona przedterminowej spłaty zadłużenia, o którym mowa w ust. 2, jest obowiązany zwrócić kwotę równą 0,2 kwoty wynikającej z raty spłaty zadłużenia i odsetek, o których mowa w symbolach Rk(i–1) i Ok(i–1), w terminie, o którym mowa w art. 34 ust. 1 pkt 1, wraz z odsetkami, o których mowa w art. 35 ust. 2 pkt 2.",
        "children": []
       },
       {
@@ -2008,11 +2008,11 @@
        "type": "ust",
        "num": "1",
        "path": "art_31/ust_1",
-       "text": "Prezes URE, do dnia 31 sierpnia roku „i” następującego po zakończeniu okresu korygowania, w drodze decyzji administracyjnej, ustala dla wytwórcy wysokość korekty końcowej kosztów osieroconych, oznaczonej symbolem „K K(i–1) ”, według wzoru:",
+       "text": "Prezes URE, do dnia 31 sierpnia roku „i” następującego po zakończeniu okresu korygowania, w drodze decyzji administracyjnej, ustala dla wytwórcy wysokość korekty końcowej kosztów osieroconych, oznaczonej symbolem „KK(i–1)”, według wzoru:",
        "children": [
         {
          "type": "text",
-         "text": "     K  i − 1 i − 1 ∑ Owj ( ) K =K −   Π 1+s K(i − 1) On i − 1 j = 2007 j ( )   Π 1+s  j = 2007 j = 2007 j   "
+         "text": "     KOwj  i − 1 i − 1 ∑ ( ) KK(i − =K −   Π 1+sj 1) On i − 1 j = 2007 ( )   Π 1+sj  j = 2007    j = 2007"
         },
         {
          "type": "text",
@@ -2020,7 +2020,7 @@
         },
         {
          "type": "text",
-         "text": "K On – należną kwotę kosztów osieroconych obliczaną w sposób określony w ust. 2,"
+         "text": "KOn – należną kwotę kosztów osieroconych obliczaną w sposób określony w ust. 2,"
         },
         {
          "type": "text",
@@ -2028,11 +2028,11 @@
         },
         {
          "type": "text",
-         "text": "K Owj – sumę rat zaliczek wypłaconych wytwórcy w danym roku „j” i kwoty korekty rocznej wypłaconej albo zwróconej przez wytwórcę Zarządcy Rozliczeń S.A. w danym roku „j”,"
+         "text": "KOwj – sumę rat zaliczek wypłaconych wytwórcy w danym roku „j” i kwoty korekty rocznej wypłaconej albo zwróconej przez wytwórcę Zarządcy Rozliczeń S.A. w danym roku „j”,"
         },
         {
          "type": "text",
-         "text": "s j – stopę aktualizacji, o której mowa w art. 18 ust. 2."
+         "text": "sj – stopę aktualizacji, o której mowa w art. 18 ust. 2."
         }
        ]
       },
@@ -2040,7 +2040,7 @@
        "type": "ust",
        "num": "2",
        "path": "art_31/ust_2",
-       "text": "Należną kwotę kosztów osieroconych, oznaczoną symbolem „K On ”, o której mowa w ust. 1, oblicza się według wzoru:",
+       "text": "Należną kwotę kosztów osieroconych, oznaczoną symbolem „KOn”, o której mowa w ust. 1, oblicza się według wzoru:",
        "children": [
         {
          "type": "text",
@@ -2052,7 +2052,7 @@
         },
         {
          "type": "text",
-         "text": "N w – zaktualizowaną wartość księgową netto rzeczowych środków trwałych i środków trwałych w budowie oznaczoną symbolem „N”, o której mowa w art. 27, skorygowaną o różnicę między planowaną wartością nakładów inwestycyjnych rozpoczętych przed dniem 1 maja 2004 r. i kontynuowanych zgodnie z umową długoterminową po tym dniu do dnia 31 grudnia 2007 r. a rzeczywiście poniesioną wartością tych nakładów,"
+         "text": "Nw – zaktualizowaną wartość księgową netto rzeczowych środków trwałych i środków trwałych w budowie oznaczoną symbolem „N”, o której mowa w art. 27, skorygowaną o różnicę między planowaną wartością nakładów inwestycyjnych rozpoczętych przed dniem 1 maja 2004 r. i kontynuowanych zgodnie z umową długoterminową po tym dniu do dnia 31 grudnia 2007 r. a rzeczywiście poniesioną wartością tych nakładów,"
         },
         {
          "type": "text",
@@ -2064,19 +2064,19 @@
         },
         {
          "type": "text",
-         "text": "A n – amortyzację w odniesieniu do rzeczowych środków trwałych związanych z wytwarzaniem energii elektrycznej, o których mowa w symbolu „N”, o której mowa w art. 27 ust. 4, dla danego roku „n”,"
+         "text": "An – amortyzację w odniesieniu do rzeczowych środków trwałych związanych z wytwarzaniem energii elektrycznej, o których mowa w symbolu „N”, o której mowa w art. 27 ust. 4, dla danego roku „n”,"
         },
         {
          "type": "text",
-         "text": "t n0 – liczbę dni w roku „n”,"
+         "text": "tn0 – liczbę dni w roku „n”,"
         },
         {
          "type": "text",
-         "text": "t n1 – liczbę dni w danym roku „n”, w okresie od dnia 1 stycznia do dnia, w którym nastąpiło przedterminowe rozwiązanie umów długoterminowych na mocy umów rozwiązujących,"
+         "text": "tn1 – liczbę dni w danym roku „n”, w okresie od dnia 1 stycznia do dnia, w którym nastąpiło przedterminowe rozwiązanie umów długoterminowych na mocy umów rozwiązujących,"
         },
         {
          "type": "text",
-         "text": "W dkwj – rzeczywistą wartość wyniku finansowego netto na działalności operacyjnej, skorygowanego o amortyzację, dostępnego do obsługi zainwestowanego kapitału własnego i obcego w okresie korygowania, obliczoną w sposób określony w art. 27 ust. 4,"
+         "text": "Wdkwj – rzeczywistą wartość wyniku finansowego netto na działalności operacyjnej, skorygowanego o amortyzację, dostępnego do obsługi zainwestowanego kapitału własnego i obcego w okresie korygowania, obliczoną w sposób określony w art. 27 ust. 4,"
         },
         {
          "type": "text",
@@ -2096,11 +2096,11 @@
         },
         {
          "type": "text",
-         "text": "M j – kwotę zmniejszenia lub zwiększenia wysokości korekty rocznej kosztów osieroconych, o której mowa w art. 37 ust. 3,"
+         "text": "Mj – kwotę zmniejszenia lub zwiększenia wysokości korekty rocznej kosztów osieroconych, o której mowa w art. 37 ust. 3,"
         },
         {
          "type": "text",
-         "text": "s j – stopę aktualizacji, o której mowa w art. 18 ust. 2."
+         "text": "sj – stopę aktualizacji, o której mowa w art. 18 ust. 2."
         }
        ]
       },
@@ -2130,7 +2130,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_32/ust_1",
-       "text": "W przypadku gdy wytwórca, który zawarł umowę rozwiązującą, wchodzi w skład grupy kapitałowej, w kalkulacji kosztów osieroconych uwzględnia się wielkości oznaczone symbolami „N”, „S D ”, „R” i „P”, o których mowa w art. 27 ust. 1, w odniesieniu do każdego wytwórcy oraz podmiotu wchodzącego w skład grupy kapitałowej i wykonującego działalność gospodarczą w zakresie wytwarzania energii elektrycznej na terytorium Rzeczypospolitej Polskiej w jednostkach wytwórczych wymienionych w załączniku nr 7 do ustawy.",
+       "text": "W przypadku gdy wytwórca, który zawarł umowę rozwiązującą, wchodzi w skład grupy kapitałowej, w kalkulacji kosztów osieroconych uwzględnia się wielkości oznaczone symbolami „N”, „SD”, „R” i „P”, o których mowa w art. 27 ust. 1, w odniesieniu do każdego wytwórcy oraz podmiotu wchodzącego w skład grupy kapitałowej i wykonującego działalność gospodarczą w zakresie wytwarzania energii elektrycznej na terytorium Rzeczypospolitej Polskiej w jednostkach wytwórczych wymienionych w załączniku nr 7 do ustawy.",
        "children": []
       },
       {
@@ -2143,7 +2143,7 @@
          "type": "pkt",
          "num": "1",
          "path": "art_32/ust_2/pkt_1",
-         "text": "wynik prognozowany i rzeczywisty był dodatni – o dodatnią różnicę pomiędzy wynikiem rzeczywistym a prognozowanym ∆W dk(i–1) , o którym mowa w art. 30 ust. 1, podmiotu wchodzącego w skład grupy kapitałowej i wykonującego działalność gospodarczą w zakresie wytwarzania energii elektrycznej na terytorium Rzeczypospolitej Polskiej;",
+         "text": "wynik prognozowany i rzeczywisty był dodatni – o dodatnią różnicę pomiędzy wynikiem rzeczywistym a prognozowanym ∆Wdk(i–1), o którym mowa w art. 30 ust. 1, podmiotu wchodzącego w skład grupy kapitałowej i wykonującego działalność gospodarczą w zakresie wytwarzania energii elektrycznej na terytorium Rzeczypospolitej Polskiej;",
          "children": []
         },
         {
@@ -2313,14 +2313,14 @@
          "type": "pkt",
          "num": "2",
          "path": "art_35/ust_2/pkt_2",
-         "text": "nie mniej niż 35% i nie więcej niż 60% kwoty wypłaconej za dany rok zaliczki – Prezes URE nalicza odsetki w wysokości równej stopie aktualizacji s j , o której mowa w art. 18 ust. 2, powiększonej o 2 punkty procentowe;",
+         "text": "nie mniej niż 35% i nie więcej niż 60% kwoty wypłaconej za dany rok zaliczki – Prezes URE nalicza odsetki w wysokości równej stopie aktualizacji sj, o której mowa w art. 18 ust. 2, powiększonej o 2 punkty procentowe;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "3",
          "path": "art_35/ust_2/pkt_3",
-         "text": "więcej niż 60% kwoty wypłaconej za dany rok zaliczki – Prezes URE nalicza odsetki w wysokości równej stopie aktualizacji s j , o której mowa w art. 18 ust. 2, powiększonej o 4 punkty procentowe.",
+         "text": "więcej niż 60% kwoty wypłaconej za dany rok zaliczki – Prezes URE nalicza odsetki w wysokości równej stopie aktualizacji sj, o której mowa w art. 18 ust. 2, powiększonej o 4 punkty procentowe.",
          "children": []
         }
        ]
@@ -2721,11 +2721,11 @@
      "type": "art",
      "num": "44",
      "path": "art_44",
-     "text": "Dla wytwórców wymienionych w załączniku nr 8 do ustawy będących stroną umowy rozwiązującej, którzy zawarli długoterminowe umowy na dostawę gazu ziemnego przed dniem 1 maja 2004 r., ustala się, w związku z obowiązkiem odbioru gazu ziemnego na poziomie wynikającym z zakontraktowanej ilości tego paliwa, kwoty, oznaczone symbolem „K Ogaz ”, na pokrycie kosztów zużycia odebranego gazu ziemnego i kosztów nieodebranego gazu ziemnego, obliczane według wzoru:",
+     "text": "Dla wytwórców wymienionych w załączniku nr 8 do ustawy będących stroną umowy rozwiązującej, którzy zawarli długoterminowe umowy na dostawę gazu ziemnego przed dniem 1 maja 2004 r., ustala się, w związku z obowiązkiem odbioru gazu ziemnego na poziomie wynikającym z zakontraktowanej ilości tego paliwa, kwoty, oznaczone symbolem „KOgaz”, na pokrycie kosztów zużycia odebranego gazu ziemnego i kosztów nieodebranego gazu ziemnego, obliczane według wzoru:",
      "children": [
       {
        "type": "text",
-       "text": "K =A(J −J )W"
+       "text": "KOgaz =A(Jkg −Jkw )Wg"
       },
       {
        "type": "text",
@@ -2737,11 +2737,11 @@
       },
       {
        "type": "text",
-       "text": "J kg – średnioroczny koszt gazu ziemnego nabytego w ramach obowiązku zapłaty za określoną jego ilość, niezależnie od ilości pobranego gazu na podstawie umowy zawartej przed dniem 1 maja 2004 r., dla danego wytwórcy obliczony z uwzględnieniem poniesionych kosztów jego dostarczania, wyrażony w złotych na MWh, J kw – średnioroczny koszt węgla zużywanego na wytworzenie energii elektrycznej w jednostkach wytwórczych centralnie dysponowanych opalanych węglem na terenie Rzeczypospolitej Polskiej obliczony z uwzględnieniem kosztów jego transportu, wyrażony w złotych na MWh,"
+       "text": "Jkg – średnioroczny koszt gazu ziemnego nabytego w ramach obowiązku zapłaty za określoną jego ilość, niezależnie od ilości pobranego gazu na podstawie umowy zawartej przed dniem 1 maja 2004 r., dla danego wytwórcy obliczony z uwzględnieniem poniesionych kosztów jego dostarczania, wyrażony w złotych na MWh, Jkw – średnioroczny koszt węgla zużywanego na wytworzenie energii elektrycznej w jednostkach wytwórczych centralnie dysponowanych opalanych węglem na terenie Rzeczypospolitej Polskiej obliczony z uwzględnieniem kosztów jego transportu, wyrażony w złotych na MWh,"
       },
       {
        "type": "text",
-       "text": "W g – współczynnik korygujący, którego wartość wynosi:"
+       "text": "Wg – współczynnik korygujący, którego wartość wynosi:"
       },
       {
        "type": "tir",
@@ -2751,15 +2751,15 @@
        "children": [
         {
          "type": "text",
-         "text": "J – kgk dla pozostałych wytwórców, gdzie: J kgs"
+         "text": "Jkgk – dla pozostałych wytwórców, gdzie: Jkgs"
         },
         {
          "type": "text",
-         "text": "J kgk – średnioroczny koszt gazu ziemnego dla wytwórców nabywających gaz ziemny pochodzący ze złóż krajowych w danym roku obliczony z uwzględnieniem poniesionych kosztów jego dostarczania, wyrażony w złotych na MWh,"
+         "text": "Jkgk – średnioroczny koszt gazu ziemnego dla wytwórców nabywających gaz ziemny pochodzący ze złóż krajowych w danym roku obliczony z uwzględnieniem poniesionych kosztów jego dostarczania, wyrażony w złotych na MWh,"
         },
         {
          "type": "text",
-         "text": "J kgs – średnioroczny koszt gazu ziemnego dla pozostałych wytwórców w danym roku obliczony z uwzględnieniem poniesionych kosztów jego dostarczania, wyrażony w złotych na MWh."
+         "text": "Jkgs – średnioroczny koszt gazu ziemnego dla pozostałych wytwórców w danym roku obliczony z uwzględnieniem poniesionych kosztów jego dostarczania, wyrażony w złotych na MWh."
         }
        ]
       }
@@ -2840,7 +2840,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_46/ust_1",
-       "text": "Prezes URE, do dnia 31 lipca każdego roku kalendarzowego „i”, w drodze decyzji administracyjnej, ustala dla wytwórcy wymienionego w załączniku nr 8 do ustawy wysokość korekty rocznej kosztów, o których mowa w art. 44, oznaczoną symbolem ∆ K Ogaz(i–1) , dla roku poprzedzającego dany rok kalendarzowy, według wzoru:",
+       "text": "Prezes URE, do dnia 31 lipca każdego roku kalendarzowego „i”, w drodze decyzji administracyjnej, ustala dla wytwórcy wymienionego w załączniku nr 8 do ustawy wysokość korekty rocznej kosztów, o których mowa w art. 44, oznaczoną symbolem ∆ KOgaz(i–1), dla roku poprzedzającego dany rok kalendarzowy, według wzoru:",
        "children": [
         {
          "type": "text",
@@ -2852,11 +2852,11 @@
         },
         {
          "type": "text",
-         "text": "K Ogaz(i–1) – kwota kosztów, o których mowa w art. 44, dla roku „i–1”, obliczana według wzoru:"
+         "text": "KOgaz(i–1) – kwota kosztów, o których mowa w art. 44, dla roku „i–1”, obliczana według wzoru:"
         },
         {
          "type": "text",
-         "text": "[ ( ) ( ) ] K = A J − J − C − C W"
+         "text": "[ ( ) ( ) ] KOgaz(i = Ai − Jkg(i − − Jkw(i − − Cg(i − − Cw(i − Wg"
         },
         {
          "type": "text",
@@ -2864,23 +2864,23 @@
         },
         {
          "type": "text",
-         "text": "A i–1 – ilość energii elektrycznej wytworzoną przez danego wytwórcę w roku „i–1”, wynikającą z ilości gazu zakupionego na podstawie umowy z dostawcą paliwa gazowego, obowiązującej w roku „i–1”,"
+         "text": "Ai–1 – ilość energii elektrycznej wytworzoną przez danego wytwórcę w roku „i–1”, wynikającą z ilości gazu zakupionego na podstawie umowy z dostawcą paliwa gazowego, obowiązującej w roku „i–1”,"
         },
         {
          "type": "text",
-         "text": "J kg(i–1) – średnioroczny faktyczny koszt gazu na jedną megawatogodzinę produkcji w roku „i–1” poniesiony przez danego wytwórcę, obliczony z uwzględnieniem całości opłat poniesionych w roku „i–1” na rzecz dostawcy gazu oraz kosztów przesyłu gazu,"
+         "text": "Jkg(i–1) – średnioroczny faktyczny koszt gazu na jedną megawatogodzinę produkcji w roku „i–1” poniesiony przez danego wytwórcę, obliczony z uwzględnieniem całości opłat poniesionych w roku „i–1” na rzecz dostawcy gazu oraz kosztów przesyłu gazu,"
         },
         {
          "type": "text",
-         "text": "J kw(i–1) – średnioroczny jednostkowy koszt węgla zużywanego na wytworzenie jednej megawatogodziny energii elektrycznej w roku „i–1” u wytwórców eksploatujących jednostki centralnie dysponowane opalane węglem, z uwzględnieniem kosztów transportu węgla, C g(i–1) – średnią cenę energii elektrycznej wytworzonej przez danego wytwórcę w jednostkach opalanych gazem w roku „i–1”,"
+         "text": "Jkw(i–1) – średnioroczny jednostkowy koszt węgla zużywanego na wytworzenie jednej megawatogodziny energii elektrycznej w roku „i–1” u wytwórców eksploatujących jednostki centralnie dysponowane opalane węglem, z uwzględnieniem kosztów transportu węgla, Cg(i–1) – średnią cenę energii elektrycznej wytworzonej przez danego wytwórcę w jednostkach opalanych gazem w roku „i–1”,"
         },
         {
          "type": "text",
-         "text": "C w(i–1) – średnią cenę energii elektrycznej wytworzonej w jednostkach centralnie dysponowanych opalanych węglem w roku „i–1”,"
+         "text": "Cw(i–1) – średnią cenę energii elektrycznej wytworzonej w jednostkach centralnie dysponowanych opalanych węglem w roku „i–1”,"
         },
         {
          "type": "text",
-         "text": "W g – współczynnik korygujący, którego wartość wynosi:"
+         "text": "Wg – współczynnik korygujący, którego wartość wynosi:"
         },
         {
          "type": "tir",
@@ -2890,7 +2890,7 @@
          "children": [
           {
            "type": "text",
-           "text": "J – kgk(i-1) dla pozostałych wytwórców, J kgs(i-1)"
+           "text": "Jkgk(i-1) – dla pozostałych wytwórców, Jkgs(i-1)"
           },
           {
            "type": "text",
@@ -2898,15 +2898,15 @@
           },
           {
            "type": "text",
-           "text": "J kgk(i–1) – średnioroczny koszt gazu ziemnego dla wytwórców nabywających gaz ziemny pochodzący ze złóż krajowych w roku „i–1” obliczony z uwzględnieniem poniesionych kosztów jego dostarczania, wyrażony w złotych na MWh,"
+           "text": "Jkgk(i–1) – średnioroczny koszt gazu ziemnego dla wytwórców nabywających gaz ziemny pochodzący ze złóż krajowych w roku „i–1” obliczony z uwzględnieniem poniesionych kosztów jego dostarczania, wyrażony w złotych na MWh,"
           },
           {
            "type": "text",
-           "text": "J kgs(i–1) – średnioroczny koszt gazu ziemnego dla pozostałych wytwórców w roku „i–1” obliczony z uwzględnieniem poniesionych kosztów jego dostarczania, wyrażony w złotych na MWh,"
+           "text": "Jkgs(i–1) – średnioroczny koszt gazu ziemnego dla pozostałych wytwórców w roku „i–1” obliczony z uwzględnieniem poniesionych kosztów jego dostarczania, wyrażony w złotych na MWh,"
           },
           {
            "type": "text",
-           "text": "K ogazf(i–1) – kwota zaliczki wypłaconej wytwórcy za rok „i–1” z tytułu pokrycia kosztów, o których mowa w art. 44."
+           "text": "Kogazf(i–1) – kwota zaliczki wypłaconej wytwórcy za rok „i–1” z tytułu pokrycia kosztów, o których mowa w art. 44."
           }
          ]
         }
@@ -2923,7 +2923,7 @@
        "type": "ust",
        "num": "3",
        "path": "art_46/ust_3",
-       "text": "W przypadku gdy w danym roku średnia cena energii elektrycznej wytworzonej przez danego wytwórcę w jednostkach opalanych gazem oznaczona symbolem C g(i–1) jest mniejsza bądź równa średniej cenie energii elektrycznej wytworzonej w jednostkach centralnie dysponowanych opalanych węglem oznaczonej symbolem C w(i–1) , przyjmuje się we wzorze, o którym mowa w ust. 1, wartość tej różnicy równą zero.",
+       "text": "W przypadku gdy w danym roku średnia cena energii elektrycznej wytworzonej przez danego wytwórcę w jednostkach opalanych gazem oznaczona symbolem Cg(i–1) jest mniejsza bądź równa średniej cenie energii elektrycznej wytworzonej w jednostkach centralnie dysponowanych opalanych węglem oznaczonej symbolem Cw(i–1), przyjmuje się we wzorze, o którym mowa w ust. 1, wartość tej różnicy równą zero.",
        "children": []
       },
       {
@@ -4325,7 +4325,7 @@
     },
     {
      "type": "text",
-     "text": "i OAZ3i OZ3i j = 2007 j k ∑ j i − 1 dk(i − 1) O(i − 1) OZ3(i − 1) i − 2006 j = 2007 j OZW(i − 1) 1 Ogaz kg kw g Ogaz(i − 1) Ogaz(i − 1) Ogazf(i − 1) Ogaz(i − 1) i − 1 kg(i − 1) kw(i − 1) g(i − 1) w(i − 1) g"
+     "text": "i OAZ3i OZ3i j = 2007 j i − 1 dk(i − 1) O(i − 1) OZ3(i − 1) i − 2006 j = 2007 j OZW(i − 1) 1 Ogaz(i − 1) Ogaz(i − 1) Ogazf(i − 1) − 1) 1 1) 1) 1) 1)"
     }
    ]
   }

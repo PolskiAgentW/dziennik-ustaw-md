@@ -1,7 +1,7 @@
 {
  "eli": "DU/2022/1634",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 lipca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o finansach publicznych",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2022/1634/text.pdf",
  "body": [
   {
@@ -426,12 +426,12 @@
       },
       {
        "type": "text",
-       "text": "1. Do obliczenia kwoty wydatków WYD , o której mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, na rok 2022 przyjmuje n się kwotę wydatków WYD , o której mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, równą 978 191 n−1 513 tys. zł.",
+       "text": "1. Do obliczenia kwoty wydatków WYDn, o której mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, na rok 2022 przyjmuje się kwotę wydatków WYDn−1, o której mowa w art. 112aa ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, równą 978 191 513 tys. zł.",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "2. W przypadku, o którym mowa w art. 112d ust. 4 pkt 2 albo 3 ustawy zmienianej w art. 1, kwota wydatków WYD S , o której mowa w art. 112d ust. 3 ustawy zmienianej w art. 1, na rok 2022 jest obliczana z uwzględnieniem kwoty s+i wydatków WYD n obliczonej z uwzględnieniem ust. 1.",
+       "text": "2. W przypadku, o którym mowa w art. 112d ust. 4 pkt 2 albo 3 ustawy zmienianej w art. 1, kwota wydatków WYDs+iS , o której mowa w art. 112d ust. 3 ustawy zmienianej w art. 1, na rok 2022 jest obliczana z uwzględnieniem kwoty wydatków WYDn obliczonej z uwzględnieniem ust. 1.",
        "quoted": true
       },
       {
@@ -9025,7 +9025,7 @@
        "children": [
         {
          "type": "text",
-         "text": "WYD n =WYD n−1 ∙E n−1 (CCPI)∙[WPKB n +K n ]+E n (∆DD n )"
+         "text": "WYDn =WYDn−1 ∙En−1(CCPI)∙[WPKBn +Kn]+En(∆DDn)"
         },
         {
          "type": "text",
@@ -9033,7 +9033,7 @@
         },
         {
          "type": "text",
-         "text": "₈ PKB PKB PKB WPKB = √ n−2 ∙E ( n−1 )∙E ( n ) n PKB n−8 n PKB n−2 n PKB n−1"
+         "text": "₈ PKBn−2 PKBn−1 PKBn WPKBn = √ ∙En ( )∙En ( ) PKBn−8 PKBn−2 PKBn−1"
         },
         {
          "type": "text",
@@ -9057,39 +9057,39 @@
         },
         {
          "type": "text",
-         "text": "WYD n – kwota wydatków określona w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi,"
+         "text": "WYDn – kwota wydatków określona w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi,"
         },
         {
          "type": "text",
-         "text": "WYD n−1 – kwota wydatków określona w projekcie ustawy budżetowej na rok n-1 przedłożonym Sejmowi,"
+         "text": "WYDn−1 – kwota wydatków określona w projekcie ustawy budżetowej na rok n-1 przedłożonym Sejmowi,"
         },
         {
          "type": "text",
-         "text": "E (CCPI) – poziom średniookresowego celu inflacyjnego określonego na rok n-1 przez Radę Polityki Pieniężn−1 nej w założeniach polityki pieniężnej, o których mowa w art. 227 ust. 6 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. poz. 483, z 2001 r. poz. 319, z 2006 r. poz. 1471 oraz z 2009 r. poz. 946), ogłoszonych w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”,"
+         "text": "En−1(CCPI) – poziom średniookresowego celu inflacyjnego określonego na rok n-1 przez Radę Polityki Pieniężnej w założeniach polityki pieniężnej, o których mowa w art. 227 ust. 6 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. poz. 483, z 2001 r. poz. 319, z 2006 r. poz. 1471 oraz z 2009 r. poz. 946), ogłoszonych w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”,"
         },
         {
          "type": "text",
-         "text": "WPKB – wskaźnik średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych określony n w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi z dokładnością do setnych części procentu,"
+         "text": "WPKBn – wskaźnik średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych określony w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi z dokładnością do setnych części procentu,"
         },
         {
          "type": "text",
-         "text": "K n – wielkość korekty kwoty wydatków określonej w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi,"
+         "text": "Kn – wielkość korekty kwoty wydatków określonej w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi,"
         },
         {
          "type": "text",
-         "text": "PKB ⁄ PKB[^46] – ogłoszona przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2 łączna n−2 dynamika n−8 wartości produktu krajowego brutto; jeżeli w latach od n−8 do n−2 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6,"
+         "text": "PKBn−2⁄ PKBn−8[^46] – ogłoszona przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2 łączna dynamika wartości produktu krajowego brutto; jeżeli w latach od n−8 do n−2 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6,"
         },
         {
          "type": "text",
-         "text": "E (PKB ⁄ PKB )[^47] – prognozowana w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi roczna n dynamika n−1 wartości n−2 produktu krajowego brutto w cenach stałych w roku n−1; jeżeli w latach n−1 i n−2 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6,"
+         "text": "En(PKBn−1⁄ PKBn−2)[^47] – prognozowana w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n−1; jeżeli w latach n−1 i n−2 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6,"
         },
         {
          "type": "text",
-         "text": "E (PKB ⁄ PKB )[^48] – prognozowana w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi roczna n dynamika n n−1 wartości produktu krajowego brutto w cenach stałych w roku n; jeżeli w latach n i n−1 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6,"
+         "text": "En(PKBn⁄ PKBn−1)[^48] – prognozowana w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n; jeżeli w latach n i n−1 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6,"
         },
         {
          "type": "text",
-         "text": "E (∆DD ) – prognozowana wartość ogółem działań dyskrecjonalnych, o których mowa w rozporządzeniu wymien nionym n w art. 104 ust. 1 pkt 1, w zakresie podatków i składek na ubezpieczenia społeczne, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 549/2013 z dnia 21 maja 2013 r. w sprawie europejskiego systemu rachunków narodowych i regionalnych w Unii Europejskiej (Dz. Urz. UE L 174 z 26.06.2013, s. 1, z późn. zm.), planowanych na rok n, jeżeli wartość każdego z nich przekracza 0,03% wartości produktu krajowego brutto prognozowanej w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi; w przypadku planowanej w roku n rezygnacji z działań dyskrecjonalnych dokonanych w latach poprzednich, w prognozowanej wartości ogółem działań dyskrecjonalnych w roku n uwzględnia się wpływ na kwotę WYD dokonanych działań dyskrecjonalnych, który wystąpiłby w przypadku braku rezygnacji z tych działań w n roku n."
+         "text": "En(∆DDn) – prognozowana wartość ogółem działań dyskrecjonalnych, o których mowa w rozporządzeniu wymienionym w art. 104 ust. 1 pkt 1, w zakresie podatków i składek na ubezpieczenia społeczne, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 549/2013 z dnia 21 maja 2013 r. w sprawie europejskiego systemu rachunków narodowych i regionalnych w Unii Europejskiej (Dz. Urz. UE L 174 z 26.06.2013, s. 1, z późn. zm.), planowanych na rok n, jeżeli wartość każdego z nich przekracza 0,03% wartości produktu krajowego brutto prognozowanej w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi; w przypadku planowanej w roku n rezygnacji z działań dyskrecjonalnych dokonanych w latach poprzednich, w prognozowanej wartości ogółem działań dyskrecjonalnych w roku n uwzględnia się wpływ na kwotę WYDn dokonanych działań dyskrecjonalnych, który wystąpiłby w przypadku braku rezygnacji z tych działań w roku n."
         }
        ]
       },
@@ -9225,12 +9225,12 @@
            "type": "lit",
            "num": "a",
            "path": "art_112aa/ust_4/pkt_2/lit_a",
-           "text": "[^59] wartość relacji wyniku nominalnego do produktu krajowego brutto jest w roku n−2, o którym mowa w ust. 1, nie mniejsza niż −3% oraz wartość relacji, o której mowa w art. 38a pkt 4, jest w roku n−2 większa od 43%, a nie większa od 48% oraz prognozowana w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi dynamika wartości produktu krajowego brutto w cenach stałych w roku n nie jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKB n , o którym mowa w ust. 1, albo",
+           "text": "[^59] wartość relacji wyniku nominalnego do produktu krajowego brutto jest w roku n−2, o którym mowa w ust. 1, nie mniejsza niż −3% oraz wartość relacji, o której mowa w art. 38a pkt 4, jest w roku n−2 większa od 43%, a nie większa od 48% oraz prognozowana w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi dynamika wartości produktu krajowego brutto w cenach stałych w roku n nie jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKBn, o którym mowa w ust. 1, albo",
            "children": []
           },
           {
            "type": "text",
-           "text": "b)[^59]wartość relacji wyniku nominalnego do produktu krajowego brutto jest w roku n−2, o którym mowa w ust. 1, nie mniejsza niż −3% oraz wartość relacji, o której mowa w art. 38a pkt 4, jest w roku n−2 nie większa niż 43% oraz suma, obliczona zgodnie z ust. 5, jest w roku n−2 mniejsza od −6% oraz prognozowana w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi dynamika wartości produktu krajowego brutto w cenach stałych w roku n nie jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKB n , o którym mowa w ust. 1, albo"
+           "text": "b)[^59]wartość relacji wyniku nominalnego do produktu krajowego brutto jest w roku n−2, o którym mowa w ust. 1, nie mniejsza niż −3% oraz wartość relacji, o której mowa w art. 38a pkt 4, jest w roku n−2 nie większa niż 43% oraz suma, obliczona zgodnie z ust. 5, jest w roku n−2 mniejsza od −6% oraz prognozowana w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi dynamika wartości produktu krajowego brutto w cenach stałych w roku n nie jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKBn, o którym mowa w ust. 1, albo"
           }
          ]
         },
@@ -9238,7 +9238,7 @@
          "type": "pkt",
          "num": "3",
          "path": "art_112aa/ust_4/pkt_3",
-         "text": "[^60] plus półtora punktu procentowego – jeżeli wartość relacji wyniku nominalnego do produktu krajowego brutto jest w roku n−2, o którym mowa w ust. 1, nie mniejsza niż −3% oraz wartość relacji, o której mowa w art. 38a pkt 4, jest w roku n−2 nie większa niż 43% oraz suma, obliczona zgodnie z ust. 5, jest w roku n−2 większa od 6% oraz prognozowana w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi dynamika wartości produktu krajowego brutto w cenach stałych w roku n nie jest większa o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKB n , o którym mowa w ust. 1, albo",
+         "text": "[^60] plus półtora punktu procentowego – jeżeli wartość relacji wyniku nominalnego do produktu krajowego brutto jest w roku n−2, o którym mowa w ust. 1, nie mniejsza niż −3% oraz wartość relacji, o której mowa w art. 38a pkt 4, jest w roku n−2 nie większa niż 43% oraz suma, obliczona zgodnie z ust. 5, jest w roku n−2 większa od 6% oraz prognozowana w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi dynamika wartości produktu krajowego brutto w cenach stałych w roku n nie jest większa o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKBn, o którym mowa w ust. 1, albo",
          "children": []
         },
         {
@@ -9315,7 +9315,7 @@
         },
         {
          "type": "text",
-         "text": "– jeżeli prognozowana w projekcie ustawy budżetowej na rok, na który jest obliczana kwota wydatków, o której mowa w art. 112aa ust. 1, przedłożonym Sejmowi lub w projekcie ustawy zmieniającej ustawę budżetową na rok, na który jest obliczana kwota wydatków, o której mowa w art. 112aa ust. 1, przedłożonym Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKB n , o którym mowa w art. 112aa ust. 1, określonego w projekcie ustawy budżetowej na ostatni rok, w którym nie zostały spełnione warunki określone w niniejszym ustępie, przedłożonym Sejmowi.[^61]"
+         "text": "– jeżeli prognozowana w projekcie ustawy budżetowej na rok, na który jest obliczana kwota wydatków, o której mowa w art. 112aa ust. 1, przedłożonym Sejmowi lub w projekcie ustawy zmieniającej ustawę budżetową na rok, na który jest obliczana kwota wydatków, o której mowa w art. 112aa ust. 1, przedłożonym Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKBn, o którym mowa w art. 112aa ust. 1, określonego w projekcie ustawy budżetowej na ostatni rok, w którym nie zostały spełnione warunki określone w niniejszym ustępie, przedłożonym Sejmowi.[^61]"
         }
        ]
       },
@@ -9334,15 +9334,15 @@
        "children": [
         {
          "type": "text",
-         "text": "k−i WYD S = WYD + (S +S ′ ) s+i n k s s w którym poszczególne symbole oznaczają:"
+         "text": "k−i WYD Ss+i = WYDn + (Ss +S ′ ) k s w którym poszczególne symbole oznaczają:"
         },
         {
          "type": "text",
-         "text": "WYD S – kwota wydatków, o której mowa w art. 112aa ust. 1, powiększona o sumę skutków finansowych zwiąs+i zanych ze stanem, o którym mowa w ust. 1,"
+         "text": "WYD Ss+i – kwota wydatków, o której mowa w art. 112aa ust. 1, powiększona o sumę skutków finansowych związanych ze stanem, o którym mowa w ust. 1,"
         },
         {
          "type": "text",
-         "text": "WYD n – kwota wydatków, o której mowa w art. 112aa ust. 1,"
+         "text": "WYDn – kwota wydatków, o której mowa w art. 112aa ust. 1,"
         },
         {
          "type": "text",
@@ -9362,7 +9362,7 @@
         },
         {
          "type": "text",
-         "text": "S – suma prognozowanych w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi lub w projekcie s ustawy zmieniającej ustawę budżetową na rok n przedłożonym Sejmowi skutków finansowych po stronie dochodów i wydatków wynikających z działań dyskrecjonalnych bezpośrednio nakierowanych na powstrzymanie skutków stanu, o którym mowa w ust. 1, i walkę z tymi skutkami oraz na bezpośrednie wsparcie dotkniętych nim podmiotów,"
+         "text": "Ss – suma prognozowanych w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi lub w projekcie ustawy zmieniającej ustawę budżetową na rok n przedłożonym Sejmowi skutków finansowych po stronie dochodów i wydatków wynikających z działań dyskrecjonalnych bezpośrednio nakierowanych na powstrzymanie skutków stanu, o którym mowa w ust. 1, i walkę z tymi skutkami oraz na bezpośrednie wsparcie dotkniętych nim podmiotów,"
         },
         {
          "type": "text",
@@ -9380,14 +9380,14 @@
          "type": "pkt",
          "num": "1",
          "path": "art_112d/ust_4/pkt_1",
-         "text": "[^63] drugi – jeżeli średnia dynamika wartości produktu krajowego brutto w cenach stałych w roku s, o którym mowa w ust. 3, oraz roku następującym po roku s, o którym mowa w ust. 3, prognozowana w projekcie ustawy budżetowej na rok n, o którym mowa w ust. 3, przedłożonym Sejmowi lub w projekcie ustawy zmieniającej ustawę budżetową na rok n, o którym mowa w ust. 3, przedłożonym Sejmowi nie jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKB n , o którym mowa w art. 112aa ust. 1, określonego w projekcie ustawy budżetowej na ostatni rok, w którym nie zostały spełnione warunki określone w ust. 1, przedłożonym Sejmowi, albo",
+         "text": "[^63] drugi – jeżeli średnia dynamika wartości produktu krajowego brutto w cenach stałych w roku s, o którym mowa w ust. 3, oraz roku następującym po roku s, o którym mowa w ust. 3, prognozowana w projekcie ustawy budżetowej na rok n, o którym mowa w ust. 3, przedłożonym Sejmowi lub w projekcie ustawy zmieniającej ustawę budżetową na rok n, o którym mowa w ust. 3, przedłożonym Sejmowi nie jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKBn, o którym mowa w art. 112aa ust. 1, określonego w projekcie ustawy budżetowej na ostatni rok, w którym nie zostały spełnione warunki określone w ust. 1, przedłożonym Sejmowi, albo",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "art_112d/ust_4/pkt_2",
-         "text": "[^63] trzeci – jeżeli średnia dynamika wartości produktu krajowego brutto w cenach stałych w roku s, o którym mowa w ust. 3, oraz roku następującym po roku s, o którym mowa w ust. 3, prognozowana w projekcie ustawy budżetowej na rok n, o którym mowa w ust. 3, przedłożonym Sejmowi lub w projekcie ustawy zmieniającej ustawę budżetową na rok n, o którym mowa w ust. 3, przedłożonym Sejmowi jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKB n , o którym mowa w art. 112aa ust. 1, określonego w projekcie ustawy budżetowej na ostatni rok, w którym nie zostały spełnione warunki określone w ust. 1, przedłożonym Sejmowi, oraz jeżeli średnia dynamika wartości produktu krajowego brutto w cenach stałych w roku s, o którym mowa w ust. 3, oraz dwóch latach następujących po roku s, o którym mowa w ust. 3, prognozowana w projekcie ustawy budżetowej na rok n, o którym mowa w ust. 3, przedłożonym Sejmowi lub w projekcie ustawy zmieniającej ustawę budżetową na rok n, o którym mowa w ust. 3, przedłożonym Sejmowi, nie jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKB n , o którym mowa w art. 112aa ust. 1, określonego w projekcie ustawy budżetowej na ostatni rok, w którym nie zostały spełnione warunki określone w ust. 1, przedłożonym Sejmowi, albo",
+         "text": "[^63] trzeci – jeżeli średnia dynamika wartości produktu krajowego brutto w cenach stałych w roku s, o którym mowa w ust. 3, oraz roku następującym po roku s, o którym mowa w ust. 3, prognozowana w projekcie ustawy budżetowej na rok n, o którym mowa w ust. 3, przedłożonym Sejmowi lub w projekcie ustawy zmieniającej ustawę budżetową na rok n, o którym mowa w ust. 3, przedłożonym Sejmowi jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKBn, o którym mowa w art. 112aa ust. 1, określonego w projekcie ustawy budżetowej na ostatni rok, w którym nie zostały spełnione warunki określone w ust. 1, przedłożonym Sejmowi, oraz jeżeli średnia dynamika wartości produktu krajowego brutto w cenach stałych w roku s, o którym mowa w ust. 3, oraz dwóch latach następujących po roku s, o którym mowa w ust. 3, prognozowana w projekcie ustawy budżetowej na rok n, o którym mowa w ust. 3, przedłożonym Sejmowi lub w projekcie ustawy zmieniającej ustawę budżetową na rok n, o którym mowa w ust. 3, przedłożonym Sejmowi, nie jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKBn, o którym mowa w art. 112aa ust. 1, określonego w projekcie ustawy budżetowej na ostatni rok, w którym nie zostały spełnione warunki określone w ust. 1, przedłożonym Sejmowi, albo",
          "children": []
         },
         {
@@ -9410,14 +9410,14 @@
        "type": "ust",
        "num": "6",
        "path": "art_112d/ust_6",
-       "text": "[^64] Obliczając kwotę wydatków, o której mowa w ust. 3 oraz art. 112aa ust. 1, roczną dynamikę wartości produktu krajowego brutto w cenach stałych w roku s, o którym mowa w ust. 3, oraz latach i, o których mowa w ust. 3, zastępuje się wskaźnikiem średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKB n , o którym mowa w art. 112aa ust. 1, określonym w projekcie ustawy budżetowej na ostatni rok, w którym nie zostały spełnione warunki określone w ust. 1, przedłożonym Sejmowi, z dokładnością do setnych części procentu.",
+       "text": "[^64] Obliczając kwotę wydatków, o której mowa w ust. 3 oraz art. 112aa ust. 1, roczną dynamikę wartości produktu krajowego brutto w cenach stałych w roku s, o którym mowa w ust. 3, oraz latach i, o których mowa w ust. 3, zastępuje się wskaźnikiem średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKBn, o którym mowa w art. 112aa ust. 1, określonym w projekcie ustawy budżetowej na ostatni rok, w którym nie zostały spełnione warunki określone w ust. 1, przedłożonym Sejmowi, z dokładnością do setnych części procentu.",
        "children": []
       },
       {
        "type": "ust",
        "num": "7",
        "path": "art_112d/ust_7",
-       "text": "[^64] Obliczając kwotę wydatków, o której mowa w art. 112aa ust. 1, na rok, w którym zostały spełnione warunki określone w ust. 1, i lata następujące po tym roku, do roku poprzedzającego rok, o którym mowa w ust. 4, nie stosuje się korekty kwoty wydatków K n , o której mowa w art. 112aa ust. 1.",
+       "text": "[^64] Obliczając kwotę wydatków, o której mowa w art. 112aa ust. 1, na rok, w którym zostały spełnione warunki określone w ust. 1, i lata następujące po tym roku, do roku poprzedzającego rok, o którym mowa w ust. 4, nie stosuje się korekty kwoty wydatków Kn, o której mowa w art. 112aa ust. 1.",
        "children": []
       },
       {

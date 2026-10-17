@@ -1,7 +1,7 @@
 {
  "eli": "DU/2024/182",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 stycznia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2024/182/text.pdf",
  "body": [
   {
@@ -893,7 +893,7 @@
         },
         {
          "type": "text",
-         "text": "PI = ∑(PI ∗∏(1+r )) c i i"
+         "text": "PIc = ∑(PIi ∗∏(1+ri))"
         },
         {
          "type": "text",
@@ -905,11 +905,11 @@
         },
         {
          "type": "text",
-         "text": "PI c – sumę zwaloryzowanej wartości pomocy inwestycyjnej, wyrażoną w złotych,"
+         "text": "PIc – sumę zwaloryzowanej wartości pomocy inwestycyjnej, wyrażoną w złotych,"
         },
         {
          "type": "text",
-         "text": "PI i – wartość w roku „i” pomocy inwestycyjnej, wyrażoną w złotych, udzieloną w danym roku „i”,"
+         "text": "PIi – wartość w roku „i” pomocy inwestycyjnej, wyrażoną w złotych, udzieloną w danym roku „i”,"
         },
         {
          "type": "text",
@@ -921,11 +921,11 @@
         },
         {
          "type": "text",
-         "text": "u – rok kalendarzowy, w którym po raz pierwszy udzielono pomocy inwestycyjnej oznaczonej symbolem PI i , przeznaczonej na realizację inwestycji w zakresie danej morskiej farmy wiatrowej, wraz z zespołem urządzeń służących do wyprowadzenia mocy,"
+         "text": "u – rok kalendarzowy, w którym po raz pierwszy udzielono pomocy inwestycyjnej oznaczonej symbolem PIi, przeznaczonej na realizację inwestycji w zakresie danej morskiej farmy wiatrowej, wraz z zespołem urządzeń służących do wyprowadzenia mocy,"
         },
         {
          "type": "text",
-         "text": "r i – stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „i” określonym w komunikacie Prezesa Głównego Urzędu Statystycznego, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość r i dla roku kalendarzowego „j” wynosi 0; w przypadku gdy do dnia złożenia wniosku, o którym mowa w ust. 5, stopa referencyjna w roku „i” nie została ogłoszona, należy przyjąć spadek lub wzrost wskaźnika cen towarów i usług konsumpcyjnych z listopada roku „i” w ujęciu rok do roku."
+         "text": "ri – stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „i” określonym w komunikacie Prezesa Głównego Urzędu Statystycznego, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość ri dla roku kalendarzowego „j” wynosi 0; w przypadku gdy do dnia złożenia wniosku, o którym mowa w ust. 5, stopa referencyjna w roku „i” nie została ogłoszona, należy przyjąć spadek lub wzrost wskaźnika cen towarów i usług konsumpcyjnych z listopada roku „i” w ujęciu rok do roku."
         }
        ]
       },
@@ -937,7 +937,7 @@
        "children": [
         {
          "type": "text",
-         "text": "PI C =C − c s o I"
+         "text": "PIc Cs =Co − I"
         },
         {
          "type": "text",
@@ -945,15 +945,15 @@
         },
         {
          "type": "text",
-         "text": "C s – cenę skorygowaną, wyrażoną w zł/MWh; w przypadku nieudzielenia pomocy inwestycyjnej, o której mowa w ust. 1, wartość C s jest równa wartości C o ,"
+         "text": "Cs – cenę skorygowaną, wyrażoną w zł/MWh; w przypadku nieudzielenia pomocy inwestycyjnej, o której mowa w ust. 1, wartość Cs jest równa wartości Co,"
         },
         {
          "type": "text",
-         "text": "C o – cenę wskazaną w decyzji, o której mowa w art. 18 ust. 1, albo wynikającą z oferty, o której mowa w art. 31 ust. 1, albo cenę skorygowaną, o której mowa w art. 11 ust. 3, z uwzględnieniem waloryzacji, o której mowa w art. 38 ust. 5, na dzień złożenia wniosku, o którym mowa w ust. 5,"
+         "text": "Co – cenę wskazaną w decyzji, o której mowa w art. 18 ust. 1, albo wynikającą z oferty, o której mowa w art. 31 ust. 1, albo cenę skorygowaną, o której mowa w art. 11 ust. 3, z uwzględnieniem waloryzacji, o której mowa w art. 38 ust. 5, na dzień złożenia wniosku, o którym mowa w ust. 5,"
         },
         {
          "type": "text",
-         "text": "PI c – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, obliczoną zgodnie z ust. 3,"
+         "text": "PIc – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, obliczoną zgodnie z ust. 3,"
         },
         {
          "type": "text",
@@ -976,27 +976,27 @@
        "children": [
         {
          "type": "text",
-         "text": "P P C =C − I + s gdzie poszczególne symbole oznaczają:"
+         "text": "P P Csn =Cs − I + s Ip Ip gdzie poszczególne symbole oznaczają:"
         },
         {
          "type": "text",
-         "text": "C sn – nową cenę skorygowaną, wyrażoną w zł/MWh, która staje się ceną skorygowaną (C s ) obowiązującą od miesiąca następującego po miesiącu złożenia oświadczenia, o którym mowa w zdaniu pierwszym, stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3,"
+         "text": "Csn – nową cenę skorygowaną, wyrażoną w zł/MWh, która staje się ceną skorygowaną (Cs) obowiązującą od miesiąca następującego po miesiącu złożenia oświadczenia, o którym mowa w zdaniu pierwszym, stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3,"
         },
         {
          "type": "text",
-         "text": "C s – cenę skorygowaną, wyrażoną w zł/MWh, z uwzględnieniem art. 38 ust. 5, obowiązującą do końca miesiąca, w którym złożono oświadczenie, o którym mowa w zdaniu pierwszym, stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3,"
+         "text": "Cs – cenę skorygowaną, wyrażoną w zł/MWh, z uwzględnieniem art. 38 ust. 5, obowiązującą do końca miesiąca, w którym złożono oświadczenie, o którym mowa w zdaniu pierwszym, stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3,"
         },
         {
          "type": "text",
-         "text": "P I – wysokość udzielonej pomocy inwestycyjnej lub wzrost jej wartości, wyrażone w złotych, udzielonej po dniu złożenia oświadczenia, o którym mowa w ust. 5, obliczone zgodnie z ust. 2,"
+         "text": "PI – wysokość udzielonej pomocy inwestycyjnej lub wzrost jej wartości, wyrażone w złotych, udzielonej po dniu złożenia oświadczenia, o którym mowa w ust. 5, obliczone zgodnie z ust. 2,"
         },
         {
          "type": "text",
-         "text": "P s – spadek wartości udzielonej pomocy inwestycyjnej, wyrażony w złotych, po dniu złożenia oświadczenia, o którym mowa w ust. 5, obliczony zgodnie z ust. 2,"
+         "text": "Ps – spadek wartości udzielonej pomocy inwestycyjnej, wyrażony w złotych, po dniu złożenia oświadczenia, o którym mowa w ust. 5, obliczony zgodnie z ust. 2,"
         },
         {
          "type": "text",
-         "text": "I p – ilość energii elektrycznej, wyrażonej w MWh, obliczoną zgodnie z art. 7, w oparciu o moc zainstalowaną elektryczną morskiej farmy wiatrowej, objętą wnioskiem o udzielenie lub zmianę koncesji na wytwarzanie energii elektrycznej, pomniejszoną o ilość energii elektrycznej, w odniesieniu do której wytwórca otrzymał kwotę przeznaczoną na pokrycie ujemnego salda do końca miesiąca poprzedzającego miesiąc, w którym udzielono pomocy P I , stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3."
+         "text": "Ip – ilość energii elektrycznej, wyrażonej w MWh, obliczoną zgodnie z art. 7, w oparciu o moc zainstalowaną elektryczną morskiej farmy wiatrowej, objętą wnioskiem o udzielenie lub zmianę koncesji na wytwarzanie energii elektrycznej, pomniejszoną o ilość energii elektrycznej, w odniesieniu do której wytwórca otrzymał kwotę przeznaczoną na pokrycie ujemnego salda do końca miesiąca poprzedzającego miesiąc, w którym udzielono pomocy PI, stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3."
         }
        ]
       },
@@ -3845,7 +3845,7 @@
        "children": [
         {
          "type": "text",
-         "text": "C OST_m =(1−U)×C CB +U× K C rozp CB ×K m−1 ,"
+         "text": "COST_m =(1−U)×CCB +U× K C rozp CB ×Km−1,"
         },
         {
          "type": "text",
@@ -3853,11 +3853,11 @@
         },
         {
          "type": "text",
-         "text": "C OST_m – przeliczoną cenę, wynikającą z decyzji, o której mowa w art. 18 ust. 1, albo z decyzji zmieniającej tę decyzję na podstawie art. 20 ust. 5, albo wynikającą z oferty, o której mowa w art. 31 ust. 1, albo cenę skorygowaną, o której mowa w art. 11 ust. 3 albo cenę skorygowaną, o której mowa w art. 10 ust. 4 i 6, będącą podstawą do złożenia w miesiącu m wniosku o pokrycia ujemnego salda, za miesiąc m-1, wyrażoną w zł/MWh,"
+         "text": "COST_m – przeliczoną cenę, wynikającą z decyzji, o której mowa w art. 18 ust. 1, albo z decyzji zmieniającej tę decyzję na podstawie art. 20 ust. 5, albo wynikającą z oferty, o której mowa w art. 31 ust. 1, albo cenę skorygowaną, o której mowa w art. 11 ust. 3 albo cenę skorygowaną, o której mowa w art. 10 ust. 4 i 6, będącą podstawą do złożenia w miesiącu m wniosku o pokrycia ujemnego salda, za miesiąc m-1, wyrażoną w zł/MWh,"
         },
         {
          "type": "text",
-         "text": "C CB – cenę, wynikającą z decyzji, o której mowa w art. 18 ust. 1, albo z decyzji zmieniającej tę decyzję na podstawie art. 20 ust. 5, albo wynikającą z oferty, o której mowa w art. 31 ust. 1, albo cenę skorygowaną, o której mowa w art. 11 ust. 3 albo cenę skorygowaną, o której mowa w art. 10 ust. 4 i 6, wyrażoną w zł/MWh,"
+         "text": "CCB – cenę, wynikającą z decyzji, o której mowa w art. 18 ust. 1, albo z decyzji zmieniającej tę decyzję na podstawie art. 20 ust. 5, albo wynikającą z oferty, o której mowa w art. 31 ust. 1, albo cenę skorygowaną, o której mowa w art. 11 ust. 3 albo cenę skorygowaną, o której mowa w art. 10 ust. 4 i 6, wyrażoną w zł/MWh,"
         },
         {
          "type": "text",
@@ -3865,11 +3865,11 @@
         },
         {
          "type": "text",
-         "text": "K rozp – kurs euro, ogłoszony w obwieszczeniu wydanym na podstawie art. 25a,"
+         "text": "Krozp – kurs euro, ogłoszony w obwieszczeniu wydanym na podstawie art. 25a,"
         },
         {
          "type": "text",
-         "text": "K m-1 – średni kurs euro w miesiącu m-1, poprzedzającym złożenie wniosku o pokrycie ujemnego salda, obliczony jako średnia arytmetyczna dobowych kursów euro w miesiącu m-1 ogłaszanych przez Narodowy Bank Polski."
+         "text": "Km-1 – średni kurs euro w miesiącu m-1, poprzedzającym złożenie wniosku o pokrycie ujemnego salda, obliczony jako średnia arytmetyczna dobowych kursów euro w miesiącu m-1 ogłaszanych przez Narodowy Bank Polski."
         }
        ]
       }
@@ -7167,7 +7167,7 @@
  "footnotes": {
   "1": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 151 z 08.06.2016, str. 21 i Dz. Urz. UE L 2 z 05.01.2018, str. 15.",
   "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1723, 2127, 2243, 2370 i 2687 oraz z 2023 r. poz. 295, 1506, 1597, 1681, 1688, 1693, 1762, 1785 i 2029.",
-  "3": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 350 z 29.12.2009, str. 59, Dz. Urz. UE L 145 z 31.05.2011, str. 30, Dz. Urz. UE L 174 z 01.07.2011, str. 1, Dz. Urz. UE L 146 z 31.05.2013, str. 1, Dz. Urz. UE L 153 z 22.05.2014, str. 1 oraz Dz. Urz. UE L 347 z 28.12.2017, str. 35. sn s I p I p",
+  "3": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 350 z 29.12.2009, str. 59, Dz. Urz. UE L 145 z 31.05.2011, str. 30, Dz. Urz. UE L 174 z 01.07.2011, str. 1, Dz. Urz. UE L 146 z 31.05.2013, str. 1, Dz. Urz. UE L 153 z 22.05.2014, str. 1 oraz Dz. Urz. UE L 347 z 28.12.2017, str. 35.",
   "4": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39.",
   "5": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1501, 1506, 1688, 1719, 1890, 1906 i 2029.",
   "6": "W brzmieniu ustalonym przez art. 10 pkt 1 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (Dz. U. poz. 1762), która weszła w życie z dniem 1 października 2023 r.; w tym brzmieniu nie stosuje się do dnia wydania pozytywnej decyzji Komisji Europejskiej o zgodności pomocy publicznej przewidzianej w tych przepisach z rynkiem wewnętrznym albo uznania przez Komisję Europejską, że zmiany przepisów nie stanowią nowej pomocy publicznej, na podstawie art. 48 wymienionej ustawy.",

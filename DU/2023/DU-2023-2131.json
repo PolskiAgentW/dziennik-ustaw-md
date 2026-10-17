@@ -1,7 +1,7 @@
 {
  "eli": "DU/2023/2131",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 września 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rynku mocy",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2023/2131/text.pdf",
  "body": [
   {
@@ -650,7 +650,7 @@
        "children": [
         {
          "type": "text",
-         "text": "0,0036∙(1−t )∙∑ p=n U ∙WE CO 2 p=1 p p EJ =  proj"
+         "text": "0,0036∙(1−tCO )∙∑ p=n Up ∙WEp EJ =² p=1  proj"
         },
         {
          "type": "text",
@@ -662,7 +662,7 @@
         },
         {
          "type": "text",
-         "text": "t CO – oznacza udział emisji dwutlenku węgla, która została przeniesiona z jednostki wytwórczej, a następnie ² wykorzystana w sposób, o którym mowa w art. 49 ust. 1 lit. a lub b rozporządzenia wykonawczego Komisji (UE) 2018/2066 z dnia 19 grudnia 2018 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz zmieniającego rozporządzenie Komisji (UE) nr 601/2012 (Dz. Urz. UE L 334 z 31.12.2018, str. 1, z późn. zm.[^4]), w całkowitej emisji tej jednostki, wyrażony w %,"
+         "text": "tCO – oznacza udział emisji dwutlenku węgla, która została przeniesiona z jednostki wytwórczej, a następnie ² wykorzystana w sposób, o którym mowa w art. 49 ust. 1 lit. a lub b rozporządzenia wykonawczego Komisji (UE) 2018/2066 z dnia 19 grudnia 2018 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz zmieniającego rozporządzenie Komisji (UE) nr 601/2012 (Dz. Urz. UE L 334 z 31.12.2018, str. 1, z późn. zm.[^4]), w całkowitej emisji tej jednostki, wyrażony w %,"
         },
         {
          "type": "text",
@@ -674,11 +674,11 @@
         },
         {
          "type": "text",
-         "text": "U p – oznacza udział energetyczny danego paliwa w całym paliwie dostarczanym do danej jednostki wytwórczej, w okresie całego roku kalendarzowego, wyrażony w %,"
+         "text": "Up – oznacza udział energetyczny danego paliwa w całym paliwie dostarczanym do danej jednostki wytwórczej, w okresie całego roku kalendarzowego, wyrażony w %,"
         },
         {
          "type": "text",
-         "text": "WE p – oznacza wskaźnik emisji dwutlenku węgla dla danego paliwa, wyznaczony tak jak na potrzeby raportowania emisji określonych w rozporządzeniu wykonawczym Komisji (UE) 2018/2066 z dnia 19 grudnia 2018 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz zmieniającym rozporządzenie Komisji (UE) nr 601/2012, wyrażony w kgCO₂/TJ,"
+         "text": "WEp – oznacza wskaźnik emisji dwutlenku węgla dla danego paliwa, wyznaczony tak jak na potrzeby raportowania emisji określonych w rozporządzeniu wykonawczym Komisji (UE) 2018/2066 z dnia 19 grudnia 2018 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz zmieniającym rozporządzenie Komisji (UE) nr 601/2012, wyrażony w kgCO₂/TJ,"
         },
         {
          "type": "text",
@@ -6491,7 +6491,7 @@
        "children": [
         {
          "type": "text",
-         "text": "∑ n=N Z n=1 S n ∆s=( N −1)∙100% ∑ m=M Z m=1 PS m M gdzie poszczególne symbole oznaczają:"
+         "text": "∑ n=N ZS n ∆s=( n=1 N −1)∙100% ∑ m=M ZPS m m=1 M gdzie poszczególne symbole oznaczają:"
         },
         {
          "type": "text",
@@ -6515,11 +6515,11 @@
         },
         {
          "type": "text",
-         "text": "Z Sn – wolumen energii elektrycznej pobranej z sieci i zużytej przez odbiorcę końcowego w godzinie n, wyrażony w MWh, z dokładnością do trzech miejsc po przecinku,"
+         "text": "ZSn – wolumen energii elektrycznej pobranej z sieci i zużytej przez odbiorcę końcowego w godzinie n, wyrażony w MWh, z dokładnością do trzech miejsc po przecinku,"
         },
         {
          "type": "text",
-         "text": "Z PSm – wolumen energii elektrycznej pobranej z sieci i zużytej przez odbiorcę końcowego w godzinie m, wyrażony w MWh, z dokładnością do trzech miejsc po przecinku."
+         "text": "ZPSm – wolumen energii elektrycznej pobranej z sieci i zużytej przez odbiorcę końcowego w godzinie m, wyrażony w MWh, z dokładnością do trzech miejsc po przecinku."
         }
        ]
       },
@@ -6531,7 +6531,7 @@
        "children": [
         {
          "type": "text",
-         "text": "∑ n=N Z n=1 S n ∆s=( N −1)∙100% ∑ m=M Z m=1 PS m M"
+         "text": "∑ n=N ZS n ∆s=( n=1 N −1)∙100% ∑ m=M ZPS m m=1 M"
         },
         {
          "type": "text",
@@ -6582,11 +6582,11 @@
        "children": [
         {
          "type": "text",
-         "text": "W =A∙Z ∙S OM K OM gdzie poszczególne symbole oznaczają:"
+         "text": "WOM =A∙ZK ∙SOM gdzie poszczególne symbole oznaczają:"
         },
         {
          "type": "text",
-         "text": "W OM – wysokość opłaty mocowej pobieranej od odbiorców końcowych, wyrażoną w zł, z dokładnością do dwóch miejsc po przecinku,"
+         "text": "WOM – wysokość opłaty mocowej pobieranej od odbiorców końcowych, wyrażoną w zł, z dokładnością do dwóch miejsc po przecinku,"
         },
         {
          "type": "text",
@@ -6594,11 +6594,11 @@
         },
         {
          "type": "text",
-         "text": "Z K – ilość energii elektrycznej pobranej z sieci i zużytej, w okresie kwalifikacji, przez odbiorcę końcowego w godzinach przypadających na godziny, o których mowa w art. 74 ust. 4 pkt 2, wyrażoną w MWh, z dokładnością do trzech miejsc po przecinku,"
+         "text": "ZK – ilość energii elektrycznej pobranej z sieci i zużytej, w okresie kwalifikacji, przez odbiorcę końcowego w godzinach przypadających na godziny, o których mowa w art. 74 ust. 4 pkt 2, wyrażoną w MWh, z dokładnością do trzech miejsc po przecinku,"
         },
         {
          "type": "text",
-         "text": "S OM – stawkę opłaty mocowej, o której mowa w art. 74 ust. 11."
+         "text": "SOM – stawkę opłaty mocowej, o której mowa w art. 74 ust. 11."
         }
        ]
       },
@@ -6610,7 +6610,7 @@
        "children": [
         {
          "type": "text",
-         "text": "W =A∙Z ∙S OM K OM"
+         "text": "WOM =A∙ZK ∙SOM"
         },
         {
          "type": "text",
@@ -6644,21 +6644,21 @@
          "type": "pkt",
          "num": "1",
          "path": "art_70a/ust_5/pkt_1",
-         "text": "0,17 dla odbiorców końcowych K1 (A K1 );",
+         "text": "0,17 dla odbiorców końcowych K1 (AK1);",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
          "path": "art_70a/ust_5/pkt_2",
-         "text": "0,50 dla odbiorców końcowych K2 (A K2 );",
+         "text": "0,50 dla odbiorców końcowych K2 (AK2);",
          "children": []
         },
         {
          "type": "pkt",
          "num": "3",
          "path": "art_70a/ust_5/pkt_3",
-         "text": "0,83 dla odbiorców końcowych K3 (A K3 );",
+         "text": "0,83 dla odbiorców końcowych K3 (AK3);",
          "children": []
         },
         {
@@ -6858,7 +6858,7 @@
        "children": [
         {
          "type": "text",
-         "text": "K C = K AG + K AD + K R – B,"
+         "text": "KC = K AG + K AD + KR – B,"
         },
         {
          "type": "text",
@@ -6866,15 +6866,15 @@
         },
         {
          "type": "text",
-         "text": "K C – całkowity koszt rynku mocy w danym roku dostaw,"
+         "text": "KC – całkowity koszt rynku mocy w danym roku dostaw,"
         },
         {
          "type": "text",
-         "text": "K AG – sumę iloczynów obowiązków mocowych i cen zamknięcia aukcji głównej na dany rok dostaw,"
+         "text": "KAG – sumę iloczynów obowiązków mocowych i cen zamknięcia aukcji głównej na dany rok dostaw,"
         },
         {
          "type": "text",
-         "text": "K AD – sumę iloczynów obowiązków mocowych i odpowiednich cen zamknięcia aukcji dodatkowych na dany rok dostaw, K R – koszty, o których mowa w art. 77 ust. 3 i 4,"
+         "text": "KAD – sumę iloczynów obowiązków mocowych i odpowiednich cen zamknięcia aukcji dodatkowych na dany rok dostaw, KR – koszty, o których mowa w art. 77 ust. 3 i 4,"
         },
         {
          "type": "text",
@@ -6983,7 +6983,7 @@
        "children": [
         {
          "type": "text",
-         "text": "K S = P OM A ∙Z +A ∙Z +A ∙Z +Z K1 K1 K2 K2 K3 K3 K4"
+         "text": "KP SOM = AK1 ∙ZK1 +AK2 ∙ZK2 +AK3 ∙ZK3 +ZK4"
         },
         {
          "type": "text",
@@ -6991,39 +6991,39 @@
         },
         {
          "type": "text",
-         "text": "S OM – stawki opłaty mocowej dla odbiorców końcowych,"
+         "text": "SOM – stawki opłaty mocowej dla odbiorców końcowych,"
         },
         {
          "type": "text",
-         "text": "K P – koszt rynku mocy dla odbiorców końcowych, odpowiednio dla roku lub kwartału,"
+         "text": "KP – koszt rynku mocy dla odbiorców końcowych, odpowiednio dla roku lub kwartału,"
         },
         {
          "type": "text",
-         "text": "A K1 – współczynnik, o którym mowa w art. 70a ust. 5, dla odbiorców końcowych K1,"
+         "text": "AK1 – współczynnik, o którym mowa w art. 70a ust. 5, dla odbiorców końcowych K1,"
         },
         {
          "type": "text",
-         "text": "Z K1 – ilość energii elektrycznej pobranej z sieci i zużytej przez odbiorców końcowych K1 w godzinach, o których mowa w ust. 4 pkt 2,"
+         "text": "ZK1 – ilość energii elektrycznej pobranej z sieci i zużytej przez odbiorców końcowych K1 w godzinach, o których mowa w ust. 4 pkt 2,"
         },
         {
          "type": "text",
-         "text": "A K2 – współczynnik, o którym mowa w art. 70a ust. 5, dla odbiorców końcowych K2,"
+         "text": "AK2 – współczynnik, o którym mowa w art. 70a ust. 5, dla odbiorców końcowych K2,"
         },
         {
          "type": "text",
-         "text": "Z K2 – ilość energii elektrycznej pobranej z sieci i zużytej przez odbiorców końcowych K2 w godzinach, o których mowa w ust. 4 pkt 2,"
+         "text": "ZK2 – ilość energii elektrycznej pobranej z sieci i zużytej przez odbiorców końcowych K2 w godzinach, o których mowa w ust. 4 pkt 2,"
         },
         {
          "type": "text",
-         "text": "A K3 – współczynnik, o którym mowa w art. 70a ust. 5, dla odbiorców końcowych K3,"
+         "text": "AK3 – współczynnik, o którym mowa w art. 70a ust. 5, dla odbiorców końcowych K3,"
         },
         {
          "type": "text",
-         "text": "Z K3 – ilość energii elektrycznej pobranej z sieci i zużytej przez odbiorców końcowych K3 w godzinach, o których mowa w ust. 4 pkt 2,"
+         "text": "ZK3 – ilość energii elektrycznej pobranej z sieci i zużytej przez odbiorców końcowych K3 w godzinach, o których mowa w ust. 4 pkt 2,"
         },
         {
          "type": "text",
-         "text": "Z K4 – ilość energii elektrycznej pobranej z sieci i zużytej przez odbiorców końcowych K4 w godzinach, o których mowa w ust. 4 pkt 2."
+         "text": "ZK4 – ilość energii elektrycznej pobranej z sieci i zużytej przez odbiorców końcowych K4 w godzinach, o których mowa w ust. 4 pkt 2."
         }
        ]
       },
@@ -7035,7 +7035,7 @@
        "children": [
         {
          "type": "text",
-         "text": "K S = P OM A ∙Z +A ∙Z +A ∙Z +Z K1 K1 K2 K2 K3 K3 K4"
+         "text": "KP SOM = AK1 ∙ZK1 +AK2 ∙ZK2 +AK3 ∙ZK3 +ZK4"
         },
         {
          "type": "text",
@@ -8367,7 +8367,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Z K = GD ∙K GD Z K −R C"
+         "text": "ZGD KGD = ∙KC ZK −R"
         },
         {
          "type": "text",
@@ -8375,15 +8375,15 @@
         },
         {
          "type": "text",
-         "text": "K GD – koszt rynku mocy dla grupy odbiorców końcowych, o której mowa w art. 89a ust. 1 pkt 1,"
+         "text": "KGD – koszt rynku mocy dla grupy odbiorców końcowych, o której mowa w art. 89a ust. 1 pkt 1,"
         },
         {
          "type": "text",
-         "text": "Z GD – roczne zużycie energii elektrycznej w systemie przez odbiorców końcowych, o których mowa w art. 89a ust. 1 pkt 1,"
+         "text": "ZGD – roczne zużycie energii elektrycznej w systemie przez odbiorców końcowych, o których mowa w art. 89a ust. 1 pkt 1,"
         },
         {
          "type": "text",
-         "text": "Z K – roczne zużycie energii elektrycznej w systemie przez odbiorców końcowych,"
+         "text": "ZK – roczne zużycie energii elektrycznej w systemie przez odbiorców końcowych,"
         },
         {
          "type": "text",
@@ -8391,7 +8391,7 @@
         },
         {
          "type": "text",
-         "text": "K C – całkowity koszt rynku mocy w danym roku dostaw."
+         "text": "KC – całkowity koszt rynku mocy w danym roku dostaw."
         }
        ]
       },
@@ -8403,7 +8403,7 @@
        "children": [
         {
          "type": "text",
-         "text": "R=(1−A )∙Z +(1−A )∙Z +(1−A )∙Z K1 K1 K2 K2 K3 K3"
+         "text": "R=(1−AK1)∙ZK1 +(1−AK2)∙ZK2 +(1−AK3)∙ZK3"
         },
         {
          "type": "text",
@@ -8411,27 +8411,27 @@
         },
         {
          "type": "text",
-         "text": "A K1 – współczynnik, o którym mowa w art. 70a ust. 5, dla odbiorców końcowych K1,"
+         "text": "AK1 – współczynnik, o którym mowa w art. 70a ust. 5, dla odbiorców końcowych K1,"
         },
         {
          "type": "text",
-         "text": "Z K1 – ilość energii elektrycznej pobrana z sieci i zużyta przez odbiorców końcowych K1 w godzinach, o których mowa w art. 74 ust. 4 pkt 2,"
+         "text": "ZK1 – ilość energii elektrycznej pobrana z sieci i zużyta przez odbiorców końcowych K1 w godzinach, o których mowa w art. 74 ust. 4 pkt 2,"
         },
         {
          "type": "text",
-         "text": "A K2 – współczynnik, o którym mowa w art. 70a ust. 5, dla odbiorców końcowych K2,"
+         "text": "AK2 – współczynnik, o którym mowa w art. 70a ust. 5, dla odbiorców końcowych K2,"
         },
         {
          "type": "text",
-         "text": "Z K2 – ilość energii elektrycznej pobrana z sieci i zużyta przez odbiorców końcowych K2 w godzinach, o których mowa w art. 74 ust. 4 pkt 2,"
+         "text": "ZK2 – ilość energii elektrycznej pobrana z sieci i zużyta przez odbiorców końcowych K2 w godzinach, o których mowa w art. 74 ust. 4 pkt 2,"
         },
         {
          "type": "text",
-         "text": "A K3 – współczynnik, o którym mowa w art. 70a ust. 5, dla odbiorców końcowych K3,"
+         "text": "AK3 – współczynnik, o którym mowa w art. 70a ust. 5, dla odbiorców końcowych K3,"
         },
         {
          "type": "text",
-         "text": "Z K3 – ilość energii elektrycznej pobrana z sieci i zużyta przez odbiorców końcowych K3 w godzinach, o których mowa w art. 74 ust. 4 pkt 2."
+         "text": "ZK3 – ilość energii elektrycznej pobrana z sieci i zużyta przez odbiorców końcowych K3 w godzinach, o których mowa w art. 74 ust. 4 pkt 2."
         }
        ]
       },
@@ -8479,7 +8479,7 @@
        "children": [
         {
          "type": "text",
-         "text": "K S= GD 0,25∙a+0,6∙b+c+1,4∙d"
+         "text": "KGD S= 0,25∙a+0,6∙b+c+1,4∙d"
         },
         {
          "type": "text",
@@ -8491,7 +8491,7 @@
         },
         {
          "type": "text",
-         "text": "K GD – koszt rynku mocy dla grupy odbiorców końcowych, o której mowa w art. 89a ust. 1 pkt 1,"
+         "text": "KGD – koszt rynku mocy dla grupy odbiorców końcowych, o której mowa w art. 89a ust. 1 pkt 1,"
         },
         {
          "type": "text",
@@ -8553,7 +8553,7 @@
      "children": [
       {
        "type": "text",
-       "text": "K = K - K P C GD"
+       "text": "KP = KC- KGD"
       },
       {
        "type": "text",
@@ -8561,15 +8561,15 @@
       },
       {
        "type": "text",
-       "text": "K P – koszt rynku mocy dla odbiorców końcowych, o których mowa w art. 89a ust. 1 pkt 2,"
+       "text": "KP – koszt rynku mocy dla odbiorców końcowych, o których mowa w art. 89a ust. 1 pkt 2,"
       },
       {
        "type": "text",
-       "text": "K C – całkowity koszt rynku mocy w danym roku dostaw,"
+       "text": "KC – całkowity koszt rynku mocy w danym roku dostaw,"
       },
       {
        "type": "text",
-       "text": "K GD – koszt rynku mocy dla odbiorców końcowych, o których mowa w art. 89a ust. 1 pkt 1."
+       "text": "KGD – koszt rynku mocy dla odbiorców końcowych, o których mowa w art. 89a ust. 1 pkt 1."
       }
      ]
     },

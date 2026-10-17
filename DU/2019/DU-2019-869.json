@@ -1,7 +1,7 @@
 {
  "eli": "DU/2019/869",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 kwietnia 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o finansach publicznych",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2019/869/text.pdf",
  "body": [
   {
@@ -8251,7 +8251,7 @@
        "children": [
         {
          "type": "text",
-         "text": "WYD n =WYD n−1 ∙E n−1 (CCPI)∙[WPKB n +K n ]+E n (∆DD n )"
+         "text": "WYDn =WYDn−1 ∙En−1(CCPI)∙[WPKBn +Kn]+En(∆DDn)"
         },
         {
          "type": "text",
@@ -8259,7 +8259,7 @@
         },
         {
          "type": "text",
-         "text": "₈ PKB PKB PKB WPKB = √ n−2 ∙E ( n−1 )∙E ( n ) n PKB n−8 n PKB n−2 n PKB n−1"
+         "text": "₈ PKBn−2 PKBn−1 PKBn WPKBn = √ ∙En ( )∙En ( ) PKBn−8 PKBn−2 PKBn−1"
         },
         {
          "type": "text",
@@ -8283,39 +8283,39 @@
         },
         {
          "type": "text",
-         "text": "WYD n – kwota wydatków określona w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi,"
+         "text": "WYDn – kwota wydatków określona w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi,"
         },
         {
          "type": "text",
-         "text": "WYD n−1 – kwota wydatków określona w projekcie ustawy budżetowej na rok n-1 przedłożonym Sejmowi,"
+         "text": "WYDn−1 – kwota wydatków określona w projekcie ustawy budżetowej na rok n-1 przedłożonym Sejmowi,"
         },
         {
          "type": "text",
-         "text": "E (CCPI) – poziom średniookresowego celu inflacyjnego określonego na rok n-1 przez Radę Polityki Pieniężn−1 nej w założeniach polityki pieniężnej, o których mowa w art. 227 ust. 6 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. poz. 483, z 2001 r. poz. 319, z 2006 r. poz. 1471 oraz z 2009 r. poz. 946), ogłoszonych w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”,"
+         "text": "En−1(CCPI) – poziom średniookresowego celu inflacyjnego określonego na rok n-1 przez Radę Polityki Pieniężnej w założeniach polityki pieniężnej, o których mowa w art. 227 ust. 6 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. poz. 483, z 2001 r. poz. 319, z 2006 r. poz. 1471 oraz z 2009 r. poz. 946), ogłoszonych w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”,"
         },
         {
          "type": "text",
-         "text": "WPKB – wskaźnik średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych określony n w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi z dokładnością do setnych części procentu,"
+         "text": "WPKBn – wskaźnik średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych określony w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi z dokładnością do setnych części procentu,"
         },
         {
          "type": "text",
-         "text": "K – wielkość korekty kwoty wydatków określonej w projekcie ustawy budżetowej na rok n przedłożonym Sejn mowi,"
+         "text": "Kn – wielkość korekty kwoty wydatków określonej w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi,"
         },
         {
          "type": "text",
-         "text": "PKB ⁄ PKB – ogłoszona przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2 łączna n−2 dynamika n−8 wartości produktu krajowego brutto,"
+         "text": "PKBn−2⁄ PKBn−8 – ogłoszona przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2 łączna dynamika wartości produktu krajowego brutto,"
         },
         {
          "type": "text",
-         "text": "E (PKB ⁄ PKB ) – prognozowana w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi roczna n dynamika n−1 wartości n−2 produktu krajowego brutto w cenach stałych w roku n-1,"
+         "text": "En(PKBn−1⁄ PKBn−2) – prognozowana w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n-1,"
         },
         {
          "type": "text",
-         "text": "E (PKB ⁄ PKB ) – prognozowana w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi roczna n dynamika n n−1 wartości produktu krajowego brutto w cenach stałych w roku n,"
+         "text": "En(PKBn⁄ PKBn−1) – prognozowana w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n,"
         },
         {
          "type": "text",
-         "text": "E (∆DD ) – prognozowana wartość ogółem działań dyskrecjonalnych, o których mowa w rozporządzeniu wymien nionym n w art. 104 ust. 1 pkt 1, w zakresie podatków i składek na ubezpieczenia społeczne, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 549/2013 z dnia 21 maja 2013 r. w sprawie europejskiego systemu rachunków narodowych i regionalnych w Unii Europejskiej (Dz. Urz. UE L 174 z 26.06.2013, s. 1, z późn. zm.), planowanych na rok n, jeżeli wartość każdego z nich przekracza 0,03% wartości produktu krajowego brutto prognozowanej w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi; w przypadku planowanej w roku n rezygnacji z działań dyskrecjonalnych dokonanych w latach poprzednich, w prognozowanej wartości ogółem działań dyskrecjonalnych w roku n uwzględnia się wpływ na kwotę WYD dokonanych działań dyskrecjonalnych, który wystąpiłby w przypadku braku rezygnacji z tych działań w n roku n."
+         "text": "En(∆DDn) – prognozowana wartość ogółem działań dyskrecjonalnych, o których mowa w rozporządzeniu wymienionym w art. 104 ust. 1 pkt 1, w zakresie podatków i składek na ubezpieczenia społeczne, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 549/2013 z dnia 21 maja 2013 r. w sprawie europejskiego systemu rachunków narodowych i regionalnych w Unii Europejskiej (Dz. Urz. UE L 174 z 26.06.2013, s. 1, z późn. zm.), planowanych na rok n, jeżeli wartość każdego z nich przekracza 0,03% wartości produktu krajowego brutto prognozowanej w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi; w przypadku planowanej w roku n rezygnacji z działań dyskrecjonalnych dokonanych w latach poprzednich, w prognozowanej wartości ogółem działań dyskrecjonalnych w roku n uwzględnia się wpływ na kwotę WYDn dokonanych działań dyskrecjonalnych, który wystąpiłby w przypadku braku rezygnacji z tych działań w roku n."
         }
        ]
       },

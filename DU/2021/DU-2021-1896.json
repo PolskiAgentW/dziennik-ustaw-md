@@ -1,7 +1,7 @@
 {
  "eli": "DU/2021/1896",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 września 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie rekompensat dla sektorów i podsektorów energochłonnych",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2021/1896/text.pdf",
  "body": [
   {
@@ -367,7 +367,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Amaxt = Ai × C × P × E × BO t t t–1"
+         "text": "Amaxt = Ait × Ct × Pt–1 × E × BO"
         },
         {
          "type": "text",
@@ -379,15 +379,15 @@
         },
         {
          "type": "text",
-         "text": "Ai t – intensywność pomocy wyrażona jako ułamek 0,75;"
+         "text": "Ait – intensywność pomocy wyrażona jako ułamek 0,75;"
         },
         {
          "type": "text",
-         "text": "C t – wskaźnik emisji w wysokości 0,88 megagramów dwutlenku węgla na megawatogodzinę (Mg CO₂/MWh);"
+         "text": "Ct – wskaźnik emisji w wysokości 0,88 megagramów dwutlenku węgla na megawatogodzinę (Mg CO₂/MWh);"
         },
         {
          "type": "text",
-         "text": "P t–1 – terminowa cena uprawnień do emisji dla roku kalendarzowego, za który przyznawane są rekompensaty;"
+         "text": "Pt–1 – terminowa cena uprawnień do emisji dla roku kalendarzowego, za który przyznawane są rekompensaty;"
         },
         {
          "type": "text",
@@ -407,7 +407,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Amaxt = Ai × C × P × E × BO t t t–1"
+         "text": "Amaxt = Ait × Ct × Pt–1 × E × BO"
         },
         {
          "type": "text",
@@ -419,15 +419,15 @@
         },
         {
          "type": "text",
-         "text": "Ai t – intensywność pomocy wyrażona jako ułamek 0,75;"
+         "text": "Ait – intensywność pomocy wyrażona jako ułamek 0,75;"
         },
         {
          "type": "text",
-         "text": "C t – wskaźnik emisji w wysokości 0,88 megagramów dwutlenku węgla na megawatogodzinę Mg CO₂/MWh;"
+         "text": "Ct – wskaźnik emisji w wysokości 0,88 megagramów dwutlenku węgla na megawatogodzinę Mg CO₂/MWh;"
         },
         {
          "type": "text",
-         "text": "P t–1 – terminowa cena uprawnień do emisji dla roku kalendarzowego, za który przyznawane są rekompensaty;"
+         "text": "Pt–1 – terminowa cena uprawnień do emisji dla roku kalendarzowego, za który przyznawane są rekompensaty;"
         },
         {
          "type": "text",
@@ -467,7 +467,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Amaxt = Ai × C × P × EF × BEC t t t–1"
+         "text": "Amaxt = Ait × Ct × Pt–1 × EF × BEC"
         },
         {
          "type": "text",
@@ -479,15 +479,15 @@
         },
         {
          "type": "text",
-         "text": "Ai t – intensywność pomocy wyrażona jako ułamek 0,75;"
+         "text": "Ait – intensywność pomocy wyrażona jako ułamek 0,75;"
         },
         {
          "type": "text",
-         "text": "C t – wskaźnik emisji w wysokości 0,88 megagramów dwutlenku węgla na megawatogodzinę (Mg CO₂/MWh);"
+         "text": "Ct – wskaźnik emisji w wysokości 0,88 megagramów dwutlenku węgla na megawatogodzinę (Mg CO₂/MWh);"
         },
         {
          "type": "text",
-         "text": "P t-1 – terminowa cena uprawnień do emisji dla roku kalendarzowego, za który przyznawane są rekompensaty;"
+         "text": "Pt-1 – terminowa cena uprawnień do emisji dla roku kalendarzowego, za który przyznawane są rekompensaty;"
         },
         {
          "type": "text",

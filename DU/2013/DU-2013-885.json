@@ -1,7 +1,7 @@
 {
  "eli": "DU/2013/885",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 czerwca 2013 r. w sprawie ogłoszenia jednolitego tekstu ustawy o finansach publicznych",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2013/885/text.pdf",
  "body": [
   {
@@ -14684,7 +14684,7 @@
          "type": "pkt",
          "num": "2",
          "path": "art_243/ust_1/pkt_2",
-         "text": "wykupów papierów wartościowych emitowanych na cele określone w art. 89 ust. 1 pkt 2–4 oraz art. 90 wraz z należ- Db + Sm − Wb Db + Sm − Wb Db + Sm − Wb ( ) ( ) nymi odsetkami i dyskontem od papierów wartościowych emitowanych na cele określone w art. 89 ust. 1 i art. 90, R + O ≤ 1 * + + n−1 n−1 n−1 n−2 n−2 n−2 n−3 n−3 n−3 D 3 D D D n n−1 n−2 n−3 3) potencjalnych spłat kwot wynikających z udzielonych poręczeń oraz gwarancji",
+         "text": "wykupów papierów wartościowych emitowanych na cele określone w art. 89 ust. 1 pkt 2–4 oraz art. 90 wraz z należ- Dbn−1 + Smn−1 − Wbn−1 Dbn−2 + Smn−2 − Wbn−2 Dbn−3 + Smn−3 − Wbn−3 ( ) ( ) nymi odsetkami i dyskontem od papierów wartościowych emitowanych na cele określone w art. 89 ust. 1 i art. 90, R + O ≤ 1 * + + D 3 Dn−1 Dn−2 Dn−3 3) potencjalnych spłat kwot wynikających z udzielonych poręczeń oraz gwarancji n",
          "children": []
         },
         {
@@ -14693,7 +14693,7 @@
         },
         {
          "type": "text",
-         "text": " R + O  1  Db + Sm − Wb Db + Sm − Wb Db + Sm − Wb    ≤ *   + +   n −1 n −1 n −1 n −2 n −2 n −2 n −3 n −3 n −3  D  3  D D D  n n −1 n −2 n −3"
+         "text": " R + O  1  Dbn −1 + Smn −1 − Wbn −1 Dbn −2 + Smn −2 − Wbn −2 Dbn −3 + Smn −3 − Wbn −3    ≤ *   + +    D  n 3  Dn −1 Dn −2 Dn −3 "
         },
         {
          "type": "text",

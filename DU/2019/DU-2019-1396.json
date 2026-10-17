@@ -1,7 +1,7 @@
 {
  "eli": "DU/2019/1396",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 lipca 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo ochrony środowiska",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2019/1396/text.pdf",
  "body": [
   {
@@ -989,7 +989,7 @@
        "type": "pkt",
        "num": "10a",
        "path": "art_3/pkt_10a",
-       "text": "obszarze cichym w aglomeracji – rozumie się przez to obszar, na którym nie występują przekroczenia dopuszczalnych poziomów hałasu wyrażonych wskaźnikiem hałasu L DWN ;",
+       "text": "obszarze cichym w aglomeracji – rozumie się przez to obszar, na którym nie występują przekroczenia dopuszczalnych poziomów hałasu wyrażonych wskaźnikiem hałasu LDWN;",
        "children": []
       },
       {
@@ -6519,14 +6519,14 @@
          "type": "lit",
          "num": "a",
          "path": "art_112a/pkt_1/lit_a",
-         "text": "L DWN – długookresowy średni poziom dźwięku A wyrażony w decybelach (dB), wyznaczony w ciągu wszystkich dób w roku, z uwzględnieniem pory dnia (rozumianej jako przedział czasu od godz. 6⁰⁰ do godz. 18⁰⁰), pory wieczoru (rozumianej jako przedział czasu od godz. 18⁰⁰ do godz. 22⁰⁰) oraz pory nocy (rozumianej jako przedział czasu od godz. 22⁰⁰ do godz. 6⁰⁰),",
+         "text": "LDWN – długookresowy średni poziom dźwięku A wyrażony w decybelach (dB), wyznaczony w ciągu wszystkich dób w roku, z uwzględnieniem pory dnia (rozumianej jako przedział czasu od godz. 6⁰⁰ do godz. 18⁰⁰), pory wieczoru (rozumianej jako przedział czasu od godz. 18⁰⁰ do godz. 22⁰⁰) oraz pory nocy (rozumianej jako przedział czasu od godz. 22⁰⁰ do godz. 6⁰⁰),",
          "children": []
         },
         {
          "type": "lit",
          "num": "b",
          "path": "art_112a/pkt_1/lit_b",
-         "text": "L N – długookresowy średni poziom dźwięku A wyrażony w decybelach (dB), wyznaczony w ciągu wszystkich pór nocy w roku (rozumianych jako przedział czasu od godz. 22⁰⁰ do godz. 6⁰⁰);",
+         "text": "LN – długookresowy średni poziom dźwięku A wyrażony w decybelach (dB), wyznaczony w ciągu wszystkich pór nocy w roku (rozumianych jako przedział czasu od godz. 22⁰⁰ do godz. 6⁰⁰);",
          "children": []
         }
        ]
@@ -6541,14 +6541,14 @@
          "type": "lit",
          "num": "a",
          "path": "art_112a/pkt_2/lit_a",
-         "text": "L Aeq D – równoważny poziom dźwięku A dla pory dnia (rozumianej jako przedział czasu od godz. 6⁰⁰ do godz. 22⁰⁰),",
+         "text": "LAeq D – równoważny poziom dźwięku A dla pory dnia (rozumianej jako przedział czasu od godz. 6⁰⁰ do godz. 22⁰⁰),",
          "children": []
         },
         {
          "type": "lit",
          "num": "b",
          "path": "art_112a/pkt_2/lit_b",
-         "text": "L Aeq N – równoważny poziom dźwięku A dla pory nocy (rozumianej jako przedział czasu od godz. 22⁰⁰ do godz. 6⁰⁰).",
+         "text": "LAeq N – równoważny poziom dźwięku A dla pory nocy (rozumianej jako przedział czasu od godz. 22⁰⁰ do godz. 6⁰⁰).",
          "children": []
         }
        ]
@@ -6600,7 +6600,7 @@
          "type": "pkt",
          "num": "1",
          "path": "art_113/ust_2/pkt_1",
-         "text": "zróżnicowane dopuszczalne poziomy hałasu określone wskaźnikami hałasu L , L , L i L dla następujących rodzajów terenów faktycznie zagospodarowanych:",
+         "text": "zróżnicowane dopuszczalne poziomy hałasu określone wskaźnikami hałasu LDWN, LN, LAeq D i LAeq N dla następujących rodzajów terenów faktycznie zagospodarowanych:",
          "children": [
           {
            "type": "lit",
@@ -6746,7 +6746,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_115a/ust_1",
-       "text": "[^6] W przypadku stwierdzenia przez organ ochrony środowiska, na podstawie pomiarów własnych, pomiarów dokonanych przez Głównego Inspektora Ochrony Środowiska lub pomiarów podmiotu obowiązanego do ich prowadzenia, że poza zakładem, w wyniku jego działalności, przekroczone są dopuszczalne poziomy hałasu, organ ten wydaje decyzję o dopuszczalnym poziomie hałasu; za przekroczenie dopuszczalnego poziomu hałasu uważa się przekroczenie wskaźnika hałasu L lub L . Aeq D Aeq N",
+       "text": "[^6] W przypadku stwierdzenia przez organ ochrony środowiska, na podstawie pomiarów własnych, pomiarów dokonanych przez Głównego Inspektora Ochrony Środowiska lub pomiarów podmiotu obowiązanego do ich prowadzenia, że poza zakładem, w wyniku jego działalności, przekroczone są dopuszczalne poziomy hałasu, organ ten wydaje decyzję o dopuszczalnym poziomie hałasu; za przekroczenie dopuszczalnego poziomu hałasu uważa się przekroczenie wskaźnika hałasu LAeq D lub LAeq N.",
        "children": []
       },
       {
@@ -6760,7 +6760,7 @@
        "type": "ust",
        "num": "3",
        "path": "art_115a/ust_3",
-       "text": "W decyzji, o której mowa w ust. 1, określa się dopuszczalne poziomy hałasu poza zakładem przy zastosowaniu wskaźników hałasu L i L w odniesieniu do rodzajów terenów, o których mowa w art. 113 ust. 2 pkt 1, na które oddziałuje zakład.",
+       "text": "W decyzji, o której mowa w ust. 1, określa się dopuszczalne poziomy hałasu poza zakładem przy zastosowaniu wskaźników hałasu LAeq D i LAeq N w odniesieniu do rodzajów terenów, o których mowa w art. 113 ust. 2 pkt 1, na które oddziałuje zakład.",
        "children": []
       },
       {
@@ -6927,7 +6927,7 @@
        "type": "ust",
        "num": "1",
        "path": "art_117/ust_1",
-       "text": "Oceny stanu akustycznego środowiska i obserwacji zmian dokonuje się w ramach państwowego monitoringu środowiska na podstawie wyników pomiarów poziomów hałasu określonych wskaźnikami hałasu L DWN i L N oraz z uwzględnieniem pozostałych danych, w szczególności demograficznych oraz dotyczących sposobu zagospodarowania i użytkowania terenu.",
+       "text": "Oceny stanu akustycznego środowiska i obserwacji zmian dokonuje się w ramach państwowego monitoringu środowiska na podstawie wyników pomiarów poziomów hałasu określonych wskaźnikami hałasu LDWN i LN oraz z uwzględnieniem pozostałych danych, w szczególności demograficznych oraz dotyczących sposobu zagospodarowania i użytkowania terenu.",
        "children": []
       },
       {
@@ -7113,7 +7113,7 @@
        "type": "ust",
        "num": "6",
        "path": "art_118/ust_6",
-       "text": "Przez teren zagrożony hałasem rozumie się teren, na którym są przekroczone dopuszczalne poziomy hałasu, określone wskaźnikami L DWN lub L N , o których mowa w art. 113.",
+       "text": "Przez teren zagrożony hałasem rozumie się teren, na którym są przekroczone dopuszczalne poziomy hałasu, określone wskaźnikami LDWN lub LN, o których mowa w art. 113.",
        "children": []
       },
       {
@@ -14545,7 +14545,7 @@
        "type": "ust",
        "num": "3",
        "path": "art_208/ust_3",
-       "text": "W informacji, o której mowa w ust. 2 pkt 1 lit. c, prognozowane poziomy hałasu poza zakładem mają być wyrażone wskaźnikami hałasu L i L w odniesieniu do rodzajów terenów, o których mowa w art. 113 ust. 2 pkt 1. Aeq D Aeq N",
+       "text": "W informacji, o której mowa w ust. 2 pkt 1 lit. c, prognozowane poziomy hałasu poza zakładem mają być wyrażone wskaźnikami hałasu LAeq D i LAeq N w odniesieniu do rodzajów terenów, o których mowa w art. 113 ust. 2 pkt 1.",
        "children": []
       },
       {
@@ -14794,7 +14794,7 @@
          "type": "pkt",
          "num": "6",
          "path": "art_211/ust_6/pkt_6",
-         "text": "wielkość emisji hałasu wyznaczoną dopuszczalnymi poziomami hałasu poza zakładem, wyrażonymi wskaźnikami hałasu L i L , w odniesieniu do rodzajów terenów, o których mowa w art. 113 ust. 2 pkt 1, oraz rozkład czasu Aeq D Aeq N pracy źródeł hałasu dla doby, wraz z przewidywanymi wariantami;",
+         "text": "wielkość emisji hałasu wyznaczoną dopuszczalnymi poziomami hałasu poza zakładem, wyrażonymi wskaźnikami hałasu LAeq D i LAeq N, w odniesieniu do rodzajów terenów, o których mowa w art. 113 ust. 2 pkt 1, oraz rozkład czasu pracy źródeł hałasu dla doby, wraz z przewidywanymi wariantami;",
          "children": []
         },
         {
@@ -20824,7 +20824,7 @@
        "type": "ust",
        "num": "2",
        "path": "art_315/ust_2",
-       "text": "Przy ustalaniu wymiaru kary biegnącej za przekroczenie dopuszczalnego poziomu hałasu określonego wskaźnikiem L lub L przyjmuje się przekroczenie w punkcie pomiarowym, w którym ma ono wartość najwyższą dla pory dnia Aeq D Aeq N lub pory nocy.",
+       "text": "Przy ustalaniu wymiaru kary biegnącej za przekroczenie dopuszczalnego poziomu hałasu określonego wskaźnikiem LAeq D lub LAeq N przyjmuje się przekroczenie w punkcie pomiarowym, w którym ma ono wartość najwyższą dla pory dnia lub pory nocy.",
        "children": []
       },
       {
@@ -26556,7 +26556,7 @@
        "type": "ust",
        "num": "4a",
        "path": "art_402/ust_4a",
-       "text": "Wpływy z tytułu opłat za wprowadzanie do powietrza dwutlenku siarki (SO₂) i tlenków azotu (NO x ) przed dokonaniem podziału, o którym mowa w ust. 4, pomniejsza się o kwotę stanowiącą 7,5% tych wpływów, która stanowi przychód Narodowego Funduszu.",
+       "text": "Wpływy z tytułu opłat za wprowadzanie do powietrza dwutlenku siarki (SO₂) i tlenków azotu (NOx) przed dokonaniem podziału, o którym mowa w ust. 4, pomniejsza się o kwotę stanowiącą 7,5% tych wpływów, która stanowi przychód Narodowego Funduszu.",
        "children": []
       },
       {
@@ -27805,7 +27805,7 @@
   "29": "W brzmieniu ustalonym przez art. 1 pkt 7 lit. a ustawy, o której mowa w odnośniku 7.",
   "30": "Ze zmianą wprowadzoną przez art. 1 pkt 7 lit. b ustawy, o której mowa w odnośniku 7.",
   "31": "Przez art. 1 pkt 7 lit. c ustawy, o której mowa w odnośniku 7.",
-  "32": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. poz. 1196, z 2003 r. poz. 78 i 1865, z 2004 r. poz. 464, z 2005 r. poz. 954, z 2006 r. poz. 360 i 935 oraz z 2014 r. poz. 1101. DWN N Aeq D Aeq N Aeq D Aeq N",
+  "32": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. poz. 1196, z 2003 r. poz. 78 i 1865, z 2004 r. poz. 464, z 2005 r. poz. 954, z 2006 r. poz. 360 i 935 oraz z 2014 r. poz. 1101.",
   "33": "Przez art. 4 pkt 5 ustawy, o której mowa w odnośniku 2.",
   "34": "W brzmieniu ustalonym przez art. 1 ustawy z dnia 22 lutego 2019 r. o zmianie ustawy – Prawo ochrony środowiska (Dz. U. poz. 452), która weszła w życie z dniem 14 marca 2019 r.",
   "35": "W brzmieniu ustalonym przez art. 2 pkt 1 ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu oraz niektórych innych ustaw (Dz. U. poz. 1590), która weszła w życie z dniem 4 września 2018 r.",

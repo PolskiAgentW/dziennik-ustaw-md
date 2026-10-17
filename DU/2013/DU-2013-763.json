@@ -1,7 +1,7 @@
 {
  "eli": "DU/2013/763",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 28 maja 2013 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.59",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2013/763/text.pdf",
  "body": [
   {
@@ -1839,23 +1839,23 @@
     },
     {
      "type": "text",
-     "text": "n – oznacza kwartał, dla którego jest znana cena ostatnio ogłoszona, c e a e o um p w e nych w PG i – oznacza premie gwarancyjne od sumy wpłat wniesionych w roku (kwartale) i,"
+     "text": "n – oznacza kwartał, dla którego jest znana cena ostatnio ogłoszona, c e a e o um p w e nych w PGi – oznacza premie gwarancyjne od sumy wpłat wniesionych w roku (kwartale) i,"
     },
     {
      "type": "text",
-     "text": "C i – oznacza cenę 1 m² powierzchni użytkowej budynku mieszkalnego ustaloną dla roku (kwartału) i,"
+     "text": "Ci – oznacza cenę 1 m² powierzchni użytkowej budynku mieszkalnego ustaloną dla roku (kwartału) i,"
     },
     {
      "type": "text",
-     "text": "C – oznacza cenę 1 m² powierzchni użytkowej budynku mieszkalnego ostatnio ogłoszoną przed kwartałem złożenia n wniosku,"
+     "text": "Cn – oznacza cenę 1 m² powierzchni użytkowej budynku mieszkalnego ostatnio ogłoszoną przed kwartałem złożenia wniosku,"
     },
     {
      "type": "text",
-     "text": "SP – oznacza składaną stopę procentową, według której były oprocentowane wpłaty wniesione w roku (kwartale) i-tym i u, l n n do końca kwartału, dla którego jest znana cena ostatnio ogłoszona,"
+     "text": "SPi – oznacza składaną stopę procentową, według której były oprocentowane wpłaty wniesione w roku (kwartale) i-tym u, l n n do końca kwartału, dla którego jest znana cena ostatnio ogłoszona,"
     },
     {
      "type": "text",
-     "text": "SP = (1 + r /2) × (1 + r ) × (1 + r ) ×...× (1 + r ) – 1 i i i+1 i+2 n"
+     "text": "SPi = (1 + ri/2) × (1 + ri+1) × (1 + ri+2) ×...× (1 + rn) – 1"
     },
     {
      "type": "text",
@@ -1863,15 +1863,19 @@
     },
     {
      "type": "text",
-     "text": "r – oznacza stopę procentową w roku (kwartale) i, podzieloną przez 100, i – ozn c a st p p c n ow roku (k t e) i r – oznacza stopę procentową w kwartale n, podzieloną przez 100, n nacz p w le zi WK i – oznacza sumę wpłat wniesionych w roku (kwartale) i."
+     "text": "ri – oznacza stopę procentową w roku (kwartale) i, podzieloną przez 100,"
     },
     {
      "type": "text",
-     "text": "Składaną stopę procentową SP oblicza się według wyżej przedstawionego wzoru przy uwzględnieniu okresów, w których bank dokonywał kapitalizacji i odsetek."
+     "text": "– ozn c a st p p c n ow roku (k t e) i rn – oznacza stopę procentową w kwartale n, podzieloną przez 100, nacz p w le zi WKi – oznacza sumę wpłat wniesionych w roku (kwartale) i."
     },
     {
      "type": "text",
-     "text": "Premię łączną oblicza się według wzoru PG = Ʃ PG jako sumę premii od wszystkich wpłat wniesionych na książeczkę mieszkaniową w poszczególnych latach (kwartałach). i i"
+     "text": "Składaną stopę procentową SPi oblicza się według wyżej przedstawionego wzoru przy uwzględnieniu okresów, w których bank dokonywał kapitalizacji odsetek."
+    },
+    {
+     "type": "text",
+     "text": "Premię łączną oblicza się według wzoru PG = Ʃi PGi jako sumę premii od wszystkich wpłat wniesionych na książeczkę mieszkaniową w poszczególnych latach (kwartałach)."
     }
    ]
   }
