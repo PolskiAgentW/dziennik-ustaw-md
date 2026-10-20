@@ -375,7 +375,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o żegludze śródlądowej | [Dz.U. 2025 poz. 18](DU/2025/DU-2025-18.md) | 2025-01-08 | – |
 | – Karta Nauczyciela | [Dz.U. 2026 poz. 515](DU/2026/DU-2026-515.md) | 2026-04-14 | – |
 | – Kodeks cywilny | [Dz.U. 2026 poz. 795](DU/2026/DU-2026-795.md) | 2026-06-17 | [Dz.U. 2025 poz. 1071](DU/2025/DU-2025-1071.md) |
-| – Kodeks karny | [Dz.U. 2025 poz. 383](DU/2025/DU-2025-383.md) | 2025-03-26 | – |
+| – Kodeks karny | [Dz.U. 2026 poz. 1342](DU/2026/DU-2026-1342.md) | 2026-10-16 | [Dz.U. 2025 poz. 383](DU/2025/DU-2025-383.md) |
 | – Kodeks karny skarbowy | [Dz.U. 2025 poz. 633](DU/2025/DU-2025-633.md) | 2025-05-15 | – |
 | – Kodeks karny wykonawczy | [Dz.U. 2026 poz. 1307](DU/2026/DU-2026-1307.md) | 2026-10-08 | [Dz.U. 2025 poz. 911](DU/2025/DU-2025-911.md) |
 | – Kodeks postępowania administracyjnego | [Dz.U. 2025 poz. 1691](DU/2025/DU-2025-1691.md) | 2025-12-03 | – |
@@ -411,7 +411,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
-## Rozporządzenia (495)
+## Rozporządzenia (496)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -550,6 +550,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Kultury w sprawie konkursu na dyrektora Polskiego Instytutu Sztuki Filmowej | [Dz.U. 2026 poz. 579](DU/2026/DU-2026-579.md) | 2026-04-28 | – |
 | Ministra Kultury, Dziedzictwa Narodowego i Sportu w sprawie badań jakości kształcenia artystycznego w szkołach artystycznych | [Dz.U. 2025 poz. 158](DU/2025/DU-2025-158.md) | 2025-02-06 | – |
 | Ministra Nauki i Szkolnictwa Wyższego w sprawie dokumentów wydawanych w związku z przebiegiem lub ukończeniem studiów podyplomowych i kształcenia specjalistycznego | [Dz.U. 2025 poz. 1464](DU/2025/DU-2025-1464.md) | 2025-10-24 | – |
+| Ministra Nauki i Szkolnictwa Wyższego w sprawie ewaluacji jakości działalności naukowej | [Dz.U. 2026 poz. 1346](DU/2026/DU-2026-1346.md) | 2026-10-16 | – |
 | Ministra Nauki i Szkolnictwa Wyższego w sprawie pomocy de minimis w ramach programu "Wsparcie dla czasopism naukowych" | [Dz.U. 2025 poz. 829](DU/2025/DU-2025-829.md) | 2025-06-25 | – |
 | Ministra Nauki i Szkolnictwa Wyższego w sprawie przyznawania i rozliczania środków finansowych na działalność bieżącą instytutów działających w ramach Sieci Badawczej Łukasiewicz | [Dz.U. 2025 poz. 660](DU/2025/DU-2025-660.md) | 2025-05-21 | – |
 | Ministra Nauki i Szkolnictwa Wyższego w sprawie przyznawania, rozliczania i przekazywania środków finansowych na realizację inwestycji związanych z kształceniem oraz działalnością naukową | [Dz.U. 2026 poz. 596](DU/2026/DU-2026-596.md) | 2026-04-30 | – |
