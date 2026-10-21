@@ -411,7 +411,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
-## Rozporządzenia (496)
+## Rozporządzenia (497)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -780,6 +780,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Transportu i Budownictwa w sprawie szczegółowych wymagań w stosunku do stacji przeprowadzających badania techniczne pojazdów | [Dz.U. 2026 poz. 494](DU/2026/DU-2026-494.md) | 2026-04-09 | – |
 | Ministra Transportu w sprawie warunków technicznych dozoru technicznego w zakresie projektowania, wytwarzania, eksploatacji, naprawy i modernizacji specjalistycznych urządzeń ciśnieniowych | [Dz.U. 2025 poz. 125](DU/2025/DU-2025-125.md) | 2025-01-30 | – |
 | Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie czasu pełnienia czynności lotniczych członków załóg statków powietrznych w przewozie lotniczym przy użyciu śmigłowca oraz w śmigłowcowej służbie ratownictwa medycznego | [Dz.U. 2025 poz. 1377](DU/2025/DU-2025-1377.md) | 2025-10-13 | – |
+| Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie szkoleń oraz wzoru certyfikatu dla audytorów bezpieczeństwa ruchu drogowego | [Dz.U. 2026 poz. 1352](DU/2026/DU-2026-1352.md) | 2026-10-19 | – |
 | Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie warunków produkcji i sposobu dystrybucji tablic rejestracyjnych i znaków legalizacyjnych | [Dz.U. 2025 poz. 1677](DU/2025/DU-2025-1677.md) | 2025-12-02 | – |
 | Ministra Zdrowia w sprawie badań i pomiarów czynników szkodliwych dla zdrowia w środowisku pracy | [Dz.U. 2025 poz. 949](DU/2025/DU-2025-949.md) | 2025-07-16 | – |
 | Ministra Zdrowia w sprawie bezpieczeństwa i higieny pracy związanej z występowaniem w miejscu pracy czynników chemicznych | [Dz.U. 2025 poz. 836](DU/2025/DU-2025-836.md) | 2025-06-26 | – |
