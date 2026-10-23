@@ -2,7 +2,7 @@
 
 Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odświeżane automatycznie). Nazwa aktu pochodzi z tytułu obwieszczenia. Tekst jednolity podaje stan prawny na dzień wskazany w obwieszczeniu; zmian ogłoszonych później w nim nie ma. Teksty nieoficjalne, wiążący jest PDF.
 
-## Ustawy (404)
+## Ustawy (407)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -275,12 +275,14 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego | [Dz.U. 2025 poz. 514](DU/2025/DU-2025-514.md) | 2025-04-18 | – |
 | o szczególnych rozwiązaniach związanych z ochroną miejsc pracy | [Dz.U. 2025 poz. 1694](DU/2025/DU-2025-1694.md) | 2025-12-03 | [Dz.U. 2025 poz. 5](DU/2025/DU-2025-5.md) |
 | o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi | [Dz.U. 2025 poz. 1402](DU/2025/DU-2025-1402.md) | 2025-10-16 | – |
+| o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi z 2010 r | [Dz.U. 2026 poz. 1374](DU/2026/DU-2026-1374.md) | 2026-10-21 | – |
 | o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych | [Dz.U. 2025 poz. 764](DU/2025/DU-2025-764.md) | 2025-06-11 | – |
 | o szczególnych uprawnieniach ministra właściwego do spraw aktywów państwowych oraz ich wykonywaniu w niektórych spółkach kapitałowych lub grupach kapitałowych prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych | [Dz.U. 2025 poz. 470](DU/2025/DU-2025-470.md) | 2025-04-09 | – |
 | o szczególnych zasadach odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu | [Dz.U. 2025 poz. 1094](DU/2025/DU-2025-1094.md) | 2025-08-11 | – |
 | o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych | [Dz.U. 2026 poz. 104](DU/2026/DU-2026-104.md) | 2026-01-29 | – |
 | o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników | [Dz.U. 2026 poz. 1195](DU/2026/DU-2026-1195.md) | 2026-09-10 | [Dz.U. 2025 poz. 570](DU/2025/DU-2025-570.md) |
 | o szczególnych zasadach wykonywania niektórych zadań dotyczących informatyzacji w zakresie działów administracji rządowej budżet i finanse publiczne | [Dz.U. 2025 poz. 1642](DU/2025/DU-2025-1642.md) | 2025-11-27 | – |
+| o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa | [Dz.U. 2026 poz. 1363](DU/2026/DU-2026-1363.md) | 2026-10-21 | – |
 | o szczególnych zasadach, warunkach i trybie mianowania na wyższe stopnie wojskowe żołnierzy uczestniczących w walkach o wolność i niepodległość Polski podczas II wojny światowej i w okresie powojennym | [Dz.U. 2026 poz. 563](DU/2026/DU-2026-563.md) | 2026-04-27 | – |
 | o służbie cywilnej | [Dz.U. 2026 poz. 590](DU/2026/DU-2026-590.md) | 2026-04-30 | – |
 | o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego | [Dz.U. 2025 poz. 694](DU/2025/DU-2025-694.md) | 2025-05-28 | – |
@@ -343,7 +345,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o zarządzaniu kryzysowym | [Dz.U. 2026 poz. 574](DU/2026/DU-2026-574.md) | 2026-04-28 | – |
 | o zasadach ewidencji i identyfikacji podatników i płatników | [Dz.U. 2026 poz. 151](DU/2026/DU-2026-151.md) | 2026-02-10 | [Dz.U. 2025 poz. 237](DU/2025/DU-2025-237.md) |
 | o zasadach pozyskiwania informacji o niekaralności osób ubiegających się o zatrudnienie i osób zatrudnionych w podmiotach sektora finansowego | [Dz.U. 2025 poz. 566](DU/2025/DU-2025-566.md) | 2025-04-29 | – |
-| o zasadach prowadzenia polityki rozwoju | [Dz.U. 2025 poz. 198](DU/2025/DU-2025-198.md) | 2025-02-14 | – |
+| o zasadach prowadzenia polityki rozwoju | [Dz.U. 2026 poz. 1366](DU/2026/DU-2026-1366.md) | 2026-10-21 | [Dz.U. 2025 poz. 198](DU/2025/DU-2025-198.md) |
 | o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021-2027 | [Dz.U. 2025 poz. 1733](DU/2025/DU-2025-1733.md) | 2025-12-09 | – |
 | o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej | [Dz.U. 2026 poz. 1313](DU/2026/DU-2026-1313.md) | 2026-10-09 | [Dz.U. 2025 poz. 89](DU/2025/DU-2025-89.md) |
 | o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej | [Dz.U. 2026 poz. 166](DU/2026/DU-2026-166.md) | 2026-02-13 | – |
@@ -385,7 +387,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Kodeks pracy | [Dz.U. 2026 poz. 1245](DU/2026/DU-2026-1245.md) | 2026-09-24 | [Dz.U. 2025 poz. 277](DU/2025/DU-2025-277.md) |
 | – Kodeks rodzinny i opiekuńczy | [Dz.U. 2026 poz. 236](DU/2026/DU-2026-236.md) | 2026-02-27 | – |
 | – Kodeks wyborczy | [Dz.U. 2026 poz. 1261](DU/2026/DU-2026-1261.md) | 2026-09-28 | [Dz.U. 2025 poz. 365](DU/2025/DU-2025-365.md) |
-| – Kodeks wykroczeń | [Dz.U. 2025 poz. 734](DU/2025/DU-2025-734.md) | 2025-06-04 | – |
+| – Kodeks wykroczeń | [Dz.U. 2026 poz. 1372](DU/2026/DU-2026-1372.md) | 2026-10-21 | [Dz.U. 2025 poz. 734](DU/2025/DU-2025-734.md) |
 | – Ordynacja podatkowa | [Dz.U. 2026 poz. 622](DU/2026/DU-2026-622.md) | 2026-05-11 | [Dz.U. 2025 poz. 111](DU/2025/DU-2025-111.md) |
 | – Prawo atomowe | [Dz.U. 2026 poz. 1](DU/2026/DU-2026-1.md) | 2026-01-02 | – |
 | – Prawo bankowe | [Dz.U. 2026 poz. 38](DU/2026/DU-2026-38.md) | 2026-01-13 | – |
@@ -399,6 +401,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo o notariacie | [Dz.U. 2026 poz. 614](DU/2026/DU-2026-614.md) | 2026-05-07 | – |
 | – Prawo o postępowaniu przed sądami administracyjnymi | [Dz.U. 2026 poz. 143](DU/2026/DU-2026-143.md) | 2026-02-09 | – |
 | – Prawo o prokuraturze | [Dz.U. 2026 poz. 810](DU/2026/DU-2026-810.md) | 2026-06-19 | – |
+| – Prawo o szkolnictwie wyższym i nauce | [Dz.U. 2026 poz. 1362](DU/2026/DU-2026-1362.md) | 2026-10-21 | – |
 | – Prawo o ustroju sądów wojskowych | [Dz.U. 2025 poz. 1614](DU/2025/DU-2025-1614.md) | 2025-11-25 | – |
 | – Prawo ochrony środowiska | [Dz.U. 2025 poz. 647](DU/2025/DU-2025-647.md) | 2025-05-19 | – |
 | – Prawo oświatowe | [Dz.U. 2026 poz. 820](DU/2026/DU-2026-820.md) | 2026-06-22 | [Dz.U. 2025 poz. 1043](DU/2025/DU-2025-1043.md) |
@@ -411,7 +414,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
-## Rozporządzenia (497)
+## Rozporządzenia (498)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -708,7 +711,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Spraw Wewnętrznych w sprawie Systemu Wspomagania Dowodzenia Policji | [Dz.U. 2026 poz. 944](DU/2026/DU-2026-944.md) | 2026-07-14 | – |
 | Ministra Spraw Zagranicznych w sprawie mnożników dodatku zagranicznego | [Dz.U. 2026 poz. 1075](DU/2026/DU-2026-1075.md) | 2026-08-10 | – |
 | Ministra Spraw Zagranicznych w sprawie naboru na aplikację dyplomatyczno-konsularną | [Dz.U. 2026 poz. 1164](DU/2026/DU-2026-1164.md) | 2026-09-02 | – |
-| Ministra Spraw Zagranicznych w sprawie obniżonych opłat konsularnych | [Dz.U. 2025 poz. 362](DU/2025/DU-2025-362.md) | 2025-03-24 | – |
+| Ministra Spraw Zagranicznych w sprawie obniżonych opłat konsularnych | [Dz.U. 2026 poz. 1367](DU/2026/DU-2026-1367.md) | 2026-10-21 | [Dz.U. 2025 poz. 362](DU/2025/DU-2025-362.md) |
 | Ministra Spraw Zagranicznych w sprawie opłat konsularnych | [Dz.U. 2026 poz. 1298](DU/2026/DU-2026-1298.md) | 2026-10-06 | [Dz.U. 2025 poz. 76](DU/2025/DU-2025-76.md) |
 | Ministra Spraw Zagranicznych w sprawie spisu wyborców sporządzanego i aktualizowanego przez konsula | [Dz.U. 2025 poz. 1477](DU/2025/DU-2025-1477.md) | 2025-10-28 | – |
 | Ministra Spraw Zagranicznych w sprawie wiz oraz dokumentów potwierdzających pełnienie funkcji członków misji dyplomatycznych i urzędów konsularnych państw obcych | [Dz.U. 2026 poz. 1301](DU/2026/DU-2026-1301.md) | 2026-10-07 | – |
@@ -816,6 +819,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Zdrowia w sprawie rodzajów dokumentacji medycznej służby medycyny pracy, sposobu jej prowadzenia i przechowywania oraz wzorów stosowanych dokumentów | [Dz.U. 2026 poz. 651](DU/2026/DU-2026-651.md) | 2026-05-15 | – |
 | Ministra Zdrowia w sprawie rodzajów elektronicznej dokumentacji medycznej | [Dz.U. 2026 poz. 1059](DU/2026/DU-2026-1059.md) | 2026-08-06 | – |
 | Ministra Zdrowia w sprawie rzeczoznawców do spraw sanitarnohigienicznych | [Dz.U. 2025 poz. 1067](DU/2025/DU-2025-1067.md) | 2025-08-05 | – |
+| Ministra Zdrowia w sprawie składu oraz oznakowania suplementów diety | [Dz.U. 2026 poz. 1364](DU/2026/DU-2026-1364.md) | 2026-10-21 | – |
 | Ministra Zdrowia w sprawie specjalizacji i uzyskiwania tytułu specjalisty przez diagnostów laboratoryjnych | [Dz.U. 2026 poz. 1027](DU/2026/DU-2026-1027.md) | 2026-07-31 | – |
 | Ministra Zdrowia w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia | [Dz.U. 2026 poz. 1103](DU/2026/DU-2026-1103.md) | 2026-08-18 | – |
 | Ministra Zdrowia w sprawie sposobu ustalania ryczałtu systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej | [Dz.U. 2025 poz. 878](DU/2025/DU-2025-878.md) | 2025-07-04 | – |
