@@ -1,7 +1,7 @@
 {
  "eli": "DU/2019/341",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 stycznia 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kierujących pojazdami",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2019/341/text.pdf",
  "body": [
   {
@@ -2232,7 +2232,14 @@
            "type": "lit",
            "num": "a",
            "path": "art_13/ust_1/pkt_1/lit_a",
-           "text": "okres ten może być krótszy, o ile wynika to z orzeczenia lekarskiego, o którym mowa w art. 11 ust. 1 pkt 2 lit. a, b)[^6] prawo jazdy kategorii B uzyskane po raz pierwszy wydaje się na okres, o którym mowa w art. 91 ust. 1, z zastrzeżeniem art. 92 ust. 1;",
+           "text": "okres ten może być krótszy, o ile wynika to z orzeczenia lekarskiego, o którym mowa w art. 11 ust. 1 pkt 2 lit. a,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "art_13/ust_1/pkt_1/lit_b",
+           "text": "[^6] prawo jazdy kategorii B uzyskane po raz pierwszy wydaje się na okres, o którym mowa w art. 91 ust. 1, z zastrzeżeniem art. 92 ust. 1;",
            "children": []
           }
          ]
@@ -2620,26 +2627,33 @@
          "type": "pkt",
          "num": "4",
          "path": "art_16/ust_2/pkt_4",
-         "text": "zdała egzamin państwowy wymagany do uzyskania pozwolenia; 5)[^7] uprzedzona o odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy oświadcza, że:",
+         "text": "zdała egzamin państwowy wymagany do uzyskania pozwolenia;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "art_16/ust_2/pkt_5",
+         "text": "[^7] uprzedzona o odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy oświadcza, że:",
          "children": [
           {
            "type": "lit",
            "num": "a",
-           "path": "art_16/ust_2/pkt_4/lit_a",
+           "path": "art_16/ust_2/pkt_5/lit_a",
            "text": "nie został orzeczony w stosunku do niej, prawomocnym wyrokiem sądu, zakaz prowadzenia pojazdów mechanicznych,",
            "children": []
           },
           {
            "type": "lit",
            "num": "b",
-           "path": "art_16/ust_2/pkt_4/lit_b",
+           "path": "art_16/ust_2/pkt_5/lit_b",
            "text": "nie ma zatrzymanego prawa jazdy ani pozwolenia na kierowanie tramwajem,",
            "children": []
           },
           {
            "type": "lit",
            "num": "c",
-           "path": "art_16/ust_2/pkt_4/lit_c",
+           "path": "art_16/ust_2/pkt_5/lit_c",
            "text": "nie ma cofniętego uprawnienia do kierowania pojazdami.",
            "children": []
           }

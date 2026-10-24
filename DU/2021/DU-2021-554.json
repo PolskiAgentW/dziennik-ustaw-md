@@ -1,7 +1,7 @@
 {
  "eli": "DU/2021/554",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 lutego 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków",
- "converter": "eli2md 0.6.59",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2021/554/text.pdf",
  "body": [
   {
@@ -477,54 +477,61 @@
          "type": "lit",
          "num": "ba",
          "path": "art_2/pkt_1b/lit_ba",
-         "text": "[^4] likwidacja urządzeń lub systemów grzewczych ogrzewających budynki mieszkalne jednorodzinne lub urządzeń lub systemów podgrzewających wodę użytkową w tych budynkach, które nie spełniają standardów niskoemisyjnych, oraz zapewnienie budynkowi mieszkalnemu jednorodzinnemu dostępu do energii z zewnętrznej instalacji odnawialnego źródła energii w rozumieniu ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2020 r. poz. 261, z późn. zm.[^5]) oraz dostępu do pompy ciepła, wraz z zainstalowaniem urządzeń służących doprowadzaniu energii elektrycznej z tej instalacji oraz zainstalowaniem w tych budynkach niezbędnych urządzeń lub systemów grzewczych ogrzewających budynki mieszkalne jednorodzinne lub urządzeń lub systemów podgrzewających wodę użytkową, c)[^6] zmniejszenie zapotrzebowania budynków mieszkalnych jednorodzinnych na energię dostarczaną na potrzeby ich ogrzewania i podgrzewania wody użytkowej, jeżeli równocześnie:",
+         "text": "[^4] likwidacja urządzeń lub systemów grzewczych ogrzewających budynki mieszkalne jednorodzinne lub urządzeń lub systemów podgrzewających wodę użytkową w tych budynkach, które nie spełniają standardów niskoemisyjnych, oraz zapewnienie budynkowi mieszkalnemu jednorodzinnemu dostępu do energii z zewnętrznej instalacji odnawialnego źródła energii w rozumieniu ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2020 r. poz. 261, z późn. zm.[^5]) oraz dostępu do pompy ciepła, wraz z zainstalowaniem urządzeń służących doprowadzaniu energii elektrycznej z tej instalacji oraz zainstalowaniem w tych budynkach niezbędnych urządzeń lub systemów grzewczych ogrzewających budynki mieszkalne jednorodzinne lub urządzeń lub systemów podgrzewających wodę użytkową,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_2/pkt_1b/lit_c",
+         "text": "[^6] zmniejszenie zapotrzebowania budynków mieszkalnych jednorodzinnych na energię dostarczaną na potrzeby ich ogrzewania i podgrzewania wody użytkowej, jeżeli równocześnie:",
          "children": [
           {
            "type": "tir",
            "num": "1",
-           "path": "art_2/pkt_1b/lit_ba/tir_1",
+           "path": "art_2/pkt_1b/lit_c/tir_1",
            "text": "następuje wymiana urządzeń lub systemów grzewczych ogrzewających budynki mieszkalne jednorodzinne lub urządzeń lub systemów podgrzewających wodę użytkową w tych budynkach, które nie spełniają standardów niskoemisyjnych, na spełniające standardy niskoemisyjne albo",
            "children": []
           },
           {
            "type": "tir",
            "num": "2",
-           "path": "art_2/pkt_1b/lit_ba/tir_2",
+           "path": "art_2/pkt_1b/lit_c/tir_2",
            "text": "następuje wymiana urządzeń lub systemów grzewczych ogrzewających budynki mieszkalne jednorodzinne lub urządzeń lub systemów podgrzewających wodę użytkową w tych budynkach, które nie spełniają standardów niskoemisyjnych, oraz budowa albo modernizacja przyłącza gazowego albo elektroenergetycznego do budynku mieszkalnego jednorodzinnego, albo",
            "children": []
           },
           {
            "type": "tir",
            "num": "3",
-           "path": "art_2/pkt_1b/lit_ba/tir_3",
+           "path": "art_2/pkt_1b/lit_c/tir_3",
            "text": "następuje likwidacja urządzeń lub systemów grzewczych ogrzewających budynki mieszkalne jednorodzinne lub urządzeń lub systemów podgrzewających wodę użytkową w tych budynkach, które nie spełniają standardów niskoemisyjnych, oraz budowa przyłącza ciepłowniczego do budynku mieszkalnego jednorodzinnego, albo",
            "children": []
           },
           {
            "type": "tir",
            "num": "4",
-           "path": "art_2/pkt_1b/lit_ba/tir_4",
+           "path": "art_2/pkt_1b/lit_c/tir_4",
            "text": "istniejące urządzenia lub systemy grzewcze spełniają standardy niskoemisyjne, albo",
            "children": []
           },
           {
            "type": "tir",
            "num": "5",
-           "path": "art_2/pkt_1b/lit_ba/tir_5",
+           "path": "art_2/pkt_1b/lit_c/tir_5",
            "text": "budynek mieszkalny jednorodzinny jest przyłączony do sieci ciepłowniczej, albo",
            "children": []
           },
           {
            "type": "tir",
            "num": "6",
-           "path": "art_2/pkt_1b/lit_ba/tir_6",
+           "path": "art_2/pkt_1b/lit_c/tir_6",
            "text": "budynek mieszkalny jednorodzinny jest przyłączony, na potrzeby ogrzewania budynku, do sieci gazowej lub elektroenergetycznej, albo",
            "children": []
           },
           {
            "type": "tir",
            "num": "7",
-           "path": "art_2/pkt_1b/lit_ba/tir_7",
+           "path": "art_2/pkt_1b/lit_c/tir_7",
            "text": "w budynku mieszkalnym jednorodzinnym jest wykorzystywany kocioł na paliwo stałe spełniający wymagania klasy 5 zgodnie z normą przenoszącą europejską normę EN 303-5:2012, a w przypadku wydania nowszej wersji tej normy zgodnie z normą ją przenoszącą;",
            "children": []
           }

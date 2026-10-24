@@ -1,7 +1,7 @@
 {
  "eli": "DU/2020/1027",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 maja 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami",
- "converter": "eli2md 0.6.59",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2020/1027/text.pdf",
  "body": [
   {
@@ -4291,10 +4291,17 @@
              "type": "tir",
              "num": "8",
              "path": "art_49/ust_1/pkt_1/lit_b/tir_8",
-             "text": "skarbowe, c)[^5] która posiada co najmniej wykształcenie średnie lub średnie branżowe,",
+             "text": "skarbowe,",
              "children": []
             }
            ]
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "art_49/ust_1/pkt_1/lit_c",
+           "text": "[^5] która posiada co najmniej wykształcenie średnie lub średnie branżowe,",
+           "children": []
           },
           {
            "type": "lit",

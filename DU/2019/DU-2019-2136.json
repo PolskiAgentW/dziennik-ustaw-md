@@ -1,7 +1,7 @@
 {
  "eli": "DU/2019/2136",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 października 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2019/2136/text.pdf",
  "body": [
   {
@@ -524,19 +524,26 @@
        "type": "pkt",
        "num": "6",
        "path": "art_8/pkt_6",
-       "text": "dla osób zatrudnionych w podmiotach, o których mowa w art. 1 pkt 12 – trzykrotności, 6a)[^7] dla zatrudnionych w podmiotach, o których mowa w art. 1 pkt 17, osób, o których mowa w art. 2:",
+       "text": "dla osób zatrudnionych w podmiotach, o których mowa w art. 1 pkt 12 – trzykrotności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6a",
+       "path": "art_8/pkt_6a",
+       "text": "[^7] dla zatrudnionych w podmiotach, o których mowa w art. 1 pkt 17, osób, o których mowa w art. 2:",
        "children": [
         {
          "type": "lit",
          "num": "a",
-         "path": "art_8/pkt_6/lit_a",
+         "path": "art_8/pkt_6a/lit_a",
          "text": "pkt 1 i 2 – dziesięciokrotności,",
          "children": []
         },
         {
          "type": "lit",
          "num": "b",
-         "path": "art_8/pkt_6/lit_b",
+         "path": "art_8/pkt_6a/lit_b",
          "text": "pkt 4 – sześciokrotności,",
          "children": []
         }

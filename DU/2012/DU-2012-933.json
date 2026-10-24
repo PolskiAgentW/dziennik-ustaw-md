@@ -1,7 +1,7 @@
 {
  "eli": "DU/2012/933",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 maja 2012 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo lotnicze",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2012/933/text.pdf",
  "body": [
   {
@@ -5377,10 +5377,17 @@
          "type": "pkt",
          "num": "3",
          "path": "art_56/ust_1/pkt_3",
-         "text": "(uchylony).[^85] 2.[^86] Zezwolenie na założenie lotniska może zawierać warunek spełnienia przez wnioskodawcę dodatkowych wymagań określonych w tym zezwoleniu, wiążących się z eksploatacją lotniska.",
+         "text": "(uchylony).[^85]",
          "children": []
         }
        ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_56/ust_2",
+       "text": "[^86] Zezwolenie na założenie lotniska może zawierać warunek spełnienia przez wnioskodawcę dodatkowych wymagań określonych w tym zezwoleniu, wiążących się z eksploatacją lotniska.",
+       "children": []
       },
       {
        "type": "ust",
@@ -20776,7 +20783,14 @@
          "type": "pkt",
          "num": "9",
          "path": "art_211/ust_1/pkt_9",
-         "text": "[^380] wbrew art. 123 ust. 1 wykonuje lot próbny, akrobacyjny nad osiedlem lub innym skupiskiem ludności, 9a)[^381] wbrew art. 123 ust. 2 dokonuje w czasie lotu zrzutu ze statku powietrznego,",
+         "text": "[^380] wbrew art. 123 ust. 1 wykonuje lot próbny, akrobacyjny nad osiedlem lub innym skupiskiem ludności,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "9a",
+         "path": "art_211/ust_1/pkt_9a",
+         "text": "[^381] wbrew art. 123 ust. 2 dokonuje w czasie lotu zrzutu ze statku powietrznego,",
          "children": []
         },
         {

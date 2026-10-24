@@ -1,7 +1,7 @@
 {
  "eli": "DU/2021/450",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 marca 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo o ruchu drogowym",
- "converter": "eli2md 0.6.59",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2021/450/text.pdf",
  "body": [
   {
@@ -4803,8 +4803,15 @@
        "type": "ust",
        "num": "1",
        "path": "art_38/ust_1",
-       "text": "Kierujący pojazdem jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu wymagane dla danego rodzaju pojazdu lub kierującego: 1)[^6] dokument stwierdzający uprawnienie do kierowania pojazdem inny niż wydane w kraju prawo jazdy albo pozwolenie na kierowanie tramwajem, jeżeli kierujący nie posiada wydanego w kraju prawa jazdy albo pozwolenia na kierowanie tramwajem;",
+       "text": "Kierujący pojazdem jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu wymagane dla danego rodzaju pojazdu lub kierującego:",
        "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_38/ust_1/pkt_1",
+         "text": "[^6] dokument stwierdzający uprawnienie do kierowania pojazdem inny niż wydane w kraju prawo jazdy albo pozwolenie na kierowanie tramwajem, jeżeli kierujący nie posiada wydanego w kraju prawa jazdy albo pozwolenia na kierowanie tramwajem;",
+         "children": []
+        },
         {
          "type": "pkt",
          "num": "2",
@@ -15986,7 +15993,14 @@
            "type": "lit",
            "num": "a",
            "path": "art_76/ust_1/pkt_1/lit_a",
-           "text": "[^97] warunki i tryb rejestracji pojazdów, czasowej rejestracji pojazdów, wyrejestrowania pojazdów, z zastrzeżeniem ust. 2–3, oraz wzory dowodu rejestracyjnego, pozwolenia czasowego, nalepki kontrolnej, tablic rejestracyjnych oraz innych tablic, cech identyfikacyjnych i oznaczeń, w które zaopatruje się pojazd, a także ich opis, a)[^98] warunki i tryb rejestracji, czasowej rejestracji i wyrejestrowania pojazdów, z zastrzeżeniem ust. 2–3, oraz wzory:",
+           "text": "[^97] warunki i tryb rejestracji pojazdów, czasowej rejestracji pojazdów, wyrejestrowania pojazdów, z zastrzeżeniem ust. 2–3, oraz wzory dowodu rejestracyjnego, pozwolenia czasowego, nalepki kontrolnej, tablic rejestracyjnych oraz innych tablic, cech identyfikacyjnych i oznaczeń, w które zaopatruje się pojazd, a także ich opis,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "art_76/ust_1/pkt_1/lit_a",
+           "text": "[^98] warunki i tryb rejestracji, czasowej rejestracji i wyrejestrowania pojazdów, z zastrzeżeniem ust. 2–3, oraz wzory:",
            "children": [
             {
              "type": "tir",
@@ -16567,7 +16581,14 @@
        "type": "pkt",
        "num": "1",
        "path": "art_78b/pkt_1",
-       "text": "[^122] dowodu rejestracyjnego, pozwolenia czasowego, zalegalizowanych tablic (tablicy) rejestracyjnych i nalepki kontrolnej oraz ich wtórników, o których mowa w art. 75 ust. 2, 1)[^123] dowodu rejestracyjnego, pozwolenia czasowego, zalegalizowanych tablic (tablicy) rejestracyjnych oraz ich wtórników, o których mowa w art. 75 ust. 2,",
+       "text": "[^122] dowodu rejestracyjnego, pozwolenia czasowego, zalegalizowanych tablic (tablicy) rejestracyjnych i nalepki kontrolnej oraz ich wtórników, o których mowa w art. 75 ust. 2,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_78b/pkt_1",
+       "text": "[^123] dowodu rejestracyjnego, pozwolenia czasowego, zalegalizowanych tablic (tablicy) rejestracyjnych oraz ich wtórników, o których mowa w art. 75 ust. 2,",
        "children": []
       },
       {
@@ -17652,8 +17673,22 @@
        "type": "ust",
        "num": "1",
        "path": "art_80ba/ust_1",
-       "text": "Dane, o których mowa w art. 80b ust. 1, są przekazywane do ewidencji: 1)[^143] przez organ właściwy w sprawach rejestracji pojazdów – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 1, pkt 2–5 z wyłączeniem daty zgonu, pkt 8, 8a, 9 i 9a, pkt 10 w zakresie terminu okresowego badania technicznego pojazdu w przypadku rejestracji pojazdu wcześniej niezarejestrowanego na terytorium Rzeczypospolitej Polskiej, pkt 12, 13, 17, 18 i 20; 1)[^144] przez organ właściwy w sprawach rejestracji pojazdów – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 1, pkt 2–5 z wyłączeniem daty zgonu, pkt 8, 8a, 9 i 9a, pkt 10 w zakresie terminu okresowego badania technicznego pojazdu w przypadku rejestracji pojazdu wcześniej niezarejestrowanego na terytorium Rzeczypospolitej Polskiej, pkt 12, 13, 17, 18, 20 i 23;",
+       "text": "Dane, o których mowa w art. 80b ust. 1, są przekazywane do ewidencji:",
        "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_80ba/ust_1/pkt_1",
+         "text": "[^143] przez organ właściwy w sprawach rejestracji pojazdów – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 1, pkt 2–5 z wyłączeniem daty zgonu, pkt 8, 8a, 9 i 9a, pkt 10 w zakresie terminu okresowego badania technicznego pojazdu w przypadku rejestracji pojazdu wcześniej niezarejestrowanego na terytorium Rzeczypospolitej Polskiej, pkt 12, 13, 17, 18 i 20;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_80ba/ust_1/pkt_1",
+         "text": "[^144] przez organ właściwy w sprawach rejestracji pojazdów – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 1, pkt 2–5 z wyłączeniem daty zgonu, pkt 8, 8a, 9 i 9a, pkt 10 w zakresie terminu okresowego badania technicznego pojazdu w przypadku rejestracji pojazdu wcześniej niezarejestrowanego na terytorium Rzeczypospolitej Polskiej, pkt 12, 13, 17, 18, 20 i 23;",
+         "children": []
+        },
         {
          "type": "pkt",
          "num": "2",
@@ -17679,7 +17714,14 @@
          "type": "pkt",
          "num": "4",
          "path": "art_80ba/ust_1/pkt_4",
-         "text": "przez właściwą jednostkę organizacyjną Policji, Straży Granicznej, Krajowej Administracji Skarbowej, Inspekcji Transportu Drogowego lub Żandarmerii Wojskowej – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 15 i 15a; 5)[^145] przez centralną informację o zastawach rejestrowych, za pośrednictwem systemu teleinformatycznego Ministra Sprawiedliwości, niezwłocznie po dokonaniu przez sąd wpisu zastawu rejestrowego do rejestru zastawów – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 7;",
+         "text": "przez właściwą jednostkę organizacyjną Policji, Straży Granicznej, Krajowej Administracji Skarbowej, Inspekcji Transportu Drogowego lub Żandarmerii Wojskowej – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 15 i 15a;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "art_80ba/ust_1/pkt_5",
+         "text": "[^145] przez centralną informację o zastawach rejestrowych, za pośrednictwem systemu teleinformatycznego Ministra Sprawiedliwości, niezwłocznie po dokonaniu przez sąd wpisu zastawu rejestrowego do rejestru zastawów – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 7;",
          "children": []
         },
         {
@@ -17700,7 +17742,14 @@
          "type": "pkt",
          "num": "7",
          "path": "art_80ba/ust_1/pkt_7",
-         "text": "przez Ubezpieczeniowy Fundusz Gwarancyjny – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 11. 8)[^146] przez marszałka województwa – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 16a;",
+         "text": "przez Ubezpieczeniowy Fundusz Gwarancyjny – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 11.",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "8",
+         "path": "art_80ba/ust_1/pkt_8",
+         "text": "[^146] przez marszałka województwa – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 16a;",
          "children": []
         },
         {

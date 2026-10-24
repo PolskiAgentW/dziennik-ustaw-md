@@ -1,7 +1,7 @@
 {
  "eli": "DU/2019/499",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 lutego 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo farmaceutyczne",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2019/499/text.pdf",
  "body": [
   {
@@ -18303,7 +18303,14 @@
            "type": "lit",
            "num": "a",
            "path": "art_81/ust_1/pkt_2/lit_a",
-           "text": "bez uprzedniego zgłoszenia Głównemu Inspektorowi Farmaceutycznemu, b)[^92] przed upływem terminu na zgłoszenie sprzeciwu określonego w art. 37av ust. 3,",
+           "text": "bez uprzedniego zgłoszenia Głównemu Inspektorowi Farmaceutycznemu,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "art_81/ust_1/pkt_2/lit_b",
+           "text": "[^92] przed upływem terminu na zgłoszenie sprzeciwu określonego w art. 37av ust. 3,",
            "children": []
           },
           {
@@ -21270,47 +21277,54 @@
        "type": "ust",
        "num": "11",
        "path": "art_96a/ust_11",
-       "text": "(uchylony)[^131] 12.[^132] Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:",
+       "text": "(uchylony)[^131]",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "12",
+       "path": "art_96a/ust_12",
+       "text": "[^132] Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:",
        "children": [
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_96a/ust_11/pkt_1",
+         "path": "art_96a/ust_12/pkt_1",
          "text": "sposób wystawiania i realizacji recept, w tym zakres danych niezbędnych do ich realizacji i wymagania dotyczące potwierdzania realizacji recept,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_96a/ust_11/pkt_2",
+         "path": "art_96a/ust_12/pkt_2",
          "text": "budowę i sposób nadawania unikalnego numeru identyfikującego receptę, o którym mowa w ust. 1 pkt 6 i ust. 8 pkt 6, oraz sposób postępowania po nadaniu tego numeru,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "3",
-         "path": "art_96a/ust_11/pkt_3",
+         "path": "art_96a/ust_12/pkt_3",
          "text": "sposób przechowywania recept,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "4",
-         "path": "art_96a/ust_11/pkt_4",
+         "path": "art_96a/ust_12/pkt_4",
          "text": "kody uprawnień dodatkowych pacjentów i wykaz dokumentów potwierdzających te uprawnienia,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "5",
-         "path": "art_96a/ust_11/pkt_5",
+         "path": "art_96a/ust_12/pkt_5",
          "text": "identyfikatory oddziałów wojewódzkich Narodowego Funduszu Zdrowia,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "6",
-         "path": "art_96a/ust_11/pkt_6",
+         "path": "art_96a/ust_12/pkt_6",
          "text": "wymiary i wzory recept wystawianych w postaci papierowej",
          "children": []
         },

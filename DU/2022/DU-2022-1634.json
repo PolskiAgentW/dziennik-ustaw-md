@@ -1,7 +1,7 @@
 {
  "eli": "DU/2022/1634",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 lipca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o finansach publicznych",
- "converter": "eli2md 0.6.59",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2022/1634/text.pdf",
  "body": [
   {
@@ -4431,7 +4431,14 @@
            "type": "lit",
            "num": "g",
            "path": "art_41/ust_2/pkt_1/lit_g",
-           "text": "z wykonania planów finansowych państwowych funduszy celowych, h)[^26] o stanie środków finansowych na rachunkach bankowych jednostek samorządu terytorialnego, państwowych jednostek budżetowych i urzędów skarbowych,",
+           "text": "z wykonania planów finansowych państwowych funduszy celowych,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "h",
+           "path": "art_41/ust_2/pkt_1/lit_h",
+           "text": "[^26] o stanie środków finansowych na rachunkach bankowych jednostek samorządu terytorialnego, państwowych jednostek budżetowych i urzędów skarbowych,",
            "children": []
           },
           {
@@ -9177,20 +9184,28 @@
            "type": "lit",
            "num": "b",
            "path": "art_112aa/ust_3/pkt_5/lit_b",
-           "text": "w wysokości określonej w planie, o którym mowa w art. 65 ust. 21 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw – w przypadku niezatwierdzenia planu finansowego Funduszu Przeciwdziałania COVID-19 w terminie, o którym mowa w art. 65 ust. 24a tej ustawy, 6)[^55] planowanych wydatków Funduszu Pomocy, o którym mowa w ustawie z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583, z późn. zm.[^56]), oraz wydatków lub kosztów organów i jednostek, o których mowa w ust. 1, których źródłem finansowania są środki Funduszu Pomocy, do których nie mają zastosowania przepisy ust. 2 i 2a:",
+           "text": "w wysokości określonej w planie, o którym mowa w art. 65 ust. 21 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw – w przypadku niezatwierdzenia planu finansowego Funduszu Przeciwdziałania COVID-19 w terminie, o którym mowa w art. 65 ust. 24a tej ustawy,",
            "children": []
-          },
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "art_112aa/ust_3/pkt_6",
+         "text": "[^55] planowanych wydatków Funduszu Pomocy, o którym mowa w ustawie z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583, z późn. zm.[^56]), oraz wydatków lub kosztów organów i jednostek, o których mowa w ust. 1, których źródłem finansowania są środki Funduszu Pomocy, do których nie mają zastosowania przepisy ust. 2 i 2a:",
+         "children": [
           {
            "type": "lit",
            "num": "a",
-           "path": "art_112aa/ust_3/pkt_5/lit_a",
+           "path": "art_112aa/ust_3/pkt_6/lit_a",
            "text": "określonych w planie finansowym Funduszu Pomocy zatwierdzonym w terminie, o którym mowa w art. 14 ust. 31 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa,",
            "children": []
           },
           {
            "type": "lit",
            "num": "b",
-           "path": "art_112aa/ust_3/pkt_5/lit_b",
+           "path": "art_112aa/ust_3/pkt_6/lit_b",
            "text": "w wysokości określonej w planie, o którym mowa w art. 14 ust. 27 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa – w przypadku niezatwierdzenia planu finansowego w terminie wymienionym w art. 14 ust. 31 tej ustawy",
            "children": []
           },

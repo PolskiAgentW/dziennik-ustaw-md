@@ -1,7 +1,7 @@
 {
  "eli": "DU/2017/1221",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 maja 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podatku od towarów i usług",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2017/1221/text.pdf",
  "body": [
   {
@@ -3496,7 +3496,14 @@
        "type": "ust",
        "num": "10",
        "path": "art_19a/ust_10",
-       "text": "(uchylony)[^14] 10a.[^15] W przypadku objęcia towarów procedurą uszlachetniania czynnego obowiązek podatkowy z tytułu importu towarów powstaje z chwilą zamknięcia procedury uszlachetniania czynnego zgodnie z art. 324 rozporządzenia wykonawczego Komisji (UE) 2015/2447 z dnia 24 listopada 2015 r. ustanawiającego szczegółowe zasady wykonania niektórych przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 ustanawiającego unijny kodeks celny (Dz. Urz. UE L 343 z 29.12.2015, str. 558, z późn. zm.[^16]), zwanego dalej „rozporządzeniem 2015/2447”.",
+       "text": "(uchylony)[^14]",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "10a",
+       "path": "art_19a/ust_10a",
+       "text": "[^15] W przypadku objęcia towarów procedurą uszlachetniania czynnego obowiązek podatkowy z tytułu importu towarów powstaje z chwilą zamknięcia procedury uszlachetniania czynnego zgodnie z art. 324 rozporządzenia wykonawczego Komisji (UE) 2015/2447 z dnia 24 listopada 2015 r. ustanawiającego szczegółowe zasady wykonania niektórych przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 ustanawiającego unijny kodeks celny (Dz. Urz. UE L 343 z 29.12.2015, str. 558, z późn. zm.[^16]), zwanego dalej „rozporządzeniem 2015/2447”.",
        "children": []
       },
       {
@@ -12742,10 +12749,17 @@
            "type": "lit",
            "num": "b",
            "path": "art_87/ust_4f/pkt_1/lit_b",
-           "text": "kontroli podatkowej w zakresie rozliczenia, którego dotyczy zabezpieczenie – do upływu terminu 3 miesięcy od dnia zakończenia kontroli, jeżeli w tym terminie nie wszczęto postępowania podatkowego; 2)[^79] w przypadku wszczęcia kontroli celno-skarbowej w zakresie rozliczenia, którego dotyczy zabezpieczenie – do upływu terminu 3 miesięcy od dnia zakończenia tej kontroli, a jeżeli w tym terminie doszło do przekształcenia kontroli celno-skarbowej w postępowanie podatkowe w zakresie rozliczenia, którego dotyczy zabezpieczenie – do zakończenia tego postępowania;",
+           "text": "kontroli podatkowej w zakresie rozliczenia, którego dotyczy zabezpieczenie – do upływu terminu 3 miesięcy od dnia zakończenia kontroli, jeżeli w tym terminie nie wszczęto postępowania podatkowego;",
            "children": []
           }
          ]
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_87/ust_4f/pkt_2",
+         "text": "[^79] w przypadku wszczęcia kontroli celno-skarbowej w zakresie rozliczenia, którego dotyczy zabezpieczenie – do upływu terminu 3 miesięcy od dnia zakończenia tej kontroli, a jeżeli w tym terminie doszło do przekształcenia kontroli celno-skarbowej w postępowanie podatkowe w zakresie rozliczenia, którego dotyczy zabezpieczenie – do zakończenia tego postępowania;",
+         "children": []
         },
         {
          "type": "pkt",
@@ -15909,26 +15923,33 @@
          "type": "pkt",
          "num": "2",
          "path": "art_105a/ust_3/pkt_2",
-         "text": "jeżeli powstanie zaległości podatkowych nie wiązało się z uczestnictwem podmiotu dokonującego dostawy towarów, o którym mowa w ust. 1, w nierzetelnym rozliczaniu podatku w celu odniesienia korzyści majątkowej, lub 3)[^118] jeżeli w związku z dokonaniem dostawy towarów wymienionych w poz. 1–9 i 12–24 załącznika nr 13 do ustawy łącznie były spełnione następujące warunki:",
+         "text": "jeżeli powstanie zaległości podatkowych nie wiązało się z uczestnictwem podmiotu dokonującego dostawy towarów, o którym mowa w ust. 1, w nierzetelnym rozliczaniu podatku w celu odniesienia korzyści majątkowej, lub",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_105a/ust_3/pkt_3",
+         "text": "[^118] jeżeli w związku z dokonaniem dostawy towarów wymienionych w poz. 1–9 i 12–24 załącznika nr 13 do ustawy łącznie były spełnione następujące warunki:",
          "children": [
           {
            "type": "lit",
            "num": "a",
-           "path": "art_105a/ust_3/pkt_2/lit_a",
+           "path": "art_105a/ust_3/pkt_3/lit_a",
            "text": "podmiot dokonujący dostawy tych towarów na dzień dokonania tej dostawy był wymieniony w wykazie, o którym mowa w art. 105c ust. 1,",
            "children": []
           },
           {
            "type": "lit",
            "num": "b",
-           "path": "art_105a/ust_3/pkt_2/lit_b",
+           "path": "art_105a/ust_3/pkt_3/lit_b",
            "text": "wysokość kaucji gwarancyjnej, o której mowa w art. 105b ust. 1, na dzień dokonania tej dostawy odpowiadała co najmniej jednej piątej kwoty podatku należnego przypadającej na dostawy towarów dokonane w danym miesiącu na rzecz danego podatnika lub kaucja ta wynosiła co najmniej 3 000 000 zł,",
            "children": []
           },
           {
            "type": "lit",
            "num": "c",
-           "path": "art_105a/ust_3/pkt_2/lit_c",
+           "path": "art_105a/ust_3/pkt_3/lit_c",
            "text": "podatnik, na rzecz którego dokonano dostawy tych towarów, dokonał w całości zapłaty za towary na rachunek, o którym mowa w art. 105b ust. 1 pkt 4, lub",
            "children": []
           }

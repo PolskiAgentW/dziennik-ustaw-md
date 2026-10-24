@@ -1,7 +1,7 @@
 {
  "eli": "DU/2020/1268",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 czerwca 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kierujących pojazdami",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2020/1268/text.pdf",
  "body": [
   {
@@ -1745,7 +1745,14 @@
            "type": "lit",
            "num": "a",
            "path": "art_13/ust_1/pkt_1/lit_a",
-           "text": "okres ten może być krótszy, o ile wynika to z orzeczenia lekarskiego, o którym mowa w art. 11 ust. 1 pkt 2 lit. a, b)[^2] prawo jazdy kategorii B uzyskane po raz pierwszy wydaje się na okres, o którym mowa w art. 91 ust. 1, z zastrzeżeniem art. 92 ust. 1;",
+           "text": "okres ten może być krótszy, o ile wynika to z orzeczenia lekarskiego, o którym mowa w art. 11 ust. 1 pkt 2 lit. a,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "art_13/ust_1/pkt_1/lit_b",
+           "text": "[^2] prawo jazdy kategorii B uzyskane po raz pierwszy wydaje się na okres, o którym mowa w art. 91 ust. 1, z zastrzeżeniem art. 92 ust. 1;",
            "children": []
           }
          ]
@@ -6449,19 +6456,26 @@
            "type": "lit",
            "num": "b",
            "path": "art_46/ust_3/pkt_2/lit_b",
-           "text": "odpowiedniego organu podległego ministrowi właściwemu do spraw wewnętrznych – w przypadku szkolenia osób ubiegających się o uzyskanie uprawnienia do kierowania pojazdami prowadzonego przez jednostkę organizacyjną służb podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych, c)[^6] organu właściwego do wykonywania nadzoru pedagogicznego – w przypadku szkolenia w szkole, dla której:",
+           "text": "odpowiedniego organu podległego ministrowi właściwemu do spraw wewnętrznych – w przypadku szkolenia osób ubiegających się o uzyskanie uprawnienia do kierowania pojazdami prowadzonego przez jednostkę organizacyjną służb podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "art_46/ust_3/pkt_2/lit_c",
+           "text": "[^6] organu właściwego do wykonywania nadzoru pedagogicznego – w przypadku szkolenia w szkole, dla której:",
            "children": [
             {
              "type": "tir",
              "num": "1",
-             "path": "art_46/ust_3/pkt_2/lit_b/tir_1",
+             "path": "art_46/ust_3/pkt_2/lit_c/tir_1",
              "text": "podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym lub gdy szkoła realizuje to szkolenie dla uczniów (słuchaczy) w ramach dodatkowych umiejętności zawodowych w zakresie wybranych zawodów, o których mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, lub",
              "children": []
             },
             {
              "type": "tir",
              "num": "2",
-             "path": "art_46/ust_3/pkt_2/lit_b/tir_2",
+             "path": "art_46/ust_3/pkt_2/lit_c/tir_2",
              "text": "podstawa programowa kształcenia ogólnego przewiduje uzyskanie karty rowerowej.",
              "children": []
             }

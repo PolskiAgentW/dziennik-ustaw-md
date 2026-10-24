@@ -1,7 +1,7 @@
 {
  "eli": "DU/2022/943",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 kwietnia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rozwoju lokalnym z udziałem lokalnej społeczności",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2022/943/text.pdf",
  "body": [
   {
@@ -440,20 +440,28 @@
            "type": "lit",
            "num": "c",
            "path": "art_5/ust_1/pkt_2/lit_c",
-           "text": "[^22] w pozostałych przypadkach – obejmuje co najmniej dwie gminy i jest zamieszkany nie mniej niż przez 30 tys. mieszkańców, 3)[^23] LSR będzie realizowana przez LGD:",
+           "text": "[^22] w pozostałych przypadkach – obejmuje co najmniej dwie gminy i jest zamieszkany nie mniej niż przez 30 tys. mieszkańców,",
            "children": []
-          },
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_5/ust_1/pkt_3",
+         "text": "[^23] LSR będzie realizowana przez LGD:",
+         "children": [
           {
            "type": "lit",
            "num": "a",
-           "path": "art_5/ust_1/pkt_2/lit_a",
+           "path": "art_5/ust_1/pkt_3/lit_a",
            "text": "spełniającą wymagania określone w rozporządzeniu 2021/1060 oraz w art. 4,",
            "children": []
           },
           {
            "type": "lit",
            "num": "b",
-           "path": "art_5/ust_1/pkt_2/lit_b",
+           "path": "art_5/ust_1/pkt_3/lit_b",
            "text": "posiadającą opracowany plan komunikacji z lokalną społecznością,",
            "children": []
           }

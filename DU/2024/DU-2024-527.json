@@ -1,7 +1,7 @@
 {
  "eli": "DU/2024/527",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o społecznych formach rozwoju mieszkalnictwa",
- "converter": "eli2md 0.6.59",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2024/527/text.pdf",
  "body": [
   {
@@ -2330,7 +2330,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Cz ∗(100 %−0,75 %∗n/4) P =P ∗ z w Cw"
+         "text": "Cz ∗(100 %−0,75 %∗n/4) Pz =Pw ∗ Cw"
         },
         {
          "type": "text",
@@ -2390,26 +2390,33 @@
          "type": "pkt",
          "num": "1",
          "path": "art_30/ust_1/pkt_1",
-         "text": "osoba fizyczna oraz osoby zgłoszone do wspólnego zamieszkania, w dniu objęcia lokalu, nie posiadają tytułu prawnego do innego lokalu mieszkalnego w tej samej miejscowości, 2)[^17] średni miesięczny dochód gospodarstwa domowego w roku poprzedzającym rok, w którym jest zawierana umowa najmu lokalu wybudowanego przy wykorzystaniu kredytu udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosków o kredyt złożonych do dnia 30 września 2009 r., w przypadku, gdy z budową lokalu było związane zawarcie umowy, o której mowa w art. 29 ust. 1 lub w art. 29a ust. 1, lub wybudowanego przy udziale finansowania zwrotnego, w przypadku, gdy z budową lokalu było związane zawarcie umowy, o której mowa w art. 29 ust. 2b, nie przekracza 1,5 ostatnio ogłoszonego przeciętnego wynagrodzenia miesięcznego brutto w gospodarce narodowej w województwie, na terenie którego położony jest lokal mieszkalny, więcej niż o:",
+         "text": "osoba fizyczna oraz osoby zgłoszone do wspólnego zamieszkania, w dniu objęcia lokalu, nie posiadają tytułu prawnego do innego lokalu mieszkalnego w tej samej miejscowości,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_30/ust_1/pkt_2",
+         "text": "[^17] średni miesięczny dochód gospodarstwa domowego w roku poprzedzającym rok, w którym jest zawierana umowa najmu lokalu wybudowanego przy wykorzystaniu kredytu udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosków o kredyt złożonych do dnia 30 września 2009 r., w przypadku, gdy z budową lokalu było związane zawarcie umowy, o której mowa w art. 29 ust. 1 lub w art. 29a ust. 1, lub wybudowanego przy udziale finansowania zwrotnego, w przypadku, gdy z budową lokalu było związane zawarcie umowy, o której mowa w art. 29 ust. 2b, nie przekracza 1,5 ostatnio ogłoszonego przeciętnego wynagrodzenia miesięcznego brutto w gospodarce narodowej w województwie, na terenie którego położony jest lokal mieszkalny, więcej niż o:",
          "children": [
           {
            "type": "lit",
            "num": "a",
-           "path": "art_30/ust_1/pkt_1/lit_a",
+           "path": "art_30/ust_1/pkt_2/lit_a",
            "text": "5 % w jednoosobowym gospodarstwie domowym,",
            "children": []
           },
           {
            "type": "lit",
            "num": "b",
-           "path": "art_30/ust_1/pkt_1/lit_b",
+           "path": "art_30/ust_1/pkt_2/lit_b",
            "text": "55 % w dwuosobowym gospodarstwie domowym,",
            "children": []
           },
           {
            "type": "lit",
            "num": "c",
-           "path": "art_30/ust_1/pkt_1/lit_c",
+           "path": "art_30/ust_1/pkt_2/lit_c",
            "text": "dalsze 35 % na każdą dodatkową osobę w gospodarstwie domowym o większej liczbie osób,",
            "children": []
           }

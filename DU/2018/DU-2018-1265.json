@@ -1,7 +1,7 @@
 {
  "eli": "DU/2018/1265",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 czerwca 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o promocji zatrudnienia i instytucjach rynku pracy",
- "converter": "eli2md 0.6.59",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2018/1265/text.pdf",
  "body": [
   {
@@ -743,19 +743,26 @@
            "type": "lit",
            "num": "e",
            "path": "art_2/ust_1/pkt_2/lit_e",
-           "text": "nie uzyskuje przychodów podlegających opodatkowaniu podatkiem dochodowym z działów specjalnych produkcji rolnej, chyba że dochód z działów specjalnych produkcji rolnej, obliczony dla ustalenia podatku dochodowego od osób fizycznych, nie przekracza wysokości przeciętnego dochodu z pracy w indywidualnych gospodarstwach rolnych z 2 ha przeliczeniowych ustalonego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o podatku rolnym, lub nie podlega ubezpieczeniom emerytalnemu i rentowym z tytułu stałej pracy jako współmałżonek lub domownik w takim gospodarstwie, f)[^8] nie złożyła wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo po złożeniu wniosku o wpis:",
+           "text": "nie uzyskuje przychodów podlegających opodatkowaniu podatkiem dochodowym z działów specjalnych produkcji rolnej, chyba że dochód z działów specjalnych produkcji rolnej, obliczony dla ustalenia podatku dochodowego od osób fizycznych, nie przekracza wysokości przeciętnego dochodu z pracy w indywidualnych gospodarstwach rolnych z 2 ha przeliczeniowych ustalonego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o podatku rolnym, lub nie podlega ubezpieczeniom emerytalnemu i rentowym z tytułu stałej pracy jako współmałżonek lub domownik w takim gospodarstwie,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "f",
+           "path": "art_2/ust_1/pkt_2/lit_f",
+           "text": "[^8] nie złożyła wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo po złożeniu wniosku o wpis:",
            "children": [
             {
              "type": "tir",
              "num": "1",
-             "path": "art_2/ust_1/pkt_2/lit_e/tir_1",
+             "path": "art_2/ust_1/pkt_2/lit_f/tir_1",
              "text": "zgłosiła do Centralnej Ewidencji i Informacji o Działalności Gospodarczej wniosek o zawieszenie wykonywania działalności gospodarczej i okres zawieszenia jeszcze nie upłynął, albo",
              "children": []
             },
             {
              "type": "tir",
              "num": "2",
-             "path": "art_2/ust_1/pkt_2/lit_e/tir_2",
+             "path": "art_2/ust_1/pkt_2/lit_f/tir_2",
              "text": "nie upłynął jeszcze okres do, określonego we wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, dnia podjęcia działalności gospodarczej,",
              "children": []
             }
@@ -22228,7 +22235,7 @@
        "type": "ust",
        "num": "7",
        "path": "art_150g/ust_7",
-       "text": "Podziału środków, o których mowa w ust. 3, dla województw, na rok 2016, 2017 i 2018, dokonuje, w terminie miesiąca od dnia wejścia w życie ustawy, minister właściwy do spraw pracy według następującego algorytmu: Bwn Lw =Lkj×",
+       "text": "Podziału środków, o których mowa w ust. 3, dla województw, na rok 2016, 2017 i 2018, dokonuje, w terminie miesiąca od dnia wejścia w życie ustawy, minister właściwy do spraw pracy według następującego algorytmu: Bwn Lwjn =Lkj× Bk",
        "children": [
         {
          "type": "text",
@@ -22236,7 +22243,7 @@
         },
         {
          "type": "text",
-         "text": "Lw jn − kwota kosztów (limit wydatków), jaka może być poniesiona w j-tym roku budżetowym w n-tym województwie na finansowanie zadania, o którym mowa w art. 150f,"
+         "text": "Lwjn − kwota kosztów (limit wydatków), jaka może być poniesiona w j-tym roku budżetowym w n-tym województwie na finansowanie zadania, o którym mowa w art. 150f,"
         },
         {
          "type": "text",
@@ -22628,7 +22635,7 @@
   "176": "Ze zmianą wprowadzoną przez art. 1 pkt 22 lit. c ustawy, o której mowa w odnośniku 4.",
   "177": "Ze zmianą wprowadzoną przez art. 1 pkt 22 lit. d ustawy, o której mowa w odnośniku 4.",
   "178": "Dodany przez art. 1 pkt 22 lit. e ustawy, o której mowa w odnośniku 4.",
-  "179": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. poz. 844, 1143, 1176, 1268, 1302, 1380, 1608, 1966, 2036, 2037, 2217 i 2255 oraz z 2004 r. poz. 593, 624 i 959. jn Bk",
+  "179": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. poz. 844, 1143, 1176, 1268, 1302, 1380, 1608, 1966, 2036, 2037, 2217 i 2255 oraz z 2004 r. poz. 593, 624 i 959.",
   "180": "Dodany przez art. 33 pkt 4 ustawy, o której mowa w odnośniku 169.",
   "181": "Ustawa została ogłoszona w dniu 1 maja 2004 r."
  }

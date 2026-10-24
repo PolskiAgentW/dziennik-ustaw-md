@@ -1,7 +1,7 @@
 {
  "eli": "DU/2022/690",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 marca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o promocji zatrudnienia i instytucjach rynku pracy",
- "converter": "eli2md 0.6.59",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2022/690/text.pdf",
  "body": [
   {
@@ -689,7 +689,14 @@
            "type": "lit",
            "num": "c",
            "path": "art_1/ust_3/pkt_2/lit_c",
-           "text": "obywateli państw niebędących stronami umowy o Europejskim Obszarze Gospodarczym, którzy mogą korzystać ze swobody przepływu osób na podstawie umów zawartych przez te państwa ze Wspólnotą Europejską i jej państwami członkowskimi, ca)[^2] obywateli Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o których mowa w art. 10 ust. 1 lit. b i d Umowy o Wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm.[^3]), zwanej dalej „Umową Wystąpienia”, oraz członków ich rodzin, o których mowa w art. 10 ust. 1 lit. e i f tej umowy,",
+           "text": "obywateli państw niebędących stronami umowy o Europejskim Obszarze Gospodarczym, którzy mogą korzystać ze swobody przepływu osób na podstawie umów zawartych przez te państwa ze Wspólnotą Europejską i jej państwami członkowskimi,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "ca",
+           "path": "art_1/ust_3/pkt_2/lit_ca",
+           "text": "[^2] obywateli Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o których mowa w art. 10 ust. 1 lit. b i d Umowy o Wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm.[^3]), zwanej dalej „Umową Wystąpienia”, oraz członków ich rodzin, o których mowa w art. 10 ust. 1 lit. e i f tej umowy,",
            "children": []
           },
           {
@@ -18940,7 +18947,14 @@
          "type": "pkt",
          "num": "2",
          "path": "art_88z/ust_2/pkt_2",
-         "text": "praca cudzoziemca nie jest związana z działalnością określoną w przepisach wydanych na podstawie art. 90 ust. 9, oraz 3)[^34] okres wykonywania pracy określony w złożonym oświadczeniu o powierzeniu wykonywania pracy cudzoziemcowi jest nie dłuższy niż 24 miesiące, oraz",
+         "text": "praca cudzoziemca nie jest związana z działalnością określoną w przepisach wydanych na podstawie art. 90 ust. 9, oraz",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_88z/ust_2/pkt_3",
+         "text": "[^34] okres wykonywania pracy określony w złożonym oświadczeniu o powierzeniu wykonywania pracy cudzoziemcowi jest nie dłuższy niż 24 miesiące, oraz",
          "children": []
         },
         {
@@ -24618,7 +24632,7 @@
        "type": "ust",
        "num": "7",
        "path": "art_150g/ust_7",
-       "text": "Podziału środków, o których mowa w ust. 3, dla województw, na rok 2016, 2017 i 2018, dokonuje, w terminie miesiąca od dnia wejścia w życie ustawy, minister właściwy do spraw pracy według następującego algorytmu: Bwn Lw =Lkj× jn Bk",
+       "text": "Podziału środków, o których mowa w ust. 3, dla województw, na rok 2016, 2017 i 2018, dokonuje, w terminie miesiąca od dnia wejścia w życie ustawy, minister właściwy do spraw pracy według następującego algorytmu: Bwn Lwjn =Lkj× Bk",
        "children": [
         {
          "type": "text",
@@ -24626,7 +24640,7 @@
         },
         {
          "type": "text",
-         "text": "Lw jn − kwota kosztów (limit wydatków), jaka może być poniesiona w j-tym roku budżetowym w n-tym województwie na finansowanie zadania, o którym mowa w art. 150f,"
+         "text": "Lwjn − kwota kosztów (limit wydatków), jaka może być poniesiona w j-tym roku budżetowym w n-tym województwie na finansowanie zadania, o którym mowa w art. 150f,"
         },
         {
          "type": "text",

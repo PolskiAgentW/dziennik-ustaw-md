@@ -1,7 +1,7 @@
 {
  "eli": "DU/2015/581",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 8 kwietnia 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2015/581/text.pdf",
  "body": [
   {
@@ -7025,10 +7025,17 @@
            "type": "tir",
            "num": "2",
            "path": "art_31n/pkt_1/lit_a/tir_2",
-           "text": "usuwania danego świadczenia opieki zdrowotnej z wykazu świadczeń gwarantowanych, b)[^128] opracowywania raportów w sprawie oceny świadczeń opieki zdrowotnej,",
+           "text": "usuwania danego świadczenia opieki zdrowotnej z wykazu świadczeń gwarantowanych,",
            "children": []
           }
          ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_31n/pkt_1/lit_b",
+         "text": "[^128] opracowywania raportów w sprawie oceny świadczeń opieki zdrowotnej,",
+         "children": []
         },
         {
          "type": "lit",
@@ -24849,7 +24856,14 @@
        "type": "pkt",
        "num": "5a",
        "path": "art_193/pkt_5a",
-       "text": "[^497] uniemożliwia lub ogranicza w poważnym stopniu możliwość zapisywania się na listy oczekujących, 6)[^498] będąc ubezpieczonym, nie informuje podmiotu właściwego do dokonania zgłoszenia do ubezpieczenia zdrowotnego o okolicznościach powodujących konieczność zgłoszenia lub wyrejestrowania członka rodziny,",
+       "text": "[^497] uniemożliwia lub ogranicza w poważnym stopniu możliwość zapisywania się na listy oczekujących,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_193/pkt_6",
+       "text": "[^498] będąc ubezpieczonym, nie informuje podmiotu właściwego do dokonania zgłoszenia do ubezpieczenia zdrowotnego o okolicznościach powodujących konieczność zgłoszenia lub wyrejestrowania członka rodziny,",
        "children": []
       },
       {

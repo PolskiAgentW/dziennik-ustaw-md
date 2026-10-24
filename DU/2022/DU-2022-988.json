@@ -1,7 +1,7 @@
 {
  "eli": "DU/2022/988",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 28 kwietnia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo o ruchu drogowym",
- "converter": "eli2md 0.6.59",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2022/988/text.pdf",
  "body": [
   {
@@ -16134,10 +16134,17 @@
              "type": "tir",
              "num": "2",
              "path": "art_76/ust_1/pkt_1/lit_a/tir_2",
-             "text": "tablic rejestracyjnych oraz innych tablic, cech identyfikacyjnych i oznaczeń, w które zaopatruje się pojazd, a także ich opis oraz sposób ich umieszczania, b)[^46] warunki dystrybucji blankietów dowodów rejestracyjnych, pozwoleń czasowych i nalepek kontrolnych,",
+             "text": "tablic rejestracyjnych oraz innych tablic, cech identyfikacyjnych i oznaczeń, w które zaopatruje się pojazd, a także ich opis oraz sposób ich umieszczania,",
              "children": []
             }
            ]
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "art_76/ust_1/pkt_1/lit_b",
+           "text": "[^46] warunki dystrybucji blankietów dowodów rejestracyjnych, pozwoleń czasowych i nalepek kontrolnych,",
+           "children": []
           },
           {
            "type": "lit",
@@ -16613,12 +16620,19 @@
            "type": "lit",
            "num": "b",
            "path": "art_78a/ust_2/pkt_5/lit_b",
-           "text": "w przypadku wystąpienia szkody istotnej. 3.[^57] Decyzję o czasowym wycofaniu pojazdu z ruchu wydaje za opłatą organ, o którym mowa w ust. 1, po złożeniu przez właściciela pojazdu lub podmiot, o którym mowa w art. 73 ust. 2 i 5, do depozytu w tym organie dowodu rejestracyjnego i tablic rejestracyjnych.",
+           "text": "w przypadku wystąpienia szkody istotnej.",
            "children": []
           }
          ]
         }
        ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_78a/ust_3",
+       "text": "[^57] Decyzję o czasowym wycofaniu pojazdu z ruchu wydaje za opłatą organ, o którym mowa w ust. 1, po złożeniu przez właściciela pojazdu lub podmiot, o którym mowa w art. 73 ust. 2 i 5, do depozytu w tym organie dowodu rejestracyjnego i tablic rejestracyjnych.",
+       "children": []
       },
       {
        "type": "ust",
@@ -16638,7 +16652,14 @@
        "type": "ust",
        "num": "4b",
        "path": "art_78a/ust_4b",
-       "text": "[^57] W przypadku samochodu osobowego właściciel pojazdu lub podmiot, o którym mowa w art. 73 ust. 2 i 5, składając wniosek o czasowe wycofanie pojazdu z ruchu, składają oświadczenie, że pojazd ten wymaga wykonania naprawy w związku z uszkodzeniem zasadniczych elementów nośnych konstrukcji w przypadkach, o których mowa w art. 81 ust. 11 pkt 1 lit. b oraz pkt 6, lub w przypadku wystąpienia szkody istotnej. Oświadczenie to składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń. 4c.[^57] Warunkiem dopuszczenia samochodu osobowego do ruchu po jego czasowym wycofaniu jest wykonanie dodatkowego badania technicznego pojazdu potwierdzone w centralnej ewidencji pojazdów. W przypadku braku w centralnej ewidencji pojazdów informacji o dodatkowym badaniu technicznym dopuszczenie do ruchu następuje na podstawie przedłożonego zaświadczenia o przeprowadzonym dodatkowym badaniu technicznym pojazdu.",
+       "text": "[^57] W przypadku samochodu osobowego właściciel pojazdu lub podmiot, o którym mowa w art. 73 ust. 2 i 5, składając wniosek o czasowe wycofanie pojazdu z ruchu, składają oświadczenie, że pojazd ten wymaga wykonania naprawy w związku z uszkodzeniem zasadniczych elementów nośnych konstrukcji w przypadkach, o których mowa w art. 81 ust. 11 pkt 1 lit. b oraz pkt 6, lub w przypadku wystąpienia szkody istotnej. Oświadczenie to składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4c",
+       "path": "art_78a/ust_4c",
+       "text": "[^57] Warunkiem dopuszczenia samochodu osobowego do ruchu po jego czasowym wycofaniu jest wykonanie dodatkowego badania technicznego pojazdu potwierdzone w centralnej ewidencji pojazdów. W przypadku braku w centralnej ewidencji pojazdów informacji o dodatkowym badaniu technicznym dopuszczenie do ruchu następuje na podstawie przedłożonego zaświadczenia o przeprowadzonym dodatkowym badaniu technicznym pojazdu.",
        "children": []
       },
       {
@@ -17115,7 +17136,14 @@
            "type": "lit",
            "num": "c",
            "path": "art_80a/ust_2/pkt_3/lit_c",
-           "text": "dokonano wymiany licznika przebiegu pojazdu (drogomierza) i odczytu wskazania wymienionego drogomierza lub dokonano odczytu wskazania drogomierza w czasie kontroli, d)[^60] wydano zezwolenie na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd.",
+           "text": "dokonano wymiany licznika przebiegu pojazdu (drogomierza) i odczytu wskazania wymienionego drogomierza lub dokonano odczytu wskazania drogomierza w czasie kontroli,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "d",
+           "path": "art_80a/ust_2/pkt_3/lit_d",
+           "text": "[^60] wydano zezwolenie na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd.",
            "children": []
           }
          ]
@@ -17807,7 +17835,14 @@
          "type": "pkt",
          "num": "4",
          "path": "art_80ba/ust_1/pkt_4",
-         "text": "przez właściwą jednostkę organizacyjną Policji, Straży Granicznej, Krajowej Administracji Skarbowej, Inspekcji Transportu Drogowego lub Żandarmerii Wojskowej – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 15 i 15a; 5)[^68] przez centralną informację o zastawach rejestrowych, za pośrednictwem systemu teleinformatycznego Ministra Sprawiedliwości, niezwłocznie po dokonaniu przez sąd wpisu zastawu rejestrowego do rejestru zastawów – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 7;",
+         "text": "przez właściwą jednostkę organizacyjną Policji, Straży Granicznej, Krajowej Administracji Skarbowej, Inspekcji Transportu Drogowego lub Żandarmerii Wojskowej – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 15 i 15a;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "art_80ba/ust_1/pkt_5",
+         "text": "[^68] przez centralną informację o zastawach rejestrowych, za pośrednictwem systemu teleinformatycznego Ministra Sprawiedliwości, niezwłocznie po dokonaniu przez sąd wpisu zastawu rejestrowego do rejestru zastawów – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 7;",
          "children": []
         },
         {
@@ -17828,7 +17863,28 @@
          "type": "pkt",
          "num": "7",
          "path": "art_80ba/ust_1/pkt_7",
-         "text": "przez Ubezpieczeniowy Fundusz Gwarancyjny – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 11. 8)[^69] przez marszałka województwa – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 16a; 9)[^70] przez stację demontażu lub punkty zbierania pojazdów – z wyłączeniem pojazdów, o których mowa w art. 73 ust. 3 – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 16; 10)[^71] przez Dyrektora Transportowego Dozoru Technicznego – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 21a, oraz w przypadku wydania zezwolenia na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd, dla pojazdu niezarejestrowanego – także w zakresie danych, o których mowa w art. 80b ust. 1 pkt 1 lit. a i pkt 13.",
+         "text": "przez Ubezpieczeniowy Fundusz Gwarancyjny – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 11.",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "8",
+         "path": "art_80ba/ust_1/pkt_8",
+         "text": "[^69] przez marszałka województwa – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 16a;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "9",
+         "path": "art_80ba/ust_1/pkt_9",
+         "text": "[^70] przez stację demontażu lub punkty zbierania pojazdów – z wyłączeniem pojazdów, o których mowa w art. 73 ust. 3 – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 16;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "10",
+         "path": "art_80ba/ust_1/pkt_10",
+         "text": "[^71] przez Dyrektora Transportowego Dozoru Technicznego – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 21a, oraz w przypadku wydania zezwolenia na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd, dla pojazdu niezarejestrowanego – także w zakresie danych, o których mowa w art. 80b ust. 1 pkt 1 lit. a i pkt 13.",
          "children": []
         }
        ]
@@ -29667,7 +29723,14 @@
          "type": "lit",
          "num": "c",
          "path": "art_140i/pkt_4/lit_c",
-         "text": "przedstawiciel wojewody, d)[^170] przedstawiciel Szefa Centralnego Wojskowego Centrum Rekrutacji,",
+         "text": "przedstawiciel wojewody,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "art_140i/pkt_4/lit_d",
+         "text": "[^170] przedstawiciel Szefa Centralnego Wojskowego Centrum Rekrutacji,",
          "children": []
         },
         {

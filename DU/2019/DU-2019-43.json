@@ -1,7 +1,7 @@
 {
  "eli": "DU/2019/43",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 grudnia 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2019/43/text.pdf",
  "body": [
   {
@@ -733,7 +733,14 @@
          "type": "pkt",
          "num": "6",
          "path": "art_4/ust_1/pkt_6",
-         "text": "dowody zakupu – otrzymane faktury, rachunki, paragony, dowody wewnętrzne oraz opis otrzymanego towaru; 7)[^6] karty przychodów – indywidualne (imienne) karty przychodów pracowników, prowadzone przez podatników dokonujących pracownikom wypłat należności ze stosunku pracy, o których mowa w art. 12 ustawy o podatku dochodowym;",
+         "text": "dowody zakupu – otrzymane faktury, rachunki, paragony, dowody wewnętrzne oraz opis otrzymanego towaru;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "art_4/ust_1/pkt_7",
+         "text": "[^6] karty przychodów – indywidualne (imienne) karty przychodów pracowników, prowadzone przez podatników dokonujących pracownikom wypłat należności ze stosunku pracy, o których mowa w art. 12 ustawy o podatku dochodowym;",
          "children": []
         },
         {
@@ -1272,7 +1279,14 @@
        "type": "ust",
        "num": "1",
        "path": "art_9/ust_1",
-       "text": "[^18] Pisemne oświadczenie o wyborze opodatkowania w formie ryczałtu od przychodów ewidencjonowanych na dany rok podatkowy podatnik składa naczelnikowi urzędu skarbowego właściwemu według miejsca zamieszkania podatnika, a w przypadku przedsiębiorstwa w spadku – według ostatniego miejsca zamieszkania zmarłego przedsiębiorcy, nie później niż do dnia 20 stycznia roku podatkowego.[^19] Jeżeli podatnik rozpoczyna prowadzenie pozarolniczej działalności gospodarczej w trakcie roku podatkowego, pisemne oświadczenie składa naczelnikowi urzędu skarbowego właściwemu według miejsca zamieszkania podatnika, nie później niż w dniu uzyskania pierwszego przychodu. Oświadczenie o wyborze opodatkowania w formie ryczałtu od przychodów ewidencjonowanych na dany rok podatkowy podatnik może złożyć na podstawie przepisów ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. poz. 647, 1544, 1629 i 2244), zwanej dalej „ustawą o CEIDG”. Jeżeli do dnia 20 stycznia roku podatkowego podatnik nie zgłosił likwidacji działalności gospodarczej lub nie dokonał wyboru innej formy opodatkowania, uważa się, że nadal prowadzi działalność opodatkowaną w formie ryczałtu od przychodów ewidencjonowanych. 1.[^20] Pisemne oświadczenie o wyborze opodatkowania przychodów z pozarolniczej działalności gospodarczej w formie ryczałtu od przychodów ewidencjonowanych na dany rok podatkowy podatnik składa naczelnikowi urzędu skarbowego właściwemu według miejsca zamieszkania podatnika, a w przypadku przedsiębiorstwa w spadku – według ostatniego miejsca zamieszkania zmarłego przedsiębiorcy, do 20. dnia miesiąca następującego po miesiącu, w którym osiągnął pierwszy przychód z tego tytułu w roku podatkowym, albo do końca roku podatkowego, jeżeli pierwszy taki przychód osiągnął w grudniu roku podatkowego.",
+       "text": "[^18] Pisemne oświadczenie o wyborze opodatkowania w formie ryczałtu od przychodów ewidencjonowanych na dany rok podatkowy podatnik składa naczelnikowi urzędu skarbowego właściwemu według miejsca zamieszkania podatnika, a w przypadku przedsiębiorstwa w spadku – według ostatniego miejsca zamieszkania zmarłego przedsiębiorcy, nie później niż do dnia 20 stycznia roku podatkowego.[^19] Jeżeli podatnik rozpoczyna prowadzenie pozarolniczej działalności gospodarczej w trakcie roku podatkowego, pisemne oświadczenie składa naczelnikowi urzędu skarbowego właściwemu według miejsca zamieszkania podatnika, nie później niż w dniu uzyskania pierwszego przychodu. Oświadczenie o wyborze opodatkowania w formie ryczałtu od przychodów ewidencjonowanych na dany rok podatkowy podatnik może złożyć na podstawie przepisów ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. poz. 647, 1544, 1629 i 2244), zwanej dalej „ustawą o CEIDG”. Jeżeli do dnia 20 stycznia roku podatkowego podatnik nie zgłosił likwidacji działalności gospodarczej lub nie dokonał wyboru innej formy opodatkowania, uważa się, że nadal prowadzi działalność opodatkowaną w formie ryczałtu od przychodów ewidencjonowanych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_9/ust_1",
+       "text": "[^20] Pisemne oświadczenie o wyborze opodatkowania przychodów z pozarolniczej działalności gospodarczej w formie ryczałtu od przychodów ewidencjonowanych na dany rok podatkowy podatnik składa naczelnikowi urzędu skarbowego właściwemu według miejsca zamieszkania podatnika, a w przypadku przedsiębiorstwa w spadku – według ostatniego miejsca zamieszkania zmarłego przedsiębiorcy, do 20. dnia miesiąca następującego po miesiącu, w którym osiągnął pierwszy przychód z tego tytułu w roku podatkowym, albo do końca roku podatkowego, jeżeli pierwszy taki przychód osiągnął w grudniu roku podatkowego.",
        "children": []
       },
       {
@@ -1293,14 +1307,28 @@
        "type": "ust",
        "num": "1c",
        "path": "art_9/ust_1c",
-       "text": "[^21] Oświadczenia, o których mowa odpowiednio w ust. 1–1b, podatnik może złożyć na podstawie przepisów ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. poz. 647, 1544, 1629 i 2244), zwanej dalej „ustawą o CEIDG”. 2.[^22] Oświadczenie, o którym mowa w ust. 1, w przypadku prowadzenia działalności w formie spółki składają wszyscy wspólnicy naczelnikom urzędów skarbowych właściwym według miejsca zamieszkania każdego ze wspólników, a w przypadku przedsiębiorstwa w spadku – według ostatniego miejsca zamieszkania zmarłego przedsiębiorcy.[^23] Wspólnicy spółki cywilnej osób fizycznych mogą złożyć oświadczenie o wyborze opodatkowania w formie ryczałtu od przychodów ewidencjonowanych na podstawie przepisów ustawy o CEIDG.",
+       "text": "[^21] Oświadczenia, o których mowa odpowiednio w ust. 1–1b, podatnik może złożyć na podstawie przepisów ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. poz. 647, 1544, 1629 i 2244), zwanej dalej „ustawą o CEIDG”.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_9/ust_2",
+       "text": "[^22] Oświadczenie, o którym mowa w ust. 1, w przypadku prowadzenia działalności w formie spółki składają wszyscy wspólnicy naczelnikom urzędów skarbowych właściwym według miejsca zamieszkania każdego ze wspólników, a w przypadku przedsiębiorstwa w spadku – według ostatniego miejsca zamieszkania zmarłego przedsiębiorcy.[^23] Wspólnicy spółki cywilnej osób fizycznych mogą złożyć oświadczenie o wyborze opodatkowania w formie ryczałtu od przychodów ewidencjonowanych na podstawie przepisów ustawy o CEIDG.",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
        "path": "art_9/ust_3",
-       "text": "W przypadku rozpoczęcia działalności gospodarczej w trakcie roku podatkowego i niezłożenia w określonym terminie oświadczenia (wniosku), o którym mowa w ust. 1 lub w art. 29 ust. 1, podatnik jest obowiązany do założenia właściwych ksiąg i opłacania podatku na zasadach określonych w ustawie o podatku dochodowym. 4.[^24] W przypadku osiągania przychodów, o których mowa w art. 6 ust. 1a, przepisy dotyczące oświadczenia o wyborze opodatkowania w formie ryczałtu od przychodów ewidencjonowanych stosuje się odpowiednio, z tym że podatnik rozpoczynający osiąganie takich przychodów w trakcie roku podatkowego składa pisemne oświadczenie o wyborze opodatkowania w formie ryczałtu od przychodów ewidencjonowanych za dany rok podatkowy naczelnikowi urzędu skarbowego właściwemu według miejsca zamieszkania podatnika nie później niż do 20 dnia miesiąca następującego po miesiącu, w którym osiągnął pierwszy przychód z tego tytułu, albo do końca roku podatkowego, jeżeli pierwszy taki przychód osiągnął w grudniu roku podatkowego.",
+       "text": "W przypadku rozpoczęcia działalności gospodarczej w trakcie roku podatkowego i niezłożenia w określonym terminie oświadczenia (wniosku), o którym mowa w ust. 1 lub w art. 29 ust. 1, podatnik jest obowiązany do założenia właściwych ksiąg i opłacania podatku na zasadach określonych w ustawie o podatku dochodowym.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_9/ust_4",
+       "text": "[^24] W przypadku osiągania przychodów, o których mowa w art. 6 ust. 1a, przepisy dotyczące oświadczenia o wyborze opodatkowania w formie ryczałtu od przychodów ewidencjonowanych stosuje się odpowiednio, z tym że podatnik rozpoczynający osiąganie takich przychodów w trakcie roku podatkowego składa pisemne oświadczenie o wyborze opodatkowania w formie ryczałtu od przychodów ewidencjonowanych za dany rok podatkowy naczelnikowi urzędu skarbowego właściwemu według miejsca zamieszkania podatnika nie później niż do 20 dnia miesiąca następującego po miesiącu, w którym osiągnął pierwszy przychód z tego tytułu, albo do końca roku podatkowego, jeżeli pierwszy taki przychód osiągnął w grudniu roku podatkowego.",
        "children": []
       },
       {
@@ -2194,7 +2222,14 @@
        "type": "ust",
        "num": "3a",
        "path": "art_15/ust_3a",
-       "text": "(uchylony)[^47] 4.[^48] Ewidencję oraz dowody, na podstawie których są dokonywane wpisy do ewidencji, a także dowody zakupu, o których mowa w ust. 1, należy przechowywać w miejscu wykonywania działalności lub, jeżeli działalność jest prowadzona w formie spółki, w miejscu wskazanym przez podatnika lub podatników – jako ich siedziba, albo w biurze rachunkowym, któremu zostało powierzone prowadzenie ewidencji.",
+       "text": "(uchylony)[^47]",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_15/ust_4",
+       "text": "[^48] Ewidencję oraz dowody, na podstawie których są dokonywane wpisy do ewidencji, a także dowody zakupu, o których mowa w ust. 1, należy przechowywać w miejscu wykonywania działalności lub, jeżeli działalność jest prowadzona w formie spółki, w miejscu wskazanym przez podatnika lub podatników – jako ich siedziba, albo w biurze rachunkowym, któremu zostało powierzone prowadzenie ewidencji.",
        "children": []
       },
       {
@@ -2911,7 +2946,21 @@
          "type": "pkt",
          "num": "1",
          "path": "art_21/ust_13/pkt_1",
-         "text": "w miesiącach od stycznia do listopada roku podatkowego, w którym korzystają z tego zwolnienia – są obowiązani do wpłaty należnego ryczałtu od przychodów ewidencjonowanych w terminie do 20 dnia miesiąca następującego po miesiącu, w którym utracili prawo do zwolnienia; w tym przypadku nie nalicza się odsetek za zwłokę od zaległości z tytułu ryczałtu od przychodów ewidencjonowanych za poszczególne miesiące; 2)[^84] w okresie od dnia 1 grudnia roku podatkowego, w którym korzystają z tego zwolnienia do terminu określonego dla złożenia zeznania o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych za rok podatkowy, w którym korzystali ze zwolnienia – są obowiązani do złożenia zeznania o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych za rok podatkowy objęty zwolnieniem i zapłaty tego ryczałtu w terminie określonym dla złożenia zeznania; w tym przypadku nie nalicza się odsetek za zwłokę od zaległości z tytułu ryczałtu od przychodów ewidencjonowanych za poszczególne miesiące roku, w którym podatnicy korzystali ze zwolnienia; 2)[^85] w okresie od dnia 1 grudnia roku podatkowego, w którym korzystają z tego zwolnienia, do upływu terminu określonego na złożenie zeznania o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych za rok podatkowy, w którym korzystali ze zwolnienia – są obowiązani do złożenia zeznania o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych za rok podatkowy objęty zwolnieniem i zapłaty tego ryczałtu przed upływem terminu na złożenie zeznania; w tym przypadku nie nalicza się odsetek za zwłokę od zaległości z tytułu ryczałtu od przychodów ewidencjonowanych za poszczególne miesiące roku, w którym podatnicy korzystali ze zwolnienia;",
+         "text": "w miesiącach od stycznia do listopada roku podatkowego, w którym korzystają z tego zwolnienia – są obowiązani do wpłaty należnego ryczałtu od przychodów ewidencjonowanych w terminie do 20 dnia miesiąca następującego po miesiącu, w którym utracili prawo do zwolnienia; w tym przypadku nie nalicza się odsetek za zwłokę od zaległości z tytułu ryczałtu od przychodów ewidencjonowanych za poszczególne miesiące;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_21/ust_13/pkt_2",
+         "text": "[^84] w okresie od dnia 1 grudnia roku podatkowego, w którym korzystają z tego zwolnienia do terminu określonego dla złożenia zeznania o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych za rok podatkowy, w którym korzystali ze zwolnienia – są obowiązani do złożenia zeznania o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych za rok podatkowy objęty zwolnieniem i zapłaty tego ryczałtu w terminie określonym dla złożenia zeznania; w tym przypadku nie nalicza się odsetek za zwłokę od zaległości z tytułu ryczałtu od przychodów ewidencjonowanych za poszczególne miesiące roku, w którym podatnicy korzystali ze zwolnienia;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_21/ust_13/pkt_2",
+         "text": "[^85] w okresie od dnia 1 grudnia roku podatkowego, w którym korzystają z tego zwolnienia, do upływu terminu określonego na złożenie zeznania o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych za rok podatkowy, w którym korzystali ze zwolnienia – są obowiązani do złożenia zeznania o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych za rok podatkowy objęty zwolnieniem i zapłaty tego ryczałtu przed upływem terminu na złożenie zeznania; w tym przypadku nie nalicza się odsetek za zwłokę od zaległości z tytułu ryczałtu od przychodów ewidencjonowanych za poszczególne miesiące roku, w którym podatnicy korzystali ze zwolnienia;",
          "children": []
         },
         {
@@ -2978,8 +3027,22 @@
        "type": "ust",
        "num": "1",
        "path": "art_21b/ust_1",
-       "text": "Naczelnik urzędu skarbowego właściwy miejscowo dla złożenia zeznania podatkowego, na wniosek, o którym mowa w ust. 3, przekazuje na rzecz jednej organizacji pożytku publicznego działającej na podstawie ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2018 r. poz. 450, 650, 723 i 1365), wybranej przez podatnika z wykazu, o którym mowa w ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, zwanej dalej „organizacją pożytku publicznego”, kwotę w wysokości nieprzekraczającej 1% podatku należnego wynikającego: 1)[^87] z zeznania podatkowego złożonego w terminie określonym dla jego złożenia, albo 1)[^88] z zeznania podatkowego złożonego przed upływem terminu określonego na jego złożenie, albo",
+       "text": "Naczelnik urzędu skarbowego właściwy miejscowo dla złożenia zeznania podatkowego, na wniosek, o którym mowa w ust. 3, przekazuje na rzecz jednej organizacji pożytku publicznego działającej na podstawie ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2018 r. poz. 450, 650, 723 i 1365), wybranej przez podatnika z wykazu, o którym mowa w ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, zwanej dalej „organizacją pożytku publicznego”, kwotę w wysokości nieprzekraczającej 1% podatku należnego wynikającego:",
        "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_21b/ust_1/pkt_1",
+         "text": "[^87] z zeznania podatkowego złożonego w terminie określonym dla jego złożenia, albo",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_21b/ust_1/pkt_1",
+         "text": "[^88] z zeznania podatkowego złożonego przed upływem terminu określonego na jego złożenie, albo",
+         "children": []
+        },
         {
          "type": "pkt",
          "num": "2",

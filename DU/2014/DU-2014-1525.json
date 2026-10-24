@@ -1,7 +1,7 @@
 {
  "eli": "DU/2014/1525",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 września 2014 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2014/1525/text.pdf",
  "body": [
   {
@@ -1837,7 +1837,14 @@
          "type": "lit",
          "num": "b",
          "path": "art_2/pkt_4/lit_b",
-         "text": "[^6] bezpośredniego zstępnego obywatela UE lub jego małżonka, w wieku do 21 lat lub pozostającego na utrzymaniu obywatela UE lub jego małżonka, c)[^6] bezpośredniego wstępnego obywatela UE lub jego małżonka, pozostającego na utrzymaniu obywatela UE lub jego małżonka;",
+         "text": "[^6] bezpośredniego zstępnego obywatela UE lub jego małżonka, w wieku do 21 lat lub pozostającego na utrzymaniu obywatela UE lub jego małżonka,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_2/pkt_4/lit_c",
+         "text": "[^6] bezpośredniego wstępnego obywatela UE lub jego małżonka, pozostającego na utrzymaniu obywatela UE lub jego małżonka;",
          "children": []
         }
        ]

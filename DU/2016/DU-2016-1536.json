@@ -1,7 +1,7 @@
 {
  "eli": "DU/2016/1536",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 sierpnia 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych",
- "converter": "eli2md 0.6.59",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2016/1536/text.pdf",
  "body": [
   {
@@ -3396,7 +3396,14 @@
          "type": "lit",
          "num": "k",
          "path": "art_26/pkt_1/lit_k",
-         "text": "[^32] średni koszt standardowej terapii dla leku, odrębnie dla każdego wskazania objętego refundacją, l)[^31] czas trwania standardowej terapii, odrębnie dla każdego wskazania objętego refundacją,",
+         "text": "[^32] średni koszt standardowej terapii dla leku, odrębnie dla każdego wskazania objętego refundacją,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "art_26/pkt_1/lit_l",
+         "text": "[^31] czas trwania standardowej terapii, odrębnie dla każdego wskazania objętego refundacją,",
          "children": []
         },
         {
@@ -3528,7 +3535,14 @@
         },
         {
          "type": "text",
-         "text": "k)[^37]dzienny koszt terapii dla leku, odrębnie dla każdego wskazania objętego refundacją, l)[^36] średni koszt standardowej terapii, odrębnie dla każdego wskazania objętego refundacją,"
+         "text": "k)[^37]dzienny koszt terapii dla leku, odrębnie dla każdego wskazania objętego refundacją,"
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "art_26/pkt_2/lit_l",
+         "text": "[^36] średni koszt standardowej terapii, odrębnie dla każdego wskazania objętego refundacją,",
+         "children": []
         },
         {
          "type": "lit",

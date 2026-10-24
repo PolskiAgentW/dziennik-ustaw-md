@@ -1,7 +1,7 @@
 {
  "eli": "DU/2021/1854",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 września 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rynku mocy",
- "converter": "eli2md 0.6.59",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2021/1854/text.pdf",
  "body": [
   {
@@ -3978,19 +3978,26 @@
            "type": "lit",
            "num": "b",
            "path": "art_42/ust_1/pkt_4/lit_b",
-           "text": "zatrzymywania zabezpieczeń, o których mowa w art. 50, c)[^34] monitorowania postępów inwestycyjnych jednostek rynku mocy:",
+           "text": "zatrzymywania zabezpieczeń, o których mowa w art. 50,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "art_42/ust_1/pkt_4/lit_c",
+           "text": "[^34] monitorowania postępów inwestycyjnych jednostek rynku mocy:",
            "children": [
             {
              "type": "tir",
              "num": "1",
-             "path": "art_42/ust_1/pkt_4/lit_b/tir_1",
+             "path": "art_42/ust_1/pkt_4/lit_c/tir_1",
              "text": "w skład których wchodzi jednostka fizyczna wytwórcza planowana, w odniesieniu do których zawarto umowę mocową,",
              "children": []
             },
             {
              "type": "tir",
              "num": "2",
-             "path": "art_42/ust_1/pkt_4/lit_b/tir_2",
+             "path": "art_42/ust_1/pkt_4/lit_c/tir_2",
              "text": "w odniesieniu do których zawarto umowę mocową na więcej niż 1 okres dostaw,",
              "children": []
             }
@@ -6869,7 +6876,7 @@
        "children": [
         {
          "type": "text",
-         "text": "KC = K AG + K AD + KR – B,"
+         "text": "KC = KAG + KAD + KR – B,"
         },
         {
          "type": "text",

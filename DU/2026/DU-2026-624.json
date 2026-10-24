@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/624",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 kwietnia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o środkach ochrony roślin",
- "converter": "eli2md 0.6.53",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/624/text.pdf",
  "body": [
   {
@@ -3914,19 +3914,26 @@
          "type": "lit",
          "num": "b",
          "path": "art_31/pkt_1/lit_b",
-         "text": "w opakowaniu zastępczym, c)[^21] w pomieszczeniu, w którym jest prowadzona sprzedaż:",
+         "text": "w opakowaniu zastępczym,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_31/pkt_1/lit_c",
+         "text": "[^21] w pomieszczeniu, w którym jest prowadzona sprzedaż:",
          "children": [
           {
            "type": "tir",
            "num": "1",
-           "path": "art_31/pkt_1/lit_b/tir_1",
+           "path": "art_31/pkt_1/lit_c/tir_1",
            "text": "żywności, chyba że w przypadku środka ochrony roślin przeznaczonego dla użytkownika nieprofesjonalnego środek ten jest przechowywany pod zamknięciem w sposób zapewniający brak jego kontaktu z żywnością,",
            "children": []
           },
           {
            "type": "tir",
            "num": "2",
-           "path": "art_31/pkt_1/lit_b/tir_2",
+           "path": "art_31/pkt_1/lit_c/tir_2",
            "text": "pasz, chyba że środek ten jest przechowywany pod zamknięciem w sposób zapewniający brak jego kontaktu z paszą,",
            "children": []
           }

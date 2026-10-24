@@ -1,7 +1,7 @@
 {
  "eli": "DU/2015/965",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 czerwca 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o emeryturach pomostowych",
- "converter": "eli2md 0.6.59",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2015/965/text.pdf",
  "body": [
   {
@@ -1877,7 +1877,14 @@
          "type": "pkt",
          "num": "2",
          "path": "art_38/ust_1/pkt_2",
-         "text": "datę urodzenia, 3)[^7] numer PESEL, a w razie gdy pracownikowi nie nadano numeru PESEL – serię i numer dowodu osobistego lub paszportu,",
+         "text": "datę urodzenia,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_38/ust_1/pkt_3",
+         "text": "[^7] numer PESEL, a w razie gdy pracownikowi nie nadano numeru PESEL – serię i numer dowodu osobistego lub paszportu,",
          "children": []
         },
         {

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2020/106",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 grudnia 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podatku od towarów i usług",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2020/106/text.pdf",
  "body": [
   {
@@ -6689,26 +6689,34 @@
         },
         {
          "type": "text",
-         "text": "– organ podatkowy określa podstawę opodatkowania zgodnie z wartością rynkową, jeżeli okaże się, że powiązania te miały wpływ na ustalenie wynagrodzenia z tytułu dostawy towarów lub świadczenia usług.[^47] 2.[^48] Przez powiązania, o których mowa w ust. 1, rozumie się powiązania:"
-        },
+         "text": "– organ podatkowy określa podstawę opodatkowania zgodnie z wartością rynkową, jeżeli okaże się, że powiązania te miały wpływ na ustalenie wynagrodzenia z tytułu dostawy towarów lub świadczenia usług.[^47]"
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_32/ust_2",
+       "text": "[^48] Przez powiązania, o których mowa w ust. 1, rozumie się powiązania:",
+       "children": [
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_32/ust_1/pkt_1",
+         "path": "art_32/ust_2/pkt_1",
          "text": "w rozumieniu art. 23m ust. 1 pkt 5 ustawy o podatku dochodowym od osób fizycznych i art. 11a ust. 1 pkt 5 ustawy o podatku dochodowym od osób prawnych;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_32/ust_1/pkt_2",
+         "path": "art_32/ust_2/pkt_2",
          "text": "wynikające ze stosunku pracy;",
          "children": []
         },
         {
          "type": "pkt",
          "num": "3",
-         "path": "art_32/ust_1/pkt_3",
+         "path": "art_32/ust_2/pkt_3",
          "text": "wynikające z tytułu przysposobienia.",
          "children": []
         }
@@ -16567,7 +16575,14 @@
          "type": "pkt",
          "num": "4",
          "path": "art_96/ust_4a/pkt_4",
-         "text": "podmiot albo jego pełnomocnik nie stawia się na wezwania naczelnika urzędu skarbowego, lub 5)[^125] z posiadanych informacji wynika, że podatnik może prowadzić działania z zamiarem wykorzystania działalności banków w rozumieniu art. 119zg pkt 1 Ordynacji podatkowej lub spółdzielczych kas oszczędnościowo-kredytowych do celów mających związek z wyłudzeniami skarbowymi w rozumieniu art. 119zg pkt 9 Ordynacji podatkowej, lub",
+         "text": "podmiot albo jego pełnomocnik nie stawia się na wezwania naczelnika urzędu skarbowego, lub",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "art_96/ust_4a/pkt_5",
+         "text": "[^125] z posiadanych informacji wynika, że podatnik może prowadzić działania z zamiarem wykorzystania działalności banków w rozumieniu art. 119zg pkt 1 Ordynacji podatkowej lub spółdzielczych kas oszczędnościowo-kredytowych do celów mających związek z wyłudzeniami skarbowymi w rozumieniu art. 119zg pkt 9 Ordynacji podatkowej, lub",
          "children": []
         },
         {
@@ -22842,7 +22857,14 @@
            "type": "lit",
            "num": "b",
            "path": "art_120/ust_1/pkt_1/lit_b",
-           "text": "[^246] oryginalne sztychy, druki i litografie, sporządzone w ograniczonej liczbie egzemplarzy, czarno-białe lub kolorowe, złożone z jednego lub kilku arkuszy, w całości wykonane przez artystę, niezależnie od zastosowanego przez niego procesu lub materiału, z wyłączeniem wszelkich procesów mechanicznych lub fotomechanicznych (CN 9702 00 00), c)[^247] oryginalne rzeźby oraz posągi z dowolnego materiału, pod warunkiem że zostały one wykonane w całości przez artystę; odlewy rzeźby, których liczba jest ograniczona do 8 egzemplarzy, a wykonanie było nadzorowane przez artystę lub jego spadkobierców (CN 9703 00 00),",
+           "text": "[^246] oryginalne sztychy, druki i litografie, sporządzone w ograniczonej liczbie egzemplarzy, czarno-białe lub kolorowe, złożone z jednego lub kilku arkuszy, w całości wykonane przez artystę, niezależnie od zastosowanego przez niego procesu lub materiału, z wyłączeniem wszelkich procesów mechanicznych lub fotomechanicznych (CN 9702 00 00),",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "art_120/ust_1/pkt_1/lit_c",
+           "text": "[^247] oryginalne rzeźby oraz posągi z dowolnego materiału, pod warunkiem że zostały one wykonane w całości przez artystę; odlewy rzeźby, których liczba jest ograniczona do 8 egzemplarzy, a wykonanie było nadzorowane przez artystę lub jego spadkobierców (CN 9703 00 00),",
            "children": []
           },
           {

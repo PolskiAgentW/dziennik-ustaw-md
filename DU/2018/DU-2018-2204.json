@@ -1,7 +1,7 @@
 {
  "eli": "DU/2018/2204",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 października 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o gospodarce nieruchomościami",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2018/2204/text.pdf",
  "body": [
   {
@@ -2453,7 +2453,14 @@
          "type": "pkt",
          "num": "10",
          "path": "art_37/ust_2/pkt_10",
-         "text": "jest zbywana na rzecz kościołów i związków wyznaniowych, mających uregulowane stosunki z państwem, na cele działalności sakralnej; 11)[^6] jest sprzedawana partnerowi prywatnemu lub spółce, o której mowa w art. 14 ust. 1 albo 1a ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym, jeżeli sprzedaż stanowi wniesienie wkładu własnego podmiotu publicznego, a wybór partnera prywatnego nastąpił w trybie przewidzianym w art. 4 ust. 1 lub 2 powołanej ustawy;",
+         "text": "jest zbywana na rzecz kościołów i związków wyznaniowych, mających uregulowane stosunki z państwem, na cele działalności sakralnej;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "11",
+         "path": "art_37/ust_2/pkt_11",
+         "text": "[^6] jest sprzedawana partnerowi prywatnemu lub spółce, o której mowa w art. 14 ust. 1 albo 1a ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym, jeżeli sprzedaż stanowi wniesienie wkładu własnego podmiotu publicznego, a wybór partnera prywatnego nastąpił w trybie przewidzianym w art. 4 ust. 1 lub 2 powołanej ustawy;",
          "children": []
         },
         {
@@ -2576,25 +2583,32 @@
        "type": "ust",
        "num": "4",
        "path": "art_37/ust_4",
-       "text": "Zawarcie umów użytkowania, najmu lub dzierżawy na czas oznaczony dłuższy niż 3 lata lub na czas nieoznaczony następuje w drodze przetargu. Wojewoda albo odpowiednia rada lub sejmik mogą wyrazić zgodę na odstąpienie od obowiązku przetargowego trybu zawarcia tych umów. 4a.[^11] Umowy użytkowania, najmu lub dzierżawy zawiera się w drodze bezprzetargowej:",
+       "text": "Zawarcie umów użytkowania, najmu lub dzierżawy na czas oznaczony dłuższy niż 3 lata lub na czas nieoznaczony następuje w drodze przetargu. Wojewoda albo odpowiednia rada lub sejmik mogą wyrazić zgodę na odstąpienie od obowiązku przetargowego trybu zawarcia tych umów.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4a",
+       "path": "art_37/ust_4a",
+       "text": "[^11] Umowy użytkowania, najmu lub dzierżawy zawiera się w drodze bezprzetargowej:",
        "children": [
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_37/ust_4/pkt_1",
+         "path": "art_37/ust_4a/pkt_1",
          "text": "na czas oznaczony dłuższy niż 3 lata lub na czas nieoznaczony, jeżeli:",
          "children": [
           {
            "type": "lit",
            "num": "a",
-           "path": "art_37/ust_4/pkt_1/lit_a",
+           "path": "art_37/ust_4a/pkt_1/lit_a",
            "text": "użytkownikiem, najemcą lub dzierżawcą nieruchomości jest organizacja pożytku publicznego,",
            "children": []
           },
           {
            "type": "lit",
            "num": "b",
-           "path": "art_37/ust_4/pkt_1/lit_b",
+           "path": "art_37/ust_4a/pkt_1/lit_b",
            "text": "użytkownikiem nieruchomości jest stowarzyszenie ogrodowe w rozumieniu ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2017 r. poz. 2176);",
            "children": []
           }
@@ -2603,7 +2617,7 @@
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_37/ust_4/pkt_2",
+         "path": "art_37/ust_4a/pkt_2",
          "text": "na czas oznaczony dłuższy niż 3 lata, ale nieprzekraczający czasu trwania umowy o partnerstwie publiczno-prywatnym, jeżeli użytkownikiem, najemcą lub dzierżawcą nieruchomości jest partner prywatny lub spółka, o której mowa w art. 14 ust. 1 albo 1a ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym, jeżeli oddanie w użytkowanie, najem albo dzierżawę stanowi wniesienie wkładu własnego podmiotu publicznego, a wybór partnera prywatnego nastąpił w trybie przewidzianym w art. 4 ust. 1 lub 2 tej ustawy.",
          "children": []
         }

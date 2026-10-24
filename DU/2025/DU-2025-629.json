@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/629",
  "title": "Obwieszczenie Ministra Zdrowia z dnia 5 maja 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie programu pilotażowego w zakresie kompleksowej opieki specjalistycznej nad świadczeniobiorcami leczonymi z powodu otyłości olbrzymiej KOS-BAR",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/629/text.pdf",
  "body": [
   {
@@ -2510,7 +2510,21 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_1/pkt_1",
-       "text": "procentowa utrata nadmiernej masy ciała obliczana według wzoru: %WL = {[waga wyjściowa (kg) – waga aktualna (kg)] / [waga wyjściowa (kg)]} * 100; 2)[^9] procentowa utrata nadmiernej masy ciała obliczana według wzoru: %EWL = {[waga wyjściowa (kg) – waga aktualna (kg)] / [waga wyjściowa (kg) – waga idealna (kg)]} * 100; 3)[^9] procentowa utrata nadmiaru BMI obliczana według wzoru: %EBMIL = {[wyjściowy BMI (kg/m²) – aktualny BMI (kg/m²)] / [wyjściowy BMI (kg/m²) −25]} * 100.",
+       "text": "procentowa utrata nadmiernej masy ciała obliczana według wzoru: %WL = {[waga wyjściowa (kg) – waga aktualna (kg)] / [waga wyjściowa (kg)]} * 100;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "[^9] procentowa utrata nadmiernej masy ciała obliczana według wzoru: %EWL = {[waga wyjściowa (kg) – waga aktualna (kg)] / [waga wyjściowa (kg) – waga idealna (kg)]} * 100;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "[^9] procentowa utrata nadmiaru BMI obliczana według wzoru: %EBMIL = {[wyjściowy BMI (kg/m²) – aktualny BMI (kg/m²)] / [wyjściowy BMI (kg/m²) −25]} * 100.",
        "children": []
       }
      ]

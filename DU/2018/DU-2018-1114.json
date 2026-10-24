@@ -1,7 +1,7 @@
 {
  "eli": "DU/2018/1114",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 maja 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podatku akcyzowym",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2018/1114/text.pdf",
  "body": [
   {
@@ -3891,27 +3891,35 @@
            "type": "tir",
            "num": "4",
            "path": "art_20d/pkt_1/lit_b/tir_4",
-           "text": "imiona i nazwiska osób upoważnionych do reprezentowania oddziału przedsiębiorcy zagranicznego oraz ich adresy, c)[^22] w przypadku przedsiębiorcy zagranicznego nieposiadającego oddziału z siedzibą na terytorium kraju utworzonego na warunkach i zasadach określonych w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej:",
+           "text": "imiona i nazwiska osób upoważnionych do reprezentowania oddziału przedsiębiorcy zagranicznego oraz ich adresy,",
            "children": []
-          },
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_20d/pkt_1/lit_c",
+         "text": "[^22] w przypadku przedsiębiorcy zagranicznego nieposiadającego oddziału z siedzibą na terytorium kraju utworzonego na warunkach i zasadach określonych w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej:",
+         "children": [
           {
            "type": "tir",
-           "num": "5",
-           "path": "art_20d/pkt_1/lit_b/tir_5",
+           "num": "1",
+           "path": "art_20d/pkt_1/lit_c/tir_1",
            "text": "imię i nazwisko lub nazwę podmiotu, adres zamieszkania lub adres jego siedziby, numer identyfikacyjny używany w państwie zamieszkania lub siedziby oraz informacje o prowadzonej przez ten podmiot działalności,",
            "children": []
           },
           {
            "type": "tir",
-           "num": "6",
-           "path": "art_20d/pkt_1/lit_b/tir_6",
+           "num": "2",
+           "path": "art_20d/pkt_1/lit_c/tir_2",
            "text": "imię i nazwisko lub nazwę podmiotu reprezentującego przedsiębiorcę zagranicznego, adres zamieszkania lub adres jego siedziby, numer w Krajowym Rejestrze Sądowym, numer identyfikacji podatkowej (NIP),",
            "children": []
           },
           {
            "type": "tir",
-           "num": "7",
-           "path": "art_20d/pkt_1/lit_b/tir_7",
+           "num": "3",
+           "path": "art_20d/pkt_1/lit_c/tir_3",
            "text": "miejsce i adres wykonywania działalności w zakresie suszu tytoniowego na terytorium kraju oraz miejsce i adres magazynowania suszu tytoniowego na terytorium kraju,",
            "children": []
           }

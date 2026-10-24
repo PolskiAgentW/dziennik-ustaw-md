@@ -1,7 +1,7 @@
 {
  "eli": "DU/2023/160",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 grudnia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o gospodarce opakowaniami i odpadami opakowaniowymi",
- "converter": "eli2md 0.6.59",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2023/160/text.pdf",
  "body": [
   {
@@ -687,10 +687,17 @@
            "type": "tir",
            "num": "9",
            "path": "art_8/pkt_7/lit_a/tir_9",
-           "text": "dokonującego wewnątrzwspólnotowej dostawy odpadów opakowaniowych, b)[^8] marszałka województwa właściwego ze względu na miejsce prowadzenia działalności w zakresie recyklingu odpadów opakowaniowych przez przedsiębiorcę prowadzącego recykling odpadów opakowaniowych,",
+           "text": "dokonującego wewnątrzwspólnotowej dostawy odpadów opakowaniowych,",
            "children": []
           }
          ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_8/pkt_7/lit_b",
+         "text": "[^8] marszałka województwa właściwego ze względu na miejsce prowadzenia działalności w zakresie recyklingu odpadów opakowaniowych przez przedsiębiorcę prowadzącego recykling odpadów opakowaniowych,",
+         "children": []
         },
         {
          "type": "lit",
@@ -4435,7 +4442,7 @@
      "children": [
       {
        "type": "text",
-       "text": "P −OR OP =M∙( rec. )∙SO rec. 100%"
+       "text": "Prec. −OR OPrec. =M∙( )∙SO 100%"
       },
       {
        "type": "text",
@@ -4482,7 +4489,7 @@
      "children": [
       {
        "type": "text",
-       "text": "(M₁ ∙SO₁ +M₂ ∙SO₂ +⋯+M₈ ∙SO₈) OP = ∙(P ∙Mcałkowita −Mpoddana recyklingowi) rec. Mcałkowita recyklingu"
+       "text": "(M₁ ∙SO₁ +M₂ ∙SO₂ +⋯+M₈ ∙SO₈) OPrec. = ∙(Precyklingu ∙Mcałkowita −Mpoddana recyklingowi) Mcałkowita"
       },
       {
        "type": "text",
@@ -4582,7 +4589,7 @@
      "children": [
       {
        "type": "text",
-       "text": "P −OROK OP =Mrec. ∙( rec.OK )∙SO rec.OK 100%"
+       "text": "Prec.OK −OROK OPrec.OK =Mrec. ∙( )∙SO 100%"
       },
       {
        "type": "text",

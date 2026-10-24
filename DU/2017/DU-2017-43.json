@@ -1,7 +1,7 @@
 {
  "eli": "DU/2017/43",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 grudnia 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podatku akcyzowym",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2017/43/text.pdf",
  "body": [
   {
@@ -3850,7 +3850,14 @@
          "type": "pkt",
          "num": "1",
          "path": "art_14/ust_11/pkt_1",
-         "text": "[^85] wykaz urzędów celnych i izb celnych, których odpowiednio naczelnicy i dyrektorzy są właściwi do wykonywania zadań w zakresie akcyzy na terytorium kraju, oraz terytorialny zasięg ich działania, uwzględniając liczbę podatników prowadzących działalność na danym obszarze, 1)[^86] wykaz urzędów skarbowych i izb administracji skarbowej, których odpowiednio naczelnicy i dyrektorzy są właściwi do wykonywania zadań w zakresie akcyzy na terytorium kraju, oraz terytorialny zasięg ich działania, uwzględniając liczbę podatników prowadzących działalność na danym obszarze,",
+         "text": "[^85] wykaz urzędów celnych i izb celnych, których odpowiednio naczelnicy i dyrektorzy są właściwi do wykonywania zadań w zakresie akcyzy na terytorium kraju, oraz terytorialny zasięg ich działania, uwzględniając liczbę podatników prowadzących działalność na danym obszarze,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_14/ust_11/pkt_1",
+         "text": "[^86] wykaz urzędów skarbowych i izb administracji skarbowej, których odpowiednio naczelnicy i dyrektorzy są właściwi do wykonywania zadań w zakresie akcyzy na terytorium kraju, oraz terytorialny zasięg ich działania, uwzględniając liczbę podatników prowadzących działalność na danym obszarze,",
          "children": []
         },
         {
@@ -5935,7 +5942,14 @@
            "type": "lit",
            "num": "a",
            "path": "art_27/ust_7a/pkt_1/lit_a",
-           "text": "[^184] wystąpi do właściwego naczelnika urzędu celnego o wydanie decyzji określającej kwotę akcyzy w należnej wysokości, nie później niż w terminie 6 miesięcy od dnia przyjęcia zgłoszenia celnego, oraz a)[^185] wystąpi do właściwego naczelnika urzędu celno-skarbowego o wydanie decyzji określającej kwotę akcyzy w należnej wysokości, nie później niż w terminie 6 miesięcy od dnia przyjęcia zgłoszenia celnego, oraz",
+           "text": "[^184] wystąpi do właściwego naczelnika urzędu celnego o wydanie decyzji określającej kwotę akcyzy w należnej wysokości, nie później niż w terminie 6 miesięcy od dnia przyjęcia zgłoszenia celnego, oraz",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "art_27/ust_7a/pkt_1/lit_a",
+           "text": "[^185] wystąpi do właściwego naczelnika urzędu celno-skarbowego o wydanie decyzji określającej kwotę akcyzy w należnej wysokości, nie później niż w terminie 6 miesięcy od dnia przyjęcia zgłoszenia celnego, oraz",
            "children": []
           },
           {
@@ -8613,7 +8627,14 @@
            "type": "lit",
            "num": "a",
            "path": "art_40/ust_1/pkt_2/lit_a",
-           "text": "składu podatkowego na terytorium kraju, b)[^250] urzędu celnego na terytorium kraju, który nadzoruje faktyczne wyprowadzenie tych wyrobów poza terytorium Unii Europejskiej,",
+           "text": "składu podatkowego na terytorium kraju,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "art_40/ust_1/pkt_2/lit_b",
+           "text": "[^250] urzędu celnego na terytorium kraju, który nadzoruje faktyczne wyprowadzenie tych wyrobów poza terytorium Unii Europejskiej,",
            "children": []
           },
           {
@@ -8755,7 +8776,14 @@
            "type": "lit",
            "num": "c",
            "path": "art_40/ust_2/pkt_10/lit_c",
-           "text": "podmiotów objętych zwolnieniem od akcyzy wynikającym z art. 31 ust. 1, d)[^254] urzędu celnego na terytorium państwa członkowskiego, który nadzoruje faktyczne wyprowadzenie tych wyrobów poza terytorium Unii Europejskiej;",
+           "text": "podmiotów objętych zwolnieniem od akcyzy wynikającym z art. 31 ust. 1,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "d",
+           "path": "art_40/ust_2/pkt_10/lit_d",
+           "text": "[^254] urzędu celnego na terytorium państwa członkowskiego, który nadzoruje faktyczne wyprowadzenie tych wyrobów poza terytorium Unii Europejskiej;",
            "children": []
           },
           {
@@ -10191,7 +10219,14 @@
          "type": "pkt",
          "num": "3",
          "path": "art_43/ust_2/pkt_3",
-         "text": "(uchylony)[^322] 4)[^323] konieczność zapewnienia przepływu informacji dotyczących przemieszczanych wyrobów akcyzowych;",
+         "text": "(uchylony)[^322]",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "art_43/ust_2/pkt_4",
+         "text": "[^323] konieczność zapewnienia przepływu informacji dotyczących przemieszczanych wyrobów akcyzowych;",
          "children": []
         },
         {
@@ -13546,47 +13581,55 @@
         },
         {
          "type": "text",
-         "text": "– uwzględniając konieczność właściwego zabezpieczenia należności akcyzowych oraz opłaty paliwowej.[^497] 2.[^498] Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia:"
-        },
+         "text": "– uwzględniając konieczność właściwego zabezpieczenia należności akcyzowych oraz opłaty paliwowej.[^497]"
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_66/ust_2",
+       "text": "[^498] Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia:",
+       "children": [
         {
          "type": "pkt",
          "num": "1",
-         "path": "art_66/ust_1/pkt_1",
+         "path": "art_66/ust_2/pkt_1",
          "text": "inne niż określone w art. 63 ust. 4 przypadki, w których zobowiązania podatkowe podmiotów, o których mowa w art. 63 ust. 1, oraz opłaty paliwowe, do których zapłaty są lub mogą być obowiązane te podmioty, mogą być, na ich wniosek, objęte zabezpieczeniem akcyzowym osoby trzeciej, za zgodą tej osoby,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "art_66/ust_1/pkt_2",
+         "path": "art_66/ust_2/pkt_2",
          "text": "inne niż określone w art. 65 ust. 8 przypadki, w których może być złożone zabezpieczenie ryczałtowe,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "3",
-         "path": "art_66/ust_1/pkt_3",
+         "path": "art_66/ust_2/pkt_3",
          "text": "przypadki, w których stosuje się dla niektórych wyrobów akcyzowych niższy poziom zabezpieczenia akcyzowego niż określony w ustawie, oraz określić ten poziom,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "4",
-         "path": "art_66/ust_1/pkt_4",
+         "path": "art_66/ust_2/pkt_4",
          "text": "szczegółowe warunki odnotowywania przez podmiot, o którym mowa w art. 65 ust. 7b, obciążenia zabezpieczenia generalnego kwotą powstałego lub mogącego powstać zobowiązania podatkowego albo kwotą zobowiązania podatkowego oraz opłaty paliwowej, a także zwalniania go z tego obciążenia,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "5",
-         "path": "art_66/ust_1/pkt_5",
+         "path": "art_66/ust_2/pkt_5",
          "text": "szczegółowy sposób odnotowywania przez podmiot, o którym mowa w art. 65 ust. 7b, obciążenia zabezpieczenia generalnego kwotą powstałego lub mogącego powstać zobowiązania podatkowego albo kwotą zobowiązania podatkowego oraz opłaty paliwowej, a także zwalniania go z tego obciążenia,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "6",
-         "path": "art_66/ust_1/pkt_6",
+         "path": "art_66/ust_2/pkt_6",
          "text": "przypadki, w których nie odnotowuje się obciążenia zabezpieczenia generalnego kwotą powstałego lub mogącego powstać zobowiązania podatkowego albo kwotą powstałego lub mogącego powstać zobowiązania podatkowego oraz kwotą opłaty paliwowej, której obowiązek zapłaty powstał lub może powstać",
          "children": []
         },

@@ -49,7 +49,7 @@ Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla ża
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-24 20:49 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-24 21:08 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -73,7 +73,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 94, razem 1917 z 204758
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 252.
 
 Rodzaje aktów: Obwieszczenie 4904, Rozporządzenie 1875, Ustawa 379, Oświadczenie rządowe 45, Umowa międzynarodowa 37, Komunikat 4, Postanowienie 3, Uchwała 2, Traktat 1.
-Wersje konwertera: eli2md 0.6.52 (3608), eli2md 0.6.25 (2122), eli2md 0.6.53 (716), eli2md 0.6.56 (375), eli2md 0.6.59 (247), eli2md 0.6.60 (96), eli2md 0.6.58 (35), eli2md 0.6.57 (34), eli2md 0.6.25.2 (10), eli2md 0.6.54 (6), eli2md 0.6.61 (1).
+Wersje konwertera: eli2md 0.6.52 (3394), eli2md 0.6.25 (2112), eli2md 0.6.53 (692), eli2md 0.6.56 (369), eli2md 0.6.61 (307), eli2md 0.6.59 (209), eli2md 0.6.60 (88), eli2md 0.6.57 (34), eli2md 0.6.58 (29), eli2md 0.6.25.2 (10), eli2md 0.6.54 (6).
 <!-- stats:end -->
 
 ## Teksty jednolite
@@ -237,11 +237,17 @@ w artykułach dodanych później (1 182) ani błędów wspólnych z warstwą tek
 - indeks dolny z literą lub kropką ginął: „kategorii T , T , T” zamiast „T1b, T2b, T3b” (DU/2025/1490 art. 54);
   od eli2md 0.6.53 (2026-10-11) „kategorii T1b, T2b, T3b, T4.1b, T4.2b, T4.3b i T₅”.
 
-Zmiana 2026-10-24 (eli2md 0.6.61): oznaczenie litery albo punktu z odnośnikiem na początku wiersza doklejało się
-do poprzedniego akapitu: „…z zastrzeżeniem ust. 4f, d)[^22] przychodów ze zbycia…” (DU/2026/554, początek strony 42 PDF).
-Od eli2md 0.6.61 takie oznaczenie zaczyna nową jednostkę. Codzienna aktualizacja używa eli2md 0.6.61. Sprawdzone A/B
-0.6.60 → 0.6.61: wszystkie 377 ustaw z lat 2025–2026 w zbiorze, pliki .md i .json bez zmian. Opublikowanych tekstów
-jednolitych z tym błędem jeszcze nie przeliczałem.
+Zmiana 2026-10-24 (eli2md 0.6.61, 306 aktów): oznaczenie litery albo punktu z odnośnikiem na początku wiersza doklejało
+się do poprzedniego akapitu: „…z zastrzeżeniem ust. 4f, d)[^22] przychodów ze zbycia…” (DU/2026/554, początek strony 42
+PDF). Od eli2md 0.6.61 takie oznaczenie zaczyna nową jednostkę. Codzienna aktualizacja używa eli2md 0.6.61. Sprawdzone
+A/B 0.6.60 → 0.6.61: wszystkie 377 ustaw z lat 2025–2026 w zbiorze, pliki .md i .json bez zmian.
+Takie oznaczenie w środku akapitu (np. „…, d)[^22] …”) miało 307 tekstów jednolitych (477 miejsc). 306 z nich przeliczyłem
+ponownie z tych samych PDF (sha256 jak w `index.csv`). W 295 słowa są te same co poprzednio. W 11 znaki są te same,
+a zmieniają się wyrazy: indeksy dolne wracają do symboli we wzorach („Lw jn” → „Lwjn”, „M hw” → „Mhw” w DU/2025/100)
+i rozdzielone wyrazy się łączą („r ozporządzenia” → „rozporządzenia”, DU/2025/1555). Po przeliczeniu takich miejsc
+jest 16 w 3 aktach: DU/2025/1251 (9; w PDF wiersz zaczyna się od oznaczenia, przyczyny nie znam), DU/2020/1905 (1;
+w PDF dwie etykiety „a)57)” i „a)58)”) i DU/2025/97 (6). DU/2025/97 nie przeliczałem, bo 0.6.61 zapisuje w nim odnośnik
+„d)[^141]” jako zwykły tekst „d)¹⁴¹⁾”. Pomiar artykułów 12 tekstów jednolitych (wyżej) po przeliczeniu: dalej 5912 z 5929.
 
 Zmiana 2026-10-17 (eli2md 0.6.60, 23 akty): indeks dolny symbolu zapisanego kursywną wielką literą trafiał na sąsiedni
 wiersz, często do środka wyrazu przeniesionego w PDF, a symbol zostawał bez indeksu: „WbP – … na realizację prot−1 gramów

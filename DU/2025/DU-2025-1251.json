@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1251",
  "title": "Obwieszczenie Ministra Zdrowia z dnia 20 sierpnia 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie programu pilotażowego w zakresie kompleksowej opieki nad świadczeniobiorcą z wczesnym zapaleniem stawów",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1251/text.pdf",
  "body": [
   {
@@ -1585,20 +1585,28 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_2/pkt_2",
-       "text": "porad specjalistycznych z zakresu dietetyki, endokrynologii, gastroenterologii, kardiologii, okulistyki, ortopedii i traumatologii narządu ruchu, neurologii, psychiatrii, psychologii, pulmonologii, rehabilitacji medycznej. 3.[^27] Zapewnienie badań:",
+       "text": "porad specjalistycznych z zakresu dietetyki, endokrynologii, gastroenterologii, kardiologii, okulistyki, ortopedii i traumatologii narządu ruchu, neurologii, psychiatrii, psychologii, pulmonologii, rehabilitacji medycznej.",
        "children": []
-      },
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "[^27] Zapewnienie badań:",
+     "children": [
       {
        "type": "pkt",
        "num": "1",
-       "path": "ust_2/pkt_1",
+       "path": "ust_3/pkt_1",
        "text": "radiologicznych (RTG), ultrasonograficznych (USG) – w lokalizacji;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "2",
-       "path": "ust_2/pkt_2",
+       "path": "ust_3/pkt_2",
        "text": "laboratoryjnych, rezonansu magnetycznego oraz tomografii komputerowej – w dostępie.",
        "children": []
       }
@@ -2128,7 +2136,70 @@
        "type": "pkt",
        "num": "71",
        "path": "ust_3/pkt_71",
-       "text": "Y90 Badanie histopatologiczne; 72)[^28] I64 Antykoagulant toczniowy; 73)[^28] K75 Dopełniacz, składowa C3; 74)[^28] K77 Dopełniacz, składowa C4; 75)[^28] M41 Kwas foliowy; 76)[^28] N69 Przeciwciała przeciw cytoplazmie (ANCA); 77)[^28] N89 Przeciwciała przeciw kardiolipinie; 78)[^28] N91 Przeciwciała przeciw komórkom mięśni gładkich; 79)[^28] O83 Witamina B12; 80)[^28] S21 Borrelia burgdorferi (Lyme) IgG Przeciwciała (anty-B.burgdorferi IgG); 81)[^28] S25 Borrelia burgdorferi (Lyme) Przeciwciała IgM (anty-B.burgdorferi IgM); 82)[^28] S61 Chlamydia Przeciwciała IgG; 83)[^28] S75 Chlamydia trachomatis Przeciwciała IgM; 84)[^28] U87 Yersinia Przeciwciała IgG (anty-Yersinia IgG); 85)[^28] U88 Yersinia Przeciwciała IgM (anty-Yersinia IgM); 86)[^28] U89 Yersinia Przeciwciała IgA (anty-Yersinia IgA); 87)[^28] V31 Wirus zapalenia wątroby typu B (HBV) Przeciwciała HBc (całkowite); 88)[^28] V39 Wirus zapalenia wątroby typu B HBs Antygen; 89)[^28] V48 Wirus zapalenia wątroby typu C (HCV) Przeciwciała (anty-HCV). 3. Badania obrazowe:",
+       "text": "Y90 Badanie histopatologiczne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "72",
+       "path": "ust_3/pkt_72",
+       "text": "[^28] I64 Antykoagulant toczniowy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "73",
+       "path": "ust_3/pkt_73",
+       "text": "[^28] K75 Dopełniacz, składowa C3;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "74",
+       "path": "ust_3/pkt_74",
+       "text": "[^28] K77 Dopełniacz, składowa C4;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "75",
+       "path": "ust_3/pkt_75",
+       "text": "[^28] M41 Kwas foliowy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "76",
+       "path": "ust_3/pkt_76",
+       "text": "[^28] N69 Przeciwciała przeciw cytoplazmie (ANCA); 77)[^28] N89 Przeciwciała przeciw kardiolipinie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "78",
+       "path": "ust_3/pkt_78",
+       "text": "[^28] N91 Przeciwciała przeciw komórkom mięśni gładkich; 79)[^28] O83 Witamina B12;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "80",
+       "path": "ust_3/pkt_80",
+       "text": "[^28] S21 Borrelia burgdorferi (Lyme) IgG Przeciwciała (anty-B.burgdorferi IgG); 81)[^28] S25 Borrelia burgdorferi (Lyme) Przeciwciała IgM (anty-B.burgdorferi IgM); 82)[^28] S61 Chlamydia Przeciwciała IgG;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "83",
+       "path": "ust_3/pkt_83",
+       "text": "[^28] S75 Chlamydia trachomatis Przeciwciała IgM;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "84",
+       "path": "ust_3/pkt_84",
+       "text": "[^28] U87 Yersinia Przeciwciała IgG (anty-Yersinia IgG); 85)[^28] U88 Yersinia Przeciwciała IgM (anty-Yersinia IgM); 86)[^28] U89 Yersinia Przeciwciała IgA (anty-Yersinia IgA); 87)[^28] V31 Wirus zapalenia wątroby typu B (HBV) Przeciwciała HBc (całkowite); 88)[^28] V39 Wirus zapalenia wątroby typu B HBs Antygen; 89)[^28] V48 Wirus zapalenia wątroby typu C (HCV) Przeciwciała (anty-HCV). 3. Badania obrazowe:",
        "children": []
       },
       {
@@ -2803,95 +2874,102 @@
        "type": "pkt",
        "num": "15",
        "path": "ust_4/pkt_15",
-       "text": "pakiet badań w zależności od typu chorób współtowarzyszących i zaleceń innych lekarzy specjalistów. 2.[^32] Porada reumatologiczna bilansowa (zamykająca) odbywa się w terminie 12 miesięcy od dnia porady drugiej.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Porada obejmuje:"
-        }
-       ]
+       "text": "pakiet badań w zależności od typu chorób współtowarzyszących i zaleceń innych lekarzy specjalistów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "[^32] Porada reumatologiczna bilansowa (zamykająca) odbywa się w terminie 12 miesięcy od dnia porady drugiej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Porada obejmuje:"
       },
       {
        "type": "pkt",
        "num": "1",
-       "path": "ust_4/pkt_1",
+       "path": "ust_2/pkt_1",
        "text": "wywiad i badanie fizykalne;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "2",
-       "path": "ust_4/pkt_2",
+       "path": "ust_2/pkt_2",
        "text": "przeprowadzanie badań lub testów funkcjonalnych;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "3",
-       "path": "ust_4/pkt_3",
+       "path": "ust_2/pkt_3",
        "text": "ocenę skuteczności leczenia;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "4",
-       "path": "ust_4/pkt_4",
+       "path": "ust_2/pkt_4",
        "text": "ocenę nasilenia aktywności choroby / remisja (w zależności od głównego rozpoznania RZS: DAS 28 (Disease Activity Score), ESDAI (EULAR Sjögren’s syndrome disease activity index), remisja ACR/EULAR (Amerykańskie Kolegium Reumatologiczne / Europejska Liga Przeciwreumatyczna) u świadczeniobiorców z włączonym leczeniem modyfikującym przebieg choroby, HAQ, ZZSK, SPA – ASDAS (Ankylosing Spondylitis Disease Activity Score) oraz ŁZS – BASDAI (Bath Ankylosing Spondylitis Disease Activity Index), DAS 28, ASDAS, dodatkowo wywiad w kierunku hospitalizacji);",
        "children": []
       },
       {
        "type": "pkt",
        "num": "5",
-       "path": "ust_4/pkt_5",
+       "path": "ust_2/pkt_5",
        "text": "ocenę natężenia bólu w skali numerycznej NRS;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "6",
-       "path": "ust_4/pkt_6",
+       "path": "ust_2/pkt_6",
        "text": "Kwestionariusz Zdrowia Pacjenta PHQ9;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "7",
-       "path": "ust_4/pkt_7",
+       "path": "ust_2/pkt_7",
        "text": "ocenę stosowanych leków;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "8",
-       "path": "ust_4/pkt_8",
+       "path": "ust_2/pkt_8",
        "text": "ocenę wyników badań laboratoryjnych, obrazowych i innych badań diagnostycznych,",
        "children": []
       },
       {
        "type": "pkt",
        "num": "9",
-       "path": "ust_4/pkt_9",
+       "path": "ust_2/pkt_9",
        "text": "ocenę konsultacji specjalistycznych;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "10",
-       "path": "ust_4/pkt_10",
+       "path": "ust_2/pkt_10",
        "text": "ocenę potrzeb i wskazań do rehabilitacji medycznej – ocena dokonywana przez lekarza specjalistę w dziedzinie rehabilitacji medycznej;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "11",
-       "path": "ust_4/pkt_11",
+       "path": "ust_2/pkt_11",
        "text": "ocenę aktywności zawodowej;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "12",
-       "path": "ust_4/pkt_12",
+       "path": "ust_2/pkt_12",
        "text": "skierowanie świadczeniobiorcy do dalszej opieki specjalistycznej poza programem pilotażowym KOWZS w poradni reumatologicznej w pobliżu miejsca zamieszkania świadczeniobiorcy spełniającej warunki określone w rozporządzeniu AOS oraz na kontynuację rehabilitacji świadczeniobiorcy z wczesnym zapaleniem stawów w warunkach ośrodka lub oddziału dziennego spełniającego warunki określone w rozporządzeniu REH.",
        "children": []
       }

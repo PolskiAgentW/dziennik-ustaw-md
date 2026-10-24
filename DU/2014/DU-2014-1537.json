@@ -1,7 +1,7 @@
 {
  "eli": "DU/2014/1537",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 października 2014 r. w sprawie ogłoszenia jednolitego tekstu ustawy o nadzorze nad rynkiem kapitałowym",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2014/1537/text.pdf",
  "body": [
   {
@@ -1197,7 +1197,14 @@
          "type": "lit",
          "num": "a",
          "path": "art_2/pkt_6/lit_a",
-         "text": "rynek papierów wartościowych i innych instrumentów finansowych – w zakresie, w jakim do tych papierów wartościowych i instrumentów finansowych stosuje się przepisy ustaw, o których mowa w pkt 1 i 2, oraz b)[^2] rynek usług świadczonych przez fundusze inwestycyjne i inne instytucje wspólnego inwestowania – w zakresie, w jakim do tych usług i podmiotów stosuje się przepisy ustawy, o której mowa w pkt 3, oraz",
+         "text": "rynek papierów wartościowych i innych instrumentów finansowych – w zakresie, w jakim do tych papierów wartościowych i instrumentów finansowych stosuje się przepisy ustaw, o których mowa w pkt 1 i 2, oraz",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_2/pkt_6/lit_b",
+         "text": "[^2] rynek usług świadczonych przez fundusze inwestycyjne i inne instytucje wspólnego inwestowania – w zakresie, w jakim do tych usług i podmiotów stosuje się przepisy ustawy, o której mowa w pkt 3, oraz",
          "children": []
         },
         {
@@ -1356,7 +1363,14 @@
        "type": "pkt",
        "num": "6b",
        "path": "art_5/pkt_6b",
-       "text": "[^9] spółki prowadzące izbę rozrachunkową, 6c)[^9] spółka, której Krajowy Depozyt Papierów Wartościowych S.A. przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1–6 lub ust. 2 ustawy o obrocie instrumentami finansowymi,",
+       "text": "[^9] spółki prowadzące izbę rozrachunkową,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6c",
+       "path": "art_5/pkt_6c",
+       "text": "[^9] spółka, której Krajowy Depozyt Papierów Wartościowych S.A. przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1–6 lub ust. 2 ustawy o obrocie instrumentami finansowymi,",
        "children": []
       },
       {

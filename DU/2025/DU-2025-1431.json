@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/1431",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 września 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo lotnicze",
- "converter": "eli2md 0.6.58",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/1431/text.pdf",
  "body": [
   {
@@ -740,7 +740,14 @@
          "type": "lit",
          "num": "b",
          "path": "art_2/pkt_2/lit_b",
-         "text": "[^8] statek powietrzny używany przez jednostki organizacyjne Policji, Straży Granicznej i Państwowej Straży Pożarnej oraz Służbę Ochrony Państwa (statek powietrzny lotnictwa służb porządku publicznego), c)[^9] bezzałogowy statek powietrzny używany przez służby specjalne, o których mowa w art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902) (bezzałogowy statek powietrzny służb specjalnych);",
+         "text": "[^8] statek powietrzny używany przez jednostki organizacyjne Policji, Straży Granicznej i Państwowej Straży Pożarnej oraz Służbę Ochrony Państwa (statek powietrzny lotnictwa służb porządku publicznego),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_2/pkt_2/lit_c",
+         "text": "[^9] bezzałogowy statek powietrzny używany przez służby specjalne, o których mowa w art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902) (bezzałogowy statek powietrzny służb specjalnych);",
          "children": []
         }
        ]
@@ -3062,53 +3069,60 @@
          "type": "pkt",
          "num": "3a",
          "path": "art_26a/ust_1/pkt_3a",
-         "text": "sprawowanie nadzoru nad podmiotami posiadającymi wykaz zatwierdzeń szczególnych, zgłaszającymi wykonywanie zarobkowych operacji specjalistycznych, zgłaszającymi wykonywanie operacji niezarobkowych skomplikowanym statkiem powietrznym z napędem silnikowym, posiadającymi zezwolenie na wykonywanie zarobkowych operacji specjalistycznych wysokiego ryzyka lub posiadającymi zezwolenie na wykonywanie zarobkowych operacji polegających na wykonywaniu lotów przeciwpożarowych i gaśniczych, 3b)[^24] sprawowanie nadzoru nad:",
+         "text": "sprawowanie nadzoru nad podmiotami posiadającymi wykaz zatwierdzeń szczególnych, zgłaszającymi wykonywanie zarobkowych operacji specjalistycznych, zgłaszającymi wykonywanie operacji niezarobkowych skomplikowanym statkiem powietrznym z napędem silnikowym, posiadającymi zezwolenie na wykonywanie zarobkowych operacji specjalistycznych wysokiego ryzyka lub posiadającymi zezwolenie na wykonywanie zarobkowych operacji polegających na wykonywaniu lotów przeciwpożarowych i gaśniczych,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3b",
+         "path": "art_26a/ust_1/pkt_3b",
+         "text": "[^24] sprawowanie nadzoru nad:",
          "children": [
           {
            "type": "lit",
            "num": "a",
-           "path": "art_26a/ust_1/pkt_3a/lit_a",
+           "path": "art_26a/ust_1/pkt_3b/lit_a",
            "text": "operatorami systemów bezzałogowych statków powietrznych, którzy:",
            "children": [
             {
              "type": "tir",
              "num": "1",
-             "path": "art_26a/ust_1/pkt_3a/lit_a/tir_1",
+             "path": "art_26a/ust_1/pkt_3b/lit_a/tir_1",
              "text": "złożyli oświadczenie, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, lub oświadczenie o wykonywaniu operacji zgodnie z krajowym scenariuszem standardowym,",
              "children": []
             },
             {
              "type": "tir",
              "num": "2",
-             "path": "art_26a/ust_1/pkt_3a/lit_a/tir_2",
+             "path": "art_26a/ust_1/pkt_3b/lit_a/tir_2",
              "text": "posiadają zezwolenie na operację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE,",
              "children": []
             },
             {
              "type": "tir",
              "num": "3",
-             "path": "art_26a/ust_1/pkt_3a/lit_a/tir_3",
+             "path": "art_26a/ust_1/pkt_3b/lit_a/tir_3",
              "text": "posiadają zezwolenie na operację, o którym mowa w art. 16 ust. 1 rozporządzenia nr 2019/947/UE,",
              "children": []
             },
             {
              "type": "tir",
              "num": "4",
-             "path": "art_26a/ust_1/pkt_3a/lit_a/tir_4",
+             "path": "art_26a/ust_1/pkt_3b/lit_a/tir_4",
              "text": "posiadają certyfikat operatora lekkich systemów bezzałogowych statków powietrznych w rozumieniu art. 2 pkt 9 rozporządzenia nr 2019/947/UE (certyfikat LUC),",
              "children": []
             },
             {
              "type": "tir",
              "num": "5",
-             "path": "art_26a/ust_1/pkt_3a/lit_a/tir_5",
+             "path": "art_26a/ust_1/pkt_3b/lit_a/tir_5",
              "text": "wykonują operacje w kategorii „certyfikowanej”, o której mowa w art. 6 rozporządzenia nr 2019/947/UE,",
              "children": []
             },
             {
              "type": "tir",
              "num": "6",
-             "path": "art_26a/ust_1/pkt_3a/lit_a/tir_6",
+             "path": "art_26a/ust_1/pkt_3b/lit_a/tir_6",
              "text": "posiadają uprawnienie do prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych, o którym mowa w art. 156o ust. 1 pkt 2,",
              "children": []
             }
@@ -3117,14 +3131,14 @@
           {
            "type": "lit",
            "num": "b",
-           "path": "art_26a/ust_1/pkt_3a/lit_b",
+           "path": "art_26a/ust_1/pkt_3b/lit_b",
            "text": "wyznaczonymi podmiotami, o których mowa w art. 156n ust. 1,",
            "children": []
           },
           {
            "type": "lit",
            "num": "c",
-           "path": "art_26a/ust_1/pkt_3a/lit_c",
+           "path": "art_26a/ust_1/pkt_3b/lit_c",
            "text": "uznanymi podmiotami, o których mowa w art. 156o ust. 1 pkt 1,",
            "children": []
           }
@@ -37778,7 +37792,14 @@
      "type": "ust",
      "num": "48",
      "path": "ust_48",
-     "text": "[^89] Rozpatrzenie, złożonego przez operatora systemu bezzałogowego statku powietrznego ubiegającego się o przyznanie uprawnienia do prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych, oświadczenia, o którym mowa w dodatku 4 do załącznika do rozporzą- 400 dzenia nr 2019/947/UE, lub oświadczenia o zamiarze prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych zgodnie z krajowym scenariuszem standardowym – za każdy scenariusz 49.[^89] Rozpatrzenie wniosku o zamiarze prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych w ramach zezwolenia na ope- 400 rację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE",
+     "text": "[^89] Rozpatrzenie, złożonego przez operatora systemu bezzałogowego statku powietrznego ubiegającego się o przyznanie uprawnienia do prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych, oświadczenia, o którym mowa w dodatku 4 do załącznika do rozporzą- 400 dzenia nr 2019/947/UE, lub oświadczenia o zamiarze prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych zgodnie z krajowym scenariuszem standardowym – za każdy scenariusz",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "49",
+     "path": "ust_49",
+     "text": "[^89] Rozpatrzenie wniosku o zamiarze prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych w ramach zezwolenia na ope- 400 rację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE",
      "children": []
     },
     {

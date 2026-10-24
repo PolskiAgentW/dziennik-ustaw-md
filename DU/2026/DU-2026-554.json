@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/554",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podatku dochodowym od osób prawnych",
- "converter": "eli2md 0.6.56",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/554/text.pdf",
  "body": [
   {
@@ -6388,26 +6388,33 @@
            "num": "c",
            "path": "art_12/ust_4/pkt_15/lit_c",
            "text": "przychodów ze zbycia funduszowi wierzytelności albo towarzystwu funduszy inwestycyjnych tworzącemu fundusz wierzytelności",
+           "children": []
+          },
+          {
+           "type": "text",
+           "text": "– wierzytelności z tytułu kredytów (pożyczek) – do wysokości niespłaconej części udzielonych kredytów (pożyczek),"
+          },
+          {
+           "type": "text",
+           "text": "– praw do strumienia pieniądza w części niewymagalnej wierzytelności z tytułu kredytów (pożyczek) objętych umową o subpartycypację, z zastrzeżeniem ust. 4f,"
+          },
+          {
+           "type": "lit",
+           "num": "d",
+           "path": "art_12/ust_4/pkt_15/lit_d",
+           "text": "[^22] przychodów ze zbycia przez bank spółdzielczy będący uczestnikiem systemu ochrony bankowi zrzeszającemu zarządzającemu systemem ochrony albo jednostce zarządzającej systemem ochrony, o których mowa w art. 22d ust. 1 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2025 r. poz. 265 i 1191 oraz z 2026 r. poz. 331):",
            "children": [
-            {
-             "type": "text",
-             "text": "– wierzytelności z tytułu kredytów (pożyczek) – do wysokości niespłaconej części udzielonych kredytów (pożyczek),"
-            },
-            {
-             "type": "text",
-             "text": "– praw do strumienia pieniądza w części niewymagalnej wierzytelności z tytułu kredytów (pożyczek) objętych umową o subpartycypację, z zastrzeżeniem ust. 4f, d)[^22] przychodów ze zbycia przez bank spółdzielczy będący uczestnikiem systemu ochrony bankowi zrzeszającemu zarządzającemu systemem ochrony albo jednostce zarządzającej systemem ochrony, o których mowa w art. 22d ust. 1 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2025 r. poz. 265 i 1191 oraz z 2026 r. poz. 331):"
-            },
             {
              "type": "tir",
              "num": "1",
-             "path": "art_12/ust_4/pkt_15/lit_c/tir_1",
+             "path": "art_12/ust_4/pkt_15/lit_d/tir_1",
              "text": "wierzytelności z tytułu kredytów (pożyczek) – do wysokości niespłaconej części udzielonych kredytów (pożyczek),",
              "children": []
             },
             {
              "type": "tir",
              "num": "2",
-             "path": "art_12/ust_4/pkt_15/lit_c/tir_2",
+             "path": "art_12/ust_4/pkt_15/lit_d/tir_2",
              "text": "praw do strumienia pieniądza w części niewymagalnej wierzytelności z tytułu kredytów (pożyczek) objętych umową o subpartycypację, o której mowa w art. 22ga ust. 1 pkt 2 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających, z zastrzeżeniem ust. 4k;",
              "children": []
             }

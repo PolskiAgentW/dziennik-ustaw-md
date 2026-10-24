@@ -1,7 +1,7 @@
 {
  "eli": "DU/2024/1361",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o odnawialnych źródłach energii",
- "converter": "eli2md 0.6.59",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2024/1361/text.pdf",
  "body": [
   {
@@ -6950,7 +6950,14 @@
            "type": "lit",
            "num": "e",
            "path": "art_38g/ust_2/pkt_3/lit_e",
-           "text": "[^110] mocy zainstalowanej elektrycznej lub mocy zainstalowanej cieplnej, lub rocznej wydajności produkcji biogazu, biogazu rolniczego lub biometanu, poszczególnych rodzajów instalacji odnawialnego źródła energii, f)[^111] lokalizacji instalacji odnawialnego źródła energii,",
+           "text": "[^110] mocy zainstalowanej elektrycznej lub mocy zainstalowanej cieplnej, lub rocznej wydajności produkcji biogazu, biogazu rolniczego lub biometanu, poszczególnych rodzajów instalacji odnawialnego źródła energii,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "f",
+           "path": "art_38g/ust_2/pkt_3/lit_f",
+           "text": "[^111] lokalizacji instalacji odnawialnego źródła energii,",
            "children": []
           },
           {
@@ -8941,7 +8948,7 @@
        "children": [
         {
          "type": "text",
-         "text": "n P  Vi P=∑ i , i=1 V"
+         "text": "n Pi  Vi P=∑ , i=1 V"
         },
         {
          "type": "text",
@@ -11020,7 +11027,14 @@
          "type": "pkt",
          "num": "3",
          "path": "art_70b/ust_16/pkt_3",
-         "text": "(uchylony)[^189] 4)[^190] rozpoczęcie modernizacji instalacji nastąpi po otrzymaniu zaświadczenia, o którym mowa w ust. 8, dla zmodernizowanej instalacji;",
+         "text": "(uchylony)[^189]",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "art_70b/ust_16/pkt_4",
+         "text": "[^190] rozpoczęcie modernizacji instalacji nastąpi po otrzymaniu zaświadczenia, o którym mowa w ust. 8, dla zmodernizowanej instalacji;",
          "children": []
         },
         {
@@ -13821,7 +13835,7 @@
        "children": [
         {
          "type": "text",
-         "text": "∑ n Ci ∗Ii ∗P CrefH = i=1 i , ∑ n i=1 Ii ∗P i"
+         "text": "∑ n Ci ∗Ii ∗Pi CrefH = i=1 , ∑ n i=1 Ii ∗Pi"
         },
         {
          "type": "text",
@@ -13841,7 +13855,7 @@
         },
         {
          "type": "text",
-         "text": "P i – moc zainstalowaną i-tej instalacji wchodzącej w skład hybrydowej instalacji odnawialnego źródła energii, wyrażoną w MW."
+         "text": "Pi – moc zainstalowaną i-tej instalacji wchodzącej w skład hybrydowej instalacji odnawialnego źródła energii, wyrażoną w MW."
         }
        ]
       },
@@ -16910,7 +16924,7 @@
        "children": [
         {
          "type": "text",
-         "text": "PIC =∑(PI ji ∗∏(1+r j i ) ) ,"
+         "text": "PIC =∑(PI ji ∗∏(1+r ji) ) ,"
         },
         {
          "type": "text",
@@ -24620,7 +24634,7 @@
        "children": [
         {
          "type": "text",
-         "text": "P koge =(Csk − Cbk)"
+         "text": "Pkoge =(Csk − Cbk)"
         },
         {
          "type": "text",

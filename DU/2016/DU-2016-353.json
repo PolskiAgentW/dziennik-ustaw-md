@@ -1,7 +1,7 @@
 {
  "eli": "DU/2016/353",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 lutego 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2016/353/text.pdf",
  "body": [
   {
@@ -2656,29 +2656,41 @@
              "type": "tir",
              "num": "1",
              "path": "art_21/ust_2/pkt_23/lit_a/tir_1",
-             "text": "(uchylone)[^50] – wojewódzkich, powiatowych i gminnych programów ochrony środowiska,",
+             "text": "(uchylone)[^50]",
              "children": []
             },
             {
              "type": "tir",
              "num": "2",
              "path": "art_21/ust_2/pkt_23/lit_a/tir_2",
-             "text": "programów ochrony powietrza,",
+             "text": "wojewódzkich, powiatowych i gminnych programów ochrony środowiska,",
              "children": []
             },
             {
              "type": "tir",
              "num": "3",
              "path": "art_21/ust_2/pkt_23/lit_a/tir_3",
-             "text": "programów ochrony środowiska przed hałasem,",
+             "text": "programów ochrony powietrza,",
              "children": []
             },
             {
              "type": "tir",
              "num": "4",
              "path": "art_21/ust_2/pkt_23/lit_a/tir_4",
-             "text": "wewnętrznych i zewnętrznych planów operacyjno-ratowniczych, –[^51] strategii rozwoju, programów i dokumentów programowych, o których mowa w art. 14 ust. 1 tej ustawy,",
+             "text": "programów ochrony środowiska przed hałasem,",
              "children": []
+            },
+            {
+             "type": "tir",
+             "num": "5",
+             "path": "art_21/ust_2/pkt_23/lit_a/tir_5",
+             "text": "wewnętrznych i zewnętrznych planów operacyjno-ratowniczych,",
+             "children": [
+              {
+               "type": "text",
+               "text": "–[^51] strategii rozwoju, programów i dokumentów programowych, o których mowa w art. 14 ust. 1 tej ustawy,"
+              }
+             ]
             }
            ]
           },
@@ -2686,7 +2698,14 @@
            "type": "lit",
            "num": "b",
            "path": "art_21/ust_2/pkt_23/lit_b",
-           "text": "(uchylona)[^52] ba)[^53] strategiach rozwoju, programach i dokumentach programowych, o których mowa w art. 14 ust. 1 tej ustawy,",
+           "text": "(uchylona)[^52]",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "ba",
+           "path": "art_21/ust_2/pkt_23/lit_ba",
+           "text": "[^53] strategiach rozwoju, programach i dokumentach programowych, o których mowa w art. 14 ust. 1 tej ustawy,",
            "children": []
           },
           {
@@ -2707,7 +2726,28 @@
            "type": "lit",
            "num": "e",
            "path": "art_21/ust_2/pkt_23/lit_e",
-           "text": "programach ochrony powietrza, ea)[^54] harmonogramach zadań w zakresie historycznych zanieczyszczeń powierzchni ziemi, eb)[^54] rejestrze historycznych zanieczyszczeń powierzchni ziemi, f)[^55] wnioskach o wydanie decyzji i o decyzjach ustalających plan remediacji historycznego zanieczyszczenia powierzchni ziemi,",
+           "text": "programach ochrony powietrza,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "ea",
+           "path": "art_21/ust_2/pkt_23/lit_ea",
+           "text": "[^54] harmonogramach zadań w zakresie historycznych zanieczyszczeń powierzchni ziemi,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "eb",
+           "path": "art_21/ust_2/pkt_23/lit_eb",
+           "text": "[^54] rejestrze historycznych zanieczyszczeń powierzchni ziemi,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "f",
+           "path": "art_21/ust_2/pkt_23/lit_f",
+           "text": "[^55] wnioskach o wydanie decyzji i o decyzjach ustalających plan remediacji historycznego zanieczyszczenia powierzchni ziemi,",
            "children": []
           },
           {
@@ -2769,23 +2809,58 @@
              "type": "tir",
              "num": "4",
              "path": "art_21/ust_2/pkt_23/lit_k/tir_4",
-             "text": "na wytwarzanie odpadów, l)[^56] uzgodnieniach, o których mowa w art. 211 ust. 3a tej ustawy, l)[^57] (uchylona)",
+             "text": "na wytwarzanie odpadów,",
              "children": []
             }
            ]
           },
           {
            "type": "lit",
+           "num": "l",
+           "path": "art_21/ust_2/pkt_23/lit_l",
+           "text": "[^56] uzgodnieniach, o których mowa w art. 211 ust. 3a tej ustawy,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "l",
+           "path": "art_21/ust_2/pkt_23/lit_l",
+           "text": "[^57] (uchylona)",
+           "children": []
+          },
+          {
+           "type": "lit",
            "num": "m",
            "path": "art_21/ust_2/pkt_23/lit_m",
-           "text": "przeglądach ekologicznych, ma)[^58] zgłoszeniach, o których mowa w art. 250 ust. 1 tej ustawy, mb)[^58] programach zapobiegania poważnym awariom przemysłowym, o których mowa w art. 251 ust. 1 tej ustawy,",
+           "text": "przeglądach ekologicznych,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "ma",
+           "path": "art_21/ust_2/pkt_23/lit_ma",
+           "text": "[^58] zgłoszeniach, o których mowa w art. 250 ust. 1 tej ustawy,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "mb",
+           "path": "art_21/ust_2/pkt_23/lit_mb",
+           "text": "[^58] programach zapobiegania poważnym awariom przemysłowym, o których mowa w art. 251 ust. 1 tej ustawy,",
            "children": []
           },
           {
            "type": "lit",
            "num": "n",
            "path": "art_21/ust_2/pkt_23/lit_n",
-           "text": "raportach o bezpieczeństwie oraz o decyzjach, o których mowa w art. 259 ust. 1 tej ustawy, na)[^59] kontrolach planowych, o których mowa w art. 269 tej ustawy,",
+           "text": "raportach o bezpieczeństwie oraz o decyzjach, o których mowa w art. 259 ust. 1 tej ustawy,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "na",
+           "path": "art_21/ust_2/pkt_23/lit_na",
+           "text": "[^59] kontrolach planowych, o których mowa w art. 269 tej ustawy,",
            "children": []
           },
           {
@@ -3268,7 +3343,14 @@
            "type": "lit",
            "num": "b",
            "path": "art_21/ust_2/pkt_35/lit_b",
-           "text": "postanowieniach, o których mowa w art. 24 ust. 7 tej ustawy, c)[^76] harmonogramach zadań w zakresie bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku, o których mowa w art. 16a tej ustawy,",
+           "text": "postanowieniach, o których mowa w art. 24 ust. 7 tej ustawy,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "art_21/ust_2/pkt_35/lit_c",
+           "text": "[^76] harmonogramach zadań w zakresie bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku, o których mowa w art. 16a tej ustawy,",
            "children": []
           },
           {
@@ -6161,7 +6243,14 @@
            "type": "lit",
            "num": "c",
            "path": "art_63/ust_1/pkt_3/lit_c",
-           "text": "[^143] wielkości i złożoności oddziaływania, z uwzględnieniem obciążenia istniejącej infrastruktury technicznej, c)[^144] charakteru, wielkości, intensywności i złożoności oddziaływania, z uwzględnieniem obciążenia istniejącej infrastruktury technicznej oraz przewidywanego momentu rozpoczęcia oddziaływania,",
+           "text": "[^143] wielkości i złożoności oddziaływania, z uwzględnieniem obciążenia istniejącej infrastruktury technicznej,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "art_63/ust_1/pkt_3/lit_c",
+           "text": "[^144] charakteru, wielkości, intensywności i złożoności oddziaływania, z uwzględnieniem obciążenia istniejącej infrastruktury technicznej oraz przewidywanego momentu rozpoczęcia oddziaływania,",
            "children": []
           },
           {
@@ -8234,7 +8323,14 @@
            "type": "lit",
            "num": "l",
            "path": "art_75/ust_1/pkt_1/lit_l",
-           "text": "[^244] przedsięwzięć, o których mowa w pkt 4, dla których wnioskodawcą jest jednostka samorządu terytorialnego, dla której organem wykonawczym jest organ właściwy do wydania decyzji o środowiskowych uwarunkowaniach, lub podmiot od niej zależny w rozumieniu art. 24m ust. 2 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2015 r. poz. 1515 i 1890), m)[^244] przedsięwzięć, o których mowa w pkt 3, dla których wnioskodawcą jest jednostka organizacyjna Lasów Państwowych,",
+           "text": "[^244] przedsięwzięć, o których mowa w pkt 4, dla których wnioskodawcą jest jednostka samorządu terytorialnego, dla której organem wykonawczym jest organ właściwy do wydania decyzji o środowiskowych uwarunkowaniach, lub podmiot od niej zależny w rozumieniu art. 24m ust. 2 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2015 r. poz. 1515 i 1890),",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "m",
+           "path": "art_75/ust_1/pkt_1/lit_m",
+           "text": "[^244] przedsięwzięć, o których mowa w pkt 3, dla których wnioskodawcą jest jednostka organizacyjna Lasów Państwowych,",
            "children": []
           },
           {
@@ -8851,7 +8947,14 @@
            "type": "lit",
            "num": "c",
            "path": "art_82/ust_1/pkt_1/lit_c",
-           "text": "[^276] wymagania dotyczące ochrony środowiska konieczne do uwzględnienia w dokumentacji wymaganej do wydania decyzji, o których mowa w art. 72 ust. 1, w szczególności w projekcie budowlanym, w przypadku decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, c)[^277] wymagania dotyczące ochrony środowiska konieczne do uwzględnienia w dokumentacji wymaganej do wydania decyzji, o których mowa w art. 72 ust. 1, w szczególności w projekcie budowlanym, w przypadku decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14, 18 i 19,",
+           "text": "[^276] wymagania dotyczące ochrony środowiska konieczne do uwzględnienia w dokumentacji wymaganej do wydania decyzji, o których mowa w art. 72 ust. 1, w szczególności w projekcie budowlanym, w przypadku decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "art_82/ust_1/pkt_1/lit_c",
+           "text": "[^277] wymagania dotyczące ochrony środowiska konieczne do uwzględnienia w dokumentacji wymaganej do wydania decyzji, o których mowa w art. 72 ust. 1, w szczególności w projekcie budowlanym, w przypadku decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14, 18 i 19,",
            "children": []
           },
           {

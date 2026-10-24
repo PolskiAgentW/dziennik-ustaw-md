@@ -1,7 +1,7 @@
 {
  "eli": "DU/2024/423",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kształtowaniu ustroju rolnego",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2024/423/text.pdf",
  "body": [
   {
@@ -840,20 +840,28 @@
              "type": "tir",
              "num": "2",
              "path": "art_2a/ust_4/pkt_3/lit_a/tir_2",
-             "text": "interwencji, o której mowa w art. 69 lit. e rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, z późn. zm.[^18]), ze względu na rozpoczynanie działalności przez młodych rolników, b)[^17] nabycie nieruchomości rolnej będzie zgodne z warunkami przyznanej pomocy finansowej w ramach:",
+             "text": "interwencji, o której mowa w art. 69 lit. e rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, z późn. zm.[^18]), ze względu na rozpoczynanie działalności przez młodych rolników,",
              "children": []
-            },
+            }
+           ]
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "art_2a/ust_4/pkt_3/lit_b",
+           "text": "[^17] nabycie nieruchomości rolnej będzie zgodne z warunkami przyznanej pomocy finansowej w ramach:",
+           "children": [
             {
              "type": "tir",
-             "num": "3",
-             "path": "art_2a/ust_4/pkt_3/lit_a/tir_3",
+             "num": "1",
+             "path": "art_2a/ust_4/pkt_3/lit_b/tir_1",
              "text": "poddziałania, o którym mowa w art. 3 ust. 1 pkt 6 lit. a ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020, lub",
              "children": []
             },
             {
              "type": "tir",
-             "num": "4",
-             "path": "art_2a/ust_4/pkt_3/lit_a/tir_4",
+             "num": "2",
+             "path": "art_2a/ust_4/pkt_3/lit_b/tir_2",
              "text": "interwencji, o której mowa w art. 69 lit. e rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013, na rozpoczynanie działalności przez młodych rolników,",
              "children": []
             }
@@ -2427,7 +2435,14 @@
            "type": "lit",
            "num": "a",
            "path": "art_4/ust_5/pkt_1/lit_a",
-           "text": "[^73] notariusz – w przypadku, o którym mowa w ust. 1 pkt 1 i 2, b)[^73] sąd, organ administracji publicznej, organ egzekucyjny lub nabywca – w przypadku, o którym mowa w ust. 1 pkt 3,",
+           "text": "[^73] notariusz – w przypadku, o którym mowa w ust. 1 pkt 1 i 2,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "art_4/ust_5/pkt_1/lit_b",
+           "text": "[^73] sąd, organ administracji publicznej, organ egzekucyjny lub nabywca – w przypadku, o którym mowa w ust. 1 pkt 3,",
            "children": []
           },
           {

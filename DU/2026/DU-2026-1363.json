@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1363",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 października 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa",
- "converter": "eli2md 0.6.60",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1363/text.pdf",
  "body": [
   {
@@ -609,7 +609,14 @@
          "type": "lit",
          "num": "p",
          "path": "art_5/pkt_2/lit_p",
-         "text": "[^9] Głównym Inspektoracie Transportu Drogowego, q)[^9] Instytucie Badawczym Dróg i Mostów w Warszawie,",
+         "text": "[^9] Głównym Inspektoracie Transportu Drogowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "q",
+         "path": "art_5/pkt_2/lit_q",
+         "text": "[^9] Instytucie Badawczym Dróg i Mostów w Warszawie,",
          "children": []
         },
         {

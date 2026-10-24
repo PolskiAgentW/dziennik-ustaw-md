@@ -1,7 +1,7 @@
 {
  "eli": "DU/2022/2540",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 listopada 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2022/2540/text.pdf",
  "body": [
   {
@@ -2066,7 +2066,14 @@
            "type": "lit",
            "num": "w",
            "path": "art_12/ust_1/pkt_2/lit_w",
-           "text": "(uchylona)[^31] x)[^32] w zakresie pomocy społecznej bez zakwaterowania (PKWiU ex dział 88), z wyłączeniem usług pomocy społecznej bez zakwaterowania w zakresie odwiedzania i pomocy domowej świadczonych osobom niepełnosprawnym (PKWiU 88.10.14), usług pomocy społecznej bez zakwaterowania w zakresie opieki dziennej świadczonych osobom dorosłym niepełnosprawnym (PKWiU 88.10.15), usług pomocy społecznej bez zakwaterowania w zakresie opieki dziennej nad dziećmi, z wyłączeniem opieki nad dziećmi niepełnosprawnymi (PKWiU 88.91.11), usług pomocy społecznej bez zakwaterowania w zakresie opieki dziennej nad dziećmi i młodzieżą niepełnosprawną (PKWiU 88.91.12), usług pomocy społecznej bez zakwaterowania świadczonych przez opiekunki do dzieci (PKWiU 88.91.13), pozostałych usług pomocy społecznej bez zakwaterowania, gdzie indziej niesklasyfikowane (PKWiU 88.99.19),",
+           "text": "(uchylona)[^31]",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "x",
+           "path": "art_12/ust_1/pkt_2/lit_x",
+           "text": "[^32] w zakresie pomocy społecznej bez zakwaterowania (PKWiU ex dział 88), z wyłączeniem usług pomocy społecznej bez zakwaterowania w zakresie odwiedzania i pomocy domowej świadczonych osobom niepełnosprawnym (PKWiU 88.10.14), usług pomocy społecznej bez zakwaterowania w zakresie opieki dziennej świadczonych osobom dorosłym niepełnosprawnym (PKWiU 88.10.15), usług pomocy społecznej bez zakwaterowania w zakresie opieki dziennej nad dziećmi, z wyłączeniem opieki nad dziećmi niepełnosprawnymi (PKWiU 88.91.11), usług pomocy społecznej bez zakwaterowania w zakresie opieki dziennej nad dziećmi i młodzieżą niepełnosprawną (PKWiU 88.91.12), usług pomocy społecznej bez zakwaterowania świadczonych przez opiekunki do dzieci (PKWiU 88.91.13), pozostałych usług pomocy społecznej bez zakwaterowania, gdzie indziej niesklasyfikowane (PKWiU 88.99.19),",
            "children": []
           },
           {
@@ -2272,10 +2279,17 @@
              "type": "tir",
              "num": "8",
              "path": "art_12/ust_1/pkt_4/lit_f/tir_8",
-             "text": "własności intelektualnej i podobnych produktów z wyłączeniem prac chronionych prawem autorskim (PKWiU 77.40), g)[^34] świadczenia usług pomocy społecznej z zakwaterowaniem (PKWiU dział 87);",
+             "text": "własności intelektualnej i podobnych produktów z wyłączeniem prac chronionych prawem autorskim (PKWiU 77.40),",
              "children": []
             }
            ]
+          },
+          {
+           "type": "lit",
+           "num": "g",
+           "path": "art_12/ust_1/pkt_4/lit_g",
+           "text": "[^34] świadczenia usług pomocy społecznej z zakwaterowaniem (PKWiU dział 87);",
+           "children": []
           }
          ]
         },
@@ -9307,7 +9321,14 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Stawka określona pod lit. b dotyczy wyłącznie podatników, którzy wykonują usługi weterynaryjne i są równocześnie zatrudnieni na podstawie umowy o pracę w pełnym wymiarze czasu pracy w służbie weterynaryjnej organów administracji publicznej. 5.[^95] Stawki nie dotyczą działalności wykonywanej na rzecz osób prawnych oraz jednostek organizacyjnych nieposiadających osobowości prawnej albo na rzecz osób fizycznych dla potrzeb prowadzonej przez nie pozarolniczej działalności gospodarczej.",
+     "text": "Stawka określona pod lit. b dotyczy wyłącznie podatników, którzy wykonują usługi weterynaryjne i są równocześnie zatrudnieni na podstawie umowy o pracę w pełnym wymiarze czasu pracy w służbie weterynaryjnej organów administracji publicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "[^95] Stawki nie dotyczą działalności wykonywanej na rzecz osób prawnych oraz jednostek organizacyjnych nieposiadających osobowości prawnej albo na rzecz osób fizycznych dla potrzeb prowadzonej przez nie pozarolniczej działalności gospodarczej.",
      "children": [
       {
        "type": "text",
@@ -9324,7 +9345,7 @@
       {
        "type": "lit",
        "num": "a",
-       "path": "ust_4/lit_a",
+       "path": "ust_5/lit_a",
        "text": "do 48 5 zł za każdą godzinę",
        "children": []
       },
@@ -9339,7 +9360,7 @@
       {
        "type": "lit",
        "num": "b",
-       "path": "ust_4/lit_b",
+       "path": "ust_5/lit_b",
        "text": "– 260 zł",
        "children": []
       }

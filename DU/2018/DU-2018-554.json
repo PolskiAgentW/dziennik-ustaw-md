@@ -1,7 +1,7 @@
 {
  "eli": "DU/2018/554",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pomocy osobom uprawnionym do alimentów",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2018/554/text.pdf",
  "body": [
   {
@@ -1707,7 +1707,14 @@
            "type": "lit",
            "num": "c",
            "path": "art_15/ust_4/pkt_3/lit_c",
-           "text": "orzeczenie sądu rodzinnego o ustaleniu opiekuna prawnego dla osoby uprawnionej, d)[^14] oświadczenie o uczęszczaniu osoby uprawnionej do szkoły lub szkoły wyższej,",
+           "text": "orzeczenie sądu rodzinnego o ustaleniu opiekuna prawnego dla osoby uprawnionej,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "d",
+           "path": "art_15/ust_4/pkt_3/lit_d",
+           "text": "[^14] oświadczenie o uczęszczaniu osoby uprawnionej do szkoły lub szkoły wyższej,",
            "children": []
           },
           {
@@ -1864,7 +1871,14 @@
            "type": "lit",
            "num": "k",
            "path": "art_15/ust_8a/pkt_1/lit_k",
-           "text": "orzeczenie o stopniu niepełnosprawności, ka)[^16] informacje o prawie do świadczeń opieki zdrowotnej,",
+           "text": "orzeczenie o stopniu niepełnosprawności,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "ka",
+           "path": "art_15/ust_8a/pkt_1/lit_ka",
+           "text": "[^16] informacje o prawie do świadczeń opieki zdrowotnej,",
            "children": []
           },
           {

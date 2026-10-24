@@ -1,7 +1,7 @@
 {
  "eli": "DU/2020/261",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 stycznia 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o odnawialnych źródłach energii",
- "converter": "eli2md 0.6.59",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2020/261/text.pdf",
  "body": [
   {
@@ -6049,7 +6049,7 @@
        "children": [
         {
          "type": "text",
-         "text": "n P  Vi P=∑ i ,"
+         "text": "n Pi  Vi P=∑ ,"
         },
         {
          "type": "text",
@@ -11516,8 +11516,15 @@
        "type": "ust",
        "num": "6",
        "path": "art_92/ust_6",
-       "text": "Obowiązek zakupu energii elektrycznej przez sprzedawcę zobowiązanego, o którym mowa w ust. 1, oraz prawo do pokrycia ujemnego salda, o którym mowa w art. 93 ust. 2 pkt 3, przysługują w okresie wskazanym przez wytwórcę w ofercie, ale nie dłużej niż w okresie określonym na podstawie art. 77 ust. 3 pkt 2, obowiązującym w dniu złożenia oferty, o której mowa w art. 79 ust. 1, z zastrzeżeniem, iż okres ten nie może trwać dłużej niż do dnia: 1)[^114] 30 czerwca 2039 r. – w przypadku instalacji odnawialnego źródła energii, o której mowa w art. 72 ust. 1 pkt 1, oraz instalacji odnawialnego źródła energii, o której mowa w art. 72 ust. 1 pkt 2;",
+       "text": "Obowiązek zakupu energii elektrycznej przez sprzedawcę zobowiązanego, o którym mowa w ust. 1, oraz prawo do pokrycia ujemnego salda, o którym mowa w art. 93 ust. 2 pkt 3, przysługują w okresie wskazanym przez wytwórcę w ofercie, ale nie dłużej niż w okresie określonym na podstawie art. 77 ust. 3 pkt 2, obowiązującym w dniu złożenia oferty, o której mowa w art. 79 ust. 1, z zastrzeżeniem, iż okres ten nie może trwać dłużej niż do dnia:",
        "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_92/ust_6/pkt_1",
+         "text": "[^114] 30 czerwca 2039 r. – w przypadku instalacji odnawialnego źródła energii, o której mowa w art. 72 ust. 1 pkt 1, oraz instalacji odnawialnego źródła energii, o której mowa w art. 72 ust. 1 pkt 2;",
+         "children": []
+        },
         {
          "type": "pkt",
          "num": "2",
@@ -11529,10 +11536,17 @@
          "type": "pkt",
          "num": "3",
          "path": "art_92/ust_6/pkt_3",
-         "text": "31 grudnia 2040 r. – w przypadku instalacji odnawialnego źródła energii, o której mowa w art. 72 ust. 1 pkt 3, przy czym okres ten liczy się od dnia złożenia oświadczenia, o którym mowa w art. 83 ust. 1 pkt 4. 6a.[^115] W przypadku niewypełnienia przez wytwórcę zobowiązania, o którym mowa w art. 79 ust. 3 pkt 8, przepisów ust. 1–6 nie stosuje się.",
+         "text": "31 grudnia 2040 r. – w przypadku instalacji odnawialnego źródła energii, o której mowa w art. 72 ust. 1 pkt 3, przy czym okres ten liczy się od dnia złożenia oświadczenia, o którym mowa w art. 83 ust. 1 pkt 4.",
          "children": []
         }
        ]
+      },
+      {
+       "type": "ust",
+       "num": "6a",
+       "path": "art_92/ust_6a",
+       "text": "[^115] W przypadku niewypełnienia przez wytwórcę zobowiązania, o którym mowa w art. 79 ust. 3 pkt 8, przepisów ust. 1–6 nie stosuje się.",
+       "children": []
       },
       {
        "type": "ust",
@@ -16865,7 +16879,7 @@
        "children": [
         {
          "type": "text",
-         "text": "P koge =(Csk − Cbk)"
+         "text": "Pkoge =(Csk − Cbk)"
         },
         {
          "type": "text",

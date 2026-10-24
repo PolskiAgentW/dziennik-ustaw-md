@@ -1,7 +1,7 @@
 {
  "eli": "DU/2017/209",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 stycznia 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zarządzaniu kryzysowym",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2017/209/text.pdf",
  "body": [
   {
@@ -1457,7 +1457,14 @@
            "type": "lit",
            "num": "a",
            "path": "art_8/ust_3/pkt_1/lit_a",
-           "text": "(uchylona) b)[^3] budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo,",
+           "text": "(uchylona)",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "art_8/ust_3/pkt_1/lit_b",
+           "text": "[^3] budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo,",
            "children": []
           },
           {
@@ -1576,7 +1583,28 @@
            "type": "lit",
            "num": "s",
            "path": "art_8/ust_3/pkt_1/lit_s",
-           "text": "(uchylona)[^4] t)[^5] energia, u)[^5] gospodarka złożami kopalin, v)[^6] żegluga śródlądowa;",
+           "text": "(uchylona)[^4]",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "t",
+           "path": "art_8/ust_3/pkt_1/lit_t",
+           "text": "[^5] energia,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "u",
+           "path": "art_8/ust_3/pkt_1/lit_u",
+           "text": "[^5] gospodarka złożami kopalin,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "v",
+           "path": "art_8/ust_3/pkt_1/lit_v",
+           "text": "[^6] żegluga śródlądowa;",
            "children": []
           }
          ]

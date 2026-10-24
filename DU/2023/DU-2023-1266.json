@@ -1,7 +1,7 @@
 {
  "eli": "DU/2023/1266",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 maja 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Żandarmerii Wojskowej i wojskowych organach porządkowych",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2023/1266/text.pdf",
  "body": [
   {
@@ -2780,7 +2780,14 @@
            "type": "lit",
            "num": "a",
            "path": "art_18b/ust_1/pkt_2/lit_a",
-           "text": "[^11] osobę dotkniętą przemocą w rodzinie lub a)[^12] osobę doznającą przemocy domowej lub",
+           "text": "[^11] osobę dotkniętą przemocą w rodzinie lub",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "art_18b/ust_1/pkt_2/lit_a",
+           "text": "[^12] osobę doznającą przemocy domowej lub",
            "children": []
           },
           {

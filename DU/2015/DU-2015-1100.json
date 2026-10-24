@@ -1,7 +1,7 @@
 {
  "eli": "DU/2015/1100",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 lipca 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o materiałach wybuchowych przeznaczonych do użytku cywilnego",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2015/1100/text.pdf",
  "body": [
   {
@@ -880,7 +880,14 @@
            "type": "lit",
            "num": "b",
            "path": "art_10/ust_2/pkt_1/lit_b",
-           "text": "wydobywania kopalin ze złóż, c)[^7] podziemnego bezzbiornikowego magazynowania substancji, podziemnego składowania odpadów oraz podziemnego składowania dwutlenku węgla,",
+           "text": "wydobywania kopalin ze złóż,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "art_10/ust_2/pkt_1/lit_c",
+           "text": "[^7] podziemnego bezzbiornikowego magazynowania substancji, podziemnego składowania odpadów oraz podziemnego składowania dwutlenku węgla,",
            "children": []
           }
          ]

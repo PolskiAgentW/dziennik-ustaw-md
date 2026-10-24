@@ -1,7 +1,7 @@
 {
  "eli": "DU/2020/1905",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 września 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2020/1905/text.pdf",
  "body": [
   {
@@ -717,8 +717,15 @@
        "type": "ust",
        "num": "1",
        "path": "art_4/ust_1",
-       "text": "Użyte w ustawie określenia oznaczają: 1)[^1] działalność usługowa – pozarolniczą działalność gospodarczą, której przedmiotem są czynności zaliczone do usług zgodnie z Polską Klasyfikacją Wyrobów i Usług wprowadzoną rozporządzeniem Rady Ministrów z dnia 29 października 2008 r. w sprawie Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) (Dz. U. poz. 1293 i 1435 oraz z 2009 r. poz. 256 i 1753)[^2] wydanym na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2020 r. poz. 443 i 1486), z zastrzeżeniem pkt 2 i 3;",
+       "text": "Użyte w ustawie określenia oznaczają:",
        "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_4/ust_1/pkt_1",
+         "text": "[^1] działalność usługowa – pozarolniczą działalność gospodarczą, której przedmiotem są czynności zaliczone do usług zgodnie z Polską Klasyfikacją Wyrobów i Usług wprowadzoną rozporządzeniem Rady Ministrów z dnia 29 października 2008 r. w sprawie Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) (Dz. U. poz. 1293 i 1435 oraz z 2009 r. poz. 256 i 1753)[^2] wydanym na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2020 r. poz. 443 i 1486), z zastrzeżeniem pkt 2 i 3;",
+         "children": []
+        },
         {
          "type": "pkt",
          "num": "1",
@@ -8616,8 +8623,29 @@
        "type": "pkt",
        "num": "12",
        "path": "ust_5/pkt_12",
-       "text": "w zakresie: a)[^57] sprzedaży hurtowej i detalicznej części i akcesoriów do pojazdów samochodowych, z wyłączeniem motocykli (PKWiU 45.1), a)[^58] sprzedaży hurtowej i detalicznej pojazdów samochodowych, z wyłączeniem motocykli (PKWiU 45.1), b)[^57] handlu częściami i akcesoriami do pojazdów mechanicznych (PKWiU 45.3), b)[^58] sprzedaży hurtowej i detalicznej części i akcesoriów do pojazdów samochodowych, z wyłączeniem motocykli (PKWiU 45.3),",
+       "text": "w zakresie:",
        "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_5/pkt_12/lit_a",
+         "text": "[^57] sprzedaży hurtowej i detalicznej części i akcesoriów do pojazdów samochodowych, z wyłączeniem motocykli (PKWiU 45.1), a)[^58] sprzedaży hurtowej i detalicznej pojazdów samochodowych, z wyłączeniem motocykli (PKWiU 45.1),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_5/pkt_12/lit_b",
+         "text": "[^57] handlu częściami i akcesoriami do pojazdów mechanicznych (PKWiU 45.3),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_5/pkt_12/lit_b",
+         "text": "[^58] sprzedaży hurtowej i detalicznej części i akcesoriów do pojazdów samochodowych, z wyłączeniem motocykli (PKWiU 45.3),",
+         "children": []
+        },
         {
          "type": "lit",
          "num": "c",
@@ -8658,17 +8686,45 @@
          "type": "lit",
          "num": "b",
          "path": "ust_5/pkt_15/lit_b",
-         "text": "„Transport wodny” (PKWiU dział 50), c)[^59] „Transport lotniczy” (PKWiU dział 51), c)[^60] „Transport lotniczy i transport kosmiczny” (PKWiU dział 51),",
+         "text": "„Transport wodny” (PKWiU dział 50),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_5/pkt_15/lit_c",
+         "text": "[^59] „Transport lotniczy” (PKWiU dział 51),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_5/pkt_15/lit_c",
+         "text": "[^60] „Transport lotniczy i transport kosmiczny” (PKWiU dział 51),",
          "children": []
         },
         {
          "type": "lit",
          "num": "d",
          "path": "ust_5/pkt_15/lit_d",
-         "text": "„Magazynowanie i usługi wspomagające transport” (PKWiU dział 52), 16)[^61] pocztowych objętych obowiązkiem świadczenia usług powszechnych (operatora publicznego) (PKWiU 53.10), pozostałych pocztowych i kurierskich (PKWiU ex 53.20), z wyłączeniem usług dostarczania zakupów żywności do domu (PKWiU 53.20.12.0) oraz pozostałych usług pocztowych i kurierskich w zakresie dostarczania przesyłek, gdzie indziej niesklasyfikowanych (PKWiU 53.20.19.0), 16)[^62] pocztowych objętych obowiązkiem świadczenia usług powszechnych (operatora wyznaczonego) (PKWiU 53.10), pozostałych pocztowych i kurierskich (PKWiU ex 53.20), z wyłączeniem usług dostarczania zakupów żywnościowych do domu (PKWiU 53.20.12.0) oraz pozostałych usług pocztowych i kurierskich, gdzie indziej niesklasyfikowanych (PKWiU 53.20.19.0), 17) związanych z zakwaterowaniem i usług gastronomicznych (PKWiU sekcja I),",
+         "text": "„Magazynowanie i usługi wspomagające transport” (PKWiU dział 52),",
          "children": []
         }
        ]
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "ust_5/pkt_16",
+       "text": "[^61] pocztowych objętych obowiązkiem świadczenia usług powszechnych (operatora publicznego) (PKWiU 53.10), pozostałych pocztowych i kurierskich (PKWiU ex 53.20), z wyłączeniem usług dostarczania zakupów żywności do domu (PKWiU 53.20.12.0) oraz pozostałych usług pocztowych i kurierskich w zakresie dostarczania przesyłek, gdzie indziej niesklasyfikowanych (PKWiU 53.20.19.0),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "ust_5/pkt_16",
+       "text": "[^62] pocztowych objętych obowiązkiem świadczenia usług powszechnych (operatora wyznaczonego) (PKWiU 53.10), pozostałych pocztowych i kurierskich (PKWiU ex 53.20), z wyłączeniem usług dostarczania zakupów żywnościowych do domu (PKWiU 53.20.12.0) oraz pozostałych usług pocztowych i kurierskich, gdzie indziej niesklasyfikowanych (PKWiU 53.20.19.0), 17) związanych z zakwaterowaniem i usług gastronomicznych (PKWiU sekcja I),",
+       "children": []
       },
       {
        "type": "pkt",
@@ -8767,15 +8823,43 @@
        "type": "pkt",
        "num": "27",
        "path": "ust_5/pkt_27",
-       "text": "wynajmu i dzierżawy (PKWiU dział 77), 28)[^63] wyszukiwania osób do pracy stałej, z wyłączeniem wyszukiwania osób na stanowiska kierownicze – dotyczy wyłącznie usług biur i agencji castingowych (organizowanie obsady aktorskiej do filmów, programów telewizyjnych, sztuk teatralnych) (PKWiU ex 78.10.12.0), 28)[^64] wyszukiwania osób do pracy stałej, z wyłączeniem wyszukiwania pracowników wyższego szczebla (PKWiU ex 78.10.12.0) – dotyczy wyłącznie usług biur i agencji castingowych (organizowanie obsady aktorskiej do filmów, programów telewizyjnych, sztuk teatralnych),",
+       "text": "wynajmu i dzierżawy (PKWiU dział 77),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "28",
+       "path": "ust_5/pkt_28",
+       "text": "[^63] wyszukiwania osób do pracy stałej, z wyłączeniem wyszukiwania osób na stanowiska kierownicze – dotyczy wyłącznie usług biur i agencji castingowych (organizowanie obsady aktorskiej do filmów, programów telewizyjnych, sztuk teatralnych) (PKWiU ex 78.10.12.0),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "28",
+       "path": "ust_5/pkt_28",
+       "text": "[^64] wyszukiwania osób do pracy stałej, z wyłączeniem wyszukiwania pracowników wyższego szczebla (PKWiU ex 78.10.12.0) – dotyczy wyłącznie usług biur i agencji castingowych (organizowanie obsady aktorskiej do filmów, programów telewizyjnych, sztuk teatralnych),",
        "children": []
       },
       {
        "type": "pkt",
        "num": "29",
        "path": "ust_5/pkt_29",
-       "text": "świadczonych: a)[^65] przez agentów i pośredników turystycznych w zakresie rezerwacji biletów (PKWiU 79.11.1), a)[^66] przez agentów i pośredników turystycznych w zakresie rezerwacji biletów na różne środki transportu (PKWiU 79.11.1), b) przez agentów i pośredników turystycznych w zakresie rezerwacji zakwaterowania, rejsów wycieczkowych i wycieczek zorganizowanych (PKWiU 79.11.2),",
+       "text": "świadczonych:",
        "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_5/pkt_29/lit_a",
+         "text": "[^65] przez agentów i pośredników turystycznych w zakresie rezerwacji biletów (PKWiU 79.11.1),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_5/pkt_29/lit_a",
+         "text": "[^66] przez agentów i pośredników turystycznych w zakresie rezerwacji biletów na różne środki transportu (PKWiU 79.11.1), b) przez agentów i pośredników turystycznych w zakresie rezerwacji zakwaterowania, rejsów wycieczkowych i wycieczek zorganizowanych (PKWiU 79.11.2),",
+         "children": []
+        },
         {
          "type": "lit",
          "num": "c",
@@ -8801,7 +8885,35 @@
          "type": "lit",
          "num": "f",
          "path": "ust_5/pkt_29/lit_f",
-         "text": "w zakresie rezerwacji nieruchomości będących we współwłasności (PKWiU 79.90.31.0), g)[^67] w zakresie rezerwacji centrów konferencyjnych i hal wystawienniczych (PKWiU 79.90.32.0), g)[^68] w zakresie rezerwacji centrów konferencyjnych, hal wystawienniczych (PKWiU 79.90.32.0), h)[^67] w zakresie rezerwacji biletów wstępu na imprezy rekreacyjne, rozrywkowe i sportowe oraz pozostałych usług w zakresie rezerwacji, gdzie indziej niesklasyfikowanych (PKWiU 79.90.39.0), h)[^68] w zakresie rezerwacji biletów wstępu na imprezy rekreacyjne, rozrywkowe i sportowe oraz w zakresie pozostałych rezerwacji, gdzie indziej niesklasyfikowanych (PKWiU 79.90.39.0),",
+         "text": "w zakresie rezerwacji nieruchomości będących we współwłasności (PKWiU 79.90.31.0),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_5/pkt_29/lit_g",
+         "text": "[^67] w zakresie rezerwacji centrów konferencyjnych i hal wystawienniczych (PKWiU 79.90.32.0),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_5/pkt_29/lit_g",
+         "text": "[^68] w zakresie rezerwacji centrów konferencyjnych, hal wystawienniczych (PKWiU 79.90.32.0),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "ust_5/pkt_29/lit_h",
+         "text": "[^67] w zakresie rezerwacji biletów wstępu na imprezy rekreacyjne, rozrywkowe i sportowe oraz pozostałych usług w zakresie rezerwacji, gdzie indziej niesklasyfikowanych (PKWiU 79.90.39.0),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "ust_5/pkt_29/lit_h",
+         "text": "[^68] w zakresie rezerwacji biletów wstępu na imprezy rekreacyjne, rozrywkowe i sportowe oraz w zakresie pozostałych rezerwacji, gdzie indziej niesklasyfikowanych (PKWiU 79.90.39.0),",
          "children": []
         }
        ]
@@ -8888,33 +9000,48 @@
        "type": "pkt",
        "num": "37",
        "path": "ust_5/pkt_37",
-       "text": "naprawy i konserwacji komputerów i urządzeń peryferyjnych (PKWiU 95.11.10.0), 38)[^69] objętych grupowaniem:",
+       "text": "naprawy i konserwacji komputerów i urządzeń peryferyjnych (PKWiU 95.11.10.0),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "38",
+       "path": "ust_5/pkt_38",
+       "text": "[^69] objętych grupowaniem:",
        "children": [
         {
          "type": "lit",
          "num": "a",
-         "path": "ust_5/pkt_37/lit_a",
+         "path": "ust_5/pkt_38/lit_a",
          "text": "„Pozostałe usługi indywidualne” (PKWiU dział 96),",
          "children": []
         },
         {
          "type": "lit",
          "num": "b",
-         "path": "ust_5/pkt_37/lit_b",
-         "text": "„Usługi świadczone przez organizacje i zespoły eksterytorialne” (PKWiU 99.00.10.0). 38)[^70] objętych grupowaniem:",
+         "path": "ust_5/pkt_38/lit_b",
+         "text": "„Usługi świadczone przez organizacje i zespoły eksterytorialne” (PKWiU 99.00.10.0).",
          "children": []
-        },
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "38",
+       "path": "ust_5/pkt_38",
+       "text": "[^70] objętych grupowaniem:",
+       "children": [
         {
          "type": "lit",
          "num": "a",
-         "path": "ust_5/pkt_37/lit_a",
+         "path": "ust_5/pkt_38/lit_a",
          "text": "„Pozostałe usługi świadczone dla ludności” (PKWiU dział 96),",
          "children": []
         },
         {
          "type": "lit",
          "num": "b",
-         "path": "ust_5/pkt_37/lit_b",
+         "path": "ust_5/pkt_38/lit_b",
          "text": "„Usługi świadczone przez organizacje międzynarodowe i eksterytorialne” (PKWiU 99.00.10.0).",
          "children": []
         }

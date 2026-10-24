@@ -1,7 +1,7 @@
 {
  "eli": "DU/2024/146",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 stycznia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2024/146/text.pdf",
  "body": [
   {
@@ -1014,7 +1014,14 @@
            "type": "lit",
            "num": "c",
            "path": "art_2/ust_1/pkt_3/lit_c",
-           "text": "[^1] pobierające rentę rodzinną, jeżeli mają miejsce zamieszkania na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA), zwanego dalej „państwem członkowskim UE lub EFTA”, lub Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, zwanego dalej „Zjednoczonym Królestwem”, lub d)[^2] pobierające świadczenie pieniężne, o którym mowa w ustawie z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658), jeżeli mają miejsce zamieszkania na terytorium państwa członkowskiego UE lub EFTA lub Zjednoczonego Królestwa,",
+           "text": "[^1] pobierające rentę rodzinną, jeżeli mają miejsce zamieszkania na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA), zwanego dalej „państwem członkowskim UE lub EFTA”, lub Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, zwanego dalej „Zjednoczonym Królestwem”, lub",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "d",
+           "path": "art_2/ust_1/pkt_3/lit_d",
+           "text": "[^2] pobierające świadczenie pieniężne, o którym mowa w ustawie z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658), jeżeli mają miejsce zamieszkania na terytorium państwa członkowskiego UE lub EFTA lub Zjednoczonego Królestwa,",
            "children": []
           }
          ]
@@ -5617,9 +5624,16 @@
         },
         {
          "type": "text",
-         "text": "– jeżeli te osoby lub podmioty złożyły przed posiedzeniem Rady do spraw Taryfikacji oświadczenia, o których mowa w art. 31sa ust. 8a.[^25] 7a.[^26] Przewodniczący lub wiceprzewodniczący Rady do spraw Taryfikacji analizuje złożone oświadczenia, o których mowa w ust. 7, kierując się zasadą równego traktowania osób składających oświadczenia oraz biorąc pod uwagę rodzaj zgłoszonego powiązania branżowego, jego charakter i okoliczności zgłoszonego powiązania branżowego, a także ewentualny wpływ zadeklarowanego powiązania branżowego na postępowanie prowadzone przez Radę do spraw Taryfikacji. Analiza jest wykonywana w oparciu o sposób i tryb określone w przepisach wydanych na podstawie ust. 7c, w celu zapewnienia obiektywności rozstrzygnięć podejmowanych przez Radę i efektywności prowadzonych przez nią postępowań oraz niedopuszczenia do udziału w konsultacjach osób lub wyłączenia z konsultacji osób, w stosunku do których ujawnił się konflikt interesów budzący uzasadnione wątpliwości co do ich bezstronności."
+         "text": "– jeżeli te osoby lub podmioty złożyły przed posiedzeniem Rady do spraw Taryfikacji oświadczenia, o których mowa w art. 31sa ust. 8a.[^25]"
         }
        ]
+      },
+      {
+       "type": "ust",
+       "num": "7a",
+       "path": "art_31lb/ust_7a",
+       "text": "[^26] Przewodniczący lub wiceprzewodniczący Rady do spraw Taryfikacji analizuje złożone oświadczenia, o których mowa w ust. 7, kierując się zasadą równego traktowania osób składających oświadczenia oraz biorąc pod uwagę rodzaj zgłoszonego powiązania branżowego, jego charakter i okoliczności zgłoszonego powiązania branżowego, a także ewentualny wpływ zadeklarowanego powiązania branżowego na postępowanie prowadzone przez Radę do spraw Taryfikacji. Analiza jest wykonywana w oparciu o sposób i tryb określone w przepisach wydanych na podstawie ust. 7c, w celu zapewnienia obiektywności rozstrzygnięć podejmowanych przez Radę i efektywności prowadzonych przez nią postępowań oraz niedopuszczenia do udziału w konsultacjach osób lub wyłączenia z konsultacji osób, w stosunku do których ujawnił się konflikt interesów budzący uzasadnione wątpliwości co do ich bezstronności.",
+       "children": []
       },
       {
        "type": "ust",
@@ -6297,7 +6311,14 @@
            "type": "lit",
            "num": "e",
            "path": "art_31o/ust_2/pkt_5/lit_e",
-           "text": "opinii o projektach programów polityki zdrowotnej, f)[^33] protokołów z posiedzeń Rady Przejrzystości i Rady do spraw Taryfikacji,",
+           "text": "opinii o projektach programów polityki zdrowotnej,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "f",
+           "path": "art_31o/ust_2/pkt_5/lit_f",
+           "text": "[^33] protokołów z posiedzeń Rady Przejrzystości i Rady do spraw Taryfikacji,",
            "children": []
           },
           {

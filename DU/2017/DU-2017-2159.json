@@ -1,7 +1,7 @@
 {
  "eli": "DU/2017/2159",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 listopada 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie informacji oświatowej",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2017/2159/text.pdf",
  "body": [
   {
@@ -1309,7 +1309,14 @@
          "type": "lit",
          "num": "d",
          "path": "art_8/pkt_1/lit_d",
-         "text": "(uchylona)[^18] e)[^19] liczby osób niebędących uczniami danej szkoły lub placówki oświatowej korzystających z internatu, w tym liczby osób posiadających orzeczenie o potrzebie kształcenia specjalnego,",
+         "text": "(uchylona)[^18]",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "art_8/pkt_1/lit_e",
+         "text": "[^19] liczby osób niebędących uczniami danej szkoły lub placówki oświatowej korzystających z internatu, w tym liczby osób posiadających orzeczenie o potrzebie kształcenia specjalnego,",
          "children": []
         },
         {
@@ -1595,10 +1602,17 @@
            "type": "tir",
            "num": "3",
            "path": "art_9/pkt_2/lit_b/tir_3",
-           "text": "wymiar zatrudnienia, według rodzaju zajmowanych stanowisk, c)[^23] liczby uczniów korzystających z pomocy materialnej o charakterze socjalnym, o której mowa w art. 90c ust. 2 ustawy z dnia 7 września 1991 r. o systemie oświaty, oraz udzielanej w ramach programów przyjętych na podstawie art. 90t ust. 1 i art. 90u ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty wraz z określeniem świadczeń tej pomocy.",
+           "text": "wymiar zatrudnienia, według rodzaju zajmowanych stanowisk,",
            "children": []
           }
          ]
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_9/pkt_2/lit_c",
+         "text": "[^23] liczby uczniów korzystających z pomocy materialnej o charakterze socjalnym, o której mowa w art. 90c ust. 2 ustawy z dnia 7 września 1991 r. o systemie oświaty, oraz udzielanej w ramach programów przyjętych na podstawie art. 90t ust. 1 i art. 90u ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty wraz z określeniem świadczeń tej pomocy.",
+         "children": []
         }
        ]
       }
@@ -4499,8 +4513,15 @@
      "type": "art",
      "num": "59",
      "path": "art_59",
-     "text": "Jednostki samorządu terytorialnego i jednostki obsługujące w związku z prowadzeniem obsługi szkół i placówek oświatowych mogą pozyskiwać następujące dane nauczyciela: 1)[^81] z rejestru PESEL – drugie imię (imiona), płeć, datę i miejsce urodzenia, obywatelstwo;",
+     "text": "Jednostki samorządu terytorialnego i jednostki obsługujące w związku z prowadzeniem obsługi szkół i placówek oświatowych mogą pozyskiwać następujące dane nauczyciela:",
      "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_59/pkt_1",
+       "text": "[^81] z rejestru PESEL – drugie imię (imiona), płeć, datę i miejsce urodzenia, obywatelstwo;",
+       "children": []
+      },
       {
        "type": "pkt",
        "num": "2",
@@ -4614,8 +4635,15 @@
        "type": "ust",
        "num": "1",
        "path": "art_64/ust_1",
-       "text": "Główny Geodeta Kraju, w celu lokalizacji przestrzennej szkół i placówek oświatowych oraz innych jednostek wykonujących zadania z zakresu oświaty, pozyskuje z bazy danych SIO następujące dane: 1)[^85] nazwę, nazwę skróconą, adres siedziby szkoły lub placówki oświatowej, typ szkoły albo rodzaj placówki oświatowej;",
+       "text": "Główny Geodeta Kraju, w celu lokalizacji przestrzennej szkół i placówek oświatowych oraz innych jednostek wykonujących zadania z zakresu oświaty, pozyskuje z bazy danych SIO następujące dane:",
        "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_64/ust_1/pkt_1",
+         "text": "[^85] nazwę, nazwę skróconą, adres siedziby szkoły lub placówki oświatowej, typ szkoły albo rodzaj placówki oświatowej;",
+         "children": []
+        },
         {
          "type": "pkt",
          "num": "2",

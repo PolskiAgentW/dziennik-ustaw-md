@@ -1,7 +1,7 @@
 {
  "eli": "DU/2015/90",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 grudnia 2014 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dniach wolnych od pracy",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2015/90/text.pdf",
  "body": [
   {
@@ -111,7 +111,11 @@
    "body": [
     {
      "type": "text",
-     "text": "USTAWA z dnia 18 stycznia 1951 r."
+     "text": "USTAWA"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 18 stycznia 1951 r."
     },
     {
      "type": "text",
@@ -133,7 +137,14 @@
          "type": "lit",
          "num": "a",
          "path": "art_1/pkt_1/lit_a",
-         "text": "1 stycznia – Nowy Rok, b)[^1] 6 stycznia – Święto Trzech Króli,",
+         "text": "1 stycznia – Nowy Rok,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_1/pkt_1/lit_b",
+         "text": "[^1] 6 stycznia – Święto Trzech Króli,",
          "children": []
         },
         {
@@ -154,14 +165,63 @@
          "type": "lit",
          "num": "e",
          "path": "art_1/pkt_1/lit_e",
-         "text": "1 maja – Święto Państwowe, f)[^2] 3 maja – Święto Narodowe Trzeciego Maja, g)[^3] pierwszy dzień Zielonych Świątek, h)[^3] dzień Bożego Ciała, i)[^4] 15 sierpnia – Wniebowzięcie Najświętszej Maryi Panny,",
+         "text": "1 maja – Święto Państwowe,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "art_1/pkt_1/lit_f",
+         "text": "[^2] 3 maja – Święto Narodowe Trzeciego Maja,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "art_1/pkt_1/lit_g",
+         "text": "[^3] pierwszy dzień Zielonych Świątek,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "art_1/pkt_1/lit_h",
+         "text": "[^3] dzień Bożego Ciała,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "art_1/pkt_1/lit_i",
+         "text": "[^4] 15 sierpnia – Wniebowzięcie Najświętszej Maryi Panny,",
          "children": []
         },
         {
          "type": "lit",
          "num": "j",
          "path": "art_1/pkt_1/lit_j",
-         "text": "1 listopada – Wszystkich Świętych, k)[^5] 11 listopada – Narodowe Święto Niepodległości, l)[^6] 25 grudnia – pierwszy dzień Bożego Narodzenia, m)[^6] 26 grudnia – drugi dzień Bożego Narodzenia;",
+         "text": "1 listopada – Wszystkich Świętych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "art_1/pkt_1/lit_k",
+         "text": "[^5] 11 listopada – Narodowe Święto Niepodległości,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "art_1/pkt_1/lit_l",
+         "text": "[^6] 25 grudnia – pierwszy dzień Bożego Narodzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "m",
+         "path": "art_1/pkt_1/lit_m",
+         "text": "[^6] 26 grudnia – drugi dzień Bożego Narodzenia;",
          "children": []
         }
        ]

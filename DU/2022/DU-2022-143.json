@@ -1,7 +1,7 @@
 {
  "eli": "DU/2022/143",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 stycznia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podatku akcyzowym",
- "converter": "eli2md 0.6.52",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2022/143/text.pdf",
  "body": [
   {
@@ -2112,7 +2112,14 @@
            "type": "lit",
            "num": "b",
            "path": "art_2/ust_1/pkt_32/lit_b",
-           "text": "[^45] podmiot prowadzący skład podatkowy, podmiot pośredniczący, podmiot zużywający, podmiot upoważniony do odbioru wyrobów akcyzowych, o których mowa w art. 32 ust. 1 pkt 3, dostarczanych do zbiornika, z którego są zasilane zbiorcze instalacje licznikowe, oraz zużywający podmiot gospodarczy, do których są wysyłane poza procedurą zawieszenia poboru akcyzy wyroby akcyzowe objęte zwolnieniem od akcyzy ze względu na ich przeznaczenie lub wyroby akcyzowe wymienione w załączniku nr 2 do ustawy, opodatkowane zerową stawką akcyzy ze względu na ich przeznaczenie, c)[^46] finalnego nabywcę węglowego, który wyroby węglowe zwolnione od akcyzy ze względu na ich przeznaczenie nabywa od pośredniczącego podmiotu węglowego, który w poprzednim roku kalendarzowym sprzedał powyżej 30 mln kg wyrobów węglowych,",
+           "text": "[^45] podmiot prowadzący skład podatkowy, podmiot pośredniczący, podmiot zużywający, podmiot upoważniony do odbioru wyrobów akcyzowych, o których mowa w art. 32 ust. 1 pkt 3, dostarczanych do zbiornika, z którego są zasilane zbiorcze instalacje licznikowe, oraz zużywający podmiot gospodarczy, do których są wysyłane poza procedurą zawieszenia poboru akcyzy wyroby akcyzowe objęte zwolnieniem od akcyzy ze względu na ich przeznaczenie lub wyroby akcyzowe wymienione w załączniku nr 2 do ustawy, opodatkowane zerową stawką akcyzy ze względu na ich przeznaczenie,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "art_2/ust_1/pkt_32/lit_c",
+           "text": "[^46] finalnego nabywcę węglowego, który wyroby węglowe zwolnione od akcyzy ze względu na ich przeznaczenie nabywa od pośredniczącego podmiotu węglowego, który w poprzednim roku kalendarzowym sprzedał powyżej 30 mln kg wyrobów węglowych,",
            "children": []
           },
           {
@@ -10873,7 +10880,14 @@
            "type": "lit",
            "num": "b",
            "path": "art_40/ust_1/pkt_2/lit_b",
-           "text": "[^222] urzędu celno-skarbowego na terytorium kraju, który nadzoruje faktyczne wyprowadzenie tych wyrobów poza terytorium Unii Europejskiej, b)[^223] urzędu celno-skarbowego na terytorium kraju, który:",
+           "text": "[^222] urzędu celno-skarbowego na terytorium kraju, który nadzoruje faktyczne wyprowadzenie tych wyrobów poza terytorium Unii Europejskiej,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "art_40/ust_1/pkt_2/lit_b",
+           "text": "[^223] urzędu celno-skarbowego na terytorium kraju, który:",
            "children": [
             {
              "type": "tir",
@@ -11952,9 +11966,16 @@
         },
         {
          "type": "text",
-         "text": "– nie później jednak niż w terminie 5 dni roboczych, licząc od dnia zakończenia przemieszczania wyrobów akcyzowych.[^252] 2a.[^253] Zakończenie przemieszczania wyrobów akcyzowych, o którym mowa w ust. 2, następuje po rozładunku, z chwilą wpisu do ewidencji wyrobów, które podmiot odbierający odebrał."
+         "text": "– nie później jednak niż w terminie 5 dni roboczych, licząc od dnia zakończenia przemieszczania wyrobów akcyzowych.[^252]"
         }
        ]
+      },
+      {
+       "type": "ust",
+       "num": "2a",
+       "path": "art_41e/ust_2a",
+       "text": "[^253] Zakończenie przemieszczania wyrobów akcyzowych, o którym mowa w ust. 2, następuje po rozładunku, z chwilą wpisu do ewidencji wyrobów, które podmiot odbierający odebrał.",
+       "children": []
       },
       {
        "type": "ust",
@@ -12926,7 +12947,14 @@
          "type": "lit",
          "num": "a",
          "path": "art_46a/pkt_2/lit_a",
-         "text": "ze składu podatkowego do zużywającego podmiotu gospodarczego, b)[^273] od zużywającego podmiotu gospodarczego do składu podatkowego, również w celu zwrotu,",
+         "text": "ze składu podatkowego do zużywającego podmiotu gospodarczego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_46a/pkt_2/lit_b",
+         "text": "[^273] od zużywającego podmiotu gospodarczego do składu podatkowego, również w celu zwrotu,",
          "children": []
         },
         {
@@ -14367,7 +14395,14 @@
          "type": "pkt",
          "num": "1",
          "path": "art_46t/ust_2/pkt_1",
-         "text": "odmowy przyjęcia całości albo części wyrobów akcyzowych przez podmiot odbierający po zakończeniu przemieszczania tych wyrobów – gdy przemieszczanie wyrobów akcyzowych następuje z zastosowaniem procedury zawieszenia poboru akcyzy lub poza tą procedurą albo 2)[^320] otrzymania z Systemu informacji o odmowie wyprowadzenia wyrobów akcyzowych poza terytorium Unii Europejskiej, a w razie niedostępności Systemu – otrzymania dokumentu zastępującego raport wywozu stwierdzającego odmowę wyprowadzenia tych wyrobów poza terytorium Unii Europejskiej – gdy przemieszczanie wyrobów akcyzowych następuje z zastosowaniem procedury zawieszenia poboru akcyzy lub poza tą procedurą, albo",
+         "text": "odmowy przyjęcia całości albo części wyrobów akcyzowych przez podmiot odbierający po zakończeniu przemieszczania tych wyrobów – gdy przemieszczanie wyrobów akcyzowych następuje z zastosowaniem procedury zawieszenia poboru akcyzy lub poza tą procedurą albo",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_46t/ust_2/pkt_2",
+         "text": "[^320] otrzymania z Systemu informacji o odmowie wyprowadzenia wyrobów akcyzowych poza terytorium Unii Europejskiej, a w razie niedostępności Systemu – otrzymania dokumentu zastępującego raport wywozu stwierdzającego odmowę wyprowadzenia tych wyrobów poza terytorium Unii Europejskiej – gdy przemieszczanie wyrobów akcyzowych następuje z zastosowaniem procedury zawieszenia poboru akcyzy lub poza tą procedurą, albo",
          "children": []
         },
         {
@@ -15409,7 +15444,14 @@
        "type": "ust",
        "num": "8",
        "path": "art_48/ust_8",
-       "text": "Do zmiany zezwolenia przepisy ust. 3–4d stosuje się odpowiednio. 8a.[^363] Do zmiany zezwolenia na prowadzenie składu podatkowego w przypadku, o którym mowa w art. 44a ust. 1, przepisy ust. 2a i 2b stosuje się odpowiednio.",
+       "text": "Do zmiany zezwolenia przepisy ust. 3–4d stosuje się odpowiednio.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "8a",
+       "path": "art_48/ust_8a",
+       "text": "[^363] Do zmiany zezwolenia na prowadzenie składu podatkowego w przypadku, o którym mowa w art. 44a ust. 1, przepisy ust. 2a i 2b stosuje się odpowiednio.",
        "children": []
       },
       {

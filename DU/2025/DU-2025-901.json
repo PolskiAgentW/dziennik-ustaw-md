@@ -1,7 +1,7 @@
 {
  "eli": "DU/2025/901",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o biokomponentach i biopaliwach ciekłych",
- "converter": "eli2md 0.6.60",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2025/901/text.pdf",
  "body": [
   {
@@ -6778,62 +6778,70 @@
              "type": "tir",
              "num": "3",
              "path": "art_30/ust_1/pkt_1/lit_a/tir_3",
-             "text": "pozostałych surowców, które zostały wykorzystane do wytworzenia biokomponentów, b)[^139] surowców rolniczych lub biomasy wykorzystanej do wytworzenia biokomponentów, ze wskazaniem:",
+             "text": "pozostałych surowców, które zostały wykorzystane do wytworzenia biokomponentów,",
              "children": []
-            },
+            }
+           ]
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "art_30/ust_1/pkt_1/lit_b",
+           "text": "[^139] surowców rolniczych lub biomasy wykorzystanej do wytworzenia biokomponentów, ze wskazaniem:",
+           "children": [
             {
              "type": "tir",
-             "num": "4",
-             "path": "art_30/ust_1/pkt_1/lit_a/tir_4",
+             "num": "1",
+             "path": "art_30/ust_1/pkt_1/lit_b/tir_1",
              "text": "surowców rolniczych pozyskanych na podstawie umów kontraktacji, o których mowa w art. 11 ust. 1 pkt 1,",
              "children": []
             },
             {
              "type": "tir",
-             "num": "5",
-             "path": "art_30/ust_1/pkt_1/lit_a/tir_5",
+             "num": "2",
+             "path": "art_30/ust_1/pkt_1/lit_b/tir_2",
              "text": "biomasy pozyskanej na podstawie umów dostawy, o których mowa w art. 11 ust. 1 pkt 2,",
              "children": []
             },
             {
              "type": "tir",
-             "num": "6",
-             "path": "art_30/ust_1/pkt_1/lit_a/tir_6",
+             "num": "3",
+             "path": "art_30/ust_1/pkt_1/lit_b/tir_3",
              "text": "surowców rolniczych pozyskanych z produkcji własnej wytwórców lub biomasy otrzymywanej przez wytwórców w prowadzonych przez nich procesach przetwarzania surowców rolniczych lub biomasy na cele inne niż paliwowe,",
              "children": []
             },
             {
              "type": "tir",
-             "num": "7",
-             "path": "art_30/ust_1/pkt_1/lit_a/tir_7",
+             "num": "4",
+             "path": "art_30/ust_1/pkt_1/lit_b/tir_4",
              "text": "biomasy spełniającej i niespełniającej kryteriów zrównoważonego rozwoju dotyczących uprawy surowców rolniczych,",
              "children": []
             },
             {
              "type": "tir",
-             "num": "8",
-             "path": "art_30/ust_1/pkt_1/lit_a/tir_8",
+             "num": "5",
+             "path": "art_30/ust_1/pkt_1/lit_b/tir_5",
              "text": "biomasy uprawniającej do podwójnego zaliczenia do realizacji Narodowego Celu Wskaźnikowego, ze wskazaniem rodzajów surowców określonych w załączniku nr 1 do ustawy,",
              "children": []
             },
             {
              "type": "tir",
-             "num": "9",
-             "path": "art_30/ust_1/pkt_1/lit_a/tir_9",
+             "num": "6",
+             "path": "art_30/ust_1/pkt_1/lit_b/tir_6",
              "text": "pośredników lub przetwórców dostarczających poszczególne rodzaje biomasy, a w przypadku zakupu surowców rolniczych, łącznej ilości poszczególnych rodzajów tych surowców dostarczanych przez producentów rolnych,",
              "children": []
             },
             {
              "type": "tir",
-             "num": "10",
-             "path": "art_30/ust_1/pkt_1/lit_a/tir_10",
+             "num": "7",
+             "path": "art_30/ust_1/pkt_1/lit_b/tir_7",
              "text": "kraju pochodzenia – w przypadku surowców rolniczych, a także surowców rolniczych wykorzystanych do wytworzenia biomasy, spełniających kryteria zrównoważonego rozwoju,",
              "children": []
             },
             {
              "type": "tir",
-             "num": "11",
-             "path": "art_30/ust_1/pkt_1/lit_a/tir_11",
+             "num": "8",
+             "path": "art_30/ust_1/pkt_1/lit_b/tir_8",
              "text": "kraju wytworzenia – w przypadku odpadów lub pozostałości,",
              "children": []
             }
@@ -7513,7 +7521,14 @@
          "type": "pkt",
          "num": "2",
          "path": "art_30b/ust_1a/pkt_2",
-         "text": "(uchylony)[^158] 3)[^157] nazwę uznanego systemu certyfikacji, w ramach którego dostawca wystawił dokument potwierdzający spełnienie kryteriów zrównoważonego rozwoju dla danego rodzaju biokomponentu, wraz z numerem tego dokumentu, a w przypadku gdy dokument został wystawiony w kraju trzecim, z którym Unia Europejska zawarła umowę, o której mowa w art. 28c ust. 2 pkt 2, datę zawarcia tej umowy;",
+         "text": "(uchylony)[^158]",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_30b/ust_1a/pkt_3",
+         "text": "[^157] nazwę uznanego systemu certyfikacji, w ramach którego dostawca wystawił dokument potwierdzający spełnienie kryteriów zrównoważonego rozwoju dla danego rodzaju biokomponentu, wraz z numerem tego dokumentu, a w przypadku gdy dokument został wystawiony w kraju trzecim, z którym Unia Europejska zawarła umowę, o której mowa w art. 28c ust. 2 pkt 2, datę zawarcia tej umowy;",
          "children": []
         },
         {

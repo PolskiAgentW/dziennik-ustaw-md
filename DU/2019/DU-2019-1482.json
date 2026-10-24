@@ -1,7 +1,7 @@
 {
  "eli": "DU/2019/1482",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lipca 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o promocji zatrudnienia i instytucjach rynku pracy",
- "converter": "eli2md 0.6.59",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2019/1482/text.pdf",
  "body": [
   {
@@ -2082,7 +2082,14 @@
            "type": "lit",
            "num": "a",
            "path": "art_4/ust_1/pkt_2/lit_a",
-           "text": "realizowanie zadań wynikających z funkcji dysponenta Funduszu Pracy, b)[^11] określanie instrumentów stymulujących rozwój kształcenia ustawicznego rozumianego jako kształcenie w szkołach dla dorosłych, a także uzyskiwanie i uzupełnianie wiedzy ogólnej, umiejętności i kwalifikacji zawodowych w odniesieniu do bezrobotnych, poszukujących pracy, pracowników i pracodawców,",
+           "text": "realizowanie zadań wynikających z funkcji dysponenta Funduszu Pracy,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "art_4/ust_1/pkt_2/lit_b",
+           "text": "[^11] określanie instrumentów stymulujących rozwój kształcenia ustawicznego rozumianego jako kształcenie w szkołach dla dorosłych, a także uzyskiwanie i uzupełnianie wiedzy ogólnej, umiejętności i kwalifikacji zawodowych w odniesieniu do bezrobotnych, poszukujących pracy, pracowników i pracodawców,",
            "children": []
           },
           {
@@ -2259,10 +2266,17 @@
            "type": "lit",
            "num": "d",
            "path": "art_4/ust_1/pkt_7a/lit_d",
-           "text": "pełnienie funkcji punktu kontaktowego dla odpowiadających mu punktów kontaktowych w innych państwach członkowskich w celu współpracy i wymiany informacji w sprawach swobodnego przepływu pracowników; 8)[^13] wprowadzanie i rozwijanie w publicznych służbach zatrudnienia systemów teleinformatycznych zapewniających spójny system obsługi rynku pracy, w tym systemu teleinformatycznego umożliwiającego wnoszenie wniosków w postaci elektronicznej do publicznych służb zatrudnienia, oraz prowadzenie i udostępnianie internetowej bazy ofert pracy.",
+           "text": "pełnienie funkcji punktu kontaktowego dla odpowiadających mu punktów kontaktowych w innych państwach członkowskich w celu współpracy i wymiany informacji w sprawach swobodnego przepływu pracowników;",
            "children": []
           }
          ]
+        },
+        {
+         "type": "pkt",
+         "num": "8",
+         "path": "art_4/ust_1/pkt_8",
+         "text": "[^13] wprowadzanie i rozwijanie w publicznych służbach zatrudnienia systemów teleinformatycznych zapewniających spójny system obsługi rynku pracy, w tym systemu teleinformatycznego umożliwiającego wnoszenie wniosków w postaci elektronicznej do publicznych służb zatrudnienia, oraz prowadzenie i udostępnianie internetowej bazy ofert pracy.",
+         "children": []
         }
        ]
       },
@@ -24122,7 +24136,7 @@
        "type": "ust",
        "num": "7",
        "path": "art_150g/ust_7",
-       "text": "Podziału środków, o których mowa w ust. 3, dla województw, na rok 2016, 2017 i 2018, dokonuje, w terminie miesiąca od dnia wejścia w życie ustawy, minister właściwy do spraw pracy według następującego algorytmu: Bwn Lw =Lkj× jn Bk",
+       "text": "Podziału środków, o których mowa w ust. 3, dla województw, na rok 2016, 2017 i 2018, dokonuje, w terminie miesiąca od dnia wejścia w życie ustawy, minister właściwy do spraw pracy według następującego algorytmu: Bwn Lwjn =Lkj× Bk",
        "children": [
         {
          "type": "text",
@@ -24130,7 +24144,7 @@
         },
         {
          "type": "text",
-         "text": "Lw jn − kwota kosztów (limit wydatków), jaka może być poniesiona w j-tym roku budżetowym w n-tym województwie na finansowanie zadania, o którym mowa w art. 150f,"
+         "text": "Lwjn − kwota kosztów (limit wydatków), jaka może być poniesiona w j-tym roku budżetowym w n-tym województwie na finansowanie zadania, o którym mowa w art. 150f,"
         },
         {
          "type": "text",
