@@ -237,6 +237,12 @@ w artykułach dodanych później (1 182) ani błędów wspólnych z warstwą tek
 - indeks dolny z literą lub kropką ginął: „kategorii T , T , T” zamiast „T1b, T2b, T3b” (DU/2025/1490 art. 54);
   od eli2md 0.6.53 (2026-10-11) „kategorii T1b, T2b, T3b, T4.1b, T4.2b, T4.3b i T₅”.
 
+Zmiana 2026-10-24 (eli2md 0.6.61): oznaczenie litery albo punktu z odnośnikiem na początku wiersza doklejało się
+do poprzedniego akapitu: „…z zastrzeżeniem ust. 4f, d)[^22] przychodów ze zbycia…” (DU/2026/554, początek strony 42 PDF).
+Od eli2md 0.6.61 takie oznaczenie zaczyna nową jednostkę. Codzienna aktualizacja używa eli2md 0.6.61. Sprawdzone A/B
+0.6.60 → 0.6.61: wszystkie 377 ustaw z lat 2025–2026 w zbiorze, pliki .md i .json bez zmian. Opublikowanych tekstów
+jednolitych z tym błędem jeszcze nie przeliczałem.
+
 Zmiana 2026-10-17 (eli2md 0.6.60, 23 akty): indeks dolny symbolu zapisanego kursywną wielką literą trafiał na sąsiedni
 wiersz, często do środka wyrazu przeniesionego w PDF, a symbol zostawał bez indeksu: „WbP – … na realizację prot−1 gramów
 rządowych” (DU/2025/337), „DEF – … przedłożonego Sejn−2 mowi” (DU/2025/1483), „publikod waną” (DU/2026/68). Teraz
