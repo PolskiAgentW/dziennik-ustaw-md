@@ -2,7 +2,7 @@
 
 Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odświeżane automatycznie). Nazwa aktu pochodzi z tytułu obwieszczenia. Tekst jednolity podaje stan prawny na dzień wskazany w obwieszczeniu; zmian ogłoszonych później w nim nie ma. Teksty nieoficjalne, wiążący jest PDF.
 
-## Ustawy (407)
+## Ustawy (408)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -394,6 +394,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo budowlane | [Dz.U. 2026 poz. 524](DU/2026/DU-2026-524.md) | 2026-04-16 | [Dz.U. 2025 poz. 418](DU/2025/DU-2025-418.md) |
 | – Prawo energetyczne | [Dz.U. 2026 poz. 43](DU/2026/DU-2026-43.md) | 2026-01-15 | – |
 | – Prawo farmaceutyczne | [Dz.U. 2026 poz. 612](DU/2026/DU-2026-612.md) | 2026-05-07 | [Dz.U. 2025 poz. 750](DU/2025/DU-2025-750.md) |
+| – Prawo geodezyjne i kartograficzne | [Dz.U. 2026 poz. 1389](DU/2026/DU-2026-1389.md) | 2026-10-22 | – |
 | – Prawo geologiczne i górnicze | [Dz.U. 2026 poz. 69](DU/2026/DU-2026-69.md) | 2026-01-22 | – |
 | – Prawo konsularne | [Dz.U. 2026 poz. 711](DU/2026/DU-2026-711.md) | 2026-06-01 | – |
 | – Prawo lotnicze | [Dz.U. 2025 poz. 1431](DU/2025/DU-2025-1431.md) | 2025-10-21 | – |
@@ -414,7 +415,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
-## Rozporządzenia (498)
+## Rozporządzenia (502)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -539,10 +540,12 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Klimatu i Środowiska w sprawie wzorów wniosków o wypłatę wyrównania i wzoru wniosku o rozliczenie wyrównania | [Dz.U. 2025 poz. 1163](DU/2025/DU-2025-1163.md) | 2025-08-25 | – |
 | Ministra Klimatu w sprawie szczegółowego wykazu surowców oraz produktów naftowych objętych systemem zapasów interwencyjnych oraz wykazu paliw stanowiących podstawę do wyliczenia opłaty zapasowej | [Dz.U. 2025 poz. 1329](DU/2025/DU-2025-1329.md) | 2025-10-02 | – |
 | Ministra Kultury i Dziedzictwa Narodowego w sprawie dotacji celowej na prace konserwatorskie lub restauratorskie przy zabytku wpisanym na Listę Skarbów Dziedzictwa oraz prace konserwatorskie, restauratorskie i roboty budowlane przy zabytku wpisanym do rejestru zabytków | [Dz.U. 2025 poz. 1380](DU/2025/DU-2025-1380.md) | 2025-10-14 | – |
+| Ministra Kultury i Dziedzictwa Narodowego w sprawie klasyfikacji zawodów szkolnictwa artystycznego | [Dz.U. 2026 poz. 1388](DU/2026/DU-2026-1388.md) | 2026-10-22 | – |
 | Ministra Kultury i Dziedzictwa Narodowego w sprawie konkursu na kandydata na stanowisko dyrektora instytucji kultury | [Dz.U. 2025 poz. 1281](DU/2025/DU-2025-1281.md) | 2025-09-24 | – |
 | Ministra Kultury i Dziedzictwa Narodowego w sprawie konkursu na stanowisko Dyrektora Centrum Dialogu im. Juliusza Mieroszewskiego | [Dz.U. 2025 poz. 844](DU/2025/DU-2025-844.md) | 2025-06-27 | – |
 | Ministra Kultury i Dziedzictwa Narodowego w sprawie narodowego zasobu bibliotecznego | [Dz.U. 2026 poz. 1204](DU/2026/DU-2026-1204.md) | 2026-09-14 | – |
 | Ministra Kultury i Dziedzictwa Narodowego w sprawie określenia podstawowych warunków niezbędnych do realizacji przez szkoły artystyczne zadań statutowych i programów oraz realizacji przez nauczycieli tych szkół zadań dydaktycznych, wychowawczych i opiekuńczych | [Dz.U. 2026 poz. 617](DU/2026/DU-2026-617.md) | 2026-05-08 | – |
+| Ministra Kultury i Dziedzictwa Narodowego w sprawie organizacji roku szkolnego w publicznych szkołach i placówkach artystycznych | [Dz.U. 2026 poz. 1376](DU/2026/DU-2026-1376.md) | 2026-10-22 | – |
 | Ministra Kultury i Dziedzictwa Narodowego w sprawie procedury podziału i wypłaty wynagrodzenia za użyczanie oraz wyznaczenia w drodze konkursu organizacji zbiorowego zarządzania uprawnionej do podziału i wypłaty tego wynagrodzenia | [Dz.U. 2026 poz. 279](DU/2026/DU-2026-279.md) | 2026-03-06 | – |
 | Ministra Kultury i Dziedzictwa Narodowego w sprawie sposobu podziału środków finansowych dla uczelni artystycznych na utrzymanie i rozwój potencjału dydaktycznego, potencjału badawczego oraz na zadania związane z działalnością kulturalną | [Dz.U. 2026 poz. 657](DU/2026/DU-2026-657.md) | 2026-05-19 | – |
 | Ministra Kultury i Dziedzictwa Narodowego w sprawie szczegółowego wykazu polskich kosztów kwalifikowalnych, parametrów utworów audiowizualnych oraz dokumentów związanych z przyznawaniem wsparcia finansowego na produkcję audiowizualną przez Polski Instytut Sztuki Filmowej | [Dz.U. 2026 poz. 6](DU/2026/DU-2026-6.md) | 2026-01-07 | – |
@@ -784,6 +787,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Transportu w sprawie warunków technicznych dozoru technicznego w zakresie projektowania, wytwarzania, eksploatacji, naprawy i modernizacji specjalistycznych urządzeń ciśnieniowych | [Dz.U. 2025 poz. 125](DU/2025/DU-2025-125.md) | 2025-01-30 | – |
 | Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie czasu pełnienia czynności lotniczych członków załóg statków powietrznych w przewozie lotniczym przy użyciu śmigłowca oraz w śmigłowcowej służbie ratownictwa medycznego | [Dz.U. 2025 poz. 1377](DU/2025/DU-2025-1377.md) | 2025-10-13 | – |
 | Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie szkoleń oraz wzoru certyfikatu dla audytorów bezpieczeństwa ruchu drogowego | [Dz.U. 2026 poz. 1352](DU/2026/DU-2026-1352.md) | 2026-10-19 | – |
+| Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie trybu legalizacji tablic rejestracyjnych oraz warunków technicznych i wzorów znaku legalizacyjnego | [Dz.U. 2026 poz. 1387](DU/2026/DU-2026-1387.md) | 2026-10-22 | – |
 | Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie warunków produkcji i sposobu dystrybucji tablic rejestracyjnych i znaków legalizacyjnych | [Dz.U. 2025 poz. 1677](DU/2025/DU-2025-1677.md) | 2025-12-02 | – |
 | Ministra Zdrowia w sprawie badań i pomiarów czynników szkodliwych dla zdrowia w środowisku pracy | [Dz.U. 2025 poz. 949](DU/2025/DU-2025-949.md) | 2025-07-16 | – |
 | Ministra Zdrowia w sprawie bezpieczeństwa i higieny pracy związanej z występowaniem w miejscu pracy czynników chemicznych | [Dz.U. 2025 poz. 836](DU/2025/DU-2025-836.md) | 2025-06-26 | – |
@@ -822,6 +826,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Zdrowia w sprawie składu oraz oznakowania suplementów diety | [Dz.U. 2026 poz. 1364](DU/2026/DU-2026-1364.md) | 2026-10-21 | – |
 | Ministra Zdrowia w sprawie specjalizacji i uzyskiwania tytułu specjalisty przez diagnostów laboratoryjnych | [Dz.U. 2026 poz. 1027](DU/2026/DU-2026-1027.md) | 2026-07-31 | – |
 | Ministra Zdrowia w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia | [Dz.U. 2026 poz. 1103](DU/2026/DU-2026-1103.md) | 2026-08-18 | – |
+| Ministra Zdrowia w sprawie sposobu i procedur przygotowania analizy weryfikacyjnej Agencji Oceny Technologii Medycznych i Taryfikacji oraz wysokości opłaty za tę analizę | [Dz.U. 2026 poz. 1390](DU/2026/DU-2026-1390.md) | 2026-10-22 | – |
 | Ministra Zdrowia w sprawie sposobu ustalania ryczałtu systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej | [Dz.U. 2025 poz. 878](DU/2025/DU-2025-878.md) | 2025-07-04 | – |
 | Ministra Zdrowia w sprawie sposobu ustalenia wysokości ryczałtu dla Krajowego Ośrodka Monitorującego i poszczególnych Wojewódzkich Ośrodków Monitorujących oraz wysokości współczynników korygujących | [Dz.U. 2025 poz. 399](DU/2025/DU-2025-399.md) | 2025-03-27 | – |
 | Ministra Zdrowia w sprawie standardu organizacyjnego leczenia bólu w warunkach ambulatoryjnych | [Dz.U. 2025 poz. 612](DU/2025/DU-2025-612.md) | 2025-05-09 | – |

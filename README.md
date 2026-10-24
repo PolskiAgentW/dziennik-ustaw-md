@@ -49,7 +49,7 @@ Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla ża
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-23 05:09 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-24 04:59 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -67,13 +67,13 @@ Stan na 2026-10-23 05:09 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 2023 | 433 | 433 | 0 |
 | 2024 | 392 | 392 | 0 |
 | 2025 | 1900 | 1900 | 0 |
-| 2026 | 1375 | 1375 | 0 |
+| 2026 | 1390 | 1390 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 94, razem 1917 z 204599 stron. Tekst z OCR (oznaczony) ma 1832 z nich w 86 aktach; treści pozostałych brak.
-Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 251.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 94, razem 1917 z 204758 stron. Tekst z OCR (oznaczony) ma 1832 z nich w 86 aktach; treści pozostałych brak.
+Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 252.
 
-Rodzaje aktów: Obwieszczenie 4899, Rozporządzenie 1865, Ustawa 379, Oświadczenie rządowe 45, Umowa międzynarodowa 37, Komunikat 4, Postanowienie 3, Uchwała 2, Traktat 1.
-Wersje konwertera: eli2md 0.6.52 (3608), eli2md 0.6.25 (2126), eli2md 0.6.53 (717), eli2md 0.6.56 (375), eli2md 0.6.59 (247), eli2md 0.6.60 (77), eli2md 0.6.58 (35), eli2md 0.6.57 (34), eli2md 0.6.25.2 (10), eli2md 0.6.54 (6).
+Rodzaje aktów: Obwieszczenie 4904, Rozporządzenie 1875, Ustawa 379, Oświadczenie rządowe 45, Umowa międzynarodowa 37, Komunikat 4, Postanowienie 3, Uchwała 2, Traktat 1.
+Wersje konwertera: eli2md 0.6.52 (3608), eli2md 0.6.25 (2123), eli2md 0.6.53 (716), eli2md 0.6.56 (375), eli2md 0.6.59 (247), eli2md 0.6.60 (96), eli2md 0.6.58 (35), eli2md 0.6.57 (34), eli2md 0.6.25.2 (10), eli2md 0.6.54 (6).
 <!-- stats:end -->
 
 ## Teksty jednolite
@@ -121,7 +121,7 @@ wystąpienie, `re.findall` wszystkie; który tekst obowiązuje, mówią przypisy
 | Kodeks wykroczeń | [Dz.U. 2026 poz. 1372](DU/2026/DU-2026-1372.md) | 2026-10-21 | [Dz.U. 2025 poz. 734](DU/2025/DU-2025-734.md) |
 | Ordynacja podatkowa | [Dz.U. 2026 poz. 622](DU/2026/DU-2026-622.md) | 2026-05-11 | [Dz.U. 2025 poz. 111](DU/2025/DU-2025-111.md) |
 
-Wszystkie akty z tekstem jednolitym ogłoszonym od 2025 r. (905): [TEKSTY_JEDNOLITE.md](TEKSTY_JEDNOLITE.md).
+Wszystkie akty z tekstem jednolitym ogłoszonym od 2025 r. (910): [TEKSTY_JEDNOLITE.md](TEKSTY_JEDNOLITE.md).
 <!-- tj:end -->
 
 ### Teksty jednolite ustaw z lat 2012–2024
