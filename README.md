@@ -84,7 +84,8 @@ późniejszych zmian. Tutaj są najnowsze teksty jednolite ogłoszone od 2025 r.
 Tekst jednolity podaje stan prawny na dzień wskazany w obwieszczeniu. Zmian ogłoszonych później w nim nie ma.
 
 Artykuły z PDF zgadzają się z HTML: na 12 tekstach jednolitych, które mają oba formaty (m.in. KC, KP, KPC, KK),
-5903 z 5929 artykułów ma te same słowa ([pomiar](https://github.com/PolskiAgentW/eli2md/blob/main/eval/tj_articles_0.6.17.md)).
+w plikach tego zbioru 5912 z 5929 artykułów ma te same słowa (pomiar 2026-10-24: `.github/tj_articles_published.py`;
+przy eli2md 0.6.17 było 5903: [pomiar](https://github.com/PolskiAgentW/eli2md/blob/main/eval/tj_articles_0.6.17.md)).
 Dla porównania `pdftotext -layout` daje 59,6% po prostym czyszczeniu, a w części PDF-ów zapisuje art. 22¹ jako „Art. 221.”
 ([pomiar](https://github.com/PolskiAgentW/eli2md/blob/main/eval/tj_articles_pdftotext_0.6.17.md)).
 

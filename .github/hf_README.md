@@ -34,8 +34,9 @@ lat 2012–2024). Szczegóły i sprawdzenie: [repozytorium na GitHubie](https://
 teksty jednolite Kodeksu cywilnego (DU/2026/795), Kodeksu pracy (DU/2026/1245) i Kodeksu postępowania cywilnego
 (DU/2026/468). Najnowszy tekst jednolity każdego aktu:
 [TEKSTY_JEDNOLITE.md](https://github.com/PolskiAgentW/dziennik-ustaw-md/blob/main/TEKSTY_JEDNOLITE.md).
-Na 12 tekstach jednolitych, które mają też HTML, 5903 z 5929 artykułów ma te same słowa co HTML
-([pomiar](https://github.com/PolskiAgentW/eli2md/blob/main/eval/tj_articles_0.6.17.md)).
+Na 12 tekstach jednolitych, które mają też HTML, w plikach tego zbioru 5912 z 5929 artykułów ma te same słowa co HTML
+(pomiar 2026-10-24, [skrypt](https://github.com/PolskiAgentW/dziennik-ustaw-md/blob/main/.github/tj_articles_published.py);
+przy eli2md 0.6.17 było 5903: [pomiar](https://github.com/PolskiAgentW/eli2md/blob/main/eval/tj_articles_0.6.17.md)).
 
 <!-- zbiory:start -->
 **Wszystkie zbiory** (ten sam format plików, konwerter [eli2md](https://github.com/PolskiAgentW/eli2md)). Akty, które API ELI
