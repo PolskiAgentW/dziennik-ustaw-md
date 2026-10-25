@@ -49,7 +49,7 @@ Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla ża
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-25 04:58 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-25 20:49 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -73,7 +73,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 94, razem 1917 z 204758
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 252.
 
 Rodzaje aktów: Obwieszczenie 4904, Rozporządzenie 1875, Ustawa 379, Oświadczenie rządowe 45, Umowa międzynarodowa 37, Komunikat 4, Postanowienie 3, Uchwała 2, Traktat 1.
-Wersje konwertera: eli2md 0.6.52 (3394), eli2md 0.6.25 (2112), eli2md 0.6.53 (692), eli2md 0.6.56 (369), eli2md 0.6.61 (307), eli2md 0.6.59 (209), eli2md 0.6.60 (88), eli2md 0.6.57 (34), eli2md 0.6.58 (29), eli2md 0.6.25.2 (10), eli2md 0.6.54 (6).
+Wersje konwertera: eli2md 0.6.52 (3394), eli2md 0.6.25 (2111), eli2md 0.6.53 (691), eli2md 0.6.56 (369), eli2md 0.6.61 (307), eli2md 0.6.59 (209), eli2md 0.6.60 (88), eli2md 0.6.57 (34), eli2md 0.6.58 (29), eli2md 0.6.25.2 (10), eli2md 0.6.54 (6), eli2md 0.6.67 (2).
 <!-- stats:end -->
 
 ## Teksty jednolite
@@ -248,6 +248,13 @@ i rozdzielone wyrazy się łączą („r ozporządzenia” → „rozporządzeni
 jest 16 w 3 aktach: DU/2025/1251 (9; w PDF wiersz zaczyna się od oznaczenia, przyczyny nie znam), DU/2020/1905 (1;
 w PDF dwie etykiety „a)57)” i „a)58)”) i DU/2025/97 (6). DU/2025/97 nie przeliczałem, bo 0.6.61 zapisuje w nim odnośnik
 „d)[^141]” jako zwykły tekst „d)¹⁴¹⁾”. Pomiar artykułów 12 tekstów jednolitych (wyżej) po przeliczeniu: dalej 5912 z 5929.
+
+Zmiana 2026-10-25 (eli2md 0.6.67, 2 akty; opis w README eli2md, wpis 0.6.67): ostatnia pozycja rocznika ma w winiecie
+gwiazdkę przy numerze pozycji, a pod kreską na s. 1 przypis „*) Ostatnia pozycja w 2025 r.”. To przypis winiety, ale stał na
+końcu tekstu aktu i w ostatniej jednostce drzewa (DU/2025/1900: art. 93). Przeliczyłem ponownie oba takie akty tego zbioru
+(DU/2021/2507 z eli2md 0.6.25, DU/2025/1900 z 0.6.53): ubywa tylko słów przypisu, nic nie przybywa. Codzienna
+aktualizacja używa od dziś eli2md 0.6.67: na 40 losowych aktach z lat 2012–2026 (20 DU, 20 MP) daje te same pliki co
+0.6.61 i 0.6.66 (poza numerem wersji).
 
 Zmiana 2026-10-17 (eli2md 0.6.60, 23 akty): indeks dolny symbolu zapisanego kursywną wielką literą trafiał na sąsiedni
 wiersz, często do środka wyrazu przeniesionego w PDF, a symbol zostawał bez indeksu: „WbP – … na realizację prot−1 gramów
