@@ -249,6 +249,12 @@ jest 16 w 3 aktach: DU/2025/1251 (9; w PDF wiersz zaczyna się od oznaczenia, pr
 w PDF dwie etykiety „a)57)” i „a)58)”) i DU/2025/97 (6). DU/2025/97 nie przeliczałem, bo 0.6.61 zapisuje w nim odnośnik
 „d)[^141]” jako zwykły tekst „d)¹⁴¹⁾”. Pomiar artykułów 12 tekstów jednolitych (wyżej) po przeliczeniu: dalej 5912 z 5929.
 
+Zmiana 2026-10-26 (drzewo JSON, kod drzewa eli2md 0.6.70, 1 akt; opis w README eli2md, wpis 0.6.70): nagłówek z liczebnikiem
+słownym pisanym małymi literami, stojący jako osobny akapit („Część pierwsza”, „Część druga”), jest w `.json` węzłem
+`heading`. Wcześniej trafiał jako tekst do jednostki przed nim (DU/2025/903). `.md` się nie zmienił, więc pole `converter` (w `.md`, `.json` i `index.csv`) zostaje wersją, w której powstał `.md`. Liczba jednostek i słowa w drzewie bez zmian.
+Codzienna aktualizacja używa od dziś eli2md 0.6.70 (wcześniej 0.6.67–0.6.69; zmiany 0.6.68 i 0.6.69 dotyczą tylko stron
+czytanych przez OCR). Drzewa wszystkich aktów zbioru zbudowane z tych samych `.md` przez 0.6.69 i 0.6.70 różnią się tylko w tym akcie.
+
 Zmiana 2026-10-25 (eli2md 0.6.67, 2 akty; opis w README eli2md, wpis 0.6.67): ostatnia pozycja rocznika ma w winiecie
 gwiazdkę przy numerze pozycji, a pod kreską na s. 1 przypis „*) Ostatnia pozycja w 2025 r.”. To przypis winiety, ale stał na
 końcu tekstu aktu i w ostatniej jednostce drzewa (DU/2025/1900: art. 93). Przeliczyłem ponownie oba takie akty tego zbioru
