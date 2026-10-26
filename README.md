@@ -249,6 +249,13 @@ jest 16 w 3 aktach: DU/2025/1251 (9; w PDF wiersz zaczyna się od oznaczenia, pr
 w PDF dwie etykiety „a)57)” i „a)58)”) i DU/2025/97 (6). DU/2025/97 nie przeliczałem, bo 0.6.61 zapisuje w nim odnośnik
 „d)[^141]” jako zwykły tekst „d)¹⁴¹⁾”. Pomiar artykułów 12 tekstów jednolitych (wyżej) po przeliczeniu: dalej 5912 z 5929.
 
+Zmiana 2026-10-26 (update.yml, eli2md 0.6.73; opis w README eli2md, wpisy 0.6.72 i 0.6.73): codzienna aktualizacja
+używa od dziś eli2md 0.6.73 (wcześniej 0.6.70). Dla nowych aktów: wiersz z samym numerem strony u góry strony (zwykle
+numeracja załącznika, „– 2 –”) nie trafia do tekstu, a akapity przed nim i po nim nie łączą się, chyba że zdanie ciągnie
+się na następną stronę. A/B 0.6.70 → 0.6.73 (te same PDF) na 29 aktach DU i MP od 2012 r. z takim wierszem i 120
+kontrolnych: ciąg słów bez zmian poza numerami stron, 6 akapitów złączonych przez stronę (zdania i tekst komórek tabel),
+4 węzły `tir` z numeru strony mniej w drzewach 3 aktów, kontrolne bez zmian. Aktów już w zbiorze nie przeliczałem.
+
 Zmiana 2026-10-26 (drzewo JSON, kod drzewa eli2md 0.6.70, 1 akt; opis w README eli2md, wpis 0.6.70): nagłówek z liczebnikiem
 słownym pisanym małymi literami, stojący jako osobny akapit („Część pierwsza”, „Część druga”), jest w `.json` węzłem
 `heading`. Wcześniej trafiał jako tekst do jednostki przed nim (DU/2025/903). `.md` się nie zmienił, więc pole `converter` (w `.md`, `.json` i `index.csv`) zostaje wersją, w której powstał `.md`. Liczba jednostek i słowa w drzewie bez zmian.
