@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/3",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 grudnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o doręczeniach elektronicznych",
- "converter": "eli2md 0.6.58",
+ "converter": "eli2md 0.6.73",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/3/text.pdf",
  "body": [
   {
@@ -702,19 +702,26 @@
        "type": "pkt",
        "num": "1",
        "path": "art_11/pkt_1",
-       "text": "na podstawie wniosku lub 2)[^5] automatycznie po otrzymaniu przez ministra właściwego do spraw informatyzacji, za pośrednictwem systemu teleinformatycznego:",
+       "text": "na podstawie wniosku lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_11/pkt_2",
+       "text": "[^5] automatycznie po otrzymaniu przez ministra właściwego do spraw informatyzacji, za pośrednictwem systemu teleinformatycznego:",
        "children": [
         {
          "type": "lit",
          "num": "a",
-         "path": "art_11/pkt_1/lit_a",
+         "path": "art_11/pkt_2/lit_a",
          "text": "o którym mowa w art. 3a ust. 1 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym albo w art. 3 ust. 1 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy – danych przekazanych w związku z wnioskiem o wpis do Krajowego Rejestru Sądowego albo do Centralnej Ewidencji i Informacji o Działalności Gospodarczej,",
          "children": []
         },
         {
          "type": "lit",
          "num": "b",
-         "path": "art_11/pkt_1/lit_b",
+         "path": "art_11/pkt_2/lit_b",
          "text": "operatora wyznaczonego – danych, o których mowa w art. 14 ust. 1 i 2, w przypadku podmiotów niepublicznych.",
          "children": []
         }

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/313",
  "title": "Obwieszczenie Ministra Nauki i Szkolnictwa Wyższego z dnia 18 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkolnictwa Wyższego w sprawie wysokości wynagrodzenia przysługującego członkom instytucji, organów i zespołów oraz ekspertom i rzecznikom dyscyplinarnym działającym w systemie szkolnictwa wyższego i nauki",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.73",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/313/text.pdf",
  "body": [
   {
@@ -409,27 +409,35 @@
          "type": "pkt",
          "num": "3",
          "path": "par_6/ust_2/pkt_3",
-         "text": "(uchylony).[^14] 3.[^15] Ekspertom, o których mowa w art. 259 ust. 4 ustawy, powołanym przez przewodniczącego KEN do przeprowadzenia ewaluacji jakości kształcenia w szkole doktorskiej, zwanej dalej „ewaluacją szkoły doktorskiej”, z wyłączeniem ekspertów będących członkami KEN, przysługuje wynagrodzenie w wysokości:",
+         "text": "(uchylony).[^14]",
          "children": []
-        },
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_6/ust_3",
+       "text": "[^15] Ekspertom, o których mowa w art. 259 ust. 4 ustawy, powołanym przez przewodniczącego KEN do przeprowadzenia ewaluacji jakości kształcenia w szkole doktorskiej, zwanej dalej „ewaluacją szkoły doktorskiej”, z wyłączeniem ekspertów będących członkami KEN, przysługuje wynagrodzenie w wysokości:",
+       "children": [
         {
          "type": "pkt",
          "num": "1",
-         "path": "par_6/ust_2/pkt_1",
+         "path": "par_6/ust_3/pkt_1",
          "text": "5000 zł – w przypadku ewaluacji szkoły doktorskiej prowadzącej kształcenie w niewięcej niż 3 dyscyplinach naukowych lub artystycznych,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "2",
-         "path": "par_6/ust_2/pkt_2",
+         "path": "par_6/ust_3/pkt_2",
          "text": "6000 zł – w przypadku ewaluacji szkoły doktorskiej prowadzącej kształcenie w więcej niż 3, ale niewięcej niż 10 dyscyplinach naukowych lub artystycznych,",
          "children": []
         },
         {
          "type": "pkt",
          "num": "3",
-         "path": "par_6/ust_2/pkt_3",
+         "path": "par_6/ust_3/pkt_3",
          "text": "7000 zł – w przypadku ewaluacji szkoły doktorskiej prowadzącej kształcenie w więcej niż 10 dyscyplinach naukowych lub artystycznych",
          "children": []
         },

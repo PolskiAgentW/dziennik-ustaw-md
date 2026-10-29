@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/277",
  "title": "Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 3 marca 2026 r. zmieniające rozporządzenie w sprawie sposobu podziału środków finansowych dla uczelni artystycznych na utrzymanie i rozwój potencjału dydaktycznego, potencjału badawczego oraz na zadania związane z działalnością kulturalną",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.73",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/277/text.pdf",
  "body": [
   {
@@ -46,11 +46,11 @@
          "type": "tir",
          "num": "1",
          "path": "par_1/pkt_1/lit_a/tir_1",
-         "text": "opis elementu Ls k,i wzoru otrzymuje brzmienie:",
+         "text": "opis elementu Lsk,i wzoru otrzymuje brzmienie:",
          "children": [
           {
            "type": "text",
-           "text": "„Ls k,i – oznacza liczbę studentów studiów stacjonarnych na k-tym kierunku, poziomie i profilu w i-tej uczelni artystycznej, z wyłączeniem cudzoziemców niezwolnionych z opłat na podstawie art. 324 ust. 1 pkt 2 i ust. 2 ustawy, według stanu na dzień 31 grudnia roku poprzedzającego rok przyznania subwencji,”,",
+           "text": "„Lsk,i – oznacza liczbę studentów studiów stacjonarnych na k-tym kierunku, poziomie i profilu w i-tej uczelni artystycznej, z wyłączeniem cudzoziemców niezwolnionych z opłat na podstawie art. 324 ust. 1 pkt 2 i ust. 2 ustawy, według stanu na dzień 31 grudnia roku poprzedzającego rok przyznania subwencji,”,",
            "quoted": true
           }
          ]
@@ -59,11 +59,11 @@
          "type": "tir",
          "num": "2",
          "path": "par_1/pkt_1/lit_a/tir_2",
-         "text": "opis elementu Sw i wzoru otrzymuje brzmienie:",
+         "text": "opis elementu Swi wzoru otrzymuje brzmienie:",
          "children": [
           {
            "type": "text",
-           "text": "„Sw i – oznacza przeciętną, ważoną liczbę studentów studiów stacjonarnych, kosztochłonność kierunków studiów stacjonarnych prowadzonych w i-tej uczelni artystycznej,”,",
+           "text": "„Swi – oznacza przeciętną, ważoną liczbę studentów studiów stacjonarnych, kosztochłonność kierunków studiów stacjonarnych prowadzonych w i-tej uczelni artystycznej,”,",
            "quoted": true
           }
          ]
@@ -74,7 +74,7 @@
        "type": "lit",
        "num": "b",
        "path": "par_1/pkt_1/lit_b",
-       "text": "w ust. 4 w opisie elementów Ss , Sn oraz Ds wzoru po wyrazach „uczelni artystycznej,” dodaje się wyrazy „według i i i stanu na dzień 31 grudnia roku poprzedzającego rok przyznania subwencji,”,",
+       "text": "w ust. 4 w opisie elementów Ssi, Sni oraz Dsi wzoru po wyrazach „uczelni artystycznej,” dodaje się wyrazy „według stanu na dzień 31 grudnia roku poprzedzającego rok przyznania subwencji,”,",
        "children": []
       },
       {
@@ -101,7 +101,7 @@
          "type": "tir",
          "num": "2",
          "path": "par_1/pkt_1/lit_d/tir_2",
-         "text": "w opisie elementu d d wzoru po wyrazach „uczelnię artystyczną” dodaje się wyrazy „samodzielnie albo wspólnie z innym podmiotem, jeżeli i-ta uczelnia w umowie, o której mowa w art. 198 ust. 5 ustawy, została wskazana jako podmiot uprawniony do otrzymania środków finansowych na wspólne kształcenie w szkole doktorskiej”;",
+         "text": "w opisie elementu dd wzoru po wyrazach „uczelnię artystyczną” dodaje się wyrazy „samodzielnie albo wspólnie z innym podmiotem, jeżeli i-ta uczelnia w umowie, o której mowa w art. 198 ust. 5 ustawy, została wskazana jako podmiot uprawniony do otrzymania środków finansowych na wspólne kształcenie w szkole doktorskiej”;",
          "children": []
         }
        ]
@@ -118,14 +118,14 @@
        "type": "lit",
        "num": "a",
        "path": "par_1/pkt_2/lit_a",
-       "text": "opisie elementu ks k wzoru wyraz „wskaźnik” zastępuje się wyrazem „współczynnik”,",
+       "text": "opisie elementu ksk wzoru wyraz „wskaźnik” zastępuje się wyrazem „współczynnik”,",
        "children": []
       },
       {
        "type": "lit",
        "num": "b",
        "path": "par_1/pkt_2/lit_b",
-       "text": "opisie elementu L k,i wzoru po wyrazach „uczelnię artystyczną,” dodaje się wyrazy „według stanu na dzień 31 grudnia roku poprzedzającego rok przyznania dotacji,”.",
+       "text": "opisie elementu Lk,i wzoru po wyrazach „uczelnię artystyczną,” dodaje się wyrazy „według stanu na dzień 31 grudnia roku poprzedzającego rok przyznania dotacji,”.",
        "children": []
       }
      ]
