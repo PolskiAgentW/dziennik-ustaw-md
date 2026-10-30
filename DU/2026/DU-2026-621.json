@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/621",
  "title": "Rozporządzenie Ministra Klimatu i Środowiska z dnia 23 kwietnia 2026 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu danych ujętych na strategicznych mapach hałasu, sposobu ich prezentacji i formy ich przekazywania",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.73",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/621/text.pdf",
  "body": [
   {
@@ -81,7 +81,7 @@
           },
           {
            "type": "text",
-           "text": "₂ 1 n δ = √ ∑(L −L )² ≤2,0 dB , śr zm,i obl,i n−1 i=1",
+           "text": "₂ 1 n δśr = √ ∑(Lzm,i −Lobl,i)² ≤2,0 dB, n−1 i=1",
            "quoted": true
           },
           {
@@ -91,7 +91,17 @@
           },
           {
            "type": "text",
-           "text": "δ śr – średni błąd bezwzględny sprawdzenia, L zm,i – zmierzony poziom hałasu [dB], L obl,i – obliczony poziom hałasu [dB], n – liczbę pomiarów porównawczych;”,",
+           "text": "δśr – średni błąd bezwzględny sprawdzenia, Lzm,i – zmierzony poziom hałasu [dB],",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "Lobl,i – obliczony poziom hałasu [dB],",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "n – liczbę pomiarów porównawczych;”,",
            "quoted": true
           }
          ]
@@ -110,7 +120,7 @@
            "children": [
             {
              "type": "text",
-             "text": "„szacunkowej liczby lokali mieszkalnych oraz liczby osób zamieszkujących te lokale, a także szacunkowej liczby szkół, szpitali i domów pomocy społecznej na terenach, na których występują przekroczenia dopuszczalnych poziomów hałasu wyrażonych wskaźnikami L DWN i L N , w każdym z następujących przedziałów przekroczeń dopuszczalnych poziomów hałasu podanych w dB, oddzielnie dla hałasu drogowego, szynowego, lotniczego oraz przemysłowego, w tym portowego:”,",
+             "text": "„szacunkowej liczby lokali mieszkalnych oraz liczby osób zamieszkujących te lokale, a także szacunkowej liczby szkół, szpitali i domów pomocy społecznej na terenach, na których występują przekroczenia dopuszczalnych poziomów hałasu wyrażonych wskaźnikami LDWN i LN, w każdym z następujących przedziałów przekroczeń dopuszczalnych poziomów hałasu podanych w dB, oddzielnie dla hałasu drogowego, szynowego, lotniczego oraz przemysłowego, w tym portowego:”,",
              "quoted": true
             }
            ]
@@ -123,7 +133,7 @@
            "children": [
             {
              "type": "text",
-             "text": "„szacunkowej liczby lokali mieszkalnych oraz liczby osób zamieszkujących te lokale, a także szacunkowej liczby szkół, szpitali i domów pomocy społecznej, zagrożonych hałasem wyrażonym wskaźnikiem L DWN , w każdym z następujących przedziałów wartości podanych w dB, oddzielnie dla hałasu drogowego, szynowego, lotniczego oraz przemysłowego, w tym portowego, oraz oddzielnie dla hałasu od głównych dróg, głównych linii kolejowych i głównych lotnisk:”,",
+             "text": "„szacunkowej liczby lokali mieszkalnych oraz liczby osób zamieszkujących te lokale, a także szacunkowej liczby szkół, szpitali i domów pomocy społecznej, zagrożonych hałasem wyrażonym wskaźnikiem LDWN, w każdym z następujących przedziałów wartości podanych w dB, oddzielnie dla hałasu drogowego, szynowego, lotniczego oraz przemysłowego, w tym portowego, oraz oddzielnie dla hałasu od głównych dróg, głównych linii kolejowych i głównych lotnisk:”,",
              "quoted": true
             }
            ]
@@ -136,7 +146,7 @@
            "children": [
             {
              "type": "text",
-             "text": "„szacunkowej liczby lokali mieszkalnych oraz liczby osób zamieszkujących te lokale, a także szacunkowej liczby szkół, szpitali i domów pomocy społecznej, zagrożonych hałasem wyrażonym wskaźnikiem L N , w każdym z następujących przedziałów wartości podanych w dB, oddzielnie dla hałasu drogowego, szynowego, lotniczego oraz przemysłowego, w tym portowego, oraz oddzielnie dla hałasu od głównych dróg, głównych linii kolejowych i głównych lotnisk:”,",
+             "text": "„szacunkowej liczby lokali mieszkalnych oraz liczby osób zamieszkujących te lokale, a także szacunkowej liczby szkół, szpitali i domów pomocy społecznej, zagrożonych hałasem wyrażonym wskaźnikiem LN, w każdym z następujących przedziałów wartości podanych w dB, oddzielnie dla hałasu drogowego, szynowego, lotniczego oraz przemysłowego, w tym portowego, oraz oddzielnie dla hałasu od głównych dróg, głównych linii kolejowych i głównych lotnisk:”,",
              "quoted": true
             }
            ]
@@ -370,7 +380,7 @@
           },
           {
            "type": "text",
-           "text": "₂ 1 n δ = √ ∑(L −L )² ≤ 2,0 dB , n−1 i=1",
+           "text": "₂ 1 n δśr = √ ∑(Lzm,i −Lobl,i)² ≤2,0 dB, n−1 i=1",
            "quoted": true
           },
           {
@@ -380,7 +390,17 @@
           },
           {
            "type": "text",
-           "text": "δ śr – średni błąd bezwzględny sprawdzenia, L zm,i – zmierzony poziom hałasu [dB], L obl,i – obliczony poziom hałasu [dB], n – liczbę pomiarów porównawczych;”,",
+           "text": "δśr – średni błąd bezwzględny sprawdzenia, Lzm,i – zmierzony poziom hałasu [dB],",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "Lobl,i – obliczony poziom hałasu [dB],",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "n – liczbę pomiarów porównawczych;”,",
            "quoted": true
           }
          ]
@@ -399,7 +419,7 @@
            "children": [
             {
              "type": "text",
-             "text": "„szacunkowej liczby lokali mieszkalnych oraz liczby osób zamieszkujących te lokale, a także szacunkowej liczby szkół, szpitali i domów pomocy społecznej na terenach, na których występują przekroczenia dopuszczalnych poziomów hałasu wyrażonych wskaźnikami L DWN i L N , w każdym z następujących przedziałów przekroczeń dopuszczalnych poziomów hałasu podanych w dB:”,",
+             "text": "„szacunkowej liczby lokali mieszkalnych oraz liczby osób zamieszkujących te lokale, a także szacunkowej liczby szkół, szpitali i domów pomocy społecznej na terenach, na których występują przekroczenia dopuszczalnych poziomów hałasu wyrażonych wskaźnikami LDWN i LN, w każdym z następujących przedziałów przekroczeń dopuszczalnych poziomów hałasu podanych w dB:”,",
              "quoted": true
             }
            ]
@@ -412,7 +432,7 @@
            "children": [
             {
              "type": "text",
-             "text": "„szacunkowej liczby lokali mieszkalnych oraz liczby osób zamieszkujących te lokale, a także szacunkowej liczby szkół, szpitali i domów pomocy społecznej, zagrożonych hałasem wyrażonym wskaźnikiem L DWN , w każdym z następujących przedziałów wartości podanych w dB:”",
+             "text": "„szacunkowej liczby lokali mieszkalnych oraz liczby osób zamieszkujących te lokale, a także szacunkowej liczby szkół, szpitali i domów pomocy społecznej, zagrożonych hałasem wyrażonym wskaźnikiem LDWN, w każdym z następujących przedziałów wartości podanych w dB:”",
              "quoted": true
             }
            ]
@@ -425,7 +445,7 @@
            "children": [
             {
              "type": "text",
-             "text": "„szacunkowej liczby lokali mieszkalnych oraz liczby osób zamieszkujących te lokale, a także szacunkowej liczby szkół, szpitali i domów pomocy społecznej, zagrożonych hałasem wyrażonym wskaźnikiem L N , w każdym z następujących przedziałów wartości podanych w dB:”,",
+             "text": "„szacunkowej liczby lokali mieszkalnych oraz liczby osób zamieszkujących te lokale, a także szacunkowej liczby szkół, szpitali i domów pomocy społecznej, zagrożonych hałasem wyrażonym wskaźnikiem LN, w każdym z następujących przedziałów wartości podanych w dB:”,",
              "quoted": true
             }
            ]
@@ -608,6 +628,6 @@
  "annexes": [],
  "footnotes": {
   "1": "Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 995).",
-  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1080, 1812 i 1863 oraz z 2026 r. poz. 176, 426, 605 i 607. śr zm,i obl,i"
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1080, 1812 i 1863 oraz z 2026 r. poz. 176, 426, 605 i 607."
  }
 }

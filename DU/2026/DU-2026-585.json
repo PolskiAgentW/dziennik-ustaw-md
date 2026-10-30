@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/585",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 24 kwietnia 2026 r. w sprawie sposobu obliczania prognozowanego czasu oczekiwania na udzielenie świadczenia opieki zdrowotnej",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.73",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/585/text.pdf",
  "body": [
   {
@@ -57,19 +57,19 @@
     },
     {
      "type": "text",
-     "text": "P = α × ś + (1 - α) × P t t t-1"
+     "text": "Pt = α × śt + (1 - α) × Pt-1"
     },
     {
      "type": "text",
-     "text": "gdzie :"
+     "text": "gdzie:"
     },
     {
      "type": "text",
-     "text": "P t – prognozowany czas oczekiwania za dany miesiąc, wyrażony w dniach, a jeżeli przekroczy 30 dni – w miesiącach,"
+     "text": "Pt – prognozowany czas oczekiwania za dany miesiąc, wyrażony w dniach, a jeżeli przekroczy 30 dni – w miesiącach,"
     },
     {
      "type": "text",
-     "text": "ś t – średni czas oczekiwania na udzielenie świadczenia opieki zdrowotnej za dany miesiąc, wyrażony w dniach,"
+     "text": "śt – średni czas oczekiwania na udzielenie świadczenia opieki zdrowotnej za dany miesiąc, wyrażony w dniach,"
     },
     {
      "type": "text",
@@ -85,11 +85,11 @@
     },
     {
      "type": "text",
-     "text": "P t-1 – prognozowany czas oczekiwania w miesiącu poprzedzającym miesiąc, dla którego jest obliczany prognozowany czas oczekiwania, wyrażony w dniach; w przypadku obliczania P t-1 po raz pierwszy, gdy n = 6, parametr ten jest liczony według wzoru:"
+     "text": "Pt-1 – prognozowany czas oczekiwania w miesiącu poprzedzającym miesiąc, dla którego jest obliczany prognozowany czas oczekiwania, wyrażony w dniach; w przypadku obliczania Pt-1 po raz pierwszy, gdy n = 6, parametr ten jest liczony według wzoru:"
     },
     {
      "type": "text",
-     "text": "P t-1 = d₆"
+     "text": "Pt-1 = d₆"
     },
     {
      "type": "text",
@@ -101,7 +101,7 @@
     },
     {
      "type": "text",
-     "text": "d = ś + ś +... + ś t-1 t-2 t-n"
+     "text": "d = śt-1 + śt-2 +... + śt-n"
     },
     {
      "type": "text",
@@ -109,7 +109,7 @@
     },
     {
      "type": "text",
-     "text": "ś t-n – średni czas oczekiwania na udzielenie świadczenia opieki zdrowotnej, wyrażony w dniach, w kolejnych miesiącach w okresie 6 miesięcy, licząc od średniego czasu oczekiwania na udzielenie świadczenia opieki zdrowotnej za miesiąc, dla którego jest obliczany prognozowany czas oczekiwania."
+     "text": "śt-n – średni czas oczekiwania na udzielenie świadczenia opieki zdrowotnej, wyrażony w dniach, w kolejnych miesiącach w okresie 6 miesięcy, licząc od średniego czasu oczekiwania na udzielenie świadczenia opieki zdrowotnej za miesiąc, dla którego jest obliczany prognozowany czas oczekiwania."
     }
    ]
   }

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/667",
  "title": "Rozporządzenie Ministra Cyfryzacji z dnia 22 maja 2026 r. zmieniające rozporządzenie w sprawie wzorów dokumentów wydawanych z zakresu rejestracji stanu cywilnego",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.73",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/667/text.pdf",
  "body": [
   {
@@ -116,7 +116,7 @@
     },
     {
      "type": "text",
-     "text": "Odpis zupełny aktu małżeństwa *"
+     "text": "Odpis zupełny aktu małżeństwa*"
     },
     {
      "type": "ust",
@@ -126,7 +126,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Mężczyzna/Kobieta* * Mężczyzna/Kobieta* *"
+       "text": "Mężczyzna/Kobieta** Mężczyzna/Kobieta**"
       },
       {
        "type": "text",
@@ -198,7 +198,7 @@
       },
       {
        "type": "text",
-       "text": "Nazwisko rodowe Matka Mężczyzny/Kobiety* * Matka Mężczyzny/Kobiety* *"
+       "text": "Nazwisko rodowe Matka Mężczyzny/Kobiety** Matka Mężczyzny/Kobiety**"
       },
       {
        "type": "text",
@@ -242,11 +242,11 @@
       },
       {
        "type": "text",
-       "text": "* W przypadku sporządzenia w trybie art. 99, art. 104 lub art. 109 poniżej dodaje się zdanie: „Akt sporządzony w trybie art. „ 99, art. 104 lub art. 1 09 ustawy z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego dla małżeństwa zawartego za granicą"
+       "text": "* W przypadku sporządzenia w trybie art. 99, art. 104 lub art. 109 poniżej dodaje się zdanie: „Akt sporządzony w trybie art. „ 99, art. 104 lub art. 109 ustawy z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego dla małżeństwa zawartego za granicą"
       },
       {
        "type": "text",
-       "text": "* * Wybrać odpowiednie"
+       "text": "** Wybrać odpowiednie"
       },
       {
        "type": "text",
@@ -511,7 +511,7 @@
     },
     {
      "type": "text",
-     "text": "Mężczyzna/Kobieta* * Mężczyzna/Kobieta* *"
+     "text": "Mężczyzna/Kobieta** Mężczyzna/Kobieta**"
     },
     {
      "type": "text",
@@ -563,7 +563,7 @@
     },
     {
      "type": "text",
-     "text": "Ojciec Mężczyzny/Kobiety* * Ojciec Mężczyzny/Kobiety* *"
+     "text": "Ojciec Mężczyzny/Kobiety** Ojciec Mężczyzny/Kobiety**"
     },
     {
      "type": "text",
@@ -579,7 +579,7 @@
     },
     {
      "type": "text",
-     "text": "Matka Mężczyzny/Kobiety * * Matka Mężczyzny/Kobiety* *"
+     "text": "Matka Mężczyzny/Kobiety** Matka Mężczyzny/Kobiety**"
     },
     {
      "type": "text",
@@ -627,7 +627,7 @@
     },
     {
      "type": "note",
-     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.3.4, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
      "type": "ocr",
@@ -692,7 +692,7 @@
     },
     {
      "type": "text",
-     "text": "Odpis skrócony aktu małżeństwa *"
+     "text": "Odpis skrócony aktu małżeństwa*"
     },
     {
      "type": "ust",
@@ -754,7 +754,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Ojciec Mężczyzny/Kobiety* * Ojciec Mężczyzny/Kobiety* * Imię (imiona)"
+       "text": "Ojciec Mężczyzny/Kobiety** Ojciec Mężczyzny/Kobiety** Imię (imiona)"
       },
       {
        "type": "text",
@@ -762,7 +762,7 @@
       },
       {
        "type": "text",
-       "text": "Matka Mężczyzny/Kobiety* * Matka Mężczyzny/Kobiety* * Imię (imiona)"
+       "text": "Matka Mężczyzny/Kobiety** Matka Mężczyzny/Kobiety** Imię (imiona)"
       },
       {
        "type": "text",
@@ -1032,7 +1032,7 @@
     },
     {
      "type": "text",
-     "text": "Ojciec Mężczyzny/Kobiety* * Ojciec Mężczyzny/Kobiety* *"
+     "text": "Ojciec Mężczyzny/Kobiety** Ojciec Mężczyzny/Kobiety**"
     },
     {
      "type": "text",
@@ -1040,7 +1040,7 @@
     },
     {
      "type": "text",
-     "text": "�azwisko rodowe Matka Mężczyzny/Kobiety* * Matka Mężczyzny/Kobiety* *"
+     "text": "�azwisko rodowe Matka Mężczyzny/Kobiety** Matka Mężczyzny/Kobiety**"
     },
     {
      "type": "text",
@@ -1088,7 +1088,7 @@
     },
     {
      "type": "note",
-     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.3.4, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
      "type": "ocr",
@@ -1500,11 +1500,15 @@
       {
        "type": "text",
        "text": "Nazwisko"
-      },
-      {
-       "type": "text",
-       "text": "5 .Informacje o zaświadczeniu 6 .Pieczęcie i podpis"
-      },
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Informacje o zaświadczeniu 6.Pieczęcie i podpis",
+     "children": [
       {
        "type": "text",
        "text": "Podstawa prawna"

@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/692",
  "title": "Rozporządzenie Ministra Infrastruktury z dnia 4 maja 2026 r. w sprawie warunków technicznych, jakim powinny odpowiadać budowle hydrotechniczne i ich usytuowanie",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.73",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/692/text.pdf",
  "body": [
   {
@@ -989,7 +989,7 @@
      "children": [
       {
        "type": "text",
-       "text": "γ ∙E ≤m·E"
+       "text": "γn ∙Edest ≤m·Estab"
       },
       {
        "type": "text",
@@ -997,7 +997,7 @@
       },
       {
        "type": "text",
-       "text": "E stab – oznacza obliczeniowe oddziaływania stabilizujące, którymi są:"
+       "text": "Estab – oznacza obliczeniowe oddziaływania stabilizujące, którymi są:"
       },
       {
        "type": "tir",
@@ -1028,7 +1028,7 @@
        "children": [
         {
          "type": "text",
-         "text": "E dest – oznacza obliczeniowe oddziaływania destabilizujące, którymi są:"
+         "text": "Edest – oznacza obliczeniowe oddziaływania destabilizujące, którymi są:"
         }
        ]
       },
@@ -1057,7 +1057,7 @@
        "type": "tir",
        "num": "8",
        "path": "par_35/ust_1/tir_8",
-       "text": "składowa pionowa wartości obliczeniowej wyporu w poziomie posadowienia przy sprawdzeniu stateczności na wypłynięcie, γ n – oznacza współczynnik konsekwencji zniszczenia,",
+       "text": "składowa pionowa wartości obliczeniowej wyporu w poziomie posadowienia przy sprawdzeniu stateczności na wypłynięcie, γn – oznacza współczynnik konsekwencji zniszczenia,",
        "children": []
       },
       {
@@ -1084,14 +1084,14 @@
      "type": "ust",
      "num": "4",
      "path": "par_35/ust_4",
-     "text": "Współczynnik konsekwencji zniszczenia (γ n ) budowli hydrotechnicznej (z wyłączeniem skarp i zboczy) określa załącznik nr 2 do rozporządzenia.",
+     "text": "Współczynnik konsekwencji zniszczenia (γn) budowli hydrotechnicznej (z wyłączeniem skarp i zboczy) określa załącznik nr 2 do rozporządzenia.",
      "children": []
     },
     {
      "type": "ust",
      "num": "5",
      "path": "par_35/ust_5",
-     "text": "Dla budowli hydrotechnicznej na wodach granicznych wartość współczynnika konsekwencji zniszczenia (γ n ) ustala się indywidualnie w uzgodnieniu z właściwymi służbami państwa sąsiedniego, przy czym ten współczynnik nie może być mniejszy niż określony w załączniku nr 2 do rozporządzenia.",
+     "text": "Dla budowli hydrotechnicznej na wodach granicznych wartość współczynnika konsekwencji zniszczenia (γn) ustala się indywidualnie w uzgodnieniu z właściwymi służbami państwa sąsiedniego, przy czym ten współczynnik nie może być mniejszy niż określony w załączniku nr 2 do rozporządzenia.",
      "children": []
     },
     {
@@ -1105,7 +1105,7 @@
      "type": "ust",
      "num": "7",
      "path": "par_35/ust_7",
-     "text": "Dopuszcza się stosowanie innych metod obliczeń stateczności budowli hydrotechnicznej opartych na rozwiązaniu równań równowagi. W takim przypadku współczynnik pewności (γ i ) spełnia wymagania, o których mowa w § 40 ust. 2.",
+     "text": "Dopuszcza się stosowanie innych metod obliczeń stateczności budowli hydrotechnicznej opartych na rozwiązaniu równań równowagi. W takim przypadku współczynnik pewności (γi) spełnia wymagania, o których mowa w § 40 ust. 2.",
      "children": []
     }
    ]
@@ -1194,7 +1194,7 @@
      "children": [
       {
        "type": "text",
-       "text": "γ i ∙i ≤i kr"
+       "text": "γi ∙i ≤ikr"
       },
       {
        "type": "text",
@@ -1206,11 +1206,11 @@
       },
       {
        "type": "text",
-       "text": "i kr – oznacza wartości krytyczne gradientu dla danego gruntu i charakteru przepływu,"
+       "text": "ikr – oznacza wartości krytyczne gradientu dla danego gruntu i charakteru przepływu,"
       },
       {
        "type": "text",
-       "text": "γ i – oznacza współczynnik pewności."
+       "text": "γi – oznacza współczynnik pewności."
       }
      ]
     },
@@ -1281,7 +1281,7 @@
      "children": [
       {
        "type": "text",
-       "text": "γ ∙E ch ≤E ch p dest stab"
+       "text": "γp ∙Edestch ≤Estabch"
       },
       {
        "type": "text",
@@ -1293,7 +1293,7 @@
       },
       {
        "type": "text",
-       "text": "γ p – oznacza współczynnik pewności."
+       "text": "γp – oznacza współczynnik pewności."
       }
      ]
     },
@@ -1301,7 +1301,7 @@
      "type": "ust",
      "num": "2",
      "path": "par_40/ust_2",
-     "text": "Wartość współczynnika pewności (γ p ) niezależnie od klasy budowli hydrotechnicznej wynosi:",
+     "text": "Wartość współczynnika pewności (γp) niezależnie od klasy budowli hydrotechnicznej wynosi:",
      "children": [
       {
        "type": "pkt",
@@ -1318,7 +1318,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Podana wartość współczynnika pewności (γ p ) dla wyjątkowego układu obciążeń dotyczy urządzeń wodnych służących kształtowaniu zasobów wodnych, o których mowa w przepisach prawa wodnego. Dla budowli hydrotechnicznej niebędącej urządzeniem wodnym, w szczególności zbiornikiem gromadzącym substancje płynne i półpłynne, dla której nie jest wymagane pozwolenie wodnoprawne, podana wartość może być obniżona do wartości 1,2 pod warunkiem uzyskania pozytywnej, specjalistycznej opinii osoby posiadającej uprawnienia budowlane w odpowiedniej specjalności, w której przeanalizowano wszystkie składowe obciążeń wyjątkowych i czynniki, które na nie wpływają, z uwzględnieniem ich zmienności w całym przewidywanym okresie użytkowania."
+         "text": "Podana wartość współczynnika pewności (γp) dla wyjątkowego układu obciążeń dotyczy urządzeń wodnych służących kształtowaniu zasobów wodnych, o których mowa w przepisach prawa wodnego. Dla budowli hydrotechnicznej niebędącej urządzeniem wodnym, w szczególności zbiornikiem gromadzącym substancje płynne i półpłynne, dla której nie jest wymagane pozwolenie wodnoprawne, podana wartość może być obniżona do wartości 1,2 pod warunkiem uzyskania pozytywnej, specjalistycznej opinii osoby posiadającej uprawnienia budowlane w odpowiedniej specjalności, w której przeanalizowano wszystkie składowe obciążeń wyjątkowych i czynniki, które na nie wpływają, z uwzględnieniem ich zmienności w całym przewidywanym okresie użytkowania."
         }
        ]
       }
@@ -3589,11 +3589,11 @@
    "body": [
     {
      "type": "text",
-     "text": "WSPÓŁCZYNNIK KONSEKWENCJI ZNISZCZENIA (γ n ) BUDOWLI HYDROTECHNICZNEJ (Z WYŁĄCZENIEM SKARP I ZBOCZY)"
+     "text": "WSPÓŁCZYNNIK KONSEKWENCJI ZNISZCZENIA (γn) BUDOWLI HYDROTECHNICZNEJ (Z WYŁĄCZENIEM SKARP I ZBOCZY)"
     },
     {
      "type": "text",
-     "text": "Współczynnik konsekwencji zniszczenia (γ ) budowli hydrotechnicznej Dla klasy budowli n I II III IV"
+     "text": "Współczynnik konsekwencji zniszczenia (γn) budowli hydrotechnicznej Dla klasy budowli I II III IV"
     },
     {
      "type": "text",
@@ -3650,7 +3650,7 @@
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "obliczenie przepływu kontrolnego dla rzek i potoków na terenach górskich i podgórskich przeprowadza się przez dodanie do przepływu kontrolnego średniego błędu oszacowania tej wartości , przy t a = 1 i poziomie ufności równym 0,84; do wymiarowania budowli hydrotechnicznej za przepływ kontrolny przyjmuje się przepływ równy (1 + ) Q k .",
+     "text": "obliczenie przepływu kontrolnego dla rzek i potoków na terenach górskich i podgórskich przeprowadza się przez dodanie do przepływu kontrolnego średniego błędu oszacowania tej wartości , przy ta = 1 i poziomie ufności równym 0,84; do wymiarowania budowli hydrotechnicznej za przepływ kontrolny przyjmuje się przepływ równy (1 + ) Qk.",
      "children": []
     }
    ]
@@ -3782,7 +3782,7 @@
  ],
  "footnotes": {
   "1": "Minister Infrastruktury kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).",
-  "2": "Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 11 września 2025 r. pod numerem 2025/0517/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1). n dest stab",
+  "2": "Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 11 września 2025 r. pod numerem 2025/0517/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1).",
   "3": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 20 kwietnia 2007 r. w sprawie warunków technicznych, jakim powinny odpowiadać budowle hydrotechniczne i ich usytuowanie (Dz. U. poz. 579), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 66 ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. z 2024 r. poz. 1411)."
  }
 }

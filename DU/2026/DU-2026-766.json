@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/766",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 11 czerwca 2026 r. w sprawie porównywania i przesyłania danych biometrycznych lub alfanumerycznych do systemu Eurodac na potrzeby ochrony porządku publicznego",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.73",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/766/text.pdf",
  "body": [
   {
@@ -92,7 +92,7 @@
      "type": "pkt",
      "num": "1",
      "path": "par_2/pkt_1",
-     "text": "funkcjonariuszu – rozumie się przez to funkcjonariusza Policji, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Służby Ochrony Państwa, Służby Celno ‑Skarbowej, Służby Kontrwywiadu Wojskowego lub Agencji Wywiadu lub żołnierza Żandarmerii Wojskowej realizujących zadania dochodzeniowo ‑śledcze lub operacyjno ‑ rozpoznawcze;",
+     "text": "funkcjonariuszu – rozumie się przez to funkcjonariusza Policji, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Służby Ochrony Państwa, Służby Celno‑Skarbowej, Służby Kontrwywiadu Wojskowego lub Agencji Wywiadu lub żołnierza Żandarmerii Wojskowej realizujących zadania dochodzeniowo‑śledcze lub operacyjno‑rozpoznawcze;",
      "children": []
     },
     {
@@ -149,7 +149,7 @@
      "type": "ust",
      "num": "2",
      "path": "par_3/ust_2",
-     "text": "Wniosek o porównanie podpisują i przekazują do organu weryfikującego kierownik jednostki operacyjnej, kierownik komórki organizacyjnej w tej jednostce, która realizuje czynności dochodzeniowo ‑śledcze lub operacyjno‑ rozpoznawcze, lub ich zastępcy.",
+     "text": "Wniosek o porównanie podpisują i przekazują do organu weryfikującego kierownik jednostki operacyjnej, kierownik komórki organizacyjnej w tej jednostce, która realizuje czynności dochodzeniowo‑śledcze lub operacyjno‑rozpoznawcze, lub ich zastępcy.",
      "children": []
     },
     {
@@ -530,36 +530,32 @@
      "text": "Wnoszę o:"
     },
     {
-     "type": "pkt",
-     "num": "2",
-     "path": "pkt_2",
-     "text": "1 ) porównanie karty daktyloskopijnej / wizerunku twarzy o numerze referencyjnym:",
-     "children": [
-      {
-       "type": "text",
-       "text": "P L 4 -"
-      },
-      {
-       "type": "text",
-       "text": "²⁾ porównanie niezidentyfikowanego śladu linii papilarnych o numerze referencyjnym:"
-      },
-      {
-       "type": "text",
-       "text": "P L 4 - -"
-      },
-      {
-       "type": "text",
-       "text": "²⁾ porównanie danych alfanumerycznych o numerze:"
-      },
-      {
-       "type": "text",
-       "text": "P L 4 -[^3]"
-      },
-      {
-       "type": "text",
-       "text": "Do wniosku załącza się dokumenty wymagane na podstawie art. 33 ust. 1 i 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/1358 z dnia 14 maja 2024 r. w sprawie ustanowienia systemu Eurodac do porównywania danych biometrycznych w celu skutecznego stosowania rozporządzeń Parlamentu Europejskiego i Rady (UE) 2024/1351 i (UE) 2024/1350 i dyrektywy Rady 2001/55/WE TAK NIE oraz w celu identyfikowania nielegalnie przebywających obywateli²⁾²⁾ państw trzecich oraz bezpaństwowców, w sprawie występowania z wnioskami o porównanie z danymi Eurodac przez organy ścigania państw członkowskich i Europol na potrzeby ochrony porządku publicznego, w sprawie zmiany rozporządzeń Parlamentu Europejskiego i Rady (UE) 2018/1240 i (UE) 2019/818 oraz w sprawie uchylenia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 603/2013 (Dz. Urz. UE L 2024/1358 z 22.05.2024, z późn. zm.)"
-      }
-     ]
+     "type": "text",
+     "text": "²⁾ porównanie karty daktyloskopijnej / wizerunku twarzy[^1_2] o numerze referencyjnym:"
+    },
+    {
+     "type": "text",
+     "text": "P L 4 -"
+    },
+    {
+     "type": "text",
+     "text": "²⁾ porównanie niezidentyfikowanego śladu linii papilarnych o numerze referencyjnym:"
+    },
+    {
+     "type": "text",
+     "text": "P L 4 - -"
+    },
+    {
+     "type": "text",
+     "text": "²⁾ porównanie danych alfanumerycznych o numerze:"
+    },
+    {
+     "type": "text",
+     "text": "P L 4 -[^3]"
+    },
+    {
+     "type": "text",
+     "text": "Do wniosku załącza się dokumenty wymagane na podstawie art. 33 ust. 1 i 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/1358 z dnia 14 maja 2024 r. w sprawie ustanowienia systemu Eurodac do porównywania danych biometrycznych w celu skutecznego stosowania rozporządzeń Parlamentu Europejskiego i Rady (UE) 2024/1351 i (UE) 2024/1350 i dyrektywy Rady 2001/55/WE TAK NIE oraz w celu identyfikowania nielegalnie przebywających obywateli²⁾²⁾ państw trzecich oraz bezpaństwowców, w sprawie występowania z wnioskami o porównanie z danymi Eurodac przez organy ścigania państw członkowskich i Europol na potrzeby ochrony porządku publicznego, w sprawie zmiany rozporządzeń Parlamentu Europejskiego i Rady (UE) 2018/1240 i (UE) 2019/818 oraz w sprawie uchylenia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 603/2013 (Dz. Urz. UE L 2024/1358 z 22.05.2024, z późn. zm.)"
     },
     {
      "type": "ust",
@@ -900,11 +896,11 @@
     },
     {
      "type": "text",
-     "text": "Rodzaj zdarzenia (słownie) : ...................................................................................................................."
+     "text": "Rodzaj zdarzenia (słownie): ...................................................................................................................."
     },
     {
      "type": "text",
-     "text": "Data zabezpieczenia śladów / sporządzenia karty daktyloskopijnej / pobrania wizerunku twarzy * : ..............................................."
+     "text": "Data zabezpieczenia śladów / sporządzenia karty daktyloskopijnej / pobrania wizerunku twarzy*: ..............................................."
     },
     {
      "type": "text",
@@ -912,7 +908,7 @@
     },
     {
      "type": "text",
-     "text": "** porównanie karty daktyloskopijnej / wizerunku twarzy * o numerze referencyjnym:"
+     "text": "** porównanie karty daktyloskopijnej / wizerunku twarzy* o numerze referencyjnym:"
     },
     {
      "type": "text",
