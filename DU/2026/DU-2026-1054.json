@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1054",
  "title": "Rozporządzenie Ministra Finansów i Gospodarki z dnia 24 lipca 2026 r. w sprawie wniosku wspólnego o wydanie interpretacji indywidualnej",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.73",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1054/text.pdf",
  "body": [
   {
@@ -705,12 +705,15 @@
       {
        "type": "text",
        "text": "ORD-WS 5 POLA JASNE WYPEŁNIA WNIOSKODAWCA, POLA CIEMNE WYPEŁNIA WŁAŚCIWY ORGAN WYPEŁNIĆ DUŻYMI DRUKOWANYMI LITERAMI, CZARNYM LUB NIEBIESKIM KOLOREM."
-      },
-      {
-       "type": "text",
-       "text": "98 . Nazwa numeru identyfikacyjnego do celów podatkowych jednostki macierzystej 99. Kraj nadania numeru identyfikacyjnego do celów podatkowych jednostki macierzystej"
       }
      ]
+    },
+    {
+     "type": "ust",
+     "num": "98",
+     "path": "ust_98",
+     "text": "Nazwa numeru identyfikacyjnego do celów podatkowych jednostki macierzystej 99. Kraj nadania numeru identyfikacyjnego do celów podatkowych jednostki macierzystej",
+     "children": []
     },
     {
      "type": "ust",
@@ -736,12 +739,14 @@
      "num": "97",
      "path": "ust_97",
      "text": "Numer identyfikacyjny do celów podatkowych jednostki macierzystej",
-     "children": [
-      {
-       "type": "text",
-       "text": "98 . Nazwa numeru identyfikacyjnego do celów podatkowych jednostki macierzystej 99. Kraj nadania numeru identyfikacyjnego do celów podatkowych jednostki macierzystej"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "98",
+     "path": "ust_98",
+     "text": "Nazwa numeru identyfikacyjnego do celów podatkowych jednostki macierzystej 99. Kraj nadania numeru identyfikacyjnego do celów podatkowych jednostki macierzystej",
+     "children": []
     },
     {
      "type": "ust",

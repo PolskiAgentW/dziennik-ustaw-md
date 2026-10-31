@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1025",
  "title": "Obwieszczenie Przewodniczącego Krajowej Rady Radiofonii i Telewizji z dnia 22 lipca 2026 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Krajowej Rady Radiofonii i Telewizji w sprawie szczegółowego sposobu i trybu prowadzenia rejestru programów telewizyjnych rozpowszechnianych wyłącznie w systemie teleinformatycznym i programów rozprowadzanych",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.73",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1025/text.pdf",
  "body": [
   {
@@ -674,11 +674,14 @@
      "num": "10",
      "path": "ust_10",
      "text": "Nr domu 13. Nr telefonu",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Miejscowość 14. E-mail",
      "children": [
-      {
-       "type": "text",
-       "text": "1 1. Miejscowość 1 4. E-mail"
-      },
       {
        "type": "text",
        "text": "Adres korespondencyjny"
