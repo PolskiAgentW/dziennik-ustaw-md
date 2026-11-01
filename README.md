@@ -49,7 +49,7 @@ Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla ża
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-31 11:14 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-11-01 12:04 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -67,13 +67,13 @@ Stan na 2026-10-31 11:14 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 2023 | 433 | 433 | 0 |
 | 2024 | 392 | 392 | 0 |
 | 2025 | 1900 | 1900 | 0 |
-| 2026 | 1390 | 1390 | 0 |
+| 2026 | 1432 | 1432 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 94, razem 1917 z 204758 stron. Tekst z OCR (oznaczony) ma 1832 z nich w 86 aktach; treści pozostałych brak.
-Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 252.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 94, razem 1917 z 206198 stron. Tekst z OCR (oznaczony) ma 1833 z nich w 86 aktach; treści pozostałych brak.
+Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 254.
 
-Rodzaje aktów: Obwieszczenie 4904, Rozporządzenie 1875, Ustawa 379, Oświadczenie rządowe 45, Umowa międzynarodowa 37, Komunikat 4, Postanowienie 3, Uchwała 2, Traktat 1.
-Wersje konwertera: eli2md 0.6.52 (3394), eli2md 0.6.25 (1358), eli2md 0.6.73 (1198), eli2md 0.6.53 (423), eli2md 0.6.61 (282), eli2md 0.6.56 (244), eli2md 0.6.59 (209), eli2md 0.6.60 (76), eli2md 0.6.57 (28), eli2md 0.6.58 (20), eli2md 0.6.25.2 (10), eli2md 0.6.54 (6), eli2md 0.6.67 (2).
+Rodzaje aktów: Obwieszczenie 4921, Rozporządzenie 1898, Ustawa 380, Oświadczenie rządowe 45, Umowa międzynarodowa 37, Komunikat 5, Postanowienie 3, Uchwała 2, Traktat 1.
+Wersje konwertera: eli2md 0.6.52 (3394), eli2md 0.6.73 (1460), eli2md 0.6.25 (1281), eli2md 0.6.53 (404), eli2md 0.6.61 (277), eli2md 0.6.56 (220), eli2md 0.6.59 (209), eli2md 0.6.60 (24), eli2md 0.6.58 (13), eli2md 0.6.57 (7), eli2md 0.6.67 (2), eli2md 0.6.54 (1).
 <!-- stats:end -->
 
 ## Teksty jednolite
@@ -122,7 +122,7 @@ wystąpienie, `re.findall` wszystkie; który tekst obowiązuje, mówią przypisy
 | Kodeks wykroczeń | [Dz.U. 2026 poz. 1372](DU/2026/DU-2026-1372.md) | 2026-10-21 | [Dz.U. 2025 poz. 734](DU/2025/DU-2025-734.md) |
 | Ordynacja podatkowa | [Dz.U. 2026 poz. 622](DU/2026/DU-2026-622.md) | 2026-05-11 | [Dz.U. 2025 poz. 111](DU/2025/DU-2025-111.md) |
 
-Wszystkie akty z tekstem jednolitym ogłoszonym od 2025 r. (910): [TEKSTY_JEDNOLITE.md](TEKSTY_JEDNOLITE.md).
+Wszystkie akty z tekstem jednolitym ogłoszonym od 2025 r. (921): [TEKSTY_JEDNOLITE.md](TEKSTY_JEDNOLITE.md).
 <!-- tj:end -->
 
 ### Teksty jednolite ustaw z lat 2012–2024

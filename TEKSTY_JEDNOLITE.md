@@ -2,7 +2,7 @@
 
 Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odświeżane automatycznie). Nazwa aktu pochodzi z tytułu obwieszczenia. Tekst jednolity podaje stan prawny na dzień wskazany w obwieszczeniu; zmian ogłoszonych później w nim nie ma. Teksty nieoficjalne, wiążący jest PDF.
 
-## Ustawy (408)
+## Ustawy (410)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -17,6 +17,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o Banku Gospodarstwa Krajowego | [Dz.U. 2026 poz. 195](DU/2026/DU-2026-195.md) | 2026-02-19 | [Dz.U. 2025 poz. 503](DU/2025/DU-2025-503.md) |
 | o bateriach i akumulatorach | [Dz.U. 2025 poz. 809](DU/2025/DU-2025-809.md) | 2025-06-23 | – |
 | o bezpieczeństwie morskim | [Dz.U. 2026 poz. 529](DU/2026/DU-2026-529.md) | 2026-04-17 | [Dz.U. 2025 poz. 883](DU/2025/DU-2025-883.md) |
+| o bezpieczeństwie żywności i żywienia | [Dz.U. 2026 poz. 1399](DU/2026/DU-2026-1399.md) | 2026-10-23 | – |
 | o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym | [Dz.U. 2025 poz. 1891](DU/2025/DU-2025-1891.md) | 2025-12-31 | – |
 | o biokomponentach i biopaliwach ciekłych | [Dz.U. 2025 poz. 901](DU/2025/DU-2025-901.md) | 2025-07-07 | – |
 | o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego | [Dz.U. 2026 poz. 21](DU/2026/DU-2026-21.md) | 2026-01-09 | – |
@@ -151,7 +152,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni | [Dz.U. 2025 poz. 301](DU/2025/DU-2025-301.md) | 2025-03-11 | – |
 | o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne | [Dz.U. 2025 poz. 499](DU/2025/DU-2025-499.md) | 2025-04-16 | – |
 | o opiece nad dziećmi w wieku do lat 3 | [Dz.U. 2025 poz. 798](DU/2025/DU-2025-798.md) | 2025-06-20 | – |
-| o opłacie skarbowej | [Dz.U. 2025 poz. 1154](DU/2025/DU-2025-1154.md) | 2025-08-22 | – |
+| o opłacie skarbowej | [Dz.U. 2026 poz. 1395](DU/2026/DU-2026-1395.md) | 2026-10-23 | [Dz.U. 2025 poz. 1154](DU/2025/DU-2025-1154.md) |
 | o opłatach abonamentowych | [Dz.U. 2025 poz. 1585](DU/2025/DU-2025-1585.md) | 2025-11-20 | – |
 | o organizacjach pracodawców | [Dz.U. 2025 poz. 423](DU/2025/DU-2025-423.md) | 2025-04-02 | – |
 | o organizacji i funkcjonowaniu funduszy emerytalnych | [Dz.U. 2026 poz. 1070](DU/2026/DU-2026-1070.md) | 2026-08-07 | – |
@@ -225,11 +226,12 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o restrukturyzacji zobowiązań koncesyjnych operatorów stacjonarnych publicznych sieci telefonicznych | [Dz.U. 2026 poz. 55](DU/2026/DU-2026-55.md) | 2026-01-19 | – |
 | o rezerwach strategicznych | [Dz.U. 2026 poz. 733](DU/2026/DU-2026-733.md) | 2026-06-05 | – |
 | o rodzicielskim świadczeniu uzupełniającym | [Dz.U. 2025 poz. 1577](DU/2025/DU-2025-1577.md) | 2025-11-18 | – |
+| o rodzinnym kredycie mieszkaniowym i bezpiecznym kredycie 2 % | [Dz.U. 2026 poz. 1396](DU/2026/DU-2026-1396.md) | 2026-10-23 | – |
 | o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej | [Dz.U. 2026 poz. 823](DU/2026/DU-2026-823.md) | 2026-06-22 | – |
 | o rozwiązywaniu sporów zbiorowych | [Dz.U. 2026 poz. 437](DU/2026/DU-2026-437.md) | 2026-03-31 | – |
 | o rozwoju lokalnym z udziałem lokalnej społeczności | [Dz.U. 2025 poz. 182](DU/2025/DU-2025-182.md) | 2025-02-12 | – |
 | o rybołówstwie morskim | [Dz.U. 2025 poz. 590](DU/2025/DU-2025-590.md) | 2025-05-06 | – |
-| o rynku mocy | [Dz.U. 2025 poz. 610](DU/2025/DU-2025-610.md) | 2025-05-08 | – |
+| o rynku mocy | [Dz.U. 2026 poz. 1400](DU/2026/DU-2026-1400.md) | 2026-10-26 | [Dz.U. 2025 poz. 610](DU/2025/DU-2025-610.md) |
 | o rzecznikach patentowych | [Dz.U. 2026 poz. 778](DU/2026/DU-2026-778.md) | 2026-06-15 | – |
 | o Rzeczniku Małych i Średnich Przedsiębiorców | [Dz.U. 2026 poz. 461](DU/2026/DU-2026-461.md) | 2026-04-03 | – |
 | o rzemiośle | [Dz.U. 2026 poz. 46](DU/2026/DU-2026-46.md) | 2026-01-15 | – |
@@ -255,7 +257,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o Straży Granicznej | [Dz.U. 2026 poz. 367](DU/2026/DU-2026-367.md) | 2026-03-18 | [Dz.U. 2025 poz. 914](DU/2025/DU-2025-914.md) |
 | o Straży Marszałkowskiej | [Dz.U. 2025 poz. 607](DU/2025/DU-2025-607.md) | 2025-05-08 | – |
 | o systemach oceny zgodności i nadzoru rynku | [Dz.U. 2025 poz. 568](DU/2025/DU-2025-568.md) | 2025-04-29 | – |
-| o systemie handlu uprawnieniami do emisji gazów cieplarnianych | [Dz.U. 2025 poz. 1685](DU/2025/DU-2025-1685.md) | 2025-12-03 | – |
+| o systemie handlu uprawnieniami do emisji gazów cieplarnianych | [Dz.U. 2026 poz. 1421](DU/2026/DU-2026-1421.md) | 2026-10-28 | [Dz.U. 2025 poz. 1685](DU/2025/DU-2025-1685.md) |
 | o systemie identyfikacji i rejestracji zwierząt | [Dz.U. 2026 poz. 591](DU/2026/DU-2026-591.md) | 2026-04-30 | – |
 | o systemie informacji oświatowej | [Dz.U. 2026 poz. 803](DU/2026/DU-2026-803.md) | 2026-06-18 | – |
 | o systemie informacji w ochronie zdrowia | [Dz.U. 2026 poz. 1304](DU/2026/DU-2026-1304.md) | 2026-10-07 | [Dz.U. 2026 poz. 208](DU/2026/DU-2026-208.md), [Dz.U. 2025 poz. 302](DU/2025/DU-2025-302.md) |
@@ -274,7 +276,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw | [Dz.U. 2026 poz. 1260](DU/2026/DU-2026-1260.md) | 2026-09-28 | – |
 | o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego | [Dz.U. 2025 poz. 514](DU/2025/DU-2025-514.md) | 2025-04-18 | – |
 | o szczególnych rozwiązaniach związanych z ochroną miejsc pracy | [Dz.U. 2025 poz. 1694](DU/2025/DU-2025-1694.md) | 2025-12-03 | [Dz.U. 2025 poz. 5](DU/2025/DU-2025-5.md) |
-| o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi | [Dz.U. 2025 poz. 1402](DU/2025/DU-2025-1402.md) | 2025-10-16 | – |
+| o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi | [Dz.U. 2026 poz. 1429](DU/2026/DU-2026-1429.md) | 2026-10-29 | [Dz.U. 2025 poz. 1402](DU/2025/DU-2025-1402.md) |
 | o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi z 2010 r | [Dz.U. 2026 poz. 1374](DU/2026/DU-2026-1374.md) | 2026-10-21 | – |
 | o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych | [Dz.U. 2025 poz. 764](DU/2025/DU-2025-764.md) | 2025-06-11 | – |
 | o szczególnych uprawnieniach ministra właściwego do spraw aktywów państwowych oraz ich wykonywaniu w niektórych spółkach kapitałowych lub grupach kapitałowych prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych | [Dz.U. 2025 poz. 470](DU/2025/DU-2025-470.md) | 2025-04-09 | – |
@@ -357,7 +359,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o zawodzie farmaceuty | [Dz.U. 2025 poz. 608](DU/2025/DU-2025-608.md) | 2025-05-08 | – |
 | o zawodzie fizjoterapeuty | [Dz.U. 2026 poz. 584](DU/2026/DU-2026-584.md) | 2026-04-28 | – |
 | o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych | [Dz.U. 2026 poz. 125](DU/2026/DU-2026-125.md) | 2026-02-03 | – |
-| o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych | [Dz.U. 2025 poz. 339](DU/2025/DU-2025-339.md) | 2025-03-18 | – |
+| o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych | [Dz.U. 2026 poz. 1422](DU/2026/DU-2026-1422.md) | 2026-10-28 | [Dz.U. 2025 poz. 339](DU/2025/DU-2025-339.md) |
 | o zdrowiu publicznym | [Dz.U. 2026 poz. 149](DU/2026/DU-2026-149.md) | 2026-02-10 | – |
 | o znakach Sił Zbrojnych Rzeczypospolitej Polskiej | [Dz.U. 2025 poz. 816](DU/2025/DU-2025-816.md) | 2025-06-24 | – |
 | o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne | [Dz.U. 2025 poz. 843](DU/2025/DU-2025-843.md) | 2025-06-27 | – |
@@ -397,7 +399,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo geodezyjne i kartograficzne | [Dz.U. 2026 poz. 1389](DU/2026/DU-2026-1389.md) | 2026-10-22 | – |
 | – Prawo geologiczne i górnicze | [Dz.U. 2026 poz. 69](DU/2026/DU-2026-69.md) | 2026-01-22 | – |
 | – Prawo konsularne | [Dz.U. 2026 poz. 711](DU/2026/DU-2026-711.md) | 2026-06-01 | – |
-| – Prawo lotnicze | [Dz.U. 2025 poz. 1431](DU/2025/DU-2025-1431.md) | 2025-10-21 | – |
+| – Prawo lotnicze | [Dz.U. 2026 poz. 1407](DU/2026/DU-2026-1407.md) | 2026-10-26 | [Dz.U. 2025 poz. 1431](DU/2025/DU-2025-1431.md) |
 | – Prawo o aktach stanu cywilnego | [Dz.U. 2026 poz. 393](DU/2026/DU-2026-393.md) | 2026-03-24 | [Dz.U. 2025 poz. 594](DU/2025/DU-2025-594.md) |
 | – Prawo o notariacie | [Dz.U. 2026 poz. 614](DU/2026/DU-2026-614.md) | 2026-05-07 | – |
 | – Prawo o postępowaniu przed sądami administracyjnymi | [Dz.U. 2026 poz. 143](DU/2026/DU-2026-143.md) | 2026-02-09 | – |
@@ -415,7 +417,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
-## Rozporządzenia (502)
+## Rozporządzenia (511)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -436,6 +438,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Edukacji i Nauki w sprawie Krajowej Komisji Etycznej do Spraw Doświadczeń na Zwierzętach i lokalnych komisji etycznych do spraw doświadczeń na zwierzętach | [Dz.U. 2025 poz. 638](DU/2025/DU-2025-638.md) | 2025-05-15 | – |
 | Ministra Edukacji i Nauki w sprawie programu "Rozwój czasopism naukowych" | [Dz.U. 2025 poz. 187](DU/2025/DU-2025-187.md) | 2025-02-13 | – |
 | Ministra Edukacji i Nauki w sprawie udzielania pomocy publicznej i pomocy de minimis w ramach inwestycji A2.4.1 Krajowego Planu Odbudowy i Zwiększania Odporności – Inwestycje w rozbudowę potencjału badawczego | [Dz.U. 2025 poz. 225](DU/2025/DU-2025-225.md) | 2025-02-24 | – |
+| Ministra Edukacji i Nauki w sprawie wykazu dziedzin zawodowych wraz z przyporządkowanymi do nich zawodami określonymi w klasyfikacji zawodów szkolnictwa branżowego | [Dz.U. 2026 poz. 1427](DU/2026/DU-2026-1427.md) | 2026-10-29 | – |
 | Ministra Energii w sprawie dotacji budżetowej przeznaczonej na finansowanie likwidacji kopalń, działań wykonywanych po zakończeniu likwidacji kopalń, naprawiania szkód wywołanych ruchem zakładu górniczego oraz zabezpieczenia kopalń sąsiednich przed zagrożeniem wodnym, gazowym oraz pożarowym | [Dz.U. 2025 poz. 1331](DU/2025/DU-2025-1331.md) | 2025-10-01 | – |
 | Ministra Energii w sprawie szczegółowego zakresu i sposobu sporządzania audytu efektywności energetycznej oraz metod obliczania oszczędności energii | [Dz.U. 2026 poz. 1236](DU/2026/DU-2026-1236.md) | 2026-09-23 | – |
 | Ministra Finansów w sprawie danych zawartych w powiadomieniu o zamiarze skorzystania ze zwolnienia w państwie członkowskim innym niż Rzeczpospolita Polska oraz informacji kwartalnej | [Dz.U. 2026 poz. 1222](DU/2026/DU-2026-1222.md) | 2026-09-17 | – |
@@ -469,7 +472,9 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Finansów w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów w ramach Programu Operacyjnego Inteligentny Rozwój 2014-2020 | [Dz.U. 2025 poz. 688](DU/2025/DU-2025-688.md) | 2025-05-28 | – |
 | Ministra Finansów w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy publicznej w formie gwarancji spłaty kredytów w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 | [Dz.U. 2025 poz. 250](DU/2025/DU-2025-250.md) | 2025-02-28 | – |
 | Ministra Finansów w sprawie warunków emitowania obligacji skarbowych oferowanych w sprzedaży hurtowej | [Dz.U. 2025 poz. 441](DU/2025/DU-2025-441.md) | 2025-04-04 | – |
+| Ministra Finansów w sprawie warunków, jakie muszą spełniać alternatywny system obrotu lub zorganizowana platforma obrotu | [Dz.U. 2026 poz. 1416](DU/2026/DU-2026-1416.md) | 2026-10-28 | – |
 | Ministra Finansów w sprawie wymogów dla systemów wyliczania utrzymywanych w podmiotach objętych systemem gwarantowania | [Dz.U. 2025 poz. 1117](DU/2025/DU-2025-1117.md) | 2025-08-13 | – |
+| Ministra Finansów w sprawie wysokości opłaty za utworzenie i prowadzenie portalu PPK oraz wysokości stawki opłaty za udział w tym portalu | [Dz.U. 2026 poz. 1405](DU/2026/DU-2026-1405.md) | 2026-10-26 | – |
 | Ministra Finansów w sprawie wyznaczenia instytutu badawczego do dokonywania analizy danych gromadzonych w rejestrze zgłoszeń oraz zakresu danych podlegających tej analizie | [Dz.U. 2026 poz. 23](DU/2026/DU-2026-23.md) | 2026-01-12 | – |
 | Ministra Finansów w sprawie wyłączenia obowiązku poboru zryczałtowanego podatku dochodowego od osób fizycznych | [Dz.U. 2025 poz. 232](DU/2025/DU-2025-232.md) | 2025-02-25 | – |
 | Ministra Finansów w sprawie wyłączenia obowiązku poboru zryczałtowanego podatku dochodowego od osób prawnych | [Dz.U. 2025 poz. 659](DU/2025/DU-2025-659.md) | 2025-05-20 | – |
@@ -595,6 +600,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Obrony Narodowej w sprawie szkół podoficerskich | [Dz.U. 2025 poz. 87](DU/2025/DU-2025-87.md) | 2025-01-23 | – |
 | Ministra Obrony Narodowej w sprawie trybu postępowania i właściwości organów w sprawach zaopatrzenia emerytalnego żołnierzy zawodowych oraz uprawnionych członków ich rodzin | [Dz.U. 2025 poz. 1821](DU/2025/DU-2025-1821.md) | 2025-12-18 | – |
 | Ministra Obrony Narodowej w sprawie umundurowania funkcjonariuszy Służby Kontrwywiadu Wojskowego | [Dz.U. 2026 poz. 501](DU/2026/DU-2026-501.md) | 2026-04-10 | – |
+| Ministra Obrony Narodowej w sprawie uzbrojenia i wyposażenia funkcjonariuszy Służby Wywiadu Wojskowego | [Dz.U. 2026 poz. 1397](DU/2026/DU-2026-1397.md) | 2026-10-23 | – |
 | Ministra Obrony Narodowej w sprawie używania psów i koni w Siłach Zbrojnych Rzeczypospolitej Polskiej | [Dz.U. 2026 poz. 16](DU/2026/DU-2026-16.md) | 2026-01-08 | – |
 | Ministra Obrony Narodowej w sprawie warunków przewozu osób pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej | [Dz.U. 2025 poz. 1368](DU/2025/DU-2025-1368.md) | 2025-10-13 | – |
 | Ministra Obrony Narodowej w sprawie wypłaty odprawy mieszkaniowej | [Dz.U. 2025 poz. 336](DU/2025/DU-2025-336.md) | 2025-03-18 | – |
@@ -727,6 +733,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Sprawiedliwości w sprawie Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej – Funduszu Sprawiedliwości | [Dz.U. 2025 poz. 1298](DU/2025/DU-2025-1298.md) | 2025-09-29 | – |
 | Ministra Sprawiedliwości w sprawie funkcji oraz sposobu ustalania dodatków funkcyjnych przysługujących sędziom | [Dz.U. 2026 poz. 206](DU/2026/DU-2026-206.md) | 2026-02-24 | – |
 | Ministra Sprawiedliwości w sprawie komisji egzaminacyjnej do spraw aplikacji notarialnej oraz przeprowadzania egzaminu wstępnego i notarialnego | [Dz.U. 2025 poz. 191](DU/2025/DU-2025-191.md) | 2025-02-13 | – |
+| Ministra Sprawiedliwości w sprawie konta w systemie teleinformatycznym obsługującym postępowanie sądowe | [Dz.U. 2026 poz. 1425](DU/2026/DU-2026-1425.md) | 2026-10-29 | – |
 | Ministra Sprawiedliwości w sprawie konta w systemie teleinformatycznym obsługującym zgłoszenie na wolne stanowisko sędziowskie | [Dz.U. 2025 poz. 1878](DU/2025/DU-2025-1878.md) | 2025-12-30 | – |
 | Ministra Sprawiedliwości w sprawie nadania statutu Krajowej Szkole Sądownictwa i Prokuratury | [Dz.U. 2025 poz. 986](DU/2025/DU-2025-986.md) | 2025-07-24 | – |
 | Ministra Sprawiedliwości w sprawie należności przysługujących prokuratorom delegowanym do pełnienia obowiązków lub funkcji poza granicami państwa | [Dz.U. 2025 poz. 747](DU/2025/DU-2025-747.md) | 2025-06-06 | – |
@@ -806,6 +813,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Zdrowia w sprawie okresowych badań lekarskich pracowników zatrudnionych w zakładach, które stosowały azbest w produkcji | [Dz.U. 2025 poz. 970](DU/2025/DU-2025-970.md) | 2025-07-22 | – |
 | Ministra Zdrowia w sprawie określenia rzadkich grup krwi, rodzajów osocza i surowic diagnostycznych, których uzyskanie wymaga przed pobraniem krwi lub jej składników wykonania zabiegu uodpornienia dawcy lub innych zabiegów, oraz wysokości rekompensaty | [Dz.U. 2025 poz. 196](DU/2025/DU-2025-196.md) | 2025-02-14 | – |
 | Ministra Zdrowia w sprawie określenia wykazu świadczeń opieki zdrowotnej wymagających ustalenia odrębnego sposobu finansowania | [Dz.U. 2025 poz. 574](DU/2025/DU-2025-574.md) | 2025-04-30 | – |
+| Ministra Zdrowia w sprawie podstawowych warunków prowadzenia apteki | [Dz.U. 2026 poz. 1413](DU/2026/DU-2026-1413.md) | 2026-10-27 | – |
 | Ministra Zdrowia w sprawie programu pilotażowego "Recepta na Ruch" | [Dz.U. 2025 poz. 495](DU/2025/DU-2025-495.md) | 2025-04-16 | – |
 | Ministra Zdrowia w sprawie programu pilotażowego dotyczącego oddziaływań terapeutycznych skierowanych do osób z doświadczeniem traumy | [Dz.U. 2026 poz. 485](DU/2026/DU-2026-485.md) | 2026-04-08 | [Dz.U. 2025 poz. 617](DU/2025/DU-2025-617.md) |
 | Ministra Zdrowia w sprawie programu pilotażowego leczenia gruźlicy wielolekoopornej w warunkach ambulatoryjnych | [Dz.U. 2026 poz. 1096](DU/2026/DU-2026-1096.md) | 2026-08-17 | – |
@@ -822,6 +830,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Zdrowia w sprawie rodzaju i zakresu świadczeń zapobiegawczych, diagnostycznych, leczniczych i rehabilitacyjnych udzielanych przez pielęgniarkę albo położną samodzielnie bez zlecenia lekarskiego | [Dz.U. 2025 poz. 821](DU/2025/DU-2025-821.md) | 2025-06-24 | – |
 | Ministra Zdrowia w sprawie rodzajów dokumentacji medycznej służby medycyny pracy, sposobu jej prowadzenia i przechowywania oraz wzorów stosowanych dokumentów | [Dz.U. 2026 poz. 651](DU/2026/DU-2026-651.md) | 2026-05-15 | – |
 | Ministra Zdrowia w sprawie rodzajów elektronicznej dokumentacji medycznej | [Dz.U. 2026 poz. 1059](DU/2026/DU-2026-1059.md) | 2026-08-06 | – |
+| Ministra Zdrowia w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania | [Dz.U. 2026 poz. 1391](DU/2026/DU-2026-1391.md) | 2026-10-23 | – |
 | Ministra Zdrowia w sprawie rzeczoznawców do spraw sanitarnohigienicznych | [Dz.U. 2025 poz. 1067](DU/2025/DU-2025-1067.md) | 2025-08-05 | – |
 | Ministra Zdrowia w sprawie składu oraz oznakowania suplementów diety | [Dz.U. 2026 poz. 1364](DU/2026/DU-2026-1364.md) | 2026-10-21 | – |
 | Ministra Zdrowia w sprawie specjalizacji i uzyskiwania tytułu specjalisty przez diagnostów laboratoryjnych | [Dz.U. 2026 poz. 1027](DU/2026/DU-2026-1027.md) | 2026-07-31 | – |
@@ -849,8 +858,10 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Zdrowia w sprawie wykazu pomieszczeń wchodzących w skład powierzchni podstawowej i pomocniczej apteki | [Dz.U. 2025 poz. 319](DU/2025/DU-2025-319.md) | 2025-03-13 | – |
 | Ministra Zdrowia w sprawie wykazu substancji czynnych wchodzących w skład produktów leczniczych, które mogą być dopuszczone do obrotu w placówkach obrotu pozaaptecznego oraz punktach aptecznych, oraz kryteriów klasyfikacji tych produktów do poszczególnych wykazów | [Dz.U. 2026 poz. 669](DU/2026/DU-2026-669.md) | 2026-05-22 | – |
 | Ministra Zdrowia w sprawie wykazu substancji czynnych zawartych w lekach, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych ordynowanych przez pielęgniarki i położne oraz wykazu badań diagnostycznych, na które mają prawo wystawiać skierowania pielęgniarki i położne | [Dz.U. 2025 poz. 1054](DU/2025/DU-2025-1054.md) | 2025-08-04 | – |
+| Ministra Zdrowia w sprawie wykazu substancji psychotropowych, środków odurzających oraz nowych substancji psychoaktywnych | [Dz.U. 2026 poz. 1419](DU/2026/DU-2026-1419.md) | 2026-10-28 | – |
 | Ministra Zdrowia w sprawie wykazu wyrobów medycznych wydawanych na zlecenie | [Dz.U. 2025 poz. 1038](DU/2025/DU-2025-1038.md) | 2025-07-31 | – |
 | Ministra Zdrowia w sprawie wykazu zakładów psychiatrycznych i zakładów leczenia odwykowego przeznaczonych do wykonywania obserwacji oraz sposobu finansowania obserwacji, a także warunków zabezpieczenia zakładów dla osób pozbawionych wolności | [Dz.U. 2025 poz. 104](DU/2025/DU-2025-104.md) | 2025-01-27 | – |
+| Ministra Zdrowia w sprawie wymagań Dobrej Praktyki Wytwarzania | [Dz.U. 2026 poz. 1428](DU/2026/DU-2026-1428.md) | 2026-10-29 | – |
 | Ministra Zdrowia w sprawie wymagań zdrowotnych dla kandydata na dawcę komórek rozrodczych w celu dawstwa partnerskiego i dawstwa innego niż partnerskie oraz dla biorczyni komórek rozrodczych i zarodków oraz szczegółowych warunków pobierania komórek rozrodczych w celu zastosowania w procedurze medycznie wspomaganej prokreacji | [Dz.U. 2025 poz. 384](DU/2025/DU-2025-384.md) | 2025-03-26 | – |
 | Ministra Zdrowia w sprawie wysyłkowej sprzedaży produktów leczniczych | [Dz.U. 2026 poz. 466](DU/2026/DU-2026-466.md) | 2026-04-03 | – |
 | Ministra Zdrowia w sprawie zakresu informacji gromadzonych w Systemie Ewidencji Zasobów Ochrony Zdrowia oraz sposobu i terminów przekazywania tych informacji | [Dz.U. 2025 poz. 496](DU/2025/DU-2025-496.md) | 2025-04-16 | – |

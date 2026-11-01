@@ -1,7 +1,7 @@
 {
  "eli": "DU/2026/1182",
  "title": "Rozporządzenie Ministra Energii z dnia 3 września 2026 r. w sprawie sposobu kształtowania i kalkulacji taryf oraz sposobu rozliczeń w obrocie energią elektryczną",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.73",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1182/text.pdf",
  "body": [
   {
@@ -862,7 +862,7 @@
      "type": "ust",
      "num": "9",
      "path": "par_7/ust_9",
-     "text": "W odniesieniu do odbiorców, o których mowa w ust. 7, przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie dystrybucji energii elektrycznej w rozliczeniach za usługi dystrybucji energii elektrycznej stosuje stawki opłat obowiązujące w grupie taryfowej z rozliczeniem jednostrefowym dla danego poziomu napięcia oraz danej mocy umownej, przy czym w przypadku, gdy stopień wykorzystania mocy umownej S m jest:",
+     "text": "W odniesieniu do odbiorców, o których mowa w ust. 7, przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie dystrybucji energii elektrycznej w rozliczeniach za usługi dystrybucji energii elektrycznej stosuje stawki opłat obowiązujące w grupie taryfowej z rozliczeniem jednostrefowym dla danego poziomu napięcia oraz danej mocy umownej, przy czym w przypadku, gdy stopień wykorzystania mocy umownej Sm jest:",
      "children": [
       {
        "type": "pkt",
@@ -899,11 +899,11 @@
      "type": "ust",
      "num": "10",
      "path": "par_7/ust_10",
-     "text": "Stopień wykorzystania mocy umownej S m , o którym mowa w ust. 9, oblicza się według wzoru:",
+     "text": "Stopień wykorzystania mocy umownej Sm, o którym mowa w ust. 9, oblicza się według wzoru:",
      "children": [
       {
        "type": "text",
-       "text": "E S = o m P× l o ×24"
+       "text": "Eo Sm = P× lo ×24"
       },
       {
        "type": "text",
@@ -911,7 +911,7 @@
       },
       {
        "type": "text",
-       "text": "E o – łączną ilość energii elektrycznej pobranej w miejscu dostarczania energii elektrycznej przez odbiorcę na potrzeby, o których mowa w ust. 7, w okresie roku kończącego się z dniem ostatniego dokonanego odczytu, wyrażoną w MWh lub kWh,"
+       "text": "Eo – łączną ilość energii elektrycznej pobranej w miejscu dostarczania energii elektrycznej przez odbiorcę na potrzeby, o których mowa w ust. 7, w okresie roku kończącego się z dniem ostatniego dokonanego odczytu, wyrażoną w MWh lub kWh,"
       },
       {
        "type": "text",
@@ -919,7 +919,7 @@
       },
       {
        "type": "text",
-       "text": "l o – liczbę dni w okresie roku kończącego się z dniem ostatniego dokonanego odczytu."
+       "text": "lo – liczbę dni w okresie roku kończącego się z dniem ostatniego dokonanego odczytu."
       }
      ]
     },
@@ -1249,11 +1249,11 @@
      "type": "ust",
      "num": "3",
      "path": "par_13/ust_3",
-     "text": "Jednostkowe koszty stałe, oznaczone symbolem „k js ”, oblicza się według wzoru:",
+     "text": "Jednostkowe koszty stałe, oznaczone symbolem „kjs”, oblicza się według wzoru:",
      "children": [
       {
        "type": "text",
-       "text": "K k = sp js n n ∑ P + ∑ P i=1 dwi i=1 dri"
+       "text": "Ksp kjs = ∑ n i=1 Pdwi + ∑ n i=1 Pdri"
       },
       {
        "type": "text",
@@ -1261,19 +1261,19 @@
       },
       {
        "type": "text",
-       "text": "K sp – koszty stałe planowane na każdy rok okresu regulacji, wyrażone w zł, ustalone dla jednostki wytwórczej lub grup takich jednostek, z wyłączeniem kosztów, o których mowa w ust. 4,"
+       "text": "Ksp – koszty stałe planowane na każdy rok okresu regulacji, wyrażone w zł, ustalone dla jednostki wytwórczej lub grup takich jednostek, z wyłączeniem kosztów, o których mowa w ust. 4,"
       },
       {
        "type": "text",
-       "text": "n – liczbę godzin planowaną w odniesieniu do mocy dyspozycyjnej oznaczonej symbolem „P dwi ” albo do mocy dyspozycyjnej oznaczonej symbolem „P dri ”, w każdym roku okresu regulacji,"
+       "text": "n – liczbę godzin planowaną w odniesieniu do mocy dyspozycyjnej oznaczonej symbolem „Pdwi” albo do mocy dyspozycyjnej oznaczonej symbolem „Pdri”, w każdym roku okresu regulacji,"
       },
       {
        "type": "text",
-       "text": "P dwi – moc dyspozycyjną planowaną na każdą godzinę dla danej jednostki wytwórczej lub grup takich jednostek, wyrażoną w MW/h lub w kW/h, wykorzystaną do produkcji energii elektrycznej, planowaną do sprzedaży w każdym roku okresu regulacji,"
+       "text": "Pdwi – moc dyspozycyjną planowaną na każdą godzinę dla danej jednostki wytwórczej lub grup takich jednostek, wyrażoną w MW/h lub w kW/h, wykorzystaną do produkcji energii elektrycznej, planowaną do sprzedaży w każdym roku okresu regulacji,"
       },
       {
        "type": "text",
-       "text": "P dri – moc dyspozycyjną jednostki wytwórczej lub grup takich jednostek, wyrażoną w MW/h lub w kW/h, planowaną do sprzedaży jako rezerwa mocy w poszczególnych godzinach, w każdym roku okresu regulacji."
+       "text": "Pdri – moc dyspozycyjną jednostki wytwórczej lub grup takich jednostek, wyrażoną w MW/h lub w kW/h, planowaną do sprzedaży jako rezerwa mocy w poszczególnych godzinach, w każdym roku okresu regulacji."
       }
      ]
     },
@@ -1281,11 +1281,11 @@
      "type": "ust",
      "num": "4",
      "path": "par_13/ust_4",
-     "text": "Jednostkowe koszty zmienne, oznaczone symbolem „k jz ”, oblicza się według wzoru:",
+     "text": "Jednostkowe koszty zmienne, oznaczone symbolem „kjz”, oblicza się według wzoru:",
      "children": [
       {
        "type": "text",
-       "text": "K + K + K zp ze zw k = jz E jw"
+       "text": "Kzp + Kze + Kzw kjz = Ejw"
       },
       {
        "type": "text",
@@ -1293,19 +1293,19 @@
       },
       {
        "type": "text",
-       "text": "K zp – koszty paliwa, wyrażone w zł, łącznie z kosztami jego transportu i składowania, planowanego do zużycia w każdym roku okresu regulacji, dla jednostki wytwórczej lub grup takich jednostek,"
+       "text": "Kzp – koszty paliwa, wyrażone w zł, łącznie z kosztami jego transportu i składowania, planowanego do zużycia w każdym roku okresu regulacji, dla jednostki wytwórczej lub grup takich jednostek,"
       },
       {
        "type": "text",
-       "text": "K ze – koszty opłat za gospodarcze korzystanie ze środowiska oraz składowanie odpadów paleniskowych, wyrażone w zł, planowane dla jednostki wytwórczej lub grup takich jednostek w każdym roku okresu regulacji,"
+       "text": "Kze – koszty opłat za gospodarcze korzystanie ze środowiska oraz składowanie odpadów paleniskowych, wyrażone w zł, planowane dla jednostki wytwórczej lub grup takich jednostek w każdym roku okresu regulacji,"
       },
       {
        "type": "text",
-       "text": "K zw – pozostałe koszty zmienne, wyrażone w zł, planowane dla jednostki wytwórczej lub grup takich jednostek w każdym roku okresu regulacji,"
+       "text": "Kzw – pozostałe koszty zmienne, wyrażone w zł, planowane dla jednostki wytwórczej lub grup takich jednostek w każdym roku okresu regulacji,"
       },
       {
        "type": "text",
-       "text": "E jw – ilość energii elektrycznej planowaną do sprzedaży, wyrażoną w MWh lub w kWh, wytworzoną przez jednostkę wytwórczą lub grupę takich jednostek, w każdym roku okresu regulacji."
+       "text": "Ejw – ilość energii elektrycznej planowaną do sprzedaży, wyrażoną w MWh lub w kWh, wytworzoną przez jednostkę wytwórczą lub grupę takich jednostek, w każdym roku okresu regulacji."
       }
      ]
     }
@@ -1688,7 +1688,7 @@
      "type": "ust",
      "num": "3",
      "path": "par_18/ust_3",
-     "text": "Składnik stały stawki sieciowej, o którym mowa w § 15 ust. 4 pkt 1, oznaczony symbolem „S SVn ”, dla odbiorców:",
+     "text": "Składnik stały stawki sieciowej, o którym mowa w § 15 ust. 4 pkt 1, oznaczony symbolem „SSVn”, dla odbiorców:",
      "children": [
       {
        "type": "pkt",
@@ -1698,7 +1698,7 @@
        "children": [
         {
          "type": "text",
-         "text": "K S = SVn"
+         "text": "KSVn SSVn = PVn"
         },
         {
          "type": "text",
@@ -1706,11 +1706,11 @@
         },
         {
          "type": "text",
-         "text": "K SVn – sumę planowanych do poniesienia, w każdym roku okresu regulacji, kosztów stałych, o których mowa w ust. 1, pokrywanych przez odbiorców zaliczonych do danej grupy taryfowej,"
+         "text": "KSVn – sumę planowanych do poniesienia, w każdym roku okresu regulacji, kosztów stałych, o których mowa w ust. 1, pokrywanych przez odbiorców zaliczonych do danej grupy taryfowej,"
         },
         {
          "type": "text",
-         "text": "P Vn – wartość mocy umownej – określoną jako sumę mocy umownej planowanej do pobrania z sieci, w każdym roku okresu regulacji, przez odbiorców zaliczonych do danej grupy taryfowej, w tym operatorów systemów dystrybucyjnych elektroenergetycznych, przedsiębiorstwa energetyczne świadczące usługi przesyłania lub dystrybucji energii elektrycznej niebędące operatorami oraz przedsiębiorstwa energetyczne świadczące usługi kompleksowe, z zastrzeżeniem ust. 7–10;"
+         "text": "PVn – wartość mocy umownej – określoną jako sumę mocy umownej planowanej do pobrania z sieci, w każdym roku okresu regulacji, przez odbiorców zaliczonych do danej grupy taryfowej, w tym operatorów systemów dystrybucyjnych elektroenergetycznych, przedsiębiorstwa energetyczne świadczące usługi przesyłania lub dystrybucji energii elektrycznej niebędące operatorami oraz przedsiębiorstwa energetyczne świadczące usługi kompleksowe, z zastrzeżeniem ust. 7–10;"
         }
        ]
       },
@@ -1722,15 +1722,19 @@
        "children": [
         {
          "type": "text",
-         "text": "K S = SVn SVn n G gdzie poszczególne symbole oznaczają:"
+         "text": "KSVn SSVn = nG"
         },
         {
          "type": "text",
-         "text": "K SVn – sumę planowanych do poniesienia, w każdym roku okresu regulacji, kosztów stałych, o których mowa w ust. 1, pokrywanych przez odbiorców zaliczonych do danej grupy taryfowej,"
+         "text": "gdzie poszczególne symbole oznaczają:"
         },
         {
          "type": "text",
-         "text": "n G – liczbę układów pomiarowo-rozliczeniowych w gospodarstwach domowych."
+         "text": "KSVn – sumę planowanych do poniesienia, w każdym roku okresu regulacji, kosztów stałych, o których mowa w ust. 1, pokrywanych przez odbiorców zaliczonych do danej grupy taryfowej,"
+        },
+        {
+         "type": "text",
+         "text": "nG – liczbę układów pomiarowo-rozliczeniowych w gospodarstwach domowych."
         }
        ]
       }
@@ -1740,19 +1744,23 @@
      "type": "ust",
      "num": "4",
      "path": "par_18/ust_4",
-     "text": "Składnik zmienny stawki sieciowej, o którym mowa w § 15 ust. 4 pkt 2, dla odbiorców przyłączonych do sieci danego poziomu napięć znamionowych, zaliczonych do danej grupy taryfowej, oznaczony symbolem „S ZVn ”, wyrażony w zł/MWh lub w zł/kWh, kalkuluje się według wzoru:",
+     "text": "Składnik zmienny stawki sieciowej, o którym mowa w § 15 ust. 4 pkt 2, dla odbiorców przyłączonych do sieci danego poziomu napięć znamionowych, zaliczonych do danej grupy taryfowej, oznaczony symbolem „SZVn”, wyrażony w zł/MWh lub w zł/kWh, kalkuluje się według wzoru:",
      "children": [
       {
        "type": "text",
-       "text": "K S = ZVn ZVn E Vn gdzie poszczególne symbole oznaczają:"
+       "text": "KZVn SZVn = EVn"
       },
       {
        "type": "text",
-       "text": "K ZVn – sumę planowanych do poniesienia, w każdym roku okresu regulacji, kosztów zmiennych, o których mowa w ust. 2, przenoszonych na odbiorców zaliczonych do danej grupy taryfowej,"
+       "text": "gdzie poszczególne symbole oznaczają:"
       },
       {
        "type": "text",
-       "text": "E Vn – sumę energii elektrycznej planowanej do pobrania, w każdym roku okresu regulacji, przez odbiorców przyłączonych do sieci danego poziomu napięć znamionowych Vn , zaliczonych do danej grupy taryfowej, wyrażoną w MWh lub w kWh; ilość energii elektrycznej planowanej do pobrania z sieci przesyłowej przez operatora systemu dystrybucyjnego elektroenergetycznego, który ma co najmniej dwa sieciowe miejsca dostarczania energii elektrycznej połączone siecią tego operatora, wyznacza się w tych miejscach dostarczania w sposób, o którym mowa w § 15 ust. 5."
+       "text": "KZVn – sumę planowanych do poniesienia, w każdym roku okresu regulacji, kosztów zmiennych, o których mowa w ust. 2, przenoszonych na odbiorców zaliczonych do danej grupy taryfowej,"
+      },
+      {
+       "type": "text",
+       "text": "EVn – sumę energii elektrycznej planowanej do pobrania, w każdym roku okresu regulacji, przez odbiorców przyłączonych do sieci danego poziomu napięć znamionowych Vn , zaliczonych do danej grupy taryfowej, wyrażoną w MWh lub w kWh; ilość energii elektrycznej planowanej do pobrania z sieci przesyłowej przez operatora systemu dystrybucyjnego elektroenergetycznego, który ma co najmniej dwa sieciowe miejsca dostarczania energii elektrycznej połączone siecią tego operatora, wyznacza się w tych miejscach dostarczania w sposób, o którym mowa w § 15 ust. 5."
       }
      ]
     },
@@ -1817,7 +1825,7 @@
      "type": "ust",
      "num": "1",
      "path": "par_19/ust_1",
-     "text": "Stawki jakościowe, oznaczone symbolem „S oSJ ”, wyrażone w zł/MWh lub w zł/kWh, kalkuluje się według wzoru:",
+     "text": "Stawki jakościowe, oznaczone symbolem „SoSJ”, wyrażone w zł/MWh lub w zł/kWh, kalkuluje się według wzoru:",
      "children": [
       {
        "type": "text",
@@ -1825,15 +1833,15 @@
       },
       {
        "type": "text",
-       "text": "K SJ – koszty utrzymywania systemowych standardów jakości i niezawodności bieżących dostaw energii elektrycznej dla danego roku okresu regulacji,"
+       "text": "KSJ – koszty utrzymywania systemowych standardów jakości i niezawodności bieżących dostaw energii elektrycznej dla danego roku okresu regulacji,"
       },
       {
        "type": "text",
-       "text": "S KRSJ – saldo konta regulacyjnego dla kosztów utrzymywania systemowych standardów jakości i niezawodności bieżących dostaw energii elektrycznej uwzględniane w kalkulacji stawki jakościowej dla danego roku okresu regulacji, wyznaczane w sposób określony w § 27,"
+       "text": "SKRSJ – saldo konta regulacyjnego dla kosztów utrzymywania systemowych standardów jakości i niezawodności bieżących dostaw energii elektrycznej uwzględniane w kalkulacji stawki jakościowej dla danego roku okresu regulacji, wyznaczane w sposób określony w § 27,"
       },
       {
        "type": "text",
-       "text": "E SJ – ilość energii elektrycznej planowaną do pobrania z sieci lub dostarczenia linią bezpośrednią i zużycia przez odbiorców końcowych korzystających z krajowego systemu elektroenergetycznego, wyrażoną w MWh lub w kWh."
+       "text": "ESJ – ilość energii elektrycznej planowaną do pobrania z sieci lub dostarczenia linią bezpośrednią i zużycia przez odbiorców końcowych korzystających z krajowego systemu elektroenergetycznego, wyrażoną w MWh lub w kWh."
       }
      ]
     },
@@ -1987,11 +1995,11 @@
      "type": "ust",
      "num": "2",
      "path": "par_21/ust_2",
-     "text": "Stawkę rynkową, oznaczoną symbolem „S r ”, wyrażoną w zł/MWh lub w zł/kWh, kalkuluje się według wzoru:",
+     "text": "Stawkę rynkową, oznaczoną symbolem „Sr”, wyrażoną w zł/MWh lub w zł/kWh, kalkuluje się według wzoru:",
      "children": [
       {
        "type": "text",
-       "text": "K S = r r E zk"
+       "text": "Kr Sr = Ezk"
       },
       {
        "type": "text",
@@ -1999,11 +2007,11 @@
       },
       {
        "type": "text",
-       "text": "K r – koszty uzasadnione, o których mowa w ust. 1,"
+       "text": "Kr – koszty uzasadnione, o których mowa w ust. 1,"
       },
       {
        "type": "text",
-       "text": "E zk – ilość energii elektrycznej planowanej do wymiany między krajowym systemem elektroenergetycznym a systemami elektroenergetycznymi państw, których operatorzy systemów przesyłowych elektroenergetycznych nie są objęci rekompensatami, o których mowa w art. 49 rozporządzenia 2019/943."
+       "text": "Ezk – ilość energii elektrycznej planowanej do wymiany między krajowym systemem elektroenergetycznym a systemami elektroenergetycznymi państw, których operatorzy systemów przesyłowych elektroenergetycznych nie są objęci rekompensatami, o których mowa w art. 49 rozporządzenia 2019/943."
       }
      ]
     }
@@ -2226,7 +2234,7 @@
      "children": [
       {
        "type": "text",
-       "text": "K ≤ K × [1+(RPI− X )/100] Wn Wn−1 n"
+       "text": "KWn ≤ KWn−1 × [1+(RPI− Xn)/100]"
       },
       {
        "type": "text",
@@ -2234,7 +2242,7 @@
       },
       {
        "type": "text",
-       "text": "K Wn , K Wn–1 – uzasadnione koszty własne przedsiębiorstwa energetycznego związane z wykonywaną przez to przedsiębiorstwo działalnością gospodarczą, uwzględniające zależne od tego przedsiębiorstwa warunki wykonywania działalności gospodarczej, które na poszczególne lata okresu regulacji wyznacza się w szczególności przy zastosowaniu metod porównawczych, o których mowa w art. 47 ust. 2e ustawy; w pierwszym roku okresu regulacji koszty oznaczone symbolem „K Wn–1 ” są równe kosztom z roku poprzedzającego rok, w którym taryfa jest przedkładana do zatwierdzenia,"
+       "text": "KWn, KWn–1 – uzasadnione koszty własne przedsiębiorstwa energetycznego związane z wykonywaną przez to przedsiębiorstwo działalnością gospodarczą, uwzględniające zależne od tego przedsiębiorstwa warunki wykonywania działalności gospodarczej, które na poszczególne lata okresu regulacji wyznacza się w szczególności przy zastosowaniu metod porównawczych, o których mowa w art. 47 ust. 2e ustawy; w pierwszym roku okresu regulacji koszty oznaczone symbolem „KWn–1” są równe kosztom z roku poprzedzającego rok, w którym taryfa jest przedkładana do zatwierdzenia,"
       },
       {
        "type": "text",
@@ -2242,7 +2250,7 @@
       },
       {
        "type": "text",
-       "text": "X n – współczynniki korekcyjne, wyrażone w %, określające projektowaną poprawę efektywności funkcjonowania przedsiębiorstwa energetycznego, które są ustalane jednorazowo na poszczególne lata w roku przedłożenia taryfy do zatwierdzenia albo na początku okresu regulacji; współczynnik korekcyjny na pierwszy rok okresu regulacji uwzględnia się w zależności od działalności gospodarczej wykonywanej przez przedsiębiorstwo energetyczne odpowiednio w cenie energii elektrycznej albo w stawkach opłat przesyłowych lub dystrybucyjnych zawartych w taryfach."
+       "text": "Xn – współczynniki korekcyjne, wyrażone w %, określające projektowaną poprawę efektywności funkcjonowania przedsiębiorstwa energetycznego, które są ustalane jednorazowo na poszczególne lata w roku przedłożenia taryfy do zatwierdzenia albo na początku okresu regulacji; współczynnik korekcyjny na pierwszy rok okresu regulacji uwzględnia się w zależności od działalności gospodarczej wykonywanej przez przedsiębiorstwo energetyczne odpowiednio w cenie energii elektrycznej albo w stawkach opłat przesyłowych lub dystrybucyjnych zawartych w taryfach."
       }
      ]
     },
@@ -2254,7 +2262,7 @@
      "children": [
       {
        "type": "text",
-       "text": "C ≤ C × [1+ Y /100]"
+       "text": "CWn ≤ CWn−1 × [1+ Yn /100]"
       },
       {
        "type": "text",
@@ -2262,11 +2270,11 @@
       },
       {
        "type": "text",
-       "text": "C Wn , C Wn–1 – ceny wskaźnikowe dla danego rodzaju wykonywanej działalności gospodarczej, które ustala się w sposób określony w ust. 3,"
+       "text": "CWn, CWn–1 – ceny wskaźnikowe dla danego rodzaju wykonywanej działalności gospodarczej, które ustala się w sposób określony w ust. 3,"
       },
       {
        "type": "text",
-       "text": "Y n – współczynnik korekcyjny, który jest ustalany corocznie i uwzględniany w cenie energii elektrycznej albo w stawkach opłat przesyłowych lub dystrybucyjnych zawartych w taryfach, określający zmianę niezależnych od przedsiębiorstwa energetycznego warunków danego rodzaju wykonywanej działalności gospodarczej, w szczególności zmianę kosztu zakupu usług przesyłowych i dystrybucyjnych, wielkości i struktury sprzedaży energii elektrycznej oraz obciążeń podatkowych, lub projektowaną poprawę efektywności funkcjonowania tego przedsiębiorstwa."
+       "text": "Yn – współczynnik korekcyjny, który jest ustalany corocznie i uwzględniany w cenie energii elektrycznej albo w stawkach opłat przesyłowych lub dystrybucyjnych zawartych w taryfach, określający zmianę niezależnych od przedsiębiorstwa energetycznego warunków danego rodzaju wykonywanej działalności gospodarczej, w szczególności zmianę kosztu zakupu usług przesyłowych i dystrybucyjnych, wielkości i struktury sprzedaży energii elektrycznej oraz obciążeń podatkowych, lub projektowaną poprawę efektywności funkcjonowania tego przedsiębiorstwa."
       }
      ]
     },
@@ -2280,21 +2288,21 @@
        "type": "pkt",
        "num": "1",
        "path": "par_24/ust_3/pkt_1",
-       "text": "wytwarzania energii elektrycznej jako średnią cenę sprzedanej energii elektrycznej stanowiącą iloraz kalkulacyjnych przychodów ze sprzedaży tej energii, wyliczonych odpowiednio według cen energii elektrycznej planowanych na dany rok okresu regulacji (C Wn ) lub cen energii elektrycznej z roku poprzedzającego dany rok okresu regulacji (C Wn–1 ) oraz wielkości i struktury sprzedaży planowanych w taryfie na dany rok okresu regulacji, do ilości sprzedaży energii elektrycznej planowanej na dany rok okresu regulacji;",
+       "text": "wytwarzania energii elektrycznej jako średnią cenę sprzedanej energii elektrycznej stanowiącą iloraz kalkulacyjnych przychodów ze sprzedaży tej energii, wyliczonych odpowiednio według cen energii elektrycznej planowanych na dany rok okresu regulacji (CWn) lub cen energii elektrycznej z roku poprzedzającego dany rok okresu regulacji (CWn–1) oraz wielkości i struktury sprzedaży planowanych w taryfie na dany rok okresu regulacji, do ilości sprzedaży energii elektrycznej planowanej na dany rok okresu regulacji;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "2",
        "path": "par_24/ust_3/pkt_2",
-       "text": "obrotu energią elektryczną jako średnią cenę sprzedanej energii elektrycznej stanowiącą iloraz kalkulacyjnych przychodów ze sprzedaży tej energii oraz przychodów z opłat abonamentowych, wyliczonych odpowiednio według cen energii elektrycznej oraz stawek opłat abonamentowych planowanych na dany rok okresu regulacji (C Wn ) lub cen energii elektrycznej z roku poprzedzającego dany rok okresu regulacji (C Wn–1 ) oraz stawek opłat abonamentowych oraz wielkości i struktury sprzedaży planowanych w taryfie na dany rok okresu regulacji, do ilości sprzedaży, a także liczby odbiorców energii elektrycznej planowanej na dany rok okresu regulacji;",
+       "text": "obrotu energią elektryczną jako średnią cenę sprzedanej energii elektrycznej stanowiącą iloraz kalkulacyjnych przychodów ze sprzedaży tej energii oraz przychodów z opłat abonamentowych, wyliczonych odpowiednio według cen energii elektrycznej oraz stawek opłat abonamentowych planowanych na dany rok okresu regulacji (CWn) lub cen energii elektrycznej z roku poprzedzającego dany rok okresu regulacji (CWn–1) oraz stawek opłat abonamentowych oraz wielkości i struktury sprzedaży planowanych w taryfie na dany rok okresu regulacji, do ilości sprzedaży, a także liczby odbiorców energii elektrycznej planowanej na dany rok okresu regulacji;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "3",
        "path": "par_24/ust_3/pkt_3",
-       "text": "przesyłania lub dystrybucji energii elektrycznej jako średnią cenę dostarczania energii elektrycznej stanowiącą iloraz kalkulacyjnych przychodów ze sprzedaży usług przesyłania lub dystrybucji energii elektrycznej, wyliczonych odpowiednio na podstawie stawek opłat planowanych na dany rok okresu regulacji (C Wn ) lub stawek opłat z roku poprzedzającego dany rok okresu regulacji (C Wn–1 ) oraz wielkości i struktury sprzedaży tych usług planowanych w taryfie na dany rok okresu regulacji, do ilości dostarczonej energii elektrycznej planowanej na dany rok okresu regulacji;",
+       "text": "przesyłania lub dystrybucji energii elektrycznej jako średnią cenę dostarczania energii elektrycznej stanowiącą iloraz kalkulacyjnych przychodów ze sprzedaży usług przesyłania lub dystrybucji energii elektrycznej, wyliczonych odpowiednio na podstawie stawek opłat planowanych na dany rok okresu regulacji (CWn) lub stawek opłat z roku poprzedzającego dany rok okresu regulacji (CWn–1) oraz wielkości i struktury sprzedaży tych usług planowanych w taryfie na dany rok okresu regulacji, do ilości dostarczonej energii elektrycznej planowanej na dany rok okresu regulacji;",
        "children": []
       },
       {
@@ -2423,7 +2431,7 @@
      "children": [
       {
        "type": "text",
-       "text": "KR =(O − O )"
+       "text": "KRn =(Odp n−2 − Odr n−2)"
       },
       {
        "type": "text",
@@ -2431,11 +2439,11 @@
       },
       {
        "type": "text",
-       "text": "KR n – saldo konta regulacyjnego dla taryfy na rok okresu regulacji „n”, wyrażone w zł, O dp n–2 – sumę przyjętego w taryfie na rok okresu regulacji „n–2” planowanego przychodu, wyrażonego w zł, będącego podstawą kalkulacji na 12 kolejnych miesięcy stawek opłat z tytułu poboru składnika zmiennego stawki sieciowej, składnika stałego stawki sieciowej oraz planowanych na ten okres przychodów, o których mowa w § 25 ust. 1 pkt 2–5, a dla operatora systemu przesyłowego elektroenergetycznego – także przychodu z tytułu opłaty jakościowej,"
+       "text": "KRn – saldo konta regulacyjnego dla taryfy na rok okresu regulacji „n”, wyrażone w zł, Odp n–2 – sumę przyjętego w taryfie na rok okresu regulacji „n–2” planowanego przychodu, wyrażonego w zł, będącego podstawą kalkulacji na 12 kolejnych miesięcy stawek opłat z tytułu poboru składnika zmiennego stawki sieciowej, składnika stałego stawki sieciowej oraz planowanych na ten okres przychodów, o których mowa w § 25 ust. 1 pkt 2–5, a dla operatora systemu przesyłowego elektroenergetycznego – także przychodu z tytułu opłaty jakościowej,"
       },
       {
        "type": "text",
-       "text": "O dr n–2 – sumę rzeczywiście uzyskanego w roku okresu regulacji „n–2” przychodu, wyrażonego w zł, w okresie 12 kolejnych miesięcy, z tytułu poboru składnika zmiennego stawki sieciowej, składnika stałego stawki sieciowej oraz przychodów, o których mowa w § 25 ust. 1 pkt 2–5, a dla operatora systemu przesyłowego elektroenergetycznego – także przychodu z tytułu opłaty jakościowej."
+       "text": "Odr n–2 – sumę rzeczywiście uzyskanego w roku okresu regulacji „n–2” przychodu, wyrażonego w zł, w okresie 12 kolejnych miesięcy, z tytułu poboru składnika zmiennego stawki sieciowej, składnika stałego stawki sieciowej oraz przychodów, o których mowa w § 25 ust. 1 pkt 2–5, a dla operatora systemu przesyłowego elektroenergetycznego – także przychodu z tytułu opłaty jakościowej."
       }
      ]
     },
@@ -2533,11 +2541,11 @@
      "children": [
       {
        "type": "text",
-       "text": "O poi =S SVn ×P i + ∑S Q ZVnm ×E oim + ∑S R oSJm ×E okm +S r ×E wp gdzie poszczególne symbole oznaczają:"
+       "text": "Opoi =SSVn ×Pi + ∑S QZVnm ×Eoim + ∑S RoSJm ×Eokm +Sr ×Ewp gdzie poszczególne symbole oznaczają:"
       },
       {
        "type": "text",
-       "text": "O poi – opłatę, wyrażoną w zł, za świadczenie usług przesyłania lub dystrybucji energii elektrycznej obliczoną dla danego odbiorcy, w tym:"
+       "text": "Opoi – opłatę, wyrażoną w zł, za świadczenie usług przesyłania lub dystrybucji energii elektrycznej obliczoną dla danego odbiorcy, w tym:"
       },
       {
        "type": "tir",
@@ -2568,11 +2576,11 @@
        "children": [
         {
          "type": "text",
-         "text": "S SVn – składnik stały stawki sieciowej za okres rozliczeniowy, wyrażony w zł/MW lub w zł/kW mocy umownej lub w zł/miesiąc, w odniesieniu do odbiorców energii elektrycznej w gospodarstwie domowym,"
+         "text": "SSVn – składnik stały stawki sieciowej za okres rozliczeniowy, wyrażony w zł/MW lub w zł/kW mocy umownej lub w zł/miesiąc, w odniesieniu do odbiorców energii elektrycznej w gospodarstwie domowym,"
         },
         {
          "type": "text",
-         "text": "P i – moc umowną określoną dla danego odbiorcy, w tym dla operatora systemu dystrybucyjnego elektroenergetycznego, przedsiębiorstwa energetycznego świadczącego usługi przesyłania lub dystrybucji energii elektrycznej niebędącego operatorem oraz przedsiębiorstwa energetycznego świadczącego usługi kompleksowe, wyrażoną w MW lub w kW lub w miesiącach dla odbiorców energii elektrycznej w gospodarstwie domowym,"
+         "text": "Pi – moc umowną określoną dla danego odbiorcy, w tym dla operatora systemu dystrybucyjnego elektroenergetycznego, przedsiębiorstwa energetycznego świadczącego usługi przesyłania lub dystrybucji energii elektrycznej niebędącego operatorem oraz przedsiębiorstwa energetycznego świadczącego usługi kompleksowe, wyrażoną w MW lub w kW lub w miesiącach dla odbiorców energii elektrycznej w gospodarstwie domowym,"
         },
         {
          "type": "text",
@@ -2580,11 +2588,11 @@
         },
         {
          "type": "text",
-         "text": "S ZVnm – składnik zmienny stawki sieciowej dla danej rozliczeniowej strefy czasowej (strefa czasowa m), wyrażony w zł/MWh lub w zł/kWh,"
+         "text": "SZVnm – składnik zmienny stawki sieciowej dla danej rozliczeniowej strefy czasowej (strefa czasowa m), wyrażony w zł/MWh lub w zł/kWh,"
         },
         {
          "type": "text",
-         "text": "E oim – ilość energii elektrycznej pobranej z sieci przez danego odbiorcę w rozliczeniowej strefie czasowej m, w tym przez operatora systemu dystrybucyjnego elektroenergetycznego, przedsiębiorstwo energetyczne świadczące usługi przesyłania lub dystrybucji energii elektrycznej niebędące operatorem oraz przedsiębiorstwo energetyczne świadczące usługi kompleksowe, wyrażoną w MWh lub w kWh, w okresie rozliczeniowym ustalonym w taryfie,"
+         "text": "Eoim – ilość energii elektrycznej pobranej z sieci przez danego odbiorcę w rozliczeniowej strefie czasowej m, w tym przez operatora systemu dystrybucyjnego elektroenergetycznego, przedsiębiorstwo energetyczne świadczące usługi przesyłania lub dystrybucji energii elektrycznej niebędące operatorem oraz przedsiębiorstwo energetyczne świadczące usługi kompleksowe, wyrażoną w MWh lub w kWh, w okresie rozliczeniowym ustalonym w taryfie,"
         },
         {
          "type": "text",
@@ -2592,19 +2600,19 @@
         },
         {
          "type": "text",
-         "text": "S oSJm – stawkę jakościową dla danej rozliczeniowej strefy czasowej (strefa czasowa m), wyrażoną w zł/MWh lub w zł/kWh,"
+         "text": "SoSJm – stawkę jakościową dla danej rozliczeniowej strefy czasowej (strefa czasowa m), wyrażoną w zł/MWh lub w zł/kWh,"
         },
         {
          "type": "text",
-         "text": "E okm – ilość energii elektrycznej pobranej z sieci i zużytej przez odbiorców końcowych korzystających z krajowego systemu elektroenergetycznego w danej strefie rozliczeniowej, wyrażoną w MWh lub w kWh, w okresie rozliczeniowym ustalonym w taryfie,"
+         "text": "Eokm – ilość energii elektrycznej pobranej z sieci i zużytej przez odbiorców końcowych korzystających z krajowego systemu elektroenergetycznego w danej strefie rozliczeniowej, wyrażoną w MWh lub w kWh, w okresie rozliczeniowym ustalonym w taryfie,"
         },
         {
          "type": "text",
-         "text": "S r – stawkę rynkową wyrażoną w zł/MWh lub w zł/kWh,"
+         "text": "Sr – stawkę rynkową wyrażoną w zł/MWh lub w zł/kWh,"
         },
         {
          "type": "text",
-         "text": "E wp – ilość energii elektrycznej, wyrażoną w MWh lub w kWh za okres rozliczeniowy, przeznaczonej do wymiany między krajowym systemem elektroenergetycznym a systemami elektroenergetycznymi państw, o których mowa w § 21 ust. 1, określoną w umowach sprzedaży energii elektrycznej przedkładanych właściwemu operatorowi."
+         "text": "Ewp – ilość energii elektrycznej, wyrażoną w MWh lub w kWh za okres rozliczeniowy, przeznaczonej do wymiany między krajowym systemem elektroenergetycznym a systemami elektroenergetycznymi państw, o których mowa w § 21 ust. 1, określoną w umowach sprzedaży energii elektrycznej przedkładanych właściwemu operatorowi."
         }
        ]
       }
@@ -2614,7 +2622,7 @@
      "type": "ust",
      "num": "2",
      "path": "par_29/ust_2",
-     "text": "Jako ilość energii elektrycznej, oznaczoną symbolem „E oim ”, pobraną z sieci przesyłowej przez operatora systemu dystrybucyjnego elektroenergetycznego posiadającego co najmniej dwa sieciowe miejsca dostarczania energii elektrycznej połączone siecią tego operatora, w tych miejscach dostarczania przyjmuje się ilość energii elektrycznej ustaloną w sposób określony w § 15 ust. 5.",
+     "text": "Jako ilość energii elektrycznej, oznaczoną symbolem „Eoim”, pobraną z sieci przesyłowej przez operatora systemu dystrybucyjnego elektroenergetycznego posiadającego co najmniej dwa sieciowe miejsca dostarczania energii elektrycznej połączone siecią tego operatora, w tych miejscach dostarczania przyjmuje się ilość energii elektrycznej ustaloną w sposób określony w § 15 ust. 5.",
      "children": []
     }
    ]
@@ -2629,7 +2637,7 @@
      "type": "ust",
      "num": "1",
      "path": "par_30/ust_1",
-     "text": "Przez energię elektryczną pobraną z sieci i zużytą przez odbiorców końcowych, oznaczoną symbolem „E okm ”, o której mowa w § 29 ust. 1, rozumie się energię elektryczną pobraną z urządzeń, instalacji i sieci i zużytą przez odbiorców końcowych przyłączonych do:",
+     "text": "Przez energię elektryczną pobraną z sieci i zużytą przez odbiorców końcowych, oznaczoną symbolem „Eokm”, o której mowa w § 29 ust. 1, rozumie się energię elektryczną pobraną z urządzeń, instalacji i sieci i zużytą przez odbiorców końcowych przyłączonych do:",
      "children": [
       {
        "type": "pkt",
@@ -2773,11 +2781,15 @@
      "type": "ust",
      "num": "4",
      "path": "par_30/ust_4",
-     "text": "Wytwórca energii elektrycznej przyłączony do sieci operatora systemu elektroenergetycznego lub do sieci przedsiębiorstwa energetycznego świadczącego usługi przesyłania lub dystrybucji energii elektrycznej niebędącego operatorem, sprzedający energię elektryczną przynajmniej jednemu odbiorcy końcowemu lub przedsiębiorstwu energetycznemu świadczącemu usługi przesyłania lub dystrybucji energii elektrycznej niebędącemu operatorem przyłączonym do urządzeń, instalacji lub sieci tego wytwórcy, lub przedsiębiorstwu energetycznemu wykonującemu działalność gospodarczą w zakresie magazynowania energii elektrycznej przyłączonemu do urządzeń, instalacji lub sieci tego wytwórcy, pobiera od odbiorcy lub przedsiębiorstwa energetycznego opłatę wynikającą ze stawki jakościowej, oznaczoną symbolem „O os ”, obliczoną według wzoru:",
+     "text": "Wytwórca energii elektrycznej przyłączony do sieci operatora systemu elektroenergetycznego lub do sieci przedsiębiorstwa energetycznego świadczącego usługi przesyłania lub dystrybucji energii elektrycznej niebędącego operatorem, sprzedający energię elektryczną przynajmniej jednemu odbiorcy końcowemu lub przedsiębiorstwu energetycznemu świadczącemu usługi przesyłania lub dystrybucji energii elektrycznej niebędącemu operatorem przyłączonym do urządzeń, instalacji lub sieci tego wytwórcy, lub przedsiębiorstwu energetycznemu wykonującemu działalność gospodarczą w zakresie magazynowania energii elektrycznej przyłączonemu do urządzeń, instalacji lub sieci tego wytwórcy, pobiera od odbiorcy lub przedsiębiorstwa energetycznego opłatę wynikającą ze stawki jakościowej, oznaczoną symbolem „Oos”, obliczoną według wzoru:",
      "children": [
       {
        "type": "text",
-       "text": "O os = ∑S R oSJm ×E okmw gdzie poszczególne symbole oznaczają: m=1"
+       "text": "Oos = ∑S RoSJm ×Eokmw"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają: m=1"
       },
       {
        "type": "text",
@@ -2785,11 +2797,11 @@
       },
       {
        "type": "text",
-       "text": "S oSJm – stawkę jakościową dla danej rozliczeniowej strefy czasowej (strefa czasowa m), wyrażoną w zł/MWh lub w zł/kWh,"
+       "text": "SoSJm – stawkę jakościową dla danej rozliczeniowej strefy czasowej (strefa czasowa m), wyrażoną w zł/MWh lub w zł/kWh,"
       },
       {
        "type": "text",
-       "text": "E okmw – ilość energii elektrycznej, wyrażoną w MWh lub w kWh, pobraną z sieci i zużytą w danej strefie rozliczeniowej przez odbiorców końcowych przyłączonych do urządzeń, instalacji lub sieci wytwórcy energii elektrycznej przyłączonego do sieci operatora systemu elektroenergetycznego, do sieci przedsiębiorstwa energetycznego świadczącego usługi przesyłania lub dystrybucji energii elektrycznej niebędącego operatorem oraz do urządzeń, instalacji lub sieci przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie magazynowania energii elektrycznej."
+       "text": "Eokmw – ilość energii elektrycznej, wyrażoną w MWh lub w kWh, pobraną z sieci i zużytą w danej strefie rozliczeniowej przez odbiorców końcowych przyłączonych do urządzeń, instalacji lub sieci wytwórcy energii elektrycznej przyłączonego do sieci operatora systemu elektroenergetycznego, do sieci przedsiębiorstwa energetycznego świadczącego usługi przesyłania lub dystrybucji energii elektrycznej niebędącego operatorem oraz do urządzeń, instalacji lub sieci przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie magazynowania energii elektrycznej."
       }
      ]
     },
@@ -2854,11 +2866,11 @@
      "type": "ust",
      "num": "1",
      "path": "par_31/ust_1",
-     "text": "Opłatę za usługi przesyłania lub dystrybucji energii elektrycznej, wyrażoną w zł za okres rozliczeniowy, oznaczoną symbolem „O pw ”, w odniesieniu do przedsiębiorstwa energetycznego zajmującego się wytwarzaniem energii elektrycznej oblicza się według wzoru:",
+     "text": "Opłatę za usługi przesyłania lub dystrybucji energii elektrycznej, wyrażoną w zł za okres rozliczeniowy, oznaczoną symbolem „Opw”, w odniesieniu do przedsiębiorstwa energetycznego zajmującego się wytwarzaniem energii elektrycznej oblicza się według wzoru:",
      "children": [
       {
        "type": "text",
-       "text": "O pw = ∑S R oSJm ×E okmw gdzie poszczególne symbole oznaczają:"
+       "text": "Opw = ∑S RoSJm ×Eokmw gdzie poszczególne symbole oznaczają:"
       },
       {
        "type": "text",
@@ -2866,11 +2878,11 @@
       },
       {
        "type": "text",
-       "text": "S oSJm – stawkę jakościową dla danej rozliczeniowej strefy czasowej (strefa czasowa m), wyrażoną w zł/MWh lub w zł/kWh,"
+       "text": "SoSJm – stawkę jakościową dla danej rozliczeniowej strefy czasowej (strefa czasowa m), wyrażoną w zł/MWh lub w zł/kWh,"
       },
       {
        "type": "text",
-       "text": "E okmw – ilość energii elektrycznej, wyrażoną w MWh lub w kWh, pobraną z sieci i zużytą w danej strefie rozliczeniowej przez odbiorców końcowych przyłączonych do urządzeń, instalacji lub sieci wytwórcy energii elektrycznej przyłączonego do sieci operatora systemu elektroenergetycznego oraz do sieci przedsiębiorstwa energetycznego świadczącego usługi przesyłania lub dystrybucji energii elektrycznej niebędącego operatorem."
+       "text": "Eokmw – ilość energii elektrycznej, wyrażoną w MWh lub w kWh, pobraną z sieci i zużytą w danej strefie rozliczeniowej przez odbiorców końcowych przyłączonych do urządzeń, instalacji lub sieci wytwórcy energii elektrycznej przyłączonego do sieci operatora systemu elektroenergetycznego oraz do sieci przedsiębiorstwa energetycznego świadczącego usługi przesyłania lub dystrybucji energii elektrycznej niebędącego operatorem."
       }
      ]
     },
@@ -2878,11 +2890,11 @@
      "type": "ust",
      "num": "2",
      "path": "par_31/ust_2",
-     "text": "Opłatę za usługi przesyłania energii elektrycznej, wyrażoną w zł za okres rozliczeniowy, oznaczoną symbolem „O pn ”, w odniesieniu do przedsiębiorstwa energetycznego zajmującego się sprzedażą energii elektrycznej lub obrotem tą energią oblicza się według wzoru:",
+     "text": "Opłatę za usługi przesyłania energii elektrycznej, wyrażoną w zł za okres rozliczeniowy, oznaczoną symbolem „Opn”, w odniesieniu do przedsiębiorstwa energetycznego zajmującego się sprzedażą energii elektrycznej lub obrotem tą energią oblicza się według wzoru:",
      "children": [
       {
        "type": "text",
-       "text": "O = S × E pn r wp"
+       "text": "Opn = Sr × Ewp"
       },
       {
        "type": "text",
@@ -2890,11 +2902,11 @@
       },
       {
        "type": "text",
-       "text": "S r – stawkę rynkową wyrażoną w zł/MWh lub w zł/kWh,"
+       "text": "Sr – stawkę rynkową wyrażoną w zł/MWh lub w zł/kWh,"
       },
       {
        "type": "text",
-       "text": "E wp – ilość energii elektrycznej, wyrażoną w MWh lub w kWh za okres rozliczeniowy, przeznaczoną do wymiany między krajowym systemem elektroenergetycznym a systemami elektroenergetycznymi państw niebędących członkami Unii Europejskiej, określoną w umowach sprzedaży energii elektrycznej przedkładanych do właściwego operatora."
+       "text": "Ewp – ilość energii elektrycznej, wyrażoną w MWh lub w kWh za okres rozliczeniowy, przeznaczoną do wymiany między krajowym systemem elektroenergetycznym a systemami elektroenergetycznymi państw niebędących członkami Unii Europejskiej, określoną w umowach sprzedaży energii elektrycznej przedkładanych do właściwego operatora."
       }
      ]
     }
@@ -2910,7 +2922,7 @@
      "type": "ust",
      "num": "1",
      "path": "par_32/ust_1",
-     "text": "Opłatę za świadczenie usług przesyłania lub dystrybucji energii elektrycznej w celu jej magazynowania, wyrażoną w zł za okres rozliczeniowy, oznaczoną symbolem „O mee ”, w odniesieniu do magazynu energii elektrycznej, oblicza się według wzoru:",
+     "text": "Opłatę za świadczenie usług przesyłania lub dystrybucji energii elektrycznej w celu jej magazynowania, wyrażoną w zł za okres rozliczeniowy, oznaczoną symbolem „Omee”, w odniesieniu do magazynu energii elektrycznej, oblicza się według wzoru:",
      "children": [
       {
        "type": "text",
@@ -2918,7 +2930,7 @@
       },
       {
        "type": "text",
-       "text": "E O =S ×P ×K+∑(S × pm ×max(E −E ; 0)) mee SVn p ZVnm R p w ∑ m=1 E pm"
+       "text": "Epm Omee =SSVn ×Pp ×K+∑(SZVnm × ×max(Ep −Ew; 0)) ∑ R m=1 Epm"
       },
       {
        "type": "text",
@@ -2930,11 +2942,11 @@
       },
       {
        "type": "text",
-       "text": "S SVn – składnik stały stawki sieciowej za okres rozliczeniowy, wyrażony w zł/MW lub w zł/kW mocy umownej,"
+       "text": "SSVn – składnik stały stawki sieciowej za okres rozliczeniowy, wyrażony w zł/MW lub w zł/kW mocy umownej,"
       },
       {
        "type": "text",
-       "text": "P p – moc umowną określoną dla magazynu energii elektrycznej, wyrażoną w MW lub w kW,"
+       "text": "Pp – moc umowną określoną dla magazynu energii elektrycznej, wyrażoną w MW lub w kW,"
       },
       {
        "type": "text",
@@ -2946,19 +2958,19 @@
       },
       {
        "type": "text",
-       "text": "S ZVnm – składnik zmienny stawki sieciowej dla rozliczeniowej strefy czasowej m, wyrażony w zł/MWh lub w zł/kWh,"
+       "text": "SZVnm – składnik zmienny stawki sieciowej dla rozliczeniowej strefy czasowej m, wyrażony w zł/MWh lub w zł/kWh,"
       },
       {
        "type": "text",
-       "text": "E pm – ilość energii elektrycznej, wyrażoną w MWh lub w kWh, pobranej z sieci przez magazyn energii elektrycznej w rozliczeniowej strefie czasowej m w okresie rozliczeniowym,"
+       "text": "Epm – ilość energii elektrycznej, wyrażoną w MWh lub w kWh, pobranej z sieci przez magazyn energii elektrycznej w rozliczeniowej strefie czasowej m w okresie rozliczeniowym,"
       },
       {
        "type": "text",
-       "text": "E p – ilość energii elektrycznej, wyrażoną w MWh lub w kWh, pobranej z sieci przez magazyn energii elektrycznej w okresie rozliczeniowym,"
+       "text": "Ep – ilość energii elektrycznej, wyrażoną w MWh lub w kWh, pobranej z sieci przez magazyn energii elektrycznej w okresie rozliczeniowym,"
       },
       {
        "type": "text",
-       "text": "E w – ilość energii elektrycznej, wyrażoną w MWh lub w kWh, wprowadzonej do sieci przez magazyn energii elektrycznej w okresie rozliczeniowym."
+       "text": "Ew – ilość energii elektrycznej, wyrażoną w MWh lub w kWh, wprowadzonej do sieci przez magazyn energii elektrycznej w okresie rozliczeniowym."
       }
      ]
     },
@@ -2966,11 +2978,11 @@
      "type": "ust",
      "num": "2",
      "path": "par_32/ust_2",
-     "text": "Ilość energii elektrycznej wprowadzonej do sieci przez magazyn energii elektrycznej będący częścią elektrowni szczytowo-pompowej z dopływem naturalnym, oznaczoną symbolem „E w ”, oblicza się według wzoru:",
+     "text": "Ilość energii elektrycznej wprowadzonej do sieci przez magazyn energii elektrycznej będący częścią elektrowni szczytowo-pompowej z dopływem naturalnym, oznaczoną symbolem „Ew”, oblicza się według wzoru:",
      "children": [
       {
        "type": "text",
-       "text": "V E =E p"
+       "text": "Vp Ew =EESPd Vc"
       },
       {
        "type": "text",
@@ -2978,15 +2990,15 @@
       },
       {
        "type": "text",
-       "text": "E ESPd – ilość energii elektrycznej, wyrażoną w MWh, wprowadzonej do sieci przez elektrownię szczytowo-pompową z dopływem naturalnym w okresie rozliczeniowym,"
+       "text": "EESPd – ilość energii elektrycznej, wyrażoną w MWh, wprowadzonej do sieci przez elektrownię szczytowo-pompową z dopływem naturalnym w okresie rozliczeniowym,"
       },
       {
        "type": "text",
-       "text": "V p – objętość wody, wyrażoną w m³, przepompowanej przez turbiny elektrowni wodnej w okresie rozliczeniowym ustaloną na podstawie pomiaru strumienia objętości wody przepompowanej,"
+       "text": "Vp – objętość wody, wyrażoną w m³, przepompowanej przez turbiny elektrowni wodnej w okresie rozliczeniowym ustaloną na podstawie pomiaru strumienia objętości wody przepompowanej,"
       },
       {
        "type": "text",
-       "text": "V c – objętość całkowitą wody, wyrażoną w m³, pobranej przez turbiny elektrowni wodnej w okresie rozliczeniowym ustaloną na podstawie pomiaru strumienia objętości wody pobranej."
+       "text": "Vc – objętość całkowitą wody, wyrażoną w m³, pobranej przez turbiny elektrowni wodnej w okresie rozliczeniowym ustaloną na podstawie pomiaru strumienia objętości wody pobranej."
       }
      ]
     },
@@ -2994,7 +3006,7 @@
      "type": "ust",
      "num": "3",
      "path": "par_32/ust_3",
-     "text": "W przypadku gdy nie ma możliwości dokonania pomiarów objętości wody V p i V c w okresie przeprowadzania kalibrowania, serwisowania lub innych niezbędnych czynności eksploatacyjnych urządzeń służących do pomiaru strumienia objętości wody, ustalenia objętości wody przepompowanej i wody pobranej przez turbiny do celów, o których mowa w ust. 2, dokonuje się przy wykorzystaniu metod pośrednich zgodnie z charakterystyką energetyczną hydrozespołów. Okres ten nie może trwać dłużej niż 336 godzin w roku.",
+     "text": "W przypadku gdy nie ma możliwości dokonania pomiarów objętości wody Vp i Vc w okresie przeprowadzania kalibrowania, serwisowania lub innych niezbędnych czynności eksploatacyjnych urządzeń służących do pomiaru strumienia objętości wody, ustalenia objętości wody przepompowanej i wody pobranej przez turbiny do celów, o których mowa w ust. 2, dokonuje się przy wykorzystaniu metod pośrednich zgodnie z charakterystyką energetyczną hydrozespołów. Okres ten nie może trwać dłużej niż 336 godzin w roku.",
      "children": []
     },
     {
@@ -3013,11 +3025,11 @@
       },
       {
        "type": "text",
-       "text": "E w – ilość energii elektrycznej, wyrażoną w MWh lub w kWh, wprowadzonej do sieci przez magazyn energii elektrycznej w okresie rozliczeniowym; dla magazynu energii elektrycznej będącego częścią elektrowni szczytowo-pompowej z dopływem naturalnym ilość energii wprowadzonej do sieci oblicza się według wzoru określonego w ust. 2 łącznie dla wszystkich rozliczeniowych stref czasowych,"
+       "text": "Ew – ilość energii elektrycznej, wyrażoną w MWh lub w kWh, wprowadzonej do sieci przez magazyn energii elektrycznej w okresie rozliczeniowym; dla magazynu energii elektrycznej będącego częścią elektrowni szczytowo-pompowej z dopływem naturalnym ilość energii wprowadzonej do sieci oblicza się według wzoru określonego w ust. 2 łącznie dla wszystkich rozliczeniowych stref czasowych,"
       },
       {
        "type": "text",
-       "text": "E p – ilość energii elektrycznej, wyrażoną w MWh lub w kWh, pobranej z sieci przez magazyn energii elektrycznej w okresie rozliczeniowym."
+       "text": "Ep – ilość energii elektrycznej, wyrażoną w MWh lub w kWh, pobranej z sieci przez magazyn energii elektrycznej w okresie rozliczeniowym."
       }
      ]
     },
@@ -3089,23 +3101,27 @@
    "type": "par",
    "num": "33",
    "path": "par_33",
-   "text": "Opłatę, o której mowa w art. 7aa ust. 4 ustawy, oznaczoną symbolem „O s ”, w zakresie dystrybucji energii elektrycznej, oblicza się według wzoru:",
+   "text": "Opłatę, o której mowa w art. 7aa ust. 4 ustawy, oznaczoną symbolem „Os”, w zakresie dystrybucji energii elektrycznej, oblicza się według wzoru:",
    "children": [
+    {
+     "type": "text",
+     "text": "Os =kLB ×∑(S QZVnm ×ELBm) +∑S RoSJm ×ELBm"
+    },
     {
      "type": "text",
      "text": "gdzie poszczególne symbole oznaczają: m m"
     },
     {
      "type": "text",
-     "text": "k LB – współczynnik udziału wydzielonego odbiorcy końcowego lub udziału przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie obrotu energią elektryczną, o których mowa w art. 7aa ust. 4 ustawy, w pokrywaniu kosztów stałych za dystrybucję energii elektrycznej w części niepokrytej innymi składnikami taryfy; współczynnik ten ustala się w wysokości 0,5, Q – liczbę rozliczeniowych stref czasowych stosowanych w rozliczeniach opłaty wynikającej ze składnika zmiennego stawki sieciowej,"
+     "text": "kLB – współczynnik udziału wydzielonego odbiorcy końcowego lub udziału przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie obrotu energią elektryczną, o których mowa w art. 7aa ust. 4 ustawy, w pokrywaniu kosztów stałych za dystrybucję energii elektrycznej w części niepokrytej innymi składnikami taryfy; współczynnik ten ustala się w wysokości 0,5, Q – liczbę rozliczeniowych stref czasowych stosowanych w rozliczeniach opłaty wynikającej ze składnika zmiennego stawki sieciowej,"
     },
     {
      "type": "text",
-     "text": "S ZVnm – składnik zmienny stawki sieciowej dla danej rozliczeniowej strefy czasowej (strefa czasowa m) dla grupy taryfowej stosowanej w rozliczeniach na danym poziomie napięcia między wydzielonym odbiorcą końcowym lub między przedsiębiorstwem energetycznym wykonującym działalność gospodarczą w zakresie obrotu energią elektryczną, o których mowa w art. 7aa ust. 4 ustawy, wyrażony w zł/MWh lub w zł/kWh,"
+     "text": "SZVnm – składnik zmienny stawki sieciowej dla danej rozliczeniowej strefy czasowej (strefa czasowa m) dla grupy taryfowej stosowanej w rozliczeniach na danym poziomie napięcia między wydzielonym odbiorcą końcowym lub między przedsiębiorstwem energetycznym wykonującym działalność gospodarczą w zakresie obrotu energią elektryczną, o których mowa w art. 7aa ust. 4 ustawy, wyrażony w zł/MWh lub w zł/kWh,"
     },
     {
      "type": "text",
-     "text": "E LBm – ilość energii elektrycznej dostarczaną linią bezpośrednią w rozliczeniowej strefie czasowej m, wyrażoną w MWh lub w kWh, w okresie rozliczeniowym stosowanym w rozliczeniach między wydzielonym odbiorcą końcowym lub przedsiębiorstwem energetycznym, o których mowa w art. 7aa ust. 4 ustawy, a przedsiębiorstwem wykonującym działalność gospodarczą w zakresie dystrybucji energii elektrycznej, do sieci którego ten odbiorca lub to przedsiębiorstwo są przyłączeni,"
+     "text": "ELBm – ilość energii elektrycznej dostarczaną linią bezpośrednią w rozliczeniowej strefie czasowej m, wyrażoną w MWh lub w kWh, w okresie rozliczeniowym stosowanym w rozliczeniach między wydzielonym odbiorcą końcowym lub przedsiębiorstwem energetycznym, o których mowa w art. 7aa ust. 4 ustawy, a przedsiębiorstwem wykonującym działalność gospodarczą w zakresie dystrybucji energii elektrycznej, do sieci którego ten odbiorca lub to przedsiębiorstwo są przyłączeni,"
     },
     {
      "type": "text",
@@ -3113,7 +3129,7 @@
     },
     {
      "type": "text",
-     "text": "S oSJm – stawkę jakościową dla danej rozliczeniowej strefy czasowej (strefa czasowa m), wyrażoną w zł/MWh lub w zł/kWh."
+     "text": "SoSJm – stawkę jakościową dla danej rozliczeniowej strefy czasowej (strefa czasowa m), wyrażoną w zł/MWh lub w zł/kWh."
     }
    ]
   },
@@ -3127,7 +3143,7 @@
      "type": "ust",
      "num": "1",
      "path": "par_34/ust_1",
-     "text": "Opłatę za usługi dystrybucji energii elektrycznej świadczone między operatorami systemu dystrybucyjnego elektroenergetycznego, z których każdy ma co najmniej po dwa sieciowe miejsca dostarczania energii elektrycznej połączone siecią tego operatora na tym samym poziomie napięć znamionowych, wyrażoną w zł za okres rozliczeniowy, oznaczoną symbolem „O povi ”, oblicza się według wzoru:",
+     "text": "Opłatę za usługi dystrybucji energii elektrycznej świadczone między operatorami systemu dystrybucyjnego elektroenergetycznego, z których każdy ma co najmniej po dwa sieciowe miejsca dostarczania energii elektrycznej połączone siecią tego operatora na tym samym poziomie napięć znamionowych, wyrażoną w zł za okres rozliczeniowy, oznaczoną symbolem „Opovi”, oblicza się według wzoru:",
      "children": [
       {
        "type": "text",
@@ -3135,27 +3151,31 @@
       },
       {
        "type": "text",
-       "text": "O =∑(S ×P +S ×E ) povi svn vi zvn pi gdzie poszczególne symbole oznaczają: i=1"
+       "text": "Opovi =∑(Ssvn ×Pvi +Szvn ×Epi)"
       },
       {
        "type": "text",
-       "text": "m p – liczbę połączeń sieciowych na tym samym poziomie napięć znamionowych między operatorami systemów dystrybucyjnych,"
+       "text": "gdzie poszczególne symbole oznaczają: i=1"
       },
       {
        "type": "text",
-       "text": "S svn – składnik stały stawki opłat za usługi dystrybucji energii elektrycznej, wyrażony w zł/MW lub w zł/kW,"
+       "text": "mp – liczbę połączeń sieciowych na tym samym poziomie napięć znamionowych między operatorami systemów dystrybucyjnych,"
       },
       {
        "type": "text",
-       "text": "P vi – moc umowną, wyrażoną w MW lub w kW, określoną dla każdego połączenia sieci na tym samym poziomie napięć znamionowych,"
+       "text": "Ssvn – składnik stały stawki opłat za usługi dystrybucji energii elektrycznej, wyrażony w zł/MW lub w zł/kW,"
       },
       {
        "type": "text",
-       "text": "S zvn – składnik zmienny stawki opłat za usługi dystrybucji energii elektrycznej, wyrażony w zł/MWh lub w zł/kWh,"
+       "text": "Pvi – moc umowną, wyrażoną w MW lub w kW, określoną dla każdego połączenia sieci na tym samym poziomie napięć znamionowych,"
       },
       {
        "type": "text",
-       "text": "E pi – ilość energii elektrycznej, wyrażoną w MWh lub w kWh za okres rozliczeniowy, pobraną przez dane połączenie, określoną jako różnica między energią elektryczną pobraną i oddaną."
+       "text": "Szvn – składnik zmienny stawki opłat za usługi dystrybucji energii elektrycznej, wyrażony w zł/MWh lub w zł/kWh,"
+      },
+      {
+       "type": "text",
+       "text": "Epi – ilość energii elektrycznej, wyrażoną w MWh lub w kWh za okres rozliczeniowy, pobraną przez dane połączenie, określoną jako różnica między energią elektryczną pobraną i oddaną."
       }
      ]
     },
@@ -3582,7 +3602,7 @@
      "type": "ust",
      "num": "1",
      "path": "par_47/ust_1",
-     "text": "Za niedotrzymanie dopuszczalnych poziomów odchyleń napięcia od napięcia znamionowego, określonych w odrębnych przepisach, oblicza się bonifikatę, wyrażoną w zł, oznaczoną symbolem „W UT ”, przy czym:",
+     "text": "Za niedotrzymanie dopuszczalnych poziomów odchyleń napięcia od napięcia znamionowego, określonych w odrębnych przepisach, oblicza się bonifikatę, wyrażoną w zł, oznaczoną symbolem „WUT”, przy czym:",
      "children": [
       {
        "type": "pkt",
@@ -3592,7 +3612,7 @@
        "children": [
         {
          "type": "text",
-         "text": "ΔU² W =( ) ×A ×C 10 %"
+         "text": "ΔU² WUT =( ) ×AT ×CT 10 %"
         },
         {
          "type": "text",
@@ -3604,7 +3624,7 @@
         },
         {
          "type": "text",
-         "text": "A T – ilość energii elektrycznej dostarczoną odbiorcy w okresie doby, wyrażoną w jednostkach energii, C T – cenę energii elektrycznej, o której mowa w art. 23 ust. 2 pkt 18 lit. b ustawy, obowiązującą w okresie, w którym nastąpiło odchylenie napięcia od dopuszczalnych poziomów odchyleń napięcia od napięcia znamionowego, określonych w odrębnych przepisach, wyrażoną w zł za jednostkę energii;"
+         "text": "AT – ilość energii elektrycznej dostarczoną odbiorcy w okresie doby, wyrażoną w jednostkach energii, CT – cenę energii elektrycznej, o której mowa w art. 23 ust. 2 pkt 18 lit. b ustawy, obowiązującą w okresie, w którym nastąpiło odchylenie napięcia od dopuszczalnych poziomów odchyleń napięcia od napięcia znamionowego, określonych w odrębnych przepisach, wyrażoną w zł za jednostkę energii;"
         }
        ]
       },
@@ -3616,7 +3636,7 @@
        "children": [
         {
          "type": "text",
-         "text": "W =A ×C +b ×t UT T T rT T"
+         "text": "WUT =AT ×CT +brT ×tT"
         },
         {
          "type": "text",
@@ -3624,19 +3644,19 @@
         },
         {
          "type": "text",
-         "text": "A T – ilość energii elektrycznej dostarczoną odbiorcy w okresie doby, wyrażoną w jednostkach energii,"
+         "text": "AT – ilość energii elektrycznej dostarczoną odbiorcy w okresie doby, wyrażoną w jednostkach energii,"
         },
         {
          "type": "text",
-         "text": "C T – cenę energii elektrycznej, o której mowa w art. 23 ust. 2 pkt 18 lit. b ustawy, obowiązującą w okresie, w którym nastąpiło odchylenie napięcia od dopuszczalnych poziomów odchyleń napięcia od napięcia znamionowego, określonych w odrębnych przepisach, wyrażoną w zł za jednostkę energii,"
+         "text": "CT – cenę energii elektrycznej, o której mowa w art. 23 ust. 2 pkt 18 lit. b ustawy, obowiązującą w okresie, w którym nastąpiło odchylenie napięcia od dopuszczalnych poziomów odchyleń napięcia od napięcia znamionowego, określonych w odrębnych przepisach, wyrażoną w zł za jednostkę energii,"
         },
         {
          "type": "text",
-         "text": "b rT – ustaloną w taryfie bonifikatę za niedotrzymanie poziomu napięcia w zakresie określonych w odrębnych przepisach dopuszczalnych wartości granicznych odchyleń napięcia od napięcia znamionowego w okresie doby, wyrażoną w zł za godzinę,"
+         "text": "brT – ustaloną w taryfie bonifikatę za niedotrzymanie poziomu napięcia w zakresie określonych w odrębnych przepisach dopuszczalnych wartości granicznych odchyleń napięcia od napięcia znamionowego w okresie doby, wyrażoną w zł za godzinę,"
         },
         {
          "type": "text",
-         "text": "t T – łączny czas niedotrzymania poziomu napięcia w zakresie dopuszczalnych poziomów odchyleń napięcia od napięcia znamionowego, określonych w odrębnych przepisach, w okresie doby, wyrażony w godzinach."
+         "text": "tT – łączny czas niedotrzymania poziomu napięcia w zakresie dopuszczalnych poziomów odchyleń napięcia od napięcia znamionowego, określonych w odrębnych przepisach, w okresie doby, wyrażony w godzinach."
         }
        ]
       }
@@ -4032,11 +4052,11 @@
      "type": "ust",
      "num": "6",
      "path": "par_52/ust_6",
-     "text": "Opłatę za nadwyżkę energii biernej, wyrażoną w zł, oznaczoną symbolem „O b ”, pobranej ponad ilość wynikającą ze współczynnika tgφ₀ w okresie rozliczeniowym, o której mowa w ust. 1 pkt 1, całodobowo lub dla stref czasowych, w których jest prowadzona kontrola poboru tej energii, oblicza się według wzoru:",
+     "text": "Opłatę za nadwyżkę energii biernej, wyrażoną w zł, oznaczoną symbolem „Ob”, pobranej ponad ilość wynikającą ze współczynnika tgφ₀ w okresie rozliczeniowym, o której mowa w ust. 1 pkt 1, całodobowo lub dla stref czasowych, w których jest prowadzona kontrola poboru tej energii, oblicza się według wzoru:",
      "children": [
       {
        "type": "text",
-       "text": "1+tg²φ O =k×C ×(√ −1)×A b rk 2 1+tg φ₀"
+       "text": "1+tg²φ Ob =k×Crk ×(√ −1)×A 1+tg²φ₀"
       },
       {
        "type": "text",
@@ -4068,7 +4088,7 @@
        "children": [
         {
          "type": "text",
-         "text": "C rk – cenę energii elektrycznej, o której mowa w art. 23 ust. 2 pkt 18 lit. b ustawy, obowiązującą w dniu zatwierdzenia taryfy, wyrażoną w zł/MWh lub zł/kWh,"
+         "text": "Crk – cenę energii elektrycznej, o której mowa w art. 23 ust. 2 pkt 18 lit. b ustawy, obowiązującą w dniu zatwierdzenia taryfy, wyrażoną w zł/MWh lub zł/kWh,"
         },
         {
          "type": "text",
@@ -4094,7 +4114,7 @@
      "children": [
       {
        "type": "text",
-       "text": "ΔE tgφ= b +tgφ A⁰"
+       "text": "ΔEb tgφ= +tgφ₀ A"
       },
       {
        "type": "text",
@@ -4102,7 +4122,7 @@
       },
       {
        "type": "text",
-       "text": "ΔE b – nadwyżkę energii biernej wykazaną przez urządzenie pomiarowe w okresie rozliczeniowym, wyrażoną w M varh ,"
+       "text": "ΔEb – nadwyżkę energii biernej wykazaną przez urządzenie pomiarowe w okresie rozliczeniowym, wyrażoną w Mvarh,"
       },
       {
        "type": "text",
@@ -4445,8 +4465,8 @@
  ],
  "annexes": [],
  "footnotes": {
-  "1": "Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 1206). SVn P Vn Wn Wn−1 n n dp n−2 dr n−2 m=1 m=1 m=1 w ESPd V c O s =k LB ×∑(S Q ZVnm ×E LBm ) +∑S R oSJm ×E LBm",
-  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 894, 896, 1203, 1541 i 1811 oraz z 2026 r. poz. 507 i 846. UT T T",
+  "1": "Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 1206). m=1 m=1 m=1",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 894, 896, 1203, 1541 i 1811 oraz z 2026 r. poz. 507 i 846.",
   "3": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Klimatu i Środowiska z dnia 29 listopada 2022 r. w sprawie sposobu kształtowania i kalkulacji taryf oraz sposobu rozliczeń w obrocie energią elektryczną (Dz. U. z 2024 r. poz. 904 i 1814 oraz z 2025 r. poz. 1772), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 47 ust. 1 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1681, z 2024 r. poz. 859, z 2025 r. poz. 759 oraz z 2026 r. poz. 900)."
  }
 }
