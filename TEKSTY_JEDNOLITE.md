@@ -2,7 +2,7 @@
 
 Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odświeżane automatycznie). Nazwa aktu pochodzi z tytułu obwieszczenia. Tekst jednolity podaje stan prawny na dzień wskazany w obwieszczeniu; zmian ogłoszonych później w nim nie ma. Teksty nieoficjalne, wiążący jest PDF.
 
-## Ustawy (410)
+## Ustawy (412)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -24,6 +24,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy | [Dz.U. 2026 poz. 30](DU/2026/DU-2026-30.md) | 2026-01-12 | – |
 | o Centralnym Azylu dla Zwierząt | [Dz.U. 2026 poz. 1049](DU/2026/DU-2026-1049.md) | 2026-08-05 | – |
 | o Centralnym Biurze Antykorupcyjnym | [Dz.U. 2025 poz. 712](DU/2025/DU-2025-712.md) | 2025-06-02 | – |
+| o Centralnym Porcie Komunikacyjnym | [Dz.U. 2026 poz. 1433](DU/2026/DU-2026-1433.md) | 2026-10-30 | – |
 | o Centrum Medycznego Kształcenia Podyplomowego | [Dz.U. 2025 poz. 269](DU/2025/DU-2025-269.md) | 2025-03-05 | – |
 | o cmentarzach i chowaniu zmarłych | [Dz.U. 2025 poz. 1590](DU/2025/DU-2025-1590.md) | 2025-11-21 | – |
 | o cudzoziemcach | [Dz.U. 2025 poz. 1079](DU/2025/DU-2025-1079.md) | 2025-08-07 | – |
@@ -292,6 +293,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o Służbie Ochrony Państwa | [Dz.U. 2025 poz. 34](DU/2025/DU-2025-34.md) | 2025-01-10 | – |
 | o Służbie Więziennej | [Dz.U. 2025 poz. 1750](DU/2025/DU-2025-1750.md) | 2025-12-10 | – |
 | o służbie zagranicznej | [Dz.U. 2026 poz. 788](DU/2026/DU-2026-788.md) | 2026-06-16 | – |
+| o towarach paczkowanych | [Dz.U. 2026 poz. 1436](DU/2026/DU-2026-1436.md) | 2026-10-30 | – |
 | o transporcie drogowym | [Dz.U. 2025 poz. 1490](DU/2025/DU-2025-1490.md) | 2025-10-29 | – |
 | o transporcie kolejowym | [Dz.U. 2026 poz. 1324](DU/2026/DU-2026-1324.md) | 2026-10-13 | [Dz.U. 2025 poz. 1234](DU/2025/DU-2025-1234.md) |
 | o ubezpieczeniach gwarantowanych przez Skarb Państwa | [Dz.U. 2026 poz. 146](DU/2026/DU-2026-146.md) | 2026-02-09 | – |
