@@ -73,7 +73,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o Funduszu Transformacji Województwa Śląskiego Spółce Akcyjnej | [Dz.U. 2026 poz. 713](DU/2026/DU-2026-713.md) | 2026-06-01 | – |
 | o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających | [Dz.U. 2026 poz. 618](DU/2026/DU-2026-618.md) | 2026-05-08 | [Dz.U. 2025 poz. 265](DU/2025/DU-2025-265.md) |
 | o funkcjonowaniu górnictwa węgla kamiennego | [Dz.U. 2026 poz. 520](DU/2026/DU-2026-520.md) | 2026-04-15 | – |
-| o giełdach towarowych | [Dz.U. 2025 poz. 1119](DU/2025/DU-2025-1119.md) | 2025-08-13 | – |
+| o giełdach towarowych | [Dz.U. 2026 poz. 1442](DU/2026/DU-2026-1442.md) | 2026-11-02 | [Dz.U. 2025 poz. 1119](DU/2025/DU-2025-1119.md) |
 | o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych | [Dz.U. 2025 poz. 299](DU/2025/DU-2025-299.md) | 2025-03-11 | – |
 | o gospodarce nieruchomościami | [Dz.U. 2026 poz. 399](DU/2026/DU-2026-399.md) | 2026-03-25 | – |
 | o gospodarce opakowaniami i odpadami opakowaniowymi | [Dz.U. 2026 poz. 619](DU/2026/DU-2026-619.md) | 2026-05-08 | [Dz.U. 2025 poz. 870](DU/2025/DU-2025-870.md) |
@@ -419,7 +419,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
-## Rozporządzenia (511)
+## Rozporządzenia (513)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -441,6 +441,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Edukacji i Nauki w sprawie programu "Rozwój czasopism naukowych" | [Dz.U. 2025 poz. 187](DU/2025/DU-2025-187.md) | 2025-02-13 | – |
 | Ministra Edukacji i Nauki w sprawie udzielania pomocy publicznej i pomocy de minimis w ramach inwestycji A2.4.1 Krajowego Planu Odbudowy i Zwiększania Odporności – Inwestycje w rozbudowę potencjału badawczego | [Dz.U. 2025 poz. 225](DU/2025/DU-2025-225.md) | 2025-02-24 | – |
 | Ministra Edukacji i Nauki w sprawie wykazu dziedzin zawodowych wraz z przyporządkowanymi do nich zawodami określonymi w klasyfikacji zawodów szkolnictwa branżowego | [Dz.U. 2026 poz. 1427](DU/2026/DU-2026-1427.md) | 2026-10-29 | – |
+| Ministra Edukacji w sprawie organizacji kształcenia oraz warunków i form realizowania specjalnych działań opiekuńczo-wychowawczych w przedszkolach i szkołach specjalnych oraz w oddziałach specjalnych, zorganizowanych w podmiotach leczniczych i jednostkach pomocy społecznej | [Dz.U. 2026 poz. 1445](DU/2026/DU-2026-1445.md) | 2026-11-02 | – |
 | Ministra Energii w sprawie dotacji budżetowej przeznaczonej na finansowanie likwidacji kopalń, działań wykonywanych po zakończeniu likwidacji kopalń, naprawiania szkód wywołanych ruchem zakładu górniczego oraz zabezpieczenia kopalń sąsiednich przed zagrożeniem wodnym, gazowym oraz pożarowym | [Dz.U. 2025 poz. 1331](DU/2025/DU-2025-1331.md) | 2025-10-01 | – |
 | Ministra Energii w sprawie szczegółowego zakresu i sposobu sporządzania audytu efektywności energetycznej oraz metod obliczania oszczędności energii | [Dz.U. 2026 poz. 1236](DU/2026/DU-2026-1236.md) | 2026-09-23 | – |
 | Ministra Finansów w sprawie danych zawartych w powiadomieniu o zamiarze skorzystania ze zwolnienia w państwie członkowskim innym niż Rzeczpospolita Polska oraz informacji kwartalnej | [Dz.U. 2026 poz. 1222](DU/2026/DU-2026-1222.md) | 2026-09-17 | – |
@@ -845,6 +846,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Zdrowia w sprawie standardu organizacyjnego opieki zdrowotnej w dziedzinie anestezjologii i intensywnej terapii | [Dz.U. 2026 poz. 228](DU/2026/DU-2026-228.md) | 2026-02-26 | – |
 | Ministra Zdrowia w sprawie stypendiów ministra właściwego do spraw zdrowia dla studentów | [Dz.U. 2026 poz. 1050](DU/2026/DU-2026-1050.md) | 2026-08-05 | – |
 | Ministra Zdrowia w sprawie szczegółowego zakresu danych zdarzenia medycznego przetwarzanego w systemie informacji oraz sposobu i terminów przekazywania tych danych do Systemu Informacji Medycznej | [Dz.U. 2025 poz. 866](DU/2025/DU-2025-866.md) | 2025-07-02 | – |
+| Ministra Zdrowia w sprawie szczegółowego zakresu zadań wojewódzkiego koordynatora ratownictwa medycznego | [Dz.U. 2026 poz. 1438](DU/2026/DU-2026-1438.md) | 2026-11-02 | – |
 | Ministra Zdrowia w sprawie szczegółowych kryteriów wyboru ofert w postępowaniu w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej | [Dz.U. 2025 poz. 328](DU/2025/DU-2025-328.md) | 2025-03-17 | – |
 | Ministra Zdrowia w sprawie szczegółowych wymogów, jakim powinien odpowiadać lokal apteki | [Dz.U. 2025 poz. 1202](DU/2025/DU-2025-1202.md) | 2025-09-01 | – |
 | Ministra Zdrowia w sprawie szkodliwych czynników biologicznych dla zdrowia w środowisku pracy oraz ochrony zdrowia pracowników zawodowo narażonych na te czynniki | [Dz.U. 2026 poz. 103](DU/2026/DU-2026-103.md) | 2026-01-29 | – |
