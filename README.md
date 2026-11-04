@@ -49,7 +49,7 @@ Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla ża
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-11-03 12:15 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-11-04 12:23 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -67,13 +67,13 @@ Stan na 2026-11-03 12:15 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 2023 | 433 | 433 | 0 |
 | 2024 | 392 | 392 | 0 |
 | 2025 | 1900 | 1900 | 0 |
-| 2026 | 1445 | 1445 | 0 |
+| 2026 | 1452 | 1452 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 94, razem 1917 z 207251 stron. Tekst z OCR (oznaczony) ma 1833 z nich w 86 aktach; treści pozostałych brak.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 94, razem 1917 z 207393 stron. Tekst z OCR (oznaczony) ma 1833 z nich w 86 aktach; treści pozostałych brak.
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 255.
 
-Rodzaje aktów: Obwieszczenie 4926, Rozporządzenie 1904, Ustawa 382, Oświadczenie rządowe 45, Umowa międzynarodowa 37, Komunikat 5, Postanowienie 3, Uchwała 2, Traktat 1.
-Wersje konwertera: eli2md 0.6.52 (3394), eli2md 0.6.73 (1479), eli2md 0.6.25 (1279), eli2md 0.6.53 (402), eli2md 0.6.61 (276), eli2md 0.6.56 (219), eli2md 0.6.59 (209), eli2md 0.6.60 (24), eli2md 0.6.58 (13), eli2md 0.6.57 (7), eli2md 0.6.67 (2), eli2md 0.6.54 (1).
+Rodzaje aktów: Obwieszczenie 4927, Rozporządzenie 1909, Ustawa 383, Oświadczenie rządowe 45, Umowa międzynarodowa 37, Komunikat 5, Postanowienie 3, Uchwała 2, Traktat 1.
+Wersje konwertera: eli2md 0.6.52 (3394), eli2md 0.6.73 (1487), eli2md 0.6.25 (1279), eli2md 0.6.53 (402), eli2md 0.6.61 (276), eli2md 0.6.56 (219), eli2md 0.6.59 (209), eli2md 0.6.60 (23), eli2md 0.6.58 (13), eli2md 0.6.57 (7), eli2md 0.6.67 (2), eli2md 0.6.54 (1).
 <!-- stats:end -->
 
 ## Teksty jednolite

@@ -61,7 +61,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych | [Dz.U. 2025 poz. 1749](DU/2025/DU-2025-1749.md) | 2025-12-10 | – |
 | o europejskim zgrupowaniu interesów gospodarczych i spółce europejskiej | [Dz.U. 2026 poz. 583](DU/2026/DU-2026-583.md) | 2026-04-28 | – |
 | o ewidencji ludności | [Dz.U. 2026 poz. 384](DU/2026/DU-2026-384.md) | 2026-03-20 | [Dz.U. 2025 poz. 274](DU/2025/DU-2025-274.md) |
-| o finansach publicznych | [Dz.U. 2025 poz. 1483](DU/2025/DU-2025-1483.md) | 2025-10-28 | – |
+| o finansach publicznych | [Dz.U. 2026 poz. 1447](DU/2026/DU-2026-1447.md) | 2026-11-03 | [Dz.U. 2025 poz. 1483](DU/2025/DU-2025-1483.md) |
 | o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom | [Dz.U. 2025 poz. 1900](DU/2025/DU-2025-1900.md) | 2025-12-31 | – |
 | o finansowaniu zadań oświatowych | [Dz.U. 2026 poz. 650](DU/2026/DU-2026-650.md) | 2026-05-15 | [Dz.U. 2025 poz. 439](DU/2025/DU-2025-439.md) |
 | o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych | [Dz.U. 2026 poz. 511](DU/2026/DU-2026-511.md) | 2026-04-14 | – |
