@@ -408,7 +408,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo o prokuraturze | [Dz.U. 2026 poz. 810](DU/2026/DU-2026-810.md) | 2026-06-19 | – |
 | – Prawo o szkolnictwie wyższym i nauce | [Dz.U. 2026 poz. 1362](DU/2026/DU-2026-1362.md) | 2026-10-21 | – |
 | – Prawo o ustroju sądów wojskowych | [Dz.U. 2025 poz. 1614](DU/2025/DU-2025-1614.md) | 2025-11-25 | – |
-| – Prawo ochrony środowiska | [Dz.U. 2025 poz. 647](DU/2025/DU-2025-647.md) | 2025-05-19 | – |
+| – Prawo ochrony środowiska | [Dz.U. 2026 poz. 1453](DU/2026/DU-2026-1453.md) | 2026-11-04 | [Dz.U. 2025 poz. 647](DU/2025/DU-2025-647.md) |
 | – Prawo oświatowe | [Dz.U. 2026 poz. 820](DU/2026/DU-2026-820.md) | 2026-06-22 | [Dz.U. 2025 poz. 1043](DU/2025/DU-2025-1043.md) |
 | – Prawo pocztowe | [Dz.U. 2026 poz. 558](DU/2026/DU-2026-558.md) | 2026-04-23 | [Dz.U. 2025 poz. 366](DU/2025/DU-2025-366.md) |
 | – Prawo przedsiębiorców | [Dz.U. 2025 poz. 1480](DU/2025/DU-2025-1480.md) | 2025-10-28 | – |
@@ -419,7 +419,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
-## Rozporządzenia (513)
+## Rozporządzenia (515)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -603,6 +603,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Obrony Narodowej w sprawie szkół podoficerskich | [Dz.U. 2025 poz. 87](DU/2025/DU-2025-87.md) | 2025-01-23 | – |
 | Ministra Obrony Narodowej w sprawie trybu postępowania i właściwości organów w sprawach zaopatrzenia emerytalnego żołnierzy zawodowych oraz uprawnionych członków ich rodzin | [Dz.U. 2025 poz. 1821](DU/2025/DU-2025-1821.md) | 2025-12-18 | – |
 | Ministra Obrony Narodowej w sprawie umundurowania funkcjonariuszy Służby Kontrwywiadu Wojskowego | [Dz.U. 2026 poz. 501](DU/2026/DU-2026-501.md) | 2026-04-10 | – |
+| Ministra Obrony Narodowej w sprawie ustalenia wykazu chorób powstałych w związku ze szczególnymi właściwościami lub warunkami służby wojskowej oraz chorób i schorzeń, które istniały przed powołaniem do służby wojskowej, lecz uległy pogorszeniu lub ujawniły się w czasie trwania służby wskutek szczególnych właściwości lub warunków służby na określonych stanowiskach | [Dz.U. 2026 poz. 1455](DU/2026/DU-2026-1455.md) | 2026-11-04 | – |
 | Ministra Obrony Narodowej w sprawie uzbrojenia i wyposażenia funkcjonariuszy Służby Wywiadu Wojskowego | [Dz.U. 2026 poz. 1397](DU/2026/DU-2026-1397.md) | 2026-10-23 | – |
 | Ministra Obrony Narodowej w sprawie używania psów i koni w Siłach Zbrojnych Rzeczypospolitej Polskiej | [Dz.U. 2026 poz. 16](DU/2026/DU-2026-16.md) | 2026-01-08 | – |
 | Ministra Obrony Narodowej w sprawie warunków przewozu osób pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej | [Dz.U. 2025 poz. 1368](DU/2025/DU-2025-1368.md) | 2025-10-13 | – |
@@ -775,6 +776,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Sprawiedliwości w sprawie szczegółowych czynności sądów w sprawach z zakresu międzynarodowego postępowania cywilnego oraz karnego w stosunkach międzynarodowych | [Dz.U. 2025 poz. 597](DU/2025/DU-2025-597.md) | 2025-05-07 | – |
 | Ministra Sprawiedliwości w sprawie szczegółowych zasad i trybu postępowania dyscyplinarnego wobec rzeczników patentowych i aplikantów | [Dz.U. 2025 poz. 591](DU/2025/DU-2025-591.md) | 2025-05-06 | – |
 | Ministra Sprawiedliwości w sprawie służby medycyny pracy w jednostkach organizacyjnych Służby Więziennej | [Dz.U. 2025 poz. 983](DU/2025/DU-2025-983.md) | 2025-07-24 | – |
+| Ministra Sprawiedliwości w sprawie trybu i sposobu dokonywania doręczeń elektronicznych | [Dz.U. 2026 poz. 1456](DU/2026/DU-2026-1456.md) | 2026-11-04 | – |
 | Ministra Sprawiedliwości w sprawie trybu i sposobu udzielenia zamówienia na wydrukowanie i doręczenie zestawów pytań testowych na egzamin wstępny na aplikację adwokacką i radcowską | [Dz.U. 2026 poz. 886](DU/2026/DU-2026-886.md) | 2026-07-02 | – |
 | Ministra Sprawiedliwości w sprawie trybu i sposobu udzielenia zamówienia na wydrukowanie i doręczenie zestawów pytań testowych na egzamin wstępny na aplikację komorniczą | [Dz.U. 2026 poz. 790](DU/2026/DU-2026-790.md) | 2026-06-16 | – |
 | Ministra Sprawiedliwości w sprawie trybu i sposobu udzielenia zamówienia na wydrukowanie i doręczenie zestawów pytań testowych na egzamin wstępny na aplikację notarialną | [Dz.U. 2026 poz. 746](DU/2026/DU-2026-746.md) | 2026-06-09 | – |
