@@ -2,7 +2,7 @@
 
 Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odświeżane automatycznie). Nazwa aktu pochodzi z tytułu obwieszczenia. Tekst jednolity podaje stan prawny na dzień wskazany w obwieszczeniu; zmian ogłoszonych później w nim nie ma. Teksty nieoficjalne, wiążący jest PDF.
 
-## Ustawy (412)
+## Ustawy (414)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -164,6 +164,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o Państwowej Straży Pożarnej | [Dz.U. 2025 poz. 1312](DU/2025/DU-2025-1312.md) | 2025-09-30 | – |
 | o Państwowym Instytucie Medycznym Ministerstwa Spraw Wewnętrznych i Administracji | [Dz.U. 2025 poz. 447](DU/2025/DU-2025-447.md) | 2025-04-07 | – |
 | o Państwowym Ratownictwie Medycznym | [Dz.U. 2026 poz. 141](DU/2026/DU-2026-141.md) | 2026-02-06 | [Dz.U. 2025 poz. 91](DU/2025/DU-2025-91.md) |
+| o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023-2027 | [Dz.U. 2026 poz. 1462](DU/2026/DU-2026-1462.md) | 2026-11-05 | – |
 | o planowaniu i zagospodarowaniu przestrzennym | [Dz.U. 2026 poz. 538](DU/2026/DU-2026-538.md) | 2026-04-20 | – |
 | o podatkach i opłatach lokalnych | [Dz.U. 2025 poz. 707](DU/2025/DU-2025-707.md) | 2025-06-02 | – |
 | o podatku akcyzowym | [Dz.U. 2026 poz. 412](DU/2026/DU-2026-412.md) | 2026-03-27 | [Dz.U. 2025 poz. 126](DU/2025/DU-2025-126.md) |
@@ -340,6 +341,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o własności lokali | [Dz.U. 2026 poz. 232](DU/2026/DU-2026-232.md) | 2026-02-27 | – |
 | o zagospodarowaniu wspólnot gruntowych | [Dz.U. 2025 poz. 1454](DU/2025/DU-2025-1454.md) | 2025-10-24 | – |
 | o zakazie stosowania wyrobów zawierających azbest | [Dz.U. 2025 poz. 1708](DU/2025/DU-2025-1708.md) | 2025-12-05 | – |
+| o zakładach leczniczych dla zwierząt | [Dz.U. 2026 poz. 1458](DU/2026/DU-2026-1458.md) | 2026-11-05 | – |
 | o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin | [Dz.U. 2026 poz. 505](DU/2026/DU-2026-505.md) | 2026-04-13 | – |
 | o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin | [Dz.U. 2025 poz. 305](DU/2025/DU-2025-305.md) | 2025-03-12 | – |
 | o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin | [Dz.U. 2025 poz. 195](DU/2025/DU-2025-195.md) | 2025-02-14 | – |
@@ -419,7 +421,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
-## Rozporządzenia (515)
+## Rozporządzenia (516)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -685,6 +687,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Rozwoju i Finansów w sprawie sposobu przeprowadzania i dokumentowania przez Krajową Administrację Skarbową czynności niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa | [Dz.U. 2025 poz. 658](DU/2025/DU-2025-658.md) | 2025-05-20 | – |
 | Ministra Rozwoju i Finansów w sprawie sposobu przeprowadzania i dokumentowania przez Krajową Administrację Skarbową czynności operacyjno-rozpoznawczych polegających na dokonaniu w sposób niejawny nabycia, zbycia lub przejęcia przedmiotów pochodzących z przestępstwa, ulegających przepadkowi albo których wytwarzanie, posiadanie, przewożenie lub którymi obrót są zabronione, a także na przyjęciu lub wręczeniu korzyści majątkowej | [Dz.U. 2025 poz. 899](DU/2025/DU-2025-899.md) | 2025-07-07 | – |
 | Ministra Rozwoju i Finansów w sprawie sposobu przesyłania deklaracji i podań oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone | [Dz.U. 2025 poz. 327](DU/2025/DU-2025-327.md) | 2025-03-17 | – |
+| Ministra Rozwoju i Finansów w sprawie sposobu ustalania opłat za czynności związane z akredytacją jednostek oceniających zgodność oraz maksymalnych wysokości tych opłat | [Dz.U. 2026 poz. 1464](DU/2026/DU-2026-1464.md) | 2026-11-05 | – |
 | Ministra Rozwoju i Finansów w sprawie sposobu złożenia zabezpieczenia w formie depozytu w gotówce | [Dz.U. 2026 poz. 776](DU/2026/DU-2026-776.md) | 2026-06-15 | – |
 | Ministra Rozwoju i Finansów w sprawie sprawozdań spółdzielczych kas oszczędnościowo-kredytowych oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej | [Dz.U. 2025 poz. 1108](DU/2025/DU-2025-1108.md) | 2025-08-12 | – |
 | Ministra Rozwoju i Finansów w sprawie szczegółowych zasad wyznaczania składek na finansowanie przymusowej restrukturyzacji kas w oparciu o ryzyko | [Dz.U. 2025 poz. 928](DU/2025/DU-2025-928.md) | 2025-07-11 | – |
