@@ -1,0 +1,4919 @@
+{
+ "eli": "DU/2026/1475",
+ "title": "Rozporządzenie Rady Ministrów z dnia 29 października 2026 r. w sprawie wymagań technicznych i eksploatacyjnych dla interfejsów",
+ "converter": "eli2md 0.6.73",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1475/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 października 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wymagań technicznych i eksploatacyjnych dla interfejsów"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 46 ust. 2 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221, z 2025 r. poz. 637 i 820 oraz z 2026 r. poz. 252, 815 i 1296) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Rozporządzenie określa wymagania techniczne i eksploatacyjne dla interfejsów, o których mowa w art. 43 ust. 5 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, zwanej dalej „ustawą”, umożliwiających zapewnienie warunków technicznych i organizacyjnych dostępu i utrwalania, o których mowa w art. 43 ust. 1 pkt 1 ustawy, oraz przygotowanie technicznych i organizacyjnych warunków udostępniania danych, o których mowa w art. 45 ust. 1 ustawy, oraz ich udostępniania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Wymagania, o których mowa w ust. 1, są określone w załączniku nr 1 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W przypadku interfejsów LI HI stosowanych na podstawie umów, o których mowa w art. 43 ust. 5 ustawy, zawartych przed dniem wejścia w życie rozporządzenia, w zakresie usług telekomunikacyjnych objętych tymi umowami, stosuje się wymagania, o których mowa w § 1 ust. 1, określone w załączniku nr 2 do rozporządzenia, jednak niedłużej niż 36 miesięcy od dnia wejścia w życie rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie wchodzi w życie z dniem 11 listopada 2026 r.[^1]",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Rady Ministrów z dnia 29 października 2026 r. (Dz. U. poz. 1475) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "M WYMAGANIA TECHNICZNE I EKSPLOATACYJNE DLA INTERFEJSÓW"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Przepisy ogólne",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymagania techniczne i eksploatacyjne dla interfejsów uznaje się za spełnione, gdy interfejsy zapewniają realizację obowiązków, o których mowa w art. 43 ust. 1 pkt 1 oraz art. 45 ust. 1 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221, z 2025 r. poz. 637 i 820 oraz z 2026 r. poz. 252, 815 i 1296), zwanej dalej „ustawą”."
+      },
+      {
+       "type": "text",
+       "text": "Dopuszcza się stosowanie do interfejsów wymagań określonych w dokumentach w wersjach innych niż wskazane w pkt 2, jeżeli interfejsy spełniające te wymagania zapewniają realizację obowiązków, o których mowa w art. 43 ust. 1 pkt 1 oraz art. 45 ust. 1 ustawy, w stopniu niemniejszym niż w przypadku wymagań określonych w dokumentach w wersjach wskazanych w załączniku."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Wykaz dokumentów",
+     "children": [
+      {
+       "type": "text",
+       "text": "2.1. Wykaz dokumentów powoływanych w załączniku:"
+      },
+      {
+       "type": "text",
+       "text": "[1] ETSI TS 101 671 V3.11.1 Lawful Interception (LI); Handover interface for the lawful interception of telecommunications traffic, zwany dalej „ETSI TS 101 671”;"
+      },
+      {
+       "type": "text",
+       "text": "[2] ETSI TS 102 232-1 V3.2.1 Lawful Interception (LI); Handover Interface and Service-Specific Details (SSD) for IP delivery; Part 1: Handover specification for IP delivery, zwany dalej „ETSI TS 102 232-1”;"
+      },
+      {
+       "type": "text",
+       "text": "[3] ETSI TS 102 232-3 (wersja wynikająca z zależności od wersji ETSI TS 102 232-1) Lawful Interception (LI); Handover Interface and Service-Specific Details (SSD) for IP delivery; Part 3: Service-specific details for internet access services, zwany dalej „ETSI TS 102 232-3”;"
+      },
+      {
+       "type": "text",
+       "text": "[4] ETSI TS 102 232-5 (wersja wynikająca z zależności od wersji ETSI TS 102 232-1) Lawful Interception (LI); Handover Interface and Service-Specific Details (SSD) for IP delivery; Part 5: Service-specific details for IP Multimedia Services, zwany dalej „ETSI TS 102 232-5”;"
+      },
+      {
+       "type": "text",
+       "text": "[5] ETSI TS 102 232-6 (wersja wynikająca z zależności od wersji ETSI TS 102 232-1) Lawful Interception (LI); Handover Interface and Service-Specific Details (SSD) for IP delivery; Part 6: Service-specific details for PSTN/ISDN services, zwany dalej „ETSI TS 102 232-6”;"
+      },
+      {
+       "type": "text",
+       "text": "[6] ETSI TS 102 232-7 (wersja wynikająca z zależności od wersji ETSI TS 102 232-1) Lawful Interception (LI); Handover Interface and Service-Specific Details (SSD) for IP delivery; Part 7: Service-specific details for Mobile Services, zwany dalej „ETSI TS 102 232-7”;"
+      },
+      {
+       "type": "text",
+       "text": "[7] ETSI TS 102 657 V1.7.1 Lawful Interception (LI); Retained data handling; Handover interface for the request and delivery of retained data, zwany dalej „ETSI TS 102 657”;"
+      },
+      {
+       "type": "text",
+       "text": "[8] ETSI ETS 300 927 Digital cellular telecommunications system (Phase 2+) (GSM); Numbering, addressing and identification (GSM 03.03 version 5.2.1 Release 1996), zwany dalej „ETSI ETS 300 927”;"
+      },
+      {
+       "type": "text",
+       "text": "[9] ETSI TS 102 280 V1.1.1 X.509 V.3 Certificate Profile for Certificates Issued to Natural Persons (2004-03), zwany dalej „ETSI TS 102 280”;"
+      },
+      {
+       "type": "text",
+       "text": "[10] ETSI TS 133 108 V12.8.0 Universal Mobile Telecommunications System (UMTS); LTE; 3G security; Handover interface for Lawful Interception (LI), zwany dalej „ETSI TS 133 108”;"
+      },
+      {
+       "type": "text",
+       "text": "[11] ETSI TS 133 128 V18.15.0 Digital cellular telecommunications system (Phase 2+) (GSM); Universal Mobile Telecommunications System (UMTS); LTE; 5G; Security; Protocol and procedures for Lawful Interception (LI); Stage 3, zwany dalej „ETSI TS 133 128”;"
+      },
+      {
+       "type": "text",
+       "text": "[12] IEEE 802.3-2022 IEEE Standard for Ethernet, zwany dalej „IEEE 802.3”;"
+      },
+      {
+       "type": "text",
+       "text": "[13] IETF RFC 0791 Internet Protocol, zwany dalej „IETF RFC 0791”;"
+      },
+      {
+       "type": "text",
+       "text": "[14] IETF RFC 0793 Transmission Control Protocol, zwany dalej „IETF RFC 0793”;"
+      },
+      {
+       "type": "text",
+       "text": "[15] IETF RFC 2315 Cryptographic Message Syntax, Version 1.5, zwany dalej „IETF RFC 2315”;"
+      },
+      {
+       "type": "text",
+       "text": "[16] IETF RFC 2460 Internet Protocol, Version 6 (IPv6) Specification, zwany dalej „IETF RFC 2460”;"
+      },
+      {
+       "type": "text",
+       "text": "[17] IETF RFC 5652 Cryptographic Message Syntax (CMS), zwany dalej „IETF RFC 5652”;"
+      },
+      {
+       "type": "text",
+       "text": "[18] IETF RFC 4291 Internet Protocol Version 6 (IPv6) Addressing Architecture, zwany dalej „IETF RFC 4291”;"
+      },
+      {
+       "type": "text",
+       "text": "[19] ITU-T X.680 Information Technology – Abstract Syntax Notation One (ASN.1): Specification of basic notation, zwany dalej „ITU-T X.680”;"
+      },
+      {
+       "type": "text",
+       "text": "[20] ITU-T X.681 Information Technology – Abstract Syntax Notation One (ASN.1): Information object specification, zwany dalej „ITU-T X.681”;"
+      },
+      {
+       "type": "text",
+       "text": "[21] ITU-T X.682 Information Technology – Abstract Syntax Notation One (ASN.1): Constraint specification, zwany dalej „ITU-T X.682”;"
+      },
+      {
+       "type": "text",
+       "text": "[22] ITU-T X.683 Information Technology – Abstract Syntax Notation One (ASN.1): Parameterization of ASN.1 specifications, zwany dalej „ITU-T X.683”;"
+      },
+      {
+       "type": "text",
+       "text": "[23] ITU-T X.690 Information Technology – ASN.1 encoding rules: Specification of Basic Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding Rules (DER), zwany dalej „ITU-T X.690”."
+      },
+      {
+       "type": "text",
+       "text": "2.2. W przypadku gdy wykaz, o którym mowa w pkt 2.1, zawiera odesłanie do konkretnej wersji dokumentu, stosuje się wymagania wskazane w tej wersji dokumentu. Dopuszczalne jest spełnienie wymagań określonych w nowszej wersji dokumentu."
+      },
+      {
+       "type": "text",
+       "text": "2.3. Dokumenty, o których mowa w pkt 2.1 w poz. [1]–[11], są dostępne na stronie Europejskiego Instytutu Norm Telekomunikacyjnych (ETSI): www.etsi.org."
+      },
+      {
+       "type": "text",
+       "text": "2.4. Dokument, o którym mowa w pkt 2.1 w poz. [12], jest dostępny na stronie Instytutu Inżynierów Elektryków i Elektroników (IEEE): www.ieee.org."
+      },
+      {
+       "type": "text",
+       "text": "2.5. Dokumenty, o których mowa w pkt 2.1 w poz. [13]–[18], są dostępne na stronie zespołu inżynierów ustanawiających standardy techniczne i organizacyjne w Internecie, Internet Engineering Task Force (IETF): www.ietf.org."
+      },
+      {
+       "type": "text",
+       "text": "2.6. Dokumenty, o których mowa w pkt 2.1 w poz. [19]–[23], są dostępne na stronie Międzynarodowego Związku Telekomunikacyjnego (ITU): www.itu.int."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Akronimy",
+     "children": [
+      {
+       "type": "text",
+       "text": "Użyte w załączniku akronimy oznaczają:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "ADMF – system przedsiębiorcy telekomunikacyjnego umożliwiający realizację dostępu do komunikatów elektronicznych i związanych z nimi danych, o których mowa w art. 43 ust. 1 pkt 1 oraz art. 45 ust. 1 ustawy (Administration Function);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "ASCII – kod przyporządkowujący liczby z zakresu od 0 do 127 literom alfabetu angielskiego, cyfrom, znakom przestankowym i innym symbolom oraz poleceniom sterującym (American Standard Code for Information Interchange);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "ASN.1 – znormalizowaną notację stosowaną do opisu struktur danych (Abstract Syntax Notation One), zdefiniowaną w ITU-T X.680 [19], ITU-T X.681 [20], ITU-T X.682 [21] i ITU-T X.683 [22];",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_3/pkt_4",
+       "text": "BER – sposób kodowania informacji zapisanej przy użyciu ASN.1 do postaci transmitowanej w sieciach telekomunikacyjnych (Basic Encoding Rules), zgodny z ITU-T X.690 [23];",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_3/pkt_5",
+       "text": "CA – urząd certyfikacji (Certificate Authority);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_3/pkt_6",
+       "text": "CC – treść komunikatu elektronicznego (Content of Communication);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_3/pkt_7",
+       "text": "CDMA – wielodostęp z podziałem kodowym (Code Division Multiple Access);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_3/pkt_8",
+       "text": "CMS – standard zabezpieczania wiadomości (Cryptographic Message Syntax), zdefiniowany w IETF RFC 5652 [17];",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_3/pkt_9",
+       "text": "CS – komutację kanałów (Circuit Switched) umożliwiającą uzyskiwanie dostępu do danych głosowych, generowanych w sieciach stacjonarnych oraz 2G i 3G;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_3/pkt_10",
+       "text": "DER – sposób kodowania informacji zapisanej przy użyciu ASN.1 (Distinguished Encoding Rules), zdefiniowany w ITU-T X.690 [23];",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_3/pkt_11",
+       "text": "DF – funkcję dostarczającą dane do LEMF (Delivery Function);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_3/pkt_12",
+       "text": "ESN – indywidualny numer identyfikujący telekomunikacyjne urządzenie końcowe używane w ruchomej publicznej sieci telefonicznej wykorzystującej technologię CDMA (Electronic Serial Number);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "ust_3/pkt_13",
+       "text": "IMEI – indywidualny międzynarodowy numer identyfikujący telekomunikacyjne urządzenie końcowe używane w ruchomej publicznej sieci telefonicznej (International Mobile Equipment Identity);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "ust_3/pkt_14",
+       "text": "IMSI – międzynarodowy numer przydzielony karcie identyfikującej użytkownika w ruchomej publicznej sieci telefonicznej (International Mobile Subscriber Identity);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "ust_3/pkt_15",
+       "text": "IRI – informacje powiązane z komunikatem elektronicznym i związanymi z nim danymi, o których mowa w art. 43 ust. 1 pkt 1 ustawy (Intercept Related Information);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "ust_3/pkt_16",
+       "text": "ISDN – cyfrową sieć telekomunikacyjną z integracją usług (Integrated Services Digital Network);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "ust_3/pkt_17",
+       "text": "LEA – uprawnione podmioty, o których mowa w art. 43 ust. 1 pkt 1 lit. a ustawy (Law Enforcement Agency);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "ust_3/pkt_18",
+       "text": "LEMF – system monitorowania LEA umożliwiający dostęp do komunikatów elektronicznych i związanych z nimi danych, o których mowa w art. 43 ust. 1 pkt 1 oraz art. 45 ust. 1 ustawy (Law Enforcement Monitoring Facility);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "19",
+       "path": "ust_3/pkt_19",
+       "text": "LIID – identyfikator obiektu monitorowanego (Lawful Interception Identifier);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "ust_3/pkt_20",
+       "text": "LOGIN – nazwę użytkownika logującego się do sieci telekomunikacyjnej, używaną w procesie jego uwierzytelnienia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "21",
+       "path": "ust_3/pkt_21",
+       "text": "MAC – sprzętowy adres karty sieciowej (Media Access Control);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "22",
+       "path": "ust_3/pkt_22",
+       "text": "MEID – unikalny numer identyfikujący telekomunikacyjne urządzenie końcowe używane w ruchomej publicznej sieci telefonicznej wykorzystującej technologię CDMA, zastępujący ESN (Mobile Equipment Identifier);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "23",
+       "path": "ust_3/pkt_23",
+       "text": "MF – funkcję pośredniczącą dostosowującą dane będące przedmiotem monitorowania, pochodzące z sieci przedsiębiorcy telekomunikacyjnego, do formatu wymaganego przez interfejs (Mediation Function);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "24",
+       "path": "ust_3/pkt_24",
+       "text": "MSISDN – numer przydzielony użytkownikowi końcowemu ruchomej publicznej sieci telefonicznej z integracją usług (Mobile Subscriber Integrated Services Digital Network); 25) PSTN – publiczną komutowaną sieć telefoniczną (Public Switched Telephone Network);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "26",
+       "path": "ust_3/pkt_26",
+       "text": "SMS – krótką wiadomość tekstową (Short Message Service);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "27",
+       "path": "ust_3/pkt_27",
+       "text": "TCP – protokół komunikacji w sieci komputerowej (Transmission Control Protocol), zdefiniowany w IETF RFC 0793 [14];",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "28",
+       "path": "ust_3/pkt_28",
+       "text": "WAN – rozległą sieć komputerową (Wide Area Network);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "29",
+       "path": "ust_3/pkt_29",
+       "text": "VoIP – telefonię internetową (Voice over IP).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Definicje",
+     "children": [
+      {
+       "type": "text",
+       "text": "Użyte w załączniku określenia oznaczają:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_4/pkt_1",
+       "text": "interfejs LI HI (Lawful Interception Handover Interface) – elektroniczny, zdalny i oparty na protokole komunikacyjnym IP interfejs między ADMF a LEMF, umożliwiający realizację dostępu do komunikatów elektronicznych i związanych z nimi danych, o których mowa w art. 43 ust. 1 pkt 1 ustawy, w którego skład wchodzą:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_4/pkt_1/lit_a",
+         "text": "interfejs HI1 – styk umożliwiający dwukierunkową wymianę informacji między LEMF a ADMF, wykorzystywany przez LEMF do przesyłania żądań, a przez ADMF głównie do przesyłania notyfikacji zdarzeń lub stanu realizacji żądań, realizujący także inne funkcje, opisane w pkt 10,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_4/pkt_1/lit_b",
+         "text": "interfejs HI2 – styk umożliwiający jednokierunkowe, w kierunku od ADMF do LEMF, przesyłanie informacji związanych z objętymi monitorowaniem komunikatami elektronicznymi i związanymi z nimi danymi, o których mowa w art. 43 ust. 1 pkt 1 ustawy, związanych ze świadczoną publicznie dostępną usługą telekomunikacyjną oraz treści SMS,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_4/pkt_1/lit_c",
+         "text": "interfejs HI3 – styk umożliwiający jednokierunkowe, w kierunku od ADMF do LEMF, przesyłanie informacji objętych monitorowaniem;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "interfejs HI A-B – elektroniczny, zdalny i oparty na protokole komunikacyjnym IP interfejs służący do dostarczania przez przedsiębiorcę telekomunikacyjnego do LEA danych, o których mowa w art. 45 ust. 1 ustawy, w którego skład wchodzą:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_4/pkt_2/lit_a",
+         "text": "interfejs HI A – styk służący do realizowania funkcji administracyjnych polegających na przesyłaniu i obsłudze żądań przekazywanych w obu kierunkach między LEMF a ADMF,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_4/pkt_2/lit_b",
+         "text": "interfejs HI B – styk służący do przekazywania przez ADMF wyników żądań składanych za pośrednictwem interfejsu HI A;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_4/pkt_3",
+       "text": "obiekt monitorowany – osobę wskazaną w postanowieniu sądu wydanym na podstawie wniosku albo zarządzenia organu nadzorującego LEA wydanego na podstawie odrębnych przepisów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_4/pkt_4",
+       "text": "buforowanie – magazynowanie danych przez zespół urządzeń przedsiębiorcy telekomunikacyjnego do czasu ich przekazania do LEMF;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_4/pkt_5",
+       "text": "monitorowanie – dostęp do komunikatów elektronicznych i związanych z nimi danych, o których mowa w art. 43 ust. 1 pkt 1 ustawy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Wymagania ogólne dla interfejsu LI HI",
+     "children": [
+      {
+       "type": "text",
+       "text": "5.1. W warstwie fizycznej jest stosowany interfejs standardu Ethernet 100/1000BASE-T, zgodny z IEEE 802.3 [12]. Po akceptacji obu stron dopuszcza się również stosowanie interfejsu światłowodowego. Do obsługi każdego z LEA jest przewidziany oddzielny port w standardzie Ethernet."
+      },
+      {
+       "type": "text",
+       "text": "5.2. Protokołem warstwy sieciowej interfejsu LI HI jest protokół IPv4, zgodny z IETF RFC 0791 [13], lub protokół IPv6, zgodny z IETF RFC 2460 [16] i IETF RFC 4291 [18]. Stosuje się publiczne adresy IP."
+      },
+      {
+       "type": "text",
+       "text": "5.3. Sieć między ADMF a LEMF jest siecią wydzieloną (w ramach WAN), za którą odpowiada LEA. Wyboru protokołu, o którym mowa w pkt 5.2, dostosowania przesyłanych informacji oraz szyfrowania sygnału na łączach WAN dokonuje LEA."
+      },
+      {
+       "type": "text",
+       "text": "5.4. Szyfrowanie transmisji realizuje się poza interfejsem LI HI na poziomie warstwy łącza danych lub warstwy sieciowej."
+      },
+      {
+       "type": "text",
+       "text": "5.5. W celu identyfikacji obiektów monitorowanych wykorzystuje się niepowtarzalny dla każdego obiektu monitorowanego LIID."
+      },
+      {
+       "type": "text",
+       "text": "5.6. Dla każdej usługi w ramach danego kryterium wyboru, o którym mowa w pkt 6.4, jest przydzielany odrębny LIID. W przypadku monitorowania więcej niż jednej usługi w ramach tego samego kryterium wyboru dla każdej kolejnej usługi nadaje się unikalny LIID."
+      },
+      {
+       "type": "text",
+       "text": "5.7. LEMF w żądaniach interfejsu LI HI używa poniżej zdefiniowanego formatu LIID. LIID składa się z dwóch członów: LEAID (LEA Identifier) + SEQ (kolejny niepowtarzalny numer żądania). LIID jest utworzone z 17 znaków numerycznych ASCII od 0 do 9, w tym 2 cyfr określających LEAID oraz 15 cyfr wskazujących numer SEQ, zgodnie z tabelą nr 1. Wartość LEAID jest przydzielona każdemu LEA, zgodnie z tabelą nr 2."
+      },
+      {
+       "type": "text",
+       "text": "Tabela nr 1"
+      },
+      {
+       "type": "text",
+       "text": "LIID"
+      },
+      {
+       "type": "text",
+       "text": "LEAID + SEQ"
+      },
+      {
+       "type": "text",
+       "text": "2 cyfry + 15 cyfr"
+      },
+      {
+       "type": "text",
+       "text": "Np. 01000300056043015"
+      },
+      {
+       "type": "text",
+       "text": "Tabela nr 2"
+      },
+      {
+       "type": "text",
+       "text": "LEAID"
+      },
+      {
+       "type": "text",
+       "text": "Wartość LEA Opis"
+      },
+      {
+       "type": "text",
+       "text": "00 LEMF operatora Przedsiębiorca telekomunikacyjny"
+      },
+      {
+       "type": "text",
+       "text": "01 ABW Agencja Bezpieczeństwa Wewnętrznego"
+      },
+      {
+       "type": "text",
+       "text": "02 POLICJA Policja"
+      },
+      {
+       "type": "text",
+       "text": "03 SKW Służba Kontrwywiadu Wojskowego"
+      },
+      {
+       "type": "text",
+       "text": "04 ZW Żandarmeria Wojskowa 05 SG Straż Graniczna"
+      },
+      {
+       "type": "text",
+       "text": "06 KAS Krajowa Administracja Skarbowa"
+      },
+      {
+       "type": "text",
+       "text": "07 CBA Centralne Biuro Antykorupcyjne"
+      },
+      {
+       "type": "text",
+       "text": "08 SOP Służba Ochrony Państwa"
+      },
+      {
+       "type": "text",
+       "text": "09 BNW Biuro Nadzoru Wewnętrznego"
+      },
+      {
+       "type": "text",
+       "text": "5.8. Dopuszcza się wykorzystanie jednego portu do obsługi więcej niż jednego LEA. Wykorzystanie takiego rozwiązania ustala się na etapie uzgadniania zasad współpracy za pomocą interfejsu między przedsiębiorcą telekomunikacyjnym a zainteresowanymi LEA."
+      },
+      {
+       "type": "text",
+       "text": "5.9. Interfejs LI HI przekazuje do LEMF bez zbędnej zwłoki komunikaty elektroniczne i związane z nimi dane, o których mowa w art. 43 ust. 1 pkt 1 ustawy. Dla interfejsu LI HI jest stosowane 72-godzinne buforowanie."
+      },
+      {
+       "type": "text",
+       "text": "5.10. Po skutecznym przekazaniu do LEMF komunikatów elektronicznych i związanych z nimi danych, o których mowa w art. 43 ust. 1 pkt 1 ustawy, ADMF usuwa je ze swoich zasobów."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Wymagania dla interfejsu HI1",
+     "children": [
+      {
+       "type": "text",
+       "text": "6.1. Interfejs HI1 zapewnia:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_6/pkt_1",
+       "text": "przekazywanie do ADMF żądań w zakresie włączania, modyfikacji i wyłączania monitorowania obiektów monitorowanych oraz zapytań o status obserwacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_6/pkt_2",
+       "text": "przekazywanie od ADMF do LEMF informacji o statusie realizacji zleceń i zapytań oraz informacji o występowaniu awarii;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_6/pkt_3",
+       "text": "możliwość realizacji podstawowych testów diagnostycznych tego interfejsu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_6/pkt_4",
+       "text": "w pełni automatyczną realizację zleceń przekazywanych od LEMF, bez udziału pracowników przedsiębiorcy telekomunikacyjnego.",
+       "children": [
+        {
+         "type": "text",
+         "text": "6.2. W celu aktywacji każdego zlecenia monitorowania LEA określa:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_6/pkt_1",
+       "text": "LIID;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_6/pkt_2",
+       "text": "obiekt monitorowany;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_6/pkt_3",
+       "text": "monitorowaną usługę telekomunikacyjną;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_6/pkt_4",
+       "text": "zakres monitorowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_6/pkt_5",
+       "text": "okres monitorowania.",
+       "children": [
+        {
+         "type": "text",
+         "text": "6.3. Interfejs HI1 zapewnia następujące kryteria wyboru obiektu monitorowanego w sieciach telekomunikacyjnych, stosownie do rodzaju sieci:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_6/pkt_1",
+       "text": "numer abonenta PSTN/ISDN/MSISDN/VoIP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_6/pkt_2",
+       "text": "IMSI;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_6/pkt_3",
+       "text": "IMEI o długości 15 cyfr, zgodny z ETSI ETS 300 927 [8];",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_6/pkt_4",
+       "text": "LOGIN;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_6/pkt_5",
+       "text": "adres IP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_6/pkt_6",
+       "text": "MAC;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_6/pkt_7",
+       "text": "ESN albo MEID.",
+       "children": [
+        {
+         "type": "text",
+         "text": "6.4. Interfejs HI1 zapewnia następujące kryteria wyboru monitorowanych usług telekomunikacyjnych, stosownie do rodzaju sieci:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_6/pkt_1",
+       "text": "połączenia głosowe oraz wiadomości tekstowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_6/pkt_2",
+       "text": "transmisję danych, w tym wiadomości multimedialne.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Dopuszcza się zapewnienie dodatkowych kryteriów wyboru monitorowanych usług telekomunikacyjnych zgodnie z ustaleniami zawartymi w umowie, o której mowa w art. 43 ust. 5 ustawy."
+        },
+        {
+         "type": "text",
+         "text": "6.5. Przez zakres monitorowania LEA wskazuje jeden z dwóch zakresów odnoszących się do danych:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_6/pkt_1",
+       "text": "IRI oraz opcjonalnie treści SMS;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_6/pkt_2",
+       "text": "IRI + CC.",
+       "children": [
+        {
+         "type": "text",
+         "text": "6.6. Wysyłanie zleceń aktywacji następuje w chwili rzeczywistego uruchamiania monitorowania albo z wyprzedzeniem. Maksymalne wyprzedzenie ustala się na etapie uzgadniania zasad współpracy za pomocą interfejsu. W zleceniu aktywacji określa się czas zakończenia monitorowania."
+        },
+        {
+         "type": "text",
+         "text": "6.7. Zlecenie modyfikacji monitorowania obejmuje czas wyłączenia monitorowania."
+        },
+        {
+         "type": "text",
+         "text": "6.8. ADMF przesyła do LEMF informację o czasie faktycznego wykonania zlecenia aktywacji, dezaktywacji albo modyfikacji monitorowania. W przypadku błędu w trakcie wykonywania zlecenia przesyła informację o fakcie pojawienia się błędu lub braku możliwości wykonania zlecenia."
+        },
+        {
+         "type": "text",
+         "text": "6.9. ADMF w odpowiedzi na pytanie o status obserwacji nie przesyła żadnych danych identyfikujących obiekt monitorowany poza LIID."
+        },
+        {
+         "type": "text",
+         "text": "6.10. Zlecenia wystawiane przez użytkownika LEMF, z wyjątkiem weryfikacji stanu obserwacji, są podpisywane elektronicznie."
+        },
+        {
+         "type": "text",
+         "text": "6.11. Formatem stosowanego podpisu elektronicznego żądań interfejsu HI1 jest CMS. Na potrzeby stosowania podpisu elektronicznego są wykorzystywane certyfikaty określone w ETSI TS 102 280 [9], z uwzględnieniem wymagań technicznych dla certyfikatów, o których mowa w ustawie z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2024 r. poz. 1725 oraz z 2026 r. poz. 252), oraz Infrastruktury Klucza Publicznego, będącej systemem kryptograficznym, w którego skład wchodzą urzędy certyfikacyjne, użytkownicy certyfikatów (subskrybenci) oraz oprogramowanie i sprzęt (Public Key Infrastructure)."
+        },
+        {
+         "type": "text",
+         "text": "6.12. Szczegółowa struktura interfejsu HI1 jest przedstawiona w pkt 10."
+        },
+        {
+         "type": "text",
+         "text": "6.13. Za zgodą LEA dopuszcza się pracę interfejsu HI1 w trybie półautomatycznym, w którym pracownik przedsiębiorcy telekomunikacyjnego spełniający wymagania określone w art. 43 ust. 9 ustawy, po odebraniu zlecenia od LEMF wykonuje prace niezbędne do przygotowania sieci przedsiębiorcy telekomunikacyjnego do realizacji zlecenia. Czas na przeprowadzenie tych prac nie przekracza 24 godzin."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Wymagania dla interfejsu HI2",
+     "children": [
+      {
+       "type": "text",
+       "text": "7.1. Informacje związane z objętymi monitorowaniem komunikatami elektronicznymi i związanymi z nimi danymi, o których mowa w art. 43 ust. 1 pkt 1 ustawy, dotyczące świadczonej publicznie dostępnej usługi telekomunikacyjnej są przekazywane do LEMF niezwłocznie, jednak niepóźniej niż 10 minut od zakończenia przekazu."
+      },
+      {
+       "type": "text",
+       "text": "7.2. Przesyłanie do LEMF informacji związanych z objętymi monitorowaniem komunikatami elektronicznymi i związanymi z nimi danymi, o których mowa w art. 43 ust. 1 pkt 1 ustawy, dotyczących świadczonej usługi telekomunikacyjnej odbywa się z wykorzystaniem TCP, zgodnie z ETSI TS 102 232-1 [2], łącznie z mechanizmem potwierdzania PDU (Protocol Data Unit) i zaleceniami dotyczącymi TCP."
+      },
+      {
+       "type": "text",
+       "text": "7.3. Połączenia TCP są inicjowane w kierunku od ADMF do LEMF."
+      },
+      {
+       "type": "text",
+       "text": "7.4. Zawartość strumieni (zawierających IRI) jest kodowana z wykorzystaniem ASN.1/BER zgodnie z:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_7/pkt_1",
+       "text": "ETSI TS 102 232-1 [2] oraz ETSI TS 102 232-7 [6] lub ETSI TS 133 108 [10] albo ETSI TS 133 128 [11] w odniesieniu do usług świadczonych w sieciach ruchomych oraz usług transmisji pakietowej świadczonych w sieciach ruchomych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_7/pkt_2",
+       "text": "ETSI TS 102 232-1 [2] oraz ETSI TS 102 232-6 [5] lub ETSI TS 101 671 [1] w odniesieniu do usług świadczonych w stacjonarnej publicznej sieci telekomunikacyjnej oraz ruchomej publicznej sieci telekomunikacyjnej w technologii 2G/3G;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_7/pkt_3",
+       "text": "ETSI TS 102 232-1 [2] i ETSI TS 102 232-3 [3] w odniesieniu do usług dostępu do internetu w stacjonarnej publicznej sieci telekomunikacyjnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_7/pkt_4",
+       "text": "ETSI TS 102 232-1 [2] i ETSI TS 102 232-5 [4] w odniesieniu do usług VoIP.",
+       "children": [
+        {
+         "type": "text",
+         "text": "7.5. Specyfikacja interfejsu HI2 jest rozszerzona o parametr ExtendedPartyIdentity. Specyfikacja struktur danych w ASN.1 opisujących format tego parametru jest przedstawiona w pkt 11."
+        },
+        {
+         "type": "text",
+         "text": "7.6. Wartości parametrów IRI definiuje się w formatach (np. ISDN user part, DSS1, MAP, IP) zalecanych przez dotyczące ich ETSI, w tym ETSI TS 101 671 [1], ETSI TS 102 232-1 [2], ETSI TS 102 232-3 [3], ETSI TS 102 232-5 [4], ETSI TS 102 232-6 [5] i ETSI TS 102 232-7 [6]."
+        },
+        {
+         "type": "text",
+         "text": "7.7. Po skutecznym przekazaniu rekordów IRI ADMF usuwa związane z nimi dane ze swoich zasobów."
+        },
+        {
+         "type": "text",
+         "text": "7.8. Interfejs HI2 nie wymaga stosowania podpisu elektronicznego."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Wymagania dla interfejsu HI3",
+     "children": [
+      {
+       "type": "text",
+       "text": "8.1. Rozpoczęcie przekazywania do LEMF komunikatów elektronicznych i związanych z nimi danych, o których mowa w art. 43 ust. 1 pkt 1 ustawy, objętych monitorowaniem następuje niepóźniej niż 10 minut od zakończenia przekazu."
+      },
+      {
+       "type": "text",
+       "text": "8.2. Korelacja między rekordami IRI (w interfejsie HI2) a przekazywaną CC (w interfejsie HI3) odbywa się z wykorzystaniem LIID, a w przypadku usług sieci z komutacją kanałów – również parametru CIN (Communication Identity Number)."
+      },
+      {
+       "type": "text",
+       "text": "8.3. Do przekazywania informacji objętych monitorowaniem stosuje się odpowiednio:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_8/pkt_1",
+       "text": "ETSI TS 102 232-1 [2] i ETSI TS 102 232-6 [5] w odniesieniu do usług telekomunikacyjnych świadczonych w ruchomej publicznej sieci telekomunikacyjnej oraz w stacjonarnej publicznej sieci telekomunikacyjnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_8/pkt_2",
+       "text": "ETSI TS 102 232-1 [2] oraz ETSI TS 102 232-3 [3] albo ETSI TS 133 128 [11] w odniesieniu do usług dostępu do internetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_8/pkt_3",
+       "text": "ETSI TS 102 232-1 [2] oraz ETSI TS 102 232-5 [4] albo ETSI TS 133 128 [11] w odniesieniu do usług VoIP.",
+       "children": [
+        {
+         "type": "text",
+         "text": "8.4. Komunikaty elektroniczne i związane z nimi dane, o których mowa w art. 43 ust. 1 pkt 1 ustawy, wysyłane i odbierane przez obiekt monitorowany ADMF przesyła do LEMF w czasie rzeczywistym z wykorzystaniem TCP."
+        },
+        {
+         "type": "text",
+         "text": "8.5. LEA może zwrócić się do przedsiębiorcy telekomunikacyjnego o dostarczenie kodeków umożliwiających prawidłowy odbiór połączeń głosowych i wideo."
+        },
+        {
+         "type": "text",
+         "text": "8.6. Po skutecznym przekazaniu do LEMF komunikatów elektronicznych i związanych z nimi danych, o których mowa w art. 43 ust. 1 pkt 1 ustawy, ADMF usuwa je ze swoich zasobów."
+        },
+        {
+         "type": "text",
+         "text": "8.7. Interfejs HI3 nie wymaga stosowania podpisu elektronicznego."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Wymagania dla interfejsu HI A-B",
+     "children": [
+      {
+       "type": "text",
+       "text": "9.1. Interfejs ADMF jest dostępny w jednym punkcie (jednej lokalizacji) dla wszystkich LEA. Do obsługi każdego z LEA jest przewidziany oddzielny port w standardzie Ethernet."
+      },
+      {
+       "type": "text",
+       "text": "9.2. W warstwie fizycznej jest stosowany interfejs standardu Ethernet 100/1000BASE-T, zgodny z IEEE 802.3 [12]."
+      },
+      {
+       "type": "text",
+       "text": "9.3. Protokołem warstwy sieciowej interfejsu HI A-B jest protokół IPv4, zgodny z IETF RFC 0791 [13], lub protokół IPv6, zgodny z IETF RFC 2460 [16] i IETF RFC 4291 [18]. Stosuje się publiczne adresy IP."
+      },
+      {
+       "type": "text",
+       "text": "9.4. Interfejs HI A-B wymaga stosowania podpisu elektronicznego."
+      },
+      {
+       "type": "text",
+       "text": "9.5. Realizacja interfejsu HI A-B jest zgodna z ETSI TS 102 657 [7]."
+      },
+      {
+       "type": "text",
+       "text": "9.6. Do komunikacji w interfejsie HI A-B stosuje się wariant określony w pkt 7.3 ETSI TS 102 657 [7], w którym:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_9/pkt_1",
+       "text": "w warstwie transportowej jest stosowany TCP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_9/pkt_2",
+       "text": "jest stosowane kodowanie elementów informacyjnych z wykorzystaniem ASN.1/BER.",
+       "children": [
+        {
+         "type": "text",
+         "text": "9.7. Wartość parametru CSPID (Communications Service Provider Identifier) odpowiada numerowi danego przedsiębiorcy telekomunikacyjnemu w rejestrze przedsiębiorców telekomunikacyjnych."
+        },
+        {
+         "type": "text",
+         "text": "9.8. Pole countryCode w parametrze RequestID przyjmuje oznaczenie „PL”."
+        },
+        {
+         "type": "text",
+         "text": "9.9. Pole authorisedOrganisationID w parametrze RequestID przyjmuje wartość LEAID przypisaną danemu LEA w tabeli nr 2 w pkt 5.7."
+        },
+        {
+         "type": "text",
+         "text": "9.10. Nie stosuje się niżej wymienionych rozwiązań opcjonalnych:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_9/pkt_1",
+       "text": "priorytetów dla obsługi żądań skierowanych przez LEA RequestPriority, zgodnie z pkt A.2.2.1 Aneksu A w ETSI TS 102 657 [7];",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_9/pkt_2",
+       "text": "mechanizmu multi-part delivery, zgodnie z pkt 5.1.7 w ETSI TS 102 657 [7];",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_9/pkt_3",
+       "text": "trybu Authorized-Organization-initiated, zgodnie z pkt 5.3 w ETSI TS 102 657 [7].",
+       "children": [
+        {
+         "type": "text",
+         "text": "9.11. Nie wykorzystuje się elementów informacyjnych wymienionych w tabeli nr 3."
+        },
+        {
+         "type": "text",
+         "text": "Tabela nr 3"
+        },
+        {
+         "type": "text",
+         "text": "Numer tabeli w ETSI TS 102 657 [7] Nazwa pola dateOfBirth gender Table A.12: identificationNumber IndividualInfo parameters authenticationInfo profession subscriberID serviceID Table B.3: billingAddress TelephonyBillingDetails parameters billingIdentifier billingRecords time place Table B.4: amount BillingRecords parameters currency method Table B.11: postalLocation Location parameters extendedLocation subscriberID serviceID Table D.3: billingAddress MultimediaBillingDetails parameters billingIdentifier billingRecords time place Table D.4: amount MultimedaBillingRecords parameters currency method Table E.3: octetsDownloaded NAserviceUsage parameters octetsUploaded billingAddress Table E.8: billingIdentifier NABillingDetails parameters billingRecords"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Struktura interfejsu HI1",
+     "children": [
+      {
+       "type": "text",
+       "text": "10.1. Warstwa transportowa:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_10/pkt_1",
+       "text": "jest stosowany TCP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_10/pkt_2",
+       "text": "połączenia TCP są zestawiane w kierunkach:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_10/pkt_2/lit_a",
+         "text": "od ADMF/MF/DF do LEMF (HI1LEMFOperations),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_2/lit_b",
+         "text": "od LEMF do ADMF/MF/DF (HI1ADMFOperations);",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_10/pkt_3",
+       "text": "w ramach jednego połączenia TCP jest wysyłana jedna wiadomość warstwy aplikacyjnej (żądanie, alarm), która jest potwierdzana przez drugą stronę (potwierdzenie otrzymania żądania, alarmu).",
+       "children": [
+        {
+         "type": "text",
+         "text": "10.2. Warstwa aplikacyjna: wysyłane wiadomości są zdefiniowane w ASN.1 i są kodowane w standardzie BER lub DER."
+        },
+        {
+         "type": "text",
+         "text": "10.2.1. Opis:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_10/pkt_1",
+       "text": "przeznaczenie: przesyłanie zleceń aktywacji, dezaktywacji i modyfikacji, zapytań o status zlecenia, alarmów oraz raportów, w tym o statusie interfejsu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_10/pkt_2",
+       "text": "są stosowane dwa protokoły zdefiniowane w ASN.1:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_10/pkt_2/lit_a",
+         "text": "HI1LEMFOperations – protokół przeznaczony do operacji inicjowanych przez LEMF,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_2/lit_b",
+         "text": "HI1ADMFOperations – protokół przeznaczony do przesyłania alarmów i powiadomień wysyłanych przez ADMF;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_10/pkt_3",
+       "text": "protokoły HI1LEMFOperations i HI1ADMFOperations są całkowicie od siebie niezależne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_10/pkt_4",
+       "text": "obsługa każdego z żądań jest realizowana w ramach jednej sesji TCP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_10/pkt_5",
+       "text": "każde żądanie jest potwierdzane przez drugą stronę.",
+       "children": [
+        {
+         "type": "text",
+         "text": "10.2.2. Protokół HI1LEMFOperations:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_10/pkt_1",
+       "text": "żądania przesyłane przez LEMF:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_10/pkt_1/lit_a",
+         "text": "żądania proste: − Hello, − ListRequest,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_1/lit_b",
+         "text": "żądania podpisane: − Activate, − Modificate, z wyjątkiem włączania/wyłączania trybu online, − Deactivate;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_10/pkt_2",
+       "text": "każde żądanie przesłane przez LEMF (Request) jest potwierdzane przez ADMF elementem informacyjnym LEMF (Respond), zgodnie ze schematem przedstawionym na rysunku 1;",
+       "children": [
+        {
+         "type": "text",
+         "text": ": LEMF : ADMF"
+        },
+        {
+         "type": "text",
+         "text": "seq Sesja TCP SYN Handshake 1 <<TCP>> : Request"
+        },
+        {
+         "type": "text",
+         "text": "FIN Handshake 2 : Respond <<TCP>>"
+        },
+        {
+         "type": "text",
+         "text": "HI1LEMFPDU"
+        },
+        {
+         "type": "text",
+         "text": "Rysunek 1. Schemat obsługi żądań"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_10/pkt_3",
+       "text": "LEMF czeka na odpowiedź 10 sekund, a po upływie tego czasu uznaje wysłaną wiadomość za utraconą;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_10/pkt_4",
+       "text": "nad harmonogramem aktywacji i dezaktywacji czuwa LEMF; dopuszcza się przesłanie zlecenia aktywacji z wyprzedzeniem, przy czym zlecenie aktywacji ma określony czas zakończenia monitorowania, a przesunięcie momentu zakończenia monitorowania ponad ten czas wymaga zlecenia modyfikacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_10/pkt_5",
+       "text": "ADMF przesyła do LEMF informacje o założeniu lub zdjęciu monitorowania w elementach sieci przedsiębiorcy telekomunikacyjnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_10/pkt_6",
+       "text": "LEMF ma możliwość zadania zapytania (ListRequest) służącego do weryfikacji statusu monitorowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_10/pkt_7",
+       "text": "zlecenie dezaktywacji oznacza niezwłoczne zakończenie wskazanej obserwacji, a w przypadku obserwacji, która się jeszcze nie rozpoczęła – jej niezrealizowanie, przy czym fakt założenia tej obserwacji odnotowuje się w logach systemu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_10/pkt_8",
+       "text": "modyfikacji podlegają jedynie zlecenia, które się nie zakończyły; modyfikować można czas zakończenia monitorowania, a po rozpoczęciu monitorowania czas startu nie może być już modyfikowany;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_10/pkt_9",
+       "text": "elementy informacyjne protokołu są podzielone na dwie grupy:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_10/pkt_9/lit_a",
+         "text": "Request – elementy informacyjne definiujące żądania wysyłane przez LEMF,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_9/lit_b",
+         "text": "Respond – elementy informacyjne stanowiące odpowiedzi ADMF na otrzymane żądania LEMF;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_10/pkt_10",
+       "text": "między LEMF a ADMF są dopuszczalne następujące interakcje między:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Tabela nr 4"
+        },
+        {
+         "type": "text",
+         "text": "Zapytanie LEMF Odpowiedź ADMF Alternatywna odpowiedź"
+        },
+        {
+         "type": "text",
+         "text": "SignedRequest GeneralRespond"
+        },
+        {
+         "type": "text",
+         "text": "HelloRequest GeneralRespond"
+        },
+        {
+         "type": "text",
+         "text": "ListRequest ListRespond GeneralRespond"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_10/pkt_11",
+       "text": "żądania podpisane (SignedRequest) – sposób tworzenia i weryfikacji wiadomości podpisanych przedstawiono w formie diagramów aktywności na rysunkach 2 i 3.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Określenie parametrów Wysłanie HI1LEMFPDU żądania do ADMF za pomocą TCP"
+        },
+        {
+         "type": "text",
+         "text": "[UnsignedRequestDetail] [HI1LEMFPDU zakodowany ASN.1/DER]"
+        },
+        {
+         "type": "text",
+         "text": "Żądanie zakodowane do ASN.1/DER Zakodowanie [HI1LEMFPDU] HI1LEMFPDU do ASN.1/DER"
+        },
+        {
+         "type": "text",
+         "text": "[DEREncodedUnsignedRequestDetail] Utworzenie Protocol Data Unit"
+        },
+        {
+         "type": "text",
+         "text": "Podpisanie zakodowanego żądania [Podpisane żądanie CMS zgodnie z zakodowane w DER] IETF RFC 5652 [17]"
+        },
+        {
+         "type": "text",
+         "text": "[Certyfikat [klucz prywatny użytkownika LEMF] użytkownika LEMF] (X.509 V.3)]"
+        },
+        {
+         "type": "text",
+         "text": "Rysunek 2. Tworzenie żądania podpisanego Odczyt [HI1LEMFPDU HI1LEMFPDU z zakodowany Dekodowanie [HI1LEMFPDU] gniazda TCP ASN.1/DER] HI1LEMFPDU"
+        },
+        {
+         "type": "text",
+         "text": "Wyodrębnienie obiektu CMS"
+        },
+        {
+         "type": "text",
+         "text": "[Podpisane żądanie CMS zakodowane w DER]"
+        },
+        {
+         "type": "text",
+         "text": "Dekodowanie [DEREncodedUnsignedRequestDetail] Weryfikacja żądania podpisu"
+        },
+        {
+         "type": "text",
+         "text": "[Certyfikat CA"
+        },
+        {
+         "type": "text",
+         "text": "LEMF]"
+        },
+        {
+         "type": "text",
+         "text": "[UnsignedRequestDetail] Realizacja żądania [poprawna]"
+        },
+        {
+         "type": "text",
+         "text": "Wysłanie odpowiedzi"
+        },
+        {
+         "type": "text",
+         "text": "Rysunek 3. Weryfikacja żądania podpisanego"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_10/pkt_12",
+       "text": "uwagi:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_10/pkt_12/lit_a",
+         "text": "CMS – format binarny dokumentu z podpisem (z użyciem kodowania DER) stanowi podzbiór CMS; dokładna specyfikacja jest przedstawiona w IETF RFC 5652 [17],",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_12/lit_b",
+         "text": "identyfikator obiektu OID (Object Identifier) definiujący standard ma w notacji ASN.1 postać:",
+         "children": [
+          {
+           "type": "text",
+           "text": "OBJECT IDENTIFIER ::= { iso(1) member-body(2) us(840) rsadsi(113549) pkcs(1) pkcs-9(9) smime(16) modules(0) cms- 2004(24) }"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_12/lit_c",
+         "text": "struktura UnsignedRequestDetail, przedstawiona na rysunku 6, opisuje szczegóły żądania aktywacji, modyfikacji i dezaktywacji zlecenia; po zakodowaniu do postaci DER jest podpisywana zgodnie ze specyfikacją przedstawioną w IETF RFC 2315 [15],",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_12/lit_d",
+         "text": "monitorowaniu podlegają następujące usługi:",
+         "children": [
+          {
+           "type": "text",
+           "text": "− CS (Mobile),"
+          },
+          {
+           "type": "text",
+           "text": "− PS (Packet Switched),"
+          },
+          {
+           "type": "text",
+           "text": "− InternetAccess,"
+          },
+          {
+           "type": "text",
+           "text": "− InternetTelephony,"
+          },
+          {
+           "type": "text",
+           "text": "− CS (Fixed)."
+          },
+          {
+           "type": "text",
+           "text": "10.2.3. Protokół HI1ADMFOperations:"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_10/pkt_1",
+       "text": "żądania przesyłane przez ADMF:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_10/pkt_1/lit_a",
+         "text": "alarmy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_1/lit_b",
+         "text": "notyfikacje;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_10/pkt_2",
+       "text": "wiadomości są podzielone na dwie grupy, zgodnie ze schematem przedstawionym na rysunku 4:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_10/pkt_2/lit_a",
+         "text": "InfoIndicator – elementy informacyjne definiujące alarmy i notyfikacje wysyłane przez ADMF,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_2/lit_b",
+         "text": "Acknowledge – elementy informacyjne potwierdzające otrzymanie wiadomości przez ADMF;",
+         "children": [
+          {
+           "type": "text",
+           "text": ": ADMF : LEMF"
+          },
+          {
+           "type": "text",
+           "text": "Rysunek 4. Schemat obsługi żądań"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_10/pkt_3",
+       "text": "między ADMF a LEMF są dopuszczalne następujące interakcje między:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Tabela nr 5"
+        },
+        {
+         "type": "text",
+         "text": "Wiadomość ADMF Odpowiedź LEMF"
+        },
+        {
+         "type": "text",
+         "text": "HelloRequest GeneralRespond"
+        },
+        {
+         "type": "text",
+         "text": "AlarmIndicator GeneralRespond"
+        },
+        {
+         "type": "text",
+         "text": "NotificationIndicator GeneralRespond"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_10/pkt_4",
+       "text": "inne wymagania:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_10/pkt_4/lit_a",
+         "text": "każde przesłane żądanie (InfoIndicator) jest potwierdzane przez LEMF (Acknowledge),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_4/lit_b",
+         "text": "potwierdzenie jest realizowane w ciągu 5 sekund,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_4/lit_c",
+         "text": "alarmy mają dwa stany: włączony i wyłączony (pole status),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_4/lit_d",
+         "text": "żądanie wyłączające alarm może zawierać tylko jego identyfikator (identity).",
+         "children": [
+          {
+           "type": "text",
+           "text": "10.3. Protokół HI1LEMFPDU"
+          },
+          {
+           "type": "text",
+           "text": "10.3.1. Struktura protokołu HI1LEMFPDU jest przedstawiona na rysunku 5."
+          },
+          {
+           "type": "text",
+           "text": "HI1LEMFPDU Content +version"
+          },
+          {
+           "type": "text",
+           "text": "Request Respond"
+          },
+          {
+           "type": "text",
+           "text": "Rysunek 5. Struktura protokołu HI1LEMFPDU 10.3.2. Specyfikacja ASN.1 dla protokołu HI1LEMFPDU"
+          },
+          {
+           "type": "text",
+           "text": "HI1LEMFOperations DEFINITIONS AUTOMATIC TAGS ::= BEGIN IMPORTS LawfulInterceptionIdentifier, TimeStamp FROM UnsignedRequestDetail;"
+          },
+          {
+           "type": "text",
+           "text": "HI1LEMFPDU ::= SEQUENCE {version [0] Version, content [1] Content, operator [2] UTF8String OPTIONAL, ...}"
+          },
+          {
+           "type": "text",
+           "text": "Version ::= ENUMERATED { version1 (1), ... }"
+          },
+          {
+           "type": "text",
+           "text": "Content ::= CHOICE { request [1] Request, respond [2] Respond, ... }"
+          },
+          {
+           "type": "text",
+           "text": "SignedRequest ::= SEQUENCE { version [1] SignedRequestVersion, signStandard [2] OBJECT IDENTIFIER, -- CryptographicMessageSyntax2004 { iso(1) member-body(2) us(840) rsadsi(113549) pkcs(1) pkcs-9(9) smime(16) modules(0) cms-2004(24) cmsDERSignedRequest [3] OCTET STRING, -- cmsDERSignedRequest [3] ANY DEFINED BY signStandard ... }"
+          },
+          {
+           "type": "text",
+           "text": "Request ::= CHOICE { simpleRequest [1] SimpleRequest, signedRequest [2] SignedRequest, ... }"
+          },
+          {
+           "type": "text",
+           "text": "SimpleRequest ::= CHOICE { helloRequest [1] HelloRequest, listRequest [2] ListRequest,"
+          },
+          {
+           "type": "text",
+           "text": "SignedRequestVersion ::= ENUMERATED { v1 (0), ... }"
+          },
+          {
+           "type": "text",
+           "text": "HelloRequest ::= SEQUENCE { message [1] UTF8String, ... }"
+          },
+          {
+           "type": "text",
+           "text": "Respond ::= CHOICE { generalRespond [1] GeneralRespond, listRespond [2] ListRespond, ... }"
+          },
+          {
+           "type": "text",
+           "text": "GeneralRespond ::= SEQUENCE { result [1] Result, message [2] UTF8String OPTIONAL, -- return Hello request message ... }"
+          },
+          {
+           "type": "text",
+           "text": "Result ::= ENUMERATED { ok (1), missing-parameter (2), unknown-parameter (3), unknown-parameter-value (4), incorrect-BER (5), badSignature (6), certificateExpired (7), unknownError (10), unsupportedService (11), ... }"
+          },
+          {
+           "type": "text",
+           "text": "CheckRespond ::= SEQUENCE { liid [1] LawfulInterceptionIdentifier, checkStatus [2] CheckStatus, message [3] UTF8String OPTIONAL, ... } CheckStatus ::= ENUMERATED { notFound (0), waiting (1), -- założone przez lemf, nie ma w cn (czeka na zatwierdzenie lub ) cnActivated (2), -- jest w cn unknown (3), deActivated (4), -- po dezaktywowaniu w cn ... }"
+          },
+          {
+           "type": "text",
+           "text": "ListRequest ::= SEQUENCE { type [1] ListType, liid [2] LawfulInterceptionIdentifier OPTIONAL, ... }"
+          },
+          {
+           "type": "text",
+           "text": "ListRespond ::= SET OF CheckRespond"
+          },
+          {
+           "type": "text",
+           "text": "ListType ::= ENUMERATED { all (1), specific (2), ... }"
+          },
+          {
+           "type": "text",
+           "text": "END"
+          },
+          {
+           "type": "text",
+           "text": "10.4. UnsignedRequestDetail"
+          },
+          {
+           "type": "text",
+           "text": "10.4.1. Struktura UnsignedRequestDetail jest przedstawiona na rysunku 6."
+          },
+          {
+           "type": "text",
+           "text": "UnsignedRequestDetail"
+          },
+          {
+           "type": "text",
+           "text": "+time: TimeStamp"
+          },
+          {
+           "type": "text",
+           "text": "Command"
+          },
+          {
+           "type": "text",
+           "text": "Activate Deactivate Modificate +liid: LawfulInterceptionIdentifier +liid: LawfulInterceptionIdentifier +startDate: TimeStamp +liid: LawfulInterceptionIdentifier +stopDate: TimeStamp +warrantID: UTF8String +stopDate: TimeStamp +warrantID: UTF8String +warrantID: UTF8String"
+          },
+          {
+           "type": "text",
+           "text": "Service CircuitSwitchedFixed"
+          },
+          {
+           "type": "text",
+           "text": "+target: Target"
+          },
+          {
+           "type": "text",
+           "text": "+monitoringType: MonitoringType"
+          },
+          {
+           "type": "text",
+           "text": "CircuitSwitchedMobile InternetTelephony +target: Target +monitoringType: MonitoringType +target: Target +stereo: Stereo +monitoringType: MonitoringType"
+          },
+          {
+           "type": "text",
+           "text": "InternetAccess PacketSwitched +target: Target +target: Target +monitoringType: MonitoringType +monitoringType: MonitoringType"
+          },
+          {
+           "type": "text",
+           "text": "Rysunek 6. Struktura UnsignedRequestDetail"
+          },
+          {
+           "type": "text",
+           "text": "10.4.2. Specyfikacja ASN.1 dla UnsignedRequestDetail"
+          },
+          {
+           "type": "text",
+           "text": "UnsignedRequestDetail DEFINITIONS AUTOMATIC TAGS ::="
+          },
+          {
+           "type": "text",
+           "text": "BEGIN"
+          },
+          {
+           "type": "text",
+           "text": "UnsignedRequestDetail ::= SEQUENCE"
+          },
+          {
+           "type": "text",
+           "text": "{"
+          },
+          {
+           "type": "text",
+           "text": "time [1] TimeStamp,"
+          },
+          {
+           "type": "text",
+           "text": "command [2] Command,"
+          },
+          {
+           "type": "text",
+           "text": "operator [2] UTF8String OPTIONAL,"
+          },
+          {
+           "type": "text",
+           "text": "..."
+          },
+          {
+           "type": "text",
+           "text": "} Command ::= CHOICE { activate [1] Activate, deactivate [2] Deactivate, modificate [3] Modificate, ... }"
+          },
+          {
+           "type": "text",
+           "text": "Activate ::= SEQUENCE { lawfulInterceptionIdentifier [1] LawfulInterceptionIdentifier, startTimestamp [2] TimeStamp, stopTimestap [3] TimeStamp, service [4] Service, warrantID [5] UTF8String, ... }"
+          },
+          {
+           "type": "text",
+           "text": "Modificate ::= SEQUENCE { lawfulInterceptionIdentifier [1] LawfulInterceptionIdentifier, stopTimestap [3] TimeStamp, warrantID [5] UTF8String, ... }"
+          },
+          {
+           "type": "text",
+           "text": "Deactivate ::= SEQUENCE { lawfulInterceptionIdentifier [1] LawfulInterceptionIdentifier, warrantID [5] UTF8String OPTIONAL, ... } Service ::= CHOICE { circuitSwitchedMobile [1] CircuitSwitchedMobile, packetSwitched [2] PacketSwitched, wifi [3] WIFI, -- not used xdsl [4] XDSL, -- not used internetAccess [5] InternetAccess, internetTelephony [6] InternetTelephony, circuitSwitchedFixed [7] CircuitSwitchedFixed, generic [8] GenericService, - stosuje się jako podstawowy sposób przekazywania identyfikatorów celu"
+          },
+          {
+           "type": "text",
+           "text": "... }"
+          },
+          {
+           "type": "text",
+           "text": "GenericService ::= SEQUENCE { identityType [1] UTF8String (SIZE(1..20)), identityValue [2] UTF8String, service [3] UFT8String OPTIONAL, ... }"
+          },
+          {
+           "type": "text",
+           "text": "CircuitSwitchedMobile ::= SEQUENCE { target [1] Target, monitoringType [2] MonitoringType, stereo [5] Stereo, ... }"
+          },
+          {
+           "type": "text",
+           "text": "Stereo ::= ENUMERATED { off (0), on (1) }"
+          },
+          {
+           "type": "text",
+           "text": "PacketSwitched ::= SEQUENCE { target [1] Target, monitoringType [2] MonitoringType, ... }"
+          },
+          {
+           "type": "text",
+           "text": "WIFI ::= SEQUENCE { target [1] Target, ... }"
+          },
+          {
+           "type": "text",
+           "text": "XDSL ::= SEQUENCE { target [1] Target, ... }"
+          },
+          {
+           "type": "text",
+           "text": "InternetAccess::= SEQUENCE { target [1] Target, monitoringType [2] MonitoringType, ... }"
+          },
+          {
+           "type": "text",
+           "text": "InternetTelephony ::= SEQUENCE { target [1] Target, monitoringType [2] MonitoringType, ... } CircuitSwitchedFixed ::= SEQUENCE { target [1] Target, monitoringType [2] MonitoringType, ... }"
+          },
+          {
+           "type": "text",
+           "text": "Target ::= CHOICE { mSISDN [1] MSISDN, -- wykorzystywany również jako numer abonenta ISDN/PSTN lub telefonii internetowej(o ile jest to numer zgodny z E.164) iMSI [2] IMSI, iMEI [3] IMEI, login [4] Login, iPAddress [5] IPAddress, mAC [6] MAC, eSN [7] ESN, ... }"
+          },
+          {
+           "type": "text",
+           "text": "MSISDN ::= OCTET STRING (SIZE (1..9)) IMSI ::= OCTET STRING (SIZE (3..8)) IMEI ::= OCTET STRING (SIZE (8)) Login ::= OCTET STRING (SIZE (1..120)) IPAddress ::= OCTET STRING (SIZE (4)) MAC ::= OCTET STRING (SIZE (6)) ESN ::= OCTET STRING (SIZE (8))"
+          },
+          {
+           "type": "text",
+           "text": "SIPURL ::= UTF8String"
+          },
+          {
+           "type": "text",
+           "text": "MonitoringType ::= ENUMERATED { iri (1), iriCC (2),"
+          },
+          {
+           "type": "text",
+           "text": "..."
+          },
+          {
+           "type": "text",
+           "text": "}"
+          },
+          {
+           "type": "text",
+           "text": "LawfulInterceptionIdentifier ::= OCTET STRING (SIZE (1..25))"
+          },
+          {
+           "type": "text",
+           "text": "-- It is recommended to use ASCII characters in 0 … 9 ."
+          },
+          {
+           "type": "text",
+           "text": "-- For subaddress option only 0 ... 9 shall be used."
+          },
+          {
+           "type": "text",
+           "text": "-- 17 znaków numerycznych ASCII"
+          },
+          {
+           "type": "text",
+           "text": "-- format: LEAID + TARGET(SEQ)"
+          },
+          {
+           "type": "text",
+           "text": "-- TARGET - (15 znaków) nadawany sekwencyjnie dla każdego LEAID"
+          },
+          {
+           "type": "text",
+           "text": "-- LEAID -(2 znaki) 00 – LEMF operatora, 01 - ABW, 02 - Policja, 03 - SKW, 04 - ZW, 05 - SG, 06 – KAS, 07 - CBA, 08- SOP, 09 - BNW"
+          },
+          {
+           "type": "text",
+           "text": "TimeStamp ::= CHOICE"
+          },
+          {
+           "type": "text",
+           "text": "{"
+          },
+          {
+           "type": "text",
+           "text": "-- The minimum resolution required is one second."
+          },
+          {
+           "type": "text",
+           "text": "-- Resolution\" is the smallest incremental change that can be measured for time and"
+          },
+          {
+           "type": "text",
+           "text": "-- is expressed with a definite number of decimal digits or bits."
+          },
+          {
+           "type": "text",
+           "text": "localTime [0] LocalTimeStamp,"
+          },
+          {
+           "type": "text",
+           "text": "utcTime [1] UTCTime"
+          },
+          {
+           "type": "text",
+           "text": "}"
+          },
+          {
+           "type": "text",
+           "text": "LocalTimeStamp ::= SEQUENCE"
+          },
+          {
+           "type": "text",
+           "text": "{"
+          },
+          {
+           "type": "text",
+           "text": "generalizedTime [0] GeneralizedTime,"
+          },
+          {
+           "type": "text",
+           "text": "-- The minimum resolution required is one second."
+          },
+          {
+           "type": "text",
+           "text": "-- \"Resolution\" is the smallest incremental change that can be measured for time and"
+          },
+          {
+           "type": "text",
+           "text": "-- is expressed with a definite number of decimal digits or bits."
+          },
+          {
+           "type": "text",
+           "text": "winterSummerIndication [1] ENUMERATED"
+          },
+          {
+           "type": "text",
+           "text": "{ notProvided(0),"
+          },
+          {
+           "type": "text",
+           "text": "winterTime(1),"
+          },
+          {
+           "type": "text",
+           "text": "summerTime(2)"
+          },
+          {
+           "type": "text",
+           "text": "}"
+          },
+          {
+           "type": "text",
+           "text": "}"
+          },
+          {
+           "type": "text",
+           "text": "END"
+          },
+          {
+           "type": "text",
+           "text": "10.5. Protokół HI1ADMFPDU"
+          },
+          {
+           "type": "text",
+           "text": "10.5.1. Struktura protokołu HI1ADMFPDU jest przedstawiona na rysunku 7."
+          },
+          {
+           "type": "text",
+           "text": "HI1ADMFPDU Content"
+          },
+          {
+           "type": "text",
+           "text": "+version"
+          },
+          {
+           "type": "text",
+           "text": "InfoIndicator Acknowledge"
+          },
+          {
+           "type": "text",
+           "text": "HelloRequest GeneralRespond +message: UTF8String +result: Result +message: UTF8String"
+          },
+          {
+           "type": "text",
+           "text": "AlarmIndicator"
+          },
+          {
+           "type": "text",
+           "text": "+identity: integer"
+          },
+          {
+           "type": "note",
+           "text": "[Na stronie 28 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+          },
+          {
+           "type": "text",
+           "text": "+alarmID: AlarmID +description: UTF8String +timestamp: TimeStamp +timestamp-on: TimeStamp +timestamp-off: TimeStamp NotificationIndicator +status: AlarmStatus +nature-of-alarm: Nature-Of-The-intercepted-call +identity: integer +range-of-alarm: NetPartType +notificationID: NotificationID +targettype: TargetType +description: UTF8String +liid: LawfulInterceptionIdentifier +timestamp: TimeStamp +cid: UTF8String +timestamp-on: TimeStamp +cid-GPRS: GPRSCorrelationNumber +nature-of-cn: Nature-Of-The-intercepted-call +liid: LawfulInterceptionIdentifier"
+          },
+          {
+           "type": "text",
+           "text": "Rysunek 7. Struktura protokołu HI1ADMFPDU 10.5.2. Specyfikacja ASN.1 dla protokołu HI1ADMFPDU"
+          },
+          {
+           "type": "text",
+           "text": "HI1ADMFOperations DEFINITIONS AUTOMATIC TAGS ::= BEGIN"
+          },
+          {
+           "type": "text",
+           "text": "IMPORTS LawfulInterceptionIdentifier, TimeStamp FROM UnsignedRequestDetail; HI1ADMFPDU ::= SEQUENCE { version [0] Version, content [1] Content operator [2] UTF8String OPTIONAL, }"
+          },
+          {
+           "type": "text",
+           "text": "Version ::= ENUMERATED { version1 (1), ... }"
+          },
+          {
+           "type": "text",
+           "text": "Content ::= CHOICE { info [0] InfoIndicator, acknowledge [1] Acknowledge, ... }"
+          },
+          {
+           "type": "text",
+           "text": "InfoIndicator ::= CHOICE { helloRequest [1] HelloRequest, alarm [2] AlarmIndicator, notification [3] NotificationIndicator, ..."
+          },
+          {
+           "type": "text",
+           "text": "}"
+          },
+          {
+           "type": "text",
+           "text": "HelloRequest ::= SEQUENCE"
+          },
+          {
+           "type": "text",
+           "text": "{"
+          },
+          {
+           "type": "text",
+           "text": "message [1] UTF8String,"
+          },
+          {
+           "type": "text",
+           "text": "..."
+          },
+          {
+           "type": "text",
+           "text": "}"
+          },
+          {
+           "type": "text",
+           "text": "AlarmIndicator ::= SEQUENCE"
+          },
+          {
+           "type": "text",
+           "text": "{"
+          },
+          {
+           "type": "text",
+           "text": "identity [0] INTEGER, -- numer pozwalający na jednoznaczną identyfikację alarmu razem z timestamp-on"
+          },
+          {
+           "type": "text",
+           "text": "alarmID [1] AlarmID,"
+          },
+          {
+           "type": "text",
+           "text": "description [2] UTF8String OPTIONAL, -- dodatkowe informacje, opis, kod błędu (np. z alarmu z MSC), tzw. powód"
+          },
+          {
+           "type": "text",
+           "text": "timestamp [3] TimeStamp, -- czas wysłania alarmu"
+          },
+          {
+           "type": "text",
+           "text": "timestamp-on [4] TimeStamp OPTIONAL, -- czas wystąpienia alarmowanego zdarzenia"
+          },
+          {
+           "type": "text",
+           "text": "timestamp-off [5] TimeStamp OPTIONAL, -- czas wystąpienia zdarzenia odwrotnego do zdarzenia alarmowanego"
+          },
+          {
+           "type": "text",
+           "text": "status [6] AlarmStatus OPTIONAL, -- powstanie/ustanie alarmu"
+          },
+          {
+           "type": "text",
+           "text": "-- podobne nature-Of-The-intercepted-call z HI2 (jeżeli błąd globalny to wszystkie service)"
+          },
+          {
+           "type": "text",
+           "text": "nature-of-alarm [7] Nature-Of-The-intercepted-call OPTIONAL,"
+          },
+          {
+           "type": "text",
+           "text": "range-of-alarm [8] NetPartType OPTIONAL, -- dotyczy całej sieci CN czy tylko jej części (np.: tylko jeden GGSN, jedna centrala)"
+          },
+          {
+           "type": "text",
+           "text": "targettype [9] TargetType OPTIONAL, -- dotyczy konkretnego LIID lub konkretnej sesji albo wszystkich obserwacji"
+          },
+          {
+           "type": "text",
+           "text": "liid [10] LawfulInterceptionIdentifier OPTIONAL,"
+          },
+          {
+           "type": "text",
+           "text": "cid [11] UTF8String OPTIONAL, -- z HI2 (chodzi o wskazanie konkretnej rozmowy lub sesji)"
+          },
+          {
+           "type": "text",
+           "text": "cid-GPRS [12] GPRSCorrelationNumber OPTIONAL, -- z HI2 (chodzi o wskazanie konkretnej rozmowy lub sesji)"
+          },
+          {
+           "type": "text",
+           "text": "..."
+          },
+          {
+           "type": "text",
+           "text": "}"
+          },
+          {
+           "type": "text",
+           "text": "Nature-Of-The-intercepted-call ::= ENUMERATED"
+          },
+          {
+           "type": "text",
+           "text": "{"
+          },
+          {
+           "type": "text",
+           "text": "-- Nature of the intercepted call :"
+          },
+          {
+           "type": "text",
+           "text": "gSM-ISDN-PSTN-circuit-call(0),"
+          },
+          {
+           "type": "text",
+           "text": "-- the possible UUS content is sent through the HI2 or HI3 \"data interface"
+          },
+          {
+           "type": "text",
+           "text": "-- the possible call content call is established through the HI3 \"circuit interface"
+          },
+          {
+           "type": "text",
+           "text": "gSM-SMS-Message(1),"
+          },
+          {
+           "type": "text",
+           "text": "-- the SMS content is sent through the HI2 or HI3 data interface"
+          },
+          {
+           "type": "text",
+           "text": "uUS4-Messages(2),"
+          },
+          {
+           "type": "text",
+           "text": "-- the UUS content is sent through the HI2 or HI3 data interface"
+          },
+          {
+           "type": "text",
+           "text": "tETRA-circuit-call(3),"
+          },
+          {
+           "type": "text",
+           "text": "-- the possible call content call is established through the HI3 \"circuit interface"
+          },
+          {
+           "type": "text",
+           "text": "-- the possible data are sent through the HI3 data interface"
+          },
+          {
+           "type": "text",
+           "text": "teTRA-Packet-Data(4),"
+          },
+          {
+           "type": "text",
+           "text": "-- the data are sent through the HI3 data interface"
+          },
+          {
+           "type": "text",
+           "text": "gPRS-Packet-Data(5),"
+          },
+          {
+           "type": "text",
+           "text": "-- the data are sent through the HI3 data interface"
+          },
+          {
+           "type": "text",
+           "text": "uMTS-circuit-call(6),"
+          },
+          {
+           "type": "text",
+           "text": "-- the possible call content call is established through the HI3 \"circuit interface"
+          },
+          {
+           "type": "text",
+           "text": "-- the possible data are sent through the HI3 \"data\" interface"
+          },
+          {
+           "type": "text",
+           "text": "wIFI (11), -- not used"
+          },
+          {
+           "type": "text",
+           "text": "xDSL (12), -- not used"
+          },
+          {
+           "type": "text",
+           "text": "internetAccess (13),"
+          },
+          {
+           "type": "text",
+           "text": "internetTelephony (14),"
+          },
+          {
+           "type": "text",
+           "text": "..."
+          },
+          {
+           "type": "text",
+           "text": "} NotificationIndicator ::= SEQUENCE"
+          },
+          {
+           "type": "text",
+           "text": "{"
+          },
+          {
+           "type": "text",
+           "text": "identity [0] INTEGER, -- numer pozwalający na jednoznaczną identyfikację alarmu razem z timestamp-on"
+          },
+          {
+           "type": "text",
+           "text": "notificationID [1] NotificationID,"
+          },
+          {
+           "type": "text",
+           "text": "description [2] UTF8String OPTIONAL, -- dodatkowe informacje, opis, kod błędu (np. z MSC), tzw. powód"
+          },
+          {
+           "type": "text",
+           "text": "timestamp [3] TimeStamp, -- czas wysłania powiadomienia"
+          },
+          {
+           "type": "text",
+           "text": "timestampEvent [4] TimeStamp, -- czas wystąpienia zdarzenia, którego dotyczy powiadomienie"
+          },
+          {
+           "type": "text",
+           "text": "liid [5] LawfulInterceptionIdentifier OPTIONAL,"
+          },
+          {
+           "type": "text",
+           "text": "..."
+          },
+          {
+           "type": "text",
+           "text": "}"
+          },
+          {
+           "type": "text",
+           "text": "AlarmID ::= ENUMERATED"
+          },
+          {
+           "type": "text",
+           "text": "{"
+          },
+          {
+           "type": "text",
+           "text": "sm-buffer-overflow (0), -- bufory wyjściowe w kierunku LEMF przepełnione => IRI i/lub CC tracone (operator)"
+          },
+          {
+           "type": "text",
+           "text": "lemf-hi3-online-delivery-failure (1), -- problem z monitoringiem online (LEMF)"
+          },
+          {
+           "type": "text",
+           "text": "lemf-hi3-delivery-failure (2), -- problem z zapisywaniem danych HI3 (LEMF)"
+          },
+          {
+           "type": "text",
+           "text": "lemf-hi2-delivery-failure (3), -- problem z zapisywaniem danych HI2 (LEMF)"
+          },
+          {
+           "type": "text",
+           "text": "lemf-hi1-delivery-failure (4), -- problem z monitoringiem online (LEMF)"
+          },
+          {
+           "type": "text",
+           "text": "sm-hi1-failure (5), -- brak lub przeciążenie komunikacji z CN na interfejsie HI1 (SM operatora)"
+          },
+          {
+           "type": "text",
+           "text": "sm-hi2-failure (6), -- brak lub przeciążenie komunikacji z CN na interfejsie HI2 (SM operatora)"
+          },
+          {
+           "type": "text",
+           "text": "sm-hi3-failure (7), -- brak lub przeciążenie komunikacji z CN na interfejsie HI3 (SM operatora)"
+          },
+          {
+           "type": "text",
+           "text": "sm-hi3-online-failure (8), -- brak lub przeciążenie komunikacji z CN na interfejsie HI3 (SM operatora)"
+          },
+          {
+           "type": "text",
+           "text": "major-system-failure (9), -- poważne uszkodzenie SM => konieczne sprawdzenie spójności BD (SM operatora)"
+          },
+          {
+           "type": "text",
+           "text": "-- zarządzanie obserwacjami prawidłowe, ale inne funkcje SM mogą nie działać (np. część obserwacji stracona) (SM operatora) minor-system-failure (10),"
+          },
+          {
+           "type": "text",
+           "text": "cn-activation-error (11), -- obserwacja niezałożona w CN a czas na nią (LIID obowiązkowy) (SM operatora)"
+          },
+          {
+           "type": "text",
+           "text": "cn-deactivation-error (12), -- obserwacja nieusunięta z CN a czas na nią (LIID obowiązkowy) (SM operatora)"
+          },
+          {
+           "type": "text",
+           "text": "major-cn-li-failure (13), -- po stronie CN LI całkowicie nie funkcjonowało, BD obserwacji odbudowane w CN (SM operatora)"
+          },
+          {
+           "type": "text",
+           "text": "minor-cn-li-failure (14), -- po stronie CN pewne funkcje LI nie działały (SM operatora)"
+          },
+          {
+           "type": "text",
+           "text": "manual-system-failure (15), -- informacja wprowadzana ręcznie: uszkodzenie w CN lub SM (SM operatora)"
+          },
+          {
+           "type": "text",
+           "text": "manual-system-maintenance (20), -- informacja wprowadzana ręcznie o pracach planowych w systemie SM operatora (SM operatora)"
+          },
+          {
+           "type": "text",
+           "text": "..."
+          },
+          {
+           "type": "text",
+           "text": "}"
+          },
+          {
+           "type": "text",
+           "text": "AlarmStatus ::= ENUMERATED"
+          },
+          {
+           "type": "text",
+           "text": "{"
+          },
+          {
+           "type": "text",
+           "text": "off (0),"
+          },
+          {
+           "type": "text",
+           "text": "on (1),"
+          },
+          {
+           "type": "text",
+           "text": "..."
+          },
+          {
+           "type": "text",
+           "text": "}"
+          },
+          {
+           "type": "text",
+           "text": "NetPartType ::= ENUMERATED"
+          },
+          {
+           "type": "text",
+           "text": "{"
+          },
+          {
+           "type": "text",
+           "text": "whole (1),"
+          },
+          {
+           "type": "text",
+           "text": "part (2),"
+          },
+          {
+           "type": "text",
+           "text": "..."
+          },
+          {
+           "type": "text",
+           "text": "}"
+          },
+          {
+           "type": "text",
+           "text": "TargetType ::= ENUMERATED"
+          },
+          {
+           "type": "text",
+           "text": "{"
+          },
+          {
+           "type": "text",
+           "text": "all (1),"
+          },
+          {
+           "type": "text",
+           "text": "specific (2),"
+          },
+          {
+           "type": "text",
+           "text": "..."
+          },
+          {
+           "type": "text",
+           "text": "} NotificationID ::= ENUMERATED { target-activated (0), target-deactivated (1), target-modificated (2), ... }"
+          },
+          {
+           "type": "text",
+           "text": "Acknowledge ::= CHOICE { respond [0] GeneralRespond, ... }"
+          },
+          {
+           "type": "text",
+           "text": "GeneralRespond ::= SEQUENCE { result [1] Result, message [2] UTF8String OPTIONAL, ... }"
+          },
+          {
+           "type": "text",
+           "text": "Result ::= ENUMERATED { ok (1), missing-parameter (2), unknown-parameter (3), unknown-parameter-value (4), incorrect-BER (5), badSignature (6), certificateExpired (7), unknownError (10), ... }"
+          },
+          {
+           "type": "text",
+           "text": "GPRSCorrelationNumber ::= OCTET STRING (SIZE(8..20))"
+          },
+          {
+           "type": "text",
+           "text": "END"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Format parametru ExtendedPartyIdentity",
+     "children": [
+      {
+       "type": "text",
+       "text": "PartyInformation ::= SEQUENCE { ... partyExtendedIdentity [PRIVATE 1] PartyExtendedIdentity OPTIONAL, ... }"
+      },
+      {
+       "type": "text",
+       "text": "PartyExtendedIdentity ::= SEQUENCE { subscriptionType [1] ENUMERATED { postpaid (0), prepaid (1), ... } OPTIONAL,"
+      },
+      {
+       "type": "text",
+       "text": "activationDate [2] TimeStamp OPTIONAL, deactivationDate [3] TimeStamp OPTIONAL, subscriber [4] Subscriber OPTIONAL, postalAddress [5] PostalAddress OPTIONAL, mailAddress [6] MailAddress OPTIONAL, ... }"
+      },
+      {
+       "type": "text",
+       "text": "Subscriber ::= CHOICE { company [1] Company, person [2] Person, ... } Company ::= SEQUENCE { name [0] UTF8String, regon [1] OCTET STRING (SIZE (5)) OPTIONAL, -- BCD coded 9 digits -- F digit not used ... }"
+      },
+      {
+       "type": "text",
+       "text": "Person ::= SEQUENCE { firstName [0] UTF8String, surname [1] UTF8String, pesel [2] OCTET STRING (SIZE (6)) OPTIONAL, -- BCD coded 11 digits -- F digit not used passportNumber [3] OCTET STRING (SIZE (7..14)) OPTIONAL, -- ASCII coded ... }"
+      },
+      {
+       "type": "text",
+       "text": "PostalAddress ::= SEQUENCE { street [1] UTF8String OPTIONAL, buildingNumber [2] OCTET STRING (SIZE (1..10)) OPTIONAL, -- ASCII coded: 10 char apartmentNumber [3] OCTET STRING (SIZE (1..10)) OPTIONAL, -- ASCII coded: 10 char postcode [4] OCTET STRING (SIZE (1..8)) OPTIONAL, city [5] UTF8String OPTIONAL, country [6] UTF8String OPTIONAL }"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYMAGANIA TECHNICZNE I EKSPLOATACYJNE DLA INTERFEJSÓW"
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Dokumenty powołane"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wykaz dokumentów powołanych:",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. ETSI ES 201 671 V3.1.1 Lawful Interception (LI); Handover interface for the lawful interception of telecommunications traffic, zwany dalej „ETSI ES 201 671”."
+      },
+      {
+       "type": "text",
+       "text": "1.2. ETSI TS 102 232-1 V2.5.1 Lawful Interception (LI); Handover Interface and Service-Specific Details (SSD) for IP delivery; Part 1: Handover specification for IP delivery, zwany dalej „ETSI TS 102 232-1”."
+      },
+      {
+       "type": "text",
+       "text": "1.3. ETSI TS 102 232-3 V2.2.1 Lawful Interception (LI); Handover Interface and Service-Specific Details (SSD) for IP delivery; Part 3: Service-specific details for internet access services, zwany dalej „ETSI TS 102 232-3”."
+      },
+      {
+       "type": "text",
+       "text": "1.4. ETSI TS 102 232-5 V2.5.1 Lawful Interception (LI); Handover Interface and Service-Specific Details (SSD) for IP delivery; Part 5: Service-specific details for IP Multimedia Services, zwany dalej „ETSI TS 102 232-5”."
+      },
+      {
+       "type": "text",
+       "text": "1.5. ETSI TS 102 232-6 V2.3.1 Lawful Interception (LI);Handover Interface and Service-Specific Details (SSD) for IP delivery;Part 6: Service-specific details for PSTN/ISDN services, zwany dalej „ETSI TS 102 232-6”."
+      },
+      {
+       "type": "text",
+       "text": "1.6. ETSI ETS 300 927 Digital cellular telecommunications system (Phase 2+) (GSM); Numbering, addressing and identification (GSM 03.03 version 5.2.1 Release 1996), zwany dalej „ETSI ETS 300 927”."
+      },
+      {
+       "type": "text",
+       "text": "1.7. ETSI TS 102 280 V1.1.1 X.509 V.3 Certificate Profile for Certificates Issued to Natural Persons (2004-03), zwany dalej „ETSI TS 102 280”."
+      },
+      {
+       "type": "text",
+       "text": "1.8. 802.3ab-1999 IEEE Standard for Information Technology – Telecommunications and information exchange between systems – Local and Metropolitan Area Networks – Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications – Physical Layer Parameters and Specifications for 1000 Mb/s Operation over 4 pair of Category 5 Balanced Copper Cabling, Type 1000BASE-T, zwany dalej „IEEE 802.3ab”."
+      },
+      {
+       "type": "text",
+       "text": "1.9. IETF RFC 0791 Internet Protocol, zwany dalej „IETF RFC 0791”."
+      },
+      {
+       "type": "text",
+       "text": "1.10. IETF RFC 0793 Transmission Control Protocol, zwany dalej „IETF RFC 0793”."
+      },
+      {
+       "type": "text",
+       "text": "1.11. IETF RFC 0959 File Transfer Protocol, zwany dalej „IETF RFC 0959”."
+      },
+      {
+       "type": "text",
+       "text": "1.12. IETF RFC 2315 Cryptographic Message Syntax, Version 1.5, zwany dalej „IETF RFC 2315”."
+      },
+      {
+       "type": "text",
+       "text": "1.13. IETF RFC 2460 Internet Protocol, Version 6 (IPv6) Specification, zwany dalej „IETF RFC 2460”."
+      },
+      {
+       "type": "text",
+       "text": "1.14. IETF RFC 3852 Cryptographic Message Syntax (CMS), zwany dalej „IETF RFC 3852”."
+      },
+      {
+       "type": "text",
+       "text": "1.15. IETF RFC 3261 SIP: Session Initiation Protocol, zwany dalej „IETF RFC 3261”."
+      },
+      {
+       "type": "text",
+       "text": "1.16. IETF RFC 4291 Internet Protocol, Version 6 (IPv6) Addressing Architecture, zwany dalej „IETF RFC 4291”."
+      },
+      {
+       "type": "text",
+       "text": "1.17. ITU-T X.680 Abstract Syntax Notation One (ASN.1): Specification of basic notation, zwany dalej „ITU-T X.680”."
+      },
+      {
+       "type": "text",
+       "text": "1.18. ITU-T X.681 Abstract Syntax Notation One (ASN.1): Information object specification, zwany dalej „ITU-T X.681”."
+      },
+      {
+       "type": "text",
+       "text": "1.19. ITU-T X.682 Abstract Syntax Notation One (ASN.1): Constraint specification, zwany dalej „ITU-T X.682”."
+      },
+      {
+       "type": "text",
+       "text": "1.20. ITU-T X.683 Abstract Syntax Notation One (ASN.1): Parameterization of ASN.1 specifications, zwany dalej „ITU-T X.683”."
+      },
+      {
+       "type": "text",
+       "text": "1.21. ITU-T X.690 ASN.1 encoding rules: Specification of Basic Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding Rules (DER), zwany dalej „ITU-T X.690”."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Dokumenty, o których mowa w pkt 1.1–1.7, są dostępne na stronie Europejskiego Instytutu Norm Telekomunikacyjnych (ETSI): www.etsi.org.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Dokument, o którym mowa w pkt 1.8, jest dostępny na stronie Instytutu Inżynierów Elektryków i Elektroników (IEEE): www.ieee.org.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Dokumenty, o których mowa w pkt 1.9–1.16, są dostępne na stronie zespołu inżynierów ustanawiających standardy techniczne i organizacyjne w Internecie, Internet Engineering Task Force (IETF): www.ietf.org.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Dokumenty, o których mowa w pkt 1.17–1.21, są dostępne na stronie Międzynarodowego Związku Telekomunikacyjnego (ITU): www.itu.int.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Stosowane skróty"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "ADMF – system przedsiębiorcy telekomunikacyjnego umożliwiający realizację dostępu do wybranych treści przekazów telekomunikacyjnych (Administration Function).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "ASCII – kod przyporządkowujący liczby z zakresu od 0 do 127 literom alfabetu angielskiego, cyfrom, znakom przestankowym i innym symbolom oraz poleceniom sterującym (American Standard Code for Information Interchange).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "ASN.1 – znormalizowany zapis składni stosowany do opisu struktur danych przenoszonych przez wiadomości wymieniane między komunikującymi się elementami systemu (Abstract Syntax Notation One), zdefiniowany w ITU-T X.680, ITU-T X.681, ITU-T X.682 i ITU-T X.683.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "BER – sposób kodowania informacji zapisanej przy użyciu ASN.1 do postaci transmitowanej w sieciach telekomunikacyjnych (Basic Encoding Rules), zgodny z ITU-T X.690.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "CA – urząd certyfikacji (Certificate Authority).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "CC – treść przekazu telekomunikacyjnego (Content of Communication).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "CDMA – wielodostęp z podziałem kodowym (Code Division Multiple Access).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "CMS – standard zabezpieczania wiadomości (Cryptographic Message Syntax), zdefiniowany w IETF RFC 3852.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "CS – komutacja kanałów (Circuit Switched).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "CSD – transmisja danych z wykorzystaniem komutacji łączy (Circuit Switched Data).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "DER – sposób kodowania informacji (Distinguished Encoding Rules), zgodny z ITU-T X.690.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "DF – funkcja dostarczająca dane do LEMF (Delivery Function).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "ESN – indywidualny numer identyfikujący telekomunikacyjne urządzenie końcowe używane w ruchomej publicznej sieci telefonicznej wykorzystującej technologię CDMA (Electronic Serial Number).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "FTP – protokół transferu plików (File Transfer Protocol), zdefiniowany w IETF RFC 0959.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "GLIC – mechanizm przekazywania treści monitorowanej komunikacji do LEMF, dotyczący monitorowania transmisji danych pakietowych w sieciach ruchomych (GPRS LI Correlation).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "IMEI – indywidualny międzynarodowy numer identyfikujący telekomunikacyjne urządzenie końcowe używane w ruchomej publicznej sieci telefonicznej (International Mobile Equipment Identity).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "IMSI – międzynarodowy numer przydzielony karcie identyfikującej użytkownika w ruchomej publicznej sieci telefonicznej (International Mobile Subscriber Identity).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "IRI – informacje związane z przekazem telekomunikacyjnym (Intercept Related Information).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "ust_19",
+     "text": "ISDN – sieć cyfrowa z integracją usług (Integrated Services Digital Network).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "20",
+     "path": "ust_20",
+     "text": "LEA – podmiot uprawniony do monitorowania (Law Enforcement Agency).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "21",
+     "path": "ust_21",
+     "text": "LEMF – system monitorowania LEA umożliwiający dostęp do wybranych treści przekazów telekomunikacyjnych (Law Enforcement Monitoring Facility).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "22",
+     "path": "ust_22",
+     "text": "LIID – identyfikator obiektu monitorowanego (Lawful Interception Identifier).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "23",
+     "path": "ust_23",
+     "text": "LOGIN – nazwa użytkownika logującego się do sieci, używana w procesie jego uwierzytelnienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "24",
+     "path": "ust_24",
+     "text": "MAC – sprzętowy adres karty sieciowej (Media Access Control).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "25",
+     "path": "ust_25",
+     "text": "MEID – unikalny numer identyfikujący telekomunikacyjne urządzenie końcowe używane w ruchomej publicznej sieci telefonicznej wykorzystującej technologię CDMA, zastępujący ESN (Mobile Equipment Identifier).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "26",
+     "path": "ust_26",
+     "text": "MF – funkcja pośrednicząca dostosowująca dane będące przedmiotem monitorowania, pochodzące z sieci przedsiębiorcy telekomunikacyjnego, do formatu wymaganego przez interfejs (Mediation Function).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "27",
+     "path": "ust_27",
+     "text": "MSISDN – numer przydzielony użytkownikowi końcowemu ruchomej publicznej sieci telefonicznej z integracją usług (Mobile Subscriber Integrated Services Digital Network).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "28",
+     "path": "ust_28",
+     "text": "PKI – Infrastruktura Klucza Publicznego będąca systemem kryptograficznym, w którego skład wchodzą urzędy certyfikacyjne, użytkownicy certyfikatów (subskrybenci) oraz oprogramowanie i sprzęt (Public Key Infrastructure).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "29",
+     "path": "ust_29",
+     "text": "PSTN – publiczna komutowana sieć telefoniczna (Public Switched Telephone Network).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "30",
+     "path": "ust_30",
+     "text": "SIP – protokół sygnalizacyjny warstwy aplikacyjnej wykorzystywany do inicjowania, zarządzania oraz zakańczania sesji (połączenia telefonii internetowej, konferencji multimedialnej) (Session Initiation Protocol), zdefiniowany w IETF RFC 3261.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "31",
+     "path": "ust_31",
+     "text": "SMS – krótka wiadomość tekstowa (Short Message Service).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "32",
+     "path": "ust_32",
+     "text": "TCP – protokół komunikacji w sieci komputerowej (Transmission Control Protocol), zdefiniowany w IETF RFC 0793.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "33",
+     "path": "ust_33",
+     "text": "VoIP – telefonia internetowa (Voice over IP).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "34",
+     "path": "ust_34",
+     "text": "WAN – rozległa sieć komputerowa (Wide Area Network).",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Określenia użyte w załączniku"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Interfejs LI HI (Lawful Interception Handover Interface) – elektroniczny, zdalny i oparty na protokole komunikacyjnym IP interfejs między ADMF a LEMF, umożliwiający realizację dostępu do wybranych treści przekazów telekomunikacyjnych, w którego skład wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "interfejs HI1 – styk umożliwiający dwukierunkową wymianę wiadomości między LEMF a ADMF, wykorzystywany przez LEMF do przesyłania żądań, a przez ADMF – głównie do przesyłania notyfikacji zdarzeń lub stanu realizacji żądań, realizujący także inne funkcje, opisane w pkt V;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "interfejs HI2 – styk umożliwiający jednokierunkowe, w kierunku od ADMF do LEMF, przesyłanie informacji związanych z objętymi monitorowaniem przekazami telekomunikacyjnymi oraz treści SMS;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "interfejs HI3 – styk umożliwiający jednokierunkowe, w kierunku od ADMF do LEMF, przesyłanie treści monitorowanych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Obiekt monitorowany – obiekt wskazany w postanowieniu sądu wydanym na podstawie wniosku albo zarządzenia organu uprawnionego podmiotu wydanego na podstawie odrębnych przepisów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Bufor – zespół urządzeń przedsiębiorcy telekomunikacyjnego odpowiedzialnych za magazynowanie danych do czasu ich przekazania do LEMF.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Monitorowanie – dostęp do przekazów telekomunikacyjnych i związanych z nimi danych, o których mowa w art. 43 ust. 1 pkt 1 lit. a ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221, z 2025 r. poz. 637 i 820 oraz z 2026 r. poz. 252, 815 i 1296), zwanej dalej „ustawą”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Przekaz telekomunikacyjny – komunikat elektroniczny, o którym mowa w art. 2 pkt 19 ustawy.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Interfejs LI HI"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wymagania ogólne",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. W warstwie fizycznej jest stosowany interfejs standardu Ethernet 100/1000BASE-T, zgodny z IEEE 802.3ab. Do obsługi każdego z LEA jest przewidziany oddzielny port w standardzie Ethernet."
+      },
+      {
+       "type": "text",
+       "text": "1.2. Protokołem warstwy sieciowej interfejsu LI HI jest protokół IPv4, zgodny z IETF RFC 0791, lub IPv6, zgodny z IETF RFC 2460 i IETF RFC 4291. Stosuje się publiczne adresy IP."
+      },
+      {
+       "type": "text",
+       "text": "1.3. Sieć między ADMF a LEMF jest siecią wydzieloną (w ramach WAN), za którą odpowiada LEA. Wyboru protokołu, o którym mowa w pkt 1.2, dostosowania przesyłanych informacji oraz szyfrowania sygnału na łączach WAN dokonuje LEA."
+      },
+      {
+       "type": "text",
+       "text": "1.4. Szyfrowanie transmisji realizuje się poza interfejsem LI HI na poziomie warstwy łącza danych lub warstwy sieciowej."
+      },
+      {
+       "type": "text",
+       "text": "1.5. W celu identyfikacji obiektów monitorowanych wykorzystuje się niepowtarzalny dla każdego obiektu monitorowanego LIID."
+      },
+      {
+       "type": "text",
+       "text": "1.6. Dla każdej usługi w ramach danego kryterium wyboru, o którym mowa w pkt 2.4, jest przydzielany odrębny LIID. W przypadku monitorowania więcej niż jednej usługi w ramach tego samego kryterium wyboru dla każdej kolejnej usługi nadaje się unikalny LIID."
+      },
+      {
+       "type": "text",
+       "text": "1.7. LEMF w wiadomościach interfejsu LI HI używa poniżej zdefiniowanego formatu LIID. LIID składa się z dwóch członów: LEAID (LEA Identifier) + SEQ (kolejny niepowtarzalny numer wiadomości). LIID jest utworzony z 17 znaków numerycznych ASCII od 0 do 9, w tym 2 cyfr określających LEAID oraz 15 cyfr wskazujących numer SEQ, zgodnie z tabelą nr 1. Wartość LEAID jest przydzielona każdemu LEA zgodnie z tabelą nr 2."
+      },
+      {
+       "type": "text",
+       "text": "Tabela nr 1"
+      },
+      {
+       "type": "text",
+       "text": "LIID"
+      },
+      {
+       "type": "text",
+       "text": "LEAID + SEQ"
+      },
+      {
+       "type": "text",
+       "text": "2 cyfry + 15 cyfr"
+      },
+      {
+       "type": "text",
+       "text": "Np. 01000300056043015 Tabela nr 2"
+      },
+      {
+       "type": "text",
+       "text": "LEAID Wartość LEA Opis 00 LEMF operatora Przedsiębiorca telekomunikacyjny 01 ABW Agencja Bezpieczeństwa Wewnętrznego 02 POLICJA Policja 03 SKW Służba Kontrwywiadu Wojskowego 04 ZW Żandarmeria Wojskowa 05 SG Straż Graniczna 06 MF Ministerstwo Finansów"
+      },
+      {
+       "type": "text",
+       "text": "07 CBA Centralne Biuro Antykorupcyjne 08 SOP Służba Ochrony Państwa 09 BNW Biuro Nadzoru Wewnętrznego"
+      },
+      {
+       "type": "text",
+       "text": "1.8. Dopuszcza się wykorzystanie jednego portu do obsługi więcej niż jednego LEA. Wykorzystanie takiego rozwiązania ustala się na etapie uzgadniania zasad współpracy przez interfejs między przedsiębiorcą telekomunikacyjnym a zainteresowanymi LEA."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Wymagania dla interfejsu HI1",
+     "children": [
+      {
+       "type": "text",
+       "text": "2.1. Interfejs HI1 zapewnia:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "przekazywanie do ADMF zleceń w zakresie włączania, modyfikacji i wyłączania monitorowania obiektów monitorowanych oraz zapytań o status obserwacji; 2) przekazywanie od ADMF do LEMF informacji o statusie realizacji zleceń i zapytań oraz informacji o występowaniu awarii;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "możliwość realizacji podstawowych testów diagnostycznych tego interfejsu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "w pełni automatyczną realizację zleceń przekazywanych od LEMF, bez udziału pracowników przedsiębiorcy telekomunikacyjnego.",
+       "children": [
+        {
+         "type": "text",
+         "text": "2.2. W celu aktywacji każdego zlecenia monitorowania LEA określa:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "LIID;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "obiekt monitorowany;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "monitorowaną usługę telekomunikacyjną;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "zakres monitorowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_2/pkt_5",
+       "text": "okres monitorowania.",
+       "children": [
+        {
+         "type": "text",
+         "text": "2.3. Interfejs HI1 zapewnia następujące kryteria wyboru obiektu monitorowanego w sieciach telekomunikacyjnych, stosownie do rodzaju sieci:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "numer abonenta PSTN/ISDN/MSISDN/VoIP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "IMSI;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "IMEI o długości 15 cyfr, zgodny z ETSI ETS 300 927;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "LOGIN;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_2/pkt_5",
+       "text": "adres IP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_2/pkt_6",
+       "text": "MAC;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_2/pkt_7",
+       "text": "ESN albo MEID.",
+       "children": [
+        {
+         "type": "text",
+         "text": "2.4. Interfejs HI1 zapewnia następujące kryteria wyboru monitorowanych usług telekomunikacyjnych, stosownie do rodzaju sieci:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "z komutacją kanałów, w tym połączenia głosowe, połączenia wideo, przesyłanie faksów, SMS, CSD;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "z transmisją pakietową w ruchomych publicznych sieciach telefonicznych, zwanych dalej „sieciami ruchomymi”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "z dostępem do sieci internet;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "VoIP.",
+       "children": [
+        {
+         "type": "text",
+         "text": "2.5. Przez zakres monitorowania LEA wskazuje jeden z dwóch zakresów odnoszących się do danych:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "IRI oraz opcjonalnie treści SMS;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "IRI + CC.",
+       "children": [
+        {
+         "type": "text",
+         "text": "2.6. Wysyłanie zleceń aktywacji następuje w chwili rzeczywistego uruchamiania monitoringu albo z wyprzedzeniem. Maksymalne wyprzedzenie ustala się na etapie uzgadniania zasad współpracy przez interfejs. W zleceniu aktywacji określa się czas zakończenia monitorowania."
+        },
+        {
+         "type": "text",
+         "text": "2.7. Zlecenie modyfikacji monitorowania obejmuje:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "czas wyłączenia monitorowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "włączenie/wyłączenie trybu online w odniesieniu do usług sieci ruchomych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "2.8. ADMF przesyła do LEMF informację o czasie faktycznego wykonania polecenia aktywacji, dezaktywacji albo modyfikacji monitorowania. W przypadku błędu w trakcie wykonywania polecenia przesyła informację o fakcie pojawienia się błędu lub braku możliwości wykonania polecenia."
+        },
+        {
+         "type": "text",
+         "text": "2.9. Przedsiębiorca telekomunikacyjny przesyła do każdego z LEA informacje o objętych awarią LIID, które znajdują się w dyspozycji tego przedsiębiorcy."
+        },
+        {
+         "type": "text",
+         "text": "2.10. Po usunięciu awarii, o której mowa w pkt 2.9, przedsiębiorca telekomunikacyjny niezwłocznie przesyła do LEA informacje o czasie trwania przerwy w monitorowaniu."
+        },
+        {
+         "type": "text",
+         "text": "2.11. ADMF w odpowiedzi na pytanie o status obserwacji nie przesyła żadnych danych identyfikujących obiekt monitorowany poza LIID."
+        },
+        {
+         "type": "text",
+         "text": "2.12. Zlecenia wystawiane przez użytkownika LEMF, z wyjątkiem włączenia/wyłączenia trybu online oraz weryfikacji stanu obserwacji, są podpisywane elektronicznie."
+        },
+        {
+         "type": "text",
+         "text": "2.13. Formatem stosowanego podpisu elektronicznego żądań HI1 jest CMS. Na potrzeby stosowania podpisu elektronicznego są wykorzystywane certyfikaty określone w ETSI TS 102 280, z uwzględnieniem wymagań technicznych dla certyfikatów, o których mowa w ustawie z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2024 r. poz. 1725 oraz z 2026 r. poz. 252), oraz PKI."
+        },
+        {
+         "type": "text",
+         "text": "2.14. Szczegółowa struktura elementów interfejsu HI1 jest przedstawiona w pkt V."
+        },
+        {
+         "type": "text",
+         "text": "2.15. Za zgodą LEA dopuszcza się pracę interfejsu HI1 w trybie półautomatycznym, w którym pracownik przedsiębiorcy telekomunikacyjnego, spełniający wymagania określone w art. 43 ust. 9 ustawy, po odebraniu zlecenia od LEMF wykonuje prace niezbędne do przygotowania sieci przedsiębiorcy telekomunikacyjnego do realizacji zlecenia. Czas na przeprowadzenie tych prac nie przekracza 24 godzin."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Wymagania dla interfejsu HI2",
+     "children": [
+      {
+       "type": "text",
+       "text": "3.1. Informacje związane z objętymi monitorowaniem przekazami telekomunikacyjnymi są przekazywane do LEMF niezwłocznie, jednak niepóźniej niż 10 minut od zakończenia przekazu. Raporty dotyczące zdarzeń występujących w danej sesji powinny być wysyłane w kolejności wystąpienia tych zdarzeń."
+      },
+      {
+       "type": "text",
+       "text": "3.2. Przesyłanie do LEMF informacji związanych z objętymi monitorowaniem przekazami telekomunikacyjnymi odbywa się z wykorzystaniem FTP, zdefiniowanego w IETF RFC 0959, na zasadach określonych w ETSI ES 201 671."
+      },
+      {
+       "type": "text",
+       "text": "3.3. Sesje FTP są nawiązywane tylko w kierunku od ADMF do LEMF w trybie pasywnym."
+      },
+      {
+       "type": "text",
+       "text": "3.4. Do nazewnictwa plików wykorzystuje się metodę A zdefiniowaną w ETSI ES 201 671 (Annex C, pkt C.2.2). Zgodnie z tą metodą nazwa pliku ma postać: <LIID>_<seq>.<ext>."
+      },
+      {
+       "type": "text",
+       "text": "3.5. Nazwa przesyłanego pliku jest zmieniana na docelową po udanym nagraniu. Plik tymczasowy ma dodatkowe rozszerzenie .tmp (<LIID>_<seq>.<ext>.tmp)."
+      },
+      {
+       "type": "text",
+       "text": "3.6. Zawartość plików (dane IRI) jest kodowana w formacie ASN.1/BER, zgodnie z:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "ETSI ES 201 671 w odniesieniu do usług świadczonych w sieciach ruchomych oraz usług transmisji pakietowej świadczonych w sieciach ruchomych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "ETSI TS 102 232-1 i ETSI TS 102 232-6 w odniesieniu do usług świadczonych w stacjonarnej publicznej sieci telefonicznej, zwanej dalej „siecią stacjonarną”; 3) ETSI TS 102 232-1 i ETSI TS 102 232-3 w odniesieniu do usług dostępu do internetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_3/pkt_4",
+       "text": "ETSI TS 102 232-1 i ETSI TS 102 232-5 w odniesieniu do usług VoIP.",
+       "children": [
+        {
+         "type": "text",
+         "text": "3.7. Specyfikacja interfejsu HI2 jest rozszerzona o parametr ExtendedPartyIdentity. Specyfikacja struktur danych w ASN.1 opisujących format tego parametru znajduje się w pkt VI."
+        },
+        {
+         "type": "text",
+         "text": "3.8. Przesyłany plik może zawierać wiele pojedynczych rekordów IRI, pod warunkiem że dotyczą one tego samego LIID."
+        },
+        {
+         "type": "text",
+         "text": "3.9. Nie stosuje się agregacji wielu rekordów IRI w jednej strukturze ASN.1."
+        },
+        {
+         "type": "text",
+         "text": "3.10. Wartości parametrów IRI definiuje się w formatach zalecanych przez normy telekomunikacyjne, które ich dotyczą (np. ISDN user part, DSS1, MAP, IP)."
+        },
+        {
+         "type": "text",
+         "text": "3.11. Po skutecznym przekazaniu rekordów IRI ADMF usuwa związane z nimi dane ze swoich zasobów."
+        },
+        {
+         "type": "text",
+         "text": "3.12. Interfejs HI2 nie wymaga stosowania podpisu elektronicznego."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Wymagania dla interfejsu HI3",
+     "children": [
+      {
+       "type": "text",
+       "text": "4.1. Rozpoczęcie przekazywania do LEMF treści objętych monitorowaniem następuje niezwłocznie, jednak niepóźniej niż 10 minut od zakończenia przekazu."
+      },
+      {
+       "type": "text",
+       "text": "4.2. Korelacja między rekordami IRI (w interfejsie HI2) a przekazywaną CC (w interfejsie HI3) odbywa się z wykorzystaniem LIID, a w przypadku usług sieci z komutacją kanałów – również parametru CIN (Communication Identity Number)."
+      },
+      {
+       "type": "text",
+       "text": "4.3. Do przekazywania treści objętych monitorowaniem dla usług sieci ruchomych:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_4/pkt_1",
+       "text": "w trybie offline:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_4/pkt_1/lit_a",
+         "text": "stosuje się FTP, zdefiniowany w IETF RFC 0959, na zasadach określonych w ETSI ES 201 671,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_4/pkt_1/lit_b",
+         "text": "zapis treści przekazów w przypadku połączeń głosowych może być realizowany:",
+         "children": [
+          {
+           "type": "text",
+           "text": "− w trybie „stereo” dla każdego kierunku transmisji (od i do obiektu monitorowanego) jest tworzony odrębny plik, − w trybie „mono” oba kierunki transmisji są zapisywane w ramach jednego pliku (zmiksowane w jeden strumień),"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_4/pkt_1/lit_c",
+         "text": "treść przesyłana za pośrednictwem HI3 jest zapisywana w plikach o nazwie zgodnej ze schematem: <LIID>_<CIN>.<ext>,",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "gdzie:"
+        },
+        {
+         "type": "text",
+         "text": "LIID – identyfikator obiektu monitorowanego,"
+        },
+        {
+         "type": "text",
+         "text": "CIN – Communication Identity Number,"
+        },
+        {
+         "type": "text",
+         "text": "ext – rodzaj zawartej informacji, przy czym:"
+        },
+        {
+         "type": "text",
+         "text": "− 2 oznacza CC (od obiektu monitorowanego), − 4 oznacza CC (do obiektu monitorowanego), − 6 oznacza CC (do i od obiektu monitorowanego),"
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_4/pkt_1/lit_d",
+         "text": "nazwa przesyłanego pliku jest zmieniana na docelową po udanym nagraniu, a plik tymczasowy ma dodatkowe rozszerzenie .tmp (<LIID>_<CIN>.<ext>.tmp),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_4/pkt_1/lit_e",
+         "text": "przedsiębiorca telekomunikacyjny nieodpłatnie dostarcza LEA kodeki umożliwiające odczyt plików audio i wideo oraz innych formatów danych i plików stosowanych przez przedsiębiorcę telekomunikacyjnego;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "w trybie online:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_4/pkt_2/lit_a",
+         "text": "ADMF przesyła do LEMF w czasie rzeczywistym przekazy telekomunikacyjne wysyłane i odbierane przez obiekt monitorowany,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_4/pkt_2/lit_b",
+         "text": "do przesyłania przekazów stosuje się SIP, zgodny z IETF RFC 3261,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_4/pkt_2/lit_c",
+         "text": "format pola Call-ID w nagłówku SIP przyjmuje postać LIID_cin,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_4/pkt_2/lit_d",
+         "text": "przedsiębiorca telekomunikacyjny nieodpłatnie dostarcza LEA kodeki umożliwiające odbiór połączeń głosowych i wideo,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_4/pkt_2/lit_e",
+         "text": "adres docelowy SIP określa się na podstawie parametru forwardingAddress, określanego przez LEA za pomocą interfejsu HI1.",
+         "children": [
+          {
+           "type": "text",
+           "text": "4.4. Dopuszcza się przekazywanie treści objętych monitorowaniem, o których mowa w pkt 4.3, zgodnie z zasadami określonymi w ETSI TS 102 232-1 i ETSI TS 102 232-6."
+          },
+          {
+           "type": "text",
+           "text": "4.5. W przypadku usług transmisji pakietowej w sieci ruchomej do przekazywania treści objętych monitorowaniem stosuje się protokół GLIC na zasadach określonych w ETSI ES 201 671."
+          },
+          {
+           "type": "text",
+           "text": "4.6. Przekazywanie treści objętych monitorowaniem w sieci stacjonarnej jest realizowane zgodnie z zasadami określonymi w ETSI TS 102 232-1 i ETSI TS 102 232-6."
+          },
+          {
+           "type": "text",
+           "text": "4.7. W przypadku usług dostępu do internetu przekazywanie treści objętych monitorowaniem jest realizowane zgodnie z zasadami określonymi w ETSI TS 102 232-1 i ETSI TS 102 232-3."
+          },
+          {
+           "type": "text",
+           "text": "4.8. W przypadku usług VoIP przekazywanie treści objętych monitorowaniem jest realizowane zgodnie z zasadami określonymi w ETSI TS 102 232-1 i ETSI TS 102 232-5."
+          },
+          {
+           "type": "text",
+           "text": "4.9. Po skutecznym przekazaniu treści objętych monitorowaniem do LEMF ADMF usuwa je ze swoich zasobów."
+          },
+          {
+           "type": "text",
+           "text": "4.10. Interfejs HI3 nie wymaga stosowania podpisu elektronicznego."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "V.",
+     "text": "Struktura interfejsu HI1"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Warstwa transportowa:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "jest stosowany TCP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "połączenia TCP są zestawiane w kierunkach:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_2/lit_a",
+         "text": "od ADMF/MF/DF do LEMF (HI1LEMFOperations),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_2/lit_b",
+         "text": "od LEMF do ADMF/MF/DF (HI1ADMFOperations);",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "w ramach jednego połączenia TCP jest wysyłana jedna wiadomość warstwy aplikacyjnej (żądanie, alarm), która jest potwierdzana przez drugą stronę (potwierdzenie otrzymania żądania, alarmu).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Warstwa aplikacyjna: wysyłane wiadomości są zdefiniowane w ASN.1 i kodowane w standardzie BER lub DER.",
+     "children": [
+      {
+       "type": "text",
+       "text": "2.1. Opis"
+      },
+      {
+       "type": "text",
+       "text": "2.1.1. Przeznaczenie: przesyłanie zleceń aktywacji, dezaktywacji i modyfikacji dedykacji, zapytań o dedykacje, alarmów oraz raportów, w tym o statusie interfejsu."
+      },
+      {
+       "type": "text",
+       "text": "2.1.2. Stosuje się dwa protokoły zdefiniowane w ASN.1:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "HI1LEMFOperations – protokół przeznaczony do operacji inicjowanych przez LEMF;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "HI1ADMFOperations – protokół przeznaczony do przesyłania alarmów i powiadomień wysyłanych przez ADMF.",
+       "children": [
+        {
+         "type": "text",
+         "text": "2.1.3. Protokół HI1LEMFOperations i HI1ADMFOperations są całkowicie od siebie niezależne."
+        },
+        {
+         "type": "text",
+         "text": "2.1.4. Każda operacja lub każde zapytanie to jedna sesja TCP."
+        },
+        {
+         "type": "text",
+         "text": "2.1.5. Każde zapytanie jest potwierdzane przez drugą stronę."
+        },
+        {
+         "type": "text",
+         "text": "2.2. Protokół HI1LEMFOperations"
+        },
+        {
+         "type": "text",
+         "text": "2.2.1. Operacje wykonywane przez LEMF:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "zapytana proste:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_2/pkt_1/lit_a",
+         "text": "Hello,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_2/pkt_1/lit_b",
+         "text": "ListRequest,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_2/pkt_1/lit_c",
+         "text": "RTRequest – żądanie włączenia lub wyłączenia trybu online (dotyczy tylko obserwacji rozpoczętych);",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "zapytana podpisane:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_2/pkt_2/lit_a",
+         "text": "Activate,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_2/pkt_2/lit_b",
+         "text": "Modificate, z wyjątkiem włączania/wyłączania trybu online,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_2/pkt_2/lit_c",
+         "text": "Deactivate.",
+         "children": [
+          {
+           "type": "text",
+           "text": "2.2.2. Każda wiadomość definiująca zapytanie wysłane przez LEMF (Request) jest potwierdzana przez wiadomość zawierającą odpowiedź ADMF na wysłane żądanie LEMF (Respond), zgodnie ze schematem przedstawionym na rysunku 1."
+          },
+          {
+           "type": "text",
+           "text": ": LEMF : ADMF"
+          },
+          {
+           "type": "text",
+           "text": "seq Sesja TCP"
+          },
+          {
+           "type": "text",
+           "text": "SYN Handshake 1 <<TCP>> : Request"
+          },
+          {
+           "type": "text",
+           "text": "Rysunek 1. Schemat operacji"
+          },
+          {
+           "type": "text",
+           "text": "2.2.3. LEMF czeka na odpowiedź 10 sekund, a o tym czasie uznaje wysłaną wiadomość za utraconą."
+          },
+          {
+           "type": "text",
+           "text": "2.2.4. Nad harmonogramem aktywacji i dezaktywacji czuwa LEMF. Dopuszcza się wysłanie zlecenia aktywacji z wyprzedzeniem. Zlecenie aktywacji ma określony czas zakończenia obserwacji. Przesunięcie momentu zakończenia obserwacji ponad ten czas wymaga zlecenia modyfikacji."
+          },
+          {
+           "type": "text",
+           "text": "2.2.5. ADMF przesyła do LEMF informacje o założeniu lub zdjęciu obserwacji w elementach sieci przedsiębiorcy telekomunikacyjnego."
+          },
+          {
+           "type": "text",
+           "text": "2.2.6. LEMF ma możliwość zadania zapytania (ListRequest) służącego do weryfikacji stanu obserwacji."
+          },
+          {
+           "type": "text",
+           "text": "2.2.7. Zlecenie dezaktywacji oznacza niezwłoczne zakończenie wskazanej obserwacji. W przypadku obserwacji, która się jeszcze nie rozpoczęła, oznacza to, że w ogóle nie zostanie zrealizowana. Fakt jej założenia ma jednak zostać odnotowany w logach systemu."
+          },
+          {
+           "type": "text",
+           "text": "2.2.8. Modyfikacji podlegają jedynie zlecenia, które nie zakończyły się. Modyfikować można czasy zakończenia obserwacji oraz typ monitorowania (włączenie/wyłączenie online). Włączenie/wyłączenie obserwacji w trybie online nie powoduje zmian (zakłóceń) transmisji w trybie offline. Po rozpoczęciu obserwacji czas startu nie może być już modyfikowany."
+          },
+          {
+           "type": "text",
+           "text": "2.2.9. Wiadomości są podzielone na dwie grupy:"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "Request – definiujące zapytania wysyłane przez LEMF;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "Respond – odpowiedzi ADMF na wysłane żądania LEMF.",
+       "children": [
+        {
+         "type": "text",
+         "text": "2.2.10. Dopuszczalne są następujące interakcje między LEMF a ADMF:"
+        },
+        {
+         "type": "text",
+         "text": "Tabela nr 3"
+        },
+        {
+         "type": "text",
+         "text": "Zapytanie LEMF Odpowiedź ADMF Alternatywna odpowiedź"
+        },
+        {
+         "type": "text",
+         "text": "SignedRequest GeneralRespond"
+        },
+        {
+         "type": "text",
+         "text": "HelloRequest GeneralRespond"
+        },
+        {
+         "type": "text",
+         "text": "ListRequest ListRespond GeneralRespond"
+        },
+        {
+         "type": "text",
+         "text": "RTRequest GeneralRespond"
+        },
+        {
+         "type": "text",
+         "text": "2.2.11. Zapytania podpisane (SignedRequest): sposób tworzenia i weryfikacji wiadomości podpisanych przedstawiono w formie diagramów aktywności na rysunkach 2 i 3."
+        },
+        {
+         "type": "text",
+         "text": "Określenie parametrów Wysłanie HI1LEMFPDU żądania do ADMF za pomocą TCP"
+        },
+        {
+         "type": "text",
+         "text": "[UnsignedRequestDetail] [HI1LEMFPDU zakodowany ASN.1/DER]"
+        },
+        {
+         "type": "text",
+         "text": "Żądanie zakodowane do ASN.1/DER Zakodowanie [HI1LEMFPDU] HI1LEMFPDU do ASN.1/DER"
+        },
+        {
+         "type": "text",
+         "text": "[DEREncodedUnsignedRequestDetail] Utworzenie Protocol Data Unit"
+        },
+        {
+         "type": "text",
+         "text": "Podpisanie zakodowanego żądania [Podpisane żądanie CMS zgodnie z zakodowane w DER] IETF RFC 5652 [17]"
+        },
+        {
+         "type": "text",
+         "text": "[Certyfikat [klucz prywatny użytkownika LEMF] użytkownika LEMF] (X.509 V.3)]"
+        },
+        {
+         "type": "text",
+         "text": "Rysunek 2. Tworzenie podpisanego zapytania Odczyt [HI1LEMFPDU HI1LEMFPDU z zakodowany Dekodowanie [HI1LEMFPDU] gniazda TCP ASN.1/DER] HI1LEMFPDU"
+        },
+        {
+         "type": "text",
+         "text": "Wyodrębnienie obiektu CMS"
+        },
+        {
+         "type": "text",
+         "text": "[Podpisane żądanie CMS zakodowane w DER]"
+        },
+        {
+         "type": "text",
+         "text": "Dekodowanie [DEREncodedUnsignedRequestDetail] Weryfikacja żądania podpisu"
+        },
+        {
+         "type": "text",
+         "text": "[Certyfikat CA LEMF]"
+        },
+        {
+         "type": "text",
+         "text": "[UnsignedRequestDetail] Realizacja żądania [poprawna]"
+        },
+        {
+         "type": "text",
+         "text": "Wysłanie odpowiedzi"
+        },
+        {
+         "type": "text",
+         "text": "Rysunek 3. Weryfikacja podpisanego zapytania"
+        },
+        {
+         "type": "text",
+         "text": "2.2.12. Uwagi:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "CMS – format binarny dokumentu z podpisem (z użyciem kodowania DER) stanowi podzbiór CMS; dokładna specyfikacja jest przedstawiona w IETF RFC 3852;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "identyfikator obiektu OID (Object Identifier) definiujący standard ma w ASN.1 postać:",
+       "children": [
+        {
+         "type": "text",
+         "text": "OBJECT IDENTIFIER ::= { iso(1) member-body(2) us(840) rsadsi(113549) pkcs(1) pkcs-9(9) smime(16) modules(0) cms- 2004(24) }"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "struktura UnsignedRequestDetail, przedstawiona na rysunku 6, opisuje szczegóły zapytania aktywacji, modyfikacji i dezaktywacji dedykacji; po zakodowaniu do postaci DER jest podpisywana zgodnie ze specyfikacją przedstawioną w IETF RFC 2315;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "Service – obiekt reprezentujący usługi świadczone przez operatora;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_2/pkt_5",
+       "text": "monitorowaniu podlegają następujące usługi:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_2/pkt_5/lit_a",
+         "text": "CS Circuit Switched (Mobile),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_2/pkt_5/lit_b",
+         "text": "PS PacketSwitched,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_2/pkt_5/lit_c",
+         "text": "InternetAccess,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_2/pkt_5/lit_d",
+         "text": "InternetTelephony,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_2/pkt_5/lit_e",
+         "text": "CS Circuit Switched (Fixed).",
+         "children": [
+          {
+           "type": "text",
+           "text": "2.3. Protokół HI1ADMFOperations"
+          },
+          {
+           "type": "text",
+           "text": "2.3.1. Operacje wykonywane przez ADMF:"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "alarmy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "notyfikacje.",
+       "children": [
+        {
+         "type": "text",
+         "text": "2.3.2. Wiadomości są podzielone na dwie grupy, zgodnie ze schematem przedstawionym na rysunku 4:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "InfoIndicator – definiujące alarmy i notyfikacje wysyłane przez ADMF;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "Acknowledge – potwierdzenia otrzymania wiadomości przez ADMF.",
+       "children": [
+        {
+         "type": "text",
+         "text": ": ADMF : LEMF"
+        },
+        {
+         "type": "text",
+         "text": "seq Sesja TCP SYN Handshake 1 : InfoIndicator <<TCP>>"
+        },
+        {
+         "type": "text",
+         "text": "Rysunek 4. Schemat operacji 2.3.3. Dopuszczalne są następujące interakcje między ADMF a LEMF:"
+        },
+        {
+         "type": "text",
+         "text": "Tabela nr 4"
+        },
+        {
+         "type": "text",
+         "text": "Wiadomość ADMF Odpowiedź LEMF"
+        },
+        {
+         "type": "text",
+         "text": "HelloRequest GeneralRespond"
+        },
+        {
+         "type": "text",
+         "text": "AlarmIndicator GeneralRespond"
+        },
+        {
+         "type": "text",
+         "text": "NotificationIndicator GeneralRespond"
+        },
+        {
+         "type": "text",
+         "text": "2.3.4. Uwagi:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "wyróżnia się dwa typy wiadomości wysyłanych przez ADMF: alarmy i notyfikacje;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "każda wysłana wiadomość (InfoIndicator) jest potwierdzana przez LEMF (Acknowledge);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "potwierdzenie jest realizowane w ciągu 5 sekund;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "alarmy mają dwa stany: włączony, wyłączony (pole status);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_2/pkt_5",
+       "text": "wiadomość wyłączająca alarm może zawierać tylko jego identyfikator (identity).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Protokół HI1LEMFPDU",
+     "children": [
+      {
+       "type": "text",
+       "text": "3.1. Struktura protokołu HI1LEMFPDU"
+      },
+      {
+       "type": "text",
+       "text": "HI1LEMFPDU Content +version"
+      },
+      {
+       "type": "text",
+       "text": "Request Respond"
+      },
+      {
+       "type": "text",
+       "text": "Rysunek 5. Struktura protokołu HI1LEMFPDU 3.2. Specyfikacja ASN.1 dla protokołu HI1LEMFPDU"
+      },
+      {
+       "type": "text",
+       "text": "HI1LEMFOperations DEFINITIONS AUTOMATIC TAGS ::= BEGIN IMPORTS LawfulInterceptionIdentifier, TimeStamp FROM UnsignedRequestDetail;"
+      },
+      {
+       "type": "text",
+       "text": "HI1LEMFPDU ::= SEQUENCE { version [0] Version, content [1] Content, operator [2] UTF8String OPTIONAL, ... }"
+      },
+      {
+       "type": "text",
+       "text": "Version ::= ENUMERATED { version1 (1), ... }"
+      },
+      {
+       "type": "text",
+       "text": "Content ::= CHOICE { request [1] Request, respond [2] Respond, ... }"
+      },
+      {
+       "type": "text",
+       "text": "SignedRequest ::= SEQUENCE { version [1] SignedRequestVersion, signStandard [2] OBJECT IDENTIFIER, -- CryptographicMessageSyntax2004 { iso(1) member-body(2) us(840) rsadsi(113549) pkcs(1) pkcs-9(9) smime(16) modules(0) cms-2004(24) cmsDERSignedRequest [3] OCTET STRING, -- cmsDERSignedRequest [3] ANY DEFINED BY signStandard ... } Request ::= CHOICE { simpleRequest [1] SimpleRequest, signedRequest [2] SignedRequest, ... }"
+      },
+      {
+       "type": "text",
+       "text": "SimpleRequest ::= CHOICE { helloRequest [1] HelloRequest, listRequest [2] ListRequest, rtRequest [3] RTRequest, –- Żądanie włączenia lub wyłączenia trybu online (dotyczą tylko obserwacji rozpoczętych) dla obserwacji aktywnych ... } RTRequest ::= SEQUENCE { liid [1] LawfulInterceptionIdentifier, action [2] ENUMERATED { start(0), –- Włączenie odsłuchu online stop(1) –- Wyłączenie odsłuchu online }, }"
+      },
+      {
+       "type": "text",
+       "text": "SignedRequestVersion ::= ENUMERATED { v1 (0), ... }"
+      },
+      {
+       "type": "text",
+       "text": "HelloRequest ::= SEQUENCE { message [1] UTF8String, ... }"
+      },
+      {
+       "type": "text",
+       "text": "Respond ::= CHOICE { generalRespond [1] GeneralRespond, listRespond [2] ListRespond, ... } GeneralRespond ::= SEQUENCE { result [1] Result, message [2] UTF8String OPTIONAL, -- return Hello request message ... }"
+      },
+      {
+       "type": "text",
+       "text": "Result ::= ENUMERATED { ok (1), missing-parameter (2), unknown-parameter (3), unknown-parameter-value (4), incorrect-BER (5), badSignature (6), certificateExpired (7), unknownError (10), unsupportedService (11), ... }"
+      },
+      {
+       "type": "text",
+       "text": "CheckRespond ::= SEQUENCE { liid [1] LawfulInterceptionIdentifier, checkStatus [2] CheckStatus, message [3] UTF8String OPTIONAL, ... }"
+      },
+      {
+       "type": "text",
+       "text": "CheckStatus ::= ENUMERATED { notFound (0), waiting (1), -- założone przez lemf, nie ma w cn (czeka na zatwierdzenie lub ) cnActivated (2), -- jest w cn unknown (3), deActivated (4), -- po deaktywowaniu w cn ... }"
+      },
+      {
+       "type": "text",
+       "text": "ListRequest ::= SEQUENCE { type [1] ListType,"
+      },
+      {
+       "type": "text",
+       "text": "liid [2] LawfulInterceptionIdentifier OPTIONAL,"
+      },
+      {
+       "type": "text",
+       "text": "..."
+      },
+      {
+       "type": "text",
+       "text": "}"
+      },
+      {
+       "type": "text",
+       "text": "ListRespond ::= SET OF CheckRespond"
+      },
+      {
+       "type": "text",
+       "text": "ListType ::= ENUMERATED"
+      },
+      {
+       "type": "text",
+       "text": "{"
+      },
+      {
+       "type": "text",
+       "text": "all (1),"
+      },
+      {
+       "type": "text",
+       "text": "specific (2),"
+      },
+      {
+       "type": "text",
+       "text": "..."
+      },
+      {
+       "type": "text",
+       "text": "}"
+      },
+      {
+       "type": "text",
+       "text": "END"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "UnsignedRequestDetail",
+     "children": [
+      {
+       "type": "text",
+       "text": "4.1. Struktura UnsignedRequestDetail UnsignedRequestDetail"
+      },
+      {
+       "type": "text",
+       "text": "+time: TimeStamp"
+      },
+      {
+       "type": "text",
+       "text": "Command"
+      },
+      {
+       "type": "text",
+       "text": "Activate Deactivate Modificate +liid: LawfulInterceptionIdentifier +liid: LawfulInterceptionIdentifier +startDate: TimeStamp +liid: LawfulInterceptionIdentifier +stopDate: TimeStamp +warrantID: UTF8String +stopDate: TimeStamp +warrantID: UTF8String +warrantID: UTF8String"
+      },
+      {
+       "type": "text",
+       "text": "Service CircuitSwitchedFixed"
+      },
+      {
+       "type": "text",
+       "text": "+target: Target"
+      },
+      {
+       "type": "text",
+       "text": "+monitoringType: MonitoringType"
+      },
+      {
+       "type": "text",
+       "text": "CircuitSwitchedMobile InternetTelephony +target: Target +monitoringType: MonitoringType +target: Target +forwardingAddress: ForwardingAddress +monitoringType: MonitoringType +stereo: Stereo"
+      },
+      {
+       "type": "text",
+       "text": "InternetAccess"
+      },
+      {
+       "type": "text",
+       "text": "PacketSwitched +target: Target +target: Target +monitoringType: MonitoringType +monitoringType: MonitoringType"
+      },
+      {
+       "type": "text",
+       "text": "Rysunek 6. Struktura UnsignedRequestDetail"
+      },
+      {
+       "type": "text",
+       "text": "4.2. Specyfikacja ASN.1 dla UnsignedRequestDetail"
+      },
+      {
+       "type": "text",
+       "text": "UnsignedRequestDetail DEFINITIONS AUTOMATIC TAGS ::="
+      },
+      {
+       "type": "text",
+       "text": "BEGIN"
+      },
+      {
+       "type": "text",
+       "text": "UnsignedRequestDetail ::= SEQUENCE"
+      },
+      {
+       "type": "text",
+       "text": "{"
+      },
+      {
+       "type": "text",
+       "text": "time [1] TimeStamp,"
+      },
+      {
+       "type": "text",
+       "text": "command [2] Command,"
+      },
+      {
+       "type": "text",
+       "text": "operator [2] UTF8String OPTIONAL,"
+      },
+      {
+       "type": "text",
+       "text": "..."
+      },
+      {
+       "type": "text",
+       "text": "}"
+      },
+      {
+       "type": "text",
+       "text": "Command ::= CHOICE {"
+      },
+      {
+       "type": "text",
+       "text": "activate [1] Activate,"
+      },
+      {
+       "type": "text",
+       "text": "deactivate [2] Deactivate,"
+      },
+      {
+       "type": "text",
+       "text": "modificate [3] Modificate,"
+      },
+      {
+       "type": "text",
+       "text": "..."
+      },
+      {
+       "type": "text",
+       "text": "}"
+      },
+      {
+       "type": "text",
+       "text": "Activate ::= SEQUENCE"
+      },
+      {
+       "type": "text",
+       "text": "{"
+      },
+      {
+       "type": "text",
+       "text": "lawfulInterceptionIdentifier [1] LawfulInterceptionIdentifier, startTimestamp [2] TimeStamp,"
+      },
+      {
+       "type": "text",
+       "text": "stopTimestap [3] TimeStamp,"
+      },
+      {
+       "type": "text",
+       "text": "service [4] Service,"
+      },
+      {
+       "type": "text",
+       "text": "warrantID [5] UTF8String,"
+      },
+      {
+       "type": "text",
+       "text": "..."
+      },
+      {
+       "type": "text",
+       "text": "}"
+      },
+      {
+       "type": "text",
+       "text": "Modificate ::= SEQUENCE"
+      },
+      {
+       "type": "text",
+       "text": "{"
+      },
+      {
+       "type": "text",
+       "text": "lawfulInterceptionIdentifier [1] LawfulInterceptionIdentifier, stopTimestap [3] TimeStamp,"
+      },
+      {
+       "type": "text",
+       "text": "warrantID [5] UTF8String,"
+      },
+      {
+       "type": "text",
+       "text": "..."
+      },
+      {
+       "type": "text",
+       "text": "}"
+      },
+      {
+       "type": "text",
+       "text": "Deactivate ::= SEQUENCE"
+      },
+      {
+       "type": "text",
+       "text": "{"
+      },
+      {
+       "type": "text",
+       "text": "lawfulInterceptionIdentifier [1] LawfulInterceptionIdentifier, warrantID [5] UTF8String OPTIONAL,"
+      },
+      {
+       "type": "text",
+       "text": "..."
+      },
+      {
+       "type": "text",
+       "text": "}"
+      },
+      {
+       "type": "text",
+       "text": "Service ::= CHOICE"
+      },
+      {
+       "type": "text",
+       "text": "{"
+      },
+      {
+       "type": "text",
+       "text": "circuitSwitchedMobile [1] CircuitSwitchedMobile,"
+      },
+      {
+       "type": "text",
+       "text": "packetSwitched [2] PacketSwitched,"
+      },
+      {
+       "type": "text",
+       "text": "wifi [3] WIFI, -- not used"
+      },
+      {
+       "type": "text",
+       "text": "xdsl [4] XDSL, -- not used"
+      },
+      {
+       "type": "text",
+       "text": "internetAccess [5] InternetAccess,"
+      },
+      {
+       "type": "text",
+       "text": "internetTelephony [6] InternetTelephony,"
+      },
+      {
+       "type": "text",
+       "text": "circuitSwitchedFixed [7] CircuitSwitchedFixed,"
+      },
+      {
+       "type": "text",
+       "text": "generic [8] GenericService, ... }"
+      },
+      {
+       "type": "text",
+       "text": "GenericService ::= SEQUENCE { identityType [1] UTF8String (SIZE(1..20)), identityValue [2] UTF8String, service [3] UFT8String OPTIONAL, ... }"
+      },
+      {
+       "type": "text",
+       "text": "CircuitSwitchedMobile ::= SEQUENCE { target [1] Target, monitoringType [2] MonitoringType, onlineMonitoring [3] BOOLEAN, -- offline - wartość domyślna, -- online, forwardingAddress [4] ForwardingAddress, stereo [5] Stereo, ... }"
+      },
+      {
+       "type": "text",
+       "text": "Stereo ::= ENUMERATED { off (0), on (1) }"
+      },
+      {
+       "type": "text",
+       "text": "PacketSwitched ::= SEQUENCE { target [1] Target, monitoringType [2] MonitoringType, ... }"
+      },
+      {
+       "type": "text",
+       "text": "WIFI ::= SEQUENCE { target [1] Target, ... } XDSL ::= SEQUENCE { target [1] Target, ... }"
+      },
+      {
+       "type": "text",
+       "text": "InternetAccess::= SEQUENCE { target [1] Target, monitoringType [2] MonitoringType, ... }"
+      },
+      {
+       "type": "text",
+       "text": "InternetTelephony ::= SEQUENCE { target [1] Target, monitoringType [2] MonitoringType, ... }"
+      },
+      {
+       "type": "text",
+       "text": "CircuitSwitchedFixed ::= SEQUENCE { target [1] Target, monitoringType [2] MonitoringType, ... }"
+      },
+      {
+       "type": "text",
+       "text": "Target ::= CHOICE { mSISDN [1] MSISDN, -- wykorzystywany również jako numer abonenta ISDN/PSTN lub telefonii internetowej(o ile jest to numer zgodny z E.164) iMSI [2] IMSI, iMEI [3] IMEI, login [4] Login, iPAddress [5] IPAddress, mAC [6] MAC, eSN [7] ESN, ... }"
+      },
+      {
+       "type": "text",
+       "text": "MSISDN ::= OCTET STRING (SIZE (1..9)) IMSI ::= OCTET STRING (SIZE (3..8)) IMEI ::= OCTET STRING (SIZE (8)) Login ::= OCTET STRING (SIZE (1..120)) IPAddress ::= OCTET STRING (SIZE (4)) MAC ::= OCTET STRING (SIZE (6)) ESN ::= OCTET STRING (SIZE (8))"
+      },
+      {
+       "type": "text",
+       "text": "ForwardingAddress ::= SEQUENCE { sipUrl [1] SIPURL, ... }"
+      },
+      {
+       "type": "text",
+       "text": "SIPURL ::= UTF8String"
+      },
+      {
+       "type": "text",
+       "text": "MonitoringType ::= ENUMERATED { iri (1), iriCC (2), ... }"
+      },
+      {
+       "type": "text",
+       "text": "LawfulInterceptionIdentifier ::= OCTET STRING (SIZE (1..25)) -- It is recommended to use ASCII characters in \" \"0\"…\"9\". -- For subaddress option only \"0\"...\"9\" shall be used. -- 17 znaków numerycznych ASCII -- format: LEAID + TARGET(SEQ) -- TARGET - (15 znaków) nadawany sekwencyjnie dla każdego LEAID -- LEAID -(2 znaki) 00 – LEMF operatora, 01 - ABW, 02 - Policja, 03 - SKW, 04 - ZW, 05 - SG, 06 – MF, 07 - CBA"
+      },
+      {
+       "type": "text",
+       "text": "TimeStamp ::= CHOICE { -- The minimum resolution required is one second. -- \"Resolution\" is the smallest incremental change that can be measured for time and -- is expressed with a definite number of decimal digits or bits. localTime [0] LocalTimeStamp, utcTime [1] UTCTime }"
+      },
+      {
+       "type": "text",
+       "text": "LocalTimeStamp ::= SEQUENCE { generalizedTime [0] GeneralizedTime, -- The minimum resolution required is one second."
+      },
+      {
+       "type": "text",
+       "text": "-- \"Resolution\" is the smallest incremental change that can be measured for time and"
+      },
+      {
+       "type": "text",
+       "text": "-- is expressed with a definite number of decimal digits or bits."
+      },
+      {
+       "type": "text",
+       "text": "winterSummerIndication [1] ENUMERATED"
+      },
+      {
+       "type": "text",
+       "text": "{"
+      },
+      {
+       "type": "text",
+       "text": "notProvided(0),"
+      },
+      {
+       "type": "text",
+       "text": "winterTime(1),"
+      },
+      {
+       "type": "text",
+       "text": "summerTime(2)"
+      },
+      {
+       "type": "text",
+       "text": "}"
+      },
+      {
+       "type": "text",
+       "text": "}"
+      },
+      {
+       "type": "text",
+       "text": "END"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Protokół HI1ADMFPDU",
+     "children": [
+      {
+       "type": "text",
+       "text": "5.1. Struktura protokołu HI1ADMFPDU"
+      },
+      {
+       "type": "text",
+       "text": "HI1ADMFPDU Content"
+      },
+      {
+       "type": "text",
+       "text": "+version"
+      },
+      {
+       "type": "text",
+       "text": "InfoIndicator Acknowledge"
+      },
+      {
+       "type": "text",
+       "text": "HelloRequest GeneralRespond +message: UTF8String +result: Result +message: UTF8String"
+      },
+      {
+       "type": "text",
+       "text": "AlarmIndicator"
+      },
+      {
+       "type": "text",
+       "text": "+identity: integer"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 62 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "+alarmID: AlarmID +description: UTF8String +timestamp: TimeStamp +timestamp-on: TimeStamp +timestamp-off: TimeStamp NotificationIndicator +status: AlarmStatus +nature-of-alarm: Nature-Of-The-intercepted-call +identity: integer +range-of-alarm: NetPartType +notificationID: NotificationID +targettype: TargetType +description: UTF8String +liid: LawfulInterceptionIdentifier +timestamp: TimeStamp +cid: UTF8String +timestamp-on: TimeStamp +cid-GPRS: GPRSCorrelationNumber +nature-of-cn: Nature-Of-The-intercepted-call +liid: LawfulInterceptionIdentifier"
+      },
+      {
+       "type": "text",
+       "text": "Rysunek 7. Struktura protokołu HI1ADMFPDU 5.2. Specyfikacja ASN.1 dla protokołu HI1ADMFPDU"
+      },
+      {
+       "type": "text",
+       "text": "HI1ADMFOperations DEFINITIONS AUTOMATIC TAGS ::= BEGIN"
+      },
+      {
+       "type": "text",
+       "text": "IMPORTS LawfulInterceptionIdentifier, TimeStamp FROM UnsignedRequestDetail; HI1ADMFPDU ::= SEQUENCE { version [0] Version, content [1] Content operator [2] UTF8String OPTIONAL, }"
+      },
+      {
+       "type": "text",
+       "text": "Version ::= ENUMERATED { version1 (1), ... }"
+      },
+      {
+       "type": "text",
+       "text": "Content ::= CHOICE { info [0] InfoIndicator, acknowledge [1] Acknowledge, ... }"
+      },
+      {
+       "type": "text",
+       "text": "InfoIndicator ::= CHOICE { helloRequest [1] HelloRequest, alarm [2] AlarmIndicator, notification [3] NotificationIndicator, ... }"
+      },
+      {
+       "type": "text",
+       "text": "HelloRequest ::= SEQUENCE { message [1] UTF8String, ..."
+      },
+      {
+       "type": "text",
+       "text": "}"
+      },
+      {
+       "type": "text",
+       "text": "AlarmIndicator ::= SEQUENCE"
+      },
+      {
+       "type": "text",
+       "text": "{"
+      },
+      {
+       "type": "text",
+       "text": "identity [0] INTEGER, -- numer pozwalający na jednoznaczną identyfikację alarmu razem z timestamp-on"
+      },
+      {
+       "type": "text",
+       "text": "alarmID [1] AlarmID,"
+      },
+      {
+       "type": "text",
+       "text": "description [2] UTF8String OPTIONAL, -- dodatkowe informacje, opis, kod błędu (np. z alarmu z MSC), tzw. powód"
+      },
+      {
+       "type": "text",
+       "text": "timestamp [3] TimeStamp, -- czas wysłania alarmu"
+      },
+      {
+       "type": "text",
+       "text": "timestamp-on [4] TimeStamp OPTIONAL, -- czas wystąpienia alarmowanego zdarzenia"
+      },
+      {
+       "type": "text",
+       "text": "timestamp-off [5] TimeStamp OPTIONAL, -- czas wystąpienia zdarzenia odwrotnego do zdarzenia alarmowanego"
+      },
+      {
+       "type": "text",
+       "text": "status [6] AlarmStatus OPTIONAL, -- powstanie/ustanie alarmu"
+      },
+      {
+       "type": "text",
+       "text": "-- podobne nature-Of-The-intercepted-call z HI2 (jeżeli błąd globalny to wszystkie service)"
+      },
+      {
+       "type": "text",
+       "text": "nature-of-alarm [7] Nature-Of-The-intercepted-call OPTIONAL,"
+      },
+      {
+       "type": "text",
+       "text": "range-of-alarm [8] NetPartType OPTIONAL, -- dotyczy całej sieci CN czy tylko jej części (np.: tylko jeden GGSN, jedna centrala)"
+      },
+      {
+       "type": "text",
+       "text": "targettype [9] TargetType OPTIONAL, -- dotyczy konkretnego LIID lub konkretnej sesji albo wszystkich obserwacji"
+      },
+      {
+       "type": "text",
+       "text": "liid [10] LawfulInterceptionIdentifier OPTIONAL,"
+      },
+      {
+       "type": "text",
+       "text": "cid [11] UTF8String OPTIONAL, -- z HI2 (chodzi o wskazanie konkretnej rozmowy lub sesji)"
+      },
+      {
+       "type": "text",
+       "text": "cid-GPRS [12] GPRSCorrelationNumber OPTIONAL, -- z HI2 (chodzi o wskazanie konkretnej rozmowy lub sesji)"
+      },
+      {
+       "type": "text",
+       "text": "..."
+      },
+      {
+       "type": "text",
+       "text": "}"
+      },
+      {
+       "type": "text",
+       "text": "Nature-Of-The-intercepted-call ::= ENUMERATED"
+      },
+      {
+       "type": "text",
+       "text": "{"
+      },
+      {
+       "type": "text",
+       "text": "-- Nature of the intercepted \"call\":"
+      },
+      {
+       "type": "text",
+       "text": "gSM-ISDN-PSTN-circuit-call(0),"
+      },
+      {
+       "type": "text",
+       "text": "-- the possible UUS content is sent through the HI2 or HI3 \"data\" interface"
+      },
+      {
+       "type": "text",
+       "text": "-- the possible call content call is established through the HI3 \"circuit\" interface"
+      },
+      {
+       "type": "text",
+       "text": "gSM-SMS-Message(1),"
+      },
+      {
+       "type": "text",
+       "text": "-- the SMS content is sent through the HI2 or HI3 \"data\" interface"
+      },
+      {
+       "type": "text",
+       "text": "uUS4-Messages(2),"
+      },
+      {
+       "type": "text",
+       "text": "-- the UUS content is sent through the HI2 or HI3 \"data\" interface"
+      },
+      {
+       "type": "text",
+       "text": "tETRA-circuit-call(3),"
+      },
+      {
+       "type": "text",
+       "text": "-- the possible call content call is established through the HI3 \"circuit\" interface"
+      },
+      {
+       "type": "text",
+       "text": "-- the possible data are sent through the HI3 \"data\" interface"
+      },
+      {
+       "type": "text",
+       "text": "teTRA-Packet-Data(4), -- the data are sent through the HI3 \"data\" interface"
+      },
+      {
+       "type": "text",
+       "text": "gPRS-Packet-Data(5),"
+      },
+      {
+       "type": "text",
+       "text": "-- the data are sent through the HI3 \"data\" interface"
+      },
+      {
+       "type": "text",
+       "text": "uMTS-circuit-call(6),"
+      },
+      {
+       "type": "text",
+       "text": "-- the possible call content call is established through the HI3 circuit"
+      },
+      {
+       "type": "text",
+       "text": "interface"
+      },
+      {
+       "type": "text",
+       "text": "-- the possible data are sent through the HI3 \"data\" interface"
+      },
+      {
+       "type": "text",
+       "text": "wIFI (11), -- not used"
+      },
+      {
+       "type": "text",
+       "text": "xDSL (12), -- not used"
+      },
+      {
+       "type": "text",
+       "text": "internetAccess (13),"
+      },
+      {
+       "type": "text",
+       "text": "internetTelephony (14),"
+      },
+      {
+       "type": "text",
+       "text": "..."
+      },
+      {
+       "type": "text",
+       "text": "}"
+      },
+      {
+       "type": "text",
+       "text": "NotificationIndicator ::= SEQUENCE"
+      },
+      {
+       "type": "text",
+       "text": "{"
+      },
+      {
+       "type": "text",
+       "text": "identity [0] INTEGER, -- numer pozwalający na jednoznaczną identyfikację alarmu razem z timestamp-on"
+      },
+      {
+       "type": "text",
+       "text": "notificationID [1] NotificationID,"
+      },
+      {
+       "type": "text",
+       "text": "description [2] UTF8String OPTIONAL, -- dodatkowe informacje, opis, kod błędu (np. z MSC), tzw. powód"
+      },
+      {
+       "type": "text",
+       "text": "timestamp [3] TimeStamp, -- czas wysłania powiadomienia"
+      },
+      {
+       "type": "text",
+       "text": "timestampEvent [4] TimeStamp, -- czas wystąpienia zdarzenia, którego dotyczy powiadomienie"
+      },
+      {
+       "type": "text",
+       "text": "liid [5] LawfulInterceptionIdentifier OPTIONAL,"
+      },
+      {
+       "type": "text",
+       "text": "..."
+      },
+      {
+       "type": "text",
+       "text": "}"
+      },
+      {
+       "type": "text",
+       "text": "AlarmID ::= ENUMERATED"
+      },
+      {
+       "type": "text",
+       "text": "{"
+      },
+      {
+       "type": "text",
+       "text": "sm-buffer-overflow (0), -- bufory wyjściowe w kierunku LEMF przepełnione => IRI i/lub CC tracone (operator)"
+      },
+      {
+       "type": "text",
+       "text": "lemf-hi3-online-delivery-failure (1), -- problem z monitoringiem online (LEMF) lemf-hi3-delivery-failure (2), -- problem z zapisywaniem danych HI3 (LEMF)"
+      },
+      {
+       "type": "text",
+       "text": "lemf-hi2-delivery-failure (3), -- problem z zapisywaniem danych HI2 (LEMF)"
+      },
+      {
+       "type": "text",
+       "text": "lemf-hi1-delivery-failure (4), -- problem z monitoringiem online (LEMF)"
+      },
+      {
+       "type": "text",
+       "text": "sm-hi1-failure (5), -- brak lub przeciążenie komunikacji z CN na interfejsie HI1 (SM operatora)"
+      },
+      {
+       "type": "text",
+       "text": "sm-hi2-failure (6), -- brak lub przeciążenie komunikacji z CN na interfejsie HI2 (SM operatora)"
+      },
+      {
+       "type": "text",
+       "text": "sm-hi3-failure (7), -- brak lub przeciążenie komunikacji z CN na interfejsie HI3 (SM operatora)"
+      },
+      {
+       "type": "text",
+       "text": "sm-hi3-online-failure (8), -- brak lub przeciążenie komunikacji z CN na"
+      },
+      {
+       "type": "text",
+       "text": "interfejsie HI3 (SM operatora)"
+      },
+      {
+       "type": "text",
+       "text": "major-system-failure (9), -- poważne uszkodzenie SM => konieczne sprawdzenie spójności BD (SM operatora) -- zarządzanie obserwacjami prawidłowe, ale inne funkcje SM mogą nie działać (np. część obserwacji stracona) (SM operatora)"
+      },
+      {
+       "type": "text",
+       "text": "minor-system-failure (10),"
+      },
+      {
+       "type": "text",
+       "text": "cn-activation-error (11), -- obserwacja nie założona w CN a czas na nią (LIID obowiązkowy) (SM operatora)"
+      },
+      {
+       "type": "text",
+       "text": "cn-deactivation-error (12), -- obserwacja nie usunięta z CN a czas na nią (LIID obowiązkowy) (SM operatora)"
+      },
+      {
+       "type": "text",
+       "text": "major-cn-li-failure (13), -- po stronie CN LI całkowicie nie funkcjonowało, BD obserwacji odbudowane w CN (SM operatora)"
+      },
+      {
+       "type": "text",
+       "text": "minor-cn-li-failure (14), -- po stronie CN pewne funkcje LI nie działały (SM operatora)"
+      },
+      {
+       "type": "text",
+       "text": "manual-system-failure (15), -- informacja wprowadzana ręcznie: uszkodzenie w CN lub SM (SM operatora)"
+      },
+      {
+       "type": "text",
+       "text": "manual-system-maintenance (20), -- informacja wprowadzana ręcznie o pracach planowych w systemie SM operatora (SM operatora)"
+      },
+      {
+       "type": "text",
+       "text": "..."
+      },
+      {
+       "type": "text",
+       "text": "}"
+      },
+      {
+       "type": "text",
+       "text": "AlarmStatus ::= ENUMERATED"
+      },
+      {
+       "type": "text",
+       "text": "{"
+      },
+      {
+       "type": "text",
+       "text": "off (0),"
+      },
+      {
+       "type": "text",
+       "text": "on (1),"
+      },
+      {
+       "type": "text",
+       "text": "..."
+      },
+      {
+       "type": "text",
+       "text": "}"
+      },
+      {
+       "type": "text",
+       "text": "NetPartType ::= ENUMERATED"
+      },
+      {
+       "type": "text",
+       "text": "{"
+      },
+      {
+       "type": "text",
+       "text": "whole (1),"
+      },
+      {
+       "type": "text",
+       "text": "part (2),"
+      },
+      {
+       "type": "text",
+       "text": "..."
+      },
+      {
+       "type": "text",
+       "text": "}"
+      },
+      {
+       "type": "text",
+       "text": "TargetType ::= ENUMERATED"
+      },
+      {
+       "type": "text",
+       "text": "{"
+      },
+      {
+       "type": "text",
+       "text": "all (1),"
+      },
+      {
+       "type": "text",
+       "text": "specific (2),"
+      },
+      {
+       "type": "text",
+       "text": "..."
+      },
+      {
+       "type": "text",
+       "text": "}"
+      },
+      {
+       "type": "text",
+       "text": "NotificationID ::= ENUMERATED"
+      },
+      {
+       "type": "text",
+       "text": "{"
+      },
+      {
+       "type": "text",
+       "text": "target-activated (0),"
+      },
+      {
+       "type": "text",
+       "text": "target-deactivated (1),"
+      },
+      {
+       "type": "text",
+       "text": "target-modificated (2),"
+      },
+      {
+       "type": "text",
+       "text": "..."
+      },
+      {
+       "type": "text",
+       "text": "}"
+      },
+      {
+       "type": "text",
+       "text": "Acknowledge ::= CHOICE { respond [0] GeneralRespond, ... }"
+      },
+      {
+       "type": "text",
+       "text": "GeneralRespond ::= SEQUENCE { result [1] Result, message [2] UTF8String OPTIONAL, ... }"
+      },
+      {
+       "type": "text",
+       "text": "Result ::= ENUMERATED { ok (1), missing-parameter (2), unknown-parameter (3), unknown-parameter-value (4), incorrect-BER (5), badSignature (6), certificateExpired (7), unknownError (10), ... }"
+      },
+      {
+       "type": "text",
+       "text": "GPRSCorrelationNumber ::= OCTET STRING (SIZE(8..20))"
+      },
+      {
+       "type": "text",
+       "text": "END"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "VI.",
+     "text": "Format parametru ExtendedPartyIdentity"
+    },
+    {
+     "type": "text",
+     "text": "PartyInformation ::= SEQUENCE { ... partyExtendedIdentity [PRIVATE 1] PartyExtendedIdentity OPTIONAL, ... }"
+    },
+    {
+     "type": "text",
+     "text": "PartyExtendedIdentity ::= SEQUENCE { subscriptionType [1] ENUMERATED { postpaid (0), prepaid (1), ... } OPTIONAL,"
+    },
+    {
+     "type": "text",
+     "text": "activationDate [2] TimeStamp OPTIONAL, deactivationDate [3] TimeStamp OPTIONAL, subscriber [4] Subscriber OPTIONAL, postalAddress [5] PostalAddress OPTIONAL, mailAddress [6] MailAddress OPTIONAL, ... }"
+    },
+    {
+     "type": "text",
+     "text": "Subscriber ::= CHOICE { company [1] Company, person [2] Person, ... }"
+    },
+    {
+     "type": "text",
+     "text": "Company ::= SEQUENCE { name [0] UTF8String, regon [1] OCTET STRING (SIZE (5)) OPTIONAL, -- BCD coded 9 digits -- F digit not used ... }"
+    },
+    {
+     "type": "text",
+     "text": "Person ::= SEQUENCE { firstName [0] UTF8String, surname [1] UTF8String, pesel [2] OCTET STRING (SIZE (6)) OPTIONAL, -- BCD coded 11 digits -- F digit not used passportNumber [3] OCTET STRING (SIZE (7..14)) OPTIONAL, -- ASCII coded ..."
+    },
+    {
+     "type": "text",
+     "text": "}"
+    },
+    {
+     "type": "text",
+     "text": "PostalAddress ::= SEQUENCE { street [1] UTF8String OPTIONAL, buildingNumber [2] OCTET STRING (SIZE (1..10)) OPTIONAL, -- ASCII coded: 10 char apartmentNumber [3] OCTET STRING (SIZE (1..10)) OPTIONAL, -- ASCII coded: 10 char postcode [4] OCTET STRING (SIZE (1..8)) OPTIONAL, city [5] UTF8String OPTIONAL, country [6] UTF8String OPTIONAL }"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 20 stycznia 2012 r. w sprawie wymagań technicznych i eksploatacyjnych dla interfejsów umożliwiających wykonywanie zadań i obowiązków na rzecz obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego (Dz. U. poz. 200 oraz z 2019 r. poz. 2135), które traci moc zgodnie z art. 104 pkt 26 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222 oraz z 2026 r. poz. 252). seq Sesja TCP SYN Handshake 1 : InfoIndicator <<TCP>> FIN Handshake 2 : Acknowledge <<TCP>> HI1ADMFPDU SignedRequest GeneralRespond ListRespond SimpleRequest +result +version: SignedRequestVersion +message +signStandard: OID CMS { 1 2 840 113549 1 9 16 0 24 } +ContentInfo ListRequest CheckRespond +signedData: BEREncodedUnsignedRequestDetail +liid: LawfulInterceptionIdentifier +type: ListType +checkStatus: CheckStatus +liid: LawfulInterceptionIdentifier +message: UTF8String +message: HelloRequest UTF8String FIN Handshake 2 : Respond <<TCP>> HI1LEMFPDU FIN Handshake 2 : Acknowledge <<TCP>> HI1ADMFPDU SignedRequest GeneralRespond ListRespond SimpleRequest +result +version: SignedRequestVersion +message +signStandard: OID +liid:LawfulInterceptionIdentifier RTRequest +action: ENUMERATED CMS { 1 2 840 113549 1 9 16 0 24 } +ContentInfo ListRequest CheckRespond +signedData: BEREncodedUnsignedRequestDetail +liid: LawfulInterceptionIdentifier +type: ListType +checkStatus: CheckStatus +liid: LawfulInterceptionIdentifier +message: UTF8String +message: HelloRequest UTF8String"
+ }
+}

@@ -161,7 +161,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o osobach starszych | [Dz.U. 2026 poz. 921](DU/2026/DU-2026-921.md) | 2026-07-08 | – |
 | o osłonach socjalnych dla pracowników sektora elektroenergetycznego i branży górnictwa węgla brunatnego | [Dz.U. 2026 poz. 89](DU/2026/DU-2026-89.md) | 2026-01-27 | – |
 | o paszach | [Dz.U. 2025 poz. 320](DU/2025/DU-2025-320.md) | 2025-03-13 | – |
-| o Państwowej Straży Pożarnej | [Dz.U. 2025 poz. 1312](DU/2025/DU-2025-1312.md) | 2025-09-30 | – |
+| o Państwowej Straży Pożarnej | [Dz.U. 2026 poz. 1473](DU/2026/DU-2026-1473.md) | 2026-11-09 | [Dz.U. 2025 poz. 1312](DU/2025/DU-2025-1312.md) |
 | o Państwowym Instytucie Medycznym Ministerstwa Spraw Wewnętrznych i Administracji | [Dz.U. 2025 poz. 447](DU/2025/DU-2025-447.md) | 2025-04-07 | – |
 | o Państwowym Ratownictwie Medycznym | [Dz.U. 2026 poz. 141](DU/2026/DU-2026-141.md) | 2026-02-06 | [Dz.U. 2025 poz. 91](DU/2025/DU-2025-91.md) |
 | o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023-2027 | [Dz.U. 2026 poz. 1462](DU/2026/DU-2026-1462.md) | 2026-11-05 | – |
@@ -269,7 +269,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o systemie powiadamiania ratunkowego | [Dz.U. 2025 poz. 1354](DU/2025/DU-2025-1354.md) | 2025-10-07 | – |
 | o systemie rekompensat dla sektorów i podsektorów energochłonnych | [Dz.U. 2026 poz. 807](DU/2026/DU-2026-807.md) | 2026-06-19 | – |
 | o systemie teleinformatycznym eUmowy do obsługi niektórych umów | [Dz.U. 2026 poz. 1056](DU/2026/DU-2026-1056.md) | 2026-08-05 | – |
-| o systemie ubezpieczeń społecznych | [Dz.U. 2026 poz. 199](DU/2026/DU-2026-199.md) | 2026-02-23 | [Dz.U. 2025 poz. 350](DU/2025/DU-2025-350.md) |
+| o systemie ubezpieczeń społecznych | [Dz.U. 2026 poz. 1474](DU/2026/DU-2026-1474.md) | 2026-11-09 | [Dz.U. 2026 poz. 199](DU/2026/DU-2026-199.md), [Dz.U. 2025 poz. 350](DU/2025/DU-2025-350.md) |
 | o systemie zarządzania emisjami gazów cieplarnianych i innych substancji | [Dz.U. 2026 poz. 526](DU/2026/DU-2026-526.md) | 2026-04-16 | – |
 | o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku gazu | [Dz.U. 2025 poz. 204](DU/2025/DU-2025-204.md) | 2025-02-17 | – |
 | o szczególnej opiece geriatrycznej | [Dz.U. 2026 poz. 914](DU/2026/DU-2026-914.md) | 2026-07-07 | – |
@@ -421,7 +421,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
-## Rozporządzenia (516)
+## Rozporządzenia (517)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -591,6 +591,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Obrony Narodowej w sprawie należności pieniężnych żołnierzy zawodowych za przeniesienia, przesiedlenia i podróże służbowe | [Dz.U. 2026 poz. 950](DU/2026/DU-2026-950.md) | 2026-07-15 | [Dz.U. 2025 poz. 815](DU/2025/DU-2025-815.md) |
 | Ministra Obrony Narodowej w sprawie organizacji oraz działania Komisji Badania Wypadków Lotniczych Lotnictwa Państwowego | [Dz.U. 2026 poz. 1141](DU/2026/DU-2026-1141.md) | 2026-08-28 | – |
 | Ministra Obrony Narodowej w sprawie orzekania o inwalidztwie żołnierzy zawodowych, żołnierzy zwolnionych z zawodowej służby wojskowej oraz emerytów i rencistów wojskowych, a także właściwości i trybu postępowania wojskowych komisji lekarskich w tych sprawach | [Dz.U. 2025 poz. 1063](DU/2025/DU-2025-1063.md) | 2025-08-05 | – |
+| Ministra Obrony Narodowej w sprawie orzekania o zdolności do służby w Służbie Kontrwywiadu Wojskowego i Służbie Wywiadu Wojskowego, orzekania o inwalidztwie funkcjonariuszy Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego oraz emerytów i rencistów Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego oraz orzekania o uszczerbku na zdrowiu funkcjonariuszy Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego | [Dz.U. 2026 poz. 1472](DU/2026/DU-2026-1472.md) | 2026-11-09 | – |
 | Ministra Obrony Narodowej w sprawie postępowania w zakresie zaopatrzenia emerytalnego funkcjonariuszy Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego oraz ich rodzin | [Dz.U. 2025 poz. 1122](DU/2025/DU-2025-1122.md) | 2025-08-14 | – |
 | Ministra Obrony Narodowej w sprawie prowadzenia postępowania kwalifikacyjnego do Żandarmerii Wojskowej | [Dz.U. 2025 poz. 1221](DU/2025/DU-2025-1221.md) | 2025-09-04 | – |
 | Ministra Obrony Narodowej w sprawie przydziału kwatery albo innego lokalu mieszkalnego przez Agencję Mienia Wojskowego | [Dz.U. 2025 poz. 609](DU/2025/DU-2025-609.md) | 2025-05-08 | – |
