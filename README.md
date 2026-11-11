@@ -49,7 +49,7 @@ Sprostowanie: do 2026-09-30 pisałem tu, że przed 2012 r. HTML-a nie ma dla ża
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-11-10 17:52 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-11-11 12:01 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
