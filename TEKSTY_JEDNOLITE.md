@@ -2,7 +2,7 @@
 
 Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odświeżane automatycznie). Nazwa aktu pochodzi z tytułu obwieszczenia. Tekst jednolity podaje stan prawny na dzień wskazany w obwieszczeniu; zmian ogłoszonych później w nim nie ma. Teksty nieoficjalne, wiążący jest PDF.
 
-## Ustawy (414)
+## Ustawy (415)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -144,6 +144,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o ochronie przyrody | [Dz.U. 2026 poz. 1315](DU/2026/DU-2026-1315.md) | 2026-10-09 | [Dz.U. 2026 poz. 13](DU/2026/DU-2026-13.md) |
 | o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy | [Dz.U. 2026 poz. 186](DU/2026/DU-2026-186.md) | 2026-02-18 | [Dz.U. 2025 poz. 433](DU/2025/DU-2025-433.md) |
 | o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych | [Dz.U. 2026 poz. 1214](DU/2026/DU-2026-1214.md) | 2026-09-16 | – |
+| o ochronie zwierząt | [Dz.U. 2026 poz. 1485](DU/2026/DU-2026-1485.md) | 2026-11-10 | – |
 | o odnawialnych źródłach energii | [Dz.U. 2026 poz. 68](DU/2026/DU-2026-68.md) | 2026-01-22 | – |
 | o odpadach | [Dz.U. 2026 poz. 1328](DU/2026/DU-2026-1328.md) | 2026-10-14 | – |
 | o odpowiedzialności majątkowej funkcjonariuszy publicznych za rażące naruszenie prawa | [Dz.U. 2025 poz. 1443](DU/2025/DU-2025-1443.md) | 2025-10-22 | – |
@@ -413,7 +414,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo ochrony środowiska | [Dz.U. 2026 poz. 1453](DU/2026/DU-2026-1453.md) | 2026-11-04 | [Dz.U. 2025 poz. 647](DU/2025/DU-2025-647.md) |
 | – Prawo oświatowe | [Dz.U. 2026 poz. 820](DU/2026/DU-2026-820.md) | 2026-06-22 | [Dz.U. 2025 poz. 1043](DU/2025/DU-2025-1043.md) |
 | – Prawo pocztowe | [Dz.U. 2026 poz. 558](DU/2026/DU-2026-558.md) | 2026-04-23 | [Dz.U. 2025 poz. 366](DU/2025/DU-2025-366.md) |
-| – Prawo przedsiębiorców | [Dz.U. 2025 poz. 1480](DU/2025/DU-2025-1480.md) | 2025-10-28 | – |
+| – Prawo przedsiębiorców | [Dz.U. 2026 poz. 1484](DU/2026/DU-2026-1484.md) | 2026-11-10 | [Dz.U. 2025 poz. 1480](DU/2025/DU-2025-1480.md) |
 | – Prawo restrukturyzacyjne | [Dz.U. 2026 poz. 533](DU/2026/DU-2026-533.md) | 2026-04-17 | – |
 | – Prawo spółdzielcze | [Dz.U. 2026 poz. 521](DU/2026/DU-2026-521.md) | 2026-04-15 | – |
 | – Prawo upadłościowe | [Dz.U. 2026 poz. 913](DU/2026/DU-2026-913.md) | 2026-07-07 | [Dz.U. 2025 poz. 614](DU/2025/DU-2025-614.md) |
@@ -421,7 +422,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
-## Rozporządzenia (517)
+## Rozporządzenia (518)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -443,6 +444,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Edukacji i Nauki w sprawie programu "Rozwój czasopism naukowych" | [Dz.U. 2025 poz. 187](DU/2025/DU-2025-187.md) | 2025-02-13 | – |
 | Ministra Edukacji i Nauki w sprawie udzielania pomocy publicznej i pomocy de minimis w ramach inwestycji A2.4.1 Krajowego Planu Odbudowy i Zwiększania Odporności – Inwestycje w rozbudowę potencjału badawczego | [Dz.U. 2025 poz. 225](DU/2025/DU-2025-225.md) | 2025-02-24 | – |
 | Ministra Edukacji i Nauki w sprawie wykazu dziedzin zawodowych wraz z przyporządkowanymi do nich zawodami określonymi w klasyfikacji zawodów szkolnictwa branżowego | [Dz.U. 2026 poz. 1427](DU/2026/DU-2026-1427.md) | 2026-10-29 | – |
+| Ministra Edukacji Narodowej i Sportu w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy | [Dz.U. 2026 poz. 1483](DU/2026/DU-2026-1483.md) | 2026-11-10 | – |
 | Ministra Edukacji w sprawie organizacji kształcenia oraz warunków i form realizowania specjalnych działań opiekuńczo-wychowawczych w przedszkolach i szkołach specjalnych oraz w oddziałach specjalnych, zorganizowanych w podmiotach leczniczych i jednostkach pomocy społecznej | [Dz.U. 2026 poz. 1445](DU/2026/DU-2026-1445.md) | 2026-11-02 | – |
 | Ministra Energii w sprawie dotacji budżetowej przeznaczonej na finansowanie likwidacji kopalń, działań wykonywanych po zakończeniu likwidacji kopalń, naprawiania szkód wywołanych ruchem zakładu górniczego oraz zabezpieczenia kopalń sąsiednich przed zagrożeniem wodnym, gazowym oraz pożarowym | [Dz.U. 2025 poz. 1331](DU/2025/DU-2025-1331.md) | 2025-10-01 | – |
 | Ministra Energii w sprawie szczegółowego zakresu i sposobu sporządzania audytu efektywności energetycznej oraz metod obliczania oszczędności energii | [Dz.U. 2026 poz. 1236](DU/2026/DU-2026-1236.md) | 2026-09-23 | – |
