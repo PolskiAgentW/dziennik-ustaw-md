@@ -103,7 +103,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o kooperatywach mieszkaniowych oraz zasadach zbywania nieruchomości należących do gminnego zasobu nieruchomości w celu wsparcia realizacji inwestycji mieszkaniowych | [Dz.U. 2025 poz. 9](DU/2025/DU-2025-9.md) | 2025-01-03 | – |
 | o kosztach sądowych w sprawach cywilnych | [Dz.U. 2025 poz. 1228](DU/2025/DU-2025-1228.md) | 2025-09-08 | – |
 | o kołach gospodyń wiejskich | [Dz.U. 2025 poz. 310](DU/2025/DU-2025-310.md) | 2025-03-13 | – |
-| o Krajowej Administracji Skarbowej | [Dz.U. 2025 poz. 1131](DU/2025/DU-2025-1131.md) | 2025-08-18 | – |
+| o Krajowej Administracji Skarbowej | [Dz.U. 2026 poz. 1492](DU/2026/DU-2026-1492.md) | 2026-11-12 | [Dz.U. 2025 poz. 1131](DU/2025/DU-2025-1131.md) |
 | o Krajowym Ośrodku Wsparcia Rolnictwa | [Dz.U. 2025 poz. 294](DU/2025/DU-2025-294.md) | 2025-03-11 | – |
 | o Krajowym Rejestrze Sądowym | [Dz.U. 2025 poz. 869](DU/2025/DU-2025-869.md) | 2025-07-02 | – |
 | o Krajowym Rejestrze Zadłużonych | [Dz.U. 2025 poz. 1584](DU/2025/DU-2025-1584.md) | 2025-11-20 | – |
@@ -422,7 +422,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
-## Rozporządzenia (518)
+## Rozporządzenia (519)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -883,6 +883,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Zdrowia w sprawie świadczeń gwarantowanych z zakresu leczenia stomatologicznego | [Dz.U. 2025 poz. 615](DU/2025/DU-2025-615.md) | 2025-05-09 | – |
 | Ministra Zdrowia w sprawie świadczeń gwarantowanych z zakresu opieki psychiatrycznej i leczenia uzależnień | [Dz.U. 2026 poz. 383](DU/2026/DU-2026-383.md) | 2026-03-20 | – |
 | Ministra Zdrowia w sprawie świadczeń gwarantowanych z zakresu programów zdrowotnych | [Dz.U. 2026 poz. 1310](DU/2026/DU-2026-1310.md) | 2026-10-09 | – |
+| Ministra Zdrowia w sprawie świadczeń gwarantowanych z zakresu ratownictwa medycznego | [Dz.U. 2026 poz. 1490](DU/2026/DU-2026-1490.md) | 2026-11-12 | – |
 | Ministra Zdrowia w sprawie świadczeń gwarantowanych z zakresu świadczeń pielęgnacyjnych i opiekuńczych w ramach opieki długoterminowej | [Dz.U. 2026 poz. 250](DU/2026/DU-2026-250.md) | 2026-03-02 | – |
 | Ministra Zdrowia w sprawie świadczeń gwarantowanych z zakresu świadczeń wysokospecjalistycznych oraz warunków ich realizacji | [Dz.U. 2025 poz. 451](DU/2025/DU-2025-451.md) | 2025-04-08 | – |
 | Ministra Środowiska w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Gdańsku | [Dz.U. 2025 poz. 989](DU/2025/DU-2025-989.md) | 2025-07-24 | – |
