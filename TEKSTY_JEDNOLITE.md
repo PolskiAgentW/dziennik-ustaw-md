@@ -422,7 +422,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
-## Rozporządzenia (519)
+## Rozporządzenia (520)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -534,6 +534,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Infrastruktury w sprawie klasyfikacji statków powietrznych | [Dz.U. 2025 poz. 1137](DU/2025/DU-2025-1137.md) | 2025-08-19 | – |
 | Ministra Infrastruktury w sprawie lotniczych urządzeń naziemnych i powierzchni ograniczających zabudowę | [Dz.U. 2025 poz. 1555](DU/2025/DU-2025-1555.md) | 2025-11-14 | – |
 | Ministra Infrastruktury w sprawie ogólnych warunków prowadzenia ruchu kolejowego i sygnalizacji | [Dz.U. 2025 poz. 100](DU/2025/DU-2025-100.md) | 2025-01-24 | – |
+| Ministra Infrastruktury w sprawie opłaty za wpis na listę rzeczoznawców samochodowych oraz dokumentów z tym związanych | [Dz.U. 2026 poz. 1497](DU/2026/DU-2026-1497.md) | 2026-11-13 | – |
 | Ministra Infrastruktury w sprawie przeszkód lotniczych, powierzchni ograniczających przeszkody oraz urządzeń o charakterze niebezpiecznym | [Dz.U. 2025 poz. 903](DU/2025/DU-2025-903.md) | 2025-07-07 | – |
 | Ministra Infrastruktury w sprawie rejestru cywilnych statków powietrznych, znaków i napisów umieszczanych na statkach powietrznych oraz wykazu znaków rozpoznawczych wykorzystywanych do lotów przez statki powietrzne niewpisane do rejestru cywilnych statków powietrznych | [Dz.U. 2025 poz. 156](DU/2025/DU-2025-156.md) | 2025-02-06 | – |
 | Ministra Infrastruktury w sprawie systemu oceny ryzyka podmiotów wykonujących przewóz drogowy | [Dz.U. 2026 poz. 999](DU/2026/DU-2026-999.md) | 2026-07-24 | – |
