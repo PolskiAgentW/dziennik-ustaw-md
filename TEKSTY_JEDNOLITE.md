@@ -2,7 +2,7 @@
 
 Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odświeżane automatycznie). Nazwa aktu pochodzi z tytułu obwieszczenia. Tekst jednolity podaje stan prawny na dzień wskazany w obwieszczeniu; zmian ogłoszonych później w nim nie ma. Teksty nieoficjalne, wiążący jest PDF.
 
-## Ustawy (415)
+## Ustawy (416)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -105,7 +105,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o kołach gospodyń wiejskich | [Dz.U. 2025 poz. 310](DU/2025/DU-2025-310.md) | 2025-03-13 | – |
 | o Krajowej Administracji Skarbowej | [Dz.U. 2026 poz. 1492](DU/2026/DU-2026-1492.md) | 2026-11-12 | [Dz.U. 2025 poz. 1131](DU/2025/DU-2025-1131.md) |
 | o Krajowym Ośrodku Wsparcia Rolnictwa | [Dz.U. 2025 poz. 294](DU/2025/DU-2025-294.md) | 2025-03-11 | – |
-| o Krajowym Rejestrze Sądowym | [Dz.U. 2025 poz. 869](DU/2025/DU-2025-869.md) | 2025-07-02 | – |
+| o Krajowym Rejestrze Sądowym | [Dz.U. 2026 poz. 1505](DU/2026/DU-2026-1505.md) | 2026-11-16 | [Dz.U. 2025 poz. 869](DU/2025/DU-2025-869.md) |
 | o Krajowym Rejestrze Zadłużonych | [Dz.U. 2025 poz. 1584](DU/2025/DU-2025-1584.md) | 2025-11-20 | – |
 | o krajowym systemie cyberbezpieczeństwa | [Dz.U. 2026 poz. 20](DU/2026/DU-2026-20.md) | 2026-01-09 | – |
 | o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności | [Dz.U. 2026 poz. 610](DU/2026/DU-2026-610.md) | 2026-05-07 | [Dz.U. 2025 poz. 865](DU/2025/DU-2025-865.md) |
@@ -201,6 +201,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o praktykach absolwenckich | [Dz.U. 2025 poz. 1578](DU/2025/DU-2025-1578.md) | 2025-11-18 | – |
 | o prawach konsumenta | [Dz.U. 2026 poz. 1244](DU/2026/DU-2026-1244.md) | 2026-09-23 | – |
 | o prawie autorskim i prawach pokrewnych | [Dz.U. 2025 poz. 24](DU/2025/DU-2025-24.md) | 2025-01-09 | – |
+| o produktach biobójczych | [Dz.U. 2026 poz. 1502](DU/2026/DU-2026-1502.md) | 2026-11-16 | – |
 | o produktach pochodzenia zwierzęcego | [Dz.U. 2026 poz. 981](DU/2026/DU-2026-981.md) | 2026-07-22 | – |
 | o promocji zatrudnienia i instytucjach rynku pracy | [Dz.U. 2025 poz. 214](DU/2025/DU-2025-214.md) | 2025-02-20 | – |
 | o promowaniu energii elektrycznej z wysokosprawnej kogeneracji | [Dz.U. 2025 poz. 602](DU/2025/DU-2025-602.md) | 2025-05-07 | – |
@@ -293,7 +294,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego | [Dz.U. 2025 poz. 694](DU/2025/DU-2025-694.md) | 2025-05-28 | – |
 | o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego | [Dz.U. 2026 poz. 157](DU/2026/DU-2026-157.md) | 2026-02-11 | – |
 | o Służbie Ochrony Państwa | [Dz.U. 2025 poz. 34](DU/2025/DU-2025-34.md) | 2025-01-10 | – |
-| o Służbie Więziennej | [Dz.U. 2025 poz. 1750](DU/2025/DU-2025-1750.md) | 2025-12-10 | – |
+| o Służbie Więziennej | [Dz.U. 2026 poz. 1504](DU/2026/DU-2026-1504.md) | 2026-11-16 | [Dz.U. 2025 poz. 1750](DU/2025/DU-2025-1750.md) |
 | o służbie zagranicznej | [Dz.U. 2026 poz. 788](DU/2026/DU-2026-788.md) | 2026-06-16 | – |
 | o towarach paczkowanych | [Dz.U. 2026 poz. 1436](DU/2026/DU-2026-1436.md) | 2026-10-30 | – |
 | o transporcie drogowym | [Dz.U. 2025 poz. 1490](DU/2025/DU-2025-1490.md) | 2025-10-29 | – |
@@ -422,7 +423,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
-## Rozporządzenia (520)
+## Rozporządzenia (522)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -445,6 +446,8 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Edukacji i Nauki w sprawie udzielania pomocy publicznej i pomocy de minimis w ramach inwestycji A2.4.1 Krajowego Planu Odbudowy i Zwiększania Odporności – Inwestycje w rozbudowę potencjału badawczego | [Dz.U. 2025 poz. 225](DU/2025/DU-2025-225.md) | 2025-02-24 | – |
 | Ministra Edukacji i Nauki w sprawie wykazu dziedzin zawodowych wraz z przyporządkowanymi do nich zawodami określonymi w klasyfikacji zawodów szkolnictwa branżowego | [Dz.U. 2026 poz. 1427](DU/2026/DU-2026-1427.md) | 2026-10-29 | – |
 | Ministra Edukacji Narodowej i Sportu w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy | [Dz.U. 2026 poz. 1483](DU/2026/DU-2026-1483.md) | 2026-11-10 | – |
+| Ministra Edukacji Narodowej w sprawie doradztwa zawodowego | [Dz.U. 2026 poz. 1506](DU/2026/DU-2026-1506.md) | 2026-11-16 | – |
+| Ministra Edukacji w sprawie akredytacji kształcenia ustawicznego w formach pozaszkolnych | [Dz.U. 2026 poz. 1499](DU/2026/DU-2026-1499.md) | 2026-11-16 | – |
 | Ministra Edukacji w sprawie organizacji kształcenia oraz warunków i form realizowania specjalnych działań opiekuńczo-wychowawczych w przedszkolach i szkołach specjalnych oraz w oddziałach specjalnych, zorganizowanych w podmiotach leczniczych i jednostkach pomocy społecznej | [Dz.U. 2026 poz. 1445](DU/2026/DU-2026-1445.md) | 2026-11-02 | – |
 | Ministra Energii w sprawie dotacji budżetowej przeznaczonej na finansowanie likwidacji kopalń, działań wykonywanych po zakończeniu likwidacji kopalń, naprawiania szkód wywołanych ruchem zakładu górniczego oraz zabezpieczenia kopalń sąsiednich przed zagrożeniem wodnym, gazowym oraz pożarowym | [Dz.U. 2025 poz. 1331](DU/2025/DU-2025-1331.md) | 2025-10-01 | – |
 | Ministra Energii w sprawie szczegółowego zakresu i sposobu sporządzania audytu efektywności energetycznej oraz metod obliczania oszczędności energii | [Dz.U. 2026 poz. 1236](DU/2026/DU-2026-1236.md) | 2026-09-23 | – |

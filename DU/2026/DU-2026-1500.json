@@ -1,0 +1,1584 @@
+{
+ "eli": "DU/2026/1500",
+ "title": "Rozporządzenie Ministra Cyfryzacji z dnia 12 listopada 2026 r. w sprawie rozszerzonego zakresu urządzeń radiowych nadawczych lub nadawczo-odbiorczych, które mogą być używane bez pozwolenia radiowego",
+ "converter": "eli2md 0.6.73",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/2026/1500/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA CYFRYZACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 listopada 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie rozszerzonego zakresu urządzeń radiowych nadawczych lub nadawczo-odbiorczych, które mogą być używane bez pozwolenia radiowego[^2]"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 145 ust. 4 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221, z 2025 r. poz. 637 i 820 oraz z 2026 r. poz. 252, 815 i 1296) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa rozszerzony zakres urządzeń radiowych nadawczych lub nadawczo-odbiorczych, zwanych dalej „urządzeniami”, które mogą być używane bez pozwolenia radiowego, określając warunki używania takich urządzeń i rodzaje służb radiokomunikacyjnych, w których urządzenia te mogą być używane.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "AMRD (Autonomous Maritime Radio Devices) – należy przez to rozumieć autonomiczne morskie urządzenia radiowe, działające niezależnie od stacji statkowych, służące do pozycjonowania i śledzenia na morzu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "Cospas-Sarsat – należy przez to rozumieć międzynarodowy satelitarny system poszukiwania i ratownictwa służący do wykrywania i lokalizacji sygnałów alarmowych nadawanych przez nadajniki alarmowe;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "DSB-AM (Double Sideband Amplitude Modulation) – należy przez to rozumieć emisję dwuwstęgową sygnału zmodulowanego amplitudowo;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "ECC (Electronic Communications Committee) – należy przez to rozumieć Komitet Komunikacji Elektronicznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "ECTRA (European Committee for Telecommunications Regulatory Affairs) – należy przez to rozumieć Europejski Komitet do Spraw Regulacji Telekomunikacyjnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "ERC (European Radiocommunications Committee) – należy przez to rozumieć Europejski Komitet Radiokomunikacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "e.r.p. (effective radiated power) – należy przez to rozumieć zastępczą moc promieniowaną nadajnika odniesioną do mocy promieniowanej przez dipol półfalowy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "identyfikatorze – należy przez to rozumieć urządzenie radiowe wykorzystywane do RFID, umieszczane na obiektach ożywionych lub nieożywionych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "interrogatorze – należy przez to rozumieć urządzenie radiowe wykorzystywane do RFID, które aktywuje identyfikator i odbiera przesyłane przez niego dane;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "ITS (Intelligent Transport Systems) – należy przez to rozumieć inteligentne systemy transportowe;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "MCA (Mobile Communication on Aircraft) – należy przez to rozumieć usługę telekomunikacyjną świadczoną w celu umożliwienia osobom znajdującym się na pokładzie statku powietrznego korzystania z publicznych sieci telekomunikacyjnych bez nawiązywania bezpośrednich połączeń z ruchomymi publicznymi sieciami telekomunikacyjnymi pracującymi na lądzie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_2/pkt_12",
+     "text": "MCV (Mobile Communication on Vessels) – należy przez to rozumieć usługę telekomunikacyjną świadczoną w celu umożliwienia osobom znajdującym się na pokładzie statku morskiego albo statku żeglugi śródlądowej korzystania z publicznych sieci telekomunikacyjnych bez nawiązywania bezpośrednich połączeń z ruchomymi publicznymi sieciami telekomunikacyjnymi pracującymi na lądzie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_2/pkt_13",
+     "text": "PMSE (Programme Making and Special Events) – należy przez to rozumieć systemy łączności wykorzystywane podczas nadawania lub produkcji programów radiofonicznych lub telewizyjnych lub wykorzystywane do przekazywania w czasie rzeczywistym informacji audiowizualnej, w szczególności podczas imprez masowych, imprez sportowych lub widowisk;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_2/pkt_14",
+     "text": "PLB (Personal Locator Beacon) – należy przez to rozumieć osobisty nadajnik sygnału niebezpieczeństwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_2/pkt_15",
+     "text": "PMP (Point to MultiPoint) – należy przez to rozumieć system typu punkt – wiele punktów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_2/pkt_16",
+     "text": "RLAN (Radio Local Area Network) – należy przez to rozumieć lokalną sieć radiową;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_2/pkt_17",
+     "text": "RFID (Radio Frequency Identification) – należy przez to rozumieć identyfikację radiową;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "par_2/pkt_18",
+     "text": "RR – należy przez to rozumieć Regulamin Radiokomunikacyjny, który jest dokumentem uzupełniającym Konstytucję i Konwencję Międzynarodowego Związku Telekomunikacyjnego, sporządzone w Genewie dnia 22 grudnia 1992 r. (Dz. U. z 1998 r. poz. 196);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "par_2/pkt_19",
+     "text": "SSB-AM (Single Sideband Amplitude Modulation) – należy przez to rozumieć emisję jednowstęgową sygnału zmodulowanego amplitudowo;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "par_2/pkt_20",
+     "text": "technologii UWB (Ultra Wideband) – należy przez to rozumieć technologię ultraszerokopasmową;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "par_2/pkt_21",
+     "text": "WAS (Wireless Access System) – należy przez to rozumieć system dostępu bezprzewodowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Nie wymaga pozwolenia radiowego używanie urządzeń, które:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "są urządzeniami końcowymi w sieciach radiokomunikacyjnych w służbie ruchomej lądowej, w których nie są świadczone publicznie dostępne usługi telekomunikacyjne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "stanowią zakończenia sieci telekomunikacyjnej w przypadku wykorzystania częstotliwości w systemach PMP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "posiadają interfejs umożliwiający połączenie, współpracę i wymianę informacji drogą radiową między stacją bazową a telekomunikacyjnym urządzeniem końcowym, pracującymi w ruchomej lub stacjonarnej publicznej sieci telekomunikacyjnej – jeżeli urządzenia te są używane przez:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_3/lit_a",
+         "text": "przedsiębiorcę telekomunikacyjnego dysponującego ogólnopolską rezerwacją częstotliwości wykorzystywaną do świadczenia usług za pośrednictwem stacji bazowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_3/lit_b",
+         "text": "przedsiębiorcę innego niż wskazany w lit. a albo przez podmiot wykorzystujący ten interfejs w interesie społecznym, który zawarł umowę w formie pisemnej, z przedsiębiorcą telekomunikacyjnym, o którym mowa w lit. a, określającą co najmniej identyfikację urządzenia, jego lokalizację, warunki instalacji i sposób wykorzystania interfejsu, zapewniający unikanie szkodliwych zakłóceń;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "pracują jako stacje bazowe małej mocy w zakresach częstotliwości:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_4/lit_a",
+         "text": "698–703 MHz (nadawanie) i 753–758 MHz (odbiór) z mocą nieprzekraczającą 23 dBm e.r.p.,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_4/lit_b",
+         "text": "703–733 MHz (nadawanie) i 758–788 MHz (odbiór) z mocą nieprzekraczającą 23 dBm e.r.p.,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_1/pkt_4/lit_c",
+         "text": "733–736 MHz (nadawanie) i 788–791 MHz (odbiór) z mocą nieprzekraczającą 23 dBm e.r.p.,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/ust_1/pkt_4/lit_d",
+         "text": "791–821 MHz (nadawanie) i 832–862 MHz (odbiór) z mocą nieprzekraczającą 21 dBm e.r.p.,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/ust_1/pkt_4/lit_e",
+         "text": "874,4–876 MHz (odbiór) i 919,4–921 MHz (nadawanie) z mocą nieprzekraczającą 20 dBm e.r.p.,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_3/ust_1/pkt_4/lit_f",
+         "text": "876–915 MHz (odbiór) i 921–960 MHz (nadawanie) z mocą nieprzekraczającą 20 dBm e.r.p.,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_3/ust_1/pkt_4/lit_g",
+         "text": "1710–1785 MHz (odbiór) i 1805–1880 MHz (nadawanie) z mocą nieprzekraczającą 20 dBm e.r.p.,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_3/ust_1/pkt_4/lit_h",
+         "text": "1900–1910 MHz (nadawanie i odbiór) z mocą nieprzekraczającą 21 dBm e.r.p.,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_3/ust_1/pkt_4/lit_i",
+         "text": "1920–1980 MHz (odbiór) i 2110–2170 MHz (nadawanie) z mocą nieprzekraczającą 21 dBm e.r.p.,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_3/ust_1/pkt_4/lit_j",
+         "text": "2500–2570 MHz (odbiór) i 2620–2690 MHz (nadawanie) z mocą nieprzekraczającą 21 dBm e.r.p.,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "par_3/ust_1/pkt_4/lit_k",
+         "text": "2570–2620 MHz (nadawanie i odbiór) z mocą nieprzekraczającą 21 dBm e.r.p.,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "par_3/ust_1/pkt_4/lit_l",
+         "text": "3400–3800 MHz (nadawanie i odbiór) z mocą nieprzekraczającą 24 dBm e.r.p. dla każdej nośnej o szerokości 20 MHz",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– oraz są wykorzystywane do świadczenia usług przez podmiot dysponujący rezerwacją częstotliwości z danego zakresu;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_1/pkt_5",
+       "text": "są urządzeniami typu PR27, przeznaczonymi do używania wyłącznie w zakresie częstotliwości 26,96–27,41 MHz, pracującymi z modulacją kątową albo z emisją DSB-AM, albo z emisją SSB-AM oraz spełniającymi wymagania określone w normach wprowadzających normę ETSI EN 300 433, przy czym dopuszczalna moc wyjściowa nadajnika pracującego z modulacją kątową wynosi do 4 W mocy fali nośnej, z emisją DSB-AM wynosi do 4 W mocy fali nośnej, a z emisją SSB-AM wynosi do 12 W szczytowej mocy obwiedni;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_1/pkt_6",
+       "text": "są urządzeniami bliskiego zasięgu:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_6/lit_a",
+         "text": "przeznaczonymi do ogólnego stosowania, niezależnie od zastosowania lub przeznaczenia urządzenia, wykorzystywanymi w szczególności w telemetrii, zdalnym sterowaniu, systemach alarmowych oraz transmisji danych – dla których warunki używania są określone w załączniku nr 1 do rozporządzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_6/lit_b",
+         "text": "stosowanymi w szerokopasmowych systemach transmisji danych, obejmującymi urządzenia wykorzystujące szerokopasmowe techniki modulacji w celu dostępu do widma, wykorzystywanymi w szczególności w bezprzewodowych systemach dostępu, takich jak WAS/RLAN, lub w urządzeniach do szerokopasmowej transmisji danych w sieciach danych – dla których warunki używania są określone w załączniku nr 2 do rozporządzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_1/pkt_6/lit_c",
+         "text": "stosowanymi w transporcie, wykorzystywanymi w szczególności w transporcie kolejowym oraz w ITS – dla których warunki używania są określone w załączniku nr 3 do rozporządzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/ust_1/pkt_6/lit_d",
+         "text": "stosowanymi w radiolokacji, w tym są urządzeniami wykorzystywanymi w szczególności do określania pozycji, prędkości lub innych właściwości obiektu – dla których warunki używania są określone w załączniku nr 4 do rozporządzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/ust_1/pkt_6/lit_e",
+         "text": "do sterowania modelami, w szczególności są urządzeniami wykorzystującymi zdalne sterowanie i telemetrię, używanymi do zdalnego sterowania ruchem modeli w powietrzu, na lądzie, na wodzie lub pod wodą – dla których warunki używania są określone w załączniku nr 5 do rozporządzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_3/ust_1/pkt_6/lit_f",
+         "text": "stosowanymi w urządzeniach wspomagających słuch – dla których warunki używania są określone w załączniku nr 6 do rozporządzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_3/ust_1/pkt_6/lit_g",
+         "text": "RFID, wykorzystywanymi w systemach łączności radiowej opartych na identyfikatorach i interrogatorach – dla których warunki używania są określone w załączniku nr 7 do rozporządzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_3/ust_1/pkt_6/lit_h",
+         "text": "stosowanymi w ochronie zdrowia, stanowiącymi element radiowy aktywnych wyrobów medycznych do implantacji w rozumieniu ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. z 2024 r. poz. 1620) – dla których warunki używania są określone w załączniku nr 8 do rozporządzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_3/ust_1/pkt_6/lit_i",
+         "text": "do zastosowań indukcyjnych, wykorzystującymi pole magnetyczne z systemami pętli indukcyjnej do komunikacji zbliżeniowej – dla których warunki używania są określone w załączniku nr 9 do rozporządzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_3/ust_1/pkt_6/lit_j",
+         "text": "wykorzystującymi technologię UWB, opartą na rozwiązaniach technicznych z zakresu radiokomunikacji bliskiego zasięgu, przeznaczonymi do wytwarzania i emitowania energii fal radiowych w zakresie częstotliwości o szerokości przekraczającej 50 MHz – dla których warunki używania są określone w załączniku nr 10 do rozporządzenia;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/ust_1/pkt_7",
+       "text": "są samochodowymi urządzeniami radarowymi bliskiego zasięgu – dla których warunki używania są określone w załączniku nr 11 do rozporządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_3/ust_1/pkt_8",
+       "text": "są urządzeniami stacji ziemskich stosowanymi w systemach satelitarnych – dla których warunki używania są określone w załączniku nr 12 do rozporządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_3/ust_1/pkt_9",
+       "text": "są urządzeniami służącymi do świadczenia usług MCV – dla których warunki używania są określone w załączniku nr 13 do rozporządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_3/ust_1/pkt_10",
+       "text": "są urządzeniami służącymi do świadczenia usług MCA – dla których warunki używania są określone w załączniku nr 14 do rozporządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_3/ust_1/pkt_11",
+       "text": "są urządzeniami wykorzystywanymi w PMSE, w szczególności głośnikami bezprzewodowymi, słuchawkami bezprzewodowymi, słuchawkami bezprzewodowymi do urządzeń przenośnych, zestawami głośnomówiącymi, dousznymi monitorami odsłuchowymi wykorzystywanymi do przekazywania dźwięku na koncertach i widowiskach scenicznych oraz urządzeniami do transmisji wideo – dla których warunki używania są określone w załączniku nr 15 do rozporządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_3/ust_1/pkt_12",
+       "text": "są urządzeniami stosowanymi do śledzenia, lokalizacji i pozyskiwania danych – dla których warunki używania są określone w załączniku nr 16 do rozporządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_3/ust_1/pkt_13",
+       "text": "są urządzeniami pracującymi w zakresie częstotliwości 29,7 MHz–3 GHz w podziemnych wyrobiskach górniczych, z mocą nieprzekraczającą 500 mW e.r.p. na głębokości większej niż 100 m poniżej poziomu terenu i w odległości niemniejszej niż 100 m od pionowego tunelu szybowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_3/ust_1/pkt_14",
+       "text": "są urządzeniami w celach badawczych wewnątrz struktury ekranującej, w szczególności w komorze bezodbiciowej lub w komorze ekranowanej, o skuteczności ekranowania niemniejszej niż 70 dB;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_3/ust_1/pkt_15",
+       "text": "są urządzeniami typu AMRD – dla których warunki używania są określone w załączniku nr 17 do rozporządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "par_3/ust_1/pkt_16",
+       "text": "są przenośnymi osobistymi nadajnikami alarmowymi typu PLB, przeznaczonymi do użycia wyłącznie w sytuacji zagrożenia, nadającymi sygnał alarmowy (distress) w systemie Cospas-Sarsat, pracującymi na częstotliwości 121,5 MHz (sygnał lokalizacyjny) oraz w zakresie 406,0–406,1 MHz (sygnał alarmowy), wykorzystywanymi do łączności w niebezpieczeństwie i do zapewnienia bezpieczeństwa oraz przeznaczonymi do indywidualnego użycia, pod warunkiem zarejestrowania nadajnika przez Urząd Lotnictwa Cywilnego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Urządzenia, o których mowa w ust. 1, nie mogą powodować szkodliwych zakłóceń w pracy innych urządzeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Urządzenia, o których mowa w ust. 1 pkt 5–16, nie podlegają ochronie przed szkodliwymi zakłóceniami powodowanymi przez inne urządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Urządzenia, o których mowa w § 3 ust. 1 pkt 1–7 i 9–15, są używane w naziemnych służbach radiokomunikacyjnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Urządzenia, o których mowa w § 3 ust. 1 pkt 8 i 16, są używane w satelitarnych służbach radiokomunikacyjnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.[^3]",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Cyfryzacji: wz. D. Standerski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Cyfryzacji z dnia 12 listopada 2026 r. (Dz. U. poz. 1500) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "WARUNKI UŻYWANIA DLA URZĄDZEŃ BLISKIEGO ZASIĘGU OGÓLNEGO STOSOWANIA"
+    },
+    {
+     "type": "text",
+     "text": "Poz. Zakres Warunki używania urządzeń Norma określająca Uwagi częstotliwości wymagania"
+    },
+    {
+     "type": "text",
+     "text": "patrz również:"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "433,05-434,79 MHz zgodnie z tabelą 2 w załączniku do PN-ETSI EN 300 220 załącznik 1 do zalecenia decyzji 2025/105[^1_2] dla zakresu nr 44a ERC/REC 70-03[^2_2] dla zakresu „g2”",
+     "children": [
+      {
+       "type": "text",
+       "text": "patrz również:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "434,04-434,79 MHz zgodnie z tabelą 2 w załączniku do PN-ETSI EN 300 220 załącznik 1 do zalecenia decyzji 2025/105 dla zakresu nr 45c ERC/REC 70-03 dla zakresu „g3”",
+     "children": [
+      {
+       "type": "text",
+       "text": "zgodnie z załącznikiem 1 do 3. 863-870 MHz zalecenia ERC/REC 70-03 dla PN-ETSI EN 300 220 zakresu „h1.0”"
+      },
+      {
+       "type": "text",
+       "text": "zgodnie z załącznikiem 1 do 4. 863-870 MHz zalecenia ERC/REC 70-03 dla PN-ETSI EN 300 220 zakresu „h1.2”"
+      },
+      {
+       "type": "text",
+       "text": "patrz również:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "869,7-870 MHz zgodnie z tabelą 2 w załączniku do PN-ETSI EN 300 220 załącznik 1 do zalecenia decyzji 2025/105 dla zakresu nr 56a ERC/REC 70-03 dla zakresu „h1.8”",
+     "children": [
+      {
+       "type": "text",
+       "text": "zgodnie z załącznikiem 1 do 6. 870-874,4 MHz zalecenia ERC/REC 70-03 dla PN-ETSI EN 300 220 zakresu „h2”"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "874-874,4 MHz zgodnie z załącznikiem do decyzji brak normy 2025/650[^3_2] dla zakresu nr 1",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "916,1-919,4 MHz zgodnie z załącznikiem do decyzji brak normy 2025/650 dla zakresu nr 5",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "917,3-918,9 MHz zgodnie z załącznikiem do decyzji brak normy 2025/650 dla zakresu nr 4",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zgodnie z Uwagą 5.150 do RR zakres jest przeznaczony również zgodnie z załącznikiem 1 do dla urządzeń ISM[^4]. Urządzenia 10. 24,00-24,25 GHz zalecenia ERC/REC 70-03 dla PN-ETSI EN 300 440 pracujące w tym zakresie muszą zakresu „m” zaakceptować szkodliwe zakłócenia, jakich mogą doznać podczas pracy urządzeń ISM."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "U U WARUNKI UŻYWANIA DLA URZĄDZEŃ BLISKIEGO ZASIĘGU STOSOWANYCH W SZEROKOPASMOWYCH SYSTEMACH TRANSMISJI DANYCH"
+    },
+    {
+     "type": "text",
+     "text": "Poz. Zakres Warunki używania urządzeń Norma określająca Uwagi częstotliwości wymagania"
+    },
+    {
+     "type": "text",
+     "text": "zgodnie z załącznikiem 3 do 1. 915,8-919,4 MHz zalecenia ERC/REC 70-03[^1_3] dla PN-ETSI EN 304 220 zakresu „a2”"
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "916,4-919,4 MHz zgodnie z załącznikiem do decyzji PN-ETSI EN 304 220 2025/650[^2_3] dla zakresu nr 2",
+     "children": [
+      {
+       "type": "text",
+       "text": "zgodnie z załącznikiem 3 do 3. 1910-1920 MHz zalecenia ERC/REC 70-03 dla PN-ETSI EN 301 406 zakresu „d”"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "5150-5250 MHz zgodnie z decyzją 2022/2307 PN-ETSI EN 301 893 patrz również: ³⁾ decyzja ECC/DEC/(04)08[^4_2]",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "5250-5350 MHz zgodnie z decyzją 2022/2307 PN-ETSI EN 301 893 patrz również: decyzja ECC/DEC/(04)08",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "5470-5725 MHz zgodnie z decyzją 2022/2307 PN-ETSI EN 301 893 patrz również: decyzja ECC/DEC/(04)08",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "5945-6425 MHz zgodnie z decyzją 2025/913 PN-ETSI EN 303 687 patrz również: ⁵⁾ decyzja ECC/DEC/(20)01[^6]",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "W TRANSPORCIE WARUNKI UŻYWANIA DLA URZĄDZEŃ BLISKIEGO ZASIĘGU STOSOWANYCH W TRANSPORCIE"
+    },
+    {
+     "type": "text",
+     "text": "Poz. Zakres Warunki używania urządzeń Norma określająca Uwagi częstotliwości wymagania"
+    },
+    {
+     "type": "text",
+     "text": "Dotyczy urządzeń stosowanych w transporcie kolejowym. zgodnie z tabelą 2 w załączniku do 1. 7300-23000 kHz decyzji 2025/105[^1_4] dla zakresu PN-ETSI EN 302 609 patrz również: nr 23 załącznik 4 do zalecenia ERC/REC 70-03[^2_4] dla zakresu „b”"
+    },
+    {
+     "type": "text",
+     "text": "zgodnie z załącznikiem 4 do Dotyczy urządzeń stosowanych 2. 27090-27100 kHz zalecenia ERC/REC 70-03 dla PN-ETSI EN 302 608 w transporcie kolejowym. zakresu „c”"
+    },
+    {
+     "type": "text",
+     "text": "Dotyczy urządzeń ITS związanych z bezpieczeństwem."
+    },
+    {
+     "type": "text",
+     "text": "patrz również: 3. 5875-5935 MHz zgodnie z decyzją 2020/1426[^3_4] PN-ETSI EN 302 571 decyzja ECC/DEC/(08)01[^4_3]"
+    },
+    {
+     "type": "text",
+     "text": "patrz również: załącznik A do zalecenia ERC/REC 70-03 dla zakresu „f”"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "WARUNKI UŻYWANIA DLA URZĄDZEŃ BLISKIEGO ZASIĘGU STOSOWANYCH W RADIOLOKACJI"
+    },
+    {
+     "type": "text",
+     "text": "Poz. Zakres Warunki używania urządzeń Norma określająca Uwagi częstotliwości wymagania"
+    },
+    {
+     "type": "text",
+     "text": "zgodnie z załącznikiem 6 do 1. 100 Hz-9 kHz zalecenia ERC/REC 70-03[^1_5] dla brak normy zakresu „n1”"
+    },
+    {
+     "type": "text",
+     "text": "zgodnie z tabelą 2 w załączniku do 2. 9-148 kHz decyzji 2025/105[^2_5] dla zakresu brak normy nr 90"
+    },
+    {
+     "type": "text",
+     "text": "patrz również: 3. 148-5000 kHz zgodnie z tabelą 2 w załączniku do brak normy załącznik 6 do zalecenia decyzji 2025/105 dla zakresu nr 91 ERC/REC 70-03 dla zakresu „n2”"
+    },
+    {
+     "type": "text",
+     "text": "patrz również: 4. 5000-30000 kHz zgodnie z tabelą 2 w załączniku do brak normy załącznik 6 do zalecenia decyzji 2025/105 dla zakresu nr 92 ERC/REC 70-03 dla zakresu „n3”"
+    },
+    {
+     "type": "text",
+     "text": "patrz również: 5. 30-130 MHz zgodnie z tabelą 2 w załączniku do brak normy załącznik 6 do zalecenia decyzji 2025/105 dla zakresu nr 93 ERC/REC 70-03 dla zakresu „n4”"
+    },
+    {
+     "type": "text",
+     "text": "patrz również: 6. 30-12400 MHz zgodnie z załącznikiem 1 do PN-ETSI EN 302 066 załącznik 6 do zalecenia decyzji ECC/DEC/(06)08[^3_5] ERC/REC 70-03 dla zakresu „a”"
+    },
+    {
+     "type": "text",
+     "text": "patrz również: decyzja ECC/DEC/(11)02[^4_4]"
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "6000-8500 MHz zgodnie z tabelą 2 w załączniku do PN-ETSI EN 302 729 patrz również: decyzji 2025/105 dla zakresu nr 63 załącznik 6 do zalecenia ERC/REC 70-03 dla zakresu „g1”",
+     "children": [
+      {
+       "type": "text",
+       "text": "zgodnie z załącznikiem 6 do 8. 9200-9500 MHz zalecenia ERC/REC 70-03 dla PN-ETSI EN 300 440 zakresu „h”"
+      },
+      {
+       "type": "text",
+       "text": "Poz. Zakres Warunki używania urządzeń Norma określająca Uwagi częstotliwości wymagania"
+      },
+      {
+       "type": "text",
+       "text": "zgodnie z załącznikiem 6 do 9. 9500-9975 MHz zalecenia ERC/REC 70-03 dla PN-ETSI EN 300 440 zakresu „i”"
+      },
+      {
+       "type": "text",
+       "text": "zgodnie z załącznikiem 6 do 10. 10,5-10,6 GHz zalecenia ERC/REC 70-03 dla PN-ETSI EN 300 440 zakresu „j”"
+      },
+      {
+       "type": "text",
+       "text": "zgodnie z załącznikiem 6 do 11. 13,4-14 GHz zalecenia ERC/REC 70-03 dla PN-ETSI EN 300 440 zakresu „k”"
+      },
+      {
+       "type": "text",
+       "text": "zgodnie z załącznikiem 6 do 12. 24,05-24,25 GHz zalecenia ERC/REC 70-03 dla PN-ETSI EN 300 440 zakresu „m”"
+      },
+      {
+       "type": "text",
+       "text": "patrz również: decyzja ECC/DEC/(11)02"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "24,05-26,5 GHz zgodnie z tabelą 2 w załączniku do PN-ETSI EN 302 729 patrz również: decyzji 2025/105 dla zakresu nr 67 załącznik 6 do zalecenia ERC/REC 70-03 dla zakresu „g2”",
+     "children": [
+      {
+       "type": "text",
+       "text": "patrz również: 14. 69,8-79,9 GHz zgodnie z tabelą 2 w załączniku do PN-ETSI EN 303 940 załącznik 6 do zalecenia decyzji 2025/105 dla zakresu nr 97 ERC/REC 70-03 dla zakresu „q”"
+      },
+      {
+       "type": "text",
+       "text": "patrz również: decyzja ECC/DEC/(11)02"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "75-85 GHz zgodnie z tabelą 2 w załączniku do PN-ETSI EN 302 729 patrz również: decyzji 2025/105 dla zakresu nr 78a załącznik 6 do zalecenia ERC/REC 70-03 dla zakresu „g4”",
+     "children": [
+      {
+       "type": "text",
+       "text": "patrz również: decyzja ECC/DEC/(21)02[^5_2]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "76-77 GHz zgodnie z tabelą 2 w załączniku do PN-ETSI EN 303 661 patrz również: decyzji 2025/105 dla zakresu nr 98 załącznik 6 do zalecenia ERC/REC 70-03 dla zakresu „o”",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poz. Zakres Warunki używania urządzeń Norma określająca Uwagi częstotliwości wymagania"
+      },
+      {
+       "type": "text",
+       "text": "patrz również: 17. 76,5-80,5 GHz zgodnie z tabelą 2 w załączniku do PN-ETSI EN 303 940 załącznik 6 do zalecenia decyzji 2025/105 dla zakresu nr 99 ERC/REC 70-03 dla zakresu „r1”"
+      },
+      {
+       "type": "text",
+       "text": "zgodnie z załącznikiem 6 do 18. 76,5-80,5 GHz zalecenia ERC/REC 70-03 dla brak normy zakresu „r2”"
+      },
+      {
+       "type": "text",
+       "text": "patrz również: decyzja ECC/DEC/(22)03[^7]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "ust_19",
+     "text": "116-260 GHz zgodnie z decyzją 2026/883[^6_2] PN-ETSI EN 305 550 patrz również: załącznik 6 do zalecenia ERC/REC 70-03 dla zakresu „p”",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 5",
+   "body": [
+    {
+     "type": "text",
+     "text": "MODELAMI WARUNKI UŻYWANIA DLA URZĄDZEŃ BLISKIEGO ZASIĘGU DO STEROWANIA MODELAMI"
+    },
+    {
+     "type": "text",
+     "text": "Poz. Zakres częstotliwości Warunki używania urządzeń Norma określająca Uwagi wymagania"
+    },
+    {
+     "type": "text",
+     "text": "26990-27000 kHz"
+    },
+    {
+     "type": "text",
+     "text": "27040-27050 kHz zgodnie z tabelą 2 w załączniku do patrz również: 1. 27090-27100 kHz decyzji 2025/105 dla zakresu PN-ETSI EN 300 220 załącznik 8 do zalecenia od nr 29 do[^1_6]nr 33 ERC/REC 70-03[^2_6] dla zakresów 27140-27150 kHz od „a1” do „a5”"
+    },
+    {
+     "type": "text",
+     "text": "27190-27200 kHz"
+    },
+    {
+     "type": "text",
+     "text": "zgodnie z decyzją patrz również: 2. 34,995-35,225 MHz ERC/DEC/(01)11 PN-ETSI EN 300 220 załącznik 8 do zalecenia ³⁾ ERC/REC 70-03 dla zakresu „b”"
+    },
+    {
+     "type": "text",
+     "text": "Zgodnie z Uwagą 5.150 do RR częstotliwości są przeznaczone również dla urządzeń ISM[^5_3]. 40,66-40,67 MHz Urządzenia pracujące na tych częstotliwościach muszą 40,67-40,68 MHz zgodnie z decyzją zaakceptować szkodliwe 3. ERC/DEC/(01)12 PN-ETSI EN 300 220 zakłócenia, jakich mogą doznać 40,68-40,69 MHz[^4_5] podczas pracy urządzeń ISM. 40,69-40,7 MHz patrz również: załącznik 8 do zalecenia ERC/REC 70-03 dla zakresów od „c1” do „c4”"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 6",
+   "body": [
+    {
+     "type": "text",
+     "text": "A B WARUNKI UŻYWANIA DLA URZĄDZEŃ BLISKIEGO ZASIĘGU STOSOWANYCH W URZĄDZENIACH WSPOMAGAJĄCYCH SŁUCH"
+    },
+    {
+     "type": "text",
+     "text": "Poz. Zakres częstotliwości Warunki używania urządzeń Norma określająca Uwagi wymagania"
+    },
+    {
+     "type": "text",
+     "text": "zgodnie z załącznikiem 10 do Dotyczy systemów pętli 1. 100 Hz-9 kHz zalecenia ERC/REC 70-03 dla PN-ETSI EN 303 348 indukcyjnych stosowanych zakresu „a0”[^1_7] w systemach pomocy osobom niedosłyszącym."
+    },
+    {
+     "type": "text",
+     "text": "Dotyczy urządzeń wspomagających słuch."
+    },
+    {
+     "type": "text",
+     "text": "patrz również: 2. 169,4-169,475 MHz zgodnie z tabelą 2 w załączniku do PN-ETSI EN 300 422 decyzja ECC/DEC/(05)02[^3_7] decyzji 2025/105[^2_7] dla zakresu nr 37a patrz również: załącznik 10 do zalecenia ERC/REC 70-03 dla zakresu „c1”"
+    },
+    {
+     "type": "text",
+     "text": "Dotyczy urządzeń wspomagających słuch."
+    },
+    {
+     "type": "text",
+     "text": "patrz również: 3. 169,4875- zgodnie z tabelą 2 w załączniku do PN-ETSI EN 300 422 decyzja ECC/DEC/(05)02 169,5875 MHz decyzji 2025/105 dla zakresu nr 39a patrz również: załącznik 10 do zalecenia ERC/REC 70-03 dla zakresu „c2”"
+    },
+    {
+     "type": "text",
+     "text": "Dotyczy urządzeń wspomagających słuch zgodnie z tabelą 2 w załączniku do z dostrajaniem zakresu pracy. 4. 173,965-216 MHz decyzji 2025/105 dla zakresu nr 82 PN-ETSI EN 300 422 patrz również: załącznik 10 do zalecenia ERC/REC 70-03 dla zakresu „d”"
+    },
+    {
+     "type": "text",
+     "text": "zgodnie z załącznikiem 10 do zalecenia ERC/REC 70-03 dla 5. 1656,5-1660,5 MHz zakresu „i” PN-ETSI EN 300 422"
+    },
+    {
+     "type": "text",
+     "text": "zgodnie z ECC Report 270[^4_6]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 7",
+   "body": [
+    {
+     "type": "text",
+     "text": "UNKI UŻYWANIA DLA URZĄDZEŃ BLISKIEGO ZASIĘGU RFID WARUNKI UŻYWANIA DLA URZĄDZEŃ BLISKIEGO ZASIĘGU RFID"
+    },
+    {
+     "type": "text",
+     "text": "Poz. Zakres częstotliwości Warunki używania urządzeń Norma określająca Uwagi wymagania"
+    },
+    {
+     "type": "text",
+     "text": "zgodnie z załącznikiem do decyzji 1. 916,1-918,9 MHz 2025/650[^1_8] dla zakresu nr 3 PN-ETSI EN 302 208"
+    },
+    {
+     "type": "text",
+     "text": "Zgodnie z Uwagą 5.150 do RR zakres częstotliwości jest zgodnie z załącznikiem 11 do przeznaczony również dla 2. 2446-2454 MHz zalecenia ERC/REC 70-03 dla PN-ETSI EN 300 440 urządzeń ISM[^3_8]. Urządzenia zakresu „c2”[^2_8] pracujące w tym zakresie muszą zaakceptować szkodliwe zakłócenia, jakich mogą doznać podczas pracy urządzeń ISM."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 8",
+   "body": [
+    {
+     "type": "text",
+     "text": "W OCHRONIE ZDROWIA WARUNKI UŻYWANIA DLA URZĄDZEŃ BLISKIEGO ZASIĘGU STOSOWANYCH W OCHRONIE ZDROWIA"
+    },
+    {
+     "type": "text",
+     "text": "Poz. Zakres częstotliwości Warunki używania urządzeń Norma określająca Uwagi wymagania"
+    },
+    {
+     "type": "text",
+     "text": "Dotyczy implantów stosowanych u zwierząt."
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "12500-20000 kHz zgodnie z tabelą 2 w załączniku do PN-ETSI EN 300 330 patrz również: decyzji 2025/105[^1_9] dla zakresu nr 26 załącznik 12 do zalecenia ERC/REC 70-03[^2_9] dla zakresu „f”",
+     "children": [
+      {
+       "type": "text",
+       "text": "zgodnie z załącznikiem 12 do 2. 42-56 MHz zalecenia ERC/REC 70-03 dla PN-ETSI EN 300 422 zakresu „g”"
+      },
+      {
+       "type": "text",
+       "text": "patrz również:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "2483,5-2500 MHz zgodnie z tabelą 2 w załączniku do PN-ETSI EN 303 203 załącznik 13 do zalecenia decyzji 2025/105 dla zakresu nr 59a ERC/REC 70-03 dla zakresu „b1”",
+     "children": [
+      {
+       "type": "text",
+       "text": "patrz również:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "2483,5-2500 MHz zgodnie z tabelą 2 w załączniku do PN-ETSI EN 303 203 załącznik 13 do zalecenia decyzji 2025/105 dla zakresu nr 59b ERC/REC 70-03 dla zakresu „b2”",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 9",
+   "body": [
+    {
+     "type": "text",
+     "text": "INDUKCYJNYCH WARUNKI UŻYWANIA DLA URZĄDZEŃ BLISKIEGO ZASIĘGU DO ZASTOSOWAŃ INDUKCYJNYCH"
+    },
+    {
+     "type": "text",
+     "text": "Poz. Zakres częstotliwości Warunki używania urządzeń Norma określająca Uwagi wymagania"
+    },
+    {
+     "type": "text",
+     "text": "PN-ETSI EN zgodnie z załącznikiem 9 do 303 447 1. 100 Hz-9 kHz zalecenia ERC/REC 70-03[^1_10] dla zakresu „a0” PN-ETSI EN 303 454"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 10",
+   "body": [
+    {
+     "type": "text",
+     "text": "WARUNKI UŻYWANIA DLA URZĄDZEŃ BLISKIEGO ZASIĘGU WYKORZYSTUJĄCYCH TECHNOLOGIĘ UWB"
+    },
+    {
+     "type": "text",
+     "text": "Poz. Typ urządzenia Warunki używania urządzeń Norma określająca Uwagi wymagania"
+    },
+    {
+     "type": "text",
+     "text": "patrz również: decyzja 1. urządzenia bliskiego ECC/DEC/(06)04[^2_10] zasięgu wykorzystujące zgodnie z decyzją 2024/1467[^1_11] brak normy technologię UWB patrz również: decyzja ECC/DEC/(07)01[^3_9]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 11",
+   "body": [
+    {
+     "type": "text",
+     "text": "Ż Ą WARUNKI UŻYWANIA DLA SAMOCHODOWYCH URZĄDZEŃ RADAROWYCH BLISKIEGO ZASIĘGU"
+    },
+    {
+     "type": "text",
+     "text": "Poz. Zakres częstotliwości Warunki używania Norma określająca Uwagi urządzeń wymagania"
+    },
+    {
+     "type": "text",
+     "text": "Terminy dostępności pasma 24 GHz określa art. 3 decyzji 2005/50/WE."
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 7 decyzji 2005/50/WE, w celu ochrony stacji radioastronomicznych działających w zakresie 22,21-24,00 GHz, ustala się następujące strefy zamknięte, w których jest zabronione używanie radarów bliskiego zasięgu pracujących w paśmie 24 GHz: 1) w Krakowie − strefa wokół Obserwatorium Astronomicznego Uniwersytetu Jagiellońskiego, której środek ma współrzędne geograficzne 19E49'36\" zgodnie z decyzją PN-ETSI EN 302 858 oraz 50N03'18\" 1. 21,65-26,65 GHz 2005/50/WE wyznaczone ¹⁾ PN-ETSI EN 302 288 w systemie odniesienia WGS-84, a promień ma wartość 1 km; 2) w Piwnicach koło Torunia − strefa wokół Centrum Astronomii Uniwersytetu Mikołaja Kopernika, której środek ma współrzędne geograficzne 18E33'30\" oraz 52N54'48\" wyznaczone w systemie odniesienia WGS-84, a promień ma wartość 1 km."
+    },
+    {
+     "type": "text",
+     "text": "patrz również: decyzja ECC/DEC/(04)10[^2_11]"
+    },
+    {
+     "type": "text",
+     "text": "patrz również: załącznik 5 do zalecenia ERC/REC 70-03[^3_10] dla zakresu „c1” i „c2”"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 12",
+   "body": [
+    {
+     "type": "text",
+     "text": "W Ń WARUNKI UŻYWANIA DLA URZĄDZEŃ STACJI ZIEMSKICH STOSOWANYCH W SYSTEMACH SATELITARNYCH"
+    },
+    {
+     "type": "text",
+     "text": "Poz. System Zakres Warunki używania Norma określająca Uwagi częstotliwości urządzeń wymagania"
+    },
+    {
+     "type": "text",
+     "text": "148,00- zgodnie z decyzjami: 150,05 MHz ERC/DEC/(99)06[^2_12] 1. S-PCS[^1_13] ERC/DEC/(99)05 PN-ETSI EN 301 721 399,90-[^3_11] 400,05 MHz ECTRA/DEC(99)02[^4_7]"
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "LPD-S 862-870 zgodnie z decyzją PN-ETSI EN 300 220 ⁵⁾ MHz ECC/DEC/(25)02[^6_3]",
+     "children": [
+      {
+       "type": "text",
+       "text": "1518-1544 MHz 1610-1626,5 PN-ETSI EN 301 426 MHz zgodnie z decyzjami: PN-ETSI EN 301 441 1626,5- ECC/DEC/(12)01[^8] PN-ETSI EN 301 442 MES[^7_2] 1645,5 MHz 3. (pracujące pod ECC/DEC/(09)04[^9] PN-ETSI EN 301 444 kontrolą sieci) 1646,5- ECC/DEC/(04)09 1660,5 MHz[^10] PN-ETSI EN 301 473 1670-1675 ECC/DEC/(06)09[^11] PN-ETSI EN 301 681 MHz PN-ETSI EN 302 574 1980-2010 MHz"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "MES 1613,8- zgodnie z decyzją brak normy 1626,5 MHz ECC/DEC/(09)04",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poz. System Zakres Warunki używania Norma określająca Uwagi częstotliwości urządzeń wymagania"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "ESV C-band 5925-6425 zgodnie z decyzją PN-ETSI EN 301 447 ¹²⁾ MHz ECC/DEC/(05)09[^13]",
+     "children": [
+      {
+       "type": "text",
+       "text": "PN-ETSI EN 302 186"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "AESIM 12,75-13,25 zgodnie z decyzją patrz również: ¹⁴⁾ GHz ECC/DEC/(19)04[^15] załącznik nr 1 pkt 6 do decyzji ECC/DEC/(19)04",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "AES 14,0-14,5 zgodnie z decyzją PN-ETSI EN 302 186 ¹⁶⁾ GHz ECC/DEC/(05)11[^17]",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "ESV 14,0-14,5 zgodnie z decyzją PN-ETSI EN 302 340 ¹⁸⁾ GHz ECC/DEC/(05)10[^19]",
+     "children": [
+      {
+       "type": "text",
+       "text": "FES[^20] NGSO[^21] 14,0-14,5 zgodnie z decyzją PN-ETSI EN 303 980 9. FSS GHz ECC/DEC/(17)04 [^22][^23] PN-ETSI EN 303 981"
+      },
+      {
+       "type": "text",
+       "text": "PN-ETSI EN 302 977 10. GSO ESIM 14,0-14,5 zgodnie z decyzją [^24][^25] GHz ECC/DEC/(18)04[^26] PN-ETSI EN 302 448"
+      },
+      {
+       "type": "text",
+       "text": "Poz. System Zakres Warunki używania Norma określająca Uwagi częstotliwości urządzeń wymagania"
+      },
+      {
+       "type": "text",
+       "text": "14,00-14,25 GHz zgodnie z decyzją PN-ETSI EN 301 428 11. HEST[^27] ECC/DEC/(06)03 29,5-30,0[^28] PN-ETSI EN 301 459 GHz"
+      },
+      {
+       "type": "text",
+       "text": "14,0-14,5 zgodnie z decyzją PN-ETSI EN 303 980 12. NGSO ESIM GHz ECC/DEC/(18)05 ²⁹⁾ PN-ETSI EN 303 981"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "VSAT 14,25-14,50 zgodnie z decyzją PN-ETSI EN 301 428 ³⁰⁾ GHz ECC/DEC/(03)04[^31]",
+     "children": [
+      {
+       "type": "text",
+       "text": "27,5000- 27,8285 GHz"
+      },
+      {
+       "type": "text",
+       "text": "28,4445- zgodnie z decyzją 14. ESOMP[^32] 28,9485 ECC/DEC/(13)01 PN-ETSI EN 303 978 GHz[^33]"
+      },
+      {
+       "type": "text",
+       "text": "29,4525- 30,0000 GHz"
+      },
+      {
+       "type": "text",
+       "text": "27,5000- 27,8285 GHz"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "NGSO ESOMP 28,4445- zgodnie z decyzją PN-ETSI EN 303 979 28,8365 ECC/DEC/(15)04[^34] GHz",
+     "children": [
+      {
+       "type": "text",
+       "text": "29,5-30,0 GHz"
+      },
+      {
+       "type": "text",
+       "text": "Poz. System Zakres Warunki używania Norma określająca Uwagi częstotliwości urządzeń wymagania"
+      },
+      {
+       "type": "text",
+       "text": "27,5000- 27,8285 GHz"
+      },
+      {
+       "type": "text",
+       "text": "28,4445- zgodnie z decyzją 16. UESFSS[^35] 28,9485 ECC/DEC/(05)01 brak normy GHz[^36]"
+      },
+      {
+       "type": "text",
+       "text": "29,4525- 29,5000 GHz"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "HDAFSS 29,5-30,0 zgodnie z decyzją brak normy ³⁷⁾ GHz ECC/DEC/(05)08[^38]",
+     "children": [
+      {
+       "type": "text",
+       "text": "Stacje naziemne FSS pracujące w zakresie 48,2– 50,2 GHz nie mogą powodować szkodliwych zakłóceń dla stacji radioastronomicznej w Toruniu (53°05′43″N, 18°33′46″E) pracującej w 48,2-50,2 zgodnie z decyzją paśmie 48,94– 18. FSS Q/V[^39] GHz ECC/DEC/(21)01 brak normy 49,04 GHz. W ⁴⁰⁾ promieniu 50 km od tej stacji uruchamianie nowych stacji FSS Q/V jest możliwe wyłącznie po uzgodnieniu warunków technicznych takiej stacji z operatorem stacji radioastronomicznej w Toruniu."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 13",
+   "body": [
+    {
+     "type": "text",
+     "text": "UNKI UŻYWANIA DLA URZĄDZEŃ DO ŚWIADCZENIA USŁUG MC WARUNKI UŻYWANIA DLA URZĄDZEŃ DO ŚWIADCZENIA USŁUG MCV"
+    },
+    {
+     "type": "text",
+     "text": "Poz. Zakres Warunki używania urządzeń Norma określająca Uwagi częstotliwości wymagania"
+    },
+    {
+     "type": "text",
+     "text": "880-915 MHz i PN-ETSI EN 301 502 patrz również: 1. 925-960 MHz zgodnie z decyzją 2024/340[^1_14] decyzja PN-ETSI EN 301 511 ECC/DEC/(08)08[^2_13]"
+    },
+    {
+     "type": "text",
+     "text": "PN-ETSI EN 301 502"
+    },
+    {
+     "type": "text",
+     "text": "PN-ETSI EN 301 511"
+    },
+    {
+     "type": "text",
+     "text": "PN-ETSI EN 301 908-1"
+    },
+    {
+     "type": "text",
+     "text": "1710-1785 MHz i PN-ETSI EN 301 908-13 patrz również: 2. 1805-1880 MHz zgodnie z decyzją 2024/340 decyzja PN-ETSI EN 301 908-14 ECC/DEC/(08)08"
+    },
+    {
+     "type": "text",
+     "text": "PN-ETSI EN 301 908-15"
+    },
+    {
+     "type": "text",
+     "text": "PN-ETSI EN 301 908-24"
+    },
+    {
+     "type": "text",
+     "text": "PN-ETSI EN 301 908-25"
+    },
+    {
+     "type": "text",
+     "text": "PN-ETSI EN 301 908-1"
+    },
+    {
+     "type": "text",
+     "text": "1920-1980 MHz i PN-ETSI EN 301 908-2 patrz również: 3. 2110-2170 MHz zgodnie z decyzją 2024/340 decyzja PN-ETSI EN 301 908-3 ECC/DEC/(08)08"
+    },
+    {
+     "type": "text",
+     "text": "PN-ETSI EN 301 908-11"
+    },
+    {
+     "type": "text",
+     "text": "PN-ETSI EN 301 908-1"
+    },
+    {
+     "type": "text",
+     "text": "PN-ETSI EN 301 908-13"
+    },
+    {
+     "type": "text",
+     "text": "2500-2570 MHz i PN-ETSI EN 301 908-14 patrz również: 4. 2620-2690 MHz zgodnie z decyzją 2024/340 decyzja PN-ETSI EN 301 908-15 ECC/DEC/(08)08"
+    },
+    {
+     "type": "text",
+     "text": "PN-ETSI EN 301 908-24"
+    },
+    {
+     "type": "text",
+     "text": "PN-ETSI EN 301 908-25"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 14",
+   "body": [
+    {
+     "type": "text",
+     "text": "UNKI UŻYWANIA DLA URZĄDZEŃ DO ŚWIADCZENIA USŁUG MC WARUNKI UŻYWANIA DLA URZĄDZEŃ DO ŚWIADCZENIA USŁUG MCA"
+    },
+    {
+     "type": "text",
+     "text": "Poz. Zakres Warunki używania urządzeń Norma określająca Uwagi częstotliwości wymagania"
+    },
+    {
+     "type": "text",
+     "text": "PN-ETSI EN 301 502"
+    },
+    {
+     "type": "text",
+     "text": "PN-ETSI EN 301 511"
+    },
+    {
+     "type": "text",
+     "text": "PN-ETSI EN 302 480"
+    },
+    {
+     "type": "text",
+     "text": "PN-ETSI EN 301 908-1 1. 1710-1785 MHz i zgodnie z decyzją 2022/2324 PN-ETSI EN 301 908-13 1805-1880 MHz[^1_15] PN-ETSI EN 301 908-14"
+    },
+    {
+     "type": "text",
+     "text": "PN-ETSI EN 301 908-15"
+    },
+    {
+     "type": "text",
+     "text": "PN-ETSI EN 301 908-24"
+    },
+    {
+     "type": "text",
+     "text": "PN-ETSI EN 301 908-25"
+    },
+    {
+     "type": "text",
+     "text": "PN-ETSI EN 301 908-1"
+    },
+    {
+     "type": "text",
+     "text": "1920-1980 MHz i PN-ETSI EN 301 908-2 2. 2110-2170 MHz zgodnie z decyzją 2022/2324 PN-ETSI EN 301 908-3"
+    },
+    {
+     "type": "text",
+     "text": "PN-ETSI EN 301 908-11"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 15",
+   "body": [
+    {
+     "type": "text",
+     "text": "UNKI UŻYWANIA DLA URZĄDZEŃ WYKORZYSTYWANYCH W PMS WARUNKI UŻYWANIA DLA URZĄDZEŃ WYKORZYSTYWANYCH W PMSE"
+    },
+    {
+     "type": "text",
+     "text": "Poz. Zakres częstotliwości Warunki używania urządzeń Norma określająca Uwagi wymagania"
+    },
+    {
+     "type": "text",
+     "text": "Dotyczy mikrofonów bezprzewodowych z dostrajaniem zakresu pracy."
+    },
+    {
+     "type": "text",
+     "text": "Zgodnie z Uwagą 5.150 do RR zgodnie z załącznikiem 10 do podzakres 40,66-40,70 MHz jest 1. 29,7-47,0 MHz zalecenia ERC/REC 70-03[^1_16] dla PN-ETSI EN 300 422 przeznaczony również dla zakresu „a1” urządzeń ISM[^2_14]. Urządzenia pracujące w tym podzakresie muszą zaakceptować szkodliwe zakłócenia, jakich mogą doznać podczas pracy urządzeń ISM."
+    },
+    {
+     "type": "text",
+     "text": "zgodnie z załącznikiem 10 do Dotyczy mikrofonów 2. 174-216 MHz zalecenia ERC/REC 70-03 dla PN-ETSI EN 300 422 bezprzewodowych zakresu „e” z dostrajaniem zakresu pracy."
+    },
+    {
+     "type": "text",
+     "text": "zgodnie z załącznikiem 10 do Dotyczy mikrofonów 3. 470-694 MHz zalecenia ERC/REC 70-03 dla PN-ETSI EN 300 422 bezprzewodowych zakresu „f1” z dostrajaniem zakresu pracy."
+    },
+    {
+     "type": "text",
+     "text": "zgodnie z załącznikiem 10 do Dotyczy mikrofonów 4. 694-698 MHz zalecenia ERC/REC 70-03 dla PN-ETSI EN 300 422 bezprzewodowych zakresu „f5” z dostrajaniem zakresu pracy."
+    },
+    {
+     "type": "text",
+     "text": "zgodnie z załącznikiem 10 do Dotyczy mikrofonów 5. 736-738MHz zalecenia ERC/REC 70-03 dla PN-ETSI EN 300 422 bezprzewodowych zakresu „f6” z dostrajaniem zakresu pracy."
+    },
+    {
+     "type": "text",
+     "text": "Dotyczy mikrofonów bezprzewodowych."
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "821,5-826 MHz zgodnie z tabelą 2 w załączniku do PN-ETSI EN 300 422 patrz również: decyzji 2025/105[^3_12] dla zakresu nr 94 załącznik 10 do zalecenia ERC/REC 70-03 dla zakresu „f3”",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poz. Zakres częstotliwości Warunki używania urządzeń Norma określająca Uwagi wymagania"
+      },
+      {
+       "type": "text",
+       "text": "Dotyczy mikrofonów bezprzewodowych."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "826-832 MHz zgodnie z tabelą 2 w załączniku do PN-ETSI EN 300 422 patrz również: decyzji 2025/105 dla zakresu nr 95 załącznik 10 do zalecenia ERC/REC 70-03 dla zakresu „f4”",
+     "children": [
+      {
+       "type": "text",
+       "text": "Dotyczy mikrofonów bezprzewodowych. 8. 1785-1804,8 MHz zgodnie z tabelą 2 w załączniku do PN-ETSI EN 300 422 decyzji 2025/105 dla zakresu nr 96 patrz również: załącznik 10 do zalecenia ERC/REC 70-03 dla zakresu „j”"
+      },
+      {
+       "type": "text",
+       "text": "zgodnie z załącznikiem 10 do 9. 1804,8-1805 MHz zalecenia ERC/REC 70-03 dla PN-ETSI EN 300 422 zakresu „j”"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "2010-2025 MHz zgodnie z decyzją 2016/339 brak normy Dotyczy urządzeń do transmisji ⁴⁾ wideo.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 16",
+   "body": [
+    {
+     "type": "text",
+     "text": "ŻYWANIA DLA URZĄDZEŃ STOSOWANYCH DO ŚLEDZENIA, LOKA WARUNKI UŻYWANIA DLA URZĄDZEŃ STOSOWANYCH DO ŚLEDZENIA, LOKALIZACJI I POZYSKIWANIA DANYCH"
+    },
+    {
+     "type": "text",
+     "text": "Poz. Zakres częstotliwości Warunki używania urządzeń Norma określająca Uwagi wymagania"
+    },
+    {
+     "type": "text",
+     "text": "patrz również: 1. 169,4-169,475 MHz zgodnie z decyzją PN-ETSI EN 300 220 załącznik 2 do zalecenia ECC/DEC/(05)02[^1_17] ERC/REC 70-03[^2_15] dla zakresu „b”"
+    },
+    {
+     "type": "text",
+     "text": "zgodnie z załącznikiem 2 do 2. 870-874,4 MHz zalecenia ERC/REC 70-03 dla PN-ETSI EN 303 204 zakresu „c2”"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 17",
+   "body": [
+    {
+     "type": "text",
+     "text": "RUNKI UŻYWANIA DLA URZĄDZEŃ TYPU AMR WARUNKI UŻYWANIA DLA URZĄDZEŃ TYPU AMRD"
+    },
+    {
+     "type": "text",
+     "text": "Poz. Częstotliwość Warunki używania urządzeń Norma określająca Uwagi środkowa wymagania"
+    },
+    {
+     "type": "text",
+     "text": "Dotyczy urządzeń MOB[^2_16] 1. 156,525 MHz zgodnie z decyzją PN-ETSI EN 300 338 klasy M stanowiących ECC/DEC/(22)02[^1_18] urządzenia AMRD grupy A[^3_13] (kanał 70, DSC[^4_9])."
+    },
+    {
+     "type": "text",
+     "text": "Dotyczy urządzeń MOB 2. 161,975 MHz zgodnie z decyzją PN-ETSI EN 303 098 klasy M stanowiących ECC/DEC/(22)02 urządzenia AMRD grupy A (AIS[^5_5] 1)."
+    },
+    {
+     "type": "text",
+     "text": "Dotyczy urządzeń MOB 3. 162,025 MHz zgodnie z decyzją PN-ETSI EN 303 098 klasy M stanowiących ECC/DEC/(22)02 urządzenia AMRD grupy A (AIS 2)."
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "160,900 MHz zgodnie z decyzją brak normy Dotyczy urządzeń AMRD ECC/DEC/(22)02 grupy B[^6_4] (kanał 2006).",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2720).",
+  "2": "Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 7 sierpnia 2026 r. pod numerem 2026/0421/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1).",
+  "3": "Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Cyfryzacji z dnia 9 lutego 2022 r. w sprawie urządzeń radiowych nadawczych lub nadawczo-odbiorczych, które mogą być używane bez pozwolenia radiowego (Dz. U. poz. 567 oraz z 2023 r. poz. 2567), które utraciło moc zgodnie z art. 104 pkt 15 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222 oraz z 2026 r. poz. 252).",
+  "1_2": "Decyzja wykonawcza Komisji (UE) 2025/105 z dnia 22 stycznia 2025 r. zmieniająca decyzję 2006/771/WE aktualizującą zharmonizowane warunki techniczne w dziedzinie wykorzystywania widma radiowego na potrzeby urządzeń bliskiego zasięgu oraz uchylająca decyzję wykonawczą 2014/641/UE w sprawie zharmonizowanych warunków technicznych wykorzystywania widma radiowego przez bezprzewodowe urządzenia do transmisji sygnałów akustycznych użytkowane do realizacji programów i imprez specjalnych w Unii Europejskiej (Dz. Urz. UE L 2025/105 z 23.01.2025).",
+  "2_2": "ERC/REC 70-03 of 6 October 1997 on relating to the use of Short Range Devices (SRD); latest amended on 5 June 2026 .",
+  "3_2": "Decyzja wykonawcza Komisji (UE) 2025/650 z dnia 26 marca 2025 r. zmieniająca decyzję wykonawczą (UE) 2018/1538 w odniesieniu do aktualizacji zharmonizowanych warunków technicznych na potrzeby urządzeń bliskiego zasięgu w zakresach częstotliwości 874-876 MHz i 915-921 MHz (Dz. Urz. UE L 2025/650 z 01.04.2025).",
+  "4": "Industrial, Scientific, Medical – urządzenie generujące i wykorzystujące energię fal radiowych, w szczególności do celów przemysłowych, naukowych, medycznych lub domowych, z wyłączeniem zastosowań do celów telekomunikacyjnych.",
+  "1_3": "ERC/REC 70-03 of 6 October 1997 on relating to the use of Short Range Devices (SRD); latest amended on 5 June 2026.",
+  "2_3": "Decyzja wykonawcza Komisji (UE) 2025/650 z dnia 26 marca 2025 r. zmieniająca decyzję wykonawczą (UE) 2018/1538 w odniesieniu do aktualizacji zharmonizowanych warunków technicznych na potrzeby urządzeń bliskiego zasięgu w zakresach częstotliwości 874-876 MHz i 915-921 MHz (Dz. Urz. UE L 2025/650 z 01.04.2025).",
+  "3_3": "Decyzja wykonawcza Komisji (UE) 2022/2307 z dnia 23 listopada 2022 r. zmieniająca decyzję wykonawczą (UE) 2022/179 w odniesieniu do wyznaczania i udostępniania zakresów częstotliwości 5150-5250 MHz, 5250-5350 MHz i 5470-5725 MHz zgodnie z warunkami technicznymi określonymi w załączniku (Dz. Urz. UE L 305 z 25.11.2022, str. 63).",
+  "4_2": "ECC/DEC/(04)08 of 9 July 2004 on the harmonised use of the 5 GHz frequency bands for Wireless Access Systems including Radio Local Area Networks (WAS/RLAN); latest amended on 1 July 2022.",
+  "5": "Decyzja wykonawcza Komisji (UE) 2025/913 z dnia 20 maja 2025 r. zmieniająca decyzję wykonawczą Komisji (UE) 2021/1067 w odniesieniu do aktualizacji warunków technicznych zharmonizowanego wykorzystania widma radiowego w paśmie częstotliwości 5945-6425 MHz celem wdrożenia systemów dostępu bezprzewodowego, w tym lokalnych sieci radiowych (WAS/RLANs) (Dz. Urz. UE L 2025/913 z 22.05.2025).",
+  "6": "ECC/DEC/(20)01 of 20 November 2020 on the harmonised use of the frequency band 5945-6425 MHz for Wireless Access Systems including Radio Local Area Networks (WAS/RLAN); amended 8 November 2024.",
+  "1_4": "Decyzja wykonawcza Komisji (UE) 2025/105 z dnia 22 stycznia 2025 r. zmieniająca decyzję 2006/771/WE aktualizującą zharmonizowane warunki techniczne w dziedzinie wykorzystywania widma radiowego na potrzeby urządzeń bliskiego zasięgu oraz uchylająca decyzję wykonawczą 2014/641/UE w sprawie zharmonizowanych warunków technicznych wykorzystywania widma radiowego przez bezprzewodowe urządzenia do transmisji sygnałów akustycznych użytkowane do realizacji programów i imprez specjalnych w Unii Europejskiej (Dz. Urz. UE L 2025/105 z 23.01.2025).",
+  "2_4": "ERC/REC 70-03 of 6 October 1997 on relating to the use of Short Range Devices (SRD); latest amended on 5 June 2026.",
+  "3_4": "Decyzja wykonawcza Komisji (UE) 2020/1426 z dnia 7 października 2020 r. w sprawie zharmonizowanego wykorzystania widma radiowego w zakresie częstotliwości 5875-5935 MHz na potrzeby związanych z bezpieczeństwem zastosowań inteligentnych systemów transportowych (ITS), uchylająca decyzję 2008/671/WE (Dz. Urz. UE L 328 z 09.10.2020, str. 19) i decyzja wykonawcza Komisji (UE) 2026/1800 z dnia 24 lipca 2026 r. zmieniająca decyzję wykonawczą (UE) 2020/1426 w odniesieniu do wprowadzenia szerszych kanałów częstotliwości w zharmonizowanym na poziomie Unii paśmie częstotliwości 5,9 GHz na potrzeby związanych z bezpieczeństwem zastosowań inteligentnych systemów transportu drogowego (Dz. Urz. UE L 2026/1800 z 28.07.2026).",
+  "4_3": "ECC/DEC/(08)01 of 14 March 2008 on the harmonised use of Safety-Related Intelligent Transport Systems (ITS) in the 5875-5935 MHz frequency band; latest amended on 7 March 2025.",
+  "1_5": "ERC/REC 70-03 of 6 October 1997 on relating to the use of Short Range Devices (SRD); latest amended on 5 June 2026.",
+  "2_5": "Decyzja wykonawcza Komisji (UE) 2025/105 z dnia 22 stycznia 2025 r. zmieniająca decyzję 2006/771/WE aktualizującą zharmonizowane warunki techniczne w dziedzinie wykorzystywania widma radiowego na potrzeby urządzeń bliskiego zasięgu oraz uchylająca decyzję wykonawczą 2014/641/UE w sprawie zharmonizowanych warunków technicznych wykorzystywania widma radiowego przez bezprzewodowe urządzenia do transmisji sygnałów akustycznych użytkowane do realizacji programów i imprez specjalnych w Unii Europejskiej (Dz. Urz. UE L 2025/105 z 23.01.2025).",
+  "3_5": "ECC/DEC/(06)08 of 1 December 2006 on the conditions for use of the radio spectrum by Ground- and Wall- Probing Radar (GPR/WPR) imaging systems; updated on 26 October 2018.",
+  "4_4": "ECC/DEC/(11)02 of 11 March 2011 on industrial Level Probing Radars (LPR) operating in frequency bands 6-8.5 GHz, 24.05-26.5 GHz, 57-64 GHz and 75-85 GHz; latest updated on 8 November 2024.",
+  "5_2": "ECC/DEC/(21)02 of 5 November 2021 on the harmonised frequency band 76-77 GHz, technical characteristics, exemption from individual licensing and free circulation and use of High Definition Ground Based Synthetic Aperture Radar (HD- GBSAR); updated 1 July 2022.",
+  "6_2": "Decyzja wykonawcza Komisji (UE) 2026/883 z dnia 21 kwietnia 2026 r. w sprawie harmonizacji widma radiowego na potrzeby zastosowań radiolokacyjnych w zakresie częstotliwości 116–260 GHz (Dz. Urz. UE L 2026/883 z 23.04.2026).",
+  "7": "ECC/DEC/(22)03 of 18 November 2022 on the harmonised frequency bands, technical characteristics, exemption from individual licensing and free circulation and use of specific radiodetermination applications in the frequency range 116-260 GHz; latest updated on 6 March 2026.",
+  "1_6": "Decyzja wykonawcza Komisji (UE) 2025/105 z dnia 22 stycznia 2025 r. zmieniająca decyzję 2006/771/WE aktualizującą zharmonizowane warunki techniczne w dziedzinie wykorzystywania widma radiowego na potrzeby urządzeń bliskiego zasięgu oraz uchylająca decyzję wykonawczą 2014/641/UE w sprawie zharmonizowanych warunków technicznych wykorzystywania widma radiowego przez bezprzewodowe urządzenia do transmisji sygnałów akustycznych użytkowane do realizacji programów i imprez specjalnych w Unii Europejskiej (Dz. Urz. UE L 2025/105 z 23.01.2025).",
+  "2_6": "ERC/REC 70-03 of 6 October 1997 on relating to the use of Short Range Devices (SRD); latest amended on 5 June 2026.",
+  "3_6": "ERC/DEC/(01)11 of 12 March 2001 on harmonised frequencies, technical characteristics and exemption from individual licensing of Short Range Devices used for Flying Model control operating in the frequency band 34.995-35.225 MHz; latest updated on 10 June 2022.",
+  "4_5": "ERC/DEC/(01)12 of 12 March 2001 on harmonised frequencies, technical characteristics and exemption from individual licensing of Short Range Devices used for Model control operating in the frequencies 40.665, 40.675, 40.685 and 40.695 MHz; latest updated on 10 June 2022.",
+  "5_3": "Industrial, Scientific, Medical – urządzenie generujące i wykorzystujące energię fal radiowych, w szczególności do celów przemysłowych, naukowych, medycznych lub domowych, z wyłączeniem zastosowań do celów telekomunikacyjnych.",
+  "1_7": "ERC/REC 70-03 of 6 October 1997 on relating to the use of Short Range Devices (SRD); latest amended on 5 June 2026.",
+  "2_7": "Decyzja wykonawcza Komisji (UE) 2025/105 z dnia 22 stycznia 2025 r. zmieniająca decyzję 2006/771/WE aktualizującą zharmonizowane warunki techniczne w dziedzinie wykorzystywania widma radiowego na potrzeby urządzeń bliskiego zasięgu oraz uchylająca decyzję wykonawczą 2014/641/UE w sprawie zharmonizowanych warunków technicznych wykorzystywania widma radiowego przez bezprzewodowe urządzenia do transmisji sygnałów akustycznych użytkowane do realizacji programów i imprez specjalnych w Unii Europejskiej (Dz. Urz. UE L 2025/105 z 23.01.2025).",
+  "3_7": "ECC/DEC/(05)02 of 18 March 2005 on a harmonised frequency plan for the use of the band 169.4-169.8125 MHz; latest amended on 8 March 2024.",
+  "4_6": "ECC Report 270 Sharing studies between Telecoil Replacement Systems (TRS) and Mobile Satellite Service (MSS) in the frequency range 1656.5-1660.5 MHz.",
+  "1_8": "Decyzja wykonawcza Komisji (UE) 2025/650 z dnia 26 marca 2025 r. zmieniająca decyzję wykonawczą (UE) 2018/1538 w odniesieniu do aktualizacji zharmonizowanych warunków technicznych na potrzeby urządzeń bliskiego zasięgu w zakresach częstotliwości 874-876 MHz i 915-921 MHz (Dz. Urz. UE L 2025/650 z 01.04.2025).",
+  "2_8": "ERC/REC 70-03 of 6 October 1997 on relating to the use of Short Range Devices (SRD); latest amended on 5 June 2026.",
+  "3_8": "Industrial, Scientific, Medical – urządzenie generujące i wykorzystujące energię fal radiowych, w szczególności do celów przemysłowych, naukowych, medycznych lub domowych, z wyłączeniem zastosowań do celów telekomunikacyjnych.",
+  "1_9": "Decyzja wykonawcza Komisji (UE) 2025/105 z dnia 22 stycznia 2025 r. zmieniająca decyzję 2006/771/WE aktualizującą zharmonizowane warunki techniczne w dziedzinie wykorzystywania widma radiowego na potrzeby urządzeń bliskiego zasięgu oraz uchylająca decyzję wykonawczą 2014/641/UE w sprawie zharmonizowanych warunków technicznych wykorzystywania widma radiowego przez bezprzewodowe urządzenia do transmisji sygnałów akustycznych użytkowane do realizacji programów i imprez specjalnych w Unii Europejskiej (Dz. Urz. UE L 2025/105 z 23.01.2025).",
+  "2_9": "ERC/REC 70-03 of 6 October 1997 on relating to the use of Short Range Devices (SRD); latest amended on 5 June 2026.",
+  "1_10": "ERC/REC 70-03 of 6 October 1997 on relating to the use of Short Range Devices (SRD); latest amended on 5 June 2026.",
+  "1_11": "Decyzja wykonawcza Komisji (UE) 2024/1467 z dnia 27 maja 2024 r. zmieniająca decyzję wykonawczą (UE) 2019/785 w sprawie harmonizacji widma radiowego na potrzeby urządzeń wykorzystujących technologię ultraszerokopasmową w Unii (Dz. Urz. UE L 2024/1467 z 31.05.2024).",
+  "2_10": "ECC/DEC/(06)04 of 24 March 2006 on the harmonised use, exemption from individual licensing and free circulation of devices using Ultra-Wideband (UWB) technology in bands below 10.6 GHz; latest amended on 18 November 2022.",
+  "3_9": "ECC/DEC/(07)01 of 30 March 2007 on the harmonised use, exemption from individual licensing and free circulation of Material Sensing Devices using Ultra-Wideband (UWB) technology; latest updated on 1 July 2022.",
+  "1_12": "Decyzja Komisji z dnia 17 stycznia 2005 r. w sprawie harmonizacji widma radiowego w paśmie 24 GHz dla celów tymczasowego użycia przez samochodowe urządzenia radarowe bliskiego zasięgu we Wspólnocie (Dz. Urz. UE L 21 z 25.01.2005, str. 15, z późn. zm.).",
+  "2_11": "ECC/DEC/(04)10 of 12 November 2004 on the frequency bands to be designated for the temporary introduction of Automotive Short Range Radars (SRR); latest amended on 4 March 2022.",
+  "3_10": "ERC/REC 70-03 of 6 October 1997 on relating to the use of Short Range Devices (SRD); latest amended on 5 June 2026.",
+  "1_13": "Satellite Personal Communication Systems − osobiste systemy komunikacji satelitarnej.",
+  "2_12": "ERC/DEC/(99)06 of 10 March 1999 on the harmonised introduction of satellite personal communication systems operating in the bands below 1 GHz (S-PCS<1GHz); latest updated 6 March 2026.",
+  "3_11": "ERC/DEC/(99)05 of 10 March 1999 on Free Circulation, Use and Exemption from Individual Licensing of Mobile Earth Stations (S-PCS < 1GHz).",
+  "4_7": "ECTRA/DEC/(99)02 of 3 March 1999 on harmonisation of authorisation conditions in the field of Satellite Personal Communications Services (S-PCS) in Europe, operating in the bands below 1 GHz (S-PCS<1 GHz).",
+  "5_4": "Low Power Devices communicating with Satellites − urządzenia małej mocy komunikujące się z satelitami.",
+  "6_3": "ECC/DEC/(25)02 of 27 June 2025 on low power devices communicating with satellites (LPD-S) within the frequency range 862-870 MHz.",
+  "7_2": "Mobile Earth Station − ruchoma ziemska stacja pracująca w służbie radiokomunikacyjnej ruchomej satelitarnej.",
+  "8": "ECC/DEC/(12)01 of 1 June 2012 on exemption from individual licensing and free circulation and use of satellite mobile terminals operating under the control of networks in the range 1 to 3 GHz; latest amended on 4 March 2022.",
+  "9": "ECC/DEC/(09)04 of 30 October 2009 on exemption from individual licensing and the free circulation and use of transmitonly mobile satellite terminals operating in the Mobile-Satellite Service allocations in the 1613.8 - 1626.5 MHz band.",
+  "10": "ECC/DEC/(04)09 of 12 November 2004 on the designation of the bands 1518-1525 MHz and 1670-1675 MHz for the Mobile-Satellite Service; amended on 26 June 2009. ¹¹) ECC/DEC/(06)09 of 1 December 2006 on the designation of the bands 1980-2010 MHz and 2170-2200 MHz for use by systems in the Mobile-Satellite Service including those supplemented by a Complementary Ground Component (CGC); amended 5 September 2007.",
+  "12": "Earth Stations on board Vessels C-band – stacje ziemskie umieszczone na pokładach statków w zakresie 4-8 GHz.",
+  "13": "ECC/DEC/(05)09 of 24 June 2005 on the free circulation and use of Earth Stations on board Vessels (ESV) operating in Fixed Satellite service networks in the frequency bands 5925-6425 MHz (Earth-to-space) and 3700-4200 MHz (space-to- Earth); latest amended on 8 March 2019.",
+  "14": "Earth Station in Motion on-Board Aircraft – ziemska stacja w ruchu na pokładach statków powietrznych.",
+  "15": "ECC/DEC/(19)04 of 6 March 2020 on the harmonised use of spectrum, free circulation and use of earth stations on-board aircraft operating with GSO FSS networks and NGSO FSS systems in the frequency bands 12.75-13.25 GHz (Earth-to-space) and 10.7-12.75 GHz (space-to-Earth); editorial update 28 May 2021.",
+  "16": "Aircraft Earth Station – ziemska stacja statku powietrznego.",
+  "17": "ECC/DEC/(05)11 of 24 June 2005 on the free circulation and use of Aircraft Earth Stations (AES) in the frequency bands 14-14.5 GHz (Earth-to-space), 10.7-11.7 GHz (space-to-Earth) and 12.5-12.75 GHz (space-to-Earth); latest updated on 8 November 2024.",
+  "18": "Earth Stations on board Vessels – stacje ziemskie umieszczone na pokładach statków.",
+  "19": "ECC/DEC/(05)10 of 24 June 2005 on the free circulation and use of Earth Stations on board Vessels (ESV) operating in fixed satellite service networks in the frequency bands 14-14.5 GHz (Earth-to-space), 10.7-11.7 GHz (space-to-Earth) and 12.5- 12.75 GHz (space-to-Earth); amended on 8 March 2019.",
+  "20": "Fixed Earth Station − stała ziemska stacja pracująca w służbie radiokomunikacyjnej stałej satelitarnej.",
+  "21": "Non-Geostationary-Satellite Orbit – orbita niegeostacjonarna.",
+  "22": "Fixed Satellite Service − służba radiokomunikacyjna stała satelitarna.",
+  "23": "ECC/DEC/(17)04 of 30 June 2017 on the harmonised use and exemption from individual licensing of fixed earth stations operating with NGSO FSS satellite systems in the frequency bands 10.70-12.75 GHz and 14.00-14.50 GHz; latest updated on 8 November 2024.",
+  "24": "Geostationary Satellite Orbit − orbita geostacjonarna.",
+  "25": "Earth Station in Motion – ziemska stacja w ruchu.",
+  "26": "ECC/DEC/(18)04 of 6 July 2018 on the harmonised use, exemption from individual licensing and free circulation and use of land based Earth Stations In-Motion (ESIM) operating with GSO FSS satellite systems in the frequency bands 10.7-12.75 GHz and 14.0-14.5 GHz; latest updated on 8 November 2024.",
+  "27": "High e.i.r.p. Satellite Terminal − terminal satelitarny o dużej zastępczej mocy promieniowanej izotropowo.",
+  "28": "ECC/DEC/(06)03 of 24 March 2006 on Exemption from Individual Licensing of high e.i.r.p. satellite terminals (HEST) operating with geostationary satellites and in the frequency bands 10.70-12.75 GHz or 19.70-20.20 GHz space-to-Earth and 14.00-14.25 GHz or 29.50-30.00 GHz Earth-to-space; latest amended on 18 November 2022.",
+  "29": "ECC/DEC/(18)05 of 6 July 2018 on the harmonised use, exemption from individual licensing and free circulation and use of Earth Stations In-Motion (ESIM) operating with NGSO FSS satellite systems in the frequency bands 10.7-12.75 GHz and 14.0-14.5 GHz; latest updated on 8 November 2024.",
+  "30": "Very Small Aperture Terminals – stacje abonenckie w służbie radiokomunikacyjnej stałej satelitarnej, wyposażone w anteny o małej aperturze.",
+  "31": "ECC/DEC/(03)04 of 17 October 2003 on the Exemption from Individual Licensing of Very Small Aperture Terminals (VSAT) operating in the frequency bands 14.25-14.50 GHz Earth-to-space and 10.70-11.70 GHz space-to-Earth; amended on 8 March 2019.",
+  "32": "Earth Stations on Mobile Platforms – ziemskie stacje satelitarne na platformach ruchomych.",
+  "33": "ECC/DEC/(13)01 of 8 March 2013 on the use, free circulation, and exemption from individual licensing of Earth stations on mobile platforms (ESOMPs) in the frequency bands available for use by uncoordinated FSS Earth stations within the ranges 17.3-20.2 GHz and 27.5-30.0 GHz; latest amended on 2 July 2021.",
+  "34": "ECC/DEC/(15)04 of 3 July 2015 on the harmonised use, free circulation and exemption from individual licensing of Land, Maritime and Aeronautical Earth Stations On Mobile Platforms (ESOMPs) operating with NGSO FSS satellite systems in the frequency ranges 17.3-20.2 GHz, 27.5-29.1 GHz and 29.5-30.0 GHz; latest amended on 20 November 2020.",
+  "35": "Uncoordinated Earth Stations of the Fixed-Satellite Service (Earth-to-space) – niekoordynowane stacje ziemskie służby radiokomunikacyjnej stałej satelitarnej (Ziemia–kosmos).",
+  "36": "ECC/DEC/(05)01 of 18 March 2005 on the use of the band 27.5-29.5 GHz by the Fixed Service and uncoordinated Earth stations of the Fixed-Satellite Service (Earth-to-space); latest amended on 8 March 2019.",
+  "37": "High Density Applications in the Fixed Satellite Service – urządzenia pracujące w służbie radiokomunikacyjnej stałej satelitarnej, gęsto rozmieszczone na danym obszarze.",
+  "38": "ECC/DEC/(05)08 of 24 June 2005 on the availability of frequency bands for high density applications in the Fixed-Satellite Service (space-to-Earth and Earth-to-space); latest amended on 18 November 2022.",
+  "39": "Fixed Satellite Service in Q/V Band – służba radiokomunikacyjna stała satelitarna w zakresie częstotliwości 37-52,4 GHz.",
+  "40": "ECC/DEC/(21)01 of 5 November 2021 on the use of the bands 47.2-50.2 GHz and 50.4-52.4 GHz by the fixed-satellite service (Earth-to-space); updated 4 March 2022.",
+  "1_14": "Decyzja wykonawcza Komisji (UE) 2024/340 z dnia 22 stycznia 2024 r. w sprawie zharmonizowanych warunków wykorzystania widma radiowego na potrzeby usług łączności ruchomej na pokładach statków w Unii, uchylająca decyzję 2010/166/UE (Dz. Urz. UE L 2024/340 z 24.01.2024).",
+  "2_13": "ECC/DEC/(08)08 of 31 October 2008 on the harmonised use of GSM systems in the 900 MHz and 1800 MHz bands, UMTS systems in the 2 GHz band and LTE and 5G NR non-AAS systems in the 1800 MHz and 2.6 GHz (FDD) bands on board vessels; latest updated on 4 March 2022.",
+  "1_15": "Decyzja wykonawcza Komisji (UE) 2022/2324 z dnia 23 listopada 2022 r. zmieniająca decyzję 2008/294/WE w celu uwzględnienia dodatkowych technologii dostępu i środków na potrzeby wykonywania usług łączności ruchomej na pokładach statków powietrznych (usługi MCA) w Unii (Dz. Urz. UE L 307 z 28.11.2022, str. 262).",
+  "1_16": "ERC/REC 70-03 of 6 October 1997 on relating to the use of Short Range Devices (SRD); latest amended on 5 June 2026.",
+  "2_14": "Industrial, Scientific, Medical – urządzenie generujące i wykorzystujące energię fal radiowych, w szczególności do celów przemysłowych, naukowych, medycznych lub domowych, z wyłączeniem zastosowań do celów telekomunikacyjnych.",
+  "3_12": "Decyzja wykonawcza Komisji (UE) 2025/105 z dnia 22 stycznia 2025 r. zmieniająca decyzję 2006/771/WE aktualizującą zharmonizowane warunki techniczne w dziedzinie wykorzystywania widma radiowego na potrzeby urządzeń bliskiego zasięgu oraz uchylająca decyzję wykonawczą 2014/641/UE w sprawie zharmonizowanych warunków technicznych wykorzystywania widma radiowego przez bezprzewodowe urządzenia do transmisji sygnałów akustycznych użytkowane do realizacji programów i imprez specjalnych w Unii Europejskiej (Dz. Urz. UE L 2025/105 z 23.01.2025) .",
+  "4_8": "Decyzja wykonawcza Komisji (UE) 2016/339 z dnia 8 marca 2016 r. w sprawie harmonizacji zakresu częstotliwości 2010– 2025 MHz na potrzeby przenośnych lub ruchomych bezprzewodowych łączy wizyjnych i bezprzewodowych kamer używanych do realizacji programów i imprez specjalnych (Dz. Urz. UE L 63 z 10.03.2016, str. 5).",
+  "1_17": "ECC/DEC/(05)02 of 18 March 2005 on a harmonised frequency plan for the use of the band 169.4-169.8125 MHz; latest amended on 8 March 2024.",
+  "2_15": "ERC/REC 70-03 of 6 October 1997 on relating to the use of Short Range Devices (SRD); latest amended on 5 June 2026.",
+  "1_18": "ECC/DEC/(22)02 of 1 July 2022 Regulation to operate Autonomous Maritime Radio Devices (AMRD) in CEPT.",
+  "2_16": "Man Overboard − urządzenie AMRD przeznaczone do sygnalizowania sytuacji „człowiek za burtą”, wykorzystujące kanał 70 do cyfrowego wywołania selektywnego oraz częstotliwości AIS 1 i AIS 2 do przekazywania informacji o położeniu.",
+  "3_13": "AMRD grupy A − urządzenia AMRD zwiększające bezpieczeństwo żeglugi.",
+  "4_9": "Digital Selective Calling − cyfrowe wywołanie selektywne.",
+  "5_5": "Automatic Identification System − System Automatycznej Identyfikacji.",
+  "6_4": "AMRD grupy B − urządzenia AMRD niemające wpływu na bezpieczeństwo żeglugi − przekazujące sygnały lub informacje, które nie dotyczą nawigacji jednostki pływającej lub nie uzupełniają bezpieczeństwa ruchu statków."
+ }
+}
