@@ -163,7 +163,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o osłonach socjalnych dla pracowników sektora elektroenergetycznego i branży górnictwa węgla brunatnego | [Dz.U. 2026 poz. 89](DU/2026/DU-2026-89.md) | 2026-01-27 | – |
 | o paszach | [Dz.U. 2025 poz. 320](DU/2025/DU-2025-320.md) | 2025-03-13 | – |
 | o Państwowej Straży Pożarnej | [Dz.U. 2026 poz. 1473](DU/2026/DU-2026-1473.md) | 2026-11-09 | [Dz.U. 2025 poz. 1312](DU/2025/DU-2025-1312.md) |
-| o Państwowym Instytucie Medycznym Ministerstwa Spraw Wewnętrznych i Administracji | [Dz.U. 2025 poz. 447](DU/2025/DU-2025-447.md) | 2025-04-07 | – |
+| o Państwowym Instytucie Medycznym Ministerstwa Spraw Wewnętrznych i Administracji | [Dz.U. 2026 poz. 1511](DU/2026/DU-2026-1511.md) | 2026-11-17 | [Dz.U. 2025 poz. 447](DU/2025/DU-2025-447.md) |
 | o Państwowym Ratownictwie Medycznym | [Dz.U. 2026 poz. 141](DU/2026/DU-2026-141.md) | 2026-02-06 | [Dz.U. 2025 poz. 91](DU/2025/DU-2025-91.md) |
 | o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023-2027 | [Dz.U. 2026 poz. 1462](DU/2026/DU-2026-1462.md) | 2026-11-05 | – |
 | o planowaniu i zagospodarowaniu przestrzennym | [Dz.U. 2026 poz. 538](DU/2026/DU-2026-538.md) | 2026-04-20 | – |
@@ -423,7 +423,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
-## Rozporządzenia (522)
+## Rozporządzenia (524)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -673,6 +673,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty płatności rolno-środowiskowo-klimatycznych w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023-2027 | [Dz.U. 2026 poz. 1043](DU/2026/DU-2026-1043.md) | 2026-08-04 | [Dz.U. 2026 poz. 114](DU/2026/DU-2026-114.md) |
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy technicznej w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 | [Dz.U. 2026 poz. 1186](DU/2026/DU-2026-1186.md) | 2026-09-08 | – |
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania "Wsparcie na inwestycje zwiększające odporność ekosystemów leśnych i ich wartość dla środowiska" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020 | [Dz.U. 2025 poz. 763](DU/2025/DU-2025-763.md) | 2025-06-10 | – |
+| Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania "Wsparcie na rzecz kosztów bieżących i aktywizacji" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020 | [Dz.U. 2026 poz. 1507](DU/2026/DU-2026-1507.md) | 2026-11-17 | – |
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania "Wsparcie na wdrażanie operacji w ramach strategii rozwoju lokalnego kierowanego przez społeczność" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020 | [Dz.U. 2026 poz. 782](DU/2026/DU-2026-782.md) | 2026-06-15 | [Dz.U. 2025 poz. 16](DU/2025/DU-2025-16.md) |
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej w ramach działania "Tworzenie grup producentów i organizacji producentów" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020 | [Dz.U. 2026 poz. 1322](DU/2026/DU-2026-1322.md) | 2026-10-13 | – |
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej w ramach poddziałania "Płatności na rzecz rolników kwalifikujących się do systemu dla małych gospodarstw, którzy trwale przekazali swoje gospodarstwo innemu rolnikowi" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020 | [Dz.U. 2025 poz. 1215](DU/2025/DU-2025-1215.md) | 2025-09-03 | – |
@@ -804,6 +805,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Sprawiedliwości w sprawie wysokości opłaty za udział w egzaminie adwokackim | [Dz.U. 2025 poz. 1707](DU/2025/DU-2025-1707.md) | 2025-12-05 | – |
 | Ministra Sprawiedliwości w sprawie wysokości opłaty za udział w egzaminie komorniczym | [Dz.U. 2026 poz. 10](DU/2026/DU-2026-10.md) | 2026-01-07 | – |
 | Ministra Sprawiedliwości w sprawie wysokości opłaty za udział w egzaminie radcowskim | [Dz.U. 2025 poz. 1706](DU/2025/DU-2025-1706.md) | 2025-12-05 | – |
+| Ministra Sprawiedliwości w sprawie zakładania i prowadzenia ksiąg wieczystych w systemie teleinformatycznym | [Dz.U. 2026 poz. 1512](DU/2026/DU-2026-1512.md) | 2026-11-17 | – |
 | Ministra Sprawiedliwości – Regulamin wewnętrznego urzędowania powszechnych jednostek organizacyjnych prokuratury | [Dz.U. 2025 poz. 753](DU/2025/DU-2025-753.md) | 2025-06-09 | – |
 | Ministra Transportu i Budownictwa w sprawie szczegółowych wymagań w stosunku do stacji przeprowadzających badania techniczne pojazdów | [Dz.U. 2026 poz. 494](DU/2026/DU-2026-494.md) | 2026-04-09 | – |
 | Ministra Transportu w sprawie warunków technicznych dozoru technicznego w zakresie projektowania, wytwarzania, eksploatacji, naprawy i modernizacji specjalistycznych urządzeń ciśnieniowych | [Dz.U. 2025 poz. 125](DU/2025/DU-2025-125.md) | 2025-01-30 | – |
