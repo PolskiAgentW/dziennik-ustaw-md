@@ -2,7 +2,7 @@
 
 Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odświeżane automatycznie). Nazwa aktu pochodzi z tytułu obwieszczenia. Tekst jednolity podaje stan prawny na dzień wskazany w obwieszczeniu; zmian ogłoszonych później w nim nie ma. Teksty nieoficjalne, wiążący jest PDF.
 
-## Ustawy (416)
+## Ustawy (417)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -125,6 +125,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o Narodowej Agencji Wymiany Akademickiej | [Dz.U. 2025 poz. 1643](DU/2025/DU-2025-1643.md) | 2025-11-27 | – |
 | o Narodowym Centrum Nauki | [Dz.U. 2026 poz. 101](DU/2026/DU-2026-101.md) | 2026-01-29 | – |
 | o Narodowym Instytucie Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego | [Dz.U. 2026 poz. 94](DU/2026/DU-2026-94.md) | 2026-01-28 | – |
+| o narodowym zasobie archiwalnym i archiwach | [Dz.U. 2026 poz. 1519](DU/2026/DU-2026-1519.md) | 2026-11-18 | – |
 | o nauczycielskich świadczeniach kompensacyjnych | [Dz.U. 2026 poz. 86](DU/2026/DU-2026-86.md) | 2026-01-27 | [Dz.U. 2025 poz. 174](DU/2025/DU-2025-174.md) |
 | o niektórych zawodach medycznych | [Dz.U. 2025 poz. 1730](DU/2025/DU-2025-1730.md) | 2025-12-08 | – |
 | o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej | [Dz.U. 2026 poz. 44](DU/2026/DU-2026-44.md) | 2026-01-15 | – |
