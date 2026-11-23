@@ -58,7 +58,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o ekonomii społecznej | [Dz.U. 2025 poz. 806](DU/2025/DU-2025-806.md) | 2025-06-23 | – |
 | o elektromobilności i paliwach alternatywnych | [Dz.U. 2026 poz. 1243](DU/2026/DU-2026-1243.md) | 2026-09-23 | – |
 | o elektronicznym fakturowaniu w zamówieniach publicznych, koncesjach na roboty budowlane lub usługi oraz partnerstwie publiczno-prywatnym | [Dz.U. 2026 poz. 276](DU/2026/DU-2026-276.md) | 2026-03-05 | – |
-| o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych | [Dz.U. 2025 poz. 1749](DU/2025/DU-2025-1749.md) | 2025-12-10 | – |
+| o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych | [Dz.U. 2026 poz. 1533](DU/2026/DU-2026-1533.md) | 2026-11-20 | [Dz.U. 2025 poz. 1749](DU/2025/DU-2025-1749.md) |
 | o europejskim zgrupowaniu interesów gospodarczych i spółce europejskiej | [Dz.U. 2026 poz. 583](DU/2026/DU-2026-583.md) | 2026-04-28 | – |
 | o ewidencji ludności | [Dz.U. 2026 poz. 384](DU/2026/DU-2026-384.md) | 2026-03-20 | [Dz.U. 2025 poz. 274](DU/2025/DU-2025-274.md) |
 | o finansach publicznych | [Dz.U. 2026 poz. 1447](DU/2026/DU-2026-1447.md) | 2026-11-03 | [Dz.U. 2025 poz. 1483](DU/2025/DU-2025-1483.md) |
@@ -424,7 +424,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
-## Rozporządzenia (524)
+## Rozporządzenia (528)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -448,6 +448,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Edukacji i Nauki w sprawie wykazu dziedzin zawodowych wraz z przyporządkowanymi do nich zawodami określonymi w klasyfikacji zawodów szkolnictwa branżowego | [Dz.U. 2026 poz. 1427](DU/2026/DU-2026-1427.md) | 2026-10-29 | – |
 | Ministra Edukacji Narodowej i Sportu w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy | [Dz.U. 2026 poz. 1483](DU/2026/DU-2026-1483.md) | 2026-11-10 | – |
 | Ministra Edukacji Narodowej w sprawie doradztwa zawodowego | [Dz.U. 2026 poz. 1506](DU/2026/DU-2026-1506.md) | 2026-11-16 | – |
+| Ministra Edukacji Narodowej w sprawie oddziałów i szkół sportowych oraz oddziałów i szkół mistrzostwa sportowego | [Dz.U. 2026 poz. 1534](DU/2026/DU-2026-1534.md) | 2026-11-20 | – |
 | Ministra Edukacji w sprawie akredytacji kształcenia ustawicznego w formach pozaszkolnych | [Dz.U. 2026 poz. 1499](DU/2026/DU-2026-1499.md) | 2026-11-16 | – |
 | Ministra Edukacji w sprawie organizacji kształcenia oraz warunków i form realizowania specjalnych działań opiekuńczo-wychowawczych w przedszkolach i szkołach specjalnych oraz w oddziałach specjalnych, zorganizowanych w podmiotach leczniczych i jednostkach pomocy społecznej | [Dz.U. 2026 poz. 1445](DU/2026/DU-2026-1445.md) | 2026-11-02 | – |
 | Ministra Energii w sprawie dotacji budżetowej przeznaczonej na finansowanie likwidacji kopalń, działań wykonywanych po zakończeniu likwidacji kopalń, naprawiania szkód wywołanych ruchem zakładu górniczego oraz zabezpieczenia kopalń sąsiednich przed zagrożeniem wodnym, gazowym oraz pożarowym | [Dz.U. 2025 poz. 1331](DU/2025/DU-2025-1331.md) | 2025-10-01 | – |
@@ -506,6 +507,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Finansów, Funduszy i Polityki Regionalnej w sprawie szczegółowego sposobu postępowania w zakresie wypłaty odszkodowań oraz udzielania dotacji celowych i pożyczek ze środków Funduszu Reprywatyzacji | [Dz.U. 2025 poz. 1450](DU/2025/DU-2025-1450.md) | 2025-10-22 | – |
 | Ministra Finansów, Funduszy i Polityki Regionalnej w sprawie szczegółowego zakresu informacji zawartych we wniosku o ponowne wszczęcie egzekucji administracyjnej | [Dz.U. 2025 poz. 639](DU/2025/DU-2025-639.md) | 2025-05-16 | – |
 | Ministra Finansów, Funduszy i Polityki Regionalnej w sprawie wykazu krajowych stanowisk i funkcji publicznych będących eksponowanymi stanowiskami politycznymi | [Dz.U. 2025 poz. 502](DU/2025/DU-2025-502.md) | 2025-04-17 | – |
+| Ministra Finansów, Funduszy i Polityki Regionalnej w sprawie wzorów deklaracji w sprawie podatku od wydobycia niektórych kopalin | [Dz.U. 2026 poz. 1538](DU/2026/DU-2026-1538.md) | 2026-11-20 | – |
 | Ministra Finansów, Funduszy i Polityki Regionalnej w sprawie zadań Krajowej Administracji Skarbowej, które mogą być wykonywane przez naczelników urzędów skarbowych na obszarze całego kraju lub jego części, niezależnie od terytorialnego zasięgu ich działania | [Dz.U. 2025 poz. 33](DU/2025/DU-2025-33.md) | 2025-01-10 | – |
 | Ministra Finansów, Inwestycji i Rozwoju w sprawie wykazu nieruchomości przekazywanego Krajowemu Zasobowi Nieruchomości | [Dz.U. 2025 poz. 480](DU/2025/DU-2025-480.md) | 2025-04-14 | – |
 | Ministra Funduszy i Polityki Regionalnej w sprawie nadania statutu Krajowemu Zasobowi Nieruchomości | [Dz.U. 2026 poz. 824](DU/2026/DU-2026-824.md) | 2026-06-23 | – |
@@ -678,6 +680,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania "Wsparcie na wdrażanie operacji w ramach strategii rozwoju lokalnego kierowanego przez społeczność" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020 | [Dz.U. 2026 poz. 782](DU/2026/DU-2026-782.md) | 2026-06-15 | [Dz.U. 2025 poz. 16](DU/2025/DU-2025-16.md) |
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej w ramach działania "Tworzenie grup producentów i organizacji producentów" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020 | [Dz.U. 2026 poz. 1322](DU/2026/DU-2026-1322.md) | 2026-10-13 | – |
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej w ramach poddziałania "Płatności na rzecz rolników kwalifikujących się do systemu dla małych gospodarstw, którzy trwale przekazali swoje gospodarstwo innemu rolnikowi" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020 | [Dz.U. 2025 poz. 1215](DU/2025/DU-2025-1215.md) | 2025-09-03 | – |
+| Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych warunków technicznych dla toru wyścigowego | [Dz.U. 2026 poz. 1535](DU/2026/DU-2026-1535.md) | 2026-11-20 | – |
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych warunków uznawania gruntów za kwalifikujące się hektary | [Dz.U. 2025 poz. 757](DU/2025/DU-2025-757.md) | 2025-06-10 | – |
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie uznawania miejsc produkcji za wolne od bakterii Clavibacter sepedonicus | [Dz.U. 2025 poz. 1784](DU/2025/DU-2025-1784.md) | 2025-12-15 | – |
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą pracownikom jednostek doradztwa rolniczego | [Dz.U. 2026 poz. 696](DU/2026/DU-2026-696.md) | 2026-05-28 | – |
@@ -952,3 +955,4 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Rady Ministrów w sprawie zakresu informacji przedstawianych przez podmiot ubiegający się o pomoc de minimis | [Dz.U. 2026 poz. 449](DU/2026/DU-2026-449.md) | 2026-04-02 | – |
 | Rady Ministrów w sprawie zatrudniania pracowników w kontyngentach policyjnych oraz ich wynagradzania | [Dz.U. 2026 poz. 1112](DU/2026/DU-2026-1112.md) | 2026-08-21 | – |
 | Rady Ministrów w sprawie środków publicznych niezaliczanych do środków, o których mowa w art. 5 ust. 3 pkt 5c i 6 ustawy o finansach publicznych | [Dz.U. 2025 poz. 1184](DU/2025/DU-2025-1184.md) | 2025-08-27 | – |
+| Rady Ministrów w sprawie śródlądowych dróg wodnych | [Dz.U. 2026 poz. 1531](DU/2026/DU-2026-1531.md) | 2026-11-20 | – |
