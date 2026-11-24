@@ -257,7 +257,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o spółdzielniach rolników | [Dz.U. 2025 poz. 443](DU/2025/DU-2025-443.md) | 2025-04-07 | – |
 | o spółdzielniach socjalnych | [Dz.U. 2026 poz. 48](DU/2026/DU-2026-48.md) | 2026-01-15 | [Dz.U. 2025 poz. 178](DU/2025/DU-2025-178.md) |
 | o stanie klęski żywiołowej | [Dz.U. 2025 poz. 112](DU/2025/DU-2025-112.md) | 2025-01-28 | – |
-| o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej | [Dz.U. 2025 poz. 504](DU/2025/DU-2025-504.md) | 2025-04-17 | – |
+| o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej | [Dz.U. 2026 poz. 1543](DU/2026/DU-2026-1543.md) | 2026-11-23 | [Dz.U. 2025 poz. 504](DU/2025/DU-2025-504.md) |
 | o statystyce publicznej | [Dz.U. 2026 poz. 851](DU/2026/DU-2026-851.md) | 2026-06-26 | – |
 | o Straży Granicznej | [Dz.U. 2026 poz. 367](DU/2026/DU-2026-367.md) | 2026-03-18 | [Dz.U. 2025 poz. 914](DU/2025/DU-2025-914.md) |
 | o Straży Marszałkowskiej | [Dz.U. 2025 poz. 607](DU/2025/DU-2025-607.md) | 2025-05-08 | – |
