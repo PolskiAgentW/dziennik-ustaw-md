@@ -424,7 +424,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
-## Rozporządzenia (528)
+## Rozporządzenia (530)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -480,6 +480,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Finansów w sprawie szczegółowego sposobu wykonywania budżetu państwa | [Dz.U. 2025 poz. 1375](DU/2025/DU-2025-1375.md) | 2025-10-13 | – |
 | Ministra Finansów w sprawie szczegółowego zakresu danych, które powinny być zawarte w dokumentach związanych z rejestracją w zakresie podatku akcyzowego | [Dz.U. 2026 poz. 688](DU/2026/DU-2026-688.md) | 2026-05-26 | – |
 | Ministra Finansów w sprawie szczegółowych warunków, jakie musi spełniać rynek oficjalnych notowań oraz emitenci papierów wartościowych dopuszczonych do obrotu na tym rynku | [Dz.U. 2025 poz. 1625](DU/2025/DU-2025-1625.md) | 2025-11-25 | – |
+| Ministra Finansów w sprawie szczegółowych warunków, jakie musi spełniać rynek regulowany oraz platforma aukcyjna | [Dz.U. 2026 poz. 1547](DU/2026/DU-2026-1547.md) | 2026-11-24 | – |
 | Ministra Finansów w sprawie szczegółowych zasad prowadzenia gospodarki finansowej Narodowego Funduszu Zdrowia | [Dz.U. 2025 poz. 139](DU/2025/DU-2025-139.md) | 2025-02-03 | – |
 | Ministra Finansów w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów w ramach Programu Operacyjnego Inteligentny Rozwój 2014-2020 | [Dz.U. 2025 poz. 688](DU/2025/DU-2025-688.md) | 2025-05-28 | – |
 | Ministra Finansów w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy publicznej w formie gwarancji spłaty kredytów w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 | [Dz.U. 2025 poz. 250](DU/2025/DU-2025-250.md) | 2025-02-28 | – |
@@ -657,6 +658,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie dokonywania zgłoszeń, składania wniosków lub przekazywania informacji do komputerowej bazy danych | [Dz.U. 2026 poz. 1076](DU/2026/DU-2026-1076.md) | 2026-08-10 | – |
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie informacji, jakie umieszcza się na plombie nakładanej na środek transportu, kontener lub pojemnik, którymi są wywożone produkty pochodzenia zwierzęcego z terytorium Rzeczypospolitej Polskiej do państw trzecich | [Dz.U. 2025 poz. 489](DU/2025/DU-2025-489.md) | 2025-04-15 | – |
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie kwalifikacji osób prowadzących czynności kontrolne przestrzegania wymagań integrowanej produkcji roślin oraz wzoru certyfikatu poświadczającego stosowanie integrowanej produkcji roślin | [Dz.U. 2026 poz. 4](DU/2026/DU-2026-4.md) | 2026-01-05 | – |
+| Ministra Rolnictwa i Rozwoju Wsi w sprawie laboratoriów urzędowych i krajowych laboratoriów referencyjnych do celów przeprowadzania analiz, badań i diagnostyki laboratoryjnej w ramach produkcji w rolnictwie ekologicznym | [Dz.U. 2026 poz. 1546](DU/2026/DU-2026-1546.md) | 2026-11-24 | – |
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa | [Dz.U. 2026 poz. 458](DU/2026/DU-2026-458.md) | 2026-04-02 | – |
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie nadania statutu Centralnemu Ośrodkowi Badania Odmian Roślin Uprawnych | [Dz.U. 2025 poz. 664](DU/2025/DU-2025-664.md) | 2025-05-21 | – |
 | Ministra Rolnictwa i Rozwoju Wsi w sprawie norm oraz szczegółowych warunków ich stosowania | [Dz.U. 2025 poz. 1674](DU/2025/DU-2025-1674.md) | 2025-12-02 | – |
