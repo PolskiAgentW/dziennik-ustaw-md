@@ -206,7 +206,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | o produktach pochodzenia zwierzęcego | [Dz.U. 2026 poz. 981](DU/2026/DU-2026-981.md) | 2026-07-22 | – |
 | o promocji zatrudnienia i instytucjach rynku pracy | [Dz.U. 2025 poz. 214](DU/2025/DU-2025-214.md) | 2025-02-20 | – |
 | o promowaniu energii elektrycznej z wysokosprawnej kogeneracji | [Dz.U. 2025 poz. 602](DU/2025/DU-2025-602.md) | 2025-05-07 | – |
-| o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych | [Dz.U. 2025 poz. 498](DU/2025/DU-2025-498.md) | 2025-04-16 | – |
+| o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych | [Dz.U. 2026 poz. 1557](DU/2026/DU-2026-1557.md) | 2026-11-25 | [Dz.U. 2025 poz. 498](DU/2025/DU-2025-498.md) |
 | o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu | [Dz.U. 2025 poz. 644](DU/2025/DU-2025-644.md) | 2025-05-16 | – |
 | o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich | [Dz.U. 2026 poz. 110](DU/2026/DU-2026-110.md) | 2026-01-30 | – |
 | o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów | [Dz.U. 2025 poz. 6](DU/2025/DU-2025-6.md) | 2025-01-03 | – |
@@ -424,7 +424,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | – Prawo zamówień publicznych | [Dz.U. 2026 poz. 793](DU/2026/DU-2026-793.md) | 2026-06-16 | – |
 | – Prawo łowieckie | [Dz.U. 2025 poz. 539](DU/2025/DU-2025-539.md) | 2025-04-24 | – |
 
-## Rozporządzenia (530)
+## Rozporządzenia (531)
 
 | Akt | Najnowszy | Ogłoszony | Wcześniejsze od 2025 r. |
 |---|---|---|---|
@@ -448,6 +448,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Ministra Edukacji i Nauki w sprawie wykazu dziedzin zawodowych wraz z przyporządkowanymi do nich zawodami określonymi w klasyfikacji zawodów szkolnictwa branżowego | [Dz.U. 2026 poz. 1427](DU/2026/DU-2026-1427.md) | 2026-10-29 | – |
 | Ministra Edukacji Narodowej i Sportu w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy | [Dz.U. 2026 poz. 1483](DU/2026/DU-2026-1483.md) | 2026-11-10 | – |
 | Ministra Edukacji Narodowej w sprawie doradztwa zawodowego | [Dz.U. 2026 poz. 1506](DU/2026/DU-2026-1506.md) | 2026-11-16 | – |
+| Ministra Edukacji Narodowej w sprawie indywidualnego obowiązkowego rocznego przygotowania przedszkolnego dzieci i indywidualnego nauczania dzieci i młodzieży | [Dz.U. 2026 poz. 1558](DU/2026/DU-2026-1558.md) | 2026-11-25 | – |
 | Ministra Edukacji Narodowej w sprawie oddziałów i szkół sportowych oraz oddziałów i szkół mistrzostwa sportowego | [Dz.U. 2026 poz. 1534](DU/2026/DU-2026-1534.md) | 2026-11-20 | – |
 | Ministra Edukacji w sprawie akredytacji kształcenia ustawicznego w formach pozaszkolnych | [Dz.U. 2026 poz. 1499](DU/2026/DU-2026-1499.md) | 2026-11-16 | – |
 | Ministra Edukacji w sprawie organizacji kształcenia oraz warunków i form realizowania specjalnych działań opiekuńczo-wychowawczych w przedszkolach i szkołach specjalnych oraz w oddziałach specjalnych, zorganizowanych w podmiotach leczniczych i jednostkach pomocy społecznej | [Dz.U. 2026 poz. 1445](DU/2026/DU-2026-1445.md) | 2026-11-02 | – |
